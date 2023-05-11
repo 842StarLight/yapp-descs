@@ -1,0 +1,66 @@
+<h2>Senior Systems Engineer - Adtech</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div>Imagine Communications delivers innovative, end-to-end media software and networking solutions to over 3,000 customers in more than 185 countries, including top broadcast facilities and multiplatform media companies. Today, we’re driving an industry transformation by investing deeply in a new generation of media.</div>
+<div></div>
+<br>
+<div>
+At Imagine Communications, groundbreaking work is part of our everyday environment. All our employees play a vital role in our organization, helping the media industry enable instant access to moments that matter. Wherever your skills fit in our business — from engineering and sales to service and support — you’ll find you gain much more than just a job. At Imagine Communications, you’ll gain the opportunity to contribute to the transformation that’s taking place in the way the world is consuming media.</div>
+<div></div>
+<br>
+<div>
+As a Senior Systems Engineer on the Adtech Professional Service Team, you will work with Imagine’s clients in defining, supporting and deploying tactical and strategic solutions to Imagine’s platforms.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Key Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Understand, document and troubleshoot the environments within which our products exist and perform</li>
+<li>
+Provide senior level technical leadership in support of Imagine’s systems and platforms (both internal and customer facing)</li>
+<li>
+Direct reporting on open issues and future engagements to both Imagine and customer senior leadership</li>
+<li>
+Perform hands on and/or lead troubleshooting of systems and networks both internally and at customer locations</li>
+<li>
+Work closely with internal and customer development, support, infrastructure, and managed services teams to drive resolution of issues and solutions</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Key Requirements
+</b></h2>
+<div><div><div>
+<ul>
+<li>10+ years in technical roles – demonstrating progressively more senior and leadership responsibilities</li>
+<li>
+Must be comfortable working in and with a multitude of systems and networking technologies</li>
+<li>
+Understand how workflows, process, general networking and third party applications can impact applications.
+</li>
+<li>Strong background with application management, general networking and troubleshooting – Java, .Net, etc.</li>
+<li>
+Admin level understanding of Windows Server and Linux Operating Systems and environments</li>
+<li>
+Proficient with SQL Databases – Oracle and MS SQL a bonus</li>
+<li>
+Exceptional knowledge of all levels of infrastructure – switches, routers, storage, compute – both in physical and virtual environments</li>
+<li>
+Experienced working in one or more CSPs (Cloud Service Providers – e.g. AWS, Azure)</li>
+<li>
+Strong knowledge of monitoring, alerting, shared service architecture, and how these enable support and operations organizations</li>
+<li>
+Capable security practioner</li>
+<li>
+Must be adept at moving tactically while always thinking strategically – in challenging and fluid environments</li>
+<li>
+Excellent communicator – must be capable of communicating tech and tasks to all levels of the Imagine and its customers (from sysad to C suite)</li>
+</ul>
+<div></div>
+<br>
+<div>
+Imagine Communications offers an engaging team-oriented culture and a competitive compensation/benefits package.</div>
+<p>
+Equal Opportunity Employer: M/F/D/V</p>
+</div></div></div>
+</div></div>

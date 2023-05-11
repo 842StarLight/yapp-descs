@@ -1,0 +1,171 @@
+<h2>Software Developer (Salesforce)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Software Developer (Salesforce)-EP 00051</p>
+<div>
+Description<div>
+</div>
+<div>
+As we continue to expand our Technology &amp; Innovation center in El Paso, Texas, we are excited to announce the Prudential El Paso office is building out a Salesforce certified team and seeking candidates to fill the role of Software Developer (Salesforce) within their Technology &amp; Innovation team, supporting Prudential and our Future of Work initiative.</div>
+<div></div>
+<br>
+<div>
+The El Paso Technology team supports various internal Business Units and Corporate Centers through numerous engagements, strategic initiatives, as well as emerging technology collaborations enterprise wide, allowing for growth in experience and career diversity. As part of our Future of Work initiative, El Paso will support a key role in building a Salesforce competent and certified workforce, in partnership with our Individual Solutions Group business, with talent ready for the future by providing them with the new tools, training and investment needed to enhance their skills and increase efficiencies and productivity in each of the businesses and functions we support.</div>
+<div></div>
+<br>
+<div>
+A Focus on Talent (Great People. Great Results)</div>
+<div></div>
+<br>
+<div>
+Interested in advancing your Technology career with Prudential in El Paso?</div>
+<div></div>
+<br>
+<div>
+Prudential has joined forces with Salesforce, the global leader in CRM (Customer Relationship Management), to increase the number of Military Veterans and Spouses in cloud computing careers and expand our Salesforce team in El Paso, Texas.</div>
+<div></div>
+<br>
+<div>
+If you are a veteran, military spouse or transitioning active military, training and certifications are supported for both military and non-military affiliated community candidates via our partnership with Salesforce, Trailhead, Vetforce, and Prudential’s Future of Work initiatives.</div>
+<div></div>
+<br>
+<div>
+What you will learn as you develop your career as a Software Developer with Prudential, while utilizing your Salesforce certifications... just the beginning!</div>
+<ul>
+<li>
+User and Data Maintenance</li>
+<li>
+Maintain user accounts, roles and profiles in the Salesforce.com application.</li>
+<li>
+Daily/Weekly/Monthly updates of data in Salesforce</li>
+<li>
+Formatting and scrubbing raw data and uploading into Salesforce</li>
+<li>
+Maintain clean and up-to-date data in the Salesforce application</li>
+<li>
+Assist in the development of standardized business practices for data entry and standardization</li>
+<li>
+Maintain clean and up-to-date data exports for Finance billing, invoicing and compensation departments</li>
+</ul>
+<div>
+ Application Development, Testing, and Modification</div>
+<ul>
+<li>
+Develop, test and deploy custom applications, create and update workflow rules as needed</li>
+<li>
+Gather requirements and work with the various stakeholders and business partners to create meaningful Salesforce reports and dashboards</li>
+<li>
+Customize Salesforce fields, page layouts, record types, profiles, and roles</li>
+<li>
+Support trailblazing the transformation of our technology landscape from older, custom built applications to newer, packaged, cutting edge software</li>
+<li>
+Work with designers and state-of-the-art technologies as you implement capabilities to solve complex business problems</li>
+<li>
+Build powerful applications fast with Lightning Components, smarter with Einstein, and together with Salesforce DX competencies</li>
+</ul>
+<div>
+A Day in the Life (One Career Path Example)</div>
+<ul>
+<li>
+As a Prudential Software Developer (Salesforce), you are an IT analyst, business consultant, code enthusiast and system administrator</li>
+<li>
+Support design &amp; development efforts for specific/various Salesforce platforms</li>
+<li>
+Partner with key business stakeholders such as sales, marketing, service, product and sourcing partners to support day to day activities and enable implementation of Salesforce capabilities. Engage with the business users to understand business needs and document requirements</li>
+<li>
+Plan, organize &amp; support various development activities leveraging industry standard &amp; best practices, to deliver CRM solutions aligned with customer expectations, on time, within budget and with anticipated business value</li>
+<li>
+Support development teams and unit testing prior to delivering the final product to the Quality Assurance Team. Assist in production support; Administer setup, customization and configuration including but not limited to the following: standard and custom objects, data management, reports and dashboards, workflows and alerts, SalesForce1 and user and security settings</li>
+<li>
+Ensure developed solution documentation remains compliant with all applicable Prudential standards</li>
+<li>
+Coordinate production release calendars, working towards an Agile delivery methodology</li>
+<li>
+Research Salesforce integrated applications and tools in response to business needs</li>
+</ul>
+<div>
+<br>
+<br>
+</div>
+</div>
+<div>Qualifications<div>
+</div>
+<div>Core Business Skills (foundational skills required for success in this role and career path)</div>
+<ul>
+<li>
+Communication</li>
+<li>
+Organization</li>
+<li>
+Problem-Solving/Troubleshooting</li>
+<li>
+Project Management</li>
+<li>
+Attention to Detail</li>
+</ul>
+<div>Specialized Skills (additional technical skills to add to success in this role and career path)</div>
+<ul>
+<li>
+Salesforce (training and certification will be supported)</li>
+<li>
+Apex</li>
+<li>
+VisualForce</li>
+<li>
+Lightning</li>
+<li>
+Java</li>
+<li>
+JavaScript / JQuery / AngularJS / Bootstrap</li>
+<li>
+Spring</li>
+<li>
+SQL / SOQL</li>
+<li>
+Web services / API</li>
+<li>
+AWS is a Plus</li>
+<li>
+CICD, Jenkins is a plus</li>
+</ul>
+<div>What we are looking for:</div>
+<ul>
+<li>
+Strong desire to interact with customers, support teams and management on high-profile initiatives critical to the long-term success of the company</li>
+<li>
+Curiosity, passion, integrity and outstanding attention to detail in professional and personal pursuits</li>
+<li>
+Ability to quickly learn new technologies and work effectively in a fast-paced, dynamic environment</li>
+<li>
+Experience with open-source technologies and cloud platforms is a plus</li>
+<li>
+Unparalleled troubleshooting and problem-solving skills; desire to figure out why and fix it</li>
+<li>
+Excellent written and verbal communication skills, documentation skills, mentoring ability and comfort interacting with all levels of team/management</li>
+</ul>
+<br>
+<div></div>
+<div>If you are ready to blaze new trails in a career path with Prudential, while learning, growing and expanding your knowledge of Salesforce, with outstanding skills, fresh insights and a desire to make a difference for yourself and for others, apply today.</div>
+<br>
+<div></div>
+<div>If you are up for the challenge, come experience how good a career with Prudential can be!</div>
+<br>
+</div>
+<div></div>
+<div>Prudential is a multinational financial services leader with operations in the United States, Asia, Europe, and Latin America. Leveraging its heritage of life insurance and asset management expertise, Prudential is focused on helping individual and institutional customers grow and protect their wealth. The company's well-known Rock symbol is an icon of strength, stability, expertise and innovation that has stood the test of time. Prudential's businesses offer a variety of products and services, including life insurance, annuities, retirement-related services, mutual funds, asset management, and real estate services.<br>
+<br>
+We recognize that our strength and success are directly linked to the quality and skills of our diverse associates. We are proud to be a place where talented people who want to make a difference can grow as professionals, leaders, and as individuals. Visit www.prudential.com to learn more about our values, our history and our brand.<br>
+<br>
+Prudential is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, genetics, disability, age, veteran status, or any other characteristic protected by law.<br>
+<br>
+Note that this posting is intended for individual applicants. Search firms or agencies should email Staffing at staffingagencies@prudential.com for more information about doing business with Prudential.</div>
+<div>
+<div>
+</div>
+Job Function Software/System Development</div>
+<div>
+Primary Location United States-Texas-El Paso</div>
+<div>
+Schedule Full-time</div>
+<div>
+Travel No</div>
+</div></div>

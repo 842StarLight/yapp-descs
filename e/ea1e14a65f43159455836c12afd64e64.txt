@@ -1,0 +1,57 @@
+<h2>DevOps Metrics Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Our Customers Develop Software at the Speed of Ideas
+<br><br>
+CloudBees is the hub of enterprise Jenkins and DevOps, providing companies with smarter solutions for comprehensively managing software delivery as a differentiating and core part of the business.
+<br><br>
+CloudBees is a globally distributed company with more than 500 employees in over 15 countries working together to invent a new category of software - one that automates the delivery of software. As every company in the world is becoming a software company, and as software delivery practices evolve from slow, infrequent releases toward continuous delivery supported by CI/CD, DevOps practices, and the cloud, this new software category will become the most mission critical new business system in the modern enterprise. CloudBees is enabling organizations to successfully adopt a whole product approach to creating value through software.
+<br><br>
+CloudBees was founded in 2010 by FOSS veterans from JBoss and RedHat and became the home of Enterprise Jenkins when they joined forces with Kohsuke Kawaguchi, CloudBees' CTO today and the inventor of Jenkins. Jenkins is the world's most widely deployed, flexible and capable CI/CD software platform, with 200,000 known installations and a vibrant ecosystem of over 1,500 plugins and an estimated 20 million developers using Jenkins.
+<br><br>
+What You'll Do
+<br><br>
+A CloudBees Specialist is a professional technical communicator &amp; domain expert with a deep understanding of CD, DevOps, Software Development, Enterprise Transformation, Application Rationalization, Cloud, Containers and more. They have a demonstrated recognition of domain expertise in external sources such as publications, speaking engagements, or social media channels. CloudBees Specialists report to the Senior Director of Sales Specialists and will be part of the global sales organization.
+<br><br>
+As a Specialist, you work directly with field to identify and strategize on active accounts to increase the credibility of CloudBees in enterprise engagements. You will evangelize DevOps Strategies via social media and speaking channels. Job includes accompanying sales on calls with prospects, leading with subject matter expertise, leveling up the conversation. Specialists are expected to keep external presence authoring articles, blogging, and driving thought leadership in your field of expertise. You must have a personality that can sell software and be willing to fight for what you believe. You will be tasked with meeting companies where they are, understand their DevOps transformation goals and challenges and providing technical and strategic guidance.
+<br><br>
+What the Role Requires
+<br><br>
+We are looking for a highly motivated and technically sound DevOps enthusiast with the experience to drive highly technical and strategic discussions. Hands-on experience developing architecting and releasing enterprise software. Sales skills will be equally important as you will need to understand, articulate and have an authentic passion for how CloudBees Products and services help drive significant DevOps transformations for enterprises. You will need to have a deep knowledge of all things CD, DevOps, Cloud and the ability to leverage that knowledge in a high or low-level strategy discussion.
+<br><br>
+Experience helping companies track, measure and report their DevOps transformation by quantification of metrics such as change volume, deployment frequency, mean time to recover, lead time and more. Insights on key methodologies, approaches and market trends in the DevOps industry. 3+ years advising, scoping and delivering unique quantitative services to enterprises. Leverage and create industry transformation benchmarks. Understanding of DevOps, Continuous Delivery, and related tools, such as GitHub, Jenkins, Docker, Puppet, Chef, or equivalents.
+<br><br>
+What The Role Requires
+<br><br>
+<ul>
+<li>Measuring and tracking DevOps Metrics (i.e. change volume, deployment frequency, mean time to recover, lead time, and more)</li>
+<li>Impact Analysis: Ability to connect metrics to impact or downstream business value</li>
+<li>Advanced quantification and communication skills</li>
+<li>Benchmarking, Value Stream Mapping</li>
+<li>Process Improvement, Change Management</li>
+<li>Software Development Lifecycle / CI/CD</li>
+<li>Demonstrated recognition of domain expertise (i.e. books, articles, interviews, speaking)</li>
+<li>Insights on key methodologies and trends in DevOps</li>
+<li>Deep interest in and experience with emerging technology trends</li>
+<li>Credible, Authoritative, Innovative</li>
+<li>Customer Facing, Sales Experience</li>
+<li>Jenkins, JenkinsX, Pipelines</li>
+<li>Container Orchestration tools: Kubernetes, Docker,</li>
+<li>Cloud Computing: EKS, PKS, AKS, GKE</li>
+<li>Experienced communicating technology via writing &amp; presenting</li>
+<li>Leveraging modern tech for process improvement</li>
+<li>5+ years of DevOps experience</li>
+<li>3+ years of software development experience</li>
+<li>Senior level experience with public cloud environments - design, architecture, automation, Experience architecting tools and platforms to scale for the enterprise</li>
+<li>Experience helping enterprises transform: process, practice, tools</li>
+</ul>
+What You'll Get
+<br><br>
+<ul>
+<li>Highly competitive benefits and vacation package</li>
+<li>Ability to work for one of the fastest growing companies with some of the most talented people in the industry</li>
+<li>Team outings</li>
+<li>Fun, Hardworking, and Casual Environment</li>
+<li>Endless Growth Opportunities</li>
+</ul>
+At CloudBees, we truly believe that the more diverse we are, the better we serve our customers. A global community like Jenkins demands a global focus from CloudBees. Organizations with greater diversity—gender, racial, ethnic, and global—are stronger partners to their customers. Whether by creating more innovative products, or better understanding our worldwide customers, or establishing a stronger cross-section of cultural leadership skills, diversity strengthens all aspects of the CloudBees organization.
+<br><br>
+In the technology industry, diversity creates a competitive advantage. CloudBees customers demand technologies from us that solve their software development, and therefore their business problems, so that they can better serve their own customers. CloudBees attributes much of its success to its worldwide work force and commitment to global diversity, which opens our proprietary software to innovative ideas from anywhere. Along the way, we have witnessed firsthand how employees, partners, and customers with diverse perspectives and experiences contribute to creative problem solving and better solutions for our customers and their businesses.</div>

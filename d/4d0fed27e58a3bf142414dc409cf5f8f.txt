@@ -1,0 +1,71 @@
+<h2>AI Workload Strategist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>We're hiring AI Workload Strategists throughout the U.S. to advise companies and government agencies on how they can remodel their business value through artificial intelligence technology. The Dell AI Workload Strategist’s primary function is to support the expansion of the AI Workload business for Dell Technologies (new markets, new buyers, deeper share of wallet) based on deep expertise in data science, advanced analytics / AI. While this is not a sales position, compensation is tied to the results of the AI Workload business. The role focuses on Commercial customer base (Fortune 2000-5000), State, Local, &amp; Federal governments. You will be required to understand trade-offs between on-premises and cloud implementations as well as the role of security and privacy. It requires the ability to persuade at the most senior levels, negotiate workload architectures and drive many stakeholders in a single direction. Key customer contacts will be diverse: c-suite; workload specialists (e.g. application developers), business owners; and IT system administrators.</p>
+<p></p>
+<p>
+You will be expected to keep up to date on the latest technologies and how they are implemented. This includes open source frameworks (e.g. TensorFlow, Caffe, PyTorch, Spark), accelerator technologies (GPU, FPGA, ASIC), programming languages (e.g. Python, Java), Machine Learning (e.g. boosted tree, clustering) &amp; Deep Learning (e.g. CNN, RNN, LTSM) techniques and the particular demands around data governance / privacy, data cleansing, lifecycle model management. Likewise, you need to be well versed in Dell EMC infrastructure products: servers; storage; networking; data protection; and systems management.</p>
+<p></p>
+<p><b>
+KEY RESPONSIBILITIES:
+</b></p>
+<p></p>
+<p>This role is supported by Dell AI Workload Specialists, Dell AI Workload Architects, Dell Professional Services and Systems Consultants from Dell EMC. This role is a highly visible one outside of the company. AI Workload Strategists will be expected to a have well-honed public voice. They will be speaking at conferences, blogging / vlogging regularly and authoring thought leadership papers. They will interact and share information both ways with the Office of the CTO and the Dell AI Workload Engineering teams and Product Group with a 1 to 3 year vision when advising customers.</p>
+<p></p>
+<p><b>
+Business Development</b></p>
+<ul>
+<li>
+Help generate net new sales pipeline with a focus on strategic accounts Ensure coordination inside of the opportunity pursuit teams on specific opportunities</li>
+<li>
+Thought Leadership &amp; Knowledge Management</li>
+<li>
+Dell partners with technology companies for software, hardware and integration services. You will be expected to smartly weave these third-party capabilities into the solution</li>
+<li>
+It is also expected that the AI Workload Strategist helps to drive business through select channel partners</li>
+<li>
+Actively participate at industry events to ensure Dell Technologies point of view and key differentiation is well appreciatedIdentify patterns across customers for publishing best practices in whatever vehicle that drives the greatest reach: case studies; whitepapers; blogs/vlogs; industry forums; internal conferences
+</li>
+</ul>
+<p></p>
+<p><b>People Development</b></p>
+<ul><li>
+Participate in the recruiting, interviewing, and selection of AI Workload Specialists and AI Workload Architects Build a working relationship and communication with staff, as well as provide the appropriate support for their own ongoing professional development</li></ul>
+<p></p>
+<p><b>
+ESSENTIAL REQUIREMENTS:</b></p>
+<ul>
+<li>
+Bachelor of Science degree</li>
+<li>
+Typically 5+ years in a technology-related leadership/executive position</li>
+<li>
+Typically 10+ years delivering Data Science, Advanced Analytics, AI across multiple business units within large organizations</li>
+<li>
+Typically 3+ years driving change or transformation programs</li>
+<li>
+A career demonstrating an ability to influence non-technical executives</li>
+<li>
+Travel = 50%</li>
+</ul>
+<p></p>
+<p><b>
+DESIRABLE REQUIREMENTS:
+</b></p>
+<ul>
+<li>Ph.D in Computer Science, Physics, Chemistry, Engineering</li>
+<li>
+Well connected with C-level executives throughout one or more industries</li>
+<li>
+Established voice in social media around technology and its business impact</li>
+<li>
+Empathy for company’s existing traditions (people, process, or technology) then support a means for them to move forward</li>
+<li>
+Operational experience coming from leading Analytics or AI workload team</li>
+</ul>
+<p></p>
+<p>
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Learn more about Diversity and Inclusion at Dell here.</p>
+</div>
+<p></p>
+</div>

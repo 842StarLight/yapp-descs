@@ -1,0 +1,39 @@
+<h2>Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>The analyst will update internal tracking, create reporting and respond to escalations within the defined responsibilities.</p>
+<p></p>
+<p><b>Main Duties / Responsibilities</b></p>
+<ul>
+<li>Build &amp; QA billing/pricing element tables (Interchange, Auth, Data Capture, etc.).</li>
+<li>Provide assistance and feedback to the Senior Data Analyst(s) and respond to Operations, Product and Sales escalations.</li>
+<li>Manage Card Brand and 3rd party invoices; query monthly invoices and generate P&amp;L reports in coordination with IT/DBA and Commissions/Finance teams.
+</li>
+<li>Build and maintain cross-processor interchange code and billing descriptor mapping grids (US &amp; Canada regions).
+</li>
+<li>Analyze impact of card brand updates/changes against all production pricing and billing elements.</li>
+<li>Develop portfolio specific reporting/metrics using business intelligence tools e.g. MS Power BI.
+</li>
+</ul>
+<p></p>
+<p><b>Requirements</b></p>
+<ul>
+<li>Bachelor’s degree is preferred.
+</li>
+<li>3+ years in a financial and/or payments acquiring position.</li>
+<li>Acquiring and/or payment processing industry experience is preferred.</li>
+<li>Good understanding of Clearing and Settlement concepts (Visa, MasterCard &amp; PIN debit networks).
+</li>
+<li>Strong proficiency in MS Office Suite; advanced Excel a must.</li>
+<li>MySQL experience is preferred.
+</li>
+<li>Ability to work simultaneously with various data sources and large datasets.</li>
+<li>Ability to deliver under tight deadlines and work simultaneously on multiple projects.</li>
+<li>Ability to exercise discretion and judgment in dealing with confidential and sensitive data.</li>
+<li>Ability to maintain accurate and detailed records.</li>
+<li>Ability to establish priorities, work in a team context, and manage multiple tasks/projects.
+</li>
+<li>Help identify gaps and/or optimization opportunities within existing processes.
+</li>
+<li>Excellent communication skills (oral and written).</li>
+</ul>
+</div></div>

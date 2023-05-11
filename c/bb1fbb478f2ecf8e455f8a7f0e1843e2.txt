@@ -1,0 +1,42 @@
+<h2>Sales Intern</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div>
+<div>
+<p>So you want to pursue a job in sales, but most jobs require experience. Here is your chance to gain hands-on sales experience! We’re looking for a motivated individual to join our team as a part-time intern for a 3-month internship! This internship is a unique opportunity to see a B2B sales process.</p>
+</div>
+<div>
+<h3 class="jobSectionHeader"><b>What you will be doing . . .</b></h3>
+<ul>
+<li>Working 30 hours per week to help build a pipeline of potential new customers</li>
+<li>Researching companies and employees who are most relevant to our products</li>
+<li>Performing functions related to inside sales including cold calling, research, and reporting</li>
+<li>Working within Salesforce to add and update leads</li>
+</ul>
+</div>
+<div>
+<h3 class="jobSectionHeader"><b>You should apply if you . . .</b></h3>
+<ul>
+<li>Want a career in sales but aren’t sure where to get started</li>
+<li>Are pursuing a business related degree or have recently graduated with a relevant degree</li>
+<li>Are a motivated self-starter</li>
+<li>Are well spoken with great phone manners</li>
+<li>Aspire to present like Don Draper</li>
+</ul>
+</div>
+<div>
+<h3 class="jobSectionHeader"><b>Why work at SeeUnity?</b></h3>
+<ul>
+<li>$10 per hour plus incentives for exceeding quotas</li>
+<li>Additional learning opportunities to sit in on high-level sales calls and demos</li>
+<li>Relaxed environment</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Ready to apply?</b></h3>
+<h5 class="jobSectionHeader">
+<b>Please email </b><b>info@seeunity.com</b><b> with your cover letter and resume.</b>
+</h5>
+<br>
+<p></p>
+<h4 class="jobSectionHeader"><b>
+About SeeUnity</b></h4>
+<p>SeeUnity was founded in 2005 by industry veterans looking to solve real world problems within the enterprise content management industry. With its headquarters in Northern Colorado, SeeUnity has built a team of passionate professionals who strive to help businesses solve their enterprise content issues. SeeUnity proudly serves 300+ customers and 30+ partners across the globe with heavy influence in North America, Australia, and Europe. SeeUnity is a Microsoft Gold Certified ISV Partner, serving customers of all sizes including Fortune 500 businesses and AMLaw 200 firms.</p>
+</div>
+</div></div></div>

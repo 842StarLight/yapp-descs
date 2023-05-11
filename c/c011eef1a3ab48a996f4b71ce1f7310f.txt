@@ -1,0 +1,82 @@
+<h2>Workday Reports & Integrations Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div>
+<p><b>Job Description</b></p>
+<p>
+Great Games Start with Great People! This is an exciting time to join us! We are actively seeking a <b>Workday Reports &amp; Integrations Developer</b>, who will be mainly responsible for complex BIRT report and dashboard creation, integration development and enhancements and Production Support per agreed SLAs of Workday’s Human Capital Management Systems. This is a hands-on role.</p>
+<p></p>
+<p>
+Join the Enterprise Applications HRIT Team, and work closely with Workday Reporting team, HRIS and business partners to identify the best solutions for the business. You’ll be responsible for the design, development, testing, support and maintenance of these reports, dashboards and integrations.</p>
+<p></p>
+<p>
+Activision Blizzard is the umbrella organization over Activision Publishing, Blizzard Entertainment, King Digital, Activision Media Networks and Activision Blizzard Studios and provides corporate shared services such as Legal, HR, Finance, IT, Accounting, Facilities and Sales, for all companies.</p>
+<p></p>
+<p><b>
+Responsibilities</b></p>
+<p></p>
+<ul>
+<li>
+Drive the design, development, testing and deployment of new reports/integrations and maintain existing integrations using Workday Report Writer and integration tools: Studio, Core Connectors, Document transformation, etc.</li>
+<li>
+Technical knowledge and experience with all forms of advanced Workday reporting and integrations (Matrix, Dashboards, Composite, XML/XSLT, BIRT, PICOF)</li>
+<li>
+Work closely with Activision’s Workday Reporting team and ensure key stakeholders receive and understand needed metrics</li>
+<li>
+Lead the preparation and delivery of complex HR reports, ensuring alignment across deliverables, and adherence to overall global reporting strategy</li>
+<li>
+Partner with internal/external stakeholders for requirements gathering</li>
+<li>
+Follow Activision’s Development Standards and Processes.</li>
+<li>
+Develop appropriate test scenarios and scripts as needed.</li>
+<li>
+Develop dashboard and metrics to provide key stakeholders an insight into their global organizations</li>
+<li>
+Help monitor the effectiveness of reporting products, modify current reports, or operationalize new reports / methods as needed</li>
+<li>
+Create and maintain standardized real-time dashboards displaying key metrics and insights for HR and business leaders in a visually appealing manner</li>
+<li>
+Monitor and maintain interfaces between Workday and internal/external vendor systems</li>
+<li>
+Participate in Workday major release review and testing by identifying impact/enhancement opportunities associated with a new release features/functionality</li>
+<li>
+With minimal guidance, lead short- and mid-term projects that require the application of independent judgement. Apply skills in requirements definition, functional specifications, analysis and design, system setup and configurations, testing and deployment.</li>
+<li>
+Keep up with market trends and tool innovations and investigate possible methods of improving and/or increasing the automation of the reporting process</li>
+<li>
+Provide Production support</li>
+</ul>
+<p></p>
+<p><b>
+Skills &amp; Qualifications</b></p>
+<p></p>
+<ul>
+<li>
+Bachelors degree; Masters in Computer Science or related technical field (or equivalent experience) preferred. Workday Certifications is a plus</li>
+<li>
+4+ years Workday HCM experience, report writing and integrations</li>
+<li>
+Proficient in HCM, Compensation, Talent Management, Security Administration, and Business Process Configuration, Report Writer, BIRT</li>
+<li>
+Working knowledge of SOAP, REST, XML and XSLT, Java.</li>
+<li>
+Advanced working knowledge of MS Excel</li>
+<li>
+Excellent analytical, problem solving and troubleshooting abilities</li>
+<li>
+Excellent written and verbal communication skills</li>
+<li>
+Strong attention to detail</li>
+<li>
+Takes initiative and ownership to ensure successful outcomes</li>
+<li>
+Ability to work independently as well as in a team environment, especially with virtual geographically diverse teams</li>
+<li>
+Highly organized with the ability to multi-task and prioritize effectively while demonstrating a sense of urgency</li>
+<li>
+Ability to produce accurate work under pressure with frequent deadlines</li>
+</ul>
+</div></div>
+<p></p>
+</div>

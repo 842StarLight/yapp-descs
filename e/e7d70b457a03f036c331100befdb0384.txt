@@ -1,0 +1,51 @@
+<h2>Unified Communications Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>With six major mountain ranges surrounding the community, three blue ribbon rivers, five golf courses, three world class skiing resorts, 284 mountain trails, Montana State University, and the gateway town to Yellowstone National Park, it's no wonder Bozeman appeared as No. 2 on the top 10 list for bizjournals.com's list of American 'dream towns.' Bozeman High has been ranked on Newsweek's top-schools list five times since 2003. Seventy-four percent of the community's 41,000 residents have some post-secondary education. University graduates, along with industry-experienced newcomers seeking a higher quality of life, provide a brain pool for the area's mix of expanding businesses.</p>
+<p>
+Because of its access to some of the best ski mountains in the United States, SKI Magazine has ranked Bozeman as the #4 ski town in the country. Powder Magazine ranked Bozeman in the 'top 32 ski towns in North America' and National Geographic, placed Bozeman in the 'World's 25 Best Ski Towns.' In addition, Outside Magazine has ranked Bozeman as the 5th best college town in the United States and ranks the city 15th in the United States for access to outside sports. This active outdoor lifestyle is coupled with a strong work ethic that has enabled Bozeman to rank number one as a business climate among cities under 100,000 in the United States, by American City Business Journals.</p>
+<p>
+With tons of great cultural events including museums, symphony, opera, and a vibrant live music scene as well as the great outdoors, it isn't what to do in Bozeman, but what not to do because there are so many activities-snow or sunshine. And, if staying around is not enough, we have an international airport with direct flights to 10+ major US cities.</p>
+<p>
+We are currently undergoing a nationwide search for experienced Unified Communications Engineer to provide design, architecture, implementation and delivery support of our Cisco Unified Communications solutions. Candidates will be required to reside in the same state and either work out of our office or telecommute/work from their home office. This an excellent career opportunity for individuals with prior voice/data architecture and engineering experience who want to develop and grow their career in a consulting, client facing environment.</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>Candidates will be responsible for both consultative pre-sales and post-sales implementation/support.
+<ul>
+<li>Pre-sales - Present and explain various Cisco IPT, Unified Communications and Collaboration technologies to customers. Guide them through requirements gathering, formulate a solution consisting of hardware, software, licensing and engineering services, create bill of materials, statements of work and possible Visio diagrams.</li>
+<li>Post-Sales - Implement, upgrade and troubleshoot complex Cisco Unified Communications solutions. Provide both administrator and end-user training to clients as needed. Deliver final project documentation to clients.</li>
+</ul>
+</li>
+<li>Work and collaborate with project teams consisting of CompuNet engineers, client resources, contract resources and 3rd party vendors.</li>
+<li>Perform analysis, diagnosis of existing client voice, video and data network issues. Discover and document client infrastructures.</li>
+<li>Provide technical thought leadership while interacting closely with clients.</li>
+<li>Deliver consistent and frequent project status updates to CompuNet Engineering Managers and/or assigned Project Managers.</li>
+<li>Maintain and increase technical certifications based upon certification requirement changes and business market requirements.</li>
+<li>Provide mentoring and support to junior staff members.</li>
+<li>Evaluate new product releases and architectures, mentors the team in this knowledge.</li>
+<li>Perform in-depth and high-level technical presentations for customers, partners, and prospects.</li>
+</ul>
+</div>
+<br>
+<div>
+<p><b>Basic Requirements:</b></p>
+<ul>
+<li>5 to 7+ years designing, architecting, implementing, upgrading, and configuring complex Cisco IPT solutions with Cisco Unified Call Manager (CUCM) clusters, Cisco Unity/Unity Connection Voicemail (CUC), Cisco IM &amp; Presence (CIMP), and voice gateways.</li>
+<li>SIP, H.323, and legacy voice protocol configure.</li>
+<li>Prior experience designing, architecting, and administering routers, switches, LAN/WAN, QoS, VLAN’s, bandwidth modeling and VoIP infrastructures.</li>
+<li>Prior project lead experience or team leadership skills.</li>
+<li>Excellent documentation, presentation, and problem-solving skills.</li>
+<li>Excellent communication skills and client-facing skills.</li>
+<li>BS/MS in Computer Science, Engineering, or related discipline with an IT focus is preferred.</li>
+<li>Ability to travel up to 25-40% and work on client sites.</li>
+</ul>
+<p><b>
+Preferred Requirements:</b></p>
+<ul>
+<li>Cisco Emergency Responder (CER) &amp; Cisco Unified Contact Center Express (UCCX) experience.</li>
+<li>Experience in designing and implementing Cisco/Tandberg video infrastructure components. like VCS, VCS-E, MCUs, TMS, TPS and related endpoints.</li>
+<li>CCNP Voice/Collaboration, CCNP R&amp;S, or higher.</li>
+</ul>
+</div>
+</div>

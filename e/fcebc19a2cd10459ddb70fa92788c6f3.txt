@@ -1,0 +1,105 @@
+<h2>Software Application Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Join our team and experience Workday!
+</b></p>
+<p></p>
+<p>It's fun to work in a company where people truly believe in what they're doing. At Workday, we're committed to bringing passion and customer focus to the business of enterprise applications. We work hard, and we're serious about what we do. But we like to have a good time, too. In fact, we run our company with that principle in mind every day: One of our core values is fun.
+</p>
+<p></p>
+<p><b>Job Description
+</b></p>
+<p>The Software Application Engineer at Workday is part of the GTM (Go-To-Market) Business Technology team that is responsible for the Salesforce implementation at Workday.
+</p>
+<p>Our team enables continuous improvements to the application and supports our Marketing, Sales, Services, Support, Finance and Legal business partners; responsibilities include responding to service requests, incidents and enhancements and driving automation to increase efficiency in business processes. Our team also focuses on optimizing Salesforce Platform technical components. The right candidate has deep technical experience in all the capabilities and functionalities of the Salesforce.com platform and a proven track record of driving best practices and processes.
+</p>
+<p></p>
+<p><b>Responsibilities </b><b>:
+</b></p>
+<p>Application Support activities (Service Request, Incident &amp; Problem management, build Proactive Monitoring capabilities, Bug Fixes, Enhancements) on the Salesforce Platform team
+</p>
+<p>Salesforce Platform Health activities (Performance improvements, Framework development &amp; Salesforce Integrations optimization)
+</p>
+<p></p>
+<p><b>Technical:
+</b></p>
+<ul>
+<li>Software Application Troubleshooting at Application, Database, Network &amp; Integration layers
+</li>
+<li>Software Application Development (Bug Fixes &amp; Enhancements) on the Salesforce platform using Object Oriented design methodologies and Salesforce technologies- Apex, Visual Force, Apex Triggers, Salesforce Integrations, APIs on
+</li>
+<li>Salesforce Administration of the Salesforce environment; responsibilities include customizing and implementing profiles, roles, security settings, sharing rules, applications, custom objects, custom fields, page layouts, workflow, validation rules, approvals, dashboards, reports, etc.
+</li>
+<li>Develop monitoring systems for the critical Salesforce Platform business workflows to preempt issues and resolve
+</li>
+<li>Lead and deliver Automation of tasks/service requests
+</li>
+<li>Review and optimization of integrations in and out of Salesforce Platform
+</li>
+<li>Technical components performance optimization, design and development of common frameworks for crossfuntional usage on Salesforce Platform
+</li>
+</ul>
+<p></p>
+<p><b>Process:
+</b></p>
+<ul>
+<li>Perform trend analysis, and develop action plans for improving SLAs and reducing case volume and problems
+</li>
+<li>Incident troubleshooting, resolution and technical root cause analysis to address the problem permanently
+</li>
+<li>Identify business risks, inefficiencies, issues and opportunities related to Salesforce platform.
+</li>
+<li>Create documentation, maintain standardization and look for ways to continuously improve processes &amp; procedures.
+</li>
+</ul>
+<p></p>
+<p><b>Business/Functional:
+</b></p>
+<ul>
+<li>Develop expertise of Workday Go-To-Market business applications end-to-end
+</li>
+<li>Develop subject matter expertise of Workday’s Enterprise Applications including Integrations
+</li>
+</ul>
+<p></p>
+<p><b>Skills/Requirements </b><b>:
+</b></p>
+<p><b>Education, Technical Experience (Required) </b><b>:
+</b></p>
+<ul>
+<li>Bachelor's with 5+ years of experience OR MS with 3+ years in Computer Science or Information Technology
+</li>
+<li>At least 3+ years in Enterprise Software Application Support OR At least 3+ years in Enterprise Software Application Development
+</li>
+<li>Strong technical knowledge of enterprise software application development and enterprise application integrations (Salesforce, Apttus, MuleSoft/SnapLogic)
+</li>
+<li>Hands on experience troubleshooting technical issues on Salesforce platform end-to-end (Application, Database, Network &amp; Integration layers)
+</li>
+</ul>
+<p></p>
+<p><b>Non-Technical Skills </b><b>:
+</b></p>
+<ul>
+<li>Knowledge of IT service management tools and best practices(preferred)
+</li>
+<li>Self-motivated, flexible, team player with solid multi-tasking, time management &amp; organization expertise with the ability to manage multiple and often changing priorities.
+</li>
+<li>Attention to detail with the ability to analyze and solve complex problems as well as provide documentation, guidance and instruction to users. Demonstrated ability to learn and embrace new technologies, applications, and solutions.
+</li>
+</ul>
+<p>Professional Certifications :
+</p>
+<ul>
+<li>Salesforce Certified Developer (Required)
+</li>
+<li>Salesforce Certified App Builder / Salesforce Certified Administrator (Required)
+</li>
+<li>Enterprise Integrations (MuleSoft/SnapLogic) (Preferred)
+</li>
+<li>ITIL Foundation Certification (Preferred)
+</li>
+<li>Apttus Product Certification (Preferred)
+</li>
+</ul>
+<p></p>
+<p>#LI-ED2</p>
+</div></div>

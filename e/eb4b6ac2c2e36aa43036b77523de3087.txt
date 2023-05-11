@@ -1,0 +1,79 @@
+<h2>Lead IT Developer - Salesforce and B2B Commerce</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Come help us lead the digital transformation here at PepsiCo: a dynamic environment with cutting edge technologies. Where winning with purpose matched with a passion for creating products and programs of lasting value are expected and rewarded.<br>
+<br>
+PepsiCo has an aggressive goal to increase share of product sales and revenue via B2B and B2C eCommerce channels. In support of this goal PepsiCo IT has embarked on a modernization journey by utilizing salesforce commerce cloud (CloudCraze) platform to support the B2B commerce needs. Furthermore, a commerce integration hub based on java microservices is being developed to enable product information management(catalog), integration with a variety of eCommerce partners and third-party logistics companies, provide real-time visibility to product inventory and stock levels, allow for flexible orchestration and tracking of product fulfillment.<br>
+<br>
+The eCommerce Platform Delivery Sr. Specialist will be responsible for managing the design, development, and delivery of the Salesforce commerce cloud commerce portal and integration with the commerce integration hub. This position will work with key stakeholders to understand requirements, lead eCommerce implementations providing both oversight and hands on contributions to the software design, development and integration on the Salesforce platform.<br>
+<br>
+If you like working in an entrepreneurial environment while at the same time having the backing and resources of a large fortune 50 company, then this could be the ideal opportunity for you. You will be rewarded with an explosive growth opportunity as we forge the platform to power PepsiCo’s digital transformation.<br>
+<br>
+<br>
+<b>Responsibilities:
+</b></p>
+<ul>
+<li>Lead the salesforce commerce cloud (CloudCraze) eCommerce implementation, providing both oversight and hands on contributions to the software design, development, and integration</li>
+<li>
+Design state of the art commerce platforms for PepsiCo’s s businesses globally utilizing salesforce or other commerce platforms and custom-built solutions</li>
+<li>
+Direct the software development efforts around various modules such as commerce cloud, marketing cloud to improve sales and provide key analytical insights to business</li>
+<li>
+Independently lead the estimation effort for projects</li>
+<li>
+Resolve integration and interfacing issues between various back-end systems</li>
+<li>
+Optimize application performance and scalability</li>
+<li>
+Assist Project Leadership to conduct project risk identification and mitigation planning</li>
+<li>
+Ensure all eCommerce platform components are well integrated, highly available &amp; scalable, and adequately monitored for optimal service availability and performance</li>
+<li>
+Lead team of analysts, developers, architects, and technology leads (salesforce and java)</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+Qualifications/Requirements</b></h2>
+<p><b>
+Required Experience:</b></p>
+<ul>
+<li>
+10+ years of IT experience, with at least 8 years in leading and delivering successful end to end consumer/customer facing solutions in support of eCommerce channels and B2C or B2B operations.</li>
+<li>
+Significant experience in building large-scale, complex, high volume, and highly available and resilient eCommerce solutions using salesforce and other commerce technologies (like ATG, SAP Hybris, Magento, Commerce Tools etc.,)</li>
+<li>
+Hands-on architect and full stack development of custom solutions on the force.com platform including significant work in Lightning UI, Apex, VisualForce, SOQL, component development and third-party application/ API integration patterns.</li>
+<li>
+Deep technical expertise in building commerce portals, mobile applications, web content management, digital asset management, personalization engines, A/B testing, web analytics etc., in order to offer the best customer facing solutions and experiences.</li>
+<li>
+Bachelor’s degree required; master’s degree strongly preferred</li>
+</ul>
+Preferred Qualifications:<ul>
+<li>
+Experience in complex Integration architectures (ERP systems/EDI/SOAP/REST APIs), Master Data Management etc</li>
+<li>
+Familiarity with Product Lifecycle Management (PLM)/ Product information Management (PIM)/ Digital Asset Management (DAM) t00ls used in CPG industry</li>
+<li>
+Strong design experience utilizing front end technologies like (JavaScript/ES6, HTML, CSS, React, Angular, Vue)</li>
+<li>
+Experience utilizing cloud native technologies (Azure, AWS, Google Cloud)</li>
+<li>
+Building applications in a true container-based architecture using Agile software development methodologies and related technologies/tools to drive Continuous Integration and Delivery</li>
+<li>
+Working knowledge of multiple web and application tier technologies: Tomcat, Apache, Nginix and other open source packages</li>
+<li>
+Experience with project automation technology: Jenkins, Bamboo, automated unit testing, Maven, Ant</li>
+</ul>
+<p></p>
+<b>
+Relocation Eligible:</b> Not Eligible for Relocation<br>
+<b>Job Type:</b> Regular<br>
+<br>
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.<br>
+<br>
+PepsiCo is an Equal Opportunity Employer: Female / Minority / Disability / Protected Veteran / Sexual Orientation / Gender Identity<br>
+<br>
+Our Company will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Fair Credit Reporting Act, and all other applicable laws, including but not limited to, San Francisco Police Code Sections 4901 - 4919, commonly referred to as the San Francisco Fair Chance Ordinance; and Chapter XVII, Article 9 of the Los Angeles Municipal Code, commonly referred to as the Fair Chance Initiative for Hiring Ordinance.<br>
+<br>
+If you'd like more information about your EEO rights as an applicant under the law, please download the available EEO is the Law &amp; EEO is the Law Supplement documents. View PepsiCo EEO Policy<br>
+<br>
+Please view our Pay Transparency Statement</div></div>

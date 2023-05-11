@@ -1,0 +1,35 @@
+<h2>Full Stack Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Company Description:</b><br>
+Founded in 2013, Habitat is a technology company passionate about helping restaurants maximize their opportunity within the on-demand economy. We help restaurants by providing them with on-demand delivery for all their online and call-in orders, consisting of Habitat’s delivery fleet and logistics platform. With a lower cost and less headache than an in-house delivery force, Habitat enables restaurants to best serve their customers. We’re currently active in three markets, and are bringing on key hires to bring our tech and company to the next level
+<br><br>
+<b>Position Description:</b><br>
+As a Full Stack Software Engineer at Habitat, you will develop, iterate, and support many facets of the platform, including the courier app, restaurant app, and dispatching platform. The ideal candidate is a natural self-starter with a drive to always improve the end-user experience for our delivery runners, restaurants, and operations team.
+<br><br>
+<b>This role has three main responsibilities:</b><br>
+<ul>
+<li>Develop, test, and deploy features and improvements on the courier, restaurant, and dispatch apps based on feedback from stakeholders</li>
+<li>Iterate on back-end architecture to integrate with third-party partners</li>
+<li>Troubleshoot and fix bugs, and provide technical support for operations and sales teams on an as-needed basis</li>
+</ul>
+<b>Qualities:</b><br>
+<ul>
+<li>Solution Oriented - You enjoy architecting solutions that have an immediate impact on the company.</li>
+<li>Personable – You have a positive attitude and are comfortable working with a range of stakeholders and functional teams.</li>
+<li>Inquisitive – You are a self starter, always adding to your skillset, and questioning the way things are being done on a business level (as well as tech!)</li>
+<li>Design focused - You are passionate about creating seamless, intuitive user experiences on the front end, and building robust, scalable software on the back end.</li>
+</ul>
+<b>Qualifications:</b><br>
+<ul>
+<li>2-3 years experience with modern web technologies (ES5+, node, webpack, CSS/SCSS, React.js, REST APIs, etc.).</li>
+<li>Proficient with API design and relational databases</li>
+<li>Familiarity with mobile development, especially React Native and underlying technologies (Java &amp; Swift)</li>
+</ul>
+<b>Nice-to-haves:</b><br>
+<ul>
+<li>Degree in business operations, supply chain management, economics, finance</li>
+<li>DevOps experience (AWS/GCloud), specifically high-availability and redundant systems</li>
+<li>Hands on experience with Typescript</li>
+<li>Enjoy contributing to open-source projects</li>
+</ul>
+</div>

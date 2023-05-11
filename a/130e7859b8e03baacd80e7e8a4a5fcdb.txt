@@ -1,0 +1,53 @@
+<h2>Systems Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h4 class="jobSectionHeader">
+<b><i>Job</i></b><b> Overview:</b>
+</h4>
+<p>An exciting opportunity to interface with clients and solve business needs through technology. <i>Job</i> allows participation in the pre-sales requirements gathering through the design, development and deployment phases. <i>Job</i> requires a self motivated individual who desires to stay current with technology and <i>apply</i> knowledge to client requested solutions. Typical projects center around Microsoft SharePoint, SQL and SQL Reporting Services and MS Office integration scenarios.</p>
+<h4 class="jobSectionHeader"><b>
+Duties:</b></h4>
+<ul>
+<li>Deploy, customize and maintain SharePoint Portal solutions for clients.</li>
+<li>Designs and develops user interfaces to Internet/intranet applications. Maintains professional certifications through participating in educational <i>opportunities</i> including self study. Must be willing to learn new technologies and multitask in fast paced, fun, customer service oriented environment.</li>
+<li>Integrates applications <i>by</i> designing database architecture and server scripting; establishing connectivity with network systems, search engines, and information servers. Knowledge of developing in an Active Directory environment a plus.</li>
+<li>Must be able to communicate requirements, contributing to team meetings and report on activities.</li>
+<li>Support clients <i>by</i> developing documentation and assistance tools as needed, troubleshooting development and production problems across multiple environments and operating platforms.</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Skills/Qualifications:</b></h4>
+<p>Must be able to clearly communicate with customers and clients both verbally and in writing, Web User Interface Design, VB.NET &amp; ASP Programming Skills, Software Requirements, Software Architecture, Software Development Fundamentals, SQL Database design and development (SQL reporting services a plus), MS Office knowlege including InfoPath a plus.</p>
+<p>
+Travel on a daily basis is required and is typically limited to the tri-State Area. ALL <i>RESUME</i>'S SHOULD INCLUDE <i>SALARY</i> REQUIREMENTS IN ORDER TO BE CONSIDERED.</p>
+<h4 class="jobSectionHeader"><b>
+Position Requirements and Information</b></h4>
+<ul>
+<li>Status: <i>Full</i> Time, Employee</li>
+<li>Relevant <i>work</i> <i>experience</i>: 2+ to 5 <i>years</i>
+</li>
+<li>Education Level: Bachelor's Degree</li>
+<li>
+<i>Location</i>: Pittsburgh, PA 15237</li>
+<li>
+<i>Job</i> Category: Information Technology</li>
+<li>
+<i>Career</i> Level: Experienced (<i>Non</i>-Manager)</li>
+</ul>
+<h4 class="jobSectionHeader">
+<b><i>Salary</i></b><b> Information</b>
+</h4>
+<p>We offer compensation commensurate with <i>experience</i> and an <i>excellent</i> benefits package including a 401K plan.</p>
+<h4 class="jobSectionHeader">
+<b>
+How to </b><b><i>Apply</i></b>
+</h4>
+<p>Via Mail:<br>
+Director of Enterprise Services<br>
+synergIT Incorporated- A PC Solutions Company<br>
+811 Camp Horne Road<br>
+Pittsburgh, PA 15237</p>
+<p><i>
+Apply</i> Via Fax:<br>
+(412) 391-6570</p>
+<p><i>
+Apply</i> Via E-mail:<br>
+HR@synergit.com</p>
+</div></div>

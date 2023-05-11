@@ -1,0 +1,51 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>About the job:</b></h2>
+<ul>
+<li>Work closely with CEO, designers, and engineers to define the product vision, roadmap, and development process</li>
+<li>Ensure execution of roadmap priorities by implementing a best-in-class product development process</li>
+<li>Work closely Sales and Success staff to plan and deliver product updates and to seek out customer feedback on existing roadmap items</li>
+<li>Create and maintain customer-facing product roadmap documents</li>
+<li>Identify product gaps and strategize how to reduce customer pain points</li>
+<li>Develop new product lines to help customers solve critical business problems by leveraging public data</li>
+</ul>
+<div>
+<b>Must haves:</b><br>
+<ul>
+<li>Undergraduate degree in Computer Science or minimum 2 years experience in a technical role.</li>
+<li>2+ years in a tech-focused product management role</li>
+<li>Experience leveraging data to make product decisions, and solid understanding of data systems and structures</li>
+<li>“Doer” attitude, with a bias toward action and a demonstrated ability to innovate in a fast-paced environment</li>
+<li>Unwavering organizational skills</li>
+</ul>
+</div>
+<div>
+<b>Great-to-haves:</b><br>
+<ul>
+<li>Proficiency with Python, SQL, React, Redux, Elasticsearch</li>
+<li>Worked for SaaS startups and/or companies serving clients in media, advocacy, and financial services</li>
+</ul>
+</div>
+<p><b>About you</b><br>
+You're customer-focused. You have the empathy to anticipate user needs and embrace and act on critical customer feedback.</p>
+<p>Clarity is a priority for you. You have a habit of taking complex information and simplifying it into clear, actionable steps.</p>
+<p>You have technical chops. This role requires a technical understanding of the systems you're working to build.</p>
+<p>You're tenacious. You believe obstacles are meant to be overcome. When you buy into something you'll work at it until it gets done.</p>
+<p>You're data-driven. You leverage data to prioritize goals, make decisions, and iterate on existing features.</p>
+<p>You have great design instincts. You'll be making product decisions that affect how our customers use Vigilant.</p>
+<p>You're resourceful. You'll accomplish your goals with whatever resources are available to you.</p>
+<p>Learning and growth rank among your top personal values. Same with us.</p>
+<p></p>
+<h2 class="jobSectionHeader"><b>Vigilant's Values:</b></h2>
+<p><b>Constant learning and insatiable curiosity.</b> We organize information, and we're always keen to know more. We're committed to learning and growth and enjoy working with those who share that commitment.</p>
+<p><b>We're guided by a deep empathy for our customers and their needs</b>. We think carefully about how our users - and our world - may be affected by every decision we make. We're constantly aiming to drive improvements for our users.</p>
+<p><b>We aim high.</b> We're taking on large, difficult problems, and are looking to build meaningful solutions and scale a substantial company that will have lasting impact. Ambition is a compliment in our book.</p>
+<p><b>Relentless tenacity. </b>We do the work. We tend to see obstacles as existing to be overcome. When we decide to do something, we work at it until it gets done.</p>
+<p><b>Real humility.</b> We know that we aren't doing this alone. We hold ourselves accountable for our missteps, and gladly share credit for our successes. We recognize that we don't have all the answers, or even most of them.</p>
+<p><b>We draw the owl (https://i.kym-cdn.com/photos/images/newsfeed/000/572/078/d6d.jpg).</b> We're growing, and there isn't usually a defined set of instructions for any given task. We figure it out. We work, iterate, improve. (In the interest of full disclosure, we shamelessly borrowed this notion from Twilio's corporate values).</p>
+<p><b>We have a bias towards action</b><b>.</b> If we notice an issue is affecting the business, we work to fix it immediately, even if it's not in our wheelhouse.<br>
+</p>
+<p><b>We save our paperclips (https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/embed/public/2014/07/25/ace-greenberg-memo6.JPG). </b>We have an ownership mentality and act in the company's best interest. We're conscious of how our actions and behavior impact the business and the company's bottom line. We celebrate efficient solutions.<br>
+</p>
+<p><b>We follow through.</b> We do what we say. We get the job done.</p>
+</div></div>

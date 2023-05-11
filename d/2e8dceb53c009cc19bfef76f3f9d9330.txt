@@ -1,0 +1,88 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>Interested in working as a Senior Software Engineer in our Development Engineering team by contributing with your software engineering background?<br>
+TA Instruments is known for its innovation and quality in its analytical instrumentation and is looking for a Software Engineer for our Development Engineering Thermophysical Properties Group to support its world-class reputation. This is a career level opportunity for an innovative creative scientific engineering mind to take their software/computer science background and apply it in an engineering development environment creating new systems to make better measurements for scientists and engineers around the world to use to develop new and better products. This is an exciting and wide-ranging position for an individual with the motivation, curiosity and intellect to excel in the development of the leading edge of thermal analysis instrumentation in a best in class specialty measurement company.<br>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Typical tasks of the position include, but are not limited to<br>
+</b></h2>
+<div></div>
+<div><div><div>
+<ul>
+<li>Research, design, develop and release/maintain: Application, User interface, Data analysis, Instrument control software for thermophysical properties product line.</li>
+<li>
+Evaluate system specifications and translate system requirements to task specifications.</li>
+<li>
+Responsible for ongoing support of current programs including performance, diagnosis and troubleshooting of problem programs and designing solutions to problematic programming.</li>
+<li>
+Working within a formal development process covering the full development lifecycle.</li>
+<li>
+Work in collaboration with the agile team and appropriate experts to implement your designs.</li>
+<li>
+Provide work estimation and tracking information to support management decisions and planning.</li>
+<li>
+Keep a pro-active attitude to insure continuous improvement of the software quality, work process and individual skills.</li>
+<li>
+Provide contributions to the application architecture with a focus on scalability, maintainability, security and performance.</li>
+<li>
+Provide product specific and technical support to internal and external users where appropriate.</li>
+</ul>
+<p></p>
+<br>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>The successful candidate will have a combination of knowledge, skills, and experience that would include the following
+</b></h2>
+<div><div><div>
+<div><b>Education:</b></div>
+<ul><li>
+Bachelor’s degree in electrical, software, or related engineering field, MS or PhD is a plus</li></ul>
+<div></div>
+<br>
+<div><b>
+Experience:</b></div>
+<ul>
+<li>
+5-10 years of relevant experience in software engineering of instrumentation or closely related industry, more or less experience will be considered for the right candidate.</li>
+<li>
+Should be highly knowledgeable and able to demonstrate one's application of engineering fundamentals, theories, concepts, and procedures used for the development of scientific instrumentation or similar products.
+</li>
+<li>Background in either math, physics or chemistry and ability to understand scientific models and implementing them into working code.</li>
+<li>
+Lead and/or participate in the design of the embedded code for new or existing systems.</li>
+<li>
+Experience in creating user interfaces for scientific workflows and data.</li>
+<li>
+Experience with low-level embedded processing and hardware interface (device drivers, DSP). Experience with Linux, ARM processors - ARM9 Cortex, M7 preferred.
+</li>
+<li>Designs, develops and tests software programs, following established software development procedures, including but not limited to, documentation of code, source safe control, and version assignment.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Desired Skills:</b></div>
+<ul>
+<li>
+Python 2.7 and 3+ for Linux and Windows</li>
+<li>
+C, C++, RTOS, Linux, gdb/gcc tools etc.
+</li>
+<li>Scientific libraries for python (scipy, numpy).</li>
+<li>
+Qt graphical toolkit and PyQt bindings.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Company Description
+</b></h2>
+<div><div><div>
+<div>As the world’s leading supplier of thermal analysis and rheology systems, TA Instruments is a fast growing and highly profitable division of an S&amp;P 500 company, priding itself in innovation and an uncompromising commitment to customer support. Our continued growth relies on recruiting and developing individuals that can make a positive contribution to our business. For additional information about our high technology products sold to Global Fortune 500 companies and leading academic institutions and government laboratories around the world, visit our website at www.tainstruments.com.</div>
+<div></div>
+<br>
+<div>
+Headquartered in Delaware, with manufacturing sites in the US and Europe, we are represented in all of the major markets around the world with sales offices in the USA, Canada, Japan, India, China, Taiwan, South Korea, Brazil, Mexico, Australia and across Europe.</div>
+<div></div>
+<br>
+<div>
+TA Instruments is an Equal Opportunity Employer.</div>
+</div></div></div>
+</div></div>

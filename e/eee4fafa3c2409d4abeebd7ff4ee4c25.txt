@@ -1,0 +1,69 @@
+<h2>Engineer II, Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>
+<b>About TD Bank, America's Most Convenient Bank®
+</b><p>TD Bank, America's Most Convenient Bank, is one of the 10 largest banks in the U.S., providing more than 8 million customers with a full range of retail, small business and commercial banking products and services at approximately 1,300 convenient locations throughout the Northeast, Mid-Atlantic, Metro D.C., the Carolinas and Florida. In addition, TD Bank and its subsidiaries offer customized private banking and wealth management services through TD Wealth®, and vehicle financing and dealer commercial services through TD Auto Finance. TD Bank is headquartered in Cherry Hill, N.J. To learn more, visit www.tdbank.com. Find TD Bank on Facebook at www.facebook.com/TDBank and on Twitter at www.twitter.com/TDBank_US.</p>
+TD Bank, America's Most Convenient Bank, is a member of TD Bank Group and a subsidiary of The Toronto-Dominion Bank of Toronto, Canada, a top 10 financial services company in North America. The Toronto-Dominion Bank trades on the New York and Toronto stock exchanges under the ticker symbol "TD". To learn more, visit www.td.com.</div>
+</div>
+<div>
+<p><b>Job Description</b></p>
+<div>
+<p><b>About This Role</b></p>
+We are looking for someone armed with a strong tool-kit to develop and maintain technical solutions that adhere to engineering and architectural design principles while meeting business requirements. You’ll also provide technical expertise with a focus on efficiency, reliability, scalability, and security includes planning, evaluating, recommending, designing, operationalizing, and supporting solutions in compliance with enterprise and industry standards. At TD, we hope you'll be inspired both by the work we do and the people who make it all happen.<br>
+<br>
+We have a rare opportunity for working in a startup environment within the US Wealth Management Engineering team as a Salesforce Developer who will be responsible for crafting solutions and leading the engineering, testing, release and support of applications. Successful candidates will have a solid technical background in Salesforce and a deep understanding of product design and implementation. Our Salesforce Developer will work with multiple partners to deliver solutions that are highly usable, scalable, extensible, and maintainable on the Salesforce platform. This person will anticipate bottlenecks, drive the simplification and automation of processes and balance business needs versus technical constraints. Your technical expertise and operational excellence will influence the team’s decisions and drive secure and robust solutions. While Salesforce will be the main focus, the right Developer should be willing and able to learn and support other related technologies as needed.<br>
+<p>Meaningful work is fueled by meaningful performance and career development conversations with your manager. <b>Here are the essential job functions of this position:</b></p>
+<br>
+<ul>
+<li>Ownership of key technical aspects of the Salesforce platform, including custom development, with a bias toward using native functionality and Lightning components</li>
+<li>Evaluate complex business and technical requirements, and communicate inherent security risks and solutions to technical and non-technical business owners</li>
+<li>Perform technical analysis, level-of-effort estimation, design, development and implementation of applications with necessary customizations and integration</li>
+<li>Work with Apex code, Visualforce pages, Lightning components and other technologies to build simple and scalable solutions that support business requirements</li>
+<li>Own and maintain the data modelling and data transformation logic using ETL tools to support data workflows across integrated business systems</li>
+<li>Troubleshoot code and fix bugs for planned releases and to resolve production issues</li>
+<li>Research and find opportunities to utilize Salesforce best practices, guidelines to improve system productivity, scaling and monitoring</li>
+<li>Work within an Agile Scrum or Kanban process</li>
+<li>Create unit test classes for all development objects in Salesforce</li>
+<li>Develop and maintain technical solutions that adhere to engineering and architectural design principles while meeting business requirements.</li>
+<li>Provide technical expertise with a focus on efficiency, reliability, scalability, and security; includes planning, evaluating, recommending, designing, operationalizing, and supporting solutions in compliance with enterprise and industry standards.</li>
+</ul>
+</div>
+</div>
+<div>
+<p><b>Job Requirements</b></p>
+<div>
+<p><b>What can you bring to TD?</b> Share your credentials, but your relevant experience and knowledge can be just as likely to get our attention. Here are the minimum requirements for this position:
+</p>
+<ul>
+<li>University or Post-Graduate Degree.</li>
+<li>Strong academic background (e.g., computer science, engineering).</li>
+<li>7+ years relevant experience.</li>
+<li>Expert knowledge of specific domain or range of engineering frameworks, technology, tools, processes and procedures, as well as organizational issues .</li>
+<li>Expert knowledge of business/organization, its standards, applications, systems, networks, innovation, design activities, best practices.</li>
+<li>Expert knowledge and experience in own discipline; integrates knowledge of business and functional priorities.</li>
+<li>Appetite for contributing within a complex and critical environment.</li>
+<li>Leadership prowess when it comes to teams or projects; shares expertise.</li>
+<li>Well-honed, in-depth skills and broad knowledge to address complex problems and non-standard situations.</li>
+<li>Must be eligible for employment under regulatory standards applicable to the position.</li>
+</ul>
+</div>
+</div>
+<div>
+<p><b>Qualifications</b></p>
+<div>Preferred Qualifications - Here are the preferred qualifications for this role:<br>
+<ul>
+<li>Salesforce development experience with Apex, Visualforce, Lightning component frameworks, triggers, batch Apex and Salesforce APIs</li>
+<li>Experience configuring Salesforce using workflows, validation rules, Lightning Flow, sales process setup, roles &amp; profiles, reports and dashboards</li>
+<li>In-depth understanding of the architecture, capabilities and constraints of the Salesforce application coupled with good understanding of business processes</li>
+<li>Proven database experience writing queries in SQL/SOQL, working with Data Loader, Workbench and ETL tools to perform bulk data updates</li>
+<li>Experience integrating Salesforce with other applications using SOAP, REST, BULK and Streaming APIs</li>
+<li>Demonstrated success with at least two Salesforce custom-built applications, including one implementation on the Lightning Experience</li>
+<li>Experience building complex, scalable, and high-performance software systems that have been successfully delivered to customers</li>
+<li>Experience writing business requirements documents</li>
+<li>Familiarity with agile software delivery methodologies such as Scrum</li>
+<li>Certified Salesforce Advanced Administrator or equivalent experience</li>
+</ul>
+</div>
+</div>
+</div></div>

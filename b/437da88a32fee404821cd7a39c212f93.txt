@@ -1,0 +1,77 @@
+<h2>Autonomous Drive Project Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<p>Mitsubishi Electric Automotive America creates high-quality in-car systems for major OEMs around the world. Known for our innovative components, we leverage our deep technology expertise to deliver autonomous-ready infotainment and ADAS solutions, premium audio systems, high-definition displays, and powertrain electronics for standard, EV, and hybrid vehicles. This professional will be supporting our OEM business in Localization and HD mapping. Be a part of a select team that is making a real impact on the automotive mobility of tomorrow!</p>
+<div></div>
+<br>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<h2 class="jobSectionHeader"><b>Requirements Management</b></h2>
+<ul>
+<li>
+Maintain and understand requirements documents.</li>
+<li>
+Provide a clear explanation of project status relative to requirements
+</li>
+<li>Support data acquisition activities and be able to use data acquisition software<br>
+</li>
+</ul>
+<div></div>
+<p><b>Change Management</b></p>
+<ul>
+<li>
+Negotiate change timing and features development with the customer, Core Engineering and suppliers as necessary</li>
+<li>
+Maintain awareness of industry and academic trends and advancements in mapping and localization
+</li>
+<li>Alert management to project delays and timing risks in advance of their occurrence: Make recommendations where appropriate</li>
+<li>
+Translate customer high level requirements into functional specifications</li>
+<li>
+Communicate Issues as necessary to get resolution when needed</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Project Management</b></h2>
+<ul>
+<li>
+Plan and coordinate the development of features</li>
+<li>
+Clearly define the technical elements that will satisfy customer expectations</li>
+<li>
+Document and track issues, maintains the list through the life of the project(s)</li>
+</ul>
+<div>
+ <b>Sales Support</b>
+</div>
+<ul><li>
+Conduct technical presentations internally and externally as needed.</li></ul>
+<div></div>
+<br>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<ul>
+<li>BSEE required, MSE or MBA also desired</li>
+<li>
+Working understanding of Matlab and Dspace
+</li>
+<li>Familiarity with CANalyzer, CANoe, RTMaps, etc</li>
+<li>
+Minimum 5 years of experience with ADAS
+</li>
+<li>Minimum 5 years of experience in the automotive market</li>
+<li>
+2 + years of experience with specifications regarding Automotive Map and localization technologies.</li>
+<li>
+Strong written, verbal, and cross-cultural communication skills.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Shift
+</b></h2>
+<div><div><div>No Specific Shift</div></div></div>
+</div></div>

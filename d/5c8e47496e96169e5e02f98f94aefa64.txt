@@ -1,0 +1,63 @@
+<h2>IT Application Architect, Elevate Finance</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h1 class="jobSectionHeader"><b>Michael Kors is always interested in hearing from talented, globally-minded individuals with a passion for fashion.</b></h1>
+<p></p>
+<h1 class="jobSectionHeader"><b>
+If you enjoy working in a creative, fast-paced environment, then we would love to hear from you!</b></h1>
+<p></p>
+<p><b>
+Position Overview:</b></p>
+<p></p>
+<p>
+We are seeking an experienced IT Application Architect to join Project Elevate. This position will report directly to the Sr. Director, IT Elevate Financial Systems. The role requires an in-depth knowledge of all the core SAP FICO modules (GL, AP, AR, FA, Product costing, COPA and integration with MM and SD) and system and process integration knowledge with supply chain and sales processes. Experience with retail industry is preferred.</p>
+<p></p>
+<p>
+The role will partner with teams, domestic and global to successfully design, develop and deliver a new large-scale SAP implementation in accordance to SAP best practices and Capri Holdings governance. The person will be accountable for the design, delivery, implementation, configuration and support of SAP FICO modules, including integration with other non-SAP applications. The position will provide ongoing support to new business processes and configuration as well.</p>
+<p></p>
+<p><b>
+Main Responsibilities include but are not limited to:</b></p>
+<ul>
+<li>
+Accountable for the design, implementation and support of SAP Financials with a focus on FI/CO modules (but not limited to): FI-GL, AP, AR and CO, product costing, COPA, profit center accounting, cost center accounting, internal orders, inventory accounting and financial integration with supply chain and sales.</li>
+<li>
+Lead solution design for end to end scenarios. Drive process design discussion on supply chain and sales scenarios, understanding of goods movement in SAP and related account determination, intercompany processes and various sales scenarios. Introduces best practice and process improvement ideas.</li>
+<li>
+Support wholesale and retail accounting functions and manage related interfaces to SAP.</li>
+<li>
+Ensure compliance of all high-level solution models and solution architectures to the target architecture, enterprise roadmap, architecture principles and standards.</li>
+<li>
+Coordinate and collaborate with project stakeholders, system implementation partners, PMO, vendors and onshore and offshore resources on the design and development of the new SAP system functionality.</li>
+<li>
+Independently facilitate workshops with business users to define business requirements, analyze, create and validate requirements into detailed functional specifications that can be translated to technical specifications.</li>
+<li>
+Collaborate with Functional and Technical teams on testing; unit, integration, functional, acceptance system, regression, database, analyze results, manage defects and resolve issues.</li>
+<li>
+Create documentation and training materials and assist with organizational change management, including training of post go-live support team.</li>
+</ul>
+<p></p>
+<p><b>
+Qualifications:</b></p>
+<ul>
+<li>
+B.S. in Computer Science, related field or equivalent experience. CPA/MBA or equivalent experience preferred. PMP certification is plus.</li>
+<li>
+10+ years project and/or support / Lead experience in SAP FICO. Experience in SAP S/4 HANA is preferred.</li>
+<li>
+Demonstrated expertise in SAP FICO and hands-on configuration experience with S/4 HANA projects delivering new solutions (4 full-lifecycle implementations preferred).</li>
+<li>
+Candidate must have Architect-level experience in designing financial solutions using SAP and related technology. Knowledge of the integration points between SD, MM, WM and FI/CO. Ability to simplify complex problems.</li>
+<li>
+Should be a self-starter and leader in driving the requirement turn out to successful deliverables as per the set standards.</li>
+<li>
+SAP S/4 HANA, SAP ECC, SAP FICO, SAP Application Integration, ASAP Methodology experience.</li>
+<li>
+Should be excellent in written and verbal communication.</li>
+<li>
+Good knowledge in the areas of integration with supply chain and sales, inventory management and product costing is desirable.</li>
+<li>
+Previous experience implementing SAP in the CPG or retail industry preferred.</li>
+</ul>
+<p></p>
+<p>
+We are an Equal Opportunity Employer M/D/F/V</p>
+</div></div>

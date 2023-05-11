@@ -1,0 +1,65 @@
+<h2>Data Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Appirio, a Wipro Company helps customers improve Worker &amp; Customer experiences with outcome-oriented consultants who bring the latest digital thinking and unmatched cloud experience. We create actionable strategies that deliver results quickly, and help organizations adapt to a new experience-driven era. We do this by harnessing the power of one of the world’s largest crowdsourcing communities and thousands of pre-built solution accelerators. Appirio is a trusted partner to some of the world’s largest brands, including YP, Cardinal Health, Coca-Cola, eBay, Facebook, Home Depot, Sony PlayStation, Moen, and IBM.</p>
+<p><b>
+About Us</b><br>
+Appirio, a Wipro Company helps customers create next-generation Worker and Customer Experiences using the latest cloud technologies. Our free-thinking consultants deliver unmatched customer value by creating actionable strategies, delivering results quickly, and helping organizations adapt to a new experience-driven era. We do this by harnessing the power of one of the world’s largest crowdsourcing communities and thousands of pre-built solution accelerators. Appirio is a trusted partner to some of the world’s largest brands, including YP, Cardinal Health, Coca-Cola, eBay, Facebook, Home Depot, Sony PlayStation, Moen, and IBM.<br>
+</p>
+<p><b>
+Brief Summary of Role</b><br>
+The Data Migration Consultant will be a customer point of contact for data migration between the project team and customer team. The person in this role uses their knowledge and experience to influence and guide teams and clients through the entire data migration lifecycle - from initial strategy, through mapping, script development, data quality reviews and final load to production. This position requires a self-motivated, customer-focused professional with a passion for data who consistently keeps commitments to customers and fellow employees. This is a hands on role that requires significant technical experience and abilities with Salesforce and related cloud technologies.</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li><p>
+Work directly with customers, functional consultants and integration consultants to establish data migration plan and approach, lead development and testing of migration scripts and complete the data conversion and load of data into Salesforce</p></li>
+<li><p>
+Understand technical data conversion issues, expertly resolve issues and communicate solutions</p></li>
+<li><p>
+Serves as a data resource on Appirio projects focused on Salesforce implementations.</p></li>
+<li><p>
+Assist customers with their data extract, explaining the conversion process, defining data requirements, and working with them to correct data in their legacy systems / staging database in preparation for the data conversion cycle</p></li>
+<li><p>
+Release and Environment Management including sandbox usage planning, data storage capacity estimation, metadata and data migration, environment comparisons and version control</p></li>
+<li><p>
+Works directly with clients to contribute on projects, facilitates business process analysis sessions, develops and delivers key components of technology solution</p></li>
+<li><p>
+Provides guidance to offshore team members</p></li>
+</ul>
+<p><b>
+Education and Required Experience (Requirements):</b></p>
+<ul>
+<li><p>
+Requires Master's degree in Computer Science, Software Engineering, Management Information Systems, or a related field plus two years of experience with Salesforce development. Alternatively, employer will accept a Bachelor’s degree in Computer Science, Software Engineering, Management Information Systems, or a related field plus 2 years of experience with Salesforce development or equivalent combination of education and experience</p></li>
+<li><p>
+1+ years of experience in a hands-on technical leadership position</p></li>
+<li><p>
+1+ years of experience consulting for enterprise software applications with a focus on the data conversion process or similar industry experience</p></li>
+<li><p>
+1+ years of experience with Salesforce development is preferred</p></li>
+<li><p>
+Experience with industry-specific CRM and fundraising platforms (e.g., Banner, Blackbaud CRM, Raiser’s Edge, Team Approach, Donor Direct, Luminate, eTapestry, etc.)</p></li>
+<li><p>
+Experience with Salesforce data model</p></li>
+<li><p>
+Expertise in data extraction, transformation, and data loading techniques and comfort creating Entity Relationship and Data Flow diagrams to communicate complex migration and transformations to clients</p></li>
+<li><p>
+Experience with database systems (Oracle, SQL, MySQL, etc.) and query languages (SQL/PLSQL)</p></li>
+<li><p>
+One or more current Salesforce certifications (Administrator/Advanced Administrator, Platform Developer 1 or 2, App Builder, Sales/Service Cloud) is preferred</p></li>
+<li><p>
+Experience with the complete software project lifecycle, understanding of the importance of data conversion and the time commitment involved</p></li>
+<li><p>
+Demonstrated on the job experience with ETL software</p></li>
+<li><p>
+Passion for data accuracy and completeness</p></li>
+<li><p>
+Can work in a fast paced, fast-growth, high-energy environment and deal with multiple high priority activities concurrently</p></li>
+<li><p>
+Unit testing experience heavy data conversion experience</p></li>
+<li><p>
+For US only,Not eligible for US Sponsorship</p></li>
+</ul>
+<p><i>
+We are an Equal Opportunity, Affirmative Action employer. Minorities, women, veterans and individuals with disabilities are encouraged to apply.</i></p>
+</div></div>

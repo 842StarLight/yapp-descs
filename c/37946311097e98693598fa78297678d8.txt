@@ -1,0 +1,127 @@
+<h2>Senior Database Administrator, E-Commerce</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>Founded in 1866, The Sherwin-Williams Company is a global leader in the manufacture, development, distribution, and sale of paints, coatings and related products to professional, industrial, commercial, and retail customers. The company manufactures products under well-known brands such as Sherwin-Williams®, Valspar®, HGTV HOME® by Sherwin-Williams, Dutch Boy®, Krylon®, Minwax®, Thompson’s® Water Seal®, Cabot® and many more. Sherwin-Williams® branded products are sold exclusively through a chain of more than 4,100 company-operated stores and facilities, while the company’s other brands are sold through leading mass merchandisers, home centers, independent paint dealers, hardware stores, automotive retailers, and industrial distributors. The company supplies a broad range of highly-engineered industrial and OEM coatings for wood and general industrial, coil, packaging, protective and marine, and transportation applications worldwide. Our 60,000 employees are diverse, innovative and passionate. With a variety of rewarding and challenging opportunities, Sherwin-Williams is a great place to find a career that takes you places.<br>
+</div>
+<div></div>
+<div>
+The Sr. Database Administrator role will assist in the planning, coordination, and other related activities associated with the design, development, and implementation of database management systems and software applications in support of all E-commerce applications. The Sr. Database Administrator is responsible for maintaining, supporting, and upgrading existing database management systems and related applications. This individual will apply proven communication skills, problem-solving skills, and knowledge of best practices to help IT teams on issues related to the design, development, and deployment of mission-critical information and database systems. All project and support tasks must be completed consistent with Company goals, industry best practices and regulatory requirements while ensuring data protection and security in highly visible, mission critical environments.<br>
+<br>
+<b>Essential Functions</b>
+</div>
+<div>
+<br>
+<b>
+Strategy &amp; Planning</b><br>
+<ul>
+<li>Participate and support management in the assessment and development of long-term strategic goals for databases technologies and related products in conjunction with application business requirements.</li>
+<li>Support management in the assessment and development of long-term strategic goals for production databases in conjunction with application data owners and department managers.</li>
+<li>Work with application development staff to develop database architectures, tuning/coding standards, and quality assurance policies and procedures.</li>
+<li>Design and implementation of redundant systems, policies, and procedures for backup/recovery, disaster recovery, monitoring, alerting and data archiving to ensure effective protection and integrity of data assets.</li>
+<li>Contribute to the design of data flow across different environments and down to developer local instances.</li>
+</ul>
+<br>
+<b>
+Acquisition &amp; Deployment</b><br>
+<ul>
+<li>Support Management in the development and deployment of new database applications, systems software, and/or enhancements to existing applications throughout the enterprise.</li>
+<li>Support Management in research and making recommendations on database and related software products and services in support of procurement and development efforts.</li>
+<li>Coordinate feasibility studies for database software and related system products under consideration for purchase, and give advice based on findings, where required.</li>
+<li>Ensure that any new database software integration into company systems meets functional requirements, system compliance, and interface specifications.</li>
+<li>Collaborate with analysts, designers, and system owners in the testing of new database software programs and applications.</li>
+</ul>
+<br>
+<b>
+Operational Management</b><br>
+<ul>
+<li>Provide direction for the development team in support of business operations.</li>
+<li>Identify and resolve program and data errors where applicable.</li>
+<li>Design, develop, and install enhancements and upgrades to database systems and application software.</li>
+<li>Design, develop, and implement processes to ensure data is in sync across environments.</li>
+<li>Liaise with network administrators, security engineers, architects and software engineers to assist with quality assurance, program logic, and data processing.</li>
+<li>Provide guidance to junior members of the team.</li>
+<li>Responsible for documentation requirements in the team’s knowledge base.</li>
+</ul>
+<br>
+<b>
+Incidental Functions</b><br>
+<ul>
+<li>Assist with projects as may be required to contribute to efficiency and effectiveness of the work.</li>
+<li>Attend management meetings on behalf of team.</li>
+<li>Participate in hiring activities and fulfilling affirmative action obligations and ensuring compliance with the equal employment opportunity policy.
+</li>
+<li>Provide rotational 24/7 on-call support of database platforms.</li>
+</ul>
+</div>
+<ul>
+<li>Some travel, up to 5% is required.</li>
+<li>Work hours outside the standard office 7.5 hour work day as required.</li>
+</ul>
+<div>
+<br>
+<b>
+Position Requirements</b><br>
+<br>
+<b>Formal Education &amp; Certification</b><br>
+<ul><li>Bachelor degree or foreign equivalent in related field or equivalent experience.</li></ul>
+<br>
+<b>
+Knowledge &amp; Experience</b><br>
+<ul>
+<li>5+ years IT experience.</li>
+<li>4+ years experience working with IBM DB2 database technologies.
+</li>
+<li>Working knowledge of KSH/BSH scripting</li>
+<li>Understanding of database structures, theories, principles, and practices.</li>
+<li>Hands-on database tuning and troubleshooting experience.</li>
+<li>Experience with database monitoring.</li>
+<li>Knowledge of applicable data privacy practices and laws.</li>
+</ul>
+<br>
+<b>
+Preferred Qualifications and Skills</b><br>
+<ul>
+<li>2+ years of hands on experience with Microsoft SQL Server and/or MySQL is preferred</li>
+<li>A minimum of 5 years working with IT processes of Incident Management, Problem Management, Change Management, and Configuration Management is preferred.</li>
+<li>Hands on experience DB2 LUW v10.5 or 11.1 is a plus</li>
+<li>Certification is a plus, but not required</li>
+<li>Exposure to OLTP (Online Transaction Processing) architecture</li>
+<li>Hands on experience with DB2's High Availability Disaster Recovery (HADR) feature</li>
+<li>Exposure to IBM WebSphere Commerce Architecture</li>
+<li>Familiar with devops software development practices, concepts, and tools</li>
+<li>Exposure or hands on experience with Docker, Github, Jenkins</li>
+<li>Exposure to standing up and maintaining databases in a Cloud environment.</li>
+<li>Exposure to Database source control ie. Liquibase or Flyway</li>
+<li>Exposure to DBaaS</li>
+<li>Focus on repeatable automation versus manual work.</li>
+</ul>
+<br>
+</div>
+<div>
+<b>
+Personal Attributes</b><br>
+<ul>
+<li>Strong written and oral communications skills.</li>
+<li>Proven ability and initiative to learn and research new concepts, ideas, and technologies quickly.</li>
+<li>Strong systems/process orientation with demonstrated analytical thinking, organization skills and problem solving skills.</li>
+<li>Ability to work in a team-oriented, collaborative environment.</li>
+<li>Ability to quickly pick up new tools and technologies.</li>
+<li>Willingness and ability to train and teach others.</li>
+<li>Ability to facilitate meetings and follow up with resulting action items.</li>
+<li>Ability to prioritize and execute tasks in a high-pressure environment.</li>
+<li>Strong presentation and interpersonal skills.</li>
+<li>Ability to work effectively in a multi-cultural environment, and to lead and influence cross-organizationally with and without direct authority.</li>
+<li>Ability to effectively move forward on tasks even with ambiguous or changing requirements.</li>
+</ul>
+<br>
+</div>
+<div>
+Must be legally authorized to work in country of employment without sponsorship for employment visa status now or in the future.</div>
+</div>
+<div></div>
+<br>
+Equal Opportunity Employer. All qualified candidates will receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information, creed, citizenship status, marital status, or any other consideration prohibited by law or contract. VEVRAA Federal Contractor requesting priority referral of protected veterans.</div>
+<p></p>
+</div>

@@ -1,0 +1,52 @@
+<h2>Sr. Specialist Solutions Architect - EC2 Compute</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Basic Requirements<br>
+<br>
+<ul>
+<li>4+ years design/implementation/deployment experience of EC2 Spot compute solutions</li>
+<li>4+ years experience in one or more of the following areas:</li>
+<li>Serverless and Container architecture, design or development</li>
+<li>Deployment and operations of workloads on AWS using EC2 Spot</li>
+<li>Working knowledge of software development methodologies</li>
+<li>Technical degree preferred; Computer Science or Math background highly desired</li>
+</ul>
+</div>
+<br>
+<div>Amazon Web Services (AWS) is looking for experienced and motivated technologists who possess a unique balance of technical depth and excellent interpersonal skills. This role is a Specialist Solutions Architect in the Compute field, with a strong focus on EC2 Spot. You will partner with customers that have an EC2 Spot compute workloads as well as several AWS teams to craft highly scalable, flexible and resilient cloud architectures for customers in the EC2 Spot compute space. As a trusted customer advocate, the solutions architect will help customers understand best practices around advanced EC2 Spot solutions, and how to run EC2 Spot in a scalable yet cost-effective manner on AWS. You will have the opportunity to help shape and execute a strategy to build mindshare and broad use of AWS with EC2 Spot customers ranging from start-ups to established enterprise customers. The successful candidate will possess a combination of EC2 Spot compute experience and cloud computing experience in general. You should be able to translate cloud computing concepts into business value for EC2 Spot customers.<br>
+<br>
+Here are some other qualities we are looking for:<br>
+<br>
+Fun to work with. At AWS, we have a credo of “Work hard. Have fun. Make history”. In this role, you will love what you do, and instinctively know how to make work fun. You will be dynamic and creative, and willing to take on any challenge and make a significant impact.<br>
+<br>
+Enjoy working with EC2 Spot customers of all shapes and sizes. You will have a passion for educating, training, designing, and build cloud solutions for a diverse and challenging set of customers ranging from small start-ups to large enterprises.<br>
+<br>
+Have a solid understanding of EC2 Spot technology and trends. The ideal candidate will have experience in a hands-on technical role as a developer working with EC2 Spot solutions. You should have experience deploying and maintaining EC2 Spot solutions, preferably on a cloud platform such as AWS. You will enjoy keeping your existing technical skills honed and developing new ones so that you can make substantial contributions to in-depth architecture discussions. You will regularly take part in deep-dive education and design exercises to create extraordinary EC2 Spot solutions built on AWS.<br>
+<br>
+Roles and Responsibilities<br>
+<br>
+<ul>
+<li>As a key member of the business development and sales team, ensure success in building and migrating applications, software and services on the AWS platform</li>
+<li>Educate EC2 Spot customers of all sizes on the value proposition of AWS, and participate in in-depth architectural discussions to ensure solutions are designed for successful deployment in the cloud</li>
+<li>Conduct one-to-few and one-to-many training sessions to transfer knowledge to EC2 Spot customers considering or already using AWS</li>
+<li>Bring together and share best-practice knowledge among the AWS solutions architect community, especially in regards to EC2 Spot solutions and patterns</li>
+<li>Author or otherwise contribute to AWS customer-facing publications such as whitepapers</li>
+<li>Build deep relationships with senior technical individuals within customers to enable them to be cloud advocates</li>
+<li>Act as a technical liaison between customers, service engineering teams and support</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Excellent verbal skills and the ability to explain technical concepts to a variety of audiences</li>
+<li>
+<li>Strong written communication skills</li>
+<li>
+<li>High level of comfort communicating effectively across internal and external organizations</li>
+<li>
+<li>Demonstrated ability to adapt to new technologies and learn quickly</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation / Age.<br>
+<br>
+aws-solarch-na</div>
+</div>

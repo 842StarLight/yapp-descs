@@ -1,0 +1,52 @@
+<h2>SAP ABAP consultant with testing experience.</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Overview<br>
+</b></h2>
+<div></div>
+<div><div><div>
+<div>Prolifics helps organizations around the world leverage digital technology solutions to innovate and compete, while optimizing costs and operational agility. For more than 40 years, our industry-specific insights, certified digital technology accelerators, deep technical expertise, and global delivery model have transformed organizations around the world by solving complex IT challenges. Over 100 Fortune 1000 companies across a range of industries, including financial services, healthcare, and retail, have trusted our knowledge, consultants, and expertise to implement their IT visions.</div>
+<div></div>
+<br>
+<div><b><i>
+Roles &amp; Responsibilites:</i></b></div>
+<div></div>
+<br>
+<ul>
+<li>
+5+ years of development experience with ABAP on SAP R/3 and S/4HANA.</li>
+<li>
+Experience in various modules including FI/CO/SD/MM.</li>
+<li>
+Develop and maintain ABAP programs using object-oriented programming techniques, SAP-Script, Smart-forms, user exits, BAPI's, BADI's, BTE's and Data Dictionary objects.</li>
+<li>
+Experience with SAP SD user exits for sales order, delivery, billing etc.</li>
+<li>
+Good knowledge of SD pricing and interfaces with non-SAP systems</li>
+<li>
+Experience with SAP BRF+ is preferred</li>
+<li>
+Understanding of SD account assignment and revenue recognition processes</li>
+<li>
+Ability to debug ABAP</li>
+<li>
+Writing of functional/technical specifications for ABAP custom solutions and interfaces</li>
+<li>
+Developing test plan for the tasks, dependencies and participants required to mitigate the risks to system quality and obtain stakeholder support for this plan</li>
+<li>
+Advocate the appropriate level or quality by the resolution of important defects and appropriate level of test-ability focus on the software development process</li>
+<li>
+Reporting to management about the progress and effectiveness of the test effort</li>
+<li>
+Perform systems study, intensive data analysis, performing flow charts and diagrams for high level and low-level workflows and technical documentation on business processes belonging to various applications</li>
+<li>
+Organizing and managing all phases of the software applications cycles design, development of scripts execution of tests, defect management process and participating in change management meetings</li>
+<li>
+Developing customer utilities and accelerators for test design, test data, execution and validation activities</li>
+<li>
+Experience in test automation tools</li>
+</ul>
+</div></div></div>
+</div>
+<p></p>
+</div>

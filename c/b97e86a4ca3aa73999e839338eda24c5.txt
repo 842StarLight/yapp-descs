@@ -1,0 +1,122 @@
+<h2>IT - Senior Cloud Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Cloud Engineer</b></h2>
+<p><b>
+PURPOSE</b><br>
+</p>
+<p>
+The Infrastructure Cloud Specialist position applies technology solutions with varying degrees of complexity for both our corporate functions as well as our customer-facing systems. This position will be integral in determining our cloud strategy and will make key implementation decisions around cloud architecture, implementation, services, administration and ongoing operations including the DevOps framework. Responsibilities include working collaboratively with other technology leaders to develop the infrastructure architecture of our corporate systems as we integrate two companies, as well as working with a team of technologists on the cloud architecture of a next-generation platform for the Worldwide Express enterprise.</p>
+<p><b>
+ESSENTIAL DUTIES, RESPONSIBILITIES &amp; OUTCOMES:</b><br>
+</p>
+<ul>
+<li>
+Exhibits a solid understanding of how the organization's business objectives, opportunities and processes, and what drivers and trends, are influencing the industry and ecosystem.</li>
+<li>
+Experience using logic and reasoning to identify the strengths and weaknesses of alternative technical solutions, conclusions or approaches to problems, driving data-driven decisions</li>
+<li>
+Lead technical design and ensure hurdles are resolved to gain the best performance, reusability, governance, and maintainability</li>
+<li>
+Develop and implement cloud migration strategies</li>
+<li>
+Develop strategies to optimize the utilization of the Cloud instances with emphasis balancing cost, availability and durability/disaster recovery</li>
+<li>
+Define the operational processes to effectively manage the cloud environment and integrate with upstream DevOps pipelines and Software as a Service applications</li>
+<li>
+Support Cloud Infrastructure built on AWS.</li>
+<li>
+Effectively communicates to different audiences. It is important to be able to communicate ideas clearly and concisely in written documents (graphics or text), and to present these coherently and logically.</li>
+<li>
+Has a pragmatic and practical ability of the cloud solution to be implemented. Key to this is an understanding of the issues involved in project development, the language of development teams and, therefore, the ability to engage with the development teams in the deployment of the architecture.</li>
+<li>
+Provides Technical leadership in system integration and promotes best practices in this area</li>
+<li>
+Help define and develop the DevOps process for deploying and maintaining solutions within the Cloud environment</li>
+<li>
+Evaluate the analytics from the cloud environment to make recommendations for improvements and optimization</li>
+<li>
+Lead the technical planning &amp; requirements gathering phases including estimate, develop, test, manage projects, architect and deliver.</li>
+<li>
+Serve as a technical lead and mentor. Provide technical support or leadership in the development and continual improvement of service.</li>
+<li>
+Collaborates with stakeholders to understand emerging business needs and opportunities.</li>
+<li>
+Seeks to understand what system is required to do and also what it should not do. Sets operational standards and resource usage “budgets”</li>
+<li>
+Build strong relationships with business and technology partners</li>
+</ul>
+<p><b>
+WHAT WE EXPECT FROM YOU:</b><br>
+</p>
+<ul>
+<li>
+Bachelor’s Degree or equivalent applicable experience</li>
+<li>
+8+ years of IT experience, at least 5 in infrastructure/operations roles</li>
+<li>
+Must have 2+ years of experience with running production application infrastructure in AWS, Azure or GCP</li>
+<li>
+Experience working with key technology and modern architectural structures such as AWS, Lambda, J2EE, SOAP/REST integrations, APIs, Micro-services, etc.</li>
+<li>
+Extensive experience with open-source technology such as Linux, Java, Apache</li>
+<li>
+Experience with security concepts and technologies (authentication, authorization, encryption, digital signature), SSL, web service proxies, firewalls, multi-protocol gateways and VPN</li>
+<li>
+Hands-on experience administering AWS IAM beneficial</li>
+<li>
+Experience building and ongoing administration with DevOps pipeline tools such as Jenkins, Git and Terraform</li>
+<li>
+Experience with agile development methods such as SCRUM, XP, and/or SAFe Agile</li>
+<li>
+Experience with virtualization technologies and containerization, and Platform-as-a-Service technologies such as Kubernetes</li>
+<li>
+Experience with cloud-based data platforms (RDBMS, NoSQL, Hadoop)</li>
+</ul>
+<b>
+KNOWLEDGE OF</b><br>
+<ul>
+<li>Understanding of the industry, specific WWEX business model, and unique characteristics of the Company.</li>
+<li>
+Significant leadership experience in the logistics industry or adjacent industries applicable to WWEX.</li>
+<li>
+Modern architectural patterns and practical application of patterns</li>
+<li>
+Cloud technology and associated providers, software and services(QHsdXj)</li>
+</ul>
+<p><br>
+<b>
+SKILLS AND ABILITIES IN:</b><b>KNOWLEDGE OF</b></p>
+<ul>
+<li>
+Influencing, leading change that drives business performance.</li>
+<li>
+Verbal and written communication skills.</li>
+<li>
+Conflict management and problem-solving.</li>
+<li>
+Assessment and decision-making skills.</li>
+<li>
+Relationship building both within the organization and with external sources.</li>
+<li>
+Presentation and facilitation skills.</li>
+<li>
+Deductive and inductive reasoning.</li>
+<li>
+Critical thinking.</li>
+<li>
+Forward thinking.</li>
+<li>
+Technical Expertise.</li>
+<li>
+Collaborative.</li>
+</ul>
+<p><b>
+WHO ARE WE?</b></p>
+<p>
+Quite simply, we make shipping simple. Worldwide Express is a relationship company offering customers a comprehensive solution for their shipping needs, whether it be small package, less-than-truckload or full truckload. We are a local partner for our customers’ global supply chain, providing consultative service from more than 125 offices across the nation. Through our relationship with UPS® and a highly selective carrier portfolio, we provide our customers with a breadth of shipping options unmatched in the 3PL field.</p>
+<p>
+Worldwide Express has a strategic partnership with UPS for light package, domestic and international shipping to penetrate the small to medium size business sector. As UPS's largest non-retail authorized reseller in North America, our sales teams do what they do best, which is providing solutions to C-Level executives while letting UPS do what they do best: deliver more packages on time than anyone else. In addition to our relationship with UPS, WWEX has alliances with over 65 LTL, Domestic Air Freight, and International Air Freight carriers. WWEX provides tailored services and individualized shipping solutions to fit the needs of any small to medium-sized business customers.</p>
+<p><br>
+<b>
+Worldwide Express is an Equal Opportunity Employer</b>. Worldwide Express Operations, LLC, and WWEX Franchise Holdings, LLC, (collectively “Worldwide Express”) strive to make employment decisions on the basis of merit, seeking the most qualified individuals in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, pregnancy, gender identity or expression, sexual orientation, marital status, national origin or ancestry, genetics, disability, age, veteran status, or other status protected by law. All employment decisions will be based on valid job requirements or other legitimate, non-discriminatory reasons. Worldwide Express offers reasonable accommodations for individuals with disabilities in the job application and hiring process. If you would like to request such an accommodation, please contact the Vice President of Human Resources for Worldwide Express.</p>
+</div></div>

@@ -1,0 +1,50 @@
+<h2>Senior Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>“Years from now when you are sitting on your proverbial rocking chair and look back at your career, we want you to feel that Tigera was the BEST job that you ever had and the best company that you worked for. We are passionate about this and will work hard to earn your trust. We will strive to improve every single day on this front.”<br>
+<br>
+<ul><li>The Tigera Leadership Team</li></ul>
+<br>
+TIGERA OVERVIEW<br>
+<br>
+Enterprise adoption of Kubernetes is increasing. According to Datadog, over 80% of organizations are using container orchestration tool if they are in production and Kubernetes is the leading choice for these enterprises. One of the biggest barriers to adoption is that traditional security solutions do not work in this environment. This is the problem that Tigera solves.<br>
+<br>
+We have created the world's best zero trust security and continuous compliance solution for Kubernetes platforms. We have some of the smartest engineers on the planet who are building an incredible solution for a really complex problem. Some of the largest enterprises have embraced our technology as they are building out their container platforms. We power a majority of the Kubernetes clusters around the planet with our Network Security solution.<br>
+<br>
+To help these customers succeed, we are building a world-class Customer Success team and are looking for technical rock stars with a passion for designing and deploying technical solutions based on cutting-edge technology. You will lead the charge to operationalize one of our core values - “Our customer is the Hero of our story”. We believe that “Our job doesn’t end when we sell them our product - it begins at that point”.<br>
+<br>
+In your role as a Senior Solutions Architect, you will engage with our customers and users to help them design and architect a secure Container-as-a-Service (CaaS) platform powered by Kubernetes. You will provide thought leadership, guide customers and partners towards implementation of best practices, and provide ongoing technical guidance and consulting during steady state operations.<br>
+<br>
+And you will have a unique opportunity to learn, develop and grow your Kubernetes skills from the best Kubernetes experts that you can find, all while having the experience of a lifetime.<br>
+<br>
+Companies like Tigera are rare to find and now is the time to join our growing company, so YOU can make a difference at Tigera!<br>
+<br>
+WHAT YOU WILL DO
+<ul>
+<li>Lead the technical engagement with our customers, with the support of the rest of the Tigera team. You will be instrumental in ensuring the success of both the customer and Tigera in each and every new deployment.</li>
+<li>Assist customers with the architecture of their Kubernetes CaaS platform and implementation of the Tigera Solution.</li>
+<li>Help in integrating the Tigera Solution into the customer's infrastructure (authentication, logging, alerting, monitoring).</li>
+<li>Collaborate with customers to define security best practices and design/implement workflows.</li>
+<li>Identify barriers to adoption and customer friction points and work with Product Management to create a product roadmap that aligns with the needs of our customers.</li>
+<li>Provide customers with consulting services utilizing your expertise in Networking, Security and container Orchestration, especially relating to Kubernetes and Service Mesh deployments</li>
+<li>Engage with the local community through venues like meetups (attending, hosting, and presenting) and local conferences with the goal of generating more interest in Calico and Tigera.</li>
+<li>Become a trusted resource and advocate for your customers. Someone who the customer relies on to give the right answer, not necessarily the most commercially rewarding answer.</li>
+<li>Have fun!</li>
+</ul>REQUIREMENTS
+<ul>
+<li>7+ years experience with direct operational responsibility for complex software systems (e.g. as a site reliability engineer, network architect or a devops engineer)</li>
+<li>Deep hands-on technical skills &amp; knowledge - you will be able to check off all of the following:</li>
+<li>Linux fundamentals and system administration</li>
+<li>IP networking</li>
+<li>Private and public VM environments (e.g. OpenStack, AWS, Azure, GCE)</li>
+<li>Software development/operations (DevOps) experience</li>
+<li>Network and systems security / SecOps</li>
+<li>Container environments (preferred)</li>
+<li>Experience as a sales engineer, solutions architect, resident engineer, or consulting engineer, ideally with an open source based product, would be a plus.</li>
+<li>Consultative, analytical and process-oriented mindset</li>
+<li>Demonstrated desire for continuous learning and improvement</li>
+<li>Enthusiastic and creative problem solver, with the ability to inspire others</li>
+<li>Excellent verbal and written communication and presentation skills</li>
+<li>Experience in an early-stage startup environment</li>
+<li>Willingness to travel (mostly nationally, occasionally international) as required (total travel</li>
+<li>Bachelor's Degree in Computer Science/Computer Engineering/Information Technology or related</li>
+</ul>
+</div></div>

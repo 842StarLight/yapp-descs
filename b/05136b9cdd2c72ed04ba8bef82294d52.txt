@@ -1,0 +1,141 @@
+<h2>Sr. Oracle DBA</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Description
+</b></p>
+<p>Company Summary
+</p>
+<p>If you have taken a moment to unwind with a bottle of beer, toast with glass of wine, or celebrate with a cocktail, chances are that you have shared that moment with Constellation Brands. We are passionate producers of iconic beer, wine and spirits brands that consumers love. From Corona Extra, to Robert Mondavi Wines, to SVEKDA Vodka, we produce over 100 premium brands with sales in nearly 100 countries, making us the number one multi-category beverage alcohol company in the U.S.
+</p>
+<p></p>
+<p><b>Position Summary
+</b></p>
+<p>The Senior Database Administrator position will be responsible for solution design and operational support for various on premise and cloud Infrastructure products running on Enterprise Linux using the most current Oracle Database Platforms. The position requires capacity planning, installation, integration, configuration, database design, migration, performance monitoring, security, troubleshooting, maintenance, upgrades, refreshes and recovery and backup.
+</p>
+<p></p>
+<p>We are open to remote workers.
+</p>
+<p></p>
+<p><b>Key Responsibilities
+</b></p>
+<ul>
+<li>Design, Installation, configuration, patching and upgrading of database server software and related products
+</li>
+<li>Establish and maintain sound recovery and backup policies and procedures
+</li>
+<li>Implement and maintain database security (create and maintain users and roles, assign privileges).
+</li>
+<li>Ensuring data integrity and availability
+</li>
+<li>Establish and execute periodic disaster recovery testing
+</li>
+<li>Performance management, and tuning
+</li>
+<li>Database management, monitoring, and maintenance
+</li>
+<li>Capacity planning
+</li>
+<li>Database licensing
+</li>
+<li>Database security, and encryption
+</li>
+<li>Evaluation of database features and database related products
+</li>
+<li>Provide Database compliance for Sarbanes Oxley (SOX)
+</li>
+<li>Database administration for Oracle on premise and in cloud
+</li>
+<li>Setup and maintain documentation and standards
+</li>
+<li>Manage Oracle Exadata environments, including coordinating with Platinum support and coordination with application owners on quarterly patching activities
+</li>
+</ul>
+<p></p>
+<p><b>Minimum Qualifications
+</b></p>
+<ul>
+<li>Bachelor’s degree in computer science, information systems
+</li>
+<li>5-10 years of IT experience with a record of progressive career growth
+</li>
+<li>8-10 years’ experience with Database Administration
+</li>
+<li>Experience with managing Oracle Exadata environments
+</li>
+<li>Experience with Oracle database products such as Real Application Clusters (RAC), Active Data Guard, and Oracle Enterprise Manager (OEM)
+</li>
+<li>Extensive experience with Database troubleshooting to identify root cause
+</li>
+<li>Work as part of a team and provide 24x7 support when required
+</li>
+<li>Proven ability to work business requirements into solutions that map to technology capabilities and integration with existing infrastructure
+</li>
+<li>Proven track record of implementing significant IT infrastructure projects on schedule and budget
+</li>
+<li>In depth understanding of ITIL/ITSM principles in managing operational service delivery
+</li>
+<li>Demonstrate ability and experience in working with vendors and service providers.
+</li>
+<li>Excellent communication (written, verbal and presentation) skills, and advanced problem-solving orientation and decision-making skills. Proven ability to develop, present and justify positions to all levels within the company.
+</li>
+<li>Excellent knowledge management, process management, and documentation skills including architecture diagrams
+</li>
+<li>Excellent time management skills, with the ability to manage multiple priorities and production incidents simultaneously
+</li>
+<li>Work within a team environment, manage systems, lead upgrades, coordinate installs and work from a ticketing queue.
+</li>
+</ul>
+<p></p>
+<p><b>Preferred Qualifications
+</b></p>
+<ul>
+<li>Cloud experience, preferably AWS
+</li>
+<li>Experience managing Exadata X3-2, X4-2 (or higher) using Oracle 12c with RAC
+</li>
+<li>Experience with managing a Data Warehouse on Exadata
+</li>
+<li>Experience with Oracle Golden Gate
+</li>
+<li>Experience with Managing Oracle environment on a VMware cluster running RAC
+</li>
+<li>Experience providing audit reporting for Oracle Databases in scope for Sarbanes Oxley (SOX)
+</li>
+<li>Experience with Database access management (DAM) products
+</li>
+<li>Experience with some or all of the following SAP, SAP HANA, SQL Server, Postgresql, AWS
+</li>
+<li>Experience with Database recovery and backup using Veritas Netbackup
+</li>
+<li>Ability to automate mundane Database tasks
+</li>
+<li>Change Agent
+</li>
+<li>Agile principles/methodologies
+</li>
+<li>Self-motivated, quick learner
+</li>
+</ul>
+<p></p>
+<p><b>Physical Requirements/Work Environment
+</b></p>
+<p><b>Must be able to sit and/or stand for long periods of time, and work on a computer for extended periods.
+</b></p>
+<p><b>*Add in Travel Requirements as needed
+</b></p>
+<p></p>
+<p><b>Location
+</b></p>Canandaigua, New York
+<p></p>
+<p><b>Additional Locations
+</b></p>Chicago, Illinois, San Antonio, Texas
+<p></p>
+<p><b>Job Type
+</b></p>Full time
+<p></p>
+<p><b>Job Area
+</b></p>Information Technology
+<p></p>
+<p><b>Equal Opportunity
+</b></p>
+<p>Constellation Brands is committed to a continuing program of equal employment opportunity. All persons have equal employment opportunities with Constellation Brands, regardless of their sex, race, color, age, religion, creed, sexual orientation, national origin or citizenship, ancestry, physical or mental disability, medical condition (cancer or genetic characteristics), marital status, gender (including gender identity or gender expression), familial status, military or veteran status, genetic information, pregnancy, childbirth, breastfeeding, or related conditions (or any other group or category within the framework of the applicable discrimination laws and regulations).</p>
+</div></div>

@@ -1,0 +1,180 @@
+<h2>FPGA Engineer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>KARL STORZ SE &amp; Co. KG based in Tuttlingen, Germany, is a family-owned, global company committed to benefiting humanity by advancing medical technology through innovation and education.</p>
+<br>
+<p></p>
+<p>For more than 70 years, KARL STORZ has been dedicated to earning its international reputation as a leader that designs, engineers, manufactures, and markets all its products with an emphasis on visionary design, precision craftsmanship, and clinical effectiveness.</p>
+<br>
+<p></p>
+<p></p>
+<div>
+<p>Located just north of Santa Barbara on the scenic Central Coast of California, KSI designs and manufactures high tech medical imaging equipment including video cameras and image enhancing devices. We employ technical staff with expertise in electronics, optics, mechanical systems and software. Our lean manufacturing operations include an in-house machine shop which enables the complete on-site assembly of our products. To become a part of this dynamic team, we invite you to learn more about our opportunities.</p>
+<h2 class="jobSectionHeader"><b>Job Summary:</b></h2>
+</div>
+<p>Design, develop, test, integrate, and verify FPGA designs for medical video camera systems.</p>
+<div><p><b>ESSENTIAL FUNCTIONS</b><b><i>:</i></b> <i>List the essential duties and responsibilities of the position, in order of importance and/or amount of time spent.
+</i></p></div>
+<ul>
+<li>
+<p>Create synthesizable Verilog HDL code for FPGAs</p>
+</li>
+<li>
+<p>Create Verilog or System Verilog code to simulate and verify FPGA designs</p>
+</li>
+<li>
+<p>Troubleshooting FPGA designs</p>
+</li>
+<li>
+<p>Analyze resource utilization, power, and timing.</p>
+</li>
+</ul>
+<div>
+<p><b>ADDITIONAL RESPONSIBILITES: </b><i>List other important functions that are secondary duties but may be time consuming.</i></p>
+</div>
+<ul>
+<li>
+<p>Implement small software designs for embedded processors</p>
+</li>
+<li>
+<p>Performs other related duties as assigned by supervisor</p>
+</li>
+</ul>
+<div>
+<p><b>KNOWLEDGE, SKILLS, ABILITIES: </b><i>What does a person in this position need to be able to do?</i></p>
+</div>
+<ul>
+<li>
+<p>Intermediate expertise using (System) Verilog or VHDL for implementation and verification of FPGA designs.</p>
+</li>
+<li>
+<p>Basic expertise writing and verifying Embedded C for microcontrollers closely interfacing with FPGA.</p>
+</li>
+<li>
+<p>Basic knowledge of video timing and interface standards.</p>
+</li>
+<li>
+<p>Intermediate expertise in troubleshooting electrical systems focusing on the FPGA but including software and hardware.</p>
+</li>
+<li>
+<p>Intermediate ability to find, recommend, and implement innovative and effective solutions to design issues.</p>
+</li>
+<li>
+<p>Basic expertise analyzing FPGA power, performance, resources, and other tradeoffs relative to system requirements</p>
+</li>
+<li>
+<p>Basic expertise architecting FPGA designs to meet system requirements. This includes contributing to system requirements development</p>
+</li>
+<li>
+<p>Intermediate understanding of the internal structure of FPGAs and the behavior of FPGA design tools</p>
+</li>
+<li>
+<p>Basic expertise improving and influencing the direction and process of FPGA design within Karl Storz</p>
+</li>
+<li>
+<p>Basic expertise leading other engineers in a technical role.This includes mentoring and knowledge sharing.</p>
+</li>
+<li>
+<p>Intermediate expertise writing clear, accurate, and thorough requirements, analysis and design descriptions.</p>
+</li>
+<li>
+<p>Knowledge of medical device quality system regulations and standards (eg, U.S. FDA Quality System Regulation 21CFR Part 820, ISO13485, ISO9001)</p>
+</li>
+</ul>
+<div>
+<p><b>EDUCATION AND EXPERIENCE:</b></p>
+</div>
+<p>BS in Electrical or Computer Engineering and 2-5 years years experience in FPGA design or related field.</p>
+<p>MS in Electrical or Computer Engineering and 0-2 years years experience in FPGA design or related field.</p>
+<div>
+<p><b>PHYSICAL &amp; MENTAL REQUIREMENTS:</b></p>
+</div>
+<ul>
+<li>
+<p>Visual acuity sufficient for testing</p>
+</li>
+<li>
+<p>Ability to sit for extended periods (during meetings and computer work)</p>
+</li>
+<li>
+<p>Ability to lift video and test equipment (approximately 20 lbs)</p>
+</li>
+<li>
+<p>Ability to connect electrical devices</p>
+</li>
+<li>
+<p>Communicate clearly with manager and co-workers</p>
+</li>
+</ul>
+<div>
+<p><b>TRAINING REQUIREMENTS:</b> <i>Safety, regulatory compliance, legal &amp; job specific</i></p>
+</div>
+<ul>
+<li>
+<p>Injury and Illness Prevention Program; annually - OSHA requirement</p>
+</li>
+<li>
+<p>Quality System training</p>
+</li>
+<li>
+<p>Job Specific - In house requirement</p>
+</li>
+</ul>
+<div>
+<p><b>SUPERVISORY RESPONSIBILITIES: </b><i>List job titles supervised by this position.</i></p>
+<ul> <li>none</li>
+</ul>
+</div>
+<div><h3 class="jobSectionHeader"><b>LEVEL OF SUPERVISION REQUIRED:
+</b></h3></div>
+<ul>
+<li>
+<p>Manager assigns projects and responsibilities.</p>
+</li>
+<li>
+<p>General instruction from manager or technical lead on project assignments.</p>
+</li>
+</ul>
+<div>
+<p><b>INTERFACE:</b> (Internal/External Customers)<i> List positions, work groups, departments.</i></p>
+<ul>
+<li>Primarily internal company contacts. Infrequent inter-organizational and outside customer contacts on routine matters.</li>
+</ul>
+<p>KSI is unable to consider No H-1B Sponsorships for this position.</p>
+<br>
+<p><br>
+Link to job posting: https://chm.tbe.taleo.net/chm01/ats/careers/requisition.jsp?org=KARLSTORZENDO&amp;cws=1&amp;rid=10183</p>
+<p>#LI-LS1</p>
+<br>
+<p></p>
+</div>
+<p></p>
+<p><b>Employee Benefits Program Overview for U.S. Locations</b></p>
+<ul>
+<li>Medical / Dental / Vision including a state of the art wellness program and pet insurance, too!*</li>
+<li>3 weeks’ vacation, 10 holidays plus paid sick time*</li>
+<li>401K retirement savings plan providing a match of 60% of the employee’s first 6% contribution</li>
+<li>Section 125 Flexible Spending Accounts</li>
+<li>Life, STD, LTD &amp; LTC Insurance</li>
+<li>Tuition reimbursement of up to $5,250 per year</li>
+<li>Fitness reimbursement up to $200 annually</li>
+<li>Employee referral program of up to $2,000 per hire</li>
+<li>And much more!</li>
+</ul>
+<ul><li><i>Field sales, internships and part-time employees are not eligible except for where required by state law.</i></li></ul>
+<i>
+Non-employees, including temporary workers and consultants, are not eligible to participate in KARL STORZ benefits program.</i><br>
+<p></p>
+<p>KARL STORZ reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship. Additionally, KARL STORZ, through its supervisors, may require an employee to perform duties outside their normal description within the sole discretion of the supervisor. Employee must comply will all applicable KARL STORZ policies and procedures.</p>
+<br>
+<p></p>
+<p><b>Equal Employment Opportunity Statement</b></p>
+<p>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability or protected veteran status. KARL STORZ is an Equal Opportunity Employer supporting EOE/M/F/Vet/Disability.</p>
+<br>
+<p></p>
+<p><b>Reasonable Accommodation</b></p>
+<p>If, at any point in the application process (including hiring), a candidate would like to request a reasonable accommodation due to a disability or a religious need, please email us at Taleo_Administrator@karlstorz.com and we'll be happy to engage in an interactive process with you.</p>
+<br>
+<p></p>
+<p><b>Notice to Employment Agencies</b></p>
+<p>This recruitment assignment is being managed directly by KARL STORZ’s Human Resources team. Human Resources will reach out to our preferred, contracted agency partners in the rare instance additional talent options are required. Your respect for this process is appreciated. KARL STORZ does not accept unsolicited Agency resumes. Resumes received which were unsolicited by KARL STORZ Human Resources department will be ineligible for referral fees.</p>
+</div></div>

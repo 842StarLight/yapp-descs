@@ -1,0 +1,98 @@
+<h2>IT Enterprise Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h1 class="jobSectionHeader"><b>Position:</b></h1>
+IT Enterprise Architect<p></p>
+<h1 class="jobSectionHeader"><b>
+Job Description:</b></h1>
+<p>
+Arrow Electronics, Inc. – a Fortune 110 company with global headquarters in Denver - helps the world’s best technology companies think “Five Years Out,” working together to continually innovate the “next big thing”. We are a global provider of technology products, services and solutions, with 2018 sales of $30 billion.
+</p>
+<p></p>
+<p>Arrow is seeking an <b>IT Enterprise Architect </b>who will join our Global Components division in <b>Centennial, CO.
+</b></p>
+<p></p>
+<p><b>Job duties</b>:</p>
+<ul>
+<li>
+Develop and present multiple solutions/approaches to solve enterprise architecture issues.</li>
+<li>
+Triage application performance, scalability and security issues and enhance application architecture to mitigate these issues.</li>
+<li>
+Responsible for enterprise technical architecture including application, security, information and infrastructure platforms and standards.</li>
+<li>
+Coordinate with various lines of business, supporting staff and technology areas to evaluate and select technologies and platforms, define enterprise guiding principles, review delivered architectures, and act as architect for large programs</li>
+<li>
+Deliver software development, data management, security, systems and networking responsibilities at a quick pace and providing guidance to other developers to help them overcome obstacles that are preventing their development efforts</li>
+<li>
+Flexibility and adaptable to working with a 24x7 Global operation</li>
+<li>
+Understands the business problems, needs, or opportunities and designs a virtualized solution that completely and correctly addresses the business problem, need, or opportunity.</li>
+</ul>
+<p></p>
+<p><b>
+Job Requirements:</b></p>
+<ul>
+<li>
+10+ years of development experience with large-scale complex system software systems (e.g. Public or Private Cloud systems, highly scalable Web Application development, application servers and frameworks, operating systems, or Cloud Analytic services, etc).</li>
+<li>
+In-depth understanding and experience in system/product design towards strong security, extreme performance and scalability, high availability and manageability.</li>
+<li>
+Experience in defining &amp; implementing roadmap for platform modernization such as application migrations across different application servers (e.g. Oracle application server to Weblogic/Tomcat) and upgrade of UI Javascript frameworks (such as Ext JS &amp; Angular)</li>
+<li>
+Experience in implementing Productivity and Quality Improvement tools such as Maven, JMeter, Selenium, PMD, FindBug, Jenkins etc</li>
+<li>
+Solid understanding of UI design concepts. Familiar with authentication, access control, accessibility, UML, common Java/UI modeling practices.</li>
+<li>
+Extensive experience in multi-threaded design and programming in Java/J2EE, including UI design, concurrency control, HTTP and HTTPs, and HTML5, etc.</li>
+<li>
+Solid understanding of one or more major relational database systems (such as Oracle, SQL Server), including database design, administration, configuration, tuning, database access APIs, SQL, stored procedures, and major security features. Familiarity with application security and middleware security technologies.</li>
+<li>
+Exposure to 3-tier application architecture, and insights on applications and components that integrate with J2EE based middleware systems, application development frameworks, and identity management systems.</li>
+<li>
+Able to pick up new languages and technologies quickly, be a strong team player, and rapidly adapt to changing business and customer demands.</li>
+</ul>
+<p></p>
+<p><b>
+What’s In It For You</b></p>
+<p>
+At Arrow, we recognize that financial rewards and great benefits are important aspects of an ideal job. That’s why we offer competitive financial compensation, including various compensation plans, and a solid benefits package.</p>
+<p></p>
+<ul>
+<li>
+Medical, Dental, Vision Insurance</li>
+<li>
+401k, With Matching Contributions</li>
+<li>
+Paid Time Off</li>
+<li>
+Health Savings Account (HSA)/Health Reimbursement Account (HRA) Options</li>
+<li>
+Growth Opportunities</li>
+<li>
+Short-Term/Long-Term Disability Insurance</li>
+<li>
+Discounted RTD Passes, with convenient office location off RTD Light Rail (Dry Creek Exit)</li>
+<li>
+On-site Café with Catering Option for Busy Lifestyles</li>
+<li>
+24/7/365 On-site Gym and Lockers, Free for Use to All Employees!</li>
+<li>
+Bike Racks</li>
+<li>
+And more!</li>
+</ul>
+<p></p>
+<p>
+#Dice</p>
+<p>
+#Li</p>
+<p></p>
+<h1 class="jobSectionHeader"><b>
+Location:</b></h1>
+Denver (Panorama)<p></p>
+<h1 class="jobSectionHeader"><b>
+Time Type:</b></h1>
+Full time<p></p>
+<h1 class="jobSectionHeader"><b>
+Job Category:</b></h1>
+Information Technology</div></div>

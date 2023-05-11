@@ -1,0 +1,109 @@
+<h2>SR BUSINESS INTELLIGENCE DEVELOPER IT</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div><div>
+<p>About Interface
+</p>
+<p>Interface offers a comprehensive line of performance products made in ISO-registered manufacturing facilities, supported by innovative product development and a team focused on customer satisfaction. Interface currently employ 4000 associates in 22 facilities located in 5 countries. Since 1917, a culture of converting great ideas into advanced products has created a legacy of excellence in product innovation, quality, and customer service.</p>
+<br>
+<p></p>
+<p><b>Senior BI developer</b></p>
+<p>Location: Atlanta, GA</p>
+<br>
+<p></p>
+<p>Interface, a values-driven organization, and global leader in modular-carpeting solutions is in search for a Senior BI developer with proven track record of BI development experience, especially with QlikView and QlikSense tools. Interface has a passion for sustainability, which is demonstrated through our products, processes and people. If you are looking for a role that will allow you to work with professionals who are dedicated to eliminating any negative impact their company may have on the environment, this could be the right position for you!</p>
+<br>
+<p></p>
+<p>The Impact</p>
+<p>The selected individual will be an integral part of improving our Company Business Intelligence platform in multiple domain areas which include “But not limited to” sales, marketing, supply chain optimization and finance.</p>
+<br>
+<p></p>
+<p>The Challenge</p>
+<p>The selected individual will be working within in a long established environment that’s moving towards automation and business process improvement across the organization. Accurate and timely information “With proper Key Performance Indicators (KPIs)” is crucial in decision making across the company and at various level of managements. Solutions developed and provided must be accomplished in a way to make the solutions simple to implement &amp; use, repeatable and adoptable by user community.</p>
+<br>
+<p></p>
+<p>The Opportunity
+</p>
+<p>This is an opportunity to work with a stellar group of environmentally-minded individuals, who have a passion for their work. Interface is not only a believer in bringing in some of the top minds in the industry, but is also a strong proponent of internal career development / succession planning. As a result, you’ll have the opportunity to challenge yourself while having the opportunity to grow within the company!</p>
+<br>
+<p></p>
+<p>Job Responsibilities</p>
+<ul>
+<li>Work with the Global BI Manager, coworkers, and business owners to establish challenging IT goals, plans and objectives that support the company’s vision.</li>
+</ul>
+<ul>
+<li>Perform detailed analysis of source systems and source system data and model that data in QlikView and/or QlikSense</li>
+<li>Design, develop, and test Qlik scripts to import data from source systems and test Qlik dashboards to meet customer requirements</li>
+<li>Interpret written business requirements and technical specification documents</li>
+<li>Create and maintain technical design documentation</li>
+<li>Perform quality coding to business and technical specifications and perform data quality checks and reviews from source systems</li>
+<li>Contribute towards the monitoring of the Qlik server process - ensure they are running and operated in the most efficient manner</li>
+<li>Assist in Performing Qlik system administration and testing of releases and patches, when needed</li>
+<li>Perform and assist in testing life cycle - unit, integration, regression, UAT, performance, etc.</li>
+<li>Work with business users to define and prototype Qlik Applications</li>
+<li>Extracting, transforming and loading data from multiple sources into Qlik applications</li>
+<li>Design, create and tune physical database objects (tables, views, indexes) to support logical and dimensional models; Maintain the referential integrity of the database</li>
+<li>Providing and proposing, evaluating and selecting appropriate design alternatives which meet client requirements and are consistent with client’s current standards and processes</li>
+<li>Demonstrating Qlik reports and dashboards to users</li>
+<li>Manage and maintain positive working relationships with IT solution and service providers</li>
+<li>Establish and support a positive work environment based mutual respect, honesty, team work and continuous improvement.</li>
+<li>Interact with business stakeholders / partners to understand their business and reporting needs, including critical metrics and KPIs</li>
+<li>Transform business requirements &amp; wireframes into a guided analytics prototype to provide business and data insights</li>
+<li>Design, develop and test Qlik Sense Applications integrating reporting components from multiple data sources</li>
+<br>
+</ul>
+</div></div>
+<br>
+</div>
+<p></p>
+<h3 class="jobSectionHeader"><b>Qualification:</b></h3>
+<div></div>
+<div>
+<br>
+<div><div>
+<p>Key Requirements</p>
+<ul>
+<li>Over BI experience of minimum 7 years with strong experience of SDLC life cycle</li>
+<li>Hands-on professional with thorough knowledge of scripting, data source integration and advanced GUI development in QlikView and/or QlikSense (minimum 3 years)</li>
+<li>Comprehensive Knowledge of Ralph Kimball's Data Modeling Concepts including Transaction dimensions, conformed dimensions and facts, slowly changing dimensions, multi-Star/ Snowflake Schema Modeling, different types of Fact tables (minimum 5 years).</li>
+<li>Experience in Advanced skills in writing SQL queries, views, and optimization of SQL queries are necessary (minimum 5 years)..</li>
+<li>Ability to write complicated yet efficient SQL queries and stored procedures</li>
+<li>Experience UML data modeling and data normalization (minimum 5 years). Experience in data modeling in QlikSense</li>
+<li>Experience in sourcing data from multiple systems with a good understanding of their Data Models and ETL procedures</li>
+<li>Full understanding of the processes of data quality, data cleansing and data transformation (minimum 5 years).</li>
+<li>Strong knowledge on Qlik server architecture and building qvd’s and qvw’s applying business rules and data validations</li>
+<li>Experience in end-to-end implementation of Business Intelligence (BI) projects, especially in scorecards, KPIs, reports &amp; dashboards</li>
+<li>ERP Experience is a plus with JDE, CRM (Salesfore.com), SAP</li>
+<li>Experience with at least one data integration tools such as Informatica, ODI, Ab Initio, SSIS, Open Source.</li>
+<li>Ability to work independently with internal teams and customers.</li>
+<li>Strong quantitative analysis, written, and verbal communication skills</li>
+<li>Experience in optimizing dashboards with focus on usability, performance, flexibility and standardization</li>
+<li>Good knowledge on Qlik View/Qlik Sense scripting language and building QVDs and QVWs applying business rules and data validations</li>
+<li>Experience in data cleansing and data transformation activities</li>
+<li>Experience in end-to-end implementation of BI projects for developing a portfolio of scorecards, KPIs, reports &amp; dashboards</li>
+<li>Exposure in integrating R and Python tools.</li>
+<li>Understanding of CSS, HTML, and JavaScript to design, develop, enhance Qlik extensions, Mashups, Widgets using Dev Hub</li>
+<br>
+</ul>
+<p></p>
+<p>PLUS Items - Experiences, Knowledge and Capabilities</p>
+<ul>
+<li>Experience and/or good working knowledge of Advanced Analytics concepts, AI, BoTs, Data Science competencies, cloud BI services, Data Lakes</li>
+<li>Experience is a plus in developing BI Solutions supporting Sales, marketing and Supply chain.</li>
+<li>Experience is a plus with other BI Tools (Examples: OBIEE, Business Objects, Microsoft Power BI, Tableau, etc.)</li>
+<li>Hands-on experience with ETL development a plus</li>
+<li>Training Experience</li>
+<br>
+</ul>
+<p></p>
+<p>Internal Post:<br>
+Internal Remove:<br>
+<br>
+We are a VEVRAA Federal Contractor. We desire priority referrals of Protected Veterans for job openings at all locations within the State of Georgia. An Equal Opportunity Employer including Veterans and Individuals with Disabilities.</p>
+</div></div>
+</div>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,70 @@
+<h2>Cloud / Azure Security Manager - Location Negotiable</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>Join Accenture and help transform leading organizations and communities around the world. The sheer scale of our capabilities and client engagements and the way we collaborate, operate and deliver value provides an unparalleled opportunity to grow and advance. Choose Accenture, and make delivering innovative work part of your extraordinary career. People in our <b>Client &amp; Market</b> career track drive profitable growth by developing market-relevant insights to increase market share or create new markets. They progress through required promotion into market-facing roles that have a direct impact on sales. <b>Security</b> professionals apply deep security skills to design, build and protect enterprise systems, applications, data, assets and people for Accenture and our clients.</div>
+<br>
+<div>
+<br>
+<b>Job Description</b>
+</div>
+<div>
+<b>Security and Risk</b> professionals develop and deliver solutions that protect enterprise systems, applications and data by establishing policies, practices and tools that prevent unauthorized access, use, disclosure, modification or disruption. A professional at this position level within Accenture has the following responsibilities: Identifies, assesses and solves <b>complex business problems</b> for area of responsibility, where analysis of situations or data requires an in-depth evaluation of variable factors. Closely <b>follows the strategic direction </b>set by senior management when establishing near term goals. Interacts with <b>senior management </b>at a client and/or within Accenture on matters where they may need to gain acceptance on an alternate approach. Has<b> some latitude </b>in decision-making. Acts independently to determine methods and procedures on<b> new assignments</b>. Decisions have a major day to day impact on<b> area of responsibility</b>. Manages <b>medium – small sized teams</b> <b>and/or work efforts</b> (if in an individual contributor role) at a client or within Accenture.</div>
+<div>We are currently looking for managers for our Security practice with extensive experience in code development &amp; automation, Azure Cloud Security (Build / Run / Strategy), architecture, implementation and operations for our client projects. Key Responsibilities:</div>
+<ul><li>Support the delivery of Accenture's security offerings related to cloud security, including security governance (security policies and procedures), security strategy (security planning), risk (risk assessments and management), cloud data protection (classification, encryption, tokenization), cloud-based identity and access management, technology/provider-specific cloud architecture (AWS, Azure, Softlayer, VMware) and monitoring/analytics for and in the cloud. Heavy Background in DevOps is a requirement.</li></ul>
+<ul><li>Ability to interpret relevance of security controls to relevant compliance with legal, best-practice, and regulatory requirements for cloud environments</li></ul>
+<ul><li>Developing and presenting at industry conferences as an expert in the Cloud Security field</li></ul>
+<ul><li>Lead the growth, development and support junior cloud security resources</li></ul>
+<ul><li>Understand engagements, business drivers and security enablement opportunities as it relates to our client's business</li></ul>
+<ul><li>Demonstrate ability to lead and manage business development / proposal efforts</li></ul>
+<ul><li>Business development responsibilities around cloud security including origination, capture and relationship development</li></ul>
+<ul><li>Ability to translate technical cloud security requirements into business terms for executive stakeholders</li></ul>
+<ul><li>Conduct cloud security strategy, readiness and discovery assessments; be familiar with cloud security frameworks, compliance requirements and security operations</li></ul>
+<ul><li>Deliver services that meet Accenture Project quality specifications, including creating custom security tools via Code Development</li></ul>
+<ul><li>Ability to take initiative to communicate, interact, and collaborate with others to ensure that all aspects of a task are addressed</li></ul>
+</div>
+<br>
+<div>
+<div><b>Basic Qualifications</b></div>
+<ul><li>Minimum of 4 years of AZURE, server, application and Infrastructure as Code (IaC) experience which requires Advanced PowerShell and JSON experience and / or AWS experience</li></ul>
+<ul><li>Minimum of 4 years of code development (Extensive Visual Studio experience is also required</li></ul>
+<ul><li>Minimum of 2 years managing projects using a standardized set of project management principles
+</li></ul>
+<ul><li>Minimum of 5 years of technical writing and report generation and Information Technology</li></ul>
+<div>• •Minimum 4 Years of code development using Enterprise IT security risk assessments and related frameworks (e.g., ISO 27000 series, NIST 800 Series, COBIT, IT General Controls, etc.)</div>
+<ul><li>Minimum 2 Years Conceptual knowledge of the following regulations: PCI, Sarbanes-Oxley, HIPAA, GLBA, FISMA</li></ul>
+<ul><li>Travel 80-100%</li></ul>
+<div><b>Preferred Qualifications</b></div>
+<ul><li>Experience working SecaaS, Cloud Security or Third Party / Cloud Security Assessments</li></ul>
+<ul><li>Industry recognized certification in security (e.g., CISSP, CCSK,CISA, CISM, CEH, etc.)</li></ul>
+<ul><li>Experience in IT Security Testing (e.g., penetration testing, web application security assessments, vulnerability assessments and technical security assessments</li></ul>
+<ul><li>Experience in Identity and Access Management</li></ul>
+<ul><li>Experience in Infrastructure Security (virtualized environments a plus)</li></ul>
+<ul><li>Experience with Cloud Security vendors in the IAM, Data Protection, Monitoring and IaaS provider specific space</li></ul>
+<ul><li>Experience with Linux and Windows operating systems, certifications in AWS, Google, Azure</li></ul>
+<ul><li>Experience with application development</li></ul>
+<div>
+<br>
+<b>Professional Skill Requirements
+</b>
+</div>
+<ul>
+<li>Proven ability to build, manage and foster a team-oriented environment</li>
+<li>Proven ability to work creatively and analytically in a problem-solving environment</li>
+<li>Desire to work in an information systems environment</li>
+<li>Excellent communication (written and oral) and interpersonal skills</li>
+<li>Excellent leadership and management skills</li>
+</ul>
+<div>Candidates who are currently on assignment as part of the Global Careers program are not eligible for consideration.<br>
+<br>
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status).<br>
+<br>
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.<br>
+<br>
+Accenture is a federal contractor and an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.<br>
+<br>
+Equal Employment Opportunity<br>
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.<br>
+<br>
+Accenture is committed to providing veteran employment opportunities to our service men and women.</div>
+</div>
+</div>

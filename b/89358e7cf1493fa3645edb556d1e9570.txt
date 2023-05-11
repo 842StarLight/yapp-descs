@@ -1,0 +1,23 @@
+<h2>Data Testing Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Overview:</b><br>
+As an Enterprise Data management (EDM) Data Test Engineer, you will work alongside a team of Business Intelligence (BI) Analysts and Data Engineers to support data acquisition, integrity, availability and security throughout the organization. The EDM team supports the organization's programs and business operations through data acquisition and storage to data integration and analytics serving both the technology organization as well as functional areas of the business, including Finance, Accounting, Marketing, Sales, Billing, and Customer Service. The EDM scope includes data required for decision support, business intelligence, governance, customer relationship management, data warehousing, meta-data repositories, operational data stores. The Data Test Engineer is involved in all areas of EDM including the design and development of processes used to enable Myriad leadership and general users to make informed data driven decisions. This position reports directly to the Data Engineering Manager.
+<br><br>
+<b>Qualifications:</b><br>
+<ul>
+<li>Bachelor's degree in Management Information Systems, Computer Science, Analytics or equivalent.</li>
+<li>At least 5 years relevant experience in data management and/or business intelligence.</li>
+<li>Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.</li>
+<li>Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.</li>
+<li>Strong analytic skills related to working with unstructured datasets.</li>
+<li>Strong background in Microsoft technology stack including: MS-SQL Server, SQL Server Management Studio, SQL Server Integration Services (SSIS including C#), Microsoft Visual Studio (C# and Business Intelligence), Microsoft Office Suite (Excel, Word, PowerPoint)</li>
+</ul>
+<b>Preferred Skills:</b><br>
+<ul>
+<li>Working knowledge of message queuing, stream processing, and highly scalable 'big data' data stores.</li>
+<li>Experience with AWS cloud services: EC2, EMR, RDS, Redshift</li>
+<li>Experience with object-oriented/object function scripting languages: Python, Java, C#, etc.</li>
+<li>Experience with ticketing and collaboration tools such as: Jira, Confluence, Google Docs, and TFS.</li>
+<li>Experience with non-Microsoft database technologies including: Oracle, PostgreSQL, MySql</li>
+</ul>
+</div>

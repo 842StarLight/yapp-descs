@@ -1,0 +1,36 @@
+<h2>Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>We are looking for a Software Developer to join our nimble, fast-paced, &amp; effective team. At Q-Lab, Software Developers perform a wide range of duties. You will be involved in business analysis and requirements definition, software development, and project management. It’s common to lend your opinions to the CFO and COO one day, only to be coding the solution in SQL and .NET the following day.</p>
+<p>We cross train our developers on all platforms, tools, languages, and systems. Our developers regularly comment on how exciting, fun, and challenging it is to be given such an unusually broad scope of work. Our ultimate goal is to apply technology in ways that increase revenue, decrease costs, and/or increase customer satisfaction.</p>
+<p>Are you experienced? That’s great! You can hit the ground running with Q-Lab and we can fit your skills into our diverse set of needs.</p>
+<p>Not sure you have the software development or business experience, but think this could be the right job for you? Submit your resume! We believe that a high-level of practical intelligence can trump work experience. Depending on your qualifications and capabilities, we may be willing to train you for this job and reimburse you for education costs (if they are needed).</p>
+<p><b>Q-Lab Corporation</b> is a global leader in providing material durability testing products. Since 1956, we have designed and manufactured laboratory test products such as weathering testers, light stability testers and corrosion testers. We also perform contract test services for weathering and corrosion testing, including both laboratory and natural exposure tests. We maintain a global presence with testing facilities located in the US and sales and distribution facilities located in England, Germany and China. Our world-class corporate headquarters and manufacturing facility are located in Westlake, Ohio.</p>
+<p>Software Developer’s Scope of Responsibility:</p>
+<ul>
+<li>Analyzes business problems and suggests ways of applying software solutions to solve them.</li>
+<li>Produces software for web, database, and client server environments. Also produces Q-Lab’s firmware, which controls the brain of our weathering testers.</li>
+<li>Uses Microsoft Visual Studio (Winforms, ASP.NET, .NET Framework, VB .NET, C#) to develop front-ends and business logic.</li>
+<li>Uses Microsoft SQL Server to design, modify, and write business logic for databases.</li>
+<li>Uses Crystal Reports and SSRS Reporting Services to develop reports.</li>
+<li>Uses Attolic (an Eclipse variant) and C to develop firmware.</li>
+<li>Follows Q-Lab’s standard development practices and techniques.</li>
+<li>Works on front office (e.g. Sales, Repair, Marketing), back office (e.g. Accounting, Purchasing, Order Desk) and LIMS (Laboratory Information Management Systems) software.</li>
+<li>Writes business requirements and technical specification documents.</li>
+</ul>
+<p>We Require/Prefer:</p>
+<ul>
+<li>Bachelors degree in Computer Science/IT, equivalent professional work experience, or the raw intellectual aptitude.</li>
+<li>Evidence of achievement in work or school history.</li>
+<li>Experience with Microsoft’s .NET development tools.</li>
+<li>Knowledge of relational database theory.</li>
+<li>Ability to think strategically and assess business value.</li>
+<li>Ability to devise creative solutions to problems.</li>
+<li>Ability to manage competing priorities.</li>
+<li>Strong verbal and written communication skills.</li>
+<li>Strong customer service orientation.</li>
+<li>A good sense of humor and a small ego.</li>
+</ul>
+<p>Q-Lab Corporation is winner of the Top Workplaces Award for 2015, 2016, 2017, 2018, &amp; 2019.</p>
+<p>Equal Opportunity Employer m/f/d/v</p>
+<p>Job Type: Full-time</p>
+</div>

@@ -1,0 +1,56 @@
+<h2>Identity Access Management Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>General Responsibilities
+</b></h2>
+<div><div><div>
+<p><b>Job Purpose</b></p>
+<p>
+Hertz is looking for an Identity Access Management Analyst to manage and provision access to Data, Systems, and Applications. This is a great opportunity with a well-respected company in a demanding technical environment to work hands-on managing Windows security stack, and participating in enterprise-level projects. If you are looking for a position dealing with information security, and handling NTFS and application permissions, we would love to speak with you.</p>
+<p><b>
+Skill and Knowledge Requirements of Identity Access Analyst:</b></p>
+<ul>
+<li>
+Provision and de-provision network accounts for associates through formal procedures</li>
+<li>
+Provision and de-provision application accounts for associates through formal procedures</li>
+<li>
+Aid in management of quarterly access reviews for network and application accounts</li>
+<li>
+Aid in provisioning Internet and VPN access</li>
+<li>
+Strong background in a Windows environment, with hands-on experience in Windows Security Stack</li>
+<li>
+Experience working with IAM tools like: Oracle IAM, MIM, Okta, RSA, IBM IAM or Courion.</li>
+<li>
+Mainframe experience a plus.</li>
+<li>
+Sales Force experience a plus.</li>
+<li>
+Foundation in documenting requirements using Structured Analysis Techniques, such as Use Cases, and Entity Relationship Diagrams</li>
+<li>
+Experience working with IT partners</li>
+<li>
+Ability to perform in a team environment, problem solving, and executing permission changes based on evolving information</li>
+<li>
+Previous experience working with O365, NTFS permissions, and Active Directory Groups</li>
+<li>
+Good customer service skills</li>
+<li>
+Ability to work in a global environment with US and offshore teams.</li>
+<li>
+Experience working with auditors and compliance teams.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Mandatory Requirements
+</b></h2>
+<div><div><div>
+<p><b>Professional Experience</b></p>
+<ul><li>
+Minimum 2 years IT/Information Security experience</li></ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>EEO Statement
+</b></h2>
+<div><div><div>Hertz is a Drug-Free Workplace. All employment is contingent on successful completion of drug and background screening.<br>
+<br>
+Hertz is an equal opportunity affirmative action employer and administers all personnel practices without regard to race, color, religion, sex, age, national origin, sexual orientation, gender identity or expression, marital status or domestic partnership status, disability, protected veteran status or military status, genetic information, or any other category protected under applicable law. Hertz is committed to taking affirmative steps to promote the employment and advancement of minorities, women, persons with disabilities and protected veterans.</div></div></div>
+</div></div>

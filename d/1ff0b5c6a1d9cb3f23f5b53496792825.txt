@@ -1,0 +1,97 @@
+<h2>Senior Consulting Engineer - Cloud AWS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>CDW’s vision is to be the best national provider of Advanced Technology Solutions. We’ll achieve this reputation by continuing to delight our customers and being the employer of choice for Advanced Technology Solutions. Senior Consulting Engineers at CDW are smart, hard-working Engineers who enjoy teaming with other best and brightest Engineers on highly visible, technically challenging projects and offerings. We’re looking for high-caliber, well-rounded professionals who are passionate about emerging technology, projects and consulting.<br>
+</div>
+<div></div>
+<div>
+Key Areas of Responsibility</div>
+<ul>
+<li><div>
+Drive architecture and deliver customer solutions on the Amazon Web Services (AWS) platform with a specialized focus on AWS capabilities with experience in virtualization, migrations and automation.</div></li>
+<li><div>
+Provide consultation and direction on migrating customers environments to Cloud platforms such as AWS and lead the migration from inception, design and implementation efforts.</div></li>
+<li><div>
+Help our customers with Cloud Assessments, AWS Architecture Designs and Migration Strategy.</div></li>
+<li><div>
+Well versed in building AWS infrastructure and Implement deployment processes, CI &amp; CD. Assist client’s with relevant services such as AWS Auto Scaling &amp; resiliency and AWS DevOps automated services.</div></li>
+<li><div>
+Support Continuous Security Compliance, AWS Cost Optimization and assist client with AWS Troubleshooting &amp; Support.</div></li>
+<li><div>
+Conduct solution discovery workshops covering: networks, virtual machines, storage, migrations, disaster recovery and additional cloud services as needed.</div></li>
+<li><div>
+Troubleshoot, maintain, upgrade, and provide solutions to complex hardware/software problems.</div></li>
+<li><div>
+Assist in the management of projects using CDW's project management methodology.</div></li>
+<li><div>
+Regularly interface with technical and business staff of customers, including the project sponsor and stakeholders of projects in more complex engagements.</div></li>
+<li><div>
+Serve as technical point of contact on customer engagements.</div></li>
+<li><div>
+Create and execute test plans to meet project requirements for assigned components.</div></li>
+<li><div>
+Identify and communicate potential opportunities for cross-selling to the sales team.</div></li>
+<li><div>
+Manage time and expense to meet or exceed expectations defined in the Statement of Work.</div></li>
+<li><div>
+Provide high quality content deliverables using the appropriate document templates.</div></li>
+<li><div>
+Work with Professional Services Managers, ATAE's, Project Managers and customers to manage expectations and timelines to ensure expectations and commitments are being met.</div></li>
+<li><div>
+Conduct/lead design workshops for complex designs to meet customer, business and technical objectives.<br>
+</div></li>
+</ul>
+<p><b>Qualifications</b>
+</p>
+<div>Minimum Qualifications</div>
+<ul>
+<li><div>
+Bachelor’s degree in business, computer science, a related technical degree or equivalent.</div></li>
+<li><div>
+Five years’ experience delivering complex technical solutions including planning, development, implementation and support.</div></li>
+</ul>
+<div>
+Other Required Qualifications</div>
+<ul>
+<li><div>
+Minimum 2 years of consulting experience.</div></li>
+<li><div>
+Minimum 2 years of experience in the design and implementation of AWS services.</div></li>
+</ul>
+<div>
+Preferred Qualifications</div>
+<ul>
+<li><div>
+5+ years relevant engineering experience.</div></li>
+<li><div>
+Experience with AWS Services Design and Deployment consisting of Amazon EC2, RDS, S3, CloudFront, VPC, SNS, Auto Scaling, Etc</div></li>
+<li><div>
+DevOps experience is a plus.</div></li>
+<li><div>
+Experience with distributed systems is a plus.</div></li>
+<li><div>
+Linux system administration.</div></li>
+<li><div>
+Experience facilitating migrations to AWS using native services
+</div></li>
+<li><div>Experience/Exposure to Azure offerings including Azure App Service, Azure
+</div></li>
+<li><div>Experience with infrastructure as code solutions such as: Azure ARM templates, AWS CloudFormation and/or Hashicorp Terraform.</div></li>
+<li><div>
+Experience with configuration management solutions such as: Ansible, Chef and/or Puppet.</div></li>
+<li><div>
+Proven experience as a technical thought-leader: invents new technologies, applications of technology, or ways to synthesize technologies and domain understanding to forge new market opportunities.</div></li>
+<li><div>
+Proven project oversight responsibilities and mentoring of technical teams/consultants.</div></li>
+<li><div>
+Excellent written, presentation, and verbal communication skills including demonstrated experience presenting technology recommendations from a business perspective to c-level executives.</div></li>
+<li><div>
+Professional, business-focused attitude and courteous manner towards clients, partners and peers. Ability to work weekends and/or off hours as necessary to meet clients' needs.</div></li>
+<li><div>
+Ability to understand, assess and propose solutions for resolving customer questions and issues.</div></li>
+<li><div>
+Ability to effectively communicate with clients.</div></li>
+</ul>
+</div>
+</div>

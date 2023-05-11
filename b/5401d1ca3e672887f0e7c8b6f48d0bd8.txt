@@ -1,0 +1,24 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About the Role
+<br><br>
+We're bringing brand measurement into the age of AI. As a Product Manager, you will lead a team of agile software engineers, designers and data scientists to create a vision and then rapidly iterate on a product line that you own. You will leverage our Fortune 500 client-base to rapidly validate and de-risk your product vision and cutting-edge features for brand advertising measurement and optimization.
+<br><br>
+You will collaborate closely with your cross-functional product team to specify new features and effectively communicate and evangelize them throughout the sales and marketing organization. Your product team will move fast because you run ahead of them, validating and specifying work to maintain a high feature velocity.
+<br><br>
+About You
+<br><br>
+<ul>
+<li>You have adtech and/or product management experience and have a deep understanding of how to best partner with various internal teams to drive product roadmaps and product release timelines</li>
+<li>You are passionate about agile software product development</li>
+<li>You have a basic understanding of multi-tier software architectures, and perhaps have even coded in the past</li>
+<li>You dabble in statistics and are open to learning basic stats concepts</li>
+<li>You thrive on the energy of operating in a fast-paced, ever-changing startup atmosphere</li>
+<li>Bonus points if you can rattle off some of your favorite brand ads that made an impact on you, and you see ad tech industry as having largely ignored brand advertising in favor of products for direct response advertising</li>
+</ul>
+About Survata
+<br><br>
+Survata enables marketers and agencies to measure and optimize their brand advertising campaigns. As a technology company in the research space, Survata provides actionable insights in real-time, allowing advertisers to make changes concurrently with the campaign.
+<br><br>
+Our clients ( https://www.survata.com/clients/ ) are Fortune 500 companies across multiple verticals including CPG, technology, and financial services. We also work with the largest global advertising agencies to measure the digital campaigns that they are managing for their clients.
+<br><br>
+We are backed by leading investors (Y Combinator, Ridge, Bloomberg Beta, and Uncork). In July 2018 we closed our Series B ( https://www.survata.com/blog/survata-secures-14-million-series-b-funding/ ) round of funding.</div>

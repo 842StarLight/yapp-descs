@@ -1,0 +1,49 @@
+<h2>SFDC Operator(RP, NJ)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>JOB DESCRIPTION</b><b>:</b><br>
+We are a visionary leader in the IT Business Intelligence industry that is looking for an experienced software engineer to assist us with the maintenance, development, and implementation of our Intranet systems includes SFDC Application. The candidate should have a development capability across multiple technical disciplines including SFDC application development, APEX development, and Interface with Legacy System.<br>
+<br>
+The role will primarily involve APEX programming work include User interface Development and I/F program with legacy systems, Responsibilities cover the entire development lifecycle, from requirements gathering and brainstorming, analysis, coding, testing and documentation. It also requires strong problem-finding skills with quick adaptation to existing application for business functions and technical structural layout.<br>
+<br>
+<b>Responsibilities include:</b>
+<ul>
+<li>Develop custom APEX classes, tests, triggers, and Visualforce pages, applying design patterns to control code execution, avoid runtime limits, and remain bulk-safe.</li>
+<li>Develop Lightning Component, Lightning Compatible Solution</li>
+<li>Develop and maintain integrations between Salesforce.com and other internal business applications.</li>
+<li>Work closely with operations and product managers to effectively prioritize projects to fit business needs.</li>
+<li>Apply change management processes for documenting, communicating, and testing code releases from Sandboxes to Production environments.</li>
+<li>Remain current on new and updated functionality in Salesforce.com releases.</li>
+<li>Configure SF features to satisfy the business requirements</li>
+<li>Full Development lifecycle and production support for CRM Platform<br>
+Collaborate with our internal and external technology and business partners to implement product changes</li>
+<li>Hands-on design and development (Front-end and backend), hands on database development including schema design and business logic implementation, and ensure all code is consistent with architectural standards and design.</li>
+<li>Follow standard coding practices, keeping custom code organized, readable, maintainable, and documented.</li>
+<li>Produce technical specification and design documents as required</li>
+</ul>
+<b>Skills &amp; Qualifications:</b>
+<ul>
+<li>7+ years of hands on Salesforce CRM Experience (Apex, Visual Force, and Lightning)</li>
+<li>Demonstrated ability to develop business requirements and translate them into a dimensional model</li>
+<li>Strong Interface between SFDC and Legacy Experience is required</li>
+<li>Steel brick (CPQ Tool) experience is major plus</li>
+<li> Experienced in data interface between legacy systems / other 3rd Party system (Eloqua)</li>
+<li> Experienced in Version Control and Deployments</li>
+<li> Deep knowledge with SFDX, Github/Gitlab, Visual Studio Development</li>
+<li> Experience on Cast Iron (IBM) and MS-SQL will be a plus.</li>
+</ul>
+<ul>
+<li>Detailed understanding and hands on experience with Salesforce.com CRM sales and service cloud platform as well as other cloud applications Configuring and Integration with other com Sales cloud applications experience in hands on Technical Development , Customization and Integration using APEX and Web Services</li>
+<li>Experience in executing large Enterprise projects.</li>
+<li>IT and engineering background preferred.</li>
+<li>Demonstrated ability to multi-task and prioritize in a fast-paced environment.</li>
+<li>A Certificate in any of the following is a plus: Systems Analysis, Salesforce.com</li>
+<li>Experience developing integration processes using Salesforce.com’s Web Services API and third-party integration tools like Apex Data Loader etc.</li>
+<li>Proficiency in SOAP-based web services, Apex, and SOQl, SOSL.</li>
+<li>Experience with HTML, CSS, JavaScript</li>
+<li>Strong relational database design / development skills</li>
+<li>Track record of working on complex projects under aggressive deadlines</li>
+<li>Experience developing and delivering enterprise class solutions to real customer problems, preferably with an emphasis on Sales and Marketing issues</li>
+<li>Excellent problem solving, interpersonal, and communication skills</li>
+<li>Scripting experience</li>
+</ul>
+</div></div>

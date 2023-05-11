@@ -1,0 +1,75 @@
+<h2>Engineer Project IV.</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>Engineer Project IV</b><br>
+Engineer Project IV for Honeywell International Inc., Houston, TX<br>
+<br>
+<b>Responsibilities:</b></p>
+<ul>
+<li>
+Lead and implement projects engineering and addition/modification for Experion PKS control System, third party programmable logic controllers (PLCs), and third party and SCADA systems.</li>
+<li>
+Act as technical interface with customers and define the control/safety systems specifications based on project requirements.</li>
+<li>
+Ensure that required prerequisites (e.g. design inputs, tools, documentation, deliverables, schedule, budget) are in place prior to commencing work.</li>
+<li>
+Produce functional and concept technical design specifications and provide technical leadership, support and expertise for single discipline.</li>
+<li>
+Perform required integration of multiple automated systems such as Safety System, power distribution systems, AC/DC systems, PLCs and distributed control systems.</li>
+<li>
+Provide control improvement and create/modify control strategies and implement new control routines.</li>
+<li>
+Estimate man-hours required for work packages and requisition hardware and software needed.</li>
+<li>
+Perform hardware and software integration, configure system instrument databases and control system custom graphics and reports.</li>
+<li>
+Develop FAT and SAT procedures and perform loop checks, continuity tests, factory acceptance tests, site acceptance tests, start-up support, and performance tests for process control systems.</li>
+<li>
+Ensure that the engineered solution meets project requirements in terms of functionality, standards, quality, and supporting documentation and implementation process at minimum cost by allocating work assignments to project team.</li>
+<li>
+Ensure that work assignments are executed to appropriate standards and quality systems (implementation, test and documentation).</li>
+<li>
+Monitor and control assigned work scope against the project plan, ensure effective change control and identifies risks/opportunities.</li>
+<li>
+Proactively recommend potential quality and efficiency improvements within the engineering group.</li>
+<li>
+Share technical knowledge with project team, supervisor, own discipline and other engineering disciplines.</li>
+<li>
+Report progress and technical problems to project and engineering supervisor.</li>
+<li>
+Actively contribute in the pre-engineering phase of a project.</li>
+<li>
+Identify to the customer which information is required before project starts.</li>
+<li>
+Assist sales organization in defining and estimating the engineering/technical scope of work.</li>
+</ul>
+<p><b>
+Additional Information:</b></p>
+<ul>
+<li>
+Location: Houston, TX</li>
+<li>
+40 hours/week</li>
+<li>
+Employee Referral Fee: $1,500</li>
+<li>
+If offered employment must have legal right to work in U.S. EOE.</li>
+<li>
+Contact: HR Services, Honeywell International Inc., 115 Tabor Road, Morris Plains, NJ 07950</li>
+<li>
+Please reference MS/CS # 212379</li>
+</ul>
+<b>YOU MUST HAVE:
+</b><br>
+<b>Bachelors’ degree or foreign equivalent in Electronic Engineering, Control Systems Engineering or related field and five (5) years of experience in the job offered or acceptable alternate occupation. Full term of experience must include: distributed control system and PLC experience from recognized automation vendor; configuration, migration, troubleshooting and support of DCS control system, application programming and 3rd party package PLC interface to control systems; AM, HPM, C200 ACE and C300 controller programming; development, problem resolution and implementation of system integration between systems and devices; support of OPC, Modbus and other industrial communication between third party and DCS system; GUS and HMIWeb graphics development; modification of database points on Quick Builder; Server, enterprise management server; Backup and restore server; FTE network, installation, configuration and troubleshooting; advanced diagnostic and troubleshooting of DCS and PLC systems. Approximately 20% domestic/international travel required.</b>
+<p>Additional Information</p>
+<ul>
+<li>
+<b>Category: </b>Engineering</li>
+<li>
+<b>Location: </b>1250 W Sam Houston Pkwy S, Houston, TX 77042 USA</li>
+<li>Exempt</li>
+</ul>
+</div>
+</div>

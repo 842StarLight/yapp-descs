@@ -1,0 +1,53 @@
+<h2>Customer Success Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>About Swiftly</b></p>
+<p>Swiftly is changing transportation, mobility, and cities through better data. We built the industry’s first big-data platform which helps public transit agencies improve operational performance, service reliability, and real-time passenger information. Over 50 transit agencies now use the Swiftly platform, and our work impacts millions of people.</p>
+<p><b>Customer Success at Swiftly</b></p>
+<p>The Customer Success team at Swiftly works to ensure customers are happy and finding immense value in the tools that Swiftly provides. We’re on the front line, being the first points of contact for customers that have questions, are encountering issues, or need more support. When problems arise, we ensure that individual customers are listened to and that their issues are cared for, and we apply a keen analytical eye to spot trends and communicate problems in proactive ways with the product team. We are passionate about improving mobility in the communities we serve, and we work side by side with transit agencies and operators to ensure their projects are impactful. We love the human aspect of our work and thrive on getting creative to solve problems or boost network performance. Customer Success is responsible for everything post-sale, from handling the implementation, training our customers, quarterly business reviews, renewals and everything in between.</p>
+<p><b>About the Customer Success Role</b></p>
+<p>Swiftly now has contracts with over 60 transit agencies, meaning we get many questions, comments, and other inquiries every day. As a Customer Success Manager, you will be our first line of defense to respond to customer inquiries. This is a remote position supporting our European and East Coast customer base.</p>
+<p><b>Responsibilities: </b></p>
+<ul>
+<li>Be the front line of support for any customer inquiries</li>
+<li>Help our customer rapidly &amp; accurately resolve any issues they may have when using our product</li>
+<li>Investigate and solve complicated questions about data</li>
+<li>Collaborate with Engineering, Product Management, and other cross-functional peers on specific user-impacting issues</li>
+<li>Assist transit agencies to achieve their transit initiative goals with the Swiftly platform</li>
+<li>Understand and prioritize transit agency technology needs to ensure the features and tools developed to deliver value to our customers</li>
+<li>Maintain low to no-churn on your customer portfolio</li>
+<li>Drive heavy adoption on the Swiftly platform while helping customers meet their goals and achieve value.</li>
+</ul>
+<p><b>About You</b></p>
+<ul>
+<li>You have 2+ years of experience working with Enterprise SaaS.</li>
+<li>You have managed a high-value customer portfolio and have had very low churn.</li>
+<li>You have proved churn reduction tactics that you have employed on your previous customer portfolios.</li>
+<li>You are very analytical and love data.</li>
+<li>You are a tireless investigator. When an issue arises, you own it until resolution.</li>
+<li>You’ve either worked in the transit or transportation industry or you have a passion for transportation.</li>
+<li>You hear challenges from others and have a burning desire to solve them. You stay calm and seek creative ways to deliver solutions.</li>
+<li>You have a fascination with communities of all sizes: large and small, rural and urban.</li>
+<li>You are a strong communicator and are energized by spending the day speaking with and listening to our customers.</li>
+<li>Experience with databases (Postgres, MongoDB and Compose) is a plus</li>
+</ul>
+<p><b>Beyond the Skills</b></p>
+<p>We are looking for people who care deeply about the work Swiftly is doing. That can include being passionate about mobility, sustainability, or mission-oriented projects that have a big real-world impact. We are serious about creating a culture that encompasses the core values of our company. Do these characterize you?</p>
+<ul>
+<li>
+<i>Team</i>. You’re a team player that believes in working with others to accomplish big goals.</li>
+<li>
+<i>Communication</i>. You believe openness and honesty underpin effective communication.</li>
+<li>
+<i>Feedback</i>. You’re a voracious learner. You seek and give constructive feedback to improve your practice.</li>
+<li>
+<i>Growth</i>. You are passionate about our work of growing the smart transit industry.</li>
+<li>
+<i>Diversity</i>. You cherish other perspectives and opinions.</li>
+<li>
+<i>Impact</i>. You constantly evaluate the return on investment to optimize for positive impact.</li>
+</ul>
+<p><b>We are an equal opportunity employer - we are committed to a workplace that is as dynamic, diverse, and passionate as the communities we serve. </b></p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>relevant: 2 years (Preferred)</li></ul>
+</div>

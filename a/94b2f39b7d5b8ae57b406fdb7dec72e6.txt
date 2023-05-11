@@ -1,0 +1,95 @@
+<h2>Applications Systems Engineer 6 - OFSAA Relationship Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<b>Job Description</b><br>
+<p>At Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We’re looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where you’ll feel valued and inspired to contribute your unique skills and experience.</p>
+<p>
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.</p>
+<p>
+Wells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargo’s more than 70 million global customers.</p>
+<p>
+The Specialized Services team within Enterprise Functions Technology (EFT) / Platform Management (PM) / Platform Engineering (PE) group is seeking a senior Application Systems Engineer to work in a lead role supporting Enterprise One Number Environment (eONE).</p>
+<p>
+Basic job responsibilities and individual expectations include:</p>
+<ul>
+<li>OFSAA, AgileReporter,and related application environment administration.</li>
+<li>Technical relationship management efforts on multiple platforms.</li>
+<li>Acts as primary contact for coordination, vulnerability compliance, release management, and production issue escalations.</li>
+<li>Tracks application and batch performance and coordinates plans for remediation of issues.</li>
+<li>Ensure PAC2000 tickets meet established SLAs.</li>
+<li>Ensure application monitoring meets best practices.</li>
+<li>Cross-team leadership efforts on resiliency advancement.</li>
+<li>Align BCP plan for application; coordinate logistics for plan implementation, resource alignment.</li>
+<li>Assures quality, security and compliance requirements are met for supported areas.</li>
+<li>Leads, coordinates, and develops additional staff.</li>
+</ul>
+<br>
+<b>
+Required Qualifications</b><br>
+<p></p>
+<ul>
+<li>
+10+ years of application development and implementation experience</li>
+<li>
+3+ years of experience with logging, monitoring, and event detection on cloud or distributed platforms</li>
+<li>
+5+ years of Oracle experience</li>
+<li>
+5+ years of UNIX experience</li>
+<li>
+3+ years of release management experience</li>
+<li>
+1+ year of Oracle Financial Services Analytical Applications (OFSAA) experience</li>
+<li>
+3+ years of administration experience</li>
+<li>
+3+ years of Weblogic experience</li>
+<li>
+3+ years of Java experience</li>
+<li>
+3+ years of relationship management experience with business and technology partners</li>
+<li>
+3+ years of leadership experience including coaching, training, or mentoring</li>
+</ul>
+<br>
+<p></p>
+<b>
+Desired Qualifications</b><br>
+<p></p>
+<ul>
+<li>
+Excellent verbal, written, and interpersonal communication skills</li>
+<li>
+Knowledge and understanding of source code version control systems, configuration management techniques and procedures</li>
+</ul>
+<br>
+<p></p>
+<b>
+Other Desired Qualifications</b><br>
+<ul>
+<li>Capacity analysis and environment allocation, refresh, upgrade, coordination experience.</li>
+<li>Experience coordinating a complex OFSAA architecture environment, team functions, and supporting functions.</li>
+<li>Familiarity engaging and working with Exadata teams.</li>
+<li>5+ years of application infrastructure and operations support experience.</li>
+<li>3+ years familiarity with: Autosys script coding; NDM file transmission automation; and tools experience such as TOAD or SQL Developer.</li>
+<li>Experience with Lombard AgileReporter</li>
+</ul>
+<br>
+<b>
+Street Address</b><br>
+<p><b>NC-Charlotte: </b>1525 W Wt Harris Blvd - Charlotte, NC<br>
+<b>NY-New York: </b>375 Park Ave - New York, NY<br>
+<b>AZ-Chandler: </b>2600 S Price Rd - Chandler, AZ<br>
+<b>MN-Minneapolis: </b>550 South 4th St - Minneapolis, MN<br>
+</p>
+<b>
+Disclaimer</b><br>
+<p><br>
+All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.<br>
+<br>
+Relevant military experience is considered for veterans and transitioning service men and women.<br>
+<br>
+Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.</p>
+</div>
+<br>
+TECHNOLOGY</div>

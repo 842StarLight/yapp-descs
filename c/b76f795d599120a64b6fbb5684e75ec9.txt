@@ -1,0 +1,63 @@
+<h2>Principal Technical Product Manager, Video Ingest</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About Twitch
+<br>------------
+<br><br>
+Launched in 2011, Twitch is a global community that comes together each day to create multiplayer entertainment: unique, live, unpredictable experiences created by the interactions of millions. We bring the joy of co-op to everything, from casual gaming to world-class esports to anime marathons, music, and art streams. Twitch also hosts TwitchCon, where we bring everyone together to celebrate, learn, and grow their personal interests and passions. We're always live at Twitch. Stay up to date on all things Twitch on Linkedin ( https://www.linkedin.com/company/twitch-tv/ ), Twitter ( https://twitter.com/Twitch ) and on our Blog ( https://blog.twitch.tv/ ).
+<br><br>
+About the Position
+<br>------------------------
+<br><br>
+Twitch delivers over 6 billion hours of video per year today. We have one of the largest live video distribution networks in the world and a VOD delivery platform. At Twitch we are working on building a platform to usher in the next few billions of hours of video to be delivered. We believe video delivery is in its infancy and as we look to the horizon, we want to expand our video offerings to customers and partners beyond Twitch.
+<br><br>
+As the product manager, you will be responsible for rethinking the process of how the current video platform products works for B2B customers as the video platform becomes an independent service. You will manage the Video Platform's Ingest team and help define the customer experience in how all video and associated content is ingested, transcoded, and delivered. You will be responsible for product features that allow customers to create new interactive experiences. You will need to work closely with video platform PMs and engineering to balance prioritizing product deliverables, and managing product teams' expectations. This role will require working closely with multiple product and business teams in Twitch and AWS to drive alignment.
+<br><br>
+This position is a rare opportunity within Twitch to help launch a new service, and define the first customer interactions to bring them onto a video platform. An ideal candidate will bring both deep technical and PM leadership expertise, strong business acumen, a deep understanding of our customer markets, strong desire to bring clarity to ambiguity, ability to resolve conflicts across teams, and business development experience.
+<br><br>
+We believe video services as a whole in AWS are just getting started. This is an amazing opportunity to get in on the ground floor within an existing and strong video business.
+<br><br>
+Responsibilities
+<br>----------------
+<br><br>
+<ul>
+<li>Owns the relationship with Video Platform's Ingest team working on video platform</li>
+<li>Drive alignment with video platform and Twitch product teams, and technical leadership through both verbal and written communication</li>
+<li>Work closely with video platform PMs and engineering to manage / prioritize Twitch product requirements</li>
+</ul>
+Requirements
+<br>------------------
+<br><br>
+<ul>
+<li>Bachelors in Computer Science or Engineering or equivalent technical experience</li>
+<li>10+ years of experience, 3+ years of which must be in technical position</li>
+<li>Primary manager for external teams and / or has been a vendor in the past</li>
+<li>Experience in working in B2B</li>
+<li>C-Level communication skills, both written and oral/presentation</li>
+<li>Willingness to roll-up sleeves and get things done</li>
+</ul>
+Bonus Points
+<br>------------
+<br><br>
+<ul>
+<li>Have shipped video products</li>
+<li>Have shipped enterprise cloud products</li>
+<li>Industry knowledge of video standards</li>
+<li>Experience with ingestion pipelines and transcode</li>
+<li>Business development / sales experience</li>
+</ul>
+Perks
+<br>-----
+<br><br>
+<ul>
+<li>Medical, Dental, Vision &amp; Disability Insurance</li>
+<li>401(k)</li>
+<li>Maternity &amp; Parental Leave</li>
+<li>Flexible PTO</li>
+<li>Commuter Benefits</li>
+<li>Amazon Employee Discount</li>
+<li>Monthly Contribution &amp; Discounts for Wellness Related Activities &amp; Programs (e.g., gym memberships, off-site massages, etc.)</li>
+<li>Breakfast, Lunch &amp; Dinner Served Daily</li>
+<li>Free Snacks &amp; Beverages</li>
+</ul>
+We are an equal opportunity employer and value diversity at Twitch. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+<br><br>
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</div>

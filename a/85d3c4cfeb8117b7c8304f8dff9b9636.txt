@@ -1,0 +1,105 @@
+<h2>Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Acumen Solutions drives excellence - not only in our performance, but also in the results we deliver for our clients. We are a global cloud consultancy combining the insight of our strategists, the vision of our innovators, and the ingenuity of our engineers to achieve extraordinary impact. The Fortune 500 trust us to build solutions focused on growing revenue and profits by amplifying competitive advantage and strengthening customer relationships. Our groundbreaking solutions in the public sector streamline operations and improve productivity. We apply this same focus on excellence to our unparalleled social responsibility program, generating sustainable impact across our local communities. Engage with us at www.acumensolutions.com or on Twitter @AcumenSolutions.</p>
+<p>Acumen Solutions is hiring Salesforce Developers in our McLean, VA, location.</p>
+<p>Responsibilities</p>
+<p>Work with our clients to gather requirements, document solution design, configure the Salesforce application, and ensure successful engagements and project go-lives through disciplined project management.</p>
+<p>Specific Duties</p>
+<ul>
+<li>
+<div>Execute declarative Salesforce application configuration</div>
+</li>
+<li>
+<div>Use Apex and Visualforce to create unique customer-based solutions</div>
+</li>
+<li>
+<div>Ability to lead client projects and internal team</div>
+</li>
+<li>
+<div>Interact directly with our customers and the Acumen team, including consultants, architects and sales to ensure customer success</div>
+</li>
+<li>
+<div>Participate in the full application life cycle from technical design to development, testing, and deployment</div>
+</li>
+<li>
+<div>Build salesforce.com product extensions using Visualforce technology</div>
+</li>
+<li>
+<div>Develop new native products on the force.com platform</div>
+</li>
+</ul>
+<p>Desired Skills and Experience</p>
+<ul>
+<li>
+<div>1-2 years of software development experience, ideally in a consulting environment</div>
+</li>
+<li>
+<div>Experience with Salesforce.com preferred</div>
+</li>
+<li>
+<div>Strong technical design skills and an ability to deliver customer driven solutions</div>
+</li>
+<li>
+<div>Motivated to learn new software as a service technologies</div>
+</li>
+<li>
+<div>Ability to manage multiple concurrent projects - Strong communication skills, both written and verbal is required</div>
+</li>
+<li>
+<div>Development experience with JSP/ ASP, Java, HTML language is required</div>
+</li>
+<li>
+<div>Have a passion for solving customers’ challenges with software</div>
+</li>
+<li>
+<div>Have a natural curiosity and desire to learn new business processes and technologies</div>
+</li>
+<li>
+<div>Be a creative and analytical thinker</div>
+</li>
+<li>
+<div>Have a desire and ability to solve complex business processes with software</div>
+</li>
+<li>
+<div>Be highly driven and able to self-manage in a fast paced environment</div>
+</li>
+<li>
+<div>Possess strong organizational and time management skills</div>
+</li>
+<li>
+<div>Be able to communicate with both technical and non-technical audiences</div>
+</li>
+<li>
+<div>Build rapport and develop effective working relationships with clients</div>
+</li>
+<li>
+<div>Have excellent written and oral communication skills</div>
+</li>
+<li>
+<div>Have tenacity, persistence, passion and a desire for customer success</div>
+</li>
+<li>
+<div>Bachelor’s degree required</div>
+</li>
+<li>
+<div>Must be authorized to work for any U.S. employer</div>
+</li>
+<li>
+<div>Willingness to travel up to 50%</div>
+</li>
+</ul>
+<p>Preferred Skills</p>
+<ul>
+<li>
+<div>Development experience with Apex and Visualforce is desired</div>
+</li>
+<li>
+<div>Salesforce.com Certifications preferred, but not required</div>
+</li>
+</ul>
+<p>Benefits</p>
+<p>Acumen Solutions offers the opportunity for growth and advancement, as well as a competitive base salary, annual performance based incentives, medical, dental, and vision benefits, Paid Time Off, 401k, and more.</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,33 @@
+<h2>Front-End Engineer (Boulder II - Q419)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>Experience with object-oriented design</li>
+<li>2+ years of professional non-internship experience with front end, web or mobile software development using JavaScript, HTML and CSS</li>
+<li>Computer science fundamentals in object-oriented design.</li>
+<li>Comprehensive understanding of web development, including but not limited to HTML, CSS3, and JavaScript</li>
+<li>Follows best coding practices, including peer code reviews and unit and integration tests.</li>
+<li>Writes sound code and is familiar with unit testing.</li>
+<li>Familiarity with agile development methodologies.</li>
+</ul>
+<br>
+<p>Amazon is building a world class advertising business and we are responsible for defining and delivering a collection of self-service performance advertising products that drive discovery and sales. Our products are strategically important to our Retail and Marketplace businesses driving long term growth. We deliver billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class products. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.<br>
+<br>
+Our team's mandate is to launch and accelerate the advertising business in categories that require a differentiated customer and advertiser experience. We own end-to-end the advertising experience including placements, creative, ad serving, advertiser experience, and marketing.<br>
+We're looking for entrepreneurial, innovative individuals who thrive on solving tough problems. We are investing in a deep technical team to pursue a transformation opportunity. The successful candidate will build upon core program management successes and develop breadth across a range of problem domains.</p>
+<br>
+<div>
+<ul>
+<li>Bachelor's degree in Computer Science, computer engineering, or related technical discipline (or the equivalent).</li>
+<li>Intense customer focus (we really can’t stress this enough)</li>
+<li>Demonstrated passion for a high user experience bar</li>
+<li>Experience with A/B testing</li>
+<li>Experience with React or other modern javascript frameworks</li>
+<li>Knowledge of professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, and code instrumentation</li>
+<li>Sharp analytical abilities, design skills, excellent communication skills</li>
+<li>Strong sense of ownership, urgency, and drive</li>
+<li>Passion for building new products in a fast paced, team-oriented environment</li>
+<li>Entrepreneurial spirit: not afraid to invent and try new things, take calculated risks</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>
+</div>

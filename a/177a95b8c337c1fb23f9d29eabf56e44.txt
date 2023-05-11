@@ -1,0 +1,122 @@
+<h2>Salesforce Technical Lead (Lightning) - Accenture Technology</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>Ready to fast-track your Salesforce career?</div>
+<div></div>
+<div>Join the largest team of Salesforce certified professionals in the industry and champion innovation, leverage deep and cutting-edge Salesforce expertise and pioneer solutions to help transform the world’s leading organizations and governments.</div>
+<div></div>
+<div>Ready to solve complex problems? Advance your skills? Deliver next-generation Salesforce solutions?</div>
+<div></div>
+<div>Now is the perfect time for you to join the Accenture Salesforce team, where you’ll:</div>
+<ul>
+<li>
+<b>Expand your experience </b>with over 200 intelligent tools across all 12 Salesforce-recognized industries.
+</li>
+<li>
+<b>Lead in the development and implementation </b>of new Salesforce-based solutions.
+</li>
+<li>
+<b>Benefit from our long-standing partnership with Salesforce</b> to access the coolest Salesforce technologies, like Lightning, Einstein and Bolt, so you can put them to meaningful applications at scale.
+</li>
+<li>Join more than 11,800 skilled Salesforce professionals, collaborating across multiple areas to drive enterprise-wide transformational projects on a global scale.
+</li>
+<li>
+<b>Build new skills and strengthen your expertise </b>with unparalleled training and support—whether you're taking the more than 4,200 unique Salesforce certifications or working towards your Certified Technical Architect (CTA) certification.
+</li>
+</ul>
+<div>Join Accenture and be empowered with innovative tools, continuous learning and a global community.
+</div>
+<div></div>
+<div><b>Job Description</b></div>
+<div></div>
+<div>Accenture Technology – Salesforce Team is growing rapidly and is looking to add experienced Salesforce Technical Leads to join our team as Associate Managers. This role will have day-to-day management of our Salesforce technical team, onshore and offshore. You'll oversee programmatic elements, Integration, Data Migration and we'll need you to have a strong understanding of the Salesforce platform, and basic to intermediate understanding of integrations, single sign, security, etc. (Mulesoft, Informatica, other ETL tools a huge plus). You'll coordinate offshore usage with a Solution Architect and Project Manager. You'll lead development of customized components, so we're looking for candidates who can get their hands dirty and jump in and write code if necessary (Apex, Visualforce, Lightning Components, front end web technologies).
+</div>
+<div></div>
+<div>We can hire for this role anywhere in the US, as long as you are located near an Accenture office, and willing and able to travel domestically approximately 80% of the time to meet client needs.
+</div>
+<div></div>
+<div>Key Responsibilities may include:</div>
+<ul>
+<li>Architect complex technical Cloud CRM solutions.
+</li>
+<li>You’ll be responsible for environment management.
+</li>
+<li>Integrate multiple technologies with Salesforce/Force.com.
+</li>
+<li>Architect, design, and develop advanced customizations utilizing Salesforce and Force.com.
+</li>
+<li>Manage technical project team members (onshore and offshore).
+</li>
+<li>Running workshops, working closely with client, able to talk about tradeoffs e.g. terms of config vs code.
+</li>
+<li>Map functional requirements to Salesforce features and functionality.
+</li>
+<li>Disseminate best practices on solution positioning and delivery.
+</li>
+<li>Mentor junior team members in Salesforce technology, Force.com, Integration Technologies, and Salesforce best practices.
+</li>
+<li>Oversee code reviews.
+</li>
+<li>Support pre-sales activities inclusive of participating in sales calls and proposal development.
+</li>
+<li>Manage offshore resources and provide technical specs to developers.</li>
+</ul>
+</div>
+<br>
+<div>
+<div><b>Basic Qualifications</b></div>
+<ul>
+<li>A minimum of 4 years of experience in technology implementation for full lifecycle enterprise software projects.
+</li>
+<li>At minimum of 2 years of experience developing Salesforce customizations (Apex/VF), integrations, and to develop and execute data migrations.
+</li>
+<li>Minimum of 6 months experience with customization on the Salesforce Lightning platform which should include: Lightning Components using the Lightning Design System framework, Apex, Apex data loader, and declarative platform tools. (Process Builder, Visual Workflow, Lightning App Builder, etc.).
+</li>
+<li>A minimum of 2 years of experience leading projects, technical project teams, and performing code reviews.
+</li>
+<li>Bachelor’s degree or equivalent (minimum 12 years) work experience. (If Associates Degree, must have minimum 6 years’ work experience).</li>
+</ul>
+<div><b>Preferred Skills</b></div>
+<ul>
+<li>Experience managing developers a huge plus.
+</li>
+<li>Well-rounded in both functional and technical aspects of a CRM engagement.
+</li>
+<li>Excellent communication and presentation skills.
+</li>
+<li>Combination of business analysis and technology implementation experience.
+</li>
+<li>Ability to adapt to a dynamic work environment and be creative within a team.
+</li>
+<li>A background in development and/or configuration on other CRM platforms (examples: Microsoft Dynamics, Siebel, Zoho) will be preferred.</li>
+</ul>
+<div><b>Professional Skill Requirements</b></div>
+<ul>
+<li>Proven ability to build, manage and foster a team-oriented environment.
+</li>
+<li>Proven ability to work creatively and analytically in a problem-solving environment
+</li>
+<li>Desire to work in an information systems environment.
+</li>
+<li>Excellent communication (written and oral) and interpersonal skills.
+</li>
+<li>Excellent leadership and management skills.</li>
+</ul>
+<div></div>
+<div><i>Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture.</i></div>
+<div>
+<br>
+<i>Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.</i><br>
+<br>
+<i>Accenture is an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.</i><br>
+<br>
+<i>Equal Employment Opportunity</i><br>
+<i>All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.</i><br>
+<br>
+<i>Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.</i><br>
+<br>
+<i>Accenture is committed to providing veteran employment opportunities to our service men and women.</i>
+</div>
+</div>
+<div></div>
+</div>

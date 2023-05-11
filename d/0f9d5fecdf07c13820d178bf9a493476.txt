@@ -1,0 +1,42 @@
+<h2>Senior Data Engineer- Platform Development</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Senior Data Engineer
+<br><br>
+<b>Overview:</b><br>
+Weedmaps is looking for a Senior Data Engineer to help architect, build, scale, and maintain a world-class data platform. We are seeking a qualified individual who is eager to ensure that our ability to store, process, and analyze data keeps up with our business growth and our ambitions. You would be an early hire in a fast growing startup and will have a significant impact on the design and implementation of the engineering vision as our company and team grows.
+<br><br>
+<b>The impact you'll make:</b><br>
+<ul>
+<li>Enterprise-wide data modeling and database design, processes and procedures for Data Governance, change management, taxonomy management and master data management.</li>
+<li>Working with Engineering teams as a Data SME, provide architecture design, development and oversight assistance ensuring holistic data strategy and scalable data flow architecture.</li>
+<li>Produce documentation of standards and guidelines for technical and functional audiences, data flow and architecture documentation of all related Platform services.</li>
+<li>Establishing and managing the ongoing maturity of the company's Business Glossary, driving consistent end-to-end data driven integration strategy.</li>
+<li>Develops a metadata management and repository strategy to manage all enterprise information architecture.</li>
+</ul>
+<b>What you've accomplished:</b><br>
+<ul>
+<li>Strong data and schema modeling, ORM modeling, SOA and Domain Driven design architecture patterns, building highly scalable and secure solutions</li>
+<li>Strong understanding of AWS infrastructure and services, Python, Java/Scala, Ruby, Elixir or similar languages is required.</li>
+<li>Expert knowledge of various relational and non relational database systems (Aurora Postgres, ElasticSearch, Redshift, DynamoDb, Graph Databases)</li>
+<li>Exceptional documentation and communication skills.</li>
+<li>BS/MS/PhD in Computer Science or related field</li>
+</ul>
+<b>Our Benefits:</b><br>
+<ul>
+<li>Fully covered Medical, Dental, and Vision for employee AND dependents</li>
+<li>Matching 401k, 50% match up to 6% of employee contribution</li>
+<li>3 weeks accrued PTO and 5 immediate sick days</li>
+<li>Accident Insurance</li>
+<li>Basic Life/AD&amp;D (Accidental Death and Dismemberment)</li>
+<li>Voluntary Short and Long Term Disability</li>
+<li>Flexible Spending Account</li>
+<li>Catered lunch provided 5 days a week</li>
+<li>All the equipment that you need to get your work done</li>
+<li>Fridge is always stocked with energy drinks and other snacks</li>
+<li>Casual work environment, read "no suit and tie required", but you are free to dress to the nines</li>
+</ul>
+Weedmaps is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law, and will not be discriminated against on the basis of disability. We are looking for the smartest and most passionate people who want to join our team and develop the services, systems, and marketplaces that will serve the marijuana industry in the decades to come. Our company uses E-Verify to confirm the employment eligibility of all newly hired employees. To learn more about E-Verify, including your rights and responsibilities, please visitwww.dhs.gov/E-Verify ( http://www.dhs.gov/E-Verify ).
+<br><br>
+<b>About Weedmaps:</b><br>
+Founded in 2008, Weedmaps is a leading technology and software infrastructure provider to the cannabis industry. Our suite of cloud-based software and data solutions includes point of sale, logistics and ordering solutions that enable customers to scale their businesses while complying with the complex and disparate regulations applicable to the cannabis industry. In addition, our platform provides consumers with information regarding cannabis products across web and mobile platforms, including listing local retailers and brands, facilitating product discovery and allowing consumers to educate themselves on cannabis and its history, uses and legal status. Headquartered in Irvine, California, Weedmaps employs more than 400 professionals around the world, with offices including Barcelona, Berlin, Boston, Denver, New York, Phoenix and Toronto.
+<br><br>
+So what are you waiting for? Join the Weedmaps team!</div>

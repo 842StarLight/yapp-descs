@@ -1,0 +1,42 @@
+<h2>Business Systems Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Company Overview
+<br><br>
+Caliva is your friendly and trusted cannabis brand. We believe in wellness options that work for your lifestyle; in boosting your spirits and seeking adventure; in motivating the mind, steadying the body and being inspired to create. A true seed to sale company; we cultivate happy plants and happy people and strive to provide California with dependable cannabis options. We were ranked #1 in the nation by Business Insider and stand by our promise of consistency, transparency, and accessibility.
+<br><br>
+Join the Caliva team as a Business Systems Analyst and become part of something exciting. As one of the largest cannabis companies in the state of California, we pride ourselves in our compliance, professionalism, commitment to quality, and positive atmosphere.
+<br><br>
+Job Description
+<br><br>
+The Business Systems Analyst (BSA) will partner with Caliva's Finance and Digital Business Systems teams to document and define end-to-end best practices for Caliva's financial systems.
+<br><br>
+The BSA is responsible for the identification and implementation of future state financial system processes for the Company's finance and accounting systems. This individual will be expected to author and review designs of high-level cross-functional processes to desk-level functional processes. As a result, an exceptional background in financial processes is critical to the success in this role.
+<br><br>
+The BSA will assist with analysis and triage, requirements, design specifications, test scripts and testing of solutions for defects, configuration changes and new functionality.
+<br><br>
+Duties and responsibilities
+<br><br>
+<ul>
+<li>Collaborates on planning, design, implementation, and troubleshooting of business applications and data.</li>
+<li>Collaborates with business stakeholders to assess and develop scalable, efficient business processes, including fit/gap analysis, process maps, desk-level functional processes, and operational run-books.</li>
+<li>Reviews and recommends best practices across system to ensure appropriate controls, segregation of duties, data integrity, and scalability objectives are achieved.</li>
+<li>Reviews, recommends, and implements functional processes aligned with Odoo best-practices.</li>
+<li>Research, identify and address issues resulting from legacy configuration and practices. Migrate to Odoo best-practices as appropriate.</li>
+<li>Perform other activities as needed.</li>
+</ul>
+Qualifications/Requirements
+<br><br>
+<ul>
+<li>Must be eligible to work in the U.S.</li>
+<li>Must pass a background check with the San Jose Police Department</li>
+<li>Bachelor's degree in Computer Systems/Engineering, Finance and Accounting, or related degree.</li>
+<li>7+ years experience in job offered or in related field of financials applications software analysis or support.</li>
+<li>5 years experience with enterprise-level financial and supply chain management software. General ledger and financial reporting expertise is required.</li>
+<li>The successful candidate will also have detailed, working knowledge of Accounts Receivable, Accounts Payable, Purchasing, General Ledger, and Inventory.</li>
+<li>Ability to design and author specifications, desk-level documentation, and process flows is a must.</li>
+<li>Ability to interact and communicate with customers of varying levels of expertise, to communicate technical information to non-technical users.</li>
+<li>Must be able to prioritize, problem solve, and provide excellent customer service.</li>
+<li>Strong organization, communication and customer service skills</li>
+<li>Knowledge of the Software Development lifecycle.</li>
+<li>Experience with Odoo accounting applications preferred.</li>
+</ul>
+Caliva is an equal opportunity employer.</div>

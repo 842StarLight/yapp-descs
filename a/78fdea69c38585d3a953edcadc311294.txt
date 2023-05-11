@@ -1,0 +1,31 @@
+<h2>Experienced Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Role: Experienced Software Engineer</b><br>Location: San Diego<br><b>Salary: Based on Experience</b></p>
+<p><b>Job Type: Full-time, Permanent</b></p>
+<p>SeeByte, global market leader in the development of smart software for unmanned maritime systems, are looking to recruit a Lead Software Engineer for a position within our team in our San Diego office. This is an ideal offer for a dynamic software engineer with previous commercial experience, looking for an exciting new opportunity in robotics.</p>
+<p>You can expect to be integrating SeeByte software onto state-of-the-art subsea robots used for exciting and varied projects and taking part in at-sea experiments. There will be opportunities to test and demonstrate SeeByte’s software solutions with our partners and clients, giving you the chance to see the real-world applications of the software you have helped create. You will interface regularly with our US Government and Commercial partners and clients, representing SeeByte in project planning and review meetings as well as providing technical sales and business development support. You will also interface and work regularly with our large development team based in Scotland, UK. This is a fantastic opportunity to work for an innovative and forward-thinking company.</p>
+<p><b>Main Purpose of the Role </b></p>
+<p>The role will involve primarily working with SeeByte’s software products Neptune (Vehicle Autonomy Framework), SeeTrack v4 (Command and Control software for Unmanned Vehicles) and CoPilot (Dynamic Positioning software for ROV platforms). Training will be provided on all required systems.</p>
+<p>Engineers will get the opportunity to work on projects providing robotic solutions for domains such as the commercial oil and gas industry and military mine counter measures. A significant portion of the role will involve supporting the US Naval Information Warfare Center, Pacific (NIWC) in San Diego with the testing, fixing, integrating and demonstrating of SeeByte software.</p>
+<p>You will be comfortable demonstrating SeeByte’s software solutions to customers and partners and representing SeeByte in program and project review meetings. You will have excellent communication and organizational skills and will be able to prioritize, report and discuss issues with management. You will also be able to assist in writing technical proposals for new business and assisting SeeByte’s Sales team in presenting our software solutions to potential new customers. The role may also include the mentoring of other software engineers in the San Diego office.</p>
+<p>Support and training will be given throughout to allow you to develop within the role.</p>
+<p>The successful applicant must be familiar with software engineering principles and comfortable with the design, development, testing and integration of software using high level languages such as C++ and Java.</p>
+<p><b>Experience in some of the following areas is also desirable: </b></p>
+<p>· Systems Engineering</p>
+<p>· Requirements Management</p>
+<p>· Database management and GIS systems</p>
+<p>· Web services</p>
+<p>· Embedded real-time systems</p>
+<p>· Formal software testing</p>
+<p>Successful candidates usually have a degree in Electronic/Computer Science/Software Engineering, or similar numerate discipline with a software engineering emphasis. Minimum of 5 years of experience in a commercial software development role.<br><b>Required Skills </b><br>· C++ and/or Java development for commercial software development and delivery</p>
+<p>· Experience in programming on Linux and Windows systems</p>
+<p>· Strong inter-personal and communication (written and oral) skills</p>
+<p>· Proven organizational skills and a track record of delivery for software solutions.</p>
+<p>· Willing to take part in at-sea trials, integrating and testing SeeByte software</p>
+<p>· Willing to learn about unmanned systems and the domain that SeeByte operate in</p>
+<p><b>To apply please send a recent copy of your CV and a cover letter.</b></p>
+<p>Because of the nature of the work associated with this post it is subject to special nationality rules and is open only to US Citizens or Qualified Green Card holders. Offeree must be able to hold and maintain a Department of Defense security clearance. All offers of employment will be conditional to a satisfactory background check.<br><b>NO RECRUITMENT AGENCIES </b></p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>Commerical Software Development: 5 years (Preferred)</li></ul>
+</div>

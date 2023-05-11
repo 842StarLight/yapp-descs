@@ -1,0 +1,80 @@
+<h2>Senior Big Data Operations Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Senior Big Data Operations Engineer<br>
+<br>
+Location: San Francisco, CA<br>
+<br>
+The Williams-Sonoma Enterprise Production Support and Reliability Engineering organization is looking for you, an engaged and experienced Senior Big Data Operations Engineer to support our big data platform that is responsible for collecting, storing, processing, and analyzing huge sets of data spread across the organization. The platform provides frameworks for quickly rolling out new data analysis for data-driven products and micro-services. The platform also enables machine/deep learning infrastructure that operationalizes data science models for broad consumption. In this role, you'll join a team focused on supporting the platform, working with other support teams, and providing excellent customer service to internal clients.<br>
+<br>
+KEY JOB FUNCTIONS</p>
+<p>
+Role includes on-call responsibilities and responding quickly to urgent issues. Must be able to coordinate well with both onsite and offshore team members. Must look to not only fix issues, but create long-term solutions. Must continuously improve processes through automation, performance tuning, and reducing manual effort.</p>
+<ul>
+<li>Perform independently and guide, assist, and mentor others in analyzing, debugging, testing, documenting, and installing solutions.</li>
+<li>Provide prioritization, planning, estimating, work assignments, quality assurance and mentoring at any stage of a project.</li>
+<li>Responsible for communicating to management on status, problems, issues and underlying process problems.</li>
+<li>Document and present solution alternatives, which improve processes and business objectives.</li>
+<li>Track progress and intervene as needed to eliminate barriers and ensure delivery.</li>
+<li>Demonstrate anticipation and initiative in the planning for and management of problems.</li>
+<li>Resolve or escalate problems and manage risk for both development and production support.</li>
+<li>Coordinate with vendors and contractors for specific projects or issues.</li>
+<li>Review the technical work of other team members.</li>
+<li>Ensure adherence to IT standards and methods.</li>
+<li>Maintain deep knowledge and awareness of technical &amp; industry best practices and trends, especially in technology &amp; methodologies.</li>
+<li>Work with business users to understand requirements and assist them in issue resolution</li>
+<li>Ensure that good business relationships are maintained with multiple clients and other IT departments through excellent customer service and communication.</li>
+</ul>
+</div>
+<br><div>
+<p>REQUIREMENTS AND QUALIFICATIONS</p>
+<br>
+<p></p>
+<ul>
+<li>5- 8 years of experience as a professional software engineer or operations enginee</li>
+<li>3-5 years of experience with big data technologies</li>
+<li>Experience in building or supporting distributed, scalable, and reliable data pipelines that ingest and process data at scale and in batch and real-time</li>
+<li>Strong knowledge of programming languages/tools including Java, Scala, Python, Spark, SQL, Hive</li>
+<li>Experience with streaming technologies such as Spark streaming, Flink, or Apache Beam</li>
+<li>Experience with messaging systems, such as Kafka</li>
+<li>Working knowledge of various columnar storage such as Parquet Kudu, and ORC</li>
+<li>Desired Experience in Ab Initio ETL, and Teradata</li>
+<li>An understanding of software development best practice</li>
+<li>Enthusiasm for constant improvement as a data engineer</li>
+<li>Ability to review and critique code and proposed designs, and offer thoughtful feedback in a collegial fashion.</li>
+<li>Skilled in writing and presenting - able to craft needed messages so they are clearly expressed and easily understood</li>
+<li>Ability to work independently on complex problems of varying complexity and scope</li>
+<li>Bachelor's degree in Computer Science, Engineering or equivalent demonstrable experience</li>
+<br>
+</ul>
+<p></p>
+<p>
+</p>
+<p>PERKS:<br>
+<br>
+Williams-Sonoma is a company of lifestyle brands that emphasize good living and good eating. We are a People First organization that values our customers, quality craftsmanship, corporate responsibility and a healthy work/life balance.<br>
+<br>
+We are continually working to achieve our business goals while improving our social and environmental performance. As a framework to guide our efforts, we've committed to a positive impact in 3 key areas: Operations, Products and Materials, and People and Communities.<br>
+<br>
+Our responsibility extends to every part of our business- from our home to your home, to the world's home.<br>
+<br>
+Work with emerging technologies<br>
+Team First culture<br>
+Full-time Associate Discount at all WS brands (40% off)<br>
+Competitive salary and 401k plan<br>
+Bonus plans and/or LTI plans for some positions<br>
+Shuttle to/from SF BART and Caltrain<br>
+Pre-tax health and commuter benefits<br>
+Bike share program<br>
+Pet Insurance<br>
+Quarterly sample sales<br>
+Wellness program and quality health insurance options<br>
+Mothers' rooms and onsite showers<br>
+Discounts at nearby gyms and restaurants<br>
+<br>
+Williams-Sonoma, Inc. is an Equal Opportunity Employer.<br>
+<br>
+Williams-Sonoma, Inc. will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance, or other applicable state or local laws and ordinances.</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,55 @@
+<h2>NetSuite Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Toast Overview:</b><br>
+We are a rapidly growing company that's revolutionizing the way the restaurant industry does business by pairing technology with an unrivaled commitment to customer success. We help restaurants streamline operations, increase revenue, and deliver amazing guest experiences through our platform that combines restaurant point of sale, guest-facing technology, and award-winning customer support. As a Toaster, you will be challenged to take on meaningful projects that will help shape the future of the company. Join us as we empower the restaurant community to delight guests, do what they love, and thrive.
+<br><br>
+<b>Job Overview:</b><br>
+Reporting to the Business Systems Manager, G&amp;A the NetSuite Administrator administers, supports and maintains Toast's NetSuite platform and users. The Netsuite Administrator will be responsible for maintaining and developing the NetSuite platform and external integrations and function as a key contributor to many high value business initiatives for the Toast Business Systems team. They will work closely with the Accounting and Finance teams to ensure the highest level of data accuracy and in maintaining and improving the functionality of various financial systems. The NetSuite Administrator will apply proven communication, analytical and problem-solving skills to help maximize the benefit of Toast's financial systems to the organization.
+<br><br>
+<b>As a NetSuite Administrator for Business Systems you will:</b><br>
+<ul>
+<li>Maintain the NetSuite application and other related 3rd party business applications for internal users</li>
+<li>Develop, test and deploy customizations, custom objects, third party tools / applications and new NetSuite functionality based on evolving business needs</li>
+<li>Design, implement, and maintain configurations and customizations of NetSuite to meet evolving needs</li>
+<li>Design, implement, and maintain 3rd party software connections and integrations to NetSuite to support various business needs</li>
+<li>Support end user requests for new saved searches, reports, KPI's, and dashboards, and maintain proper system access for user roles</li>
+<li>Provide internal, ongoing system/technical support to NetSuite users, including training</li>
+<li>Monitor end-user usage of systems and track performance and ensure external integrations comply with governance limits</li>
+<li>Provide front line support with regards to all aspects of NetSuite and data integrity</li>
+<li>Develop, document and implement policies, procedures and guidelines to ensure data integrity, change protocols, customization, usage etc</li>
+<li>Identify, evaluate and recommend other key technologies required to support and improve the business process centered on the NetSuite platform</li>
+<li>Responsible for the change management and release process of NetSuite</li>
+<li>Provide a quality and timely communication regarding system status</li>
+<li>Maintain up-to-date knowledge of NetSuite functionality, customization and integration</li>
+</ul>
+Do you have the right ingredients?
+<br><br>
+<ul>
+<li>Bachelor's Degree in Computer Science, Engineering, Mathematics or a related field.</li>
+<li>3+ years of hands on experience with NetSuite administration, configuration and 3rd party integrations in complex environments</li>
+<li>Administrator-level knowledge of roles, permissions, custom objects, scripting, workflows, reports and dashboards</li>
+<li>Working knowledge of SuiteScript 1.0 &amp; 2.0 / WebServices, OneWorld, SQL, csv imports, user provisioning, defining roles, analytics and scheduling scripts.</li>
+<li>Experience with Advanced Inventory and Advanced Revenue Recognition modules</li>
+<li>Strong data analytics, reporting and database experience (SQL and NetSuite preferred)</li>
+<li>Working knowledge of Microsoft Word, Excel, PowerPoint</li>
+<li>A strong understanding of business processes and requirements</li>
+<li>Project management, system implementation and system integration experience</li>
+<li>Strong analytical and problem solving skills</li>
+<li>Strong written and verbal communication skills</li>
+<li>Ability to work collaboratively with cross-functional teams</li>
+<li>Exceptional saved search and report building skills</li>
+<li>Excellent version control, QA skills and attention to detail</li>
+</ul>
+<b>Bonus ingredients (a pinch of salt):</b><br>
+<ul>
+<li>1+ years working on an Agile SCRUM or Kanban team</li>
+<li>Administrating or Implementing ASC 606 Compliance within Netsuite</li>
+<li>Experience with Workato or similar iPaaS</li>
+<li>Experience with any of the following Enterprise Applications (Salesforce, Workday, ServiceNow)</li>
+<li>1+ years working with REST and/or SOAP</li>
+<li>1+ years experience working with Javascript or SuiteScript</li>
+<li>Experience with Zuora</li>
+<li>Experience with Salesforce CPQ</li>
+<li>NetSuite certification</li>
+</ul>
+</div>

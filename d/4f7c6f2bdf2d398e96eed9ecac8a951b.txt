@@ -1,0 +1,45 @@
+<h2>Technical Marketing Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>Bachelor’s Degree in Computer Science, related discipline, or 10+ years equivalent work experience.</li>
+<li>8 or more years’ experience in technical pre-sales, support services, professional services, technical product management, or product development.</li>
+<li>A current associate-level (or higher) cloud certificate (compute, storage, networking, virtualization) or current tech-industry certifications in technologies like servers, storage, networking, virtualization, or security.</li>
+</ul></div>
+<br>
+<div>Want to be a part of building the future of the cloud? At AWS, we are passionate about helping customers understand the value that cloud technology can bring to their businesses. The AWS Market Intelligence team is seeking a Technical Marketing Manager (similar to a Technical Marketing Engineer) who is comfortable researching, understanding, interpreting, and validating the technical nuances of the cloud across the market.<br>
+<br>
+The AWS Market Intelligence team is obsessed with customers and accurately representing features and services to expose truthful differentiators. We also spend a lot of time talking to customers, and frequently share our findings with the engineering team to guarantee customer-obsessed engineering at Amazon.<br>
+<br>
+Here are some other qualities we are looking for:<br>
+<ul>
+<li>You'll be responsible driving insights for specific cloud services and working directly with our AWS engineering teams as well as supporting AWS Marketing on a global scope</li>
+<li>The right candidate will have demonstrated a strong technical experience working with Enterprise customers and be well-rounded in current cloud technologies.</li>
+<li>At Amazon Web Services, we have a credo of “Work hard. Have fun. Make history”. You are dynamic and creative, and willing to take on any challenge and make a big impact.</li>
+</ul>
+<br>
+Strong preference for this position to sit in Seattle, but open to considering the role in these additional cities: Bay Area, CA and Los Angeles, CA<br>
+<br>
+Responsibilities:<br>
+<ul>
+<li>Deep dive into the technical capabilities of the Amazon Web Services platform vs other alternatives in the market at the service and feature level.</li>
+<li>Drive Hands-on service-to-service and feature-to-feature comparisons as well as work with engineering to validate findings and produce insights.</li>
+<li>Contribute to create compelling audience-specific sales/marketing tools and deliverables in coordination with AWS Market Intelligence, Engineering, Marketing, and Business Development.</li>
+<li>Work effectively across AWS with groups such as engineering, sales, business development, product marketing, Analyst Relations, and Press Relations to achieve business goals.</li>
+<li>Ability to manage multiple parallel projects and delivering quality output on schedule.</li>
+<li>Ability to communicate effectively with both technical and non-technical individuals.</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Hands-on knowledge of AWS is preferred. Knowledge of additional cloud platforms is even better.</li>
+<li>Deep knowledge of technologies like Containers, DevOps, Big Data, AI/ML is a plus.</li>
+<li>Strong leadership and communication skills to drive consensus and articulate program recommendations and tradeoffs to senior executives.</li>
+</ul>
+<br>
+Amazon.com is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.<br>
+<br>
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br>
+<br>
+Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</div>
+</div>

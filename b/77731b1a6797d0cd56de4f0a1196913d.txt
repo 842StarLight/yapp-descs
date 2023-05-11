@@ -1,0 +1,136 @@
+<h2>Software Engineer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Overview
+</p>
+<div><div><div>
+<div>Leveraging deep integrations into retailers’ point-of-sale systems, InComm provides connectivity to a variety of service providers that allow consumers to conduct everyday business at more than 450,000 points of retail distribution worldwide. Whether those consumers are activating prepaid products, paying bills, enjoying real-time discounts through a membership card, purchasing digital goods in-store or adding funds to an online account, InComm is there to provide unique gift-gifting opportunities, cater to on-the-go shoppers, deliver added value through loyalty programs and serve cash-based consumers. With 186 global patents, InComm is headquartered in Atlanta with a presence in over 30 countries in North and South America, Europe and the Asia-Pacific region. Learn more at www.incomm.com or connect with us on www.twitter.com/incomm, www.facebook.com/incomm, www.linkedin.com/company/incomm or www.incomm.com/blog.</div>
+</div></div></div>
+<p>Responsibilities
+</p>
+<div><div><div>
+<ul>
+<li>Work together with the Product Owner(s) to develop java web application software according to priority and functional requirements.</li>
+<li>
+Adhere to and help improve the development practices set by the Director of Development and the team.</li>
+<li>
+Ensure product requirements adhere to overall development best practices in their format, documentation, communication and implementation as directed by the development director.</li>
+<li>
+Technical design and analysis of business use cases in preparation for development.</li>
+<li>
+Work well in Agile Software Development Life Cycle.</li>
+<li>
+Document in code and contribute to team and project wiki spaces for delivery to platform owners and deployment personnel.</li>
+<li>
+Provide unit testing to ensure quality builds in a continuous integration environment.</li>
+<li>
+Support QA in automation and integration testing.</li>
+<li>
+Lead the development effort to ensure the best technologies are implemented for the highest impact of success of the product's vision.</li>
+</ul>
+</div></div></div>
+<p>Qualifications
+</p>
+<div><div><div>
+<div>Must have at least 3+ years’ experience working through the design, development, testing, release cycle and delivering software products.</div>
+<ul>
+<li>
+Ability to lead and collaborate in the development effort while also providing innovative and creative solutions.</li>
+<li>
+Ability to run with an idea or solution and create opportunities to see the product succeed.</li>
+<li>
+Vision for what needs to be done, without specific direction.</li>
+<li>
+A record of successful delivery of software applications as an individual and with a team.</li>
+<li>
+Strong understanding of the software development life-cycle (SDLC).</li>
+<li>
+Strong understanding of the agile software development methodologies and principles.</li>
+<li>
+Strong understanding of, and desire to implement continuous delivery and integration within the development life-cycle.</li>
+<li>
+Willingness and ability to dive into technical issues within environments.</li>
+<li>
+High command of verbal and written English and able to clearly communicate design, architecture, implementations and requirements.</li>
+<li>
+Self-motivated, self-managed.</li>
+<li>
+Team-player, action &amp; results-focused.</li>
+<li>
+Able to work under tight deadlines.</li>
+</ul>
+<div>
+Must have strong technical working experience with:</div>
+<ul>
+<li>
+Must have at least 3+ years’ experience with Angular 6+, ngrx, CSS, and HTML5. We need someone with strong front-end skills and the ability to understand and implement good design of these front-ends (i.e. usability)</li>
+<li>
+Front-End Development</li>
+<li>
+HTML5</li>
+<li>
+CSS (less, sass)</li>
+<li>
+JavaScript</li>
+<li>
+TypeScript</li>
+<li>
+Java 8+</li>
+<li>
+Spring (data, boot, security)</li>
+<li>
+REST services</li>
+<li>
+General SQL and Database Schema experience</li>
+<li>
+Spring-Web/Spring-MVC and JAX-RS</li>
+</ul>
+<div>
+Achieving or already have strong technical working experience with:</div>
+<ul>
+<li>
+Bootstrap</li>
+<li>
+Angular Material</li>
+<li>
+AngularCLI</li>
+<li>
+Gulp</li>
+<li>
+NodeJS</li>
+</ul>
+<div></div>
+<br>
+<div>
+Awareness of the following technology stack:</div>
+<ul>
+<li>
+Tomcat (tcserver)</li>
+<li>
+Container based environments (Docker)</li>
+<li>
+Hibernate, Hibernate/JPA</li>
+<li>
+Websockets</li>
+<li>
+MS-SQL</li>
+<li>
+BitBuickit (GIT)</li>
+<li>
+Bamboo Build Tool</li>
+<li>
+JIRA &amp; Confluence</li>
+</ul>
+<div></div>
+<br>
+<div>
+InComm is an equal employment opportunity employer. We adhere to a policy of making employment decisions without regard to race; color; religion; national origin; sex; sexual orientation; pregnancy, childbirth, or related medical conditions; age; disability or handicap; citizenship status; service member status; or any other category protected by federal, state, or local law.</div>
+<div></div>
+<br>
+<ul><li>This position is eligible for the Employee Referral Bonus Program - Tier IV</li></ul>
+<div>
+#LI-KH1</div>
+</div></div></div>
+</div>
+<div></div>
+</div>

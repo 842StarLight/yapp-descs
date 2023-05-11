@@ -1,0 +1,96 @@
+<h2>Data Center Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Requisition Number: </b><b>74002</b></p>
+<div>
+As a Data Center Architect for Insight, you will combine a diverse technical and industry background coupled with a deep understanding of how technology impacts a business environment. The DCA is able to translate a business need into a technical solution and articulate the value of that solution back to business decision-makers supporting complex solution sales opportunities. The DCA takes a primary technical role in opportunity identification and qualification as a partner to one or more Account Executives (AEs). The DCA is focused on opportunities that may span multiple solution areas and services offerings. A DCA may leverage one or more Solutions Architects and Services subject matter experts to manage a technical sales campaign depending on the specific technical and services requirements of that opportunity.</div>
+<p></p>
+<br>
+<p>
+The DCA takes a consultative approach to selling, focusing on understanding customer business requirements and translating those to appropriate technical solutions and services engagements. The DCA is expected to interact heavily with IT and business decision-makers within their customers to expand the scope of existing opportunities and to identify new opportunities proactively.</p>
+<p></p>
+<br>
+<p>
+Insight is looking for talented individuals who are passionate about emerging technologies and excited about the opportunity to work for industry-leading organizations!</p>
+<p></p>
+<br>
+<p><b>
+What you’ll do at Insight:</b></p>
+<p></p>
+<br>
+<ul>
+<li>
+Owns overall technical relationship with assigned opportunities.</li>
+<li>
+Owns development of proposals that address complex opportunities with input from Insight Subject Matter Experts (SMEs).</li>
+<li>
+Owns the technical aspect and is a participant in increasing share of wallet in target and strategic accounts.</li>
+<li>
+Owns the development of high-level designs for solutions presented with input from SMEs.</li>
+<li>
+Identifies customer business and technical requirements for all opportunities.</li>
+<li>
+Participates in all internal sales meetings as technical representative.</li>
+<li>
+Develops Statements of Work (SOW) for all professional services activity, with input from Solutions Architects and Solutions Engineers as well as the Regional Engineering Director or Manager.</li>
+<li>
+Participates in validating the strategy of responding to RFPs. For valid RFP/RFI opportunities, coordinate the response to these cycles.</li>
+<li>
+Obtain and maintain required vendor certifications as required to support Insight certification requirements or goals.</li>
+<li>
+Reports to management on a weekly basis an accounting of time engaged in pre-sales activities, billable activities, and professional development and company initiatives.</li>
+<li>
+Actively tracks opportunities being worked on, providing regional leadership a weekly report on the revenue, gross profit and services associated with the efforts of the Architect.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+What you’ll need to join Insight:</b></p>
+<ul>
+<li>
+Minimum eight (5) years of experience in technical architecture roles</li>
+<li>
+Minimum four (4) years in technical pre-sales roles</li>
+<li>
+Bachelor’s degree in relevant program of study, or equivalent documented work experience</li>
+<li>
+Industry or vendor certifications in four or more Insight practice areas</li>
+<li>
+Proven experience with the architecture, design, planning, and implementation of industry recognized Data Center solutions.</li>
+<li>
+Deep knowledge and interest in major public cloud offerings (Microsoft Azure, AWS, OpenStack, DevOps) and related Infrastructure, Platform and Software as a Service capabilities.</li>
+</ul>
+<p>
+The position described above provides a summary of some the job duties required and what it would be like to work at Insight. For a comprehensive list of physical demands and work environment for this position, click here.</p>
+<p>
+Today, every business is a technology business. Insight Enterprises, Inc. empowers organizations of all sizes with Insight Intelligent Technology Solutions™ and services to maximize the business value of IT. As a Fortune 500-ranked global provider of digital innovation, cloud/data center transformation, connected workforce, and supply chain optimization solutions and services, we help clients successfully manage their IT today while transforming for tomorrow. From IT strategy and design to implementation and management, our 6,800 employees help clients innovate and optimize their operations to run smarter. Discover more at insight.com.</p>
+<p></p>
+<br>
+<ul>
+<li>
+Founded in 1988 in Tempe, Arizona</li>
+<li>
+7,400+ teammates in 19 countries providing Intelligent Technology Solutions for organizations across the globe</li>
+<li>
+$7.1 billion in revenue in 2018</li>
+<li>
+Ranked #417 on the 2018 Fortune 500, #12 on the 2018 CRN Solution Provider 500</li>
+<li>
+2018 Dell EMC Server Partner of the Year, 2018 Intel Retail Solution Partner of the Year, 2018 Microsoft Worldwide Artificial Intelligence Partner of the Year</li>
+<li>
+Ranked #23 on the 2019 Fortune 50 Best Workplaces in Technology and #5 on the Phoenix Business Journal 2018 list of Best Places to Work (Extra Large Business)</li>
+<li>
+Signatory of the United Nations (UN) Global Compact and Affiliate Member of the Responsible Business Alliance</li>
+</ul>
+<p></p>
+<br>
+<p>
+Today's talent leads tomorrow's success. Learn about careers at Insight: jobs.insight.com.</p>
+<p></p>
+<br>
+<p>
+Insight is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, sexual orientation or any other characteristic protected by law.</p>
+<p></p>
+<br>
+var _apply = _apply || []; var _applybase = 'https://olivia.paradox.ai/'; _apply.push(['setKey', 'aboshnhfmwfgtxtyorqj']); _apply.push(['start']); (function() { var apply = document.createElement('script'); apply.type = 'text/javascript'; apply.async = true; apply.src = 'https://dokumfe7mps0i.cloudfront.net/static/site/js/widget-client.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(apply, s); })();<p>
+Posting Notes: Eden Prairie || Minnesota (US-MN) || United States (US) || DC-Cloud; DL || None || US - Eden Prairie, MN ||</p>
+</div></div>

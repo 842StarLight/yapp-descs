@@ -1,0 +1,110 @@
+<h2>Managing Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div>Concurrency, Inc. is seeking a Managing Architect which requires experienced technology knowledge and the ability to architect Digital Workplace solutions by mapping customer challenges to solutions. Demonstrated ability to engage in senior level technology decision maker discussions related to agility, business value, and trust. Solution Architects are key enablers for other consultants and partner staff. Partnering with the Practice Manager, responsible for managing the delivery of client projects and developing people. Delivery includes the creation, assignment, and completion of technical tasks to ensure exceptional delivery of Digital Workplace solutions. This role works closely with their Practice Manager, Sales, Recruiting, and Resource areas of Concurrency to successfully run, develop and grow the practice. The role requires an individual who is resourceful and has demonstrated skill in design and deployment of solving the clients’ business problems. In addition, this role will directly manage people including career development, performance management, and billable utilization.</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Responsibilities</b></h3>
+<div><ul>
+<li>
+Exceptional delivery of Concurrency practice services resulting in high client satisfaction by monitoring and measuring the success of projects</li>
+<li>
+Responsible for managing a team including annual performance reviews</li>
+<li>
+Shares accountability for personal utilization and any assigned team member utilization on all projects</li>
+<li>
+Continuous team performance improvement as identified by the Practice Manager and Human Capital Business Partner through constructive feedback, assisting with milestones and goals, and monitoring individual career paths</li>
+<li>
+Effectively drive change for Concurrency by identifying, addressing and leading internal projects and change processes in order to improve culture, programs, technology, and ROI</li>
+<li>
+Manage and support effective relationships with Microsoft and other Concurrency partners</li>
+<li>
+Lead a project team of consultants on simultaneous client projects</li>
+<li>
+Serve as a Subject Matter Expert for technical questions and escalation support on projects</li>
+<li>
+Mentor other team members, associates, and interns</li>
+<li>
+Has a good understanding of Concurrency business across multiple solutions</li>
+<li>
+Professional communication and presents well to customers and executives</li>
+<li>
+Demonstrated strong verbal and written communication skills and technical documentation skills</li>
+<li>
+Ensure project delivery is consistent with Concurrency engagement practices, work with BA and PM teams to plan project sprints, scope and resource allocation</li>
+<li>
+Identify new engagement opportunities within existing clients</li>
+<li>
+Author Statements of Work (SoW), problem solve and present to clients</li>
+<li>
+Lead and win client efforts/client facing pre-sales</li>
+<li>
+Drive practice awareness (blog, present, events, social media, etc.)</li>
+<li>
+Architect client results, co-monitor &amp; measure project success and resolve post-sale execution issues</li>
+<li>
+Lead the execution of technical tasks for enterprise level clients</li>
+<li>
+Maintain marketing and sales materials, SOW templates, Preflight checklists, and Deployment Plans</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Qualifications</b></h3>
+<div><ul>
+<li>
+Previous Consulting Experience Preferred (3 – 6 years)</li>
+<li>
+Digital Workplace and Collaboration Portal experience</li>
+<li>
+Strong experience to work with departments on planning and implementation.</li>
+<li>
+Modern SharePoint Framework</li>
+<li>
+Intranet sites, Customer portals, News, Search</li>
+<li>
+Office 365 SharePoint online and SharePoint on-premises deployment and infrastructure knowledge including troubleshooting, design, and implementation experience.</li>
+<li>
+Advanced understanding and experience of SharePoint capabilities, solutions and migrations</li>
+<li>
+Information Architecture and Content Services</li>
+<li>
+Site planning, Content Types, columns, term store and metadata</li>
+<li>
+Enterprise Content Management best practices</li>
+<li>
+Content Security, Compliance, and Governance</li>
+<li>
+Familiar with agile development methodologies</li>
+<li>
+Web development or scripting experience such as C#, PowerShell, HTML, CSS, TypeScript, JavaScript and JS based frameworks such as React or Angular</li>
+<li>
+Azure development, Logic Apps and Azure Functions</li>
+<li>
+Business Process Automation experience - Workflow, Forms, Flow and PowerApps</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Desired Qualifications</b></h3>
+<div><ul>
+<li>
+Teams Development and BOT Development</li>
+<li>
+Visual Studio and TFS/Git</li>
+<li>
+ASP.NET web development (MVC, Web Forms, Web API)</li>
+<li>
+Valo Intranet and LiveTiles</li>
+<li>
+SharePoint Infrastructure experience, configuration</li>
+<li>
+Social Collaboration experience with Yammer</li>
+<li>
+Relevant MCTS/MCITP certifications and/or MCSE certification</li>
+<li>
+Ability to write scripts in PowerShell and scripting experience</li>
+<li>
+K2 and Nintex</li>
+<li>
+Infrastructure (hardware, software, data, networking)</li>
+</ul></div>
+</div></div>
+<div><div><i>Encouraging a healthy work/life balance and providing our colleagues great benefits are just part of what makes Concurrency a great place to work. Concurrency full-time employees receive complete and competitive benefits. We offer a collaborative work environment, competitive compensation, generous work/life opportunities and a comprehensive benefits package that includes paid time off plus holidays. In addition, all colleagues are eligible for a number of rewards and recognition programs, excellent training program and bonus opportunities.</i></div></div>
+</div></div>

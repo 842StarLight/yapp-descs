@@ -1,0 +1,73 @@
+<h2>Data Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div>Concurrency, Inc. is seeking a Data Architect which requires both broad and deep technology knowledge and the ability to architect data solutions by mapping customer business requirements to end-to-end technology solutions. Demonstrated ability to engage in senior level technology decision maker discussions related to agility, business value, data warehousing, and cloud-oriented data solutions is also a must. Data &amp; AI Architects are key enablers for other consultants and partner staff by sharing deep knowledge in large enterprise implementations, best practices, and frameworks or patterns. They oversee delivery of the largest, most complex, and most strategic projects for enterprise customers.</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Responsibilities</b></h3>
+<div><ul>
+<li>
+Lead requirements and design sessions with client and internal teams</li>
+<li>
+Author functional requirements and technical design documentation</li>
+<li>
+Participate in pre-sales client sessions and develop estimates and proposals</li>
+<li>
+Lead strategic planning and roadmap development with clients</li>
+<li>
+Work with BA and PM teams to plan project sprints, scope and resource allocation</li>
+<li>
+Manage at project milestones to ensure successful solution delivery and client satisfaction</li>
+<li>
+Continuous learning and research on modern data solutions, and relevant technologies</li>
+<li>
+Develop deep working relationships with key partners and vendors</li>
+<li>
+Promote service offerings through blogs posts, industry groups, and speaking events</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Qualifications</b></h3>
+<div><ul>
+<li>
+Bachelor's Degree in Computer Science or related fields, or the equivalent in work experience</li>
+<li>
+9+ or more years of experience in enterprise systems and warehouse architecture design, development, testing, deployment, and operational support</li>
+<li>
+Experience with advanced integration scenarios such as hybrid cloud architectures</li>
+<li>
+Experience with enterprise architecture, server topologies, and distributed systems</li>
+<li>
+Knowledge of Agile methodologies</li>
+<li>
+Demonstrated verbal and written communication skills</li>
+<li>
+Demonstrated technical documentation skills</li>
+<li>
+Prior consulting experience</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Skill Requirements</b></h3>
+<div><ul>
+<li>
+Data Modeling (Tabular)</li>
+<li>
+Power BI
+</li>
+<li>Azure Data Platform experience
+</li>
+<li>SQL Server and T-SQL Development</li>
+<li>
+Up to 40% travel required</li>
+<li>
+Machine Learning languages such as R or Python a plus</li>
+<li>
+IoT experience a plus</li>
+<li>
+Spark experience a plus</li>
+<div>
+<br>
+</div>
+</ul></div>
+</div></div>
+<div><div><i>Encouraging a healthy work/life balance and providing our colleagues great benefits are just part of what makes Concurrency a great place to work. Concurrency full-time employees receive complete and competitive benefits. We offer a collaborative work environment, competitive compensation, generous work/life opportunities and a comprehensive benefits package that includes paid time off plus holidays. In addition, all colleagues are eligible for a number of rewards and recognition programs, excellent training program and bonus opportunities.</i></div></div>
+</div></div>

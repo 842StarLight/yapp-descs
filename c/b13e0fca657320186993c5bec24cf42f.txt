@@ -1,0 +1,127 @@
+<h2>Sr. Manager, Marketing Operations</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h3 class="jobSectionHeader"><b>Description</b></h3>
+<p></p>
+<p><b>Who we are:</b></p>
+<p>
+Over ten years ago, we launched AppFolio (NASDAQ: APPF) to revolutionize the way small and medium-sized businesses grow and compete. Today our software solutions serve the property management and legal industries. At the heart of our products and services is a talented and agile team that understands the importance of a 100% customer focus.</p>
+<p>
+With offices in Santa Barbara, Dallas, and San Diego, our business is built for long term success fueled by happy, loyal customers and a team of AppFolians who contribute to our great culture every day.</p>
+<p>
+To learn more about AppFolio and our company values check out our profile on The Muse!</p>
+<p><br>
+<b>
+Why AppFolio?</b></p>
+<ul>
+<li>
+Competitive Compensation</li>
+<li>
+Medical, Dental, Vision, and a 401k Match</li>
+<li>
+Amazing company culture: focus on a complete lifestyle</li>
+<li>
+Recharge: 20 Days PTO + 9 Paid Holidays</li>
+<li>
+Built to last: Grow your career in an innovative, public company</li>
+<li>
+Make an impact: your work plays a key role in transforming our customers’ businesses</li>
+<li>
+Love your team members: co-workers are often friends too</li>
+<li>
+Offices stocked with healthy snacks, games, and goodies</li>
+<li>
+A commitment to health/wellness including onsite fitness classes</li>
+<li>
+Give back to your team and your community</li>
+</ul>
+<br>
+<p><b>
+Who we are looking for?</b></p>
+<p>
+The <b>Sr. Manager, Marketing</b> <b>Operations</b> acts as the primary data steward for Marketing, maintaining data quality, freshness and integrity so the right data is fed into marketing programs at the top of the funnel producing quality responders for sales, and well-constructed planning, analysis and reporting at every stage. This role also leads the strategy, development and optimization of all tools, technologies and processes used in Marketing as well as the measurement, governance and budgeting thereof.</p>
+<br>
+<p><b>
+Principal Responsibilities:</b></p>
+<ul>
+<li>
+Creates and executes the Marketing technology and database strategy.</li>
+<li>
+Serves as liaison between marketing, sales operations, IT, legal and compliance on matters related to the global marketing database for lead generation and customer marketing.</li>
+<li>
+Manages the database and marketing technology team; mentoring younger team members and ensure the work quality of the team.</li>
+<li>
+Responsible for design, implementation, and maintenance of database reports for internal customers.</li>
+<li>
+Create the list acquisition and account generation strategy each quarter.</li>
+<li>
+Maintains an understanding of privacy and data laws and regulations that affect the regions we sell in.</li>
+<li>
+Serves as Database Marketing data quality “guru” – maintains the quality of marketing database through use of de-duplication, data appends, 3rd party tools, and other methods as appropriate.</li>
+<li>
+Works with internal experts to make data available for program outreach along the lifecycle and nurture system:</li>
+<ul>
+<li>
+Prospects: Make Lead data available to program marketers for outreach related to programs along the <i>demand lifecycle</i>: Anonymous, Known/Lead, MQL, Opportunity, Closed Won.</li>
+<li>
+Customers: Make Contact, Account and Usage data available to program marketers for outreach related to programs within the <i>customer marketing nurture system</i>: Deliver, Develop, Grow and Retain.</li>
+</ul>
+<li>
+Participates in the analysis and conceptual design of proposed projects, utilizing professional experience in the development of specifications, design parameters, and alternative solutions.</li>
+<li>
+Working with external and internal parties, prepares specifications, obtains bids, and project manages large list buys as well as match-and-append to augment and improve our database.</li>
+<li>
+Oversees best practices for list uploads and ensures accurate and timely updates via internal and external resources.</li>
+<li>
+Designs, writes, and conducts the development of tests to verify the functionality, accuracy, and efficiency of developed or enhanced reports and SQL modules. Analyzes results for conformance to plans and specifications and makes recommendations based on the results.</li>
+<li>
+Has the ability to analyze data at the detailed level, and roll up findings and implications for executive management, particularly in PowerPoint and Excel format, with minimal oversight.</li>
+<li>
+Establishes and maintains thorough and accurate documentation of all work. Prepares status, management, and one-off reports as required.</li>
+<li>
+Keeps abreast of trends and advancements within area of specialization, incorporating these improvements where applicable. Attends conferences to further knowledge as appropriate.</li>
+<li>
+Maintain continuous quality improvement in meeting internal customer requirements.</li>
+<li>
+Data Hygiene. Set up, map, audit and maintain data from the micro (field pick lists and rules) to the macro (databases) level to ensure seamless integration against a goal of flawless integration and zero breakage.</li>
+<li>
+Design, develop and support complex marketing technology stack including not limited to marketing automation, sales automation/CRM (Salesforce) as well as content, database &amp; project management tools.</li>
+<li>
+May provide technical direction and some project management within a project team.</li>
+<li>
+Define and maintain the company’s marketing data processes and standards.</li>
+</ul>
+<br>
+<p><b>
+Qualifications &amp; Requirements:</b></p>
+<ul>
+<li>
+BS degree or equivalent experience in systems or databases</li>
+<li>
+6+ years of directly related work experience and 3+ years management experience</li>
+<li>
+Significant and demonstrated knowledge of SQL, Access or other relational database technology.</li>
+<li>
+Proven, exceptional technical and analytical acumen to analyze data from multiple sources to detect root causes, determine implications and deliver executive summary findings.</li>
+<li>
+Proven experience with B2B or eCommerce database management; is organized to drive the strategy and manage the projects associated with a customer and prospect database.</li>
+<li>
+Proven experience to ideate strategy, document it in a compelling manner and develop and execute the associated project plan.</li>
+<li>
+Advanced experience in the design, development and preparing business reports, including use of master/detail, slice and dice, drilling methodology, filters, graphs, and so on, is required.</li>
+<li>
+Advanced experience with Salesforce.com, including use of system and data model.</li>
+<li>
+Advanced knowledge of Marketo (or like Marketing Automation System), data model and integration with Salesforce.com CRM</li>
+<li>
+Experience using BI / data warehouse tools is desired.</li>
+<li>
+Solid background in database and marketing analytics/measurement.</li>
+<li>
+Experience managing a marketing technology stack.</li>
+<li>
+Evidence of strong workflow process and tight project management required.</li>
+</ul>
+</div>
+<p></p>
+</div>

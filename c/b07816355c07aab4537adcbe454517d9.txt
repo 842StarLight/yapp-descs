@@ -1,0 +1,50 @@
+<h2>Sr. Leader, Solutions Architecture - Territory</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Basic Qualifications<br>
+<ul>
+<li>10+ years' experience design/implementation/consulting experience of distributed applications</li>
+<li>7+ years' experience in infrastructure architecture, database architecture and networking</li>
+<li>5+ years management of technical customer facing resources</li>
+<li>3+ years' experience managing large organizations through other front-line managers and resources</li>
+<li>Technical degree required; Computer Science or Math background highly desired</li>
+</ul>
+</div>
+<br>
+<div>Amazon Web Services (AWS) is looking for experienced and motivated technical managers to coach, grow, and partner with technically skilled, customer-facing Solutions Architects. You will help develop the industry’s best cloud-based solutions architects by enabling and coaching them on best practices, solution selling, presentation and speaking skills, as well as how to create and present architectures of widely varying size and complexity. In collaboration with sales, you will drive revenue growth across a broad set of customers. If you think you have what it takes to lead the best in the industry, AWS is hiring Leaders for our teams of Solutions Architects.<br>
+<br>
+This role will be responsible for a team of young in career Solution Architects who will need to learn the breadth of the AWS platform quickly and each develop depth in one or more area. As their leader you must be passionate about developing these young professionals and working to quickly advance them into more senior and complex roles.<br>
+<br>
+Travel: Up to 35% travel is required for the role<br>
+<br>
+Roles and Responsibilities<br>
+<ul>
+<li>As a key member of the business development and sales management teams, ensure success in building and migrating applications, software and services onto the AWS platform</li>
+<li>Hire, on-board, train, and develop new Solutions Architects from internal and external sources</li>
+<li>Educate enterprise customers on the value proposition of AWS, and participate in architectural discussions to ensure solutions are designed for successful deployment in the cloud</li>
+<li>Coach Solutions Architects in the skills needed to conduct one-to-few and one-to-many training sessions so they can transfer deep technical skills to customers who are considering or using AWS</li>
+<li>Capture and share best-practice knowledge amongst the AWS solutions architect community</li>
+<li>Guide and motivate the development of whitepapers, data sheets, and other high-value customer facing guidance and best practices</li>
+<li>Build deep relationships with decision makers within customer accounts to enable them to be “Cloud advocates”</li>
+<li>Act as a conduit and liaison between customers, service engineering teams and support</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation/ Age</div>
+<br>
+<div>Preferred Qualifications<br>
+<br>
+<ul>
+<li>Working knowledge of software development tools and methodologies</li>
+<li>Experience working within software development or Internet-related industries</li>
+<li>Experience with analytics and big data related technologies</li>
+<li>History of successful technical consulting and/or architecture engagements with large-scale customers or startups</li>
+<li>Experience migrating or transforming legacy customer solutions to the cloud</li>
+<li>Familiarity with common open source technologies (Tomcat, Hadoop, Nginx, Docker, Git, etc.), products (i.e., MongoDB, Redis, Jenkins, etc.) and design approach (Serverless, microservices, decoupled, etc.</li>
+<li>High level of comfort communicating effectively across internal and external organizations</li>
+<li>Professional experience architecting/operating solutions built on AWS</li>
+<li>Meets/exceeds Amazon’s leadership principles requirements for this role</li>
+<li>Meets/exceeds Amazon’s functional/technical depth and complexity for this role</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation/ Age<br>
+aws-solarch-na</div>
+</div>

@@ -1,0 +1,44 @@
+<h2>Order Management Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About Us
+<br><br>
+<ul>
+<li>What we do:</li>
+</ul>
+We are a cloud-native SaaS machine data analytics platform, solving complex monitoring problems for DevOps, SecOps and ITOps teams. Customers love our product because it allows them to easily monitor and optimize their mission critical, large scale applications.
+<br><br>
+<ul>
+<li>Mission:</li>
+</ul>
+Democratize machine data analytics through the Sumo Logic platform, bringing real-time data insights securely through the cloud.
+<br><br>
+<ul>
+<li>Massive Scale:</li>
+</ul>
+Our microservices architecture in AWS ingests hundreds of terabytes daily across many geographic regions. Millions of queries a day analyze hundreds of petabytes of data.
+<br><br>
+<ul>
+<li>Funding and Growth:</li>
+</ul>
+We have received $235 million in funding to date. Investors include Greylock Partners, Sutter Hill Ventures, Accel Partners, Sequoia Capital, Sapphire Ventures and DFJ Growth. Our recurring revenue and customer base are growing steadily. We serve over 1,600 customers across the globe including AirBnB, Alaska Airlines, Anheuser Busch, Hootsuite, Hearst, Hudl, Major League Baseball, Marriott, Medidata, Sauce Labs, Samsung SmartThings, SPS Commerce, Twitter, Telstra, Toyota, Zuora and more.
+<br><br>
+The Order Management Analyst is part of the Finance team supporting transactional activities for global order processing. This position works closely with Sales, Operations, and Legal in the processing the Company's orders, which primarily include SaaS subscription services. The Order Management Analyst will be responsible for the organization, fulfillment, booking and documentation of all transactions.
+<br><br>
+<b>Areas of responsibility include:</b><br>
+<ul>
+<li>Manage subscription fulfillment utilizing Zuora including customer onboarding, upgrades, and deactivation</li>
+<li>Ensure accuracy of transactions to ensure consistent integrity in financial reporting</li>
+<li>Assist with month-end close accounting entries for orders processed via the company's self-service portal</li>
+<li>Drive business process improvements and initiatives; bring best practice to Quote to Cash and Revenue processes</li>
+<li>Anticipate problems and initiate actions to ensure customer orders are processed timely and efficiently</li>
+<li>Work with Product Management and Engineers on new product releases in Sandbox and Production</li>
+<li>Work closely with Deals Strategy Team and Sales to assist in reconfigurations and upgrade opportunities</li>
+<li>Ad hoc reporting and analysis on renewals and overages</li>
+</ul>
+<b>Qualifications:</b><br>
+<ul>
+<li>3+ years related experience, preferably in a SaaS environment</li>
+<li>Bachelor's degree in Accounting, Finance or Business Administration preferred</li>
+<li>Strong business acumen and understanding of sales process (forecasting, bookings, revenue)</li>
+<li>Experience with Zuora, NetSuite and Salesforce is a plus</li>
+</ul>
+</div>

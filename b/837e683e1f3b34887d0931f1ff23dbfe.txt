@@ -1,0 +1,48 @@
+<h2>Cloud- Python Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>At Elastic, we have a simple goal:</b> to solve the world's data problems with products that delight and inspire. As the company behind the popular open source projects — Elasticsearch, Kibana, Logstash, and Beats — we help people around the world do great things with their data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots. Diversity drives our vibe. We unite Elasticians across 30+ countries into one coherent team, while the broader community spans across over 100 countries.
+<br><br>
+<b>About The Role:</b><br>
+---------------
+<br><br>
+As an engineer in the Billing area team, you will be responsible for technical design and new feature development. This area is responsible for services that power Elastic's SaaS subscription billing platform. This role is very impactful to Elastic -- you will collaborate with partners from Finance, Sales Operations, and IT teams to provide end-to-end billing and invoicing capabilities for our users. You will lead by example and should participate in coding, debugging complex failure scenarios, code reviews, and triaging bugs.
+<br><br>
+<b>Engineering Philosophy:</b><br>
+Engineering a highly complex distributed system that is easy to operate via elegantly designed components and APIs is a non-trivial effort. It requires solid software development skills, and more importantly, a sharp mind and the ability to think like a user. We also care deeply about giving you full ownership of what you're working on. Our company fundamentally believes great minds achieve greatness when they are set free and are surrounded and challenged by their peers, which is very transparent in our organization. We feel that anyone needs to be in a position to comment on truly anything, regardless of his or her role within the company.
+<br><br>
+<b>Some of the things you'll work on:</b><br>
+----------------------------------
+<br><br>
+<ul>
+<li>Implement features and execute on roadmap for the Billing area of Cloud. This includes working on the parts of codebase that brings in monthly subscription revenue from thousands of Elasticsearch Service users.</li>
+<li>Build scalable solutions and expose them via elegant REST APIs to deliver the best payments experience for the Elasticsearch Service.</li>
+<li>Add features to the backend services in Python that uses Postgres DB and Elasticsearch as data stores.</li>
+<li>Collaborate with other teams in Cloud Infrastructure to develop scalable, automated solutions that drive our SaaS business</li>
+<li>Grow and share your interest in technical outreach (blog posts, tech papers, conference speaking, etc.)</li>
+<li>Be hands-on with the codebase. Review work done by your peers, and provide constructive feedback.</li>
+</ul>
+<b>What you will bring along:</b><br>
+--------------------------------
+<br><br>
+<ul>
+<li>Proven experience as a software engineer, with a track record of delivering high-quality code.</li>
+<li>Experience with Python as a programming language</li>
+<li>Experience using Elasticsearch in your application as a data store and analytics engine.</li>
+<li>Experience or interest in working on SaaS billing or metering systems is a huge plus</li>
+<li>Good organizational skills and the ability to own and track projects which are critical to the business</li>
+<li>You care deeply about the resiliency of the services and quality of the features you ship</li>
+<li>Experience with public Cloud environments (AWS, GCP, Azure, etc.)</li>
+<li>A self starter who has experience working across multiple technical teams and decision makers</li>
+<li>You love working with a diverse, worldwide team in a distributed work environment</li>
+</ul>
+<b>Additional Information:</b><br>
+<ul>
+<li>Deeply competitive pay and benefits</li>
+<li>Equity compensation</li>
+<li>Catered lunches, snacks, and beverages in most offices</li>
+<li>An environment in which you can balance great work with a great life</li>
+<li>Passionate people building phenomenal products</li>
+</ul>
+#LI-JA1
+<br><br>
+Elastic is an Equal Employment employer committed to the principles of equal employment opportunity and affirmative action for all applicants and employees. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status or any other basis protected by federal, state or local law, ordinance or regulation. Elastic also makes reasonable accommodations for disabled employees consistent with applicable law.</div>

@@ -1,0 +1,37 @@
+<h2>Strategic Cloud Engineer, Security and Compliance, Professional Services</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Minimum qualifications:</p>
+<ul>
+<li>
+Bachelor's degree in Computer Science, Mathematics, related technical field, or equivalent practical experience.</li>
+<li>Experience managing internal/client-facing projects to completion, and working with engineering teams, sales, services and customers.</li>
+<li>Experience architecting, developing, or maintaining secure cloud solutions (e.g., Google Cloud Platform).</li>
+<li>Experience with identity/access management, network security, data protection, cryptography, and pen testing.</li>
+</ul>
+<br>
+<p>Preferred qualifications:</p>
+<ul>
+<li>
+Experience with infrastructure automation, secure software development and application security.</li>
+<li>Understanding of industry compliance and security standards such as PCI DSS, ISO 27001, SOC 1 and 2.</li>
+<li>Familiarity with securing Kubernetes and containerization workloads.</li>
+</ul>
+<div>
+<h2 class="jobSectionHeader"><b>About the job</b></h2>
+<p>
+The Google Cloud Platform team helps customers transform and evolve their business through the use of Google’s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>
+<p>As a Strategic Cloud Engineer for Security and Compliance, you'll provide excellent technical guidance to customers adopting Google Cloud Platform services. You will provide best practices on secure foundational cloud implementations, automated provisioning of infrastructure and applications, cloud-ready application architectures, and more. You'll provide prescriptive guidance in ensuring customers receive the best of what Google Cloud Platform (GCP) can offer and you will ensure that customers have the best experience in migrating, building, modernizing, and maintaining applications in Google Cloud Platform. Additionally, you will work closely with Product Management and Product Engineering to drive excellence in Google Cloud products and features.</p>
+<p>
+Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what’s next for their business — all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers and developers see the benefits of our technology come to life.</p>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<ul>
+<li>Provide domain expertise in cloud computing security, compliance, and security best practices.</li>
+<li>Work with customers to design and develop cloud security architectures and solutions to meet and exceed their security requirements.</li>
+<li>Be a trusted technical security advisor and resolve technical challenges for customers.</li>
+<li>Create and deliver security best practices recommendations, tutorials, blog articles, sample code and technical presentations, adapting to different levels of key business and technical stakeholders.</li>
+<li>Travel 40% of the time as required.</li>
+</ul>
+</div>At Google, we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.</div></div>

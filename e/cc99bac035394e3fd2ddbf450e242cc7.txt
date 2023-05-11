@@ -1,0 +1,52 @@
+<h2>Principal Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Sales | US - Los Angeles, CA - Remote
+<br><br>
+<b>About the company:</b><br>
+In today's highly connected digital world, understanding, managing and securing the identity of individuals and things is essential to safety and success of both businesses and their customers. Billions of people connect from anywhere, use a wide variety of devices and expect a seamless yet secure experience.
+<br><br>
+The ForgeRock mission is to provide the most simple and comprehensive Identity and Access Management Platform to help our customers deepen their relationships with their consumers and improve the productivity and connectivity of their employees and partners. Our identity solution enables great digital experiences and is embedded with a rich set of security, privacy and consent features. We deliver our platform through both cloud services and on-premises software.
+<br><br>
+Our customers are some of the biggest companies, organizations, and even countries in the world. On any given day, it's likely that the ForgeRock Identity Platform helped keep your data safe, gave you access to stuff, and supported trusted relationships between you, companies and the devices you were using.
+<br><br>
+ForgeRock is headquartered in San Francisco, but we are a global company with offices in the following cities: Vancouver, WA; Austin, TX; Munich, Germany; London &amp; Bristol, UK; Grenoble &amp; Paris, FR; Oslo, NO; Singapore and Sydney, Australia. Please read more about us at forgerock.com ( http://forgerock.com/ ) or follow ForgeRock on Twitter at http://www.twitter.com/forgerock ( http://www.twitter.com/forgerock ).
+<br><br>
+<b>The Role:</b><br>
+ForgeRock is looking for experienced presales people with a passion for Identity and its application. The ideal candidate will have a strong understanding of Identity and Access Management solutions/technologies, comfort conveying the value of a proposed solution to both technical and business audiences, experience with development and integration tasks for Identity solutions. Interest/experience with Consumer IAM, DevOps, microservices, IOT, and/or specific vertical expertise is a plus.
+<br><br>
+As a Principal Solution Architect, you will leverage your expertise to provide thought leadership on possible applications of the ForgeRock Identity solutions that extend beyond the traditional use of an IAM stack. Accordingly, you will help make an impact with an industry leading technology that is growing quickly and aggressively. You will work with an innovative and market leading team, interact with global customers and interact daily with world leading technologists.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Partner with sales team to qualify prospects on solution fit and delivery opportunity success.</li>
+<li>Own and manage technical team relationships with-in accounts.</li>
+<li>Delivery of pre-sales activities including; developing and planning conceptual solution presentations, conceptual/proposed solution demonstrations, providing technical/product guidance in meetings, responding to RfXs, and clearly and effectively communicate solution value to business and technical audiences</li>
+<li>Provide technical guidance to customers and partners via customized demonstrations, Proof of Concepts, and technical workshops</li>
+<li>Engage in tech talks, meet-ups, blogs, and other public facing activities to promote ForgeRock and show thought leadership in the Identity space.</li>
+<li>Hand off pre-sales efforts to a post-sales service delivery team</li>
+<li>Open to travel 25% to 50% as needed</li>
+</ul>
+<b>Required Skills &amp; Qualifications:</b><br>
+<ul>
+<li>6+ years of experience in presales is preferred. Alternatively, professional services with strong customer facing skills.</li>
+<li>Successful experience with Identity and/or Access Management (IDM / IAM) solution selling and depth of product expertise.</li>
+<li>Track record of success in a pre-sales environment for an enterprise software vendor</li>
+<li>Excellent communication and customer service skills; verbal, written, and listening/understanding skills.</li>
+<li>Proven experience developing and delivering effective technical presentations, workshops, customized demonstrations, and proof of concepts</li>
+<li>Demonstrated collaboration and teamwork skills</li>
+<li>Self-sufficiency, a high degree of autonomy, and a passion for working in a dynamic startup-like environment</li>
+<li>Comfort/expertise with technologies such as: web technologies, Javascript, Groovy, Java, Node.js, REST APIs/web services, Docker, Ansible, Kubernetes, cloud, networking, and other related technologies/tools</li>
+</ul>
+<b>Life at ForgeRock:</b><br>
+We believe in and facilitate a flexible, collaborative work environment. We've grown enormously, but remain true to the innovative, can-do startup values that got us here. Most important of all, we keep hiring talented, smart, fun, and genuinely nice people because that's who we want to succeed with every day. Below are just a few of the great things we have to offer at ForgeRock:
+<br><br>
+<ul>
+<li>A great team of smart, fun and genuinely nice individuals.</li>
+<li>Awesome company culture focused around providing a flexible and collaborative work environment</li>
+<li>Regular office bonding events, from lunches and happy hours to group offsites and hack-days</li>
+<li>Well-stocked fridges, whether you're hungry or thirsty</li>
+<li>Competitive benefits and perks</li>
+<li>We're Mac-friendly!</li>
+<li>Generous employee referral bonus program</li>
+<li>Amazing offices across the globe – San Francisco HQ; Vancouver, WA; Austin, TX; Munich, Germany; London &amp; Bristol, UK; Grenoble &amp; Paris, FR; Oslo, NO; Singapore, Australia &amp; counting!</li>
+</ul>
+ForgeRock is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law.</div>

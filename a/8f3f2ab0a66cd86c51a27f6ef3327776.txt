@@ -1,0 +1,40 @@
+<h2>DevOps Infrastructure Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Redapt Inc. is a pioneering world class cloud consulting solutions provider, global data center infrastructure integrator, and DevOps engineering firm.
+<br>Our focus is on delivering innovative multi-cloud, data center, and application engineering solutions that provide true and unique value to our customers.
+<br><br>
+As engaged customer facing consultants, we're always on the cutting edge of technology while simultaneously highly well versed in today's best practices so that we can deliver best of breed solutions for our clients.
+<br><br>
+If you are passionate about everything DevOps, public cloud, hybrid cloud, and automation, you've come to the right place!
+<br><br>
+We are seeking a Jr. DevOps Infrastructure Architect with deployment, configuration and design experience.
+<br><br>
+<ul>
+<li>If you come from a development or operations background and are looking for a career change to consulting, this is the ideal role for you!</li>
+<li>Your primary duties will revolve around pre-sales engineering efforts and growing our cloud infrastructure and devops business both(on-prem and in the cloud)</li>
+<li>You will interface with sales account executives, engineering teams, as well as customers to strategize, uncover, educate, design, and package Redapt cloud and devops solutions.</li>
+<li>You will have tremendous opportunity to train, learn, and grow your skill set so that our customers are confident in Redapt's capabilities to stay ahead of the technology curve.</li>
+<li>This role will be 75% pre-sales and 25% post-sales.</li>
+</ul>
+<b>BASIC QUALIFICATIONS:</b><br>
+<ul>
+<li>BS or MS bachelor's degree or higher.</li>
+<li>2+ years of experience coding in C++, Python, Java, or similar programming language.</li>
+<li>2+ years of experience with build, release, testing, and code pipeline integration and/or delivery.</li>
+<li>Experience in public cloud services beyond basic provisioning; strong foundational knowledge in containers, IaaS, PaaS, and SaaS architecture.</li>
+<li>Some experience in IAS (infrastructure as code), CM(configuration management), service discovery, and similar concepts.</li>
+<li>Some experience with Windows and Linux systems in public clouds such as Azure, GCP and/or AWS.</li>
+<li>Some experience with container technologies such as Kubernetes and Docker.</li>
+<li>Some Experience with scripting and automation development.</li>
+<li>Knowledge of ITIL processes and experience evolving to Agile development life-cycles.</li>
+<li>Ability to articulate complex architectures to non-technical audiences</li>
+<li>Ability to document solutions and train operational teams on supportability</li>
+</ul>
+<b>PREFERRED QUALIFICATIONS:</b><br>
+<ul>
+<li>Some experience in contributing to open source projects and representing specific needs to the distributed development community.</li>
+<li>Some experience in automation of code deployment across multiple cloud providers such as Amazon Web Services, Microsoft Azure, Google Cloud.</li>
+<li>Some experience with industry popular tools such as Ansible, Puppet, Chef, Terraform, Nomad, or similar technologies.</li>
+<li>Some experience with application load balancers is a plus!</li>
+<li>Some experience with Redhat OpenShift is a plus!</li>
+</ul>
+</div>

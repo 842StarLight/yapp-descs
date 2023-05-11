@@ -1,0 +1,160 @@
+<h2>Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>The<br>
+Business Applications domain focuses on delivering end to end implementation<br>
+solutions around the Microsoft Dynamics suite consisting of Dynamics 365,<br>
+Dynamics Ax and Dynamics CRMOL. The Domain is responsible for the delivery of<br>
+CRM &amp; ERP Business Solutions for MSFT Services. This global team is<br>
+comprised of over 1,000 functional, technical and industry experts delivering<br>
+end to end lifecycle services empowering our customers to achieve their digital<br>
+transformation and business growth goals. As part of this team the India<br>
+Global Delivery Dynamics domain team consists of over 330 techno-functional<br>
+consulting resources who deliver Dynamics implementation solutions for<br>
+customers worldwide out of our centers in India and working in tandem with the<br>
+larger domain team across the globe.</div>
+<div></div>
+<br>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<div>
+Microsoft Business Solutions group is helping customers deploy Microsoft Dynamics CRM solutions across the globe (40+ countries). It is looking for an Enterprise CRM Technical Consultant who has a mix of hands on experience on Customer Relationship Management Software (Microsoft Dynamics CRM, Siebel, SFDC, SalesLogix, Pivotal and SAP CRM), Customer Care Accelerator and supporting Microsoft technologies.</div>
+<div></div>
+<br>
+<div>
+The ideal candidate will be an experienced Microsoft Dynamics CRM Developer/Lead with a masterful expertise in .Net, SQL, and the entire Dynamics CRM 4.0/2011 technology stack. He/she must be able to thrive in a team environment and enjoy working with others to find creative technical solutions to functional requirements for our customers. The candidate should be proficient in Solution/architectural design; application customization using Dynamics CRM development tools, troubleshooting intricate technical problems and application performance bottlenecks. The role requires the ability to work directly with Microsoft Customers, Business Partners, and Product teams to create Dynamics CRM solutions that meet/exceed customer needs across the globe. The ideal candidate will have intimate knowledge of the Microsoft Dynamics CRM data and object model and possess strong technical and problem solving skills combined with demonstrated result-driven approach in all development related endeavors. This position will be involved in some of the largest, most complex, and most strategic projects for enterprise customers. The Consultant will have a passion for the customer delight which is demonstrated through professionalism. The role requires an individual, who can thrive in ambiguity, self-motivated, is resourceful, confident under pressure, and has demonstrated skill in both crisis management and expectation management.</div>
+<div></div>
+<br>
+<div><b>
+Competency/Capability/Experiences Skills</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+Ability to design solutions</li>
+<li>
+Ability to estimate work packets/Projects</li>
+<li>
+Technologically proficient</li>
+<li>
+Ability to handle the assignments independently
+</li>
+<li>Delivered 3-4 large implementations or equivalent</li>
+<li>
+Played Dev lead/Track lead roles for 2-3 projects</li>
+<li>
+Ability to lead a team</li>
+<li>
+Uses creative ways to find solutions</li>
+<li>
+Good verbal &amp; written communication skills</li>
+<li>
+Able to identify performance bottlenecks and fix it</li>
+<li>
+Is certified on latest product at desired levels</li>
+<li>
+Great Team Player</li>
+<li>
+Ability to translate customer requirements in to solution design</li>
+<li>
+Proficient in Delivery methodology (Sure Step Preferable)</li>
+<li>
+Can plan and organize delivery of solution</li>
+<li>
+Experience in handling end to end implementations</li>
+</ul>
+<div>
+<br>
+</div>
+<h2 class="jobSectionHeader"><b>Qualifications</b></h2>
+<ul>
+<li>
+CRM 4.0/CRM 2011/2015/2016 or equivalent CRM Product Experience.</li>
+<li>
+</li>
+<li>
+Proficient in minimum 2 modules (Sales, Service and Marketing)</li>
+<li>
+</li>
+<li>
+Good understanding of CRM entity &amp; Object model</li>
+<li>
+</li>
+<li>
+Hands on experience in writing CRM Plugins, Custom Workflows, Integration, Client side custom code.</li>
+<li>
+</li>
+<li>
+Experience in Designing CRM Data Models to implement complex business requirements.</li>
+<li>
+</li>
+<li>
+.Net Framework (WCF, Web API, MVC, ASP.Net)</li>
+<li>
+</li>
+<li>
+Object Oriented Programming and Design experience</li>
+<li>
+</li>
+<li>
+Design Patterns and UML</li>
+<li>
+</li>
+<li>
+SQL Programming knowledge</li>
+<li>
+</li>
+<li>
+SSRS Reporting/ Fetch reporting.</li>
+<li>
+</li>
+<li>
+Team Foundation Server or equivalent source control system</li>
+<li>
+</li>
+</ul>
+<p>
+<b>Optional Skills (Preferred)</b></p>
+<div></div>
+<br>
+<ul>
+<li>
+SharePoint</li>
+<li>
+Dynamics CRM Portals/ ADX Studio Portal</li>
+<li>
+Dynamics 365 And Office 365 is preferred.</li>
+<li>
+BizTalk or other Middleware technologies used for integrations</li>
+<li>
+Azure or other cloud solutions</li>
+<li>
+Dynamics CRM ISV solutions</li>
+<li>
+SSIS, SSAS and BI</li>
+<li>
+Industry vertical knowledge – Retail, BFSI, Telecom, etc.</li>
+</ul>
+<p>
+Educational Qualification: BE/BTECH/MCA/BSC or equivalent</p>
+<div></div>
+<br>
+<p>
+Travel requirements Job requires 50%+ travel (Valid passport is required)</p>
+<div></div>
+<br>
+<div>
+Job Functions</div>
+<div></div>
+<br>
+<ul><li>
+Consulting</li></ul>
+<div>
+<br>
+</div>
+<div></div>
+<div>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.</div>
+<div></div>
+<br>
+<div>
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.</div>
+</div></div>

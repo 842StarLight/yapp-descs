@@ -1,0 +1,67 @@
+<h2>Data Security Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><i>ValidaTek, Inc. is an award-winning Small Business that provides high-security mission-critical IT services to the Federal Government. Our commitment to excellence in service delivery has resulted in dramatic growth and an expanding client base that includes several U.S. Federal Departments. The corporate infrastructure is robust and based on industry best practices as evidenced by our DCAA Approved accounting system, ISO 9001:2015, ISO 20000-1:2011, and ISO 27001:2013 certifications, and CMMI Level 5 for Services (CMMI-SVC Level 5) and CMMI Level 5 for Development (CMMI-DEV Level 5) appraisals. We pride ourselves in being the best and only attracting and retaining the best talent to fuel our rapid growth. We promote a strong employee-focused corporate culture that provides a diverse, prosperous and rewarding place to work. We provide our employees with competitive benefits, educational assistance, and career growth opportunities. Every employee is valued for their contributions and we all take pride in helping our customers achieve their goals, which in turn contributes to the overall success of the company.</i></p>
+<p><i>
+http://www.validatek.com/</i></p>
+<p><b>
+Position Description:</b></p>
+<p>
+The legacy SPECTRUM XXI application is a client/server, Windows-based software system that provides frequency managers with a single information system to address spectrum management automation requirements. SPECTRUM XXI supports operational planning and management of the radio frequency spectrum with an emphasis on assigning compatible frequencies and performing spectrum engineering tasks. SPECTRUM XXI is the Joint standard system for spectrum management throughout the DOD. It has also been adopted by the National Telecommunications and Information Administration (NTIA) for processing frequency records for federal agencies. SPECTRUM XXI was also provided to over 22 foreign nations through Foreign Military Sales (FMS) and these efforts have paid off with SPECTRUM XXI being used by all NATO International Security Assistance Forces spectrum management elements in the Afghan Area of Operations.</p>
+<br>
+<p></p>
+<p>
+SXXI is a mission critical National Security System (NSS) used by the Department of Defense (DOD), National Telecommunications and Information Administration (NTIA), other U.S. Federal Agencies, North Atlantic Treaty Organization (NATO) and foreign allies for strategic and tactical operations. The system is designated as the DOD’s Joint Frequency Assignment system, and it has been in use operationally at the DOD since 1999. The system provides a suite of tools and workflow automation to process frequency requests and manage use of the electromagnetic spectrum (i.e., radio frequencies).</p>
+<p>
+DOD, NTIA and International instances/versions of the system exist and operate on different networks. They share a common codebase, however some features and data are only available to the DOD. SXXI follows a client-server architecture, and the SXXI client contains the following modules: Frequency Assignment, Interference Analysis, Electronic Warfare, Joint Restricted Frequency List (JRFL), Engineering Tools, Compliance, Allotment Plan Generator, Data Exchange, Topo Manager, Spectrum Certification System and System Tools. It interoperates with the NTIA Federal Spectrum Management System and any system that complies with the Standard Frequency Action Format (SFAF) frequency record data standard. No existing Commercial-off-the-Shelf (COTS) system or other Government-off-the-Shelf (GOTS) system meets SXXI system requirements.</p>
+<br>
+<p></p>
+<p>
+Provided support to plan, coordinate, and implement the organization’s information security. Provide support for facilitating and helping agencies identify their current security infrastructure and define future programs, design and implementation of fire-wall and other related security issues on LANs/WANs. A working knowledge of several of the following ares is required:</p>
+<p>
+Understanding of business security practices and procedures; knowledge of current security tools available; hardware/software firewalls and their implementation; different communication protocols; encryption techniques/tools; familiarity with commercial products (ex. – Domain Name Systems, Public Key encryption technology, SmartCard, Cyberguard, TimeStep), and current Internet and electronic commerce technology.</p>
+<ul>
+<li>Ensures all code meets security guidelines</li>
+<li>Resolves security issues identified by static code analysis</li>
+<li>Manages supply chain security for known vulnerabilities for open source and commercial libraries and components</li>
+<li>Mentors team on security best practices</li>
+</ul>
+<p><b>Position Requirements/Qualifications:</b></p>
+<p><b>
+Education and Certifications</b></p>
+<p>
+Bachelors Degree in Computer Science or related field.</p>
+<p><b>
+Knowledge and Experience</b></p>
+<p>
+Minimum 3 years of experience in:</p>
+<ul>
+<li>Application Security/DevSecOps experience</li>
+<li>Jenkins (or Equivalent)</li>
+<li>Reviewing source code for vulnerabilities</li>
+<li>Analysis of security testing findings, control implementations, and resultant documentation updates.</li>
+<li>Experience working directly with clients</li>
+</ul>
+<p><b>Desired Experience</b></p>
+<ul>
+<li>DoD SECRET clearance <b>is required</b>
+</li>
+<li>Experience with development environments using multiple processor cores on the client and, when hosted on the Server Infrastructure, support massively parallel operations across cores, processors and servers in hardware-based and virtual/cloud-based environments <b>is desired</b>
+</li>
+<li>Experience with Public Key Encryption (PKI) authentication and username-password authentication <b>is preferred</b>
+</li>
+<li>Experience with spectrum (radio frequency) management systems (commercial, government or DOD) <b>is a plus</b>
+</li>
+<li>Experience with Earned Value Management systems for cost and schedule compliance and reporting <b>is a plus</b>
+</li>
+<li>DOD software development experience <b>is a plus</b>
+</li>
+<li>Software modernization experience <b>is a plus</b>
+</li>
+</ul>
+<p>Applicants who are selected for employment will be required to verify authorization to work in the United States.</p>
+<p><i>
+ValidaTek is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, or disability status.</i></p>
+</div>
+<p></p>
+</div>

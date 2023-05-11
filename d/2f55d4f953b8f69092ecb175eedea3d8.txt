@@ -1,0 +1,124 @@
+<h2>BT/WiFi Embedded Software Engineer - SoCal</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>As a leading worldwide provider of navigation devices and wearable technology, our focus is on developing, designing and supporting superior products. Our advanced technology promotes performance, safety and ease of use in every market we serve. That makes us an engineering and technology company with a keen focus on recruiting talent in those fields. But the same vertical integration business model that keeps all design and manufacturing processes in-house also gives us the incentive to hire top performers from different backgrounds, including operations, finance and accounting, information technology, sales, marketing and communications.<br>
+<br>
+Our Automotive Infotainment development team has an exciting opportunity for a full-time <b>Bluetooth/Wi-Fi Embedded Software Engineer</b> who is passionate about integrating Bluetooth and Bluetooth Low Energy into embedded designs. As part of the platforms team, you will work closely with the hardware design engineers and other platform software engineers to develop low-level drivers/software to take projects from concept to production. There is a wide range of opportunity to work with various hardware platforms and technologies that are found in many consumer electronic products today! As a growing and consistent leader in automotive navigation, we strive to design and deliver innovative features. We take pride in producing simple, elegant solutions that impact global customers with clear differentiation. Opportunities are available in Brea, CA.<br>
+<br>
+Bluetooth/Wi-Fi software engineers on the Auto OEM team will:<br>
+</div>
+<ul>
+<li><div>
+Design, implement, debug, and optimize Bluetooth Classic and Bluetooth Low Energy feature integration in new and/or existing designs.</div></li>
+<li><div>
+Lead problem solving efforts to improve performance and reliability of Bluetooth connectivity.</div></li>
+<li><div>
+Integrate, improve and tailor vendor drivers, host stacks, and applications to our needs.</div></li>
+<li><div>
+Work with the hardware team to ensure the correct hardware and RF architecture necessary to support an optimal customer experience</div></li>
+<li><div>
+Support compliance and certification activities for new designs including Profile Test Suite (PTS) testing, Qualified Design ID (QDID) inspection, profile version analysis, etc.</div></li>
+<li><div>
+Make substantial contributions toward determination of project goal/objective feasibility</div></li>
+<li><div>
+Participate in project leadership and/or program planning including providing technical input to product development plans and concept documents</div></li>
+<li><div>
+Provide reliable solutions to a wide range of difficult problems using sound problem solving techniques</div></li>
+<li><div>
+Contribute to advanced technical research on new technologies</div></li>
+<li><div>
+May work with software vendors to integrate externally developed deliverables into project</div></li>
+<li><div>
+Assist design engineering as needed with component datasheet review and schematic design review</div></li>
+<li><div>
+Offer process improvement suggestions and authors new procedures as appropriate</div></li>
+<li><div>
+Serve as a mentor to less experienced Software Engineers (Software Engineer 1)</div></li>
+<li><div>
+Exemplify Garmin’s Mission Statement and Quality Policy and proactively works to improve Garmin’s image and culture</div></li>
+</ul>
+<div></div>
+<br>
+<div>
+</div>
+</div>
+<p></p>
+<div>
+<b>
+Qualifications</b><div>
+</div>
+<div>
+Candidates for this role should possess a Bachelor of Science Degree in Computer Science, Electrical Engineering, Computer Engineering, Math or Physics or another relevant engineering/technical field AND a minimum of one-year relevant experience OR an equivalent combination of education and relevant experience, plus a cumulative GPA greater than or equal to 3.0 as a general rule.</div>
+<div></div>
+<br>
+<div>
+Qualified candidates will also:</div>
+<ul>
+<li><div>
+Demonstrate proficient knowledge and utilization of engineering tools necessary for successful performance of the essential functions of this job description</div></li>
+<li><div>
+Must demonstrate proficiency and possess experience necessary to develop moderately complex software in C and/or assembly language</div></li>
+<li><div>
+Demonstrated experience programming C on ARM processors</div></li>
+<li><div>
+Demonstrate mastery of relevant software engineering tools (configuration management systems, build processes, debuggers, emulators, simulators and logic analyzers)</div></li>
+<li><div>
+Demonstrate proficient ability to capture and document software requirement</div></li>
+<li><div>
+Must possess detailed knowledge of WiFi protocols, including software development to enable Wifi Access Point, Wifi Direct and WPA Supplicant, MIMO or MU-MIMO and other technologies.</div></li>
+<li><div>
+Capability in bringing new unproven technologies to production is a must.</div></li>
+</ul>
+Desirable Skills:<ul>
+<li><div>
+Must possess detailed knowledge of the Bluetooth core specification and experience with profile specifications including, but not limited to PBAP, MAP, HIL, SPP, A2DP, AVRCP, HSP, and HFP</div></li>
+<li><div>
+Experience debugging the Bluetooth BR/EDR and LE protocol over-the-air with commonly available protocol analyzers</div></li>
+<li><div>
+Experience with Bluetooth stack or driver software development</div></li>
+<li>
+Screen Mirroring technologies such as Miracast, Carplay, Android Auto are a plus.</li>
+<li>
+Experience with DSRC or 5G Vehicle to Vehicle and Vehicle(V2V) to Infrastructure (V2I) technologies are a plus.</li>
+<li><div>
+Experience designing &amp; developing communication protocols for systems utilizing UART, I2C, SPI and other such inter-IC interfaces</div></li>
+<li><div>
+Previous experience writing embedded C code and in-circuit debugging using JTAG interface</div></li>
+<li><div>
+Familiarity with developing, debugging, and optimizing embedded multi-threaded systems running on ARM-based processors</div></li>
+<li><div>
+Experience in using oscilloscopes and/or logic analyzers to design, test and validate embedded systems</div></li>
+</ul>
+<div>
+Our benefits are designed to lead an evolving marketplace, support innovation and encourage a healthy balance between work and life. They allow our associates to make their own decisions about their wellbeing and future and consistently rank Garmin as a top tier benefits provider when compared to other high-tech employers. We offer a choice of high value medical, dental and vision plans with low or no premiums, to fit your and your family’s preferences. In addition, Garmin’s financial benefits include a generous 401K retirement plan that provides 5% of pay base contribution plus a match of 75 cents for every dollar you contribute to a maximum of 10% of your compensation. The employee stock purchase plan allows for shares to be bought at a 15% discount. Garmin offers many other benefits and perks ranging from wellbeing initiatives, educational assistance and career development, community charity support, and employee discounts just to name a few.</div>
+<div></div>
+<br>
+<div>
+RELOCATION ASSISTANCE AVAILABLE</div>
+<div></div>
+<br>
+<div><i>
+Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran’s status, age or disability.</i></div>
+</div>
+<p></p>
+<br>
+<div>
+<b>
+Job</b> Engineering</div>
+<div>
+<b>
+Primary Location</b>US-CA-Diamond Bar</div>
+<div>
+<b>
+Organization</b> Consumer Engineering</div>
+<div>
+<b>
+Schedule</b> Full-time</div>
+<div>
+<b>
+Job Class</b> Exempt</div>
+</div>
+<p></p>
+</div>

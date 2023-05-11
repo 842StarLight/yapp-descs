@@ -1,0 +1,194 @@
+<h2>VP of Technology / Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About our company culture and this position:</b><br>
+Our company culture is the #1 reason people choose to work here, and stay once they're here. It'd be a mistake to say that things like our fun quarterly events, our no-dress-code, and our efficient 40 hour work week define our culture - they're the positive side effects of our culture. Our culture is built on good people who love their work, and work hard and intelligently to produce great results. We're grateful for the work we all do, and we tell each other that. We are a group of thoughtful, helpful people with integrity, and we get stuff done. When you have that, it doesn't really matter what clothes you wear or if you booked a 80 hour workweek (which we recommend against doing).</p>
+<div>
+<div>
+<div><div>
+<p>Are you interested in putting together your own software engineering team, building the architecture for a widely distributed software product, and working directly with company founders to create first-ever products? Are you able to build a team to support these products, and tie the products into the organization as a whole for world-class data analysis?</p>
+<p>
+We’re a people-first, culturally-focused company that drives at real results. If you’ve got the experience of putting together a great team and executing on challenging product vision, and thrive in an environment with little bureaucracy - you’ll make a great impact here. If you’re looking for an easier gig, or one where there’s a wide and deep team already in place and you’ve just got to “not mess it up” - do not apply to this job.</p>
+<br>
+</div></div>
+</div>
+</div>
+<p></p>
+<div><div><div><div>
+<p><b>Our Core Values</b></p>
+<p>
+It's important to know what core values we care about here, and what we're trying to do as a company. Our vision is to make products that people love, and a company people love to work for. How we get there is through our core values:</p>
+<p><b>
+Help</b> each other, and allow others to help you<br>
+Have <b>Integrity</b> in everything you do<br>
+</p>
+</div></div></div></div>
+<p>Be a <b>thoughtful</b> person, and be thoughtful in your work<br>
+<b>Execute</b>! We want people who deliver on goals and promises.</p>
+<br>
+<p></p>
+<p><b>
+About This Opportunity:</b></p>
+<div>
+<div>
+<div><div>
+<p>Title: VP of Technology<br>
+Compensation: $150k-$175k (depending on experience)<br>
+<b>Benefits: </b>Health care, dental, short and long term disability, life insurance, substantial maternity and paternity leave<br>
+Reports To: Co-Founders<br>
+Location: 3901B Main Street, Suite 106, Floor 1 Philadelphia PA 19127<br>
+Job Type: Full Time</p>
+<br>
+</div></div>
+</div>
+</div>
+<p></p>
+<p><b>What does a VP of Technology do, anyway?</b></p>
+<div>
+<p>Our fast-growing company utilizes a wide range of technology to drive our products and support our customers around the world. This leadership-level hire will work closely with the co-founders, and be accountable for the execution of their vision - including planning and architecture, product development and design, security, availability, and building a team. The primary existing tech product you’ll be working with is RapidCut - this amazing platform, which is currently in use in 700+ retail locations in over 45 countries, is a cloud-connected 2D cutting plotter that allows our retailers all over the world to make our line of mobile accessories in seconds at the store. In addition, we’re building even more status-quo challenging hardware and software products over the next several years.</p>
+<p>
+Reporting to the co-founders, you’ll have an IT Manager and several outsourced developers reporting to you, as well as the ability to build an internal and/or external team as you see fit. This position will not have to deal with internal IT / and internal help desk items, and will only be working on revenue-producing associated tech projects.</p>
+<br>
+<p></p>
+<div>
+<div>
+<div>
+<p><b>In plain terms, here’s what this usually means:</b></p>
+<ul>
+<li>
+<p>Create and maintain a tech roadmap with clear prioritization, while keeping the tech team focused on the goal.</p>
+</li>
+<li>
+<p>Recruit, build, and manage a team, both internally and externally, to execute the vision of the co-founders.</p>
+</li>
+<li>
+<p>Look around corners to ensure the platforms, architecture, and systems are adequate for the stage and growth plans of the company.</p>
+</li>
+<li>
+<p>Set and capture metrics that measure the success of the tech team and products.</p>
+</li>
+<li>
+<p>Work closely with the leadership team to take all areas of the business in to account, including Marketing, Sales, Finance, Operations, and Product R&amp;D.</p>
+</li>
+<li>
+<p>Identify and leverage, when appropriate, new technologies and products</p>
+</li>
+<li>
+<p>We are a company that ships, so doing all the above on-time, on-budget, and in a way that drives true, usable value for our team and our customers is critical. Until it ships and customers love it, it doesn’t count.</p>
+</li>
+<li>
+<p>A deep understanding and experience of what makes a great company culture, and building/leading your team in line with our Core Values.</p>
+</li>
+<li>
+<p>Hands-on technical leadership, including application architecture design, code reviews, release responsibilities, production support, etc.</p>
+<br>
+</li>
+</ul>
+</div>
+</div>
+<p></p>
+<div><div>
+<p><b>If this sounds like you, your previous education, work experience, and passions probably sound like this:</b></p>
+<ul>
+<li>
+<p>5+ years serving in a leadership position, managing a tech team at a company with scale (non-startup)</p>
+</li>
+<li>
+<p>2+ years as a software engineer, developer, coder, or similar</p>
+</li>
+<li>
+<p>3+ years proven work experience and success as a project manager</p>
+</li>
+<li>
+<p>Natural desire to take big hairy problems, rise above the details, and make an actionable plan that others can carry out</p>
+</li>
+<li>
+<p>Ability to prioritize tasks, and focus a team on a fixed goal to complete projects on time regardless of unforeseen setbacks</p>
+</li>
+<li>
+<p>Keen ability to look to the future and build processes to prevent avoidable mistakes</p>
+</li>
+<li>
+<p>Ability to spot and document gaps in institutional knowledge that may be living in individuals heads.</p>
+</li>
+<li>
+<p>Agile, Scrum, and/or other project management certifications</p>
+</li>
+<li>
+<p>College level or higher degree in Computer Science, Computer Programming, Information Science, Software Engineering, or similar</p>
+</li>
+<li>
+<p>You don’t need to be an expert in all of our tech stack, but you should have expertise in at least some, with proficiency in many, and the ability to fill in the gaps by learning. Here’s what you’ll find under the hood:</p>
+<ul>
+<li>
+<p>Local OS with a move towards containerization (Windows 8.1, Windows 10, with a move towards Linux)</p>
+</li>
+<li>
+<p>Monitoring - Syncro RMM, LogMeIn Central, Splunk</p>
+</li>
+<li>
+<p>Fleet Management Scripting - PowerShell</p>
+</li>
+<li>
+<p>Programming Languages - Node.js, Javascript, C++, ASP.net, HTML/CSS</p>
+</li>
+<li>
+<p>Data Management - MS SQL</p>
+</li>
+<li>
+<p>Version Control - Git, GitHub</p>
+</li>
+<li>
+<p>Infrastructure - AWS</p>
+<br>
+</li>
+</ul>
+</li>
+</ul>
+</div></div>
+</div>
+<p></p>
+<div>
+<div><div>
+<p><b>Lastly, here’s what success looks like in this position:</b></p>
+<ul>
+<li>The founders of the company serve in visionary tech function only - all management, uptime, development, and tech team day-to-day is 100% off founders’ schedule<br>
+</li>
+<li>Build and maintain a tech roadmap that reflects founders’ visionary goals, as well as your core accountabilities (uptime, new development, etc)<br>
+</li>
+<li>A team / system is built to support and maintain our client network 24/7<br>
+</li>
+<li>Hire and manage outside tech vendors (developers, support, etc)<br>
+</li>
+<li>Hire and manage in-house tech team (developers, managers, support, etc)</li>
+<li>Product uptime, maintenance, security, and architecture are documented, scaleable, and appropriate for the age and stage of the company<br>
+</li>
+</ul>
+</div></div>
+<div>
+<ul>
+<li>Define and drive the metrics that drive accountability of the tech team<br>
+</li>
+<li>Organize and maintain code repositories in a central location for all software and websites<br>
+</li>
+<li>Up to date, organized, commented, versioned software for our products<br>
+</li>
+<li>Software product development is on-time, scalable, reliable, on budget, and achieves business goals.<br>
+</li>
+<li>All software products and websites are in line with founders’ vision, and reliably perform their business functions.<br>
+<br>
+</li>
+<li>Understand other parts of the company, by seeing things from another department’s perspective, and having the ability to connect the dots, is critical.<br>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<p></p>
+<p><b>Our Company</b></p>
+<p><b>
+Mobile Outfitters | </b><b>moutfitters.com</b></p>
+<p><b><i>
+Our Mission:</i></b><i> To inspire people by sharing our entrepreneurial spirit through innovative products.</i></p>
+<p>
+We are a 4x Inc 5000 manufacturer, innovator, and consumer brand of mobile accessories. Based in Philadelphia, PA, our products can be found through an international network of 600 locally-owned mall kiosks spanning 44 countries. Mobile Outfitters’ flagship product, Clear-Coat™, is an ultra-clear protective film that wraps around the entire device without adding the bulk featuring military-grade scratch protection and self-healing technology — all backed by a lifetime guarantee. Our two time award-winning RapidCut system allows retailers to manufacture Clear-Coat screen and 360° full body protection for virtually every device (55,000+ products) and automatically cuts them on-demand, within seconds!</p>
+</div></div>

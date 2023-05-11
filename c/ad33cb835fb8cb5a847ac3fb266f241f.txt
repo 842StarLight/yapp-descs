@@ -1,0 +1,76 @@
+<h2>Front End Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Position Description</b></p>
+<p>
+Ally is seeking an innovative and seasoned Mid-Level Front-End Developer to help build the next generation of our award-winning customer facing experiences used by millions of customers. The ideal candidate should be passionate about front-end technology, great user experience and have extensive experience developing dynamic, responsive web applications. Candidates should have strong HTML5, CSS3 and JavaScript (ES6) skills and experience with enterprise-scale content management systems that enable rapid authoring and delivery of experiences to end users.
+</p>
+<p><b>Job Responsibilities</b></p>
+<p>
+As a Mid-Level Front-End Developer, you will help your team on its journey to create engaging sales and marketing experiences across numerous channels. This is a role where your technical skills, ability to communicate effectively, and drive to implement the strategic vision of content managed experiences come together to enable value delivery.</p>
+<p>
+You will:</p>
+<ul>
+<li>Participate with a small development team in an Agile Scrum format</li>
+<li>Engage with business partners, UX design and authoring teams, and content platform teams to create world-class customer experiences for the digital channel</li>
+<li>Develop new features, components, and unit tests for various portions of an experience</li>
+<li>Participate in peer code reviews, unit testing, and automation</li>
+<li>Actively participate in business requirement reviews, feature and story grooming, test plans and test cases, and performance testing plans</li>
+<li>Effectively communicate technical solutions and recommendations to senior leaders</li>
+</ul>
+<p><b>Qualifications</b></p>
+<p><b>
+Required Technical Skills</b></p>
+<ul>
+<li>Expert level experience with browser-based technology, user interface development, responsive web design and engineering cross-browser, cross-device compliant code</li>
+<li>Strong working experience with HTML5 and web template engines - Markdown, Handlebars, etc.</li>
+<li>Strong working experience with CSS3 and CSS Preprocessors - SASS, LESS, etc.</li>
+<li>Strong working experience with JavaScript/ES6</li>
+<li>Experience with writing high-quality, semantic, testable, maintainable, and well-documented code</li>
+<li>Experience utilizing componentized content authoring and management platforms</li>
+<li>Experience creating highly-performant, optimized websites</li>
+<li>Experience consuming REST API using asynchronous methods
+</li>
+<li>Experience with version control (Git/Bitbucket) and branching strategies</li>
+</ul>
+<p><b>Preferred Technical Skills</b></p>
+<ul>
+<li>Experience with MVC JavaScript frameworks - React, Vue, Angular, Ember, etc.</li>
+<li>Experience with 508 Compliance/Web Accessibility</li>
+<li>Experience with command-line utilities, build tools - Webpack, Grunt, Gulp</li>
+<li>Experience with NodeJS and server-side JavaScript development
+</li>
+<li>Enterprise exposure in defect analysis and resolution
+</li>
+</ul>
+<p><b>Behavioral &amp; Communication Skills</b></p>
+<ul>
+<li>Excellent communication skills at all levels, from team members to senior management</li>
+<li>Ability to exchange constructive and respectful feedback, collaborating with other groups on standards/best practices</li>
+<li>Must be able to communicate ideas and best practices to more junior developers (the why and the how)</li>
+<li>Enthusiasm and a desire to be part of an innovative team</li>
+<li>A commitment to quality, and a desire to improve<br>
+</li>
+</ul>
+<p><b>Ally Overview</b></p>
+<p>
+Ally Financial Inc. (NYSE: ALLY) is a leading digital financial services company and a top 25 U.S. financial holding company offering financial products for consumers, businesses, automotive dealers and corporate clients. Ally's legacy dates back to 1919, and the company was redesigned in 2009 with a distinctive brand, innovative approach and relentless focus on its customers. Ally has an award-winning online bank (member FDIC), one of the largest full service auto finance operations in the country, a complementary auto-focused insurance business, a growing digital wealth management and online brokerage platform, and a trusted corporate finance business offering capital for equity sponsors and middle-market companies.</p>
+<p><b>
+Business Unit/Enterprise Function</b></p>
+<p>
+Ally's Information Technology (IT) organization is focused on supporting and improving the position of its industry-leading business franchises through cost effective, innovative IT solutions as well as overseeing critical functions that enable the day-to-day operations of the entire Ally Financial enterprise. IT is also responsible for the administration and execution of information protection, disaster recovery and IT risk management.</p>
+<p><b>
+Total Rewards
+</b></p>
+<p>Ally's compensation program offers market-competitive base pay and pay-for-performance incentives (bonuses) based on achieving personal and company goals. Plus, we have a flexible paid-time-off program including time off for volunteer opportunities. Ally's Total Rewards Program is designed to enrich your life at work - and outside of it and includes:</p>
+<ul>
+<li>Industry-leading 401K retirement savings plan with matching and company contributions</li>
+<li>Wellness program encouraging healthy living with financial rewards</li>
+<li>Flexible health insurance options including dental and vision</li>
+<li>Pre-tax Health Savings Account with generous employer contributions</li>
+<li>Pre-tax commuter benefits</li>
+<li>Other work-life integration benefits including parental and caregiver leave, adoption assistance, backup child and adult/elder day care program, child care discounts, tuition reimbursement, LifeMatters® Employee Assistance Program, subsidized and discounted Weight Watchers® program and other employee discount programs</li>
+</ul>
+<p><b>Ally is an Equal Opportunity Employer</b></p>
+<p>
+We extend equal employment opportunities to qualified applicants and employees on an equal basis regardless of an individual's age, race, color, sex, religion, national origin, disability, sexual orientation, gender identity or expression, pregnancy status, marital status, military or veteran status, genetic disposition or any other reason protected by law.</p>
+</div></div>

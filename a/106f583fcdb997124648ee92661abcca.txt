@@ -1,0 +1,44 @@
+<h2>Solutions Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>AllyO tackles workplace engagement challenges with candidates and employees, from hi to goodbye, using AI for end-to-end HR management solutions.</p>
+<p><b>We strive to disrupt how HR is traditionally run, do yourself a favor and text “hello” to 650-297-8805 to be part of this movement. </b></p>
+<p>You’re probably wondering if you should text or not. You should. Why?</p>
+<p>1. It is AllyO’s product. It is the company you are applying to and you should know our product.</p>
+<p>2. It’s not sketchy and we won’t spam text or call you - unless you want us to.</p>
+<p>3. We live in a society where we want things instantaneously. Find out if you qualify within minutes and have the opportunity to schedule your own phone interview.</p>
+<p>4. Nothing confusing, just text “hello” to 650-297-8805 and see how easy it is to apply.</p>
+<p>AllyO’s product is a flexible SaaS application platform hosted in the public cloud. Each customer has a unique implementation of the platform that services their needs. A solution engineer comprehensively understands the product and its capabilities and is the expert in customer specific implementations. Furthermore, a solution engineer can troubleshoot and fix issues whether configuration, code, or database that impact customer success. A solution engineer has an interesting mix of customer facing and technical challenges on a daily basis.</p>
+<p>As a Solutions Engineer at AllyO, you will be instrumental in identifying, implementing, and leading teams developing tooling and designing productivity workflows to help the business scale and grow. You will partner with our Customer Success, Sales and Engineering teams to develop and deliver technical solutions and programs in a lead role that improve our business and our customers’ success. We are seeking someone who enjoys unique technical challenges and at the same time is passionate about customer experience &amp; team productivity.</p>
+<p><b>THE POSITION</b></p>
+<ul>
+<li>Partner with the Customer Success, Sales team to deliver technical needs of customers during onboarding implementation and overall success.</li>
+<li>Have a deep technical understanding of AllyO’s product capabilities, serve as a technical subject matter expert for AllyO’s customer needs.</li>
+<li>Build &amp; implement tools &amp; solutions for support teams to solve customer problems.</li>
+<li>Work closely with the product and engineering team to influence new product features and functionality based on customer feedback</li>
+<li>Be a leader to a technical team to deliver overall solutions.</li>
+<li>Identify and address/fix platform issues that impact customer success including but not limited to: Python Code Bugs, MySQL Database issues, Celery task issues, REST API issues, external cloud services issues, and application configuration issues</li>
+</ul>
+<p><b>YOUR BACKGROUND</b></p>
+<ul>
+<li>Strong ability to extend your web application skills and learn new applications and technologies</li>
+<li>Strong technical, creative and troubleshooting skills.</li>
+<li>Strong software architecture and design skills</li>
+<li>Experience in the following technologies: Python, REST APIs, MySQL, Celery</li>
+<li>Excellent coordination and organization abilities, along with verbal and written communication skills</li>
+<li>Direct customer facing communication and management</li>
+<li>Bonus: HCM/ATS enterprise applications experience</li>
+</ul>
+<p><b>LOCATION</b></p>
+<p>We are located in the heart of Silicon Valley in Palo Alto, CA. Less than 1 mile away from the San Antonio Caltrain Station. We also provide relocation assistance.</p>
+<p><b>WHY SHOULD YOU APPLY?</b></p>
+<ul>
+<li>Awesome company culture in a startup environment</li>
+<li>Make a true difference in what you do everyday</li>
+<li>Competitive salary</li>
+<li>Full benefits (health, dental, vision) and 401K</li>
+<li>Catered lunches everyday</li>
+<li>Flexible schedules and unlimited paid time off</li>
+</ul>
+<p>Still interested? To finish the application <b>text “hello” to 650-297-8805</b></p>
+<p>Job Type: Full-time</p>
+</div>

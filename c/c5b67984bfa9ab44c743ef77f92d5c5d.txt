@@ -1,0 +1,120 @@
+<h2>Back-end Lead Application Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Join Our Team
+</b></h2>
+<p></p>
+<p>Our Company headquarters is located in Duluth, GA.
+</p>
+<p></p>
+<p>The 367,000-square-foot building houses 1,700 employees who provide first-class support to our sales force as they build their business and serve clients.
+</p>
+<p></p>
+<p>For six years in a row, Primerica has been recognized by the Atlanta Journal-Constitution as one of the best workplaces in Georgia! Over the past five years, Primerica has consistently been voted “Best Employer” by Gwinnett Magazine.
+</p>
+<p></p>
+<h2 class="jobSectionHeader"><b>About this Position
+</b></h2>
+<p></p>
+<h2 class="jobSectionHeader"><b>Responsibilities &amp; Qualifications
+</b></h2>
+<p></p>
+<p>The Back-end Lead Application Developer performs complex systems analysis and programming tasks requiring advanced techniques. Evaluates technical feasibility of proposed system solution. Leads projects and directs the work of other developers as well as provides training for less experienced staff. Developer stays current on new and emerging technologies.
+</p>
+<p></p>
+<p><b>RESPONSIBILITIES
+</b></p>
+<ul>
+<li>Define service specification and contracts for a functional domain by working with SMEs
+</li>
+<li>Strong technical, analytical, and communication skills
+</li>
+<li>Collaborate with Architects and contribute to implement standards and changes to systems and processes
+</li>
+<li>Ensuring design and development follows enterprise standards, processes, and policies
+</li>
+<li>Support application deployment and release management activities
+</li>
+<li>Collaboratively work with other groups by offering technical expertise where required
+</li>
+<li>Mentor SOA developers, other team members
+</li>
+<li>Leading maturity and transformation of platforms, developing new capabilities
+</li>
+<li>Supporting multiple concurrent efforts
+</li>
+<li>Participate in business requirement discussions, identify system impacts and provide business requirements, system requirement specifications.
+</li>
+<li>Be a team player that motivates and educates other team members
+</li>
+</ul>
+<p></p>
+<p><b>ESSENTIAL SKILLS &amp; EXPERIENCE
+</b></p>
+<ul>
+<li>College degree in Information Technology or Computer Science
+</li>
+<li>Minimum of 8+ years’ work experience in Information Technology.
+</li>
+<li>8+ years object-oriented software development/architecture experience in JEE
+</li>
+<li>Solid Programming skills using JAVA, J2EE, JMS, SOAP / REST Web Services, XSLT, XML, JSON.
+</li>
+<li>Experience with Spring MVC, Spring boot
+</li>
+<li>Good experience in integration Architecture concepts and patterns, including Microservices, Service Oriented Architecture, Batch Integration, RESTful JSON services, Pub / Sub etc. including Event Driven Architecture.
+</li>
+<li>Experience of database access protocols such as JDBC and SQL
+</li>
+<li>Experience integrating with Cloud/SaaS applications, APIs, SDK of packaged applications and legacy applications
+</li>
+<li>Solid understanding of integration design patterns, SOA/EAI best practices.
+</li>
+<li>Knowledge of VSTS / CICD Process.
+</li>
+<li>Experience with Test Driven Development and JUnit.
+</li>
+<li>Experience with SCRUM or similar agile SDLC methodologies
+</li>
+<li>Proven experience in meeting deadlines and managing multiple priorities.
+ </li>
+</ul>
+<p></p>
+<p><b>Preferred Qualifications
+</b></p>
+<ul>
+<li>Experience in hands-on coding in MuleSoft APIs and MuleSoft Anypoint Platform as an ESB
+</li>
+<li>Experience with or deep understanding of the ODATA specification
+</li>
+<li>Experience working with Azure and AKS deployment scenarios
+</li>
+<li>Experience with Docker or other containerization software
+</li>
+<li>Experience with Kubernetes
+</li>
+<li>Experience with NodeJS and Express
+</li>
+<li>Experience with DevOps methodology and tools is a plus
+</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>Our Benefits:
+</b></h2>
+<ul>
+<li><p>Day one health, dental, and vision insurance
+</p></li>
+<li><p>401k plan with 4% basic employer contribution and 100% employer match contribution up to 6%
+</p></li>
+<li><p>Vacation, sick, holiday and volunteer time off
+</p></li>
+<li><p>Life and disability insurance
+</p></li>
+<li><p>Flexible Savings Account &amp; Health Savings Account
+</p></li>
+<li><p>Professional development
+</p></li>
+<li><p>Tuition reimbursement
+</p></li>
+<li><p>Company-sponsored social and philanthropy events</p></li>
+</ul>
+</div></div>

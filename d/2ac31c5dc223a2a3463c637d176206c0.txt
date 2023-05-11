@@ -1,0 +1,34 @@
+<h2>Security Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div>
+<p>Check Point’s mission is to provide industry-leading security solutions that redefine the security landscape. We achieve our mission by constantly developing innovative and cutting edge technology solutions focused on real customer needs, while challenging ourselves to grow and excel.</p>
+<p>
+If you want to be part of the fascinating and fast growing Cyber Security industry, where your unique talent and value will be recognized, Check Point Software Technologies is where you want to be.</p>
+<p>
+Join Check Point’s Global Telecom and System Integrators Architecture team and take your career <b>one step ahead!</b></p>
+<br>
+<p></p>
+<ul>
+<li>Design and develop detailed reference architecture for securing the 4G/LTE and 5G packet core, roaming access, and control plane that leverages Check Point’s scalable platform technologies.</li>
+<li>Provide solution recommendations and establishment of project success criteria with focus on customer needs first</li>
+<li>Work closely with the Global Telecom and System Integrators sales engineers to enable their success through training and mentorship.</li>
+<li>Create tools that can assist in automatic deployments, help define policies, and offload simple repetitive tasks.</li>
+<li>Work closely with Sales teams to align on strategy and enable successful execution of high end proof of concepts</li>
+<li>Travel expectation: 30% to 50%</li>
+</ul>
+<div></div>Desired Background
+<ul>
+<li>7+ years in information security</li>
+<li>Extensive background in designing security architectures for global enterprises</li>
+<li>Direct experience with Check Point technologies and solutions</li>
+<li>Strong familiarity with networking and virtualization technologies and general IT systems</li>
+<li>Excellent communications skills: written and presentation</li>
+<li>Ability to program or script in one of the following languages: C, Java, Python, Go, Perl, Javascript or Rust</li>
+<li>Previous experience in telecom, service provider, or communication technologies is a plus including working with Nokia Networks, Ericcson, or other service providers.</li>
+</ul>
+<p>If this sounds like an ideal role for you then why wait? Apply now!</p>
+<p>
+EOE M/F/Veterans/Disabled</p>
+</div></div>
+</div>
