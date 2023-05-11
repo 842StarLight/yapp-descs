@@ -1,0 +1,56 @@
+<h2>Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Our Finance and Operations team is a dynamic, relatively small group, that produces super high quality output. We have built a world class, fully automated and integrated SaaS financial and reporting infrastructure, that allows us to move quickly, with a high degree of accuracy and predictability. Unlike traditional companies, where finance teams are typically the police cops and nay-sayers, we are a team that tries to say "yes" first. How can we help solve your problem? How will this investment improve our business? We are a dedicated, hard working team, quick to have fun, and we enjoy our amazing culture!
+<br><br>
+Salesforce Developer
+<br><br>
+ServiceTitan is looking for a Salesforce Developer, who will highly technical and responsible for the development of an evolving Salesforce platform. He/She will ensure alignment across SDLC(Software Development Life Cycle) including coding standards, version control, security standards, and salesforce application optimization. The Salesforce Developer, will help design, code, test and implement new Salesforce lightning solutions to meet the business requirements. As an experienced professional, technology professional, he/she will follow the Salesforce development, testing, and deployment standards, embracing SFDC, SDLC and web design best practices.
+<br><br>
+<b>As our Salesforce Developer, you will:</b><br>
+<ul>
+<li>Develop/write object-oriented, reusable, scalable and high-quality code to meet the design specification using Apex, VisualForce, lightning components, and JavaScript and further minimize defects through disciplined unit testing.</li>
+<li>Analyze business requirements including specifications of the user interface, custom application/solution, integration and interaction with daily support and maintenance of Salesforce instance and conduct long-term improvement operations with respect to administration and security.</li>
+<li>Perform unit testing and regression while new functionality rollout.</li>
+<li>Maintain clean repositories in Github and lead the team in resolving code conflicts.</li>
+<li>Configure and customize Salesforce platform as per business requirements and SFDC best practices</li>
+<li>Recommend innovative, creative-solution approaches as appropriate to meet the business needs.</li>
+<li>Write/code web services to expose and consume services using SOAP and REST mechanism</li>
+</ul>
+<b>To be successful in this role, you'll need:</b><br>
+<ul>
+<li>Strong understanding of Salesforce lightning architecture, its capabilities, and limitations along with SPA and object-oriented concepts.</li>
+<li>3+ years of extensive hands-on Salesforce development experience in Apex, VisualForce, SOQL, JavaScript, XML, JSON, HTML, CSS and AJAX</li>
+<li>1+ years of genuine hands-on experience in developing lightning components.</li>
+<li>1+ years of hands-on experience in writing code for consuming and exposing SOAP and REST based web services.</li>
+<li>1+ years of hands-on experience in CI and CD tools like Autorabit, Github, bitbucket, Jenkins, ANT for deployments.</li>
+<li>Should have an excellent understanding and working knowledge of sales and service cloud data model along with the platform's sharing, security, identity, and access management</li>
+<li>Strong knowledge around Salesforce Sales, Service, and Community cloud.</li>
+<li>Working knowledge of Agile Scrum methodology.</li>
+<li>Must have Salesforce Administrator and Platform Developer 1 certification</li>
+<li>Nice to have either Salesforce Platform Developer 2 or Advanced Developer-501 certification</li>
+<li>Should be able to multitask and switch between the projects and support/lead the deployments and data load during working or non-working hours.</li>
+</ul>
+Why ServiceTitan?
+<br><br>
+Company Culture
+<br><br>
+We are proud of the ServiceTitan culture - it brings together brilliant, genuine and driven individuals in an atmosphere that is positive and inclusive. Check out our culture for yourself:
+<br><br>
+http://instagram.com/goservicetitan ( http://instagram.com/goservicetitan ) | https://www.themuse.com/profiles/servicetitan ( https://www.themuse.com/profiles/servicetitan ) | https://www.builtinla.com/company/servicetitan-inc ( https://www.builtinla.com/company/servicetitan-inc )
+<br><br>
+Equal Opportunity Employer
+<br><br>
+ServiceTitan does not discriminate against employees based on race, color, religion, sex, national origin, gender identity, age, disability, or genetic information. At ServiceTitan, our mission is to help our Titans and customers achieve the extraordinary. We are an equal opportunity employer and we celebrate the diversity that each Titan brings to the table. We believe that the convergence of fresh, unique perspectives and experiences from all walks of life is what makes our product and culture so great — and there's always room for more.
+<br><br>
+About ServiceTitan
+<br><br>
+ServiceTitan is a mobile, cloud-based software platform that helps home services companies streamline operations, improve customer service, and grow their business. ServiceTitan's end-to-end solution for the multi-billion dollar residential home services industry includes CRM, intelligent dispatch, custom reporting, marketing automation, mobile solution for field techs, and accounting integration with Intacct and QuickBooks. ServiceTitan brings a fully operational modern SaaS infrastructure to an industry traditionally underserved by software. ServiceTitan is the preferred software for hundreds of the world's most successful plumbing, HVAC, and electrical companies. For more information about ServiceTitan, visit www.ServiceTitan.com ( http://www.servicetitan.com ).
+<br><br>
+Inc 5000 - Best Places to Work, 2019
+<br>Los Angeles Business Journal Best Places to Work, 2018
+<br>Los Angeles Business Journal Top 100 Fastest Growing Private Company, 2018
+<br>Deloitte Fast 500, 2018
+<br>Inc 5000 - Best Places to Work, 2019
+<br>Inc. 5000 – America's Fastest Growing Companies, 2018
+<br>Glassdoor/Battery Ventures Highest Rated Cloud Computing Companies, 2018
+<br>Mogul Top 1000 Companies Worldwide for Millennial Women 2018
+<br>Forbes - Next Billion-Dollar Startup List, 2017</div>

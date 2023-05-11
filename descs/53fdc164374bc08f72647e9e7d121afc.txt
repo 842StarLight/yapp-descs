@@ -1,0 +1,182 @@
+<h2>Oracle Cloud EPM Solution Architect / PBCS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><b>Oracle Cloud EPM Solution Architect / PBCS
+</b></div>
+<div></div>
+<div>
+<b>Ready to reimagine your Oracle career?</b> <b>Join Accenture and be empowered with innovative tools, continuous learning and a global community.
+</b>
+</div>
+<div></div>
+<div>Develop and deliver the next generation of Oracle solutions using innovation-led design thinking, agile development methodologies and new intelligent technologies, such as IoT, analytics, automation and AI.</div>
+<div>There has never been a better time to join our team of 54,000+ Oracle experts, where you’ll:</div>
+<ul>
+<li>
+<b>Drive end-to-end innovation. </b>Gain early access to Oracle innovations through our unparalleled program of collaboration. Accenture is Oracle’s #1 systems integrator globally for 12 years running and a proud Global Cloud Elite and Platinum-Level member of the Oracle Partner Network.
+</li>
+<li>
+<b>Lead the Journey to Cloud.</b> Define and implement Oracle Cloud solutions on large, complex client projects with a scope unsurpassed in the industry.
+</li>
+<li>
+<b>Deliver award-winning work</b>. Accenture has won more than 145 Oracle awards since 2003—more than any other systems integrator.
+</li>
+<li>
+<b>Learn and Grow Continuously. </b>Benefit from unmatched training and development including workshops and training to secure Oracle certifications, expert-curated learning boards and Oracle Cloud Academy training on sales and delivery excellence.
+</li>
+<li>
+<b>Advance your agenda. </b>Grow your career as far as your ambition takes you. We provide real-time performance feedback based on your strengths – not stats.
+</li>
+<li>
+<b>Thrive in diversity. </b>Succeed in an organization that actively promotes networking and mentorship among all communities.
+</li>
+</ul>
+<div><b>Position Overview</b></div>
+<div>Will interact with business users within the financial and accounting areas and implement Oracle PBCS (Oracle Planning and Budgeting Cloud Service) applications based on Oracle Hyperion Planning that supports enterprise-wide planning, budgeting, and forecasting in a cloud-based deployment model. PBCS provides a rich Web and Microsoft Office enabled planning and modeling framework that supports driver-based planning to help connect operational assumptions to financial outcomes. The application supports a hierarchical planning process that encompasses both corporate finance and the lines of business within an enterprise. With PBCS, organizations can meet immediate financial planning, budgeting and forecasting needs while enabling a platform for future cross-functional expansion and automated process integration.</div>
+<div><b>Essential Job Functions</b></div>
+<ul>
+<li>Participate in all aspects of consulting, systems analysis, and detailed system design.
+</li>
+<li>Prepare detailed technical specifications from which moderate to complex applications will be built and configured.
+</li>
+<li>Participate in building planning applications, including build and configuration of business rules and loading data to set up the planning scenarios.
+</li>
+<li>Advise client on best practices in planning and building planning applications for business rules, loading data to set up planning scenarios.
+</li>
+<li>Participate in systems analysis and design, includes identifying and documenting the planning process and functional specifications for building planning and budgeting applications
+</li>
+<li>Consult and advise client on building rules and making technical changes to applications in the planning processes.</li>
+</ul>
+<div></div>
+<div><b>Required:
+</b></div>
+<ul>
+<li>5+ yrs. relevant experience implementing one or more EPM technologies
+</li>
+<li>1+ yr. relevant experience in implementing Oracle Planning and Budgeting Cloud Service (PBCS/EPBCS) or any other EPM module
+</li>
+<li>Willingness for weekly client-based travel, up to 50-80% (Monday - Thursday/Friday)
+</li>
+<li>Bachelor's Degree or equivalent professional experience
+</li>
+<li>Good understanding of Financial Accounting, Financial Planning and Financial Reporting concepts.
+</li>
+<li>Should have technical background with hands-on experience in Hyperion planning, Essbase cube build using PBCS and data management to build metadata and data load.
+</li>
+<li>Extensive experience in developing the PBCS calculation scripts in /building load rules, data management, build metadata and identity manager.
+</li>
+<li>Good understanding of EPM Automator and ASO cubes.
+</li>
+<li>Can leverage best practices from previous architecture and implementation experience and work on constant support and continuous improvement Skills (Mandatory) in Hyperion application environment.
+</li>
+<li>Identify &amp; implement process improvements to support more efficient financial analysis.</li>
+</ul>
+<div></div>
+<div><b>Preferred:
+</b></div>
+<ul>
+<li>Oracle certification in PBCS and/or willingness to get certification in next 6 months.
+</li>
+<li>Strong functional knowledge around financial systems, processes and Financial reporting practices
+</li>
+<li>Experience with implementing more than one Oracle EPM Cloud modules (FCCS, ARCS, TRCS).
+</li>
+<li>Proven skills as a team member, team lead or project manager on at least one full life cycle implementation
+</li>
+<li>Ability to collaborate with clients
+ </li>
+</ul>
+<div><b>WHAT´S IN IT FOR YOU?</b></div>
+<div>Competitive benefits, including a fair and balanced parental leave policy. At Accenture, we believe in bringing the best to our clients through continuous learning &amp; improvement – from basic skills to industry-specific content – available to all our people.</div>
+<ul>
+<li>Career coaching and mentorship to help you manage your career and develop professionally.
+</li>
+<li>Performance Achievement – our performance management process that focuses on your strengths, progress and career possibilities.
+</li>
+<li>Fantastic opportunities to develop your career across a variety of clients.
+</li>
+<li>Opportunities to get involved in corporate citizenship initiatives, from volunteering to doing charity work.</li>
+</ul>
+<div></div>
+<div>To learn more about Accenture, and how you will be challenged and inspired from Day 1, please visit our website at www.accenture.com/careers.</div>
+<div><b><i>Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status).</i></b></div>
+<div><b><i>Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.</i></b></div>
+<div><b><i>Accenture is a Federal Contractor and an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.</i></b></div>
+<div><b><i>Equal Employment Opportunity</i></b></div>
+<div><b><i>All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.</i></b></div>
+<div><b><i>Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.</i></b></div>
+<div><b><i> Accenture is committed to providing veteran employment opportunities to our service men and women.</i></b></div>
+</div>
+<div></div>
+<br>
+<div><div>
+<div><b>Essential Job Functions</b></div>
+<b>
+</b><ul>
+<li><b>Participate in all aspects of consulting, systems analysis, and detailed system design.
+</b></li>
+<li><b>Prepare detailed technical specifications from which moderate to complex applications will be built and configured.
+</b></li>
+<li>
+<b>Participate in building planning applications, including build and configuration of business rules and loading data to set up the planning scenarios.</b><b>
+</b>
+</li>
+<li>
+<b>Advise client on best practices in planning and building planning applications for business rules, loading data to set up planning scenarios.</b><b>
+</b>
+</li>
+<li>
+<b>Participate in systems analysis and design, includes identifying and documenting the planning process and functional specifications for building planning and budgeting applications</b><b>
+</b>
+</li>
+<li><b>Consult and advise client on building rules and making technical changes to applications in the planning processes.</b></li>
+</ul>
+<b>
+</b><div></div>
+<b>
+</b><div><b>Required:
+</b></div>
+<ul>
+<li><b>5+ yrs. relevant experience implementing one or more EPM technologies
+</b></li>
+<li><b>1+ yr. relevant experience in implementing Oracle Planning and Budgeting Cloud Service (PBCS/EPBCS) or any other EPM module
+</b></li>
+<li><b>Willingness for weekly client-based travel, up to 50-80% (Monday - Thursday/Friday)
+</b></li>
+<li><b>Bachelor's Degree or equivalent professional experience
+</b></li>
+<li><b>Good understanding of Financial Accounting, Financial Planning and Financial Reporting concepts.
+</b></li>
+<li><b>Should have technical background with hands-on experience in Hyperion planning, Essbase cube build using PBCS and data management to build metadata and data load.
+</b></li>
+<li><b>Extensive experience in developing the PBCS calculation scripts in /building load rules, data management, build metadata and identity manager.
+</b></li>
+<li>
+<b>Good understanding of EPM Automator and ASO cubes.</b><b>
+</b>
+</li>
+<li><b>Can leverage best practices from previous architecture and implementation experience and work on constant support and continuous improvement Skills (Mandatory) in Hyperion application environment.
+</b></li>
+<li><b>Identify &amp; implement process improvements to support more efficient financial analysis.</b></li>
+</ul>
+<b>
+</b><div></div>
+<b>
+</b><div><b>Preferred:
+</b></div>
+<ul>
+<li><b>Oracle certification in PBCS and/or willingness to get certification in next 6 months.
+</b></li>
+<li>
+<b>Strong functional knowledge around financial systems, processes and Financial reporting practices</b><b>
+</b>
+</li>
+<li><b>Experience with implementing more than one Oracle EPM Cloud modules (FCCS, ARCS, TRCS).
+</b></li>
+<li><b>Proven skills as a team member, team lead or project manager on at least one full life cycle implementation
+</b></li>
+<li><b>Ability to collaborate with clients</b></li>
+</ul>
+</div></div>
+<div></div>
+</div>

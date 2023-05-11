@@ -1,0 +1,102 @@
+<h2>Delphi Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About NCR
+</b></p>
+<p>NCR Corporation (NYSE: NCR) is a leading software- and services-led enterprise provider in the financial, retail, hospitality, telecom and technology industries. NCR is headquartered in Atlanta, Ga., with 34,000 employees and does business in 180 countries. NCR is a trademark of NCR Corporation in the United States and other countries.
+</p>
+<p></p>
+<p>Position Location: Plano, Texas
+</p>
+<p></p>
+<p>Are you experienced with Delphi OR have a strong C++/C# background with an interest in learning and working with Delphi? NCR is looking for a Delphi Software Engineer to join our StorePoint Point-of-Sale (POS) Product development team in Plano, Texas. In this exciting opportunity, you will develop and maintain NCR’s StorePoint, a multi-format intuitive touch-screen based point of sale application. This system is the industry leading POS solution for Travel Centers and Commercial Fuel used by the large Travel Centers (Pilot Flying J, Love's, Travel Centers of America, Petro, Town Pump, Sapp Bros, Irving Oil and many more).
+</p>
+<p></p>
+<p><b>YOU CAN EXPECT TO:
+</b></p>
+<p></p>
+<ul>
+<li>Design, development, and implementation of the StorePoint product.
+</li>
+<li>Interact daily with other team members to ensure that a quality product is delivered in a timely manner.
+</li>
+<li>Partner with cross-functional Business and Technology teams to drive complex program roadmaps/schedules involving multiple contributing teams.
+</li>
+<li>Quickly and effectively identify and clarify the critical few issues that need action and drive appropriate decisions and actions.
+</li>
+<li>Participate in discussions with customer and/or product management to ensure products add value &amp; meet customer needs
+</li>
+<li>Ensure code is reviewed to address issues, using root cause analyses to eliminate them in future
+</li>
+<li>Collaborate with leaders and peers to address quality issues
+</li>
+<li>Look for areas where the team should design beyond scope if necessary to build right solution for a product
+</li>
+<li>Contribute to the development of code that is supportable, self-identify problems and facilitate investigation
+</li>
+<li>Drive application of SW development lifecycle with the team
+</li>
+<li>Advise others on SW Engineering standards and emerging best practices
+</li>
+<li>Provide support / guidance for more junior SW Engineers around effective application of SW dev lifecycle &amp; develop industry leading solutions for NCR’s customers and around more complex problem resolution
+</li>
+<li>Enable maintenance &amp; integration of code to effectively diagnose issues within the SW
+</li>
+<li>Identify patterns of issues, root causes and appropriate resolution to systems or processes
+</li>
+<li>Utilize a range of strategies, techniques &amp; tools to investigate possible resolutions to solve increasingly complex issues
+</li>
+<li>Investigate new strategies, techniques &amp; tools for troubleshooting complex systems including hardware and software systems
+</li>
+<li>Research new software development and configuration management methodologies and technologies and analyze their application to current configuration management needs.
+</li>
+<li>Define and execute processes of branching, merging, and continuous integration in source code management
+</li>
+<li>Create and maintain project tasks, schedules &amp; issues using Jira and Agile
+</li>
+<li>Collaborate and proactively follow up with customers to obtain desired outcomes.
+</li>
+<li>Stay current on external trends to design programs for team to provide excellent service to NCR customers.
+</li>
+<li>Other duties as assigned.
+</li>
+</ul>
+<p></p>
+<p><b>YOU HAVE:
+</b></p>
+<p></p>
+<ul>
+<li>Bachelor’s Degree in a Technical Discipline or equivalent work experience
+</li>
+<li>2+ years of experience in an information-technology related occupation.
+</li>
+<li>2+ years of experience with Software development lifecycle and version control systems
+</li>
+<li>2+ years of Delphi experience
+</li>
+<li>Strong interest in developing with Delphi
+</li>
+<li>2+ years of object-oriented programming experience
+</li>
+<li>2+ years of experience producing technical designs for software applications
+</li>
+<li>2+ years of experience with design patterns
+</li>
+<li>2+ years of Windows COM technology
+</li>
+</ul>
+<p></p>
+<p><b>YOU MIGHT ALSO HAVE:
+</b></p>
+<p></p>
+<ul><li>POS or retail industry knowledge
+</li></ul>
+<p></p>
+<p><b>EEO Statement
+</b><br>
+Integrated into our shared values is NCR’s commitment to diversity. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. NCR does not discriminate in employment based on sex, age, race, color, creed, religion, national origin, disability, sexual orientation, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.
+<br>
+<br>
+<b>Statement to Third Party Agencies
+</b><br>
+To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.</p>
+</div></div>

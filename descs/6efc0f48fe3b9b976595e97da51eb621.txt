@@ -1,0 +1,46 @@
+<h2>IT Project Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Who We Are</b><br>
+At Cross River, we’re building the best banking and technology products for fintechs, all through APIs. As venture-backed pioneers of the platform-based financial services model known as the sponsor, or partner, bank, we work closely with our partners to offer products such as payments rails and loan origination services to the latest in regulatory and compliance solutions. What drives us every day? A desire to innovate in the service of financial inclusion. Giving access to consumers, whether they are looking for credit or for a better way to pay has been in our DNA from day one. Our nimble, adaptive, one-step ahead culture is powered by our people, and as a result of their creativity, tech-forward thinking and collaborative spirit, we are experiencing explosive growth.</p>
+<br>
+<p><br>
+<b>What we’re looking for</b></p>
+<p>Cross River’s Technology team is made up of problem solvers hungry to perfect new products and systems. As IT Project Manager you play a key role.<br>
+<br>
+At Cross River, our technology team has an open and transparent environment around process, architecture and development, and everyone’s work is impactful. From building APIs, designing new applications, managing our data platform, deploying new systems or supporting it all, we work together in a cohesive and nimble team that gets things done.<br>
+<br>
+In this role you will focus on coordination for projects to ensure that they are successful. This will require gathering information across departments, consultant oversight, tool administration, testing and roll outs. One of the projects will include duplicating our current case management system within Salesforce and setting up basic CRM tools across the company. The IT Project Manager will work hand in hand with the Salesforce admin and internal developers for internal projects<br>
+</p>
+<div>
+<br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Ensure that all projects are delivered on-time, within scope and within budget</li>
+<li>Developing project scopes and objectives, involving all relevant stakeholders and ensuring technical feasibility</li>
+<li>Ensure resource availability and allocation</li>
+<li>Develop a detailed project plan to track progress</li>
+<li>Use appropriate verification techniques to manage changes in project scope, schedule and costs</li>
+<li>Measure project performance using appropriate systems, tools and techniques</li>
+<li>Report and escalate to management as needed</li>
+<li>Manage the relationship with the client and all stakeholders</li>
+<li>Perform risk management to minimize project risks</li>
+<li>Establish and maintain relationships with third parties/vendors</li>
+<li>Create and maintain comprehensive project documentation</li>
+</ul>
+</div>
+<br>
+<div>
+<br>
+<b>Qualifications:</b><br>
+<ul>
+<li>Great educational background, preferably in the fields of computer science or engineering for technical project managers</li>
+<li>Proven working experience as a project administrator in the information technology sector</li>
+<li>Solid technical background, with understanding or hands-on experience in software development and web technologies</li>
+<li>Excellent written and verbal communication skills</li>
+<li>Solid organizational skills including attention to detail and multi-tasking skills</li>
+<li>Strong working knowledge of Microsoft Office</li>
+<li>PMP / PRINCE II certification is a plus</li>
+<li>Experience with Sales Force</li>
+</ul>
+</div>
+</div></div>

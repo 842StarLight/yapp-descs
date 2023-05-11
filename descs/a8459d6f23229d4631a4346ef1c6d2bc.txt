@@ -1,0 +1,107 @@
+<h2>Quality Assurance - Automation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>Quality Assurance - Automation Engineer</b><br>
+<b>Corporate Headquarters</b><br>
+<b>12575 Uline Drive, Pleasant Prairie, WI 53158</b>
+</div>
+<br>
+Uline is seeking a Quality Assurance - Automation Engineer to join our IT Application Development team.<br>
+<br>
+<div>
+<b>Come visit one of our Open Houses! Visit </b><b>uline.jobs</b><b> for details.</b><br>
+<b>Talk to us about this position and learn all about our spectacular growth, generous benefits and awesome people!
+</b>
+</div>
+<br>
+<b>Position Responsibilities</b><ul>
+<li>
+Design, develop and implement automated testing and tooling solutions with a primary focus on automated functional and regression testing for projects and applications.</li>
+<li>
+Create, extend and maintain test automation libraries and frameworks.</li>
+<li>
+Provide test automation estimates and timelines for assigned projects.</li>
+<li>
+Create and maintain data sets to be used in test automation activities.</li>
+<li>
+Coordinate and manage automated testing efforts across concurrent projects.</li>
+<li>
+Ensure that test results are documented, evaluated and disseminated; collaborate on troubleshooting issues.</li>
+<li>
+Incorporate test automation into CI/CD process.</li>
+<li>
+Communicate and report on status of test automation activities.</li>
+<li>
+Collaborate with QA manager and team to develop, implement and improve innovative QA capabilities, approaches and services.
+</li>
+<li>Help bring awareness to the test automation function throughout IT and the business, communicating applicable testing practices and expectations.</li>
+</ul>
+<br>
+<b>
+Minimum Requirements</b><ul>
+<li>
+Bachelor's degree in information technology, computer science or related discipline.</li>
+<li>
+4+ years experience in test automation development as an SDET (Software Development Engineer in Test).</li>
+<li>
+JavaScript, C#, JScript and VBScript experience.
+</li>
+<li>Experience with source control tools such as Git, TFS and SVN.</li>
+<li>
+Foundational understanding of SQL and databases.
+</li>
+<li>Experience in agile and waterfall methodologies.</li>
+<li>
+Ability to manage work across concurrent projects, activities and tasks under time constraints.</li>
+<li>
+Self-motivated, organized and exacting.</li>
+<li>
+Scripting experience with SmartBear TestComplete or other GUI test automation tools <b>a plus.</b>
+</li>
+<li>
+Experience with Visual Studio Team Foundation Server (TFS) test management tools, Visual Studio Test</li>
+<li>
+Professional and Microsoft Test Manager <b>a plus.</b>
+</li>
+<li>
+Development background <b>a plus.</b>
+</li>
+</ul>
+<br>
+<b>
+Benefits</b><ul>
+<li>
+Complete insurance coverage that includes medical, dental, vision and life insurance, Flexible Spending Accounts and wellness programs.</li>
+<li>
+401(k) with 5% employer match.</li>
+<li>
+Paid holidays and generous paid time off.</li>
+<li>
+Bonus programs include annual performance, sales goals and profit sharing.</li>
+<li>
+Scholarship program for children of employees.</li>
+</ul>
+<br>
+<b>
+Employee Perks</b><ul>
+<li>
+On-site café with executive chefs and seasonal dinner-to-go options.</li>
+<li>
+First-class fitness center with complimentary personal trainers.</li>
+<li>
+Over four miles of beautifully maintained walking trails.</li>
+<li>
+Numerous employee appreciation events throughout the year.</li>
+<li>
+Professional development classes and monthly in-house speakers.</li>
+</ul>
+<br>
+<b>
+About Uline</b><br>
+<br>
+Uline is the leading distributor of shipping, industrial and packaging materials to businesses throughout North America. We're a family-owned company known for incredible service and quality products. We offer same-day shipping on over 36,000 products found in our 788-page catalog and on our state-of-the-art e-commerce website.<br>
+<br>
+Our quality products, huge inventory and ongoing expansion fuel our incredible growth. This is a great time to join Uline!<br>
+<br>
+EEO/AA Employer/Vet/Disabled<br>
+Uline is a drug-free workplace.</div></div>

@@ -1,0 +1,80 @@
+<h2>Senior Implementation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>**Position can be based out of our offices in Irvine- CA, Brooklyn-NY, or home based anywhere within the US**</b></p>
+<p>
+As a Senior Implementation Engineer on the Nuxeo Professional Services Team, you’ll get to work with brilliant engineers solving complex business problems through leading technology and advanced open architecture. As an expert in the Nuxeo platform, you will provide technical guidance and leadership to the customer team to design and implement the Nuxeo Platform to meet rigorous business and technology goals. You will collaborate closely with the Nuxeo Implementation Engineers, providing leadership and mentorship to help ensure the highest standards of technical delivery from design through roll-out. Working both at the keyboard coding and shoulder-to-shoulder with customers evaluating and architectural choices you will help bridge the gap between business and technology.</p>
+<p>
+What will you do?</p>
+<ul>
+<li>Lead requirements elaboration and architectural design sessions with customers</li>
+<li>Identify and assess business, functional, and technical requirements</li>
+<li>Recommend solutions to resolve functional and technical requirements using Nuxeo</li>
+<li>Develop implementation designs using the Nuxeo Platform</li>
+<li>Develop integrations and add-ons to the Nuxeo platform</li>
+<li>Configure and customize the Nuxeo platform for customer implementations</li>
+<li>Author client deliverables (e.g. specifications, test cases, user stories, and design documents)</li>
+<li>Lead the development and delivery of training for customers and teams</li>
+<li>Lead technical implementation teams</li>
+<li>Mentor and train team members</li>
+<li>Relay product feature requests to product management</li>
+<li>Must be able to travel 50% of the time</li>
+</ul> <p>Skills we are looking for</p>
+<ul>
+<li>Bachelor’s degree in a STEM discipline or equivalent certifications and experience</li>
+<li>6-10 years of consulting/professional services experience in a technical delivery role</li>
+<li>Experience implementing Agile software projects in the enterprise</li>
+<li>Dedication to quality code and doing things the “right way"</li>
+<li>Command of software implementation best practices and software architecture principles</li>
+<li>Experience leading a team of engineers</li>
+<li>Excellent interpersonal skills</li>
+<li>Proven ability to meet project deadlines</li>
+<li>History of building productive client relationships</li>
+<li>Rigorous attention to detail</li>
+</ul>
+<p>Required Technical Skills:</p>
+<ul>
+<li>Deep familiarity with continuous integration frameworks (e.g. Jenkins, Maven)</li>
+<li>Java or JavaScript engineering:</li>
+</ul>
+<ul>
+<li>UX / JavaScript Engineers must possess mastery of</li>
+<li>Google Polymer, webcomponents or other .js frameworks</li>
+<li>HTML5 and CSS</li>
+<li>JSON and XML</li>
+<li>Backend / Java engineers must possess mastery of</li>
+<li>OSGI, Spring, or similar frameworks</li>
+<li>HTML5 and CSS</li>
+<li>JSON, XML, or SWIFT</li>
+<li>Junit</li>
+<li>JAX-RS</li>
+</ul>
+<ul>
+<li>Experience with at least one modern indexing architecture (ES, SOLR, Lucene, etc.)</li>
+<li>Experience with at least one SQL database abstraction / ORM technology</li>
+<li>Experience with at least one modern SQL database (Postgres, MariaDB, Oracle, etc.)</li>
+<li>Experience with at least one modern NoSQL database (Couch, MongoDB, Cassandra, Hbase, MarkLogic etc.)</li>
+<li>Experience with at least one queueing or message service (RabbitMQ, Kafka, etc.)</li>
+<li>Experience with at least one key value store (Redis, memcached, Riak, Dynamo, etc.)</li>
+<li>Development and implementation with at least one public cloud provider</li>
+<li>Experience with at least one containerization technology (docker) and its orchestration (Helm, Habitat, Rancher, Kubernetes, Openshift, etc.)</li>
+</ul>
+<p>Preferred Skills</p>
+<ul>
+<li>Master’s degree in a STEM discipline from an accredited institution</li>
+<li>Experience with Postgres</li>
+<li>Experience with ElasticSearch</li>
+<li>Experience with MongoDB</li>
+<li>Experience with Apache Kafka</li>
+<li>Experience with AWS, including technologies like EC2, ECS, Lambda, RDB S3, Elasticache, etc.</li>
+<li>Experience with Openshift</li>
+<li>Business fluency in Spanish, Portuguese, Japanese, or French</li>
+</ul>
+<p>About Nuxeo</p>
+<p>
+Since 2008, our diverse community of approximately 150 developers, engineers, administrators, sales, and operational professionals have been working to fundamentally change how people work with data and content to realize new value from their digital assets. We possess an uncompromising engineering mindset and unwavering focus on helping customers. We’re intellectually curious, hold each other accountable, and consider transparency to be one of our strongest assets. Our amazing team is growing fast, so if you have the skills, passion, and desire to join a company that’s powering the modern content-driven enterprise, apply! We will be reaching out shortly.</p>
+<p>
+Our Clients<br>
+Global brands including Electronic Arts (EA), TBWA, Verizon, Orange, and Agence France Presse (AFP) are increasingly choosing Nuxeo’s agile, open, and extensible platform to drive digital assets, enterprise content, and competitive insights into the future. Read more here!</p>
+<p>
+**Nuxeo is an equal opportunity employer. Our diversity makes us strong and we expect all of our stakeholders to always be respectful, non-judgmental and open-minded.**</p>
+</div></div>

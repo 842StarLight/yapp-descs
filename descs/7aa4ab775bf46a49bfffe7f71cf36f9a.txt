@@ -1,0 +1,91 @@
+<h2>Developer II, Applications</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Sysco Associate Apply - Click </b><b>Here</b></p>
+<p>
+Company: Corporate Enclave<br>
+Location: US-TX-Houston<br>
+Zip Code: 77077<br>
+Minimum Level of Education: High School or Equivalent<br>
+Minimum Years of Experience: 3<br>
+Position Type: Exempt<br>
+Travel Percentage: 0</p>
+<p><b>
+More information about this job:</b></p>
+<p><b>
+OVERVIEW:</b><br>
+We offer our associates the opportunity to grow personally and professionally, to contribute to the success of a dynamic organization, and to serve others in a manner that exceeds their expectations. We're looking for talented, hard-working individuals to join our team. Come grow with us and let us show you why we’re at the heart of food and service.</p>
+<p></p>
+<br>
+<p><b>
+Summary</b></p>
+<p>
+Delivers high-quality software and technical solutions to meet product/platform needs. Works across the full stack and possesses a flexible mindset and passion for programming</p>
+<p><b>
+Responsibilities</b></p>
+<div><div><ul>
+<li>
+Produce high-quality code to meet product/platform requirements</li>
+<li>
+Adheres to architecture standards and development best practices like Test-Driven development, code reviews, static code analysis and secure coding</li>
+<li>
+Writes technical user stories and ensures that non-functional requirements are met to ensure performance, scaling, resilience and maintainability of software/solutions</li>
+<li>
+Actively resolves defects and manages technical debt</li>
+<li>
+Develops unit tests to ensure good coverage and regression testing ability</li>
+<li>
+Assists in the development of automated tests and environment management scripts</li>
+<li>
+Practices DevOps methods like CI/CD, SDLC automation and proactive monitoring/telemetry</li>
+<li>
+Participates in sprint planning, daily stand-ups, sprint reviews and retrospectives to enable progress, and surface and resolve impediments</li>
+<li>
+Performs spikes and investigations to evaluate new tools/technologies</li>
+<li>
+Collaborates with the team to support end-to-end including design, development, QA, deployment and production support</li>
+</ul></div></div>
+<p><b>
+Functional Areas:</b></p>
+<div><div><ul><li>
+Value Added Services (Menu Services, Service Offerings), Digital Asset Management, Brand Commercialization, MA Commissions, Support Local Sales and Marketing Services</li></ul></div></div>
+<p><b>
+Mandatory Experience</b></p>
+<ul>
+<li>
+Bachelor's degree in CS or 3 years of relevant developer experience</li>
+<li>
+2-5 years of experience in coding, testing and application development in an agile environment, depending on education</li>
+<li>
+Practical experience of <b>Java, React</b>,.NET, Ruby, Python or other relevant modern programming languages</li>
+<li>
+Experience with back end database technologies such as Dynamo DB, Azure, etc.</li>
+<li>
+Good understanding of Scrum, Lean, XP, Kanban and other agile development techniques</li>
+<li>
+Experience building and deploying applications on a cloud platform such as AWS</li>
+<li>
+Basic understanding of DevOps, including continuous integration, continuous deployment / delivery, configuration and containerization, infrastructure as a code, and monitoring</li>
+</ul>
+<p><b>
+Competencies</b></p>
+<ul>
+<li>
+Demonstrated “agile-development” mindset with strong customer-focus &amp; results-orientation</li>
+<li>
+Flexible mindset (not married to a single language) and a strong desire to continue to grow skillset and work across the full technology stack</li>
+<li>
+Effective interpersonal, teamwork and collaboration skills</li>
+<li>
+Strong analytical and business problem-solving skills</li>
+<li>
+Strong communication skills</li>
+</ul>
+<p></p>
+<br>
+<p>
+Applicants must be currently authorized to work in the United States.</p>
+<p>
+Corporate Enclave is proud to be an Equal Opportunity and Affirmative Action employer, and considers qualified applicants without regard to race, color, creed, religion, ancestry, national origin, sex, sexual orientation, gender identity, age, disability, veteran status or any other protected factor under federal, state or local law.</p>
+<p>
+This opportunity is available through Sysco Corporation, its subsidiaries and affiliates.</p>
+Employment Type: Full Time</div></div>

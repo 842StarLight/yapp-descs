@@ -1,0 +1,66 @@
+<h2>Junior Analyst, Data</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview<br>
+</b></h2>
+<p></p>
+<div><div><div>
+<p>HarperCollins is seeking a Junior Analyst to join our Digital team. The Junior Analyst will support the Senior Data Scientist in creating and deploying new tools and datasets for pricing, sales, and marketing. The position will be responsible for conducting tests to monitor and optimize existing strategies as well as engaging with multifunctional teams and providing data-driven analysis to answer business questions.
+</p>
+<p>The ideal candidate will be self-motivated and passionate about generating actionable insights and stories from data.
+</p>
+<p>This position reports to the Senior Data Scientist and will be sitting in the New York Headquarters.</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Conduct analysis to answer key business questions and arm stakeholders with data needed to make business decisions.</li>
+<li>
+Design dashboards and provide recommendations on new ways to visualize or use datasets.</li>
+<li>
+Support deployment of new dashboards and data science tools.</li>
+<li>
+Implement tests of new pricing and marketing strategies.</li>
+<li>
+Help track key performance indicators for tools developed by the data science team.</li>
+<li>
+Document and communicate findings to stakeholders across the company.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<ul>
+<li>4-year college degree or equivalent work experience</li>
+<li>
+2+ years of experience in a similar or related role</li>
+<li>
+Hands-on experience with data analysis and delivering insights and stories from data to both creative- and research-minded colleagues.
+</li>
+<li>Proficiency in data visualization and business intelligence tools, like Tableau</li>
+<li>
+SQL experience</li>
+<li>
+Experience with Python for data analysis a plus</li>
+<li>
+Strong, demonstrated analytical and critical-thinking skills</li>
+<li>
+Outstanding problem-solving and time management skills</li>
+<li>
+Motivated, resourceful self-starter</li>
+<li>
+Strong interpersonal skills – positive attitude and team player</li>
+<li>
+A love of books!</li>
+</ul>
+<p><i>
+HarperCollins Publishers is a company full of people who are passionate about books. When you apply for a position, we want to know why you want to work here, and why you are interested in the job. That’s why cover letters are </i><b><i>strongly preferred</i></b><i>.</i></p>
+<p></p>
+<br>
+<p><i>
+Please note that HarperCollins Publishers does not accept resumes from agencies unless our Human Resources department has authorized in writing a specific agency to submit resumes for a specific position. Therefore, if an agency submits a resume without Human Resources’ prior written approval to do so, the individual identified on that resume will not be considered a candidate presented by your company.<br>
+</i></p>
+<p></p>
+<p>HarperCollins Publishers is an equal opportunity employer.</p>
+</div></div></div>
+</div></div>

@@ -1,0 +1,50 @@
+<h2>Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Who You Are:</b></p>
+<p>
+Getty Images is looking for individuals that enjoy applying quantitative methods to help surface business metrics to stakeholders and turn business data into actionable insights. This role is responsible for the analysis and visualization of both large and small data across Getty Images, and for using that work to help us make better decisions and build better products.</p>
+<p><br>
+<b>
+Your Next Challenge:</b></p>
+<p>
+You will join a growing team of highly-collaborative and curious Data Scientists, Data Engineers and other quantitative-minded individuals. As a member of the team, you will have the chance to interact with key business stakeholders to help them identify, analyze and interpret the results of statistical tests and analytical reports.</p>
+<p>
+Your primary goal will be to help extract insights and unlock value from customer data by turning data into information, information into insight, and insight into business actions. You will also be responsible for building and maintaining ongoing reports, and will work with stakeholders to prioritize business and information needs.</p>
+<p>
+You will also interact with the entirety of Getty Images data and technology stack to acquire new data sources, define data schemas and build new data pipelines that can support analytical reporting and feature extraction for Data Science models. You also go out of your way to find new opportunities to speed up and automate the generation of analytical reports.</p>
+<p>
+We value learning and development, and you will be given every opportunity to <b>work on projects that excite you and help you grow</b>. You will have the opportunity to sit at the intersection of Engineering, Marketing, Sales and Product to inform, influence, support, and execute on key decisions, all while collaborating closely with fellow Data Engineers and Data Scientists.</p>
+<p></p>
+<br>
+<p><b>
+What You’ll Need:</b></p>
+<ul>
+<li>
+A BS or MS in computer science, statistics, economics/econometrics, mathematics or any other equivalent quantitative project is preferred. If you are self-taught and believe you are a good fit for this role, or have significant work experience, we would love to hear from you as well.</li>
+<li>
+Proven experience of having worked hands-on as a Data Analyst or Business Analyst.</li>
+<li>
+Strong working knowledge of SQL and Excel. We are looking for people that aim to optimize workflows and automate repetitive processes, so knowledge of Python and/or R is a big plus, or at least the desire to learn these new skills is required.</li>
+<li>
+Knowledge of statistical testing, data visualization best practices, data mining, and a good understanding of database design and management. Knowledge of BI and CRM tools such as Tableau, Looker, Salesforce is also a big plus.</li>
+<li>
+Strong communication skills (both written and orally) and an ability to comfortably produce written reports and presenting findings.</li>
+<li>
+Ability to independently execute on a project, from ideation to delivery to stakeholders, and can pro-actively interact with other engineers at Getty Images to access necessary resources or data.</li>
+</ul>
+<p><b>
+Preferred Qualifications:</b></p>
+<ul>
+<li>
+1-2 year’s work in support of global sales teams on sales targeting and performance.</li>
+<li>
+Familiarity with Salesforce.com, Salesforce.com tracking and Salesforce.com analysis.</li>
+</ul>
+<i>
+#LI-MM1</i><br>
+<br>
+<b>Who We Are:</b><br>
+<p>Getty Images is one of the most trusted and esteemed sources of visual content in the world, with over 300 million assets including photos, videos, and music, available through its industry-leading sites www.gettyimages.com and www.istock.com. The Getty Images website serves creative, business and media customers in nearly every country in the world and is the first-place people turn to discover, purchase and share powerful visual content from the world’s best photographers and videographers. Getty Images works with over 250,000 contributors and hundreds of image partners to provide comprehensive coverage of more than 160,000 news, sport and entertainment events each year, impactful creative imagery to communicate any commercial concept and the world’s deepest digital archive of historic photography.</p>
+<p><b>
+Getty Images is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. Getty Images believes that diversity is critical to our success in moving the world with images and is committed to creating an inclusive, mutually respectful environment which celebrates diversity. We seek to hire on the basis of merit, competence, performance, and business needs.</b></p>
+</div></div>

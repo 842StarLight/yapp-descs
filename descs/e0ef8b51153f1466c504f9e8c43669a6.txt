@@ -1,0 +1,90 @@
+<h2>Solution Architect-CDS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Are you data-driven? We at NetApp believe in the transformative power of data – to expand customer touchpoints, to foster greater innovation, and to optimize operations. We are designed for simplicity, optimized to protect, created to embrace future opportunity, and open to enrich choice. We are the data authority for hybrid cloud, and we are helping our customers realize the full potential of their data.</p>
+<br>
+<p></p>
+<p>We’ve built a Data Fabric for a data-driven world – to simplify and integrate data management across the resources that are best for the business. With the Data Fabric, our customers can harness the power of cloud data services, build cloud infrastructures, and modernize storage through data management.</p>
+<br>
+<p></p>
+<p>By harnessing the power of hybrid cloud data services, customers gain the freedom of choice to securely manage and move data – anywhere, on any cloud. Only NetApp can help organizations deliver data-rich customer experiences when they rapidly test and deploy new applications that easily use data and services regardless of where they reside or in what form.</p>
+<div>
+<div>
+<div>
+Job Summary
+</div>
+<div>
+<p>As a Solutions Engineer for Cloud Data Services you will utilize your strong technical competencies to provide the highest level of consultation to customers and sales team to support sales goals. You will work on cross-functional teams including Sales, Product Marketing, Services and Engineering to create a strategy that provides the best solutions to customers. You will become intimately acquainted with the customer's business requirements, technical needs, systems, environment and service history, enabling you to present targeted business solutions.</p>
+<p>Primarily provides pre-sales technical support for the development and implementation of complex products/applications/solutions. Uses in-depth product knowledge to provide technical expertise to sales staff and the customer through sales presentations and product demonstrations. Assists the sales staff in assessing potential application of company products to meet customer needs and may prepare detailed product specifications for the development and implementation of customer products/applications/solutions. May create detailed design and implementation specifications for complex products/applications/solutions. May build a mini-application based on customer requirements to demonstrate feasibility of the application, often requiring rapid prototyping and/or product demo for client. May provide consultation to prospective users and/or product capability assessment and validation. Report only those incumbents with incentives tied to product sales.</p>
+</div>
+</div>
+<div>
+<div>
+Ideal candidate would have
+</div>
+<div><ul>
+<li>Software presales experience - selling enterprise software to the large enterprises.</li>
+<li>Strong knowledge in cloud consumption concepts and hybrid cloud management across multiple hyperscalers.</li>
+<li>Ability to demonstrate knowledge of cloud technologies like machine learning or artificial intelligence.</li>
+<li>Conducting Proof of concepts at customer sites for enterprise software, hardware products</li>
+<li>Adept with ROI/TCO presentations</li>
+<li>Expert at whiteboarding, PowerPoint based presentations and live + remote demonstrations</li>
+<li>Heterogeneous on-prem Storage domain knowledge - EMC/NetApp/HDS/HP/IBM… hands-on experience is not a requirement, but ability to speak to end users managing heterogeneous gear is a big plus</li>
+<li>Business value selling skills – sell to different personas in the account and create business value</li>
+</ul></div>
+</div>
+<div>
+<div>Job Requirements
+</div>
+<div>
+<p>Expert in a specific product or a specific market.- Excellent written and verbal communication skills. - Good interpersonal communication and customer service skills are needed in order work successfully with prospects, customers, and cross functional teams to meet sales goals.- Account management and project management experience.- Strong aptitude for learning new technologies and understanding how to utilize them in a customer facing environment. - Ability to follow standard engineering principles and practices.- Creative approach to problem solving.- Travel to the prospective customer's domestic sites and other global sites as necessary.Responsibility and Interaction:Responsibility: - As a seasoned professional with a wide range of experiences, this individual uses professional concepts and company objectives to resolve complex issues in creative and effective ways.- Is responsible for a specific geographical install base and large, complex, high visibility, strategic, or tactically important accounts. Interaction: - This individual effectively works with, and influences senior internal personnel within the function, employees in other functions that support the sales effort, and has direct customer contact. - Limited management supervision and direction is provided since this individual operates and drives results independently.- The ideal candidate is a subject matter expert and strongly influences sales team decisions and initiatives. May also act as a team leader and major decision maker for team projects.</p>
+<p><b>Primary Requirements:</b></p>
+<ul>
+<li>Selling subscription-based software models.</li>
+<li>Familiar with selling to Cloud centric buyers.</li>
+<li>Positive attitude - look for solutions not problems</li>
+<li>Ability to work with multiple extended account teams across the entire value delivery chain - sales/presales/services/support/product management/marketing/…</li>
+<li>Ability to execute on multiple parallel engagements - excellent prioritization is a must have</li>
+</ul>
+<p><b>Secondary Requirements:</b></p>
+<ul>
+<li>Business Intelligence (Cognos and/or BusinessObjects) experience.</li>
+<li>SQL experience - SQL joins and other client level SQL</li>
+<li>Familiarity with programing languages like REST, Python and Powershell.</li>
+</ul>
+</div>
+</div>
+<div>
+<div>Education
+</div>
+<div>
+<ul>
+<li>8 to 12 years of selling experience is preferred.</li>
+<li>Experience with large Infrastructure software vendors preferred.</li>
+<li>AWS, Azure and GCP certifications are highly desired.</li>
+<li>Managing and deploying Software as a Service. ServiceNOW or Salesforce as examples.</li>
+<li>A Bachelor’s of Science Degree in Computer Science, Marketing, Business or related field is required; a Graduate Degree is preferred.</li>
+<li>Prior experience as a Product Manager, Technical Marketing manager, Systems engineer, solutions architect in a Storage h/w, s/w sales, product development role</li>
+<br>
+</ul>
+</div>
+</div>
+</div>
+<p>
+</p>
+<p>So get ready to tap into the data visionary within, and join us as we accelerate digital transformation and empower our customers to change the world with data!</p>
+<br>
+<p></p>
+<p>If you ask a NetApp employee why they work here, the answer is inevitably the same: the people. At NetApp, our culture is at the heart of what we do. We place importance in trust, integrity, teamwork, and caring above all else. NetApp is a place where people are empowered to make a difference. Empowered to innovate. Empowered to collaborate. Empowered to help ourselves and others be data-driven and change the world. We take care of each other, our customers, our partners, and our communities simply because it’s the right thing to do.</p>
+<br>
+<p></p>
+<p>We work hard but also recognize the importance of work-life balance for our employees because what’s important to them is important to us! Recently we implemented Family First, which encourages employees to take paid time off to bond with a new child (through birth or adoption) or to care for a family member with a serious health condition. Our volunteer time off program is best in class, offering employees 40 hours of paid time off per year to donate their time with their favorite organizations. We provide comprehensive medical, dental, wellness and vision plans for you and your family. We offer educational assistance, legal services, and access to discounts and fitness centers. We also offer financial savings programs to help you plan for your future.</p>
+<br>
+<p></p>
+<p>Join us and see what empowerment can do.</p>
+<br>
+<p></p>
+<p>Equal Opportunity Employer Minorities/Women/Vets/Disabled</p>
+</div>
+</div>

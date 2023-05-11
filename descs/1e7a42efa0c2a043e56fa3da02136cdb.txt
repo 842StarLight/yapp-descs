@@ -1,0 +1,66 @@
+<h2>Cloud Native Staff System Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Business Summary:</b></p>
+<p>
+VMware is the leader in virtualization and cloud infrastructure solutions that enable our more than 350,000 customers to thrive in the Cloud Era/ A pioneer in the use of virtualization and automation technologies, VMware simplifies IT complexity across the entire data center to the virtual workplace, empowering customers with solutions in the software-defined data center to hybrid cloud computing and the mobile workspace.</p>
+<p></p>
+<p>
+The VMware Cloud Native Applications Business Unit is seeking pre-sales Staff Solution Engineers to help lead the company in this ever-evolving space.</p>
+<p></p>
+<p>
+According to the CNCF, the hardest cloud native challenges are around integrating infrastructure technologies, and that’s exactly what VMware is solving with the software you will be representing - PKS.</p>
+<p>
+This is a rare opportunity to join one of the most dynamic pre-sales organizations anywhere today. VMware's growth over the past years is unparalleled in enterprise software.</p>
+<p></p>
+<p><b>
+Job Role and Responsibilities:</b></p>
+<p>
+We are looking for individuals that have a strong track record of working with new technology throughout their careers and are ready for their next challenge.</p>
+<p></p>
+<p>
+As a member of this team you will need a unique technical skill set. In addition to understanding infrastructure operations (compute, network, storage, and security) you should understand how cloud native technologies map onto VMware and public cloud infrastructures. You will leverage your Platform Operations skills in this role educating the VMware install base on technologies such as containers (Docker) and Kubernetes.</p>
+<p></p>
+<p>
+Come join the growing team of dedicated Systems Engineers in VMware’s Cloud Native Applications business and help our customers elevate their skill sets to support this massive evolution in IT.</p>
+<p></p>
+<p><b>
+Required Skills:</b></p>
+<ul>
+<li>vSphere</li>
+<li>NSX</li>
+<li>Containers</li>
+<li>Kubernetes</li>
+<li>IaaS</li>
+<li>Cloud Foundry and/or equivalent PaaS experience</li>
+<li>Operations perspective of all items above</li>
+</ul>
+<p></p>
+<p><b>
+Preferred Skills:</b></p>
+<p>
+Our team looks for individuals who embody our values of:</p>
+<ul>
+<li>
+humility</li>
+<li>
+empathy</li>
+<li>
+collaboration above isolationism</li>
+<li>
+respectfulness</li>
+<li>
+trustworthiness</li>
+<li>
+good-natured fun.</li>
+</ul>
+<p></p>
+<p>
+This position is eligible for the GrowSDDCsales referral campaign</p>
+<p></p>
+<p>
+#cloudnative</p>
+<br>
+<b>
+VMware Company Overview: </b>VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.<br>
+<br>
+<b>Equal Employment Opportunity Statement:</b> VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</div></div>

@@ -1,0 +1,62 @@
+<h2>Senior Manager, iOS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>About Gap Inc.</b></h2>
+<p>Our past is full of iconic moments — but our future is going to spark many more. Our brands — Gap, Banana Republic, Old Navy, Athleta, INTERMIX and Hill City — have dressed people from all walks of life and all kinds of families, all over the world, for every occasion for more than 50 years.</p>
+<p>But we’re more than the clothes that we make. We know that business can and should be a force for good, and it’s why we work hard to make product that makes people feel good, inside and out. It’s why we’re committed to giving back to the communities where we live and work. If you're one of the super-talented who thrive on change, aren't afraid to take risks and love to make a difference, come grow with us.
+</p>
+<h2 class="jobSectionHeader"><b>About the role</b></h2>
+<p>
+As a part of our technology organization, you will have the opportunity to build next generation solutions that will transform the way our customers interact with our family of iconic brands. Our team employs a DevOps model, allowing our product teams to have full ownership of design, build and operate with immense scale.
+</p>
+<p><b>Stores account for the lion’s share of GAP’s revenues of $16B, and as a Senior Technology Manager (iOS Mobile) you will lead a team of mobile software engineers focused on developing Gap’s mobile Point-Of-Sale solution being rolled out to phones and tablets across 2500+ Gap Inc. store. </b>The successful candidate will be technical (hands-on), capable of working as a senior contributor when needed, and will provide front-line engineering leadership and people management.</p>
+<h2 class="jobSectionHeader"><b>
+What you'll do</b></h2>
+<ul>
+<li>
+Lead a team of high-performing iOS engineers to build an architecturally sustainable codebase; participate in code reviews and proof of concepts</li>
+<li>
+Set team goals and technical direction while ensuring they align with the goals of the larger organization</li>
+<li>
+Help implement effective engineering processes and policies that emphasize quality</li>
+<li>
+Lead the team in its DevOps journey; instill a culture of constant analysis of business and systems metrics to improve system performance and user experience</li>
+<li>
+Collaborate with Product Owner, operational teams and other engineering managers to provide guidance on complexity and delivery estimates</li>
+<li>
+Guide team in analysis and resolution of production issues and defects; Facilitate Root Cause Analysis discussions</li>
+<li>
+Monitor and manage team performance; coach and develop team members; drive adoption via mentoring</li>
+<li>
+Participate in hiring activities including screening, and interviewing</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Who you are</b></h2>
+<ul>
+<li>
+Built an expertise in native iOS development - Swift and Objective-C - as well as iOS development platforms</li>
+<li>
+Skilled in architecting, designing and developing highly scalable and available applications</li>
+<li>
+Disciplined in DevOps practice including CI/CD; Experienced with tools used for testing, debugging, code analysis and coverage</li>
+<li>
+Experienced in leading, inspiring, and motivating teams through effective communication</li>
+<li>
+Strong focus on security; experienced in handling customer data, knowledge of PCI / PII etc.</li>
+<li>
+Well versed in real-time networking, mobile network issues, concurrency and threading</li>
+<li>
+Able to showcase strong examples of consumer facing mobile apps delivered to market over many iterations</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Benefits at Gap Inc.</b></h2>
+<ul>
+<li>Merchandise discount for our brands: 50% off regular-priced merchandise at Gap, Banana Republic and Old Navy, 30% off at Outlet and 25% off at Athleta for all employees.</li>
+<li>One of the most competitive Paid Time Off plans in the industry.*</li>
+<li>Employees can take up to five “on the clock” hours each month to volunteer at a charity of their choice.*</li>
+<li>Extensive 401(k) plan with company matching for contributions up to four percent of an employee’s base pay.*</li>
+<li>Employee stock purchase plan.*</li>
+<li>Medical, dental, vision and life insurance.*</li>
+<li>See more of the benefits we offer.</li>
+</ul>
+<ul><li><i>For eligible employees</i></li></ul>
+</div></div>

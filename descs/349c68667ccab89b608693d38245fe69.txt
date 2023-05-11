@@ -1,0 +1,49 @@
+<h2>Senior Cloud/Azure Sales Specialist - Dev Ops</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Azure is the most innovative cloud platform in computing today and Microsoft is hiring Specialist sellers for Azure Application Development.<br>
+<br>
+As a Specialist, you will be a senior solution sales leader within our enterprise sales organization working with our most important customers. You will lead a virtual team of technical, partner and consulting resources to advance the sales process and achieve/exceed Azure sales and usage/consumption targets for application and infrastructure related workloads in your assigned accounts. You will be a trusted advisor and a cloud application development subject matter expert. You will work within a virtual team of technical, partner and consulting resources to help educate your customers at a technical level, demonstrate and prove our solutions, to win the technical decision allowing the team to achieve/exceed quarterly Azure application and developer services sales and usage/consumption targets in your assigned accounts. Being part of this team will allow you to maintain and develop your deep technical expertise across Microsoft and non-Microsoft cloud-based application development technologies.</div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<div>
+Primary accountabilities for this role include:</div>
+<div>
+40% of your time will be spent with customers identifying and surfacing new engagements that align with the customer’s business strategy. You will work with partners and others at Microsoft, as well as use our core tools, targeted account lists to identify and engage prioritized customers.<br>
+40% of your time will be spent on being the key technical leader, trusted advisor and influencer in shaping customer decisions to buy, architect and adopt Microsoft Application Development solutions. You will own winning the technical decision at customers for sales opportunities and usage scenarios, through tailoring your message, bringing ideas to customers, engaging with them to show our technology differentiation, and guiding them in decision making. You will lead presentations, demonstrations, architecture design sessions to explain, demonstrate, and prove to our largest customers the capabilities of Microsoft's products and services, and how we can make their businesses more successful.<br>
+20% of your time will be spent on influencing the Microsoft Application Development platform go to market strategies by providing feedback to sales, marketing, and engineering on current and future product requirements and sales blockers you encounter. Sharing practical knowledge with partners to drive the sale, deployment, and adoption of Microsoft solutions. You will stay sharp, attaining and maintaining required certifications. You will be recognized for sharing, learning and driving individual work that all result in business impact for customers, partners and within Microsoft. We encourage thought leadership and leadership from every employee and we encourage all our employees to continuously maintain and enhance their technical, sales, professional skills and competitive readiness.</div>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<div>
+Experiences Required: Education, Key Experiences, Skills and Knowledge:<br>
+<br>
+Professional<br>
+<ul>
+<li>Experienced. 5+ years’ experience selling cloud services or application development services to large/global enterprise customers with a focus on cloud application development preferred</li>
+<li>Account Management. Effective territory/account management: planning, opportunity qualification and creation, stakeholder and executive communication, needs analysis, services/partner engagement, opportunity management and pipeline management required</li>
+<li>Executive Presence. Experience and expertise selling to LOB decision makers, technical decision makers &amp; enterprise solution architects by aligning &amp; reinforcing the value of the solution to the customer’s overall business pain and/or strategic opportunities and decision criteria preferred</li>
+<li>Problem Solver. Ability to solve customer problems through cloud technologies, specifically solutions related to cloud native apps – containers &amp; serverless, microservices, migration to cloud required</li>
+<li>Collaborative. Orchestrate and influence virtual teams to pursue sales opportunities and lead v-teams through influence required</li>
+</ul>
+<br>
+Technical<br>
+<ul><li>Enterprise-scale technical experience with cloud and hybrid infrastructures, architecture designs, migrations, and technology management. Subject matter expertise in one or more of the following: required</li></ul>
+o Application development platforms on public clouds and/or Azure in development languages such as Java, JavaScript, Python, PHP, C#, Node.JS targeting Android, iOS, Linux, Windows, public clouds or Azure.<br>
+o Scalable architectures using Azure App Service, API management, serverless technologies, container orchestration (e.g. AKS, Kubernetes, Red Hat OpenShift, Pivotal Cloud Foundry etc.), microservice frameworks etc.<br>
+<ul>
+<li>Software development practices like DevOps and CI/CD tool chains (i.e. Jenkins, Spinnaker, Azure DevOps, GitHub). preferred</li>
+<li>Competitive Landscape. Knowledge of cloud development platforms preferred</li>
+<li>Partners. Understanding of partner ecosystems and the ability to leverage partner solutions to solve customer needs preferred</li>
+</ul>
+<br>
+Education<br>
+<ul>
+<li>Bachelor's degree or equivalent work experience preferred</li>
+<li>Certification in the following technologies preferred: Cloud, mobile, web application development, cloud-native application architecture (i.e. containers, microservices, API management), modern software development techniques like DevOps and CI/CD tool chains (i.e. Jenkins, Spinnaker, Azure developer services, GitHub) and container orchestration systems (i.e. Docker, Kubernetes, Red Hat OpenShift, Cloud Foundry, Azure Kubernetes Service, GitHub). Preferred</li>
+</ul>
+</div>
+<div>
+<br>
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br>
+<br>
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work</div>
+</div></div>

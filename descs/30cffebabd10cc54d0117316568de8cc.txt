@@ -1,0 +1,112 @@
+<h2>End User Services Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>Founded in 1866, The Sherwin-Williams Company is a global leader in the manufacture, development, distribution, and sale of paints, coatings and related products to professional, industrial, commercial, and retail customers. The company manufactures products under well-known brands such as Sherwin-Williams®, Valspar®, HGTV HOME® by Sherwin-Williams, Dutch Boy®, Krylon®, Minwax®, Thompson’s® Water Seal®, Cabot® and many more. Sherwin-Williams® branded products are sold exclusively through a chain of more than 4,100 company-operated stores and facilities, while the company’s other brands are sold through leading mass merchandisers, home centers, independent paint dealers, hardware stores, automotive retailers, and industrial distributors. The company supplies a broad range of highly-engineered industrial and OEM coatings for wood and general industrial, coil, packaging, protective and marine, and transportation applications worldwide. Our 60,000 employees are diverse, innovative and passionate. With a variety of rewarding and challenging opportunities, Sherwin-Williams is a great place to find a career that takes you places.<br>
+</div>
+<div>
+<br>
+</div>
+<div>The Engineer role on the Systems Management Team is to support the team’s efforts to empower the global organization at Sherwin-Williams with client infrastructure technology and solutions, while ensuring focus is kept on security, client experience, and fiscal responsibility.<br>
+<br>
+The role of this individual is to participate in the management and refinement of the design, development, and implementation of our global endpoint footprint. The individual will participate in efforts of problem resolution and prevention through root cause analysis and planning and/or executing project solutions. The incumbent will perform administration, deployment, testing and validation of implemented solutions under the direction of the manager and/or senior team members.<br>
+<br>
+<b>Essential Functions</b><br>
+<br>
+<b>Strategy &amp; Planning</b><br>
+<ul>
+<li>Contribute in the efforts and execution of modernizing our global endpoint management platforms.</li>
+<li>Promote and help develop sustainable efforts to keep our device footprint secure and current.</li>
+</ul>
+<br>
+<b>
+Acquisition &amp; Deployment</b><br>
+<ul>
+<li>Lead and/or contribute to the efforts required to integrate newly acquired sites.</li>
+<li>Administer and optimize the ongoing deployment(s) of endpoint configurations.</li>
+</ul>
+<br>
+<b>
+Operational Management</b><br>
+<ul>
+<li>Utilize endpoint management tools, such as Microsoft Intune, LANDesk/Ivanti, and Bomgar</li>
+<li>Develop and champion procedures that will empower best practice deployment, configuration and end user enablement on mobile devices and PCs within the business community</li>
+<li>Automate software installations for deployment via endpoint management tools</li>
+<li>Execute Windows as a Service strategy and hardware/firmware patching initiatives</li>
+<li>Assist in generating reports and metrics from endpoint management tools</li>
+<li>Develop best practices and operational components of subscription-based software licensing such as Office 365, Adobe, and AutoDesk</li>
+<li>Develop, test, communicate, and implement endpoint profiles and policies</li>
+<li>Assist team members with the planning, testing, and upgrades of SaaS solutions as well as on-premise management platforms</li>
+<li>Provide recommendations/solutions to endpoint technology challenges</li>
+<li>Collaborate globally to unify, improve, and expand endpoint processes</li>
+<li>Collaborate, research, and develop modern Windows management practices using Microsoft Intune and Autopilot</li>
+<li>Drive automation throughout the organization by improving technical and business processes</li>
+</ul>
+<br>
+<b>
+Incidental Functions</b><br>
+<ul>
+<li>Contribute to enterprise projects through the entire process lifecycle-design, implementation, and maintenance.</li>
+<li>Help team members and support personnel in all divisions as needed pertaining to endpoint configuration, training, issues, and problem resolution</li>
+<li>Assist with Change Management preparations and implementations.</li>
+<li>Assist with other projects as may be required to contribute to the efficiency and effectiveness of the team and organization.</li>
+</ul>
+</div>
+<ul>
+<li>Global Travel ready (10-15%)</li>
+<li>Provide periodic 24/7 on-call assistance of specific functions.</li>
+<li>Work outside the standard office 7.5 hour workday may be required.</li>
+<li>Participate in on-call rotation.</li>
+</ul>
+<br>
+<b>
+Position Requirements</b><br>
+<br>
+<b>Formal Education &amp; Certification</b><br>
+<ul><li>Bachelors degree in a related field or equivalent experience.</li></ul>
+<br>
+<b>
+Knowledge &amp; Experience</b><br>
+<ul>
+<li>2+ years IT experience</li>
+<li>Practical experience in the support or configuration of endpoint devices and software troubleshooting</li>
+<li>Fundamental understanding of information technology, mobile technology, and related platforms.</li>
+<li>Fundamental understanding of computer administration, and networking concepts.</li>
+</ul>
+<br>
+<b>
+Experience Preferred but not Required:</b><br>
+<ul>
+<li>6+ months experience in operational/customer service related work.</li>
+<li>Configuration and support of endpoint devices within both the Microsoft and Apple Ecosystems.</li>
+<li>Experience with supporting firmware/hardware technologies (Apple, Microsoft, Lenovo, Dell, HP)</li>
+<li>Experience with the Intune, LANDesk/Ivanti, and Bomgar platforms.</li>
+<li>Deployment of Windows 10 Feature Packs within an enterprise</li>
+<li>Office 365 administration and deployment</li>
+<li>Direct experience with Active Directory Group Policies</li>
+<li>Knowledge of PowerShell, Batch, and Shell scripting</li>
+<li>Usage and/or creation of Microsoft Power BI dashboards</li>
+</ul>
+<br>
+<b>
+Personal Attributes</b><br>
+<ul>
+<li>Competent in verbal and written communications.</li>
+<li>Eager to learn, grow and develop technical, interpersonal, and business skills.</li>
+<li>Motivated to contribute to the work effort.</li>
+<li>Attentive to detail.</li>
+<li>Organized and able to prioritize tasks.</li>
+<li>Customer service orientation.</li>
+<li>Able to work as part of a team, or independently as situationally necessary.</li>
+</ul>
+<div>
+<br>
+</div>
+<div>
+Must be legally authorized to work in country of employment without sponsorship for employment visa status now or in the future.<br>
+</div>
+<div>
+<br>
+</div>Equal Opportunity Employer. All qualified candidates will receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information, creed, citizenship status, marital status, or any other consideration prohibited by law or contract. VEVRAA Federal Contractor requesting priority referral of protected veterans.</div>
+<p></p>
+</div>

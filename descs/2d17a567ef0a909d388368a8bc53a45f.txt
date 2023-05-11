@@ -1,0 +1,70 @@
+<h2>Embedded Software/Firmware Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Alstom’s approach can be summarized in one word – “fluidity”. Alstom is a global leader in passenger, freight and mining rail transportation, signalling, and infrastructure, and sets the benchmark for innovative and environmentally friendly technologies. We are a global leader in the transportation sector, in the digital age. As a promoter of sustainable mobility, Alstom develops and markets systems, equipment and services for the transport sector. We offer a complete range of solutions (from high-speed trains to metros, tramways and e-buses), passenger solutions, customized services (maintenance, modernization), infrastructure, signalling and digital mobility solutions. Alstom is a world leader in integrated transport systems. Our 34,500 employees worldwide rigorously apply the Alstom Code of Ethics and work closely with our community of stakeholders to deliver solutions and services that bear the brand of Alstom. Alstom businesses had sales of <b>€</b>34.2 billion for the 2017/2018 fiscal year. Visit www.alstom.com to learn more about our business.</div>
+<br>
+<p></p>
+<p><b>
+Job Responsibilities and Accountabilities</b></p>
+<ul>
+<li>Translate customer needs into achievable product performance requirements</li>
+<li>Design and implement to the product architecture of trackside equipment (switch machines, switch circuit controllers, relays, etc.)</li>
+<li>Ensure technical consistency and alignment with other metiers throughout a development</li>
+<li>Provide technical support to Customer Care and Tender teams</li>
+<li>Apply Alstom standard processes and contribute to continuous improvement efforts</li>
+<li>Design conceptual models of products using CAD software</li>
+<br>
+</ul>
+<p></p>
+<p><b>Essential Skills and Experience</b> (Essential Functions)</p>
+<p><b>Experience in the following:</b></p>
+<ul>
+<li>3+ years Experience in the design and development of software modules / applications using C and C++</li>
+<li>Software development in a Linux environment</li>
+<li>Experience in VHDL and FPGA development</li>
+<li>Experience working in an agile development environment</li>
+<li>Leading a software development team</li>
+<li>Development of software specifications (nominal and degraded modes, function, performance, RAMS, etc.)</li>
+<li>Excellent verbal and written communication</li>
+<li>Excellent organizational and configuration management</li>
+<li>Ability to generate, read, and interpret user requirements</li>
+</ul>
+<p><b>Tools:</b></p>
+<ul>
+<li>Microsoft Office (Word, Excel, Outlook, PowerPoint, Project, Access</li>
+<br>
+</ul>
+<p></p>
+<p><b>DesiredSkills and Experience</b> (Essential Functions)</p>
+<ul>
+<li>Experience designing and using relational database (Oracle experience preferable)</li>
+<li>Experience in railroad / transit signalling market (preferable)</li>
+<li>Experience with integration of control room / automation software (preferable)</li>
+<li>Experience with SOAP (preferable)</li>
+<li>Software development in a Windows environment (desirable)</li>
+<li>System Architecture (SysML) (preferable)</li>
+<li>Reverse engineering (desirable)</li>
+<li>Embedded systems (desirable)</li>
+<br>
+</ul>
+<p></p>
+<p><b>Educational Requirements</b></p>
+<p>BSc or MSc in Computer Engineering / Computer Science / Software Engineering</p>
+<br>
+<p></p>
+<div>Alstom offers competitive salaries, an excellent benefits package, and flexible work options, as well as a uniquely diverse and unified team of professionals. Our culture supports an environment where employees can continuously learn and gain professional growth through education, exciting projects and career mobility. Alstom recognizes your achievements and excellent performance through various performance incentive, recognition and reward programs. Our commitment is to you, the employee. Come work in an environment that is driven by integrity, innovation and visionary thinking. Make switch to a new track and join Alstom today!</div>
+<br>
+<div></div>
+<div>Alstom abides by the requirements of 41 CFR 60-1.4(a), 60-300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity or national origin. Moreover, these regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</div>
+<br>
+<div></div>
+<div><b>Accommodations for Applicants with Disabilities
+</b></div>
+<div>Alstom provides reasonable accommodations and/or assistance to applicants with disabilities and disabled veterans (including but not limited to other protected veterans and individuals with known physical and mental limitations). If you need a reasonable accommodation/assistance for any part of the application and/or hiring process, please note this in our online application.</div>
+<br>
+<div></div>
+<div>Successful applicants will be required to undergo pre-employment drug testing for unauthorized substances. Marijuana and medical marijuana are considered unauthorized substances. Additionally, upon date of hire, applicants will be required to complete the U.S. Department Homeland Security's I-9 form confirming identity and authorization to work in the United States.</div>
+<br>
+<div></div>
+<p><br>
+<b>Job Segment: </b>Developer, Embedded, Informatics, Firmware, Database, Technology</p>
+</div></div>

@@ -1,0 +1,97 @@
+<h2>Senior Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>SENIOR SYSTEMS ENGINEER</b></div>
+<div><b>Managed Services Team</b></div>
+<div><b>Overland Park, KS</b></div>
+<br>
+<div>
+</div>
+<div></div>
+<div>NetStandard is looking for an exceptional Senior Systems Engineer to join our professional, fast-paced environment of managed services at our Overland Park, KS location. You will be an integral part of leading one of our managed service teams. Your daily exposure to a broad array of technology will provide insight into various industries and technology stacks which support our client’s businesses.</div>
+<div></div>
+<div>The Senior Systems Engineer is a highly skilled, seasoned IT generalist that thrives on supporting diverse environments while providing excellent customer service. This critical role is accountable along with other team members for delivery of services that meet all technical requirements for clients in a timely fashion. As a Senior Systems Engineer, you will report to your team’s Chief Technology Officer.</div>
+<div></div>
+<div><b>DAILY RESPONSIBILITIES:</b></div>
+<ul>
+<li>Provide advanced technical support for each client’s server-based systems, communication systems, virtualization and storage environments and their network, including configuration, performance and security.</li>
+<li>Work with NetStandard’s internal technical team to monitor and respond to events to ensure system uptime and stability.</li>
+<li>Ensure change control and other procedures are followed. Confirm that configuration documentation is completed when systems are deployed or modified.</li>
+<li>Engage and manage vendor escalations.</li>
+</ul>
+<ul>
+<li>Be a catalyst of positive change and an advocate for improving I.T. value to the client’s business.</li>
+<li>Provide technical leadership and mentorship to team members to dramatically increase efficiency, I.T. maturity and to eliminate recurring issues.</li>
+<li>Perform project assessments, scoping and cost estimates and work in a technical pre-sales capacity as needed.</li>
+</ul>
+<div>
+<br>
+<b>Technical Skills and Abilities</b>
+</div>
+<div>An individual must be able to perform essential skills with advanced knowledge or understanding of the following concepts:</div>
+<ul>
+<li>
+<b>Operating Systems</b> — Microsoft Windows, Linux, MacOS</li>
+<li>
+<b>Authentication &amp; Directory Services</b> — Active Directory, Azure AD, MFA, etc.</li>
+<li>
+<b>Windows System Management </b>— Tools, Philosophies and Methods</li>
+<li>
+<b>Antivirus/Malware</b> and <b>Patch Management</b> technologies</li>
+<li>
+<b>Collaborative Technologies</b> — Microsoft Exchange, Office365, Skype, Zoom, etc.</li>
+<li>
+<b>Security </b>— Firewalls, vulnerability assessment, IDS/IPS, filtering, etc.</li>
+<li>
+<b>Shared Storage Technologies</b> —LUN, RAID, ISCSI, FC, SAS, etc.</li>
+<li>
+<b>Network</b> <b>Technologies</b> — vLAN’s, route/switch, DNS, DHCP, RAS, VPN</li>
+<li>
+<b>Automation</b> — Scripting, imaging, installation, management</li>
+<li>
+<b>Virtualization</b> — VMWare and Windows/Hyper-V</li>
+<li>
+<b>Cloud </b>– Azure, AWS, SaaS, IaaS, PaaS</li>
+</ul>
+<ul>
+<li>Analytical and process-oriented approach to issues and assigned tasks</li>
+<li>Advanced level diagnostic method and skills in a variety of environments</li>
+</ul>
+<div></div>
+<div><b>Client Support and Soft Skills</b></div>
+<ul>
+<li>Intensely customer focused with the understanding that I.T. serves the business.</li>
+<li>Detailed time tracking. Advanced project management skills; task-focused and results-oriented.</li>
+<li>Highly effective both independently and as a member of a team.</li>
+<li>Highly effective verbal and written communication skills at all levels of an organization.</li>
+</ul>
+<div></div>
+<div><b>Education</b></div>
+<ul>
+<li>At least five (5) years of experience in Information Technology infrastructure support.</li>
+<li>Associate degree in Computer Science or related discipline or equivalent training preferred.</li>
+<li>Relevant certifications would include:
+<ul>
+<li>MCSE</li>
+<li>VCP</li>
+<li>CCNA/P</li>
+</ul>
+</li>
+</ul>
+<div></div>
+<div><b>Special Requirements</b></div>
+<ul>
+<li>Some after-hours availability</li>
+</ul>
+<div>
+<b>Physical Requirements</b> — The physical requirements described here are representative of those that must be met by an employee to successfully perform the essential functions of this job:</div>
+<ul>
+<li>Must be able to sit for extended periods, performing work on a computer</li>
+<li>Must be able to assist with two-person lift of items weighing in excess of 50 pounds</li>
+</ul>
+<div></div>
+<div>
+<b>Division: </b>Managed Services<br>
+<b>Location:</b> Overland Park, KS<br>
+<b>Reports to:</b> Managed Services CTO<br>
+<b>FLSA:</b> Exempt</div>
+</div></div>

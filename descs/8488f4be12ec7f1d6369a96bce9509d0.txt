@@ -1,0 +1,55 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>Senior Software Engineer</b></div>
+<div></div>
+<div>Nanthealth Inc. is looking for a Senior Java Engineer to work on a multitude of projects delivering exciting new working solutions in an AGILE environment and alongside talented team members. The right candidate must be creative and work well in a team environment. The Senior Software Engineer reports to the Director, Product Development and is responsible for the design, development, and unit testing of healthcare software systems by applying the principles and techniques of computer science, engineering, and mathematical analysis. The Senior Software Engineer consults with Solution Managers, Architects, other team members, and medical device manufacturers to ensure functional and non-functional operational requirements of the deliverable and overall system are being met. In addition, this individual is also responsible for assisting cross functional organizations such as Quality Assurance Engineers, Project Engineers, Implementation Teams, Sales and Support.</div>
+<div>
+<br>
+<b>The Basics</b>
+</div>
+<ul>
+<li>Translate requirements into detailed design and into executable software</li>
+<li>Create unit tests to ensure software aligns with specifications</li>
+<li>Debug and refine software based on test results</li>
+<li>Develop, maintain, oversee applications software, continuous integration platform, and utility programs • Partake in team code reviews</li>
+<li>Participate in Scrum-based meetings, including daily stand-ups, sprint reviews, retrospectives, planning sessions, grooming and sizing sessions</li>
+<li>Update User Stories, including completed tasks, timelines and completion criteria</li>
+<li>Continuous Improvement – Communicate recommendations identified throughout the development cycle</li>
+<li>Special projects and other duties as required by business conditions or as assigned</li>
+<li>Compliance with company and departmental policies and processes</li>
+<li>Ability to work independently, within a team environment, and communicate effectively</li>
+</ul>
+<div><b>What You Bring</b></div>
+<ul>
+<li>Bachelor’s degree (preferably in Computer Science or a related field,) or equivalent</li>
+<li>10+ years of applicable software engineering experience</li>
+<li>5+ years with JEE, Java, HTML5, JSON, XML, REST, Container Management, JUnit</li>
+<li>5+ years developing complex software solutions utilizing COTS software technology and components o Rabbit MQ, Microservices with Spring Boot</li>
+<li>Experience with the following:
+<ul>
+<li>Continuous Integration; Jenkins, SonarQube, Nexus/Artifactory</li>
+<li>Low level code development, data processing</li>
+<li>Scrum Methodology</li>
+<li>Build and deployment tools; SVN/Git, Maven, Docker</li>
+<li>Aptitude to quickly and effectively adapt to technologies outside of current experience</li>
+<li>Full software development life cycle experience</li>
+<li>MicroServices based architecture using Spring Boot and Spring Cloud and Messaging</li>
+<li>Excellent organizational and communication skills, both verbal and written</li>
+</ul>
+</li>
+</ul>
+<div><div>
+<div><b>What We Bring</b></div>
+<div>
+<ul>
+<li>We offer competitive compensation, full benefits and some great perks. More importantly, we offer you the chance to work with a great team, focused on providing leading software-based solutions and services across a continuum of care.</li>
+<li>Excellent benefits package including medical(HMO/PPO), dental, and vision, and a 401k with company matching so you can continue planning for financial wellness.</li>
+<li>Flexible/Unlimited Style Paid Time Off with 11 Paid Holidays</li>
+<li>Employee discounts on things like, mobile products and services, gym memberships, and a variety of additional entertainment options.</li>
+</ul>
+<br>
+<b><i>NantHealth, Inc. </i></b><b><i>is</i></b><b><i> </i></b>a member of the NantWorks ecosystem of companies, is a next-generation, personalized healthcare company that enables more effective treatment decisions for critical illnesses and improved patient outcomes by empowering clinical decision support and providing leading software-based solutions and services across the continuum of care for physicians, payers, patients and biopharmaceutical organizations.<br>
+<br>
+NantHealth is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to their race, color, religion, ancestry, national origin, sex, sexual orientation, age, disability, marital status, domestic partner status, or medical condition.This job description is intended to describe the general nature and level of work being performed by the person assigned to this position. The primary duties and responsibilities are intended to describe those functions that are essential to the performance of this job and does not state or imply that the above are the only duties and responsibilities assigned to this position.</div>
+</div></div>
+</div></div>

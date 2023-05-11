@@ -1,0 +1,86 @@
+<h2>Cloud Data Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Google Cloud Data Architect (Pre Sales)</p>
+<p>United States | Remote | Work from Home</p>
+<p><b><i>Why You?</i></b></p>
+<p>Are you based in the United States? Are you a Cloud Solutions or Cloud Data Architect who likes to operate with a high degree of autonomy and have diverse responsibilities that require strong leadership, deep technology skills and a dedication to customer service? Do you have Big data and Data centric skills? Do you want to take part in the strategic planning of organization’s data estate with a focus of fulfilling business requirements around cost, scalability and flexibility of the platform? Can you draft technology roadmaps and document best practice gaps with precise steps of how to get there? Can you implement the details of the backlogs you have helped build? Do you demonstrate consistent best practices and deliver strong customer satisfaction? Do you enjoy pre sales? Can you demonstrate adoption of new technologies and frameworks through the development of proofs of concepts?</p>
+<p>If you have a passion for solving complex problems and for pre sales then this could be the job for you!</p>
+<p><b><i>What Will You Be Doing? </i></b></p>
+<ul>
+<li>Collaborating with and supporting Pythian sales teams in the pre-sales &amp; account management process from the technical perspective, remotely and on-site (approx 75%).</li>
+<li>Defining solutions for current and future customers that efficiently address their needs. Leading through example and influence, as a master of applying technology solutions to solve business problems.</li>
+<li>Developing Proof of Concepts (PoC) in order to demonstrate feasibility and value to Pythian’s customers (approx 25%).</li>
+<li>Defining solutions for current and future customers that efficiently address their needs.</li>
+<li>Identifying then executing solutions with a commitment to excellent customer service</li>
+<li>Collaborating with others in refining solutions presented to customers</li>
+<li>Conducting technical audits of existing architectures (Infrastructure, Performance, Security, Scalability and more) document best practices and recommendations</li>
+<li>Providing component or site-wide performance optimizations and capacity planning</li>
+<li>Recommending best practices &amp; improvements to current operational processes</li>
+<li>Communicating status and planning activities to customers and team members</li>
+<li>Participate in periodic overtime (occasionally on short notice) travelling up to approx 50%).</li>
+</ul>
+<p><b><i>What Do We Need From You?</i></b></p>
+<p>While we realise you might not have everything on the list to be the successful candidate for the Solutions Architect job you will likely have at least 10 years experience in a variety of positions in IT. The position requires specialized knowledge and experience in performing the following:</p>
+<ul>
+<li>Undergraduate degree in computer science, computer engineering, information technology or related field or relevant experience.</li>
+<li>Systems design experience</li>
+<li>Understanding and experience with Cloud architectures specifically: Google Cloud Platform (GCP), Microsoft Azure or Amazon Web Services (AWS)</li>
+<li>In-depth knowledge of popular database and data warehouse technologies from Microsoft, Amazon and/or Google (Big Data &amp; Conventional RDBMS), Microsoft Azure SQL Data Warehouse, Teradata, Redshift, BigQuery, Snowflake etc.</li>
+<li>Be fluent in a few languages, preferably Java and Python, and having familiarity with Scala and Go would be a plus.</li>
+<li>Proficient in SQL. (Experience with Hive and Impala would be great)</li>
+<li>Proven ability to work with software engineering teams and understand complex development systems, environments and patterns.</li>
+<li>Experience presenting to high level executives (VP’s, C Suite)</li>
+<li>Ability to travel and work across North America frequently (occasionally on short notice) up to 50% with some international travel also expected.</li>
+</ul>
+<p>Nice-to-Haves:</p>
+<ul>
+<li>Experience Architecting Big Data platforms using Apache Hadoop, Cloudera, Hortonworks and MapR distributions.</li>
+<li>Knowledge of real-time Hadoop query engines like Dremel, Cloudera Impala, Facebook Presto or Berkley Spark/Shark.</li>
+<li>Experience with BI platforms, reporting tools, data visualization products, ETL engines.</li>
+<li>Experience with any MPP (Oracle Exadata/DW, Teradata, Netezza, etc)</li>
+<li>Understanding of continuous delivery and deployment patterns and tools (Jenkins, Artifactory, Maven, etc)</li>
+<li>Prior experience working as/with Machine Learning Engineers, Data Engineers, or Data Scientists.</li>
+<li>A certification such as Google Cloud Professional Cloud Architect, Google Professional Data Engineer or related AWS Certified Solutions Architect / Big Data or Microsoft Azure Architect</li>
+<li>Experience or strong interest in people management, in a “player-coach” style of leadership longer term would be great.</li>
+</ul>
+<p><b><i>What Do You Get in Return?</i></b></p>
+<ul>
+<li>Competitive total rewards package</li>
+<li>Flexible work environment: Why commute? Work remotely from your home, there’s no daily travel requirement to the office!</li>
+<li>Outstanding people: Collaborate with the industry’s top minds.</li>
+<li>Substantial training allowance: Hone your skills or learn new ones; participate in professional development days, attend conferences, become certified, whatever you like!</li>
+<li>Amazing time off: Start with a minimum 3 weeks vacation, 7 sick days, and 2 professional development days!</li>
+<li>Office Allowance: A device of your choosing and personalise your work environment!</li>
+<li>Fun, fun, fun: Blog during work hours; take a day off andvolunteerfor your favorite charity.</li>
+</ul>
+<p><b><i>Why Pythian?</i></b></p>
+<p>Established in 1997, Pythian is aglobalIT Data company based in Ottawa, Canada that specializes in designing, implementing, and managing systems that directly contribute to revenue and business success. We help companies adopt disruptive technologies such asadvanced analytics,big data,cloud,databases,DevOpsandinfrastructure managementto advance innovation and increase agility. We are focusing on product development leveraging new and exciting technology that will empower our customers through digital transformation. More than just a job we hire people who love what they do! As a Google Cloud Solutions Architect (Pre Sales) in North America, you will be part of our Customer Service Delivery team that is entrusted to manage our global client's mission critical systems as well as deploying cutting edge technology from blockchain to serverless and cloud databases, covering all modern data and infrastructure. They deliver first class personalized level of service to our clients across financial, educational, media, retail and many more.</p>
+<p>Intrigued to see what a job is like at Pythian? Check us out@Pythianand#pythianlife.</p>
+<p>Follow@PythianJobson Twitter and@loveyourdataon Instagram!</p>
+<p>Not the right job for you? Check out what other great jobs Pythian has open in the United States or Canada in general and around the world!Pythian Careers</p>
+<p>Disclaimers</p>
+<ul>
+<li>Pythian is an equal opportunity employer and welcomes applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.</li>
+<li>The successful applicant will need to fulfill the requirements necessary to obtain a background check.</li>
+<li>All applicants must be legally authorized to work in the United States of America permanently– Pythian will not sponsor, or file petitions of any kind on behalf of, a foreign worker to become a U.S permanent resident based on a permanent job offer, or to otherwise obtain authorization to work in the U.S.</li>
+<li>No Recruitment agencies please</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $150,000.00 to $200,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>cloud architecture: 3 years (Preferred)</li>
+<li>pre sales: 1 year (Preferred)</li>
+</ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Benefits offered:</p>
+<ul>
+<li>Paid time off</li>
+<li>Parental leave</li>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Retirement benefits or accounts</li>
+<li>Flexible schedules</li>
+</ul>
+</div>

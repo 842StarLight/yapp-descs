@@ -1,0 +1,84 @@
+<h2>Front-End Software Engineer, Orchestration Team</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div><b>Role</b></div>
+<div>
+<br>
+</div>
+<div>
+We are looking for an experienced front-end software engineer who has a passion for building intuitive user interfaces, writing maintainable and reusable UX components using React JS, contributing best practices and collaborating with a team of fellow world-class engineers who thrives in a collaborative team environment.</div>
+<div>
+<br>
+</div>
+<div><b>
+About the Team</b></div>
+<div>
+<br>
+</div>
+<div>
+At the core of any sales organization is the ability to know what to do, when to do it, and who should be performing the activities that lead to successful customer engagement. The Orchestration and Task Flow Team’s mission is to enable our customers to successfully execute on these goals.</div>
+<div>
+<br>
+</div>
+<div>
+The Orchestration front-end provides our users with tools to create, modify, and manage sequences and their embedded features: the schedules, events, and action definitions that make things go. The Orchestration Service provides the automation and intelligence to keep track of when a task is due, who its assigned to and gathers intelligence about emails as they are delivered and received. We provide data driven insights from machine learning systems to help our customers take the optimal next step. At the end of the day, our team enables our customers to answer the question “How can organizations engage their prospects predictably, efficiently, and with the greatest impact?”</div>
+<div>
+<br>
+</div>
+<div>
+The fundamental challenges we’re solving next are helping users develop new tasks, flows, and assembling them into more advanced workflows all while keeping the system reliable and scalable as our users continue to double every year. Customers need insight into why something happened or why it didn’t, they need to see who they’re reaching and how often, and they need to understand what takes them a step closer to increase their chances of success. The Orchestration system provides that insight.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Your Daily Adventures Will Include
+</b></h3>
+<div><ul>
+<li>Building applications in a modern web stack. Our application is 100% built in React and we use TypeScript and Apollo Client/GraphQL</li>
+<li>
+Identify the critical details and prioritize incremental delivery</li>
+<li>
+Design and deliver great solutions</li>
+<li>
+Respond to changing requirements efficiently and responsibly</li>
+<li>
+Helping us build customer trust by keeping the quality bar high and delivering well-tested code</li>
+<li>
+Own features all the way through</li>
+<li>
+Quickly start contributing</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Basic Qualifications</b></h3>
+<div><ul>
+<li>
+Experience with using UX frameworks to build web applications</li>
+<li>
+Great communications skills</li>
+<li>
+Experience building and consuming web based APIs</li>
+<li>
+Familiar with continuous deployment environments</li>
+<li>
+Go above and beyond to help your team</li>
+<li>
+You embody our core values. We are hungry craftspeople, we have grit, we are honest, we take ownership, we have each other’s back no matter what, we’re one with our customers, and we find strength in diversity and inclusion</li>
+</ul></div>
+</div></div>
+<div>
+<div><b>Why You’ll Love It Here</b></div>
+<div>
+<br>
+</div>
+<ul>
+<li>100% medical, dental, and vision coverage for full-time employees</li>
+<li>Unlimited PTO (and people actually use it!)</li>
+<li>401k to help you save for the future</li>
+<li>Company-organized and personal paid volunteer days to support the community that supports us</li>
+<li>Fun company and team outings because we play just as hard as we work</li>
+<li>Diversity and inclusion programs that promote employee resource groups like OWN (Outreach Women's Network)</li>
+<li>A parental leave program that includes not just extended time off but options for a paid night nurse, food delivery, gradual return to work, and the Gottman Institute's Bringing Home Baby course for new parents</li>
+<li>Employee referral bonuses to encourage the addition of great new people to the team</li>
+<li>Plus, unlimited snacks and beverages in our kitchen</li>
+</ul>
+</div>
+</div></div>

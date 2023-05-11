@@ -1,0 +1,142 @@
+<h2>Solutions Engineer - PreSales</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div><b>Solutions Engineer</b></div>
+<div>
+</div>
+<div>
+Our Solutions Engineers are the primary technical field experts, responsible for actively driving and managing the technical part of a sales engagement.</div>
+<div>
+<br>
+</div>
+<div>
+The goal of the Solutions Engineer is to support the rapidly growing Couchbase user community and help drive customer success. In this exciting role, you will become an expert explaining NoSQL advantages, how Couchbase Server works and how it can be used to solve the customer’s problems; all with a good dose of getting customers excited about using this new approach for fast &amp; scalable databases.</div>
+<div>
+<br>
+</div>
+<div>
+Whenever customers do a POC or hands-on evaluation, our solutions engineers help drive these by answering their questions &amp; troubleshooting, so you will be hands-on with the technology.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Responsibilities:</b></h3>
+<div><ul>
+<li>
+Show customers how to solve their problems and meet their requirements with Couchbase Server and get them excited about <b>NoSQL database</b> technology</li>
+<li>
+Work closely with the sales team on account strategy and identifying additional opportunities in existing accounts</li>
+<li>
+Ensuring the success of customer POC / Pilots through effective management of acceptance criteria and issue escalation/resolution.</li>
+<li>
+Developing and delivering exceptional company/product presentations and demonstrations</li>
+<li>
+Work with all technical levels from managers, to architects and developers and explain Couchbase Server and its uses</li>
+<li>
+Be the technical product expert for customers and stay up-to-date on the NoSQL competitive landscape</li>
+<li>
+Work with Product Management and Engineering to provide feedback from the field and represent the customer perspective</li>
+<li>
+Identify and write internal and external technical collateral, like typical deployment architectures or best practices</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Preferred Qualifications:</b></h3>
+<div><ul>
+<li>
+BS in Computer Science, Engineering or equivalent experience in software and/or a technologically relevant field</li>
+<li>
+3+ years experience with traditional <b>RDBMS</b> including schema modeling, performance tuning and configuration</li>
+<li>
+Prior experience in a fast-paced startup environment</li>
+<li>
+Hands-on administration and troubleshooting experience with x86 operating systems (Linux, Windows, Mac OS), networking and storage architectures</li>
+<li>
+Familiarity with NoSQL <b>databases</b> or other distributed high-performance systems</li>
+<li>
+Pre-sales support experience in the NoSQL industry</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Minimum Qualifications:</b></h3>
+<div><ul>
+<li>
+Excellent communication and presentation skills with an ability to present technical solutions concisely from small to large audience</li>
+<li>
+Experience engaging with developers and programming experience in at least one of the following: Java/.NET/PHP</li>
+<li>
+Demonstrated passion for diving into technical issues and solving customer problems</li>
+<li>
+Demonstrated critical thinking and advanced troubleshooting skills and qualities</li>
+<li>
+Well organized, can engage with many customers at the same time</li>
+<li>
+Ability to <b>travel up to 25%</b> of the time is required</li>
+</ul></div>
+</div></div>
+<div>
+<div><b>About Couchbase</b></div>
+<div>
+<br>
+</div>
+<div>
+Couchbase's mission is to be the platform that accelerates application innovation. To make this possible, Couchbase created an enterprise-class, multi-cloud NoSQL database architected on top of an open source foundation. Couchbase is the only database that combines the best of NoSQL with the power and familiarity of SQL, all in a single, elegant platform spanning from any cloud to the edge.</div>
+<div>
+</div>
+<div>
+Couchbase has become pervasive in our everyday lives; our customers include industry leaders Amadeus, AT&amp;T, BD (Becton, Dickinson and Company), Carrefour, Comcast, Disney, DreamWorks Animation, eBay, Marriott, Neiman Marcus, Tesco, Tommy Hilfiger, United, Verizon, Wells Fargo, as well as hundreds of other household names.</div>
+<div>
+<br>
+</div>
+<div>
+Couchbase’s HQ is conveniently located in Santa Clara, CA with additional offices throughout the globe. We’re committed to a work environment where you can be happy and thrive, in and out of the office.</div>
+<div>
+<br>
+</div>
+<div>
+At Couchbase, you’ll get:</div>
+<ul>
+<li>A fantastic culture</li>
+<li>A focused, energetic team with aligned goals</li>
+<li>True collaboration with everyone playing their positions</li>
+<li>Great market opportunity and growth potential</li>
+<li>Time off when you need it.
+</li>
+<li>Regular team lunches and fully-stocked kitchens.</li>
+<li>Open, collaborative spaces.
+</li>
+<li>Competitive benefits and pre-tax commuter perks</li>
+</ul>
+<div>
+<br>
+</div>
+<div>
+Whether you’re a new grad or a proven expert, you’ll have the opportunity to learn new skills, grow your career, and work with the smartest, most passionate people in the industry.</div>
+<div>
+<br>
+</div>
+<div>
+Revolutionizing an industry requires a top-notch team. Become a part of ours today. Bring your big ideas and we'll take on the next great challenge together.</div>
+<div>
+<br>
+</div>
+<div>
+Check out some recent industry recognition:</div>
+<ul>
+<li>Wealth Front Career-Launching Companies List 2018</li>
+<li>Forbes Next Billion Dollar Startups 2018</li>
+<li>2018 Deloitte Fast 500</li>
+<li>2018 DBTA Readers’ Choice Award for Best In-Memory Solutions</li>
+<li>Big Data 100: 35 Coolest Data Management And Integration Vendors</li>
+<li>No. 17 on Forbes’ list of Best Big Data Companies to Work For in 2017</li>
+</ul>
+<div>
+<br>
+</div>
+<div>
+Want to learn more? Check out our blog: https://blog.couchbase.com/</div>
+<div>
+<br>
+</div>
+<div>
+Couchbase is proud to be an equal opportunity workplace. Individuals seeking employment at Couchbase are considered without regards to age, ancestry, color, gender (including pregnancy, childbirth, or related medical conditions), gender identity or expression, genetic information, marital status, medical condition, mental or physical disability, national origin, protected family care or medical leave status, race, religion (including beliefs and practices or the absence thereof), sexual orientation, military or veteran status, or any other characteristic protected by federal, state, or local laws.</div>
+</div>
+</div></div>

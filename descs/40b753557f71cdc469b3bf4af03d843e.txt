@@ -1,0 +1,211 @@
+<h2>Software Development Intern/Co-Op - Reliability Solutions and Plantweb IIoT</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<b>Software Development Intern/Co-Op - Reliability Solutions and Plantweb IIoT</b><div>
+</div>
+</div>
+<div>
+<b>
+Requisition ID</b><b>:</b> <b>(</b><b>19011364</b><b>)</b>
+</div>
+<div>
+<b>
+Primary Location</b><b>:</b> United States-Texas-Austin</div>
+<div>
+<b>
+Job Function</b><b>:</b> University Programs</div>
+<div>
+<b>
+Job Posting Date</b><b>:</b> Sep 9, 2019, 5:10:23 PM<div>
+</div>
+</div>
+<div>
+<div><b>
+Description</b></div>
+<div>
+</div>
+<div>Design and develop computer software systems whose software architecture is designed for the distributed enterprise and uses the latest technologies available such as Angular, React, HTML5, C#, WebAPI and SQL Server databases. The system manages complex data and involves automated analysis, data mining techniques, and interfaces to hardware monitoring devices. Development is done using agile development methodologies in a global team environment.</div>
+<div></div>
+<div>
+<br>
+</div>
+<div>
+<b>Essential Duties and Responsibilities </b><b>include the following. Other duties may be assigned.</b>
+</div>
+<div>
+<br>
+</div>
+<ul>
+<li>
+<div><b>Responsible to</b></div>
+<ul><li><div>
+Work under the direction of one or more Software Engineers, Project Managers or Technology Managers</div></li></ul>
+</li>
+<li>
+<div><b>
+Specification and Concept Design</b></div>
+<ul><li><div>
+Contribute to requirements specification documents</div></li></ul>
+</li>
+<li>
+<div><b>
+Architecture and Detailed Design</b></div>
+<ul>
+<li><div>
+Support development of system architecture plans and documents</div></li>
+<li><div>
+Contribute to design documents</div></li>
+</ul>
+</li>
+<li>
+<div><b>
+Implementation</b></div>
+<ul>
+<li><div>
+Design, implement, and test software</div></li>
+<li><div>
+Assist in test of prototype hardware</div></li>
+</ul>
+</li>
+<li>
+<div><b>
+Test</b></div>
+<ul><li><div>
+Verify that assigned software works, satisfies applicable requirements, integrates into the overall system and works properly on target hardware</div></li></ul>
+</li>
+<li>
+<div><b>
+User Documentation</b></div>
+<ul><li><div>
+Provide input for technical manuals and user documentation as required</div></li></ul>
+</li>
+<li>
+<div><b>
+Maintenance and Customer Support</b></div>
+<ul>
+<li><div>
+Interface with Product Support and Product Test to answer technical questions and to resolve issues
+</div></li>
+<li><div>Work with Product Test to identify and/or correct reported discrepancies in assigned software modules</div></li>
+</ul>
+</li>
+<li>
+<div><b>
+Tools and Technology</b></div>
+<ul><li><div>
+May participate in the investigation of new technologies and new technical tools</div></li></ul>
+</li>
+<li>
+<div><b>
+Miscellaneous</b></div>
+<ul>
+<li><div>
+Follow the applicable PSS product development processes</div></li>
+<li><div>
+Perform other duties as assigned</div></li>
+</ul>
+</li>
+<li>
+<div><b>
+Personal Development</b></div>
+<ul>
+<li><div>
+Participates in hands-on software development that complements formal education</div></li>
+<li><div>
+Receives mentoring from more senior software developers</div></li>
+</ul>
+</li>
+</ul>
+<div>
+<br>
+</div>
+<div><b>Supervisory Responsibilities</b></div>
+<div>
+<br>
+</div>
+<ul><li><div>None</div></li></ul>
+<div><b>
+Competencies</b></div>
+<div>
+<br>
+</div>
+<div>To perform the job successfully, an individual should demonstrate the following competencies:</div>
+<div>
+<br>
+</div>
+<ul>
+<li><div>
+<b>Dealing with Ambiguity</b> – Can effectively cope with change; can shift gears comfortably; can decide &amp; act without having total picture; isn’t upset when things are up in the air; doesn’t have to finish things before moving on; can comfortably handle risk &amp; uncertainty.</div></li>
+<li><div>
+<b>
+Interpersonal Savvy</b> – Relates well to all kinds of people – up, down, &amp; sideways, in &amp; out of organization; builds rapport; builds constructive &amp; effective relationships; uses diplomacy &amp; tact; can diffuse high-tension situations comfortably.</div></li>
+<li><div>
+<b>
+Ethics &amp; Values</b> – Adheres to appropriate, effective values &amp; beliefs in good &amp; bad times; acts in line with those values; rewards right values &amp; disapproves of others; practices what is preached.</div></li>
+<li><div>
+<b>
+Integrity &amp; Trust</b> – Widely trusted; seen as a direct, truthful person; can present unvarnished truth in appropriate, helpful manner; keeps confidences; admits mistakes; doesn’t misrepresent self for personal gain.</div></li>
+<li><div>
+<b>
+Drive for Results</b> – Can be counted on to exceed goals successfully; is constantly &amp; consistently one of the top performers; very bottom-line oriented; steadfastly pushes self &amp; others for results.</div></li>
+</ul>
+<div>
+<br>
+</div>
+</div>
+<div></div>
+<div>
+<div>
+<div><b>Qualifications</b></div>
+<b>
+</b><div>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</div>
+<div>Skills/Abilities</div>
+<ul>
+<li><div>Some software development experience using one or more of the following programming languages: C#, Java, JavaScript</div></li>
+<li><div>
+Some software development experience using programmatic access to databases management systems via SQL, Entity Framework, or LINQ</div></li>
+<li><div>
+Some software development experience building web applications leveraging one or more of the following technologies: ASP.NET MVC, SignalR, JQuery, Angular, Bootstrap, HTML, and CSS</div></li>
+</ul>
+<div><b>Preferences</b></div>
+<ul>
+<li><div>Some knowledge of RESTful APIs as the standard contract for system interaction</div></li>
+<li><div>
+Some experience building Event Driven Architectures leveraging messaging technologies such as MSMQ, RabbitMQ, NServiceBus</div></li>
+</ul>
+<div><b>Required Education and/or Experience</b></div>
+<ul>
+<li><div>Currently pursuing, at minimum, a BS in Electrical Engineering, Computer Engineering, Software Engineering, or Computer Science from an accredited institution</div></li>
+<li><div>
+Accommodation may be made for someone pursuing a BS degree in another engineering discipline that has demonstrated the ability or aptitude for programming</div></li>
+<li><div>
+Minimum 3.0 GPA</div></li>
+</ul>
+<b>
+</b>
+</div>
+<div>
+<b>Work Authorization</b><br>
+Emerson will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.<br>
+<br>
+<b>Equal Opportunity Employer</b><br>
+Emerson is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, age, marital status, political affiliation, sexual orientation, gender identity, genetic information, disability or protected veteran status. We are committed to providing a workplace free of any discrimination or harassment.<br>
+<br>
+If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by calling 1-314-553-2544 (V/TTY/TDD) or by sending an email to idisability.administrator@emerson.com.<br>
+</div>
+<div></div>
+<b>
+About Emerson</b><div>
+<br>
+Imagine being surrounded by intelligent, driven, and passionate innovators all working toward the same goal—to create groundbreaking solutions that leave our world in a better place than we found it. Emerson is a global technology and engineering company providing innovative solutions for customers in industrial, commercial, and residential markets.<br>
+<br>
+Our Emerson Automation Solutions business helps process, hybrid, and discrete manufacturers maximize production, protect personnel and the environment while optimizing their energy and operating costs. Our Emerson Commercial and Residential Solutions business helps ensure human comfort and health, protect food quality and safety, advance energy efficiency, and create sustainable infrastructure.<br>
+<br>
+A dynamic environment is what you’ll discover at Emerson, a Fortune 500 company with $14.5 billion in sales and 155 manufacturing locations worldwide. Together, we’re changing the world, and we have all the resources to help you achieve your professional goals.<br>
+<br>
+Whether you’re an established professional looking for a career change, an undergraduate student exploring options, or recently received your MBA degree, you’ll find a variety of opportunities at Emerson. Join our team and start your journey today.</div>
+</div>
+</div>
+<div></div>
+</div>

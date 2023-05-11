@@ -1,0 +1,118 @@
+<h2>Software Developer (Sr - Level), Core Platform</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Full-time</div>
+<div>
+<div>
+<div>
+Gravy Analytics is disrupting the world of consumer intelligence. We are the only <i>location</i>-<i>based</i> consumer intelligence platform providing real-world information about the places and events that people visit. Our mission is to be the largest and most accurate source of easily useable and trusted <i>location</i> data services that reveal how consumers live their daily lives. Understanding where people go and how they spend their time gives unprecedented insight into consumer lifestyles, life stages, interests and affinities.
+</div>
+<div></div>
+<br>
+<div>Gravy Analytics works with leading companies in marketing, advertising, retail and data services to drive increased sales, deliver market research and improve customer engagement. Our <i>location</i> intelligence powers ad targeting, competitive insights, and customer relationship management, enabling organizations to better communicate with and serve their customers throughout the life cycle. We provide the data that powers our customers' proprietary solutions, as well as our own products and services.</div>
+<div>
+<br>
+</div>
+<div>
+Gravy Analytics is big data. We process tens of billions of daily <i>location</i> signals and match them against our curated database of geo-fences, and the <i>place</i> and event data associated with them. We maintain the largest events database in the U.S., aggregating and improving more <i>than</i> a million events each month.
+</div>
+<div></div>
+<br>
+<div>Gravy Analytics is technology. We deploy solutions using Hadoop, Spark, and other parallel processing technologies; we use heuristic, pattern matching, probabilistic and machine-learning algorithms. We use a variety of DBMS types, file types and analytical tools. We use Java, node.js and Python when it fits. We do everything in the Cloud. We select the right technology for the <i>job</i> versus deploying what we already know.
+</div>
+<div></div>
+<br>
+<div>We <i>work</i> fast, iterate, and test along the way to ensure that we bring the right solutions to market.</div>
+<div>
+<br>
+</div>
+<div>
+Sr. Software Developer - This <i>position</i> will <i>work</i> within Gravy’s core platform development <i>team</i>, assisting in the development of batch process and business logic for our core platform, which processes tens of billions of <i>location</i> signal data points each day, including simple to complex algorithm development. Successful candidates will be sharp,with a demonstrated ability to translate business problems into technology solutions and products. You will be strong in Java or Scala or both. At times you will collaborate with other <i>team</i> members working on product. Other times you will be expected to deliver product features on your own. The successful candidate will be able to demonstrate technical expertise, be teamwork oriented and be committed to developing high-quality code.</div>
+<div>
+<br>
+</div>
+<div>
+This <i>position</i> requires a minimum of 5+ years <i>work</i> <i>experience</i> developing in Java and Scala, with at least 6 monts of <i>experience</i> developing in Scala. The ideal candidate will be <i>team</i> and customer service oriented, innovative, open-minded to the solution set and driven to deliver solutions that meet or exceed the requirements. You believe that simple approaches are better <i>than</i> complex, whenever possible</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>
+Specific Responsibilities Include:</b></h3>
+<div><ul>
+<li>
+Understand technical specifications for product code and create technical specifications for products and product features.</li>
+<li>
+Create innovative solutions to support partners and customers by writing code that delivers the functionality required and adheres to best practices in development and testing.</li>
+<li>
+Adhere to best practices in development and testing including the development of automated unit and integration tests, creation of supporting test data and development of manual tests as needed.
+</li>
+<li>Create easily understandable and well documented software and frequently update the status of your <i>work</i>.</li>
+<li>
+Create data, metrics and visualizations, as needed, for complex algorithm verification.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>
+You will have the following abilities:</b></h3>
+<div><ul>
+<li>
+You are both a <i>team</i> player and a self-starter. You have demonstrated ability to <i>work</i> independently with only basic guidance, as well as <i>work</i> well within the larger <i>team</i>.
+</li>
+<li>You have demonstrated <i>experience</i> understanding and meeting customer and partner needs, and deploying the right tool for the <i>job</i> including Scala, Java, third party web services, scripting languages (e.g. Python, R) and third party toolsets.</li>
+<li>
+You are capable of taking a basic description of what is needed, analyzing it and asking the right questions to generate a detailed specification of the software requirements.
+</li>
+<li>You can demonstrate to us that you have developed multiple applications from requirements elaboration to delivery to production.</li>
+<li>
+You must have good organization skills and great communication &amp; documentation skills.
+</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader">
+<b>You will have the following required </b><b><i>experience</i></b><b>:</b>
+</h3>
+<div><ul>
+<li>
+At least five years’ <i>experience</i> in software development in Java and Scala, with at least 6 months of <i>experience</i> developing with Scala.</li>
+<li>
+You can demonstrate to us that you have good database skills both creating new databases, modifying existing databases and manipulating data within those databases.
+</li>
+<li>You will be experienced in either SQL or NoSQL databases and enjoy working with both.</li>
+<li>
+You have <i>experience</i> processing data efficiently in JSON and/or XML formats.</li>
+<li>
+You will have <i>experience</i> with different languages, including scripting languages, which allow you to put the right tool to the task.
+</li>
+<li>Demonstrated ability to quickly and efficiently break down a larger project to smaller tasks, and handle multiple projects and tasks at the same time.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>
+Additionally, we value the following:</b></h3>
+<div><ul>
+<li>
+<i>
+Experience</i> with data analytics and data visualization.
+</li>
+<li>
+<i>Experience</i> with MySQL, AWS, Snowflake, DynamoDB, CartoDB and other visualization tools.</li>
+<li>
+You may also have <i>experience</i> with languages such as Python and R.</li>
+<li>
+Personal characteristics we value include: high integrity, entrepreneurial spirit, innovative thinking, <i>team</i> player, passion for technology, adaptability, high energy and attention to detail.</li>
+</ul></div>
+</div></div>
+<div></div>
+<div>
+<br>
+<div>
+</div>
+<div>
+First and foremost, you have the opportunity to <i>work</i> for a company that is built on the belief that nothing comes without risk. We accept that skinning our knees is just part of the process of learning to run then sprint. Working at Gravy Analytics, you’ll <i>join</i> an innovative and growing organization of passionate data science, engineering, and sales professionals with extensive <i>experience</i> in growing a business by building products and delivering solutions that customers need.</div>
+<div>
+<br>
+</div>
+<div>
+And yes, you’ll <i>get</i> healthcare, competitive <i>pay</i>, generous PTO and equity participation as well.</div>
+</div>
+</div>
+</div></div>

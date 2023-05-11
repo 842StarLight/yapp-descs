@@ -1,0 +1,107 @@
+<h2>Lead Back-end Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Who We Are
+<br><br>
+DISCO is a legal tech software company. Our objective is to own the legal tech market and become the leader in legal as Salesforce has done in the sales technology space. Given the massive growth of data over the last 20 years, poorly built legal technology products have severely decreased lawyers ability to practice the law.
+<br><br>
+Our fundamental mission includes building a unified technology platform for the practice of law, composed of 7+ products released over the next 10 years. Great technology can solve problems of scale in data, in laws, and in business operations that have distracted lawyers from doing what they went to law school to do. DISCO is fixing the law by automating the parts of the practice that can be automated so that great lawyers can focus on tasks that really do require human legal judgment.
+<br><br>
+To date, we have substantially disrupted the legal tech market with a lawyer inspired consumer-grade interface and a cloud-enabled technology platform that offers unprecedented performance and cost savings. Thoughtful product planning and product design are core tenants in our “product first” business strategy and culture.
+<br><br>
+We intend to build a multi-billion dollar business and think you should come along for the ride because:
+<br><br>
+1. DISCO is a very successful company more than doubling revenue every year for the last 5 years. We were the first movers to a cloud-based platform that has caused mass disruption within our market.
+<br>2. Our CEO is a true market visionary. He graduated with a computer science degree at the age of 15 and followed with a JD from Harvard Law School at the age of 19. His unparalleled insights into the fundamental issues in legal and the potential of technology and artificial intelligence to change our market at its core provide the guiding light for DISCO’s long-term strategy.
+<br>3. We believe that product delivery professionals including product managers, product designers and engineers differ from one another by at least a factor of 10. At DISCO, we only hire the top 1%, pay them well, and with equity, everyone has effectively been getting a raise each and every day. Given our product first mindset, product professionals are very much stars of the show. Our logo, the circle and square, represents the best lawyers and the best product professionals in the world.
+<br>4. We measure product delivery velocity by dollars of revenue per line of code, vs simply lines of code. This drives a very thoughtful and deliberate product design and development process that ensures we’re going to make money when we ship products. We hire many more product managers and designers per engineer than most companies to ensure that our engineers have a disambiguated product intent when they are building.
+<br>5. As a rule, we don’t commit to external product delivery dates as we believe that unnecessarily constrains our creativity from both a product and technology point of view.
+<br>6. At DISCO respect isn’t earned; it is assumed. Good humans inherently treat everyone respectfully. This is a very important concept at DISCO.
+<br>7. Given the high level of talent at DISCO, the cutting-edge cloud-based technology stack, and thoughtful and novel product and design approach, you’ll find yourself learning at a rate you’ve not likely experienced in your career. Given that we only hire professionals that are passionate about their craft, you’ll truly enjoy building a great software product and get in the best “career shape” of your life.
+<br>8. Over the next 4 years, we’ll be growing our product delivery organization from 85 professional to 500+. There will be incredible growth opportunities along the way.
+<br>9. We use the “2 Pizza Team” organization design where small autonomous teams own a piece of a product or platform and ship software at rates comparable to a very lean and scrappy startup. We achieve consistency across these teams in the areas of design, product-wide use cases and technical concerns through a strategically focused set of overlay functions.
+<br>10. Finally, while we’re an incredibly fast growing organization, as a rule, we do not work crazy long hours. We believe in continuous product delivery, continuous product planning and design, continuous regular sleep schedules, continuous regular vacation, and continuous fun if you’re passionate about your craft.
+<br><br>
+If you want to win while getting better than you’ve ever been, come to DISCO.
+<br><br>
+Your Impact
+<br><br>
+As a Lead Back-end Software Engineer, you will build high-quality software delivering feature sets that delight customers while driving the architecture of one or more Subsystems towards our aspirational goal of everything ‘well-crafted’. We don’t mean perfect but rather delivering real customer value as we pursue ‘high marks’ on these Architecture Quality Attributes:
+<br><br>
+Availability, Scalability, Interoperability, Modifiability, Performance, Security, Testability.
+<br><br>
+What You'll Be Doing
+<br><br>
+<b>Technical Responsibilities:</b><br>
+<ul>
+<li>Be a part of an autonomous, cross-functional team designing, building and operating strategic, user-focused feature sets.</li>
+<li>Take ownership of the technical design, grooming, and delivery of your team’s features.</li>
+<li>Working with other teams to identify and manage the cross-team dependencies inherent in delivering a committed feature set.</li>
+<li>Potentially creating services that enable users to build complex search queries that remain responsive while spanning terabytes of data.</li>
+</ul>
+<b>Lead Responsibilities:</b><br>
+<ul>
+<li>Help lesser experienced team members decompose problems into subparts (i.e. divide and conquer) and understand how the parts synthesize into a solution.</li>
+<li>Maintain a well-groomed backlog.</li>
+<li>Coordinate with Product Management to ensure dependencies can be satisfied across teams and functionality.</li>
+<li>Using technical or business context, mentor engineers by turning ambiguity into clarity.</li>
+</ul>
+Skills &amp; Experience You Have...
+<br><br>
+<ul>
+<li>7+ years of back-end development experience for large scale web applications.</li>
+<li>1+ years as a technical lead for an Agile based engineering team.</li>
+<li>Ability to design and communicate external and internal architectural perspectives of well-encapsulated systems (e.g. Service Oriented Architecture, Docker based Services, micro-services).</li>
+<li>Prior experience building and operating distributed web application systems while embracing the discipline of Site Reliability Engineering.</li>
+<li>Proficient in API and Data Model Design and Implementation including how to scale out, make highly available, and map to storage systems.</li>
+<li>Have the ability to design and implement a layered application architecture that can be easily changed to accommodate evolving business requirements.</li>
+<li>Knowledge and understanding of how to design and develop from a Security Perspective.</li>
+<li>Experience with multiple software stacks, have opinions and preferences, and not be married to a specific stack.</li>
+</ul>
+Even Better If...
+<br><ul>
+<li>You have experience designing and operating software in a Cloud Provider such as AWS, Azure, or GCP.</li>
+<li>You have prior experience with some amount of cloud-based data storage technologies such as Relational Databases, NoSql Stores, data caches, etc.</li>
+<li>You have used Feature or Release Toggles as a code branching strategy.</li>
+<li>You have an understanding of how to select and extend 3rd party components (commercial or open-source) that provide operational leverage, but do not constrain our product and engineering creativity.</li>
+<li>You have prior experience with Continuous Integration and Continuous Deployment with an emphasis on a well-maintained testing pyramid.</li>
+<li>You have experience designing, modifying, and operating multi-tenant systems.</li>
+</ul>
+<b>DISCO's Technology Stack:</b><br>
+<b>Cloud Provider - AWS :</b> EC2, Lambda, Aurora MySQL, Redshift, DynamoDB, ECS, SQS, SNS, Kinesis, S3, CloudFront, CloudFormation, SageMaker, KMS, CodePipeline, etc.
+<br><b>DSL-based Search :</b> multiple large scale Elasticsearch Clusters searched using our Disco Query Language (DQL)
+<br><b>Event Bus :</b> Kafka and Schema Registry
+<br><b>3rd Party Vendors :</b> Redis, Auth0 for Cloud Identity Federation (SSO, SAML, etc).
+<br><b>AI :</b> MinHash, Word2Vec, Convolution Neural Nets, Algorithmia (Lambda with GPUs) for training, PyTorch, Recurrent Neural Networks, Latent Dirichlet Allocation for Topic Modeling, etc
+<br><b>CI/CD :</b> Terraform, Docker (via ECS), Jenkins, CodePipeline, GitHub, Artifactory, Consul for: App Config, Service Discovery, Shared Secrets.
+<br><b>Visibility :</b> ELK Stack for logging, Data Dog, New Relic, Sentry.io
+<br><b>Programming Languages :</b> Python / Flask, JavaScript, C#/.NET, Java.
+<br><b>Transport Mechanisms :</b> Protobuf, Avro, HTTP Rest/JSON
+<br><br>
+What You'll Get
+<br><br>
+<ul>
+<li>Competitive salary</li>
+<li>Opportunity to be a part of a start-up culture — fastest growing company in its space</li>
+<li>Career advancement opportunities</li>
+<li>Company volunteer/fundraising activities</li>
+<li>Flexible &amp; open PTO</li>
+<li>Onsite gym &amp; showers</li>
+<li>Free catered lunches as well as free snacks and beverages</li>
+<li>Onsite car wash</li>
+<li>Medical, dental, and vision insurance</li>
+<li>Flexible spending accounts</li>
+<li>Life insurance and disability benefits</li>
+<li>401k</li>
+</ul>
+About DISCO
+<br><br>
+DISCO is a recognized leader in legal technology — and we’re just getting started.
+<br><br>
+Founded in 2012, DISCO’s mission is to create great technology to modernize the practice of law. Our solutions apply artificial intelligence and cloud computing to help lawyers and legal teams improve legal outcomes for their clients. Corporate legal departments, law firms, and government agencies around the world use DISCO as their ediscovery solution for compliance, disputes, and investigations.
+<br><br>
+Annual company revenues have more than doubled every year since our founding. We have raised more than $135 million in venture capital, more than any other enterprise legaltech company. We are using this investment to accelerate growth in the $12.5 billion ediscovery market — and to expand our platform beyond ediscovery, applying our unique combination of world-class engineering and deep legal expertise to build products that will transform other areas of legal practice. We opened our London office in 2018 and have plans to further expand our presence outside the United States.
+<br><br>
+Are you ready to revolutionize the practice of law? Join us!
+<br><br>
+U.S. Equal Employment Opportunity/Affirmative Action Information
+<br><br>
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</div>

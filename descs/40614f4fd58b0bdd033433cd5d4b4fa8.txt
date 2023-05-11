@@ -1,0 +1,84 @@
+<h2>Business Systems Analyst - Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p>The Business Systems Analyst Manager is the key liaison between high profile clients and the Merkle Technology Teams. This is an extremely visible position, as the Business Systems Analyst Senior Manager elicits and drives requirements at multiple levels of detail for Merkle clients. The Business Systems Analyst Senior Manager should have a strong attention to detail and is entrusted with accurately documenting requirements and acceptance criteria for a project. Solutions are primarily centered on creating a CRM database / data warehouse, with daily data updates in a Merkle hosted environment.</p>
+<p>
+Key Responsibilities</p>
+<ul>
+<li>
+Interface with the client, third-party vendors, and multi-disciplinary teams within Merkle (Data Warehouse Developers, Project Managers, Quality Assurance, Business Intelligence, and Information Technology) to support the solution delivery process.</li>
+<li>
+Lead solution discovery sessions with the client stakeholders and subject matter experts as a means to illicit solution requirements, both business and functional</li>
+<li>
+Synthesize complex and sometimes contradictory information into concise, readable, unambiguous written requirements at multiple levels of detail</li>
+<li>
+Take primary ownership for written requirements specifications (Business and Functional), from initial creation, through change management and solution delivery</li>
+<li>
+Profile and understand various client data (e.g. Customer records, Transaction records, Web Activity records) as it relates to stated requirements and solution design</li>
+<li>
+Provide input to Project Management regarding schedule, scope, and cost tradeoffs</li>
+<li>
+Serve as the functional point of contact for the solution during Design and Development, working through data and design questions/issues as they arise</li>
+<li>
+Work closely with the QA discipline to define and execute a test plan, which will include internal and User Acceptance Testing</li>
+<li>
+Lead the delivery of the system into production by designing and supporting the formal client acceptance process, according to Merkle’s defined standards</li>
+<li>
+Maintain the solution in production, working with end users, and facilitating change requests with the broader team using a defined change management process</li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+<p>Qualified individuals possess the attributes of being smart, curious, committed to vision, passionate, fun/pleasant, an achiever and having a sense of urgency.</p>
+<ul>
+<li>
+Bachelors Degree. Technology, science, and math backgrounds preferred but not required.</li>
+<li>
+7+ years experience with writing detailed requirement specifications for data warehouse and/or database delivery</li>
+<li>
+7+ years experience working with IT methodologies [e.g. Systems Development Life Cycle (SDLC) and/or Waterfall]</li>
+<li>
+Ability to lead and coordinate people and activities (especially amongst other BSAs) throughout a full solution lifecycle</li>
+<li>
+Fundamental understanding of relational database design concepts [e.g. table design, table relationships (e.g. one-to-one, one-to-many), primary and foreign key designations, etc.]</li>
+<li>
+Competency in writing and interpreting basic to intermediate SQL queries</li>
+<li>
+Industry/Vertical expertise (e.g. Retail, Insurance, Pharmaceutical, Business-to-Business, Financial Services, etc.)</li>
+<li>
+Experience with test planning and use cases</li>
+<li>
+Client management, expectation setting, and communication as it relates to the BSA function</li>
+<li>
+Ability to arrive at creative solutions that are not readily apparent and to turn unclear facts into logical patterns and concepts</li>
+<li>
+Ability to mentor and/or manage less senior BSA resources within the capability</li>
+<li>
+Experience with test planning and use cases</li>
+<li>
+Experience working cross-functionally and expert ability to execute initiatives primarily through influencing other stakeholders.</li>
+<li>
+Applied understanding of Data Driven Marketing, especially: Database Marketing, Direct Marketing, Email Marketing, Interactive Marketing, Digital Marketing.</li>
+<li>
+Fundamental understanding of digital concepts [e.g.DMP, Tag Management, Ad Servers, etc.]</li>
+<li>
+Strong understanding of relational database design concepts [e.g. table design, table relationships (e.g. one-to-one, one-to-many), primary and foreign key designations, etc.].</li>
+<li>
+Knowledge of Customer Data Integration – both known and anonymous customers – processes and best practices.</li>
+<li>
+Experience in client relationship management, expectation setting, presentations, and communications.</li>
+<li>
+Applied knowledge of how key Database Marketing tools integrate such as Campaign Management Tools and Business Intelligence Tools, and Digital Tools.</li>
+<li>
+Experience working cross-functionally and with remote team members.</li>
+<li>
+Travel up to 25%</li>
+</ul>
+<br>
+Additional Information<br>
+<br>
+<p>Merkle<b> </b>fosters adiverse environment that encourages original thinking about our business andempowers us to communicate with a global world of customers. We embracedifferences of opinion and diversity of thought as they help us challenge andrefine our solutions. Merkle, as a best-in-class marketing agency, welcomes bigideas, and believes they can come from anywhere.</p>
+</div>
+</div>

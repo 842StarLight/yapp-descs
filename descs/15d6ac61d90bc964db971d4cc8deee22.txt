@@ -1,0 +1,15 @@
+<h2>Rental Agent</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>YOUNG ENERGETIC REAL ESTATE BROKERAGE COMPANY WITH ROOM TO GROW IS LOOKING FOR A RENTAL AGENT.</p>
+<p>WE HAVE A LARGE AMOUNT OF INVENTORY WAITING TO BE RENTED.</p>
+<p>THERE IS NO DESK FEES!!</p>
+<p>WE PAY FOR ADVERTISING COSTS!!</p>
+<p>REAL ESTATE SALESPERSON LICENSE REQUIRED.</p>
+<p>Job Type: Commission</p>
+<p>Experience:</p>
+<ul>
+<li>relevant: 1 year (Preferred)</li>
+<li>Sales: 1 year (Preferred)</li>
+<li>Customer Service: 1 year (Preferred)</li>
+</ul>
+</div>

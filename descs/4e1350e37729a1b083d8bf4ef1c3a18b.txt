@@ -1,0 +1,66 @@
+<h2>EDI Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Logistics Specialist/ EDI</b></p>
+<p><b>New York, NY</b></p>
+<p><b>ABOUT US: </b></p>
+<p><b>Company History</b></p>
+<p>From its origins in New York in 2002, rag &amp; boneinstantaneously distinguished itself by combining their British heritage withdirectional, modern design. Today, Marcus Wainwright and David Neville's brandhas become synonymous with innately wearable clothing that innovatively meldsclassic tailoring with an edgy yet understated New York aesthetic.</p>
+<p>Inspired by a desire to create beautifully constructed clothes,with no formal fashion training, the expats immersed themselves in thetime-honored techniques of supremely skilled, local manufacturers at some ofthe oldest factories in the country. The importance of quality, expertcraftsmanship and attention to detail resonated deeply, informing rag &amp;bone's core philosophy.</p>
+<p><b>Company Culture</b></p>
+<p>Our people define our culture—the company was foundedthrough an entrepreneurial approach and this spirit runs through all that wedo. When faced with challenges we work closely to ensure we have common goalsand can move forward in unison, with no job too big or small.</p>
+<p>We love what we do and our passion is evident, throughthe product we create, the people we work with, through to the way in which wefunction—always as one team</p>
+<p><b>SUMMARY</b></p>
+<p>Responsibleto uphold company compliance with vendor requirements by managing EDI, customerprofiles, and the item catalogue. Responsible for monitoring, maintaining, and ensuring availabilityof enterprise applications.Ideal candidate will provide excellent customer service and will work closelywith Sales, production, IT, Finance, and the 3PLs. This position works as aliaison between internal departments as well as customers and contribute to process development and bestpractice. Look at new ways to improve performance levels and supportabilityrelated to data integrity and data mining.</p>
+<p><b>EDI Management</b></p>
+<p>· Monitorsand provides daily support of EDI reports and EDI data transaction such as;</p>
+<p>o 810-Invoice</p>
+<p>o 850-Purchase order</p>
+<p>o 856-ASN advance shipment notice</p>
+<p>o 943-Warehouse stock transfer shipment advise</p>
+<p>o 944-Warehouse stock transfer receipt advise</p>
+<p>o 945-Warehouse shipping advise</p>
+<p>o 997-Functional acknowledgment</p>
+<p>· Resolveerrors in-both Vantage Point and 365.</p>
+<p>· Reportany style number and price discrepancies to Sales and Accounts.</p>
+<p>· Workwith 3PLs to confirm transmission.</p>
+<p>· Tests,debugs, implements, and documents programs. Assists in the modification ofcustomer/internal systems to meet the needs of the client and/or end-user</p>
+<p>· Leadsthe Drop ship program and future implementation.</p>
+<p><b>Vendor Compliance</b></p>
+<p>· Obtainand file new and updated vendor guides for all major accounts.</p>
+<p>· Maintaincustomer profiles in D365 and communicate updates to 3PLs.</p>
+<p>· Assist in Vendoron-boarding and training and provide vendors support on operational inquiries</p>
+<p>· Serves as aresource and assists with escalated issues and tasks, as needed, coordinatingwith other resolver groups, following up with client, and any other action thatis required until the issue is resolved</p>
+<p><b>Chargeback Reconciliation</b></p>
+<p>· Workwith Finance to document and report chargebacks by account, 3PL, and division.</p>
+<p>· Workwith Sales, Customer Service, Logistics, and Customers to recognize and reducemis-shipments.</p>
+<p><b>Item Catalogue Maintenance</b></p>
+<p>· Maintainthe item catalogue in both GSX and Intertrade.</p>
+<p>· Updateby season and remove dropped styles as needed.</p>
+<p>· Sendupdated Item Catalogue to all 3PLs.</p>
+<p><b>Preferred Qualifications: </b></p>
+<ul>
+<li>Application testing experience</li>
+<li>Experience using current enterprise applications (D365, Inovis, Vantage Point, FTP server)</li>
+</ul>
+<p>· Effectively listening</p>
+<p>· Quickly identifying and owning customer issues</p>
+<p>· Actively search for solutions to problems</p>
+<p>· Making quality decisions</p>
+<p>· Interacting with a globally diverse group ofcustomers and colleagues</p>
+<p>· Minimum 3 years</p>
+<p>· Excellent verbaland written communication skills; ability to present clean, organized andthorough information and data appropriate for intended audience</p>
+<p>Job Type: Full-time</p>
+<p>Salary: $70,000.00 to $80,000.00 /year</p>
+<p>Experience:</p>
+<ul><li>relevant: 5 years (Required)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+</ul>
+<p>This Company Describes Its Culture as:</p>
+<ul><li>Team-oriented -- cooperative and collaborative</li></ul>
+</div>

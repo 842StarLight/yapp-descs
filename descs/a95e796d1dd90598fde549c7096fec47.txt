@@ -1,0 +1,64 @@
+<h2>Senior UI Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div>
+<div><b>Why work at PeraHealth?</b></div>
+<div></div>
+<div>Our mission is to save lives. PeraHealth is a software company that uses the Rothman Index to transform the clinical and financial efficiency of healthcare. The Rothman Index is the only proven algorithm that derives one simple score from the vast amount of data in the electronic medical record to create a picture of any patient’s condition over time – any age, any disease, any unit. Our employees wake up every day knowing what they do matters. Regardless of your craft or level, every person counts, has a voice, and impacts the value of our organization.</div>
+<div></div>
+<div><b>Who are we looking for?</b></div>
+<div></div>
+<div>You are a person that never stops learning and enjoys picking up new technologies and applying them at a high level. You thrive in an environment with autonomy, where collaboration is encouraged. You have a natural inclination to share your knowledge with others and mentor less experienced developers. You prefer to be challenged, and the idea of becoming a high-impact member of a smaller software development team appeals to you. If this sounds like you, then this is your opportunity to build your career with a fast growing software company!</div>
+<div></div>
+<div>As the Senior UI Software Developer, you are responsible for leading the design, development, implementation and maintenance of PeraHealth’s life saving products. You will be accountable for the completion of projects according to committed timelines and mentoring other developers within the scope of the project’s delivery. You have a concrete understanding of the methodology, design, specifications, programming, delivery, monitoring and support standards across products and communicate them as appropriate. You will work collaboratively and effectively within and across teams, primarily with Product Management, Development, Analytics, Sales and Account Management. You will have the opportunity to mentor members of the development team regarding your area of expertise, and to become a subject-matter expert.</div>
+<div></div>
+<div>You will have a large influence on the direction of the UI-products and lifecycle. Initial projects include migrating our current UI products from AngularJS to Angular, in addition to new product development. Future opportunities include working with the backend as well as with mobile technologies. This is a smaller development team, so you can be a high-impact member and add value from your very first day!</div>
+<div></div>
+<div>This position is located in our headquarters in Charlotte, NC. You will have the flexibility to work remote as needed. This is your opportunity to build your career with a fast growing software company!</div>
+<div></div>
+<div><b>What will you do?</b></div>
+<ul>
+<li>Lead the design and implementation of new innovative product development, including velocity estimation, sprint planning, documentation, and support</li>
+<li>Accountable for the delivery of complex development projects, with appropriate test coverage, in accordance with the committed timelines</li>
+<li>Share expertise with the development team and provide mentorship to software developers and associate software developers</li>
+<li>Identify, prioritize, and execute tasks in the software development life cycle</li>
+<li>Maintain existing life-saving products</li>
+<li>Write well-designed, testable, efficient code</li>
+<li>Ensure that adequate testing coverage is maintained</li>
+<li>Automate tasks through appropriate tools and screening</li>
+<li>Participate in sprint planning, task estimation, design discussions, and stand-ups</li>
+<li>Support and troubleshoot issues</li>
+<li>Participate in creating and updating technical documentation</li>
+<li>Ensure compliance with industry regulations, quality systems, and security requirements</li>
+<li>Work effectively as part of the development team and with other PeraHealth teams</li>
+</ul>
+<div><b>Your qualifications include:</b></div>
+<ul>
+<li>Minimum of bachelor’s degree in Computer Science or Engineering</li>
+<li>4+ years working as a Software Engineer (preferably in an Agile environment)</li>
+<li>Experience taking a new UI product from the requirement stage through to product delivery</li>
+<li>Desire to learn and work with new technologies</li>
+<li>Experience developing mobile applications is a plus</li>
+</ul>
+<div><b>You have experience with the following technologies:</b></div>
+<ul>
+<li>Angular (required)</li>
+<li>Ionic</li>
+<li>JavaScript/Bootstrap 4/HTML/CSS (required)</li>
+<li>Java</li>
+<li>Spring (JPA, JDBC, MVC)</li>
+<li>AngularJS</li>
+<li>SQL</li>
+</ul>
+<div><b>You are:</b></div>
+<ul>
+<li>An excellent written and verbal communicator to both technical and non-technical audiences</li>
+<li>Proven asset with team development and mentorship</li>
+<li>Willing to speak up and escalate issues as appropriate, even when difficult</li>
+<li>Knowledgeable in Agile best practices, sprint planning, and velocity estimation</li>
+<li>Accountable for commitments</li>
+<li>Resourceful and independent</li>
+<li>Able to learn and apply technologies at an enterprise level</li>
+<li>A continuous learner – exhibits a willingness to stay current on upcoming technologies, programming methodologies, and make recommendations as appropriate</li>
+<li>Capable of taking a product from the design stage through to delivery</li>
+<li>Aptitude for appropriately clarifying requirements and identifying the simplest solution</li>
+</ul>
+</div></div></div>

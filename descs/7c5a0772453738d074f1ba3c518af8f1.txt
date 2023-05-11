@@ -1,0 +1,66 @@
+<h2>Sales Engineer – Federal (Top Secret Clearance)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Semantic AI is seeking highly motivated personnel with entrepreneurial drive to build its growing Government business. The successful candidate will play a central role in our company's market expansion contributing to business development and management of its next generation intelligence analysis software platform.<br>
+<br>
+The candidate selected for this role will work in a Sales Engineering capacity with Revenue Division leadership to develop and manage business opportunities for selling enterprise-class intelligence software throughout the Federal Government.<br>
+<br>
+Extensive ( up to 25%+) travel is anticipated for this position.<br>
+<br>
+The successful candidate will be expected to be geographically flexible to efficiently cover requirements of the come-to-market opportunities.<br>
+<br>
+ <b>Responsibilities:</b>
+<ul>
+<li>Work with the business development team to support management-directed revenue and profit plan via achievement of sales goals based on software license and professional services revenue targets.</li>
+<li>Will provide sales engineering services and technical solutions consulting working with our business development team and select partners.</li>
+<li>Create functional use case demonstration for prospective clients tailored for specific opportunities.</li>
+<li>Utilize the Semantic AI software platform to build/modify data source connector, build application workflows and standard reports.</li>
+<li>Conceptualize, understand, document and effectively communicate client’s mission, analytical process and technical requirements.</li>
+<li>Provide well-written inputs to the development of quotations, proposals, contract and statements of work and RFI/RFQ/RFP responses.</li>
+</ul>
+<b>Minimum Qualifications:</b>
+<ul>
+<li>Bachelor’s degree in any business-related or technology related field</li>
+<li>Five (5) + years of technology-based sales engineering and solution deployment experience in federal markets</li>
+<li>Five (5) + years of sales engineering experience for enterprise software solutions in federal markets desired.</li>
+<li>Must have a high level of technical expertise, initiative, flexibility, attention to detail, focus on deadlines, and strong overall organizational skills</li>
+<li>Must have experience and comfortable presenting to large groups of potential clients.</li>
+<li>Must be able to effectively meet competing deadlines.</li>
+<li>Must have an understanding of graph-based business intelligence products, data models and analytics.</li>
+<li>Demonstrated ability to read a room, pivot on the fly in business meeting settings and establish strong customer rapport.</li>
+<li>Must have strong government sector experience providing successful sales engineering solutions to the Departments of Defense, State, Justice and Homeland Security, as well as the Intelligence Community and Federal Law Enforcement.</li>
+<li>Must be able to show success in supporting the sales cycle of enterprise level software to the federal market.</li>
+<li><b><i>Must have a minimum Secret security clearance; Top Secret clearance with eligibility for access to SCI (desired)</i></b></li>
+</ul>
+<b>Preferred Qualifications:</b>
+<ul>
+<li>Master’s degree in Computer Science, Analytics, Artificial Intelligence or related field</li>
+<li>Experience with HTML5, CSS3, Java, and Angular</li>
+<li>UNIX/Linux system familiarity (Server-side)</li>
+<li>Proficient in using standard Source Code Management (SCM) and build tools such as Git</li>
+<li>Ability to develop new software capabilities based on direct customer feedback</li>
+<li>Ability to perform light data engineering, including data mapping and structured file parsing</li>
+<li>Knowledge of Extensible Markup Language (XML)</li>
+<li>Knowledge of Java Serialized Object Notation (JSON)</li>
+<li>Knowledge of one or more other scripting languages, including: Java Script, Shell Script, Python, XSLT, Bash, etc.</li>
+<li>Experience with Structured Query Language (SQL) and a range of Java Database Connectivity (JDBC) databases</li>
+<li>Experience with parsing and integrating SOAP or RESTful web services?</li>
+<li>Experience with using Java based Application Programming Interfaces (APIs)</li>
+<li>Resource Description Framework (RDF) or Web Ontology Language (OWL)</li>
+<li>Experience with search technologies, such as Lucene, SOLR, or Elasticsearch</li>
+<li>Experience with large scale Extract, Transform, Load (ETL), data mining and analysis</li>
+<li>Interest in semantic networks, graph theory, social network analysis, otologies, Natural Language Processing (NLP), and machine learning</li>
+<li>Understanding and/or experience with AWS and Azure Cloud</li>
+<li>Excellent verbal and written communication and presentation skills</li>
+<li>with solid critical thinking skills and analytical abilities</li>
+<li>Demonstrated ability to multi-task and</li>
+<li>Favorably adjudicated DHS Background Investigation a plus</li>
+<li>Department of Defense, Federal Law Enforcement or Intelligence Community experience</li>
+<li>Excellent communication and collaboration skills - Ability to interact with customers, partners, colleagues, management and others professionally, in writing, in person and virtually, if necessary</li>
+<li>Top Secret clearance with eligibility for access to obtain and maintain a SCI clearance.</li>
+</ul>
+</div>
+<br><p><i>Semantic AI is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.</i>
+<br>
+<br>
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access our career center as a result of your disability. To request an accommodation, contact the Human Resources Department at rkidd@semanticresearch.com.</p>
+</div>

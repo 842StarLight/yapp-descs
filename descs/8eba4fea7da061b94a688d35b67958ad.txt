@@ -1,0 +1,58 @@
+<h2>Senior Software Engineer- Backend</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</div>
+<div>
+<br>
+</div>
+<div>
+We're excited to share that financial services startup, Affirm is setting up shop in Chicago's River North neighborhood! This office will provide us with a much needed midwest outpost for our Sales, Marketing, Engineering, and Product teams. Join us on our mission to build honest and transparent financial products that improve lives.
+</div>
+<div></div>
+<br>
+<div>Move money at Affirm!</div>
+<div>
+<br>
+</div>
+<div>
+We are looking for Software Engineers for our Payments team, which provides core money movement capabilities at Affirm. This is the team that talks about NACHA, bps, Durbin, rails, and routing. We are experiencing explosive growth in our core lending product and we’re expanding our product portfolio; you will help us drive that growth.</div>
+<div>
+<br>
+</div>
+<div>
+We are only just getting started! Come join us as we build a beloved, lasting financial services brand predicated on honesty and trust. It’s going to be an amazing ride!</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>What You'll Be Responsible For</b></h3>
+<div><ul>
+<li>
+Contribute to technical projects from specification and planning to implementation with multiple engineers, testing and deployment into production</li>
+<li>
+Affecting Affirm’s bottom line meaningfully by building a reliable, low-cost payment processing platform to move billions of dollars for millions of consumers</li>
+<li>
+Enabling new products at Affirm by providing core money movement capabilities for the company</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>What We Look For</b></h3>
+<div><ul>
+<li>
+Drive to change consumer financial services for the better</li>
+<li>
+Experience architecting, building, launching and maintaining complex systems</li>
+<li>
+Prior experience with payment processor and gift card integrations (Chase Paymentech, First Data) are a plus</li>
+<li>
+Fluency in back end development</li>
+<li>
+Strong cross-team communication and collaboration skills</li>
+</ul></div>
+</div></div>
+<div>
+<div>If you got to this point, we hope you're feeling excited about the job description you just read. Even if you don't feel that you meet every single requirement, we still encourage you to apply. We're eager to meet people that believe in Affirm's mission and can contribute to our team in a variety of ways – not just candidates who check all the boxes.
+</div>
+<div></div>
+<br>
+<div>At Affirm, "People Come First" is a core value and that’s why diversity and inclusion are vital to our priorities as an equal opportunity employer. You can learn more about our D&amp;I efforts here.</div>
+</div>
+</div></div>

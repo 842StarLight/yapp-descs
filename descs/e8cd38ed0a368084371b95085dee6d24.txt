@@ -1,0 +1,116 @@
+<h2>Product Marketing Manager - Data Platform</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>New Relic</b><br>
+<b>Product Marketing Manager, Data Platform</b><br>
+<b>Portland, Oregon</b><br>
+<b>San Francisco, California</b></p>
+<br>
+<b>
+This position sits in our beautiful Portland, OR office or San Francisco, CA.</b><br>
+<p><br>
+<b>Your Opportunity</b></p>
+<p>
+Calling all product marketers with strong technical backgrounds and a real passion for SaaS technology! We are looking for a Product Marketing Manager to support the New Relic data platform.</p>
+<p>
+Our data platform is one of the major core differentiators of the New Relic platform. It lives alongside our analytics UI, Insights, to give DevOps users and their counterparts transparency into the performance and behavior of their applications and infrastructure. It collects more than two billion data points as well as query tens of trillions per minute.</p>
+<p>
+With our data platform’s scale and breadth growing every year, we need an experienced Product Marketing Manager who can help us clearly communicate the benefits of the data platform in a compelling way to our customer base and prospects.</p>
+<p><b>
+This position sits in our beautiful Portland, OR office or San Francisco, CA.</b></p>
+<br>
+<p><b>
+What You’ll Do</b></p>
+<ul>
+<li>
+Develop product positioning and messaging that resonates with our core audience: developers, IT Operations, and application owners, as well as economic buyers and decision makers including CIOs and CTOs</li>
+<li>
+Drive go-to-market strategy for your product, and partner with the launch management team to plan and execute launches</li>
+<li>
+Talk about the benefits of the New Relic data platform, specifically for DevOps use cases, to our customers, the field, partners, and prospects</li>
+<li>
+Dive deep on metrics, events, logs, and traces—the core telemetry types of observability platforms—with our customers, field, and product teams</li>
+<li>
+Translate complex technical topics into simple marketing concepts for diverse technical and non-technical audiences, turning deep and raw technical information into clear, easy to consume, high impact content</li>
+<li>
+Enable sales teams by developing collateral and training materials that bring the product positioning to life with compelling narratives that are grounded in customer stories</li>
+<li>
+Partner with marketing to craft engaging content such as datasheets, eBooks, whitepapers, presentations, and webinars</li>
+<li>
+Perform market research and analysis, and develop strategies that bolster New Relic’s position in the market</li>
+<li>
+Increase product usage and adoption among your key user bases, in close partnership with our product and technical evangelists, sales, and customer success</li>
+<li>
+Collaborate with product management, engineering, and design to harness customer insights that help define the product roadmap</li>
+<li>
+Communicate a compelling vision for your product and the overall portfolio through internal and external events</li>
+</ul>
+<p><br>
+<b>
+Your Qualifications</b></p>
+<p>
+Must-have:</p>
+<ul>
+<li>
+3-5 years of relevant experience in marketing, building, or writing about highly technical products</li>
+<li>
+Bachelor’s degree in marketing or a technical discipline (e.g. Computer Science)</li>
+<li>
+Expertise in crafting differentiated, provocative and compelling marketing content for developers</li>
+<li>
+Marketing experience with SaaS products, especially in enterprise software for developers</li>
+<li>
+Experience talking with developers and operations users, and a deep understanding of what makes them tick</li>
+<li>
+Excellent written and verbal communication skills</li>
+</ul>
+<p>
+Nice-to-have:</p>
+<ul>
+<li>
+MBA or advanced technical education or certifications preferred</li>
+<li>
+Familiarity with O11y (and be mostly correct / on point about it)</li>
+<li>
+Deep understanding of the telemetry database / big data landscape</li>
+<li>
+Hands-on experience with the Java programming language, or another object-oriented language</li>
+<li>
+Development experience in SaaS software</li>
+<li>
+Solid understanding of what DevOps users demand of their open-source, homegrown, or SaaS time series databases, particularly as it pertains to monitoring and observability</li>
+</ul>
+<br>
+<p>
+Please note that visa sponsorship is not available for this position.</p>
+<br>
+<p><b>
+Our Office</b></p>
+<p>
+Our office is in the center of downtown Portland, situated in a thriving tech community in the Pacific Northwest. We enjoy easy commute access and a plethora of good eats and great coffee. We provide competitive compensation including equity and big-company benefits (medical, dental, etc.)—all while maintaining the energy, agility and fun of a start-up.</p>
+<br>
+<p><b>
+About Us</b></p>
+<p>
+New Relic (NYSE: NEWR) is the industry’s largest and most comprehensive cloud-based instrumentation platform built to create more perfect software. The world’s best software and DevOps teams rely on New Relic to move faster, make better decisions and create best-in-class digital experiences. If you run software, you need to run New Relic. We’re proudly trusted by more than 50% of the Fortune 100.</p>
+<p>
+Founded in 2008, we’re a global company focused on building a culture where all employees feel a deep sense of belonging, where every ‘Relic’ can bring their whole self to work and feel supported and empowered to thrive. We’re consistently recognized as a distinguished employer and are committed to building world-class products and an award winning culture. For more information, visit newrelic.com.<br>
+</p>
+<p><b>
+Our Hiring Process</b></p>
+<p>
+In compliance with applicable law, all persons hired will be required to verify identity and eligibility to work and to complete employment eligibility verification.</p>
+<p>
+We will consider qualified applicants with arrest and conviction records based on individual circumstances and in accordance with applicable law including, but not limited to, the San Francisco Fair Chance Ordinance.</p>
+<p>
+Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. New Relic does not accept unsolicited headhunter and agency resumes, and will not pay fees to any third-party agency or company that does not have a signed agreement with New Relic.</p>
+<div><i>
+New Relic is an equal opportunity employer. We eagerly seek applicants of diverse background and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities (or disability), age, sexual orientation, veteran status, or any other characteristic protected by law.</i></div>
+<div>
+<i>
+Interested in the details of our privacy policy? Read more here: </i><i>https://newrelic.com/termsandconditions/applicant-privacy-policy</i>
+</div>
+<br>
+#LI-NS1</div>
+<p></p>
+</div>

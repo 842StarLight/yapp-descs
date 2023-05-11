@@ -1,0 +1,80 @@
+<h2>Product Designer I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Duties</b></p>
+<ul>
+<li>
+Analyzing tax forms and tax rates to map customer data to a tax form.</li>
+<li>
+Assisting the design team with research necessary for defining tax form requirements.</li>
+<li>
+Reviewing tax data collected and providing other teams a solution for reporting on forms.</li>
+<li>
+Understanding the technical implementation of the tax forms, including the architecture and data model.</li>
+<li>
+Working with Quality Assurance to help in understanding requirements and needed test cases for enhancements and updates.</li>
+<li>
+Investigating tax form issues reported by clients / technical support and proposing solutions and/or enhancements to improve the application.</li>
+<li>
+Interacting with the team to understand processes and capture business requirements.</li>
+<li>
+Supporting the tax product design team in achieving their goals and objectives.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Qualifications</b></p>
+<ul>
+<li>
+Excellent analytical skills.</li>
+<li>
+Technical aptitude and ability to solve entry level programming problems.</li>
+<li>
+Attention to detail.</li>
+<li>
+Excellent communication and interpersonal skills.</li>
+<li>
+Knowledge of Software Development Life Cycle.</li>
+<li>
+Eagerness to contribute in a team-oriented environment.</li>
+<li>
+Ability to work creatively and analytically in a problem-solving environment.</li>
+<li>
+Ability to take initiative and own a problem or concept and drive to a solution.</li>
+<li>
+Basic knowledge of database management systems – SQL Server.</li>
+<li>
+Ability to effectively communicate with other staff members across all teams and with external clients.</li>
+</ul>
+<p><b>
+Travel</b></p>
+<ul><li>
+This position is not expected to include travel requirements. Less than 5% travel expected.</li></ul>
+<p><b>
+Minimum Qualifications
+</b></p>
+<ul>
+<li>Undergraduate degree from accredited, 2 or 4-year institution.</li>
+<li>
+Experience: 2-7 years</li>
+</ul>
+<p><b>
+Preferred Qualification</b></p>
+<ul>
+<li>
+Experience analyzing Excise and/or Sales &amp; Use tax returns</li>
+<li>
+Experience in filing Excise and/or sales &amp; Use tax returns</li>
+<li>
+Industry or government experience in Excise or Sales &amp; Use</li>
+<li>
+Experience as a business analyst</li>
+<li>
+Technical aptitude and ability to solve entry level programming problems</li>
+<li>
+Experience with basic computer programming constructs and data types<ul><li>
+if-then-else, string, number, etc</li></ul>
+</li>
+<li>
+Experience using Adobe Acrobat Professional to create and manipulate PDF files</li>
+</ul>
+</div></div>

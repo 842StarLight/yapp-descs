@@ -1,0 +1,116 @@
+<h2>Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>The Business Applications Group is a rapidly growing organization that is responsible for the Microsoft Dynamics 365 suite of products, Microsoft Flow, PowerApps, Azure App Service and Power BI in addition to other products and services within its portfolio.</div>
+<div></div>
+<br>
+<div>
+We are looking for an Enterprise CRM Technical Developer who has a mix of hands on experience on Customer Relationship Management Software (Microsoft Dynamics 365/CRM, Siebel, SFDC, Pivotal and SAP CRM), Customer Care Accelerator and supporting Microsoft<br>
+technologies.</div>
+<div></div>
+<br>
+<div>
+The ideal candidate will be an experienced Microsoft Dynamics 365/CRM Developer with a masterful expertise in .Net, SQL. The candidate will complete application customization using Dynamics 365 development tools, troubleshoot intricate technical problems and application performance bottlenecks. The role requires the ability to work directly with Microsoft Customers, Business Partners, and<br>
+Product teams to create Dynamics 365 solutions that meet/exceed customer needs across the globe.</div>
+<div></div>
+<br>
+<div>
+Strong technical and problem-solving skills combined with demonstrated result-driven approach in all development related endeavors is a requirement. This position will be involved in some of the largest, most complex, and most strategic projects for enterprise customers.</div>
+<div></div>
+<br>
+<div>
+The ideal candidate will have a passion for the customer delight which is demonstrated through professionalism. The role requires an individual, who can thrive in ambiguity, self-motivated, is resourceful, confident under pressure, and has demonstrated skill expectation management.</div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<p><b>
+Required Skills</b></p>
+<div></div>
+<br>
+<ul>
+<li>
+.Net Framework (WCF, Web API, MVC, ASP.Net)</li>
+<li>
+Object Oriented Programming and Design</li>
+<li>
+Design Patterns and UML</li>
+<li>
+SQL Programmingknowledge</li>
+<li>
+SSRS Reporting/ Fetch reporting.</li>
+<li>
+Team Foundation Serveror equivalent source control system</li>
+</ul>
+<div>
+<b>
+Optional Skills</b><br>
+<b>(Preferred)</b>
+</div>
+<div></div>
+<br>
+<ul>
+<li>
+CRM 2011/2015/2016/Dynamics 365 or equivalent CRM Product Experience.</li>
+<li>
+Proficient in minimum 2modules (Sales, Service and Marketing)</li>
+<li>
+Good understanding of CRM entity &amp; Object model</li>
+<li>
+Hands on experience in writing CRM Plugins, Custom Workflows, Integration, Client-side custom<br>
+code.</li>
+<li>
+Experience in Designing CRM Data Models to implement complex business requirements.</li>
+<li>
+Extending Dynamics365 using PowerApps, Microsoft Flow, Logic Apps &amp; Azure Functions.</li>
+<li>
+Implement scalable integrations &amp; workflows in the Cloud using Logic Apps.
+</li>
+<li>Integration with Dynamics 365 using Azure Logic Apps &amp; API Apps.</li>
+<li>
+SharePoint</li>
+<li>
+Dynamics 365 Portals/<br>
+ADX Studio Portal
+</li>
+<li>BizTalk or other Middleware technologies used for integrations</li>
+<li>
+Azure or other cloud solutions</li>
+<li>
+Dynamics CRM ISV solutions</li>
+<li>
+SSIS, SSAS and Power BI</li>
+<li>
+Industry vertical knowledge<br>
+– Retail, BFSI, Telecom, etc.
+</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Qualifications</b></h2>
+<p><b>
+Competency/Capability/Experiences </b><b>Skills</b></p>
+<ul>
+<li>
+Technologically proficient</li>
+<li>
+Ability to handle the assignments independently</li>
+<li>
+Uses creative ways tofind solutions</li>
+<li>
+Good verbal &amp;written communication skills</li>
+<li>
+Able to identifyperformance bottlenecks and fix it</li>
+<li>
+Product certifications a plus</li>
+<li>
+Ability to translate customer requirements in to solution design</li>
+<li>
+Possess an understanding of various Delivery methodologies</li>
+<li>
+Experience in end to end implementations</li>
+</ul>
+<div></div>
+<br>
+<div>
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.</div>
+<div></div>
+<br>
+<div>
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.</div>
+</div></div>

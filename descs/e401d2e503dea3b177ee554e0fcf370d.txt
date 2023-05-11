@@ -1,0 +1,66 @@
+<h2>Software Engineer (Full Stack-Java, Angular)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Description:</b></p>
+<p><i>Penske Truck Leasing has an exciting opportunity to join our IT Development team! You will get to work with some of the latest technologies to deliver innovative logistics solutions to our customers. We have opportunities available in Reading, Pennsylvania at our Corporate office or in our new IT Development and Collaboration Center in Tampa, Florida.</i></p>
+<p><b>Position Summary:</b></p>
+<p>The Software Engineer is responsible for designing, developing, and implementing complex software systems within Penske and will be the technical expert on a development team.</p>
+<p><b>Responsibilities:</b></p>
+<ul><li>Use your expertise to help design applications and assist in technology research.</li></ul>
+<ul><li>Assist with the architectural design of the application</li></ul>
+<ul><li>Support the Enterprise Architecture team in formulating standards and best practices for designing and coding applications.</li></ul>
+<ul><li>Will be part of small to medium sized cross functional teams and are will demonstrate a consultative approach in working with process owners and IT teams to understand business requirements and translate them into technical solutions.</li></ul>
+<ul><li>Assist the development team in the creation of technical specifications and development.</li></ul>
+<ul><li>Will be called upon to assist with resolution of system issues.</li></ul>
+<ul><li>Other projects as assigned by the Manager</li></ul>
+<p><b>Qualifications:</b></p>
+<p><b>Qualifications and Requirements:</b></p>
+<p><b>Required:</b></p>
+<ul><li>Senior Java Full Stack Developer with Angular experience</li></ul>
+<ul><li>7 to 9 years of relevant experience and track record of delivering large projects/programs</li></ul>
+<ul><li>7 plus years of experience in – Java Enterprise applications, SQL, Mybatis, Spring frameworks, web services, HTML5, Responsive web designs</li></ul>
+<ul><li>Must be proficient in SQL</li></ul>
+<ul><li>Experience with Design, Development and Implementation complex software systems</li></ul>
+<ul><li>Experience with at least 1-2 mission critical business applications</li></ul>
+<ul><li>Hands on coding capabilities, ability to drive the technology change within department</li></ul>
+<ul><li>Experience in creating technical specifications, participate in code reviews, mentor/train other developers</li></ul>
+<ul><li>Understand application development methodologies</li></ul>
+<ul><li>Guide/Lead the team with technology and architecture perspective</li></ul>
+<ul><li>Ability to evaluate 3rd party products and perform POC’s independently</li></ul>
+<ul><li>Ability to troubleshoot the production/performance related issues and assist the other teams such as web engineers, DBA’s</li></ul>
+<ul><li>Written and oral interpersonal communication skills</li></ul>
+<ul><li>Strong analytical skills and attention to detail required</li></ul>
+<ul><li>Critical thinking &amp; problem solving ability</li></ul>
+<ul><li>Bachelor’s degree is required</li></ul>
+<p><b>Preferred:</b></p>
+<ul><li>Agile/Kanban; Responsive design and adaptive development; REST API development; JIRA, Confluence, BAMBOO, ANT; jQuery; iSeries DB2</li></ul>
+<ul><li>Advanced degree</li></ul>
+<p><b>General Requirements:</b></p>
+<ul><li>Regular, predictable, full attendance is an essential function of the job</li></ul>
+<ul><li>Willingness to travel as necessary, work the required schedule, work at the specific location required, complete Penske employment application, submit to a background investigation (to include past employment, education, and criminal history) and drug screening are required.</li></ul>
+<p><b>Physical Requirements:</b></p>
+<ul>
+<li>The physical and mental demands described here are representative of those that must be met by an associate to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals</li>
+</ul>
+<p>with disabilities to perform the essential functions.</p>
+<ul>
+<li>The associate will be required to: read; communicate verbally and/or in written form; remember and analyze certain information; and remember and understand certain instructions or guidelines.</li>
+<li>While performing the duties of this job, the associate may be required to stand, walk, and sit. The associate is frequently required to use hands to touch, handle, and feel, and to reach with hands and arms. The associate must be</li>
+</ul>
+<p>able to occasionally lift and/or move up to 25lbs/12kg.</p>
+<ul>
+<li>Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception and the ability to adjust focus.</li>
+</ul>
+<p>Penske is an Equal Opportunity Employer.</p>
+<p><b>About Penske Truck Leasing</b></p>
+<p>Penske Truck Leasing Co., L.P., headquartered in Reading, Pennsylvania, is a partnership of Penske Corporation, Penske Automotive Group and Mitsui &amp; Co., Ltd. A leading global transportation services provider, Penske operates a</p>
+<p>premier fleet of vehicles and serves its customers from locations in North America, South America, Europe, Australia, and Asia. Penske’s product lines include full-service truck leasing, contract maintenance, commercial and consumer truck rentals, used truck sales, transportation and warehousing management and supply chain management solutions. Visit www.GoPenske.com to learn more.</p>
+<p><b>Work Locations:</b> 100 Gundy Drive Reading, PA 19607</p>
+<p><b>Primary Location:</b> United States-Pennsylvania-Reading</p>
+<p><b>Zip:</b> 19607</p>
+<p><b>Job:</b> Information Technology</p>
+<p><b>Penske (Oracle) Job Name:</b> Information Technology</p>
+<p><b>Req ID:</b> 1900027</p>
+</div>
+<p></p>
+</div>

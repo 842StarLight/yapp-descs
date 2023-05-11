@@ -1,0 +1,53 @@
+<h2>Senior Consultant - Investment Software Implementation -- Charles River Development</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>We are seeking Senior Consultants to lead the implementation of the Charles River Investment Management Solution (CRIMS). The Senior Consultant is responsible for multiple aspects of the project including defining client requirements, configuring and tuning the application to the client’s business and technical needs, training users, testing workflows and resolving issues before taking the client “live”. The ideal candidate will have at least 5 years of hands-on experience gained in the financial industry working for a consultancy or software vendor. Experience leading the implementation of Front, Middle or Back Office Investment Management systems is highly valued. However, candidates with exceptional implementation consulting skills who have successfully contributed to Capital Markets or other Financial IT projects will definitely be considered.
+</p>
+<div>
+<b>The responsibilities of a Senior Consultant include:
+</b><br>
+<ul>
+<li>Lead or directly contribute to CRIMS implementations. Analyze and evaluate requirements while providing product expertise and guidance throughout the implementation project. Ensure the solutions developed by Charles River meet the customer’s business needs and that the customer is prepared to assume ownership and operate the solution after go-live.
+</li>
+<li>Provide assistance to other members of the Professional Services team and pro-actively develop and share best practices.
+</li>
+<li>Analyze and evaluate customer requirements in order to help Charles River respond to sales opportunities. Prepare and deliver sales presentations. Execute proof-of-concept projects to demonstrate the potential of CRIMS to satisfy the specific needs of potential customers.
+</li>
+<li>Educate customers on the methodologies and functionality provided by CRIMS. Advise on best practices regarding the implementation and operation of Charles River solutions and services.
+</li>
+<li>Monitor and evaluate customer requirements to identify potential enhancements to Charles River solutions and services. Document and communicate product improvements as part of customer-specific implementation projects or in response to trends in the marketplace.
+</li>
+<li>Contribute to software quality by clearly communicating defects to Client Support and Product Management. Support the defect resolution process by providing clear descriptions of defects and validating the resulting fixes. Identify errors and mistakes in documentation and suggest corrections and improvements.
+</li>
+</ul>
+</div>
+<div>
+<b>Qualifications and Skills </b>:
+<br>
+<ul>
+<li>Minimum of 5 years of experience with the implementation of mission-critical financial solutions. Experience in the implementation of a financial system within a bank, hedge fund or asset manager, or wealth management firm is especially valuable.
+</li>
+<li>Hands-on experience implementing investment management software, preferably an order management and compliance system is especially valuable.
+</li>
+<li>Understanding of multi-tier technical architectures and relational database structures. Familiarity with SQL, FIX and Crystal Reports is a plus.
+</li>
+<li>A strong record of customer service. Implementation Managers must understand customer needs and build effective relationships. The candidate must be able to convey plans, issues and concerns to clients and team members in a clear, logical and concise manner. They will need to also be able to influence key decision makers both internally and externally.
+</li>
+<li>Must be customer driven, have the ability to work within a team environment, and be focused on providing a high quality of service to the customer.
+</li>
+<li>Strong time management skills including the ability to manage multiple projects in parallel.
+</li>
+<li>Strong problem solving/analytical skills.
+</li>
+</ul>
+</div>
+<ul><li>Travel: The ability to travel to client sites throughout the United States and Canada. Travel of 30%-50% is typical and but may exceed that in any given year.
+</li></ul>
+<ul><li>Bachelor’s degree from a leading university or college in Business Management, Economics, Finance, Computer Science, Engineering or a related field of study.
+</li></ul>
+<p></p>
+<p>Equal Opportunity Employment Resources
+<br>
+As an Affirmative Action/Equal Opportunity Employer, we consider applications for all positions without regard to race, creed, color, religion, national origin, ancestry, ethnicity, age, disability, genetic information, sex, sexual orientation, gender, gender identity or expression, citizenship, marital status, domestic partnership or civil union status, familial status, military and veteran status, and other characteristics protected by applicable law.
+<br>
+As an equal opportunity employer, State Street Corporation is committed to a diverse workforce and is also committed to a barrier-free employment process. In order to ensure reasonable accommodations for individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veterans’ Readjustment Assistance Act of 1974, and Title I of the Americans with Disabilities Act of 1990, as amended, individuals that require accommodation in the job application process for a posted position may contact us at DisabilityAssistance@statestreet.com or (617) 664-0007 for assistance.</p>
+</div></div>

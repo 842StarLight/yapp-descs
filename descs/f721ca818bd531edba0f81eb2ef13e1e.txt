@@ -1,0 +1,78 @@
+<h2>Salesforce - Senior Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Slalom is a modern consulting firm focused on strategy, technology, and business transformation. We believe in what's possible and shape what's next.</p>
+<p>
+At Slalom, personal connection meets global scale. We build deep relationships with our clients in cities across the U.S., U.K., and Canada, while sharing insights across markets to bring the full breadth of Slalom's expertise to every engagement. Our seven regional Build Centers are hubs for innovation, attracting top talent to rapidly co-create the technology products of tomorrow. We also nurture strong partnerships with over 200 leading technology providers, including Amazon Web Services, Google Cloud, Microsoft, Salesforce, and Tableau.</p>
+<p>
+Founded in 2001 and headquartered in Seattle, Slalom has organically grown to over 6,500 employees. We were named one of Fortune's 100 Best Companies to Work For in 2019 and are regularly recognized by our employees as a best place to work. Learn more at slalom.com.</p>
+<p>
+As a Platinum Salesforce partner, we help our clients transform the way they connect with their customers. Our team is made up of Salesforce-certified experts with experience across the Salesforce Customer Success Platform and multiple industries. As the 3rd largest global Salesforce partner, we are committed to growing and developing our Salesforce talent, offering continued growth opportunities and exposing our people to interesting and diverse projects.</p>
+<p>
+Job Title: Salesforce – Senior Engineer</p>
+<p>
+Who You Are: You are a self-driven individual with a “get it done” attitude and a passion to solve complex business and technology problems. You work in conjunction with the project Architect to build the technical solution for a client need and you are responsible for addressing advanced technical challenges of project work. Depending on the nature of the project, you will be required to configure the solution within the Salesforce platform and/or perform custom development and may be called on to assist with activities like scoping and documentation.</p>
+<p>
+Responsibilities:</p>
+<p>
+Translate business requirements into well-architected solutions that best leverage the Salesforce platform and products</p>
+<p>
+Provide estimates of the level of effort to implement a solution based on business requirements</p>
+<p>
+Lead technical design sessions, designing and documenting technical solutions that are aligned with the client’s business objectives</p>
+<p>
+Provide guidance during evaluation of a business requirement and how it can be met with either point-and-click configuration or code and customization</p>
+<p>
+Lead the technical delivery of Salesforce implementations including</p>
+<p>
+Development of custom solutions and integrations</p>
+<p>
+Managing technical scope and client expectations</p>
+<p>
+Providing hands-on expert level assistance to developers for technical issues</p>
+<p>
+Designing and managing the execution of test plans and ensuring a quality solution is delivered</p>
+<p>
+Demonstrate technical thought leadership</p>
+<p>
+Familiarity with advanced Apex programming concepts including core design patterns, limits and bulk patterns, efficient and reliable trigger handling, asynchronous operations and effective unit testing</p>
+<p>
+Be comfortable with modern software development lifecycle best practices including iterative and incremental development, delivering working software frequently with attention to technical excellence</p>
+<p>
+May be called upon to be a credible subject matter expert in sales cycles and marketing events (e.g. sales meetings as necessary)</p>
+<p>
+Contribute to knowledge growth of the Salesforce practice through documenting and sharing best practices</p>
+<p>
+Conduct code reviews for ongoing projects to ensure high code quality and design patterns are followed</p>
+<p>
+Follow and understand new Salesforce product and technical capabilities resulting from product releases and acquisitions</p>
+<p>
+Coach and mentor junior technical team members</p>
+<p>
+Travel Requirement: Willingness to travel up to 50% for the Global Salesforce Team</p>
+<p>
+Qualifications:</p>
+<p>
+Minimum 5 years of Salesforce platform experience</p>
+<p>
+Strong problem-solving skills with the ability to work cross-functionally in a fast-paced and rapidly changing work environment either on a team or as an individual contributor</p>
+<p>
+Proven ability to design and optimize business processes and to integrate business processes across disparate systems</p>
+<p>
+Extensive VisualForce, Apex Classes/Controllers, Apex Triggers development experience</p>
+<p>
+Deep understanding of the Salesforce product suite including Salesforce1, Sales Cloud, Service Cloud, App Cloud, Communities and AppExchange solutions</p>
+<p>
+Web Services development or experience with the Salesforce API (REST/SOAP/MetaData, etc.)</p>
+<p>
+Front-end development experience with Lightning Design System</p>
+<p>
+Knowledge of integrations, 3rd party integration tools, ETL with Salesforce</p>
+<p>
+Strong knowledge of Object Oriented Analysis and Design, database design and software development lifecycle</p>
+<p>
+Excellent client-facing written, presentation and verbal communications skills</p>
+<p>
+Active Salesforce certifications or ability to achieve relevant certifications upon hire</p>
+<div>
+Slalom Is An Equal Opportunity Employer And All Qualified Applicants Will Receive Consideration For Employment Without Regard To Race, Color, Religion, Sex, National Origin, Disability Status, Protected Veteran Status, Or Any Other Characteristic Protected By Law.</div>
+</div></div>

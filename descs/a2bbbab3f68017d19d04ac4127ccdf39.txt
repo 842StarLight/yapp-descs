@@ -1,0 +1,117 @@
+<h2>SAP Security Consultant - Location Negotiable</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<b>Role: </b><b>SAP Security / GRC Consultant</b>
+</div>
+<div><b>Location: USA</b></div>
+<div><b>Travel: 100%</b></div>
+<div></div>
+<div>Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations. Combining unmatched experience and specialized skills across more than 40 industries and all business functions—underpinned by the world’s largest delivery network—Accenture works at the intersection of business and technology to help clients improve their performance and create sustainable value for their stakeholders. With approximately 373,000 people serving clients in more than 120 countries, Accenture drives innovation to improve the way the world works and lives. Visit us at www.accenture.com.
+</div>
+<div></div>
+<div>People in our <b>Client &amp; Market</b> career track drive profitable growth by developing market-relevant insights to increase market share or create new markets. They progress through required promotion into market-facing roles that have a direct impact on sales.
+</div>
+<div></div>
+<div>
+<b>Security</b> <b>professionals apply deep security skills to design, build and protect enterprise systems, applications, data, assets and people for Accenture and our clients.</b>
+</div>
+<div></div>
+<div><b>Job Description</b></div>
+<div></div>
+<div>Security and Risk professionals develop and deliver solutions that protect enterprise systems, applications and data by establishing policies, practices and tools that prevent unauthorized access, use, disclosure, modification or disruption.</div>
+<div></div>
+<div>
+<b>Application Security professionals</b> develop and deliver solutions - including design and implementation of Security Roles, Segregation of Duties Analysis Rules, Security Role Provisioning solutions, Application Security Scanning, Security Analytics, Enterprise GRC Solutions and Automated Source Code Analysis - that minimize the impact of internal and external manipulation of applications to access, steal, modify, or delete sensitive data.</div>
+<div></div>
+<div>A professional at this position level within Accenture has the following responsibilities:
+</div>
+<ul>
+<li>Contribute to a strong client relationship through interactions with client personnel
+</li>
+<li>Understand engagement as it relates to client's business
+</li>
+<li>Demonstrate knowledge in some areas of industry or functional specialty
+</li>
+<li>Communicate client expectations to the engagement team
+</li>
+<li>Assume responsibility for small components of engagements; may have greater role on small engagements
+</li>
+<li>Contribute to engagement planning and ensuring that deliverables meet contract and work plan objectives.
+</li>
+<li>Deliver services that meet Accenture Project Manager Specifications
+</li>
+<li>Recognize and communicate opportunities to sell "add-on" work to client
+</li>
+<li>Strong understanding of information security management principles, SAP application security implementation methodologies, role-based access controls, distributed systems administration, and distributed system recovery.
+</li>
+<li>Configure security in SAP GRC and SAP S4 to meet unique client security requirements as part of SAP implementations
+</li>
+<li>Conduct ERP application security assessments
+</li>
+<li>Demonstrate experience 1) independently completing complex security related tasks; 2) making major contributions in assuring deliverables meet contract and work plan objectives and; 3) taking on tasks of increased complexity
+</li>
+<li>Ability to take a broad view of the position and take initiative to communicate, interact, and cooperate with others to ensure that all aspects of a task are addressed
+</li>
+<li>Ability to independently create written deliverables and to participate in presentations
+</li>
+<li>Travel 100%</li>
+</ul>
+</div>
+<br>
+<div>
+<div><b>Basic Qualifications</b></div>
+<ul>
+<li>Minimum of 2 years of experience with GRC Access Control (v10.1 and / or 12) implementation skills for these modules (ARA, EAM, ARM, BRM)
+</li>
+<li>Minimum 2 years of experience with 1 full lifecycle implementation of SAP ECC or S4 HANA implementation from plan, design, build, test, and operate phases. Multiple projects are a plus.
+</li>
+<li>Minimum 2 years of experience with SAP HANA S4 security, Fiori Security, and / or SAP HANA DB
+</li>
+<li>Minimum 2 years of experience with hands on experience for SAP Security Basics, SAP Authorization Concept, Security Roles design concept and User Administration
+</li>
+</ul>
+<div><b>Preferred Qualifications:
+</b></div>
+<ul>
+<li>SAP GRC Process Controls 10.1/12 implementation experience (big plus),
+</li>
+<li>SAP Cloud Identity Access Governance experience
+</li>
+<li>SAP Single Sign on (SSO) and / or Identity Management (IDM) implementation experience
+</li>
+<li>SAP Application Vulnerability or Patch Management and / or Application Scanning experience (static or dynamic)
+</li>
+<li>Data protection and privacy experience supporting sensitive data such as PII, GDPR
+</li>
+</ul>
+<div><b>Professional Skill Requirements</b></div>
+<ul>
+<li>Proven success in contributing to a team-oriented environment
+</li>
+<li>Proven ability to work creatively and analytically in a problem-solving environment
+</li>
+<li>Technical abilities with the business understanding
+</li>
+<li>Excellent leadership, communication (written and oral) and interpersonal skills
+</li>
+<li>Demonstrated leadership in professional setting; either military or civilian
+</li>
+<li>Demonstrated teamwork and collaboration in a professional setting; either military or civilian</li>
+</ul>
+<div>
+<i>Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status).</i><br>
+<br>
+<i>Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status).</i><br>
+<br>
+<i>Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.</i><br>
+<br>
+<i>Accenture is an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.</i><br>
+<br>
+<i>Equal Employment Opportunity</i><br>
+<i>All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.</i>
+</div>
+<div></div>
+<div><i>Accenture is committed to providing veteran employment opportunities to our service men and women.</i></div>
+</div>
+</div>

@@ -1,0 +1,142 @@
+<h2>Sr. IT Data Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div>The Sr. IT Data Engineer will provide deep data knowledge and lead data investigations of questions or anomalies primarily for commercial data environment (CDE), business intelligence and data set queries from sources. This role will entail providing support for headquarters and commercial field organization data inquiries and be the subject matter expert for the CDE. This SME role will assist Business power users when they have questions on the data elements or integration.</div>
+<div></div>
+<br>
+<div>
+The ideal candidate will have experience in supporting commercial pharmaceutical enterprise wide data environments that support multiple downstream application such as business intelligence, customer relationship management applications, etc. for multiple internal business groups. The key tasks for this role are following computer system development processes (including validation as appropriate), coordinating gathering system enhancement requirements from business areas, documenting and translating into solution designs, management of testing process, and implementing changes into production.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Collaborate with data/information architects, business SME’s to design and integrate and improver solution as appropriate for emerging business needs.
+</li>
+<li>Analyze log level and aggregate data sets.
+</li>
+<li>Develop detailed data processing documentation.
+</li>
+<li>Support remedy of issues found within data sets including identifying issues, solutions and coordinating for resolution.</li>
+<li>
+Understanding business rules and auditing their application to ensure accuracy in alignment with the data governance strategy.</li>
+<li>
+CDE support by investigating data issues and identifying where the data anomalies are occurring so that corrective actions could be taken.</li>
+<li>
+Understanding different assets of data that are present in the SKLSI ecosystem and providing subject matter expertise for business power users.</li>
+<li>
+Optimizing CDE data load and transformation processes to ensure efficient updates for down-stream applications.</li>
+<li>
+Contribute to the creation of operational support documentation and facilitate end user training sessions.</li>
+<li>
+Be a liaison between business partners and application solution providers including third-party vendor partners.
+</li>
+<li>Follow IT policies, standard operating procedures including processes as defined by SKLSI IT.</li>
+<li>
+Triaging all data-based inquiries across CDE, CRM, BI and other applications with data integrated with these systems as appropriate.</li>
+<li>
+Provide training on CDE and related data models to power business users as needed.</li>
+<li>
+Perform other duties as assigned by SKLSI IT.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Supervision Excercised:</b></div>
+<ul>
+<li>
+Experienced in working with third-party vendor partners throughout Software Development Life Cycle process.</li>
+<li>
+Experienced in working with application managed services provided by vendor partners on an on-going basis.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<div><b>Education:</b></div>
+<ul>
+<li>
+Bachelor's degree in Statistics, Mathematics, Computer Science, Engineering, Finance, or related field.</li>
+<li>
+Post graduate degree in a related field, MS, or MBA preferred.</li>
+<li>
+Professional training / certification is preferred in the following:</li>
+<ul>
+<li>
+Informatica MDM</li>
+<li>
+Qlik Sense.</li>
+<li>
+Veeva CRM</li>
+</ul>
+</ul>
+<div></div>
+<br>
+<div><b>
+Work Experience:</b></div>
+<ul>
+<li>
+Deep hands-on knowledge in all of the listed tool will be necessary.<ul>
+<li>
+Informatica MDM.</li>
+<li>
+In-depth acumen of Cloud architecture and implementation.</li>
+<li>
+Experience with integration tool like MuleSoft, Kafka or Boomi.</li>
+<li>
+In-depth and current hands-on experience working with relational and unstructured databases and enterprise data warehouses, including PySpark, Hadoop, MongoDB, SQL Server or Oracle.</li>
+<li>
+Qlik Sense.</li>
+<li>
+Veeva CRM.</li>
+</ul>
+</li>
+<li>
+Knowledge of Unix/Linux shell scripting is a plus.</li>
+<li>
+Knowledge of non-personal / digital data from a variety of marketing channels is a plus.</li>
+<li>
+Extensive knowledge in building, testing, trouble-shooting and executing SQL/PL-SQL and NoSQL queries as needed for data interrogation.</li>
+<li>
+Commercial data analytics, segmentation and modeling.</li>
+<li>
+Data mining, cleansing, analyzing, transforming, loading and integration.</li>
+<li>
+Understands life sciences data sources including sales, contracting, promotions, social media, patient claims, EDI and IQVIA data sources.</li>
+<li>
+Experienced in maintaining good relationships between stakeholders, both internal and external.
+</li>
+<li>Excellent organizational skills, time management, and ability to meet established deadlines.
+</li>
+<li>Excellent communication and interpersonal skills to effectively interface with others.
+</li>
+<li>Exceptional interpersonal skills and problem-solving capabilities.</li>
+<li>
+9+ years of pharma commercial experience or consulting equivalent.</li>
+<li>
+Progressive experience of 10+ years in supporting enterprise level Data environment, Business intelligence (BI) and Master Data management (MDM) implementations. CRM implementations in pharma is a plus.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Physical &amp; Mental Requirements:</b></div>
+<ul>
+<li>
+Ability to multitask.</li>
+<li>
+Adapts to, and adjusts to, change.</li>
+<li>
+Maintain composure under pressure.</li>
+<li>
+Strong writing and presentation skills.</li>
+<li>
+Grasps information quickly.</li>
+<li>
+Examine and observe details.
+</li>
+<li>Ability to work collaboratively and influence all levels within the organization.</li>
+</ul>
+</div></div></div>
+</div></div>

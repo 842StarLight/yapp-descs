@@ -1,0 +1,35 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Are you passionate about programming? Do you enjoy learning and staying current with the latest in languages, platforms and development environments? Are you someone whom others go to for help?<br>
+<br>
+YouTech is seeking talented engineers to join our expanding software development team. You will use the latest programming tools and techniques to create highly customized and complex applications. In our dynamic and exciting development environment, you will meet new and exciting challenges on a daily basis.<br>
+<br>
+The Senior Software Engineer is a key member of the development team and will design/develop a highly scalable digital offer platform. This position will have the opportunity to help build and deliver our product line in an agile development environment.<br>
+This role is based at the YouTech headquarters in Brisbane (South San Francisco), CA.<br>
+<br>
+<b>Responsibilities:</b>
+<div>
+<ul><li>Work closely with product managers and project/account managers to understand the requirements and implement while collaborating with other engineering team members to ensure solutions match the architectural vision</li></ul>
+<ul><li>Collaborate with creative professionals, and other members of the project team on requirement specifications, development, testing, and launch planning</li></ul>
+<ul><li>Work closely with other engineering team members to produce technical design documentation and to ensure the code follows a good coding standard</li></ul>
+<ul><li>Assist in the development and maintenance of a scalable, web-based platform for hosting a variety of websites for clients supporting online loyalty programs</li></ul>
+<ul><li>Assist in the development and maintenance of a custom digital offer platform used to load offers directly to loyalty cards for redemption at point of sale</li></ul>
+<ul><li>Mentor other team members and review code and provide constructive feedback</li></ul>
+</div>
+<b>Requirements:</b>:
+<div>
+<ul><li>6+ years of commercial server-side development experience using J2EE</li></ul>
+<ul><li>In-depth understanding of standard Internet infrastructure, protocols and technologies</li></ul>
+<ul><li>Working experience in Servlets, EJBs, JAX-RS, JMS, XML, JSON, HTML, JavaScript, Couchbase and/or Oracle Database</li></ul>
+<ul><li>Experience in building Web Service applications using Service Oriented Architecture (SOAP and REST)</li></ul>
+<ul><li>Working experience with revision control software such as CVS or SVN</li></ul>
+<ul><li>Unix/Linux familiarity</li></ul>
+<ul><li>BS Computer Science or equivalent</li></ul>
+<ul><li>Exposure to Amazon cloud environment</li></ul>
+<ul><li>Working experience with JBoss Application Server 7+</li></ul>
+<ul><li>Experience in Cassandra is a plus</li></ul>
+<br>
+</div>
+<br>
+YouTech is the largest digital offer network in North America, providing a suite of tailored solutions that help retailers engage shoppers and thrive in the digital age. YouTech's platform powers meaningful, retailer branded experiences with omni-channel reach, seamlessly integrating into existing strategies to deliver measurable results and industry leading redemption rates. Based in the San Francisco Bay Area, YouTech's platform has processed more than 8 billion digital offer downloads to date.<br>
+<br>
+Visit www.youtech.com to learn more.</div></div>

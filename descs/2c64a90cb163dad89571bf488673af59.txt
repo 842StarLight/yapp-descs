@@ -1,0 +1,35 @@
+<h2>Senior Engineering Manager or Vice President</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Our team activities include software development, custom hardware design, digital signal processing, FPGA design and implementation, and python/java/C++ programming/simulation. As a member of our team, you will oversee resource allocation, maintain schedules, and be responsible for the on-time completion of projects and development of products. You will work closely with the leadership team to develop priorities and determine deadlines for task completion. Coordinating communications throughout the organization is a key component of this job. You will work closely with the engineering team including leveraging your technical abilities to help drive technical solutions and occasionally assist with the completion of technical tasks. Senior Manager or Vice President role depending on relevant experience.</p>
+<p>We are looking for an individual that generates creative, technically sound solutions and can organize the required resources to complete the identified work. ASI performs on an increasing number of projects over multiple branches of the armed forces. Specific functions for this position include: organizing the the projects in which we are involved, prioritizing projects and related tasks, allocating resources, tracking progress, assessing risks, driving technical solutions, assisting junior engineers, and communicating progress with the management team and throughout the organization.</p>
+<h2 class="jobSectionHeader"><b>Duties</b></h2>
+<ul>
+<li>Coordinates and is responsible for activities of all engineering personnel and outside consultants and/or contractors; develops engineering action plans to guide timely and cost effective development of projects; maintains the system of budget and schedule control.</li>
+<li>Maintains master schedule and performs resource loading and risk assessments for on-time completion of projects.</li>
+<li>Supervises engineering services for preparation and drafting of drawings, schematics, product specifications, bill of materials, operation/service manuals, assembly manuals, and other documentation necessary to manufacture new products.</li>
+<li>Prepares and/or reviews engineering change requests; discusses feasibility with product development committee; develops and oversees preparation and implementation of all engineering change notices and document change control.</li>
+<li>Assists and coordinates with Manufacturing for development of processes, tooling and molds necessary to produce new products.</li>
+<li>Provides Customer Service and Sales &amp; Marketing Departments with orientation and training on new products, and assists with preparation of sales presentations, service/repair methods, and marketing literature.</li>
+<li>Collaborates with and provides technical guidance to the engineering team.</li>
+<li>Provides technical leadership as need to drive technical solutions.</li>
+<li>Performs other engineering duties as requested by the management team.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Qualifications</b></h2>
+<ul>
+<li>BS/MS in Electrical Engineering, Computer Engineering, or other relevant technical discipline</li>
+<li>Minimum 5 years project management experience</li>
+<li>Experience managing printed circuit board design processes</li>
+<li>Experience integrating hardware, software and firmware</li>
+<li>Experience managing product development and dealing with contract manufacturers</li>
+<li>Strong personal communication skill</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Relevant Extras</b></h2>
+<ul>
+<li>Previous work with defense contracting companies</li>
+<li>Familiarity with SIGINT, COMINT or ELINT systems</li>
+<li>S/TS/SCI clearance desired. U.S. Citizenship required</li>
+</ul>
+</div>
+<p></p>
+</div>

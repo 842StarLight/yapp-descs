@@ -1,0 +1,47 @@
+<h2>Senior Solutions Architect - Amazon Connect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>Contact Center industry experience</li>
+<li>Experience building integrations across WFM, CRM, Unified Communications, and contact center solutions</li>
+<li>Working knowledge of popular communications protocols and APIs such as WebRTC and SIP</li>
+<li>3+ years of customer-facing experience, preferably in the enterprise space</li>
+<li>Experience developing solutions and passion for getting hands dirty with code/scripting (e.g, python, java, c#, .NET, Node.js)</li>
+</ul></div>
+<br>
+<div>Do you like helping customers implement innovative cloud computing solutions and solve technical problems? Would you like to do this using the latest cloud computing technologies? Do you have a knack for helping groups understand application architectures and integration approaches? Do you have the consultative and leadership skills to help customers succeed with their cloud efforts?<br>
+<br>
+Amazon Web Services is looking for Solutions Architects to help establish AWS as the market leader for the AWS Connect service. This effort is in direct response to feedback from customers and seeks to address the daily pain points of meeting the high bar of delivering outstanding customer service. This service offers a compelling alternative for our customers when faced with multiple components, channels and vendors, managing long term commitments and very complex pricing models, and scaling based upon the specific needs of their businesses.<br>
+<br>
+This is a highly technical position for someone who can dive deep, build complex, AWS-optimized architectures, and help customers accelerate their adoption of this new AWS service. Your broad responsibilities include: owning the technical engagement and ultimate success around specific implementation projects. You should be as comfortable discussing complex technical details with a room full of engineers as you are briefing an executive audience. In addition, you will engage with other AWS solutions architects, partner and professional services organizations to drive large and highly complex sales opportunities to closure.<br>
+<br>
+Here are some other qualities we are looking for:<br>
+<br>
+Be great fun to work with. At AWS, we have a credo of “Work hard. Have fun. Make history”. In this role, you will love what you do, and instinctively know how to make work fun. You will be dynamic and creative, and willing to take on any challenge and make a big impact.<br>
+<br>
+Enjoy working with customers of all shapes and sizes. You will have a passion for educating, training, designing, and building cloud solutions for a diverse and challenging set of customers ranging from small businesses to the largest enterprises.<br>
+<br>
+Responsibilities include:<br>
+<ul>
+<li>Ensure customer success in building and launching Connect solutions</li>
+<li>Educate customers of all sizes on the value proposition of AWS, and participate in deep architectural discussions to ensure solutions are designed for successful deployment in the cloud</li>
+<li>Conduct one-to-few and one-to-many training sessions to transfer knowledge to customers considering or already using AWS</li>
+<li>Capture and share best-practice knowledge amongst the AWS solutions architect community</li>
+<li>Author or otherwise contribute to AWS customer-facing publications such as whitepapers</li>
+<li>Build deep relationships with senior technical individuals within customers to enable them to be cloud advocates</li>
+<li>Act as a technical liaison between customers, partners, service engineering teams and support</li>
+</ul>
+Location is flexible, preferred locations are NYC, Seattle, or San Francisco.</div>
+<br>
+<div>
+<ul>
+<li>5+ years hands-on experience building complex solutions, ideally SaaS in the cloud</li>
+<li>An advanced degree in computer science, engineering or mathematics</li>
+</ul>
+Knowledge and/or experience in one or more of the following:<br>
+<ul>
+<li>Designing highly available applications with responsibility for infrastructure robustness, including networking, communications, server hardware and storage</li>
+<li>Application, server, and/or network security</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation</div>
+</div>

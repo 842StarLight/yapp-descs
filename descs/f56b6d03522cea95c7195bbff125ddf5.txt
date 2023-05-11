@@ -1,0 +1,41 @@
+<h2>AI Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">-----------
+<br>Job Summary
+<br>-----------
+<br><br>
+We are looking for a self-motivated AI Solutions Architect. As a member of the Solutions Domain, AI Solutions Architects help position the DataRobot solutions architecture as the gold standard for machine learning in enterprises and overcome any barriers to delivering DataRobot for customers. You will be responsible for providing the technical expertise and leadership for translating the product design to an operational product solution.
+<br><br>
+You will have a broad range of skills and experience ranging from systems architecture to ETL flows, security, cloud computing environments, and more. You will have the insight to make the connection between a customer's specific business problems and DataRobot's solution, the customer-facing skills to communicate that connection and vision to a wide variety of technical and executive audiences. You will possess the technical skills to be able to lead a solution delivery team across the software development lifecycle while providing consultative assistance to the Sales and Solutions deployment teams.
+<br><br>
+The person we're looking for shares our passion about delivering machine learning for enterprises and thrives in the dynamic environment that comes with being part of an innovative startup from its early days. That means having the flexibility and willingness to jump in and get done what needs to be done to make DataRobot and our customers successful. It means keeping up to date on the ever-evolving technologies for systems architecture, machine learning, and MLOps in order to be an authoritative resource for both DataRobot and customers. And it means working collaboratively with a broad range of people both inside and outside the company.
+<br><br>
+----------------
+<br>Responsibilities
+<br>----------------
+<br><br>
+<ul>
+<li>You will be responsible for providing the technical expertise and leadership for translating the product design to an operational product solution</li>
+</ul>
+-----------------
+<br>Main Requirements
+<br>-----------------
+<br><br>
+<ul>
+<li>5+ years of experience of working with enterprise customers, providing engineering, infrastructure, and technical guidance and support</li>
+<li>3+ years of experience leading software development teams</li>
+<li>Excellent writing and communication skills</li>
+<li>Experience installing, managing and supporting platforms running on Linux</li>
+<li>Working knowledge of enterprise software with experience of supporting its deployment in large enterprise accounts</li>
+<li>Willingness to travel (~10-15%)</li>
+</ul>
+--------------
+<br>Desired Skills
+<br>--------------
+<br><br>
+<ul>
+<li>Consulting / SI experience</li>
+<li>Experience with cloud IaaS providers (AWS, Azure)</li>
+<li>Hadoop, Spark, Kubernetes skills</li>
+<li>Bachelors in Computer Science, related field or equivalent demonstrable experience</li>
+</ul>
+</div>

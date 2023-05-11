@@ -1,0 +1,137 @@
+<h2>Director of Operations</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Estimated Start Date: </b>Immediate</p>
+<br>
+<p></p>
+<p><b>Location: </b>Houston, Texas</p>
+<br>
+<p></p>
+<p><b>Immediate Supervisor: </b>COO</p>
+<br>
+<p></p>
+<p><b>Company Background</b></p>
+<p>P97 Networks is the leading provider of mobile commerce and digital marketing solutions which power new and emerging daily journeys. When you’re looking for fuel, food, parking, charging, or convenience retail—our innovative cloud based mobile commerce platform, PetroZone®, enables mobile payments, customer loyalty programs, and connectivity with the largest universe of gas stations and convenience stores in the US. We focus on creating connected commerce experiences P97, whether through your connected car, smart phone, or voice enabled devices like Alexa. We are experts at cloud-based payment and loyalty aggregation, identity and security, digital offers and settlement, omni-channel marketing, and data insights.</p>
+<br>
+<p></p>
+<p>Every day, we are re-imagining connected consumer experiences and trying to make life’s daily journeys a little bit better for everyone. Convenience, speed, and safety is our mission—and these are the expectations for the new generation of buyers, sellers and anyone looking to conduct commerce during their daily drive. P97 is recognized as a thought leader for enabling digital transformation in the convenience retail and fuels marketing industry, and we take hiring very seriously. We further believe the combination of an experienced team, our passion for technology, and our mutual desire to win—will make us successful together. We trust you will find our company and this opportunity equally compelling.</p>
+<br>
+<p></p>
+<p><b>Job Description- </b>Director of Operations</p>
+<br>
+<p></p>
+<ul>
+<li><b><i>Do you enjoy making the impossible become possible?</i></b></li>
+<li><b><i>Are you someone who has creative ideas and will challenge the status-quo?</i></b></li>
+<li><b><i>Will you work consistently towards implementing those ideas?</i></b></li>
+<li><b><i>Are the words Optimize, Improvement, Engineer, and Problem Solve in your daily vocabulary?</i></b></li>
+<li><b><i>Do you seek to provide quality and customer service in everything that you do?</i></b></li>
+<li><b><i>Can you think strategically but still work tactically and get hands-on with your team when necessary?
+</i></b></li>
+<li><b><i>Are you willing to do whatever it takes to solve a complex business issue?</i></b></li>
+<br>
+</ul>
+<p></p>
+<p>If you answered <b>YES</b> to the questions above, then the Director of Operations at P97 may be the career step you are looking for.</p>
+<br>
+<p></p>
+<p>The Director of Operations is a Houston based role reporting to the COO with the primary responsibility of helping to grow, manage, and mature the current Operations team, which includes the Network Operations Center, the IT and Security Department, the Compliance Department, and Professional Services. The Director of Operations will have direct day-to-day management responsibility for the P97 Network Operations Center environment and team with the goal of transitioning them into a world-class 24/7/365 Network Operations Center that will offer customer service and support to P97 clients globally that exceeds every expectation and can handle any complex network, system, or application support situation necessary. The Director of Operations role also has the overall responsibility of managing P97’s global customer support and service delivery as well as ensuring P97 meets customer service level agreement response times with a network that is hosted completely in a Microsoft Azure environment.</p>
+<br>
+<p></p>
+<p>The Director of Operations is still very much a hands-on technical role in which you will be organizing and administering network operations and customer support activities in addition to your management responsibilities. The development environment is largely Microsoft centric (.NET, C#) with infrastructure on the Azure cloud. Currently, task management and network operations activities are managed using the Atlassian software suite, so experience with JIRA or Confluence is a plus, but not essential.</p>
+<br>
+<p></p>
+<p>The Director of Operations will focus on the organization and management of the NOC and will ultimately hold the responsibility for providing 24/7/365 customer support to P97 customers globally which includes, early tracking, escalations, crisis management, and addressing network operation issues through the implementation of all relevant procedures as well as system and application support as required. The Director of Operations may also assume other responsibilities as assigned by the COO. The Director of Operations should bring a level of creativity, energy, and experience in system design, relentless improvement, implementation of best practices, and lean processes. This is a prime opportunity for an experienced Director of Operations to make a significant impact on a growing company with a large market opportunity.</p>
+<br>
+<p></p>
+<p><b>Success Factors</b></p>
+<ul>
+<li>Achieve departmental cost savings and optimization of resources, budget, cloud architecture, time, and technology</li>
+<li>Prior experience successfully managing a team of up to 30 NOC Analysts in a 24/7/365 environment</li>
+<li>Collaborate with the company’s IT and Security Department as well as other parts of the company such as Professional Services, Sales, Marketing, Legal, Finance, Product Design, QA/Testing, and Development teams to deal with overall product and services delivery, performance, and network incidents.</li>
+<li>Implement new procedures to improve network performance and overall NOC response time</li>
+<li>Development of new features and lifecycle management of the NOC systems.</li>
+<li>Effective communications with customers and P97 stakeholders during the customer service process</li>
+<li>Effective communications with P97 management, especially when responding to internal escalations</li>
+<li>Track work progress of operations team members, verify quality of completed work, coordinate with other P97 departments and internal teams to complete process improvement projects and control the implementation/installation of those internal improvements and document process improvement achievement metrics for the P97 customers, executive team, and board of directors.</li>
+<li>Prioritize needs and budget in a constantly changing, very fast paced, and challenging technical environment.</li>
+<li>Utilize an entrepreneurial spirit and create unique resolutions to complex business and technical problems.</li>
+<li>Create a team with “can do” attitudes who continuously meet and exceed corporate goals and expectations in performance.</li>
+<li>Assist the COO with the development of a transition process workflow for new P97 products, partners, or accounts from sales to operations for installation/commissioning of new products, services, or technology enhancements.</li>
+<br>
+</ul>
+<p></p>
+<p><b>Key Responsibilities</b></p>
+<br>
+<p></p>
+<ul>
+<li>Responsible for the successful management of all Network Operations Center team members in a 24/7/365 environment.</li>
+<li>Liaison with the P97 Compliance department to verify we are meeting all domestic and global compliance requirements for SLA’s and governing agencies.</li>
+<li>Closely work with the Human Resource Department for training and development of current staff members.</li>
+<li>Closely work with the Talent Acquisition Department regarding hiring and interviewing new members and interns for the Operations team.</li>
+<li>Troubleshoot across the company's network based on the relevant process workflows</li>
+<li>Responsible for the improvement and upgrading of network and service management systems</li>
+<li>Manage Change Management Process and Methods of Procedures</li>
+<li>Provide technical leadership across constituents, ensure collaboration, and drive the NOC team to meet critical deadlines for the business goals, technical updates, and performance targets.</li>
+<li>Coordinate with professional services and the engineering department to verify project scope, verify work timeline, SLA’s, and completion.</li>
+<li>Prompt completion of weekly post-project implementation reviews and documentation as well as participate in health check reviews and audits.</li>
+<li>Occasional travel could be required, sometimes on short notice.</li>
+<li>Actively participate in employee quarterly reviews, mentor junior team members, and work within the HR guidelines if performance improvement measures and disciplinary actions are required for team members.</li>
+<br>
+</ul>
+<p></p>
+<p><b>Requirements</b></p>
+<br>
+<p></p>
+<ul>
+<li>3+ years as a Director of Operations or IT Director in a corporate environment</li>
+<li>5+ years of prior experience as a manager in a Network Operations Center or Technical Customer Support Role</li>
+<li>Excellent organization skills and strong oral and written communication skills.</li>
+<li>Hold technical certifications or be familiar with Agile/Scrum, ITIL, or Six Sigma</li>
+<li>PMP Certification preferred, but at a minimum familiar with project management tools, stage gates, audits, and principals.</li>
+<li>Solid experience managing a department or project budget and basic financial analysis skills</li>
+<li>Track record of successfully managing customer expectations through the customer service process</li>
+<li>Experience in developing relationships with customers, vendors, partners, and internal leaders.</li>
+<li>Self-motivated and charismatic leader, mentor, teacher, and peer.</li>
+<li>Strong people management skills, capable to build the team, create a positive culture, and manage new initiatives while multi-tasking existing workload</li>
+<li>Capable of organize shifts, designing a way of work, organizing time, and volume of work</li>
+<li>Solid crisis management skills</li>
+<li>Experience in completing tasks ahead of defined service level agreement deadlines</li>
+<li>Ability to be flexible in response to changing priorities and needs</li>
+<li>Experience with supporting a Point-of-Sale or retain fuel systems environment is a plus</li>
+<li>Experience with Office 365, specifically, currently have advanced level Excel, Word, and PowerPoint skills</li>
+<li>Experience with MS SharePoint, MS Project, and MS Visio is a plus</li>
+<li>Experience with Microsoft Azure cloud technology (or any cloud technology) is a plus</li>
+<li>Experience with using the Atlassian software suite, specifically, JIRA or Confluence, is a plus</li>
+<li>Bachelor’s Degree in networking, technology or an engineering related field is a plus</li>
+<li>Hold or currently working toward at least one network certification such as CCNA, CCNP, CISSP, etc.</li>
+<li>Strong people management skills and experience conducting performance evaluations</li>
+<li>Strong operational and logistic skills in relation to organizing and managing</li>
+<li>Experience and ability to manage a departmental or project budget and expenses</li>
+</ul>
+<ul>
+<li>Understanding of large scale technology infrastructure and development solutions including computing, software, storage, and networking is a plus</li>
+<li>Technical aptitude and a passion for staying current with new and upcoming technologies to ensure the best possible solutions for clients.</li>
+<br>
+</ul>
+<p></p>
+<p>This job description provides many examples of the types of responsibilities required but is in not intended to be a comprehensive list. The incumbent will complete other job responsibilities as needed which are not specifically described in this document.</p>
+<br>
+<p></p>
+<p>P97’s employees are recognized as a thought leader by peers, customers, and others in the industry with a respected reputation both internally and externally. If you want to be the newest member of a vibrant group of technology leaders in an innovative and entrepreneurial environment, then apply online today to start building solutions that customers will love to use and join a company that truly rewards your hard work and values your talented contributions. For a complete list of our open positions, please visit our website at www.P97.com and career center at http://p97.com/careers/.</p>
+<br>
+<p></p>
+<p>P97 rewards your hard work with a competitive compensation plan, comprehensive benefits plan, stock options, 401k with a match, PTO package, sponsored sports opportunities, a fun working environment, complementary catered lunches twice a week with a stocked kitchen the rest of the time, education and certification reimbursement, access to an on-site fitness facility, and amazing opportunities for career growth and personal development.</p>
+<br>
+<p></p>
+<p>P97 is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, age, marital status, political affiliation, sexual orientation, gender identity, genetic information, disability, or protected veteran status. We are committed to providing a workplace free of any discrimination or harassment.</p>
+<br>
+<p></p>
+<p><b>Work Authorization</b></p>
+<p>No calls or agencies please. P97 Networks, Inc. will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.</p>
+<br>
+<p></p>
+<p>Please note, relocation assistance will not be provided for this position. We thank all respondents for their interest in P97. However, only those selected for an interview will be contacted.</p>
+</div>
+<p></p>
+</div>

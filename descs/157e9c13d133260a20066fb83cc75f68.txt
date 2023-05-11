@@ -1,0 +1,94 @@
+<h2>Implementation Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Overview:</b></p>
+<p>
+At Salsa Labs, our passion lies in helping our nonprofit clients make a difference through the use of our digital marketing, advocacy, and fundraising tools. Salsa is not your typical SaaS company - we represent a community of more than 3,000 nonprofit clients, and we support our clients’ efforts to do everything from ending hunger to eliminating nuclear weapons to providing playgrounds for children. We want our clients to use our software to change the world.</p>
+<p>
+As the Implementation Manager, you will provide high-level client service for Salsa’s nonprofit clients to kick-start their adoption of the Salsa platform. This includes managing and performing a conversion of the client’s source database(s) into Salsa CRM and effectively implementing the Salsa CRM/Engage software. The role will require working closely with the client to establish timelines and goals for each stage of the project. The Implementation Manager is charged with fulfilling customer needs from the time of the signed contract and installation, through training and final data conversion, including post conversion issues.</p>
+<p>
+Additionally, the Implementation Manager is responsible for managing the Onboarding and Implementation teams, and being a hands-on leader. This includes issue resolution; Salesforce project definition and reporting; process improvement; and meeting Department objectives.</p>
+<p><b>
+Position Responsibilities:</b></p>
+<ul>
+<li>
+Establish and maintain a good relationship with clients using excellent communication and project management skills</li>
+<li>
+Execute implementation and setup tasks for new clients, including data mapping and migration</li>
+<li>
+Project manage new client implementations via email, phone, Zoom meeting, and web-based tools like Salesforce</li>
+<li>
+Track implementation tasks against a schedule and coordinate with internal staff to ensure goals are met on a timely basis</li>
+<li>
+Perform ETL processes on data - extract customer data, transform it into conversion/product specs, and load it into Salsa CRM using various tools</li>
+<li>
+Provide ongoing feedback to the Implementation team lead(s) and VP of Client Services on ways to improve client onboarding and implementation success</li>
+<li>
+Manage the Implementation Services Department, which includes the Implementation team and Onboarding team, consisting of approximately 7 FTEs and 9 contractors</li>
+<li>
+Responsible for Implementation strategy and operations</li>
+<li>
+Contribute to overall Client Success strategy</li>
+<li>
+Analyze and track Implementation projects and develop reports for Senior Management</li>
+<li>
+Partner with Sales Department to design project scopes, timelines, and deadlines</li>
+<li>
+Partner with Education Department, Adoption Department, Customer Support, and Client Success to enhance and streamline Implementation process</li>
+<li>
+Ensure continuous client satisfaction and retention by providing highest level of customer service</li>
+</ul>
+<p><b>
+What We’re Looking For:</b></p>
+<ul>
+<li>
+Strong and varied relational database knowledge is essential</li>
+<li>
+Strong data analysis skills are essential</li>
+<li>
+Proficiency using Microsoft Excel to manipulate data spreadsheets</li>
+<li>
+Intermediate knowledge of Microsoft Access, query writing, and SQL</li>
+<li>
+Attention to detail that is impeccable</li>
+<li>
+Excellent client relationship and communication skills, both oral and written</li>
+<li>
+Exceptional organizational skills that allow you to work under strict deadlines and quickly prioritize tasks</li>
+<li>
+A willingness to go the extra mile to kick start our client organizations’ success</li>
+<li>
+This role will require multi-tasking and completing projects simultaneously</li>
+<li>
+Experience leading a team of FTEs and contractors and a willingness to tackle projects of your own</li>
+<li>
+Must be proficient at bridging company goals and department goals, understanding the big picture</li>
+</ul>
+<p><b>
+Bonus Points:</b></p>
+<ul>
+<li>
+Experience using Salsa Engage (or another online organizing platform, like Convio, Luminate, Engaging Networks, etc.)</li>
+<li>
+Experience using Salsa CRM or other CRMs such as Salesforce</li>
+<li>
+Experience with Salesforce, especially writing reports and using the Project Object</li>
+<li>
+Some degree of comfort with MySQL</li>
+<li>
+Direct experience working in fundraising, advocacy, or marketing campaigns online</li>
+<li>
+Direct experience working for a nonprofit organization or political campaign, or a business serving nonprofit organizations</li>
+</ul>
+<p><b>
+Benefits of Working at Salsa Labs:</b></p>
+<p>
+Aside from working with smart, passionate Salsa employees, having uncapped growth potential and an awesome work/life balance, this position includes a competitive suite of benefits. Benefits include health, dental and vision insurance, 401K with immediate enrollment, life insurance, short and long-term disability insurance, paid holidays, unlimited paid time-off and no dress code!</p>
+<p><b>
+Location &amp; Work Environment:</b></p>
+<p>
+Our office is located at 10475 Perry Highway, Suite 301, Wexford, PA 15090. The work environment is casual and relaxed, yet high energy.</p>
+<p><b>
+EEO Statement:</b></p>
+<p>
+Salsa Labs, Inc. provides equal employment opportunities (EEO) to all employees and applicants without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, age, disability, or genetics. We seek to build a diverse staff representative of the communities we serve. All qualified applicants are strongly encouraged to apply.</p>
+</div></div>

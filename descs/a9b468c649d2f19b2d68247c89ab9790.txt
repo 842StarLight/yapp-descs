@@ -1,0 +1,117 @@
+<h2>Application Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>Founded in 1866, The Sherwin-Williams Company is a global leader in the manufacture, development, distribution, and sale of paints, coatings and related products to professional, industrial, commercial, and retail customers. The company manufactures products under well-known brands such as Sherwin-Williams®, Valspar®, HGTV HOME® by Sherwin-Williams, Dutch Boy®, Krylon®, Minwax®, Thompson’s® Water Seal®, Cabot® and many more. Sherwin-Williams® branded products are sold exclusively through a chain of more than 4,100 company-operated stores and facilities, while the company’s other brands are sold through leading mass merchandisers, home centers, independent paint dealers, hardware stores, automotive retailers, and industrial distributors. The company supplies a broad range of highly-engineered industrial and OEM coatings for wood and general industrial, coil, packaging, protective and marine, and transportation applications worldwide. Our 60,000 employees are diverse, innovative and passionate. With a variety of rewarding and challenging opportunities, Sherwin-Williams is a great place to find a career that takes you places.</div>
+<div></div>
+<br>
+<div>
+</div>
+<div>
+The Application Architect will provide technical consulting to management, business users, and technical associates. This role provides operational, tactical, strategic direction and oversight of development. Expected to be a reliable technical professional who can handle all job responsibilities autonomously, while executing at the highest level. This role will interact with engineers, architects, DBA’s, team leads to lead continuous improvement initiatives, and mentor developers. The role will provide technical oversight for projects spanning multiple application teams related to E-Commerce Interconnected Customer Experience initiatives and modernization of The Americas Group (TAG) Point of Sale and Pricing systems.</div>
+<div>
+<br>
+<b>
+Essential Functions</b><br>
+<br>
+<b>Strategy &amp; Planning</b><br>
+<ul>
+<li>Develop and maintain high level design plan for overall logical and technical IT architecture.</li>
+<li>Acquire and interpret business requirements, create functional specification, and determine the most efficient and appropriate technologies.</li>
+<li>Develop standards for determining the designs which best meet project requirements.</li>
+<li>Assist in development of coding standards.</li>
+<li>Develop proofs of concept for technical solutions.</li>
+<li>Submit and review technical and process improvement recommendations as a member of the technical leadership team.</li>
+<li>Provide technical guidance, design expertise and leadership for web application development and general tool or component development across the organization.</li>
+<li>Provide technical guidance, design expertise and leadership for relational database modeling across the organization.</li>
+<li>Accountable for the overall application feasibility, system architecture and system integrity of project solution designs.</li>
+</ul>
+<br>
+<b>
+Acquisition &amp; Deployment</b><br>
+<ul>
+<li>Perform complex programming assignments based upon established programming standards, methods, and best practices.</li>
+<li>Design application and database components for all sizes of development projects.</li>
+<li>Perform analysis of business models, logical specifications, and customer requirements to design and build solutions utilizing appropriate technologies.</li>
+<li>Mitigate risks associated with projects which have a high technical complexity or involve significant challenges to the business.</li>
+<li>Partner and collaborate with other teams to ensure proper creation, testing, and deployment of designed solutions.</li>
+<li>Work with configuration and change management personnel to create and refine processes.</li>
+<li>Recommend best practices for development activities including refining the standard local development environment for development staff.</li>
+</ul>
+<br>
+<b>
+Operational Management</b><br>
+<ul>
+<li>Assist in the discovery, investigation and resolution of production problems as required.</li>
+<li>Maintain and modify web applications; make approved changes to application documentation, develop detailed programming logic, and implement coding changes.</li>
+<li>Mentor and coach developers and Professional Apprentices.</li>
+<li>Train and share knowledge with development teams.</li>
+<li>Perform informal and formal code reviews to ensure application code meets development standards.</li>
+</ul>
+<br>
+<b>
+Incidental Functions</b><br>
+<ul>
+<li>Research and recommend new technologies, including tools, components, and frameworks.</li>
+<li>Provide project task management and reporting as necessary.</li>
+<li>Make presentations to management, business users, and peer groups as requested.</li>
+<li>Analyze performance of programs and take action to correct deficiencies based on consultation with business and technical teams.</li>
+<li>Provide standards-based approach to application solutions.</li>
+<li>Assist with various projects as may be required to contribute to the efficiency and effectiveness of the work.</li>
+<li>Share technical approaches, recommended tools and subject matter expertise with development teams across the organization.</li>
+<li>Avoid duplication of solutions whenever possible by promoting reuse of products, solutions, code and tools from all teams across the organization.</li>
+<li>Participate in hiring activities, fulfill affirmative action obligations and ensure compliance with the equal employment opportunity policy.</li>
+</ul>
+</div>
+<ul>
+<li>Minimal travel, up to 5% is required, additional travel may be required on a project basis.</li>
+<li>Work outside the standard office 7.5 hour workday may be required.</li>
+</ul>
+<br>
+<b>
+Position Requirements</b><br>
+<br>
+<b>Formal Education &amp; Certification</b><br>
+<ul><li>Bachelor Degree or equivalent, in related field or equivalent experience.</li></ul>
+<br>
+<b>
+Knowledge &amp; Experience</b><br>
+<ul>
+<li>12+ years of IT experience.</li>
+<li>12+ years working in all phases of the Software Development Lifecycle.</li>
+<li>10+ years working with customers to build and formulate business requirements.</li>
+<li>10+ years J2EE and Web Application experience, including Enterprise JavaBeans (EJBs), Java Servlets, Java Server Pages (JSP), JavaScript, AJAX, and web standards markup.</li>
+<li>10+ years of object-oriented analysis and design (OOAD).</li>
+<li>Experience with Model View Controller (MVC) architecture integration.</li>
+<li>Experience with Source Control environments such as Subversion, CVS, or Git.</li>
+<li>Excellent knowledge of various essential business functions of an organization.</li>
+<li>10+ years of experience in a Relational Database Management System, Oracle preferred.</li>
+<li>10+ years of experience administering application WEB containers, Apache Tomcat, JBOSS preferred.</li>
+<li>Experience generating Unified Modeling Language (UML) Documentation preferred.</li>
+</ul>
+<br>
+<div>
+<b>
+Personal Attributes</b><br>
+<ul>
+<li>Excellent written and oral communications skills.</li>
+<li>Exceptional ability and initiative to learn and research new concepts, ideas, and technologies quickly.</li>
+<li>Excellent systems/process orientation with demonstrated analytical thinking, organization skills and problem solving skills.</li>
+<li>Ability to work in a team-oriented, collaborative environment.</li>
+<li>Ability to quickly pick up new tools and technologies.</li>
+<li>Strong ability to train and teach others.</li>
+<li>Ability to facilitate meetings and follow up with resulting action items.</li>
+<li>Ability to prioritize and execute tasks in a high-pressure environment.</li>
+<li>Excellent presentation and interpersonal skills.</li>
+<li>Ability to work effectively in a multi-cultural environment, and to lead and influence cross-organizationally with and without direct authority.</li>
+<li>Exceptional ability to effectively move forward on tasks even with ambiguous or changing requirements.</li>
+</ul>
+</div>
+<div>
+<br>
+</div>
+<ul><li>Candidate must be eligible to work in the country for which they are applying for employment, without now or in the future needing sponsorship for employment work visa and/or permanent residence status.</li></ul>
+<br>
+Equal Opportunity Employer. All qualified candidates will receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information, creed, citizenship status, marital status, or any other consideration prohibited by law or contract. VEVRAA Federal Contractor requesting priority referral of protected veterans.</div>
+<p></p>
+</div>

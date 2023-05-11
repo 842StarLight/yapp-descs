@@ -1,0 +1,35 @@
+<h2>Network Engineer I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Network Engineer I serves as a primary escalation point for all network related issues and requests and assists with the design and implementation of customer network assessments, deployments, and reconfigurations. The Network Engineer I works closely with members of the Support Team and Technical Account Managers to support and manage customer network deployments, troubleshoot bandwidth and connectivity issues, and implement changes on behalf of Data Foundry managed services customers. Under direction from the Director of Customer Operations, the Network Engineer I is a key member of the Data Foundry Customer Operations team and works closely with team members, sales, and customers to manage network infrastructure and services that deliver critical data center services to Data Foundry customers, vendors, and partners.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Use NMS, syslog, link utilization graphs and other tools to proactively monitor network hardware.</li>
+<li>Troubleshoot and resolve network related incidents (link outages, peer outages, router/switch hardware failures, network performance issues).</li>
+<li>Research current network configuration files, identify errors and plan the appropriate fix.</li>
+<li>Research current network architecture and provide solutions for scaling the network and enhancing performance.</li>
+<li>Assist with network design and deployments for new services.</li>
+<li>Participate in after-hours work related to network hardware and software upgrades.</li>
+<li>Create new and maintain existing network engineering documents.</li>
+<li>Participate in network engineering "on call" rotation.</li>
+<li>Minimal travel required between Austin and Houston.</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>2-3 year network engineering experience.</li>
+<li>Strong analytical and problem solving skills.</li>
+<li>Ability to recognize and adapt to changing and emerging technologies.</li>
+<li>Strong focus on customer centric solutions to earn and maintain customer trust.</li>
+<li>2-3 years in a Cisco networking environment.</li>
+<li>Hands-on experience in deploying, configuring, and supporting: Cisco switches, routers, WLCs and security appliances. Maintaining multiple IOS versions and feature sets. Technologies such as ACLs, VLANs, L3 VLAN interfaces, Trunk ports, and port-channels. LAN/WAN links (Serial, Ethernet, Metro-E, MPLS/VPLS). QoS fundamentals and application. IPv4/IPv6 network principles.</li>
+<li>Load Balancing (Desired).</li>
+<li>Managed Hosting Experience (Desired).</li>
+<li>EIGRP/OSPF Management and Troubleshooting experience (Desired).</li>
+<li>Experience with Linux/UNIX/Windows systems (Desired).</li>
+</ul>
+<b>Education:</b><br>
+<ul>
+<li>High School Diploma</li>
+<li>CCNA certification or higher desired</li>
+</ul>
+<b>About Us:</b><br>
+Data Foundry, Inc. provides comprehensive wholesale and retail data center outsourcing, colocation, and disaster recovery services. The company provides its customers with secure premium facilities for servers and equipment, emergency workspace and carrier-neutral network accessibility, supported by experienced onsite technicians and customer support 24/7/365. The company supports more than 1,000 enterprise customers across a variety of industries including energy, healthcare and financial services. Founded in 1994, Data Foundry, Inc. was the first Internet Service Provider in San Antonio and one of the first 50 Internet Service Providers in the United States. Today, Data Foundry, Inc. operates data centers in Austin and Houston and owns private networks in Austin, Houston, San Antonio and Dallas.</div>

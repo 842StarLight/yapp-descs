@@ -1,0 +1,66 @@
+<h2>Software Quality Assurance Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>We are looking for a Software Quality Assurance Engineer to join our team. As a Quality Assurance Engineer, you will be responsible for creating and implementing a strategy for quality coordination and testing as well as suggesting solutions to identified quality problems.</p>
+<p>Acadia Shutters, Inc. is a rapidly-growing Atlanta based company providing custom plantation shutters, blinds, and other window treatments directly to homeowners. Since 2003, we've focused on delivering the highest level of service while offering great prices. Acadia expanded to Charlotte in 2013 and Nashville in 2017. We are a 9-time recipient of the Angie's List Super Service Award, 6-time winner of Best of Houzz and have an A+ rating with the Better Business Bureau. We are also on the 2014 &amp; 2016 Inc 5000 list of the most rapidly growing private companies in the the US.</p>
+<p><b>Qualifications &amp; Requirements: </b></p>
+<ul>
+<li>4+ years of QA experience, with a Computer Science or Information Systems background.</li>
+<li>Bachelor degree from an accredited university</li>
+<li>Strong knowledge of software QA methodologies, tools, and processes.</li>
+<li>Ability to create test plans, test cases, test scripts and test reports.</li>
+<li>Strong analytical, debugging, problem-solving and root-cause analysis.</li>
+<li>Experience with testing automation, debugging, and maintaining test scripts.</li>
+<li>Knowledge with SQL Database and hands on experience with SQL queries is preferred</li>
+<li>Ability to communicate with end users effectively to accurately identify and resolve defects/bugs that arise.</li>
+<li>Ability to clearly communicate the project status/Risks/Issues to the Project Management team</li>
+<li>Have strong oral and written communications skills. Candidate will be required to interact with business users to elicit and understand business requirements.</li>
+<li>Be ready to take responsibility for assigned tasks and work with others as needed to complete tasks.</li>
+<li>Successfully function within a project team and be a team player in an environment of deadlines and project milestones.</li>
+</ul>
+<p><b>You will: </b></p>
+<ul>
+<li>Collaborate with product, and development to create and maintain an automated test suite including UI, API, and unit/component tests</li>
+<li>Create, execute, and evaluate manual and automated test plans on multiple browsers, operating systems, and platforms</li>
+<li>Stay abreast of industry-best tools, methods, and best practices related to both manual and automated testing</li>
+<li>Communicate about roadblocks or defects in a clear and concise manner, including all necessary documentation and steps to reproduce</li>
+<li>Participate in peer test reviews, performance testing, and functional testing to ensure product quality</li>
+<li>Participate in occasional after-hours work for problem remediation and testing for planned and emergency patch releases</li>
+<li>Execute post-deployment testing</li>
+<li>Document manual and automated testing efforts</li>
+</ul>
+<p>Acadia has developed custom Mac OS/iOS/web-based system that:</p>
+<ul>
+<li>Allows our schedulers to track incoming leads and schedule consultations,</li>
+<li>Enables our sales consultants to create specs for customer jobs and quotes and orders that are based on these specs</li>
+<li>Allows sales consultants to track progress of job from quote to installation</li>
+<li>Enables installers to log status of installations as well as payment collected</li>
+<li>Provides our team with sales and financial reports</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $50,000.00 to $80,000.00 /year</p>
+<p>Experience:</p>
+<ul><li>Quality Assurance: 4 years (Preferred)</li></ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Location:</p>
+<ul><li>Atlanta, GA (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Preferred)</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Flexible schedule</li>
+</ul>
+<p>This Job Is Ideal for Someone Who Is:</p>
+<ul>
+<li>Autonomous/Independent -- enjoys working with little direction</li>
+<li>Detail-oriented -- would rather focus on the details of work than the bigger picture</li>
+<li>Dependable -- more reliable than spontaneous</li>
+</ul>
+</div>

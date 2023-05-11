@@ -1,0 +1,55 @@
+<h2>Principal Business Development Manager, Autonomous Vehicles Computing</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>The right person will be analytical, and possess 8-10 years either in professional services or enterprise selling/outsourcing, or managed technology services; preferably cloud or hosted services.</li>
+<li>Experience with one or more general purpose programming languages, including but not limited to: Java, C/C++, C#, Objective C, Python, JavaScript, Go, Scala.</li>
+<li>Solid enterprise negotiation skills, and business and financial acumen.</li>
+<li>Strong analytical skills, and demonstrated ability to turn detailed data analysis into useful strategic insight in order to drive customer adoption and make appropriate recommendations to the business.</li>
+<li>Experience with, and detailed knowledge of managed services market and insights related to cloud computing.</li>
+<li>Strong verbal and written communications skills are a must, as well as leadership skills.</li>
+<li>Demonstrated ability to work effectively across internal and external organizations is key.</li>
+</ul></div>
+<br>
+<div>Are you passionate about self-driving vehicles? Are you passionate about developing impactful Machine Learning (ML), novel and rigorous engineering strategy? Are you passionate about engaging the Autonomous Vehicles (AV) community (AI researchers, developers building AV products, roboticists making robots that work, data scientists, and innovative entrepreneurs in hot startups and large enterprises)?<br>
+<br>
+Autonomous Vehicles have the potential to transform our society and community, for generations. Impacting transportation, mobility, telecommunication, energy, healthcare and insurance, rescue and emergency response, hospitality, assistance to the elderly and disabled. Achieving this requires implementing some of the most complex computing systems to-date that we intend to entrust with transporting humans. AWS is taking a fresh approach with providing an end-to-end, scalable cloud environment that simplifies the development of self-driving technology. Including a global cloud footprint, infinitely scalable cloud storage, advanced networking and security, state-of-the-art ML platforms and services, rigorous engineering, and a team with the longest and broadest experience building cloud technologies.<br>
+The AWS Autonomous Computing team is seeking a Principal Technical Business Development Manager (BDM) for our Autonomous Vehicles Computing business. The BDM will be responsible for defining, building and deploying effective and targeted strategy to accelerate broad business development activities. The BDM will facilitate the enablement of customers, sales and solution architects with specific customer centric value proposition about end-to-end Autonomous Vehicles technologies – data ingestion, ML-driven data processing, localization and mapping, AV scenarios simulation and testing, models deployment – on the AWS cloud. The BDM will directly interface with the AWS product and software development teams regarding customer and partner requirements. The BDM will work closely across multiple internal and external organizations – AWS product engineering, business development, sales, marketing, partners, and machine learning communities – to position the AWS platform for customers and partners; and provide guidance on the value proposition and benefit those customers and partners.<br>
+In addition, the BDM will synthesize data and information gathered from these engagements into succinct findings, derive strategic insights, and persuasively communicate findings and perspectives to product and sales teams, including senior leadership. The BDM will work with other AWS business development, sales and solution architecture teams to track, prioritize and close customer engagements that would benefit from the AWS EC2 Compute, EC2 Networking, Storage, ML/DL services, CI/CD services; and collaborate/coordinate cross-functional teams around these engagements when appropriate.<br>
+The ideal candidate will possess a Technology and Business background that enables them to drive an engagement and interact at the highest levels of innovative startups and large Enterprises. The candidate will have the technical depth and business experience to easily communicate the benefits of compute, storage, advanced networking, and machine learning platforms and frameworks in the AWS cloud to IT architects, engineering teams, and C-Level executives. The ideal candidate will have a demonstrated ability to think strategically and long-term about the needs of complex global businesses. The ideal candidate will also be deeply familiar with complex legacy IT environments, managed enterprise IT infrastructure services, Enterprise applications, and would have done market analysis, deal negotiation and construction, business operations in these domains. Finally, the ideal candidate will have a background that enables them to create scalable programs that apply holistic approaches to selling to hot startups and large enterprises.<br>
+<br>
+About AWS<br>
+<br>
+Amazon Web Services (AWS) is the pioneer and recognized leader in Cloud Computing. Our web services provide a platform for IT infrastructure in-the-cloud that is used by hundreds of thousands of developers and businesses around the world. These customers range from start-ups to leading web companies to Global 2000 companies in financial services, pharmaceuticals, and technology. AWS customers are looking for ways to transform their businesses and solve their own complex business challenges with technologies in the cloud. AWS is leading the way in providing customers with powerful, end-to-end platforms and services to solve complex problems.<br>
+Roles &amp; Responsibilities:<br>
+<br>
+<ul>
+<li>Engages in senior level customer meetings to discuss customer’s business issues and explores how the AWS can help address and resolve these issues.</li>
+<li>Serves as an evangelist for AV on AWS, within AWS and externally.</li>
+<li>Define, build and deploy hot startups and enterprise focused sales and business development campaigns around deploying successful autonomous vehicles technology on AWS.</li>
+<li>Engage, support and scale business development and sales teams across AWS to be capable of delivering the AWS AV value proposition to customers and partners.</li>
+<li>Exhibit Cloud platforms expertise, and experience handling and scaling technology campaigns.</li>
+<li>Exhibit expertise in driving AWS field and partner readiness for customers.</li>
+<li>Develop a standard market intelligence framework and dynamic analytic model to be utilized by the AWS Sales, Business Development and Marketing teams.</li>
+<li>Bring the various stakeholders together to help build collective mindshare in augmenting the AWS AV architectures.</li>
+<li>Establish ways to measure and track metrics related to adoption of the AWS for AV, and to make improvements to the approach based on those measurements.</li>
+<li>Prepare and give business reviews to the senior management team regarding progress and metrics.</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Thorough understanding of self-driving technology</li>
+<li>Experience writing technical articles, speaking at technology conferences, or contributing to open source.</li>
+<li>Experience managing and deploying ML products.</li>
+<li>5+ years of business development, enterprise sales, strategic partnerships, or program/product management experience.</li>
+<li>Experience selling to Fortune 1000 and/or Global 2000 organizations.</li>
+<li>Experience with cloud computing and or related fields (IT, software, etc).</li>
+</ul>
+<br>
+<ul><li>Continued or advanced learning (Master, MBA, PhD or equivalent)</li></ul>
+<br>
+This position must be located at one of our U.S. AWS Corp. offices with a preference for Northern California.<br>
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br>
+<br>
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>
+</div>

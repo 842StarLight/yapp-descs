@@ -1,0 +1,86 @@
+<h2>Sr Demand Forecasting Data Scientist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>Cargill is committed to helping the world thrive. From bringing new purchasing models that enrich the lives of small cocoa farmers to applying the latest technology and data to sustainable shrimp farming, our employees take on the enormous responsibility of nourishing the world. To accomplish our bold goals, employees are empowered with tools, encouragement and support. Join the brightest minds at Cargill and do something that matters!
+<br>
+<br>
+<b>Job Purpose and Impact
+</b><div>
+<br>
+The Sr. Demand Forecasting Data Scientist applies strong technical skills to building predictive models. In this position you will be developing projects that use standard statistical forecasting and machine learning techniques that also collect external inputs, to develop solutions that help deliver significant value to Cargill’s businesses and functions. You will be integral to teams developing Proof of Concepts (POCs), Minimum Viable Products (MVPs), and fully-deployable solutions. This position develops high-value solutions across Cargill, including Food Ingredients &amp; Bio-Industrial, Animal Nutrition, Protein &amp; Salt, Agricultural Supply Chain, and Metals &amp; Shipping.<br>
+<br>
+<b>Key Accountabilities
+</b><br>
+<br>
+You will develop and code models by applying algorithms to large data sets, including exploratory techniques, model development, back-testing, accuracy measurements and communication.</div>
+<div>
+<br>
+You can expect to translate complex and ambiguous business problems into project charters, clearly identifying technical risks and project scope. You'll network with business partners to develop a pipeline of forecasting data science projects aligned with business strategies. And ensure strong communication of technical solutions to non-technical audiences.</div>
+<div>
+<br>
+You'll design strategies and propose algorithms to analyze and use data from a variety of sources.</div>
+<div>
+<br>
+On our multidisciplinary team of database specialists, data scientists, and business subject-matter guides, you'll focus on delivering work on-time and in budget. If you like to continuously seek out best practices and develop skills to build new capabilities for data analytics, this role would be a good fit for you.</div>
+<div></div>
+<br>
+<div>
+</div>
+</div>
+<div></div>
+<div>
+Qualifications<div>
+</div>
+<div>
+<b>
+Minimum Qualifications
+</b><br>
+<br>
+<ul><li>Bachelor’s degree in Data Science, Computer Science, Math, Engineering or related field plus 6 or more years business experience; <b>OR</b> a Master’s degree in Data Science, Computer Science, Math, Engineering or related field plus 5 or more years work experience; <b>OR</b> a PhD in Data Sceince, Computer Science, Math, Engineering or related field plus 3 or more years work experience.</li></ul>
+<br>
+<ul><li>Expertise in time series and temporal machine learning techniques, including ARIMA, exponential smoothing, ARCH/GARCH, and testing for seasonality, lags, hetero-skedasticity, and multicollinearity.
+</li></ul>
+<br>
+<ul><li>Proficiency in R (e.g. ggplot2, forecast, tidyverse, caret, tseries, prophet) or Python (e.g. pandas, scikit-learn, bokeh, nltk).
+</li></ul>
+<br>
+<ul><li>Proven ability to present to non-technical audiences</li></ul>
+<br>
+<ul><li>Proven knowledge of model tuning, deployment, and monitoring.
+</li></ul>
+<br>
+<b>Preferred Qualifications
+</b><br>
+<br>
+<ul><li>Experience in agriculture or commodity business; weather &amp; geospatial data, and consumer &amp; marketing/sales data.</li></ul>
+<br>
+<ul><li>Experience in databases, Hadoop, and distributed computing frameworks.</li></ul>
+<br>
+<ul><li>Experience in software development environment and code skills in the day of the life management/versioning (e.g. git).</li></ul>
+<br>
+<ul><li>Strong SQL</li></ul>
+<br>
+<ul><li>Knowledge of feature engineering and selection techniques (binning, PCA, t-sne, transformations, etc.)</li></ul>
+</div>
+<div></div>
+<br>
+<div>
+#LI-HS1</div>
+<div>
+<br>
+</div>
+Equal Opportunity Employer, including Disability/Vet.</div>
+<div></div>
+<p>
+Job Research and Development</p>
+<p>
+Primary Location US-MN-Wayzata</p>
+<p>
+Schedule Full-time</p>
+<p>
+Job Type Standard</p>
+<p>
+Shift Day Job</p>
+</div>
+</div>

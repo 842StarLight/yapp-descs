@@ -1,0 +1,81 @@
+<h2>SAP Process Integration (PI) Application Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>The Lubrizol Corporation, a Berkshire Hathaway company, is a market-driven global company serving customers in more than 100 countries. We own and operate manufacturing facilities in 17 countries, as well as sales and technical offices around the world. Through our global sales and manufacturing networks, we are able to deliver the products and services our customers need, where and when they need them.</div>
+<div>At Lubrizol, our mission is straightforward: We improve lives as an essential partner in our customers’ success, delivering efficiency, reliability or wellness to their end users. Read the cover story in Smart Business Magazine to learn how Lubrizol plans to advance its growth.</div>
+<br>
+<div></div>
+<div>
+The Lubrizol Corporation
+</div>
+<div>
+<i>A Berkshire Hathaway company</i><i><br>
+</i>
+</div>
+<div></div>
+<div><b>Accountability Statement
+</b></div>
+<p>Develop, implement and support process integration solutions for Operations and other Corporate Functions.</p>
+<br>
+<p></p>
+<div><b>Position Responsibilities
+</b></div>
+<div>Position Summary</div>
+<div>The SAP PI Application Lead is responsible for designing, developing or adopting SAP PI technology to meet Lubrizol’s requirements. Most often the requirements will surround B2B integrations with customers, suppliers, and third party solution providers.</div>
+<br>
+<div></div>
+<div>Key Responsibilities</div>
+<ul>
+<li>Developing technical solutions for our business customers, including requirements gathering, feasibility and gap analysis, architecture design, implementation, and support.</li>
+<li>Provides expert advice and counsel to business users and IT project teams regarding PI and integration.</li>
+<li>Provides support such as troubleshooting application shortcomings and/or performance issues.</li>
+<li>Adhere to and recommend development standards, naming conventions and industry best practices.</li>
+<li>Stay knowledgeable of the SAP offerings - including SAP Process Orchestration, S/4HANA, SOAP, REST, etc.<br>
+Mentor and lead contract developer resources.</li>
+<br>
+</ul>
+<div></div>
+<div>
+<b>Basic Qualifications</b><br>
+Minimum Qualifications</div>
+<ul>
+<li>Bachelor’s degree in Computer Science, Computer Engineering, or related discipline</li>
+<li>8+ years in IT</li>
+<li>4+ years working with SAP NetWeaver and Process Integration</li>
+<li>Must be extremely proficient with development, deployment, and support of PI solutions</li>
+<li>Experience with PI adapters and/or protocols including: HTTP, AS2, FTP, REST, Proxy, RFC, IDOC, SOAP, File, Mail, Web Services, etc
+</li>
+<li>Proficient with digital certificates and the use of certificate based authentication</li>
+<li>Knowledge of Enterprise Services Repository (ESR), Integration Directory (ID), System Landscape (SL), Configuration and Monitoring (CM), Alert and Notification Management</li>
+<li>Self-starter, ability to work independently</li>
+<br>
+</ul>
+<div></div>
+<div>Desired Qualifications</div>
+<ul>
+<li>Experience with B2B and/or EDI solutions</li>
+<li>Experience with XML, Schemas, ANSI X12 EDI Standard<br>
+Knowledge of SAP Process Orchestration (PO) and S/4HANA<br>
+</li>
+</ul>
+<div>
+<br>
+<b>Lubrizol Benefits</b><br>
+Click Here to Learn About all of Our Benefits!<br>
+Competitive salary with performance based bonus plans<br>
+401K Match plus Age Weighted Defined Contribution Plan<br>
+Competitive medical, dental &amp; vision offerings<br>
+Health Savings Account</div>
+<br>
+<div></div>
+<div>With multiple facilities in and around Cleveland, Ohio, Lubrizol is located in one of the largest economic regions in the United States. For the last seven years Lubrizol has been named one of the top workplaces in Northeast Ohio, and in 2016 was judged as the number one workplace by Northeast Ohio’s annual Top Workplaces survey. Buzzing with business, culture, knowledge and entertainment, Northeast Ohio is a vibrant place for people of all ages and walks of life to live, learn, work and play. This region offers a little bit of everything for everyone - ethnically-diverse communities, affordable housing, award-winning schools and universities, world-class healthcare, indoor waterparks and zoos, ski resorts, museums, halls of fame, one of the longest water-fronts in the country, and the most concentrated square mile of art, cultural, education and health institutions in the nation. From making your heart race at Cedar Point, to attending a professional sporting event or biking or hiking through over the 100,000 acres of state parks, to catching a Broadway show at Playhouse Square - the second largest performing arts center in the country, you can make it happen right here in Cleveland, Ohio.</div>
+<br>
+<div></div>
+<div><i>Lubrizol is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to sex, race, color, national origin, citizenship, age, religion, marital status, military service, sexual orientation, genetic information, gender identity, or any other characteristic or trait protected by federal, state, or local law.</i></div>
+<br>
+<p><br>
+<b>Nearest Major Market: </b>Cleveland
+<br>
+<b>Nearest Secondary Market: </b>Akron
+<br>
+<b>Job Segment: </b>SAP, Engineer, ERP, Developer, Information Systems, Technology, Engineering</p>
+</div></div>

@@ -1,0 +1,114 @@
+<h2>Business Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div><div>Job Posting
+</div></div>
+<div><div><div><div>
+<p>Bose is about better sound, but better sound is just the beginning. We’re about inventing new technologies that truly benefit people, and creating a culture where innovation and teamwork are highly valued. Working at Bose, you’re encouraged to question conventional thinking in the relentless quest to create products and experiences that change people's lives. Our culture is as distinctive as our products. Join a company that operates globally, with a culture that embraces new ideas.
+</p>
+<p>We have exciting Business Data Analyst employment opportunities in our Corporate Information Systems team. The team is working to build a world class data driven organization that includes Data Governance enabling advanced analytics and Data Science across Bose. The goal is to have proactive data quality, enable certified data, provide for a searchable data catalog that includes lineage from visualizations to source systems decreasing analytics time to value.
+</p>
+<p>The Business Data Analyst will be supporting and partnering with Consumers Electronics stakeholders.
+</p>
+<p>If you have a <b><i>passion </i></b>for creating a data driven culture by delivering value, please consider a career at Bose!
+</p>
+<h1 class="jobSectionHeader"><b>Responsibilities include:
+</b></h1>
+<p></p>
+<p>The Business Data Analyst role at Bose is a blend skill set of data management tools (Data Quality, Governance, ERP, CRM and Data Analytics). The Business Data Analyst can speak data, process, business and technical language to add value and benefits solving data problem. He/She will facilitate capturing and documenting business, data, governance and technology assets.
+</p>
+<p>The Business Data Analyst role accelerates advanced analytics and Data Science time to value by executing a framework to answer the following questions:
+</p>
+<ul>
+<li>What data is available (Data Catalog)?
+</li>
+<li>Is the data relevant and meaningful (Data classification)?
+</li>
+<li>What does the data mean (Technical/Business metadata, Business Glossary, and Reference Data)?
+</li>
+<li>Where did the data come from (Data Lineage)?
+</li>
+<li>What is the quality of the data (Data Quality)?
+</li>
+<li>Is the data verified (Certified Data)?
+</li>
+<li>How can I get access to the data (Processes)?
+</li>
+<li>Am I in compliance by using this data (Policy)?
+</li>
+</ul>
+<ul>
+<li>Implement a centralized data governance framework driving Bose to data driven decisions.
+</li>
+<li>Build enterprise systems centralized data catalogs enabling collaboration across functions and simplifying data discovery.
+</li>
+<li>Provide support to source systems and enterprise analytical platforms classifying data, adding data usage, and providing use case context around the data.
+</li>
+<li>Define and capture business and technical metadata to provide context, meaning and searchability around data and the data catalog. Define critical data elements business terms to drive common semantics across Bose. Build reference data and relate it to the critical data elements.
+</li>
+<li>Identify, define, measure data quality and develop critical data elements (CDEs) logical and physical lineage including data flow diagrams providing insight into focus areas applying a data governance framework.
+</li>
+<li>Organize Data Governance councils including functional stakeholders to align with the centralized Data Governance framework.
+</li>
+<li>Deliver education, training, and consulting across Bose to be an ambassador for driving data driven culture across Bose.
+</li>
+<li>Discover key stakeholders of data including owners, subject matter experts and existing Business Data Analysts.
+</li>
+<li>Work with cross-functional Business Data Analysts to understand, document and improve processes to access data (from request to provisioning). Streamline across Bose to reduce complexity executing workshops and aligning process stakeholders/owners.
+</li>
+<li>Provides support of Data Science and Advanced Analytics project/programs reducing administrative data governance tasks and action items.
+</li>
+<li>Partner with Legal, Information Security and HR to ensure compliance and security of data including how to manage data (masking, encrypting, pseudonymizing, synonymizing).
+</li>
+<li>Develop and align centralized policies and standards providing a baseline for functional policies.
+</li>
+<li>Develop and execute quarterly plans while aligning to Bose strategic vision.
+</li>
+<li>Track and measure wins including return on investment measuring quarterly governance results and value delivered.
+</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Skills, Knowledge and Experiences
+</b></h2>
+<ul>
+<li>Candidate should have a minimum of 5 years of Master Data Management and solid experience understanding a Data Governance framework.
+</li>
+<li>Previous experience with Bose CE product/engineering/apps
+</li>
+<li>Solid knowledge of data relationship for structure and unstructured data.
+</li>
+<li>Previous experience in research working environment by governing data from internal and external partners.
+</li>
+<li>Work in very dynamic environment where changes are introduced rapidly in the business process, data flow and technologies.
+</li>
+<li>Experience in consumer industry focus on product data, sales and marketing
+</li>
+<li>The ideal candidate will understand how people, process and technology can come together to enable advanced analytics and data management.
+</li>
+<li>Experience in data quality, data governance and supporting tools (Collibra preferably)
+</li>
+<li>Proven experience of cross functional leadership in complex organizations with strong emphasis on influencing and collaboration.
+</li>
+<li>Strong analytical orientation.
+</li>
+<li>Teach, mentor, and provide value on a consistent basis to stakeholders.
+</li>
+<li>Ability to translate strategy into an operational plan and can execute delivering consistent value to Bose.
+</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Other
+</b></h2>
+<ul>
+<li>Passion for Data and Governance.
+</li>
+<li>Bachelor’s degree.
+</li>
+<li>Knowledge of MS Office.
+</li>
+<li>Experience using data quality and data governance tools is a plus.
+</li>
+<li>Relocation is not available for this position
+</li>
+</ul>
+</div></div></div></div>
+</div>
+<p></p>Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665_PrescribedNondiscriminationPostingLanguage_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information.</div></div>

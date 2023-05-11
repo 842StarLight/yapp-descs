@@ -1,0 +1,85 @@
+<h2>Information Systems Officer [SAP Business Intelligence development]</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>The position is located in the Business Intelligence, Solution Architecture team of the ERP office in the Department of Management Strategy, Policy and Compliance in New York. The Information Systems Officer will report to the Chief, Business Intelligence team.<br>
+<br>
+Umoja is a continuous organizational transformation, enabling high-quality, and cost-effective service delivery for evolving United Nations mandates, anywhere in the world. By updating skills, harmonizing practices and applying global technology, Umoja maximizes productivity of the UN's human, financial and material resources.<br>
+<br>
+Umoja transcends organizational, geographical and functional barriers, fostering a culture of transparency, accountability, empowerment, sharing and unity across the United Nations. For more information on Umoja visit: http://umoja.un.org
+</p>Responsibilities
+<p>The scope of the position includes technical work required for the implementation of the SAP software and related integration in order to develop and maintain Umoja's Business Intelligence solution for the various scope of work stream functionality and processes of the Umoja ERP system, subsequent to the stabilization and improvements after UE2 deployment from 2020 onwards.<br>
+<br>
+Under the guidance of the Chief, Business Intelligence team, the Information Systems Officer (SAP Business Intelligence development) will be responsible for the following:<br>
+<br>
+1. ONGOING DEVELOPMENT OF UMOJA'S BUSINESS INTELLIGENCE SOLUTION:<br>
+<br>
+a) By alignment to the SAP architecture and standards, and under the direction of the Business Intelligence team lead, the Information Systems Officer [ISO] performs complex analysis of various business requirements and operational problems to be solved within the ERP Business Intelligence Solution of Umoja. This includes an end-to-end cycle evaluation with feasibility and GapFit analyses, as well as alternative development paths.<br>
+b) The ISO provides comprehensive technical analysis on pre-blueprint requirements, design, build and configuration roadmaps as well as in respect of fixes and/or enhancements that approved process changes will require prior to execution in respect of current or future workstream processes and developments.<br>
+c) Undertakes development activities using the appropriate SAP software, system and tools [BOBJ, HANA, BW, BODS, SLT, etc.] as well as the applicable standards and methodology for SAP development and integration of relevance for or required by the ERP implementation of Umoja.<br>
+d) Serves as focal point for Integration-related work to develop and sustain Umoja's Business Intelligence solution. In close coordination with the ERP's Delivery Management and corresponding Functional teams, the ISO completes the detailed technical evaluation of the integration-related requirements and implications of design and developments concerning the Umoja's Business Intelligence Solution.<br>
+<br>
+2. MODELLING:<br>
+<br>
+Source data from all the functional areas need to be properly modeled and transformed across the solution for effective analysis and reporting.<br>
+<br>
+3. TESTING of DEVELOPMENT for ENHANCEMENTS or RESOLUTION FIXES:<br>
+<br>
+a) Serves as focal point for all phases and components of testing for Umoja's BI solution, including scenarios and scripting, Unit Testing, Functional Acceptance Testing, Product Integration Testing and User Verification Testing.<br>
+b) Provides direction and assures effective coordination support to all process experts working on the above.<br>
+c) In collaboration with the rest of the Umoja Project teams, supports the effective and timely implementation of relevant SAP releases [OSS Notes, Support and Enhancement packs, upgrades, etc.] ensuring alignment to the solution's architecture for integration streams, overseeing the related testing, including liaising with SAP as required to obtain resolution.<br>
+<br>
+4. PRODUCTION support Tier 3:<br>
+<br>
+Along with the rest of the BI team, the ISO provides analysis for the tickets created by users which are escalated to T3 and implements the related fixes or coding implementation as required.<br>
+<br>
+5. TECHNICAL and USER DOCUMENTATION:<br>
+<br>
+Assures the production and archiving of relevant technical documentation for developments, enhancements, workflow modifications, fixes and coding implementation, architectural and integration resolutions of Umoja's BI Solution.
+</p>Competencies
+<p>Professionalism: Knowledge of SAP Business Intelligence solution. Knowledge of Programming and Modeling, particularly ETL, STL, BODS, BOBJ, HANA modeling, SAP Business Warehouse, ODATA, Fiori, etc. Shows pride in work and in achievements. Demonstrates professional competence and mastery of subject matter. Is conscientious and efficient in meeting commitments, observing deadlines and achieving results. Is motivated by professional rather than personal concerns. Shows persistence when faced with difficult problems or challenges; remains calm in stressful situations. Takes responsibility for incorporating gender perspectives and ensuring the equal participation of women and men in all areas of work.<br>
+<br>
+Planning and organizing: Develops clear goals that are consistent with agreed strategies. Identifies priority activities and assignments; adjusts priorities as required. Allocates appropriate amount of time and resources for completing work. Foresees risks and allows for contingencies when planning. Monitors and adjusts plans and actions as necessary. Uses time efficiently.<br>
+<br>
+Technological Awareness: Keeps abreast of available technology; understands applicability and limitation of technology to the work of the office; actively seeks to apply technology to appropriate tasks; shows willingness to learn new technology.
+</p>Education
+<p>An advanced university degree (Master’s degree or equivalent) in information systems, engineering or related fields is required. A first-level university degree in combination with an additional two years of qualifying experience may be accepted in lieu of the advanced university degree.
+</p>Work Experience
+<p>A minimum of five years of progressively responsible experience in the end-to-end implementation of an ERP Business Intelligence solution in SAP, including planning, design, build development, configuration, deployment and production support maintenance is required.<br>
+<br>
+Experience shall include Business Intelligence for the main functional areas of an ERP implementation, particularly SAP's Finance workstream processes [Grants and Funds management, financial planning, reporting], Supply Chain management processes [procurement, transportation, demand], HCM and PY.<br>
+<br>
+Experience in Advanced SAP Programming of relevance to BI is required, including configuration, modeling and coding in SAP, as well as advanced development experience with ABAP, SAP Business Objects, BODS, SLT, HANA, SQ is required.<br>
+<br>
+Experience on the above within implementation of SAP in the Public Sector is desirable.<br>
+<br>
+Experience with design, development, deployment and ongoing delivery of ERP and/or business intelligence system is desirable.
+</p>Languages
+<p>English and French are the working languages of the United Nations Secretariat. For the posts advertised, fluency in oral written English is required. Knowledge of another UN official language is an advantage.
+</p>Assessment
+<p>Evaluation of qualified candidates may include an assessment exercise which may be followed by competency-based interview.
+</p>Special Notice
+<p>This position is financed by Umoja funding. Extension of appointment will be subject to budgetary approval.<br>
+<br>
+Staff members are subject to the authority of the Secretary-General and to assignment by him or her. In this context, all staff are expected to move periodically to new functions in their careers in accordance with established rules and procedures.<br>
+<br>
+Pursuant to section 7.11 of ST/AI/2012/2/Rev.1, candidates recruited through the young professionals programme who have not served for a minimum of two years in the position of<br>
+their initial assignment are not eligible to apply to this position.<br>
+<br>
+The United Nations Secretariat is committed to achieving 50/50 gender balance in its staff. Female candidates are strongly encouraged to apply for this position.<br>
+</p>
+<p></p>United Nations Considerations
+<p>According to article 101, paragraph 3, of the Charter of the United Nations, the paramount consideration in the employment of the staff is the necessity of securing the highest standards of efficiency, competence, and integrity. Candidates will not be considered for employment with the United Nations if they have committed violations of international human rights law, violations of international humanitarian law, sexual exploitation, sexual abuse, or sexual harassment, or if there are reasonable grounds to believe that they have been involved in the commission of any of these acts. The term “sexual exploitation” means any actual or attempted abuse of a position of vulnerability, differential power, or trust, for sexual purposes, including, but not limited to, profiting monetarily, socially or politically from the sexual exploitation of another. The term “sexual abuse” means the actual or threatened physical intrusion of a sexual nature, whether by force or under unequal or coercive conditions. The term “sexual harassment” means any unwelcome conduct of a sexual nature that might reasonably be expected or be perceived to cause offence or humiliation, when such conduct interferes with work, is made a condition of employment or creates an intimidating, hostile or offensive work environment, and when the gravity of the conduct warrants the termination of the perpetrator’s working relationship. Candidates who have committed crimes other than minor traffic offences may not be considered for employment.<br>
+<br>
+Due regard will be paid to the importance of recruiting the staff on as wide a geographical basis as possible. The United Nations places no restrictions on the eligibility of men and women to participate in any capacity and under conditions of equality in its principal and subsidiary organs. The United Nations Secretariat is a non-smoking environment.<br>
+<br>
+Applicants are urged to follow carefully all instructions available in the online recruitment platform, inspira. For more detailed guidance, applicants may refer to the Manual for the Applicant, which can be accessed by clicking on “Manuals” hyper-link on the upper right side of the inspira account-holder homepage.<br>
+<br>
+The evaluation of applicants will be conducted on the basis of the information submitted in the application according to the evaluation criteria of the job opening and the applicable internal legislations of the United Nations including the Charter of the United Nations, resolutions of the General Assembly, the Staff Regulations and Rules, administrative issuances and guidelines. Applicants must provide complete and accurate information pertaining to their personal profile and qualifications according to the instructions provided in inspira to be considered for the current job opening. No amendment, addition, deletion, revision or modification shall be made to applications that have been submitted. Candidates under serious consideration for selection will be subject to reference checks to verify the information provided in the application.<br>
+<br>
+Job openings advertised on the Careers Portal will be removed at 11:59 p.m. (New York time) on the deadline date.
+</p>No Fee
+<p>THE UNITED NATIONS DOES NOT CHARGE A FEE AT ANY STAGE OF THE RECRUITMENT PROCESS (APPLICATION, INTERVIEW MEETING, PROCESSING, OR TRAINING). THE UNITED NATIONS DOES NOT CONCERN ITSELF WITH INFORMATION ON APPLICANTS’ BANK ACCOUNTS.</p>
+</div>
+<p></p>
+</div>

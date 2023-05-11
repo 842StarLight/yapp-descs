@@ -1,0 +1,37 @@
+<h2>Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Hartman Executive Advisors is the region’s only completely independent technology advisory firm. We work with executives and nonprofit leaders to align IT solutions with business goals and strategy. Since Hartman does not profit from the sale of any system or technology, clients trust the advice and guidance they receive is strictly in their best interest. By developing a deep understanding of the business challenges arising from poorly aligned technology, and uncovering the transformational opportunities that result from strategically aligned technology, we set the path to advance, cultivate and leverage people, processes and systems to change and transform organizations. At Hartman, we deliver powerful business outcomes by leveraging technology strategy as a game-changer for our clients.<br>
+<br>
+We are seeking an experienced, “hands on” Information Technology (IT) professional with expertise in designing and administering server and network systems, storage solutions, virtual environments, Windows and networking environments, etc., to work with our senior team of IT and business professionals on various IT assessment, strategic technology planning and project implementation engagements for our mid-Atlantic, mid-market clients. Candidates must be able to provide network architecture, evaluation and planning services to our customers, as well as manage the implementation of recommended network and systems solutions. The following describes some of the expectations for this position:
+<ul>
+<li>Contribute to the Infrastructure Evaluation portion of our IT assessments. Research and provide data to the team in order to answer questions such as: Is the network appropriate to meet the current and future business needs of the company? Is it scalable? What risks are associated with the current infrastructure?</li>
+<li>Implement appropriate technical solutions, actively seeking ways to leverage the integration of business processes with applicable emerging technologies in order to improve and streamline operations and services in the most efficient and cost-effective manner. Promote a sustainable technology framework and coordinate related systems.</li>
+<li>Assume project management responsibilities on assigned projects that require research, data collection, critical thinking, technical expertise, and a high level of independence in support of long range planning activities.</li>
+<li>Manage network and server infrastructure in client environments ensuring the environment is properly maintained and proactively monitored to ensure adequate capacity to support business needs.</li>
+</ul>Please note that this is a full-time permanent position with benefits and bonus opportunity.<br>
+<br>
+<b>QUALIFICATIONS:</b>
+<ul>
+<li>4+ years related experience and enthusiasm for working in a consulting role for multiple clients desired.</li>
+<li>Ability to manage multiple tasks and high volume workload. Strong sense of urgency and results-orientation.</li>
+<li>Strong analytical problem solving and creative skills and the ability to exercise sound judgment and make decisions based on accurate and timely analysis.</li>
+<li>Excellent verbal and written communication skills.</li>
+<li>Initiative to identify and communicate opportunities to contribute additional value to existing and prospective clients.</li>
+<li>Self-motivated, independent, cooperative, flexible, creative.</li>
+</ul>Minimum of 4 years experience in each of the following areas required:
+<ul>
+<li>Microsoft server technologies, including Active Directory and Terminal Services</li>
+<li>VMware/virtualization</li>
+<li>SAN</li>
+<li>Backup and Recovery Methods</li>
+</ul>Minimum of 2 years experience in each of the following areas desired:
+<ul>
+<li>Proficiency in supporting desktop operating systems</li>
+<li>Working knowledge of a complete network environment, including support of a WAN infrastructure with remote users and facilities</li>
+<li>System Performance Monitoring</li>
+<li>MSP Selection and Management</li>
+<li>Microsoft Office 365 Migration</li>
+</ul>
+<b>EDUCATION:</b><br>
+Equivalent of a Bachelor’s Degree in Computer Science/Engineering/Business/Finance is preferred<br>
+</div>Learn more about our organization at www.hartmanadvisors.com</div></div>

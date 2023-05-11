@@ -1,0 +1,65 @@
+<h2>System & Network Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h3 class="jobSectionHeader"><b>Company Overview</b></h3>
+<p>BardyDx is an innovator in digital health and remote patient monitoring, with a focus on providing the most diagnostically-accurate and patient-friendly cardiac patch monitors in the industry. Currently, BardyDx has FDA 510(k) clearance and CE Mark approval to market the Carnation Ambulatory Monitor (CAM) patch and is presently launched in the U.S. and multiple international countries.</p>
+<p>
+The CAM patch is the industry’s only P-wave centric™ ambulatory cardiac monitor and arrhythmia detection device that is designed to improve patient compliance with its lifestyle-enabling patch design. Designed to be worn comfortably and discreetly by both adults and children, the CAM patch is placed on the center of the chest, directly over the heart for optimal ECG signal collection. Distinguished from the competition by its state-of-the-art sensing technology, the CAM patch provides optimal detection and clear recording of the P-wave, the part of the ECG waveform that is essential for accurate arrhythmia diagnosis.</p>
+<p>
+BardyDx is having another strong year with growing market recognition of our innovative P-wave centric features of the CAM patch. In a field that’s filled with many “me-too” products, we’re proud to distinguish ourselves from the competition with acceptance of the following industry-recognized awards and distinctions:</p>
+<ul>
+<li>Winner of the 2019 Frost &amp; Sullivan Technology Innovation Award in Remote Cardiac Monitoring</li>
+<li>Winner of the 2019 MedTech Breakthrough Award for Best New Technology Solution in Diagnostics</li>
+<li>Winner of the 2019 Impact Pediatric Health Competition at South by Southwest (SXSW)</li>
+<li>Winner of the 2019 GeekWire Hardware/Gadget of the Year Award</li>
+<li>Winner of the 2018 Fierce Innovation Life Sciences Award for Medical Device Innovation from the leading industry publisher of <i>FierceBiotech</i>&amp; <i>FiercePharma</i>
+</li>
+<li>Winner of the 2018 Children’s National Health System Pediatric Medical Device Innovation Competition</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Position Overview &amp; Purpose</b></h3>
+<p>Bardy Diagnostics is building a team of passionate people who share an entrepreneurial spirit and are dedicated to making a difference in advancing patient care. It is our desire to create a “family – like” culture across the company as we continue to build the team and grow.
+</p>
+<p>Currently, we are looking for a System &amp; Network Administrator to join our IT Team who is passionate about helping both our internal team and our external customers. The right individual will join a dynamic and fast-paced start-up environment and work with cross-functional teams to help execute on the company’s vision and strategy.</p>
+<p>
+The System &amp; Network Administrator’s role incorporates a range of functions, including deployments, internal services management and product IT support. This individual will analyze product performance to ensure it meets customer needs and may recommend product upgrades or improvements or plan new development programs.
+</p>
+<p>The System &amp; Network Administrator will be responsible for the daily maintenance and security of company ITinfrastructure. This individual will also be part of the Product Install team and work closely on a day-to-day basis with sales and support to deploy company software and hardware to new customers.</p>
+<h3 class="jobSectionHeader"><b>
+Core Job Functions &amp; Responsibilities</b></h3>
+<ul>
+<li>Primary responsibility is Desktop and User Support for internal users</li>
+<li>Tier 2 customer-facing technical product support to our Customer Experience team Employee workstation deployment and management (MS Configuration Manager experience preferred)</li>
+<li>Server administration and monitoring (90% Windows / 10% Linux)</li>
+<li>Fileserver administration (DFS knowledge preferred)</li>
+<li>Firewall and VPN administration</li>
+<li>Office365/AzureAD User and group policy management
+</li>
+<li>Application administration (Salesforce, NetSuite, 8×8, Adobe, Azure DevOps, SSO integration)</li>
+<li>In-house employee technical support</li>
+<li>Experience with the following is highly desired:
+<div><div><ul>
+<li>Regulatory/HIPAA compliance</li>
+<li>Data security</li>
+</ul></div></div>
+</li>
+<li>Scopes and prioritizes activities based on business and customer impact</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Required Experience &amp; Skills</b></h3>
+<ul>
+<li>Windows 7/10/2016 deployment, support and troubleshooting
+</li>
+<li>Excellent written and verbal communication skills</li>
+<li>Excellent interpersonal and relationship-building skills</li>
+<li>Ability to work independently in satellite office while maintaining strong ties to corporate office</li>
+<li>Ability to effectively support remote users</li>
+<li>Skilled at working effectively with cross functional teams in a matrix organization</li>
+<li>Strong problem-solving skills and ability to formulate solutions and decisions with little guidance</li>
+<li>Strong organizational skills and process-oriented with the ability to multi-task</li>
+<li>Strong work ethic in fast paced environment
+</li>
+<li>Coachable and a team player</li>
+<li>Some start-up or small company experience preferred (i.e., ability to deal with adversity, limited resources, and quickly adapting new strategies as market conditions change)</li>
+<li>Experience in a Medical Device or Diagnostic Services product management-related role helpful, but not required</li>
+<li>Cardiac Monitoring, Cardiology or Electrophysiology industry work experience helpful, but not required</li>
+</ul>
+<p>Apply Now</p>
+</div></div>

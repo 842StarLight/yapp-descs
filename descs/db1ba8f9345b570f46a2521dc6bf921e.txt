@@ -1,0 +1,39 @@
+<h2>Junior Product Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Numerator is a market intelligence firm that brings together omnichannel marketing, merchandising and sales data to make pursuing new possibilities simple for brand, retail and agency clients. Owned by Vista Equity Partners, Numerator is the only company in the marketplace to connect omnichannel purchase data (powered by the InfoScout OmniPanel) and comprehensive path data to deliver an unmatched view of the consumer shopping and purchase experience.</p>
+<p></p>
+<p><b>Job Description</b></p>
+<p></p>
+<p>
+This role will be responsible for leadership &amp; management of the Data Services for Numerator &amp; clients. This is an internal focused role with cross functional stakeholders. Data work is a growing and valuable business for Numerator. Many of our key clients apply their most innovative teams against this type of product research &amp; Consumer Insights when they partner with us.</p>
+<p>
+The role requires a unique blend of deep technical ability with regards to database skills and ETL systems coupled with end customer white glove treatment. Co-creation, definition &amp; delivery of major strategic projects will be the norm. The role requires a highly resourceful individual with strong customer presence, self-motivation, and strong technical skills.
+</p>
+<p><b>Responsibilities:</b></p>
+<p><b><i>
+ </i></b><i>Business Intelligence
+</i></p>
+<ul> <li>Partner with Product and Engineering team members on complex data projects</li>
+<li>Proactively identify pain points for internal stakeholders and develop simple and scalable BI reports that can enable long-term tracking or short-term exploration of issues</li>
+<li>Leverage existing systems and resources to build out robust monitoring and alerting for internal BI needs (We use Snowflake, Vertica, Mode, and Spotfire currently)</li>
+<li>Identify gaps in existing systems and resources to build internal tools to enable other consultants to leverage data capabilities and internal BI needs</li>
+</ul>
+<p></p>
+<p><b>Skills &amp; Requirements</b></p>
+<p></p>
+<ul>
+<li>Undergraduate degree in Analytics required (Master's preferred)</li>
+<li>Business intelligence or comparable analytic experience</li>
+<li>Fundamental knowledge of SQL (SELECT/UPDATE usage, multiple join types, Subqueries and WITH statements, basic aggregation and agg. functions)</li>
+<li>Knowledge of the software development life-cycle and the role of product in it</li>
+<li>Proven ability to: work in a team environment, produce results independently, solve complex problems, exhibit strong judgement, lead and manage in a fluid work environment</li>
+<li>A track record of creativity and innovative problem solving</li>
+<li>Proven ability to successfully manage fast paced, cross-functional projects</li>
+</ul>
+<p>We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
+<p></p>
+<p>We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
+</div>
+</div>

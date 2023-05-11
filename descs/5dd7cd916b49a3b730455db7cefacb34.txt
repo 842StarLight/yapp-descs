@@ -1,0 +1,66 @@
+<h2>Senior Software Engineer, Identity Verification and Activation</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p>Square is a payment aggregator, i.e. we process payments on behalf of our sellers. Operating in the heavily regulated financial space, we are required to verify a sellers identity before we can let them take payments. The Identity Verification and Activation team owns the automated Customer Identification Program infrastructure, a vital component to get new sellers ready to do business in just a few minutes. As the entry point into Squares Managed Payments Platform, we help internal and external developers solve customer identity and verification challenges across national and international markets.</p>
+<p>
+Hard Problems</p>
+<ul>
+<li><p>
+Identity verification: Security and privacy for our merchants are extremely important to us, and our systems are the first line of defense against bad actors trying to use Squares platform illegitimately. We are constantly pushing the boundaries of automated identity verification to give our product teams the room to create frictionless user experiences, and our legal &amp; compliance teams the tools they need to be more effective.</p></li>
+<li><p>
+International: With the efficacy of different identity verification mechanisms varying wildly from market to market, this team investigates and incorporates new technologies to automate customer verification and help product teams onboard new sellers of all sizes across the globe in just a few minutes.</p></li>
+<li><p>
+Scale: As the team that owns the central customer identity and identity verification systems, our platform has to serve not just the whole company and our customers, but also third-party developers and their customers.</p></li>
+</ul>
+<p>
+Why is this team important to Square?</p>
+<ul>
+<li><p>
+All customers for financial products powered by Squares Managed Payments platform internal products like Point-of-Sale, Cash, Caviar, Capital, as well as third-parties like TheCut and Traveljoy are identified and managed through our systems.</p></li>
+<li><p>
+Our success in building a global IDV platform is critical for Squares continued success in existing markets, as well as and expansion to new markets.</p></li>
+<li><p>
+No payment goes through without being checked against our systems for permissions.</p></li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+<p>You will:</p>
+<ul>
+<li><p>
+Build our Identity Platform, a key strategic asset of Square used by the rest of the organization as well as external developers through our APIs</p></li>
+<li><p>
+Design and implement high-volume, low-latency, distributed identity systems, making thoughtful tradeoffs between consistency and availability when both are not possible</p></li>
+<li><p>
+Abstract away the legacy APIs of the financial world into consistent, coherent service APIs for Squares products to build upon</p></li>
+<li><p>
+Build systems that manage customers sensitive data and hold Square to the highest standards for security and compliance</p></li>
+<li><p>
+Work cross-functionally with our product, business, and finance teams to develop Squares global payments strategy</p></li>
+<li><p>
+See the big picture to design fault tolerant systems so the team can be brave, move fast, and break things, without ever showing a negative impact to customers</p></li>
+</ul>
+<p>
+You have:</p>
+<ul>
+<li><p>
+BA/BS degree or equivalent experience (4+ years preferred)</p></li>
+<li><p>
+Expertise in Java and end to end application experience</p></li>
+<li><p>
+Innate curiosity and a desire to be responsible for all aspects of reliably identifying and verifying businesses and individuals, in a small highly focused team</p></li>
+<li><p>
+Understanding and curiosity in creating highly available, accurate, global identity verification systems</p></li>
+<li><p>
+Interest in changing the payments landscape in the US and globally</p></li>
+</ul>
+<p>
+#LI-JJ1</p>
+<br>
+Additional Information<br>
+<br>
+<p>At Square, our purpose is to empower – within and outside of our walls. In order to build the best tools for the businesses and customers we support all over the world, we have to start at home with a workforce as diverse and empowered as our sellers. To this end, we take great care to evaluate all employees and job applicants equally, based on merit, competence, and qualifications. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We encourage candidates from all backgrounds to apply and always consider qualified applicants with arrest and conviction records, in accordance with the San Francisco Fair Chance Ordinance. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)squareup.com. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible. Perks At Square, we want you to be well and thrive. Our global benefits package includes: Healthcare coverage, Retirement Plans, Employee Stock Purchase Program, Meal reimbursements, Wellness perks, Paid parental leave, Flexible time off, Learning and Development resources</p>
+</div>
+</div>

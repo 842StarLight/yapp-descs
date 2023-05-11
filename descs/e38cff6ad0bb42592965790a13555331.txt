@@ -1,0 +1,132 @@
+<h2>Technical Consultant - Data</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div><div><div>
+<ul><li><b>You can be seated anywhere in the Continental U.S. for this position.</b></li></ul>
+<p></p>
+<br>
+<p>
+Are you a problem solver, explorer, and knowledge seeker – always asking, “What if?”<br>
+</p>
+<p></p>
+<p>If so, you may be the new team member we’re looking for. Because at SAS, your curiosity matters – whether you’re developing algorithms, creating customer experiences, or answering critical questions. Curiosity is our code, and the opportunities here are endless.<br>
+</p>
+<p></p>
+<p><b>What we do
+</b></p>
+<p>We’re the leader in analytics. Through our software and services, we inspire customers around the world to transform data into intelligence. Our curiosity fuels innovation, pushing boundaries, challenging the status quo and changing the way we live.<br>
+</p>
+<p></p>
+<p><b>What you’ll do</b></p>
+<p>
+As a <b>Data Quality Technical Consultant</b> within Global Hosting and US Professional Services you will lead SAS services delivery projects, including solution definition, implementation, and closeout at customer sites. You’ll possess an expert level of knowledge of Enterprise Data Management, Data Quality, Master Data Management, and Cloud Data architecture and tools, and ensure the highest levels of customer satisfaction.</p>
+<p></p>
+<br>
+<p>
+You will:</p>
+<ul>
+<li>
+Lead delivery projects directed at the implementation of SAS Data Management technologies, including, but not limited to: supporting project team delivery efforts on Data Quality and Master Data Management engagements by architecting and developing common MDM application objects and data integration routines.</li>
+<li>
+Conduct project assessments to determine overall scope, work breakdown, and cost of engagements.</li>
+<li>
+Analyze all information gathered during the sales cycle to translate sales technical vision into a detailed technical implementation proposal.
+</li>
+<li>Perform advanced or complex prototyping for SAS Data Management and/or Data Quality technologies.</li>
+<li>
+Understand, utilize and communicate best practice methodologies and industry standards internally and externally.
+</li>
+<li>Assist in the pre-sales process including:<ul>
+<li>
+Responding to RFI/RFPs utilizing the RFP Repository and crafting thorough and compelling answers.</li>
+<li>
+Delivering and\or directing pre-sales engagements to prove functional capabilities (POC’s or POV’s), including on-site support as required.
+</li>
+</ul>
+</li>
+<li>Interface with clients and project teams to manage / complete client work in accordance with established budgets, timeframes, and quality standards.</li>
+</ul>
+<div></div>
+<br>
+<p><b>
+What we’re looking for</b></p>
+<ul>
+<li>
+You’re curious, passionate, authentic, and accountable. These are our values and influence everything we do.</li>
+<li>
+You have a bachelor’s degree in a technical and/or quantitative field of study.</li>
+<li>
+5+ years of technical consulting, systems engineering, applications development and/or customer support experience.</li>
+<li>
+Strong applied knowledge of Data Quality, Master Data Management, Data Warehousing and Data Modeling fundamentals, with a focus on Dimensional Data Modeling.
+</li>
+<li>Direct hands on experience designing and developing Data Quality solutions, including cleansing, matching, standardization, and survivorship routines.</li>
+<li>
+Exposure to building Dimensional Data Warehouses and deep knowledge of areas such as change data capture, slowly changing dimensions, data staging and loading techniques.</li>
+<li>
+Knowledge of at least one programming language: SAS, Python, Java, JavaScript, C.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+The nice to haves</b></div>
+<ul>
+<li>
+Good understanding of the SAS9 Platform including architecture, security and administration.
+</li>
+<li>Hands on expertise with Data Quality solutions such as Master Data Management, Data Standardization, Cleansing, and House Holding.</li>
+<li>
+Exposure to implementing ETL solutions using SAS Data Management or other ETL tools.</li>
+<li>
+Understanding of Hadoop Data Architectures and native Hadoop Data Management tools and techniques.</li>
+<li>
+Experience with Cloud Data Architectures and Cloud vendors (AWS, Azure, GCP).</li>
+<li>
+Strong experience and proficiency in at least one relational database such as Oracle, DB2 or Teradata.</li>
+<li>
+Working knowledge of multiple operating systems such as Windows, Linux / UNIX system administration, performance monitoring and evaluation.<br>
+</li>
+</ul>
+<div></div>
+<div><b>Other knowledge, skills, and abilities</b></div>
+<ul>
+<li>
+Superior facilitation, problem solving, organizational, decision-making, written, oral and interpersonal skills.
+</li>
+<li>Ability to conceptualize clients' needs and translate into specific implementation strategies.
+</li>
+<li>Experience to organize, lead, and mentor team members on large delivery efforts.</li>
+<li>
+Excellent communication skills.
+</li>
+<li>Travel as business needs dictate (up to 50% at times).<br>
+</li>
+</ul>
+<div></div>
+<p><b>Why SAS</b></p>
+<ul>
+<li>
+We love living the #SASlife and believe that happy, healthy people have a passion for life, and bring that energy to work. No matter what your specialty or where you are in the world, your unique contributions will make a difference.</li>
+<li>
+Our multi-dimensional culture blends our different backgrounds, experiences, and perspectives. Here, it isn’t about fitting into our culture, it’s about adding to it - and we can’t wait to see what you’ll bring.</li>
+</ul>
+<div></div>
+<br>
+<div>
+SAS looks not only for the right skills, but also a fit to our core values. We seek colleagues who will contribute to the unique values that makes SAS such a great place to work. We look for the total candidate: technical skills, values fit, relationship skills, problem solvers, good communicators and, of course, innovators. Candidates must be ready to make an impact.</div>
+<div></div>
+<br>
+<div><b>
+Additional Information:</b></div>
+<div>
+To qualify, applicants must be legally authorized to work in the United States, and should not require, now or in the future, sponsorship for employment visa status. SAS is an equal opportunity employer. All qualified applicants are considered for employment without regard to race, color, religion, gender, sexual orientation, gender identity, age, national origin, disability status, protected veteran status or any other characteristic protected by law. Read more: Equal Employment Opportunity is the Law. Also view the supplement EEO is the Law, and the notice Pay Transparency</div>
+<div></div>
+<br>
+<div>
+Equivalent combination of education, training and experience may be considered in place of the above qualifications. The level of this position will be determined based on the applicant's education, skills and experience. Resumes may be considered in the order they are received. SAS employees performing certain job functions may require access to technology or software subject to export or import regulations. To comply with these regulations, SAS may obtain nationality or citizenship information from applicants for employment. SAS collects this information solely for trade law compliance purposes and does not use it to discriminate unfairly in the hiring process.</div>
+<div></div>
+<br>
+<div><i>
+Want to stay up to date with life at SAS, products and jobs? Follow us on LinkedIn</i></div>
+</div></div></div></div>
+</div>

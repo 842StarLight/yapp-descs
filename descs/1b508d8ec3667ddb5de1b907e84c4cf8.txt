@@ -1,0 +1,133 @@
+<h2>IT Manager, Test Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Johnson &amp; Johnson is recruiting for an <b>IT Manager, Test Engineering</b>, located in Somerset, NJ.<br>
+<br>
+Caring for the world, one person at a time has inspired and united the people of Johnson &amp; Johnson for over 130 years. We embrace research and science - bringing innovative ideas, products and services to advance the health and well-being of people.<div>
+<br>
+With $76.5 billion in 2017 sales, Johnson &amp; Johnson is the world's most comprehensive and broadly-based manufacturer of health care products, as well as a provider of related services, for the consumer, pharmaceutical, and medical devices markets. There are more than 250 Johnson &amp; Johnson operating companies employing over 125,000 people and with products touching the lives of over a billion people every day, throughout the world. If you have the talent and desire to touch the world, Johnson &amp; Johnson has the career opportunities to help make it happen.</div>
+<div>
+<br>
+Thriving on a diverse company culture, celebrating the uniqueness of our employees and committed to inclusion. Proud to be an equal opportunity employer.</div>
+<div>
+<br>
+As a Manager in the Test Engineering team, you will be responsible for the delivery of testing engineering projects including, planning, delivery, scope of work creation and approval. Do you love determining why a software solution is not working per the need of the business?</div>
+<div>
+<br>
+</div>
+<div>
+Responsibilities will include but not limited to:</div>
+<div><ul>
+<li>
+Engage with Technical teams and Business stakeholders to identify appropriate services required for an implementation, plan and execute the services with appropriate business value including high level quality at a competitive cost.</li>
+<li>
+Ensure vendor resources develop the risk based required testing artifacts as expected per the J&amp;J Technology policies, procedures and trainings</li>
+<li>
+Analyze need for testing different solutions/systems including Supply Chain (e.g. SAP/ERP) and other packaged applications, systems functionality and business processes;</li>
+<li>
+Provide testing oversight from a strategy and delivery perspective for major engagements;
+</li>
+<li>Ability to generate and build end-to-end test scenarios and test scripts, ensuring all test package is complete</li>
+<li>
+Ensure quality checks are being adhered to and effective testing coverage is taking place;</li>
+<li>
+Assist SMEs with User Acceptance Testing for data generation, execution and defect reporting;</li>
+<li>
+Work with Business and Supplier partners to identify the scope of the work; develop a scope of work documents and process them through approval; working with the vendor partners to provide experienced and skilled resources at the required locations to deliver work.</li>
+<li>
+Lead the overall Test engineering activities for projects</li>
+<li>
+Act as the point of contact with the development / support teams as well as the Technology Services team to resolve project related issues.</li>
+<li>
+Work with and educate the delivery project team on the services, strategy and process to engage application services</li>
+<li>
+Proactively determine and resolve issues that would present a risk to delivery of the service;</li>
+<li>
+Ensure alignment to SDLC and other J&amp;J Standards</li>
+<li>
+Measure SLAs and critical metrics as required by the teams</li>
+<li>
+Define project plans to deliver the project, monitors and reports the status of the execution of the projects ensuring projects are delivered within the agreed upon scope, budget and meeting compliance and quality requirements</li>
+<li>
+Work with SAP &amp; other platform teams to define sustainable regression test strategies with a high focus on automated testing;</li>
+<li>
+Work to define and execute the right level of performance testing based on release changes; provide guidance to the project teams in the development of testing strategies, testing process and standard methodologies.</li>
+<li>
+Additional responsibilities include educating and supporting project teams in the use of testing methodologies and tools such as JIRA-XRAY, Automation frameworks, HP ALM, &amp; other automated tools.</li>
+</ul></div>
+<br>
+<b>
+Qualifications</b><br>
+<b>Required:</b><br>
+<ul>
+<li>Bachelor's degree in Computer Science</li>
+<li>
+Proven hands-on project management/delivery</li>
+<li>
+Minimum of 4 years of experience of the following:</li>
+<ul>
+<li>
+Working within an FDA regulated environment</li>
+<li>
+Working with Test Center of Excellence</li>
+<li>
+Automated Testing Tools and processes</li>
+</ul>
+<li>
+Minimum of 3 years of experience with</li>
+<ul>
+<li>
+SAP testing
+</li>
+<li>Hands on experience with Test automation/performance testing</li>
+</ul>
+<li>
+Understanding of end to end Pharma / Medical Devices interactions and technologies, business processes/IT architecture</li>
+<li>
+Experience leading Test teams using Agile framework</li>
+<li>
+In-depth understanding of TDD/ATDD/BDD principles and of building quality into the process, coupled with Agile tool experience such as J-Bhave/Cucumber/FitNesse</li>
+<li>
+Continuous Integration tool experience (such as Jenkins) and other Agile tools (such as Bitbucket/Artifactory)</li>
+<li>
+Agile Application Lifecycle Management tool experience (such as JIRA)</li>
+<li>
+Ability to identify areas for continuous improvement and working with teams to implement these improvements</li>
+<li>
+Thorough and detailed understanding of the Software Development Lifecycle (SDLC), including Waterfall and Agile</li>
+<li>
+Highly motivated go-getter, with a can-do attitude, that can operate with limited direction and supervision, and who can ensure speed to value</li>
+<li>
+Experience as an effective communicator, team builder, and negotiator with strong persuasive skills required to make the abstract clear, negotiate with, develop, influence and lead at all levels within the organization</li>
+</ul>
+<br>
+<b>
+Preferred:</b><div>
+<ul>
+<li>
+Master’s degree is preferred in Information Technology, Computer Science or Software Engineering</li>
+<li>
+Experience with Performance Center or Load Runner</li>
+<li>
+HPALM Administration experience</li>
+<li>
+Solid attention to detail and a thorough approach to testing methodologies and quality assurance</li>
+<li>
+Understanding of CI/CD, DevOps processes</li>
+<li>
+Experience working in an Agile development frameworks (e.g. Scrum, Kanban, XP, Lean, ITIL)</li>
+<li>
+Ability to deliver quality results in a busy and dynamic business focused environment</li>
+<li>
+Ability to make decisions through thorough analysis and process excellence (PE)
+</li>
+</ul>
+<i>Johnson &amp; Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.</i><br>
+</div>
+<br>
+<b>Primary Location</b><br>
+United States-New Jersey-Somerset-<br>
+<b>Organization</b><br>
+Johnson &amp; Johnson Services Inc. (6090)<br>
+<b>Job Function</b><br>
+Development<br>
+<b>Requisition ID</b><br>
+2169190813</div></div>

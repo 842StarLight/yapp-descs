@@ -1,0 +1,78 @@
+<h2>Image Sensor Evaluation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<b>Job Description</b>
+<br>
+<br>
+ZF is a global technology company and supplies systems for passenger cars, commercial vehicles and industrial technology, enabling the next generation of mobility. With its comprehensive technology portfolio, the company offers integrated solutions for established vehicle manufacturers, mobility providers and start-up companies in the fields of transportation and mobility. ZF continually enhances its systems in the areas of digital connectivity and automation in order to allow vehicles to see, think and act.
+<br>
+In 2018, ZF achieved sales of €36.9 billion. The company has a global workforce of 149,000 with approximately 230 locations in 40 countries. ZF invests over six percent of its sales in research and development annually.<br>
+<br>
+<br>
+<b>Position Description</b>
+<br>
+<br>
+The responsibilities for an <b>Image Sensor Characterization Engineer</b> in ZF’s Division A Global Electronics Engineering – Global ASIC Development organization include: using automated EMVA1288 and other test equipment to characterize image sensors, developing evaluation boards suing schematic capture and PCB layout tools, and developing software to interface with image sensor demonstration boards.<br>
+<br>
+<br>
+<br>
+<b>Position Requirements</b>
+<br>
+<br>
+<ul>
+<li>Running EMVA1288 and other test protocols on image sensor test boards and generating test reports.</li>
+<li>
+Understanding APIs and SDKs related to image sensor demonstration boards.</li>
+<li>
+Schematic capture and PCB layout to develop demonstration boards to vet combinations of image sensors, power sources, frequency inputs, and temperature ratings that can occur in ZF products.
+</li>
+<li>Understanding image sensor parameters and adjusting parameters to run tests under various image sensor use conditions.</li>
+<li>
+Writing code and developing programs/shells, etc. to send commands and grab imagers over USB-3 or Ethernet port, to MIPI/I2C interface.</li>
+<li>
+C, C++ programming to write interface code between demonstration/interface boards and tester functions.</li>
+<li>
+Analyzing results and identifying favorable and unfavorable performance characteristics/conditions.</li>
+<li>
+Writing, analyzing, improving Python and Matlab code to analyze output images for quality in terms of viewing adequacy for machine vision applications.</li>
+<li>
+Making comparative analyses; providing feedback to team regarding how to improve image to achieve standards.</li>
+<li>
+Analyzing test report results and preparing comparative reports.</li>
+<li>
+Preparing test plans.<br>
+</li>
+</ul>
+<br>
+<br>
+<b>Essential Skills and Experience:</b>
+<br>
+<br>
+<ul>
+<li>3 years of automotive electronic design experience, including schematic capture and PCB layout.</li>
+<li>
+Programming experience in C, C++, Python, or Matlab.</li>
+<li>
+Strong laboratory skills with experience interfacing to embedded systems.</li>
+<li>
+Experience with validation of analog and digital circuits/systems.</li>
+<li>
+Highly motivated, willing to learn and contribute.</li>
+<li>
+Able to learn and work with little supervision, but knows when to ask for help.</li>
+<li>
+Strong work discipline; provides frequent feedback, discusses results, implements requested changes.</li>
+<li>
+Strong analytical and troubleshooting skills.</li>
+<li>
+Proficient using spreadsheets, word processing, simulation/analysis software, and ECAD tools.~cb~</li>
+</ul>
+<i>Equal Employment Opportunity/Affirmative Action Employer M/F/</i> <i>Vets/Disabled</i>
+<br>
+<br>
+Equal Employment Opportunity/Affirmative Action Employer M/F/Disability/Veteran
+<br>
+<b>33242BR</b>
+</div>
+<div></div>
+</div>
