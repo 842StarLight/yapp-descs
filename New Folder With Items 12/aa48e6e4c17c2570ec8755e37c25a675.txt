@@ -1,0 +1,56 @@
+<h2>Software Developer Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>2+ years of non-internship professional software development experience</li>
+<li>Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design</li>
+<li>1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.</li>
+<li>Expert knowledge of one of the following programming languages: Java, C and C++</li>
+<li>7+ years of hands on experience in software development, including design, implementation, debugging, and support, building scalable system software and/or Services</li>
+<li>Deep understanding of distributed systems and web services technology</li>
+<li>Strong at applying data structures, algorithms, and object oriented design, to solve challenging problems</li>
+<li>Experience working with REST and RPC service patterns and other client/server interaction models</li>
+<li>Track record of building and delivering mission critical, 24x7 production software systems</li>
+<li>Bachelor’s degree in Computer Science or equivalent</li>
+</ul>
+<br>
+<div>SDE, Multi-lingual Ad Technologies and International Expansion<br>
+<br>
+When done correctly, advertising allows customers to discover new products they love and brands to find new customers. Revenues generated from advertising allow us to decrease costs for our customers: save $20 when you buy a Kindle with ads customized for you. It's a win for our customers, a win for our advertisers and a win for Amazon. Amazon is investing heavily in building a world class advertising business and we are responsible for defining and delivering a collection of self-service performance advertising products that drive discovery and sales.<br>
+<br>
+Multi Lingual Ad Technologies (M-LAT) team builds platform and tools to help our diverse group of advertisers quickly create multi-lingual Ad campaigns and Store fronts that enable them to reach a global audience both on and off Amazon websites. Our bold vision is to enable advertisers to create and launch global Ad campaigns in the time it takes a barista to make a coffee. This system will cover entire spectrum of Amazon's Advertising products and offerings. In this role, you will build a multi-channel and multi-lingual Ad builder system that connects technology, data, machine learning, human translators and marketing assets to deliver the best in class experience to our advertisers. You will use ideas from every facet of computer science including distributed computing, large-scale design, big and real-time data processing, data storage, service oriented architecture, machine learning, and artificial intelligence.<br>
+<br>
+We are looking for folks with solid analytical, design and problem diagnosis skills, expertise with systems programming, high-performance applications, distributed systems or service design is a plus. We need our engineers to be versatile, display leadership qualities and be enthusiastic to tackle new problems across the full-stack as we continue to push technology forward. With your technical expertise you will manage individual projects priorities, deadlines and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.<br>
+<br>
+You are:<br>
+<ul>
+<li>Highly analytical: You solve problems in ways that can be backed up with verifiable data. You focus on driving processes, tools, and statistical methods which support rational decision-making.</li>
+<li>Technically fearless: You aren't satisfied by performing 'as expected' and push the limits past conventional boundaries.</li>
+<li>Team obsessed: You help grow your team members to achieve outstanding results. You foster the creative atmosphere to let engineers innovate, while holding them accountable for making smart decisions and delivering results.</li>
+<li>Humbitious: You’re ambitious, yet humble. You recognize that there’s always opportunity for improvement and use introspection and feedback from teammates and peers to raise the bar for your team.</li>
+<li>Engaged by ambiguity: You're able to explore new problem spaces with unique constraints and thus non-obvious solutions; you’re quick to identify any gaps in the team and the right person to fill them to best deliver value to customers.</li>
+</ul>
+<br>
+You will:<br>
+<ul>
+<li>Own technical vision and direction: You identify problems and develop solutions; you embrace performance metrics and measurement techniques because they help you assess how well system-related services are running.</li>
+<li>Collaborate on product direction: You’ll build and maintain strong relationships between engineering and partner disciplines (Product, User Experience, QA) to ensure that we're focused on delivering the right product for customers.</li>
+<li>Own your own shop: Our products reach hundreds of millions of customers around the world. We run operations 24x7x365 and the services your team delivers must meet high standards for operational excellence. Our teams own and operate the systems we build.</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Advanced Degree (MS/ME/PhD) in computer science or related discipline or 4+ years of relevant industry experience</li>
+<li>Expertise in Map/Reduce systems such as Hadoop / Hive / Flume</li>
+<li>Experience in Machine learning or web crawling</li>
+<li>Knowledge of HTTP Protocol, REST, XML, J2EE, JavaScript, AJAX a plus</li>
+<li>Familiarity with Pay for performance Ad model and the Internet advertisement industry is a plus</li>
+<li>Experience in taking a lead role developing complex software systems that have successfully been delivered to customers</li>
+<li>Knowledge of professional software engineering practices &amp; best practices for full software development life cycle, including coding standards, code reviews, source control management, build processes, testing and operations</li>
+<li>Demonstrated ability to mentor other software developers in all aspects of their engineering skillsets</li>
+<li>Experience in communicating with users, other technical teams, and senior management to collect requirements, describe software product features, product strategy and influence outcomes in technical decision-making</li>
+<li>Solid understanding of performance and efficiency with a strong customer focus</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>
+</div>

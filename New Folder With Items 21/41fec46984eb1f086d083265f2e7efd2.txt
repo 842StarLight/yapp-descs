@@ -1,0 +1,38 @@
+<h2>Java Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Overview</b><b>: </b></p>
+<p>Translations.com is looking for several talented software engineers to work on web-based applications. The developers in this group work on plugins for Content Management Systems.</p>
+<p>Translations.com is a world leader in website localization, software localization, GMS (Globalization Management System) software products, and enterprise-level, professional translation services. Our translation solutions allow a diverse array of clients to deliver local language products, services, applications, training, and content in a culturally appropriate manner.</p>
+<p><b>Description</b><b>: </b></p>
+<p>We are looking for talented engineers (developers, senior developers, tech leads) to help us build next generation localization plugins and connectors for leading content management systems, eCommerce platforms and product information management (PIM) systems. In this role you will work with product managers, UI designers, sales and marketing managers to develop new plugins/connectors and to enhance existing ones. As a member of the team, you will work on all aspects of the product from enhancing UI functionality and ease-of-use to designing efficient database schemas and everything in between. This is a great opportunity to influence our product functionality and to work with exciting and challenging technologies.</p>
+<p>This is a full time position. Candidates must like working in a startup-like environment while at the same time working for one of the largest translation services companies in the world. These positions are based at multiple Translations.com office locations throughout Europe. You will be working as part of our global engineering team, reporting to the manager in US.</p>
+<p><b>Required Skills/Experience: </b></p>
+<p>· 2-8 years of Software Design and Development experience.</p>
+<p>· Must be experienced in Java/ J2EE stack Spring MVC, Spring Core, Spring Boot and Hibernate.</p>
+<p>· Frequent usage of Spring, Reactive programming, Threads and Annotations.</p>
+<p>· Experience in Web Application Development (Web and Micro services) and SOA.</p>
+<p>· Experience in building REST based services and/or applications.</p>
+<p>· Experience in building web UI using such JavaScript frameworks like Angular, Dojo toolkit, JQuery etc.</p>
+<p>· Experience in following Java coding standards and knowledge of software development tools including GIT, Maven and JIRA.</p>
+<p>· Experience in writing SQL and NoSQL queries.</p>
+<p>· Good problem solving and analytical skills.</p>
+<p>· Open to work in multiple technologies.</p>
+<p>· Can work with minimal supervision.</p>
+<p>· Good communication skills</p>
+<p>· Proficient in English</p>
+<p>· Bachelor’s Degree in Computer Science or equivalent</p>
+<p><b>Desired Skills/Experience: </b></p>
+<p>· Knowledge of source code repositories such as SVN, GitHub or BitBucket</p>
+<p>· Comfortable interacting with clients</p>
+<p>· Good documentation skills</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Spring: 2 years (Preferred)</li>
+<li>Java: 3 years (Preferred)</li>
+</ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Work Location:</p>
+<ul><li>Multiple locations</li></ul>
+</div>

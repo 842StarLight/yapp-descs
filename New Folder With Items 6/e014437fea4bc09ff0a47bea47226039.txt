@@ -1,0 +1,66 @@
+<h2>Electrical Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h4 class="jobSectionHeader"><b>Job Description</b></h4>
+<div>
+<p><b>
+Company Summary:</b>Since 1957, battery manufacturers and developers around the globe have relied on Bitrode Corporation for innovative energy storage solutions. Starting as an in-house provider to a battery manufacturer in St. Louis, Missouri, Bitrode has continued to devote itself exclusively to serving the needs of the storage power industry. In 2008, Bitrode became a member of the Sovema family of companies, marking a significant milestone in Bitrode's continued growth and making us an even stronger player in the growing global battery markets. We offer an extensive product line of battery formation and laboratory test equipment, as well as software tools, battery simulation and manufacturing automation tools appropriate to all battery applications and chemistries.</p>
+<p><b>
+Position:</b>Electrical Engineer</p>
+<p><b>
+Reports to:</b>Director of Engineering</p>
+<p><b>
+Scope of Role:</b>Design and develop new products to maintain competitive and technological advantage over a group of products designed and manufactured by Bitrode.</p>
+<p><b>
+Principal Responsibilities:</b></p>
+<ul>
+<li>
+Design and develop new products and sustaining product platforms</li>
+<li>
+Determine parts electrical characteristics needed to build the product.</li>
+<li>
+Design/select electrical/electronic hardware for the product microprocessor, pc boards, etc. Designs may be new or modifications to existing</li>
+<li>
+Generate documentation package required to build the product schematics, bill of materials, assembly drawings, and coversheets; provide 'marked up' drawings to electrical draftsmen to complete the detail drawings. Supervise completion of the documentation and manage the project.</li>
+<li>
+Provide technical support to sales, engineering, inventory control, production, testing and management.</li>
+<li>
+Handle multiple projects simultaneously.</li>
+<li>
+Work with software group to assure correct development of firmware/software.</li>
+<li>
+Evaluate new products and components with suppliers</li>
+<li>
+Research new circuit designs, material cost reductions, and electrical methods.</li>
+</ul>
+<p><b>
+Personal Characteristics:</b></p>
+<ul>
+<li>
+Team player as well as leader</li>
+<li>
+Excellent communication skills</li>
+<li>
+Self-motivated</li>
+<li>
+Attention to detail</li>
+<li>
+Spirit of innovation to improve work procedures</li>
+<li>
+Capable of providing plans for solving complex problems</li>
+</ul>
+<p><b>
+Qualifications / Skills:</b></p>
+<ul>
+<li>
+Industrial Electronics Manufacturing</li>
+<li>
+Power Electronics</li>
+<li>
+AC/DC, DC/DC with SCRs, FETs, IGBTs</li>
+<li>
+Digital electronics DSP, PLD including control firmware</li>
+<li>
+Preferable MS in Electrical Engineering, but BS is acceptable with relevant experience</li>
+</ul>
+</div>
+</div></div>

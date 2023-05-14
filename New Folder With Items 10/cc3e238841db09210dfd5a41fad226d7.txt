@@ -1,0 +1,125 @@
+<h2>Senior Data & Analytics Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p>As a Senior Data &amp; Analytics Architect at CapTech, you will be tasked with understanding our clients’ business goals and developing a strategy to support a successful implementation. This strategy should capitalize on technology insights to improve the value of analytical data, improve effectiveness of information stewardship, and streamline the flow of data in the organization. After gaining in-depth understanding of the client’s business challenges, our architects apply experience-based insight and use state-of-the-art tools and techniques to identify the best solutions. A Senior Data &amp; Analytics Architect is also viewed as a local thought leader in the Data space. They are tasked with growing local talent and expanding the local data &amp; analytics delivery capabilities.</p>
+<p>
+Specific responsibilities for the Senior Data &amp; Analytics Architect position include:</p>
+<ul>
+<li>
+Interpret and deliver impactful plans that specify strategy and improve data integration, data quality and data delivery in support of business initiatives and roadmaps to achieve results.</li>
+<li>
+Collaborate with end users, development staff, and business analysts to ensure that prospective data architecture plans maximize the value of client data across the organization.</li>
+<li>
+Articulate architectural differences between solution methods and the advantages/disadvantages of each.</li>
+<li>
+Participate in the gathering of functional requirements and offer insight in the functional design process.</li>
+<li>
+Ensures that technical requirements are met and deployable/demonstrable.</li>
+<li>
+Initiate, evaluate, and influence data projects based on the perspective of the client’s entire organization.</li>
+<li>
+Set standards for data management and conceive projects needed to eliminate the gap between current state and future goals.</li>
+<li>
+Hands-on project and development work, as demanded by the project and client role.</li>
+<li>
+Apply detailed knowledge of organizational procedures to make independent decisions and serve as a credible resource for the client’s senior management team.</li>
+<li>
+Collaborate with CapTech business development team members during sales efforts to demonstrate CapTech’s technical capabilities, create a vision for a solution that CapTech can build, and create estimates and work plans.</li>
+<li>
+Develop less-senior resources (both CapTech and client) by teaching, empowering, reviewing results, both in technical areas and in consulting “soft” skills.</li>
+<li>
+Motivates teams to deliver high-quality work, add-value to client and collaborate across business units</li>
+<li>
+Shares project outcomes with other CapTechers to improve delivery for similar projects</li>
+<li>
+Aligns work to Account strategy and/or roadmap</li>
+<li>
+Proactively establishes new relationships with senior-level decision-makers, influencers, and connectors</li>
+<li>
+Participates and supports client culture</li>
+<li>
+Empowers team leads and supports their decisions; encourages dialogue within and across project teams</li>
+<li>
+Recognizes members for efforts and accomplishments; shares success with entire team</li>
+<li>
+Coaches team leads to effectively address and resolve conflicts and develops future leaders</li>
+<li>
+Creates stretch opportunities and inspires confidence in others’ abilities</li>
+<li>
+Identifies and closes technical skill gaps within or across teams</li>
+<li>
+Aligns self-development with organizational technology strategy</li>
+<li>
+Helps drive innovation/ Technology thought leadership by identifying emerging trends and solutions that fuel growth for clients and CapTech</li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+<p>Specific qualifications for the Senior Data &amp; Analytics Architect position include:</p>
+<ul>
+<li>
+Bachelor's degree in Computer Science, Software Engineering, MIS or equivalent combination of education and experience</li>
+<li>
+Ability to think strategically and relate architectural decisions/recommendations to business needs and client culture.</li>
+<li>
+Experience in the design and implementation of data architecture solutions.</li>
+<li>
+Familiarity with BI tools such as Tableau and Microsoft Power BI.</li>
+<li>
+Experience with data integration tools such as SSIS or Informatica.</li>
+<li>
+Familiarity with modern data architectures and concepts such as streaming, Big Data as a Service, schema on read and real-time data access.</li>
+<li>
+Experience with at least two different RDBMS, such as Teradata, Oracle or MS SQL server.</li>
+<li>
+Ability to assess traditional and modern architectural components required based on business needs.</li>
+<li>
+Experienced across all phases of data modeling, from conceptualization to database optimization.</li>
+<li>
+Knowledge of how to assess the performance of data solutions, how to diagnose performance problems, and tools used to monitor and tune performance.</li>
+<li>
+Cloud-based Data Warehousing experience a plus.</li>
+<li>
+Experience with customer, billing, and transactional systems a plus.</li>
+<li>
+Flexibility with travel.</li>
+<li>
+Ability to build, coach and mentor data &amp; analytics team members</li>
+</ul>
+<br>
+Additional Information<br>
+<br>
+<p>We offer challenging and impactful jobs with professional career paths. All CapTechers can keep their hands-on technology no matter what position they hold. Our employees find their work exciting and rewarding in a culture filled with opportunities to have fun along the way.</p>
+<p>
+At CapTech we offer a competitive and comprehensive benefits package including, but not limited to:</p>
+<ul>
+<li>
+Competitive salary with performance-based bonus opportunities</li>
+<li>
+Single and Family Health Insurance plans, including Dental coverage</li>
+<li>
+Short-Term and Long-Term disability</li>
+<li>
+Matching 401(k)</li>
+<li>
+Competitive Paid Time Off</li>
+<li>
+Training and Certification opportunities eligible for expense reimbursement</li>
+<li>
+Team building and social activities</li>
+<li>
+Mentor program to help you develop your career</li>
+</ul>
+<p><b>
+CapTech is an equal opportunity employer committed to fostering a culture of equality, inclusion and fairness — each foundational to our core values. We strive to create a diverse environment where each employee is encouraged to bring their unique ideas, backgrounds and experiences to the workplace.</b></p>
+<p>
+Candidates must be eligible to work in the U.S. for any employer directly (we are not open to contract or “corp to corp” agreements). At this time, CapTech cannot transfer nor sponsor a work visa for this position. Applicants must be authorized to work directly for any employer in the United States without visa sponsorship.</p>
+<p><br>
+CapTech is a Drug-Free work place.<br>
+Candidates must have the ability to work at CapTech’s client locations.<br>
+All positions include the possibility of travel.<br>
+CapTech has not contracted/does not contract with any outside vendors in its recruitment process. If you are interested in this position, please apply to CapTech directly.</p>
+</div>
+</div>

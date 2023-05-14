@@ -1,0 +1,40 @@
+<h2>Devops Engineer / Network Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>DevOps / Network Engineer<br>
+</div>
+<div>NetFortris provides unified phone systems and applications for growing businesses. More than 25,000 businesses in 99 countries rely on NetFortris to help them sell, service, and collaborate with ease. We are a team of 300+ engineers, support professionals, operations and finance experts, sales experts and marketers who work together to delight our clients and have a little fun.<br>
+</div>
+<div>We are looking for a talented engineer with Network experience and DevOps skills to join the NetFortris team. This position's primary focus is environment automation and improvement, while also participating in builds/deployments and legacy environment upkeep.<br>
+</div>
+<div>Our primary product consists of a high-level, intuitive, web-based interface to the open-source PBX software Asterisk. We've also built various other desktop applications and APIs . The ideal candidate possesses strong problem-solving skills, diplomatic communication experience, a breadth of industry good practices knowledge, and a desire to contribute.<br>
+</div>
+<div><b>Responsibilities</b></div>
+<div>Contribute to configuration management (Puppet and SaltStack).</div>
+<div>Contribute to procedures for packaging, deploying and automating Netfortris software.</div>
+<div>Participation in Release management.</div>
+<div>Fixing environment issues that QA or Developers report.</div>
+<div>Maintaining load balancers (HAProxy)</div>
+<div>Scripting (Python, Bash)</div>
+<div>Setup, Configure, Troubleshoot Linux (Networking, VLAN, Network Bridge)</div>
+<div></div>
+<div><b>Skills &amp; Requirements</b></div>
+<div>5+ years of Network deployment and administration experience</div>
+<div>2+ years of solid experience as DevOps Engineer and scripting in Bash, Python and / or Perl</div>
+<div>2+ years of networking experience (LAN,VLAN,TCP/IP, Layer 2, Layer 3)</div>
+<div>Have solid practical skills with Linux, Git and Configuration Frameworks like Puppet or SaltStack</div>
+<div>Strong ability to troubleshoot complex issues ranging from system resources to application stack traces</div>
+<div>Comfortable with Agile methodologies and working closely within small teams</div>
+<div>Self-motivated / self-starter</div>
+<div>Bachelor’s degree in Computer Science or related degree, or equivalent industry experience</div>
+<div></div>
+<div>At NetFortris we believe in promoting from within and investing in our employees. We offer a very competitive compensation package and a comprehensive health insurance package (medical, dental, vision, FSA, HSA, 401K).</div>
+<div></div>
+<div>With some of the smartest people in the telephony business working for us, this is a great opportunity to jump onboard and work with people who are passionate about what they do. Check us out at www.netfortris.com</div>
+<div></div>
+<div>If you’re the Network / Devops Engineer Professional we’re looking for APPLY NOW!</div>
+<div></div>
+<div>Local candidates preferred. No sponsorships or agency referrals.</div>
+</div>
+<div></div>
+</div>

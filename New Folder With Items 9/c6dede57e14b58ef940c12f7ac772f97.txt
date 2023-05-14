@@ -1,0 +1,28 @@
+<h2>Principal Product Manager - Technical</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>Bachelor’s Degree in Computer Science or a related field, or 10+ years relevant work experience in product management</li>
+<li>Experience in leading product development start to finish, including shipping customer-facing products, with the ability to drive prioritization consensus across business units and serve as an effective liaison between customers and engineering.</li>
+</ul></div>
+<br>
+<p>Join AWS IoT to build and launch a confidential new service that will connect billions of IoT devices to AWS. We are looking for a Principal Product Manager to own the product end-to-end. This person will work closely with teams across IoT and Lab126 to drive offerings that promises to be a game changer in the connected products arena.<br>
+For Amazon, the proliferation of connected devices presents a rare opportunity to establish higher-value, longer-term relationships with our existing cloud customers, and also engage with new classes of customers. The more constrained a device in compute, storage, bandwidth or battery, the more heavily it relies upon other systems to execute logic, communicate with other devices, and record sensor and telemetry data. The aggregate volumes of data will produce substantial new cloud workloads.<br>
+As a Principal Product Manager, you will be in charge of the overall strategy of your product, gathering customer feedback and understanding their needs and pain point, you will define the pricing models and work closely with Business Development and Marketing to ensure fast adoption of the product. As this is a technical role, you will also work closely with the Developers and the customer experience team to define the details, specifications and user experience of the product, ensure the path to successful shipping of features and measure adoption over time<br>
+<br>
+Our early success shows that AWS can become the default platform that powers connected devices and their associated apps and cloud workloads for end-to-end solutions, inclusive of a strong ecosystem of technology partners. We hear from our customers that the complexity of putting together end to end solution is hindering their ability to bring their solutions to market. As a platform, AWS IoT and the rest of AWS services can serve customers and partners needs is multiple way but they need more hand holding and guidance from AWS than with other, more traditional product lines. End-to-end solutions from AWS IoT and partners will remove the existing frictions and complexity manufacturers, app developers and end-customers face when putting together solutions.<br>
+<br>
+The ideal candidate will be excited about the incredible opportunity connected products represent and will be passionate about building great technology solutions that deliver high quality services. A deep understanding of the challenges of IoT, including Security, is a must for this role. You will be joining an existing team of PM and we thrive to build an environment of collaboration and sharing that will benefit the whole organization and our customers. You will be customer centric and enjoy working in a fast-paced environment that requires strong technical and business judgment and great communication skills (written and verbal).</p>
+<br>
+<ul>
+<li>Experience in one or more specific IoT, electronic devices engineering, cloud programming, networking, wireless technologies.</li>
+<li>Demonstrated solid judgment and effective communication skills. Ability to see the big picture, while navigating technology and partner development decisions and tradeoffs.</li>
+<li>Outstanding written and verbal communication skills with an emphasis on communicating technical requirements and solutions to internal and external audiences.</li>
+<li>Strong customer focus, ownership, urgency and drive.</li>
+<li>Strong technical acumen and understanding of emerging disruptive technologies, like cloud computing, IoT</li>
+<li>Proven success in delivering complex technology products/services in a high growth environment.</li>
+<li>MBA or Master's degree in Technology (Computer Science, Computer Engineering).</li>
+<li>Knowledge of consumer related metrics, funnel analysis, conversion, consumer acquisition and retention and go to market strategies for technology product and services.</li>
+<li>Having managed business models, customer and market segmentation, marketing plans, sales support/field marketing, and pricing for Internet services or enterprise software products.</li>
+<li>Experience with User and Market research.</li>
+</ul>
+</div>

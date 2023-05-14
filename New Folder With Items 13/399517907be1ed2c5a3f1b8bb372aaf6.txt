@@ -1,0 +1,59 @@
+<h2>Big Data Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Chase is the U.S consumer and commercial banking business of JPMorgan Chase &amp; Co. (NYSE: JPM), a leading global financial services firm with assets of $2.3 trillion and operations in more than 60 countries. We serve more than 50 million consumers and small businesses through more than 5,600 bank branches, 18,700 ATMs, credit cards, mortgage offices and online and mobile banking as well as through relationships with auto dealerships. Within Chase, Consumer Banking provides great products and an outstanding customer experience at over 5,600 branches and 18,700 ATMs in 23 states, as well as online and over the phone. As a Chase employee, you’ll be part of a company that makes a real difference every day for our customers, our communities, and ourselves. With a focus on customer service, you’ll put others first, do what’s right and create solutions that make lives better. We invite you to build your career on our strong foundation and help shape what’s next – for you and for us.<br>
+</div>
+<div>As a Software Engineer, your mission is to innovate towards creating next-level solutions that improve the way our business is run. Your deep knowledge of design, development, and quality engineering will help your team raise their game, meeting new standards, as well as satisfying both business and functional requirements. Your expertise in various technology domains will be counted on to set strategic direction and solve complex and mission critical problems. Your quest to embracing leading-edge technologies and methodologies inspires your team to follow suit. And best of all, you’ll be able to harness massive amounts of brainpower through our global network of technologists from around<br>
+the world.<br>
+</div>
+<div>CCB Chase Merchant Services is undertaking an expansion of its international capabilities and alternative methods of payments for the product line. As a technology platform owner you will be responsible for developing cloud based solutions to process payments for the Chase Merchant Services line of business in a global model. As the platform owner you will drive a multi-year strategy partnering with product management to build capabilities and deprecate older assets. This role will require building partnerships across the organization to provide client access and servicing. Finally, you will need the ability to be client facing for large clients to support sales and on-boarding activities to the solution.<br>
+</div>
+</div>
+<div></div>
+<div>This role requires a wide variety of strengths and skills including:<br>
+</div>
+<ul>
+<li>
+5+ years’ experience with full development lifecycle from inception through implementation</li>
+<li>
+2+ years’ experience with building large scale big data applications</li>
+<li>
+Experience building Data Lake using Cloudera or Hortonworks distributions</li>
+<li>
+Hands-on experience in HDFS, MapReduce, Yarn &amp; Hive</li>
+<li>
+Extensive experience in Spark leveraging Python, Scala or R.In depth knowledge of Java 8 and hands-on Java knowledge is required</li>
+<li>
+Experience working on 1 or more NoSQL Databases such as Cassandra, HBase, MongoDB, DynamoDB, Elastic Search</li>
+<li>
+Hands on experience with building CI/CD</li>
+<li>
+Experience with private cloud – PCF</li>
+<li>
+Experience in developing software solutions leveraging Test Driven Development (TDD)</li>
+<li>
+Expertise in Data governance and Data Quality</li>
+<li>
+Experience working with PCI Data is a plus</li>
+<li>
+Experience working with Data Scientists</li>
+<li>
+In depth knowledge of OO and SOLID design principles</li>
+<li>
+Demonstrable experience of successfully delivering big data projects using Kafka, Spark, Cassandra and related stack on premise or cloud</li>
+<li>
+Able to tune big data solutions to improve performance</li>
+<li>
+Excellent understand of Spring framework</li>
+<li>
+Experience with Oracle databases</li>
+</ul>
+<div></div>
+<br>
+<div>
+When you work at JPMorgan Chase &amp; Co., you’re not just working at a global financial institution. You’re an integral part of one of the world’s biggest tech companies. In 14 technology hubs worldwide, our team of 40,000+ technologists design, build and deploy everything from enterprise technology initiatives to big data and mobile solutions, as well as innovations in electronic payments, cybersecurity, machine learning, and cloud development. Our $9.5B+ annual investment in technology enables us to hire people to create innovative solutions that will not only transform the financial services industry, but also change the world.<br>
+</div>
+<div></div>
+<div>
+At JPMorgan Chase &amp; Co. we value the unique skills of every employee, and we’re building a technology organization that thrives on diversity. We encourage professional growth and career development, and offer competitive benefits and compensation. If you’re looking to build your career as part of a global technology team tackling big challenges that impact the lives of people and companies all around the world, we want to meet you.</div>
+</div></div>

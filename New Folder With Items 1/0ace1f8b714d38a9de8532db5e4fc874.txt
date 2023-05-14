@@ -1,0 +1,78 @@
+<h2>Technical Integration Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<b>:</b>
+<br>
+The Elsevier Clinical Solutions division is seeking a Technical Integration Specialist who is a proven successful self-starter with strong technical experience and expertise in SaaS trends and key integration workflows (Single Sign On, embedded URL linking, Infobutton, and others). As a subject matter expert, this individual actively participates in external customer and third-party vendor discussions in technical specifications, system configuration and back-office system alignment. This role balances the understanding of Elsevier internal processes with how to deliver products effectively to customers. Additionally, the role will develop and refine current protocols to ensure overall customer experience improvements.
+<br>
+<br>
+Current customers include leading-edge, independent physician practices, hospitals, integrated health networks, and academic medical centers. Specific customer interaction points are IT architecture implementation up to the chief information security officer level. This role can be based in one of 2 locations: Philadelphia, PA or St. Louis, MO.<br>
+<br>
+<b>Organizational Overview:</b><br>
+The Clinical Solutions Division of Elsevier uses its industry-leading intellectual property and content to create Clinical and Drug Reference, Patient Engagement, Performance Management, Workflow and Decision Support products for healthcare professionals across a range of practice settings and commercial organizations. These products and tools aid in disease management, medication error reductions, workflow improvements, effective patient management and economic analysis and cost control.<br>
+<br>
+The Commercial organization within Clinical Solutions drives sales and facilitates client relationships throughout the customer lifecycle with ongoing engagement and training programs. As a part of this umbrella, the Customer Success team is focused on delighting the customer in providing critical clinically-focused implementation services, robust engagement and training programs and commercial readiness / go-to-market support.<br>
+<br>
+<b>Responsibilities:</b><br>
+The Technical Integration Specialist will:</div>
+<div>
+<br>
+<br>
+1. Act as an internal subject matter expert to translate back-office systems technology into configurations that best fit customer and business needs</div>
+<div>
+ a. Grasp in-depth business models and business rules that guide each of the Clinical Solutions products<br>
+ b. Understand the varied access and entitlement methods available across the business<br>
+ c. Translate that understanding at a client level, essentially matching the clients needs and technical nuances with what Elsevier can offer.</div>
+<div>
+<br>
+<br>
+2. Act as an external client champion for more advanced technical needs that involve integration and customization with close partnership with Engagement.<br>
+ a. Lead complex integration discussions with IT counterparts and stakeholders<br>
+ b. Respond to customer requests regarding technical requirements and integration capabilities.<br>
+ c. Identify process improvements, recommend solutions, implement changes and sustain results.<br>
+ d. Facilitate communication across multiple departments to ensure success of downstream functions.</div>
+<div>
+<br>
+3. Validate workflow processes and creating standardized documentation for integration of key workflows within EHR systems (Epic, Cerner, Meditech, AllScripts, among others) and various Learning Management System (LMS) partners.</div>
+<div>
+ a. Develop and refine process for enhanced features that drive retention<br>
+<br>
+<b>We’re offering:</b><br>
+<ul>
+<li>Competitive salary commensurate with your experience and skills</li>
+<li>Generous bonus plan based on performance</li>
+<li>Excellent medical, dental and 401K benefits</li>
+<li>All expenses and travel paid</li>
+<li>Excellent training, a team to support you, and a manager to provide mentorship for your ongoing development</li>
+<li>Numerous company-sponsored resources to assist your self-development and career progression</li>
+<li>An opportunity to grow and advance within a truly global organization</li>
+<li>Elsevier is an Equal Opportunity Employer</li>
+</ul>
+<br>
+The Clinical Solutions Division serves the following markets:<br>
+<ul>
+<li>Healthcare Providers (Hospitals &amp; Healthcare Systems)</li>
+<li>Healthcare Information Technology (HIT) Vendors</li>
+<li>Pharmacy Management System Vendors</li>
+<li>Payers, Pharmacy Benefit Managers (PBM’s)</li>
+<li>Pharmaceutical Manufacturers</li>
+<li>Retail Pharmacy National Chains, Buying Groups &amp; Independents</li>
+</ul>
+<br>
+</div>
+<div></div>
+<div><div>Education and Skill Requirements<br>
+<ul>
+<li>Healthcare IT Implementation support, project management and technical experience preferred.</li>
+<li>Experience with EHR Integration and/or work with interoperability to EHR vendors (Epic, Cerner. Allscripts, etc.) preferred.</li>
+<li>Heavy IT (Client/Server applications, HL7, FHIR, OAuth, SAML, ADFS) knowledge and experience required.</li>
+<li>Experience with Excel, Word, MS Project, and Visio required</li>
+<li>Multi-task effectively within agreed upon deadlines.</li>
+<li>BS/BA degree required.</li>
+</ul>
+</div></div>
+</div>
+<div></div>
+</div>

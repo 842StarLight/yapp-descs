@@ -1,0 +1,94 @@
+<h2>Senior Programming Support with Bachelor’s degree in Computer Science</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>As a <b>Senior Programming Support</b><b> with </b>Bachelor<b>’s</b> degree in Computer Science, Computer Information Systems, Information Technology, or a combination of education and experience equating to the U.S. equivalent of a Bachelor’s degree in one of the aforementioned subjects.</p>
+<p><b>
+Job Responsibilities :</b></p>
+<br>
+<p></p>
+<ul>
+<li>Analyze and document complex system requirement specifications.</li>
+<li>Prepare detailed specifications and data flow diagrams.</li>
+<li>Design business process and modules.</li>
+<li>Design and develop applications in .NET Framework 4.6 with NET, C#, MVC architecture, Entity Framework 6 utilizing Oracle 12C database.</li>
+<li>Develop software and subsystems according to specifications.</li>
+<li>Develop and maintain Oracle SQL, PL/SQL with Java embedded SQLJ, scripts for tables, views, and other database objects.</li>
+<li>Integrate and test software components and manage their implementation.</li>
+<li>Estimate software development time and schedules.</li>
+<li>Provide ongoing system and application maintenance and troubleshooting.</li>
+<li>Review existing programs and recommend performance improvements.</li>
+<li>Ability to work across various computer operating systems (Windows, Linux)</li>
+<li>Provide Sales Force administrator and application development support</li>
+<li>Design and develop applications using response design technologies such as Bootstrap and Angular.</li>
+<li>Design and develop REST API’s using latest Microsoft technologies stack .NET CORE 2.0 WEB API.</li>
+<li>Design and develop the applications using strong software engineering skills on the latest .NET CORE 2.0.</li>
+<li>Prepares own work for inclusion in the release/deployment management process using VSTS, TFS or Microsoft DevOps (CI/CD) process.</li>
+<li>Develop web services using REST principles which returns JSON, XML and different MIME types.</li>
+<li>Design and Implement software applications in the latest mobile first technologies in Microsoft shop.</li>
+<li>Write robust and complex stored procedures and optimize SQL queries for performance tuning.</li>
+<li>Write unit test cases for the developed functionalities using xUnit.</li>
+<li>Follow agile methodologies and experience working in an agile environment.</li>
+<li>Participates in peer technical reviews.</li>
+<li>Understands and interprets detailed technical specifications.</li>
+<li>Troubleshoots identified problems and provides support and follow-up for issues</li>
+<br>
+</ul>
+<p></p>
+<p><b>
+</b></p>
+<p><b>Work experience / Technologies required for the position:<br>
+</b></p>
+<p></p>
+<ul>
+<li>Minimum 5 years of experience as a Software Developer / Senior Programmer / Technical Lead or similar Positions.</li>
+<li>Minimum 5 years of experience developing, deploying and managing applications on a multi-tier architecture with high-availability and/or replication environment.</li>
+<li>Minimum of 5 years of experience in the design, development and deployment of web based applications in .NET Framework (4.5 or higher) with NET, C#, MVC 5 architecture, Entity Framework utilizing Oracle 12C data base.</li>
+<li>Minimum of 5 years of experience in JavaScript, jQuery, AJAX, HTML5 and CSS, Bootstrap, JSON, Web services, Oracle Managed Data Access Entity Framework, WEB API, and integration with backend services.</li>
+<li>Expertise in Oracle database management running on RedHat Enterprise Linux and IBM p520s servers with AIX operation systems.</li>
+<li>Must be able to create technical documentation and have good communication/training skills</li>
+<li>Minimum 3 years of experience developing and deploying reports via SQL Server Reporting Service, Crystal Reports, etc.</li>
+<li>Minimum 3 years of experience writing Oracle SQL, PL/SQL with Java embedded SQLJ, Oracle BLOB; scripts for table, view, and other database objects.</li>
+<li>Minimum 3 years of experience with Oracle SQL Developer and/or Toad data base management tools.</li>
+<li>Minimum of 3 years of experience developing and maintaining software technical documents (i.e. System Requirement Specifications, System Design Documents, Software Test Documents, etc.)</li>
+<li>Minimum 3 years of experience managing software version control via Subversion (SVN) and Team Foundation Software (TFS).</li>
+<li>Minimum of 3 years of experience with Microsoft Visual Studio (preferably 2017).</li>
+<li>Minimum of 3 years of experience with LINQ, Lambdas expression, Service Oriented Architecture (SOA).</li>
+<li>Minimum of 3 years of experience with Microsoft Visual Studio Team Suite Testing Tools.</li>
+</ul>
+<p>Minimum of 3 years of experience in Agile software development.</p>
+<br>
+<p></p>
+<p>
+Work location is Portland, ME with required travel to client locations throughout USA.</p>
+<br>
+<p></p>
+<p>
+LibertyCom LLC is an equal opportunity employer (EOE).</p>
+<br>
+<p></p>
+<p>
+Please Mail Resumes to:</p>
+<br>
+<p></p>
+<p>
+LibertyCom, LLC.</p>
+<p>
+415 Congress Street, Suite 202, Unit 2</p>
+<p>
+Portland, ME – 04101</p>
+<br>
+<p></p>
+<p>
+E-Mail: info@libertycom.com</p>
+</div>
+<br><div>
+<p>If you are interested and eligible for any of our open positions, email your profiles to</p>
+<p>
+info@libertycom.com</p>
+<p>
+or send resumes to:</p>
+<p>
+124 West Capitol, Suite # 712,<br>
+Little Rock, AR 72201 USA</p>
+</div>
+</div>

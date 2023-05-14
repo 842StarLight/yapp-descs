@@ -1,0 +1,58 @@
+<h2>Senior Firmware Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Company Description</b></p>
+<p>
+Hamilton Company is a global enterprise headquartered in Reno, Nevada with manufacturing facilities in Reno, Boston and Bonaduz, Switzerland. Branch sales offices are located in France, Germany, Canada, Latin America, Japan, Singapore and the United Kingdom.</p>
+<p>
+We are the worldwide leader in the design and manufacture of manual, semi-automated and robotic products for precision fluid measuring. For over 56 years, Hamilton has been satisfying customer needs by combining quality materials with skilled workmanship, ensuring the highest level of performance of every precision fluid measuring device we manufacture.</p>
+<p><b>
+Job Description:</b></p>
+<p>
+We have an immediate opening for a Firmware Engineer to work on our next generation of precision fluid handling robotics equipment. Desired candidates must exhibit the following traits:</p>
+<ul>
+<li>
+Demonstrable proficiency in the "C++" language, especially relating to embedded systems development.</li>
+<li>
+Demonstrable experience in Object Oriented Design of class libraries/extended class hierarchies and applications of design patterns.</li>
+<li>
+Excellent written and verbal communication skills.</li>
+<li>
+Some understanding of classic software lifecycle models and the associated documentation.</li>
+<li>
+Ability to understand schematics and troubleshoot prototype circuitry using basic electronic measurement equipment.</li>
+<li>
+Experience in ARM microcontrollers, TCP/IP, CANBus and ARCNet are a plus.</li>
+</ul>
+<p><b>
+Qualifications:</b></p>
+<ul>
+<li>
+B.S. degree in computer science, computer engineering, electrical engineering or other related field.</li>
+<li>
+Must have extensive DC motor closed loop control experience.</li>
+<li>
+10 plus years of experience preferred.</li>
+</ul>
+<p><b>
+Additional information:</b></p>
+<ul>
+<li>
+Diverse portfolio of exciting and innovative design projects</li>
+<li>
+Tremendous opportunities for professional growth and advancement</li>
+<li>
+Commitment to sustainable design</li>
+<li>
+Competitive Compensation</li>
+<li>
+Excellent Benefit Package
+</li>
+<li>Solid Stable Company</li>
+<li>
+Drug free workplace.</li>
+</ul>
+<p>
+Learn more about us @: www.hamiltoncompany.com</p>
+<p>
+It is the policy of this organization to provide equal employment opportunities to all qualified applicants.</p>
+</div></div>

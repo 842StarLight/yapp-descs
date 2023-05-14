@@ -1,0 +1,45 @@
+<h2>Partner Engineer, Google Cloud</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Note: By applying to this position your application is automatically submitted to the following locations: <b>Austin, TX, USA; Chicago, IL, USA; Sunnyvale, CA, USA; Reston, VA, USA; Cambridge, MA, USA; Atlanta, GA, USA</b><p>
+Minimum qualifications:</p>
+<ul>
+<li>
+Experience serving in the capacity of a Technical Sales Engineer in a cloud computing environment or equivalent experience in a customer and/or partner-facing role.</li>
+<li>Experience with cloud computing concepts such as Big Data, PaaS and IaaS technologies.</li>
+<li>Experience presenting and delivering technical pitches.</li>
+<li>Ability to travel.</li>
+</ul>
+<br>
+<p>Preferred qualifications:</p>
+<ul>
+<li>
+Bachelor’s degree in Computer Science, a related field or equivalent practical experience.</li>
+<li>Experience in, and understanding of, data and information management as it relates to big data trends and business challenges.</li>
+<li>Experience using and/or managing databases.</li>
+<li>Experience with networking concepts including: routing, VPNs, load balancers and firewalls.</li>
+<li>Experience architecting and developing software or infrastructure for scalable, distributed systems.</li>
+<li>Ability to quickly learn, understand and work with new and emerging technologies, methodologies, and solutions in the cloud/IT technology space.</li>
+</ul>
+<div>
+<h2 class="jobSectionHeader"><b>About the job</b></h2>
+<p>
+When leading companies choose Google Cloud it's a huge win for spreading the power of cloud computing globally. Once educational institutions, government agencies, and other businesses sign on to use Google Cloud products, you come in to facilitate making their work more productive, mobile, and collaborative. You assist fellow sales Googlers by problem-solving key technical issues for our customers. You liaise with the product marketing management and engineering teams to stay on top of industry trends and devise enhancements to Google Cloud products.</p>
+<p>As a Partner Engineer, you'll contribute experience in public and hybrid cloud, software development cycle, and SQL-based relational databases. You will bridge the gap between a customer’s needs and a partner’s ability to deliver on them.<br>
+<br>
+In this role, you will work closely with business development and sales managers to grow and support the Google Cloud partner ecosystem. Partner engineers understand the technical capabilities of our partners and are in the best position to recommend the right partner to our customers. You will contribute to customer adoption of Google Cloud by supporting partners as they illustrate how Google Cloud services can help customers innovate, bring their services to market faster, differentiate against the competition, and generate growth. You'll also help partners succeed in the migration and deployment phase, assuring they have full access to Google Cloud’s artifacts, tools, templates, and best practices.<br>
+<br>
+Google Cloud helps businesses and organizations empower their employees, serve their customers, and build what’s next – all with technology built in the cloud. Our products are engineered for security, reliability, and scalability, running infrastructure to applications, devices and hardware.</p>
+<p>
+From startups building their first app to billion-user consumer companies crunching big data, the Google Cloud Platform gives developers and businesses the most advanced data and analytics solution on the market, along with Google's secure, high performance infrastructure. Our team of technical account managers and software engineers work with partners across all functions to develop solutions that harness Google's planet-wide platform to solve the world's most challenging problems.</p>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<ul>
+<li>Recommend integration strategies, enterprise architectures, platforms, and application infrastructure required to successfully implement a complete solution on Google Cloud.
+</li>
+<li>Manage technical relationship with our partners and empowering them to drive a successful pilot or proof of concept.</li>
+<li>Work with the team to identify and qualify partnership opportunities.</li>
+<li>Support partners drive toward customer acceptance of the technical proposal, leading to a commercial proposal and eventual commercial agreement.</li>
+<li>Work directly with partners during the migration phase to assure they have all the tools necessary to deliver a successful deployment.</li>
+</ul>
+</div>At Google, we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.</div></div>

@@ -1,0 +1,89 @@
+<h2>Salesforce Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div><div>
+<div>Hexagon is a global leader in sensor, software and autonomous solutions. We are putting data to work to boost efficiency, productivity, and quality across industrial, manufacturing, infrastructure, safety, and mobility applications.</div>
+<div></div>
+<br>
+<div>
+Our technologies are shaping urban and production ecosystems to become increasingly connected and autonomous- ensuring a scalable, sustainable future.</div>
+<div></div>
+<br>
+<div>
+Hexagon’s PPM division empowers its clients to transform unstructured information into a smart digital asset to visualize, build, and manage structures and facilities of all complexities, ensuring safe and efficient operation throughout the entire lifecycle.<br>
+</div>
+<div></div>
+<div>Hexagon (Nasdaq Stockholm: HEXA B) has approximately 20,000 employees in 50 countries. Learn more at hexagon.com and follow us @HexagonAB.</div>
+<div></div>
+<br>
+<div>
+© 2019 Hexagon AB and/or its subsidiaries and affiliates. All rights reserved.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<p>The role of the <b>Salesforce Administrator</b> is to provide support to a global sales organization on a variety of sales processes such as opportunity management and quoting. The role requires working within a global virtual team of Salesforce Admins to provide first line support, implement configuration changes in a sandbox, test changes, and ultimately deploy changes to production. In addition to technical skills, the Salesforce Administrator must have a good understanding of business processes in order to gather requirements and represent Sales on the Governance Board. The Salesforce Administrator must also understand the relationship between the sales processes and the processes in other parts of the business such Marketing and Order Processing. A good understanding of all the Salesforce data is also required in order to build reports and aid with data management such as mass updates.</p>
+<p>
+Specific job duties include:</p>
+<ul>
+<li>
+First line support of Cases filed in Salesforce by end users (Regional and Global), and second line support of Cases escalated from regional Salesforce Admins</li>
+<li>
+Support both employee users and also partner users who use the Partner Community for opportunity management and quoting</li>
+<li>
+Provisioning of users and general security management including changes to profiles, roles, etc.</li>
+<li>
+Configuration of objects, fields, record types, page layouts, workflows, validations, etc.</li>
+<li>
+Provide guidance in the design of enhancements to Salesforce based on a comprehensive understanding of both Salesforce and the business processes</li>
+<li>
+On-boarding of new users which includes both individual and group training</li>
+<li>
+Creation and modification of Lead Assignment to Sales rules</li>
+<li>
+Liaison to a number of teams such as the Marketing Automation team and Order fulfillment teams</li>
+<li>
+Assist with data migrations and integrations to other systems as needed</li>
+<li>
+Creation and modification of custom Reports and Dashboards for various parts of the organization such as Sales, Marketing, and Finance</li>
+<li>
+Data Management duties include assisting with bulk updating and data cleanup</li>
+<li>
+Provide support for the ongoing global Apttus CPQ implementation for Sales</li>
+<li>
+Become well-versed in each new Salesforce and Apttus release and the resulting business impact if added to system</li>
+<li>
+Continuing education of all Salesforce Admin functionality within the system</li>
+<li>
+Represent users on the Governance Board, implement new functionality as directed by the Board, and then train and communicate with users as needed</li>
+<li>
+Test functionality that is part of a project release or a maintenance release</li>
+<li>
+Contribute to documentation as needed</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<ul>
+<li>Minimum of a Bachelor's Degree in Business, Marketing, Sales, MIS, or related field</li>
+<li>
+2+ years of Salesforce administrative experience with Salesforce Admin certification preferred</li>
+<li>
+Excellent interpersonal, administrative, and oral/written communication skills</li>
+<li>
+Highly detail oriented, with strong analytical skills</li>
+<li>
+Understanding of Demand Tools or Data Loader preferred</li>
+<li>
+Ability to work independently, as well as part of a team, on multiple active projects</li>
+<li>
+Ability to take initiative and even lead other team members as needed</li>
+<li>
+Good balance required between a solid technical ability and a solid understanding of business processes</li>
+<li>
+Must be willing to travel periodically and be flexible to collaborate across multiple time zones and geographies</li>
+</ul>
+<div>
+#LI-JS1</div>
+</div></div></div>
+</div></div>

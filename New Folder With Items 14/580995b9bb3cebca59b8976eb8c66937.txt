@@ -1,0 +1,72 @@
+<h2>Senior Manager Field Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Senior Manager Field Engineering - Cloud Native Applications</b></p>
+<p><br>
+<b>
+Our Company</b></p>
+<p></p>
+<p>
+At VMware we believe that Kubernetes, and by extension Cloud Native, will transform the next generation of enterprise infrastructure and applications the way Virtualization and Java have in the past. Customers will look to containers to avoid lock in with public clouds and the industry has aligned around Kubernetes as the orchestration engine for these containers. VMware is investing in building a modern stack that focuses on this next generation of enterprise computing incorporating both traditional workloads and cloud applications with our core platform. For these reasons, we believe no one is better positioned than VMware to win in the multi-cloud era.</p>
+<p></p>
+<p>
+To that end, VMware is investing in a new strategic function to activate recent investments in container orchestration, cloud workload mobility and cloud native application development.This team will be responsible for realizing our strategic direction and accelerating customer adoption of emerging technologies and our cloud native platforms. This function will be the link between engineering and professional services and will serve as a center of gravity for an ecosystem of customers, developers and partners focused on driving the VMware technology agenda.</p>
+<p>
+Regional Directors are responsible for:</p>
+<ul>
+<li>
+Build-out and grow the regional Field Engineering team including hiring the right people at the right time to ensure the business can scale while ensuring the team maintains a robust and collaborative culture</li>
+<li>
+Work with the Sales, Partner and BD teams to capture opportunities and ensure successful execution</li>
+<li>
+Drive the team to deliver excellent experiences for our customers</li>
+<li>
+Establish a robust understanding of our customers along with how they can utilize Kubernetes and Cloud Native technologies to change their businesses</li>
+<li>
+Foster a sense of teamwork and collaboration within the region and across regions</li>
+<li>
+Lead the structuring of project proposals and SOWs</li>
+<li>
+Assist in hiring and mentoring regional leaders in management and technical roles</li>
+</ul>
+<p></p>
+<p>
+Desired Skills &amp; Experiences:</p>
+<ul>
+<li>
+Leadership expertise in infrastructure or application technology organizations</li>
+<li>
+Experience building-out, growing and leading successful pre and/or post-sales (including P&amp;L) teams</li>
+<li>
+Have a background in one or more of: Systems engineering, Solution architecture or Technical Consulting</li>
+<li>
+Have experience working with Enterprise B2B Sales teams including complex contract reviews and Statement of Work generation</li>
+<li>
+Comfortable engaging with executives to understand the business goals, and with engineering teams to understand technical implications. You can credibly manage both.</li>
+<li>
+Strong experience mentoring, leading and driving teams towards success</li>
+<li>
+Have a track record of delighting customers. This means you operate at a high level of integrity and ensure our tech can align with the needs of our customers in a way that will ensure their success not just today but over time</li>
+<li>
+Lead by doing, but comfortable delegating</li>
+</ul>
+<p></p>
+<p>
+Other Requirements</p>
+<ul>
+<li>
+10+ years of experience in a management role within technical presales, support, or consulting organization</li>
+<li>
+Knowledge of and operational experience with methodologies related to agile and DevOps</li>
+<li>
+Ability to travel up to 50% of the time</li>
+<li>
+Locations:<br>
+</li>
+</ul>
+<p></p>
+<p><br>
+<br>
+<b>VMware Company Overview: </b>VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.<br>
+<br>
+<b>Equal Employment Opportunity Statement:</b> VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</p>
+</div></div>

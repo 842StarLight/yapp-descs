@@ -1,0 +1,96 @@
+<h2>Manager, Software Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>Job Overview:</b></div>
+<div>
+<br>
+</div>
+<div></div>
+<div>The Macy’s Pricing Domain will build enterprise, integrated, scalable pricing solutions that support Markdown and Point of Sales Optimization along with competitive and dynamic pricing across all channels (Stores, .COM and Mobile). Members of our team will utilize cutting edge technologies (Cloud, Java, Microservices) and data techniques to discover solutions and build from the ground up, driving results that produce tangible impact. Teams will complete work utilizing lean delivery methodologies, and will partner closely with Product Management, Architecture, and Pricing Strategy teams. This team will focus on enabling a new cloud solution, building new database structures/schema and a pricing rules engine, as well as create all enterprise pricing common services to provide accurate pricing data and history.
+</div>
+<div>Manager, Software Engineering at Macy’s Technology reports to the Director, Common Services, and plays a key role in leading the software engineering technical direction and development of enterprise solutions. It is a highly collaborative role where the common services group needs to partner with all technology functions and delivery of durable production-scale common services component. The candidate should also have managerial experience to lead a group of high-potential engineers and architects. Be willing to take on additional engineering and leadership duties as assigned.. Perform other duties as assigned.</div>
+<br>
+<div></div>
+<div><b>Essential Functions:</b></div>
+<ul>
+<li><div>Inspire and elevate direct reports and create highly engaged and performing team.</div></li>
+<li><div>
+Lead the craftsmanship, availability, resilience, and scalability of your solutions - Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal &amp; external technology communities, and mentor other members of the engineering community.</div></li>
+<li><div>
+Provide support to adoption of platform engineering &amp; site reliability engineering mindset across technology team.</div></li>
+<li><div>
+Responsible for proactively simplifying technology footprint and reducing technical debt in solutions.</div></li>
+<li><div>
+Responsible for partnership and collaboration with various cross-functional teams to design &amp; build enterprise services – product management, business teams, DevOps and SRE.</div></li>
+<li><div>
+Mentor, Coach and Manage the careers of the engineers on your team and ensure their continued growth and development.</div></li>
+<li><div>
+Regular, dependable attendance &amp; punctuality.</div></li>
+</ul>
+<div>
+<b>Qualifications</b><b>:</b>
+</div>
+<div>
+<br>
+</div>
+<div></div>
+<div><b>Education/Experience:
+</b></div>
+<ul>
+<li><div>Bachelor's Degree in Computer Science and/or Engineering preferred and 6+ years of related experience or an equivalent combination of education and experience. MS/MA would be a Strong Plus.</div></li>
+<li>
+Overall 8+ years of experience in the software development and high-volume enterprise systems.</li>
+<li>
+3+ years of experience leading &amp; managing engineering teams Building cloud-native applications in private &amp; public cloud (GCP, Azure, AWS).</li>
+<li>
+Experience in multi-channel retail technologies required.</li>
+<li>
+5+ years of experience with open source technology technologies preferably within a high volume eCommerce environment.</li>
+<li>
+Experience with open source technologies preferred.</li>
+<li>
+Experience and passion to work in a fast paced Agile environment, delivering functional features in small time durations.</li>
+<li>
+Strong general knowledge in Internet Technology and Software Development Lifecycle, including current industry trends and their application.</li>
+</ul>
+<div><b>Communication Skills:
+</b></div>
+<ul>
+<li><div>Demonstrated ability to effectively share technical information and train and mentor less experienced or knowledgeable team members.</div></li>
+<li><div>
+Advanced presentation (written and verbal) communication skills. Ability to effectively communicate technical issues and solutions to all levels of Product Engineering and Product Management.</div></li>
+</ul>
+<div><b>Mathematical Skills:</b></div>
+<ul><li><div>Basic math functions such as addition, subtraction, multiplication, division, and analytical skills.</div></li></ul>
+<div><b>Reasoning Ability:</b></div>
+<ul><li><div>Strong analytical and problem-solving skills.</div></li></ul>
+<div><b>Physical Demands:</b></div>
+<ul>
+<li><div>This position involves regular walking, standing, sitting for extended periods of time, hearing, and talking.
+</div></li>
+<li><div>May occasionally involve stooping, kneeling, or crouching.
+</div></li>
+<li><div>May involve close vision, color vision, depth perception, focus adjustment, and viewing computer monitor for extended periods of time.
+</div></li>
+<li><div>Involves manual dexterity for using keyboard, mouse, and other office equipment.
+</div></li>
+<li><div>May involve moving or lifting items under 10 pounds.</div></li>
+</ul>
+<div><b>
+Other Skills:</b></div>
+<ul>
+<li><div>
+Understanding of full life cycle software development with Agile and Lean Startup methodologies.</div></li>
+<li><div>
+Knowledge of Unit Testing best practices and Continuous Integration processes.</div></li>
+<li><div>
+Ability to effectively learn and use new programming concepts, tools and methodology to support the needs of the business.</div></li>
+</ul>
+<div><b>Work Hours:</b></div>
+<ul><li><div>Ability to work a flexible schedule based on department and company needs.</div></li></ul>
+<div><b>Company Profile:</b></div>
+<div></div>
+<div>Macy’s Inc. is one of the nation’s premier retailers. With fiscal 2016 sales of $25.778 billion and approximately 140,000 employees, the company operates more than 700 department stores under the nameplates Macy’s and Bloomingdale’s, and approximately 125 specialty stores that include Bloomingdale’s The Outlet, Bluemercury and Macy’s Backstage. Macy’s, Inc. operates stores in 45 states, the District of Columbia, Guam and Puerto Rico, as well as macys.com, bloomingdales.com and bluemercury.com. Bloomingdale’s stores in Dubai and Kuwait are operated by Al Tayer Group LLC under license agreements. Macy’s, Inc. has corporate offices in Cincinnati, Ohio and New York, New York.</div>
+<br>
+<div></div>
+<div><b>This job description is not all inclusive. Macy’s Inc. reserves the right to amend this job description at any time. Macy's Inc. is an Equal Opportunity Employer, committed to a diverse and inclusive work environment.</b></div>
+</div></div>

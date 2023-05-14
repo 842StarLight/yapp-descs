@@ -1,0 +1,33 @@
+<h2>IT Team Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>Job Description:</b></p>
+<ul>
+<li>Communicates effectively with third party vendors to resolve technical issues in an organized and efficient manner</li>
+<li>Ensures that the primary application software for the company is operating at all times</li>
+<li>Trouble-shoots and problem solves technology issues for all areas of the organization</li>
+<li>Ensure all Hardware is fully maintained and upgraded as necessary</li>
+<li>Ensures reliability of all networking and external/internal communications</li>
+<li>Provides system support services, including service outage diagnosis, troubleshooting, restoration of service and virus protection management</li>
+<li>Oversees that third party IT vendor’s backup and recovery procedures are performed effectively</li>
+<li>Recommends IT project management policies and procedures</li>
+<li>Maintains an up-to-date inventory of all computer hardware</li>
+<li>Understands all standard and customized features and functions of Professionals front office systems, point of sale systems, and other systems, including but not limited to system security, system reports, manager functions, system utilities, and user functions</li>
+<li>Promotes teamwork and quality service through daily communication and coordination with other shifts and departmental management</li>
+</ul>
+<p><b>Skills &amp; Requirements:</b></p>
+<ul>
+<li>Bachelor’s degree in Computer Science, Business Administration or a related field and<b> only two years of systems experience required</b>
+</li>
+<li>Advanced computer skills and proficient knowledge of Microsoft Office programs</li>
+<li>The ability to delegate responsibilities effectively to outside vendors</li>
+<li>The ability to plan, prioritize and execute multiple initiatives/deadlines autonomously and shift priorities as necessary</li>
+<li>Excellent communication (verbal and written), interpersonal and professional interactive skills are necessary to perform at a high degree of proficiency</li>
+<li>Ability to effectively present information and respond to questions from vendors, management and inter-department staff</li>
+<li>Capable of working with IT staff, internal staff from other departments, and the company leadership in a proactive and constructive manner</li>
+<li>Planning / Organization - Ability to prioritize and manage multiple priorities in conjunction with managing vendor communications</li>
+<li>Problem Solving - Identifies and resolves problems in a timely manner. Gathers and analyzes information skillfully. Develops alternative solutions.</li>
+</ul>
+</div>
+</div>

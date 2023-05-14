@@ -1,0 +1,93 @@
+<h2>Engineering Manager - SQL, NoSQL, Salesforce</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Engineering Manager - Sales Engineering</b><br>
+<br>
+The B2B Sales engineering team within the Sales Engineering department is looking for an experienced Engineering Manager to build and design new systems, scale existing systems, mentor Engineers , and help set coding and platform standards across our teams.<br>
+<br>
+<b>About B2B Sales Engineering</b><br>
+<br>
+The B2B Sales Engineering team is part of the Sales Engineering group that supports the Salesforce CRM platform for Wayfair business units including B2B / B2C / Media Sales / etc. The B2B team owns the workflows and tools including business lead identification, business account creation and enrollment, and data synchronization between Wayfair and Salesforce and workload distribution using Round Robin. The B2B Sales Engineering team works to support the approximately 1,000 Business Account Managers (BAMs) that sell Wayfair's products to businesses.We write our own playbook for success and working cross functionally with everyone from Engineering and Product to Merchandising and Category Management. We pride ourselves on delivering world-class pre- and post-sales support while always raising the bar for ourselves and the industry.<br>
+<br>
+<b>Current Initiatives include:</b><br>
+<ul>
+<li>Provide a simple, easy and streamlined way to BAM's and Sales Agents to create Business Accounts and Contacts in Salesforce
+</li>
+<li>A Commissions platform for the BAM's to provide them real time information about their sales and commissions. The objective of this tool is to take out the anxiety about commissions from Agents mind so that they can focus solely on delivering a world class service to customers
+</li>
+<li>Creating a scalable and real time Freight pricing platform for providing the BAM's a way to get accurate pricing information about shipping in near real time
+</li>
+<li>Work to build systems to achieve cross channel sentiment analysis.Create a toolset to take advantage of data science models that can give our account managers more information about the customer, so we can better know what they need and when
+</li>
+<li>Investigate new technologies to improve our systems and engineering proofs of concept (POCs)
+</li>
+<li>Build out our automated testing suite through unit and integration tests to ensure that the team can iterate quickly with confidence
+</li>
+<li>Sales funnel real time streaming service, every lead is processed in real time through a distributed and scalable platform that ensures no leads are left behind
+</li>
+<li>A custom-built communications platform including a Salesforce-based phone system, SMS and chat capabilities - with the ability to integrate call data into Salesforce and Wayfair systems
+</li>
+</ul>
+<br>
+<b>What you'll Do</b><br>
+<br>
+This role will be a key contributor as an Engineering Manager, capable of working both independently and within a team to accomplish tasks and projects assigned.<br>
+<ul>
+<li>Work cross-functionally with different teams such as Product, Sales, Shipping, Pricing, Engineering teams, etc. to envision the end-to-end complex business state by connecting various pieces together.
+</li>
+<li>Build relationships with technical leaders and business decision-makers to enhance collaboration, information sharing, decision-making, and influence decisions.
+</li>
+<li>Influence future strategies across a diverse range of internal teams.
+</li>
+<li>Partner with other technical teams to develop cross functional technology roadmaps and deliver solutions.
+</li>
+<li>Constantly re-evaluate the technology solutions by staying ahead of industry trends and emerging technologies
+</li>
+<li>Demonstrate strong motivation and drive to improve and develop the existing processes to the next level
+</li>
+<li>Be willing and ready to acquire new skills and knowledge to develop both professionally and personally.
+</li>
+<li>Be a strong team player and work hard towards reaching team goals
+</li>
+<li>Lead/mentor a strong team of Engineers
+</li>
+</ul>
+<br>
+<b>What You'll Need</b><br>
+<ul>
+<li>At least 7+ years of professional experience in a senior engineer or technical lead role
+</li>
+<li>Expertise in full-stack development including OOP and systems design
+</li>
+<li>Experience managing cross-functional agile software projects
+</li>
+<li>Strong Database skills - SQL and NoSQL. Proficient in Database design, Querying and optimization knowledge
+</li>
+<li>Experience with with event driven architecture and microservices at scale
+</li>
+<li>Experience with Object-oriented technologies and tool stacks
+</li>
+<li>Solid understanding of software testing and best practices (unit, integration, TDD)
+</li>
+<li>Great analytical and problem-solving skills
+</li>
+<li>Excellent communication skills and ability to work effectively with engineers, product managers, and business stakeholders alike
+</li>
+<li>Ability to work effectively autonomously, dive into a project/problem, and adapt to evolving requirements
+</li>
+<li>Undergraduate or Master's Degree in Computer Science, Software Engineering, or Computer Engineering
+</li>
+<li>Prior experience of leading/managing Engineers for at least 4 years
+</li>
+</ul>
+<br>
+<b>For bonus points, you will have:</b><br>
+<ul>
+<li>Prior experience working with PHP, Python, JavaScript (ReactJS), Microsoft SQL (T-SQL), Apache Kafka, GraphQL and web services.
+</li>
+<li>Experience with event driven architecture and microservices at scale
+</li>
+<li>Experience with no-SQL and/or time-series databases.
+</li>
+<li>Experience with Salesforce.</li>
+</ul>
+</div></div>

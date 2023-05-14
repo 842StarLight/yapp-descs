@@ -1,0 +1,83 @@
+<h2>Sr Solutions Engineer, vSAN HCI, Global Account</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Business Summary:</b></p>
+<p>
+VMware is the leader in virtualization and cloud infrastructure solutions that enable our more than 350,000 enterprise and SMB customers to thrive in the Cloud Era. A pioneer in the use of virtualization and policy-driven automation technologies, VMware simplifies IT complexity across the entire data center to the virtual workplace, empowering customers with solutions in the software-defined data center to hybrid cloud computing and the mobile workspace.</p>
+<p>
+Our team of 20,000+ employees working in 50+ locations worldwide is committed to building a community where phenomenal people want to work long term by living our values of passion, innovation, execution, partnership, active learning and giving back. If you are ready to accelerate, innovate and lead, join us as we challenge constraints and problem solve for tomorrow today. Learn more at www.vmware.com/careers.</p>
+<p></p>
+<p><b>
+Job Description</b></p>
+<p>
+Virtual SAN (vSAN) is a key component of VMware’s Hyper Converged Infrastructure strategy. vSAN HCI enables customers to achieve the agility, flexibility, and cost savings required for modern datacenters. As a vSAN HCI Solutions Engineer supporting our Global Accounts, you are recognized as a technical domain advisor in storage who can plan &amp; execute sales campaigns with one to two named global customers. Are you a sales engineer as passionate about driving hyper converged infrastructure with your customer? If so, please read on!</p>
+<p></p>
+<p><b>
+Job Role and Responsibilities:</b></p>
+<p>
+This Pre-sales Solutions Engineer will be hands on and technical needing excellent communication skills, presentations skills, and speaking with crowds at all levels while accelerating the sales cycle, overcoming technical objections, and being the technical expert in the room. You will whiteboard, demonstrate, present technical material, qualify, and engage senior IT personnel in discussing storage &amp; virtualization technologies.</p>
+<ul>
+<li>
+You will work closely with sales representatives &amp; systems engineers on developing opportunities and closing deals while achieving sales targets through the global account team</li>
+<li>
+Present VMware's technical value proposition to customers and provide technical deep dives on VMware’s Hyper-Converged Infrastructure (HCI) vision, vSAN Product, VxRail Appliances, and Cloud Foundation solutions</li>
+<li>
+You will partner with Engineering and Product management teams to prioritize customer feature requests into our future product roadmap.</li>
+<li>
+You will aide in training &amp; enablement of our field teams and channel partners to sell VMware vSAN HCI software</li>
+<li>
+Ensure success of customer proof-of-concepts (POCs) and respond to the technical elements of RFIs/RFPs</li>
+<li>
+You will partner with our support engineers and technical account managers to drive deployments of vSAN solutions</li>
+</ul>
+<p></p>
+<p><b>
+Required Skills</b></p>
+<ul>
+<li>
+10+ year’s experience selling storage hardware and software pre-sales, with at least 5+ years in technical field sales</li>
+<li>
+Proven experience creating business plans, organizing channel sales campaigns, driving marketing campaigns and sales initiatives - all focused with the end goal of driving quarterly sales targets</li>
+<li>
+Strong customer facing presentation skills as well as the ability to build and present high quality product demonstrations to both technical and executive audiences</li>
+<li>
+You should have experience and knowledge of various storage technologies/vendors and know how to position vSAN HCI among them.</li>
+<li>
+Strong IT infrastructure technical skills including x86 Server platforms, Windows Server and Linux operating system expertise, SAN / NAS storage technologies and TCP/IP networking</li>
+<li>
+Experience solving system level problems including server failure, OS tuning, networking problems, and storage problems</li>
+<li>
+BA/BS or equivalent</li>
+<li>
+U.S. Citizen and/or eligibility to work in the USA</li>
+</ul>
+<p></p>
+<p><b>
+Preferred Skills:
+</b></p>
+<p>We would love to see experience with VMware offerings including</p>
+<ul>
+<li>
+VCP certification</li>
+<li>
+vSphere - Install, Manage, Configure</li>
+<li>
+vSAN</li>
+<li>
+SRM – Site Recovery Manager</li>
+<li>
+vRealize Suite – vROps (vRealize Operations), vRA (vRealize Automation), vRO (vRealize Orchestrator)</li>
+<li>
+Horizon (7, Air, App Volumes)</li>
+</ul>
+<p></p>
+<p><b>
+EO Statement:</b></p>
+<p><b>
+VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind:</b> VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. VMware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.
+</p>
+<p></p>
+<p>This position is eligible for the JoinSDDC referral campaign</p>
+<p></p>
+<p>
+#VSANHCISE</p>
+</div></div>

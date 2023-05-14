@@ -1,0 +1,125 @@
+<h2>DSC</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Chevron is one of the world's leading energy companies, with approximately 48,000 employees working in countries around the world. We explore, produce and transport crude oil and natural gas; refine, market and distribute fuels and other energy products; manufacture and sell petrochemical products; generate power; and develop future energy resources.<br>
+</p>
+<p></p>
+<p>Chevron is accepting online applications for the position of <b>DSC - SP&amp;T Americas Products Solution Architect </b>located in <b>San Ramon, CA (USA) </b>through <b>August 30, 2019 </b>at 11:59 p.m. (Eastern Standard Time).<br>
+</p>
+<p><br>
+Requisition ID#404805<br>
+</p>
+<p></p>
+<p><b>Overview:<br>
+</b></p>
+<p></p>
+<p>Americas Products IT (APIT) supports Retail Credit/Debit Card and Loyalty processing systems for all Chevron and Texaco branded fuel stations across North America. The Solution Architect is accountable for the design, technology selection, and development oversight of our Retail Card Authorization, Settlement, Point of Sale (POS), Loyalty systems.<br>
+</p>
+<p></p>
+<p><b>Responsibilities for this position may include but are not limited to:<br>
+</b></p>
+<p></p>
+<ul>
+<li>Develop and lead retail technology modernization and strategic roadmap development that is in alignment with our business value streams.
+</li>
+<li>Designs retail solutions that offer highly reliable, scalable and secure operations.
+</li>
+<li>Analyzes technology environment/s, designs and creates solution architecture prototypes, participates in technology selection, solution development and delivering business differentiating retail solutions.
+</li>
+<li>Architect integrated, secure, and resilient Retail IT solutions leveraging following technologies
+<ul>
+<li>Azure platfrm and services like IoT Hub, Event Hubs, Stream Analytics, Azure SQL, Azure Data Factory, Blob Storage and Azure Data Explorer.
+</li>
+<li>Prgramming languages: C, C#, Java
+</li>
+<li>API service-based slutions
+</li>
+<li>Message Frmats: ISO, JASON, XML
+</li>
+<li>Reprting: Power BI
+</li>
+</ul>
+</li>
+<li>Defines retail technology and architecture for the business unit that aligns with Chevrons digital vision and strategy.
+</li>
+<li>Supports and fulfills new Solution Architecture and technology needs working closely with APIT Domain Architect, Project Manager/s, business units, IT teams, and external vendors.
+</li>
+<li>Champions Solution Architecture strategies and standards across Americas Products by presenting best practices, proven technologies, components, and industry patterns.
+</li>
+<li>Keeps abreast of new technologies and partners with APIT technical teams to evolve architecture and technologies.
+</li>
+<div><ul>
+<li>Creates, publishes, and maintains retail technlogy product roadmaps that align with Americas Products value streams and Chevron enterprise roadmap.
+</li>
+<li>Creates functinal and technical specifications, project plans, architectural writeups, designs and presentations as needed.
+</li>
+</ul></div>
+<li>Establishes and maintains lines of communication with our business partners and strategic vendors.
+</li>
+<li><b>Excellent communication skills - should be able to articulate complex technical data that is easily understandable by a wide variety audience like junior technical resources, business partners, non-IT stakeholders.
+</b></li>
+<li><b>Demonstrated Leadership Skills<br>
+</b></li>
+</ul>
+<p></p>
+<p><b>Required Qualifications:<br>
+</b></p>
+<p></p>
+<ul>
+<li>At least 7 years experience in one or more areas of IT.
+</li>
+<li><b>MS/BS in Computer Science, or related degree
+</b></li>
+<li><b>IT Infrastructure and Cloud development
+</b></li>
+<li><b>Hands-on working experience with architecture tools and technologies.
+</b></li>
+<li>Exposure to various retail electronic payments and point of sale systems
+</li>
+<li>Retail service station/convenience store systems knowledge
+</li>
+<li><b>Experience working within a Scrum team.
+</b></li>
+<li><b>Some level of understanding/knowledge in Legacy technologies like Tandem/HP Non-Stop (S Series and TNS/E Itanium); TAL, C, COBOL, SCOBOL, TACL, Non-Stop SQL, escribe is desirable.<br>
+</b></li>
+</ul>
+<p></p>
+<p><b>Preferred Qualifications:<br>
+</b></p>
+<p></p>
+<ul>
+<li>Advanced understanding of IT architecture in a retail industry environment, mobile and cloud technologies, payment card industry (PCI) and cyber security requirements to secure credit card transaction data and identifying external/internal reliability and security risks to the organization. Strong desire to learn new tools and technologies while being highly motivated to apply that knowledge toward improving business value. Monitor retail, payment card, and loyalty sectors for new technologies and include them in strategic roadmaps. Ability to understand critical business and technology drivers and translate them into business enabling solutions.
+<br>
+</li>
+<li>Demonstrated ability to effectively plan, prioritize, schedule and manage work activities to meet customer needs and expectations. Engages IT and business partners at all levels to plan, schedule and monitor technology driven efforts across Americas Products. Experience leveraging Chevron Way behaviors to align and inspire IT and business partners to implement effective business enabling strategies. Ability to accomplish desired results independently with minimal direction in alignment with team goals and payment architecture standards.
+<br>
+</li>
+<li>Demonstrated ability to build effective working relationships at all levels within operations, design, projects, vendors, peers, etc. Ability to influence and motivate teams, and work with a variety of disciplines, cultures, and environments. Collaborate with internal/external partners to provide solutions which meets business needs. Able to build and maintain relationships throughout the industry and effectively leverage SMEs to design and build workable solutions.<br>
+</li>
+</ul>
+<p></p>
+<ul><li>Communicates in a clear, concise, understandable manner both orally and in writing. Listens carefully and asks questions to understand the views, concerns, and comments of others. Promotes communications in all directions within work groups and between work groups. Encourages open expression of ideas and opinions.<br>
+</li></ul>
+<p></p>
+<p><b>Relocation Options:<br>
+</b></p>
+<p></p>
+<p>Relocation <b>may be </b>considered within Chevron parameters.<br>
+</p>
+<p></p>
+<p><b>International Considerations:<br>
+</b></p>
+<p></p>
+<p>Expatriate assignments <b>will not be </b>considered.<br>
+</p>
+<p></p>
+<p>Chevron regrets that it is unable to sponsor employment Visas or consider individuals on time-limited Visa status for this position.<br>
+</p>
+<p></p>
+<p><b>Regulatory Disclosure for US Positions:<br>
+</b></p>
+<p></p>
+<p>Chevron is an Equal Opportunity / Affirmative Action employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status, or other status protected by law or regulation.</p>
+</div>
+<p></p>
+</div>

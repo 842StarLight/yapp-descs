@@ -1,0 +1,106 @@
+<h2>Job Post Information* : External Company URL Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<p>Everyone wants to work with people they respect. Even better if you can work with a company you respect. We have both at The David J. Joseph Company, and a 130+ year track record on operating an ethical business with a positive work culture. It may sound cliché, but it’s true. We’re a big, global company that still feels small.</p>
+<p>
+Working at the David J. Joseph Company is unique. We offer employment in diverse settings such as traditional corporate headquarters, dynamic sales locations, and scrap recycling facilities. This workplace diversity gives our employees the variety they crave and the exposure to a global business. A career at The David J. Joseph Company is ideal for self-starters seeking to make an impact on our company and their careers.</p>
+<p>
+The David J. Joseph Company (DJJ), founded in 1885, is a world leader in scrap metal recycling &amp; trading. With over 80 locations, the Joseph Company is headquartered in Cincinnati, Ohio and is a wholly-owned subsidiary of Nucor Corporation (NUE) a Fortune 200 Company.</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Develops routine to moderately complex proprietary software programming applications from concept to deployment by gathering and evaluating requirements, defining business information requirements, designing the solution, building the code, and testing to meet or exceed quality standards using established process methodologies and tools.<ul>
+<li>
+Supports implements and/or installs software applications / operating systems.</li>
+<li>
+Participates in the testing process through test review and analysis, test witnessing and certification of software. Debugs applications as problems are identified.</li>
+<li>
+Makes recommendations for business process improvements with an understanding of technical problems and solutions as they relate to the technology needs.</li>
+</ul>
+</li>
+<li>
+Collaborates with Project Managers / Business Analysts and end-users to define and document requirements using established processes and tools and given scope constraints.</li>
+<li>
+Translates requirements to design, architect and document systems, and write code that is stable, reusable, scalable and simple.</li>
+<li>
+Proactively monitors, maintains and enhances existing systems to increase functionality, optimize performance, keep pace with changing business needs and reflect technology advancements.</li>
+<li>
+Participates in the development of software user manuals.</li>
+<li>
+Develops and maintains knowledge of customer's business by learning through a mix of project work, partnering with business users, and seeking out learning opportunities.<ul>
+<li>
+Resolves internal customer’s complaints and responds to suggestions for improvements and enhancements.</li>
+<li>
+Works with technical staff to understand routine to moderately complex problems with software and develops specifications to resolve them.</li>
+</ul>
+</li>
+<li>
+Solves routine to moderately complex business needs with initiative, sound judgment, strong technical skill, attention to detail, and exceptional customer service.</li>
+<li>
+May participate in indoctrinating interns and / or new employees.</li>
+<li>
+Performs other duties as assigned.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<ul>
+<li>Bachelor’s degree in Information Technology, Computer Science, Software Engineering, Business or related discipline. Equivalent combination of experience and education will also be considered.</li>
+<li>
+Minimum 2 – 5 years related experience in designing, coding, testing, debugging, documenting, maintaining and deploying web-based, multi-tiered business software solutions.<ul>
+<li>
+Experience designing, developing and optimizing MS SQL databases.</li>
+<li>
+Strong debugging, troubleshooting and analytical skills.</li>
+<li>
+Minimum 1 year experience in the following technologies: C#, ASP.NET, MS SQL, HTML, JavaScript, CSS.</li>
+<li>
+Additional desired skills: MySQL, Linux, Oracle, TFS, jQuery, HTML5, IIS 6/7, iOS development.</li>
+</ul>
+</li>
+<li>
+Ability to perform moderately complex requirements development, coverage analysis, impact analysis and modification.</li>
+<li>
+Ability to lead requirements effort on routine to moderately complex projects.</li>
+<li>
+Demonstrates working knowledge, practical skills and the ability to perform work under moderate supervision.</li>
+<li>
+Must be detail-oriented with the ability to manage multiple assignments effectively.</li>
+<li>
+Requires effective communication skills to convey status, ideas and concepts in a team environment.</li>
+<li>
+Requires a professional demeanor with a high degree of flexibility, responsiveness and self-direction.</li>
+<li>
+Non-routine issues are often discussed with / referred to more experienced staff.</li>
+<li>
+Work is typically focused on short-term objectives (6 months or less) and reviewed frequently for assessment and direction.</li>
+<li>
+Minimal travel required.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Benefits
+</b></h2>
+<div><div><div>
+<p>We offer a competitive compensation and benefit package including paid training, bonus program, medical, dental, vision, life and disability coverage, vacation, paid holidays, a 401(k) plan with match, tuition reimbursement and other great benefits.</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>EEO Statement
+</b></h2>
+<div><div><div>
+<div>The David J Joseph Company (DJJ) is a drug-free workplace and conducts pre-employment testing as a condition of employment.<br>
+<br>
+DJJ is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, ethnicity, religion, creed, sex, pregnancy, lactation/breastfeeding, sexual orientation, gender identity and expression, national origin, citizenship status, ancestry, age, marital status, familial status, disability, genetic information, protected veteran status, military status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. DJJ hires and promotes individuals solely on the basis of their qualifications for the job to be filled. If you’d like more information on your EEO rights under the law, please click here.</div>
+<div>
+<br>
+DJJ reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and teammates.<br>
+<br>
+DJJ also provides a work environment in which each teammate is able to be productive and work to the best of his or her ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all teammates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all teammates and applicants.</div>
+</div></div></div>
+</div>
+<div></div>
+</div>

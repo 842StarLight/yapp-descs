@@ -1,0 +1,30 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About Giant Oak
+<br><br>
+The Giant Oak team is comprised of a small group of individuals who are innovative, intellectually curious, and passionate about using our knowledge to make the world a better, safer place. The members of our organization have expertise in machine learning, behavioral science, national security, and illicit markets, and we have a shared passion for advancing the frontier of conventional knowledge in our chosen fields. We are looking for candidates who are independently driven and comfortable functioning outside of the norm, willing to build onto their foundation of rigorous quantitative and analytical skills by using creative techniques and insights to formulate the next generation of tools for public safety and security while promoting privacy and inclusion.
+<br><br>
+Our Culture
+<br><br>
+We make the world a safer place by applying behavioral and computer science in big data environments to identify illicit behaviors, actors, and networks. We build software to help our customers effectively and efficiently reduce crime, fraud, coercion, and violence.
+<br><br>
+<b>About You:</b><br>
+You are a Product Manager who has experience working in an agile environment leading the creation and execution of the product roadmap. You are highly organized, collaborative and curios in pursuit of creating best in class products while working seamlessly across Administrative, Engineering, Science, Sales and Marketing, and Customer Success teams. You have experience using Product Management software to organize your roadmap while maintaining flexibility to adapt to a changing company or competitive market environment. You are also able to clearly communicate effectively across all company organizational disciplines and value company mission, teamwork and culture as a priority.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Own the creation and execution of the company's short and long term product roadmap based on guidance from CEO, internal stakeholders, customers and dynamic competitive environments</li>
+<li>Manage the entire product lifecycle starting with idea inception - &gt; prioritization - &gt; product or feature design - &gt; development - &gt; quality testing and assurance - &gt; go-to-market</li>
+<li>Use data to augment decision making processes while instituting a clearly defined and repeatable process</li>
+<li>Organize product roadmap in priority order while gaining internal consensus and articulating trade-offs clearly</li>
+<li>Work with Engineering to develop product and features, test for quality and ship; work with Sales &amp; Marketing to create go-to-market process that is highly scalable; work with Customer success to ensure and optimize net negative churn</li>
+<li>Engage with clients to understand impact of products and gather client feedback first hand</li>
+</ul>
+<b>Desired Skills &amp; Experience:</b><br>
+<ul>
+<li>2+ years Product Management experience</li>
+<li>Experience working in an agile development environment with Jira and/or equivalent to manage roadmap priorities</li>
+<li>Self-motivated and willing to handle competing priorities in a fast-paced environment</li>
+<li>Eligibility for a US Security Clearance</li>
+<li>Experience working across Commercial and Public Sector clients in a SaaS business a plus</li>
+</ul>
+</div>

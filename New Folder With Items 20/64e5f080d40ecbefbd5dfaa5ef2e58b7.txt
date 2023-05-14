@@ -1,0 +1,62 @@
+<h2>Full-Stack Software Engineers</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div><div><div><div>
+<h5 class="jobSectionHeader"><b>Snapshot of Benefits</b></h5>
+</div></div></div></div>
+<div><div><div><div><ul>
+<li>Medical, Dental and Vision Coverage</li>
+<li>Retirement Savings Plan (401K)</li>
+<li>Flexible Spending Account (FSA)</li>
+<li>Reimbursement for business cell phone use per company policy</li>
+<li>Employee Stock Option Plan (Publicly Traded Company - MVEN)</li>
+<li>Paid Time Off</li>
+<li>11 Paid Holidays</li>
+</ul></div></div></div></div>
+<div><div><div><div><p>Maven is an Equal Opportunity Employer.</p></div></div></div></div>
+</div>
+<p></p>
+<br><div></div>
+<div>
+<div><div><div><div>
+<p>Maven, a publicly traded (MVEN) global online publishing and technology company reaching over 100M consumers monthly, is seeking Full-Stack Software Engineers based in Seattle or San Francisco. The ideal candidate has a software development background with interests and skills that span across the entire development stack.</p>
+</div></div></div></div>
+<div><div><div><div>
+<h5 class="jobSectionHeader"><b>
+The Role</b></h5>
+</div></div></div></div>
+<div><div><div><div>
+<p>As a Full-Stack Software Engineer, you’ll work closely with our top-notch product and design teams to build new capabilities in our publishing platform. You’ll build key relationships and drive relentlessly towards our vision to save quality content. You should thrive in a fast-paced environment and be able to work well with a variety of stakeholders such as editorial teams, sales teams, designers, engineers, executives and product managers.</p>
+</div></div></div></div>
+<div><div><div><div>
+<p>
+A Full-Stack Software Engineer at Maven will:</p>
+</div></div></div></div>
+<div></div>
+<div><div><div><div><ul>
+<li>Work closely with Product Managers and Designers to build new features for our growing publisher base.</li>
+<li>Produce high-quality results by contributing to cross-functional projects that impact the business.</li>
+<li>Participate in all phases of the software development cycle.</li>
+<li>Assist our skilled support team and operations team in triaging and resolving production issues.</li>
+</ul></div></div></div></div>
+<div><div><div><div>
+<p>This is a full-time position based either in San Francisco, CA, or Seattle, WA.</p>
+</div></div></div></div>
+<div><div><div><div>
+<h5 class="jobSectionHeader"><b>
+What you should have</b></h5>
+</div></div></div></div>
+<div><div><div><div><ul>
+<li>You’ve been building web applications professionally for 4+ years, and are comfortable with all layers of the application stack, from infrastructure to front-end. Experience with Docker and/or Kubernetes is a plus.</li>
+<li>You have experience with some (or all) of the following languages: Python, Javascript, Go, C#. Experience with iOS and Android development is a plus.</li>
+<li>You possess strong computer science fundamentals: data structures, algorithms, programming languages, distributed systems, and information retrieval.</li>
+<li>You have strong written and verbal communication skills.</li>
+<li>You have several years of experience working in a fast-paced environment.</li>
+<li>You write scalable, testable, and maintainable code.</li>
+<li>You have a bachelor's degree in Computer Science, Engineering or related field, or equivalent training, fellowship, or work experience.</li>
+</ul></div></div></div></div>
+<div><div><div><div><p>TO APPLY please send resume with "Full-Stack Software Engineer" in the subject line to jobs@maven.io</p></div></div></div></div>
+</div>
+<div></div>
+</div>

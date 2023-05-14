@@ -1,0 +1,41 @@
+<h2>8.Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div><b>No. of Positions:
+</b></div></div>
+<br>
+<div><div>
+<h5 class="jobSectionHeader"><b>Responsibilities</b></h5>
+<ul>
+<li>
+Develop core business applications and provide technical support. The job encompasses responding to developing enhancements requested by the business for existing clients business applications.</li>
+<li>Identify, understand, and present solutions to meet business needs.</li>
+<li>Assist with technical/business evaluation and decision making processes for solutions.</li>
+<li>Develop and support approved solutions in accordance with Information Systems Standards.</li>
+<li>Demonstrate a working knowledge of Sales, Marketing, Manufacturing, Distribution and Finance functions.</li>
+<li>Perform analysis on root cause, provide solutions and communicate to appropriate stakeholders.</li>
+<li>Document approved solution in accordance with Information Systems Standard Operating Procedures.</li>
+<li>Coordinate approval of solution documentation with appropriate stakeholders.</li>
+<li>Perform and document tests on developed solution.</li>
+<li>Identify and learn appropriate software applications used and supported by the organization.</li>
+<li>Provide after hours on-call support as assigned to address emergency and urgent issues.</li>
+</ul>
+</div></div>
+<br>
+<div><div>
+<p><b>
+Address:</b></p>
+<p>
+Virginia Beach, VA</p>
+</div></div>
+<br>
+<div><div>
+<p><b>
+Educational and experience requirements for the position:</b></p>
+<ul>
+<li>
+Proficient in SAP technologies - ABAP, OO ABAP, ABAP WebDynpro, Adobe Forms, Smartforms, Scripts, BADI's, RFC, BAPI's, Web Services and ALV Reports.</li>
+<li>Require Bachelor's or foreign equivalent degree in Computer Science, or Computer Information Systems</li>
+<li>Send resume to hr@exesg.us</li>
+</ul>
+</div></div>
+</div></div>

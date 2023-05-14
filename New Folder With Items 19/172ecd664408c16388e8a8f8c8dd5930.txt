@@ -1,0 +1,43 @@
+<h2>Senior Cloud Networking Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>7+ years of design/implementation/consulting experience enterprise-scale networks</li>
+<li>5+ years of network virtualization and/or software defined networks</li>
+<li>5+ years of experience in network deployment, migration, and/or operations</li>
+<li>Deep knowledge of layer 2 technologies, including MPLS and Ethernet</li>
+<li>Practical experience with computer network security</li>
+<li>Technical degree or equivalent experience</li>
+<li>This position requires that the candidate selected be a U.S. citizen and must currently possess an active Top Secret security clearance. The position further requires that, after start, the selected candidate obtain and maintain an active TS/SCI security clearance with polygraph and satisfy other security related requirements.</li>
+</ul>
+<br>
+<div>Amazon Web Services is looking for highly talented and technical consultants with network technology skills to help accelerate our growing Professional Services business. This position is for a highly technical Subject Matter Expert that can dive deep and work with customers to design next generation cloud and hybrid IT architectures.<br>
+<br>
+Do you like helping U.S. Intelligence Community agencies implement innovative cloud computing solutions and solve technical problems? Would you like to do this using the latest cloud computing technologies? Do you have a knack for helping these groups understand application architectures and integration approaches, and the consultative and leadership skills to launch a project on a trajectory to success? Are you familiar with security best practices for applications, servers, and networks? Do you want to be part of the business development team helping to establish Amazon Web Services (AWS) as a leading technology platform?<br>
+<br>
+This is an excellent opportunity to join Amazon’s world class technical teams, working with some of the best and brightest engineers while also developing your skills and furthering your career within one of the most innovative and progressive technology companies.<br>
+<br>
+Professional Services engage in a wide variety of projects for customers and partners, providing collective experience from across the AWS customer base and are obsessed about strong success for the Customer. Our team collaborates across the entire AWS organization to bring access to product and service teams, to get the right solution delivered and drive feature innovation based upon customer needs.<br>
+<br>
+We are looking for someone who is passionate about:<br>
+<ul>
+<li>Be great fun to work with at AWS, we have a credo of "Work hard. Have fun. Make history." In this role, you will love what you do, and instinctively know how to make work fun. You will be dynamic and creative, and willing to take on any challenge and make a big impact.</li>
+<li>Enjoy working with Intelligence Community customers. You will have a passion for educating, training, designing, and building cloud solutions for a diverse and challenging set of Intelligence Community customers.</li>
+<li>Have a strong understanding of large scale computing solutions with a focus on traditional local- and wide-area network technologies, network overlay/virtualization technologies, and software defined network design patterns. The ideal candidate will have past experience working as a network or systems engineer. You will enjoy keeping your existing technical skills honed and developing new ones, so you can make strong contributions to deep architecture discussions. You will regularly take part in deep-dive education and design exercises to create world-class solutions built on AWS.</li>
+</ul>
+Amazon aims to be the most customer centric company on earth. Amazon Web Services (AWS) provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers critical applications for hundreds of thousands of businesses in 190 countries around the world.<br>
+<br>
+**For additional information or to send your resume directly, please email Olivia Black at olivblac@amazon.com**</div>
+<br>
+<div>
+<ul>
+<li>7+ years experience in infrastructure architecture, database architecture and networking</li>
+<li>Experience in technology/software sales consulting or equivalent skills</li>
+<li>Professional experience architecting/deploying/operating solutions built on AWS</li>
+<li>Deep knowledge of network management, automation, and scripting</li>
+<li>Experience migrating or transforming legacy customer solutions to the cloud</li>
+<li>Experience managing highly available data center operations with responsibility for infrastructure robustness, including networking, server hardware and storage</li>
+<li>Understanding of Federal Government application, server, and network security requirements such as ICD 503, FISMA and FedRAMP.</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age</div>
+</div>

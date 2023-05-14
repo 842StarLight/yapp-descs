@@ -1,0 +1,33 @@
+<h2>Real Estate Agent</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Rondinelli Real Estate is offering competitive commission splits to experienced agents, beginners, and everything in between.</p>
+<p>Beginners, receive hands on training and quality leads. Veterans, receive the highest commission offered anywhere.</p>
+<p>Regal downtown location, access to high quality printing, active marketing both online and print. Opportunities in the growing property management division as well. Must have a NYS real estate license or be getting licensed to apply.</p>
+<p><b>Agent Commission Tiers</b></p>
+<p><b>Il Lubo</b></p>
+<ul>
+<li>90% commission</li>
+<li>Must have sold over $2 million in real estate on the NYS MLS and must sell $1.5 million annually</li>
+<li>Digital advertisement files provided</li>
+<li>You pay for everything, E &amp;O, cards, signs, advertising…</li>
+</ul>
+<p><b>Compagno</b></p>
+<ul>
+<li>75% commission</li>
+<li>Must have sold over $1,000,000 in real estate on the NYS MLS</li>
+<li>E&amp;O included if annual sales are over $500,000</li>
+<li>Advertisement contributions if annual sales are over $500,000</li>
+<li>First 500 card</li>
+<li>Buyer leads</li>
+<li>Seller leads to be negotiated</li>
+</ul>
+<p><b>Neofito Scolaro</b></p>
+<ul>
+<li>65% commission</li>
+<li>First 500 cards</li>
+<li>Hands on training involving signing contracts, lead mining, marketing, follow up, listing entry, all types of training</li>
+<li>Daily leads both buyers and sellers</li>
+<li>E&amp;O included</li>
+</ul>
+<p>Job Type: Contract</p>
+</div>

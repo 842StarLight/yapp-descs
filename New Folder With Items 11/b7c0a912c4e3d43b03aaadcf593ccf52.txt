@@ -1,0 +1,89 @@
+<h2>Controls Technician</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div><div><div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Company Benefits</b></h3>
+<ul>
+<li>Competitive Wages</li>
+<li>Paid Holidays</li>
+<li>Paid Time Off (PTO)</li>
+<li>401 (k) and ROTH IRA Retirement Plans with a 3% Match</li>
+<li>Health Insurance</li>
+<li>Dental and Vision Insurance</li>
+<li>Life Insurance</li>
+<li>Training and Certifications</li>
+<li>Safety Program</li>
+<li>Promote from Within</li>
+</ul>
+</div></div>
+<div></div>
+<div><div><div>
+<h3 class="jobSectionHeader"><b>Dallas/Ft. Worth Area Controls Technician</b></h3>
+<p>We are seeking a Controls Technician to be based out of our Fort Worth Facility. The Technician role will be to ensure the integrity and reliability of all electrical, instrumentation, and control systems including installation, troubleshooting, and continued calibration and maintenance within the assigned area. This will include: natural gas processing plant, compressor stations, aggregate facilities, food and beverage, as well as standard manufacturing processes. Additionally, this position must also have a strong commitment to safety and environmental policies. Brandon &amp; Clark offers competitive compensation plans as well as health care, 401k w/matching options, vacation/PTO, vendor and customer training opportunities.</p>
+<p><b>
+Primary Job Responsibilities and Expectations</b>:</p>
+<ul>
+<li>Provides detailed industrial control system drawings and perform factory acceptance testing (FAT) of control panels for proper functionality.</li>
+<li>Design work including electrical schematics, power circuit and control circuit sizing and loading, SCCR calculations, thermal Calculations for control panels, and control panel interior &amp; exterior design and layouts.</li>
+<li>Red line/Mark-up electrical schematics to Q.C. or review the content and design. Assist with and perform formal electrical drawing Q.C. and procedure.</li>
+<li>Follows document control procedures for revisions, submittals, using Best Practice Procedures.</li>
+<li>Writes, enters and documents PLC programs and HMI programs using Best Practice Procedures.</li>
+<li>Working understanding of Industrial network configuration and setup for different communication protocols.</li>
+<li>Debugs and tests control systems at the customer’s facility (start-up/stand-by).</li>
+<li>Understands various PLC Programming Languages, such as LDD, FBD, SCT, ST, as well as multipleHMI programming platforms.</li>
+<li>Specify &amp; Recommend parts as required.</li>
+<li>Works alone or with project team and communicate well with the project lead and or project manager.</li>
+<li>Writes operations manuals, user manuals, O&amp;M manuals, etc.</li>
+<li>Develops checkout and validation forms for Factory Acceptance tests and on-site commissioning and all required documentation on projects.</li>
+<li>On-site startup and commissioning of systems. May involve 10 to 20 hour shifts per day as required to meet specific start-up schedules</li>
+<li>Turns in all required paper work each week when in the field or on start-up as required.</li>
+<li>Assists with shop control panel Q.C. procedures when needed.</li>
+<li>Attends and actively participates in project meetings.</li>
+<li>Basic level of understanding of UL508A for industrial control panels, NEC &amp; NFPA 70, and any other project specific code requirements.</li>
+<li>Responsible for ensuring the quality of goods and services to both internal and external customers</li>
+</ul>
+<p><b>Minimum Qualifications:</b></p>
+<ul>
+<li>High School diploma or equivalent required with technical training in electrical, automation, hydraulics, and/or pneumatics preferred.</li>
+<li>Minimal of 5 years of strong automation and electrical experience with solid working knowledge of industrial equipment including electrical, hydraulics, pneumatics, pumps, motors, etc.</li>
+<li>Experience with Multiple Automation System Platforms, such as Rockwell/Allen Bradley, Siemens, &amp; GE; Control &amp; HMI Systems</li>
+<li>Experience with SCADA software systems</li>
+<li>Experience working with Low Voltage (0-600V 3PH) power systems, MV Experience a Plus.</li>
+<li>Valid Driver’s License with no major traffic violations, suspensions, or DUIs in previous 5 years.</li>
+<li>Able to work independently with strong self-management and professionalism.</li>
+<li>Able to complete work within assigned deadlines.</li>
+<li>Computer proficiency as required for communication, research, work orders and programming various controllers.</li>
+<li>Experience in network &amp; Server configuration a Plus.</li>
+<li>Available for a rotating schedule of on-call work on evenings, weekends and holidays.</li>
+<li>Must be able to read and write in English.</li>
+<li>Overnight travel up to 15% is required.</li>
+<li>Must be able to lift up to 50 lbs. on a regular basis and work in industrial environments including extremes in temperature with continuous walking, reaching, bending, and kneeling.</li>
+</ul>
+<p><b>Additional Requirements:</b></p>
+<ul>
+<li>Prefer residence DFW, TX Area; some overnight travel will be required for training and jobs.</li>
+<li>Must be able to pass a pre-employment drug test and periodic, unannounced random drug tests.</li>
+<li>Must be able to pass a pre-employment criminal background check.</li>
+<li>Must be able to pass a fit for duty physical exam.</li>
+<li>Sample Work may be requested.</li>
+<li>Proficiency Testing in PLC, HMI, &amp; Networking will be required.</li>
+<li>Experience with Siemens, A/B, and others is required.</li>
+</ul>
+<p><b>Brandon &amp; Clark, Inc.:</b><br>
+Brandon &amp; Clark is a leader in our industry providing sales, service, repair, and installation of electrical solutions and rotating apparatus (Electric Motors, Generators, Pumps, and Compressors). The company was founded on April 1, 1950 as an electric motor repair and field service company by Basil (Pop) Brandon and his stepsons, Bill and Bob Clark. Mr. Brandon, a retired salesman, provided the financing, management, and sales experience, while Bob and Bill provided the electrical and mechanical troubleshooting and repair skills. Since opening, the company has expanded to provide sales and service for electric motors, transformers, electrical equipment, air compressors, industrial wiring, system integration, and custom controls for all areas of industry.</p>
+<p>
+Initially servicing West Texas &amp; Eastern New Mexico, the company has grown into a regional electrical solution center serving the Southwestern United States. Headquartered in Lubbock, Texas, Brandon &amp; Clark, Inc. has grown from its humble beginnings in a 25’ x 75’ building with 3 employees to a corporation with 6 locations and more than 200 employees. A family owned and operated business, now entering its third generation of leadership; we are still committed to the customer service and quality principles set forth by our founders.</p>
+<p>
+From our sales, service and repair facilities in Lubbock, Hereford, Odessa, and Fort Worth, TX we provide comprehensive support for the sale, installation, commissioning, service and repair of electrical and rotating apparatus ranging from Transformers up to 30MVA at 161,000 volts and Electric Motors up to 30,000 HP at 13800 Volts as well as Variable Frequency Drives, Air Compressors, Generators, Gear Boxes and Pumps. We also provide industrial electrical construction and troubleshooting services, automation, and custom control system fabrication from several of our facilities. Our focus is to provide the products and services that our customers require to keep their facilities operating as smoothly and efficiently as possible to help maximize their profitability and to grow their businesses.</p>
+<p><b>
+Submit Resumes to:</b><br>
+Noah Hudgeons<br>
+East Region Sales Manager<br>
+Brandon &amp; Clark, Inc.<br>
+2475 East Long Avenue<br>
+Fort Worth, TX 76106<br>
+nhudgeons@brandonclark.com</p>
+</div></div></div>
+</div></div></div></div>
+<div></div>
+</div>

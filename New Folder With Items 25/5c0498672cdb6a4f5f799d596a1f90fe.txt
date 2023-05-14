@@ -1,0 +1,44 @@
+<h2>Technical Architect III</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">STERIS is a leading provider of infection prevention and procedural products and services, focused primarily on the critical markets of healthcare, pharmaceutical and research and medical devices. Our mission is to help our Customers create a healthier and safer world by providing innovative healthcare and life science product and service solutions around the globe. We have 12,000 employees worldwide, with over 3,000 in Customer-facing sales and service roles. Founded as Innovative Medical Technologies in Ohio in 1985, the company was renamed STERIS in 1987. Many of the businesses that have been acquired and integrated into STERIS have much longer operating histories, notably the American Sterilizer Company founded in 1894. The STERIS Vision is inspired by our Customers' efforts to create a healthier and safer world, and guided by our legacy of leadership and innovation; we strive to be a Great Company. To STERIS, this means we will make a difference by providing world-class product and service solutions for our Customers, safe and rewarding work for our People, and superior returns for our Shareholders.
+<br><br>
+Position Summary
+<br><br>
+We are currently looking for a Technical Architect III to join our team, based at our headquarters, in Mentor, OH. The Technical Architect III is responsible for providing advanced competency in supporting the IT Architecture team. This individual will participate in needs analysis and requirements gathering sessions with business users and IT specialists. They will also assist in the creation of technology architecture documents; manipulate data; design, code, and test software and systems; and configure infrastructure components. Every day, something special happens at STERIS. What will YOU help us do next?
+<br><br>
+Essential Functions
+<br><br>
+<ul>
+<li>Design technical architecture for activities, including those supporting Internet of Things applications (45%)</li>
+<li>Lead business analyses and manage small projects (35%)</li>
+<li>Perform software engineering and administration tasks, including those support of Internet of Things applications (5%)</li>
+<li>Lead Testing &amp; Validation Efforts (5%)</li>
+<li>Stay current with applicable technologies, attend conferences and conduct training as required (5%)</li>
+<li>Perform other duties as required (5%)</li>
+</ul>
+Skills &amp; Requirements
+<br><br>
+<ul>
+<li>Bachelor’s Degree in Computer Science, Data Science, Data Analytics, IT, or related field.</li>
+<li>Ten plus years of professional IT experience, including the following (specific experiences can be concurrent): Seven or more years of relevant software development experience (Java, C#, Python, R)</li>
+<li>Seven or more years using data interchange methods, including XML, JSON, RESTful, and SOAP</li>
+<li>Six or more years of experience developing software that interacts with full-stack architecture, LAMP, MEAN</li>
+<li>Four or more years of experience with HTML, HTML5, CSS, JavaScript, and mobile development</li>
+<li>Four or more years of business and systems analysis experience preferred</li>
+<li>Three or more years of software quality assurance and validation experience preferred</li>
+<li>Experience with Agile project management methodologies</li>
+<li>Exposure to/experience with Big Data and data analytics</li>
+</ul>
+#LI-KW1
+<br><br>
+<ul>
+<li>Bachelor’s Degree in Computer Science, Data Science, Data Analytics, IT, or related field.</li>
+<li>Ten plus years of professional IT experience, including the following (specific experiences can be concurrent): Seven or more years of relevant software development experience (Java, C#, Python, R)</li>
+<li>Seven or more years using data interchange methods, including XML, JSON, RESTful, and SOAP</li>
+<li>Six or more years of experience developing software that interacts with full-stack architecture, LAMP, MEAN</li>
+<li>Four or more years of experience with HTML, HTML5, CSS, JavaScript, and mobile development</li>
+<li>Four or more years of business and systems analysis experience preferred</li>
+<li>Three or more years of software quality assurance and validation experience preferred</li>
+<li>Experience with Agile project management methodologies</li>
+<li>Exposure to/experience with Big Data and data analytics</li>
+</ul>
+</div>

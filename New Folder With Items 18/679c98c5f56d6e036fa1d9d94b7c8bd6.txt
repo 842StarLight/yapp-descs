@@ -1,0 +1,85 @@
+<h2>4IFFPFA1-Sr Financial Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div>Robertshaw is a global design, engineering and manufacturing company that sells product solutions to the white goods industry. We leverage our product portfolio into adjacent markets and after sales channels. Primary applications include controls for clothes washers and dryers, dishwashers, refrigerators, electric and gas cooking. Robertshaw global headquarters is located near Chicago in Itasca, Illinois, USA. The company employs over 6,500 employees in 14 countries, has three engineering centers, 13 manufacturing locations, and five distribution centers.</div>
+<p></p>
+<br>
+<p>
+The Financial Systems Senior Administrator will join the Corporate Accounting team and report to the Assistant Controller, Senior Manager. This position is a highly visible role and will serve as the Oracle Hyperion and Blackline administrator, Plex ERP systems support and be responsible to support processes related to consolidations and financial reporting. This person will be responsible for developing, designing, maintaining, and supporting the Hyperion applications (HFM, FDM, SmartView, reporting, etc.) and ensuring the integrity of the financial reporting applications. Acts as liaison with information technology, corporate finance, and operations accounting departments to enhance the financial reporting and consolidation systems. Manage projects related to Hyperion applications and other processes as required. The position offers the right candidate an opportunity to participate in a fast-paced environment at a growth and results oriented company.
+</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Manages system metadata, oversee the monthly change management process from inception to completion, including collection of change management requests, collection of all necessary documentation and approvals, and communication notifying user community of implemented metadata changes. Maintains and executes business rules, calculations, data copies, and moves</li>
+<li>
+Develops and maintains financial reports using SmartView Excel grids and other reporting tools</li>
+<li>
+Maintains user security for HFM and Blackline and manages change processes for user security in accordance with established protocols</li>
+<li>
+Prepares and maintains user documentation and training materials and trains and supports users in both corporate and operations accounting and finance. Create user manual(s) and best practices to share with the organization.</li>
+<li>
+Aid in the facilitation of the global financial close consolidation process, working with External Reporting, financial business leaders, and Corporate Financial Analysis team to bring monthly, quarterly and annual financial close process to its completion and planning/forecasting cycles to ensure system responsiveness and data integrity to meet user needs. Supports the upload and processing of actual, forecast, and plan data to the Hyperion suite
+</li>
+<li>Performs data integrity analysis to ensure appropriateness of data uploads for all applicable financial systems</li>
+<li>
+Manage acquisition reporting activities to meet first month reporting with respect to HFM system set-up and ERP system (Plex) based upon interpretation of business and Corporate needs</li>
+<li>
+Participate in meetings regarding new acquisitions and legal integrations for providing recommendations on system architecture design and system onboarding activities and timing</li>
+<li>
+Works with legal and tax departments to ensure the legal entity structure is accurately setup and maintained within the system for accurate consolidation reporting. Develops, publishes, and maintains detailed organizational structure for legal entity and segment reporting with currencies for reference purposes</li>
+<li>
+Ensures accuracy of foreign currency reporting through appropriate system setup. Works directly with all foreign consolidating entities to ensure all accounts are translated in accordance with US GAAP.</li>
+<li>
+Coordinates the scheduling of the year end income statement roll forward.</li>
+<li>
+Reviews, documents, and maintains SOX controls related to the accounting system and develops appropriate SOX controls and documentation. Development of reports for SOX and external auditors as needed</li>
+<li>
+Participate in special projects and performs other duties as required</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<p><b>Required Qualifications</b></p>
+<ul>
+<li>
+Bachelor’s degree in accounting, business, IT or related field
+</li>
+<li>5+ years minimum job-related experience in the accounting/finance or IT areas</li>
+<li>
+Must be technical in nature with strong working knowledge of the following areas:
+</li>
+</ul>
+<ul>
+<li>Generally accepted accounting principles and consolidation accounting</li>
+<li>Relational database concepts including file structure knowledge data definition</li>
+<li>System security and data governance processes</li>
+</ul>
+<ul>
+<li>
+Ability to manage multiple projects with accuracy and efficiency while meeting deadlines and solving problems</li>
+<li>
+Previous experience in supporting a global manufacturing organization</li>
+<li>
+Experience with the consolidation process, including elimination entries and consolidating international entities with foreign currencies</li>
+</ul>
+<p><b>
+ </b><b>Skills and Abilities
+</b></p>
+<ul>
+<li>Demonstrated leadership skills; to appropriately apply strategies to effectively deliver business objectives, acts proactively in anticipating organizational needs</li>
+<li>
+Excellent communication, critical, analytical and interpersonal skills</li>
+<li>
+Organization skills to anticipate, plan, organize and self-monitor workload</li>
+<li>
+Ability to work extended hours during the monthly, quarterly and year-end close process</li>
+<li>
+Proficiency in MS Office (Word, Excel and PowerPoint)</li>
+</ul>
+</div></div></div>
+</div></div>

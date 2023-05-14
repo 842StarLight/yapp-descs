@@ -1,0 +1,43 @@
+<h2>Programmer/Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>We are searching for a Software Engineer familiar with developing and support of software using the languages and technologies of the .NET Framework. Candidate will maintain existing applications, and provide technical user support. If you are passionate about the .NET framework and software design and architecture our team would like to meet you.</p>
+<div>
+<h3 class="jobSectionHeader"><b>
+Requirements</b></h3>
+<div>License/Certification/Education: Normally requires a B.S. Degree in Computer Science w/3-5 years of experience.</div>
+<div></div>
+<div>
+<p>Requirements</p>
+<ul><li>Experience as a .NET Developer or Application Developer</li></ul>
+<ul><li>Familiarity with Microsoft's ASP.NET framework, SQL Server and design patterns like Model-View-Controller (MVC)</li></ul>
+<ul><li>Knowledge of at least one of the .NET languages (e.g. C#, Visual Basic .NET) and HTML5/CSS3/JavaScript</li></ul>
+<ul><li>Familiarity with architecture styles such as APIs (REST, RPC)</li></ul>
+<ul><li>Understanding of Agile methodologies</li></ul>
+<ul><li>Excellent troubleshooting and communication skills</li></ul>
+<ul><li>Attention to detail</li></ul>
+<br>
+<p></p>
+<p>
+Current list of existing Apps to Support</p>
+<ul><li>Aetna - sales app to track clients using Aetna Insurance</li></ul>
+<ul><li>Acquisition Tracker - Application used for reporting and tracking issues reporting during acquistion go-lives</li></ul>
+<ul><li>Rabbit - IT asset management</li></ul>
+<ul><li>Daily Operations - Statistical site used by the operations team for the daily reporting.</li></ul>
+<ul><li>IT Dashboard - Used as a IT hub for minor applications like the outage board</li></ul>
+<ul><li>Overland Park Lookup - temporary site used to look up PDF results from their FastLab system</li></ul>
+<ul><li>PSC Wait Times - legacy site used to track daily numbers from PSC and IOP locations in MA</li></ul>
+<ul>
+<li>Technical Director - Used by the MAOTC group for managing callbacks to clients from our Technical Director Pathologists.</li>
+<li>Corporate Results Interface in Ensemble - custom interface for receiving and processing EDI data from corporate for use in the above applications.</li>
+</ul>
+</div>
+</div>
+<div>
+<h3 class="jobSectionHeader"><b>
+Shift</b></h3>
+1</div>
+<div>
+<h3 class="jobSectionHeader"><b>
+Schedule</b></h3>
+Monday through Friday, 8:00-5:00</div>
+</div></div>

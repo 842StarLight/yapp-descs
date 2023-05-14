@@ -1,0 +1,61 @@
+<h2>Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>CFM, a sistercompany to DBSI, is a progressive and innovative software company that ischanging the way people interact with Banks and Credit Unions. CFM was recentlyadded to Inc.'s 5000 list of fastest growing companies, and Banking CEOidentified CFM as a Top Banking Analytics Software provider.</p>
+<p>CFM's cause andambition is big: to redefine an industry in need of a shakeup…banking. We <i>are</i> an unusually talented group dedicated totransforming financial institution spaces into unforgettable retailenvironments. We believe in hiring raw talent and cultivatingchampions. While the requirements and responsibilities listed below areextremely important to your success, we believe that your desire to learn,positive attitude and your passion for success will be your greatestattributes.</p>
+<p>We are in search ofa Software Developerto support our growingapplication demand. This position plays a key role in supporting thefunctional development of software solutions that connect banking equipment andsystems. A Software Developer must be able to communicate confidentlywith technical personnel and work closely with other departments to deliver thehighest level of solutions possible. The ideal candidate must beable to collect and assess functional requirements and support programmingdemands under tight deadlines – and have fun doing it.</p>
+<p>What we offer is anamazing culture, a competitive salary, profit sharing, generous medicalinsurance coverage, plus paid time off, 401k matching and the luxury of workingin an award-winning environment, and a place where you can make a difference.</p>
+<p><b>Responsibilitiesand Deliverables: </b> This position needs to have asuccessful experience in delivering program solutions. Have the abilityto:</p>
+<p>1) Maintain existingsoftware product lines. Including functional enhancements, bug fixing, codeoptimization, etc.</p>
+<p>2) Team building.Cross training team members and receiving training from team members on coding,business process related to software products, time management, etc.</p>
+<p>3) Customersupport. Provide second line support for the front line technical support staffon customer issues</p>
+<p>4) New productdesigns, prototyping, and development</p>
+<p>5) Custom projectdevelopment. Support sales and marketing on technical issues, design specialproject based on client needs, organize team members to deliver the project ontime and on budget.</p>
+<p><b>Skills/Qualifications: </b></p>
+<p>The ideal candidateshould have:</p>
+<p>Understand ObjectOriented concepts</p>
+<p>Software Designpatterns</p>
+<p>Basic knowledge ofdatabase (relational/non-relational)</p>
+<p>Software DevelopmentLife Cycle</p>
+<p>Quick learningexperience with Web Services</p>
+<p>Demonstrate theability to acquire new knowledge in a timely manner</p>
+<p>General ability andwillingness to support and work with others within and outside of dept.</p>
+<p>Demonstrateresourcefulness, accountability and outstanding attention to detail</p>
+<p>Awesome person,go-getter personality, problem solver, with the ability to work wellindependently</p>
+<p>Required skills:</p>
+<ul><li>Java</li></ul>
+<p>Preferred Skills:</p>
+<p>· C/C++</p>
+<p>· .NET</p>
+<p>· MS SQL</p>
+<p>· Mongo DB</p>
+<p>· Cassandra DB</p>
+<p>· JBoss andApache Tomcat</p>
+<p>· Redis</p>
+<p><b>Experience: </b></p>
+<p>· 3+years’ experience with Software Development</p>
+<p>· 3+years' troubleshooting experience under tight deadlines</p>
+<p>· Ableto manage multiple daily project requirements</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>relevant: 1 year (Preferred)</li>
+<li>applied java: 1 year (Preferred)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Location:</p>
+<ul><li>Tempe, AZ (Preferred)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+</ul>
+<p>Schedule::</p>
+<ul><li>Monday to Friday</li></ul>
+</div>

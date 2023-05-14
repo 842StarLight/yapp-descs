@@ -1,0 +1,36 @@
+<h2>Software Application Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>As a Software Application Engineer, you are essential to our customers’ success by designing and implementing Khoros' solutions optimally for their needs. On a day-to-day basis, you will be responsible for: understanding customer goals and guiding them to appropriate technical solutions; designing, implementing, and co-developing these solutions; contributing to pre-sales efforts (feasibility, scoping, analysis, estimation); working with colleagues, as needed, throughout the design and delivery lifecycle.</p>
+<br>
+<p></p>
+<p><b>
+Job Description:</b></p>
+<ul>
+<li>Understanding customer goals or requirements and guiding them to an appropriate technical solution; scoping, estimating, architecting, then designing and implementing custom features or integrations to Khoros' core products; articulating complex technical concepts in layman's terms</li>
+<li>Overseeing the delivery of projects from a technical standpoint with the goal that the completed implementation adheres to the intended design and properly addresses the business requirements</li>
+<li>Managing and accounting for your own time and activities</li>
+<li>Contributing to operational and process improvements within the department</li>
+</ul>
+<p><b>Requirements:</b></p>
+<ul>
+<li>Formal training/education, or 3 years professional experience in Java 7 (or newer), Java Enterprise Edition, Sun Certified Java Programmer, or Oracle Certified Professional Java Programmer a plus.</li>
+<li>Graduate or Bachelor's degree in Computer Science or relevant field</li>
+<li>Strong command of the English language (written, spoken, colloquial); additional languages a plus</li>
+<li>Confidence in your presentation skills – ability to capture attention and deliver key messages in a variety of contexts (small groups to larger audiences)</li>
+<li>Professional experience implementing software root cause analysis procedures; ability to diagnose problems in complex technology environments</li>
+<li>Strong understanding of public key cryptography</li>
+<li>3+ years of professional experience with Java frameworks and a working knowledge of Model-View-Controller (MVC)</li>
+<li>Professional experience with templating languages (e.g. FreeMarker, Velocity, XSLT)</li>
+<li>Professional experience integrating external web services including REST and SOAP</li>
+<li>Hands-on experience with AWS a plus</li>
+<li>Professional experience with SSO</li>
+</ul>
+<p><b>The Perks at Khoros:</b></p>
+<ul>
+<li>An incredible work environment – fun, casual, fast-paced environment</li>
+<li>Health, dental, vision, disability, and 401K benefits</li>
+<li>Flexible paid time off</li>
+<li>Fresh, healthy lunches catered four days a week</li>
+<li>Unlimited snacks and drinks</li>
+</ul>
+</div></div>

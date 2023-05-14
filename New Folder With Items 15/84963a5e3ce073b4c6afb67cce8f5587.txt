@@ -1,0 +1,81 @@
+<h2>Salesforce Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>The Salesforce Solutions Architect is a senior non-management role that combines technical acumen, leadership, communications, and planning skills to “lead” IT development resources in the timely delivery of cost-effective technology solutions based on best practices and company standards.
+</p>
+<p></p>
+<p><b>Key Job Responsibilities
+</b></p>
+<ul>
+<li>Be the team technical expert and Develop/Architect technical solutions using best practices.
+</li>
+<li>Own the full application design and development process that translates business requirements into functional solutions. Work closely with business and IT leaders to provide technical solutions to complex business needs. Excellent designer, architect and communicator to explain complex technology concepts in simple language.
+</li>
+<li>Provide organizational technical guidance on: Salesforce Coding best practices, .NET Coding best practices, Database best practices, Secure coding best practices, QA / Automated testing strategies
+</li>
+<li>Coordinate Dev / QA resources for release day. Handle escalations, if necessary, for RFC’s and release issues.
+</li>
+<li>Coordinate with the business on issues that may affect project and timeline.
+</li>
+<li>Design migration strategies with technical teams.
+</li>
+<li>Work with IT and Product teams to identify and define the business needs and the solution to fulfill the requirements.
+</li>
+<li>G ather functional requirements, conduct analysis, and establish metrics for success
+</li>
+<li>Mentor team members and learn how to motivate them to excel on a daily manner. Work on building team rapport. Enhance team communication and cross training to build strong teams.
+</li>
+<li>Work with leads to transform and develop new requirements into designs, development approaches and implementation.
+</li>
+<li>Interface with SFDC technical SME’s.
+</li>
+<li>Take extraordinary interest in the adoption, implementation, and success of a policy, program, project, or product.
+</li>
+<li>Write comprehensive design specifications (functional specifications and solution/technical design document).
+</li>
+<li>Assist in developing data movement strategies and implementing data cleansing/data quality tools.
+</li>
+</ul>
+<p></p>
+<p><b>Minimum Qualifications:
+</b></p>
+<ul>
+<li>Bachelors degree in Computer Science, Information Technology, Engineering, or related technical degree
+</li>
+<li>5+ years of hands-on development of business-critical applications experience
+</li>
+<li>Salesforce Certified App Developer II or above (preferred or eq. experience)
+</li>
+<li>Experience with SRM, CampusVue, Orion, Lead Import, Jira, TFS, Github, Jira
+</li>
+<li>Intermediate skill in Architecture
+</li>
+<li>Experience with modern integration products such us MuleSoft, Dell Boomi, Informatica
+</li>
+<li>Direct experience with SFDC Sales Cloud and Service Cloud (application design, architecture and development using Salesforce.com).
+</li>
+<li>Strong SFDC knowledge and Integration components for SFDC (for example, SFDC APIs, Apex controllers, Apex Web Services, Apex callout, outbound messaging, SFDC data loaders and ETL Tools - e.g. Data Loader)
+</li>
+<li>Experience with advanced structured programming - APEX, Force.com, .Net, Java, SOA
+</li>
+<li>Strong understanding of RDBMS concepts and structures, knowledge of SQL, structured system analysis and design patterns
+</li>
+<li>Proven experience in overseeing the technical direction, development, and implementation of SFDC software solutions
+</li>
+<li>Understanding of complex ETL and data migration practices and has performed multiple complex data migrations to SFDC.
+</li>
+<li>Applied knowledge of SFDC and CRM processes including Sales, Services and Marketing functions.
+</li>
+<li>Excellent presentation, verbal, written, communications and planning skills
+</li>
+<li>Outgoing, self-motivated, team/results/detail-oriented.
+</li>
+</ul>
+<p></p>
+<p><b>Preferred Qualifications:
+</b></p>
+<ul><li>Agile / Scrum methodology</li></ul>
+</div>
+<p></p>
+</div>

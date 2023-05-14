@@ -1,0 +1,54 @@
+<h2>EUC Solution Engineer (SLED)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Business Summary</p>
+<p>
+VMware End-User Computing is empowering the digital workspace. In the age of mobile and cloud, consumer devices and application experiences are shaping how businesses drive digital transformation. Consumer experience is changing employee expectations, creating new application demands and forging new opportunities to change business processes.</p>
+<p>
+We are looking for an End-User Computing (EUC) Solution Engineer to support the continued growth of the team. You should have deep understanding of the mobile and desktop landscape. As a member of the VMware EUC SE presales team, we evangelize VMware business value and technical benefits to senior level business and technology decision makers. Our Solution Engineers are instrumental in solution development around Digital Workspace.</p>
+<p>
+The EUC SE specialist is a high impact, very visible and inspirational role in driving the adoption of VMware products and solutions in large scale enterprise accounts as well as influencing product improvements and the new products/solutions that VMware brings to market.</p>
+<p>
+Job Roles and Responsibilities:</p>
+<ul>
+<li>Engage with clients at many levels (Solution Architects, VPs, Directors of IT, and Technical Administrators); building relationships, evangelizing VMware solutions, and providing domain expertise to assist in closing business</li>
+<li>Participate in pre-sales efforts including: technical sales presentations, architecture design discussions, daring displacement, proof-of-concept engagements, RFP/RFI responses, solution demonstrations, and technical workshops</li>
+<li>Analyzes customer's business and technology objectives by asking probing questions that are meaningful to the customer to collect information that enables the sales team to be more effective and responsive to customer’s needs</li>
+<li>Craft and propose custom solutions that differentiate VMware software and services, and meet customer’s requirements and objectives</li>
+<li>Define and ensure success of customer proof-of-concepts (POCs)</li>
+<li>Build a document portfolio of compelling sample reference architectures that demonstrate the value of VMware solutions in real-world scenarios</li>
+<li>Document client feature requests and issues, providing feedback to sales and product management</li>
+<li>Present VMware’s technical &amp; business value proposition at industry events</li>
+<li>Develop in-depth technical knowledge of VMware and domain expertise within technology subject area</li>
+<li>Assume the role of an advisory team leader organizing a team of domain authorities, collaborating on issues and solutions as well as collecting information on industry trends, customer requirements and competitive analysis</li>
+</ul>
+<p>
+Required Skills:</p>
+<ul>
+<li>Technical pre-sales and/or consulting experience and 8+ years of industry experience</li>
+<li>Deep understanding in technology pre-sales</li>
+<li>Experience with server configurations (Windows Server, Web Servers (IIS ASP.NET), Linux)</li>
+<li>Understanding of Web applications and their architecture and design</li>
+<li>Possess a strong knowledge of Enterprise Architecture with background in either the customer or system integrator landscape</li>
+<li>Strong presentation skills as well as the ability to build and present high-quality product demonstrations to both technical and executive audiences</li>
+<li>Strong listening, reasoning and objection handling skills</li>
+<li>You are effective in working both independently and in a team setting</li>
+<li>You are a self-starter, have strong interpersonal skills and possess excellent time management skills</li>
+<li>Travel up to 50% of the time</li>
+</ul>
+<p>
+Preferred Skills:</p>
+<ul>
+<li>Strong background in Desktop Virtualization: VMware vSphere, VMware Horizon, Citrix; Microsoft RDS</li>
+<li>Have proven track record of working with mobile technologies from AirWatch, MobileIron, Microsoft and or Citrix</li>
+<li>Experience with configuring and deploying mobile device platforms (Android, iOS, Windows, etc.)</li>
+<li>Experience with Identity Access Management systems (vIDM, Okta, Ping, etc) SAML authN</li>
+<li>Experience with Microsoft desktop operating system and Windows application deployment, configuration and management</li>
+<li>Windows Enterprise Administration</li>
+<li>You will be immensely capable, an excellent communicator with a can-do attitude and will adapt to change with a real passion for the EUC technology space</li>
+</ul>
+<p></p>
+<p>
+Equal Employment Opportunity Statement</p>
+<p>
+VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. VMware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</p>
+</div></div>

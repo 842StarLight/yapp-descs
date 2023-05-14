@@ -1,0 +1,132 @@
+<h2>Salesforce Technical Architect - Accenture Technology</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>Ready to fast-track your Salesforce career?</div>
+<div></div>
+<div>Join the largest team of Salesforce certified professionals in the industry and champion innovation, leverage deep and cutting-edge Salesforce expertise and pioneer solutions to help transform the world’s leading organizations and governments.</div>
+<div></div>
+<div>Ready to solve complex problems? Advance your skills? Deliver next-generation Salesforce solutions?</div>
+<div></div>
+<div>Now is the perfect time for you to join the Accenture Salesforce team, where you’ll:</div>
+<ul>
+<li>
+<b>Expand your experience </b>with over 200 intelligent tools across all 12 Salesforce-recognized industries.
+</li>
+<li>
+<b>Lead in the development and implementation </b>of new Salesforce-based solutions.
+</li>
+<li>
+<b>Benefit from our long-standing partnership with Salesforce</b> to access the coolest Salesforce technologies, like Lightning, Einstein and Bolt, so you can put them to meaningful applications at scale.
+</li>
+<li>Join more than 11,800 skilled Salesforce professionals, collaborating across multiple areas to drive enterprise-wide transformational projects on a global scale.
+</li>
+<li>
+<b>Build new skills and strengthen your expertise </b>with unparalleled training and support—whether you're taking the more than 4,200 unique Salesforce certifications or working towards your Certified Technical Architect (CTA) certification.
+</li>
+</ul>
+<div>Join Accenture and be empowered with innovative tools, continuous learning and a global community.
+</div>
+<div></div>
+<div><b>Job Description
+</b></div>
+<div></div>
+<div>Accenture Technology – Salesforce Team professionals demonstrate skills in Salesforce which is the leader in CRM solutions for customer relationship management software and cloud computing.
+</div>
+<div></div>
+<div>The successful candidate will be able to design technical architecture solutions that span multiple platforms and include integration and authentication across systems; manage the development lifecycle to ensure the delivery of highly secure solutions that are optimized for performance and built to scale; articulate design considerations, trade-offs, benefits, and recommendations for a technical architecture. The Technical Architect will have support from the Global Delivery Group as well as from local support resources provided by the global team.
+</div>
+<div></div>
+<div>We can hire for this role anywhere in the US, as long as you are located near an Accenture office, and willing and able to travel domestically approximately 80% of the time to meet client needs.
+</div>
+<div></div>
+<div><b>Key Responsibilities</b></div>
+<ul>
+<li>Collaborate with Functional team to determine how best to implement solution (decisions around declarative vs programmatic vs AppExchange, etc).
+</li>
+<li>Escalation Point for technical issues.
+</li>
+<li>Solution components that are outside of the Salesforce platform:
+<ul>
+<li>Expert platform knowledge.
+</li>
+<li>Security.
+</li>
+<li>Integration (including a technology/not just) and data Migration.
+</li>
+<li>End to End Technical Solutions.
+</li>
+</ul>
+</li>
+<li>Play TA role on projects: typically, part-time on more than 1 project at a time.
+</li>
+<li>People Manager have regular 1-on-1s, perform annual reviews, etc
+</li>
+<li>Sales Support: Help scope, solution, and estimate sales opportunities alongside a delivery lead. Assist in SOW creation, etc.
+</li>
+<li>Practice Development: Mentor resources, take on leadership roles to expand overall practice capabilities, etc.</li>
+</ul>
+</div>
+<br>
+<div>
+<div><b>Basic Qualifications</b></div>
+<ul>
+<li>A minimum of 2 years of experience developing Salesforce customizations (Apex/VF), integrations, and developing and executing data migrations.
+</li>
+<li>A minimum of 2 years of experience creating the technical architecture for complex Salesforce implementations.
+</li>
+<li>A minimum of 5 years of experience in technology implementation for full lifecycle enterprise software projects.
+</li>
+<li>Bachelor's degree or equivalent (minimum 12 years) work experience. (If Associate’s Degree, must have minimum 6 years work experience).</li>
+</ul>
+<div><b>Preferred Skills
+</b></div>
+<ul>
+<li>Strong background in Cloud Computing solutions – cloud computing strategy, systems design, implementation and management.
+</li>
+<li>Consulting experience with medium to large consulting firms focusing on cloud computing related consulting (storage, SaaS, multi-tenant computing, large scale computing environments, etc).
+</li>
+<li>Demonstrated knowledge of XML, SQL, HTTP/HTTPS, and EAI processes.
+</li>
+<li>Familiarity with multiple implementation standards and methodologies.
+</li>
+<li>Programming Languages – APEX, VisualForce, Familiarity with ANT and Eclipse tools for working with the IDE.
+</li>
+<li>Salesforce and other certifications, required.
+</li>
+<li>Very strong work ethic with a customer service focus (high intensity).
+</li>
+<li>15+ years of consulting experience preferred; executive level sales support experience in consulting/professional services.
+</li>
+<li>Bachelor’s degree in a related field preferred.
+</li>
+</ul>
+<div><b>Professional Skill Requirements</b></div>
+<ul>
+<li>Proven ability to build, manage and foster a team-oriented environment.
+</li>
+<li>Proven ability to work creatively and analytically in a problem-solving environment Desire to work in an information systems environment.
+</li>
+<li>Excellent communication (written and oral) and interpersonal skills.
+</li>
+<li>Excellent leadership and management skills.
+</li>
+</ul>
+<div><i>Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture.</i></div>
+<div></div>
+<div><i>Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+</i></div>
+<div></div>
+<div><i>Accenture is an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.
+</i></div>
+<div></div>
+<div><i>Equal Employment Opportunity
+</i></div>
+<div><i>All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+</i></div>
+<div></div>
+<div><i>Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+</i></div>
+<div></div>
+<div><i>Accenture is committed to providing veteran employment opportunities to our service men and women.</i></div>
+</div>
+</div>

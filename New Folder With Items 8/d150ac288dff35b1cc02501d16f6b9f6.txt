@@ -1,0 +1,41 @@
+<h2>Business Process Manager System Administrator 2009125</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>eiWorkflow Solutions, LLC is a cloud software consulting firm based in Albany, NY. eiWorkflow Solutions, LLC is currently looking for a consultant for the following role.</p>
+<p><br>
+<b>
+Business Process Manager System Administrator</b></p>
+<p><br>
+<b>
+Tasks the role will be performing:</b></p>
+<p>
+Installation, Maintenance, Configuration and monitoring of middleware components within the IES Platform such as Application Servers, Portal Server, Business Process Manager, Rules Engine &amp; API Management Product. Perform Manual Deployments &amp; configuration of Automated deployments of enterprise applications &amp; configuration files. Actively participate in troubleshooting any technical issues. Perform upgrades and patching to various foundational system &amp; middleware components. Create and maintain documentation for all major installations and implementations. Participate and provide inputs towards capacity planning on compute. Provide technical support for IT operations utilizing ITIL-compliant methodologies.</p>
+<p><br>
+<b>
+Requirements for the position:</b></p>
+<ul>
+<li>
+Minimum 84 months experience in installation, configuration and administration of JEE compliant Applications Servers to achieve a highly-available clustered environment.</li>
+<li>
+Minimum 84 months experience with the installation, configuration and administration of Business Process Manager or Business Process Automation Engine.</li>
+<li>
+Minimum 60 months experience in administering, configuring and monitoring of Portal Server such as Liferay or IBM WebSphere.</li>
+<li>
+Minimum 48 months experience in application performance monitoring tools such as AppDynamics or Dynatrace.</li>
+<li>
+Minimum 84 months experience in administration of Unix based servers using Unix based commands and scripting.</li>
+<li>
+Minimum 36 months experience administering and configuring API Management products such as Akana or IBM API Management.</li>
+<li>
+60 months of experience in supporting platforms &amp; applications built based on Service Oriented Architecture using an Enterprise Services Bus, Business Process Manager &amp; Business Process Execution Language.</li>
+<li>
+Minimum 36 months experience administering Search Engines such as Elastic Search or Lucene based Search Engines.</li>
+<li>
+Minimum 12 months of experience in DevOps &amp; Microservices Deployment.</li>
+<li>
+Minimum of Bachelor's degree in technology related field.</li>
+</ul>
+<p></p>
+<br>
+<p>
+R7GGkamQed</p>
+</div></div>

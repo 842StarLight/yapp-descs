@@ -1,0 +1,49 @@
+<h2>Salesforce Business Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Want to make a real impact?</p>
+<p>At Liberty, we believe that Lines of Code can Change Lives, and it is our job to do so every day, more securely and more dependably.</p>
+<p>We are currently seeking a sharp, ambitious, and enthusiastic Salesforce Business Analyst to join our team to innovate and change the face of healthcare in our country.</p>
+<p>Over the past year, our small company has tackled a wide range of public health issues through technology and business solutions, such as Veteran suicide prevention, genomic and big data analytics, community care, API-driven government gateways, health record modernization, and enterprise-wide federal cyber security and DevSecOps efforts to name a few.</p>
+<p>So what will you transform?</p>
+<p><b>Salesforce Business Analyst</b></p>
+<p><b>Roles and Responsibilities</b></p>
+<p>The candidate will be part of a team responsible for delivering enterprise cloud technology solutions for our clients. The candidate will have primarily responsible for requirements gathering, and may be called upon to support Salesforce configuration, testing, training and post deployment support. The candidate will work alongside Solution Architects and Technical Architects to design, develop, and deploy large-scale enterprise solutions all while learning and growing your skill set.</p>
+<p><b>Specific Experience</b></p>
+<ul>
+<li>Work with clients and end users to gather, understand, and define business requirements</li>
+<li>Develop user stories and to-be process flows to support the design and development of Salesforce solutions for our clients</li>
+<li>Work collaboratively with team members to design a solution that will meet a client’s business requirements and fulfill user stories</li>
+<li>Complete the configuration for user stories within Salesforce, AppExchange products, or other cloud-based technologies</li>
+<li>Collaborate with developers to test and verify that solutions will meet the business requirements</li>
+<li>Lead key meetings with clients including requirement sessions, system demos, user acceptance testing, and end user training</li>
+</ul>
+<p><b>Requirements</b></p>
+<ul>
+<li>Must be a U.S. Citizen</li>
+<li>Must have a Bachelor’s degree</li>
+<li>6+ years direct experience in software development life cycle</li>
+<li>4-6 years’ experience in Salesforce configuration and implementing CRM systems</li>
+<li>Hands on experience configuring Salesforce or similar CRM Product, including workflows, validation rules, and security controls</li>
+<li>4-6 years’ experience working in an Agile environment</li>
+<li>Proven ability leveraging analytical and problem-solving skills in a fast-paced environment</li>
+<li>Detail-oriented individual with the ability to quickly ramp up on new clients, their business needs, and technologies</li>
+<li>Strong presentation, communication (written and verbal) skills, and interpersonal skills</li>
+<li>Ability to juggle and prioritize multiple tasks within a collaborative team environment</li>
+<li>Demonstrates flexibility and willingness to do what it takes to get the job done</li>
+<li>Drive and desire to learn and grow both technical and functional skill sets</li>
+<li>Proficient in Microsoft Word, Excel, PowerPoint, Project, and Visio</li>
+<li>Experience on a Salesforce implementation through the full Software Development Lifecycle (SDLC)</li>
+<li>1+ years’</li>
+</ul>
+<p><b>Preferred Experience and Skills</b></p>
+<ul>
+<li>Experience with Lightning Experience and Process Builder</li>
+<li>Experience leveraging and configuring AppExchange products to develop a solution</li>
+<li>Experience soliciting, gathering, and analyzing user input and requirements</li>
+<li>Experience documenting user stories and creating to-be process flow diagrams</li>
+<li>Experience collaborating with business stakeholders</li>
+<li>Experience leading a Scrum team</li>
+<li>Salesforce Administrator Certification and one Consulting Cloud Certification (Sales, Service or Community)</li>
+<li>Scrum Alliance Certified Product Owner</li>
+</ul>
+</div></div>

@@ -1,0 +1,36 @@
+<h2>Account Operations Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>This position will support the North America Wholesale business by providing quality data and reporting instruments to the Account Operations and Account Management teams, as well as cross functional partners. The data and insights created will be integral in elevating our performance management and ability to concisely tell the data stories behind our business. We are looking for someone that loves data and will be passionate about creating meaningful and actionable instruments that strengthen decision making.<br>
+<br>
+The data analyst will own the master reporting of our US Wholesale orderbook and provide analysis around its ever-changing components. The analyst will create resources and solutions that will support our team in; reporting our progress to revenue and margin goals, facilitate efficient shipping decisions, and improve inventory use through allocation. This role will also support Account Management and Sales with reporting orderbook intelligence, and partner with several teams within Converse to create alignment and efficiency in reporting.<br>
+<br>
+What you'll do:<br>
+<ul>
+<li>Manage sales order master data and KPI’s to increase efficiency and enable decision making</li>
+<li>Own the data sources for Account Operations, bring meaning to it and improve its quality.</li>
+<li>Create, grow and maintain reporting related resources, information base and processes.</li>
+<li>Analyze and report out on key components of Converse order book gross to net. Understand the moving parts of sales orders, creating actionable analysis of our At-Once business and cancel rates.</li>
+<li>Create data visualization that aids the decision-making process and guides action</li>
+<li>Partner with cross functional teams to identify data and reporting gaps and develop requirements</li>
+<li>Effectively communicate information to technical and non-technical audiences</li>
+<li>Partner with global analytics team. Ensure data methodology aligns with global reporting and initiatives</li>
+<li>Ad hoc analysis and projects</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Minimum of 2+ years’ relevant experience in a commercial environment</li>
+<li>Demonstrated aptitude to sift through large sets of data, identify critical information, and shape reporting to effectively analyze results</li>
+</ul>
+SQL skills and experience querying large-scale, production databases/data warehouses preferred<br>
+<ul>
+<li>ETL skills, specifically extracting and modeling data for use in business reporting and data visualization applications</li>
+<li>Experience with a reporting solutions/data visualization tool such as Tableau, PowerBI, Business Objects, etc.</li>
+<li>Familiarity with SAP and/or Salesforce.com are a plus</li>
+<li>Passion for data and solving business problems</li>
+<li>Resourcefulness in obtaining data when clean and or complete information is not available</li>
+<li>Excellent written and verbal cross-functional communication skills</li>
+</ul>
+</div>
+</div>

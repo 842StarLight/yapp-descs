@@ -1,0 +1,36 @@
+<h2>Software Architecture Intern</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>The intern will conduct research and critical analysis of Visteon's Driver Information architectures. The expected output will be architectural whitepapers outlining software architecture trends from professional societies (e.g, SEI, IEEE, and ACM), as it applies to our needs.</p>
+<br>
+<p></p>
+<p><b>
+Responsibilities</b></p>
+<ul>
+<li>Work with global team of software architects on analysis of the existing architectures and practices.</li>
+<li>Work on obtaining knowledge professional architectural standards and trends.</li>
+<br>
+</ul>
+<p><b>
+</b></p>
+<p><b>Requirements</b></p>
+<ul>
+<li>Knowledgeable of software architecture practices and design patterns.</li>
+<li>Proficient with UML.</li>
+<li>Comfortable with independent research of technical subjects.</li>
+<li>Excellent written and oral communication, as the candidate must lead online and in-person meetings.</li>
+</ul>
+<p><b>Desired Competencies</b></p>
+<ul>
+<li>Programming experience with Java, C++</li>
+<li>Knowledge of Android, Linux system architectures</li>
+</ul>
+<p><b>About Visteon</b></p>
+<p>
+Visteon is a global company that designs, engineers and manufactures innovative cockpit electronics products and connected car solutions for most of the world’s major vehicle manufacturers. Visteon is a leading provider of instrument clusters, head-up displays, information displays, infotainment, audio systems, telematics solutions and SmartCore™ cockpit domain controllers. Visteon also supplies embedded multimedia and smartphone connectivity software solutions to the global automotive industry. Headquartered in Van Buren Township, Michigan, Visteon has approximately 10,000 employees at more than 40 facilities in 18 countries. Visteon had sales of $3.25 billion in 2018. Learn more at www.visteon.com.</p>
+<p>
+Visteon is an equal opportunity employer committed to a culturally diverse workforce.</p>
+<p><b>
+Our Vision</b></p>
+<p>
+A top-three cockpit electronics player delivering a rich, connected cockpit experience for every car from luxury to entry.</p>
+</div></div>

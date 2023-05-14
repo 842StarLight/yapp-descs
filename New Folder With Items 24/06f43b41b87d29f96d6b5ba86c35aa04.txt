@@ -1,0 +1,53 @@
+<h2>Embedded Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Sealed Air partners with customers to solve their most critical packaging challenges with innovative solutions that leave our world, environment, and communities better than we found them. Our portfolio of widely recognized brands includes Cryovac® food packaging and Bubble Wrap® protective packaging which respectively enable a safer, more efficient food supply chain and protect valuable goods shipped around the world. Sealed Air generated $4.7 billion in sales in 2018 and has approximately 15,500 employees who serve customers in 123 countries. To learn more, visit www.sealedair.com.</div>
+<p></p>
+<div>
+<div>
+Summary
+</div>
+<div></div>
+<div>We seek an accomplished innovator with natural leadership skills to develop firmware and software in an agile, collaborative environment. This driven individual contributor will design, develop, and refine highly functioning embedded products from concept to manufacturing release. Candidates will understand a wide range of programming environments from embedded “super loop” and RTOS applications to full-featured object-oriented applications in Windows, Linux, and Android. We seek a diverse skill set which may include experience with the Internet of Things (IoT), knowledge of PCB design, and an understanding of analog circuitry. We offer an extraordinary work environment with state-of-the-art equipment and access to several specialized labs including mechanical, chemical, low power electronics, and high-power industrial automation labs.
+</div>
+<p></p>
+<div>Responsibilities
+</div>
+<div></div>
+<div><b>Lead, Inspire, and Collaborate</b></div>
+<div>We are seeking natural leaders who enjoy mentoring others and providing technical guidance to their colleagues. Our team members inspire each other with new ideas and out-of-the-box thinking. The ideal developer will lead technological innovation by example enhancing our collaborative environment with their unique skills and perspective.</div>
+<br>
+<div></div>
+<div><b> Design, Develop, Innovate, and Improve
+</b></div>
+<div>We seek firmware developers to design innovative packaging equipment and user-oriented electrical controls using their unique creativity and extensive embedded software and firmware skills. Our developers continuously improve existing products and create new products using an agile process to develop, test, and debug our embedded control systems in a collaborative team environment that honors mutual respect and accountability.</div>
+<br>
+<div></div>
+<div><b>Be Exceptional and Grow</b></div>
+<div>We seek experts who can diagnosis and resolve complex system-wide problems from the low-level printed circuit board to the OS and application level. We expect exceptional engineering quality while following industry best practices, standards, and methods. We commit to the highest ethical standards, an active owner mentality, and a sense of urgency to meet customer commitments. We continuously improve, learn, and grow our technical, interpersonal, and leadership skills through training, strategic new opportunities, and increasing responsibility.</div>
+<p></p>
+<div>Qualifications<br>
+</div>
+<div></div>
+<ul>
+<li>A Bachelor's or Master’s degree in Computer Engineering, Electrical Engineering, or a related field.</li>
+<li>3 - 8 years of firmware and embedded software programming experience.</li>
+<li>Demonstrable skills in writing firmware for ARM processors such as STM32, MicroChip, XScale, or FreeScale NXP</li>
+<li>Ability to occasionally travel (domestic and international).</li>
+<li>Working knowledge of Agile and Scrum principles, OOP, and scripting languages including Java, Python, and Perl</li>
+<li>Ability to work in a fast-paced environment independently and on a highly collaborative team</li>
+<li>Demonstrated proficiency with C, C++, and C#</li>
+</ul>
+</div>
+<div></div>
+<div>
+<b>Requisition id: </b>27255</div>
+<div>
+<b>Relocation: </b>No</div>
+<div>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability or protected veteran status. Sealed Air participates in the E-Verify Program (US sites only).</div>
+<div>LINK1 MON1</div>
+<br>
+<p><br>
+<b>Nearest Major Market: </b>Charlotte
+<br>
+<b>Job Segment: </b>Developer, Embedded, Informatics, Manufacturing Engineer, Engineer, Technology, Engineering</p>
+</div></div>

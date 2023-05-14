@@ -1,0 +1,52 @@
+<h2>Systems Reliability Engineer (Japanese speaking)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Job Summary</b><br>
+<p><br>
+We are ensuring the success of our groundbreaking technology through cluster health monitoring and quick response time. We are top-notch engineers from companies like Cisco, VMware, and Google with the ability to handle all problems that come our way. Working closely with Sales and Software Engineers, the SRE team acts as our customer’s champions and has guaranteed that not a single box has been returned.</p>
+<p>
+Nutanix is seeking well-rounded junior and senior Systems Reliability Engineers, customer-facing engineers. You will support our systems in the field and provide an enriched and successful product experience. You will need to be the champion for Nutanix, building clustered converged storage and compute systems that combine solid state drives with an revolutionary file system to solve some of the biggest pain points in virtualization.</p>
+<p><br>
+<b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Debug and diagnose customer issues encountered in the field.</li>
+<li>
+Improve serviceability of the product by developing tools to scale our field deployment and auto-support infrastructure.</li>
+<li>
+Provide analysis of the our existing customer base to avoid and minimize risks in the field.</li>
+<li>
+Define and drive changes to our product with the development engineering team, given feedback from customers and field implementations.</li>
+<li>
+Work with technology partners (ie. Vmware, Citrix, Fusion-IO, Mellanox, Microsoft) to resolve issues and push improvements in our ecosystem.</li>
+<li>
+Develop and contribute to internal and external knowledge bases.</li>
+<li>
+Available to be on support weekdays and weekends on a rotational basis.</li>
+<li>
+Be a champion for our customers. Go above and beyond to support their business and use of the Nutanix product.</li>
+</ul>
+<p><br>
+<b>
+Requirements:</b></p>
+<ul>
+<li>
+Excellent verbal and written communication skills, problem solving skills, customer service and interpersonal skills.</li>
+<li>
+The passion &amp; ability to learn new things, while never being satisfied with the status quo.</li>
+<li>
+Willingness to work in a fast growing company with huge potential.<br>
+</li>
+</ul>
+<p><br>
+<b>Qualifications and Experience</b><br>
+</p>
+<ul>
+<li>
+5+ years of experience in virtualization (preferably Vmware ESXi), layer 2/3 networking, Linux systems administration, and storage analysis and troubleshooting.</li>
+<li>
+BS in Engineering (or equivalent technical degree and 5+ years work experience).</li>
+<li>
+Proficient in written and verbal Japanese</li>
+</ul>
+</div></div>

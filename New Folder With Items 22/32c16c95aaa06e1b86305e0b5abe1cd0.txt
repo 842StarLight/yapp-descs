@@ -1,0 +1,54 @@
+<h2>AWS Solutions Architect | Herndon,VA</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Basic Qualifications<br>
+<ul>
+<li>8+ years design/implementation/consulting experience with distributed applications</li>
+<li>5+ years of experience in infrastructure architecture, database architecture and networking</li>
+<li>Technical degree required</li>
+</ul>
+</div>
+<br>
+<div>Do you like helping customers implement innovative cloud computing solutions and solve technical problems? Would you like to do this using the latest cloud computing technologies? Do you have a knack for helping groups understand application architectures and integration approaches, and the consultative and leadership skills to launch a project on a trajectory to success?<br>
+<br>
+Are you familiar with design and implementation best practices for applications, servers, and networks? You must possess a unique combination of deep technical skills and business acumen as well as a do-what-it-takes attitude to ensure our customers are receiving a top end-user experience.<br>
+<br>
+Amazon Web Services is looking for a highly motivated Solutions Architect to help accelerate our growing platform as part of the of our business. This is an excellent opportunity to join Amazon’s world class technical teams, working with some of the best and brightest engineers and technical managers while also developing your skills and furthering your career within one of the most innovative and progressive technology companies anywhere.<br>
+<br>
+As a Solutions Architect at AWS, you will have the opportunity to help shape and deliver on a strategy to build broad use of Amazon's utility computing web services (e.g., Amazon S3, Amazon EC2, and Amazon CloudFront) directly with our key customers. Your broad responsibilities will include: owning the technical engagement and ultimate success around specific implementation projects; defining implementation architectures, developing a deep expertise in the AWS technologies as well as broad know-how around how applications and services are constructed using the AWS platform; and being a subject matter expert on areas as they relate to customer applications and services (e.g., AI/ML, Security, Containers, Big Data).<br>
+<br>
+As a Solutions Architect, you will provide exceptional technical design and thought leadership. You will lead efforts to capture and share best-practice knowledge with the AWS solution architect community. You will also gain the opportunity to learn from, collaborate with, and educate some of the brightest technical minds in the industry today across the breadth of enterprise architecture.<br>
+<br>
+You will be part of a culture of innovation where you’ll use AWS services to help our customers rapidly get products and services to market through continuous delivery of solutions, building highly scalable web &amp; mobile applications, architecting large-scale micro-services solutions for delivering content globally, designing Exabyte scale storage solutions, and enabling data-driven decision making through big data technologies.<br>
+<br>
+The Amazon Solutions Architect team is moving some of the largest scale, compelling workloads to AWS. You'll be engaged and will influence engineering teams requiring AWS expertise and in so doing will be making a significant impact on Amazon's many businesses. As an added bonus, you'll be part of an extended team of Solution Architects working with our diverse set of customers in the field of Artificial Intelligence, Gaming, DevOps, Security, Health Science etc. Come join us and let's do great things for some industry-leading customers.<br>
+<br>
+This role will require domestic travel up to 30%<br>
+Roles and Responsibilities<br>
+<ul>
+<li>Ensure success in building and migrating applications, software and services on the AWS platform</li>
+<li>In partnership with the account management team, formulate and execute a strategy</li>
+<li>Educate customers of all sizes on the value proposition of AWS, and participate in deep architectural discussions to ensure solutions are designed for successful deployment in the cloud</li>
+<li>Conduct one-to-few and one-to-many training sessions to transfer knowledge to customers considering or already using AWS</li>
+<li>Capture and share best-practice knowledge within the AWS solutions architect community</li>
+<li>Author or otherwise contribute to AWS customer-facing publications such as white papers</li>
+<li>Build deep relationships with senior technical individuals within customers to enable them to be cloud advocates</li>
+<li>Act as a technical liaison between customers, service engineering teams and support</li>
+</ul>
+</div>
+<br>
+<div>Preferred Qualifications<br>
+<ul>
+<li>Industry expert in at least one particular domain, vertical and/or platform: DevOps, Big Data, Machine Learning, Serverless computing etc.</li>
+<li>Intermediate/advanced knowledge of the AWS services, market segments, customer base and industry verticals</li>
+<li>Experience developing large scale application architectures to meet business requirements in complex environments</li>
+<li>Experience migrating or transforming legacy customer solutions to the cloud</li>
+<li>Senior leadership role at a startup or 2+ years leading technical sales at C-level</li>
+<li>Demonstrated ability to adapt to new technologies and learn quickly</li>
+<li>Presentation skills with a high degree of comfort speaking with executives, IT management, and engineers</li>
+<li>Strong written communication skills.</li>
+<li>High level of comfort communicating effectively across internal and external organizations.</li>
+<li>Experience in a customer-facing, sales aligned role, presenting to small and large audiences</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer Minority/Female/Disability/Vet</div>
+</div>

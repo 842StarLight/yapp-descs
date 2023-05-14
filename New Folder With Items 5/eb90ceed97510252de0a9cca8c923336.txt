@@ -1,0 +1,41 @@
+<h2>DevOps Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>At ChildCareCRM®, we believe that Early Childhood Learning Centers play a pivotal role in a child’s educational journey. Our purpose is to support the growth of these learning centers by using our child care industry knowledge and experience to create software that makes their sales and marketing operations simple. We do this because we want to help directors and staff to spend more time positively impacting the lives of children.</p>
+<p>
+ChildCareCRM® was founded to provide a comprehensive customer relationship management and marketing system designed specifically for the child care industry. Our web-based software is the product of a combined 75+ years of management software and business consulting experience in the child care industry. We make child care relationship management simpler and more effective by automating communication, enhancing parent engagement, and managing leads to improve enrollment conversion.</p>
+<p>
+We’re a fast-growing organization and we are looking for individuals who value teamwork, are customer-centric, and understand and get excited about doing what it takes to succeed at a fast-paced software company.</p>
+<p>
+If you thrive in a high-energy, entrepreneurial environment, we invite you to share your ideas and excitement with us.</p>
+<p><b>
+Position: </b>DevOps Engineer</p>
+<p><b>
+Position Description:</b></p>
+<p>
+We are looking for an experienced DevOps professional to join our growing organization. In this position, you will manage infrastructure projects and processes. A keen attention to detail, problem-solving abilities, and solid knowledge base are essential.</p>
+<p><b>
+Duties:</b></p>
+<ul>
+<li>Proactively identify performance weaknesses and propose solutions</li>
+<li>Manage and evolve our CI/CD pipelines</li>
+<li>Building/managing an internal test environment that mirrors our production systems</li>
+<li>Interaction with the engineering team to support and grow backend application infrastructure.</li>
+</ul>
+<p><b>Requirements:</b></p>
+<ul>
+<li>Individuals who value teamwork, are customer-centric, and understand and get excited about doing what it takes to succeed at a fast-paced software company.
+</li>
+<li>Bachelor’s Degree in Information Systems, Computer Science, or equivalent experience</li>
+<li>2+ years of experience as system administrator or DevOps engineer</li>
+<li>Excellent Linux/UNIX systems administration skills</li>
+<li>Experience with configuring and maintaining automated deployment tools</li>
+<li>Experience with continuous integration tools</li>
+<li>Experience with monitoring tools</li>
+<li>Strong understanding of IP networking fundamentals</li>
+<li>Superb attention to detail</li>
+<li>Ability to troubleshoot emergency infrastructure incidents to achieve optimal application performance and stability</li>
+</ul> <p>We do not offer sponsorship at this time.</p>
+</div>
+<p></p>
+</div>

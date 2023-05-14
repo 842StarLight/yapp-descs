@@ -1,0 +1,50 @@
+<h2>Store Systems Quality Assurance Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Dillard’s Store Systems team is responsible for delivering software to solve the business needs of the retail environment. They develop and maintain applications for specific retail hardware such as Point-of-Sale terminals, printers, mobile hand-held scanners, signature pads, as well as workstations and servers. Quality Assurance analysts are responsible for testing all aspects of the software along with deployments, researching problems and support of the applications.</p>
+<p><b>Roles and Responsibilities: </b></p>
+<ul>
+<li>Evaluates and tests new or modified software applications to verify they function according to user requirements and conform to established guidelines</li>
+<li>Writes, revises, and verifies quality standards for software testing procedures</li>
+<li>Communicate with 3rd party POS software vendor regarding new projects and issues</li>
+<li>Some of the qualities of a QA analyst is creativiteness, openness to ideas, willingness to take on any task or role, and a constant view of the big picture. Good testers have an instinct and understanding for where and how software might fail, and how to track down failures.</li>
+<li>Participate in full life cycle development from the requirements gathering and analysis phase through deployment</li>
+<li>Work collaboratively with developers, analysts, and other testers to drive testing activities across the development life cycle</li>
+<li>Use strategic thinking when creating a testing strategy/plan</li>
+<li>Hands-on tester with an aptitude for functional testing across the application. Includes manual, automated, and exploratory testing</li>
+<li>Use scripting to create automated tests with an implementation language and performance/load tests</li>
+<li>Create/maintain test data for all types of testing</li>
+<li>Prioritize, maintain, and refactor tests</li>
+<li>Triage failures, identify root-cause, provide re-creatable steps and define corrective actions</li>
+<li>Manage defects and collaborate with team to get fixes scheduled in development cycle</li>
+<li>Manage deployment across both test and production environments</li>
+<li>Maintain server build environments</li>
+<li>Ensure Quality Assurance policies are followed. Maintain documentation and participate in audits</li>
+<li>On-call rotation</li>
+</ul>
+<p><b>Required Skills: </b></p>
+<ul>
+<li>Authorization to work in the United States without sponsorship.</li>
+<li>Ability to work onsite at Corporate Headquarters in Little Rock, AR</li>
+<li>Two years of quality assurance testing experience</li>
+<li>Exploratory testing skills</li>
+<li>Excellent written and verbal communication skills</li>
+<li>Attention to detail and accuracy</li>
+<li>Time management skills and ability to work in a fast-paced, high pressure environment</li>
+<li>Willingness to learn and improve policies and procedures</li>
+<li>Ability to multi-task</li>
+<li>Strong organizational and project management skills</li>
+</ul>
+<p><b>Desired Skills: </b></p>
+<ul>
+<li>Basic understanding of Powershell, XML, HTML, and other scripting test tools</li>
+<li>Writing automated tests</li>
+<li>Understanding of relational and non-relational databases and ability to write SQL or use tools like QMF to verify results</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>relevant: 2 years (Required)</li></ul>
+<p>Location:</p>
+<ul><li>Little Rock, AR (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+</div>

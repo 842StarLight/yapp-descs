@@ -1,0 +1,74 @@
+<h2>Sr Staff Software Development Engineer in Test - Business Intelligence</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Your Opportunity
+</b></h2>
+<div><div><div>
+<div>Charles Schwab Investment Management Technology provides application strategy, development and support for the Investment Management teams located in San Francisco CA, Denver CO and Chicago IL. Applications support the investment life cycle to include front office functions such as Equity and Fixed Income Trading, Portfolio Management, Investment Risk and Trade Compliance.</div>
+<div>
+We are looking for a senior programmatic tester with demonstrated ability to test applications within the financial space in a data centric environment. This is a senior level individual contributor position aimed at delivering test automation to the Business Intelligence and Analytics team.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>What you’re good at
+</b></h2>
+<div><div><div>
+<ul>
+<li>Above all else you’re an engineer. You solve problems through automation. You’re curious and hungry to learn new things and look to make a long lasting impact on the project</li>
+<li>
+You tested testing complex systems related to data management and data distribution before. You’re familiar with concepts that relate data modeling and data quality</li>
+<li>
+You worked in an Agile environment in the past. Iterative test development and working as part of a distributed engineering team doesn’t scare you.</li>
+<li>
+You contribute to open source projects. If you have github.com contributions – we’d love to check them out</li>
+<li>
+You’re lifelong learner. You’re able to grasp difficult concepts and complex designs and stays on top of new and emerging technologies. Do you have a stackoverflow.com account?</li>
+</ul>
+<div></div>
+<br>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>What you have
+</b></h2>
+<div><div><div>
+<div><b>Required Skills:</b></div>
+<ul>
+<li>
+Domain knowledge in Business Intelligence/Data Warehousing</li>
+<li>
+Knowledge of ETL tools such as Informatica</li>
+<li>
+Programming experience with Python is required</li>
+<li>
+7+ years of strong, demonstrable experience working as software developer of SDET</li>
+<li>
+5+ years of SQL experience (complex ‘join’s, create database/ table views)</li>
+<li>
+2+ years of experience debugging Stored Procedures</li>
+<li>
+A minimum of 3+ years of hands on experience with multiple automation tools/frameworks when testing web services, APIs, Rabbit MQ’s, middleware, SQL database</li>
+<li>
+Extensive experience testing RESTful web using test automation frameworks. Ability to parse deeply nested JSON/ XML</li>
+<li>
+Practical knowledge and use of Design Patterns (strategy, factory etc)</li>
+<li>
+Comfortable with tools like SSMS (SQL Server Management Studio)</li>
+<li>
+Experience using ‘git’ as source control system (cherry-pick, merge conflict resolution should be second nature to you)</li>
+<li>
+Experience with build/ packaging tools like ‘MSBuild’ and ‘Nuget’</li>
+<li>
+Experience working in CI/CD environment. (Bamboo, git) Ability to create, modify and execute job from scratch using ‘git’ as source</li>
+<li>
+Experience working with acceptance test-driven development (ATDD) or Behavior Driven Development (BDD) using Gherkin languages like Cucumber, Cucumber-jvm, Cucumber-js, SpecFlow, Serenity</li>
+<li>
+Exposure using the using Atlassian toolset (Jira, Confluence, Zephyr)</li>
+</ul>
+<div><b>
+Preferred Skills:</b></div>
+<ul>
+<li>
+Bachelor’s degree in Computer Science, Engineering, Information Technology, Information Systems, or similar area of study</li>
+<li>
+Experience working with Eagle data management solution and data virtualization solutions like Denodo are highly desired</li>
+<li>
+Financial Services experience is a strong plus</li>
+</ul>
+</div></div></div>
+</div></div>

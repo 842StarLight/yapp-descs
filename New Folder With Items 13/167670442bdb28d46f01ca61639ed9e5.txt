@@ -1,0 +1,118 @@
+<h2>Senior Solutions Architect for Global Cloud Alliances</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>CrowdStrike is a leading provider of next-generation endpoint protection, threat intelligence, and pre- and post-incident response services. We are the fastest growing endpoint protection company, one of the World's Most 50 Innovative Companies according to MIT, and one of Forbes Most Promising Companies. Our growth and innovation are driven by incredible employees who deliver unmatched customer success. The CrowdStrike Falcon platform uses sophisticated signature-less artificial intelligence/machine learning and Indicator-of-Attack (IOA) based threat prevention to stop known and unknown threats.</p>
+<p><b>
+ CrowdStrike Accomplishments:</b></p>
+<ul>
+<li>
+<b>
+January 2018:</b> Awarded #1 in the Visionaries quadrant of the 2018 Gartner Magic Quadrant for Endpoint Protection Platforms.</li>
+<li>
+<b>
+February 2018:</b> Great Place to Work</li>
+</ul>
+<p><b>
+2017</b></p>
+<ul>
+<li>
+Ranked No. 34 Best Medium Workplaces by Fortune magazine and consulting firm Great Place to Work</li>
+<li>
+Ranked No. 25 most attractive start-ups to work for by LinkedIn</li>
+<li>
+Closed $100 million equity financing round, at a valuation of over $1 billion dollar (backed by Accel, CapitalG (Google), and Warburg Pincus)</li>
+<li>
+Best Cyber Security Company and Best Behaviour Analytics/Enterprise Threat Detection in 2017 SC Awards</li>
+<li>
+Ranked No. 8 Best Workplaces in Technology, according to global research and consulting firm Great Place to Work® and Fortune Magazine</li>
+</ul>
+<p>
+The Solution Architect supporting the Global Cloud Alliances, is a partner focused technical business development professional, who provides support, enablement, and guidance to CrowdStrike's Cloud Alliances team. You will be expected to take ownership of the technical design and management of strategic alliance based initiatives and programs relating to technical architecture, solutions delivery, partner training and enablement as well as working internally to represent the needs of the Sales organization. The ideal candidate will have a good mix of deep technical knowledge and business acumen in the security market place. In this position you will be leading the development and execution of technology strategies and solutions integrations to meet strategic corporate and partner needs, present and future.</p>
+<p></p>
+<br>
+<p>
+Key Responsibilities</p>
+<ul>
+<li>
+Technical leader and trusted adviser in the area of cloud computing for our partners</li>
+<li>
+Own the technical relationship and deliverables for one of the global system integrators</li>
+<li>
+Collaborate with partner and internal technical SMEs to design the proper pathways to success and go to market strategies for cloud</li>
+<li>
+Enable corresponding territory field SAs and SEs at both CrowdStrike and Cloud providers to position, promote and assist with demonstration environments to secure and migrate cloud workloads.</li>
+<li>
+Assist our alliance partners in defining the approach, tools, and end state architecture as they migrate customers to cloud platforms such as AWS, GCP, and Azure.</li>
+<li>
+Design and Deploy an NFR program for cloud providers to assist Cloud Solution Architects and Cloud Professional Services teams to complete CrowdStrike training and achieve certifications</li>
+<li>
+Shadow in live deployments that include installations, troubleshooting, and training of CrowdStrike's products running in cloud compute environments (e.g. AWS, GCP, Azure))</li>
+<li>
+Interface between the Sales organization and technical staff to resolve outstanding issues and drive new product adoption within cloud workloads.</li>
+<li>
+Provide reporting and feedback on partner field activities to Sales, Product Management and Engineering</li>
+<li>
+Participate in regional cloud alliances events such as security conferences, lunch &amp; learns, and alliance sponsored events.</li>
+</ul>
+<p></p>
+<br>
+<p>
+Requirements</p>
+<ul>
+<li>
+Significant experience in a technical capacity in either incident response services, attack and penetration assessments, or host-based security technologies, preferably working with large cloud providers</li>
+<li>
+Business development experience with cloud providers such as AWS, GCP, Azure</li>
+<li>
+Experienced in a security focused technical lead and/or solutions architect role for cloud providers and/or ISVs.</li>
+<li>
+Good working knowledge of AWS and/or Microsoft Azure, Google Cloud (GCP) from a security standpoint</li>
+<li>
+Expertise in Automation tools such as Terraform, CloudFormation, Puppet, etc.</li>
+<li>
+Scripting experience in Bash and/or Python</li>
+<li>
+Strong understanding of APIs</li>
+<li>
+/B.A./M.S. degree or equivalent experience/technical training</li>
+<li>
+Willingness to travel as required.</li>
+</ul>
+<p></p>
+<br>
+<p>
+Additional Preferred Qualifications
+</p>
+<ul>
+<li>Excellent organizational and project management skills</li>
+<li>
+Deep understanding of Modern Malware Lifecycle, Malware/Forensic Analysis, Cyber Security, threat Intelligence landscape, and the overall value of intelligence</li>
+<li>
+Understanding of host based security technologies such as: whitelisting, micro-virtualization, behavioral analysis, machine learning</li>
+<li>
+Experienced in Structured Query Language</li>
+<li>
+Product Management experience</li>
+<li>
+Security Architecture Framework Experience<ul>
+<li>
+Risk Assessment</li>
+<li>
+Threat Analysis</li>
+</ul>
+</li>
+<li>
+Certifications:<ul>
+<li>
+Certified Solutions Architect, Certified Developer, Certified SysOps Administrator, Certified Devops Engineer -AWS</li>
+<li>
+MCSA, MCSE -Azure</li>
+<li>
+Professional Cloud Architect – GCP</li>
+</ul>
+</li>
+</ul>
+<p>
+ <i>CrowdStrike is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.</i><br>
+<br>
+#LI-LP1</p>
+</div></div>

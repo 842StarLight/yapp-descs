@@ -1,0 +1,102 @@
+<h2>Marketing Manager - BI and CRM</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div><div>
+<div>
+<div>
+<div><b>Location</b></div>
+<div> Austin, TX</div>
+</div>
+<br>
+<div>
+<div><b>Company</b></div>
+<div> Aquasana</div>
+</div>
+<br>
+</div>
+<h4 class="jobSectionHeader"><b>Company/Location Specific Information</b></h4>
+<p>Aquasana is a leader in water filtration. Our filters are marketed in nearly every country around the world. Our mission is to make whole-body 'water health' as easy, accessible, and economical as possible.</p>
+<p>
+The filters produce the healthiest and best-tasting water available. Health-conscious consumers know that it is critical to filter tap water before they drink it, cook with it or bathe in it because it is loaded with harmful chemicals. Only 91 contaminants are regulated by the Safe Drinking Water Act, yet more than 60,000 chemicals are used within the U.S.</p>
+<p>
+Aquasana was purchased by A. O. Smith Corporation, a global leader in water technology which includes water heating and treatment, during 2016, and is part of its North America Water Treatment division. The North America Water Treatment division is a dynamic organization that is rapidly growing organically and inorganically, and into other channels. We are a tight-knit team with a fast paced, energetic, and entrepreneurial company culture.</p>
+<p>
+This position will be based out of our corporate office in Austin, Texas.</p>
+<h4 class="jobSectionHeader"><b>Primary Function</b></h4>
+<p>The Marketing Manager of Customer Retention and Analytics will be responsible for driving the strategy and execution of creating business intelligence and reporting tools to measure and manage the business. True to the business adage, if you can’t measure it, you can’t manage it, the business intelligence leader works with all business and channel leaders to create and maintain real time measurement and management analysis and reports. In addition, this leader is also responsible for maintaining the marketing database which is used to manage Customer Relationship Management (CRM) programs.</p>
+<p>
+Responsible for the identification and resolution of information flow, content issues and the transformation of business requirements into logical data models. Help identify opportunities to reduce data redundancy, trends in data uses and single sources of data. Responsible for analyzing complex logical database designs, logical data models and relational data definitions in support of corporate and customer information systems requirements. Understand the methodologies and technologies that depict the flow of data within and between technology systems and business functions/operations.</p>
+<h4 class="jobSectionHeader"><b>Responsibilities</b></h4>
+<ul>
+<li>Create, manage and maintain a complete suite of operations and business scorecards that provide visibility into the business and marketing activities and work with business stakeholders to align the reports using tools like SQL Server, SSRS, SSIS, Microsoft Excel, Microsoft Dynamics and Data Visualization tools like Tableau or BIME. Inclusive of the direct business but also other channels and retailers as they are launched.</li>
+<li>
+Consolidate data from sources like ERP and customer behavior data from ERP systems (Microsoft Dynamics, SAP), telephony data, customer survey data on products and services, website traffic and stats from Google Analytics as well as ecommerce data to help develop reports to measure performance using tools like SSIS, stored procedures and Toad.</li>
+<li>
+Plan for workflows in MS Dynamics or SAP for order processing to better manage backlog and logistics.</li>
+<li>
+Maintain a central repository of customer behavior data with information that would be the backbone for various marketing campaigns like direct mail, promotional email campaigns and social media marketing.</li>
+<li>
+Maintain central marketing database and CRM system to optimize customer touchpoints and maintain a hygienic view of customer contacts.</li>
+<li>
+Assist in developing marketing forecast models for subscription and non-subscription based customers and help determine their life time value.</li>
+<li>
+Assist in performing matchback analysis to measure performance of various sales campaigns.</li>
+<li>
+Support in defining trends, proving and disproving hypotheses, and finding areas for efficiency and improvement.</li>
+<li>
+Manage and implement various marketing related projects as defined by the leadership team using the appropriate tools.
+</li>
+<li>Collect survey responses to improve products and operations to drive customer satisfaction.</li>
+<li>
+Collaborate with BTS group on tool selection, data issues, etc.</li>
+<li>
+Supervise a team of direct reports - 2 to begin with, and will grow as channels grow.</li>
+<li>
+Responsible as the data steward for all water treatment business intelligence, and customer databases.</li>
+<li>
+May perform other duties as assigned.</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Qualifications</b></h4>
+<ul>
+<li>Proficient with Microsoft Office (Excel, Word, Outlook, etc.)</li>
+<li>
+Analytical and problem-solving skills.
+</li>
+<li>Strong ability to analyze information.</li>
+<li>
+Strong written and verbal communication skills.</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Requirements</b></h4>
+<ul>
+<li>Bachelor’s Degree in Information Technology, Computer Science, Mathematics, Statistics, Finance or related field; Masters preferred.</li>
+<li>
+Minimum of 8-10 years work experience in SQL, SSRS, Tableau, MS Excel</li>
+<li>
+Minimum of 5 years working with CRM data</li>
+</ul>
+<h4 class="jobSectionHeader"><b>We Offer</b></h4>
+<p>Competitive base salary and comprehensive benefits plans which include medical and dental insurance, company-sponsored life insurance, retirement security savings plan, short- and long-term disability programs and tuition assistance. Other perks include employee discounts on water filtration products, a casual dress code, and a dog friendly office.</p>
+<div>
+<div>
+<div><b>Nearest Major Market</b></div>
+<div> Austin</div>
+</div>
+<br>
+</div>
+</div></div>
+<div><p><b>ADA Disclaimer (U.S. ONLY)</b><br>
+ADA Disclaimer: In developing this job description care was taken to include all competencies needed to successfully perform in this position. However, for Americans with Disabilities Act (ADA) purposes, the essential functions of the job may or may not have been described for purposes of ADA reasonable accommodation. All reasonable accommodation requests will be reviewed and evaluated on a case-by-case basis</p></div>
+</div>
+<div>
+<h2 class="jobSectionHeader">
+<b>
+Interested?</b><b> Send us your resume:</b>
+</h2>
+careers@aquasana.com
+<p>In the email, include:</p>
+<ul>
+<li>Your resume — PDF or Word doc</li>
+<li>Add the job title in the subject line</li>
+</ul>
+</div>
+</div></div>

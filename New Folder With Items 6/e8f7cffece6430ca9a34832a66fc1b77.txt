@@ -1,0 +1,160 @@
+<h2>Requirement & Business Analysis Senior Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div>
+<p>General Dynamics IT (GDIT) is looking for its next passionate, highly skilled, self-motivated, experienced <b>Requirements/Business Analysis Senior Manager </b>to join our team as we continue to partner with New York State of Health (NYSoH) to provide comprehensive health coverage to more than 4.5 million New Yorkers.</p>
+<p></p>
+<p>
+Our GDIT State &amp; Local LLC team provides NYS with innovative and agile health benefit exchange (HBE) solutions that deliver the functionality required to comply by the Patient Protection and Affordable Care Act and provide the flexibility needed to easily scale up to support future requirements</p>
+<p></p>
+<p><b>
+Here's where you come in:</b></p>
+<p></p>
+<p>
+You’ll lead our talented Requirements/Business Analysis team. Our project is a large scale Java web services environment. It is a three-tiered application (web, application, and database server) with multiple levels of security between each tier. Our software is written with <b>Java</b>, utilizing <b>Spring</b> 5 Framework, a very heavy dose of JavaScript and UI moving towards Angular. Redesigning code to smaller bases with Microservices and REST APIs. Other technologies are in play for rules management, DROOLS, and BPM workflow, Activiti</p>
+<p>
+This position provides leadership of the IT Requirements/Business Analysis team to develop technology solutions that support business requirements, improve processes, as well as align resources to support our client. The primary focus includes: developing the competency and growth of the team by coaching and educating on business analysis skills, contributing to continuous improvements, resource performance management and demand management to ensure that the right resources are available to support projects.<br>
+<br>
+The Senior Manager supervises and coordinates the daily activities of staff, which includes assessing and monitoring staff productivity through standards and metrics to optimize performance and increase efficiency. They also monitor the activities of the business analysis team to ensure all projects’ progress is on schedule and within budget</p>
+<p></p>
+<p><b>
+Here’s what You’ll Do:</b></p>
+<ul>
+<li>
+Provides day-to-day supervision of the Business Analysis team and works independent of supervision from senior management.</li>
+<li>
+Manages the Business Analysis process across multiple projects</li>
+<li>
+Collaborates with business users, technical, and functional team members to understand and define business requirements</li>
+<li>
+Manages business requirements, ensures that they are met, and provides guidance to the team.</li>
+<li>
+Responsible for overall business requirements sign-off.</li>
+<li>
+Responsible for ensuring that bi-directional traceability matrices of requirements are provided.</li>
+<li>
+Provides leadership and direction across the enterprise business by understanding the business process, end-user requirements, and requirements management life cycle.</li>
+<li>
+Applies communication skills, problem-solving skills, and knowledge of industry best practices to guide the Business Analysis team on issues related to business requirements.</li>
+<li>
+Ensures the use of business analysis best practices and holds team accountable for adhering to those practices.</li>
+<li>
+Sets attainable goals for team members to meet client and project commitments.</li>
+<li>
+Recommends new processes where needed to improve quality, cost, or on-time delivery</li>
+<li>
+Monitors and reports on the performance of the team. Manages planned change initiatives and operations.</li>
+<li>
+Identifies, recommends, and implements approved process improvements.</li>
+<li>
+Tracks actual performance against planned business performance, analyze variances, and problem solves to ensure all customer needs are met while maintaining control of the project.</li>
+<li>
+Serves as focal point of communication from the team</li>
+<li>
+Builds high performance teams through effectively training, mentoring, delegating, and providing feedback to appropriate members of the team.</li>
+<li>
+Establishes and builds strong working relations and partnerships with internal team and client.</li>
+<li>
+Partners with client and analyzes issues and problems from the client perspective</li>
+<li>
+Possesses unwavering commitment to customer service and operational excellence.</li>
+<li>
+Assists in ensuring appropriate use of all available resources within the functional team and proper use of unassigned time.</li>
+<li>
+Helps resolve conflicts affecting people and project priorities.</li>
+<li>
+Assists in facilitating the performance management process of the Business Analysis team, ensuring alignment with employee career goals and Business Analysis team objectives<b>
+</b>
+</li>
+<li><b>Here’s what You’ll Bring to the Table:</b></li>
+</ul>
+<p></p>
+<p><b>
+Education</b></p>
+<ul><li>
+Bachelor’s degree in Computer Science, Mathematics, Engineering, Business Administration or related field</li></ul>
+<p></p>
+<p><b>
+Technical Experience
+</b></p>
+<ul>
+<li>Ten (10)+ years of related experience in a professional role</li>
+<li>
+Six (6)+ years working with business requirements and/or process documentation</li>
+<li>
+Five (5)+ years management experience</li>
+<li>
+Advanced knowledge of the Software Design Life Cycle (SDLC)</li>
+<li>
+Familiarity with ITIL standards and best-practices</li>
+<li>
+Ability to clearly communicate design rationale and build consensus</li>
+<li>
+Ability to prioritize and manage work to critical project timelines in a fast-paced environment</li>
+<li>
+Must be organized, have an eye for detail, and be able to put ideas into a clearly understandable written form</li>
+<li>
+Prior experience working as a Business Systems Analyst or Requirements Manager r</li>
+<li>
+Prior work experience in a large IT or software development organization</li>
+<li>
+Project management experience.</li>
+<li>
+Understanding of the requirements management life cycle</li>
+<li>
+General understanding of role-relevant issues and trends</li>
+<li>
+Ability to manage people, projects, and processes</li>
+<li>
+Technical understanding with ability to communicate and translate technical impacts, technical solutions, root cause, and corrective actions into business concepts (non-technical terms)</li>
+<li>
+Demonstrated ability to meet and enforce deadlines,</li>
+<li>
+Strong problem-solving, analytical, and evaluative skills.</li>
+<li>
+Strong communication skills (verbal, written, facilitation) with strong presentation and facilitation skills.</li>
+<li>
+Strong at working both independently and in a team-oriented, collaborative environment.</li>
+<li>
+Self-motivated, with ability to balance multiple projects under minimal to no supervision.</li>
+<li>
+Strong presentation skills.</li>
+<li>
+Strong people management skills.</li>
+<li>
+Demonstrates leadership skills and proven ability to work effectively with different teams’ contributors both directly and in a matrix environment.</li>
+<li><b>
+Experience with business process models and/or use cases</b></li>
+</ul>
+<p></p>
+<p><b>
+Here are the Bonus Points:</b></p>
+<ul>
+<li>
+Domain knowledge of Medicare, Medicaid, or healthcare verticals.</li>
+<li>
+Experience in the healthcare industry</li>
+<li><b>
+Experience with functional requirements gathering for health information technology, preferably with Eligibility and/or Enrollment systems</b></li>
+<li><b>
+Experience advising state government agencies on health and insurance related matters</b></li>
+<li>
+Business Analysis certification</li>
+</ul>
+<p></p>
+<p><b>
+Here are the Attributes for Success</b></p>
+<ul>
+<li>
+A delivery-focused mindset.</li>
+<li>
+Strong communication skills.</li>
+<li>
+Collaborative leadership style with strong business and technical acumen.</li>
+<li>
+Track record of building and managing high performing teams within an SDLC environment.</li>
+<li>
+Hands on. Passionate. Persistent. Creative. A Doer. A Team Player</li>
+</ul>
+<p></p>
+<p>
+This position is based at GDIT’s Rensselaer NY Data Center.</p>
+For more than 50 years, General Dynamics Information Technology has served as a trusted provider of information technology, systems engineering, training, and professional services to customers across federal, state, and local governments, and in the commercial sector. Over 40,000 GDIT professionals deliver enterprise solutions, manage mission-critical IT programs, and provide mission support services worldwide. GDIT is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class.</div></div></div>

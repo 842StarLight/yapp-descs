@@ -1,0 +1,81 @@
+<h2>Client Services Manager (CSM)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Company Overview:</b><br>
+-----------------
+<br><br>
+We at Silverline are passionate about what we do. We're a diverse group of cloud technology professionals with the same goal: to make our clients' lives easier through technology — and we have a good time while we're at it! As a Salesforce Platinum Partner, Silverline combines Strategic Advisory, technical implementation services, and ongoing Managed Client Services to enable organizations to achieve maximum value with the Salesforce Platform. Silverline is consistently ranked one of Glassdoor's Best Places to Work among small- and medium-size companies, among other accolades. Come be a part of our team!
+<br><br>
+<b>Position Overview:</b><br>
+------------------
+<br><br>
+The Client Services Manager (CSM) role is to build a trusted and valuable partnership with our clients. The CSM will be responsible for building a short, mid, and long-term strategy that will position the client to leverage their investments in the Salesforce ecosystem year-over-year. Tactically, the CSM will collaboratively lead a team of internal, partner, and client resources to provide post-implementation support, development and design solutions to solve ongoing critical business issues, conduct quarterly business reviews and planning, and introduce/implement new functionality within the ecosystem in an iterative approach.
+<br><br>
+<b>Experience Required:</b><br>
+--------------------
+<br><br>
+Consulting and Business Acumen
+<br>------------------------------
+<br><br>
+<ul>
+<li>Apply business acumen, technical, and declarative skills to quickly assess, diagnose, and design solutions to address business needs</li>
+<li>Conduct workshops to understand the key goals of client and utilization of the platform</li>
+<li>Optimize engagement to deliver quarter-over-quarter value and ROI</li>
+<li>Conduct Quarterly Business Reviews (QBR) with client stakeholders to proactively manage engagement and deliverable</li>
+<li>Provide sound consulting guidance related to best practices, adoption, platform development, leveraging additional ecosystem functionality and Salesforce releases to streamline business processes</li>
+<li>Establish communication plan and clear ownership of processes and functions between Client and Silverline teams</li>
+</ul>
+Project Management
+<br>------------------
+<br><br>
+<ul>
+<li>Produce, publish and manage all internal and external support communications for customers, partners and internal staff</li>
+<li>Assist client Product Owner to define user stories and acceptance criteria for each functional business requirement</li>
+<li>Review, append, and execute client backlog to help them consistently improve their processes within our Adaptive Agile Methodology</li>
+<li>Document system requirements as requested</li>
+<li>Coordinate and facilitate User Acceptance Testing, End-to-End testing, and System Testing</li>
+<li>Respond to and resolve client calls, emails and web support cases</li>
+<li>Organize and execute deployments</li>
+<li>Collaborate with internal resources to create and implement development team tickets</li>
+<li>Ability to manage multiple projects simultaneously</li>
+<li>Excellent time management skills</li>
+</ul>
+Salesforce/Software/System Development Skills
+<br>---------------------------------------------
+<br><br>
+<ul>
+<li>Train clients on Salesforce.com functionality</li>
+<li>Experience with data migrations from third-party systems to Salesforce.com</li>
+<li>Configure Salesforce.com per client requirements</li>
+<li>Manage technical scope and client expectations, including management of development and technical resources both on and offshore</li>
+<li>Gather sufficient information for troubleshooting development-related issues</li>
+<li>Provide basic product support troubleshooting for Silverline proprietary applications</li>
+<li>Perform gap analysis between Salesforce functionality and client requirements</li>
+</ul>
+Basic Requirements
+<br>------------------
+<br><br>
+<ul>
+<li>5+ years consulting experience</li>
+<li>5+ years experience administering Salesforce.com</li>
+<li>5+ years experience managing projects involving CRM platforms or relational databases</li>
+<li>Experience producing functional specifications documentation</li>
+<li>Outstanding communication skills, with both the internal team and clients</li>
+<li>Comfortable working in a client-facing role</li>
+<li>Comfortable learning and leveraging cloud-based technologies</li>
+<li>Comfortable with a fast-paced, high-performance environment</li>
+<li>Self-starter, ambitious, and flexible</li>
+</ul>
+Desired Skills/Education/Certifications
+<br>---------------------------------------
+<br><br>
+<ul>
+<li>BA/BS degree in Computer Science or Engineering (or equivalent work experience in lieu of degree)</li>
+<li>Salesforce.com certification (Advanced Administrator, App Builder or Sales/Service)</li>
+<li>Knowledge of Salesforce Apex Data Loader and equivalent third-party data loaders</li>
+<li>Consulting and CRM experience</li>
+<li>Experience with Agile or similar software development methodologies</li>
+<li>Strong understanding of core database concepts</li>
+<li>Proficient with Google Apps, MS Office, and Lucid Charts</li>
+<li>Conversational knowledge of HTML, Java or Apex is a plus</li>
+</ul>
+</div>

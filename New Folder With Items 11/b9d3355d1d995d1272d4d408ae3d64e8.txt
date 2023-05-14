@@ -1,0 +1,44 @@
+<h2>Senior Solutions Architect, Amazon Web Services</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>7+ years enterprise IT application experience</li>
+<li>2+ years of hands-on software development, DevOps engineering, systems administration, or systems architecture</li>
+<li>Bachelor’s degree</li>
+</ul></div>
+<br>
+<div>Do you like helping customers implement innovative cloud computing solutions and solve technical problems? Would you like to do this using the latest cloud computing technologies? Do you have a knack for helping groups understand application architectures and integration approaches, and the consultative and leadership skills to launch a project on a trajectory to success?<br>
+Are you familiar with security best practices for applications, servers, and networks? Do you want to be part of the business development team helping to establish Amazon Web Services (AWS) as a leading technology platform? Would you like to be part of a sales group, but have your opinion valued as a technical resource as part of planning and strategies?<br>
+<br>
+Amazon Web Services is looking for a highly motivated Solutions Architect to help accelerate our growing State and Local Government business as part of the World Wide Public Sector practice. As a Solutions Architect within AWS, you will have the opportunity to help shape and deliver on a strategy to build broad use of Amazon's utility computing web services (e.g., AWS EC2, AWS S3, AWS RDS, and AWS CloudFront) directly with customers and our ecosystem of system integrators and solution providers. Your broad responsibilities will include: owning the technical engagement and ultimate success around specific implementation projects; defining implementation architectures, responding to RFPs, developing a deep expertise in the AWS technologies as well as broad know-how around how applications and services are constructed using the AWS platform; and being a subject matter expert on security as it relates to customer applications and services.<br>
+<br>
+As a Solutions Architect on our team, you will provide exceptional technical design and thought leadership to our customers while working with a world class sales and business development team. You will lead efforts to capture and share best-practice knowledge amongst the AWS solution architect community. You will gain the opportunity to learn from, collaborate with, and educate some of the brightest technical minds in the industry today across the breadth of enterprise architecture.<br>
+<br>
+We are looking for someone who is passionate about the following:<br>
+<ul>
+<li>Helping our customers to design and create cloud computing architectures</li>
+<li>Our company credo: “Work hard. Have fun. Make history.” It’s critical to love what you do and take pride in your value proposition to our customers.</li>
+<li>Deep-dive technical discussions around design and an intellectual curiosity to always keep your technical skills current while maintaining a pulse on industry trends.</li>
+</ul>
+<br>
+With experience in the following key areas:<br>
+<ul>
+<li>Technical presentation experience – White board, small and large group presentations</li>
+<li>Technical – Web Services development/deployment experience, cloud computing</li>
+<li>Operational – Web site/services operations, management, and security</li>
+<li>Ability to travel 30%</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Intermediate/advanced knowledge of the AWS services</li>
+<li>Prior experience in a technical role within a sales organization</li>
+<li>Prior experience in state or local government</li>
+<li>Understanding of infrastructure and security requirements, such as HIPAA, CJIS, etc.</li>
+<li>Demonstrated experience leading or developing high quality, enterprise scale software products using a structured system development lifecycle</li>
+<li>Meets/exceeds Amazon’s leadership principles requirements for this role</li>
+<li>Meets/exceeds Amazon’s functional/technical depth and complexity for this role</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>
+</div>

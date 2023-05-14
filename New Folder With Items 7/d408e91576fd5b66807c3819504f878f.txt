@@ -1,0 +1,41 @@
+<h2>Senior/Principal Growth Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Dubbed an "open-source unicorn" by Forbes, Confluent is the fastest-growing enterprise subscription company our investors have ever seen. And how are we growing so fast? By pioneering a new technology category with an event streaming platform, which enables companies to leverage their data as a continually updating stream of events, not as static snapshots. This innovation has led Sequoia Capital, Benchmark, and Index Ventures to recently invest a combined $125 million in our Series D financing. Our product has been adopted by Fortune 100 customers across all industries, and we’re being led by the best in the space—our founders were the original creators of Apache Kafka®. We’re looking for talented and amazing team players who want to accelerate our growth, while doing some of the best work of their careers. Join us as we build the next transformative technology platform!</div>
+<div>
+<br>
+</div>
+<div>
+As a Senior Growth Product Manager at Confluent, you’ll guide the development and user experience for Confluent Cloud, our fully managed cloud product. Confluent Cloud is the most advanced managed Kafka offering in the world today and you’ll be accelerating adoption and retention of our core cloud offering. You will be the nexus that connects engineering, sales, marketing, and other product managers to deliver strong growth for Confluent Cloud.</div>
+<div>
+<br>
+</div>
+<div>
+Strong candidates should have experience with driving developer adoption of technical products and should be able to understand the concerns of infoSec and centralized Operations teams at the world’s largest enterprises.</div>
+<div>
+<br>
+</div>
+<div>
+Confluent has offices around the globe. Our headquarters is in Palo Alto, but we have offices in San Francisco and we’re moving to downtown Mountain View soon.</div>
+</div>
+<div><div><div><ul>
+<li>Minimum 5 years experience as a software product manager for a SaaS product</li>
+<li>
+Deep understanding of SaaS and IaaS (infra as a service)</li>
+<li>
+Love of statistics, analytics and data-driven decision making</li>
+<li>
+Understanding of the entire SaaS customer lifecycle starting at inbound marketing channels and ending at cloud infrastructure</li>
+<li>
+Empathy for our enterprise customers, and a passion for solving their problems with software</li>
+<li>
+Experience with freemium or low entry price offerings</li>
+<li>
+Data excellence. Ability to generate important insights on your own and then turn those insights into action</li>
+<li>
+Ability to craft a product strategy and roadmap in concert with customers, engineering, design, and go-to-market teams</li>
+<li>
+Bachelor's, Master’s, or PhD in technical or quantitative fields.</li>
+</ul></div></div></div>
+<div><div>#LI-JD1</div></div>
+</div></div>

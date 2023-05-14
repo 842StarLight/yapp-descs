@@ -1,0 +1,98 @@
+<h2>Senior Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Cogito is searching for Senior Systems Engineer to join our Production Operations team. The ideal candidate has a mix of customer-facing skills, production support experience, and Systems/IT know-how.</div>
+<div>
+<br>
+</div>
+<div>
+You possess a strong desire to support internal and external customers manage your own destiny by creating tools to automate tasks and improve efficiency. You are an individual where OK is never good enough. You have a drive to make things better, discover root causes, and never stop delivering value to your customers. Conversant with a large variety of subjects, you have the ability to triage and manage a broad range of issues.</div>
+<div>
+<br>
+</div>
+<div>
+You will assist in the implementation of customers and the deployment of software to these environments. You will work closely with Sales and Customer Success teams to address customer concerns in a timely manner. You will create tools and processes to automate repetitive tasks, improve efficiency, and improve the monitoring and metrics of the Cogito service. This role reports to the Director of Cloud Operations.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Responsibilities:</b></h3>
+<div><ul>
+<li>
+Delight customers, both internal and external, due to your team meeting deadlines and delivering value</li>
+<li>
+Timely resolution to customer concerns</li>
+<li>
+Willingness to work on a rotating shift basis</li>
+<li>
+Willingness to work on-call rotation for emergency support</li>
+<li>
+Formal experience with SaaS application troubleshooting</li>
+<li>
+Experience with ticket triage and Root Cause Analysis</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Requirements:</b></h3>
+<div><ul>
+<li>
+Some education in computer science, information security, information technology, or relevant field</li>
+<li>
+5+ years in production support environment or equivalent</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Skills:</b></h3>
+<div><ul>
+<li>
+Experience in a SaaS environment</li>
+<li>
+Excellent verbal communication and documentation skills</li>
+<li>
+Experience working in a company that practices both an Agile and DevOps mentality</li>
+<li>
+Deep understanding of Linux</li>
+<li>
+Experience with Cloudwatch, Sumo Logic or another monitoring platforms</li>
+<li>
+Understanding of basic network troubleshooting for Application Support purposes</li>
+<li>
+Familiarity with an automated configuration platform, Puppet preferred</li>
+<li>
+Scripting experience using bash and/or Python</li>
+<li>
+Experience with AWS</li>
+<li>
+Experience with other public or private cloud providers are a plus</li>
+</ul></div>
+</div></div>
+<div>
+<div><b>Benefits</b></div>
+<ul>
+<li>Your choice of comprehensive benefits for you and your family’s health, dental, vision, disability, and life insurance</li>
+<li>Frequent catered lunch and live product demos</li>
+<li>401(k) retirement plan options</li>
+<li>Ongoing professional development and cross-training</li>
+<li>20 days vacation time, 5 days sick time, 2 floating holidays and 11 company holidays (yes, Patriot’s Day is a holiday)</li>
+<li>2 "Be Gentle" personal days</li>
+<li>Company paid parental leave upon hire</li>
+<li>Competitive pay, stock options, and annual bonus eligibility</li>
+<li>Casual dress and fun office atmosphere</li>
+<li>Pre-tax commuter benefits</li>
+<li>Stocked groceries in the kitchen</li>
+<li>Office location in the heart of Boston with convenience to the MBTA lines</li>
+</ul>
+<div>
+<br>
+</div>
+<div><b>
+Equal Opportunity Employer</b></div>
+<div>
+Cogito is a proud equal opportunity employer. We are committed to fair hiring practices and to creating a welcoming environment for all team members. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, disability, age, familial status or veteran status.</div>
+<div>
+<br>
+</div>
+<div><b>
+Authorization to Work</b></div>
+<div>
+Applicants for employment in the US must be authorized to work in the US.</div>
+</div>
+</div></div>

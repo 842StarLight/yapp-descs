@@ -1,0 +1,59 @@
+<h2>Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Our Customers Develop Software at the Speed of Ideas
+<br><br>
+CloudBees is powering the continuous economy by offering the world's first end-to-end continuous software delivery management system (SDM). For millions of developers and product teams driving innovation for businesses large or small, SDM builds on continuous integration (CI) and continuous delivery (CD) to enable all functions and teams within and around the software delivery organization to best work together to amplify value creation.
+<br><br>
+CloudBees is the continuous integration (CI), continuous delivery (CD) and application release automation (ARA) powerhouse built from the commercial success of its products and its open source leadership as the largest contributor to Jenkins and a founding member of the Continuous Delivery Foundation (CDF). With a globally distributed workforce of more than 500 employees, the company reflects the global nature of the DevOps movement. We believe in walking the talk! From startups with full-stack developers practicing NoOps to large Fortune 100 companies, CloudBees enables all software-driven organizations to intelligently deploy the right capabilities at the right time.
+<br><br>
+Over 3,500 of the world's best known brands and over 50% of the Fortune 500, invest in CloudBees because of its ability to work across any cloud, in any development environment and to balance corporate governance and control with developer flexibility and freedom.
+<br><br>
+CloudBees is home to the world's leading DevOps experts helping thousands of companies harness the power of "continuous everything" and putting them on the fastest path from great idea, to great software, to great business value.
+<br><br>
+At CloudBees, we truly believe that the more diverse we are, the better we serve our customers. A global community like Jenkins demands a global focus from CloudBees. Organizations with greater diversity—gender, racial, ethnic, and global—are stronger partners to their customers. Whether by creating more innovative products, or better understanding our worldwide customers, or establishing a stronger cross-section of cultural leadership skills, diversity strengthens all aspects of the CloudBees organization.
+<br><br>
+In the technology industry, diversity creates a competitive advantage. CloudBees customers demand technologies from us that solve their software development, and therefore their business problems, so that they can better serve their own customers. CloudBees attributes much of its success to its worldwide work force and commitment to global diversity, which opens our proprietary software to innovative ideas from anywhere. Along the way, we have witnessed firsthand how employees, partners, and customers with diverse perspectives and experiences contribute to creative problem solving and better solutions for our customers and their businesses.
+<br><br>
+CloudBees is looking for a Solutions Architect to join the CloudBees sales organization. This role is key for our sales organization. The position involves working side-by-side with the sales team, uncovering and developing opportunities by articulating the technical options for potential customers. While this role requires technology depth and awareness, this is a sales-driven position. The role carries a quota and directly impacts the revenue of the company. The ideal candidate will have been involved in the continuous integration, continuous delivery and DevOps space with strong interpersonal skills. Prior technical sales positions and experience would be helpful.
+<br><br>
+This is an amazing opportunity for a sales engineer to become an expert in what's soon to become the future of software development, and to work closely with recognized experts in the continuous integration, continuous delivery and DevOps markets.
+<br><br>
+This position is located remote out of your home with 50% travel.
+<br><br>
+What You'll Do
+<br><br>
+<ul>
+<li>Become an expert on all things related to Jenkins, continuous integration, continuous delivery and DevOps</li>
+<li>Serve as a liaison between sales, support, engineering and the customer/prospect</li>
+<li>Field more advanced user questions to sales for possible upsell to annual/global deals</li>
+<li>Understand the company's products, competitors, value proposition and positioning</li>
+<li>Assist the sales team on calls and e-mail exchanges with prospects</li>
+<li>Maintain and develop FAQ fed by information from customers, prospects and the sales team</li>
+<li>When recurring questions are identified, writing technical content to increase the Knowledge Base and creating videos/webcasts and other content</li>
+<li>Work with the product team to identify product priorities discovered in field engagements</li>
+<li>Attend trade shows, when appropriate</li>
+<li>Deliver regular demos of the product (Google Hangout, webcast, etc.)</li>
+</ul>
+What The Role Requires
+<br><br>
+<ul>
+<li>Bachelor's degree in related field</li>
+<li>Hands-on experience with continuous integration and its real-world role in delivering software</li>
+<li>Familiarity with Jenkins or other CI products/services</li>
+<li>Understanding of agile development processes and how organizations adopt and implement those processes</li>
+<li>Familiarity with DevOps and toolchain associated with it, such as Jenkins, Chef, Puppet and other deployment automation technologies</li>
+<li>At least four years of software development background (Java preferred)</li>
+<li>Direct experience with application servers and development frameworks</li>
+<li>Familiarity with continuous integration (e.g., Jenkins), source code control systems (e.g., Git, SVN), build automation tools (Ant, Maven, Gradle, etc.)</li>
+<li>50% travel</li>
+</ul>
+What You'll Get
+<br><br>
+<ul>
+<li>Highly competitive benefits and vacation package</li>
+<li>Opportunity to work for one of the fastest growing companies in tech with some of the most talented people in the industry</li>
+<li>A fun, hardworking and casual environment</li>
+<li>Endless growth opportunities</li>
+</ul>
+At CloudBees, we truly believe that the more diverse we are, the better we serve our customers. A global community like Jenkins demands a global focus from CloudBees. Organizations with greater diversity—gender, racial, ethnic, and global—are stronger partners to their customers. Whether by creating more innovative products, or better understanding our worldwide customers, or establishing a stronger cross-section of cultural leadership skills, diversity strengthens all aspects of the CloudBees organization.
+<br><br>
+In the technology industry, diversity creates a competitive advantage. CloudBees customers demand technologies from us that solve their software development, and therefore their business problems, so that they can better serve their own customers. CloudBees attributes much of its success to its worldwide work force and commitment to global diversity, which opens our proprietary software to innovative ideas from anywhere. Along the way, we have witnessed firsthand how employees, partners, and customers with diverse perspectives and experiences contribute to creative problem solving and better solutions for our customers and their businesses.</div>

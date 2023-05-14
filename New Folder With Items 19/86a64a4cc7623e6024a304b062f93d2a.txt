@@ -1,0 +1,32 @@
+<h2>Software Development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>2+ years of non-internship professional software development experience</li>
+<li>Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design</li>
+<li>1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.</li>
+</ul></div>
+<br>
+<p>Amazon is investing heavily in building a world class advertising business and we are responsible for defining and delivering a collection of self-service performance advertising products that drive discovery and sales. Our products are strategically important to our Retail and Marketplace businesses driving long term growth. We deliver billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class products. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.<br>
+Tens of billion dollars will be spent on advertising this year, and Amazon Sponsored Products is increasingly grabbing a larger and larger piece of the pie. We are looking for exceptional software engineers to build the ad serving and rendering services for our next generation, cost-per-click ad network.<br>
+We operate at the intersection of eCommerce and advertising. Our mission is to enhance discoverability for all products sold online and connect Amazon customers with sellers and selection anywhere. Our job is a multi-dimensional optimization problem. We choose ads for a given context that need to be relevant and useful to shopping customers, have the best value possible for merchant advertisers, and meet a high quality bar for publisher showing that. If it's not hard enough satisfying those conflicting demands, we need to do it all in &lt;30ms, thousands of times per second.<br>
+We are a highly motivated, collaborative and fun-loving team building a high growth business. We are entrepreneurial and have a bias for action with a broad mandate to experiment and innovate. This is an opportunity to make a significant impact on the future of the Amazon vision.<br>
+The ideal candidate for this role has strong experience in designing and developing scalable high-performance systems and services that are flexible, reliable, and maintainable. You have excellent problem-solving skills, a solid understanding of computer science fundamentals, and a customer-focused mindset. You take pragmatic and iterative approach to building software: you have an ability to simplify and get things done with a demonstrated track record of building and delivering software and working effectively with external and internal teams. You will build services to handle billions of requests per day, while maintaining response latencies in the milliseconds and meeting strict SLA requirements. Our systems and algorithms operate on one of the world's largest product catalogs and it is quite routine for our systems to operate on massive datasets using distributed frameworks.<br>
+A successful candidate will have the satisfaction of seeing their work on the Amazon.com website and numerous other websites, where it will be viewed by tens of millions of customers and will drive quantifiable revenue impact, broaden their technical skills and work in an environment that thrives on creativity, experimentation, and product innovation.</p>
+<br>
+<div>
+<ul>
+<li>Strong, object-oriented design and coding skills (C/C++ and/or Java preferably on a UNIX or Linux platform)</li>
+<li>Knowledge of Python, Perl, or other scripting languages a plus</li>
+<li>Experience with functional programming languages such as Erlang</li>
+<li>Ability to effectively articulate and drive solutions to technical and business challenges</li>
+<li>Deal well with ambiguous/undefined problems; ability to think abstractly</li>
+<li>Experience working with driving product vision to deliver long term customer and advertiser value</li>
+<li>Willingness to own all stages of development process: requirements, design, implementation, testing, and operational support</li>
+<li>Excellent interpersonal communication with strong verbal / written English skills</li>
+<li>Graduate degree a plus</li>
+<li>Previous experience in computational advertising</li>
+</ul>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation<br>
+<br>
+#NYBDSDE3 &amp; #NYBDSDE3ADS</div>
+</div>

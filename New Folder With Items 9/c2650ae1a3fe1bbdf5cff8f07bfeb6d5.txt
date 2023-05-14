@@ -1,0 +1,36 @@
+<h2>Sr. Applications/Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Development Support:</p>
+<ul>
+<li>During component development, support application oriented technical functions by working with design engineering, characterization engineering, and quality teams</li>
+<li>Identify end-application specific considerations to improve product development</li>
+<li>Applicant must be able to work well in a dynamic team environment with many concurrent tasks and well-stated priorities that shift frequently</li>
+</ul>
+<p>Marketing Support:</p>
+<ul>
+<li>Provide internal and external customers with RF technical product documentation and white papers – this includes product presentations, datasheets, and application notes</li>
+<li>Work to understand the competitive landscape and perform related analyses that enable marketing to determine next generation product performance targets</li>
+</ul>
+<p>Customer Support:</p>
+<ul>
+<li>Provide technical support to customers to ensure that our components are successfully designed into their products and to ensure system compliance</li>
+<li>Generate and provide data related to our parts per customer request. Prepare training material and supply Field Applications/Sales Teams with tools needed to promote and sell our products to our end customers</li>
+<li>Potential for Domestic and International travel</li>
+</ul>
+<p><b>QUALIFICATIONS:</b></p>
+<ul>
+<li>BSEE or equivalent level of experience and/or training; MSEE preferred</li>
+<li>3-8 years of related experience or internships required</li>
+<li>Applicants are expected to have a strong educational or practical background in fundamental RF concepts applicable to RF filter and switch components. Phone level system knowledge preferred</li>
+<li>Impedance matching and clear understanding of the Smith Chart</li>
+<li>RF testing skills with strong background with use of network analyzers, signal analyzers, signal generators, oscilloscopes, and lab equipment</li>
+<li>PCB level debug/troubleshooting. Handset level preferred</li>
+<li>Working knowledge of wireless standards including: GSM, W-CDMA, LTE, WiFi 802.11, Bluetooth, and GPS</li>
+<li>Experience with linear simulations using EDA tools such as KeySight ADS and/or NI AWR</li>
+<li>Excellent technical communication skills</li>
+</ul>
+</div>
+<p></p>
+</div>

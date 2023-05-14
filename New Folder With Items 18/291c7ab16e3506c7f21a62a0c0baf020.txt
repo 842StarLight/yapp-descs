@@ -1,0 +1,117 @@
+<h2>Sr. Developer Java POS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Requisition ID: </b>106092<br>
+<b>Position:</b>Full-Time</p>
+<p></p>
+<br>
+<p>
+Luxottica is a global leader in the design, manufacture and distribution of fashion, luxury and sports eyewear. Our wholesale network covers more than 150 countries and our retail presence consists of over 7,200 retail stores across the globe.</p>
+<p>
+In North America, our wholesale business is the home to global brands like Ray-Ban, Oakley, and many of the top fashion house brands. Our leading retail brands include; LensCrafters, Sunglass Hut, Pearle Vision, Target Optical and Sears Optical. We are also home to EyeMed, the fastest growing vision care company in the United States.</p>
+<p>
+Supporting over 4,500 retail stores in North America, a career in our retail headquarters allows us to stay in touch with the end customer and use their ever-changing behaviors and preferences to shape our offerings of the best eyewear and services.</p>
+<p></p>
+<br>
+<p><b>
+GENERAL FUNCTION
+</b></p>
+<p>The Sr. Java Developer will be working on the Point-of-Sale team responsible for the software solutions in support of Luxottica Retail’s brands such as LensCrafters and Sunglass Hut. The position will develop, modify, or direct others in updating the software utilizing Agile or Phased Waterfall methodology. The position will be responsible for specific development tasks using design best practices, analytical skills, proposing solutions to requirements, building designs according to the Architecture, and implementing various technologies. Consult with customers on projects or technical issues. Make recommendations on new or modifications of systems.</p>
+<p></p>
+<br>
+<p><b>
+MAJOR DUTIES AND RESPONSIBILITIES</b></p>
+<ul>
+<li>
+Own the technical design and development of cross-functional, multi-platform application systems.</li>
+<li>
+Perform complex application programming activities. Code, unit test, debug.</li>
+<li>
+Work with business partners, architects, and other groups to identify technical and functional needs of system and determine priority of needs.</li>
+<li>
+Manage standard system processes and enhancements to system. Ensure that solution design adheres to Industry software design best practices.</li>
+<li>
+Responsible for overall solution design quality</li>
+<li>
+Ensure adherence to defined Software Development Life Cycle and Architecture strategy and intent.</li>
+<li>
+Work with business analysts and business leads to understand the scope of work, priorities, and requirements for development.</li>
+<li>
+Work with project teams to deliver new capabilities in business applications and/or remediate issues.</li>
+<li>
+Enforce department standards in areas of development methodology, architecture, code standards, security, change and configuration management.</li>
+<li>
+Analyze, define and document requirements for data, workflow, logical processes, hardware and operating system environment, interfaces with other systems, internal and external checks, controls, and outputs.</li>
+<li>
+Contribute to defining time tables and project plans.</li>
+<li>
+Work with leads to Analyze and estimate feasibility, cost, time, and compatibility with existing systems.</li>
+<li>
+Ensure that required application performance levels are achieved.</li>
+<li>
+Coordinate coding, testing, implementation and documentation of solution</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+BASIC QUALIFICATIONS</b></p>
+<ul>
+<li>
+Bachelor’s degree in Computer Science, Information Systems, Business, or related discipline</li>
+<li>
+5+ years’ experience in Java Programming with Retail or Insurance systems helpful</li>
+<li>
+Strong knowledge of Object Oriented concepts</li>
+<li>
+Strong ability to work in a team</li>
+<li>
+Strong problem solving skills</li>
+<li>
+Works exceptionally well under high pressure situations</li>
+<li>
+Flexibility to work non-business hours on occasion to meet business needs</li>
+<li>
+Strong written and verbal communication skills</li>
+<li>
+Ability to collaborate across international boundaries</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+PREFERRED QUALIFICATIONS</b></p>
+<ul><li>
+Development experience with:<ul>
+<li>
+Web Services Based Development (SOAP, Ajax, RMI, Jax-WS, JaxB)</li>
+<li>
+Application Server Development (Oracle Weblogic preferred)</li>
+<li>
+User Interface Development (HTML, CSS, JavaScript, JSP)</li>
+<li>
+Application Development Utilizing a Framework (Core Spring, Spring MVC, Spring Web Flow, Spring Security, Apache Tiles)</li>
+<li>
+Testing (JUnit/Unit Testing)</li>
+<li>
+JDBC/SQL (PL/SQL, DB2/SQL), Mybatis, Stored Procedures</li>
+<li>
+XML Schema Validation</li>
+<li>
+Maven, Source Control Management (GIT)</li>
+<li>
+Apache HTTP Server</li>
+<li>
+Mobile Application Development (iOS( w/Swift) preferred)</li>
+<li>
+Agile/Waterfall Development Methodology</li>
+</ul>
+</li></ul>
+<p></p>
+<br>
+<p>
+Upon request and consistent with applicable laws, Luxottica will provide reasonable accommodations to individuals with disabilities who need assistance in the application and hiring process. To request a reasonable accommodation, please contact Talent Luxottica at 877-589-8253 (513-765-2256 outside of US) or email TalentLuxottica@luxotticaretail.com</p>
+<p>
+We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, gender, national origin, religion, age, disability, sexual orientation, gender identity or expression, citizenship, veteran or military status, marital status, pregnancy (including unlawful discrimination on the basis of a legally protected pregnancy or maternity leave), genetic information or any other characteristics protected by law.</p>
+<p></p>
+<br>
+<p>
+Information Technology</p>
+</div></div>

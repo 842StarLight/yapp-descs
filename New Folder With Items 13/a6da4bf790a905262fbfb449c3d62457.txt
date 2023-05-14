@@ -1,0 +1,51 @@
+<h2>Principal Machine Learning Engineer - Search</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<h2 class="jobSectionHeader"><b>About the team</b></h2>
+We are responsible for processing and serving all Trulia’s For-Sale and Rental listings and much more. We drive the backend search experience for Trulia and provide fast access to listings as well as local data around it. Our goal is to provide new and updated listings to our users in near real-time and make the search experience amazing. We are a small team that believes in innovation, collaboration and transparency. Trulia’s culture is one of the company’s biggest strengths. At Trulia people treat each other with respect and compassion, together cultivating a culture of collaboration, learning, accountability and fun. There’s a dedication to understanding the whole person, helping to build a collegian, trusting environment.<p></p>
+<h2 class="jobSectionHeader"><b>
+About the role</b></h2>
+<p>
+We are seeking passionate and creative machine learning engineer to lead development of our core machine learning platform for search team. You will be working on tacking challenging problems in information retrieval/ NLP domain and will be continuously innovating on areas such as NLP, Query understanding, Semantic Understanding, Intent classification, Search relevancy, Personalization, Predictive search, defining metrics and tracking, scalability to name a few.</p>
+<div>
+<br>
+<b>
+This includes a chance to:</b><br>
+<ul><li>Create high-visibility, modern semantic search products and drive innovation</li></ul>
+</div>
+<ul>
+<li>Be a technical leader on Search relevancy algorithms, data mining, deep learning, recommendations and NLP,NLU</li>
+<li>Understands the technical aspects of our products, connect technical work to business strategy, and have the skills to implement, communicate, and influence others and Collaborate cross-functionally with other teams across the organization</li>
+<li>Be a technical leader and lead a team of software engineers, applied researchers and data scientist, Define technical standard and engineering cultures, conduct design reviews</li>
+<li>Chance to contribute to building semantic search capabilities ground-up by developing entity disambiguation models, knowledge graphs, NLU, recommenders and relevance models .</li>
+<li>Is responsible for modeling and deploying at scale ML solutions, discovering insights, and identifying and effectively communicating opportunities based on technical expertise and business strategy.</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+Who you are</b></h2>
+<ul>
+<li>
+Has a minimum of seven years of hands-on experience developing large scale Machine Learning (Deep learning, Reinforcement learning etc) applications.</li>
+<li>
+Has ability to write high performance production quality code. Proficiency in Python, Scala and other equivalent languages is a plus.</li>
+<li>
+You have experience with ML and NLP tools (like TensorFlow, spaCy, scikit-learn etc)</li>
+<li>
+Has good understanding of Search relevancy algorithms. Experience in LTR and/or personalization is good to have.</li>
+<li>
+Has experience building and productionizing innovative end-to-end Machine Learning systems.</li>
+<li>
+Has in depth understanding of common families of models, feature engineering, feature selection and other practical machine learning issues</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+Get to know us</b></h2>
+Trulia's mission is to build a more neighborly world by helping you discover a place you'll love to live. Homebuyers and renters use Trulia's website and suite of mobile apps to get a deeper understanding of homes and neighborhoods across the U.S. through personalized recommendations, insights sourced straight from locals, and 34 neighborhood map overlays that offer details on commute, reported crime, schools, nearby businesses, and more. Founded in 2005, Trulia is based in San Francisco, and owned and operated by Zillow Group, Inc. (NASDAQ: Z and ZG). Trulia is a registered trademark of Trulia, LLC.<p></p>
+<p>
+At Zillow Group, we're powered by our inclusive work culture, where everyone has the support and resources to do the best work of their careers. Our efforts to streamline the real estate transaction is supported by our passion to empower people and enrich lives around everything home, a deep-rooted culture of innovation, a fundamental commitment to Equity and Belonging, and world-class benefits. But, don't just take our word for it. Read our reviews on Glassdoor and recent recognition from multiple organizations, including: Fortune 100 Best Companies to Work For (#69), Fortune Best Workplaces for Diversity (#38), Fortune Best Workplaces for Parents (#31), Fortune Best Workplaces for Women (#20), Fatherly's Best Workplaces for New Dads (#37), JUST Capital 100 Company (#69), Bloomberg Gender Equality Index constituent.</p>
+<p></p>
+<p><i>
+Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. Therefore, we provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know.</i></p>
+</div>
+</div>

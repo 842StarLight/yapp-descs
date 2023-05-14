@@ -1,0 +1,91 @@
+<h2>Salesforce Application Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<p>HomeServe USA, ranked as a 2017 Top Work Place, provides emergency repair plans which are like roadside assistance for your home. Our vision is to become the top-of-mind solution for consumers when something goes wrong in their home. Our incredible growth is fueled by a dynamic team who values collaboration, innovation and delivering exceptional customer service, all while working in a fun and friendly environment. HomeServe USA is part of a global organization that serves millions of customers in the US, UK, France, Italy and Spain. Come see why you should work for HomeServe USA!</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<p><b>Position Overview:</b></p>
+<p>
+The Salesforce Application Architect possesses broad knowledge across multiple development platforms, specifically Salesforce.com and draws on their skills and experience to assess business requirements and architecture in order to design secure, high-performance technical solutions that maximize the potential of the Salesforce platform.</p>
+<p></p>
+<br>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Business requirements gathering, designing and implementing solution using Salesforce.com and integrating other applications</li>
+<li>
+Work with support team on the timely resolution of support requests</li>
+<li>
+Keep skillset current and relevant regarding new cloud technologies and Salesforce innovations</li>
+<li>
+Bring new solutions and ideas for business process improvements</li>
+<li>
+Deliver Sales Force Application Implementation and Integrations using Custom objects, Triggers, workflows/ workflow rules, approvals, S-Controls, Visual Force Pages, SOQL, SOSL and Apex classes.</li>
+<li>
+Create enterprise level API and advanced design skills required (Non Salesforce experience a plus)</li>
+<li>
+Collaborate with Solution Architect to create a high-level conceptual solution architecture and design</li>
+<li>
+Provide solution oversight on business process and solution design throughout the project. The Salesforce Application Architect designs the key technical components of the solution and helps direct the technical resources to develop and deliver the project deliverables</li>
+<li>
+Uncover design issues early in the project lifecycle, shares implementation best practices, and recommends solution alternatives.</li>
+<li>
+Conduct design/code reviews during major project milestones.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<p><b>Job Requirements:</b></p>
+<ul>
+<li>
+5+ years of experience in Salesforce.com implementation, customization, integration and Force.com development experience including Sales cloud, communities and Einstein analytics</li>
+<li>
+Certifications- Salesforce.com such as Salesforce.com Certified Administrator/ Advanced Administrator, Application Architect, System Architect</li>
+<li>
+Should be familiar with service oriented architecture (SOA), software lifecycle management, IT service management processes</li>
+<li>
+Experience working with distributed external resources and vendor teams (onshore and offshore)</li>
+<li>
+Ability to work on multiple projects simultaneously</li>
+<li>
+Able to quickly capture business requirements and translate in Salesforce.com solutions using configurations. Need good understanding of Data models and data dictionaries, record types etc. Also able to incorporate business logic using process builders, workflows and flows etc.</li>
+<li>
+Strong Knowledge of SFDC standard Data structures and familiarity with designing Custom Objects and Force.com platform and Force.com Sites.</li>
+<li>
+Highly knowledgeable in salesforce.com development platform and features like Web services, Batch Process, Sharing Model using Apex, Schedulable Apex, Configurations, Data loader and metadata migration through ANT, Force.com IDE.</li>
+<li>
+Clear, professional communications (listening, oral and written communications)</li>
+<li>
+Strong relationship building and collaboration skills</li>
+<li>
+Demonstrated track record as a team player</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>In return we offer
+</b></h2>
+<div><div><div>
+<ul>
+<li><div>Competitive compensation</div></li>
+<li>
+Career development and advancement opportunities</li>
+<li>
+Business-casual attire throughout the week</li>
+<li>
+Friendly, open and team oriented work atmosphere</li>
+<li>
+Excellent benefits including generous medical, vision, dental and life &amp; disability insurance</li>
+<li>
+401(k) plan with a company match</li>
+</ul>
+<p></p>
+<br>
+<p>
+HomeServe USA is an equal opportunity employer.</p>
+</div></div></div>
+</div></div>

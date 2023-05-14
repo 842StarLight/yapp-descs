@@ -1,0 +1,29 @@
+<h2>Assistant Product Marketing</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<p><b>Job Qualifications</b></p>
+<ul>
+<li>Good communication skills</li>
+<li>Organized, efficient and effective, self motivated</li>
+<li>Software technology background</li>
+<li>Familiar with Microsoft Word/Excel/Power Point/Outlook</li>
+<li>Accounting background preferred</li>
+</ul>
+<p><b>Job </b><b>Description</b><br>
+<b>
+</b></p>
+<ul>
+<li>Assist in market analysis, product marketing, product branding, product presentation, customer training and sales</li>
+</ul>
+</div>
+<h5 class="jobSectionHeader"><b>Apply</b></h5>
+<div>
+<ul>
+<li><b>Send resume to:</b></li>
+<li>Personable, Inc.</li>
+<li>17600 Newhope street</li>
+<li>Fountain Valley, CA 92708</li>
+</ul>
+<p>Or, please email your resume to info@personable.com</p>
+</div>
+</div></div>

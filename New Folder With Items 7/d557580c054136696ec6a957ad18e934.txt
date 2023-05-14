@@ -1,0 +1,69 @@
+<h2>Senior Solution Consultant, AI</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div><div>
+<b>OPENTEXT - THE INFORMATION COMPANY</b><br>
+<br>
+As the Information Company, our mission at OpenText is to create software solutions and deliver services that redefine the future of digital. Be part of a winning team that leads the way in Enterprise Information Management.<br>
+<br>
+<b>Analytics</b>
+<br>
+<br>
+Opentext Analytics latest release, Magellan, is a cognitive platform comprised of pre-wired technologies including business intelligence, data discovery, predictive analysis and text mining, which provide a powerful, comprehensive AI analytics system fueled by Apache Spark and it's Machine Learning library. We enable enterprises to take advantage of machine-assisted decision making, automation, and business optimization. We have long standing relationships working with many Fortune 500-1000 clients who are in production with our analytics technology today. OpenText Analytics has a proven track record to scale leveraging massive amounts of data—whether structured or unstructured, internal, CRM, Big Data, Big Content, Internet of Things, or social media. br&gt;<br>
+</div></div>
+<div>
+<p><b>The opportunity:</b>
+</p>
+<p>As an OpenText Senior Solution Consultant, your role is to work with Account Executives across various aspects of the sales process. You provide technical assistance and expertise to the customers and prospects looking to leverage OpenText’s products in their environment or to embed into their existing application(s).</p>
+<p><b>You are great at:
+</b></p>
+<ul>
+<li>Understanding of statistical and predictive modeling concepts and recommendation and optimization algorithms.</li>
+<li>Working on complex problems that may require research and deep knowledge of the solution and address broad design issues for future projects.</li>
+<li>Providing technical leadership to deliver successful solutions to large corporations and government agencies.</li>
+<li>Applying both technical and business skills to create and build solutions to meet the customer’s business requirements.</li>
+<li>Developing best practices for implementation projects</li>
+</ul>
+<p><b>What it takes:
+</b></p>
+<ul>
+<li>BS degree in Computer Science, Information Science, Engineering, Statistics, Mathematics or related field degree.</li>
+<li>At least 2 years of professional experience in Analytics/Data Science.</li>
+<li>Experience with Jupyter Notebook</li>
+<li>Expertise on Spark in general and MLlib specifically (PySpark, Scala, SparkR)</li>
+<li>Programming skills and advanced knowledge of Python and R.</li>
+<li>Strong written and verbal communication skills.</li>
+<li>Strong analytical and creative mindset.</li>
+<li>Experience with SQL, ETLs and data structures.</li>
+<li>Experience working with large, multi-dimensional real datasets and real business projects.</li>
+<li>Able to work in a team environment.</li>
+<li>Willing to travel. In some cases, travel could be international.</li>
+<li>Experience with Java will be appreciated.</li>
+<li>Deep learning/Neural Networks knowledge will be appreciated.</li>
+<li>Experience creating rich, meaningful data visualizations will be appreciated.</li>
+<li>Knowledge/Experience with big data technologies will be appreciated.</li>
+<li>Experience with business intelligence tools will be appreciated.</li>
+<li>Experience with text mining and analyzing unstructured content will be appreciated.</li>
+<li>Demonstrates effective understanding and usage of the terrain map - understanding key roles (influencer, champion, etc) and how to influence them.</li>
+<li>Completes extensive research at the Account level - customer goals and strategy, competitive positioning and defines OT sales plays to address these.</li>
+<li>Takes full responsibility for customer focused activities.</li>
+<li>Can lead RFX answering processes as well as customer facing engagements like POC's.</li>
+<li>Seeks input from the various parties involved and makes sure deadlines are met.</li>
+<li>High level understanding of all the main OT products in the BU.</li>
+<li>Analyze and understand the customer's business process and KPI's. Identify where OT can bring value to the customer and how different products can play together to support the customers goals.</li>
+<li>Demonstrates ability to deliver business solutions in the customer/partner industry or market.</li>
+<li>Builds compelling Value Propositions to support opportunities.</li>
+<li>Identifies and develops relationships with key business contacts.</li>
+<li>Jointly works with others to plan workshops and prep materials.</li>
+<li>Contributes to Customer workshops</li>
+<li>Works with customer to qualify PoC design, success criteria &amp; deliverables.</li>
+<li>Documents and delivers proof of concepts directly under supervision.</li>
+<li>Takes full responsibility for tasks like self learning, RFx, POCs, demo development or opportunities.</li>
+<li>Identifies what needs to be done to be successful and addresses potential bottle necks with his/her management pro-actively.</li>
+</ul>
+</div>
+<div></div>
+<div><p>At OpenText we understand and value diversity in our employees and are proud to be an Equal Opportunity Employer. We hire the best talent regardless of race, creed, color, national origin, ancestry, disability, marital status, sex, age, veteran status or sexual orientation. If you require accommodation at any time during the recruitment process please email accommodationrequests@opentext.com. Applicants have rights under Federal Employment Laws including but not limited to: Family and Medical Leave Act (FLMA), Equal Employment Opportunity and Employee Polygraph Protection Act</p></div>
+</div>
+</div>

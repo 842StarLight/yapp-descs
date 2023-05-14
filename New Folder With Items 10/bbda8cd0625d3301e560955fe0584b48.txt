@@ -1,0 +1,198 @@
+<h2>Sr Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>This position is of a Sr. Software Engineer in the MDMS team with expertise on WebSphere &amp; Weblogic Administration in Unix/Linux based environment</p>
+<p>
+Product Development</p>
+<ul>
+<li>Excellent knowledge on Application server architecture and internal working</li>
+<li>Work with application design and development teams to develop and enhance the MDMS application and architecture</li>
+<li>Ensure the MDMS application is SOA compliant</li>
+<li>Ensure the MDMS application supports clustering for scalability and redundancy</li>
+<li>Ensure security best-practices are architected into the MDMS application</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Environment Support</p>
+<ul>
+<li>Application server administration (WebSphere &amp; WebLogic - need to have experience on both)</li>
+<li>Installation of application server software</li>
+<li>Cell/domain creation and management</li>
+<li>Deployment/Administration scripting</li>
+<li>Application code migrations</li>
+<li>Implement clustering in development and test environments for high-availability and scalability</li>
+<li>Database Secondary Support</li>
+<li>Create users and manage accounts</li>
+<li>Application server monitoring and troubleshooting</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Packaging and Release Management</p>
+<ul>
+<li>Package application software (appserver or other) for customer distribution</li>
+<li>Provide input to the creation of software deployment guides for software</li>
+<li>Provide input to the creation of application System Administration and Installation Guides</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Technical Support - ASSIST</p>
+<ul>
+<li>UNIX administration support</li>
+<li>Development tool support (Subversion, JIRA, Bamboo, Confluence)</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Sales &amp; Marketing Support - ASSIST</p>
+<ul>
+<li>Assist with provision of application environments and related support for customer/sales demonstrations under the supervision of a senior colleague</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Customer Support - ASSIST</p>
+<ul>
+<li>Assist with general secondary customer support under the supervision of a senior colleague</li>
+<li>Provide application server support and general SOA integration support to clients</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Professional Services</p>
+<ul>
+<li>Work with customers on MDMS implementations and integration efforts</li>
+<li>Assist customers with application server clustering (design and implementation)</li>
+<li>Assist customers with application server security configuration</li>
+<li>Assist customers with application server SOA integration (JMS, web-services)</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Team Support - ASSIST</p>
+<ul>
+<li>Assist other members of the team on topics / methods / techniques related to application server architecture</li>
+<br>
+</ul>
+<p>
+</p>
+<p>General &amp; Administrative Support</p>
+<ul>
+<li>Enter time and expenses accurately and in a timely manner</li>
+<li>Participate in HR activities such as interviews of candidates for various positions as requested</li>
+</ul>
+<p>Detailed List of Activities the Middleware Engineer May Perform on a Regular Basis</p>
+<ul>
+<li>Provide Environment Support including but not limited to the following</li>
+<li>Build application server environments</li>
+<li>Perform application database and application server migrations</li>
+<li>Answer environment related questions from developers/QA</li>
+<li>Standardize environments – develop and follow standard maintenance and operating procedures</li>
+<li>Coordinate SVN branching and tagging w/ the various teams</li>
+<li>Perform Environment Planning for future needs (i.e.: # of envs needed, determine what hardware has space for them, application server cluster design, etc)</li>
+<li>Assist with troubleshooting issues – ie: assist with JMS messaging problem in clustered environment, or troubleshoot continuous integration environment migration failure</li>
+<li>Monitor Appserver environments for errors or for performance purposes and install/configure profiling tools when necessary</li>
+<li>Attend environment support meetings</li>
+<li>Provide off-hours on-call support when needed – this is usually only during peak development times, SEV 1 and 2 support issues, or prep times before Sales Demos</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Assist with Release Management</p>
+<ul>
+<li>Help with packaging of patches/large releases/hot patches</li>
+<li>Maintain project’s packaging notes for things we need to address at packaging for the Appserver or for the Application code</li>
+<li>Package up the code</li>
+<li>Write installation/deployment guides</li>
+<li>Mock installs</li>
+<li>Coordinate delivery of code to customer</li>
+<li>Assist with the maintenance of the SVN Projects &amp; Releases Diagram on Confluence - pictorial view of what we have releases, to make it visually easier to see where code needs to be retrofitted</li>
+<li>Assist with the content in the System Administrator’s Guide and Installation Guide</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Assist Development Team</p>
+<ul>
+<li>Automation work – working w/ the Java team to work towards automation of testing, personal schemas, Release builds, CI envs, etc</li>
+<li>Attend development design and architecture meetings</li>
+<li>Support continuous integration environments for automated builds and unit testing</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Application Server support</p>
+<ul>
+<li>Create new cells/domains (environments)</li>
+<li>Installation/Patching of WebSphere and WebLogic software</li>
+<li>Create new Application Server Administration Console users/groups</li>
+<li>Configure appserver messaging components as components evolve and change</li>
+<li>Research bugs, open Service Requests (IBM and Oracle)</li>
+<li>Build Continuous Integration and Nuke-n-Pave appserver envs</li>
+<li>Design and implement the application server cluster architecture</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Tools Work</p>
+<ul>
+<li>Subversion/JIRA/Bamboo/Confluence</li>
+<li>Add new (remove old) users and groups</li>
+<li>Create new projects, build plans and spaces</li>
+<li>Perform upgrades and install patches</li>
+<li>Manage plugins with other tools</li>
+<li>Set up notification schemes</li>
+<li>Perform monitoring and support of tool</li>
+<li>Troubleshoot problems, research bugs, create issues with Atlassian for bugs/problems</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Assist with System Maintenance tasks</p>
+<ul>
+<li>Participate in the NetBackup tape rotation</li>
+<li>Create UNIX user and groups</li>
+<li>Troubleshoot server issues (i.e.: filesystem filling up, runaway processes, server slowness, memory/cpu issues, etc)</li>
+<li>Assist with maintenance and monitoring scripts for the Appservers and tools</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Assist with Sales Support</p>
+<ul>
+<li>Assist with building and maintaining Sales environments</li>
+<li>Coordinate environments where sales demos can be shown from</li>
+<li>Create demo environments when needed</li>
+<li>Assist development team when they have to modify data for demos</li>
+<br>
+</ul>
+<br>
+Required Skills<br>
+<p></p>
+<ul>
+<li>Minimum 5 (five) years as an experienced WebSphere (WAS) and WebLogic (WL) administrator and J2EE application developer</li>
+<li>Proficient with WAS/WL installations and upgrades</li>
+<li>Experience utilizing WAS/WL scripting using platform standard scripting</li>
+<li>Experience working with Java development teams in the design and architecture of new J2EE applications</li>
+<li>Expertise with WAS/WL clustering</li>
+<li>Expertise with SOA integration (JMS, web-services)</li>
+<li>Security best practices and standards</li>
+<li>Performance tuning and monitoring of the Application Servers</li>
+<li>Experience utilizing Oracle databases and SQL</li>
+<li>Experience working on UNIX systems and Shell scripts</li>
+<li>Must have a good understanding of CI/CD pipeline</li>
+<li>WebSphere certification preferred</li>
+<li>Java development experience preferred</li>
+<li>Utility experience (Electric, Gas, Water); esp. business experience with the retail side of the industry</li>
+<li>Experience working in an iterative development environment such as Agile/SCRUM</li>
+<li>Experience working in and for an organization building enterprise software development applications for delivery to external clients</li>
+<br>
+</ul>
+<br>
+Required Experience<br>
+<ul>
+<li>Bachelors degree; prefer computer science, information systems, engineering, or related field</li>
+</ul>
+<p><b><i>EOE AA M/F/Vet/Disability/VEVRAA/Federal Contractor.</i></b></p>
+</div></div>

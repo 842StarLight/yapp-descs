@@ -1,0 +1,55 @@
+<h2>Domain Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>PURPOSE OF ROLE:<br>
+<br>
+The primary purpose of this role is to lead the development of target state architectures and roadmaps for their assigned domain. In addition, this role is responsible for the establishment and implementation of standards for specific architecture domains including business, application, data, and infrastructure. This role guides Technical Architects to ensure that program and project architectures adhere to the standards, target state architectures, and roadmaps.<br>
+<br>
+RESPONSIBILITY STATEMENTS<br>
+<br>
+<ul>
+<li>Defines and documents Lowes’ architectural standards, target state architectures, and best practices that guide and influence architecture decisions for the Supply Chain and Merchandising domains with guidance from Principal Architects</li>
+<li>Within the assigned domain, completes research and analysis of technology industry and market trends to determine their potential impact on the enterprise</li>
+<li>Understands and interprets Lowe's current Information Technology landscape to identify weaknesses for application owners to develop improvements and works with leadership to prioritize improvement projects</li>
+<li>Oversees the development of architecture transition plans for moving from current to future state business, data, application and infrastructure models, within large cross-functional and complex business areas</li>
+<li>Creates architecture roadmaps for the introduction and retirement of technology, cost/risk reduction and optimization, ensure adherence to architectural standards and the continual enablement of business strategies</li>
+<li>Through partnership with the Principal Architects, Incorporates enterprise business trends and strategies to create domain-specific target state architecture, standards, guidelines, patterns, and reference models</li>
+<li>For a given domain, manages the evaluation and selection of application, data, and infrastructure technology, product standards, and the design of standard configurations with guidance from Principal Architect</li>
+<li>Defines and enforces Architecture standards, procedures, metrics and policies to ensure consistency across the organization with guidance from Principal Architects</li>
+<li>Collaborates with the Technical Architects to ensure the development of the conceptual and logical architectures required for business solution delivery<br>
+</li>
+</ul>
+<br>
+<br>
+Qualifications<br>
+<br>
+Required Minimum Qualifications:<br>
+<br>
+<ul>
+<li>Bachelor's Degree in Computer Science, CIS, Engineering, or related field with 8 to 12+ years of experience in IT, including 5+ years of experience in IT architecture. Additional equivalent work experience may be substituted in lieu of degree.</li>
+<li>4+ years of experience leading technical teams with or without direct reports</li>
+<li>2+ years of experience working in a large matrixed organization</li>
+<li>2+ years of experience in an IT role requiring interaction with senior leadership</li>
+<li>4+ years of experience defining Target State Architectures and Roadmaps</li>
+</ul>
+<br>
+Preferred Qualifications:
+<br>
+<br>
+<ul>
+<li>Master's Degree in Computer Science, CIS, Engineering, or related field with 4+ years of experience with commercial off-the-shelf package integration</li>
+<li>4+ years of experience architecting, designing, and implementing enterprise-scale, high volume, high availability systems</li>
+<li>4+ years of experience architecting, designing, and implementing enterprise-scale, high volume, high availability systems</li>
+<li>2+ years of experience working with Enterprise Architecture frameworks, such as TOGAF or Zachman</li>
+<li>2+ years of experience working with third party IT vendors and/or IT system solution providers</li>
+<li>3+ years of experience in IT within the retail industry<br>
+</li>
+</ul>
+<br>
+<br>
+About Lowe’s<br>
+<br>
+Lowe’s Companies, Inc. (NYSE: LOW) is a FORTUNE® 50 home improvement company serving more than 18 million customers a week in the United States, Canada and Mexico. With fiscal year 2018 sales of $71.3 billion, Lowe’s and its related businesses operate or service more than 2,200 home improvement and hardware stores and employ approximately 300,000 associates. Founded in 1946 and based in Mooresville, N.C., Lowe’s supports its hometown Charlotte region and all communities it serves through programs focused on safe, affordable housing and careers in the skilled trades. For more information, visit Lowes.com.<br>
+<br>
+<br>
+<br>
+#LI-JP1<br>
+#DICE</div></div>

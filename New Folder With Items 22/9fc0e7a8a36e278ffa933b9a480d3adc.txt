@@ -1,0 +1,90 @@
+<h2>Salesforce QA</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Description:</b><br>
+At KPA we are passionate about what we do, how we do and why we do it. Our culture is driven by the KPA core values – Excellence, Agility and Teamwork. Success will be determined by the capabilities, energy and character of the people we bring into our organization and the performance they achieve.
+<br><br>
+Come join our team of talented professionals and work with a company that appreciates and rewards people who make a difference.
+<br><br>
+Are you passionate about SFDC implementations that drive efficiency to extraordinary levels? Are you up for the challenge of helping to mature and grow an organization by creating a clean flow of data throughout the organization?
+<br><br>
+KPA is looking for someone that can grow with our company, increasing our Salesforce utilization, efficiency and integration with business processes in a smart, well-planned, and effective manner. This position will primarily focus on QA testing processes for changes and updates to integrated business critical systems. In coordination with business users, management and other IT resources or vendors, this person will provide guidance for system changes and enhancements.
+<br><br>
+To be successful, you will need to be organized, self-sufficient, and able to communicate clearly and effectively with business stakeholders, you will test and aid in the design of a solutions that meet their business needs. You will know that you have been effective when manual processes are now automated, emails “workflows” are now in Salesforce, and anyone at KPA with a Salesforce logon can see the same information as what was previously hidden in emails, shared drives, etc.
+<br><br>
+Key responsibilities will include
+<br><br>
+<ul>
+<li>Advise and lead the establishment of QA best practices in a Salesforce environment that is integrated with other business critical applications.</li>
+<li>Hands-on integration and regression testing.</li>
+<li>Develops and implements Quality Assurance tests and techniques to ensure successful implementation of software and hardware solutions.</li>
+<li>Identifies, evaluates and proposes testing tools</li>
+<li>Develops testing strategies for use within project and functional teams</li>
+<li>Identifies, establishes and provides desired reporting of QA Practice effectiveness</li>
+<li>Coordinates and performs test execution</li>
+<li>Ensures all applicable compliance and security requirements are verified within the QA process for each end product</li>
+<li>Documents key processes and workflows to ensure optimal understanding and collaboration</li>
+<li>Provides QA testing estimates</li>
+</ul>
+<b>In the first 30 days you will:</b><br>
+<ul>
+<li>Begin learning KPA's Salesforce and integrated business operations software solutions, where we've been and the vision for the future that promotes our growth and scales efficiently.</li>
+<li>Participate in BizOps Team Sprint Planning activities.</li>
+<li>Dig into the current Microsoft Azure structure so that you know when a work item or bug is available for testing (and in which environment)</li>
+<li>Start testing.</li>
+<li>Start building your own QA backlog, test cases, test scenarios, structure, etc. following best practices in support of the ability to scale the QA and testing processes</li>
+<li>Collaborate on updates to current deployment process, Azure templates, reporting structures, and more, setting QA up for success and the ability to report on bugs and status at the daily stand-up meeting.</li>
+<li>Determine plan to increase Salesforce Code Coverage</li>
+<li>Determine strategy for Profiles, Roles, Users, etc. for QA Testing across all environments</li>
+<li>Understand the CDM Model and infrastructure as it relates to the Enterprise Service Bus (ESB) both in production and in test</li>
+<li>Participate in ESB Team and User Acceptance Testing (UAT) activities.</li>
+</ul>
+<b>In the first 60-90 days you will:</b><br>
+<ul>
+<li>In collaboration with peers and leaders, investigate and make recommendations for improvements and additions to testing and QA processes.</li>
+<li>Gather requirements and work with the various organizations to create meaningful feature design to help improve our business around Order Entry and Provisioning</li>
+<li>Create and/or edit training documentation for ongoing Salesforce.com support in Knowledge</li>
+<li>Participate in change management/release process</li>
+<li>Identify and present automated testing recommendations (use cases)</li>
+<li>Regularly perform cleanup procedures, assisting in the development of business practices for data entry and standardization</li>
+</ul>
+<b>In the first 6 months you will:</b><br>
+<ul>
+<li>Continually improve documentation of QA processes, test cases, test scenarios, and workflows</li>
+<li>Regularly audit field usage and overall system adoption</li>
+<li>Implement automated testing</li>
+<li>Undertake additional analysis and reporting projects</li>
+</ul>
+What you’ll love about us …
+<br><ul>
+<li>A Lightning-enabled Salesforce with minimal custom objects used</li>
+<li>A target rich environment for enablement and valued-added impact</li>
+<li>Working across Business Operations: Sales, Marketing, Finance, and Customer Support</li>
+<li>Agile/Scrum methodology</li>
+<li>Work with a great team in a fun, driven and collaborative atmosphere with great benefits.</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Five years or more in software-related Quality Assurance and testing including various forms of estimating QA tasks</li>
+<li>Five years or more of software development experience</li>
+<li>Five years or more of hands-on experience with testing and defect tracking tools</li>
+<li>Knowledge on SOQL &amp; SOSL Query language</li>
+<li>Proven ability to communicate effectively while promoting collaboration both internally across functional teams and with external vendors.</li>
+<li>Ability to analyze and develop processes, workflows and modeling.</li>
+<li>Ability to manage multiple requests, activities and tasks simultaneously.</li>
+<li>Proven ability to work independently and take ownership of your area of responsibility.</li>
+</ul>
+<b>Knowledge and understanding of the following is a plus:</b><br>
+<ul>
+<li>Development Languages such as C#, Java, JavaScript and others</li>
+<li>Experience working in agile (scrum) methodologies</li>
+</ul>
+Position Details
+<br><ul>
+<li>Full-time, exempt position</li>
+<li>Reports to the Senior Program Manager, Technology Department</li>
+<li>Located at KPA’s corporate headquarters in Lafayette, CO</li>
+</ul>
+A little about Us….
+<br>KPA is a proven SaaS technology partner for corporate compliance and human resource professionals seeking opportunities to raise productivity, control expense, and mitigate financial and reputational risk via business process automation, improved safety and workplace compliance, and better HR practices. With KPA’s proven portfolio of end-to-end solutions and operational best practice, clients can unlock opportunities to drive down costs, mitigate risk, and enhance the employee experience at a lower cost than clients can achieve internally.
+<br><br>
+Founded in 1986, KPA is now owned by Providence Equity Partners, a top-tier private-equity company, and is focused on delivering SaaS solutions to the small and mid-size business (“SMB”) markets. KPA is a major competitor in a fragmented $4B market with significant “tail wind” of 10% annual market growth.</div>

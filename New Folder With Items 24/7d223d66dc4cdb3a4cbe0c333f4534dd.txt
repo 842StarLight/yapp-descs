@@ -1,0 +1,37 @@
+<h2>Sr. Edge Planning Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>Bachelor's degree in an IT-related field, or equivalent experience</li>
+<li>Knowledge of network design principles and commercial models around network capacity procurement</li>
+<li>5+ years’ experience driving strategic product or infrastructure decisions</li>
+<li>5+ years’ experience in network design, development, or procurement</li>
+</ul>
+<br>
+<div>Amazon Web Services (“AWS”) offers a broad set of global compute, storage, database, analytics, application, and deployment services that help organizations move faster, lower IT costs, and scale applications. We are growing quickly and dynamically, including in our global data center footprint. This role is part of the Infrastructure Global Expansion team, which is responsible for our strategy for data center expansion into new countries and geographies.<br>
+<br>
+In this role, you will own the expansion strategy for network-driven deployments and points of presence. You will work across teams to determine how to move forward key infrastructure builds, and balance the optimization for performance, cost, and time to build. You will collaborate across networking, software, and sales teams to move forward telecom relationships, and present roadmaps and strategy proposals to executive leadership.<br>
+<br>
+Responsibilities include:<br>
+<ul>
+<li>Identifying opportunities for strategic expansions</li>
+<li>Managing cross-functional input to inform potential partnerships and build solutions</li>
+<li>Analyzing data and traffic projections to drive network sizing and location decisions</li>
+<li>Managing communications and documentation around in-flight expansions</li>
+<li>Working with external parties to identify requirements and prospective partnerships to enable new infrastructure launches</li>
+<li>Improving cost structures for preferred infrastructure architecture</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>MS, MBA, JD, or other advanced degree</li>
+<li>Demonstrated ability to develop a business case for new features or geographic expansions</li>
+<li>Experience influencing executive leadership</li>
+<li>Demonstrated ability to learn and master new technical subject-matter</li>
+<li>Excellent writing ability</li>
+<li>Experience working with international teams</li>
+<li>Meets/exceeds Amazon’s leadership principles requirements for this role</li>
+<li>Meets/exceeds Amazon’s functional/technical depth and complexity for this role</li>
+</ul>
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age</div>
+</div>

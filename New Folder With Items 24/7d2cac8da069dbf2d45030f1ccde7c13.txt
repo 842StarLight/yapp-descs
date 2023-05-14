@@ -1,0 +1,35 @@
+<h2>Implementation Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Odoo released the most disruptive enterprise management software in the world: Odoo is a fully open-source, full-featured enterprise management platform with apps like CRM, Billing, eCommerce, Accounting, Project Management, HR, Manufacturing, and 16,000 more. Its online offer is 3 times more affordable than traditional competitors like SAP and Microsoft.</p>
+<p>We offer you an extraordinary chance to learn and grow. Be involved with a very exciting product and the company behind it.</p>
+<p><b>The role</b></p>
+<p>As a Business Consultant, you will help our clients to implement Odoo's ERP software within their organizations. In order to do this successfully, you'll need to understand our client's workflows and business practices to implement Odoo efficiently. You'll also learn all the in's and out's of Odoo and become a product expert, any past technical experiences will be helpful here. You'll be project managing migration from systems/software, acting as a liaison between developers and clients, and configuring the software applications to our clients' needs. You will be able to thrive in this full-time role from our San Francisco Office. No relocation or travel compensation for interviews is offered at this time.</p>
+<p><b>Responsibilities</b></p>
+<ul>
+<li>Be a full cycle ERP Functional Consultant and provide our clients top-notch service all throughout the North and South American markets. This role focuses on getting the platform of apps set up for a client that might not have the time or resources to implement a new system on their own.</li>
+<li>Project manage customers' operations, needs, and business processes in order to map them properly with Odoo software services.</li>
+<li>Quantify the resources required for a task/project related to an Enterprise Resource Platform implementation. You project manage ERP implementations to create systems that are then used by clients that want a product they love. Integration involves Sales, CRM, E-commerce, supply chain, manufacturing, inventory, POS, accounting, and more.</li>
+<li>Accompany customers in the full delivery cycle from software configuration to "go-live" and after as they grow. You hold onto your clients even if they are not active for hours or without, thus consulting to them when they are interested in doing more with the business process management software to manages and integrate a company's financials, supply chain, operations, reporting, manufacturing, and human resource activities.</li>
+<li>Coach customers on how to use Odoo efficiently through individual sessions in a way that best helps clients manage their own open-source ERP system. You might train clients, which could be startup CEOs or Department leadership or direct reports, in Accounting, Sales, CRM, POS, Inventory, E-commerce, Manufacturing, and more.</li>
+<li>Optionally, deliver Odoo functional training sessions on-site or online one week every 2 months to train end-users or employees coming from our customers and partners (8-15 people per session).</li>
+<li>Support the sales team during pre-sale with challenging implementations, consultation, analysis when working with clients, and in connecting with clients that wonder about the possibilities of Odoo's ERP for their systems</li>
+<li>Lead the creation and writing of user documentation, instructions, and procedures by working with business subject matter experts (SME) as a business systems analyst.</li>
+<li>Work with business leadership and staff to document business requirements, user stories (scenarios), and test plans.</li>
+<li>Possess the organizational change and functional consultant skills needed to effectively isolate both hardware and software problems and drive cross-departmental ERP solutions through to conclusion</li>
+</ul>
+<p><b>Qualifications</b></p>
+<ul>
+<li>Bachelor’s degree, or it's equivalent, in Management Information Systems, Computer Science, Engineering Management, Electronic Engineering, Project Management, Business Administration, or a related discipline</li>
+<li>Between 1 and 5 years of aligned experience implementing software/ERPs, project managing, consulting to clients, and/or something similar to what the role does</li>
+<li>Excellent planning, mapping, and communication skills combined with client interaction, being able to make in-the-moment decisions based on new information constantly</li>
+<li>An affinity with the Information Technology world, you understand what an ERP (Enterprise Resource Planning software) is</li>
+<li>Able to communicate effectively in English</li>
+</ul>
+<p><b>Nice to Have</b></p>
+<ul>
+<li>Experience tracking hours: Clients purchase hours for their projects and Business Systems Analysts at Odoo work through these hours with clients. We operate in an open way, so clients have access to a portal with how you spend hours and can give feedback with every interaction as well.</li>
+<li>Available to travel 3% of your time: For the duration of their consulting work with Odoo, the consultant will work mainly from the company office in San Francisco, but they will travel to client locations to provide on-site consulting services as needed by clients and by the decision of their manager (once they are ramped up and knowledgeable hopefully, as they would not have the support of a fellow colleague on-site).</li>
+<li>Understanding of SQL is highly preferred</li>
+</ul>
+<p>Job Type: Full-time</p>
+</div>

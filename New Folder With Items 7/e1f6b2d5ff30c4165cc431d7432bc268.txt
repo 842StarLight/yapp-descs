@@ -1,0 +1,5 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h3 class="jobSectionHeader"><b>(Job Code 003):</b></h3>
+<p>Design, Develop, &amp; Document computer programs, apply knowledge of SAP programming techniques &amp; computer systems. Review, alter programs to increase operating efficiency/adapt to new requirements utilizing SAP skill set - ABAP, WebDynpro, Fiori, HANA, Workflow, ALE (Application Link Enabling), IDOCs (Intermediate Document), Web Application Server, XML, BSP, SCM-APO (Supply Chain Management - Advanced Planning and Optimization), DP (Demand Planning), SNP (Supply Network Planning), PPDS (Production Planning &amp; Detailed Scheduling), GATP (Global Available-to-Promise), SD (Sales &amp; Distribution), MM (Material Management), PP (Production Planning), and BI (Business Intelligence). Will work in unanticipated locations. Req. MS in Comp. Sci, Engr. or related &amp; 1 yr exp. OR BS in Comp. Sci, Engr. or related &amp; 5 yrs progressive exp. Send resume to KASTECH Solutions, LLC 6918 Corporate Dr., Suite # A1 Houston, TX 77036.</p>
+</div></div>

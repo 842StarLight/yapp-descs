@@ -1,0 +1,71 @@
+<h2>Developer Systems Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Developer Systems Analyst</b></p>
+<p>
+Johnstone Supply, Inc., the nation s largest HVACR distribution Cooperative, has an opportunity for a <b>Developer Systems Analyst</b> at our corporate office in Portland, Oregon.
+</p>
+<p>The primary responsibilities of this role is to lead activities and work closely with appropriate stakeholders in the development, implementation and maintenance of on-going enterprise-wide programs, with a primary focus on data/systems flow analysis to support the business in achieving strategic goals and achieving operational excellence.
+</p>
+<p>Under limited supervision, the individual in this role performs analysis and makes recommendations in areas that require a high level of technical competency, and plays a lead role in project organization and execution, participating in the design, vendor evaluation, development, implementation, and management of multiple projects.
+</p>
+<p><b>Key Responsibilities:
+</b></p>
+<ul>
+<li>Provides ongoing client support for technical system questions and problems; coordinates with internal Help desks, serves as subject matter expert for designated systems; analyzes and researches more complex system problems, coordinating with vendors and other parties as necessary, and tracks them to resolution; develops, documents, and communicates alternative workarounds for system defects until system solutions can be implemented.
+</li>
+<li>Lead small to medium projects to ensure applications meet user requirements by gathering information from users; developing technical requirements, architecture and design deliverables; and continuously working with users to negotiate technical solutions against business requirements. Effectively communicate and define technology considerations within the context of business requirements to a business audience.</li>
+<li>Leads the analysis of existing business rules, processes, and systems to recommend process and system enhancements to improve business performance and maximize the effectiveness of available technology.</li>
+<li>Technical expert in Johnstone s business models, data relationships, and systems interfaces to determine requirements and formulate strategies for new and enhanced functionality</li>
+<li>Works directly with business units/subject matter expert (SME) to translate user requirements into system specifications and solutions</li>
+<li>Work cooperatively with coworkers to address concerns, train others, enhance own skill set and develop solutions which will result in higher standards and increased quality of service</li>
+<li>Ability to learn quickly and be willing to tackle tasks requiring advanced problem solving skills.</li>
+<li>Highly self-motivated and willing/able to troubleshoot/solve issues</li>
+<li>Performs maintenance and modification of existing programs and scripts currently in production to keep them responsive to user needs and to assure efficient operation in the production environment.
+</li>
+<li>Strong experience SQL design, development experience and working with relational databases including working with SQL developing Stored procedures, Views, Triggers, UDF (User defined Functions), constraints, etc.</li>
+<li>Strong demonstrated knowledge in the handshake between interfacing systems using SQL Server Integration Services (SSIS) to ensure proper reception and synchronization of records using mature programming languages.
+</li>
+<li>Maintain and extend existing programming scripts in mature languages (i.e. Progress 4GL, .NET, Unix script, classic ASP, HTML and .bat)</li>
+<li>Create and modify reports and report templates using SQL Server Reporting Services (SSRS)</li>
+<li>Analyze existing SQL queries / reports for performance improvements</li>
+<li>Maintains current knowledge of standard languages, coding methods, and operations requirements</li>
+<li>Ability to learn adapt to different programming languages and methodologies quickly with minimum supervision.</li>
+<li>Prepares test plan and data to thoroughly test coded components to validate accuracy.</li>
+<li>Provide input on enterprise architecture discussions and decisions.</li>
+<li>Analyze current system performance, investigate operational issues, propose and develop solutions to mitigate concerns and document findings and recommendations</li>
+<li>Support after-hours and on-call duties as required</li>
+</ul>
+<ul>
+<li>Ability to communicate technical issues to non-technical users.</li>
+</ul>
+<p><b>Requirements:</b></p>
+<ul>
+<li>Bachelor s Degree (B.S.) from a four-year college or university</li>
+<li>10 or more year s related experience and/or training, or equivalent combination of education and experience.
+</li>
+<li>Familiarity with finance and order processing systems preferred</li>
+<li>Ability lead discussions to find common ground and solve problems for the good of the effort, views them as opportunities; reads situations quickly; good at focused listening; can collaborate with others to reach consensus; can find common ground and get cooperation with minimum noise or damaging relationships (conflict/peer management/influencing)</li>
+</ul>
+<ul>
+<li>Ability to facilitate and lead meetings and present information in both one-on-one and group situations.</li>
+<li>Ability to know what s important and quickly determine critical priorities</li>
+<li>Ability to be self-motivated and self-directed with all job responsibilities.</li>
+</ul>
+<ul>
+<li>Knowledge of SQL, Visual Basic, MS Sharepoint and data standards &amp; normalization best practice techniques and tools.</li>
+</ul>
+<ul>
+<li>Ability to write status reports, process descriptions, and procedures that are in alignment to the targeted audiences.</li>
+<li>IT project management skills: defining objectives, creating timelines, scheduling and planning project resources, documenting processes, monitoring and evaluating project status.</li>
+<li>Ability to coordinate users &amp; technical staff across multiple departments/locations as well as coordination of 3rd party project responsibilities.
+</li>
+</ul>
+<p>Johnstone has been in business for over 60 years and has grown into an industry leader, with 428 store locations and over $2 billion in annual sales. We work with some of the largest companies in the world, including Daikin/Goodman, Honeywell, Emerson, Johnson Controls, and Fujitsu, to provide our customers with excellent products, technical expertise, and quality service.</p>
+<p>
+We offer a competitive wage, benefits that include medical, dental and vision insurance, 401(k), generous Paid Time Off, convenient location just off I-205 &amp; Airport Way, and a great work environment.
+</p>
+<p>Note: <i>This position is located at Johnstone's Corporate office in Portland, OR. Relocation assistance is not offered. Interested out-of-area candidates are encouraged to include a cover letter with their application with details about their relocation plans.</i></p>
+</div>
+<p></p>
+</div>

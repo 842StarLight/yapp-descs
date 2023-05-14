@@ -1,0 +1,67 @@
+<h2>Senior Implementation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>This position (part of our Professional Services team) is responsible for playing the technical role in the successful installation, integration and deployment of SailPoint IdentityIQ in client environments and assisting our implementation partners in that process.
+<br>
+<br>
+<b>Responsibilities:
+</b></p>
+<ul>
+<li>Installation, integration and deployment of the IdentityIQ product in client environments.
+</li>
+<li>Communicating to clients and partners aspects of both the product and the implementation at the technical and/or functional level appropriate for the situation.
+</li>
+<li>Post-sales requirements gathering, analysis and documentation.
+</li>
+<li>Working with clients post implementation for user testing, debugging, support and maintenance.
+</li>
+<li>Managing project scope, schedule, status and documentation.
+</li>
+<li>Developing and delivering technical training designed to enable/educate SailPoint implementation partners.
+</li>
+</ul>
+<p><br>
+<b>Requirements:
+</b></p>
+<ul>
+<li>5-7+ years of professional work experience as part of an enterprise software company or systems integrator. This should include 3+ years of enterprise software implementation experience.
+</li>
+<li>Experience with the following programming languages: Java, BeanShell/JavaScript, JSP/Servlets, SQL.
+</li>
+<li>Experience with the following web technologies: XML, SPML/SOAP, Web and Application Servers, HTML.
+</li>
+<li>Experience setting up and installing software on both Windows and Unix (Linux, Sun, HP, AIX) platforms.
+</li>
+<li>Experience with Databases (Oracle, Sybase, MSSQL, MySQL).
+</li>
+<li>Experience with Directories (LDAP, AD).
+</li>
+<li>Experience with enterprise systems (SAP, PeopleSoft) a plus.
+</li>
+<li>Familiarity with identity management provisioning systems (Sun, Oracle, IBM, Novell) a plus.
+</li>
+<li>Familiarity with RBAC a plus.
+</li>
+<li>Excellent communication skills and extensive experience working with clients and partners.
+</li>
+<li>Experience with Project Management duties (project planning, resource management, scope, schedule and status, documentation).
+</li>
+<li>Experience with QA duties is a plus (usability testing, performance testing, automated testing, test scripts, test cases and test plans).
+</li>
+<li>Security software or internal IT audit experience a plus.
+</li>
+<li>Experience in a startup company is a plus.
+</li>
+</ul>
+<p><br>
+<b>Education:
+</b><br>
+Computer Science, Engineering, or equivalent experience. J2EE certification is a plus. CISSP certification is a plus.
+<br>
+<br>
+<b>Travel:
+</b><br>
+This position requires approximately 35% travel.
+</p>
+<p></p>
+<p>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.</p>
+</div></div>

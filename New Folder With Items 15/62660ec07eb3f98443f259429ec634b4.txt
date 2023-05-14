@@ -1,0 +1,78 @@
+<h2>Senior Network Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Description</b>
+</p>
+<p>Are you a Systems Implementation Engineer with a passion for the financial industry? The ProfitStars business unit is looking for a Systems Engineer to join our Gladiator Network Engineer Hosted Solutions group. Gladiator is known for providing all of its Jack Henry branded clients with top tier network, system and cloud hosted solution technologies and an excellent customer experience. We are looking for individuals who are self-motivated and love to work closely with clients and develop strong relationships with their team members.
+</p>
+<p>The Systems Implementation Engineer executes required tasks to successfully implement Gladiator’s Hosted Network Services(HNS) solution or provide systems solutions within a customers’ environment. The Engineer provides high-level support in a pre, current or post sales implementation environment and is involved in all phases of the implementation project from initiation to close-out. If you are interested in this position, please apply on or before August 30, 2019.</p>
+<p>
+The position can be based to work remote from home.
+</p>
+<p><b>MINIMUM QUALIFICATIONS</b></p>
+<ul>
+<li>
+Must be able to travel up to 50% (Monday-Friday) to conduct systems implementations and you may potentially attend offsite training and or professional conferences.</li>
+<li>
+Must have experience managing projects or acting as a team lead.</li>
+<li>
+Must have a minimum of 5 years of experience in systems or cloud engineering field.</li>
+<li>
+Must have minimum of 3 years in configuration and implementation with each of the following listed: Windows Server 2008 and newer, Active Directory, Group Policy Management, DNS, DHCP, File and Print Services.</li>
+<li>
+Must have experience in configuration and implementation with any of the following that are listed: Physical host servers, ESX/ESXi host servers and virtual servers (VMware vSphere 4.x or higher) and or VMware VIEW.
+</li>
+<li>Must have experience in configuration and implementation with any of the following that are listed: End User Computing Technologies that include (VDI) Virtual Desktop Infrastructure, (VMware Horizon View or Citrix XenDesktop) or other Remote Presentation technologies that include Windows RDS and Citrix XenApp/Citrix Presentation Server.
+</li>
+<li>Must have experience in configuration, implementation and support with each of the following that are listed: Windows server 2008 and newer and Storage Area Networks (SAN) and storage devices.
+</li>
+</ul>
+<p><b>PREFERRED SKILLS</b></p>
+<ul>
+<li>
+Bachelor’s Degree.</li>
+<li>
+Experience as a Team Lead in a Cloud or Systems Implementation or Support Environment.</li>
+<li>
+Experience working in or with a Financial Institution in information technology.</li>
+<li>
+Experience working in or with a Financial Institution supporting applications.</li>
+</ul>
+<p><b>
+ESSENTIAL FUNCTIONS</b></p>
+<ul>
+<li>
+Installs current network operating system on new or existing network devices and/or installs communication equipment including routers, switches and firewalls</li>
+<li>
+Installs software on networking devices.</li>
+<li>
+Provides phone support to employees or customers relative to networking technology.
+</li>
+<li>Analyzes network topologies to determine potential issues and makes suggestions for recommended changes.</li>
+<li>
+Assists with the preparation of network assessments and certifications.</li>
+<li>
+Additional essential functions for network installations at a customer site:</li>
+<li>
+Installs current network operating server software on new or existing server-class hardware and/or installs communication equipment including routers, terminal servers, switches and firewalls.
+</li>
+<li>Installs supporting applications and peripherals on the above mentioned servers including tape backup hardware and software, email software, anti-virus software, etc. and/or implement technologies.</li>
+<li>
+Installs user workstation hardware, operating software and various application software and/or pre-configured equipment.</li>
+<li>
+Configures user IDs and customer-specific settings on servers and transfers data from the old environment to the new environment.
+</li>
+<li>Corresponds with customer and other divisions within the company to insure all customer concerns and issues are resolved in a timely manner.</li>
+<li>
+Assists Sales by analyzing customer requirements and recommending appropriate products and services.</li>
+<li>
+Prepares statements of work relative to upcoming network installations and general preparations for installation.</li>
+</ul>
+<p><b>
+Equal Employment Opportunity</b>
+</p>
+<p><i>Applicants for U.S. based positions with Jack Henry &amp; Associates must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is not available for this position.</i></p>
+<p><i>
+Jack Henry &amp; Associates, Inc. is an Equal Employment Opportunity/Affirmative Action Employer and maintains a Drug-Free Workplace.</i></p>
+<p><i>
+Females, minorities, veterans, and individuals with disabilities are encouraged to apply.</i></p>
+</div></div>

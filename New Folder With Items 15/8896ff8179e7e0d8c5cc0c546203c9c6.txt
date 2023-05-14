@@ -1,0 +1,62 @@
+<h2>Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div><p>Join our growing team and use your Salesforce development skills to implement and maintain Salesforce solutions. This is a challenging opportunity to work with a team of analysts and other developers to solve key business systems-related problems and improve existing processes.<br>
+<br>
+To succeed in this role, you must be able to work directly with the platform, diagnose and resolve technical issues, and implement customized applications. You must be motivated, a self–starter, detail oriented, have excellent problem-solving skills, and take ownership of work. You must thrive on working with complex problems and finding and creating simple solutions that address business needs.<br>
+</p></div>
+</div>
+<div>
+<p>RESPONSIBILITIES</p>
+<div><ul>
+<li>Design and develop Salesforce-based applications, customizations, and enhancements</li>
+<li>
+Understand and leverage the Salesforce provided APIs to support enterprise integrations</li>
+<li>
+Review and understand business requirements and create functional prototypes</li>
+<li>
+Follow established Salesforce development standards and best practices</li>
+<li>
+Assist in troubleshooting technical issues</li>
+<li>
+Maintain existing applications with an eye to continuous automation and improvement</li>
+<li>
+Stay current on Force.com technology changes and Salesforce releases</li>
+<li>
+Work in an agile manner; be flexible to changing priorities</li>
+</ul></div>
+</div>
+<div>
+<p>REQUIREMENTS</p>
+<div><ul>
+<li>3-5 years of recent development experience with 2+ years of Salesforce-specific development including triggers and components</li>
+<li>
+Previous experience developing within the Lightning Design System</li>
+<li>
+Process knowledge of Sales, Service Cloud, and Communities</li>
+<li>
+Strong verbal and written communication skills including the ability to share ideas both with the business and internal IT teams</li>
+<li>
+Ability to work in a fast-paced culture</li>
+<li>
+Bachelor’s in information systems, computer science, or related field, or equivalent relevant work experience</li>
+</ul></div>
+<div></div>
+</div>
+<div>
+<p>RECOMMENDED QUALIFICATIONS</p>
+<div><ul>
+<li>Certified Force.com developer</li>
+<li>
+Certified advanced Force.com developer</li>
+<li>
+Experience developing with JavaScript, HTML5, and CSS3</li>
+<li>
+Knowledge of JavaScript frameworks</li>
+</ul></div>
+</div>
+</div>
+<p></p>
+</div>

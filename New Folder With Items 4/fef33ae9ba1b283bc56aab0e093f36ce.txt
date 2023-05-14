@@ -1,0 +1,36 @@
+<h2>Regional Sales Manager - East</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>The Starburst founding team has been supporting and innovating the customer big data journey for nearly a decade. With engineering roots from the early stages of Vertica, founding then selling early SQL-on-Hadoop platform Hadapt to Teradata, and then leading Teradata’s emerging technology group to get deeply involved in Presto. Since rolling up their sleeves and committing to the Presto project, the Starburst team have become the most active contributors to the project. While Facebook, Airbnb, Netflix and other technology giants use Presto at scale and bring meaningful contributions from their custom deployments, the Starburst team is focused on aggregating demand from the broader market and making the technology consumable for all organizations. Starburst is a shepherd of the project and will continue to deliver advancements on performance, stability and connectivity. With Presto at the core, Starburst provides customers looking to harness the power of SQL on anything, at any scale with Enhanced Security Features, Custom Integrations, Improved Management and Support. Our vision at Starburst is to allow any customers at any point in their big data journey to achieve real time value from ALL of their data, regardless of where it resides. Whether your data architecture is deployed on prem, in the cloud, or a hybrid Starburst enables true cost management, accelerated time to value and future architectural optionality both now and in the future.</p>
+<p><b>The role: </b></p>
+<p>The Regional Sales Manager at Starburst is a quota carrying, enterprise software sales position responsible for meeting and exceeding goals through generating and closing new opportunities while increasing awareness of Starburst and Presto in the marketplace. We are looking for a motivated, focused and high-motor sales professional with experience across the full spectrum of the software sales cycle – prospecting, defining and articulating value proposition, pilot process management, business case development, negotiation and closing.</p>
+<p><b>Responsibilities: </b></p>
+<ul>
+<li>Drive new business opportunities for selling Starburst software and services engagements within assigned territory</li>
+<li>Develop and implement a sales strategy against assigned territory and/or targeted list of customers</li>
+<li>Develop a deep understanding of, and effectively articulate, the Starburst offering and value proposition in the market</li>
+<li>Constantly focused on pipeline generation within the territory to ensure long term success</li>
+<li>Interact with and leverage the Channel and Alliance partner community to find new opportunities and drive existing deals to close</li>
+<li>Manage opportunities through the sales cycle from initial inquiry to forecasted pipeline to deal design and close</li>
+<li>Meet quarterly and annual revenue objectives for your territory</li>
+<li>Provide continuous updates on all active accounts and report on sales, activities, status and progress on a regular basis</li>
+<li>Maintain a high level of customer satisfaction and reference-ability</li>
+<li>Travel for client visits and presentations</li>
+</ul>
+<p><b>Requirements</b></p>
+<ul>
+<li>5+ years of progressive SaaS software sales experience to Global Fortune 2000 companies</li>
+<li>Track record of success in closing business in large complex enterprise accounts</li>
+<li>Experience in, and base technical understanding of, data analytics software, business intelligence software, database/data warehousing platforms strongly preferred</li>
+<li>Excellent negotiation, analytical, financial and organizational capabilities Able to thrive in an evolving, entrepreneurial structure and environment</li>
+<li>Outstanding verbal and written communication skills</li>
+<li>Ability to work at both a tactical and strategic level</li>
+<li>Must possess a can-do, self-starter mentality in a highly collaborative atmosphere</li>
+</ul>
+<p><b>Location: </b><br>This position is located in New York City, NY</p>
+<p>*Starburst Data, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws*</p>
+<p>Job Type: Full-time</p>
+<p>Additional Compensation:</p>
+<ul><li>Commission</li></ul>
+<p>Work Location:</p>
+<ul><li>Fully Remote</li></ul>
+</div>

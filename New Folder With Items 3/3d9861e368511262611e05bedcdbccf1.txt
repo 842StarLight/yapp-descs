@@ -1,0 +1,15 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">The Overhaul Product team is looking for some bright, creative minds to join our lovable band of misfits in shaping the future of logistics software and services.
+<br><br>
+<b>Responsibilities will include, but will not be limited to:</b><br>
+<ul>
+<li>Own and drive continuous progress on Overhaul products using agile methodologies.</li>
+<li>Responsible for translating direction from senior management into low-level product roadmaps.</li>
+<li>Own and write user stories.</li>
+<li>Measure and drive team velocity on product related stories.</li>
+<li>Maintain and deliver release notes and product specification updates to sales and support staff.</li>
+<li>Understand and deliver direct product enhancements and new features to drive customer success.</li>
+<li>Work with Quality and IT teams to ensure deliverability of the products.</li>
+<li>Balance and negotiate cross product functionality with other Product Managers and with senior engineering management.</li>
+</ul>
+</div>

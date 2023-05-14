@@ -1,0 +1,63 @@
+<h2>Sr. Salesforce Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>We are unable to accept applicants who currently or in the future will require a work Visa.</b><br>
+<br>
+This position is for a Salesforce Administrator will be senior admin on our salesforce team with proven expertise in managing a Production grade Salesforce Org, with complex implementation. This position will also be responsible for assisting with governance for our SFDC instance, handling the day to day requests for configuration changes in Salesforce (Sales/Service/Communities Cloud). The LegalZoom Salesforce instance supports over 1000 individuals – so we are looking for someone with proven administration experience in large scale organization. This is an opportunity to work on challenging and exciting projects as well as creating and enhancing our product roadmap. This position will also be responsible for managing the production engineering responsibilities including but not limited to daily and weekly ticket management and reporting.</p>
+<p>
+ <b>Essential Functions:</b></p>
+<ul>
+<li>
+Provide tactical user support and system maintenance for ~1000 US based Salesforce users utilizing unlimited Enterprise Edition.</li>
+<li>
+Manage operational requests and troubleshoot issues, working with a diverse user group.</li>
+<li>
+Deliver with project based deliverables as needed – Sales and Service console configurations, Sales comp administration, and SFDC roadmap development.</li>
+<li>
+Contribute to driving user adoption, user training and value for the organization – especially with Salesforce Lightning platform.</li>
+<li>
+Assist our Salesforce system owners with post-rollout support, and have the ability to review and analyze real time Production use cases (involving customer accounts)</li>
+<li>
+Manage and own Salesforce configurations such as workflows, validation rules, security settings including roles, profiles, sharing settings and permissions.</li>
+<li>
+Be responsible for defining Salesforce object/fields schema, page layouts, record types, report types and other meta data information</li>
+<li>
+Migrate legacy classic solutions to the Salesforce Lightning platform and related configurations</li>
+<li>
+Designing, configuring and troubleshooting OmniChannel and OmniChannel Supervisor, Macros, Queue Management and Security Management (profiles, sharing settings etc.)</li>
+<li>
+Hands on experience on Salesforce Marketing Cloud – Administration, Automation Studio, Journey Builder set up, Email Studio, Social Studio and Data Extensions Management</li>
+</ul>
+<p><b>
+Job Competencies or Position Requirements:</b></p>
+<ul>
+<li>
+Proven Salesforce Administration experience (750+ users).</li>
+<li>
+At least one or more implementation experience on Salesforce Lightning platform</li>
+<li>
+Strong understanding of Salesforce best practices.</li>
+<li>
+Solid understanding of designing Salesforce configurations for Sales and Service Cloud using Console (Lightning) – including complex features such as OmniChannel, Macros, Email Integration, Queue Management, Profile and Security Management</li>
+<li>
+Expert knowledge of relational databases, SOQL queries using custom objects</li>
+<li>
+Good understanding of Salesforce Marketing cloud features.</li>
+<li>
+Ability to synthesize and interpret technical data.</li>
+<li>
+Strong customer service skills.</li>
+<li>
+Ability to manage multiple tasks in a fast-paced environment.</li>
+<li>
+Must have an attention to detail and a commitment to quality.</li>
+<li>
+Release Management or Deployment experience is a plus</li>
+<li>
+Other query languages such as SQL is a plus</li>
+<li>
+Salesforce Administrator Certification is a must.</li>
+<li>
+Experience in Agile methodologies is a plus.</li>
+</ul>
+<br>
+LegalZoom is an Equal Opportunity Employer, dedicated to diversity.</div></div>

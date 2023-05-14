@@ -1,0 +1,64 @@
+<h2>Azure Cloud Infrastructure Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div><div>
+<p>This role requires deep expertise and a track record of client success in delivering infrastructure solutions on the Azure platform. As a key enabler to regional Client Services Directors and Enterprise Client Executives, working in partnership to bring Neudesic’s services to market, the selected candidate will have a demonstrated ability to engage technology decision makers in Cloud Migration and Adoption roadmaps, cloud-native solutions architecture, and best practices on the cloud platform.</p>
+<p>
+To be successful, one must exhibit strong delivery leadership qualities necessary for building trust with clients and Neudesic technologists. Specifically, you will partner with Neudesic consultants and client team members to drive client success by providing practical guidance based on your years of experience working with the Cloud platform. Being hands-on with technology and the desire to continue to stay relevant as cloud technologies evolves is critical. Further, you will collaborate with a diverse sales team to professionally represent Neudesic experience and ability to drive business results.</p>
+<p><b>
+Critical Success Factors for the Role:</b></p>
+<ul>
+<li>An ownership mentality.</li>
+<li>A disciplined approach to your work life and your craft.</li>
+<li>A passion for lifelong learning and technology.</li>
+<li>Experience in articulating business drivers and technology decisions for cloud deployment strategies.</li>
+<li>A verifiable experience in designing strategic roadmaps for cloud solutions, migrations, greenfield applications, and cloud native deployments for medium to large enterprises.</li>
+<li>Consultative experience in defining cloud project technical milestones on and designing implementation resource cost models.</li>
+<li>Demonstrate deep understanding of an enterprise cloud adoption strategy and business value driven selection of cloud platform providers.</li>
+<li>Experience leading large-scale projects involving, strategy development, and implementation.</li>
+<li>Ability to lead technical teams, provide technical oversight, and be hands on.</li>
+<li>Ability to engage in sales pursuits with sales team members.</li>
+<li>Ability to develop a technology vision and communicate its value to clients and Neudesic teammates.</li>
+</ul>
+<p><b>Responsibilities/Duties</b></p>
+<ul>
+<li>Design implement Azure infrastructure and services for customer environments.</li>
+<li>Ability to Design, Deploy and maintain enterprise-class security, network, and systems management applications within an Azure environment.</li>
+<li>Design and implement availability, scalability, and performance plans for the Azure platform.</li>
+<li>Experience with a process that focuses on a Continual re-evaluation of existing stack and infrastructure to maintain optimal performance, availability, and security for Customer deployments.</li>
+<li>Implement process and quality improvements through task automation. Institute infrastructure as code, security automation, and automation or routine maintenance tasks for clients.</li>
+<li>Perform data migration from on-premises environments into Azure</li>
+<li>Support the business development lifecycle (Business Development, Capture, Solution Architect, Pricing and Proposal Development)</li>
+</ul>
+<p><b>Qualifications:</b></p>
+<ul>
+<li>Bachelor’s Degree in a relevant field of study: Computer Science, Management Information Systems, etc., or equivalent experience.</li>
+<li>Possess at least MCSA: Cloud Platform and be willing to continuously pursue others to address specific business needs and Microsoft Competency requirements.</li>
+<li>Intimate familiarity with the Azure Application Architecture Guide</li>
+<li>Familiarity with the Azure Onboarding Guide for IT Organizations</li>
+</ul>
+<ul>
+<li>Extensive experience with Azure (Azure Compute, Azure Storage, Azure App Service model, Azure Networks)</li>
+<li>Experience with automation/configuration management using Azure Templates, Json, Puppet, Chef, Ansible or similar.</li>
+<li>Experience with OMS, Systems Center, or similar monitoring tool.</li>
+<li>Experience with Web Services (SOAP, RESTful, REST, API, )</li>
+<li>Knowledge of data migration (to public cloud) practices and technologies.</li>
+<li>Strong background in Linux and windows.</li>
+<li>Scripting experience (Ruby, Python, Bash, PowerShell, )</li>
+<li>Knowledge of relational and non-relational databases</li>
+<li>Knowledge of federal security requirements: NIST, FedRAMP, FISMA, Hippa, HiTrust, PII, .</li>
+<li>Knowledge of containerization a plus</li>
+<li>Knowledge of agile software development practices and release management</li>
+<li>Thorough understanding of Cloud Computing: virtualization technologies, Network principles, Infrastructure as a Service, Platform as a Service and Software as a Service Cloud delivery models and the current competitive landscape.</li>
+</ul>
+<p><b>Desired Skills:</b></p>
+<ul>
+<li>Knowledge of DevOps methods and CI/CD automation practices</li>
+<li>Knowledge of containerization technologies such as Docker</li>
+</ul>
+<p><b>Neudesic is an Equal Employment Opportunity Employer</b></p>
+<p>
+Neudesic provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</p>
+</div></div>
+<p></p>
+</div>

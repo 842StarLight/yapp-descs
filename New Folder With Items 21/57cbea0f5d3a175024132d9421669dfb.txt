@@ -1,0 +1,107 @@
+<h2>Principal, Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Job Summary
+</b></h2>
+<p>Join the team that powers the global real estate economy - CoreLogic is an innovative, future focused company whose vision is to deliver unique property-level insights that power the global real estate economy.
+</p>
+<p></p>
+<p>We are a $1.95 billion in sales company with more than 6,000 employees globally serving the financial services and insurance industries. We are evolving at a rapid pace and the clients we serve are challenged from every direction, which means we are growing and innovating to help drive their success. Working together, and differentiated by our superior data, analytics and data-enabled solutions, we empower our clients to make smarter business decisions through data-driven insights. We take initiative, are fully accountable, build respect and trust, make transparency a must—and engage, include and collaborate at every turn.
+</p>
+<p></p>
+<p>We take pride in our work and believe in cultivating a work environment that supports and values our greatest asset: our talented employees.
+</p>
+<p></p>
+<p><b>Job Description:
+</b></p>
+<p>Help CoreLogic lead its journey to the Cloud
+<br>
+<br>
+The Enterprise Business Systems - Application Architect will assist CoreLogic build application, data centric, and integration solutions with a heavy emphasis cloud architecture for the company’s back office functions. The successful candidate must have skills to manage both a development team as well as work with all levels of customer to explain concepts, maintain continuity across the different work streams of complex data projects and programs. Individual must be able to solidify current initiatives as well as observe customer needs and expand legacy projects and programs. In addition, the individual must have hands on expertise with Oracle technologies including Cloud offerings.<br>
+<br>
+<br>
+</p>
+<ul>
+<li>Lead discussion, design and architecture for strategic cloud, integration and on-premise enterprise solutions, engaging various CoreLogic business and technology teams as necessary
+</li>
+<li>Work closely with other peer IT solutions architects in developing short- and long-range plans and reviews these plans with senior IT leadership as well as other organizational management.
+</li>
+<li>Validate and future proof solution designs and software vendors, internal service providers, application business analysts, and application developers
+</li>
+<li>Prepare, conduct, and evaluate proof-of-concept integration solutions per business use cases. Quantify the business values and articulate the value proposition to application teams and senior management
+</li>
+<li>Document and diagram current and future state integration processes across business applications.
+</li>
+<li>Inventory and maintain an Integration repository across segments in order to promote reusability. Create or review and approve Integration designs for projects
+</li>
+<li>Initiate both group and one-on-one meetings with application owners and enterprise architects for clear understanding of integration on current and future needs and in terms of business drivers and their application roadmaps
+</li>
+<li>Research and monitor technology trends and methodologies to simplify and to deliver faster integration services
+</li>
+<li>Understand and articulate how and what application and integration services can enable digital transformation in business functions, including smart manufacturing, mobility, supply chains, etc.
+</li>
+<li>Engage in the full cycle of project delivery process i.e. requirement, design, build, test, go live, and support
+</li>
+<li>Expand integration monitoring and alert capability
+</li>
+</ul>
+<p></p>
+<p><b>Job Qualifications:
+</b></p>
+<ul>
+<li>College degree (B.S.) in related technical / business areas strongly preferred
+</li>
+<li>Six years of experience in IT business operations related to software development, systems design and deployment or technical architecture
+</li>
+<li>At least three years of experience in overall architecture discipline (Applications, Data, Technical, Security, Development, Operational, etc.)
+</li>
+<li>Strong understanding of architectural standards and software development methodologies
+</li>
+<li>Customer service orientation
+</li>
+<li>Strong oral and written skills. Attention to detail; ability to create high quality output
+</li>
+<li>Familiarity with modeling techniques
+</li>
+<li>Advanced understanding of foundation architecture
+</li>
+<li>Strong SDLC process discipline, (e.g. requirements and design approaches)
+</li>
+<li>Familiarity with IT management methodologies (CMM/CMMI, COBIT, eTOM, ISO, ITIL, or others)
+</li>
+<li>Ability to develop business/technical requirements and write technical specifications
+</li>
+<li>Microsoft Office and Analytical skills
+</li>
+<li>Demonstrated clear understanding of the technology organization and business strategy, operating model(s), and products of CoreLogic
+</li>
+<li>Flexibility and adaptability to the demands and requirements of a fast-paced environment with multiple priorities; Organizational and time-management abilities
+</li>
+<li>Strong interpersonal / relationship management skills. Ability to work on multiple projects and assignments simultaneously
+</li>
+<li>Understanding of architecture methodologies, Business Process Re-engineering (BPR), current and future technology and application trends, and software development life cycles
+</li>
+</ul>
+<p><br>
+Preferred:<br>
+<br>
+</p>
+<ul>
+<li>Experience with Oracle Fusion Middleware (FMW) or applicable cloud integration technologies. Additionally, knowledge of PaaS toolsets especially helpful
+</li>
+<li>Experience with ERP systems, such as, Oracle e-Business suite, JD Edwards, Dynamics or MAPICS/XA. Cloud experience on Oracle platforms would be a plus
+</li>
+<li>Certification in a related project management discipline preferred
+</li>
+<li>Establish and expand strategic vendor partnerships that impact the effective delivery of application service to business functions.
+</li>
+<li>Relevant industry recognized certifications and or achievements (i.e. Oracle certified professional, etc.).
+</li>
+<li>Experience working with abstract concepts in innovative ways to solve problems. Experience with consensus building to bring together opposing views and steering debates toward practical solutions and paths forward.
+</li>
+</ul>
+<p></p>
+<p>CoreLogic offers an empowered work environment that encourages creativity, initiative and professional growth and provides a competitive salary and benefits package. CoreLogic is an Equal Opportunity/Affirmative Action employer committed to attracting and retaining the best-qualified people available, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, disability or status as a veteran of the Armed Forces, or any other basis protected by federal, state or local law. CoreLogic maintains a Drug-Free Workplace. We are fully committed to employing a diverse workforce and creating an inclusive work environment that embraces everyone’s unique contributions, experiences and values. Please apply on our website for consideration.</p>
+</div>
+<p></p>
+</div>

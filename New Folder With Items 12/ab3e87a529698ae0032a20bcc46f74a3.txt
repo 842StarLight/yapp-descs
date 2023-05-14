@@ -1,0 +1,44 @@
+<h2>Customer Practice Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<ul>
+<li>BA/BS degree or equivalent experience; Computer Science or Math background preferred</li>
+<li>15+ years of IT consulting/management experience, with demonstrated IT Transformation experience in customer-facing roles</li>
+<li>Demonstrated ability to work creatively and analytically in meeting customer needs</li>
+<li>A proven track record of managing and delivering large-scale enterprise IT projects</li>
+</ul>
+Position can be located, preferably in St. Louis or Kansas City or other major metropolitan areas open to relocation including but not limited to Chicago, Atlanta, Dallas, Minneapolis, Austin, Houston, Denver, Seattle, San Jose</div>
+<br>
+<div>The Amazon Web Services Professional Services team is looking for Customer Practice Managers (CPM) who can lead and/or support significant customer programs during the solution and pursuit stages, develop a long-term Professional Services strategy and execute that strategy with those customers. The CPM is a trusted advisor for our customers and the role includes all aspects of business development, deal structuring, deal support and closure in those accounts.<br>
+<br>
+AWS Professional Services engages in a wide variety of projects with customers and partners, providing collective experience from across the AWS customer base. We are obsessed about successful outcomes for the Customer. Our team collaborates across the entire AWS organization to bring access to product and service teams, to get the right solution delivered at the right time, and drive feature innovation based upon customer needs.<br>
+<ul>
+<li>Engage customers - collaborate with AWS sales and partner teams to develop strong customer and partner relationships and build a growing business and drive AWS adoption in a geographic territory and/or for a named set of customers</li>
+<li>Enable cloud transformation - develop long term Cloud Strategy with customers, identify &amp; develop specific opportunities and supporting business cases, manage issues and risks</li>
+<li>Support the commercial relationship - plan and implement a portfolio of projects, including budget &amp; deliverable responsibilities, drive proposal construction, including estimations and deal pricing, conduct contract negotiations &amp; execute contracts</li>
+<li>Lead great people - build high performing teams of consultants with superior technical depth and outstanding customer relationship skills</li>
+<li>Be an advocate - work with AWS engineering teams to convey partner and enterprise customer feedback as input to AWS technology roadmaps</li>
+<li>Think big - ability to assess customer marketplace circumstances, organizational readiness, and C-level sponsor willingness to initiate conversations that lead to broader strategic transformation programs, construct large, complex multi-month programs which include multiple ProServe engagement services</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Understanding of infrastructure-as-a-service (IaaS) cloud computing transition challenges</li>
+<li>Demonstrated ability to think strategically about business, product, and technical challenges</li>
+<li>Outstanding customer relationship management experience and collaboration skills</li>
+<li>Vertical industry sales and delivery experience of cloud services and solutions</li>
+<li>Experience with design of modern, scalable delivery models for technology consulting services</li>
+<li>Business development experience including complex agreements w/ integrators and ISVs</li>
+<li>International consulting or professional services sales and delivery experience with global F500 enterprise customers and partners</li>
+<li>Enterprise Architecture Frameworks (e.g. TOGAF, Zachman) and identifying the relationships between business services, information, applications and global infrastructure assets</li>
+<li>Enterprise IT management frameworks (e.g. COBIT, ITIL)</li>
+<li>Broad Enterprise systems experience including SAP, Oracle, and custom applications</li>
+<li>Designing, building, and operating global IT processes and infrastructures</li>
+<li>Familiarity with compliance &amp; security standards across the enterprise IT landscape</li>
+<li>Excellent written and verbal communication skills, including group leadership and executive presentations</li>
+<li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation aws-proserv-na</div>
+</div>

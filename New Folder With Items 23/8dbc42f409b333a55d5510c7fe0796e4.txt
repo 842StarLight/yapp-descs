@@ -1,0 +1,55 @@
+<h2>Product Manager - Developer Products</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Who we are:</b><br>
+We are Dataminr. Our advanced AI platform delivers relevant, actionable information alerts in real time. We detect the earliest signals on real-time risks within an increasingly diverse and complex landscape of publicly available information, enabling more effective risk mitigation strategies, faster response, and better crisis management for public and commercial sector organizations across the globe.
+<br><br>
+We've grown to over 450 talented employees across six global offices and raised $392 million in funding at a $1.6 billion valuation in our most recent investment round. Our culture promotes cross-team interaction, work-life balance and the sharing of information and ideas because it enables us to do our best work together and have fun.
+<br><br>
+We are a mission-driven company committed to the power of AI and real-time information as a force for good in the world. Join us and help the world operate in real time.
+<br><br>
+<b>Who you are:</b><br>
+You're an experienced Technical Product Manager with a technical background and strong business acumen. You're just as comfortable talking about APIs and integrations as well as brainstorming with external companies on how to build revenue-generating partnerships.
+<br><br>
+You have a propensity to question, explore, challenge, and build. You thrive in a fast-paced, dynamic environment where you can be creative and highly impactful. You're looking forward to helping grow our business partnerships, building our core platform, and - above all - making sure that our customers have access to high-quality alerts that will improve the safety and productivity of their organizations.
+<br><br>
+You're excited to be the first Product Manager in our new Partner Experiences product team, where you'll lead the overall product strategy and with full ownership of scenarios and workflows. You'll play a key role in supporting APIs that are critical to delivering digital capabilities for our enterprise customers and partners.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Lead, develop, and execute overall product strategy for APIs across different capabilities in Dataminr</li>
+<li>Define product roadmap including authentication, API framework, and standards, in partnership with Engineering team</li>
+<li>Develop pricing strategy and operational framework for internal and external integration</li>
+<li>Partner with Business Development to drive both technical integrations and delivery of product roadmap to strategic partners</li>
+<li>Drive sales enablement collateral in partnership with Product Marketing and Sales Support</li>
+</ul>
+<b>Desired Skills and Experience:</b><br>
+<ul>
+<li>Bachelor's degree in Computer Science or related technical field</li>
+<li>5+ years of product management experience with direct product ownership</li>
+<li>Experience with SaaS products, particularly building or working on developer portals and integrations</li>
+<li>Previous experience owning product initiatives from requirements to deployed functionality</li>
+<li>Demonstrated skills in developing product roadmaps and functional specifications, launching new products, developing go to market strategies, conducting customer research and facilitating user testing</li>
+<li>Understanding of the technical architecture of web applications, mobile, and communication products</li>
+<li>Experience designing user interfaces, including the ability to create examples through wireframes and mockups to explain your ideas</li>
+<li>Experience working cross-functionally with sales, sales engineering, operations, and product development teams</li>
+<li>Excellent organizational, presentation and writing skills and ability to successfully interact across functions at all levels of an organization and with customers</li>
+<li>Consumer-obsessed - you always think first about the consumer, hunt for empathy, and do everything possible to give the customer the best possible experience</li>
+<li>Analytical - you naturally break hard problems into their pieces, are deeply familiar with best-in-class experimentation practices, use key results to drive results, and basically just measure everything</li>
+<li>Driven and biased-to-action - you can manage through complexity, lead with influence, make hard decisions, and persevere when things are challenging; you're hungry to win and you have the grit to make it happen</li>
+<li>Collaborative and communicative - you love being part of a diverse team, building consensus, and establishing credibility; you're a strong communicator: curious, thoughtful, and clear</li>
+</ul>
+<b>Our offering of competitive benefits and perks include:</b><br>
+<ul>
+<li>Competitive compensation package including equity</li>
+<li>Company paid benefits for employees and their dependents, such as medical, dental, vision, disability and life</li>
+<li>Flexible spending account to be used for out-of-pocket medical, transit, parking and dependent care expenses</li>
+<li>401(k) savings plan with company matching</li>
+<li>Generous leave</li>
+<li>Daily catered lunch</li>
+<li>A kitchen fully stocked with snacks and beverages</li>
+<li>Discounted Gym Membership</li>
+</ul>
+Dataminr is an equal opportunity and affirmative action employer. Individuals seeking employment at Dataminr are considered without regards to race, sex, color, creed, religion, national origin, age, disability, genetics, marital status, pregnancy, unemployment status, sexual orientation, citizenship status or veteran status.
+<br><br>
+#LI-BM
+<br>------</div>

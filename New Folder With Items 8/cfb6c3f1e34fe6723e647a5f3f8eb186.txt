@@ -1,0 +1,35 @@
+<h2>Sr. Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">As a Sr. Consultant on the Professional Services team you will be provided the opportunity to change the world of software development for one of the fastest growing application platforms in the industry!
+<br><br>
+By applying your Microsoft architecture experience in a Docker environment, you will support and enable successful adoption of the Docker platform, working directly with our top enterprise customers and partners. You will work collaboratively with our Sales, Engineering, Product Management organizations and will serve as an advocate for our customers within Docker. This position provides technical guidance and support through the entire sales cycle with a focus on Microsoft Azure and Windows platforms.
+<br><br>
+<b>Travel:</b> 85%+
+<br><br>
+<b>Key Outcomes of this Role:</b><br>
+<ul>
+<li>Docker technologies and the Docker platform are successfully incorporated into the development and deployment environments of customers with Microsoft on-prem, public cloud and/or hybrid cloud environments</li>
+<li>Early adopter customers become Docker technology advocates and public references</li>
+<li>Equipped and enabled service delivery ecosystem of partners</li>
+</ul>
+<b>Duties and Responsibilities:</b><br>
+<ul>
+<li>Work on­site with strategic, enterprise­ class customers, delivering solutions architecture consulting, technical guidance, knowledge transfer and establish "trusted advisor status"</li>
+<li>Lead proof­ of­ concept and pilot implementations of the Docker platform within key customer accounts</li>
+<li>Present Docker platform strategy, concepts and roadmap to technical leaders with the customer's organization</li>
+<li>Serve as the customer advocate to other Docker teams including Product Development, Sales and Marketing</li>
+<li>Help enable partners to develop service delivery skills through mentorship, training, engagement shadowing etc.</li>
+<li>Help propagate skills and experience through development of repeatable assets (methodologies, blueprints, tools, white papers, knowledge articles etc.)</li>
+</ul>
+<b>Qualifications:</b><br>
+<ul>
+<li>2 - 4 years of consultative customer-facing architecture experience</li>
+<li>Solid understanding of Microsoft Windows Server functionality</li>
+<li>Experience architecting and developing Windows applications (Visual Studio, .NET framework, Windows Server Core/Nano, PowerShell ...etc )</li>
+<li>Experience working with Microsoft Azure / Azure Stack</li>
+<li>Experience with the IaaS, PaaS and cloud technologies (Azure, AWS, GCP, Digital Ocean etc)</li>
+<li>Familiarity with Linux architecture and tools</li>
+<li>Understanding of key devops concepts and tools (Agile, Microservices, CI/CD etc)</li>
+<li>Experience with key Web, Networking, and Security concepts and technologies (HTTP, TCP/IP, DNS)</li>
+<li>Presentation skills with a high degree of comfort speaking with executives, IT Management, and developers</li>
+</ul>
+Docker, Inc. ( http://www.docker.com/ ) is the company behind the Docker open source platform and is the chief sponsor of the Docker ecosystem. Docker is an open platform for developers and system administrators to build, ship and run distributed applications. With Docker, IT organizations shrink application delivery from months to minutes, frictionlessly move workloads between data centers and the cloud and can achieve up to 20X greater efficiency in their use of computing resources. Inspired by an active community and by transparent, open source innovation, Docker containers have been downloaded more than 6 billion times and Docker is used by millions of developers across thousands of the world's most innovative organizations, including ADP, GE, the BBC, Goldman Sachs, Groupon, ING, Yelp, and Spotify. Docker's rapid adoption has catalyzed an active ecosystem, resulting in hundreds of thousands of "Dockerized" applications, hundreds of Docker-related startups and integration partnerships with AWS, Alibaba, Canonical, Google, IBM, Microsoft, and VMware.</div>

@@ -1,0 +1,80 @@
+<h2>ERP Solutions Architect - Media</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Spectrum Reach (www.spectrumreach.com) grows businesses of all sizes with custom, multiscreen advertising solutions, backed by the power of TV, data, innovation, community experts, and unforgettable creative.<br>
+<br>
+<b>ERP Solutions Architect</b><br>
+<br>
+<b>JOB SUMMARY</b><br>
+The Spectrum Reach Sales Software Development team is currently seeking an ERP/CRM Solutions Architect. Spectrum Reach is expanding its enterprise ERP System capabilities integrated with a cadre of Media Sales Lifecycle tools. The Sales Software Development team is responsible for the technology strategy, sourcing, development, deployment, maintenance, and Tier 3 support for these enterprise capabilities. Existing responsibilities include the technology and software applications for enterprise, multi-channel campaign management. This person will be actively involved in all of the above areas and specifically responsible for creating and executing the ERP application integration strategy. Experience with relational marketing databases and technical development and deployment of enterprise ERP solutions is required.<br>
+<br>
+<b>MAJOR DUTIES AND RESPONSIBILITIES</b><ul>
+<li>
+Developing, Enhancing, Managing and Maintaining an enterprise SAP system</li>
+<li>
+Designing, developing, and deploying solutions and applications that help Spectrum Reach internal clients optimize the value they derive from their customer relationships and marketing and service strategies.</li>
+<li>
+Becoming the subject matter expert (SME) on various large ERP/CRM projects in which they are the support lead. The individual will make high level architectural and infrastructure recommendations to the project team. In addition, the individual will ensure that all changes moving into production will not be contentious with the current production environment.</li>
+<li>
+Performing maintenance and administrative tasks in both production and non-production environments from time to time.</li>
+<li>
+Performing SDLC planning and integration, development, design and User Acceptance.</li>
+<li>
+Working closely with developers, project managers, and database administrators (both internal employees and vendors/contractors).</li>
+<li>
+Building and maintaining client relationships with business and technology stakeholders</li>
+<li>
+Managing complex projects, including supervising process and functional design activities</li>
+<li>
+Creating functional requirements (including support for grooming user stories) as an input to application design.</li>
+<li>
+Developing and testing detailed functional designs for business solution components and prototypes.</li>
+<li>
+Driving test planning and execution.</li>
+<li>
+Driving technology architecture and infrastructure design activities.</li>
+<li>
+Reviewing and supervising design components.</li>
+<li>
+Developing design and transition approaches.</li>
+<li>
+Driving and supervising technology build, test and deployment activities.</li>
+<li>
+Troubleshooting, diagnosing, and supporting application development.</li>
+<li>
+Performing the above responsibilities in an Agile project management environment leveraging modern project management tools such as Atlassian JIRA as well as DevOps tools such as Git and Jenkins.</li>
+</ul>
+<br>
+<b>
+REQUIRED QUALIFICATIONS</b><br>
+Skills/Abilities and Knowledge<ul>
+<li>
+Full development lifecycle experience: requirements, design, build, test, deploy</li>
+<li>
+3+ years experience in developing with SAP including declarative development and custom development (Apex, Visualforce)</li>
+<li>
+Visualforce, HTML, DHTML, JavaScript, and Cascading Style Sheets</li>
+<li>
+Expertise with Microsoft SQL, SQL, and ORACLE Databases</li>
+<li>
+Experience with XML data creation, parsing and manipulation</li>
+<li>
+Waze Analytics implementations, development, management and SF integrations of Wave</li>
+<li>
+Pardot Engage and Pardot Email Marketing Automation</li>
+<li>
+Technical/team leadership experience in waterfall and Agile organizations</li>
+<li>
+Previous consulting or client service delivery experience</li>
+<li>
+Experience with MVPD Media Tools and Products</li>
+<li>
+Degree in Information Systems, Computer Science, or related field</li>
+<li>
+Ability to maintain and upgrade JavaScript, APEX, Visualforce, MSSQL, Oracle 11g</li>
+</ul>
+<br>
+<b>
+Education</b><br>
+Bachelor’s Degree or equivalent work experience
+<br>
+Working Conditions<br>
+Normal office environment</div></div>

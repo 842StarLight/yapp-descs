@@ -1,0 +1,222 @@
+<h2>IT Desktop Architect Supervisor (2295)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>At ENGIE North America, innovation and excellence create a platform for growth. We have a range of businesses in the United States and Canada, including clean power generation, cogeneration, and energy storage; retail energy sales; and comprehensive services to help customers run their facilities more efficiently and optimize energy and other resource use and expense. Nearly 100 percent of our power generation portfolio is low carbon or renewable. Globally, ENGIE is the largest independent power producer and energy efficiency services provider in the world, with operations in 70 countries employing 150,000 people, including 1,000 researchers in 11 R&amp;D centers.<br>
+<div></div>
+<div><div>We are looking for talented and motivated individuals to create the future of energy and customer solutions. Join a rewarding and flexible work environment that encourages innovation and creativity to help customers meet their energy challenges today and in the future.<br>
+</div></div>
+<div></div>
+<br>
+<br>
+<br>
+<div><b>The Role: IT Desktop Architect Supervisor<br>
+</b></div>
+<div></div>
+<br>
+<br>
+<br>
+<div>
+<b>Purpose
+</b><br>
+ENGIE is a leader in Energy Transition providing Energy and Service solutions to its customers. Be part of our dynamic team leveraging technology to bring innovative energy solutions to our customers. The Desktop Architect Supervisor ensures a quality engineered, innovative and technically capable desktops, laptops, and mobile devices; and they meet or exceed company requirements and SLA’s.<br>
+</div>
+<div></div>
+<br>
+<br>
+<div>
+<b>Location/Department
+</b><br>
+Houston, TX / IT<br>
+</div>
+<div></div>
+<br>
+<br>
+<div>
+<b>Status
+</b><br>
+Salaried – Exempt<br>
+</div>
+<div></div>
+<br>
+<br>
+<div><b>Essential Job Functions
+</b></div>
+<div>
+<br>
+Under the direction of Service Delivery Manager, the Desktop Architect Supervisor is an experienced, hands-on engineering technologist and leader responsible for delivering reliable and manageable end user computing devices, standardization, life cycle management, patching, asset tracking, acquisition, desktop project management, KPI reporting, end user experience management and training. The Desktop Architect Supervisor also serves as liaison between IT infrastructure, application owners, developers, vendors and customers to ensure IT managed devices meet company requirements and expectations.<br>
+<br>
+</div>
+<br>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Qualifications<br>
+</b></h2>
+<div></div>
+<br>
+<div><b>General Job Requirements<br>
+</b></div>
+<div></div>
+<br>
+<ul>
+<li><div>The position requires the candidate to work effectively as part of a larger team in an infrastructure technology, operations and architecture group.
+</div></li>
+<li><div>Requires you to make critical technical decisions to solve and engineer problem/solutions from a tiered support desk.
+</div></li>
+<li><div>Position requires analyzing and reporting on business and technical problems and working with division IT directors for individual BU requirements.
+</div></li>
+<li><div>Requires building and suggesting strategies for planning, engineering, documenting and presenting to management teams for the corporate desktop environment.
+</div></li>
+<li><div>Requires knowledge of Citrix, VMWare, Virtualization technologies, Active Directory, Microsoft Operating Systems and Powershell scripting.<br>
+</div></li>
+</ul>
+<div></div>
+<br>
+<br>
+<div><b>Specific ENGIE NA Job Requirements
+</b></div>
+<ul>
+<li><div>Design, engineer, deploy, manage and administer the Ivanti Landesk/EPM server for the deployment of patches and application on a regular basis.
+</div></li>
+<li><div>Expert understanding and packaging of ENGIE NA applications utilizing VMWare, Microsoft Installshield .MSI and Powershell scripts.
+</div></li>
+<li><div>Manage and maintain the Landesk remote servers for the ENGIE NA corporate image for use in North America sites.
+</div></li>
+<li><div>Manage and administer the workstation environment for patching all ENGIE NA client machines located both in corporate and offsite locations along with providing reports on security status of workstations.
+</div></li>
+<li><div>Package, test and deploy applications in a Citrix XenServer environment supporting several thousand users.
+</div></li>
+<li><div>Work with applications teams and BU IT Directors in to troubleshoot and maintain applications deployed in the ENGIE NA client operating system environment.
+</div></li>
+<li><div>Work directly with the client service desk to provide third level support for any escalated problems.
+</div></li>
+<li><div>Provide metrics and reports to management of the status of the common operating environment and report to the Infrastructure and Service Delivery Manager.
+</div></li>
+<li><div>Establish with hardware vendors, UI, hardware, security, operating system and mobile standards for ENGIE NA.<br>
+</div></li>
+</ul>
+<div></div>
+<br>
+<br>
+<div><b>Leadership
+</b></div>
+<ul>
+<li><div>Lead and manage the work activities of direct reports.
+</div></li>
+<li><div>Strategic and detail oriented with strong technology engineering and customer service acumen. Translate and architect business requests into appropriate technology solutions.
+</div></li>
+<li><div>Ability to assess, design and implement infrastructure solutions that meet business needs.
+</div></li>
+<li><div>Experience working with leadership to prioritize company-wide system needs, identify emerging information systems, security and telecommunication system technologies and recommend solutions for enhancing the company’s infrastructure
+</div></li>
+<li><div>Strong communication skills, both verbal and written
+</div></li>
+<li><div>Excellent inter-personal, supervisory and management skills, organizational, project management and analytical skills for problem determination and resolution, and performance management skills
+</div></li>
+<li><div>Carries out other duties as assigned<br>
+</div></li>
+</ul>
+<div></div>
+<br>
+<div><b>Requirements
+</b></div>
+<ul>
+<li><div>Travel to office locations as required (20%)
+</div></li>
+<li><div>Strong technical knowledge, leadership, and team management experience are required with strong service delivery and change management skills.<br>
+</div></li>
+</ul>
+<div></div>
+<br>
+<br>
+<div><b>Essential Physical Abilities
+</b></div>
+<ul>
+<li><div>Ability to meet highest attendance requirements
+</div></li>
+<li><div>Ability to communicate effectively, both written and verbally.
+</div></li>
+<li><div>Ability to handle multiple assignments on a timely basis with a high degree of accuracy.
+</div></li>
+<li><div>Ability to use personal computer, calculator, etc.
+</div></li>
+<li><div>Could involve some lifting.<br>
+</div></li>
+</ul>
+<div></div>
+<br>
+<div><b>Education/Experience
+</b></div>
+<ul>
+<li><div>Bachelor’s or Associate degree in a computer related field
+</div></li>
+<li><div>Equivalent combination of education and experience
+</div></li>
+<li><div>8 years’ experience in Information Systems
+</div></li>
+<li><div>Minimum 5 years’ experience in desktop engineering
+</div></li>
+<li><div>Minimum 5 years’ experience in desktop support/help desk
+</div></li>
+<li><div>Minimum 2 years’ experience managing IT staff
+</div></li>
+<li><div>Expert knowledge of desktop computing configuration including Microsoft SCCM, LanDesk, Windows 10 administration, Office 365, OKTA
+</div></li>
+<li><div>Expert knowledge on enterprise client computing environment with mixture of Apple, Android, and Windows devices<br>
+</div></li>
+</ul>
+<div></div>
+<br>
+<br>
+<div>
+<b>Working Environment
+</b><br>
+Work environment characteristics described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the employee is not exposed to weather conditions. The noise level in the work environment is usually moderate.<br>
+</div>
+<div></div>
+<div><i>For this role you must have authorization to work in the United States. Qualified applicants are considered for employment, and employees are treated during employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, veteran status, gender identity, or expression, genetic information or any other legally protected status.<br>
+</i></div>
+<div></div>
+<div><i>This job advertisement is supported by the ENGIE Talent Acquisition team. Agency involvement is not required. All related inquires must be done to the Talent Acquisition team, not direct to ENGIE North America Managers.<br>
+</i></div>
+</div>
+<div></div>
+<br>
+<div>
+<h2 class="jobSectionHeader"><b><i>Job
+</i></b></h2>
+<i>: </i><i>Digital and IT
+</i>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b><i>Primary Location
+</i></b></h2>
+<i>: </i><i>North America-United States-Texas-Houston
+</i>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b><i>Organization
+</i></b></h2>
+<i>: </i><i>Corporate Functions
+</i>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b><i>Schedule
+</i></b></h2>
+<i>: </i><i>Full-time
+</i>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b><i>Nature of Responsibility
+</i></b></h2>
+<i>: </i><i>Senior operational / administrative role
+</i>
+</div>
+<p></p>
+<div>
+<h2 class="jobSectionHeader"><b><i>Job Posting
+</i></b></h2>
+<i>: </i><i>Sep 11, 2019, 9:51:05 PM</i>
+</div>
+</div>
+</div>

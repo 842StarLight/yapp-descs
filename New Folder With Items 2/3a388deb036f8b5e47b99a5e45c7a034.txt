@@ -1,0 +1,35 @@
+<h2>IT Business Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>PHOENIX is seeking talented, hungry technology candidates interested in making the most of being groomed through direct mentorship by our CIO while working on projects related to cloud architecture, process automation, network security, general IT issues, software development, and a myriad of other technology-related initiatives. You will be expected to take on accelerated responsibilities in managing essential functions and projects across the IT, security, and data science teams. This role offers a unique opportunity for learning, impact, and career growth for a team-player with the aptitude, drive, curiosity, and passion to become a high-performing technology leader.</p>
+<p><b>Required qualifications</b></p>
+<ul>
+<li>A bachelor’s or master’s degree in computer science or engineering</li>
+<li>Ability to learn new concepts and skills quickly and deeply</li>
+<li>Extraordinary written and verbal communication skills, including strong emotional intelligence</li>
+<li>Impeccable attention to detail</li>
+<li>Insatiable drive to automate the routine and focus on practical problem-solving and innovation</li>
+<li>Confident Humility – the capacity to be the smartest person in the room yet have the humility to realize everyone can teach you something</li>
+<li>Team-player with profound customer-service commitment and delivery</li>
+<li>Professionalism, integrity, and judgment given the tremendous scope of responsibility, access, and confidential information</li>
+</ul>
+<p><b>Preferred qualifications</b></p>
+<ul>
+<li>Ability to program in Python, Ruby, or similar programming language</li>
+<li>Experience with Tableau, Power BI, Looker, Qlik, or other analytics tools</li>
+<li>Familiarity with SQL and data modeling</li>
+<li>An understanding of computer networking, directory systems, and computer security</li>
+<li>Mortgage banking or finance services experience a plus</li>
+</ul>
+<p><b>Benefits</b></p>
+<ul>
+<li>Full-time work in downtown Denver, CO and supporting Denver Tech Center location</li>
+<li>Competitive salary and paid time off</li>
+<li>Health, dental, and vision benefits</li>
+<li>401(k) with employer match</li>
+<li>Profit-sharing</li>
+</ul>
+<p><b>Company Information</b></p>
+<p>PHOENIX, the premier advisory firm for Trading, Mortgage Services, and Analytics, (in the Mortgage Banking/Financial Services sector) is excited to announce varied career opportunities for talented candidates across all business lines, including within its Sales and Client Management team for immediate hire. After more than two decades of industry leadership, PHOENIX has successfully managed over $800 billion in MSR transactions since 2013 and provided analytic solutions to a majority of the Top 20 banks and mortgage servicers. Diverse business-lines offer high-touch trading advisory and valuations/analytics for mortgage servicing rights and whole loans, in addition to mortgage servicing oversight/QC and loan-level due diligence. Our team members integrate a comprehensive understanding of tailored client objectives, accumulated market intelligence, policy insight, and unwavering customer service to forge deep and durable relationships across the industry. Experience the PHOENIX difference and explore opportunities with us today.</p>
+<p>Phoenix offers a competitive salary, 401k plan, health, and dental insurance. Please visit us at www.phoenixtma.com.</p>
+<p>Job Type: Full-time</p>
+</div>

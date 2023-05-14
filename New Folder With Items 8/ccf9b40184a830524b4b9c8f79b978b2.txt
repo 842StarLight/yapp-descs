@@ -1,0 +1,45 @@
+<h2>Accountant 1</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>We are currently seeking an Entry-Level Accountant for our NYC office. The position is responsible for accounts payable functions as well as processing expense reports to employees.</p>
+<h3 class="jobSectionHeader"><b>
+Essential Duties and Responsibilities</b></h3>
+<ul>
+<li>
+Maintain petty cash accounts and log all outgoing disbursements</li>
+<li>
+Monitor all vendor payment agreements to find discounts that can be used to reduce invoice amounts</li>
+<li>
+Responsible for paying all sales tax on appropriate invoices and making a note of each tax payment made</li>
+<li>
+Keep track of credits owed to the company and ensure all credits are properly applied to vendor payments</li>
+<li>
+Reconcile payable reports each month to confirm that all amounts paid were accurate</li>
+<li>
+Process payments to vendors</li>
+<li>
+Upload files to the firm’s banking institution</li>
+<li>
+Process expense report payments to employees</li>
+</ul>
+<h3 class="jobSectionHeader"><b>
+Requirements</b></h3>
+<ul>
+<li>
+Bachelor’s Degree in Accounting, Finance or related discipline</li>
+<li>
+0 to 2 years of experience</li>
+<li>
+Ability to use Microsoft productivity software such as Excel and Word. Experience with Deltek Vision a plus</li>
+<li>
+Excellent attention to detail</li>
+<li>
+Strong organizational ability</li>
+<li>
+Effective corporate communications skills</li>
+<li>
+Ability to consistently meet all deadlines</li>
+</ul>
+</div>
+<div></div>
+</div>

@@ -1,0 +1,50 @@
+<h2>Sr. Software Engineer - Email Solutions</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h3 class="jobSectionHeader"><b>Description</b></h3>
+<p></p>
+<p>With more than $150M in funding, 100% year over year growth for the past five years and a recent billion-dollar valuation, Seismic is the leader in the enterprise sales enablement software space. Using leading edge cloud technologies and web enabled solutions, we are innovating and solving complex problems to help the world’s top companies improve collaboration and content delivery between marketing and sales. Headquartered in San Diego and with more than 600 employees across the globe, Seismic is privately held by its executive team and investment firms General Atlantic, JMI Equity, Jackson Square Ventures, Lightspeed Venture Partners, and T. Rowe Price.</p>
+<p>
+Our Email Solutions team provide the core features around how our customers deliver content to their buyers. As we accelerate our growth, we’re looking for a Sr. Software Engineer to join our team. You will help deliver critical email components and plug-ins that are used by all Seismic customers. While you'll mostly focus on back-end solutions creating and leveraging containerized microservices, you'll also collaborate with front-end engineers. Above all, you’ll take ownership of your work in an autonomous environment but be supported by other engineers to help you understand our complex, cloud native architecture.<br>
+<br>
+<b>What’s expected:</b></p>
+<ul>
+<li>
+Ability to solve complex software problems and implement high quality, reusable code.</li>
+<li>
+Tackle challenges focused on complex APIs and web services.</li>
+<li>
+Motivations to work in a fast paced, agile software environment leveraging modern devops practices.</li>
+<li>
+Understand and develop microservices based solutions.</li>
+<li>
+See the big picture, look at details, and connect the dots to achieve platform outcomes.</li>
+<li>
+A continued curiosity and passion for learning and emerging technologies</li>
+<li>
+A collaborative mindset with the ability to clearly articulate problems, ideas, and solutions.</li>
+</ul>
+<p><b>
+What you’ll need to be successful:</b><br>
+</p>
+<ul>
+<li>
+A Bachelor’s degree or higher in Computer Science</li>
+<li>
+5+ years of experience software development experience for web-based products at scale</li>
+<li>
+Strong knowledge and experience developing complex web enabled applications, ideally in the enterprise software or software-as-a-service space</li>
+<li>
+A mindset of continuous learning and development team with proven excellence in mentoring and advising.</li>
+<li>
+A team first, “we win together” mentality that fosters idea sharing across all levels of the team.</li>
+<li>
+Ability to solve complex problems and implement the solutions</li>
+<li>
+Strong depth of knowledge in object-oriented programming, preferably with the Microsoft stack (C#, .Net, Azure SQL)</li>
+<li>
+Knowledge of cloud based architectures, microservices, and test driven development</li>
+</ul>
+</div>
+<p></p>
+</div>

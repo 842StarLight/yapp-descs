@@ -1,0 +1,69 @@
+<h2>Customer Experience Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Location</div>
+<div>San Diego</div>
+</div>
+<div>
+<div>Position Type</div>
+<div>Full Time</div>
+</div>
+<div>
+<div>Team</div>
+<div>Customer success &amp; support</div>
+</div>
+<p>We are seeking Data Analyst with a passion for data and execution and a focus on customer experience, combining your technical skills and business acumen. You will generate insights to drive customer revenue retention and revenue growth by aiding customers in optimizing their usage of Mitek’s products by conducting analyses of product usage. In doing so, you will have the responsibility of seeing beyond the numbers to developing an understanding of how our users interact with our software products, and identifying what's needed, and “what is possible”. You will then bring those concepts to reality in diverse areas, from operational reports through strategic analytics. In the process, you will develop a deep understanding of the Identity Verification business, our customers, and gain exposure to a wide variety of functional teams within Mitek.</p>
+<h3 class="jobSectionHeader"><b>What you will do</b></h3>
+<ul>
+<li>
+Aggregate data from various sources to construct streamlined data pipelines</li>
+<li>
+Build visualizations to illustrate in-app behavior trends.</li>
+<li>
+Identify and analyze key metrics to assess customer health, and usage optimization against their highest priority initiatives</li>
+<li>
+Identify key areas for optimization of customer’s use of Mitek’s products, establish cause &amp; effect, perform analyses, and communicate key findings to various stakeholders to facilitate data driven decision-making
+</li>
+<li>Work closely across teams like Sales, Pre-Sales, Marketing, Customer Success and Executives</li>
+<li>
+Identify opportunities for optimization of product usage and prepare analytics presentations for customers</li>
+<li>
+Utilize findings from ad-hoc analyses to create alerts and monitoring dashboards designed to increase platform efficacy, enabling Customer Success to answer questions before asked.</li>
+<li>
+Lead and participate in special projects/initiatives: innovate and implement large-scale improvements to processes and/or systems by conducting data analysis and making recommendations</li>
+<li>
+Establish and analyze Product KPIs.</li>
+<li>
+Provide actionable guidance to the Customer Success team for improving customer KPIs and success criteria metrics.</li>
+<li>
+Provide feedback to the Customer Success team to Product Development on priority issues facing customers.</li>
+</ul>
+<h3 class="jobSectionHeader"><b>What you need</b></h3>
+<ul>
+<li>
+Bachelor’s degree in Computer Science, Mathematics, Statistics or related field</li>
+<li>
+8 year of related experience conducting data mining and analysis, including driving needs gathering, documentation creation and reporting, preferably for customer product usage optimization</li>
+<li>
+Excellent understanding of computer science fundamentals, data structures, and algorithms</li>
+<li>
+Demonstrated experience, familiarity and ease with handling large data sets and crunching numbers</li>
+<li>
+Proven analytic skills, including mining, evaluation, analysis, and visualization</li>
+<li>
+Technical writing experience in relevant areas, including queries, reports, and presentations</li>
+<li>
+Strong SQL, LINQPad (.Net) and Excel skills with the ability to learn other analytic tools</li>
+<li>
+Prior experience with database and model design and segmentation techniques</li>
+<li>
+Proven experience working with Big Data and able to provide customized BI solutions</li>
+<li>
+Salesforce Dashboards and Reporting expertise (i.e. Tableau, SAP Business Objects, Excel)</li>
+<li>
+Strong written and verbal communication skills with the ability to translate complex problems into simpler terms, and effectively influence both peers and senior leadership</li>
+</ul>
+<h3 class="jobSectionHeader"><b>What would be nice</b></h3>
+<ul><li>
+Experience with one or multiple of the following will be highly desirable; Python, Java, Tableau, Jupyter Notebooks, Teradata, Hadoop/Hive, Oracle, JavaScript, SQL, Airflow, Linux, Perl, PHP</li></ul>
+</div></div>

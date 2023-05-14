@@ -1,0 +1,157 @@
+<h2>Managed Services Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>NET3 TECHNOLOGY is looking for a technical representative responsible for client care and maintenance of information technology equipment. A Managed Services Engineer delivers high-quality consultation and technical solutions while also demonstrating superior professionalism.</p>
+<p><br>
+<b>THE TEAM:</b><br>
+<br>
+The Net3 Technology Managed Services Team is a small team dedicated to the daily operation of Net3 Technology’s Services related to Customers and Cloud Services. The team is responsible for the design, provisioning, monitoring, and operations of hardware, networks, and databases to support our Customers. The team offers a great opportunity to experience a wide range of technologies and challenges as we strive to provide world-class hosted services to our growing customer base. Scalability, Security, and Disaster Recovery are the fundamental challenges the team takes on every day.<br>
+<br>
+<b>THE ROLE:</b><br>
+<br>
+We are looking to add a senior-level member to the Net3 Technology Managed Services team. As a senior system engineer, you will ensure that Net3 Technology delivers and continues to deliver high performance and reliable service. You will work on the next revision of our service whether it's architecting, designing, re-engineering or implementing the next generation of our service. You will be a primary problem-solver for IT service issues. You will work on routine system performance analysis, automation of system management, network troubleshooting, setup, system administration and more. We are looking for someone with experience in production data centers, someone that understands the critical nature of that business, and with a high level of attention to detail to help us keep our services running smoothly and constantly improving. The team is made up of level headed, well organized, and smart individuals that enjoy working together, and enjoy the constant flow of new challenges. Systems integrations, support, and deployment experience is key for this role.</p>
+<p><br>
+<b>QUALIFICATIONS:</b><br>
+<br>
+The Managed Services Engineer is responsible for mostly back office and remote support of our existing client base with onsite as required. The Engineer must have at least 5 years of relevant IT experience to be considered. The Engineer must be customer service focused and detail-oriented to be successful. The engineer must have a working knowledge of the following technologies:</p>
+<ul>
+<li>
+Microsoft Windows Server 2008 R2 and Higher – Microsoft Certifications a Plus</li>
+<li>
+Microsoft Exchange 2010 and Higher</li>
+<li>
+O365 – Exchange Online</li>
+<li>
+Microsoft Remote Desktop Server</li>
+<li>
+VMware vSphere 6.0 and higher – VCP is a Plus</li>
+<li>
+Microsoft Hyper-V 2008 and Higher</li>
+<li>
+One or more SAN technologies</li>
+<li>
+Intermediate Networking and Firewall methodologies and hands-on experience</li>
+<li>
+Windows Desktop OS – Windows 7 and Higher</li>
+<li>
+Working knowledge of VPN tunneling, ACL’s, and security</li>
+<li>
+Knowledge of cloud computing, Azure, AWS, GCP is a plus</li>
+<li>
+Linux experience is a plus</li>
+</ul>
+<p><br>
+<b>RESPONSIBILITIES:</b></p>
+<p><b>
+Customer Support</b></p>
+<ul>
+<li>
+Handle customer’s technical issues and concerns on a daily basis via telephone, email or onsite utilizing a ticketing system</li>
+<li>
+Primary contact for all client technical consultation</li>
+<li>
+Troubleshoot issues across the stack (hardware, network, firewall, applications, database, storage) and assist junior system engineers to resolve advanced system issues</li>
+<li>
+Participate in 24/7/365 on-call rotation, that includes night and weekend shifts, and be able to resolve critical system issues</li>
+<li>
+Report any issues requiring escalation to the Director of Services</li>
+<li>
+Provide escalation as necessary to technical vendors</li>
+<li>
+Demonstrate superior professionalism in both communication and appearance</li>
+<li>
+Monitor email, phone and ticketing system for client communication and respond in a timely manner to meet or exceed SLA’s.</li>
+<li>
+Maintain up to date records of customer technical information as it relates to servers, applications, infrastructure, and remote support instructions</li>
+<li>
+Be on time for client visits and phone calls</li>
+</ul>
+<p><b>
+Technical Support</b></p>
+<ul>
+<li>
+Diagnose and Repair at an expert level for issues relating to desktops, servers, network infrastructure, operating systems, and information security</li>
+<li>
+Diagnose issues at an expert level relating to business applications and escalate to application vendor as needed</li>
+<li>
+Report any issues requiring escalation to the Director of Services</li>
+<li>
+Provide timely resolution to advanced and complex technical problems</li>
+<li>
+Provide comprehensive explanation to client as needed to communicate technical issues and their resulting resolution</li>
+</ul>
+<p><b>
+Technical Consultation</b></p>
+<ul>
+<li>
+Identify areas for improvement as it relates to their technical infrastructure and communicate to a Senior Systems Engineer or the Director of Services</li>
+<li>
+Work directly with a Senior Systems Engineer or the Director of Services to up-sell client after identifying the need for improvement, upgrade or replacement</li>
+<li>
+Provide sound consultation that has a basis on industry standards and best practices</li>
+<li>
+Engage in regular communication with your assigned clients to determine if technical needs exist</li>
+</ul>
+<p><b>
+Technology Implementation Services</b></p>
+<ul>
+<li>
+Generate Scope of Work for technical projects</li>
+<li>
+Fulfill technical requirements as detailed in the Scope of Work</li>
+<li>
+Perform technical implementation on time and as scheduled per the project plan or as directed by the Director of Services</li>
+<li>
+Perform implementation within the hours budgeted on all projects and installations</li>
+<li>
+Install servers, networking, operating systems, appliances, applications, and other supporting technical equipment as required to fulfill scope of work</li>
+<li>
+Maintain up to date industry knowledge required to provide effective and efficient technical implementation services</li>
+<li>
+Perform Sales Engineering / Sales Support as required</li>
+</ul>
+<p><b>
+Education and Experience Required:</b></p>
+<ul>
+<li>
+Associate degree in Computer Science or related field</li>
+<li>
+Intermediate Networking knowledge - Layer 2, Layer 3</li>
+<li>
+Cisco Networking experience is a plus</li>
+<li>
+Virtualization administration knowledge</li>
+<li>
+Must have at least one technical certification to be considered but the following areas of certification are a plus:</li>
+</ul>
+<div><ul>
+<li>
+VMWare</li>
+<li>
+Microsoft</li>
+</ul></div>
+<p><br>
+<b>Standard Toolset:</b></p>
+<ul>
+<li>
+ConnectWise Manage – Ticketing system</li>
+<li>
+ConnectWise Automate – Patching and monitoring</li>
+<li>
+ConnectWise Control – Remote control</li>
+<li>
+Acronis cyber cloud</li>
+<li>
+Veeam</li>
+<li>
+Actifio</li>
+<li>
+Zerto</li>
+</ul>
+<p><b>
+COMPANY DESCRIPTION</b></p>
+<p>
+At NET3 TECHNOLOGY, our mission is to provide powerful technology solutions and excellent customer service to help companies think, act and thrive without limitations. Large or small, our clients want to grow- we provide the technology that helps get them there. Our technology offerings include managed services, business technology products, and IT professional services.</p>
+</div>
+<p></p>
+</div>

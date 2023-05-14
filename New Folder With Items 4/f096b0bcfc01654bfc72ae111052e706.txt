@@ -1,0 +1,78 @@
+<h2>Solutions Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Because you belong at Twilio
+<br><br>
+The Who, What, Why and Where
+<br><br>
+Twilio is enabling our customers to build the future of communications. The Twilio Solutions Engineer is a critical part of the sales team that is facilitating this communication renaissance.
+<br><br>
+The Twilio Solutions Engineer is responsible for delivering the technical win and product fit at customer accounts. They build customer trust in Twilio solutions, which results in customer success in the post-sale. The Solutions Engineer leads the technical pre-sales relationship, proposes technical architectures, demonstrates the product, anticipates concerns, and offers creative solutions.
+<br><br>
+The Twilio Solutions Engineer is both highly technical and a skilled relationship builder. They are comfortable showing an engaging communications experience to a CEO or sketching out an API flow on a whiteboard with customer software engineers.
+<br><br>
+Who?
+<br><br>
+Twilio is looking for a Senior Solutions Engineer with a strong desire to work in a technical pre-sales role.
+<br><br>
+<ul>
+<li>5 plus years pre-sales experience selling complex, technical products.</li>
+<li>Excellent communicator and presenter able to gain audience confidence</li>
+<li>Hands-on, high-energy, passionate and creative problem solver with know how to get things done and ability to lead others to success</li>
+<li>Ability to build a deep understanding of a customer's communications needs and guide them to a technical solution</li>
+<li>Previous software development experience in one or more of the following areas:</li>
+<li>backend (Java, C#, Node.js, Python, PHP)</li>
+<li>web development (JavaScript, HTML/CSS, frontend frameworks - React, Vue.js, Angular)</li>
+<li>Experience building with REST APIs</li>
+<li>Familiarity with cloud platforms (Amazon Web Services, Google Cloud, Microsoft Azure) and cloud application architecture.</li>
+<li>Previous experience in Telecom, SIP, Contact Center, or Security is a plus.</li>
+</ul>
+What?
+<br><br>
+Twilio Solutions Engineers get to live our values every day.
+<br><br>
+Draw the owl
+<br><br>
+<ul>
+<li>Build and present product demos to help showcase what a Twilio product can do</li>
+<li>Assist customers with Pilot and Proof-of-Concept implementations</li>
+<li>Present creative new solutions that enable and inspire innovation</li>
+</ul>
+Don't settle
+<br><br>
+<ul>
+<li>Never stop learning new products and new technologies</li>
+<li>Expect the best from yourself</li>
+</ul>
+Wear the Customer's Shoes
+<br><br>
+<ul>
+<li>Form a deep understanding of their business and the problems they're trying to solve</li>
+<li>Keep asking probing questions</li>
+</ul>
+Empower others
+<br><br>
+<ul>
+<li>Build trusted advisor relationships with customers</li>
+<li>Work alongside Twilio Account Executives through the pre-sales process, to strategize and plan for deal success</li>
+<li>Educate and mentor customers and colleagues</li>
+</ul>
+Be bold
+<br><br>
+<ul>
+<li>Don't be afraid to take that big idea and run with it</li>
+</ul>
+Why?
+<br><br>
+Solutions Engineers play a major role in Twilio's sales organization and are critical to deal success. The Twilio product suite is built for developers who are on a mission to build innovative communication products and technology. SE's help customers achieve success by leading the technical and product sale, recommending best-practice solutions, and guiding them on how to use Twilio's APIs
+<br><br>
+Twilio customers often share common use cases, but rarely share the same implementation requirements. Each company is unique when it comes to process, technology stacks, and skill. The Twilio Solutions Engineer owns the technical sales process to help demonstrate the best way to use Twilio products to achieve (and often exceed) their goals.
+<br><br>
+Twilio is a company that is empowering the world's developers with modern communication in order to build better applications. Twilio is truly unrivaled; we are a company committed to your growth, your learning, your development and your entire employee experience. We only win when our employees succeed and we're dedicated to helping you develop your strengths. We invest in employees dedicated to tackling hard problems and creating your own ideas. We have a cultural foundation built on diversity, inclusion and innovation and we want you and your ideas to thrive at Twilio.
+<br><br>
+Where?
+<br><br>
+While working remotely on the East coast, you will still enjoy our incredible perks: monthly Kindle book reimbursement, monthly gym reimbursement, unlimited PTO, bi-weekly All Hands and more. What you will also get to experience is a company that believes in small teams for maximum impact; that strives to balance work and home life, that understands that this is a marathon, not a sprint; that continuously and purposefully builds an inclusive culture where everyone is able to do and be the best version of themselves. We seek people who naturally demonstrate our values ( http://www.twilio.com/values ), who are challenged by problems, empower others to thrive, people who can draw the owl and not be beholden to one playbook.
+<br><br>
+<b>About us:</b><br>
+Millions of developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, video and email by virtualizing the world's communications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world's most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world's largest organizations — to reinvent how companies engage with their customers.
+<br><br>
+Twilio is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender identity, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, or Veteran status and operate in compliance with the San Francisco Fair Chance Ordinance.</div>

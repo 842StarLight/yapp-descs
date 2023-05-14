@@ -1,0 +1,62 @@
+<h2>Chief Data Scientist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Secure our Nation, Ignite your Future
+</p>
+<p>This position will report to the Group CTO and be part of the technology office staff. You will apply software development skills, strong analytical and innovative thinking, AI/ML experience, quickly learn and turn new ideas into working solutions, drive proof of concepts and pilots to accelerate the onboarding of new technologies and solutions. Have experience and knowledge of all the areas of analytics including but not limited to Integration, Predictive Analysis, Predictive Modeling, Business Intelligence and Visualization. Be a thought leader and practitioner of innovative ideas and solutions including but not limited to Big Data. You will be responsible for developing use-case driven and mission focused white papers and demos to support our customer needs. You will be the technical lead during customer interface and facilitate interactions and collaboration with Sales, Solutions and Operations teams. You will have the opportunity to lead and work with some of the newest technologies, transformative projects, be a thought leader on AI/ML, and play a strong role in shaping the innovation agenda across the company. This role requires an individual with outstanding team leadership skills combined with innovation and business skills.<br>
+<br>
+</p>
+<p><b>Qualifications:
+</b></p>
+<p>Required :
+</p>
+<ul>
+<li>PhD in Computer Science, Statistics, Information Systems, Data Science or engineering
+</li>
+<li>At least 5 years of hands-on experience working in data science and/or machine learning
+</li>
+<li>Minimum of 2 years of experience working in a large and complex big data environment
+</li>
+<li>Experience with data ingestion and processing techniques with outputs that are insightful and actionable, to include visualization, data lakes and data warehouses to develop strategies
+</li>
+<li>Strong fundamental knowledge of neural networks, probability theory, stochastic systems, Bayesian inference, predictive modeling, supervised/unsupervised/deep learning
+</li>
+<li>Proficiency in two or more of the following languages; C/C++, Java, Python, R, JavaScript, SAS, MatLab, SPSS
+</li>
+<li>Hands-on experience with virtualization and cloud technologies
+</li>
+</ul>
+<p>Preferred :
+</p>
+<ul>
+<li>Experience with software framework for distributed data such as Hadoop, Spark, Hive, NoSQL
+</li>
+<li>Experience with machine learning frameworks such as TensorFlow, Caffe, MXNet
+</li>
+<li>Knowledge of natural language processing, IOT and edge computing
+</li>
+<li>Logical problem-solving approach and the ability to clearly communicate the situation and proposed solution to the customer
+</li>
+<li>Strong technical writing skills and the ability to assist the sales team and business groups with requests for quotes / information
+</li>
+<li>Ability to create technical drawings, architectural products and concept graphics
+</li>
+<li>Strong interpersonal and communication skills, with the ability to present in a group setting; ability to facilitate and conduct webinars and presentations to customers, including conceptual design and white boarding sessions
+</li>
+<li>Projects a professional image and strong business acumen during customer interactions
+</li>
+<li>Possesses a sense of urgency, strong organizational and follow up skills
+</li>
+<li>Ability to interact effectively with senior managers and C-level executives
+</li>
+</ul>
+<p><b>Clearance: </b>Top Secret (required); Top Secret SCI (preferred)
+</p>
+<p></p>
+<p>ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+</p>
+<p></p>
+<p>If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+</p>
+<p></p>
+<p>If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.</p>
+</div></div>

@@ -1,0 +1,42 @@
+<h2>Specialist SA, Machine Learning/AI Services</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>2+ years experience in the field of AI, Machine Learning, Deep Learning and related technologies.</li>
+<li>2+ years experience developing AI models in real-world environments and integrating AI/ML and other AWS services into large-scale production applications.</li>
+<li>2+ years design/implementation/consulting experience building cloud solutions using AWS.</li>
+<li>5+ years professional experience in software development in languages like Java, Python, Scala. Experience working with RESTful API and general service oriented architectures.</li>
+<li>Experience influencing and building mindshare convincingly with any audience. Confident and experienced in public speaking to large audiences.</li>
+</ul>
+<br>
+<div>Are you passionate about Artificial Intelligence, Machine Learning and Deep Learning? Are you passionate about helping customers build solutions leveraging the state-of-the-art AI/ML/DL tools on Amazon Web Service (AWS)? Come join us!<br>
+<br>
+At Amazon, we’ve been investing deeply in artificial intelligence for over 20 years, and many of the capabilities customers experience are driven by machine learning. Amazon.com’s recommendations engine is driven by machine learning (ML), as are the paths that optimize robotic picking routes in our fulfillment centers. Our supply chain, forecasting, and capacity planning are also informed by ML algorithms. Alexa is fueled by Natural Language Understanding and Automated Speech Recognition deep learning; as is our drone initiative, Prime Air, and the computer vision technology in our new retail experience, Amazon Go. We have thousands of engineers at Amazon committed to machine learning and deep learning, and it’s a big part of our heritage.<br>
+<br>
+Within AWS, we’re focused on bringing that knowledge and capability to customers through three layers of the AI stack: 1) Frameworks and Infrastructure with tools like Apache MxNet and TensorFlow, 2) Machine Learning Platforms such as Amazon SageMaker for data scientists and 3) API-driven Services like Amazon Lex, Amazon Polly, Amazon Transcribe, Amazon Comprehend, and Amazon Rekognition to quickly add intelligence to applications with a simple API call.<br>
+<br>
+AWS is looking for an AI Solutions Architect (AI SA), who will be the Subject Matter Expert (SME) for helping customers in the AMERICAS design solutions that leverage the third tier of our ML stack, the AWS API-driven AI services. You will partner with Solution Architects, Sales, Business Development and the AI Service teams to enable customer adoption and revenue attainment for Amazon Transcribe, Amazon Rekognition, Amazon Comprehend and the other AWS AI services in the AMERICAS. You will develop white papers, blogs, reference implementations, labs, and presentations to evangelize AWS AI design patterns and best practices for all of the AWS AI services.<br>
+Your roles and responsibilities will include:<br>
+<ul>
+<li>Work with customers’ development and data science teams to deeply understand their business and technical needs and design AI solutions that make the best use of the AWS cloud platform and AWS AI Services including Amazon Comprehend, Amazon Rekognition, Amazon Transcribe, Amazon Lex and the other AI services.</li>
+<li>Thought Leadership – Evangelize AWS AI services and share best practices through forums such as AWS blogs, whitepapers, reference architectures and public-speaking events such as AWS Summit, AWS re:Invent, etc.</li>
+<li>Partner with SAs, Sales, Business Development and the AI Service teams to accelerate customer adoption and revenue attainment in the AMERICAS of Amazon Comprehend, Amazon Rekognition, Amazon Transcribe, Amazon Lex, Amazon Translate, Amazon Polly and the other AI services..</li>
+<li>Act as a technical liaison between customers and the AI services engineering teams to provide customer driven product improvement feedback.</li>
+<li>Develop and support an AWS internal community of AI related subject matter experts in the AMERICAS.</li>
+</ul>
+</div>
+<br>
+<div>Professional experience architecting/operating solutions built on AWS<br>
+<ul>
+<li>Experience communicating effectively across internal and external organizations, for complex mission-critical solutions</li>
+<li>Experience with predictive analytics, semi- and unstructured data</li>
+<li>Experience deploying production-grade machine learning solutions on public cloud platforms</li>
+<li>Data science background and experience manipulating/transforming data, model selection, model training, cross-validation and deployment at scale.</li>
+<li>Experience with Machine and Deep Learning toolkits such as MXNet, TensorFlow, Caffe and Torch.</li>
+</ul>
+<br>
+<ul><li>Experience with AWS services related to AI/ML highly desirable, particularly Amazon EMR, AWS Lambda, Machine Learning, IoT, Amazon DynamoDB, Amazon S3, Amazon EC2 Container Service, Greengrass etc.</li></ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation / Age.<br>
+<br>
+San Francisco Fair Act: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</div>
+</div>

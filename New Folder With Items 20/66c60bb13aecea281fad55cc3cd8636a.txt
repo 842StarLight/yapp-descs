@@ -1,0 +1,41 @@
+<h2>Data Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About JLL
+<br><br>
+We’re JLL. We’re a professional services and investment management firm specializing in real estate. As a Fortune 500 company, we help real estate owners, occupiers and investors achieve their business ambitions. We have nearly 300 corporate offices across 80 countries, with a team of more than 86,000 individuals. If you’re looking to step up your career, JLL is the perfect professional home. With us, you’ll have a chance to innovate with the world’s leading businesses, put that expertise into action on landmark projects, and work on game-changing real estate initiatives. You’ll also make long-lasting professional connections and be inspired by the best. We’re focused on opportunity and want to help you make the most of yours. Achieve your ambitions—join us at JLL!
+<br><br>
+What this job involves
+<br><br>
+We are looking for a Data Engineer who is self-starter to work in a diverse and fast-paced environment that can join our Enterprise Data team. This is an individual contributor role that is responsible for architecting, designing and developing of data solutions that are strategic for the business and built on the latest technologies and patterns. This a global role that requires partnering with the broader JLL Technology, Data, and Information Management (TDIM) team at the country, regional and global level by utilizing in-depth knowledge of data, infrastructure, technologies and data engineering experience.
+<br><br>
+<ul>
+<li>Contributes to the design of information infrastructure, and data management processes to move the organization to a more sophisticated, agile and robust target state data architecture</li>
+<li>Develop systems that ingest, cleanse and normalize diverse datasets, develop data pipelines from various internal and external sources and build structure for previously unstructured data</li>
+<li>Interfaces with internal colleagues and external professionals to determine requirements, anticipate future needs, and identify areas of opportunity to drive data development</li>
+<li>Develop good understanding of how data will flow &amp; stored through an organization across multiple applications such as CRM, Broker &amp; Sales, Finance, HR, MDM, ODS, Data Lake, &amp; EDW</li>
+<li>Develop data solutions that enable non-technical staff to make data-driven decisions</li>
+<li>Design &amp; develop data management and data persistence solutions for application use cases leveraging relational, non-relational databases and enhancing our data processing capabilities</li>
+<li>Develop POCs to influence platform architects, product managers and software engineers to validate solution proposals and migrate</li>
+<li>Architect and develop data lake solution to store structured and unstructured data from internal and external sources and provide technical guidance to help migrate colleagues to modern technology platform</li>
+</ul>
+<b>Sound like you? To apply you need to be:</b><br>
+<ul>
+<li>Bachelor’s degree in Information Science, Computer Science, Mathematics, Statistics or a quantitative discipline in science, business, or social science.</li>
+<li>Hands-on engineering lead who is curious about technology, should be able to quickly adopt to change and one who understands the technologies supporting areas such as Cloud Computing (AWS, Azure(preferred), etc.), Micro Services, Streaming Technologies, Network, Security, etc.</li>
+<li>3 to 5 years of experience as a data developer using Python-spark, Kafka, Spark Streaming, Azure SQL Server, Cosmos DB/Mongo DB, Azure Event Hubs, Azure Data Lake Storage, Azure Search etc.</li>
+<li>Hands-on Experience for building Data Pipelines in Cloud and well versed with CICD and DevOps process.</li>
+<li>Design &amp; develop data management and data persistence solutions for application use cases leveraging relational, non-relational databases and enhancing our data processing capabilities.</li>
+<li>Experience handling un-structured data, working in a data lake environment, leveraging data streaming and developing data pipelines driven by events/queues</li>
+<li>Experience building and maintaining a data warehouse/ data lake in a production environment with efficient ETL design, implementation, and maintenance</li>
+<li>Team player, Reliable, self-motivated, and self-disciplined individual capable of executing on multiple projects simultaneously within a fast-paced environment working with cross functional teams</li>
+</ul>
+What you can expect from us
+<br><br>
+We’re an entrepreneurial, inclusive culture. We succeed together—across the desk and around the globe. We believe the best inspire the best, so we invest in supporting each other, learning together and celebrating our success.
+<br>Our Total Rewards program reflects our commitment to helping you achieve your ambitions in career, recognition, well-being, benefits and pay. We’ll offer you a competitive salary and benefits package.
+<br>With us, you’ll develop your strengths and enjoy a career full of varied experiences. We can’t wait to see where your ambitions take you at JLL.
+<br><br>
+Apply today!
+<br><br>
+Apply quoting reference [REQ74412] at jll.com/careers.
+<br><br>
+#LI #dibot</div>

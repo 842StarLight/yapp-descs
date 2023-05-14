@@ -1,0 +1,34 @@
+<h2>Full Stack Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Yesware is seeking a Full Stack Software Engineer to join our talented development team. We have created a feature-rich backend architecture and data platform along with apps for Gmail, Outlook, and the web. Together these provide the leading prescriptive sales platform, which serves over 100K sales professionals worldwide.
+<br><br>
+We value the insights and creativity of our engineers. You'll work side-by-side with product owners to create high-quality products at a fast pace. Our culture fosters innovation and excellence in engineering practices. Developers are responsible for the quality of what they produce, as well as putting that code into production and keeping it healthy. We have an internal open-source model in which you'll learn and extend the rest of our technology stack to realize the features you're working on.
+<br><br>
+Because you will be tasked with delivering maintainable, well-documented software, and because some of your teammates may be remote, we highly value written communication skills at Yesware. As such, we require all engineering applicants to please provide a cover letter in their application. We look forward to hearing from you!
+<br><br>
+<b>Requirements:</b><br>
+<ul>
+<li>Industry experience in software development. (Minimum of 1 year, additional experience highly valued.)</li>
+<li>Full-stack engineering experience in a Ruby/Rails environment or similar.</li>
+<li>Experience implementing front ends using technologies such as HTML, CSS, JavaScript, jQuery, D3 and/or Angular.</li>
+<li>Evidence of exposure to architectural patterns of a large, high-scale web application (e.g., well-designed APIs, high volume data pipelines, efficient algorithms).</li>
+<li>Excellent software development habits: object-oriented design, unit testing, integration testing, data structures, etc.</li>
+<li>A hands-on attitude and a willingness to get things done.</li>
+<li>Excellent oral and written communication skills.</li>
+<li>Emotional maturity and adaptability.</li>
+</ul>
+<b>Nice to Haves:</b><br>
+<ul>
+<li>Experience developing email tools.</li>
+<li>Experience developing SaaS offerings.</li>
+<li>A desire to learn the other tools in our stack.</li>
+</ul>
+<b>About the Company:</b><br>
+Yesware is a team of smart, ambitious, kind people working together to empower each other and our customers. We build, market, and sell a one-of-a-kind sales platform that helps salespeople sell smarter, right from their inbox.
+<br><br>
+You can find us on the top floor of our building, conveniently located in downtown Boston. We offer competitive compensation comprised of salary, equity and bonuses. We also offer a growing list of benefits: health, dental, 401(k), life insurance, unlimited vacation days, flexible spending account, as well as gym and public transportation reimbursement. Additional perks include weekly yoga and meditation classes, a fully stocked kitchen, free daily catered lunch, and a ride home with Lyft when you need it.
+<br><br>
+We are proud to be venture-backed by investors including the Foundry Group, Battery Ventures, and Google Ventures. Our customers range from young startups of all sizes, to some of the biggest names in business, like Yelp, Acquia, Groupon, Zendesk, and many more. We live out our core values everyday in a mission to serve our customers and to make Yesware the best place we’ve ever worked.
+<br><br>
+Yesware is committed to developing a culture that embraces diversity and fosters inclusivity. We do this because it makes us stronger as individuals, as a business and it is simply the right thing to do. We know that diversity comes in many forms, so we welcome employees from all walks of life to bring their differing experiences and perspectives to Yesware. Together, we can build an environment where every member of our team can bring their authentic self to work, be heard, and work toward achieving their professional potential.
+<br><br>
+Read more about us at www.yesware.com/company [http://www.yesware.com/company]</div>

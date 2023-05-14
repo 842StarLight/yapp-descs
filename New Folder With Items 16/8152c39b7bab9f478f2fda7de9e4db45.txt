@@ -1,0 +1,152 @@
+<h2>Integration Engineer - Apple</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>As a rapidly growing global provider of IT solutions, we’ve expanded from Seattle to Sydney and beyond – with reach in over 80 countries around the world. Today’s top brands count on Zones and our world-class partners – Microsoft, Apple, Cisco, Dell, Lenovo, and more – to transform their enterprises. To support this transformation, Zones offers products and services across four Solution Environments: Workplace Modernization, Network Optimization, Data Center Transformation, and Security Fortification.<br>
+<br>
+<br>
+<p></p>The Apple Integration Engineer will be responsible for developing and documenting key processes focused on Apple macOS/iOS product deployment. Communicate with key personnel in implementation and deployment of Apple product deployments. Provide direction, feedback, and Quality Control to assigned technicians during macOS/iOS deployments, and maintain up to date knowledge on key Apple product enhancements and changes.<br>
+<p><b>Key Responsibilities</b></p>
+<p>
+The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p>
+<p>
+The <b><i>Integration Engineer</i></b>is primarily responsible for:</p>
+<ul>
+<li>
+Develop and document essential Apple macOS/iOS deployment processes.</li>
+<ul>
+<li>
+Review current macOS and iOS tools available to Zones.</li>
+<li>
+Review current processes (both documented and undocumented)</li>
+<li>
+Review industry best practices (including Apple provided documentation)</li>
+<li>
+Update and enhance Zones Deployment processes based on best practices.</li>
+</ul>
+<li>
+Engage in meetings with key personal in preparation for Apple product deployments.</li>
+<ul>
+<li>
+Actively participate in the Zones team in support of Apple deployments.</li>
+<li>
+Review submitted and approved Apple Statements of Work and identify skill sets necessary and voice any concerns to Integration Management.</li>
+<li>
+Lead Pre-Engagement calls with customers to ensure project scope is defined with customer leading to a successful deployment.</li>
+<li>
+Provide daily status of engagements to Project Manager to ensure timely reporting back to Apple.</li>
+</ul>
+<li>
+Develop project specific documentation to support deployments.</li>
+<ul>
+<li>
+Review supplied Statements of Work to determine the scope of the project.</li>
+<li>
+Utilizing the following sources, develop process documentation specific to project:</li>
+<ul>
+<li>
+Original Statement of Work</li>
+<li>
+Apple supplied Best Practices</li>
+<li>
+Zones standard deployment processes</li>
+<li>
+Test deployments and customer feedback.</li>
+</ul>
+</ul>
+<li>
+Lead on site service delivery teams as needed</li>
+<ul>
+<li>
+Act as main point of contact for all customer-facing deployments</li>
+<li>
+Train field technicians as needed</li>
+<li>
+Provide daily progress reports to service delivery manager and project manager</li>
+</ul>
+<li>
+Provide training, guidance, feedback, and Quality Control during Apple Engagement</li>
+<ul>
+<li>
+Train technicians on basic deployment processes</li>
+<li>
+Provide engagement-specific documentation as necessary.</li>
+<li>
+Review technician process during deployments to ensure processes are being followed</li>
+<li>
+Provide primary QC process for deployments.</li>
+</ul>
+<li>
+Maintain high level Apple Certification and related product knowledge.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+We are seeking candidates with the following skills and experience:</b></p>
+<p><b>
+REQUIRED SKILLS:</b></p>
+<ul>
+<li>
+Strong attention to detail</li>
+<li>
+Prompt, motivated self-starter</li>
+<li>
+Strong interpersonal effectiveness and communication skills</li>
+<li>
+Easily adaptable</li>
+</ul>
+<ul>
+<li>
+Have good analytical and problem solving skills</li>
+<li>
+Have the ability to work quickly and accurately to maintain production requirements</li>
+<li>
+Have the ability to follow written and verbal instructions</li>
+<li>
+Strong writing skills; experience writing technical documentation</li>
+</ul>
+<ul>
+<li>
+Ability to lift 50 lbs.</li>
+<li>
+Candidates must possess the ability and willingness to travel, which will include working off-hours, weekends and staying overnight with prior notification, up to 75% during peak season.</li>
+</ul>
+<p><b>
+REQUIRED EXPERIENCE:</b></p>
+<ul><li>
+3 years of experience with deployment, configuration projects working with Apple products</li></ul>
+<ul>
+<li>
+Experience with current Apple macOS client and server</li>
+<li>
+Experience in deployment processes for macOS</li>
+<li>
+Experience with iOS setup and deployment including Apple Configurator</li>
+<li>
+Experience with Apple Deployment Programs (DEP, VPP, MDM)</li>
+<li>
+Experience with Caching Server</li>
+<li>
+Experience Automating repetitive tasks using Unix and Apple scripting tools</li>
+</ul>
+<ul><li>
+macOS Directory Integration, specifically Microsoft AD</li></ul>
+<p><b>
+EDUCATION/CERTIFICATION:
+</b></p>
+<ul><li>High School diploma or equivalent. Associate’s Degree preferred</li></ul>
+<ul>
+<li>
+Apple ACSP (Apple Certified Support Professional) certification required for most current macOS version (or equivalent experience and certification within 3 months of hire)</li>
+<li>
+JAMF CCA or higher desirable</li>
+<li>
+Valid Driver’s license, clean driving record.</li>
+<li>
+Must pass CA DOJ/FBI fingerprint background check</li>
+</ul>
+<br>
+<p></p>
+<b>
+Zones offers a comprehensive Benefits package</b><br>
+<br>
+While we’re committed to providing top-tier solutions, we’re just as committed to supporting our own team. Our employees enjoy a variety of comprehensive benefits, including medical/dental/vision coverage, life insurance, a 401(k) plan with matching provision, paid time off, and much more. And as a Minority Business Enterprise, a Corporate Plus member of the Northwest Minority Supplier Development Council, and an Equal Employment Opportunity Employer, our community is just as diverse.<br>
+<br>
+At Zones, work is more than a job – it's an exciting career immersed in an inventive, collaborative culture. If you’re interested in working on the cutting edge of IT innovation, sales, engineering, operations, administration, and more, Zones is the place for you!</div></div>

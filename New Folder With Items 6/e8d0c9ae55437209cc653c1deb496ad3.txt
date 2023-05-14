@@ -1,0 +1,47 @@
+<h2>Navitaire-Full Stack Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Navitaire, a wholly owned Amadeus Company, delivers industry-leading technology services supporting growth, profitability and innovation to airlines and rail clients worldwide, including many of the world’s most successful airlines. Navitaire offers a full suite of proven solutions focused on revenue generation and streamlining costs in the areas of reservations, ancillary sales, loyalty, revenue management, revenue accounting and business intelligence. Each day, more than 500 employees based in five global offices develop, support and operate Navitaire solutions to help our clients continue to move the travel industry forward.<br>
+</b></p>
+<p><br>
+<b>Summary of the role<br>
+</b></p>
+<p></p>
+<p>As part of the database development team, this position provides data warehouse, reporting and custom data integration solutions to travel industry customers. The objective of this team is to provide insightful metrics and business actionable data to operations departments and customer leadership. This position works closely with customers to understand their business needs and bring the data they need together from a variety of sources.<br>
+</p>
+<p><br>
+<b>Main responsibilities<br>
+</b></p>
+<p></p>
+<p>Work with multi-functional teams to design and develop reporting and data integration software solutions.
+<br>
+Participate on a development of standardized database and data service layer solutions; web front-end data visuals, dashboards, and reports; and/or backend .NET services
+<br>
+Collaborate with developers from other teams to understand how to translate functionality into external customer requirements.
+<br>
+Learn and grow in an exciting versatile development environment that provides opportunities to try new technologies and development languages without having to leave the team.
+<br>
+Work directly with customers to provide custom data delivery solutions and reports.<br>
+</p>
+<p></p>
+<p><b>Requirements<br>
+</b></p>
+<p></p>
+<ul><li>BS in Computer Science or equivalent 4 year degree
+</li></ul>
+<ul>
+<li>Related work experience (including internships)
+</li>
+<li>6 months development experience (including internships or schooling)
+</li>
+<li>Object-oriented programming, web development (HTML, CSS3, jQuery, Bootstrap, etc.), database development (SQL Server preferred), Sql Server Reporting Services
+</li>
+<li>Knowledge of travel industry is a plus
+</li>
+</ul>
+<ul><li>Preferred knowledge of .NET web services, data integration services, data analysis services / business intelligence, AGILE methodology<br>
+</li></ul>
+<p></p>
+<br>
+<br>
+<p><i>The posting of vacancies and the treatment of applications are, in each Amadeus location, subject to national law and possible collective agreements with local staff representation. Internal Mobility policies vary from office to office, please check with your local HR representative the requirements and policy in place. E.g. a minimum time on position or Line Manager approval may be requested.</i></p>
+</div></div>

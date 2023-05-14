@@ -1,0 +1,37 @@
+<h2>Business Application Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<div><ul>
+<li>Oversees new system development and application enhancements that meet the business needs, while following formal software development and project management methodologies</li>
+<li>
+Manages production support and development projects for assigned business applications, and is responsible for overall metrics around service delivery</li>
+<li>
+Partners with Line of Business managers and Project Managers to identify ways to enable business plans through the use of information technology</li>
+<li>
+Manages technical staff by providing ongoing direction, coaching, feedback, and review of career development plans</li>
+<li>
+Develops and tracks project and support budgets and resource allocation plans.</li>
+</ul></div>
+</div>
+<div>
+<p><b>Qualifications</b></p>
+<div><ul>
+<li>Bachelor’s Degree in Computer Science / Information Systems, Engineering, Business Administration, Accounting, Finance, or related fields</li>
+<li>
+10 years experience in Information Technology management, including 3+ years of application development leadership as a Technical Lead or equivalent management experience</li>
+<li>
+Multi-platform, large scale systems experience with distributed technologies. Guidewire experience preferred</li>
+<li>
+Proven staff management skills, including the hiring and performance management</li>
+<li>
+Demonstrated collaborative and inclusive management style</li>
+<li>
+Project Management experience utilizing standard PM and Agile methodologies</li>
+<li>
+Proven experience managing capital and operating expense budgets</li>
+</ul></div>
+</div>
+</div>
+<div></div>
+</div>

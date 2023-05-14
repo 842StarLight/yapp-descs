@@ -1,0 +1,36 @@
+<h2>Senior Software Engineer - Android</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">We are a rapidly growing company that's revolutionizing the way the restaurant industry does business by pairing technology with an extraordinary commitment to customer success. We help restaurants streamline operations, increase revenue, and deliver amazing guest experiences through our platform that combines restaurant point of sale, guest-facing technology, and award-winning customer support. As a Toaster, you will be challenged to take on meaningful projects that will help craft the future of the company. Join us as we empower the restaurant community to delight guests, do what they love, and thrive.
+<br><br>
+The Payments teams at Toast operate one of the most critical portions of the Toast infrastructure: accepting payments from guests at restaurants. Payment processing is a key source of Toast's revenue and also the lifeblood of our customers; we process multiple millions of dollars in transactions per day. Our goal is to stay on the cutting edge of consumer payment options and give the restaurant staff and guests a fast and seamless payment experience. We are looking for an experienced Android engineer to lead the team to our next level of growth.
+<br><br>
+<b>Some of our major recent projects include:</b><br>
+<ul>
+<li>Adding support for EMV with different card readers to our Android-based point-of-sale system</li>
+<li>Enabling our app to display both on guest facing and staff facing displays</li>
+<li>Improving the overall quality of our codebase through adopting model-view-presenter and Kotlin</li>
+</ul>
+<b>As a Staff Engineer on the payments acceptance team, you will:</b>
+<br><br>
+<ul>
+<li>Write code that is used for processing hundreds of thousands of payments per day, interfacing with multiple hardware reader platforms</li>
+<li>Work closely with other teams to ensure seamless integration with our point-of-sale and backend</li>
+<li>Participate in code reviews to ensure implementations meet functional requirements</li>
+<li>Provide technical leadership and guidance to the team on how to build systems that solve current needs while being flexible to future changes</li>
+<li>Guide the growth of two to four engineers, including mentoring, career development, and performance management</li>
+</ul>
+Do you have the right ingredients?
+<br><br>
+<ul>
+<li>Respectful, empathetic, and humble</li>
+<li>Comfort working on systems that are critical to customer success</li>
+<li>Can communicate clearly up, down and across teams,</li>
+<li>Enjoyment in devising technical solutions to solve complex business problems</li>
+<li>Sharing industry advancements trends and future directions to contribute to the knowledge base of the team</li>
+<li>Ability to quickly hop into a new codebase and find your way around</li>
+<li>Interest in balancing getting things done with making things perfect</li>
+<li>Pride in mentoring other developers</li>
+<li>Like getting involved in deciding what gets built to solve for the customer and the company.</li>
+</ul>
+Our Tech Stack
+<br><br>
+Toast's products run on a stack that ranges from guest and restaurant-facing Android tablets to backend services in Java to internal, guest-facing and restaurant-facing web apps. Our backend services follow a microservice architecture written using Java 8 and DropWizard; we use AWS extensively, ranging from S3 to RDS to Lambda. We have our own platform for dealing with user management, service elevations and robust load balancing. Toast stores data in a set of sharded Postgres databases and utilizes Apache Spark for large scale data workloads including query and batch processing. The front-end is built primarily using Angular and ES6. The main Toast POS application is an Android application written in Java and Kotlin. For data between tablets and our cloud platform we operate RabbitMQ clusters as well as direct tablet communication to the back end.</div>

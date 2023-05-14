@@ -1,0 +1,64 @@
+<h2>Salesforce Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<h2 class="jobSectionHeader"><b>About the team</b></h2>
+Our revenue support teams are focused on delivering best-in-class solutions using Salesforce and other technologies to support our sales teams. We currently have 3 teams of Salesforce admins and developers that drive innovation and creative problem solving for our sales teams. We foster a learning environment and push each other to be the best at what we do.<br>
+<br>
+We believe in autonomy – Our Core Values include “Own it.” and “Move Fast. Think Big.”<p></p>
+<h2 class="jobSectionHeader"><b>
+About the role</b></h2>
+<p>
+Zillow is looking for an experienced Salesforce Architect to join our team. This is a hands-on role where you will be required to write code for both classic and lightning development frameworks. As a Salesforce Architect, you should be a champion for solid system architecture and best practices. You should have a working knowledge of all the various Salesforce objects and how they interact for an efficient sales process. You should also know when to use out-of-the-box Salesforce offerings and when to use custom code.</p>
+<ul>
+<li>
+You have experience architecting and developing complex technical solutions on the Salesforce platform using VisualForce, Apex and Javascript.</li>
+<li>
+You have a deep understanding of Salesforce architecture in terms of the data model, integration and design patterns.</li>
+<li>
+You have experience writing scalable, reusable code with well-written unit tests.</li>
+<li>
+You’re comfortable working with external systems and building integrations with Salesforce.</li>
+<li>
+Collaborate with sales teams, software engineers and data engineers through the entire software development process to deliver tools and features</li>
+<li>
+You have experience with large-scale system refactoring and data migrations.</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+Who you are</b></h2>
+<ul>
+<li>
+7-10 years of experience developing in Salesforce.</li>
+<li>
+Prior experience with Lightning implementations and building Lightning components.</li>
+<li>
+Salesforce Architect certification or can get your certification.</li>
+<li>
+AWS experience a plus.</li>
+<li>
+Hands-on development experience with Apex, VisualForce and Lightning components</li>
+<li>
+2+ years’ experience leading a development team.</li>
+<li>
+Comprehensive understanding of Salesforce.com architecture and the various APIs.</li>
+<li>
+You have strong JavaScript skills and are comfortable working in modern front-end frameworks, such as React/Redux.</li>
+<li>
+Experience working in other programming languages, such as Python, Java, GoLang, etc.</li>
+<li>
+Comfortable working in an RDBMS</li>
+<li>
+Bachelor’s degree in Computer Science/related field OR equivalent experience</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+Get to know us</b></h2>
+Zillow Group houses the largest portfolio of real estate brands on mobile and the web. We are on a mission to rewire the real estate transaction and are building transformational tools and services that make it easier for everyone to find and get into a home they love. We are working to create an on-demand real estate transaction experience for every stage of the home lifecycle - for buyers, sellers, renters and borrowers - and we're well on our way. No matter what job you're in, you will play a critical role in making this vision a reality for millions of people.<p></p>
+<p>
+At Zillow Group, we're powered by our inclusive work culture, where everyone has the support and resources to do the best work of their careers. Our efforts to streamline the real estate transaction is supported by our passion to empower people and enrich lives around everything home, a deep-rooted culture of innovation, a fundamental commitment to Equity and Belonging, and world-class benefits. But, don't just take our word for it. Read our reviews on Glassdoor and recent recognition from multiple organizations, including: Fortune 100 Best Companies to Work For (#69), Fortune Best Workplaces for Diversity (#38), Fortune Best Workplaces for Parents (#31), Fortune Best Workplaces for Women (#20), Fatherly's Best Workplaces for New Dads (#37), JUST Capital 100 Company (#69), Bloomberg Gender Equality Index constituent.</p>
+<p></p>
+<p><i>
+Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. Therefore, we provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know.</i></p>
+</div>
+</div>

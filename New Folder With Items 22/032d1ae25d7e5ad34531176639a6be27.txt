@@ -1,0 +1,110 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div>
+<div>
+<div>
+<div>Are you looking for a company that cares about people’s lives and health, including yours? At Olympus, we help make people’s lives healthier, safer and more fulfilling, every day. We’re currently looking for a Senior Software Engineer to join us in our Waltham, MA office.<br>
+<br>
+<b>Let’s inspire healthier lives, together.</b><br>
+<br>
+The Senior Software Engineer performs Software/Firmware development for new NPI (New Product Introduction) projects, and perform hardware/firmware integration, testing, and debugging. NPI projects will utilize 80% of work load; the remaining work effort will be in software support of related products. He/ She collaborates with other departments including Operations, Product Management, Customer Support, and Sales, in providing quick, robust system solutions. The incumbent works with a dynamic team of systems, software, electrical, and mechanical engineers to improve existing and creating new NDT products.</div>
+</div>
+<div>
+<p><b>Job Duties:</b></p>
+<div>In a typical day, you will:<br>
+<br>
+<ul><li>Design software for embedded systems, coding, unit testing and system integration on problems of diverse scope requiring judgment and creativity.</li></ul>
+<br>
+<ul><li>Work collaboratively in a team environment.</li></ul>
+<br>
+<ul><li>Mentor junior employees or interns.</li></ul>
+<br>
+<ul><li>Perform Design documentation and communication. Adheres to schedules and timelines.</li></ul>
+<br>
+<ul><li>Perform software/hardware system integration using debuggers, oscilloscopes, etc.</li></ul>
+<br>
+<ul><li>Make judgements/suggestions on hardware schematic reviews.</li></ul>
+<br>
+<ul><li>Develop and execute test plans.</li></ul>
+<br>
+<ul><li>Perform other duties as assigned.</li></ul>
+</div>
+</div>
+<div>
+<p><b>Job Requirements:</b></p>
+<div>
+<b>REQUIRED QUALIFICATIONS:</b><br>
+<br>
+<ul><li>Bachelor’s degree in Engineering required (EE/CE preferred).</li></ul>
+<br>
+<ul><li>Minimum 5 years of work experience with C/C++ coding required, or an Master’s Degree in Computer Engineering and a minimum 4 years of experience, or a PhD and a minimum 2 years of experience.</li></ul>
+<br>
+<ul><li>Strong knowledge of embedded development tools required.</li></ul>
+<br>
+<ul><li>GUI development experience using off-the-shelve GUI components. (e.g., QT, PEG, Prisum, ZINC etc) required.</li></ul>
+<br>
+<ul><li>Working knowledge of source control usage (local and distributed) and software development best practices required.</li></ul>
+<br>
+<b>
+PREFERRED QUALIFICATIONS:</b><br>
+<br>
+<ul><li>Working knowledge with OS/micro-OS and multi-threaded application development desired.</li></ul>
+<br>
+<ul><li>Development experience using Embedded Linux/ UC Linux (TimeSys Linux) a plus.</li></ul>
+<br>
+<ul><li>Software development for Analytical instrumentation, hand-held electronic devices, or gaming a plus.</li></ul>
+<br>
+<ul><li>Working knowledge of digital hardware a plus.</li></ul>
+<br>
+<ul><li>Working knowledge of peripheral driver development experience a plus.</li></ul>
+<br>
+<ul><li>Working experience with Texas Instruments TMS320C6748 DSP processor a plus.</li></ul>
+<br>
+<ul><li>Working experience with Freescale iMX a plus.</li></ul>
+<br>
+<ul><li>Ability to work well individually and as a member of a team.</li></ul>
+<br>
+<ul><li>Strong attention to detail.</li></ul>
+<br>
+<b>
+We realize work isn’t just a job to you.</b><br>
+<br>
+It’s a big part of your life, but not the only part. That’s why we offer competitive salaries, a robust 401(k) program, annual bonus program and comprehensive medical benefits, as well as tuition reimbursement, flexible schedules, parental and adoption leave, on-site services and Colleague Affinity Networks — so you can be ready for where life can take you.<br>
+</div>
+</div>
+<div>
+<p><b>Work Location</b></p>
+<div>Waltham OSST
+</div>
+</div>
+<div>
+<p><b>Job Family</b></p>
+<div>Research &amp; Development
+</div>
+</div>
+<div>
+<p><b>Auto req ID</b></p>
+<div>5269BR</div>
+</div>
+<div>
+<p><b>Company URL</b></p>
+<div>Olympus Scientific Solutions Americas Corp
+</div>
+</div>
+<div>
+<p><b>About Us</b></p>
+<div>
+<p>At Olympus, we put a lot of good back into the world, and what we do really matters. We are committed to making people’s lives healthier, safer and more fulfilling every day by crafting innovative optical and digital solutions in medical technologies, microscopy, industrial solutions, cameras, and audio recorders.</p>
+<p>
+We view our relationship with and commitment to our employees with the same passion. Everything we do at Olympus is a reflection of our vision, and everyone here helps to make it a reality. We’re invested in our employees, great ideas, and how they impact the communities around us. We see the world through multiple lenses and come together to find the right answers; the best solutions.
+</p>
+<p><b>THAT’S OLYMPUS.</b><br>
+<b>TRUE TO YOU. TRUE TO SOCIETY. TRUE TO LIFE.</b></p>
+<p>
+Olympus Scientific Solutions Americas Corp
+</p>
+<p>Olympus embraces diversity and inclusion. As an Equal Opportunity Employer, our policies as well as our values prohibit unlawful discrimination based on an employee's or applicant's race, color, sex, age, physical or mental disability, national origin, religion, sexual orientation, gender identity and/or expression, marital status, genetic information, ancestry, military or veteran status, or any other federal, state or local protected classification. EOE Minorities/Females/Veterans/Disabled</p>
+</div>
+</div>
+</div>
+<div>Senior Software Engineer | Olympus</div>
+</div></div></div>

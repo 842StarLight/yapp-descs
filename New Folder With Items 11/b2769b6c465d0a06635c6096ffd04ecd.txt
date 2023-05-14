@@ -1,0 +1,80 @@
+<h2>Pre-Sales Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader">
+<b>New Relic</b><br>
+<b>Pre-Sales Solutions Architect</b><br>
+<b>Austin, Texas</b><br>
+<b>Chicago, Illinois</b><br>
+<b>Dallas, Texas</b><br>
+<b>Houston, Texas</b><br>
+<br>
+<b>Your Opportunity</b>
+</h2>
+<p>
+If you have a passion for enterprise performance architecture and the leadership to drive impactful solutions to our very strategic customers, then you have found the right role for you!</p>
+<p>
+You will be an integral part of the Customer Solutions Group (CSG) organization and act as the technical leader when engaging top accounts. Acting as the trusted advisor to our most strategic customers, you will partner closely with Ente Account Executives on our team throughout the sales cycle and perform deep enterprise-wide discovery to diagnose customer issues and develop an understanding of their current environment. You will use your Enterprise Architecture skills to articulate a roadmap, solution, and to-be architecture. By collaborating with Business Architects, Enterprise Architects and C-level partners, you will effectively communicate New Relic’s value proposition and business outcomes.</p>
+<p>
+Critically, your technical contributions and feedback from the field into Product Marketing, Product Management, Office of the CTO, and other key partners will enable the continuous improvement of New Relic products and continuous innovation of the company. You will champion New Relic’s strategic direction and vision, as well as promote and advocate new product direction on behalf of your customers.</p>
+<p>
+Opportunity to work from a remote office may be available depending on applicant location.</p>
+<h2 class="jobSectionHeader"><b>
+What You’ll Do</b></h2>
+<ul>
+<li>
+Design the next-gen Monitoring Solution for large and complex customers undergoing significant changes in their organizations.</li>
+<li>
+Team lead for a mixed group of technical specialists as part of large-scale product evaluations.</li>
+<li>
+Ensure the success of significant deployments like Cloud Migrations and Digital Transformations for major corporations through effective Monitoring.</li>
+<li>
+Deep Domain Expert that the Sales team will rely upon for key situations.</li>
+<li>
+Collaborate with Product Management on the roadmap and deliver customized roadmap presentations to our top customers.</li>
+<li>
+Drive critical issues (when necessary) to get top customers the white glove treatment response if they run into problems.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Your Qualifications</b></h2>
+<ul>
+<li>
+5 years+ of pre-sales experience with the high tech industry or product management</li>
+<li>
+Maintain a deep understanding of the customer’s business as well as their technical environment</li>
+<li>
+Knowledge in the monitoring space (APM, Digital Experience, Tracing, AIOps, Infrastructure, Logging)</li>
+<li>
+Technical Skills (some of these): (1) APM languages: Java, .NET, NodeJS, Python, Ruby, PHP or Golang; (2) End-user technologies: iOS, Android, JavaScript, HTML5, video players; (3) Cloud technologies: AWS, Azure, GCP, Cloud Foundry, Docker / Kubernetes</li>
+<li>
+Excellent organizational and project management skills</li>
+<li>
+Excellent communication, critical thinking &amp; analytical skills</li>
+<li>
+Bachelor’s degree in Engineering/Computer Science or equivalent</li>
+</ul>
+<p>
+Please note visa sponsorship is not available for this position.</p>
+<h2 class="jobSectionHeader"><b>
+About Us</b></h2>
+<p>
+New Relic (NYSE: NEWR) is the industry’s largest and most comprehensive cloud-based instrumentation platform built to create more perfect software. The world’s best software and DevOps teams rely on New Relic to move faster, make better decisions and create best-in-class digital experiences. If you run software, you need to run New Relic. We’re proudly trusted by more than 50% of the Fortune 100.</p>
+<p>
+Founded in 2008, we’re a global company focused on building a culture where all employees feel a deep sense of belonging, where every ‘Relic’ can bring their whole self to work and feel supported and empowered to thrive. We’re consistently recognized as a distinguished employer and are committed to building world-class products and an award winning culture. For more information, visit newrelic.com.</p>
+<h2 class="jobSectionHeader"><b>
+Our Hiring Process</b></h2>
+<p>
+In compliance with applicable law, all persons hired will be required to verify identity and eligibility to work and to complete employment eligibility verification. Note: Our stewardship of the data of thousands of customers’ means that a criminal background check is required to join New Relic.</p>
+<p>
+We will consider qualified applicants with arrest and conviction records based on individual circumstances and in accordance with applicable law including, but not limited to, the San Francisco Fair Chance Ordinance.</p>
+<p>
+Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. New Relic does not accept unsolicited headhunter and agency resumes, and will not pay fees to any third-party agency or company that does not have a signed agreement with New Relic.</p>
+<div>
+<i>
+New Relic is an equal opportunity employer. We eagerly seek applicants of diverse background and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities (or disability), age, sexual orientation, veteran status, or any other characteristic protected by law.</i><br>
+<br>
+</div>
+<div>
+<i>Interested in the details of our privacy policy? Read more here: </i><i>https://newrelic.com/termsandconditions/applicant-privacy-policy</i><br>
+<br>
+#LI- CB1</div>
+</div></div>

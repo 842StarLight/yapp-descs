@@ -1,0 +1,94 @@
+<h2>ETL/Database Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Overview</b></p>
+<p>This salaried position reports to the IT Applications Manager. This position is responsible for overseeing all aspects of databases and integrations for IT applications related to installations, upgrades, development, maintenance and changes. This includes managing the data warehousing strategy and systems.</p>
+<br>
+<p></p>
+<p>Excellent communication, a strong technical background in database maintenance/architecture and integration best practices are required.</p>
+<br>
+<p></p>
+<p><b>Areas of Responsibility and Expectations</b></p>
+<br>
+<p></p>
+<p><b>Database Administration:</b></p>
+<ul><li> Administering databases for the company (primarily SQL) across various applications</li></ul>
+<ul><li> Coordinate with infrastructure and support teams to ensure appropriate backups and redundancies are in place for application delivery and disaster recovery</li></ul>
+<ul><li> Set up and development of new databases as required</li></ul>
+<ul><li> Liaise with vendors to ensure database platforms are current, licenses are documented and maintained and any relevant updates are applied efficiently and effectively</li></ul>
+<ul><li> Evaluate databases and performance continuously, recommend changes as appropriate and coordinate the installation of approved changes per change management policy</li></ul>
+<p></p>
+<p><b>ETL Development:</b></p>
+<ul><li> Execute ETL performance tuning and data integration maintenance</li></ul>
+<ul><li> Manage stating area implementation and data mapping targets</li></ul>
+<ul><li> Handle job stream productions and ETL environment maintenance</li></ul>
+<ul><li> Lead enterprise data warehouse reporting development</li></ul>
+<p></p>
+<p><b>General Database and Business Support:</b></p>
+<p></p>
+<ul><li> Provide the company with top quality, consistently available database performance</li></ul>
+<ul><li> Maintain security and integrity of all business application data</li></ul>
+<ul><li> Help to create, maintain and enforce written policies and procedures regarding IT database and integration standards</li></ul>
+<ul><li> Periodically evaluate new solutions where needed and provide input for vendor selections</li></ul>
+<ul><li> Fulfill a central role in data warehousing strategy and implementation</li></ul>
+<ul><li> Participate in the ongoing refinement of database-related policies and oversee adherence to these within areas of purview</li></ul>
+<ul><li> Collaborate with IT support pod for operational handoff of new projects, support for changes and development of run books and other support tools</li></ul>
+<p></p>
+<p><b>Project Management:</b></p>
+<p></p>
+<ul><li> Participate in creation of project plans for those requiring database services</li></ul>
+<ul><li> Ability to work in a collaborative team environment following project plans and meeting milestone dates</li></ul>
+<ul><li> Follow IT Project Management and Release Management processes for implementations</li></ul>
+<br>
+<p></p>
+<p><b>Other:</b></p>
+<p></p>
+<ul><li> Other duties as assigned</li></ul>
+<br>
+<p></p>
+<p><b>Reporting and Working Relationships</b></p>
+<br>
+<p></p>
+<ul>
+<li>Reports directly to the IT Applications Manager.</li>
+<li>Works closely with various areas of the company as ‘customers’</li>
+<li>Periodically work with external customers, vendors and partners for data interchange/integration</li>
+<li>Provides support to all functional groups (EX: Production, Supply Chain, Sales and Marketing)</li>
+<br>
+</ul>
+<p></p>
+<p><b>Skills and Abilities Required</b></p>
+<p></p>
+<ul>
+<li>Experience with ERP systems and integrations, SQL database environments, Microsoft Dynamics AX and working with Business Intelligence tool experience preferred</li>
+<li>Excellent communication and organizational skills</li>
+<li>Must possess excellent time management skills</li>
+<li>Project Management</li>
+<li>Confidentiality</li>
+<li>Must be able to lift 20 lbs.</li>
+<li>Strong analytical and computer skills with emphasis on enterprise systems</li>
+<li>Demonstrated knowledge of database architecture creation and warehousing best practices</li>
+<li>Familiarity with security best practices related to databases and integration</li>
+<br>
+</ul>
+<p></p>
+<p><b>Education and Experience</b></p>
+<p></p>
+<ul><li> Bachelor’s Degree in Computer Science/related field or equivalent experience</li></ul>
+<ul><li> Background in hands-on software development required</li></ul>
+<ul><li> 5 years of experience in the IT database/integration field preferred</li></ul>
+<br>
+<p></p>
+<p><b>Days and Hours: or Expected Work Schedule</b></p>
+<p></p>
+<ul>
+<li>Monday – Friday- at least forty hours per week</li>
+<li>Additional hours and days (holidays, week-ends) as required</li>
+<li>Must have the ability to travel to other facilities or for training if required</li>
+<br>
+</ul>
+<p></p>
+<p><b>Wages and Benefits</b></p>
+<p></p>
+<ul><li> Salaried position</li></ul>
+<ul><li> 401 K, life insurance, disability pay, health insurance</li></ul>
+</div></div>

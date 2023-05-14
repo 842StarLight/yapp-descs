@@ -1,0 +1,105 @@
+<h2>Linux / AWS System Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Isos Technology is looking for an energetic and personable professional to join our team. The right candidate will be a team player who effectively builds relationships both inside and outside the organization. He/she is dedicated to meeting the expectations and requirements of our clients and the Isos team. This professional works directly with clients for the effective deployment of Isos Technology products and services. This individual is a self-starter who values team input and is willing to give input for the betterment of the team.</p>
+<p></p>
+<br>
+<p>
+Isos Technology is one of the largest Platinum/Enterprise Atlassian Solution Partners in the US. We are headquartered in Tempe, AZ but have offices across the US including Washington, D.C. We work with some of the largest companies in the world helping them to implement and maintain the Atlassian tools.<br>
+</p>
+<p></p>
+<p>
+In addition to being everything Atlassian we focus heavily on our people and creating a culture that is fun, challenging and rewarding. In fact, we are consistently on the Best Places to Work list and are always looking for ways to improve.</p>
+<p></p>
+<br>
+<p>
+This position can be from anywhere in the US, from our Tempe, AZ location to Washington D.C. or anywhere in between.</p>
+<br>
+<p><b>
+Technical Requirements:</b></p>
+<br>
+<p></p>
+<p><i>
+As an Linux / AWS System Adminstrator, you will function as the primary technical resource for Atlassian services engagements. You will have the following technical responsibilities:</i></p>
+<ul>
+<li>
+Support highly available installations of Atlassian Server and Data Center products from both the user interface and system administration. The products include, but are not limited to: Jira, Confluence, BitBucket, Bamboo and FishEye/Crucible and Crowd.</li>
+<li>
+Support existing application deployments, including upgrading and patching often via configuration management tools such as Ansible, Puppet, Chef, etc.</li>
+<li>
+Provide best practices and guidance in both on premise and Cloud-based environments. May include work with CloudFormation or Terraform.</li>
+<li>
+Maintain Atlassian tools in both Linux and Windows environments.</li>
+<li>
+Set-up, maintain and tune relational databases, including, but not limited to: PostgreSQL, MySQL, SQL Server and Oracle.</li>
+<li>
+Work with, configure and integrate with authentication / directory services like Active Directory (LDAP), Crowd, OAuth, Okta and SAML.</li>
+<li>
+Maintain and use version control systems like Git, Subversion and Mercurial.</li>
+<li>
+Write system administration scripts in Bash, PowerShell, Python or Ruby.</li>
+<li>
+Work with and understand complex networking topologies and concepts.</li>
+<li>
+Interpret, maintain and augment system and network monitoring system.</li>
+<li>
+Use automated security testing platforms in order to audit and securing web-based applications.</li>
+<li>
+Perform secondary support for end-user activities in the Atlassian tools, such as: create maintain workflows in Jira, author content in Confluence, create build plans in Bamboo, etc.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Technical Objectives:</b></h2>
+<p><i>As a Linux / AWS System Adminstrator you have the following objectives:</i></p>
+<ul>
+<li>
+Serve as Atlassian Tools Subject Matter Expert; advise clients on Atlassian, related technologies and Isos Atlassian Services best practices, guidelines and recommendations</li>
+<li>
+Isos Atlassian Platinum Partnership is dependent on having certified and accredited resources. You will acquire and maintain the required technical and sales certifications in your first calendar year of employment and every subsequent year thereafter.</li>
+<li>
+Acquire and maintain at least one non-Atlassian professional accreditation or certification in your first calendar year of employment and every subsequent year thereafter. The certification should be relevant to Isos objectives and may include certifications on technologies or methodologies such as: AWS, Certified Scrum Master, Linux, etc. Isos will sponsor the exams, training and study materials to reach this objective.</li>
+<li>
+Regularly contribute informative and engaging original content to be used in Isos Atlassian Support and Services marketing efforts in the form of white papers, blog posts and social media status updates</li>
+<li>
+Continue to build on Atlassian administration skills and technical skills to reach the same levels of competency as the Delivery team consultants</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Required Skills:</b></h2>
+<p><i>To function in the role of Linux / AWS System Adminstrator, Isos requires you already have the following demonstrable and verifiable skills:</i></p>
+<ul>
+<li>
+Ability to conduct yourself professionally and within Isos values</li>
+<li>
+Ability to effectively manage time and expectations with internal resources and clients</li>
+<li>
+Ability to manage multiple clients and issues simultaneously</li>
+<li>
+Ability to communicate effectively (both orally and in writing) for technical and business operations audiences</li>
+<li>
+Ability to function on a highly collaborative team of fellow engineers as well as front end application admins</li>
+<li>
+Minimum 2+ years experience and/or expert knowledge of working in a technical operational environment that involves:<ul>
+<li>
+Configuring and working with various deployment methodologies, including "bare-metal", VM and Cloud (e.g AWS)</li>
+<li>
+Configuring and scripting for various operating systems with a strong focus on Linux and/or Windows</li>
+<li>
+Experience with configuration management tools such as Ansible, Puppet, Chef, etc.</li>
+<li>
+Working with, configuring and integrating with authentication / directory services like Active Directory (LDAP), Crowd, OAuth, Okta and SAML</li>
+<li>
+Supporting and working with relational databases, with a strong focus on MySQL and PostgreSQL</li>
+<li>
+Third-party and custom application installation, configuration and/or support</li>
+<li>
+Preferred Skills:<p></p>
+<br>
+<ul>
+<li>
+Minimum 2+ years experience and/or expert knowledge of Atlassian Jira and Confluence<ul><li>
+A combination of advanced or end-user knowledge of all other supported Atlassian products</li></ul>
+</li>
+<li>
+Minimum 2+ years experience working in a consulting or customer service role</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div></div>

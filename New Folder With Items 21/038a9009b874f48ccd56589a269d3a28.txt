@@ -1,0 +1,52 @@
+<h2>Technical Account Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About the role
+<br><br>
+The Technical Account Manager (TAM) provides personalized, proactive support and guidance by providing solutions for customer environments, addressing customer technical escalations, investigating critical and complex customer issues and establishing action plans to drive issues to closure. TAM's ensure timely handling of customer concerns and issues by leveraging knowledge and experience to develop strategies which improve the overall quality of the customer experience.
+<br><br>
+On the operational front, the Technical Account Manager (TAM) studies the customer environment so they can provide informed guidance. They act as a technical liaison between the customer and the OneLogin support team and focus on delivering technical recommendations that are aligned with the customer's strategies and goals. The TAM also provides scheduled and ad-hoc reporting and analysis related to OneLogin technical support incident, problem and change performance trends.
+<br><br>
+The TAM oversees and coordinates open incidents through resolution and manages technical support issues on the customer's behalf. The TAM provides technical account support by working closely with the customer's internal staff who understand their implementation requirements, effectively becoming the customer's technical support expert The TAM also coordinates resources and subject matter experts to assist with issues and projects to ensure that all decisions are weighed against the potential impact to the business prior to deployment.
+<br><br>
+About you
+<br><br>
+<ul>
+<li>As the resident OneLogin advocate for your customer, you are an extension of the customer's technical team.</li>
+<li>Be the point of contact for all of your customer's technical issues.</li>
+<li>Facilitate timely resolution of customer issues by delivering personalized, "high-touch" support and expedited access to product experts familiar with the customer's unique environment.</li>
+<li>Coach customers to be product experts and train their teams on OneLogin methodologies so they increasingly become self-sufficient.</li>
+<li>Gain an understanding of customer's Information Technology (IT) goals, priorities, processes and infrastructure and how OneLogin contributes to the overall customer mission.</li>
+<li>Provide proactive assistance when customers are planning changes and upgrades to their environment.</li>
+<li>Represent Customer Success cross-functionally within the OneLogin organization on product readiness, assess gaps in the existing process, and share recommendations for improvement.</li>
+<li>Responsible for tracking and reporting on the health of your customer accounts, providing regular updates to Client Services leadership.</li>
+<li>Provide information and updates regarding newly created defects, and enhancement requests as requested by the customer.</li>
+<li>Participate in quarterly business reviews with broader account management teams.</li>
+</ul>
+Additional requirements
+<br><br>
+<ul>
+<li>Bachelor's Degree</li>
+<li>6+ years, enterprise technical support, system administration, professional services or account management, with at least 3 years in a senior technical role.</li>
+<li>Excellent relationship management, customer service and communication skills.</li>
+<li>Expertise in core Microsoft product stack, including Windows Server, Windows Workstation, Active Directory, DNS, DHCP, Group Policies and IIS.</li>
+<li>Experience supporting Identity Access Management solutions.</li>
+<li>Experience supporting, SSO, SAML, or WS Federation.</li>
+<li>Experience supporting cloud applications such as Oﬃce 365, Google Apps, Salesforce, Workday, NetSuite, Box, etc.</li>
+<li>Consistent track record of highly-professional customer service in a fast-paced, dynamic environment.</li>
+<li>Excellent communication skills, including issue tracking, triaging and crisis management</li>
+<li>Working remote (HQ is in San Francisco), able to leverage available resources and a strong self-learner.</li>
+<li>Travel to customer's location will be required with around 25% travel in total</li>
+</ul>
+ABOUT ONELOGIN
+<br><br>
+OneLogin, the leader in Unified Access Management ( https://www.onelogin.com/ ), connects people with technology through a simple and secure login, empowering organizations to access the world™. The OneLogin Unified Access Management (UAM) platform is the key to unlocking the apps, devices, and data that drive productivity and facilitate collaboration. OneLogin serves businesses and partners across a multitude of industries, with over 2,500 customers worldwide. We are headquartered in San Francisco, California. For more information, visit www.onelogin.com ( https://www.onelogin.com/ ), Blog ( https://www.onelogin.com/blog ), Facebook ( https://www.facebook.com/OneLogin/ ), Twitter ( https://twitter.com/onelogin ), or LinkedIn ( https://www.linkedin.com/company/onelogin ).
+<br><br>
+Our core values ( https://www.onelogin.com/company/culture )
+<br><br>
+<ul>
+<li>Security first - We make it our #1 priority to protect data and privacy. From the way we work to the technology we provide, security is top of mind</li>
+<li>Customer focused - We design for, listen to and partner with customers to come up with smart solutions that drive business value</li>
+<li>Collaborative - We take bold steps and work together to thrive across boundaries. We drive productivity as we grow as one team</li>
+<li>Accountable - We get things done and take ownership in our work. Showcasing consistent quality and pride to perform at the highest levels</li>
+<li>Creative - We embody creativity in everything we do. We embrace a diversity of ideas. We execute with ingenuity, flexibility, and agility</li>
+</ul>
+</div>

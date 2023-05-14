@@ -1,0 +1,44 @@
+<h2>Public Sector Infrastructure Cloud Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Note: By applying to this position your application is automatically submitted to the following locations: <b>Reston, VA, USA; Atlanta, GA, USA; Austin, TX, USA; Boulder, CO, USA; Cambridge, MA, USA; Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA; Sunnyvale, CA, USA; Washington, DC, USA</b><p>
+Minimum qualifications:</p>
+<ul>
+<li>
+Bachelor's degree in a technical or engineering field or equivalent practical experience.</li>
+<li>5 years of experience in the public sector, building, supporting, or migrating applications.</li>
+<li>Experience reading software code in one or more languages such as Java, JavaScript, and Python.
+</li>
+<li>Ability to travel up to 30% of the time.</li>
+</ul>
+<br>
+<p>Preferred qualifications:</p>
+<ul>
+<li>
+Master's degree in a technical or engineering field.</li>
+<li>10 years of experience in software systems design, with experience in architecting distributed systems in the public sector.</li>
+<li>Experience in architecting, developing, and/or maintaining production-grade systems.
+</li>
+<li>Experience in virtualization, multi-tenant cloud infrastructures, storage systems, and content delivery networks.</li>
+<li>Understanding of the current state of infrastructure automation, continuous integration/deployment, SQL/NoSQL, containers, security, networking, and cloud-based delivery models.</li>
+<li>Ability to translate business requirements into technology solution with excellent project management, presentation, and communication skills.</li>
+</ul>
+<div>
+<h2 class="jobSectionHeader"><b>About the job</b></h2>
+<p>
+As a Public Sector Infrastructure Cloud Consultant, you will work directly with Google’s government customers on critical projects to help transform their organizations. You will provide project management, consulting, and technical aptitude to customer and partner engagements, while working with client executives and key technical leaders to deploy solutions in Google Cloud Platform.</p>
+<p>Your role can span multiple disciplines, as they traverse different customer environments. You are a generalist with experience in DevOps, Security, Compute/Storage, Data, Hadoop, Containers, SAP, IoT, or Site Reliability Engineering. You will scale best practices, advocate open source, author blog posts and articles, and speak at conferences. Additionally, you have a diverse background in technical areas such as system architecture, software development, infrastructure migration, and deployment strategies. You know how to navigate ambiguity, enjoy helping customers, and are able to work in a diverse and distributed team.</p>
+<p>
+Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what’s next for their business — all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers &amp; developers see the benefits of our technology come to life.</p>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<ul>
+<li>Interact with sales/partner leads and technical stakeholders to translate complex customer requirements into recommendations for solution architectures and consulting services.</li>
+<li>Work with a team of technical consultants, provide a point of escalation for customer inquiries, and coach/grow team members' skills in consulting delivery.
+</li>
+<li>Work with customer technical leads, client executives, and partners to manage and deliver migrations to cloud solutions.
+</li>
+<li>Work closely with Product and Engineering teams to package best practices and lessons learned into thought leadership, methodologies, and published assets.</li>
+<li>Understand and clearly articulate customer needs, and help shape Google’s long-term product strategy. Be an advocate of Google’s product innovation story.</li>
+</ul>
+</div>At Google, we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.</div></div>

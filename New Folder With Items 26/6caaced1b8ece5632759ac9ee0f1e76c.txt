@@ -1,0 +1,107 @@
+<h2>Salesforce Platform Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h1 class="jobSectionHeader"><b>Description
+</b></h1>
+<p>Huntington Bank is looking for a platform manager in our Customer Sales and Service organization. In this role, you will be dedicated to pushing the limits of continuous improvement and IT-to-business relations through collaboration and technology. As the Salesforce Platform Manager, you will report to the Director of Customer Sales and Service and work closely with your IT peers as well as business representatives to enable the business and technology teams to move toward our long-term corporate vision for the platform.
+</p>
+<p><i>If you consider Salesforce as a strategic platform, evangelize the value of consistency and stability, are an experienced thought-leader in platform ownership and management, and have a deep desire to collaborate and respond to the needs of your business partners, then this role is for you.
+</i></p>
+<p>You will be responsible for the enterprise Customer Relationship Management &amp; Marketing Communications/Pre-sales platform, including innovations in efficiency and enabling next-generation capabilities. You will participate in the definition of the strategic roadmap for those platforms and be responsible for enabling platform initiatives. You will partner with other internal and external IT organizations and teams as well as key leaders in business and technology to understand and support their platform needs.
+</p>
+<p>You will be supported by the rest of the Salesforce team including, but not limited to our Salesforce Architect, Development Manager, and Delivery Manager. You will also have leadership responsibilities over a core team of dedicated offshore platform support specialists. Your internal clients will use the platform for daily business processes to enable sales and servicing for over a dozen different financial business segments.
+</p>
+<p><b>Key Responsibilities
+</b></p>
+<ul>
+<li>Be the Responsible Technology Manager (RTM) for the Salesforce Platform
+</li>
+<li>Ensure platform integrity by monitoring runtime performance and protecting the platform from detrimental change
+</li>
+<li>Guide the platform support team, setting standards for utilizing Salesforce platform tools such as Data Loader to provide support to end users
+</li>
+<li>Provide leadership to perform ITIL functions: monitoring, administration, SLAs, license utilization, capacity planning, access management
+</li>
+<li>Manage on-call rotation and escalation patterns and schedules
+</li>
+<li>Provide thought-leadership in Salesforce technology utilization, helping to define approaches for technology currency, maximizing performance, and helping to develop consensus for innovation
+</li>
+<li>Ensure platform service levels by implementing controls and guaranteeing incidents are being triaged and communicated efficiently
+</li>
+<li>Partner with the Salesforce delivery team in publishing standards and best practices
+</li>
+<li>Recognize upstream and downstream impacts
+</li>
+<li>Maintain and groom an application backlog, including technical debt
+</li>
+<li>Manage to SLAs, including incidents, uptime, and production support events
+</li>
+<li>Orchestrate off cycle/emergency changes when needed outside of project/warranty windows
+</li>
+<li>Leadership expectations include:
+<ul>
+<li>Clear Expectations: Help each team member to have a clear expectation of what he or she needs to do to successfully operate within the guidelines of the platform’s needs.
+</li>
+<li>Performance Management: Provide direction, support, tools, and training to help Team Members improve performance.
+</li>
+<li>Right Measures: Establish a set of metrics that represent key performance indicators and use those metrics to help drive improvements.
+</li>
+<li>Right Environment: Foster a work atmosphere that encourages open discussion-where colleagues are engaged, motivated and have trust in their leader's vision, ability, integrity
+</li>
+<li>Right Tools: Improve our applications and team processes to provide excellent customer service.
+</li>
+</ul>
+</li>
+</ul>
+<p><b>Basic Qualifications
+</b></p>
+<ul>
+<li>Bachelor's degree
+</li>
+<li>5+ years of experience in large scale, enterprise organizations
+</li>
+<li>3+ years of experience focused on the Salesforce platform and its administration
+</li>
+</ul>
+<p><b>Preferred Qualifications
+</b></p>
+<ul>
+<li>Salesforce Administration certifications preferred
+</li>
+<li>Experience with modern data architecture and integration approaches, particularly ETL
+</li>
+<li>Understanding of SOA concepts
+</li>
+<li>Experience providing shared services to multiple teams
+</li>
+<li>Experience in Financial Services industry or with financial applications
+</li>
+<li>Exceptional communication and interpersonal skills are required for interacting and collaborating with developers, analysts, and business staff throughout the organization
+</li>
+<li>Strong organizational skills with demonstrated ability to instruct a high-performing team, work with partners to set and meet business service level agreement levels, and plan and deliver work to expectations
+</li>
+</ul>
+<p></p>
+<p><i>We endeavor to make this site accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at </i><b><i>HuntingtonCareers@Huntington.com </i></b>.
+</p>
+<p></p>
+<h1 class="jobSectionHeader"><b>EEOC Disclaimer
+</b></h1>
+<p></p>
+<p>EEO is The Law
+</p>
+<p></p>
+<p>EEO/AA Employer/Minority/Female/Disability/Veteran/Sexual Orientation/Gender Identity
+</p>
+<p></p>
+<p>EEO is The Law - Supplemental Poster
+</p>
+<p></p>
+<h1 class="jobSectionHeader"><b>Tobacco Disclaimer
+</b></h1>
+<p>Tobacco-Free Hiring Practice
+</p>
+<p></p>
+<h1 class="jobSectionHeader"><b>Agency Statement
+</b></h1>
+<p>Huntington does not accept solicitation from Third Party Recruiters for any position.</p>
+</div></div>

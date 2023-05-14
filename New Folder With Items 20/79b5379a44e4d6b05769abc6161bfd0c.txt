@@ -1,0 +1,64 @@
+<h2>Sr. SAP MM/PP Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>The Sr. SAP MM/PP Analyst serves as a support and project person for MM, Logistics Process, Procure to Order, Production planning and CO product costing related SAP projects, problems and questions. The Sr. MM/PP Analyst is expected to support a stable system environment for BRG Sports SAP and its integrated platforms. He or She will be required to support all related business projects and members of the IT team responsible for the implementation of all new business processes and project implementations.</p>
+<p>
+The Sr. SAP MM/PP Analyst must know how to leverage SAP to support best practices with a proven understanding of process integration within SD, MM, PP, VC, PM, WH, FI and CO areas. This position will be required to work on assignments that are complex in nature where considerable judgment and initiative are required in resolving problems and making recommendations to improve BRG’s business processes.</p>
+<p>
+Must have Experience and knowledge:</p>
+<ul><li>Overall solution ownership and responsibility for MM Logistic Process, Procure to Pay, Production Planning and Production Process.</li></ul>
+<ul><li>Strong experience to Configure and support MM module</li></ul>
+<p>
+Commanding experience in MM Org structure, Procure to pay process, Stock transfer Process (intercompany and Intra company process), Subcontracting Process, Vendor Consignment Process and SAP Movement types.</p>
+<p>
+Should have a strong knowledge in Vendor master, material Master, Purchasing Info records, Pricing Procedures and Mass maintenance of data.</p>
+<p>
+Should have in depth knowledge Procurement process like Purchase Requisitions, Quotations, Purchase order end to end processes and PO Release strategy</p>
+<p>
+Experienced in Material valuation, Inventory valuation Goods Receipt for Consumable and stock materials, Stock types, Bill of Material, invoice verification and blanket purchase order process.</p>
+<p>
+Experience in Procurement of external services like Service master, Service conditions, Service entry sheet and service invoice verification.</p>
+<p>
+Experience in building the configurable products</p>
+<ul><li>Strong experience to Configure and support PP module</li></ul>
+<p>
+Commanding experience in PP Org structure, Material master, Bill of Materials (BOM), Work Centers, Work center capacity, Work Center and cost center integration, Task list, PP Routing, phantom Assembly, Co-Products and Sub-products, Multiple BOM and Variant BOM.</p>
+<p>
+Should have experience in SAP Reference Operation Sets, PP Scheduling, Reduction Strategy and Triggering Points.</p>
+<p>
+Mastered in MRP Configuration involved in MRP plant parameters, MRP Groups, MRP Types and Planning Strategies, Lot size and rounding off profiles</p>
+<p>
+Experience in Demand Planning, Production planning and Capacity planning</p>
+<p>
+Configure and support PP – Discrete and Continuous Manufacturing</p>
+<ul><li>Should have a strong knowledge in EDI to communicate with vendors through 850, 825 and 810 and inventory information.</li></ul>
+<ul><li>Support the B2B and B2C daily business requirements and/or initiatives at BRG</li></ul>
+<ul><li>Work with IT team across all functional teams using a collaborative approach to build and support best practice solutions to support BRG</li></ul>
+<ul><li>Work with business counterparts to assess requirements and deliver solutions that are enabling capabilities to support IT strategy and overall BRG’s business objectives</li></ul>
+<ul><li>Experience with Make-to-Stock and Make-to-Order processes</li></ul>
+<ul><li>Thorough understanding of Production Orders, Plant Maintenance Orders, Order Types, Bill of Material, Routings, Work Centers etc. and its integration with CO Product Costing</li></ul>
+<ul><li>Document functional requirements, develop functional specs for program changes, make configuration settings, perform testing, conduct system demos and work with users providing training and testing support</li></ul>
+<ul><li>Ensure solution integration and integrity within the process areas to formalize participation, roles &amp; responsibilities,</li></ul>
+<p>
+ and accountabilities</p>
+<p><b>
+Skills and Abilities:</b></p>
+<ul><li>Minimum 10 years’ configuration and implementation experience in SAP’s application areas of MM(Material Management) and PP (Production Planning) utilizing Best Business Practice Methodologies.</li></ul>
+<ul><li>Minimum 6 years’ experience as an Analyst or team lead role</li></ul>
+<ul><li>Minimum of 4 full life cycle implementations including blueprinting, configuration, testing, training and post implementation support within the MM and PP functional areas</li></ul>
+<ul><li>Capability to partner with process owner organization and key stakeholders on solution design/implementation guiding designs to achieve best practices</li></ul>
+<ul><li>Analyze and evaluate requirements for systems solutions that improve business processes and increase productivity</li></ul>
+<ul><li>Oversee production support responsibilities within area of responsibility making sure adherence to service levels, governance procedures, and documentation standards</li></ul>
+<ul><li>Prepare detailed functional specifications for development activities including reports, interfaces, conversions, enhancements, and forms</li></ul>
+<ul><li>Facilitate knowledge transfer, communication and interaction between various functional organizations and the Information Technology department</li></ul>
+<ul><li>Proactively participate in the integration between related SAP functions with other Business Analysts</li></ul>
+<ul><li>Strong integrative cross-module knowledge between Sales, Variant Configuration, Finance, Production and Supply Chain (SD, VC, FI, CO and WH)</li></ul>
+<ul><li>Good organizational and presentation skills with good attention to detail required</li></ul>
+<ul><li>Strong ‘people’ skills are essential to ensure customer satisfaction</li></ul>
+<ul><li>Good understanding of consumer products business model or global models in a consumer products organization</li></ul>
+<ul><li>Ability to work with multiple priorities in delivery and project organizations</li></ul>
+<ul><li>Ability to travel 10% of the time</li></ul>
+<p><b>
+Education and Training:</b></p>
+<ul><li>BS/MS in Business, Engineering, Accounting, Computer Science or others</li></ul>
+<ul><li>SAP Certification in MM, PP, VC, PM or CO-PC a plus</li></ul>
+</div></div>

@@ -1,0 +1,109 @@
+<h2>MEAN Stack Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<p>Job Details</p>
+</div>
+<div></div>
+<div>
+<div>
+<div>Job Code</div>
+<div>
+JPSC-7757</div>
+</div>
+<div></div>
+<div>
+<div>
+<div>
+Posted Date</div>
+<div>
+07/31/18</div>
+</div>
+<div></div>
+<div>
+<div>
+<div>
+Experience</div>
+<div>
+5-10 Years</div>
+</div>
+<div></div>
+<div>
+<div>
+<div>
+Primary Skills</div>
+<div>
+Java,CSS,HTML,SQL,Javascript,Angular.JS,MongoDB,MEAN,Express.JS</div>
+</div>
+<div></div>
+<div><div>
+<div>
+Required Documents</div>
+<div>
+Resume</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p></p>
+<br><div>
+<div>Overview</div>
+<div><b>Top Three Skills:</b></div>
+<div>
+<ul>
+<li>5+ years of experience using Mean Stack (MongoDB, Express.js, Angular JS and Node Js)</li>
+<li>Experience with Java, JavaScript, HTML and CSS</li>
+<li>Experience working with new development web projects.</li>
+</ul>
+</div>
+<div></div>
+<div><b>Job Description:</b></div>
+<div>
+<ul>
+<li>Currently seeking a MEAN Stack developer with expertise in design/development of new high performance web applications.</li>
+<li>This position will support a confidential project for the dealerships which will allow dealers to utilize data that has never been available to them in the past to create a Omni-Channel marketing solutions to drive vehicle sales.</li>
+<li>Currently, dealers are able to purchase several different product or services ( Email, Direct Mail etc.) without knowing how their customers want to be marketed to.</li>
+<li>This new “Omni-Channel Solution” will allow the dealers to pick specific multi-channel, all encompassing solutions based on data which will give them better return on their investment.</li>
+<li>They are currently creating a portal for the dealers to access that will be piloting to several markets.</li>
+</ul>
+</div>
+<div></div>
+<div><b>Job Summary:</b></div>
+<div>
+<ul>
+<li>The Developer position will provide expertise in design and development of high performance web applications using following technologies: MongoDB, Express.js, Angular JS and Node.js.</li>
+<li>Additionally, have strong skills with Java, Javascript, HTML, CSS, and SQL.</li>
+</ul>
+</div>
+<div></div>
+<div><b>Essential Job Functions:</b></div>
+<div>
+<ul>
+<li>Design and development of Web Applications using MEAN Stack.</li>
+<li>Design/develop robust, scalable, flexible solutions.</li>
+<li>Plan, design, implement, and test features and improvements to the existing design/implementation.</li>
+<li>Develop innovative object-oriented, reusable, and stable code, and deliver solutions on schedule in an Agile environment.</li>
+<li>Create beautiful, interactive and easy-to-use web applications using rich client-side code.</li>
+<li>Develop and develop applications using suitable development methodologies and standards, applying standard architectural patterns, taking into account critical performance characteristics and security measures.</li>
+<li>Collaborate with Business Analysts, Architects and Senior Developers to establish the application Framework.</li>
+<li>Knowledge on Deployment processes Required:</li>
+<li>MongoDB, ExpressJS, AngularJS, NodeJS, Javascript, JQuery, CSS, JSON, HTML5</li>
+<li>Agile software development, JIRA, Wiki, Crucible</li>
+<li>Experience following industry-accepted design standards</li>
+<li>Thorough knowledge of browser quirks and workarounds</li>
+<li>Familiarity with common web application vulnerabilities and mitigations</li>
+<li>Strong debugging and analysis skills using tools</li>
+</ul>
+</div>
+<div></div>
+<div><b>Good to Have:</b></div>
+<div><ul>
+<li>Experience with one or more of the following databases: PostgreSQL, SQL Server, MySQL, Couchbase, Cassandra or other NoSQL technologies</li>
+<li>Azure Cloud Storage APIs</li>
+<li>Bootstrap</li>
+<li>Drupal CMS Other</li>
+</ul></div>
+</div>
+</div>

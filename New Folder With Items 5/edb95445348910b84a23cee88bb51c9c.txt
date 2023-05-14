@@ -1,0 +1,71 @@
+<h2>Quality Assurance Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Job Overview</b></p>
+<p>
+Helps develop test strategies, creates end-to-end test plans, and executes tests for various in-house computer programs to ensure that all objectives are met. Works collaboratively with management, users, business analysts and programmers to determine specifications for performance, functionality, reliability and security. Helps determine if testing procedures are accurate to ensure SLFCU software measures both functionally and technically in order to meet the requirements and overall quality of the intended solution. Documents program defects, effectively communicates to programmers and efficiently tracks to successful resolution. Assists in warehousing, organizing and maintaining ITS documents.</p>
+<p><b>
+Job Duties</b></p>
+<p><b>
+Software Quality Assurance:</b></p>
+<ul>
+<li>
+Work closely with business analysts, programmers, project team and business stakeholders to adequately prepare new functionality for deployment to production and adherence to the change management policy and processes.</li>
+<li>
+Assist with the development of test plans, test scenarios and test cases to include functional and regression tests. Assist in conducting test strategy and test plan walkthroughs.</li>
+<li>
+Perform functional, integration and regression tests on new or modified applications using test plans and scripts to verify that programs function according to user requirements and conform to established guidelines. Create detailed documentation to describe software errors and deficiencies for analysis and correction.</li>
+<li>
+Continue to enhance technical and functional knowledge and capabilities to develop a comprehensive understanding of complex systems and processes and most efficient testing approaches.</li>
+<li>
+Assist with user acceptance testing preparation and communicate user feedback and issues that arise from testing to programmer/analyst.</li>
+<li>
+Maintain consistency between multiple testing environments with respect to production.</li>
+<li>
+Review requirements and assist in writing test cases based on those requirements. Assist in the development and documentation of the testing process.</li>
+<li>
+Use database and open source software to organize test cases, results, and issues.</li>
+<li>
+Maintain current knowledge of business policies, procedures and regulations. Help to ensure compliance to all applicable state, federal and credit union regulations including NCUA, PCI, HMDA, Truth in Lending, Truth in Savings, SBA, TILA and RESPA.</li>
+<li>
+Identify and create test data necessary for successful execution of test cases.</li>
+<li>
+Assist in data cleaning and data migration projects.</li>
+<li>
+Work with development team to establish and maintain test environments.</li>
+</ul>
+<p><b>
+Documentation:</b></p>
+<ul>
+<li>
+Assist in the development and maintain current and useful documentation to support internal and external stakeholders. Monitor and coordinate the quality of the knowledge management documentation to ensure the accuracy and usability of content.</li>
+<li>
+Provide communication and documentation to support departmental service goals and minimize recurring problems.</li>
+<li>
+Promote the service and sales culture by maintaining basic knowledge of products and services and referring members to the appropriate person/department.</li>
+<li>
+Assist with the maintenance of a comprehensive library of department documentation.</li>
+</ul>
+<p><b>
+Experience and Knowledge:</b></p>
+<ul>
+<li>
+Minimum one year' experience in branch operations with a high level of business knowledge.</li>
+<li>
+Demonstrates a working knowledge of quality assurance methodologies and industry best practices.</li>
+<li>
+Experience with Information-Mapping or other documentation software preferred.</li>
+<li>
+Solid understanding of the software development life cycle.</li>
+<li>
+Intermediate proficiency with PC applications such as Microsoft Office Suite.</li>
+</ul>
+<p><b>
+Education:</b></p>
+<ul><li>
+Associate's degree in business or technical writing or equivalent experience.</li></ul>
+<p><b>
+Good Credit</b></p>
+</div>
+<p></p>
+</div>

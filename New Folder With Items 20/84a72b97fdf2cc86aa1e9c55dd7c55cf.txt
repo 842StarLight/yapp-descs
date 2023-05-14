@@ -1,0 +1,80 @@
+<h2>Category Management Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Description
+</b></p>
+<p><b>Position Summary
+</b></p>
+<p></p>
+<p>As the Solution Architect for Category Management, you will be responsible for ensuring the Space Management application runs smoothly. Along with the business users and Product Manager you will define the solution roadmap and partner with consulting partners to develop roadmap features to increase efficiency and performance of the account teams. As our capabilities mature, you will collaborate with other architects to integrate category insights and schematics into our sales ecosystem which is comprised of systems used for sales planning, retail execution, campaign &amp; trade promotion execution, and distributor collaboration/order management.<br>
+</p>
+<p><br>
+<b>Responsibilities
+</b></p>
+<p></p>
+<ul>
+<li>Assists business and IT leadership to defining priorities, identify potential solutions and facilitate planning needed to execute.
+</li>
+<li>Develop deep knowledge of Category Management capabilities; develop relationships with key business stakeholders to enable roadmap definition and execution.
+</li>
+<li>Bring an outside-in, fresh perspective into the organization by routinely meeting with customers, technology providers, industry peers, etc. to help shape product strategy.
+</li>
+<li>Work closely with other leads, architects and implementation partners to ensure software designs and solutions deliver the intended business value.
+</li>
+<li>Lead project estimating activities, design reviews, so that solution and architecture of the projects is aligned with longer term strategy and development standards.
+</li>
+<li>Data-to-day management, patching and deployment of JDA CKB / Space Planning systems and environments to support commercial strategies.
+</li>
+<li>Lead the definition and documentation of best practices, lean documentation of the solution architecture, systems configuration, integrations and customizations done to achieve business objectives.
+</li>
+<li>Manage consulting partners who will assist in design, build out or enhancements of category management solutions.
+</li>
+<li>Work with cloud operations / integration teams to design and maintain integration strategies and services to supporting systems such as SAP S4, schematic portal, 3’d part data services and related commercial systems.
+</li>
+<li>Identify, select and manage technology partners as is appropriate to define, design and implement enabling systems.
+</li>
+</ul>
+<p></p>
+<p><b>Qualifications
+</b></p>
+<p></p>
+<ul>
+<li>Bachelor’s degree in Computer Science or equivalent experience.
+</li>
+<li>Thorough understanding of the software development lifecycle in a Scrum environment and experience working in a Scrum team with rapid iterations of products.
+</li>
+<li>5-7+ years of experience leading or architecting JDA retail / space mgmt. solutions.
+</li>
+<li>Detailed working knowledge of JDA Category Knowledge, Space Planning, Assortment Optimization, CLE/Schematic collaboration solutions or equivalent experience / systems.
+</li>
+<li>Database knowledge including SQL Server, and Oracle, and technical knowledge of Windows and Unix; T-SQL, PL-SQL, C#/VB Visual Studio .Net development skills required. Strong scripting skills – Korn, Perl, Windows, PowerShell that will be used to manage and customize environments.
+</li>
+<li>Strong collaboration, teamwork and relationship building skills across multiple levels and functions in the organization (sales, category solutions as well as engineers).
+</li>
+<li>High attention to detail.
+</li>
+<li>Experience and familiarity with Agile methodologies and tools (Rally, JIRA, CI/CD).
+</li>
+<li>JDA Space Planning Professional certification is a plus.
+</li>
+<li>Consumer Packaged Goods or Beverage alcohol industry experience is required.
+</li>
+<li>Working knowledge of cloud platforms like Salesforce, Heroku, Git Hub as well as database concepts and SQL is desirable.
+</li>
+</ul>
+<p></p>
+<p><b>Location
+</b></p>Chicago, Illinois
+<p></p>
+<p><b>Additional Locations
+</b></p>San Francisco, California
+<p></p>
+<p><b>Job Type
+</b></p>Full time
+<p></p>
+<p><b>Job Area
+</b></p>Information Technology
+<p></p>
+<p><b>Equal Opportunity
+</b></p>
+<p>Constellation Brands is committed to a continuing program of equal employment opportunity. All persons have equal employment opportunities with Constellation Brands, regardless of their sex, race, color, age, religion, creed, sexual orientation, national origin or citizenship, ancestry, physical or mental disability, medical condition (cancer or genetic characteristics), marital status, gender (including gender identity or gender expression), familial status, military or veteran status, genetic information, pregnancy, childbirth, breastfeeding, or related conditions (or any other group or category within the framework of the applicable discrimination laws and regulations).</p>
+</div></div>

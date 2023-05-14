@@ -1,0 +1,42 @@
+<h2>IT Help Desk Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Provide remote IT support for client's mission critical financial server(s).</p>
+<p>Work with our innovative software solutions that help local government and school districts centralize data and connect their organizations. By working to develop and support our financial management solutions, you can help integrate our solutions with human resources, revenue management, tax billing, and asset management.</p>
+<div>
+<h2 class="jobSectionHeader"><b>Location</b></h2>
+<p>Yarmouth, Maine</p>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Responsibilities</b></h2>
+<ul>
+<li>Answer incoming calls and electronic requests from customer's technical staff regarding PC or Server problems with Tyler Technologies software applications</li>
+<li>Primary areas of support include:
+<ul>
+<li>Remote IT application support of client's mission critical financial server(s)</li>
+<li>Operating System administration for Microsoft Windows server</li>
+<li>Database Administration for Microsoft SQL Server</li>
+<li>Network &amp; Local Printing</li>
+<li>MUNIS program release and 3rd party software upgrades (as needed)</li>
+<li>Point of Sale hardware configuration and troubleshooting</li>
+</ul>
+</li>
+<li>Occasional weekend coverage may be required depending on client needs</li>
+<li>Various telecommute options will be available after an initial training period</li>
+</ul>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Qualifications</b></h2>
+<ul>
+<li>BS/BA in Computer Science, MIS, or equivalent experience</li>
+<li>Experience administering Windows and / or Linux servers</li>
+<li>Working knowledge of server hardware and network configurations, including web servers</li>
+<li>Ability to troubleshoot PC configurations and connectivity issues</li>
+<li>Excellent communication, analytical, and problem solving skills required</li>
+<li>Team work and excellent customer service skills required</li>
+</ul>
+</div>
+</div>
+<p></p>
+</div>

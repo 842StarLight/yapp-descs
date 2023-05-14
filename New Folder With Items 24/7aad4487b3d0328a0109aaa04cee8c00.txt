@@ -1,0 +1,50 @@
+<h2>Accounting Assistant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Seattle Cider Company &amp; Two Beers Brewing seek Accounting Assistant</b></p>
+<p>Seattle Cider Company &amp; Two Beers Brewing is seeking a driven and self-motivated Accounting Assistant to join our team in a fast-paced and exciting work environment.</p>
+<p><b>Job Description</b></p>
+<p>Located in Seattle, WA, this position will assist the Controller in preparing the accounting books for month-end close. They are also responsible for Accounts Payable, Accounts Receivable, and other general bookkeeping duties.</p>
+<p><b>Responsibilities: </b></p>
+<p><b><i>Accounts Payable</i></b></p>
+<ul>
+<li>Organize and file invoices received from vendors</li>
+<li>Review accuracy of inventory receipts in Ekos Brewmaster to invoices received by vendors</li>
+<li>Voucher invoices in the books and pay invoices when due. Record payments in the books</li>
+</ul>
+<p><b><i>Accounts Receivable</i></b></p>
+<ul>
+<li>Review accuracy of invoices entered into Ekos Brewmaster and update pricing or quantities shipped if necessary</li>
+<li>Maintain the accounts receivable aging and follow up with customers for payments</li>
+<li>Record payments in the books when received</li>
+<li>Review credits received from customers and record them in the books</li>
+</ul>
+<p><b><i>Month-End Close</i></b></p>
+<ul>
+<li>
+<i>Inventory</i> - Help prepare count sheets for month-end inventory counts. Record inventory counts and prepare inventory reconciliation. Provide recount list to inventory counters. Record inventory checks into Ekos Brewmaster</li>
+<li>
+<i>Bank Reconciliations</i> – Review bank statements and record transactions into the books. Prepare bank reconciliations and send to Controller for approval</li>
+<li>
+<i>Debit Card and Expense Reimbursements</i> – Notify employees of when expense reports are due. Organize transactions and code to proper company and G/L accounts. Record transactions in the books. Write checks for reimbursement</li>
+<li>
+<i>Review P&amp;L and Balance Sheet</i> – Review profit and loss statement with Controller to assess areas of risk. Enter adjusting journal entries if needed</li>
+</ul>
+<p><b><i>Other Duties</i></b></p>
+<ul>
+<li>Prepare monthly and quarterly excise taxes</li>
+<li>Prepare timesheets for each employee and record hours into payroll software.</li>
+<li>Submit payroll to 3rd party company for biweekly for processing</li>
+<li>Record retail sales through journal entries and reconcile cash on-hand</li>
+<li>Working with head brewer and cidermaker on day-to-day operations and inventory control, as well as maintenance of management software</li>
+</ul>
+<p><b>Compensation &amp; Benefits</b></p>
+<ul>
+<li>Salary - based on experience</li>
+<li>Healthcare after 90 days (Funded 75% by Seattle Cider / 25% by employee)</li>
+<li>Paid Sick Leave as mandated by the state of Washington</li>
+<li>Paid Vacation, accrued hourly, up to two weeks per year for full time work</li>
+<li>Discounted product &amp; merchandise, based on company policy</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $50,000.00 to $55,000.00 /year</p>
+</div>

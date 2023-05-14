@@ -1,0 +1,93 @@
+<h2>Software Engineer (.NET/API Creation)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>As a leading worldwide provider of navigation devices and wearable technology, our focus is on developing, designing and supporting superior products. Our advanced technology promotes performance, safety and ease of use in every market we serve. That makes us an engineering and technology company with a keen focus on recruiting talent in those fields. But the same vertical integration business model that keeps all design and manufacturing processes in-house also gives us the incentive to hire top performers from different backgrounds, including operations, finance and accounting, information technology, sales, marketing and communications.</div>
+<br>
+<div>
+<br>
+Getting from Point A to Point B is just the beginning. As the world’s largest provider of GPS products, we strive to hire associates who will help us maintain our position at the forefront of the market. If you’re ready to keep us on our path to perfection, we want to find you!</div>
+<br>
+<div></div>
+<div>
+We are seeking a .<b>NET Software Engineer</b> to join our Online Map Technology team at our world headquarters in <b>Olathe, Kansas</b>. The Online Map Technology team develops highly visible components impacting millions of users daily across Garmin's Automotive, Mobile, Recreational, Marine, Fitness, and Aviation business segments</div>
+<br>
+<div></div>
+<div>
+ In this role you will design, implement, and test new functionality within our complex software ecosystem using the latest tools and technologies. You will solve complex problems by composing small, independent components into large-scale systems. You will interact with business stakeholders and other engineers to ensure we are solving the right problems, the right way.<br>
+</div>
+<div></div>
+<div>Other responsibilities included:</div>
+<ul>
+<li><div>Take responsibility for new features and improvements to existing systems from requirement gathering through delivery
+</div></li>
+<li><div>Invest in development support activities including code review, collaborative design sessions, project/sprint planning, end-user support, and feature demos
+</div></li>
+<li><div>Help ensure software quality by offering comments and suggestions to team members through peer code reviews
+</div></li>
+<li><div>Break down broad business and technical requirements into simple components using sound engineering principles
+</div></li>
+<li><div>Perform root cause analysis, outline corrective action, and identify mitigation strategies for production issues
+</div></li>
+<li><div>Offer suggestions to improve processes and evaluate alternative technologies to help meet Garmin’s high standards of value and performance
+</div></li>
+<li><div>Serve as a technical leader or Lead Software Engineer for derivative software projects</div></li>
+</ul>
+</div>
+<p></p>
+<div>
+<b>
+Qualifications</b><div>
+</div>
+<div>
+Qualified candidates with have a Bachelor of Science Degree in Computer Science, Electrical Engineering, Computer Engineering, Aerospace Engineering, Math or Physics or a technical field (such as CIS or IT) relevant to the essential functions of this job description from a four-year college or university OR an equivalent combination of education and relevant experience. Other requirements include:<br>
+</div>
+<ul>
+<li><div>C# version 4 or newer
+</div></li>
+<li><div>Solid experience with .NET Core</div></li>
+<li><div>Solid experience with creating API's for other teams to consume</div></li>
+<li><div>Recent experience with new development or feature adds (last 6 months)</div></li>
+<li><div>Solid understanding of OOP principles</div></li>
+<li><div>Writing and consuming services using WCF and/or Web API
+</div></li>
+<li><div>Microsoft Visual Studio 2012 or newer
+</div></li>
+<li><div>MS SQL Server 288 R2 or newer
+</div></li>
+</ul>
+<div>Preferred Experience:</div>
+<ul>
+<li><div>Design patterns for decoupling components (Inversion of Control, Aspect-Oriented Programming)</div></li>
+<li><div>Developing testable software</div></li>
+<li><div>Building or working on a Continuous Integration/Deployment pipeline</div></li>
+<li><div>Building containerized micro-service applications (NET Core on Docker preferred)</div></li>
+<li><div>Creating scalable environments using container orchestration systems such as Kubernetes</div></li>
+<li><div>Working with server-less architectures such as Functions as a Service</div></li>
+<li><div>Applying Domain Driven Design guidelines</div></li>
+</ul>
+<div>Our benefits are designed to lead an evolving marketplace, support innovation and encourage a healthy balance between work and life. They allow our associates to make their own decisions about their wellbeing and future and consistently rank Garmin as a top tier benefits provider when compared to other high-tech employers. We offer a choice of high value medical, dental and vision plans with low or no premiums, to fit your and your family’s preferences. In addition, Garmin’s financial benefits include a generous 401K retirement plan that provides 5% of pay base contribution plus a match of 75 cents for every dollar you contribute to a maximum of 10% of your compensation. The employee stock purchase plan allows for shares to be bought at a 15% discount. Garmin offers many other benefits and perks ranging from wellbeing initiatives, educational assistance and career development, community charity support, and employee discounts just to name a few.</div>
+<br>
+<div></div>
+<div><i>Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran’s status, age or disability</i></div>
+</div>
+<p></p>
+<div>
+<b>
+Job</b> Engineering</div>
+<div>
+<b>
+Primary Location</b>US-KS-Olathe</div>
+<div>
+<b>
+Organization</b> Consumer Engineering</div>
+<div>
+<b>
+Schedule</b> Full-time</div>
+<div>
+<b>
+Job Class</b> Exempt</div>
+</div>
+<p></p>
+</div>

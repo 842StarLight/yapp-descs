@@ -1,0 +1,64 @@
+<h2>Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>IAB CompanyDescription</b></p>
+<p>
+TheInteractive Advertising Bureau (IAB) empowers the media and marketingindustries to thrive in the digital economy. It is comprised of more than 650leading media and technology companies that are responsible for selling,delivering, and optimizing digital advertising or marketing campaigns.Together, they account for 86 percent of online advertising in the UnitedStates. Working with its member companies, the IAB develops technical standardsand best practices and fields critical research on interactive advertising,while also educating brands, agencies, and the wider business community on theimportance of digital marketing. The organization is committed to professionaldevelopment and elevating the knowledge, skills, expertise, and diversity ofthe workforce across the industry. Through the work of its public policy officein Washington, D.C., the IAB advocates for its members and promotes the valueof the interactive advertising industry to legislators and policymakers. Thereare 42 IABs licensed to operate in nations around the world and one regionalIAB, in Europe. Founded in 1996, the IAB is headquartered in New York City andhas a West Coast office in San Francisco.</p>
+<p>
+ <b>Summary</b>:</p>
+<p>
+This is afull-time, non-remote position located in New York City.</p>
+<p>
+As this role entails both developer and administratorfunctions, you will be the subject matter expert on Salesforce technical bestpractices. The Salesforce Developer will be responsible for architecture solutions for the entire organization, implementing managed packages andupgrades, working with third party vendors, and successfully writing new anddebugging existing custom Apex code. In addition, this role will be responsiblefor requirements gathering and developing new custom functionality specific tothe IAB’s business requirements.</p>
+<p>
+ <b>Job responsibilities (include but not limited to):</b></p>
+<ul>
+<li>Develop complex Apexclasses, triggers, Visualforce pages, SOAP &amp; REST API to support IAB’sSalesforce requirements</li>
+<li>Troubleshootexisting Apex classes and triggers, including those tied to custom APIs</li>
+<li>Manageend-to-end implementation &amp; maintenance of Salesforce-related projects</li>
+<li>Design&amp; implementation of Salesforce security for all the IAB platforms</li>
+<li>Supervise,customize &amp; implement Salesforce products (Salesforce CPQ and others)</li>
+<li>Supervise,design, develop &amp; implement Salesforce integrations with other systems</li>
+<li>Workwith third-party vendors to implement and support their products in IAB’sSalesforce environments</li>
+<li>Manageallocations for API requests against Salesforce governor limits in a highlycustomized Salesforce org</li>
+<li>Mentorjunior staff in best practices related to Salesforce</li>
+</ul>
+<p><b>
+Requirements and Qualifications:</b><br>
+</p>
+<ul><li>Bachelor degree required</li></ul>
+<p>
+. Salesforce.comAdministrator &amp; Developer Certification</p>
+<ul>
+<li>5+years’ experience performing Salesforce Sales Cloud and Service Cloudconfigurations</li>
+<li>5+years’ experience writing complex Apex code</li>
+<li>Excellentcommunication skills, ability to communicate with all levels of staff,including key stakeholders and senior leadership</li>
+<li>Strongsense of urgency and ability to work calmly and effectively in stressfulsituations</li>
+<li>Abilityto gather, document and execute detailed specifications from high-levelrequirements with little supervision</li>
+<li>Abilityto succinctly communicate highly technical information to non-technicalaudiences</li>
+<li>Excellentorganizational skills, with the ability to prioritize tasks and juggle manytasks simultaneously</li>
+<li>Strongtesting skills, and the ability to direct user acceptance testing sessions withstaff with varying levels of technical knowledge</li>
+<li>Punctual,dependable and dedicated to achieving operational excellence, down to thesmallest of details</li>
+</ul>
+<p><b>
+Technology Skills / Platforms Required:</b><br>
+</p>
+<ul>
+<li>SalesforceCRM</li>
+<li>SalesforceCPQ &amp; Billing</li>
+<li>BlackthornEvents &amp; Payments experience preferred</li>
+<li>SQL,database management skills preferred</li>
+<li>LearningManagement System familiarity preferred</li>
+<li>WindowsOS</li>
+<li>MSOffice Suite</li>
+<li>Salesforce.comCertification strongly preferred</li>
+<li>SalesforceCertified Developer (DEV 401)</li>
+<li>SalesforceCertified Administrator (ADMIN 201)</li>
+</ul>
+<p>
+Please note that interview process will include a Salesforce technical interview.<br>
+</p>
+<p>
+ <b>Additional Information:</b></p>
+<p>
+ IAB is an equal employment opportunity employer inaccordance with federal, state, and local law. This position requires thefinal candidate to successfully pass an E-Verify check.</p>
+</div></div>

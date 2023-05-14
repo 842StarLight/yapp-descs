@@ -1,0 +1,36 @@
+<h2>Financial Systems Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">At Plenty, we're on a mission to give people in local communities everywhere access to the freshest, most amazing tasting produce possible. And to do so in a way that's better for the planet.
+<br><br>
+About Role
+<br>-
+<br><br>
+Plenty is looking for a hands-on Financial Systems Analyst to be an early member of the Financial Systems team. This role will report to the Director of Financial Systems within Accounting &amp; Finance. The candidate will liaise with Supply Chain, Sales Operations, Farm Operations, People, and IT teams to directly help users extract the most value from our systems. In addition to "lights-on" configuration and maintenance responsibilities, the candidate will help drive and implement process improvements and systems changes within the organization. This position will be integral to the overall development, delivery, maintenance, continuity and support of our core financial systems. Successful candidates will have worked in fast paced organizations with rapid growth and frequent change.
+<br><br>
+What You'll Do
+<br>-
+<br><br>
+<ul>
+<li>Deliver high-quality, expert assistance to users through problem identification, analysis, and solution proposals</li>
+<li>Lead system enhancement projects from concept through support, including requirements definition, implementation tasks, and testing</li>
+<li>Work on NetSuite configuration changes to fields, workflows, roles/permissions, page layouts, custom objects, custom record types, reports and dashboards</li>
+<li>Perform minor configuration changes and general administrative tasks within our other landscape applications, including Coupa and Concur</li>
+<li>Interact with SaaS vendor technical support teams to initiate, monitor, and ultimately resolve system issues</li>
+<li>Collaborate with internal and external business partners to analyze and document processes and identify opportunities for improvement</li>
+<li>Drive regular testing cycles through planning, execution, and functional administration of our test management software, SpiraTest</li>
+</ul>
+What We're Looking For
+<br>-
+<br><br>
+<ul>
+<li>At least four years NetSuite experience (or equivalent SaaS ERP application) in a multi-subsidiary environment</li>
+<li>Demonstrated experience in General Ledger, Receivables, Payables, Fixed Assets, and Inventory Management features and functionality</li>
+<li>Strong knowledge of overall finance business processes</li>
+<li>Ability to work autonomously, run and lead small to medium projects or parts of larger programs requiring program management involvement</li>
+<li>Outstanding analytical skills and technical aptitude</li>
+<li>BS/BA in MIS, Accounting or equivalent work experience</li>
+<li>Pluses: Experience with Coupa and Concur Expense; familiarity with various iPaaS solutions (e.g. Boomi, Celigo, Informatica); Sarbanes-Oxley compliance experience; Salesforce.com experience</li>
+</ul>
+About Plenty
+<br>-
+<br><br>
+Plenty is here to change the way people eat, making extraordinary flavor and nutrition more available in a way that's better for people and the planet. We build farms that can put craveable flavor first while delivering exceptional yields. And our produce is always pesticide-free and grown using less than 1% of the land and 5% of the water of outdoor farming.</div>

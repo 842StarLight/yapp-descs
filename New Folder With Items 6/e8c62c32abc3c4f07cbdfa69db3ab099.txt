@@ -1,0 +1,83 @@
+<h2>Network Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Job Description</p>
+<p><b>Required skills: </b></p>
+<p><i>Please do not waste your time or ours if you don’t meet at least 3 of the top 4 skills.</i></p>
+<p>_If you don’t meet all the required skills, don’t expect to be offered the top of the salary range._</p>
+<ul>
+<li>Ability to install, configure and maintain Windows Server 2008-2019 (including setting up DHCP, DNS, Active Directory, GPO, DFS, shared folders and printers, Remote Desktop applications)</li>
+<li>Ability to install, configure and maintain Exchange Server 2010-2019 (including setting up correct autodiscover and MX DNS records, OWA, SSL certificates and distribution lists)</li>
+<li>Ability to install &amp;, configure and maintain Microsoft SQL Server (including setting up backup jobs, configuring data locations and moving databases, shrinking logs and files, and running SELECT queries)</li>
+<li>Extensive experience with networking equipment setup and configuration (firewalls, routers, switches, port forwarding, IPsec VPN tunnels and PPTP VPN dial-up, etc.)</li>
+<li>Extensive experience with desktop and server hardware (install, configure and troubleshoot)</li>
+<li>Extensive experience with desktop software &amp; operating systems (Examples: Outlook, Word, Excel, Windows 7, 8 and 10, accounting software like Quickbooks or Peachtree)</li>
+<li>Excellent understanding of practical TCP/IP concepts (source ports, destination ports, external and internal DNS, sending email through telnet)</li>
+<li>Familiarity with malware removal tools and software</li>
+<li>Ability to travel through San Antonio and neighboring cities with your own vehicle</li>
+<li>Ability to lift servers and computers, mount them on racks by yourself when safe to do so, and climb ladders to reach equipment mounted on walls</li>
+<li>Ability to learn continuously, you will be expected to fill any knowledge gaps within 90 days</li>
+</ul>
+<p>*Desirable skills:<br>*<i>Please mention specific skill level on application.</i></p>
+<ul>
+<li>Sharp copiers</li>
+<li>Kyocera copiers</li>
+<li>Dell hardware</li>
+<li>BitDefender Antivirus</li>
+<li>Fortigate Firewalls</li>
+<li>FortiVoice phone systems</li>
+<li>Allworx phone systems</li>
+<li>3CX phone systems</li>
+<li>Ninja RMM</li>
+<li>TeamViewer Enterprise</li>
+</ul>
+<ul>
+<li>StorageCraft ShadowProtect</li>
+<li>MacOS / OS X</li>
+<li>Linux (specify flavor)</li>
+<li>Powershell programming or other scripting languages</li>
+<li>HTML &amp; CSS</li>
+<li>Web programming languages like PHP, JS or Python</li>
+<li>Ethernet wiring termination and troubleshooting</li>
+<li>Cisco router configuration through CLI</li>
+</ul>
+<p><b>What would make you a great match: </b></p>
+<ul>
+<li>
+<b>Excellent</b> interpersonal communication skills, positive attitude and a good sense of humor</li>
+<li>
+<b>Expert</b> ability to troubleshoot</li>
+<li>
+<b>Aggressively</b> asking questions and elevating issues if they are beyond your capabilities</li>
+<li>Excellent ability to organize work, and adjust work based on priority</li>
+<li>Excellent ability to multitask to handle several tickets at once</li>
+<li>Ability to work without close supervision</li>
+<li>Excellent documentation skills</li>
+<li>Over communicating when necessary to get results!</li>
+</ul>
+<p><b>What you will do: </b></p>
+<ul>
+<li>Complete customer trouble tickets in order of priority</li>
+<li>Work remotely on customers’ networks when possible</li>
+<li>Drive to customers’ locations when completing a ticket remotely is not possible</li>
+<li>Communicate promptly with customers as the first point of contact through phone and email</li>
+<li>Deploy equipment on customers’ networks</li>
+<li>Assist the sales team in identifying the best solution for customers</li>
+<li>Be on-call 24/7 to assist with any emergencies (time taken away from family is compensated in the form of additional time off)</li>
+<li>Propose, plan and execute upgrades and migrations for customers with zero downtime</li>
+<li>Communicate with a team where every member may be in a different location every day</li>
+<li>Think critically about improvements to customer and local network to maximize the benefit of technology in supporting business goals (suggest tools and/or methods to save time, save money or simplify processes)</li>
+<li>Spend all day at a customer’s office when the project demands it</li>
+</ul>
+<p>Required education or certifications: None. We don’t care what path of life led you to acquire the required skills. We do not discriminate in any way, shape or form.</p>
+<p>We offer a cell phone and mileage allowance, supplemental health insurance, paid time off based on length of employment, 8 paid holidays, and paid certification training.</p>
+<p>Job Type: Full-time</p>
+<p>Salary: $40,000.00 to $50,000.00 /year</p>
+<p>Experience:</p>
+<ul><li>Network Administration: 3 years (Required)</li></ul>
+<p>Location:</p>
+<ul><li>San Antonio, TX (Required)</li></ul>
+<p>License:</p>
+<ul><li>Drivers (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+</div>

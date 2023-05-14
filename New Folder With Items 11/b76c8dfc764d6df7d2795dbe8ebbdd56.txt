@@ -1,0 +1,65 @@
+<h2>Sr Full Stack Web Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Business Summary:</b></h2>
+<p>
+VMware is the leader in virtualization and cloud infrastructure solutions that enable our more than 350,000 enterprise and SMB customers to thrive in the Cloud Era/ A pioneer in the use of virtualization and automation technologies, VMware simplifies IT complexity across the entire data center to the virtual workplace, empowering customers with solutions in the software-defined data center to hybrid cloud computing and the mobile workspace.</p>
+<p>
+Our team of 20,000+ people working in 50+ locations worldwide is committed to building a community where great people want to work long term by living our values of passion, innovation, execution, teamwork, active learning and giving back. If you are ready to accelerate, innovate and lead, join us as we challenge constraints and problem solve for tomorrow today</p>
+<p>
+The VMware DICE team (Data Integrated Customer Engagement) is hiring. DICE is a VMware sales strategy that enables the use of customer data to analyze datacenter infrastructure, model business value associated with an investment in VMware’s portfolio of solutions and track the delivery of identified milestones after the sale.</p>
+<h2 class="jobSectionHeader"><b>
+Job Role and Responsibility:</b></h2>
+<p>
+We are looking for senior level full stack web developer to apply their expertise in browser-based app development and expansive knowledge of latest technologies to deliver ongoing enhancements for a high-quality sales application using best practices for user experience. Candidates should have the ability to write clean, Angular 5+, JavaScript /Typescript based code, collaborate with internal product management organizations and key VMware Partners. This is a dynamic role with opportunities for career advancement outside of traditional developer job functions.</p>
+<h2 class="jobSectionHeader"><b>
+Experience Required:</b></h2>
+<ul>
+<li>
+Web application development experience</li>
+<li>
+Development experience with HTML5, CSS, Node.js, Angular 5+, and JavaScript /Typescript</li>
+<li>
+Develop integrations to various 3rd party API endpoints, applications and cloud services</li>
+<li>
+Proficiency with SQL and Relational Databases</li>
+<li>
+Ability work and collaborate with a global team</li>
+<li>
+Fluent English (speaking/reading/writing)</li>
+<li>
+Ability to engage with VMware field organizations, product management teams and partners</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+Preferred Skills:</b></h2>
+<p>
+Our team looks for individuals who embody our values of humility, compassion, collaboration above isolationism, respectfulness, honesty, and good-natured fun. Additionally, we would like:</p>
+<ul>
+<li>
+Experience with VMware Clarity UI Component Library</li>
+<li>
+Experience with, or the ability to implement latest charting toolsets: Kendo charts, D3, Charts.js, NG-Charts, etc…</li>
+<li>
+Proficiency with SQL (experience with Postgres desired) and working with large datasets</li>
+<li>
+Excellent Communication skills</li>
+<li>
+Good sense of humor</li>
+<li>
+Experience with UI testing frameworks and toolsets</li>
+<li>
+BA/BS degree or higher, or equivalent job-related experience</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Travel:</b></h2>
+<ul><li>
+Travel will be limited</li></ul>
+<p>
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+<p></p>
+<p><br>
+<b>
+VMware Company Overview: </b>VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.<br>
+<br>
+<b>Equal Employment Opportunity Statement:</b> VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</p>
+</div></div>

@@ -1,0 +1,49 @@
+<h2>Staff Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">---------------
+<br>The Opportunity
+<br>---------------
+<br><br>
+Green Bits is the leading provider of retail Point of Sale solutions to the legal cannabis industry. This exciting market is rapidly growing, and Green Bits is growing with it. Our product covers everything from the register to inventory management to integration with state tracking systems. Our expertise in helping our retail customers stay compliant with state rules is what sets cannabis retail apart from all other types of retail, and what sets Green Bits apart from the competition.
+<br><br>
+We are looking for a great staff-level software engineer to lead one of our product teams. Our leads take on significant projects, while also coaching and mentoring the team. They work with product managers and designers to understand the problem and find creative solutions. Our leads are masters and role models at
+<br><br>
+<ul>
+<li>Software craftsmanship - getting the details right, building for testability and reliability from the ground up</li>
+<li>System design - defining the architecture and components that allow us to grow and evolve rapidly</li>
+<li>Engaging cross-functionally - putting team needs first, being a resource to all</li>
+</ul>
+Our staff engineers are ready to engage anywhere in the stack, from mobile apps to API design to databases. They are experts and building and growing large, distributed systems.
+<br><br>
+----------------
+<br>Responsibilities
+<br>----------------
+<br><br>
+As a fast-moving startup, we value people who can take on whatever comes their way, figure it out, and get it done. But these are the typical responsibilities:
+<br><br>
+<ul>
+<li>Partner with product managers and designers - deeply appreciate the problem, propose alternatives. You'd be excited to visit a customer and talk with them about their challenges.</li>
+<li>Design and implement solutions that support high scale, 24x7 operations</li>
+<li>Engage throughout the stack, from front-end design problems to back-end scalability challenges</li>
+<li>Stay on top of technologies, frameworks, tools. Have great judgment on when to bring new ones into our world.</li>
+<li>Provide sound estimates.</li>
+<li>Be able to jump in to a (possibly old and messy) part of our code, figure it out, and find a path forward.</li>
+<li>Be a resource to the rest of the team - actively coach and mentor, lead by example, perform constructive, detailed reviews of designs and code.</li>
+<li>Understand the health of the team's codebase. Make good business cases for reducing tech debt.</li>
+<li>Support our agile processes, teaching them as needed.</li>
+</ul>
+--------------
+<br>Qualifications
+<br>--------------
+<br><br>
+Just as we don't have fixed responsibilities, we do not stand on rigid qualifications. As guidance, people with this kind of background tend to do well:
+<br><br>
+<ul>
+<li>10+ years software development experience</li>
+<li>Significant experience with SaaS solutions</li>
+<li>Experience with or ready to learn and master Ruby, our current server-side language</li>
+<li>Expertise in building highly scalable, distributed, loosely coupled systems, ideally with public APIs</li>
+<li>Experience building business critical software that integrates with third party systems</li>
+<li>Be great at, and excited about, the responsibilities listed above applied to the legal cannabis industry</li>
+<li>Authorized to work in the United States on a full time basis with out required sponsorship for employment visa status</li>
+</ul>
+</div>

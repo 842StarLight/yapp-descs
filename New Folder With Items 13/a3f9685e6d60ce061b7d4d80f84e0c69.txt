@@ -1,0 +1,47 @@
+<h2>Software Developer (entry level)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>About the Opportunity: </b></p>
+<p>We are currently seeking a highly creative and motivated individual with experience and skills to devote to the design and development of our application systems. You will be using the latest technologies and development techniques to develop for internally and externally facing systems, as well as integration with third party APIs.</p>
+<p><b>Duties and Responsibilities will include: </b></p>
+<ul>
+<li>Design and implement solutions that are reliable, scalable, and meet various business needs</li>
+<li>Design, code, and modify the existing ecommerce website and applications based on requests from various stakeholders</li>
+<li>Utilize distributed source control systems and DevOps solutions such as TeamCity/VSTS/Octopus</li>
+<li>Development environments will include cloud-based platforms such as Azure, CMS, SharePoint and CRM systems</li>
+<li>Learn database structure and create BI reports for various purposes.</li>
+</ul>
+<p><b>Qualifications: </b></p>
+<ul>
+<li>Bachelor’s Degree in computer science or related field.</li>
+<li>1+ years of experience in software development</li>
+<li>Experience in a heavy Microsoft environment required</li>
+<li>Experience with C#, .Net, JavaScript/TypeScript, APIs/MVC, HTML, and SQL</li>
+<li>Experience with agile methodologies</li>
+<li>Interested in full stack development</li>
+<li>Ability to handle multiple constituencies and projects under tight deadlines</li>
+<li>Comfortable working both independently and in a team environment</li>
+<li>Ability to communicate complex technical concepts to business stakeholders in an easy-to-understand manner</li>
+</ul>
+<p><b>About the Company: </b></p>
+<p>Rockland Immunochemicals, Inc. is recognized as one of the world's leading manufacturers and suppliers of immunochemical reagents for basic research and discovery. Rockland's antibodies are suited for individuals performing high throughput screening, drug discovery, diagnostic kit production, and life science research. Rockland provides reagents through a distribution network located in North and South America, Europe, Asia, and Australia. Catalog sales and custom services are offered to scientists at academic, research, and government laboratories including pharmaceutical and biotechnology industries.</p>
+<p><i>*Rockland Immunochemicals, Inc. is an Equal Opportunity Employer. We maintain a drug-free work environment. All resumes are held in confidence. No recruiters or agencies without a previously signed contract should reply </i></p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>computer programing: 1 year (Required)</li></ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+</ul>
+</div>

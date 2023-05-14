@@ -1,0 +1,127 @@
+<h2>Data Administrator I (Americas Sales and Marketing)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<div>Start your career with our team! We value a strong work ethic and character. At Welbilt, we work hard to ensure that each of our employees has access to a supportive working environment which enables individuals to reach their potential, to be productive and to work to the best of their ability.</div>
+<div></div>
+<br>
+<div>
+</div>
+<div>
+We are Welbilt! We are pioneers and innovators. Our industry knowledge and insights stretch back nearly a century, from the original founding of the Hirsch brothers’ Welbilt Stove Company in 1929. We design, manufacture and supply best-in-class food and beverage equipment for the global foodservice market. We attract talent and build careers. We empower you to grow with us. We recognize you and reward you. We win together as one team.</div>
+<div></div>
+<br>
+<div>
+</div>
+<div>
+As Master Data Administrator, you will be responsible for maintaining centralized master data elements and mapping tables within the Cognos data warehouse and Oracle ChRM (Channel Revenue Management) to support global reporting, planning &amp; forecasting and compensation management. There will be strong interaction with Americas Sales Finance and Data Warehouse Specialist to maintain data necessary to support systems and end user reporting.</div>
+<div></div>
+<br>
+<div>
+</div>
+<div>
+Reporting directly to the Sales Controller, this position is based in New Port Richey, Florida*.</div>
+<div></div>
+<br>
+<div>
+</div>
+<div><b>
+Major Accountability:</b></div>
+<div>
+<br>
+</div>
+<ul>
+<li><div>
+Manage and maintain master data maintenance as it relates to global customer master, product line, salesperson, end user, Americas 3rd party marketing rep commission and customer rebate offers &amp; rates.
+</div></li>
+<li><div>Work with various teams including Information Systems, Sales Reporting, Customer Service, and Finance at various locations to ensure that processes are in place and followed as it relates to source records. Ensure that any system holding this data is up to date and in synch with the master.
+</div></li>
+<li><div>Responsible for ensuring the accuracy of the master data. Both by enforcing process and through reporting and monitoring.</div></li>
+</ul>
+<div></div>
+<br>
+<div>
+<br>
+</div>
+<div><b>Key Tasks &amp; Responsibilities:</b></div>
+<div>
+<br>
+</div>
+<ul>
+<li><div>
+MASTER DATA MAINTENANCE: Enter and update Rise Global Customer Master system, Cognos central database master data elements (product line, customer hierarchy, salesperson, end user), Oracle Channel Revenue Management rebate and commission offers and customer field elements. Support all ERP implementations and incorporate new/revised data elements into central database and reporting systems. Support all new reporting and/or database requirements needed resulting from changes to the organization.</div></li>
+<li><div>
+INFORMATION &amp; REPORTING: Responsible for management of the month end data close. Perform all necessary data validations, data checks and exception reporting. Work with DW Specialist and business unit sites to correct missing/incorrect data elements. Monitor and report progress to month end close milestone deadlines.
+</div></li>
+<li><p>DATA INTEGRITY – Work with stake holders to resolve issues related to master data including coordinating corrections with source ERP systems and historical transactions within the data warehouse and ChRM.</p></li>
+</ul>
+<div>
+<br>
+</div>
+<div></div>
+<div>
+<br>
+</div>
+</div>
+<div></div>
+<div>
+<b>Qualifications</b><div>
+</div>
+<div><b>
+Job Requirements:</b></div>
+<ul>
+<li><div>
+Associates Degree and a minimum of 1 year of experience preferred. 5 years of experience in lieu of degree.</div></li>
+<li><div>
+Experience in processes (finance and operations) and systems (Data Warehouse, Rise, Oracle, QAD, SAP, BI, etc.) preferred</div></li>
+<li><div>
+Strong Microsoft Excel knowledge and experience preferred</div></li>
+<li><div>
+Ability to work across cultures, communicate and collaborate well with others</div></li>
+<li><div>
+Ability to work independently and present solutions to problems</div></li>
+<li><div>
+Very detailed and process oriented</div></li>
+<li><div>
+Normal office working conditions, with frequent walkthrough of the factories and some travelling by land or air
+</div></li>
+<li><div>Ability to travel up to 5% of the time.</div></li>
+</ul>
+<div></div>
+<br>
+<div>
+</div>
+<div></div>
+<br>
+<ul><li>Welbilt, Inc. provides the world’s top chefs, premier chain operators and growing independents with industry-leading equipment and solutions. Our innovative products and solutions are powered by our deep knowledge, operator insights, and culinary expertise. Our portfolio of 12 award-winning product brands includes Cleveland™, Convotherm®, Crem®, Delfield®, Frymaster®, Garland®, Kolpak®, Lincoln™, Manitowoc®, Merco®, Merrychef® and Multiplex®. These product brands are supported by three service brands: KitchenCare®, our aftermarket parts and service brand, FitKitchen®, our fully-integrated kitchen systems brand, and KitchenConnect®, our cloud-based digital platform brand. Headquartered in the Tampa Bay region of Florida, supported by over 5,400 employees and operating 21 manufacturing facilities throughout the Americas, Europe and Asia, we sell through a global network of over 5,000 distributors and dealers in over 100 countries. For more information, visit www.welbilt.com.</li></ul>
+<div></div>
+<br>
+<div>
+</div>
+<div>
+<i>
+Welbilt, Inc. is an equal opportunity employer who values diversity in the workplace.</i><i> </i><i>All applicants shall receive equal consideration and treatment in employment without regard to race, color, religion, ancestry, national origin, age, sex, marital status, familial status, or medical condition. All recruitment, hiring, placements, transfers and promotions will be on the basis of individual skills, knowledge and abilities, and the feasibility of any necessary job accommodation(s).</i><br>
+</div>
+<div></div>
+<div>
+</div>
+</div>
+<div></div>
+<div>
+<b>
+Primary Location</b><b>:</b> United States-FL-New Port Richey</div>
+<div>
+<b>
+Job</b><b>:</b> IT/IS/MIS</div>
+<div>
+<b>
+Organization</b><b>:</b> Manitowoc FSG Operations, LLC</div>
+<div>
+<b>
+Travel</b><b>:</b> Yes, 5 % of the Time</div>
+<div>
+<b>
+Job Posting</b><b>:</b> Sep 27, 2019, 9:34:05 AM</div>
+</div>
+</div>

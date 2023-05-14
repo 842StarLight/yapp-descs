@@ -1,0 +1,49 @@
+<h2>Technical Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>About Enjoy</b></p>
+<p>Enjoy is the next generation of the retail store. We pride ourselves on delivering a new kind of buying experience and our friendly Customer Experience Experts bring the best of the store directly to you. We offer same-day delivery for today’s premiere mobile devices with additional help and setup. Best of all...it’s free!</p>
+<p>Each year we grow, reaching a total of 50 locations in 2018, with more expansion on the horizon. Needless to say, it’s an ambitious undertaking which requires a spirit of winning together and a strong growth mindset. We value people who choose kindness and are obsessed with delivering amazing experiences. We are helping today’s premier companies navigate the shift from brick and mortar to online commerce that delivers a first-rate experience to the experience obsessed. Enjoy delivers speed, kindness, and an outstanding value.</p>
+<p>Enjoy is founded and led by Ron Johnson, former head of Apple Retail. Alongside is an executive team from leading retail, technology, and design organizations such as Apple, Facebook, and Amazon.</p>
+<p><b>About the Role</b></p>
+<p>The engineering team at Enjoy builds the core technology that brings our product and the expert together. As a Partner Solutions Architect, you will be tasked with representing enjoy to our business and technology partners by architecting creative technology and operations solutions that allow our partners to meet their strategic objectives.</p>
+<p>You will collaborate with your internal and external stakeholders to integrate the Enjoy platform within our partner's systems to achieve 5-star experiences for our customers. This includes but not limited to leveraging Enjoy API’s, data platform, point of sale, etc. You will foster strong relationships with our partners’ business, operations and engineering orgs, uniquely positioning you and your team to create integration solutions tailored to their specific needs. You will communicate with our partners on a daily basis to ensure alignment on internal timelines for successful launch, vision, strategy and tactical execution.</p>
+<p>You will work closely with our product managers and engineers to build and optimize algorithms and systems. Additionally, you will collaborate with Field teams to run experiments and with the Data team to understand the results. Together with our business and experience teams, you will help create what success means for our Experts, partners, and customers.</p>
+<p><b>Requirements</b></p>
+<ul>
+<li>+4 years of Technical Product Management or Solutions Architecture experience</li>
+<li>Has a track record of building strong relationships with both internal and external business teams</li>
+<li>Ability to communicate easily and effectively with internal and key partners’ cross-functional teams, including but not limited to: senior management, business development, marketing, product and project management, architect, engineering, operations, SC&amp;L etc</li>
+<li>Passionate about building bridges between our customer and our Enjoy partners; equally passionate about building bridges between systems</li>
+<li>Has a technical degree; CS or equivalent</li>
+<li>Experience in design, implementation and deployment experience of large-scale, distributed applications</li>
+<li>Versed in experience architecting and implementing systems integration technologies</li>
+<li>Ability to deliver high-quality, detailed-oriented documents</li>
+<li>Is adaptable to new (or old) technologies and learn quickly</li>
+<li>Has a data-driven approach</li>
+<li>Experience with a test-first approach</li>
+<li>Willingness to be scrappy and experiment constantly to get to the key learnings and insights</li>
+<li>Can prioritize based on impact and keep cross-functional teams focused</li>
+<li>Knowledge of modern web API technology</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $190,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>solutions architect: 3 years (Preferred)</li>
+<li>product management: 3 years (Preferred)</li>
+</ul>
+<p>Additional Compensation:</p>
+<ul><li>Other forms</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Flexible schedule</li>
+<li>Parental leave</li>
+</ul>
+</div>

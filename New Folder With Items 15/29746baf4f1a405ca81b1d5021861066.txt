@@ -1,0 +1,17 @@
+<h2>Project Leader</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Headstorm is looking to hire experienced Project Leaders that can lead project teams to successfully meet client business objectives while ensuring projects are delivered on time and on budget. The ideal candidate possesses a combination technical aptitude, strong business acumen, and the ability to lead by the art of influence.</p>
+<p><b>
+Qualifications:</b></p>
+<ul>
+<li>6-12 years of professional software development experience</li>
+<li>Leads the development process including planning, development, code-reviews, pair-programming, and testing</li>
+<li>Experienced in managing projects including estimating, budgeting, status reporting, etc.</li>
+<li>Ability to effectively manage multiple tasks across projects running concurrently</li>
+<li>Passion for learning and excited to work in a team environment</li>
+<li>Refined communication skills for sharing ideas and delivering presentations to executives and both technical and nontechnical audiences at all levels of the organization</li>
+<li>Understands the professional services business model and is able to drive new sales of at least $500,000 annually</li>
+<li>Bachelor’s degree in Computer Science, Computer Engineering, MIS, Math, or comparable</li>
+<li>Legally authorized to work for any company in the United States without sponsorship</li>
+</ul>
+</div></div>

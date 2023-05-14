@@ -1,0 +1,76 @@
+<h2>Technical Support Engineer I (Linux Proficiency)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>Your Role:</b></div>
+<p>
+Tenable is looking for motivated individuals to join our Technical Support Team. The Technical Support Engineer (TSE) is the first contact for all customers when they require technical assistance. In a time when the next Spectre and Meltdown may be announced to the public at any moment, TSEs have what it takes to thrive in a fast-paced, high stakes environment. TSEs are experts on all Tenable products in our goal to minimize Cyber Exposure, but you’ll also have experience in several technologies and a strong interest to learn more.</p>
+<p><b>
+Your Opportunity:</b></p>
+<ul>
+<li>
+Build an in-depth knowledge of the entire Tenable product suite</li>
+<li>
+Resolve customer issues; help them understand their vulnerability scan results, their compliance with industry standards, and how Tenable can help them close their Cyber Exposure gap</li>
+<li>
+Diagnose, research, reproduce, and report defects, working closely with Research &amp; Development</li>
+<li>
+Engage customers in a variety of mediums, including email, phone, live chat, and screen sharing sessions</li>
+<li>
+Help maintain the Tenable knowledgebase, writing articles based on your first-hand experience helping customers mitigate the vulnerabilities that can impact all of our day-to-day lives</li>
+<li>
+Work closely and build relationships with the rest of the Tenable team, including Sales, Customer Advocacy, and Operations</li>
+</ul>
+<p><b>
+What you'll need:</b></p>
+<ul>
+<li>
+Bachelor’s degree in a technical field (or equivalent experience)</li>
+<li>
+1+ Years Customer Support / Helpdesk Experience</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Robust problem-solving skills, the ability to learn from doing, personal accountability, and a positive and professional attitude</li>
+<li>
+In depth log analysis skills</li>
+<li>
+Experience and knowledge in the following areas:</li>
+<ul>
+<li>
+Network administration, Firewall Configuration, and strong knowledge of TCP/IP</li>
+<li>
+Linux/Unix administration and system configuration</li>
+<li>
+Windows and/or Mac OS administration and system configuration</li>
+<li>
+Either professionally or in an academic setting, using Nessus and/or other vulnerability management or cyber security tools</li>
+</ul>
+</ul>
+<b>
+And ideally:</b><br>
+<ul>
+<li>Log analysis using Splunk or another SIEM product</li>
+<li>
+Database technologies and SQL knowledge (Oracle, MySQL, MSSQL, etc.)</li>
+<li>
+Virtualization technology (VMWare, Hyper-V, Amazon AWS, Microsoft Azure, Docker, etc.)</li>
+<li>
+Basic programming knowledge</li>
+<li>
+Scripting in Bash, Python, Powershell, etc.</li>
+<li>
+Experience in Industry Security Standards (DISA, HIPAA, CIS, ISO 27001, etc)</li>
+<li>
+Certificates and CA’s</li>
+<li>
+Wireshark and pcaps</li>
+<li>
+Bilingual candidates are desirable but not required (Spanish, German, French, Mandarin, Japanese)</li>
+</ul>
+<b>
+Current Open Shifts</b><br>
+<ul><li>7:00am-3:30pm EST</li></ul>
+<p>
+If you’ve reached this point in the job description and feel you’re still not sure if you should apply…Just do it! We know there are no perfect applicants. You may not have 100% of all those bullets listed above - and that’s okay. If you’re feeling like you’re not going to fit in with our teams - that’s not ok. We're One Tenable which means however you identify and whatever background you bring with you, we encourage you to submit an application if it’s a role you can be passionate about doing every day.<br>
+<br>
+<i>We’re committed to promoting Equal Employment Opportunity (EEO) at Tenable - through all equal employment opportunity laws and regulations at the international, federal, state and local levels. #stack</i></p>
+</div></div>

@@ -1,0 +1,56 @@
+<h2>Sr. Manager/Director, Data Science</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Position:</b> Sr. Manager/Director, Data Science
+<br><br>
+Company overview
+<br><br>
+automotiveMastermind provides U.S. automotive dealers with AI/behavior prediction analytics software and marketing solutions that improve the vehicle purchase process and results. The company's cloud-based technology helps dealers precisely predict automobile-buying behavior and automates the creation of microtargeted customer communications, leading to proven higher sales and more consistent customer retention. In 2017, we were acquired by IHS Markit.
+<br><br>
+IHS Markit, whose subsidiaries include Carfax Inc., serves more than 50,000 key customers in more than 140 countries, including 80 percent of the Fortune Global 500. They help decision makers apply higher-level thinking to daily tasks and strategic issues across a host of industries and disciplines including energy, finance, automotive, engineering, technology, maritime and trade, aerospace and defense, chemical, and economics and country risk. Headquartered in London, IHS Markit (Nasdaq: INFO) is committed to sustainable, profitable growth.
+<br><br>
+Who we are
+<br>Our Company was founded on the idea that there are patterns in people's behavior that, with the right logic, can be used to predict future outcomes. We are a small but rapidly growing organization that works in partnership with our customers to create solutions that are simply not found anywhere else. We work in groups rather than in structured corporate hierarchies; our culture is creative and entrepreneurial where everyone contributes to company goals in very real way. We are a hardworking group, but we have a lot of fun with what we do and are looking for new people with a similar mindset to join the organization. Our software engineering teams operate like those in a start-up, fostering creativity, strong ownership with quick decision making. Yet we are part of an established company that is always looking for growth opportunity
+<br><br>
+What we do
+<br>Our proprietary software-as-a-service helps automotive dealerships and sales teams better understand and predict exactly which customers are ready to buy, the reasons why, and the key offers and incentives most likely to close the sale. Its micro-marketing engine then delivers the right message at the right time to those customers, ensuring higher conversion rates and a stronger ROI.
+<br><br>
+What you will do
+<br><br>
+Lead our data science team within the technology organization. In this role, you will
+<br><br>
+<ul>
+<li>Lead and coach a team of talented data scientists and ML engineers. Establish actionable KPIs and success metrics for your team</li>
+<li>Work with commercial and product teams to identify business needs, understand distinct problems. Do research, test and experiment with techniques, and build best-in-class machine learning models, to uncover actionable insights and patterns. Provides thought leadership and strategic advice to businesses through "art of the possible" conversations and demonstrating value though "proof of values"</li>
+<li>Own and evolve the vision for data needed for the data science projects, integrate cross-channel data, mine and visualize data, model research and results, build appropriate dashboards for predictive analytics</li>
+<li>Productionize the researched models, build &amp; maintain services that encase these models and partner with engineering teams using these services. Ultimately research and build predictive systems and intelligent automation that enable smarter business decisions and improved customer experience.</li>
+</ul>
+Who you are
+<br><br>
+You are a talented leader with several years of experience as a data scientist who understand data engineering and software engineering, and 4+ years of demonstrated and successful experience leading data science team through the implementation of new data science models, tools, and techniques, and improving business performance
+<br><br>
+As a data scientist you are
+<br><br>
+<ul>
+<li>Passionate about empirical research and data science. An expert with deep understanding of methods in data science and ML, as well as using statistical methods.</li>
+<li>An expert in analyzing and manipulating large, complex, high-dimensional data from numerous sources, and in using SQL.</li>
+<li>Experienced in building machine learning models and delivering them to production software environments.</li>
+<li>A graduate with MS or PhD in mathematics, statistics, computer science or related quantitative field.</li>
+</ul>
+As a leader you are
+<br><br>
+<ul>
+<li>A team player, comfortable working in a distributed team and across time zones</li>
+<li>Able to lead a cross-functional group in a unified direction</li>
+<li>Solid communicator, both with highly team teams with non-technical stakeholders.</li>
+</ul>
+Expected Hours of Work
+<br>This is a full-time position. Generally, work is performed Monday through Friday, though holidays and weekends may be required.
+<br><br>
+Travel
+<br><br>
+This role may need some travel.
+<br><br>
+We believe in equal employment opportunities
+<br>The company provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, the company complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+<br><br>
+The company expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of the company's employees to perform their job duties may result in disciplinary actions up to and including discharge.</div>

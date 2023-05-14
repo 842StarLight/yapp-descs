@@ -1,0 +1,73 @@
+<h2>Software Engineering Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Why We Work at Dun &amp; Bradstreet
+</b></h2>
+<p></p>
+<p>We are at a transformational moment in our company journey - and we’re so excited about it. Each day, we are finding new ways to strengthen our award-winning culture, and to accelerate creativity, innovation and growth. Our purpose is to help customers improve business performance with Dun &amp; Bradstreet’s Data Cloud and Live Business Identity, and we’re wildly passionate and committed to this purpose. So, if you’re looking to make an immediate impact at a company that welcomes bold and diverse thinking, come join us!<br>
+</p>
+<p></p>
+<p><b>The Team:
+</b></p>
+<p>Finance Solutions technology team is a globally distributed team responsible for building, managing and supporting products that bring in 1B+ in yearly revenue. The charter for the team is to enable transformation of our finance solution technology stack into consolidated modern, stable and scalable platform to bring intuitive user experience, global coverage and scope with our more advanced workflow, automation, and integration capabilities to meet the current and future needs of our clients.
+</p>
+<p></p>
+<p><b>The Role:
+</b></p>
+<p>The Software Development Manager will be responsible for successfully leading multiple teams of software engineers that are distributed across our multiple technology locations, to deliver various software products efficiently and effectively. In addition, this role will work closely with cross functional teams as well as product managers, pre-sales, key clients, vendors and suppliers. In this role, you will bring in and execute on industry best SDLC practices that will help modernize our products and platforms. You will have the ability to drive innovation and collaborate with like minded technologists across the organization.
+</p>
+<p></p>
+<p>Core capabilities, competencies and experience in the following areas: stakeholder management, project management, agile/lean, team engagement, process control, technology strategy, software development, software testing, release management, staff planning and product support. While every leader will have a different blend of these skills, we are looking for a dynamic leader who knows how to leverage his/her knowledge and experience to deliver modern and effective software solutions.
+</p>
+<p></p>
+<p><b>Key Responsibilities:
+</b></p>
+<ul>
+<li>Manage onshore and offshore scrum teams to provide high quality application solutions. Ensure the teams are structured to deliver value via high quality and high availability application solutions leveraging modern Cloud and DevOps practices.
+</li>
+<li>Motivate, lead and develop a team of diverse individuals with a variety of experience levels and skill sets.
+</li>
+<li>Manage software project and resource planning for multiple agile teams (leveraging tools like Jira to manage projects through Kanban boards or Scrum projects).
+</li>
+<li>Collaborate with Product Management and other Application Development teams to prioritize initiatives and to plan resources effectively.
+</li>
+<li>Develop and apply consistent, agile development processes for the teams and continually improve them through retrospectives.
+</li>
+<li>Evaluate existing software solutions and identify areas of improvement through new standards, simplification and enhanced functionality and/or transition to packaged solutions to improve supportability and time to market.
+</li>
+<li>Evaluate current development staff, monitor individual performance and team organization.
+</li>
+<li>Implementation of software development strategy utilizing modern methods especially around Microservices and Domain-Driven Design.
+</li>
+</ul>
+<p></p>
+<p><b>Key Requirements:
+</b></p>
+<ul>
+<li>Bachelor’s degree in computer science or related field or equivalent professional experience.
+</li>
+<li>5+ Years as a Development Manager or Software Project/Program Manager leading a team of 10+ resources
+</li>
+<li>4+ Years as hands-on development / engineering experience (Java/J2EE or .NET)
+</li>
+<li>Experience with cloud software delivery (AWS, Azure)
+</li>
+<li>Strong understanding of software engineering best practices and solution architectures (OO Design and Enterprise Patterns)
+</li>
+<li>Strong DevOps culture, process and tools knowledge (e.g. Jira, Jenkins, Puppet/Chef)
+</li>
+<li>Familiarity with JS Frameworks (Node, Angular, React)
+</li>
+<li>Familiarity with API development frameworks
+</li>
+<li>Excellent verbal and written communication skills
+</li>
+</ul>
+<p></p>
+<p>Dun &amp; Bradstreet is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, age, national origin, citizenship status, disability status, sexual orientation, gender identity or expression, pregnancy, genetic information, protected military and veteran status, ancestry, marital status, medical condition (cancer and genetic characteristics) or any other characteristic protected by law.<br>
+</p>
+<p><br>
+We are committed to Equal Employment Opportunity and providing reasonable accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with Dun &amp; Bradstreet and need special assistance or an accommodation to use our website or to apply for a position, please send an e-mail with your request to TalentAcquisitionTeam@dnb.com. Determination on requests for reasonable accommodation are made on a case-by-case basis.
+</p>
+<p></p>
+<p>Please note that all Dun &amp; Bradstreet job postings can be found at https://dnb.wd1.myworkdayjobs.com/Careers and all communication from Dun &amp; Bradstreet will come from an email address ending in @dnb.com.</p>
+</div></div>

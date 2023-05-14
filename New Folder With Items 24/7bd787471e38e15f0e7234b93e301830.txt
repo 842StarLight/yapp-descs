@@ -1,0 +1,55 @@
+<h2>Implementation Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">ABOUT THE ROLE
+<br><br>
+Are you driven to help others? Do you enjoy solving problems? If so, this job might be for you. OneLogin is looking for an Implementation Consultant that will be the catalyst to making sure our customers' deployments are successful. The OneLogin Implementation Consultant should be self-motivated, have an insatiable thirst to drive our customers to success and love every minute doing it. You will scope out customer engagements, implement the solution and ensure our customers get the most value from our service.
+<br><br>
+RESPONSIBILITIES
+<br><br>
+<ul>
+<li>Be proactive in providing outstanding design and deployment services resulting in outstanding customer satisfaction</li>
+<li>Be prompt and provide high quality service and leadership to align with customer goals and requests</li>
+<li>Manage project scope, schedule, status, and documentation</li>
+<li>Mentor and train customers on the OneLogin service</li>
+<li>Lead interaction and collaboration with other OneLogin teams such as Engineering and Support as needed to address escalated issues</li>
+<li>Collaborate with the sales team on existing customers to up-sell and cross-sell opportunities</li>
+<li>Manage multiple concurrent deployment projects</li>
+<li>Contribute to and use knowledge base repository of deployment best practices</li>
+<li>Provide development and integration assistance</li>
+<li>BSCS degree preferred</li>
+<li>Knowledge of directory technologies strongly preferred (Active Directory, LDAP)</li>
+<li>Some knowledge and experience in Identity and Access Management (IAM) and Security space preferred</li>
+</ul>
+ABOUT YOU
+<br><br>
+<ul>
+<li>Minimum 4 to 6 years of SaaS deployment experience</li>
+<li>Experience with implementing Web Access Management, such as SiteMinder or Oracle Access Manager</li>
+<li>Ability to work independently and collaboratively supporting the development of client deliverables</li>
+<li>General knowledge of cloud architecture as well as on-premise IT landscape</li>
+<li>General knowledge of SAML and forms based authentication</li>
+<li>Ability to manage multiple projects simultaneously</li>
+<li>Self-starter a must in a high pressure environment</li>
+<li>Comfortable and willing to be a hands-on contributor</li>
+<li>Excellent communication skills, including issue tracking, triaging and crisis management</li>
+</ul>
+<b>APPLICANTS MUST POSSESS A STRONG KNOWLEDGE OF:</b><br>
+<ul>
+<li>AD and LDAP Directory integration</li>
+<li>Networking: HTTP, HTTPS, SSL, IIS, TCP, Radius, Firewall, proxy...etc</li>
+<li>Basic understanding of programming: JavaScript</li>
+<li>API integrations (POST, GET, PUT)</li>
+</ul>
+ABOUT ONELOGIN
+<br><br>
+OneLogin, the leader in Unified Access Management ( https://www.onelogin.com/ ), connects people with technology through a simple and secure login, empowering organizations to access the world™. The OneLogin Unified Access Management (UAM) platform is the key to unlocking the apps, devices, and data that drive productivity and facilitate collaboration. OneLogin serves businesses and partners across a multitude of industries, with over 2,500 customers worldwide. We are headquartered in San Francisco, California. For more information, visit www.onelogin.com ( https://www.onelogin.com/ ), Blog ( https://www.onelogin.com/blog ), Facebook ( https://www.facebook.com/OneLogin/ ), Twitter ( https://twitter.com/onelogin ), or LinkedIn ( https://www.linkedin.com/company/onelogin ).
+<br><br>
+Our core values ( https://www.onelogin.com/company/culture )
+<br><br>
+<ul>
+<li>Security first - We make it our #1 priority to protect data and privacy. From the way we work to the technology we provide, security is top of mind</li>
+<li>Customer focused - We design for, listen to and partner with customers to come up with smart solutions that drive business value</li>
+<li>Collaborative - We take bold steps and work together to thrive across boundaries. We drive productivity as we grow as one team</li>
+<li>Accountable - We get things done and take ownership in our work. Showcasing consistent quality and pride to perform at the highest levels</li>
+<li>Creative - We embody creativity in everything we do. We embrace a diversity of ideas. We execute with ingenuity, flexibility, and agility</li>
+</ul>
+</div>

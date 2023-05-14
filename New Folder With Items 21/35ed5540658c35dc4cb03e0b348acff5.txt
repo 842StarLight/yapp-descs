@@ -1,0 +1,106 @@
+<h2>Big Data Infrastructure Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Title: Big Data Infrastructure Lead</b></p>
+<p><b>
+Location: Atlanta, GA - 30328</b></p>
+<p><b>
+Full Time Direct Hire</b></p>
+<p><b>
+Job Overview:</b></p>
+<p>
+Our client is implementing a new Big Data team, which will operate in a DevOps model. The team consists of several different roles including a Big Data Infrastructure Lead. The team will collaborate with business stakeholders and will be responsible for the overall product, enhancing sprint by sprint.</p>
+<p><b>
+The team is the key contact to our business for:</b></p>
+<ul>
+<li>
+Collecting and implementing business requirements and defining solutions for the future</li>
+<li>
+Leading discussions with stakeholders to identify priorities, user stories, define backlog, usability, sprint planning</li>
+<li>
+Aligning strategies with applications’ team &amp; business to ensure that the set up &amp; structure supports business priorities</li>
+</ul>
+<p><b>Responsibilities:</b></p>
+<ul>
+<li>
+Within the DevOps team, you are the lead of the big data infrastructure platform for marketing and sales in Mercedes-Benz USA. As such, you are the owner of the overall solution and will be responsible for:</li>
+<li>
+designing a new holistic big data infrastructure architecture to transform the big data environment into a highly valued business asset</li>
+<li>
+understanding the global industry and competitive landscape, analyzing and supporting the dynamic data science and analytics needs of the future</li>
+<li>
+leveraging appropriate data platforms and technologies</li>
+<li>
+developing, implementing and driving a realistic strategy in alignment with the business to simplify data integration, increase usability and plot overall solution blueprints</li>
+<li>
+transforming from on-premise to Microsoft Azure based solution</li>
+<li>
+cooperating closely and sharing best practices across regions, divisions and functions, you are the subject matter expert &amp; point of contact for peers from other regions/entities as well as the interface to central services team, alation, Azure</li>
+<li>
+developing overall solution blueprint architecture by leveraging global skills &amp; architecture blueprints:</li>
+</ul>
+<p> o how to ingest data in an efficient and timely manner from our applications databases to our data lake and the data warehouse</p>
+<p>
+ o how to manage and track KPIs for overall solution</p>
+<p>
+ o define state of the art security model and maintain proper documentation</p>
+<p>
+ o how to define and handle the future data warehouse in the cloud</p>
+<p>
+ o architect infrastructure landscape in the scientific, predictive analysis use-cases with R and Python</p>
+<p>
+ o evaluate current reporting landscape that consists of Tableau and Cognos - assess, define and architect infrastructure for reporting and dash boarding needs in a DevOps model with our business and applications' team</p>
+<ul>
+<li>
+designing, owning and collaborating with big data operations lead on the security model</li>
+<li>
+focusing the team’s efforts on customer benefits - anticipating and addressing needs of customers and business partners, managing requirements and resources to enable the team’s success</li>
+<li>
+seeing the "big picture" and thus understanding relevant interrelationships – provide purpose and background to the team</li>
+<li>
+driving innovation, creativity and "out-of-the-box" thinking in the team and promoting an environment of "lessons learned" and continuous performance improvement</li>
+<li>
+setting high standards and achievable goals for each sprint</li>
+</ul>
+<p><b>Education:</b></p>
+<ul><li>
+Bachelor’s Degree (accredited school) or equivalent work experience with emphasis in:</li></ul>
+<p> o Computer/Information Science</p>
+<p>
+ o Information Technology</p>
+<p><b>
+Must have extensive knowledge of /experience in:</b></p>
+<ul>
+<li>
+Dashboard and reporting software – e.g. Tableau, Cognos or PowerBI</li>
+<li>
+Cloud: MS Azure (platform)</li>
+<li>
+Database and data warehouse technologies</li>
+<li>
+Data catalog and modeling software like Erwin, Alation</li>
+<li>
+DevOps and Scrum working models</li>
+<li>
+Working with and managing cross-functional teams</li>
+<li>
+Architecture, design, implementation of Big Data solutions</li>
+<li>
+Hands-on experience with major Big Data technologies and frameworks including Hadoop, MapReduce, Pig, Hive, HBase, Oozie, Mahout, Flume, ZooKeeper, MongoDB, and Cassandra</li>
+<li>
+Experience with Big Data solutions deployed in large cloud computing infrastructures, main focus on Azure</li>
+<li>
+Strong knowledge of programming and scripting languages such as Java, Linus, PHP, Ruby, Phyton</li>
+<li>
+Big Data query tools such as Pig, Hive and Impala</li>
+<li>
+Project Management Skills:</li>
+</ul>
+<p> o Ability to develop plans/projects from conceptualization to implementation</p>
+<p>
+ o Ability to organize workflow and direct tasks as well as document milestones and ROI’s and resolve problems</p>
+<ul><li>
+Proven experience with the following:</li></ul>
+<p> o Servers, storage, networking, and data archival/backup solutions</p>
+<p>
+ o Industry knowledge and experience in areas such as Software Defined Networking (SDN), IT infrastructure and systems security, and cloud or network systems management</p>
+</div></div>

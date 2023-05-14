@@ -1,0 +1,15 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Install, configure and optimize POS (Point of Sale) switchboards (24 port) and hotspots for lab environment. Verify Connex to RTS (Chip Card Transaction (EMV), Apple Pay, Swipe, Gift Card, OTC) migration. Responsible for REST API testing using SOAP UI &amp; Postman tool. Track User stories and team progress using Microsoft Visual Studio Team Services (VSTS). Use website analytics tools such as Omniture/Adobe Analytics. Perform Restful Web Services automation testing using Rest Assured, TestNG.</p>
+Requirements:
+<ul>
+<li>Minimum Education: Master degree in Computer Science or Electrical Engineering.</li>
+<li>Experiance: 6 months as Software/System Engineer or Consultant.
+</li>
+</ul>Ref: #6493.
+<div>
+<b>Location:</b> Farmington Hills, MI. (Relocation is possible).</div>
+</div>
+<br><p>For opportunities at Tech-Apex, Please send your updated resumes to hr@tech-apex.com</p>
+</div>

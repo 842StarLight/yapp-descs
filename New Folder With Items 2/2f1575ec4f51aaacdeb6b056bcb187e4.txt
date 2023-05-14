@@ -1,0 +1,87 @@
+<h2>Computer Engineering Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<h2 class="jobSectionHeader"><b>Job description</b></h2>
+<div>
+<p>The Computer Engineering Manager is responsible for inspiring a team of computer engineers to develop leading-edge aerospace engine testing products. They will plan, direct, and coordinate all department activities while promoting a continuous improvement culture ensuring each project satisfies profit projection while upholding the quality and timeliness of Safran Test Cells (STC) deliverables.</p>
+<p><br>
+Duties:<br>
+</p>
+<div><ul><li>Plan and allocate department resources to support engineering related</li></ul></div>
+activities to include software development, quality assurance, installation, R&amp;D and customer support.<br>
+<div><ul>
+<li>Develop, direct, and maintain departmental design policies, practices and standards to ensure quality deliverables to customers.</li>
+<li>Develop and implement strategies to optimize departmental efficiency to ensure products are delivered in a timely manner meeting revenue projections.</li>
+<li>Promote, practice, and reinforce quality among team members by encouraging a First-Time-Right approach while preparing design deliverables that satisfy both budget and schedule requirements.</li>
+<li>Lead and manage a team of computer engineers in the design and realization of engine test software, data acquisition and control systems for turbo-fan engine test facilities and associated equipment.</li>
+</ul></div>
+<p></p>
+<div><ul>
+<li>Concept, design development and management of Safran Test Cells Software and DACS R&amp;D, including regular reporting and the development of the analytical work scope, estimated costs and schedules</li>
+<li>Coordinate software design, development, and R&amp;D with Safran Aero Boosters.</li>
+<li>Review, approve, and authorize software designs and design changes, ensuring that designs are in accordance with contractual requirements, design standards, and company quality policy and procedures.</li>
+<li>Manage all aspects of software development life cycle from requirements definition through development, validation, release and sustaining engineering support including documentation and revision control.</li>
+<li>Identify and implement new technologies to maintain company's leading- edge software and data acquisition products.</li>
+<li>Provide technical support to cross-functional departments and the sales team, including: proposal and cost development, technical review and customer presentations.</li>
+<li>Collaborate with team during the R&amp;D process to include envisioning, designing and developing the product as well as managing the product release ensuring actual costs and schedules are aligned with established projections.</li>
+<li>Identify, implement and maintain the latest software quality assurance tools.</li>
+<li>Manage department resources: maintaining adequate staffing levels to support project work, mentor and train staff, and evaluate their performance in a timely manner.</li>
+<li>Provide technical support to other departments, such as Operations, Purchasing, Technical Publications, Installation/Acceptance, and Customer Support.</li>
+<li>Participate in customer design reviews.</li>
+<li>Domestic and International travel, as required (10%)</li>
+<li>Other duties as</li>
+</ul></div>
+<p></p>
+</div>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Job requirements</b></h2>
+<p></p>
+<div>
+<div><ul>
+<li>A minimum of 5 years of direct engineering management experience with a strong background in Software Engineering.</li>
+<li>Minimum Bachelor of Science Degree in Engineering with experience applying software development principles.</li>
+<li>Demonstrated ability to make timely strategic decisions balancing analysis with decisiveness.</li>
+<li>Proven ability to manage resources and processes to ensure successful project outcomes.</li>
+<li>Ability to identify and implement new methods, processes, and technology that will contribute to STC technological advances.</li>
+<li>Proven ability to cultivate an environment of accountability and creativity.</li>
+<li>Strong problem solving skills with a continuous improvement mindset.</li>
+<li>Track record of developing staff, fostering an inclusive work environment, and demonstrated ability to build and maintain strong working relationships with staff and peers locally and internationally.</li>
+<li>Results-oriented manager with a proven track record of leading, influencing and inspiring team to meet and even exceed project goals.</li>
+<li>Proven ability to set a clear vision and clearly communicate strategy to staff.</li>
+<li>Strong analytical and project management skills to include managing multi-discipline projects.</li>
+<li>Highly knowledgeable in software design life cycle and software systems, instrumentation, data acquisition and control systems</li>
+<li>Strong written and verbal communications skills with the ability to work with customers, suppliers and staff at all levels</li>
+<li>Able and willing to travel both domestically and internationally, as required.</li>
+</ul></div>
+<p></p>
+<p>
+Additional Requirements:</p>
+<p></p>
+<div><ul><li>Demonstrated experience in:</li></ul></div>
+o Software / systems design and development<br>
+o Full software development life cycle and quality assurance<br>
+<div><ul>
+<li>A broad background in control theory, measurement and instrumentation, data acquisition systems.</li>
+<li>Working knowledge of software design life cycle and software systems, instrumentation, data acquisition and control systems C++, Java, HTML, TCP/IP, Unix, Linux, MS Windows and proficiency with Microsoft Office applications - Word, Excel, PowerPoint, and Project Management tools.</li>
+</ul></div>
+<p></p>
+</div>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Specificity of the job</b></h2>
+<div>
+<p>Domestic and International travel, as required (10%)</p>
+</div>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Company information</b></h2>
+<div>
+<p>Safran is an international high-technology group, operating in the aircraft propulsion and equipment, space and defense markets. Safran has a global presence, with more than 92,000 employees and sales of 21 billion euros in 2018. Working alone or in partnership, Safran holds world or European leadership positions in its core markets. Safran undertakes Research &amp; Development programs to meet fast-changing market requirements, with total R&amp;D expenditures of around 1.5 billion euros in 2018.</p>
+<p>
+Safran is ranked among the Top 100 Global Innovators by Thomson Reuters and is featured on the "Happy at work" rankings. The Group places fourth on the Universum ranking for the favorite companies of newly-qualified engineers in France.</p>
+<p><br>
+Safran Aero Boosters designs, develops and manufactures low-pressure compressors, equipment and test cells for aerospace propulsion. The company's products are on board the majority of commercial aircraft in service as well as Europe's Ariane launch vehicle.</p>
+</div>
+</div>
+</div></div>

@@ -1,0 +1,110 @@
+<h2>Resident Engineer III</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Req ID 171 | CSS Lafayette Staff, United States</p>
+<div><b>
+Job Description:</b></div>
+<p>ZF is a global technology company and supplies systems for passenger cars, commercial vehicles and industrial technology, enabling the next generation of mobility. With its comprehensive technology portfolio, the company offers integrated solutions for established vehicle manufacturers, mobility providers and start-up companies in the fields of transportation and mobility. ZF continually enhances its systems in the areas of digital connectivity and automation in order to allow vehicles to see, think and act.</p>
+<p>
+In 2018, ZF achieved sales of €36.9 billion. The company has a global workforce of 149,000 with approximately 230 locations in 40 countries. ZF invests over six percent of its sales in research and development annually.</p>
+<p><b>
+This role will be located in the Pacific Northwest region of the United States.<br>
+</b></p>
+<br>
+<br>
+<b>Position Description:</b>
+<br>
+<br>
+<p>The Resident Engineer is the on-site technical liaison at a major truck OEM in the Pacific Northwest region, responsible for all software functional development activities with regards to ZF transmission technology. The position is responsible for coordinating the software calibration and releases at the OEM according to internal and external requirements. Additionally, the position is responsible for supporting general transmission system integration and validation for our product at the OEM.</p>
+<br>
+<br>
+<b>Position Requirements:</b>
+<br>
+<br>
+<ul>
+<li>Represent ZF throughout software product development programs on-site at the customer and provide guidance and/or expertise for all technical and business-related issues.</li>
+<li>
+Serve as a technical liaison to the customer for software functional changes and software change management processes. Provide clarification and technical explanation of ZF product specifications, calibration solutions, and component functions.</li>
+<li>
+Lead software program deliveries by tracking action items, calibration program timing, and software/calibration releases (including, but not limited to, the creation and execution of system-level development and validation test plans, development of functional test procedures and scripting, and performance of verification testing).</li>
+<li>
+Support (on-site as necessary) in any control-system issues arising during customer testing stages related to ZF product (including, but not limited to, providing technical support for customer prototype and vehicle builds, software and vehicle tests, dynamometer and component tests, and transmission systems integration projects).</li>
+<li>
+Perform root cause analysis and error correction of control-system problems related to electronics, sensors and wiring; support root cause investigations and special testing. Include both internal ZF studies, and external OEM interface studies.</li>
+<li>
+Support all EOL software and calibration parameter programming initiatives at the OEM assembly plant.</li>
+<li>
+Participate in department continuous-improvement activities to test and develop calibrations and control systems, improve calibrations and software solutions and data analysis techniques, and to develop new test procedures.
+</li>
+<li>Maintain, design, develop, and document software tools to support product development process.</li>
+</ul>
+<br>
+<br>
+<br>
+<b>Essential Skills and Experience:</b>
+<br>
+<br>
+<ul>
+<li>Bachelor’s Degree in Engineering (Mechanical/Electrical, Computer/Software, or related field) required.
+</li>
+<li>Minimum of 5 years of engineering experience in a product development and/or manufacturing environment (includes co-op and/or internship experience) with experience in real time embedded software control systems of vehicles required.</li>
+<li>
+Experience with automotive communication links (SAE J1939; SAE J1587, etc), ABS controls, engine controls, and transmission controls required.
+</li>
+<li>Experience with standard Engine / Transmission service tools and software required. Proficiency with data acquisition &amp; development tools (e.g. ETAS INCA, CANalyzer, etc.) required.
+</li>
+<li>Strong knowledge of technical aspects of software applications engineering and product design/development (specifically within a powertrain and/or automotive context) required. Experience in SFMEA’s, DFMEA’s and DVP’s required.
+</li>
+<li>In-depth understanding of electromechanical systems design, troubleshooting, and repair as well as an in-depth understanding of data acquisition, analysis and statistical methods required.
+</li>
+<li>Ability to interface with customers, cross-functional teams, and all levels of personnel/management required.
+</li>
+<li>Proficiency with Microsoft Office software required.
+</li>
+<li>Strong problem solving and analytical skills required. Strong verbal and written communication skills – especially complex technical topics with OEM customers required.
+</li>
+<li>Able to work independently and manage multiple responsibilities (i.e. self-starter, self-motivated) required.
+</li>
+<li>Commercial Driver’s License required; may obtain immediately after hiring. Good driving record required.</li>
+<li>
+Ability/willingness to travel (up to 25%) required.</li>
+</ul>
+<br>
+<br>
+<br>
+<b>Preferred Skills and Experience:</b>
+<br>
+<br>
+<ul>
+<li>Master’s Degree in Engineering (Mechanical/Electrical, Computer/Software, or related field) preferred.</li>
+<li>
+5+ years of experience as a software development engineer or calibration development engineer within a powertrain development and/or manufacturing environment (specifically within automotive industry) preferred.</li>
+<li>
+3+ years of software application/integration engineering experience with a focus on automatic and/or automated-manual transmissions preferred.</li>
+<li>
+1+ years of project management and/or supervisory experience in a manufacturing environment preferred.</li>
+<li>
+Solid knowledge of North American Medium-Duty and Heavy-Duty truck OEMs, their products, and the technical requirements specific to North America (Class 3-8) preferred.
+</li>
+<li>In-depth understanding of automatic and/or automated-manual transmission electronic control systems development and/or software calibration/testing processes preferred.
+</li>
+<li>Experience working on electronic control system for a heavy-duty truck automated manual transmission and clutch preferred.</li>
+<li>
+Experience with ZF-Specific Transmission programming/calibration tools and software preferred.</li>
+<li>
+Ability to utilize ZF PDM systems (e.g. Axalant) preferred.
+</li>
+<li>Deep knowledge of the technical components and critical functions of an automatic transmission and/or automated manual transmission – specifically for the medium duty and heavy-duty truck market preferred.
+</li>
+<li>Experience with VEPS EOL programming stations and associated processes in North American Truck OEMs preferred.</li>
+<li>
+Familiarity with Telematics systems and applications/interactions with powertrain systems preferred.</li>
+</ul>
+<p>Global Recruiting Center
+</p>
+<p>734-855-3300</p>
+<p></p>
+<p>Be part of our ZF team as Resident Engineer and apply now!</p>
+</div>
+<p></p>
+</div>

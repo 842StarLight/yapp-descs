@@ -1,0 +1,36 @@
+<h2>Android Platform Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Every day, Clover devices handle the core card and point-of-sale processing for hundreds of thousands of merchants. Behind the scenes, we operate a cloud platform providing processing, storage and collaboration for merchants, application developers, service providers and our merchants' customers. Our devices and platform form the backbone of millions of payment interactions between merchants and their customers daily.
+<br><br>
+If you have previous experience working on a phone or a tablet, think of it as similar, but with the added challenge of securely integrating a payment acceptance system in the same device.
+<br><br>
+Clover systems use multiple processors (and multiple OSs) on a single device, and some very innovative system architecture design to create a seamless payment experience.
+<br><br>
+We support an open Android based app market, allow secure PIN entry on the main display and support contactless payment through displays. To make the job more fun, we add a healthy dose of system architecture, security and payment systems. We also work with vendors, silicon partners and ODMs to define, design and deliver Clover products.
+<br><br>
+<b>The Role:</b><br>
+We are looking for people with 3-5 years of experience on Android application level development and an interest in working at the Android framework level.
+<br><br>
+<b>Key Responsibilities:</b><br>
+<ul>
+<li>Design and develop innovative, customized features and optimize Android system at framework layer, develop and implement key module</li>
+<li>Design and build user-friendly interactions in Android</li>
+<li>Ability to develop &amp; customize Android Services and Applications that are compatible with multiple Android versions and devices</li>
+<li>Port and integrate Android Security Patches</li>
+<li>Design and implement software for Clover POS devices from requirements phase to production phase</li>
+<li>Analyze and enhance efficiency, stability and scalability of system resources</li>
+</ul>
+<b>Minimum Qualifications:</b><br>
+<ul>
+<li>3+ years of experience in Android Application development using Java.</li>
+<li>BS or MS in computer science, computer engineering, or equivalent</li>
+<li>Strong understanding of computer science and programming, with strong competencies in data structures, algorithms and software design</li>
+<li>Professional experience with User Interface development</li>
+<li>Experience in system architecture design and code reviews</li>
+</ul>
+<b>Nice to have:</b><br>
+<ul>
+<li>Knowledge of Android applications/framework/HAL/middleware, AOSP, and NDK</li>
+<li>System programming experience in Java</li>
+<li>Good working knowledge of revision control and code review tools like Git, Gerrit</li>
+</ul>
+</div>

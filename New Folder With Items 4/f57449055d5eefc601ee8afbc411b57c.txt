@@ -1,0 +1,80 @@
+<h2>Data Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Your Opportunity
+</b></h2>
+<div><div><div>
+<div>Schwab Asset Management Solutions (SAMS), the asset management arm of Charles Schwab Corporation, has approximately $400 Billion in assets under management (AUM) and is one of the nation’s largest retail money managers. CSIM provides a wide variety of products ranging from money market funds, index mutual funds, actively managed mutual funds, exchange traded funds and multi-asset fund-of-funds. As a provider of core investment products, CSIM is both an important enabler in fulfilling Schwab’s mission of helping everyone be financially fit and a critical component of the company’s profitability and future growth. This is a <b>Data Architect</b> role based in Denver, CO, and member of the technology team that provides solutions to the Sales, Marketing &amp; Product Strategy business units.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>What you’re good at
+</b></h2>
+<div><div><div>
+<div>The role will lead our team’s data practice as a data architect, which includes facilitating data modeling sessions with business and technical users, reviewing source system layouts and schemas, analyzing the business and technical requirements and creating data models to meet our client’s business needs. This individual must be a strong data architect and be focused on assessing our client’s environment and requirements and design the Data architecture in conformance to best practices and support our software development lifecycle. The design responsibilities will involve conceptual, logical and physical data modeling, with an emphasis on the Kimball Dimensional Modeling methodology.</div>
+<ul>
+<li>
+Facilitate client assessment engagements to gather requirements, points of pain, gaps and other business and technical input that will support recommendations and a future state Data Architecture</li>
+<li>
+Lead activities around data analysis, data profiling, data extraction (validation and transformation rules) and integration with data from multiple disparate sources into a robust and scalable data model. Provide means for ensuring data quality and integrity. This position will work closely with clients and end-users to examine existing processes and develop automated solutions, including specifying program and data flow</li>
+<li>
+Own this data model and work with architects across our broader technology group to adhere to the established guidelines and principles established as best practice activities</li>
+<li>
+Provide Data architecture and Business Intelligence subject matter expertise and leadership.</li>
+<li>
+Ensure common application architectural framework across different subject areas and conformance with best practices. Proven experience in designing and deploying conformed dimensions</li>
+<li>
+Consult with key individuals across multiple projects regarding the usage and application of Business Intelligence and Data Warehousing architectural standards</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>What you have
+</b></h2>
+<div><div><div><ul>
+<li>Minimum 10 years of experience in applying data management principles and industry standards to design, build and maintain complex data model assets in Transactional/Operational, ODS, Data Warehouse and Data Marts applications</li>
+<li>
+5+ years’ experience as a Data Architect, Multi-Dimensional Data Modeling, Large Scale Data Architectures or other work related to the construction of enterprise data assets</li>
+<li>
+Experience in the asset management or capital markets industry is a plus</li>
+<li>
+Experience with CI/CD (Continuous Integration, Continuous Delivery), Deployment pipeline automation using PowerShell, and in general automation of tasks to provide efficiencies</li>
+<li>
+Experience in designing and building, scalable, enterprise-level data architecture, cloud data warehouse infrastructure</li>
+<li>
+Experience preparing technical documentation and preparation of architectural guidance</li>
+<li>
+Experience in strategy recommendation for data use (predictive/analytical/transactional).</li>
+<li>
+Experience in developing architectural framework for information security</li>
+<li>
+Experience in Data Modeling for transactional system, enterprise data warehouse, and dimensional data mart</li>
+<li>
+Experience leading Business Intelligence / Data Warehousing projects in all phases of the solution design and delivery. This includes requirements gathering, tool and vendor selection, project/sprint planning, development and testing/validation, user training, user acceptance/validation testing, and documentation</li>
+<li>
+Well exposed to Consumption constructs for the data infrastructure- e.g. SQL on Hadoop, API/REST services, BI across the data landscape, Search and secondary indexing</li>
+<li>
+Experience with a variety of database technologies, including MS SQL and MongoDB.</li>
+<li>
+Familiar with predictive analysis and data visualization techniques using relevant tools (e.g. Tableau, Scala, Python )</li>
+<li>
+Ability to build consensus among business and IT constituents and influence the changes in behavior and beliefs necessary to drive a successful data strategy</li>
+<li>
+Ability to consistently deliver results across shifting priorities and deadlines in fast paced environment</li>
+<li>
+Ability to work with a ‘sense of urgency’ in order to meet critical deadlines</li>
+<li>
+Detail oriented with strong investigative and problem solving skills</li>
+<li>
+Shows a commitment to high ethical standards and integrity and demonstrates this through action</li>
+<li>
+Excellent verbal and written communication and presentation skills</li>
+<li>
+Inquisitive, analytical, a strategic thinker, proactive and solutions-oriented</li>
+<li>
+High-energy, positive, entrepreneurial in spirit while goal-oriented and results-driven</li>
+<li>
+Self-starter; takes initiative and can work independently</li>
+<li>
+Well-organized and disciplined with high attention to detail</li>
+<li>
+Flexible and adaptable working with various business functions</li>
+<li>
+Direct, plain-spoken; conveys a genuine/authentic demeanor</li>
+</ul></div></div></div>
+</div></div>

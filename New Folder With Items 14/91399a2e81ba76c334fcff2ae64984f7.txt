@@ -1,0 +1,104 @@
+<h2>Senior Auth Engineer - Cloud</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About CrowdStrike</b><br>
+CrowdStrike is the leader in cloud-delivered next-generation endpoint protection, threat intelligence, and pre- and post-incident response services. With the ability to collect and process over 100 billion events a day, CrowdStrike has revolutionized endpoint protection by being the first and only company to unify next-generation antivirus (AV), endpoint detection and response (EDR), and a 24/7 managed hunting service — all delivered via a single lightweight agent. We are one of the World's Most 50 Innovative Companies according to MIT, and one of Forbes Most Promising Companies. Our growth and innovation are driven by incredible employees who deliver unmatched customer success.</p>
+<p><b>
+We have received a number of exciting awards including:</b></p>
+<ul>
+<li>
+October 2018: 100 Best Medium Workplaces Second Year in a Row by Fortune magazine.</li>
+<li>
+June 2018: Closed over $200 million, led by General Atlantic, Accel and IVP, with participation from March Capital and CapitalG (Google), achieving a valuation of more than $3 billion.</li>
+<li>
+April 2018: CrowdStrike Wins SC Award for Best Security Company Second Year in a Row.</li>
+</ul>
+<p><b>
+About the Role</b></p>
+<p>
+CrowdStrike is seeking a software engineer who wants to work at scale, be challenged, and take on a highly impactful role in the Auth engineering team. Your experience working with delegated authorization schemes and common interoperability standards (SAML, OAuth2, JWT, OIDC, OpenAPI, Swagger) will be applied in CrowdStrike’s highly scalable and performance-intensive microservice architecture. Solid experience with large horizontally scalable web services, open source tools and libraries and multi-tenant architecture is highly desirable.<br>
+</p>
+<p>
+If you want a job that makes a difference in the world and operates at high scale, you’ve come to the right place.</p>
+<p><b>
+What you will need</b></p>
+<ul>
+<li>
+MS in Computer Science or a related field, or equivalent work experience</li>
+<li>
+A solid understanding of distributed systems and scalability challenges</li>
+<li>
+Experience with authentication and authorization standards, such as OAuth2, SAML, and OpenID Connect</li>
+<li>
+Golang experience is highly desirable</li>
+<li>
+Experience building RESTful microservices</li>
+<li>
+Solid grounding in the technology of at least one cloud environment (AWS, Azure, GCP)</li>
+</ul>
+<p><b>
+You will also bring</b></p>
+<ul>
+<li>
+Team player skills – we embrace collaborating as a team as much as possible</li>
+<li>
+A thorough understanding of engineering best practices from appropriate testing paradigms to effective peer code reviews and resilient architecture.</li>
+<li>
+The ability to thrive in a fast paced, test-driven, collaborative and iterative programming environment.</li>
+<li>
+The skills to meet your commitments on time and produce high quality software that is unit tested, code reviewed, and checked in regularly for continuous integration.</li>
+<li>
+Ability to brainstorm, define, and build collaboratively with members across multiple teams.</li>
+<li>
+Experience with shipping high quality software in a cloud environments</li>
+<li>
+Solid design and problem solving skills with demonstrated passion for engineering excellence, quality, security and performance</li>
+<li>
+Strong cross-group collaboration and interpersonal communication skills working with a variety of roles including engineering, product management, support and sales engineering</li>
+<li>
+Broad grounding in all aspects of distributed systems development: OS internals and OS system engineering concepts, concurrency models, networking, authentication and authorization, and API development</li>
+</ul>
+<p><b>
+Bonus Points</b></p>
+<ul>
+<li>
+Authored or lead open source libraries and projects</li>
+<li>
+Experience with macaroons or ORY Hydra</li>
+<li>
+Experience building an identity provider</li>
+<li>
+Contributions to the open source community (Blogging, Stack Overflow, Github)</li>
+<li>
+Exposure to any of the following: Kafka, Elastic Search, Containers / Kubernetes</li>
+</ul>
+<p><b>
+Benefits of Working at CrowdStrike:</b></p>
+<ul>
+<li>
+Market leader in compensation + stock options</li>
+<li>
+Competitive vacation policy</li>
+<li>
+Comprehensive health benefits + 401k plan (US only)</li>
+<li>
+Paid paternity and maternity leave, including adoption</li>
+<li>
+Flexible work hours and remote friendly environment</li>
+<li>
+Wellness programs</li>
+<li>
+Stocked fridges, coffee, soda, and lots of treats</li>
+<li>
+Peer recognition</li>
+<li>
+Inclusive culture focused on people, customers and innovation</li>
+<li>
+Regular team activities, including happy hours, community service events</li>
+</ul>
+<p>
+CrowdStrike believes that diversity and inclusion among our organization is essential to our success as a global company, and we seek to attract, retain and empower the industry’s best and brightest from a diverse talent pool.</p>
+<p><i>
+CrowdStrike is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.</i><br>
+<br>
+<i>#LI-LY1</i></p>
+</div></div>

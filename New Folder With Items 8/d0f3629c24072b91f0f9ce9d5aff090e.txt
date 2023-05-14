@@ -1,0 +1,40 @@
+<h2>Senior Database Reliability Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Every day, Clover devices handle the core card and point-of-sale processing for hundreds of thousands of merchants.
+<br><br>
+Behind the scenes, we operate a cloud platform providing processing, storage and collaboration for merchants, application developers, service providers and our merchants' customers. Our devices and platform form the backbone of millions of payment interactions between merchants and their customers daily.
+<br><br>
+To support all of this, we have a team of engineers working around the clock to ensure our systems remain operational, safe and secure. Right now we are looking to further scale our operation, and we are looking for a talented Database Engineer to help scale our data infrastructure. Clover is growing quickly and we are both scaling and sharding our existing databases. Your role will be to keep our databases running and help us implement &amp; manage solutions around its strengths and weaknesses. In this role you will need to interface with the engineering team regarding production infrastructure, while performing daily standard Database Administration tasks. MySQL is used extensively at Clover.
+<br><br>
+<b>The Role:</b><br>
+The Database Site Reliability team manages the transactional infrastructure and develops the automation which keeps Clover data healthy and available. You will be responsible for tuning and configuring our data platforms as well as building tools to monitor and troubleshoot our systems. You will propose test plans and interface with external groups, developers and application owners to arrive at optimal solutions. Your responsibilities will include designing and enhancing disaster recovery and backup systems. With your technical expertise, you will design, implement and improve processes, procedures and automation for all database-centric areas.
+<br><br>
+You will investigate, maintain and implement performance optimizations, provide insight and guidance to product teams writing features utilizing data stores.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Engineer and run Clover's database infrastructure to meet performance, security, availability and other requirements</li>
+<li>You will use your expertise to tune and push our databases beyond their normal limits</li>
+<li>Improve MTTR via various strategies including backups, standbys, delayed slaves, etc.</li>
+<li>Oversee automated monitoring of production queries to feed back into application query improvements</li>
+<li>Perform and/or automate regular DB operations like: data archiving/pruning, schema operations and schema statistics updates</li>
+<li>Act as the primary contact point for Clover's most important technical asset: Data</li>
+<li>Share on-call duties, either as first level or as the last resort for data-related issues as required</li>
+<li>You will work closely with engineering teams to design, build, and maintain systems and help guide &amp; influence choices such as which databases to use, schema design and query tuning</li>
+<li>You will troubleshoot issues across the entire stack: hardware, software, application and network</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>5+ years of experience in production operations, supporting a customer-facing SaaS operation and working with development teams</li>
+<li>Strong MySQL skills; experience in application-driven sharding is a plus</li>
+<li>Experience with larger OLTP MySQL installations (2+ TB per instance) preferred</li>
+<li>Experience with Percona Server preferred</li>
+<li>Strong Linux skills</li>
+<li>Strong analytical problem-solving skills</li>
+<li>Self-direction and motivation</li>
+</ul>
+<b>Nice to have:</b><br>
+<ul>
+<li>Experience with one of the major reporting/warehousing database solutions (e.g. BigQuery, RedShift, Vertica, CitusDB) a plus</li>
+<li>Exposure to Cloud Databases: preferably with Amazon Aurora/Google Spanner</li>
+</ul>
+</div>

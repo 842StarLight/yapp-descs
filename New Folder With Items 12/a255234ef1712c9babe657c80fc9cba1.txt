@@ -1,0 +1,80 @@
+<h2>Senior HR Application Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>Related Companies is a global real estate and lifestyle company defined by innovation and the most prominent privately-owned real estate firm in the United States. Formed over 40 years ago, Related is a fully-integrated, highly diversified industry leader with experience in virtually every aspect of development, acquisitions, management, finance, marketing and sales. Headquartered in New York City, Related has offices and major developments in Boston, Chicago, Los Angeles, San Francisco, South Florida, Washington, D.C., Abu Dhabi and London, and boasts a team of approximately 4,000 professionals. With over $60 billion in assets owned or under development including the 28-acre Hudson Yards neighborhood on Manhattan’s West Side, The Grand and Related Santa Clara in California and The 78 in Chicago. Related was recently named to Fast Company Magazine’s list 50 Most Innovative Companies in the World. For more information about Related, please visit www.related.com.</div>
+</div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div>
+<div>The Senior HR Application Analyst will drive application support and administration via hands-on application maintenance, management, and issue resolution. You will provide Tier 2-3 support to employees and managers, ensuring that business technology programs and processes are administered seamlessly. HR technology solutions include but are not limited to core HR, payroll, time and attendance, compensation, benefits, talent acquisition, onboarding, performance management, learning management and business continuity.</div>
+<div></div>
+<br>
+<ul>
+<li>
+Implement HR processes and technology solutions that drive efficiency, reduce the cost of operations and mitigate operational risk across HR globally.</li>
+<li>
+Deliver exemplary customer service and solutions by troubleshooting all incoming inquiries and resolve or escalate as required; maintain ownership of an issue from start to finish to ensure resolution.</li>
+<li>
+Provide functional and technical system support including: superuser system administration, process implementation, troubleshooting, user acceptance testing, reference guide creation, and reporting.</li>
+<li>
+Support the technical design and development of interfaces to internal HR systems and other third party application including end to end integration testing with business users.</li>
+<li>
+Analyze issues, identify failures, and provide break-fixes related to existing HR system interfaces.</li>
+<li>
+Oversee successful system updates, enhancements, and maintenance releases:</li>
+<ul>
+<li>
+Develop and document requirements together with business users and obtain signoff.</li>
+<li>
+Create and execute integration and regression test scripts; coordinate User Acceptance Testing with business users.</li>
+</ul>
+<li>
+Identify, assess impact, and provide recommendation for resolution of issues related to HR business processes, procedural and system changes; drive automation and system enhancements.</li>
+<li>
+Escalate process change requests, system enhancements or any other major resource requests.</li>
+<li>
+Review HR systems user access requests and approve based on established security requirements/policy.</li>
+<li>
+Create and maintain security matrix/documentation.</li>
+<li>
+Maintain knowledge of technology modules; make recommendations on enhancements to continually improve the effectiveness and efficiency of processes.</li>
+<li>
+Maintain a strong focus on metrics and data trends to understand and align with business needs</li>
+<li>
+Perform regular HRIS data audits to ensure system accuracy and to determine areas in need of additional training/resources.</li>
+<li>
+Write and maintain a variety of reports or queries utilizing Cognos reporting and SQL tools. Develop and enhance standard reports to address ongoing HR and business needs.</li>
+</ul>
+</div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><ul>
+<li>A minimum of 3-5 years of experience in IT and/or HR Systems roles.</li>
+<li>
+Bachelor Degree in related field required.</li>
+<li>
+Experience with HR systems such as Talent Management, Applicant Tracking, LMS and HCM required; Experience in UltiPro, iCIMS, and/or Cornerstone preferred.</li>
+<li>
+Strong customer service skills required; communication and timely responsiveness are key.</li>
+<li>
+Ability to handle sensitive and confidential data with discretion.</li>
+<li>
+Strong HR acumen and technical aptitude, with proven experience in measurement, data analysis and interpretation.</li>
+<li>
+Experience with SAAS applications and integrations - both implementation and support.</li>
+<li>
+Good sense of judgment and urgency, with the ability to discern when to escalate issues to the appropriate channels.</li>
+<li>
+Ability to listen, capture and translate inputs and new challenges into useful technology driven products for end users.</li>
+<li>
+Highly versatile individual with great attention to detail and dedication to high quality work.</li>
+<li>
+Good working knowledge of SQL and data integrations preferred.</li>
+<li>
+Demonstrated team player, leadership and client relationship skills.</li>
+</ul></div>
+</div>
+<p></p>
+</div>

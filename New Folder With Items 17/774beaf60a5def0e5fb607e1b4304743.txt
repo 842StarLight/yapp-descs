@@ -1,0 +1,78 @@
+<h2>IT - Warehouse Management System Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>We are looking for Warehouse Management System (WMS) Developer to be in our Distribution Center in Lithia Springs, GA.</b></p>
+<p>
+The WMS Developer will provide support for the Supply Chain team on the Manhattan Associates WMS product, clarifying incidents/problems and providing impact analysis when applicable for improved service response times. Working hand in hand with our existing WMS SME’s to ensure the needs of the Distribution Centers are identified, addressed and achieved. Strong ability to communicate effectively and professionally in verbal and written form to internal/external customers and all management levels, team members and co-workers. Understand need for ETL/Reports and ability to created optimized ETL packages and reports to drive improvement in business process. Must be well organized, with strong self-discipline and customer focused mentality, having the will to help and ability to multi-task, prioritize work and perform under pressure in a fast paced, dynamic environment. Ability to support production operation with optimum performance, scalability and maximum uptime.</p>
+<br>
+<p></p>
+<p><b>
+Essential Duties and Responsibilities:</b></p>
+<ul>
+<li>Support for the Supply Chain team on the Manhattan Associates WMS product, clarifying incidents/problems and providing impact analysis when applicable for improved service response times</li>
+<li>Working hand in hand with our existing WMS SME’s to ensure the needs of the Distribution Centers are identified, addressed and achieved</li>
+<li>Ability to translate business requirements into system requirements. Ability to follow change control management/ Release management.</li>
+<li>Determine database structural requirements by working with internal business stakeholders, and identifying optimal database specifications.</li>
+<li>Fair understanding of MSSQL database architecture. knowledges of Effects of Indexes and statistics on system performance. Develops database tables, views, triggers,functions, user defined data types, Stored Procedures to read, update or insert data</li>
+<li>Ability to develop ETL Process, Ability to Developer SSRS Reports</li>
+<li>Enjoying being challenged and to solve complex data problems on a daily basis</li>
+<li>Works with application developers and other stakeholders to determine business need and apply industry standards to all database solutions created. Able to learn new technology and apply</li>
+<br>
+</ul>
+<br>
+Required Skills<br>
+<ul>
+<li>Microsoft SQL Skills ( OLTP / OLAP etc)</li>
+<li>JiRA or other Project Management software</li>
+<li>Troubleshooting and data analysis skills</li>
+<li>Technical Documentation skill</li>
+<li>Ability to code in TSQL, and do data analysis</li>
+<li>Experience in developing ETL packages using SSIS</li>
+<li>Experience in working with SCALE (Manhattan)</li>
+<li>Setting up alerts and job to monitor reliable working of processes</li>
+<br>
+</ul>
+<br>
+Required Experience<br>
+<ul>
+<li>Prior SQL Stored Procedure/Function/Database Development for use in reporting and application environments.</li>
+<li>Experience with WMS system and WMS concepts</li>
+<li>In depth knowledge of troubleshooting skills and out-of-the box thinking to overcome data obstacles</li>
+<li>Excellent practical hands on experience with Microsoft SQL query language, including ETL development and SSIS applications.</li>
+<li>Troubleshooting Security, Performance issues and business implementation challenges</li>
+<br>
+</ul>
+<p>
+</p>
+<p>Click here to see what our employees say about working for our UA divisions!</p>
+<br>
+<p></p>
+<p><b>
+Benefits Information: Enjoy the best of ALL worlds!</b></p>
+<p>
+Along with a generous benefits package and dynamic downtown location, there’s another big benefit to building your career here: you enjoy the best of all worlds in one company. As an industry leader for 30 years, we offer the strength and stability of a large firm, with healthy profitability and exciting career growth. Yet our friendly, team-oriented workplace makes you feel like part of a close family. We offer comprehensive benefits including medical, dental, vision, critical care, life AD&amp;D insurance. We also offer a 401 (k) plan, FMLA, Pet Insurance, Continuing Education, Employee Assistance, and additional discount programs. For more information about our extensive benefits, click here.</p>
+<br>
+<p></p>
+<p>
+If you share our drive to delight customers and achieve outstanding sales results, reach out to us now!</p>
+<br>
+<p></p>
+<p><b>
+Watch your email here’s what happens next:</b></p>
+<p>
+We look forward to reviewing your application! If your background is a promising fit for the position, you’ll get an email from us within 3-4 business days which will include a link to our online Candidate Assessment.</p>
+<br>
+<p></p>
+<p><b>
+Why do we request this assessment?</b></p>
+<p>
+A big reason why UA Brands is such a rewarding place to work and why so many employees thrive here is the extra time we invest during the hiring process. We want to make sure our potential candidate will be a great addition to our family! This assessment allows us to get to know you better, which also helps you determine if we’re the right fit too.</p>
+<br>
+<p></p>
+<p><b>
+UA Brands is a Drug Free Workplace.</b></p>
+<p>
+As an employee of any UA Brands division, you will be part of an established and dynamic organization. We believe that success starts from within and we are seeking individuals who thrive in an environment that encourages and supports self-management. In order to provide equal employment and advancement opportunities to all individuals, employment decisions at UA Brands will be based on merit, qualifications, and abilities. UA Brands does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex, national origin, age, disability or any other characteristic protected by law. UA Brands will make reasonable accommodations for qualified individuals with known disabilities unless doing so would result in an undue hardship.</p>
+</div>
+<p></p>
+</div>

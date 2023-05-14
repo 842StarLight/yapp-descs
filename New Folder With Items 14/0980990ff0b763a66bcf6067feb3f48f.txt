@@ -1,0 +1,84 @@
+<h2>DevOps Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Accelerate Your Career</b></p>
+<p><i>
+Drive global technology</i></p>
+<p>
+With more than $2 billion in revenues, CDK Global is a leading global provider of integrated information technology and digital marketing solutions to the automotive retail and adjacent industries. Focused on enabling end-to-end automotive commerce, CDK provides solutions to dealers in more than 100 countries around the world, serving approximately 28,000 retail locations and most automotive manufacturers. CDK Global solutions automate and integrate critical processes from pre-sale targeted advertising to the sale, financing, insurance, parts supply, repair and maintenance of vehicles, with an increasing focus on utilizing data analytics and predictive intelligence.</p>
+<p>
+We’re large enough to make a difference but small enough for your voice to be heard. This means that we are an organization where every person matters. You can make an impact on the success of our business and that of our customers regardless of what career you decide to pursue.</p>
+<p>
+From data scientists to sales and client service experts, we’re hiring to support your growth and ours - Green light your career.</p>
+<p>
+This is a great time to join CDK Global with highly motivated teams to build industry changing platform for the automotive industry. Fortellis Automotive Commerce Exchange™ platform, a technology engine that enables seamless connections and greater collaboration to occur among everyone involved in serving automobile consumers, such as dealers, manufacturers, software developers, lenders and data providers.</p>
+<p>
+Fortellis is growing and expanding. We are looking for passionate DevOps engineer who will be part of the industry changing efforts. This is a hands-on, results oriented position with innovation and execution mindset. The successful candidate will be comfortable working in a fast-paced environment and working with development teams on a day-to-day basis to create, facilitate and execute the DevOps functions.</p>
+<p>
+This position is based on Austin, TX, Portland, OR, or San Jose, CA</p>
+<p></p>
+<br>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Maintain health of production cloud environments</li>
+<li>
+Guide the evolution of our cloud infrastructure</li>
+<li>
+Improve the availability, scalability, and performance of the cloud environments</li>
+<li>
+Troubleshoot, monitor, and support environments</li>
+<li>
+Improve and automate upon our continuous integration and continuous delivery pipeline</li>
+<li>
+Build and create agile development and testing environments</li>
+</ul>
+<p><br>
+<b>
+Required Skills:</b></p>
+<ul>
+<li>
+7+ years’ experience in DevOps and 3+ years with AWS or other cloud computing providers</li>
+<li>
+Experience with continuous deployment in a high availability environment</li>
+<li>
+Linux system administration</li>
+<li>
+Understanding of networking concepts</li>
+<li>
+Proficiency in coding/scripting using Python, Go, Perl or any other languages</li>
+<li>
+Experience with Bamboo, Jenkins, Puppet, Ansible or similar tools</li>
+<li>
+Bachelor's degree or equivalent in IT, computer science or related field is preferred, with a minimum of 5 years of directly related work experience in one of these fields (work experience may be used to in place of degree)</li>
+<li>
+An ongoing thirst for new knowledge and ideas, and a passion for software engineering as a DevOps Engineer</li>
+<li>
+Experience working with distributed teams</li>
+<li>
+Creative problem-solving, proficient debugging and profiling</li>
+<li>
+Excellent written and verbal communication skills</li>
+</ul>
+<p>
+<br>
+<b>Preferred Skills:</b></p>
+<ul>
+<li>
+Infrastructure automation using Terraform/CloudFormation</li>
+<li>
+Experience configuring Apache or Nginx</li>
+<li>
+Building AWS Images using Packer or similar tools</li>
+<li>
+Experience with Agile/Scrum methodologies</li>
+<li>
+Experience with all or some of the following technologies: Bamboo, Ansible, Chef, NewRelic, AppDynamics, Apigee, CloudWatch, Container development, Kubernetes, Continuous Deployment, AB Testing, Splunk, Data lake, Data Warehouse.</li>
+</ul>
+<p></p>
+<br>
+<p>
+CDK Global knows you have passions outside of work. You have family, friends, sporting events, and lots of things going on. That’s why we offer a comprehensive benefits package to not only take care of you but your family as well. All of our benefits are effective the first day of employment including 401K matching, paid time off to re-energize, donate your time to volunteer in your community, and tuition reimbursement to name a few.</p>
+<p>
+At CDK, we pride ourselves on having a diverse workforce. We value and celebrate the uniqueness of individuals and the different perspectives they provide. We offer equal opportunity employment regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, or protected veteran status.</p>
+</div></div>

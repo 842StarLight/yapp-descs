@@ -1,0 +1,12 @@
+<h2>Computer Technician</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Must be proficient in:</p>
+<p>Troubleshooting</p>
+<p>Customer Service Orientated</p>
+<p>Communication and interpersonal skills</p>
+<p>Diagnose and repair desktop printers and laptops</p>
+<p>Job Types: Full-time, Part-time</p>
+<p>Salary: $13.00 /hour</p>
+<p>Experience:</p>
+<ul><li>relevant: 1 year (Preferred)</li></ul>
+</div>

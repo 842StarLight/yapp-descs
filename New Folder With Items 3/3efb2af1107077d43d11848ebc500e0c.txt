@@ -1,0 +1,153 @@
+<h2>Network Security Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h3 class="jobSectionHeader"><b>Network Security Engineer Job requirements</b></h3>
+<p></p>
+<p>
+JOB ID: R0034711</p>
+<p></p>
+<p>
+POSITION: Network Security Engineer</p>
+<p></p>
+<p>
+Looking for a company that inspires passion, courage and imagination, where you will shape the future of global commerce? Want to influence how millions of people buy, sell, connect, and share around the world? If you’re interested in joining a purpose driven community that is dedicated to creating an ambitious and inclusive workplace, join eBay – a company you can be proud to be a part of.</p>
+<p>
+ORGANIZATION: StubHub, www.stubhub.com (an eBay company NASDAQ: EBAY)</p>
+<p>
+StubHub is the world's largest ticket marketplace, enabling fans to buy and sell tickets to tens of thousands of sports, concert, theater and other live entertainment events. StubHub reinvented the ticket resale market in 2000 and continues to lead it through innovation. The company's unique online marketplace, dedicated solely to tickets, provides all fans the choice to buy or sell their tickets in a safe, convenient and highly reliable environment. All transactions are processed and delivered by StubHub and backed by the company's FanProtect Guarantee™ processing a ticket every second today with billions of ticket sales each year globally. Company partners MLB, AEG, ESPN and many leading teams such as the San Francisco Giants and University of Texas, along with over 60 other teams in MLB, NBA, NHL and NCAA.</p>
+<p><b>
+Our Values</b></p>
+<ul>
+<li>
+StubHub One – We act as one team in pursuit of connecting people through inspiring event experiences.</li>
+<li>
+At StubHub, we are:</li>
+<li>
+Driven – We strive for excellence – constantly improving our game</li>
+<li>
+Courageous – We are bold &amp; not afraid to challenge the status quo</li>
+<li>
+Inventive – We see what others don’t &amp; pioneer new paths</li>
+<li>
+Richly Diverse – We recognize &amp; respect everyone as a unique individual</li>
+<li>
+Brand – We experience the world through StubHub.</li>
+</ul>
+<p></p>
+<p><b>
+The Opportunity:</b></p>
+<p></p>
+<p>
+Ideal candidate is a strong self-driven individual with high level of competence in a variety of technical backgrounds to include networking, systems, security and automation. This person should be highly technical with ability to operate autonomously and employ cross-team collaborate to solve complex and challenging problems.</p>
+<ul>
+<li><p>
+Responsible for the reliability, availability and performance of production data-center networks.</p></li>
+<li><p>
+Respond to network trouble ticket escalations from GSNOC, analyzes and solves reported network problems. Interacts with Infrastructure and Ops teams to provide issue resolution.</p></li>
+<li><p>
+Principal resource for design and implementation of L7 application delivery, routing and load balancing solutions for production apps and services.</p></li>
+<li><p>
+Collaborate with network and security architects to review, and approve, the alignment of new project initiatives to company security standards. Actively participates in the development of security standards.</p></li>
+<li><p>
+Plan and execute zero downtime hardware and software upgrades of in-service production network equipment in live traffic scenarios.</p></li>
+<li><p>
+Implement network changes in support of project initiatives.</p></li>
+<li><p>
+Automate management of network devices with Python.</p></li>
+</ul>
+<p></p>
+<p><b>
+Required Skills</b></p>
+<ul>
+<li><p>
+Operational experience in large network support with a data center focus</p></li>
+<li><p>
+In-depth knowledge of routing, switching and load balancing protocols and technologies</p></li>
+<li><p>
+Good understanding of how DNS works</p></li>
+<li><p>
+Experience managing CDNs (Akamai, Cloudflare, etc).</p></li>
+<li><p>
+Experience designing secure networks, systems and application architectures</p></li>
+<li><p>
+Intimate knowledge of the HTTP protocol</p></li>
+<li><p>
+Proficient in at least one scripting language (Python, Bash, etc)</p></li>
+<li><p>
+Basic understanding of Linux</p></li>
+</ul>
+<p></p>
+<p><b>
+Desired Skills</b>:</p>
+<ul>
+<li><p>
+F5 BigIP (LTM, GTM, APM, ASM)</p></li>
+<li><p>
+Cloud networking and security knowledge, focus on GCP and Kubernetes</p></li>
+<li><p>
+Familiarity with at least one monitoring/logging tool (e.g. Splunk, OP5, Nagios or DynaTrace)</p></li>
+<li><p>
+Akamai, Cloudflare or similar CDN</p></li>
+</ul>
+<p></p>
+<p><b>
+Relevant skill areas</b>: CCNA/CCNP or JNCIS/JNCIP, CCNP Security, CEH, GIAC, JUNOS, F5 BigIP, OSPF, IS-IS, BGP, DNS, TCP/IP, HTTP</p>
+<p></p>
+<p><b>
+Roles and Responsibilities</b></p>
+<ul>
+<li><p>
+Troubleshoot network issues in production data-centers</p></li>
+<li><p>
+In-place hardware upgrades for vital networking equipment with live traffic</p></li>
+<li><p>
+Manage ACLs for firewalls and network proxies</p></li>
+<li><p>
+Write F5 iRules to intelligently route traffic at layer 7 in various scenarios.</p></li>
+<li><p>
+Manage PKI for SSL certificates</p></li>
+<li><p>
+Conduct network/security vulnerability analyses and risk assessments</p></li>
+<li><p>
+Automate configuration changes to network devices</p></li>
+<li><p>
+Manage DNS for production sites</p></li>
+<li><p>
+On Call rotation support</p></li>
+</ul>
+<p></p>
+<p><b>
+Affirmative action and equal opportunity employer</b></p>
+<p>
+StubHub is a Subsidiary of eBay.</p>
+<p>
+eBay Inc. is an equal opportunity employer. All applicants with relevant experience will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at talent@ebay.com. We will make every effort to respond to your request for disability assistance as soon as possible.</p>
+<p><b>
+For more information see:</b></p>
+<p>
+EEO is the Law Poster</p>
+<p><b>
+EEO is the Law Poster Supplement</b></p>
+<p><b>
+StubHub</b> is a Subsidiary of eBay.</p>
+<p></p>
+<p>
+This website uses cookies to enhance your experience. By continuing to browse the site, you agree to our <i>use of cookies</i></p>
+<p></p>
+<p>
+View our privacy policy</p>
+<p></p>
+<p>
+View our accessibility info</p>
+<p><i>
+eBay Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at </i><i>talent@ebay.com</i><i>. We will make every effort to respond to your request for disability assistance as soon as possible.</i></p>
+<p></p>
+<p><i>
+For more information see:</i></p>
+<p><i>
+EEO is the Law Poster</i></p>
+<p><i>
+EEO is the Law Poster Supplement</i></p>
+</div>
+<p></p>
+</div>

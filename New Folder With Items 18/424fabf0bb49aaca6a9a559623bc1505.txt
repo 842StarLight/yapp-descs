@@ -1,0 +1,45 @@
+<h2>Business Intelligence Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>
+<li>Bachelor's degree in Math, Finance, Statistics or related discipline</li>
+<li>* 5+ years of professional experience in web analytics, business analysis or comparable analytics position.</li>
+<li>* Experience in designing and implementing custom reporting systems by managing or guiding technical teams.</li>
+<li>* Experience with MS Excel, Access and SQL/SAS</li>
+<li>Basic scripting in Python, Hive and Pig * Strong SQL and Excel expertise to access and transform data into insights.</li>
+</ul>
+<br>
+<div>Do you want a unique, exciting opportunity to help build something from the ground up? We are looking for builders who are passionate about data science to join the Marketing Science team within Amazon Advertising.<br>
+<br>
+Amazon is investing heavily in building a world class advertising business, and we are responsible for defining and delivering a collection of advertising products that drive discovery and sales. Our products are strategically important to our Retail and Marketplace businesses driving long term growth. We deliver billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class products. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.<br>
+<br>
+As a successful business intelligence engineer on the Amazon Advertising team, you need to understand performance advertising domain knowledge and the meanings of data. You will expose and measure current Amazon Advertising performance. You will identify specific and actionable opportunities to solve existing business problems, and collaborate with engineering, research, and business teams for future innovation. You need to be a sophisticated user of advanced quantitative techniques for answering specific business questions, and an expert at synthesizing and communicating insights and recommendations to audiences of varying levels of technical sophistication.<br>
+<br>
+Lead the Amazon Advertising Platform business Intelligence efforts<br>
+<ul>
+<li>Analyze large amounts of historical advertising and business datasets to develop strategic insights or solve key advertising client business problems.</li>
+<li>Partner with software engineering and product management teams to support analytical product development, impact measurement and adoption of innovative new features for the platform.</li>
+<li>Develop and leverage innovative measurement techniques to understand and influence levers for our performance advertising product.</li>
+<li>Analyze supply of advertising inventory to influence product and sourcing decisions to meet the advertising client objectives</li>
+<li>Track general business activity and provide clear, compelling reports and presentations on a regular basis.</li>
+<li>Scale data insights across US and International advertising markets</li>
+<li>Building simple tools that can be used by the Campaign analysts to perform campaign analysis and optimization towards meeting campaign goals.</li>
+<li>Communicate with internal teams to showcase results and identify best practices.</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>MBA or Master’s degree in an analytic field is desired.</li>
+<li>* Excellent written and oral communication skills</li>
+<li>* Ability to quickly adapt to changing priorities and generate innovative solutions in an extremely fast-paced environment.</li>
+<li>* Comfort with or exposure to basic statistics: significance tests, regression</li>
+<li>* Experience in gathering requirements and formulating business metrics for reporting.</li>
+<li>* Basic scripting in Python, Hive and Pig</li>
+<li>* Strong SQL and Excel expertise to access and transform data into insights. Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation</li>
+</ul>
+<br>
+Amazon.com is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age<br>
+<br>
+#adsto</div>
+</div>

@@ -1,0 +1,53 @@
+<h2>.NET Developer IV</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Title: Sr. Net Developer</b></p>
+<p><b>Duration: 6+ Months possibility of extension</b></p>
+<p><b>Location: Chicago, IL 60606</b></p>
+<p><b>Openings - 2</b></p>
+<br>
+<p></p>
+<p><b>Client: United Airlines – Job ID(UALJP00008714)</b></p>
+<br>
+<p></p>
+<p><b>Description:</b></p>
+<br>
+<p></p>
+<ul>
+<li>Design, develop, document, test, and debug new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use</li>
+<li>Use Microsoft .NET Framework and a supported programming language (e.g., VB.NET, Visual C#)</li>
+<li>Serve as technical expert on development projects</li>
+<li>Participate in full development life cycle including requirements analysis and design</li>
+<li>Write technical specifications based on conceptual design and stated business requirements</li>
+<li>Support, maintain, and document software functionality</li>
+<li>Identify and evaluate new technologies for implementation</li>
+<li>Analyze code to find causes of errors and revise programs as needed</li>
+<li>Participate in software design meetings and analyze user needs to determine technical requirements</li>
+<li>Consult with end user to prototype, refine, test, and debug programs to meet needs</li>
+</ul>
+<br>
+<b>Responsibilities:</b><br>
+<br>
+<ul>
+<li>Seeking two experienced backend .NET developers in an agile environment</li>
+<li>Individual will be focused on one primary project which consist of related data reporting and welding data</li>
+<li>Responsible for processing large amounts of data in SQL server</li>
+<li>Responsible for coding/processing real time data into the company server</li>
+<li>Individual must be able to adapt and make decisions in a highly active environment</li>
+<li>Deployments may take place once or twice a quarter</li>
+</ul>
+<br>
+<b>Required Requirements:</b><br>
+<br>
+<ul>
+<li>7-10 years’ experience in a backend .NET role</li>
+<li>Bachelor’s degree</li>
+<li>ASP.NET/.Net core, MVC, and RestFul API experience required (candidates that does not possess these skills will be rejected)</li>
+<li>Expertise in writing SQL Stored procedures</li>
+<li>Understanding of locks and indexing</li>
+<li>Experience in parallel programming and application caching and GIT</li>
+<li>Strong knowledge of IIS</li>
+<li>Large enterprise experience required</li>
+<li>Real time and system data experience required</li>
+<li>Experience with Revenue Systems preferred</li>
+</ul>
+</div></div>

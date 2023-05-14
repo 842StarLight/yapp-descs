@@ -1,0 +1,133 @@
+<h2>Technical Customer Support Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>The Opportunity</b>
+<br>
+<br>
+Want to work for a company where you can have a genuine impact, be passionate about what you do, and work with a great team of people? At FastSpring, we work hard while keeping a fun, collaborative, and casual atmosphere. Headquartered in downtown Santa Barbara, our offices are just a few minutes from great restaurants, shops and the beach. If you're highly driven and want to work at an exciting, fast-growing e-commerce software company, consider joining the FastSpring team. We offer a dynamic work environment, competitive compensation, growth opportunities, benefits and more for the right candidate.
+<br>
+<br>
+<b>The Position</b>
+<br>
+<br>
+FastSpring is seeking an inquisitive, technologically motivated, self-directed Technical Customer Support Engineer to join our Customer Support Team. It will be your job to deliver exceptional customer support to our most valuable customers running on our ecommerce platform.
+<br>
+<br>
+You are extremely independent and self-motivated, with the ability to ensure customer issues are resolved as expediently as possible. You have the ability to quickly assess and resolve complex problems across the FastSpring platform. You will be an integral member of our Customer Support team, and responsible for solution management of support tickets including, troubleshooting issues and/or questions, technical escalations, to liaising with product &amp; development. In this role, you'll be part of a team that values collaboration and celebrates your unique contribution.
+<br>
+<br>
+You will be responsible for developing incremental changes, bug fixes and larger features for FastSpring's SaaS ecommerce platform, which serves the store-front, payment, digital fulfillment, and post-order needs of digital retailers worldwide.
+<br>
+<br>
+You are a problem solver with a strong technical background that is passionate about technology and expanding your skillset. You MUST be highly motivated to meet and exceed customer expectations.
+<br>
+<br>
+As a member of the Customer Support Team you interact with our customers daily via our ticketing system and make them better at what they do while improving our product. Being a Technical Support Engineer will require you to come up to speed on the product quickly. You will work with customers to ensure they experience the full power of our tools, providing training/adoption and working across teams to better our product.
+<br>
+<br>
+Technical Customer Support Engineers (TCSEs) provide a crucial link between Customer Success Managers, Product Managers and Engineering. By operating in both the Engineering and Support realms, TCSEs drive the ongoing improvement of FastSpring's products, services, and user experience.
+<br>
+<br>
+<b>Essential Duties and Responsibilities (other duties may be assigned as required)</b>
+<ul>
+<li>Use programming knowledge to identify and resolve issues with the product</li>
+<li>
+Use creative problem solving skills to help customers implement solutions</li>
+<li>
+Use your experience and initiative to help us continually improve our processes and services</li>
+<li>
+Lead by example in delivery of the industry best customer support experience</li>
+<li>
+Request appropriate information from the client to understand the urgency and resolve the problem; and close cases with concise written resolution description</li>
+<li>
+Come up to speed on FastSpring's products quickly; build an in-depth knowledge of FastSpring's products and integration capabilities.</li>
+<li>
+Provide responsive and exceptional support to new and existing customers as required to meet customer expectations and needs</li>
+<li>
+Respond to and diagnose problems via an online ticketing system and email following company processes. This will include problem recognition, research, resolution and follow-up steps</li>
+<li>
+Drive resolution of technical escalations, including identification of root cause and issue resolution</li>
+<li>
+Handle support requests that have been escalated that need a more hands on approach or more direct interaction with the client via various communication channels</li>
+<li>
+Log Jira tasks and development items such as bugs and enhancements/feature requests and any additional projects or tasks that may require a developer to review.</li>
+<li>Author and review knowledge base content to drive support scalability and improve customer self service capabilities</li>
+<li>
+Educate clients on product features or additional services to meet their needs</li>
+<li>
+Be available to manage crisis or urgent situations and provide key feedback on technical issues impacting technology, transactions, store or platform behavior.</li>
+<li>
+Meet or exceed customer SLAs and expectations on response quality, timeliness of responses and overall customer experience.</li>
+<li>
+Deliver against customer experience and efficiency targets.</li>
+<li>
+Contribute to researching viability of integration with third party services (for example: license fulfillment, activation server services, cart solutions, etc.)</li>
+<li>
+Write some code to create internal tools and scripts to help you do your job and customers use of the product more efficiently</li>
+<li>
+Understand and manage implementation of all areas of FastSpring functionality and configurations; understand depth of the FastSpring solution set</li>
+<li>
+Demonstrate excellent organization, project management, time management, and verbal and written communication skills.</li>
+</ul>
+<b>Skills, Experience and Qualifications</b>
+<ul>
+<li>Passion for solving customer issues and advocating for their success, in a fast paced, highly technical environment.</li>
+<li>
+Self-motivated, proactive team player</li>
+<li>
+Robust problem-solving skills, the ability to learn by doing, relentless personal accountability, and a positive and professional attitude</li>
+<li>
+Excellent relationship management, customer service and communication skills in variety of forms (written, live chat, conference calls, in-person.)</li>
+<li>
+Bachelor's degree in Computer Science, Management Information Systems, or related discipline.</li>
+<li>
+3+ years of recent, relevant work experience in SaaS customer support, technical customer success, professional services, product implementation, or related customer facing role.</li>
+<li>2+ years knowledge of JavaScript, CSS, HTML, JSON, PHP, XML required</li>
+<li>
+2+ years experience developing software services using RESTful APIs a plus.</li>
+<li>
+Proven understanding of Java, .NET, C#, ruby or other programming technologies a plus</li>
+<li>
+Ability to troubleshoot complex eCommerce needs using APIs, webhooks, notifications and all things related to integration with FastSpring's feature sets</li>
+<li>
+Ability to read, analyze, and interpret support requests</li>
+<li>
+Good technical writing skills and ability to communicate clearly and effectively with both clients and co-workers.</li>
+<li>
+Advanced computer skills and familiarity with both MAC and PC; Salesforce Service Cloud knowledge a plus but not required; commitment to learn fast is expected</li>
+<li>
+Attentive to detail</li>
+<li>
+Picks up on technical things quickly; is good at learning new industry, company, product, or technical knowledge; continually looks to improve his/her knowledge of the product and service</li>
+<li>
+Ability to prioritize appropriately, multi-task effectively and work independently.</li>
+<li>
+Ability to think outside of the box and take a complex or detailed request and interpret, digest the information and be able to provide technical solutions creatively</li>
+<li>
+Exhibit above average reasoning ability by clearly defining problems, analyzing data, establishing facts, drawing valid conclusions and presenting suggested workarounds and solutions</li>
+<li>
+Ability to remain calm, professional and articulate during high stress situations</li>
+<li>
+Experience in SaaS, eCommerce, and/or consumer-oriented online services preferable but not required</li>
+<li>
+Experience collaborating with cross functional teams within a customer organization to support a joint outcome</li>
+<li>
+Passion for a standardized/prescriptive processes</li>
+<li>
+Required participation in on-call rotation for after-hour and weekend support.</li>
+<li>
+Enthusiasm for customer success &amp; excellence</li>
+<li>
+Enjoys working hard; is action oriented</li>
+<li>
+Ideal previous experiences: creating web applications, support at SaaS companies, working with engineers, success/sales/marketing automation and technologies</li>
+<li>
+While performing the duties of this job, the employee is regularly required to sit at a desk, use hands and fingers, talk and hear for extended periods of time</li>
+<li>Ability to work in the US permanently without sponsorship</li>
+</ul>
+<b>About the Company</b>
+<br>
+<br>
+FastSpring is the trusted ecommerce partner for companies that sell software around the world. With FastSpring's full-service ecommerce solution, you can sell more, compete big, and stay lean. Founded in 2005, FastSpring is a privately owned company headquartered in Santa Barbara with offices in Nebraska and Amsterdam. For more information, please visit https://www.fastspring.com.
+<br>
+<br>
+FastSpring is an EQUAL EMPLOYMENT OPPORTUNITY/AFFIRMATIVE ACTION employer. Candidates are considered for employment with FastSpring without regard to their race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, veteran status (specifically status as a disabled veteran, special disabled veteran, Vietnam Era veteran, recently separated veteran, armed forces service medal veteran, or other protected veteran) or other classification protected by applicable federal, state or local law.</div></div>

@@ -1,0 +1,96 @@
+<h2>Desktop/ Application Support Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Network, Desktop, and Application Support Administrator, SQL Server Experience Highly Desired<br>
+<br>
+We're looking for an experienced network, desktop, and application administrator to support both our onsite and work-from-home virtual sales force. The ideal person is ready to train and develop a hungry Junior IT Administrative Support staff and delegate most of the routine responsibilities outlined below so s/he can grow into a new role expanding his/her SQL administration knowledge, skills and abilities towards a SQL Server DBA.<br>
+<br>
+<b>Our network support</b> environment includes 11 windows (vm) servers, 4 Vmware hosts, 5 Linux hosts (web, mongo, storage, google sync), 2 High-availability firewalls (DC and office), 2 Mikrotik routers, 1 Storage(backup) host, 1 core managed Cisco switch, 3 Netgear Smart switches (office), 2 wireless access points (office). If you have comparable knowledge with competing systems we are open to transitioning from any of the above to an alternative.<br>
+<br>
+<b>Our desktop support </b>environment includes 18 office desktops, 14 remote worker desktops, and associated routers / printers.<br>
+<br>
+<b>Our application support</b> includes SQL Server, Office365</div>
+<div>
+<br>
+<b>
+Job Responsibilities and Essential Functions</b>
+</div>
+<ul>
+<li>
+Desktop support</li>
+<li>
+Application support</li>
+<li>
+Pro-active remote management of server infrastructure</li>
+<li>
+Backup and Disaster recovery management, maintenance and verification</li>
+<li>
+Anti-malware software and centralized management</li>
+<li>
+Software update maintenance and installation</li>
+<li>
+Remote Management Software Agent and respective management</li>
+<li>
+Server Problem isolation &amp; resolution</li>
+<li>
+Procurement services for hardware &amp; software purchasing</li>
+<li>
+Third-party vendor assistance services</li>
+<li>
+Application of Best Practices across the client network</li>
+<li>
+Implementing Best-Practices for processes &amp; procedures</li>
+<li>
+Manage and Monitoring Application issues on Servers.</li>
+<li>
+Web Server and SSL Certs Renewals and working issues.</li>
+<li>
+Build and maintain desktop PC images.</li>
+<li>
+Provide L1/L2 support in multiple Desktop/Network issue scenarios.</li>
+<li>
+Active Directory/Group Policy/DNS and DHCP Management.</li>
+<li>
+Design and monitor Backups.</li>
+</ul>
+<div>
+<br>
+<b>
+Required Experiences and Skills:</b>
+</div>
+<ul>
+<li>
+Server virtualization.</li>
+<li>
+SQL Server</li>
+<li>
+VMWare.</li>
+<li>
+Expert in Routing and switching experience alongside Network firewalls.</li>
+<li>
+Expert in Windows Server Administration.</li>
+<li>
+PowerShell scripting / Windows batch scripting / Windows scheduled task management.</li>
+<li>
+Expert in QoS guidelines and implementation.</li>
+<li>
+Expert in Windows automation/Scripting.</li>
+<li>
+VoIP.</li>
+<li>
+Secure implementation concepts.</li>
+<li>
+DNS / DHCP / Active Directory and Network communication basics.</li>
+<li>
+Firewall Administration and troubleshooting (Sophos experience a plus).</li>
+<li>
+Bringing new ideas to our team!</li>
+</ul>
+<br>
+<p></p>
+<br>
+<br>
+<b>About Perceptionist</b>
+<br>
+<br>
+<p>Founded over 19 years ago, Perceptionist Inc has become one of the largest North American providers of small business call center services. We provide a way for businesses to capture 100% of their sales opportunities by providing overflow sales support during days, evenings, and weekends. Instead of sending customers to voicemail, calls are redirected to a team of specially trained sales representatives who know the business and have the skills to close the sale.</p>
+</div></div>

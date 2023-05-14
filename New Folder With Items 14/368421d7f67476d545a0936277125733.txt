@@ -1,0 +1,80 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<div>
+<p>At Xandr, data analysis and forecasting are our bread and butter – we process, inspect and analyze billions of ad events nightly, to provide unparalleled forecasting to our publishers. Our platform must constantly evolve, and we’re searching for engineers to contribute to solving these Internet-scale problems. You will need to keep abreast of the latest technologies to handle large amounts of data and quickly determine their applicability.</p>
+<p></p>
+<br>
+<p><b>
+About the team</b></p>
+<p></p>
+<br>
+<p>
+The Louisville team is focused on developing our industry-leading Forecasting and Inventory Management platform that operates on a massive scale to satisfy the guaranteed advertising sales needs of the world's largest publishers. We're proud of our highly collaborative, results-oriented work environment. Every day we are faced with fascinating challenges to improve our platform to meet the ever-growing scale and complexity. Our goal is to provide a setting where you can be creative and feel empowered to do your best.</p>
+</div>
+<div></div>
+<br>
+<div><b>
+About the job</b></div>
+<ul>
+<li>
+Identify opportunities and write high performance code to make our solutions more efficient and scalable, and to support ever growing data sets</li>
+<li>
+Collaborate with other engineering teams to realize and implement the next evolution of our forecasting and analytics platform</li>
+</ul>
+</div>
+<br>
+<p></p>
+<div>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<div><b>
+About your skills</b></div>
+<div></div>
+<ul>
+<li>
+BA/BS degree and at least 1 year of software engineering experience (degree in Computer Science is preferred)</li>
+<li>
+Knowledge of Java and comfortable in a Linux environment</li>
+<li>
+Experience in systems architecture, design, and implementation</li>
+</ul>
+<div>
+<br>
+</div>
+<p></p>
+<div><b>
+Preferred experience</b></div>
+<div><ul>
+<li>
+Progressive experience in designing and implementing web-scale distributed systems</li>
+<li>
+Proficiency in REST APIs and service architecture</li>
+<li>
+Knowledge of Big Data mechanisms, including batch and stream data processing frameworks (i.e., Hadoop, Kafka, Spark)</li>
+<li>
+Familiarity with Containerization (i.e., AWS, Kubernetes)</li>
+<li>
+Knowledge of persistence layers such as Vertica, MySQL, NoSQL</li>
+</ul></div>
+<p></p>
+<div>
+<br>
+</div>
+<div><b>
+More about you</b></div>
+<ul>
+<li>
+You are passionate about a culture of learning and teaching. You love challenging yourself to constantly improve, and sharing your knowledge to empower others</li>
+<li>
+You like to take risks when looking for novel solutions to complex problems. If faced with roadblocks, you continue to reach higher to make greatness happen</li>
+<li>
+You care about solving big, systemic problems. You look beyond the surface to understand root causes so that you can build long-term solutions for the whole ecosystem</li>
+<li>
+You believe in not only serving customers, but also empowering them by providing knowledge and tools</li>
+</ul>
+</div>
+</div>
+<p></p>
+</div>

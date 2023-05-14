@@ -1,0 +1,57 @@
+<h2>Senior Engineer (Rails/React)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Mavenlink seeks a thoughtful, enthusiastic Rails/React Engineer to join us in our San Francisco R&amp;D team. The role blends front-line development of challenging new features along with big-picture technical influence. You’ll be an influence in making our technology more sophisticated and scalable.</p>
+<br>
+<p>
+Our product is a mature SaaS platform helping service organizations to manage their businesses. Substantial customer growth is bringing interesting engineering challenges that we’d like your help with.</p>
+<br>
+<p>
+In particular, we’re supporting much bigger customers who need to work with larger data sets. As a result, we’ve been solving performance challenges at the forefront of React-based front-end development. Additionally, the API supporting our front end is evolving away from REST and towards the efficiency of GraphQL-inspired approaches, while demands on our back end are prompting creative solutions beyond traditional Rails.</p>
+<br>
+<p>
+Our team culture emphasizes collaboration, communication and enthusiasm for helping each other. We use agile values to evolve our practices. Working in small teams, our engineers write code using pair programming and test-driven development.</p>
+<br>
+<p><b>
+What You'll Do:</b></p>
+<ul>
+<li><p>
+Work with our product team to understand customer goals and devise elegant solutions</p></li>
+<li><p>
+Develop challenging customer-facing features using React and Rails</p></li>
+<li><p>
+Help evolve a large codebase with insight, energy and creativity</p></li>
+<li><p>
+Contribute positively to team culture</p></li>
+<li><p>
+Guide newer engineers in growing their contributions and skills</p></li>
+<li><p>
+Collaborate with colleagues to evolve Mavenlink technology</p></li>
+<br>
+</ul>
+<p><b><i>
+Your opinion, voice and experience will be valued, and you’ll have our support in pursuing your ideas.</i></b></p>
+<br>
+<p>
+While this is a senior individual contributor role, there are many opportunities to grow into a leadership role, if desired, through coaching and mentorship.</p>
+<br>
+<p><b>
+What We're Looking For:</b></p>
+<ul>
+<li><p>
+Commitment to contributing to an inclusive workplace</p></li>
+<li><p>
+Experience contributing to complex application development efforts</p></li>
+<li><p>
+Experience developing performant, scalable front ends using React &amp; Redux</p></li>
+<li><p>
+Sound knowledge of Ruby and Rails and databases / SQL</p></li>
+<li><p>
+Appreciation for agile/XP approaches to software development</p></li>
+</ul>
+<div>
+<h3 class="jobSectionHeader"><b>About Mavenlink</b></h3>
+<p>Mavenlink is a Software as a Service platform for running professional services businesses. Our customers include companies like design agencies, architecture firms, and IT consultancies—any company that bills their clients for their time. We help these businesses plan project staffing, deliver projects, manage budgets, and understand company performance.</p>
+<p>Founded in 2008, we’re now over 250 employees with strong sales growth. We have a mature, productive startup culture combined with company stability and reliability. Our recent $39M investment round led by Goldman Sachs validated our progress and positioned us for continued success.</p>
+</div>
+<h6 class="jobSectionHeader"><b>Mavenlink is an Equal Opportunity Employer.</b></h6>
+</div></div>

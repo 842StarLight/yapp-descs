@@ -1,0 +1,66 @@
+<h2>Data Analyst 3</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>At ServiceSource, we strive to find and grow exceptional people like you.
+</p>
+<p></p>
+<p>Working at ServiceSource, you will be a part of an engaging, energetic, and entrepreneurial work environment while having the stability and influence of a nearly 20-year industry leader behind you.
+</p>
+<p></p>
+<p>ServiceSource is a place where you can GROW, both personally and professionally, while expanding your skills in sales, customer success and people management.
+</p>
+<p></p>
+<p>The Data Engineer will be responsible for building end-to-end data integration solutions that process Client system data to internal ServiceSource systems. The engineer will be part of the Project team responsible for the implementation and operational maintenance of ETL and Reporting processes within a complex multi-tenant environment. The engineer will also be expected to guide and mentor junior staff through implementation and operations and help drive improvements in tools, processes and product to improve quality and efficiency.
+</p>
+<p></p>
+<p><b>Primary Responsibilities:
+</b></p>
+<ul>
+<li>Design, development and maintenance of data integration solutions that supplement ServiceSource CRM systems including Salesforce.com and Microsoft Dynamics
+</li>
+<li>Manage data analysis and validation exercises and help identify, root cause, and correct issues
+</li>
+<li>Develop subject matter expertise (SME) in products, systems, and processes used within ServiceSource
+</li>
+<li>Document the solution, tools and processes for operational use
+</li>
+<li>Design and develop client specific reports, metrics and dashboards
+</li>
+<li>Mentor junior staff for professional and technical development
+</li>
+<li>Collaborate with internal project management teams on project estimates, priorities, timelines and activities
+</li>
+<li>Collaborate with internal technology groups to deliver integrated solutions
+</li>
+<li>Configure IaaS data mappings and connectors using integration products to orchestrate data integration
+</li>
+</ul>
+<p></p>
+<p><b>Qualifications:
+</b></p>
+<ul>
+<li>Strong SQL skills required (stored procedures, ad-hoc queries)
+</li>
+<li>Strong SSIS skills required with 3+ years of experience with SQL Server, ETL, and reporting tools
+</li>
+<li>Proven analytical and problem-solving abilities
+</li>
+<li>Ability to work on multiple projects/tasks and prioritize appropriately according to SLA’s and business needs
+</li>
+<li>Solution-oriented, proactive approach coupled with practical knowledge of execution in a high-growth fast paced environment
+</li>
+<li>Ability to work within a global team and articulate views in written and verbal format
+</li>
+<li>Salesforce.com experience a plus
+</li>
+<li>Mulesoft tool experience a plus
+</li>
+<li>Bachelor’s degree in Computer Science or related field
+</li>
+<li>Ability to work in a cross-functional team with internal business users, external client resources, as well as third party vendors
+</li>
+<li>Must have design experience and a proven track record of designing, developing and maintaining well-structured, scalable database and data integration solutions that comply with industry standards and best practices</li>
+</ul>
+</div>
+<p></p>
+</div>

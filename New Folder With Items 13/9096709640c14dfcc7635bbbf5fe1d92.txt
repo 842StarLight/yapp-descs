@@ -1,0 +1,84 @@
+<h2>Design Engineer I - Embedded</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b><i>We are Muncie Power</i></b><br>
+At Muncie Power Products, "We Build Trust" is not just a slogan it's the way we do business. As a leading manufacturer of power take-offs and fluid power components, we've been building trust for 80 years with our reliable, quality products and dependable customer service. We want the next generation of employees to continue that legacy. As a mid-size company Muncie Power Products provides a culture that values our employees by offering professional development, wellness opportunities, and a supportive work environment.</p>
+<p>
+Muncie Power Products employees bring professionalism and dedication to the job, and in return, are provided formal training to become knowledgeable product experts. Our employees know, no matter the role, that they are an integral part of a team. Integrity and follow through are at the forefront of importance. From accounting and HR, to customer service, sales, IT and assembly; we know we aren't just making truck parts: we are meeting our customer's challenges with engineered solutions.</p>
+<p></p>
+<br>
+<p><b>
+Opportunity</b></p>
+<p>
+The Embedded Design Engineer will be part of a small team responsible for the design of embedded products for hydraulic control in the vocational truck market. This position will focus on embedded software development for microprocessors as well as Linux based applications processors</p>
+<p><b>
+Location:</b> This role will sit at Corporate Headquarters in Muncie, IN</p>
+<p></p>
+<br>
+<p><b>
+Essential Duties &amp; Responsibilities</b></p>
+<p><i>
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</i></p>
+<ul><li>Construct and debug software relating to electro-hydraulics controls. This may include any of the below unique roles:</li></ul>
+<ul>
+<li>
+Microprocessor based controls software for STM32 microprocessors (C)</li>
+<li>
+Low level embedded Linux BSP/driver development (Yocto, C)</li>
+<li>
+Qt based embedded Linux UI development (C++)</li>
+<li>
+Basic Windows desktop application development (C#)</li>
+<li>
+Basic Android/iOS application development, IoT related</li>
+<li>
+Web application development, IoT related</li>
+</ul>
+<ul>
+<li>Assist with the evaluation/bring-up of custom electronics hardware</li>
+<li>Assist with software testing and evaluation</li>
+<li>Use Agile project management software to track project progress</li>
+<li>Use Git SCM to manage software</li>
+<li>Construct software documentation as required</li>
+<li>Continually enhance skill set and knowledge of new technology</li>
+<li>Other duties as assigned</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Minimum Qualifications</b></p>
+<p><b>
+Experience: </b>Minimum of two (2) years programming experience in a professional setting and proficient with at least one object oriented programming language (C++ preferred)</p>
+<p><b>
+Education:</b> B.S. in Electrical Engineering, Computer Engineering, Computer Science or related field from an accredited university</p>
+<p><b>
+Language:</b> English</p>
+<ul>
+<li>Experience working with microprocessors and/or embedded processors (register access, memory management)</li>
+<li>Working knowledge of the Linux command line</li>
+<li>Should be capable of working in Linux for day to day tasks</li>
+<li>Self-motivated with a strong desire to succeed and ability to work well with others as well as working independently</li>
+<li>Capable of resolving technical challenges and learning new technologies/methodoligies with little/no assistance</li>
+<li>Prior experience with version control software such as Git preferred</li>
+<li>Any experience with C, C++, Javascript, C#, and/or PHP a plus</li>
+<li>Experience with web based programming helpful</li>
+<li>Experience debugging hardware with basic test equipment a plus (JTAG debugger, Oscilloscope, Multi-meter)</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Classification:</b> Full-Time, Exempt</p>
+<p><b>
+Travel:</b> &lt;10%</p>
+<p><b>
+Department:</b> Technology Solutions Group</p>
+<p><b>
+Position Reports to:</b> Embedded Engineering Manager</p>
+<p></p>
+<br>
+<p><b>
+Benefits</b></p>
+<p>
+Muncie Power Products offers a highly competitive compensation and benefit package including Medical, Dental, Prescription, Life Insurance, Dependent Life, Accidental Death &amp; Dismemberment (AD&amp;D) Insurance, Short-Term Disability, Long-Term Disability, Wellness Program Incentives, Flexible Spending Account, 401(k) Plan with Company match, Employee Assistance Program, Vision, Voluntary Life with Long-Term Care, Voluntary Accident.</p>
+<p><i>
+Muncie Power Products is an Equal Opportunity Employer.</i></p>
+</div></div>

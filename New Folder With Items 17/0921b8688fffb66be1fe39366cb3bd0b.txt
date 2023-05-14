@@ -1,0 +1,81 @@
+<h2>Outside Plant Planner</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>What you’ll be doing...</b>
+</p>
+<p>Verizon is investing in its network to improve the way we live, work, and communicate. Our network transformation will be critical for all our future connectivity businesses including new products such as IoT, 5G, and future smart cities. As part of this network transformation, you will help build one network engineered for growth for all lines of business.</p>
+<ul>
+<li>
+The OSP Planner will take corporate architecture guidelines; will review existing Verizon Network infrastructure, current business drivers, as well as future market growth opportunities to develop high level, market specific, designs of front haul fiber and transport backhaul networks.</li>
+<li>
+The team will also provide high level Optical Distribution Network (ODN) designs that will support Verizon’s access to small, medium and enterprise customers, long distance traffic, and back-haul requirements for wireless cell sites and hubs.</li>
+<li>
+The high level designs will include recommendations regarding the type /size of transport and aggregation equipment required to support each sites. A critical aspect of this team is to ensure that high level designs provide a consistent design approach across all market areas.</li>
+<li>
+The OSP Planner will continue to work closely with Regional Engineering to make adjustments to the design as site specific challenges present during the detailed design and implementation phases of the project. The planner will serve as a liaison between Regional Engineering/ Capacity Management and the PMO, Network Planning and the Standards teams.</li>
+<li>
+The Planner will vet new sales opportunities, monitor and manage the capacity of the new network, initiate growth projects, and will support IEN – ODN connectivity.</li>
+<li>
+Knowledge on long-term vision of Verizon’s transport and Optical Distribution Networks to effectively design for the future. This resulting network will support both customer driven and Verizon internal requirements, including Private IP, Public IP, Video, VoIP and Wireless traffic. As high level designs are developed, considerations such as space-constrained and/or power-constrained locations, available fiber, diversity, reliability and cost effectiveness, must be cared for.</li>
+</ul>
+<p><b>
+What we’re looking for...</b>
+</p>
+<p>We are looking for candidates with OSP engineering experience deploying fiber optic networks. Experience with Optical Distribution Network Design and exposure to Corning and CommScope Indexed Fiber gear is desired. Field experience for engineering and construction. Individuals with 3GIS, ArcGIS, ESRI, Google Earth and other OSP telecom industry standard software platforms a plus as well. Experience with Interoffice Facility Design, Capacity Management and Inside Plant Detailed Engineering.</p>
+<p>
+You'll need to have:</p>
+<ul>
+<li>
+Bachelor’s degree or four or more years of work experience.</li>
+<li>
+Four or more years of relevant work experience.</li>
+<li>
+Willingness to travel up to 25%.</li>
+</ul>
+<p>
+Even better if you have:</p>
+<ul>
+<li>
+A degree.</li>
+<li>
+Knowledge of FTTx network design/implementation and well as GPON architecture.</li>
+<li>
+Knowledge of Verizon systems like ICON, CCP, BGW, MECCA, XNG, TCOMS,GRIP,FIMS, 3GIS and nSAP.</li>
+<li>
+Knowledge of fiber optic engineering principles within OSP job related functional area to include general practices, procedures and industry standards.</li>
+<li>
+Experience with Optical Distribution Network Design and exposure to Corning and CommScope Indexed Fiber gear.</li>
+<li>
+Strong leadership and project management skills.</li>
+<li>
+Experience proposing solution supported by sound engineering and operational productivity to achieve goals in creative and effective ways.</li>
+<li>
+Excellent oral, written, and listening skills, capable of interacting with customers and co-workers at most levels including executives.</li>
+<li>
+Detail oriented, well organized, and effective in multi-tasking.</li>
+<li>
+Ability to work independently to achieve deliverables and resolve urgent/complex issues.</li>
+<li>
+Knowledge of fiber optic engineering principles within OSP job related functional area to include general practices, procedures and industry standards.</li>
+<li>
+Strong computer skills (Databases, Processes, and Administrative) - knowledge and skill of complex applications including Word, Excel, Visio, ArcGIS/ESRI, 3GIS, Google Earth, etc.</li>
+<li>
+Experience with Microsoft Office Suite (Microsoft Excel, Word, Power Point, Outlook) and GIS applications.</li>
+<li>
+Knowledge of the network plant and local practices.</li>
+<li>
+Knowledge with the following technologies is preferred: ROADM, MESH, SONET/SDH, ULH, ODN.</li>
+<li>
+Knowledge with Ciena, Alcatel-Lucent, Siemens or Fujitsu SONET/DWDM/MESH products.</li>
+</ul>
+<p><b>
+When you join Verizon...</b>
+</p>
+<p>You’ll have the power to go beyond – doing the work that’s transforming how people, businesses and things connect with each other. Not only do we provide the fastest and most reliable network for our customers, but we were first to 5G - a quantum leap in connectivity. Our connected solutions are making communities stronger and enabling energy efficiency. Here, you’ll have the ability to make an impact and create positive change. Whether you think in code, words, pictures or numbers, join our team of the best and brightest. We offer great pay, amazing benefits and opportunity to learn and grow in every role. Together we’ll go far.</p>
+<p><b>
+Equal Employment Opportunity</b>
+</p>
+<p>We're proud to be an equal opportunity employer- and celebrate our employees' differences,including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.</p>
+</div>
+<p></p>
+</div>

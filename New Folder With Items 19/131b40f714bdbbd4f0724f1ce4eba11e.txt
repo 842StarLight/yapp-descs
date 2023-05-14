@@ -1,0 +1,91 @@
+<h2>VP, Analytics</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>VP, Analytics</b></p>
+<p><b>
+Role:</b></p>
+<p>
+Castlight Health is seeking a senior leader with specialized expertise in leading the Analytics function. Analytics at Castlight is a critical function that drives our Product Roadmap, ensures we demonstrate value to our customers, and enables our mission of steering users to the best care for them. Our team is focused on answering questions like: Are we steering users to the highest quality, lowest cost providers? Are we driving medical cost savings for our customers? Is our product delivering value and engaging users, and where should we invest to maximize product value?</p>
+<p>
+Our team builds models that power customer reporting, defines metrics that power product analytics reporting, and researches new areas of opportunity for the product, as well as strategic growth vectors for the business. The team partners closely with key stakeholders across the major functions of the business, including Product, Customer Success, Sales, Marketing, and Engineering to define and tackle the most important questions facing the business.</p>
+<p>
+We are looking for an Analytics leader who will be a member of the company’s leadership team and will provide values-based mentoring and leadership to Castlight’s talented group of analysts, data scientists and healthcare actuaries to achieve these key objectives and develop a best-in-class analytics team that spans Product Analytics, Customer Analytics, Healthcare Analytics, and Analytics Infrastructure functions.</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Develop and own strategic vision and roadmap for Analytics; think critically to test hypotheses and prioritize analyses that support key stakeholders and deliver highest value insights for the business</li>
+<li>
+Partner cross-functionally with key stakeholders:</li>
+<ul>
+<li>
+Product Management to deliver insights and influence Product roadmap development</li>
+<li>
+Customer Success to develop and refine reporting packages and develop analytical tools for CS to share insights with customers, including reporting on Cost Savings (ROI)</li>
+<li>
+Sales and Product Marketing to develop proof points for the market</li>
+</ul>
+<li>
+Develop health economic analysis for potential white paper or journal publication</li>
+<li>
+Build and manage healthcare claims tools (e.g. risk adjustment software), savings methodologies, and claims-based reporting</li>
+<li>
+Build executive and product dashboards to provide visibility and access to key metrics, define targets for KPIs, and track progress against targets</li>
+<li>
+Support the team in creating data models with accuracy and efficiency, identify the best methodology, and design outputs to showcase findings in a digestible way</li>
+<li>
+Provide technical oversight to Analytics Infrastructure team:</li>
+<ul>
+<li>
+Oversee work of our Data Engineer to keep workflow management and data pipelines up to date</li>
+<li>
+Work with Engineering and Data Management to solve for technical dependencies</li>
+</ul>
+<li>
+Provide strategic thought partnership to the leadership team on corporate growth opportunities as they relate to driving steerage and population health</li>
+<li>
+Establish and maintain a culture of data driven decision making; leads Analytics function to ensure visibility and alignment with cross-functional leadership team</li>
+<li>
+Inspire, lead, and grow our team, embodying our company culture and values</li>
+</ul>
+<p>
+ <b>Qualifications:</b><br>
+<b>
+</b></p>
+<ul>
+<li>Minimum of 10 years’ experience working in analytics</li>
+<li>
+Strong business and strategic thinker; ensure analytics function supports key business objectives</li>
+<li>
+Minimum of 5 years team leadership / people management experience, including recruiting, training, developing, staffing and performance management</li>
+<li>
+Strong cross-functional leadership and execution</li>
+<li>
+Healthcare data or population health experience</li>
+<li>
+Experience working in, or with, Product Management organizations</li>
+<li>
+Experience with statistical modeling techniques and common analytical frameworks</li>
+<li>
+Ability to deliver consistent and accurate operational reporting</li>
+<li>
+Technical expertise:</li>
+<ul>
+<li>
+Expert with PostgreSQL</li>
+<li>
+Experienced with Python</li>
+<li>
+Experience with visualization platforms (Tableau ideally)</li>
+<li>
+Experience with MPP databases (Redshift, Vertica)</li>
+</ul>
+<li>
+Ideal candidates will also have:</li>
+<ul>
+<li>
+Advanced degree (Quantitative MBA, CS, ML)</li>
+<li>
+Experience with Apache Airflow or Pivotal GreenPlum</li>
+</ul>
+</ul>
+</div></div>

@@ -1,0 +1,55 @@
+<h2>Senior SailPoint Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">This position (part of our Professional Services team) is responsible for playing the technical role in the successful installation, integration and deployment of SailPoint IdentityIQ in client environments and assisting our implementation partners in that process. The SailPoint Implementation Engineer will require a strong understanding of Identity Access Management (IAM), and Access Governance/SailPoint’s suites of products. Security Consultants are skilled technical and consultative resources expected to be strong in both technical and soft skills. A Security Consultant must be a proven self-starter with the ability to problem-solve, communicate, participate in diverse project teams from a technical perspective, and interface effectively with customers, vendor partners, and colleagues.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Installation, integration and deployment of the IdentityIQ product in client environments.</li>
+<li>Communicating to clients and partners aspects of both the product and the implementation at the technical and/or functional level, appropriate for the situation.</li>
+<li>Post-sales requirements gathering, analysis and documentation.</li>
+<li>Working with clients post implementation for user testing, debugging, support and maintenance.</li>
+<li>Managing project scope, schedule, status and documentation.</li>
+<li>Developing and delivering technical training designed to enable/educate SailPoint implementation partners.</li>
+<li>Perform confidently and authoritatively in the role of SailPoint Consultant on all SailPoint-related technologies from a deployment perspective.</li>
+<li>Act as lead or supporting deployment engineer on SailPoint deployment projects.</li>
+<li>Provide SailPoint-related troubleshooting services as part of project or post-production support activities.</li>
+<li>Perform the following SailPoint deployment related activities on projects (including but not limited to):</li>
+<li>Ensure requirements are gathered, processes defined, and use cases documented</li>
+<li>Follow out of the box configuration vs. customization as much as possible</li>
+<li>Design SailPoint deployment architectures</li>
+<li>Participate in capacity planning and HW specification recommendation efforts</li>
+<li>Participate in all SailPoint deployment activities, connector configuration, custom rule development, workflow configuration and development, and third party system integration</li>
+<li>Participate in and/or lead User Acceptance Testing and bug-related engineering efforts</li>
+<li>Design, implement, and educate on SailPoint build processes, code migration, and source control use</li>
+<li>Provide knowledge transfer and post production support activities as necessary</li>
+<li>Help continue to build and improve the SailPoint COE Knowledge Base</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>5-7+ years of professional work experience as part of an enterprise software company or systems integrator. This should include 5+ years of enterprise software implementation experience, including SailPoint</li>
+<li>Advanced understanding of business processes, internal control risk management, IT controls and related standards</li>
+<li>Understand complex business and information technology management processes</li>
+<li>Execute advanced services and supervise staff in delivering basic services</li>
+<li>Responsible to install, integrate and deploy the IdentityIQ OR IdentityNow product in client environments</li>
+<li>Communicate to clients and partners aspects of both the product and the implementation at the technical and functional level appropriate for the situation</li>
+<li>Manage project scope, schedule, status and documentation</li>
+<li>Build and nurture positive working relationships with the clients with the intention to exceed client expectations</li>
+<li>Identify opportunities to improve engagement profitability</li>
+<li>Identify and evaluate complex business and technology risks, internal controls which mitigate risks, and related opportunities for internal control improvement</li>
+<li>Experience with the following programming languages: Java, BeanShell/JavaScript, JSP/Servlets, SQL</li>
+<li>Experience with the following web technologies: XML, SPML/SOAP, Web and Application Servers, HTML</li>
+<li>Experience setting up and installing software on both Windows and Unix (Linux, Sun, HP, AIX) platforms</li>
+<li>Experience with Databases (Oracle, Sybase, MSSQL, MySQL)</li>
+<li>Experience with Directories (LDAP, AD)</li>
+<li>Experience with enterprise systems (SAP, PeopleSoft) a plus</li>
+<li>Familiarity with identity management provisioning systems (Sun, Oracle, IBM, Novell) a plus</li>
+<li>Familiarity with RBAC a plus</li>
+<li>Excellent communication skills and extensive experience working with clients and partners</li>
+<li>Experience with Project Management duties (project planning, resource management, scope, schedule and status, documentation)</li>
+<li>Experience with QA duties is a plus (usability testing, performance testing, automated testing, test scripts, test cases and test plans)</li>
+<li>Security software or internal IT audit experience a plus</li>
+</ul>
+<b>Education:</b><br>
+Computer Science, Engineering, or equivalent experience. J2EE certification is a plus. CISSP certification is a plus.
+<br><br>
+<b>Travel:</b><br>
+This position requires approximately 35-50% travel.</div>

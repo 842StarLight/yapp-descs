@@ -1,0 +1,24 @@
+<h2>Salesforce Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Job Description:</b><br>
+<ul>
+<li>Salesforce technical lead with extensive experience with large project team involved in implementing Salesforce Communities Projects.</li>
+<li>The architect is expected to have experience in SFDC design &amp; development, including, but not limited to, Salesforce technologies such as Visual force, Apex, Lightning Design systems and Integration with other systems.</li>
+<li>Supports the implementation of customized SFDC solutions. Includes developing a thorough understanding of the client's requirements then applying industry best practices and detailed knowledge of the software to design and build an optimal solution that supports the business process and meets or exceeds functional requirements.</li>
+<li>The architect will be responsible for the detailed design of technical solutions, and will document the technical design and manage developers throughout the development, testing and support phases.</li>
+<li>Collaborate with external teams on integration and Establish integration standards for complex integrations.</li>
+<li>Builds a trusting relationship with major project stakeholders and leads them to adoption of the best solution.</li>
+<li>Works closely with the Software Implementation Technical Architects to ensure the solution is technically feasibility and to identify areas to reduce implementation efforts.</li>
+</ul>
+<b>Skills required:</b><br>
+<ul>
+<li>Solution, Design and implementation experience with SFDC especially with Salesforce communities.</li>
+<li>Should be able to clearly articulate Business functionality how it can be mapped to SFDC out of the box, including places for customization</li>
+<li>8-12 years of experience in SalesForce.com administration and project implementation.</li>
+<li>Good track record in enterprise level projects, data field audits and regional rollouts within a Channel Sales organization</li>
+<li>Full life cycle implementation and support, hands on technical knowledge and architecture solution required</li>
+<li>SalesForce.com certification and good knowledge of Force.com platform (i.e. Visual force, Apex, Salesforce Lightning, Integration etc.)</li>
+<li>Able to work well in a cross functional environment, effective communication with business users in understanding requirements and providing pragmatic solutions within the salesforce architecture guidance that align with enterprise Architecture</li>
+<li>Able to articulate well and fluency in English is a must.</li>
+</ul>
+#LI-DA1</div>

@@ -1,0 +1,98 @@
+<h2>Business Systems Analyst - Merch Systems</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Torrid is seeking a Business Systems Analyst to join their Oracle Retail Merchandising team to solve their Merchandising, Planning, Allocation, Omni Channel, Enterprise Integration and Reporting needs.<br>
+<br>
+<b>What you'll do...</b></p>
+<ul>
+<li>
+Conducting requirements gathering sessions with Business Leaders to define systems/process requirements, solutions options, and function as a Subject Matter Expert.</li>
+<li>
+Document business requirements, business cases and functional specs</li>
+<li>
+Evaluate potential software solutions and the system architecture to ensure they meet business requirements</li>
+<li>
+Leading discovery analysis and requirements gathering that support the strategy.</li>
+<li>
+Design and development of Retail Merchandising Suite</li>
+<li>
+Administration and support of Retail Merchandising Suite.</li>
+<li>
+Support system and user acceptance testing activities, including issue resolution</li>
+<li>
+Collaborating with cross-functional teams to address business or systems issues.</li>
+<li>
+Complete technical documentation to ensure system is fully documented</li>
+</ul>
+<ul><li>
+This person must be able to work under minimal supervision, must have strong verbal and written communication skills and skills to mentor Junior Team Members</li></ul>
+<ul>
+<li>
+Ensures that existing and new applications meet ongoing/evolving business and end-user requirements, and department and systems goals.</li>
+<li>
+Develops, plans, and coordinates in-depth end-user reviews for existing and new system or application.</li>
+</ul>
+<ul>
+<li>
+Developing detailed software development and upgrade project plans.</li>
+<li>
+Demonstrate hands-on experience in design and development of ETL integration services and reporting services.</li>
+<li>
+Develop and communicate training and documentation for end users, coordinates and/or holds clinics and other user-related activities as necessary.</li>
+</ul>
+<br>
+<b>
+What you'll need...</b><br>
+<ul>
+<li>3+ years of experience in a retail company.</li>
+<li>
+Experience with Oracle Retail analytics, Retail Merchandising, Planning &amp; Allocation, Point OF Sales, Supply Chain and CRM.</li>
+<li>
+Familiarity with data integration solutions in situations requiring Extract, Transform and Load (ETL) and other related methodologies in a multi-user, multi-platform, multi-tier environment</li>
+<li>
+Experience using Jira for Application Lifecycle Management</li>
+<li>
+Project management knowledge with a good understanding of Waterfall, Agile and Scrum methodologies.</li>
+<li>
+Proven ability and initiative to learn and research new concepts, ideas, and technologies quickly.</li>
+<li>
+Ability to conduct research into application issues and products.</li>
+<li>
+Ability to work in a team-oriented, collaborative environment.</li>
+<li>
+Willingness and ability to train and teach others.</li>
+<li>
+Ability to facilitate meetings and follow up with resulting action items.</li>
+<li>
+Ability to effectively move forward on tasks even with ambiguous or changing requirements.</li>
+<li>
+Ability to effectively prioritize and execute tasks in a high-pressure environment.</li>
+<li>
+Familiarity with PL/SQL, T-SQL</li>
+<li>
+Familiarity with Business Intelligence concepts and retail metrics</li>
+<li>
+Familiarity with Cloud based SAAS Software</li>
+<li>
+Familiarity with Snowflake or Google Bigquery</li>
+<li>
+Familiarity with Microsoft SQL Server integration services and reporting services in a development role or business analyst role</li>
+<li>
+Knowledge of ETL Tools like ODI or Informatica</li>
+<li>
+Familiarity with Oracle Retail analytics, Retail Merchandising, Point OF Sales, Supply Chain and CRM</li>
+<li>
+Familiarity with Reporting &amp; Visualization tools such as Looker, OBIEE, Tableau, Qlickview, Micro strategy or Power BI</li>
+</ul>
+<br>
+<b>
+What you'll get...</b><br>
+<ul>
+<li>Our open floor plan allows for a creative, collaborative and fun environment.</li>
+<li>
+A competitive benefits package including medical, dental, vision, 401k and paid time off.</li>
+<li>
+Additional perks like a generous employee discount, access to employee-only sales, café, masseuse, gym, fitness and yoga classes, basketball court, and more.</li>
+<li>
+Can't forget Thirsty Thursdays during the summer!</li>
+</ul>
+</div></div>

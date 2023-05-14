@@ -1,0 +1,61 @@
+<h2>Vice President of Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>ABOUT THIS ROLE:</b></p>
+<p>
+We are looking for an experienced technology leader to scale our talented software engineering teams, platform and products. Reporting to the Chief Product Officer (CPO) you will leverage your leadership skills, your technical expertise, and passion for innovation to solve mission-critical problems and set the strategic direction for our engineering team. As the leader of one of the company’s most vital capabilities, you will also engage cross-functionally to design new products capabilities, grow our company culture, our brand and establish exciting career paths for our awesome and creative people. You’ll often be wearing multiple hats and will be looking at a well-rounded, multi-faceted career-building experience, working with top talent.</p>
+<p><b>
+RESPONSIBILITIES:</b></p>
+<p>
+Engineering / Strategy</p>
+<ul>
+<li>Collaborates with the CPO, members of the Leadership team, Principal Engineers and Architects to develop a Software Engineering Vision &amp; Strategy aligned with d3's product objectives.</li>
+<li>Defines KPIs, objectives, and targets for measuring and improving the quality, security, scalability, maintainability, cost and time to market of our products.</li>
+<li>Works closely with Product Managers, Customer Success and Sales teams to ideate, scope, plan, estimate, coordinate, de-risk roadmaps for our customer facing product capabilities.</li>
+<li>Drives thought leadership within the organization with presentations, diagrams, and documentation to promote world-class engineering practices and execution.</li>
+<li>Mature and execute technical architecture patterns as business strategies and technology mature.</li>
+</ul>
+<p><b>Delivery / Execution</b></p>
+<ul>
+<li>Participate in an iterative planning process to estimate, prioritize and roadmap the development of new features and applications.</li>
+<li>Ensure software delivery deadline commitments are met and manage risks and dependencies across the portfolio.</li>
+<li>Balance the work in the team to include the expected capacity allocation for new features, tech debt, architecture improvements, and innovation prototypes.</li>
+<li>Drives adoption of new technology and processes across the engineering teams.</li>
+<li>Identifying process bottlenecks and opportunities for continuous improvement in the design, development, configuration, testing, deployment, monitoring and operation of our cloud platforms.</li>
+<li>Create technical requirements and application designs to govern the security, scalability, sustainability, cost and overall quality of our product, data and infrastructure.</li>
+<li>Mature our data capabilities, by improving the reliability, scalability and quality of our d3 CORE data-pipeline</li>
+<li>Support Sales Execution and Customer Success by contributing to RFP processes, and customer due diligence / on-boarding.</li>
+<li>While not an individual contributor, a person filling this role is expected to be hands-on enough to be able to jump in and help our teams with technical issues or handle production spelunking as needed.</li>
+</ul>
+<p><b>Team Building / Management</b></p>
+<ul>
+<li>Attract, hire &amp; retain highly skilled engineers.</li>
+<li>Assessing skills &amp; building career development plans for direct reports.</li>
+<li>Performance management through alignment/setting of objectives/deadlines for direct reports and cross-functional teams.</li>
+<li>Build a healthy engineering culture by planning and facilitating technical events, recognition programs, and technical learning curriculums.</li>
+<li>Acts as an expert adviser, coach, and mentor across the technology organization on latest engineering principles and practices.</li>
+<li>Acts as a point of escalation for teams facing complex technical challenges</li>
+</ul>
+<p><b>WHAT WE ARE LOOKING FOR:</b></p>
+<ul>
+<li>10+ years of experience in application development, software &amp; solution architecture with increasing responsibilities, with at least 5 of those in a management role and at least 3 years of managing teams of 20+ engineers.</li>
+<li>Degree in Computer Science, Mathematics, Engineering, or related field. Advanced Degree is a plus.</li>
+<li>Prior experience in B2B SaaS (Financial services &amp; Insurance is a plus).</li>
+<li>A passion for mentoring and building strong technical leaders.</li>
+<li>Demonstrated ability to transform teams and technology in a rapidly growing environment.</li>
+<li>Demonstrated experience with Continuous Delivery tools and DevOps practices.</li>
+<li>Demonstrated Experience hiring and building a strong team</li>
+<li>Experience leading delivering projects using Agile development practices and tools.</li>
+<li>Experience with the implementation and integration of business systems (financial services is a plus).</li>
+<li>Experience with Data Technologies: Elastic Search, Spark, Redshift, Aurora, AWS EMR, S3, and other AWS Data Tech</li>
+<li>Experience with Python, Scala, Java, SQL, Ruby, JavaScript.</li>
+<li>Experience with streaming technologies: Kafka, Kinesis, Spark Streaming.</li>
+<li>Experience with Serverless &amp; microservices architecture.</li>
+<li>Strong API design and implementation skills.</li>
+<li>Strong presentation skills and written &amp; spoken communication skills.</li>
+<li>Abreast of the latest and greatest technology advancements in web and native mobile platforms.</li>
+<li>Understanding of Big Data architectures, data science / Machine Learning platforms is a plus.</li>
+</ul>
+</div>
+<p></p>
+</div>

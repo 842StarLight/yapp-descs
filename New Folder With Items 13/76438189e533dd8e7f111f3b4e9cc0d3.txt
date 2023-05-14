@@ -1,0 +1,178 @@
+<h2>Functional Support Analyst - Houston, TX</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div><div>
+<div>
+<p><b>Job Description</b></p>
+<div><div><div>
+<div>A Support Analyst is typically an in-house Level 2 support technician who is a Subject Matter Expert in one or more application services. The engineer is responsible for ensuring the system integrity and data integrity for ongoing successful operations. The engineer will also use advanced support techniques to analyse and resolve incidents that were raised through the Incident Management process. They use defined work instructions and troubleshooting scripts to debug complex issues associated with these applications / infrastructure services. Support Engineers in Shell are also actively encouraged to seek and deploy new automation opportunities to remove manual effort and to streamline operations.<br>
+<br>
+Key to this specific role in support of the Shell Environmental Compliance Reporting Service application is the ability to use SQL querying and other data manipulation techniques to validate the integrity of the data as moves through this system. This role has the latitude to use a variety of data interrogation techniques to improve and automate the system. Also key is the management of custom data transport tools.<br>
+<br>
+The engineer will document solutions to known errors to expedite resolution of incidents and perform root cause analysis to minimize reoccurrence. The engineer typically leads testing activities against various changes to the application / infrastructure services through the Development, Test, Staging environments and performs Post-Production testing to ensure technical changes have been correctly applied.<br>
+<br>
+<b>Key responsibilities include:</b>
+</div>
+<div></div>
+<ul>
+<li>
+SAP Environmental Compliance (SAP EC) v3.0</li>
+<li>
+Some elements of platform job monitoring, support and troubleshooting</li>
+<li>
+Data Integrity validation using SAP HANA Studio</li>
+<li>
+Management of custom data transport tools</li>
+<li>
+Incident and Problem management</li>
+<li>
+User access management and report management</li>
+<li>
+End to end co-ordination across SAP EC, Enterprise Reporting Solution (ERS), Enterprise Integration Services (EIS) and Enterprise Business Objects Shared Service (EBOSS)</li>
+</ul>
+<div>
+This role is in the Projects and Technology (P&amp;T) Services and Operations Management (SOM) team, which is part of the ITSO (IT Services and Operations) organization, providing dedicated support and management of key IT operational services to all P&amp;T Business units as well as delivery of IT business infrastructure projects.<br>
+Shell’s Projects and Technology (P&amp;T) business is the projects execution and technology engine to help Shell achieve our purpose of ”We power progress together by providing more and cleaner energy solutions”. P&amp;T is comprised of a broad landscape of business units including many technical disciplines such as Safety &amp; Environment, Research &amp; Development, Field Development Planning, Project Execution, Engineering &amp; Technical Services, Licensing &amp; Sales to Third parties, Contracting &amp; Procurement and new Technology and Digital operations.<br>
+</div>
+<div><b>
+PT SOM core responsibilities for all staff are:</b></div>
+<div></div>
+<ul>
+<li>
+Identify and proactively solve problems and identify and implement service improvement opportunities</li>
+<li>
+Develop a detailed knowledge and business benefits of the ITSO services</li>
+<li>
+Seek opportunities to expand knowledge and understanding of the PT business</li>
+<li>
+Challenge and shape demand in the Business in a constructive and positive way</li>
+<li>
+Contribute to delivery of overall SOM objectives and KPIs (Key Performance Indicators)</li>
+<li>
+Act in compliance with IRM, HSSE and other regulatory frameworks in areas of activity</li>
+</ul>
+<div>
+<br>
+<b>Support Analyst Accountabilities include:</b>
+</div>
+<div></div>
+<ul>
+<li>
+Application Technical Support</li>
+<li>
+Application Configuration</li>
+<li>
+Incident and Problem Management</li>
+<li>
+Change Management for Standard Requests</li>
+<li>
+Monitoring of the technical and operational health of the landscape</li>
+<li>
+Ensuring Data Integrity of the application</li>
+<li>
+Testing related to System and Patch Upgrade</li>
+<li>
+Knowledge Management</li>
+<li>
+Technical/Operational Documentation and documentation to assist end user experience</li>
+<li>
+Proactive Risk Management</li>
+<li>
+Technical Coaching to L1 Support Team</li>
+<li>
+Interface Management – including proactive monitoring of data</li>
+<li>
+SAP EC Standard Request execution</li>
+<li>
+Security Management and Asset Integrity</li>
+<li>
+User Access Management</li>
+<li>
+One IT Control Execution and the storing of applicable evidences</li>
+<li>
+Escalation to suppliers, partner Shell teams and within PT SOM to ensure issues receive appropriate levels of attention</li>
+</ul>
+</div></div></div>
+<div></div>
+</div>
+<div>
+<p><b>Requirements</b></p>
+<div><ul>
+<li>Must have legal authorization to work in the US on a full-time basis for anyone other than current employer.</li>
+<li>
+Bachelor's Degree related to Information Technology preferred.</li>
+<li>
+Minimum three (3) years significant IT experience in a corporate setting.</li>
+<li>
+Proven knowledge on NW AS Java, SAP EC, Oracle SQL, Web Dynpro Java. XML.</li>
+<li>
+Experience of SQL Querying, views and reports and data manipulation in MS Access and Excel preferred.</li>
+<li>
+Experience of PLSQL preferred.</li>
+<li>
+Experience of VBA preferred.</li>
+<li>
+Experience with TOAD for Oracle preferred.</li>
+<li>
+Experience with Java and Oracle preferred.</li>
+<li>
+SAP BASIS knowledge and experience preferred.</li>
+<li>
+SAP Environmental Compliance v3.0 preferred.</li>
+<li>
+Knowledge of environmental reporting preferred.</li>
+<li>
+Knowledge of SAP BW, EIS and EBOSS preferred.</li>
+<li>
+Knowledge of Shell delivery methods, Project Delivery Framework, Agile, DevOps preferred.</li>
+<li>
+Knowledge of PT applications (focus on Safety and Environment) preferred.</li>
+<li>
+Knowledge of Supportability and Transition Management preferred.</li>
+<li>
+Knowledge of ITIL and experience in embedding process improvements preferred.</li>
+</ul></div>
+</div>
+<div>
+<p><b>Company Description</b></p>
+<div>Shell is a global group of energy and petrochemical companies with about 84,000 employees across more than 70 countries. We aim to meet the world’s growing need for more and cleaner energy solutions in ways that are economically, environmentally and socially responsible. We have expertise in exploration, production, refining and marketing of oil and natural gas, and the manufacturing and marketing of chemicals. As a global energy company operating in a challenging world, we set high standards of performance and ethical behaviors. We are judged by how we act and how we live up to our core values of honesty, integrity and respect for people. Our Business Principles are based on these. They promote trust, openness, teamwork and professionalism, as well as pride in what we do and how we conduct business.Building on our core values, we aspire to sustain a diverse and inclusive culture where everyone feels respected and valued, from our employees to our customers and partners. A diverse workforce and an inclusive work environment are vital to our success, leading to greater innovation and better energy solutions.</div>
+</div>
+<div>
+<p><b>Disclaimer</b></p>
+<div>Please note: We occasionally amend or withdraw Shell jobs and reserve the right to do so at any time, including prior to the advertised closing date.<br>
+<br>
+Before applying, you are advised to read our data protection policy. This policy describes the processing that may be associated with your personal data and informs you that your personal data may be transferred to Royal Dutch/Shell Group companies around the world.<br>
+<br>
+The Shell Group and its approved recruitment consultants will never ask you for a fee to process or consider your application for a career with Shell. Anyone who demands such a fee is not an authorised Shell representative and you are strongly advised to refuse any such demand.<br>
+<br>
+Shell participates in E-Verify.<br>
+<br>
+All qualified applicants will receive consideration for employment without regard to race, color, sex, national origin, age, religion, disability, sexual orientation, gender identity, protected veteran status, citizenship, genetic information or other protected status under federal, state or local laws.<br>
+<br>
+Shell is an Equal Opportunity Employer - Minorities/Females/Veterans/Disability.</div>
+</div>
+<div>
+<p><b>Employment Type</b></p>
+<div>Full Time
+</div>
+</div>
+<div>
+<p><b>Skillpool</b></p>
+<div>IT Service Management &amp; Delivery
+</div>
+</div>
+<div>
+<p><b>Work Location</b></p>
+<div>Houston - EP Center Americas</div>
+</div>
+<div>
+<p><b>No. of Positions</b></p>
+<div>2</div>
+</div>
+<div>
+<p><b>Job Expires</b></p>
+<div>30-Oct-2019</div>
+</div>
+</div></div>
+<div></div>
+</div>

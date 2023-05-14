@@ -1,0 +1,22 @@
+<h2>Lead Software Development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Job Location:</b> United States : North Carolina : Cary
+<br><br>
+<b>Role Value Proposition:</b><br>
+Here at MetLife we are seeking a Lead Software Engineer / Developer to lead the technical delivery of a complex and highly visible project in the Global Sales and Servicing Platform. The ideal candidate will possess prior technical leadership experience in insurance industry, strong development, communication, collaboration, and project management skills. Also have hands-on experience in leading complex financial systems projects using internal and external data in advanced analytics with ability to influence people across the organization.
+<br><br>
+<b>Key Responsibilities:</b> Provides technical leadership to a project team that’s building a framework to be used for Cloud platform for Sales and Servicing functions. Provides integrated systems planning and recommend new or different technologies which will Communicates recommended architectural vision, customer data protection strategies as well as cloud roadmap strategies and obtain buy-in from key internal stakeholders Collaborates with the product line architect to review solution design and roadmap Works closely with developers, analysts and business to build fully thought through solutions. Also ensures that new features are implemented according to specification and bugs are fixed. Leads project planning activities in an Agile SCRUM environment to define the milestones and activities within a comprehensive project plan to ensure project is on time and on budget Provides content and review documentation for release or new features
+<br><br>
+<b>Essential Business Experience and Technical Skills:</b><br>
+<b>Required:</b> Bachelor’s Degree in computer science or technical discipline or equivalent. 10+ years related information systems experience. Strategic thinking and strong orientation to detail. Strong Web Application development experience preferably using Spring, Java and Javascript.
+<br>Experience in Solution Design, Data modelling, REST API design.
+<br>Experience with test-driven development and automated testing frameworks using Gatling and Spock.
+<br>Experience in Azure PaaS with components like AKS, Cosmos, KeyVault, Storage etc.
+<br>Experience in Design Patterns and Restful services architecture design
+<br>Experience in a functional language like Groovy, Scala, Haskell or similar
+<br>Experience in container and orchestration technologies like Docker, Kubernetes, Swarm etc.
+<br>Preferred experience in building and deploying infrastructure with cloud deployment technologies like Terraform, Ansible, chef, puppet, etc
+<br><br>
+<b>Preferred:</b> Strong organizational skills, attention to detail and the ability to manage multiple projects with tight deadlines. Must possess strong initiative and a get-it-done attitude. Excellent spoken and written communication as well as receptive listening skills, with ability to present complex ideas in a clear, concise fashion to technical and non-technical audiences Excellent team player able to work with virtual and global cross functional teams. Ability to juggle multiple projects and tasks. Excellent, creative problem-solving skills. Flexibility and prioritization skills. Master's degree a plus.
+<br><br>
+At MetLife, we’re leading the global transformation of an industry we’ve long defined. United in purpose, diverse in perspective, we’re dedicated to making a difference in the lives of our customers.”</div>

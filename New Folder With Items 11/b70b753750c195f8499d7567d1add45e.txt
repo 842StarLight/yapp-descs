@@ -1,0 +1,94 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>The Senior Software Developer's primary responsibilities will be to create, maintain and extend software products and technology service offerings that focus on serving the needs of retailers and other businesses that utilize e-commerce, point of sale, and payment processing technologies.
+<p></p>
+<p><b>Job Details:
+</b></p>
+<p><b>Responsibilities:
+</b></p>
+<ul>
+<li>Create new software products, modules and features
+</li>
+<li>Design and code software features that adhere to delivered design requirements
+</li>
+<li>Perform unit testing of code created
+</li>
+<li>Participate in the testing/fix quality assurance cycle
+</li>
+<li>Collaborate with other developers on feature integration into a larger system
+</li>
+<li>Maintain existing software products and services
+</li>
+<li>Correct software deficiencies (bugs)
+</li>
+<li>Add features and enhancements that adhere to delivered design requirements
+</li>
+<li>Perform unit testing of code created
+</li>
+<li>Collaborate as part of a development team
+</li>
+<li>Participate in Scrum meetings
+</li>
+<li>Participate in periodic planning sessions
+</li>
+<li>Provide weekly updates on project progress to project/program management
+</li>
+<li>Contribute to the product specification process
+</li>
+<li>Create new software/feature design specifications
+</li>
+<li>Review and provide feedback on specifications created by others
+</li>
+<li>Negotiate with Scrum Masters, product management/stakeholders on technical issues that impact deliverable goal viability
+</li>
+<p></p>
+<li><p>Draft documentation for development projects
+</p></li>
+<li>Comment code to provide clarity during later rework/reuse projects
+</li>
+<li>Create “rough draft” documentation of software products for revision by QA and technical writers
+</li>
+</ul>
+<p></p>
+<p><b>Minimum Requirements:
+</b></p>
+<ul>
+<li>Experience in .Net, C#, Visual Studio, Microsoft, Microsoft SQL server, C++
+</li>
+<li>Skilled in creating and maintaining software products, modules, and features using .Net, C# (WPF, WCF, Windows forms, Windows services) etc.
+</li>
+<li>Skilled in Microsoft technologies and API testing
+</li>
+<li>Experience working on agile projects
+</li>
+<li>Experience working on Rhino and MOQ for unit testing
+</li>
+<li>Experience designing professional grade software using C#, C++, etc.
+</li>
+<li>Good problem solving skills
+</li>
+<li>Knowledge of, and experience applying, object oriented design and programming concepts
+</li>
+<li>Knowledge of, and experience applying, n-tier application architecture and development methodologies
+</li>
+<li>Industry experience in payment/banking will be preferred
+</li>
+<li>Experience working with Jira, Bamboo, BitBucket, etc.
+</li>
+<li>Experience with integration to COTS application to internal and extended enterprise systems
+</li>
+<li>Excellent written and verbal communication skills including basic technical writing abilities
+</li>
+<li>Research and make recommendations to the group regarding new technology available and its proper application
+</li>
+</ul>
+<p></p>
+<p><b>Must be willing to work onsite at our Lindon, UT or Vancouver, Canada office location. No remote work at this time.
+</b></p>
+<p></p>
+<p>Global Payments Inc. is an equal opportunity employer.
+</p>
+<p>Global Payments provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex (including pregnancy), national origin, ancestry, age, marital status, sexual orientation, gender identity or expression, disability, veteran status, genetic information or any other basis protected by law. Those applicants requiring reasonable accommodation to the application and/or interview process should notify a representative of the Human Resources Department.</p>
+</div>
+</div>

@@ -1,0 +1,51 @@
+<h2>Product Owner, Storage</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Product Owner, Storage</b><br>
+<b>Location:</b> Watertown, MA</p>
+<p><b>
+Why We Exist and What We Do:</b></p>
+<p>
+EditShare exists to simplify storytelling. We enable media professionals to collaborate on projects thanks to our ever-expanding range of innovative products and features, all designed to improve production and unleash creativity. Integration and collaboration are central to all products in our comprehensive range of media management solutions - from ingest to archive.</p>
+<p><b>
+Why We Need You:</b></p>
+<p>
+The product owner for EditShare’s Storage products will report to the Storage development manager and be responsible for our products’ backlog of features. You’ll collaborate with product management, sales, and technical support to prioritize features; you’ll work with product architects to elaborate features and with engineering management and scrum masters to plan delivery. Your success will be gauged by maintaining 2 (or more) sprints worth of prioritized backlog items ready for estimation and execution.</p>
+<p><b>
+Problems You’ll Solve:</b></p>
+<ul>
+<li>Establish 2 sprints worth of prioritized features for 3 scrum teams –Watertown, Warsaw, and Vietnam. You will need to work closely between the development, product, and support teams to establish and prioritize the backlog. Some features will cross products. In this case, you will work with other product owners to introduce features cohesively or in usable phases.</li>
+<li>Maintain consistent feature descriptions that contain descriptions of the feature, impact expected of delivery, user stories, and acceptance criteria. The information contained in the features will be used to guide implementation, build test cases, define customer documentation, and train support.</li>
+<li>Work with the rest of the agile development team and provide approval for sprint plans and feature acceptance at demos.</li>
+</ul>
+<p><b>What We’re Looking For:</b></p>
+<ul>
+<li>3+ years work experience as a Product Owner or similar role in an engineering organization.</li>
+<li>Technical background with a mix of knowledge of software development, distributed software systems, UI/UX design, and media production.</li>
+<li>Hands on experience with virtualized software environments (VMs and AWS EC2) and using the Ubuntu Linux operating system.</li>
+<li>Superlative written and verbal communication skills – you’ll be working with teams for which English is not their native language and you’ll be doing a lot of technical writing.</li>
+<li>Ability to understand software at the code level to understand code reviews and design discussions. Able to write scripts/programs to facilitate sprint reporting because we have a large and varied backlog and making sense of this data is critical.</li>
+</ul>
+<p><b>How We Work:</b></p>
+<p>
+At EditShare, our culture is driven by a shared respect for our customers, our people and our products. We are passionate about our Core Values and believe they empower us to innovate and solve complex problems. We expect all employees to own culture and live by the values.</p>
+<ul>
+<li>Customer Empathy: We listen first. We believe this allows us to understand the context of the story and respond rapidly with innovative solutions</li>
+<li>Humility: We recognize that we are stronger as the sum of our parts and respect the value of each individual contribution. We have the courage to do the hard work and learn along the way</li>
+<li>Dig Deep: We have the curiosity to ask questions until we understand and the integrity to follow through on hard discussions.</li>
+<li>All Around Players: We are all willing and able to step in and play any position. We all own the problem and are willing to quarterback a solution.</li>
+<li>Win Together: We are happy when our customers and our teams succeed. We practice honest communication and respectfully work together to solve complex problems.</li>
+</ul>
+<p><b>Contact:</b></p>
+<p>
+Please send all applications to careers@editshare.com</p>
+<p>
+EditShare is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable federal, state or local laws.</p>
+<p><b>
+About EditShare</b></p>
+<p>
+EditShare's innovative technology touches every step of television, film, and video production. Our products range from media engineered storage, archive, and video products; to cross-platform desktop applications; to web applications that stretch the limits of HTML 5 in modern browsers. Chances are if you have watched TV or a film in the past week, something you watched was created using an EditShare product.</p>
+<p>
+The spirit at EditShare is that of a high-tech start-up challenging the traditional players in the industry. We believe that one of the best things about EditShare is the people you get to work with. Our rockstar team are a diverse, inclusive group of professionals who work collaboratively. Our development teams are small meaning that everyone’s contribution is important and everyone has a chance to work on ambitious features and demanding problems. Our employees truly care about doing a great job and delivering a high quality customer experience every day. The way our staff meets its challenges makes us what we are and is the reason why EditShare has been such a success since its founding in 2004.</p>
+<p>
+EditShare is looking for full-time Software Developers and Software Development Summer Interns. We offer competitive salaries and a full suite of benefits as well as a well-placed offices globally..</p>
+</div></div>

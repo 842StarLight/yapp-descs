@@ -1,0 +1,104 @@
+<h2>Infrastructure Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div><div>
+<p>The Infrastructure Architect is responsible for the development and ongoing technical expertise and architectural solutions in infrastructure, hardware, hosting service and network areas. This role holds significant responsibility for providing robust and scalable technology platforms to ensure the ongoing performance of United Shore systems. This role will be focused on settings standard, designs and implementation of IT infrastructure and associated management tools. The Infrastructure Architect will work with other architecture roles in the company, including Solution Architects and Enterprise Architects as well as Infrastructure Project Managers.</p>
+<p>
+Other responsibilities may include creating prototypes to demonstrate product features and presenting product capabilities to the United Shore development community.</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>WHAT YOU WILL BE DOING
+</b></h2>
+<div><div><div>
+<ul>
+<li>Provide oversight and governance for all infrastructure technology and domains</li>
+<li>
+Develop an enterprise infrastructure architecture framework and implementation strategy</li>
+<li>
+Sets technical standards and procedures across the enterprise for all strategic platforms</li>
+<li>
+Document and communicate all infrastructure architecture designs and standards</li>
+<li>
+Creates reference architectures, position statements and technical design documents as technology guidelines</li>
+<li>
+Design software and hardware solutions that are of high quality, effectively meet business objectives, and support long-term IT strategy</li>
+<li>
+Ensure that software and hardware solutions are aligned with the company’s System Architectural strategy by understanding company objectives, key business and regulatory requirements, staying abreast of current and emerging technologies, and the System Architectural framework and future architectural direction</li>
+<li>
+Identify and specify interfaces between software components, applications, and systems and document their interactions in support of the solution’s functionality</li>
+<li>
+Define the functional attributes (performance, throughput, availability, capacity, security) of components and develop infrastructure standards</li>
+<li>
+Evaluate and document commercial software solutions, toolsets, and hardware</li>
+<li>
+Provide solutions and recommendations for application performance improvement</li>
+<li>
+Promote continuous improvement and strategic direction of the infrastructure</li>
+<li>
+Provide cost benefit analysis and estimates for proposed solutions</li>
+<li>
+Lead and participate in the modeling, prototyping, analysis, configuration, construction, and deployment of technology components solution</li>
+<li>
+Research, identify and recommend industry best practices for solving business problems</li>
+<li>
+Ability to act in the Technical Delivery Lead role for infrastructure projects</li>
+<li>
+Maintains knowledge of IT Infrastructure architecture, standards and practices and consistently applies these standards</li>
+<li>
+Review and assess infrastructure solutions for specific challenges or risks, and guide business enabling IT investment</li>
+<li>
+Facilitate discussions with business and IT leaders to ensure that enterprise infrastructure strategic initiatives are leveraged to drive IT simplifications, standardization and efficiencies</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>WHAT WE NEED FROM YOU
+</b></h2>
+<div><div><div>
+<p><b>Required:</b></p>
+<ul>
+<li>
+Computer-related degree or equivalent experience</li>
+<li>
+5+ years’ overall IT experience</li>
+<li>
+Ability to lead the design of software and hardware solutions that address business/technical needs and opportunities</li>
+<li>
+Ability lead and participate in the modeling, prototyping, analysis, configuration, construction, and deployment of technology components solution</li>
+<li>
+Ability to research, identify and recommend industry best practices for solving business problems</li>
+<li>
+Develop prototype solutions to verify capabilities for new systems development, enhancement, and maintenance</li>
+<li>
+Ability to maintain knowledge of IT Infrastructure architecture, standards and practices and consistently applies these standards</li>
+<li>
+Experience in Active Directory, VMware, Exchange, Containers, SCCM, Windows Server</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>THE PLACE &amp; THE PERKS
+</b></h2>
+<div><div><div>
+<p>United Shore is a diverse group of over 4,000 mortgage experts, sales superstars, tech gurus, marketing whizzes and more. We’re a $41 billion and growing, family owned and operated company that still feels like family. Our award-winning workplace just happens to be home to the #1 wholesale mortgage lender in the nation, United Wholesale Mortgage. And we believe in setting our team members up for success by creating a unique, energetic culture where you can be yourself and still reach your professional goals.</p>
+<p></p>
+<br>
+<p>
+Here are some of the reasons you’ll love working here:</p>
+<ul>
+<li>
+Large, state-of-the-art fitness center with a full-size basketball court, outdoor sand volleyball court, plus Zumba and yoga classes</li>
+<li>
+Wellness area, including an in-house primary-care physician’s office, full-time massage therapist and hair salon</li>
+<li>
+Gourmet cafeteria featuring homemade breakfast and lunch, and a dedicated food truck</li>
+<li>
+Free fruit, soft drinks and coffee</li>
+<li>
+Convenience store featuring grab-and-go snacks</li>
+<li>
+In-house Starbucks and indoor/outdoor café with Wi-Fi</li>
+<li>
+Escape room designed for team-building activities</li>
+<li>
+Indoor/outdoor putting greens</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>DISCLAIMER
+</b></h2>
+<div><div><div>All the above duties and responsibilities are essential job functions subject to reasonable accommodation and change. All job requirements listed indicate the minimum level of knowledge, skills and/or ability deemed necessary to perform the job proficiently. Team members may be required to perform other or different job-related duties as requested by their team lead, subject to reasonable accommodation. This document does not create an employment contract, implied or otherwise. Employment with United Shore is "at-will." United Shore is an Equal Opportunity Employer.</div></div></div>
+</div></div>

@@ -1,0 +1,122 @@
+<h2>Chief Technology Officer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<p><b>Department:</b> Management Team<br>
+<b>Reports To:</b> President/CEO<br>
+<b>Location:</b> Corvallis, Oregon with some travel to various remote sites<br>
+<b>Pay Rate:</b> DOE</p>
+<p><b>
+Casco is a service company owned jointly and providing services to both a telco cooperative and an electric cooperative. Casco is also a facility-based ISP with significant plans for expansion. We are looking for a CTO that can help support our existing owners as well as to significantly expand our own network.
+</b></p>
+<p><b>Job Summary:</b></p>
+<p>
+Responsible for the overall planning, organizing, and execution of all IT/Engineering functions. This includes directing all IT/Engineering operations to meet customer requirements as well as the support and maintenance of existing applications and development of new technical solutions, business opportunities and infrastructure.
+</p>
+<p>Casco Communications, Inc. is one of the first successful Telephone (Pioneer Telephone Cooperative) and Electric (Consumers Power, Inc.) partnerships collaborating on broadband deployment via our subsidiary PEAK Internet.</p>
+<p>
+PEAK Internet is a utility owned carrier class Internet Services Provider (ISP) that demands high nines reliability 24X7X365. We currently serve our retail subscribers with a mix of xDSL, FTTH, licensed and non-licensed wireless (900/2.4/3.65/3.5LTE/5.3/5.8), dedicated Ethernet, colocation, various hosted platforms (web and email) and some legacy dial-up. We provide wholesale services including hosted email, NOC, help desk, network management and consulting. We are looking to enhance our core service offerings and expand further into the enterprise and additional wholesale markets via our CLEC and affiliate companies. We have recently deployed a fiber network serving enterprise customers and are expanding into residential markets CLEC experience, MCSE and CCNP desired, but not a mandatory requirement.</p>
+<p>
+At PEAK, we have no technical bias on hardware and software as we adopt the “best of breed” principal when designing an application or service. This is a “hands on” leadership position.</p>
+<p><b>
+Principle Duties and Responsibilities:</b></p>
+<ul>
+<li>Analyzes complex business needs and recommends solutions to the CEO for approval. Executes and implements approved solutions</li>
+<li>Ensures consistency and maintainability of new and existing infrastructure by creating, maintaining, and enforcing standards and procedures for implementing technical solutions.
+</li>
+<li>Create and enforce written policies and procedures regarding all IT/computer operations.</li>
+<li>Maintain security of all data and systems and provide for reasonable data backups in the event of systems failures.
+</li>
+<li>Creates and maintains corporate network, Intranet, and e-mail systems.</li>
+<li>Reviews and coordinates software licensing.</li>
+<li>Sets standards for backup / recovery and documentation of essential network functions.</li>
+<li>Ensures that all expenses incurred do not exceed budgetary limits and all items purchased are valid.</li>
+<li>Plan, review, and maintain all bandwidth and special access agreements with Tier 1 providers to ensure capacity meets requirements.</li>
+<li>Monitor system device capabilities and status.</li>
+<li>Act as a coach, leader, mentor, catalyst and facilitator with Team Members; serve as a resource person for others.</li>
+<li>Directs and prioritizes the workload of subordinate personnel, current staff of 6 (six)</li>
+<li>Reviews all designs, code, and plans when applicable.</li>
+<li>Approves all business requirements prior to technical solution.</li>
+<li>Participates in all hardware and software evaluations and maintains vendor contracts.</li>
+<li>Represents Engineering at client or end user meetings when appropriate.</li>
+<li>Directs education programs for the staff.</li>
+<li>Performs as a sales engineer for the company when requested.</li>
+<li>Prepares and delivers performance evaluations, salary reviews, conducts interviews and performs other required supervisory functions in cooperation with the HR Director.</li>
+<li>Maintain familiarity with Oregon BOLI laws and regulations.</li>
+<li>Meet and collaborate with affiliate company teams, industry peers and organizations.</li>
+<li>Other duties as required or assigned.</li>
+</ul>
+<p><b>Required Skills and Abilities:</b></p>
+<ul>
+<li>Ability to work in a high stress, multiple priority job</li>
+<li>Entrepreneurial vision with ability to create applicable business plans</li>
+<li>Proven ability to lead a progressive IT / Engineering group</li>
+<li>Extensive knowledge of PC’s, network hardware, network topology, operating systems, software, printers, gateways, routers, SAN/NAS, tape backup, UPS, patch panels, modem concentrators, communications protocols, xDSL protocols and standards, ATM circuits, TDM, Active Ethernet, FTTH and GPON standards and protocols.
+</li>
+<li>May require long hours, “on-call” nights and weekend work</li>
+<li>Ability to communicate technical concepts to technical and non-technical people</li>
+<li>Ability to manage concurrent projects and motivate professional staff</li>
+<li>Demonstrated aptitude and willingness to learn new technologies</li>
+<li>Well developed, professional written and oral communications skills</li>
+<li>Ability to work effectively as a team
+</li>
+<li>Ability to inspire and lead effectively</li>
+<li>Ability to effectively establish rapport and present information to staff
+</li>
+<li>Excellent prioritization and multitasking skills</li>
+<li>Exceptional organizational and interpersonal skills</li>
+<li>Effectively lead the department making critical support and customer decisions when required</li>
+<li>Excellent deductive reasoning and problem solving skills</li>
+<li>Must be able to occasionally lift up to 70+ pounds
+</li>
+<li>Must have a clean driving record and be able to pass drug screening
+</li>
+</ul>
+<p><b>Minimum Qualifications</b></p>
+<ul>
+<li>Bachelors Degree in Computer Science or related field or comparable experience</li>
+<li>Minimum 8 years experience in Systems Engineering or IT</li>
+<li>Minimum 4 years experience with high availability networks</li>
+<li>Proficiency in the following technologies and services:
+<ul>
+<li>In depth knowledge of Linux/Unix operating systems and server administration</li>
+<li>In depth knowledge of Windows Systems including Active Directory and Exchange 2003/2007</li>
+<li>In depth knowledge of server virtualization technologies such as VMware vSphere and ESX.</li>
+<li>Network design, maintenance and implementation</li>
+<li>Network and system security with firewalls, VPN’s and routers</li>
+<li>Cisco Switches and Routers, configuration.</li>
+<li>Juniper Switches and Routers, configuration.</li>
+<li>Foundry Switches and Routers</li>
+<li>CYAN Hardware and Software</li>
+<li>TCP/IP, NetBIOS, IPX/SPX and NetBEUI, BGP, OSPF, Spanning Tree, Mac authentication, Radius</li>
+<li>Trango, Cisco, Motorola, MikroTik and other wireless products (802.11a/b/g/n)</li>
+<li>Regulatory compliance; FCC, ARIN, OPUC and CALEA, OSHA</li>
+<li>VoIP, PABX/IP-PABX (MetaSwitch)</li>
+<li>Security packages and appliances including Cisco PIX, Watchguard firewalls, Edgewave, Palo Alto and Juniper firewalls, Nessus security scanner, WireShark and ethereal sniffer.</li>
+</ul>
+</li>
+</ul>
+</div>
+<div>
+<h3 class="jobSectionHeader"><b>
+Benefits and Culture</b></h3>
+<p>Full-time employees of PEAK Internet are offered a variety of benefits to create a comprehensive employment package.</p>
+<h4 class="jobSectionHeader"><b>
+Health Plans</b></h4>
+<p>Employees are provided an opportunity to obtain coverage for their medical, dental, vision and prescription drug needs, as well as participate in the group life insurance and long-term disability program. Reimbursement for membership in a wellness program is also an option for the employee.</p>
+<h4 class="jobSectionHeader"><b>
+Retirement</b></h4>
+<p>Employees are assisted in planning for retirement through participation with the opportunity to contribute to a 401(k) with employer matching contributions.</p>
+<h4 class="jobSectionHeader"><b>
+Work/Life</b></h4>
+<p>Employees are able to balance their work life and personal time with our Personal Time Off program, seven paid holidays, Employee Computer Acquisition Program, and an Employee Assistance Program.</p>
+<h4 class="jobSectionHeader"><b>
+Career Development</b></h4>
+<p>Employees are given the opportunity to expand their skills and expertise by participating in company-offered internal training, seminars, and professional conferences. For employees who desire to improve their skills through after-hour education, tuition reimbursement is available.</p>
+</div>
+<div>
+<p>
+This position offers an excellent benefits package and salary commensurate with qualifications and experience. Please email a cover letter and resume to jobs@peakinternet.com with CTO in the subject line.</p>
+<p>
+<b>PEAK is an equal opportunity employer.</b></p>
+</div>
+</div></div>

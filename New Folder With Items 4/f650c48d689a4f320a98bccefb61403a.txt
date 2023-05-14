@@ -1,0 +1,86 @@
+<h2>IT Trainer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div><div>
+<p>We have an exciting opportunity on our training team for an IT Training Specialist for our Dev-X initiative. You will mentor and help Junior Developers grow their careers by training them on our ever changing technologies and software engineering platforms. You will also get to use your analytical skills in developing metrics to identify needs for future training. This role focuses on the development of training for newly hired team members entering into UWM’s Dev-X program.</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>WHAT YOU WILL BE DOING
+</b></h2>
+<div><div><div>
+<ul>
+<li>Facilitate computer based training and provide classroom instruction</li>
+<li>
+Develop new training courses around .NET, SQL, and C# programming languages.
+</li>
+<li>Develop Academy LMS content as needed</li>
+<li>
+Shadow teammates and provide feedback on improving courses and facilitation</li>
+<li>
+Analyze training metrics to identify opportunities to improve outcomes</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>WHAT WE NEED FROM YOU
+</b></h2>
+<div><div><div>
+<p><b>Required:</b></p>
+<ul>
+<li>
+Experience working with an object oriented language (C#, Java, etc.)</li>
+<li>
+Experience working with a relational database (MSSQL, MySQL, etc.)
+</li>
+<li>2+ years of experience as a Software Programmer or Developer</li>
+<li>
+Strong interest in learning C#,MSSQL and .NET</li>
+<li>
+Demonstrable technical writing skills (Course guides, PowerPoint, etc.)</li>
+<li>
+Strong experience with Word, PowerPoint and Excel</li>
+<li>
+Adept in working with IT leaders to generate new training</li>
+<li>
+Strong verbal and written communication</li>
+</ul>
+<p><b>
+Preferred:</b></p>
+<ul>
+<li>
+Conceptual knowledge of SCRUM methodologies</li>
+<li>
+2+ years of experience working with .NET, C#, MSSQL, Visual Studio, TFS and MFS</li>
+<li>
+1+ years of classroom training experience</li>
+<li>
+Mortgage industry experience</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>THE PLACE &amp; THE PERKS
+</b></h2>
+<div><div><div>
+<p>United Shore is a diverse group of over 4,000 mortgage experts, sales superstars, tech gurus, marketing whizzes and more. We’re a $41 billion and growing, family owned and operated company that still feels like family. Our award-winning workplace just happens to be home to the #1 wholesale mortgage lender in the nation, United Wholesale Mortgage. And we believe in setting our team members up for success by creating a unique, energetic culture where you can be yourself and still reach your professional goals.</p>
+<p></p>
+<br>
+<p>
+Here are some of the reasons you’ll love working here:</p>
+<ul>
+<li>
+Large, state-of-the-art fitness center with a full-size basketball court, outdoor sand volleyball court, plus Zumba and yoga classes</li>
+<li>
+Wellness area, including an in-house primary-care physician’s office, full-time massage therapist and hair salon</li>
+<li>
+Gourmet cafeteria featuring homemade breakfast and lunch, and a dedicated food truck</li>
+<li>
+Free fruit, soft drinks and coffee</li>
+<li>
+Convenience store featuring grab-and-go snacks</li>
+<li>
+In-house Starbucks and indoor/outdoor café with Wi-Fi</li>
+<li>
+Escape room designed for team-building activities</li>
+<li>
+Indoor/outdoor putting greens</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>DISCLAIMER
+</b></h2>
+<div><div><div>All the above duties and responsibilities are essential job functions subject to reasonable accommodation and change. All job requirements listed indicate the minimum level of knowledge, skills and/or ability deemed necessary to perform the job proficiently. Team members may be required to perform other or different job-related duties as requested by their team lead, subject to reasonable accommodation. This document does not create an employment contract, implied or otherwise. Employment with United Shore is "at-will." United Shore is an Equal Opportunity Employer.</div></div></div>
+</div></div>

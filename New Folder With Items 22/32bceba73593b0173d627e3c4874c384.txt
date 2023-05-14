@@ -1,0 +1,78 @@
+<h2>Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Apex Technology Management is accepting applications for Network Engineer / Systems Engineers who have both technical and business acumen. We have a top notch team that allows even the most seasoned experts to learn and grow. If you would like to join a team that you can be proud to be part of, where mutual respect, hard work, integrity and professionalism are the norm and you meet the qualifications listed below, please click on the Apply For This Position button!</p>
+<p><b>
+Network Engineer / Systems Engineer</b></p>
+<p><b>
+Professional Services Division</b></p>
+<p>
+ <b>Responsibilities:</b></p>
+<ul>
+<li>Responsible for all aspects of designing, planning, implementing, maintaining, troubleshooting and supporting Windows server operating systems and server hardware at multiple sites.</li>
+<li>Responsible for the design, implementation, maintenance, troubleshooting and support the virtualization platforms.</li>
+<li>Responsible for planning and executing complex projects including network design and server installs, WAN design and implementation, VPN projects, Exchange server implementations, Office 365 migrations and disaster recovery.</li>
+<li>Must be well versed in VMware vSphere server virtualization and in Storage Virtualization/SAN technology.</li>
+<li>Strong in all of the most common and popular networking technologies as well as some of the more mature ones. Strong technical aptitudes, backed by at least 5 years of hard core in the trenches experience, powerful communicator and a person who can manage and execute well under strict deadlines.</li>
+<li>Project Management and Implementation, Customer Service, Network Design, Technology Consulting, Computer/Network Maintenance and Support, Internal Network Support, Storage Consulting, Design and Implementation, Network Security, Disaster Recovery, Strategic Planning, Pre-Sales, Management and Training.</li>
+</ul>
+<p><b>Experience In:</b></p>
+<ul>
+<li>Minimum of 5 years of verifiable Advanced Networking and Server/Storage Virtualization experience, including performing server installs without assistance. Advanced knowledge of Windows 2008/2012 Server administration and troubleshooting.</li>
+<li>Minimum of 5 years of verifiable Project Implementation experience for Midsize and Enterprise businesses.</li>
+<li>Minimum of 5 years of experience with Cisco Routers/ Switches</li>
+<li>Utilizing ITIL or other IT Best Practice Framework such as Microsoft Operations Framework (MOF).</li>
+<li>Configuring and troubleshooting Layer 2 networking (VLANS, Spanning-Tree,…)</li>
+<li>IPSec VPN, PIX/ASA Firewalls, SSL VPN, PKI encryption, and AAA.</li>
+<li>NTP, TCP/IP, and Windows Systems.</li>
+</ul>
+<p><b>Detailed Knowledge of:</b></p>
+<ul>
+<li>All current Microsoft operating systems, TCP/IP, routing, networking hardware, PC hardware, servers, network design, network administration, project management principles, customer service principles and skills, methods of researching and troubleshooting technical problems utilizing knowledge management tools, network security, routers, WAN/LAN/WLAN infrastructure, SANs Implementation, VMWare virtualization in an Enterprise environment, topology architecture, etc.</li>
+<li>Citrix, Microsoft Terminal Server, Microsoft Sharepoint, Cisco routers, Cisco’s product lines, SonicWall, business management principles, supervisory skills, principles of manpower planning, utilization and scheduling, hardware, switches.</li>
+<li>High Availability, Business Continuity, and Disaster Recovery concepts.</li>
+<li>In depth knowledge of Windows Clustering including design, implementation, maintenance, troubleshooting and support including SQL Database and Applications</li>
+</ul>
+<p><b>Ability to:</b></p>
+<ul>
+<li>Communicate with client at all levels from IT personnel to CxO’s and to understand business issues in context of IT issues</li>
+<li>Handle problems independently to full resolution</li>
+<li>Add structure to IT operations – implementing change management, documentation, best practices, etc.</li>
+<li>Participate in the development and ongoing upkeep and enforcement of Standards, policies and procedures</li>
+<li>Design, plan, and install a Windows Active Directory network from scratch</li>
+<li>Organize and schedule tasks and projects</li>
+<li>Be resourceful and utilize critical thinking, reasoning and troubleshooting skills</li>
+</ul>
+<p><b>Licenses/Certifications:</b></p>
+<ul>
+<li>Current Microsoft certification or four year college degree in a related area of study. Advanced IT Certifications will be given first consideration, such as, MCSE or MCITP in Enterprise and Server Administration, Citrix CCEA or CCIA, SonicWall CSSA, Cisco CCNA/CCNP, VMware VCP, CompTIASecurity+ or CISSP</li>
+</ul>
+<p><b>Desired Skills:</b></p>
+<ul>
+<li>Perform effectively in a fast-paced environment with short timelines</li>
+<li>Maintain a professional and courteous demeanor in difficult situations</li>
+<li>Maintain high-quality work to manage multiple critical projects with a strong sense of ownership</li>
+<li>Perform and participate in a team-oriented environment</li>
+<li>Excellent professional service skills with a positive and confident personality</li>
+<li>Excellent communication and documentation skills</li>
+<li>Excellent resourceful problem solving skills and driven by results</li>
+</ul>
+<p>If you match these criteria and want to live in or near beautiful Redding, California, surrounded by rivers, lakes and mountains, please apply!</p>
+<p>
+All resumes will be considered strictly confidential and will only be viewed by Apex's top management employees with consideration for the potential sensitivity of currently employed candidates. If you are not sure that this position is a fit for you, but would like to hear more about the opportunity, please do not hesitate to submit an application with confidence that your inquiry will remain confidential.</p>
+<p><b>
+About Apex</b></p>
+<p>
+ Apex is considered the premier technology systems integrator in Redding, CA. We are a Microsoft Gold Certified Partner (with Security, Information Worker, Network Infrastructure &amp; Advanced Network Infrastructure competencies) and Small Business Specialist, a Cisco Premier Partner and a Citrix Silver partner.</p>
+<p>
+ We create and maintain small business and enterprise level computer and Voice over IP networks. Most importantly, we truly care about our employees and our clients. We are located in far northern California within a short drive of lakes (Shasta and Whiskeytown), rivers and mountains (Mount Shasta &amp; Lassen). Redding is a great place to live and raise a family. Apex has been built on doing technology solutions right every time. We are committed to integrity and excellence in customer service. At Apex, we are a "People First" culture, committed to providing employees with an environment where their talents can flourish. We are a growing company seeking the best employees in the business.</p>
+<p>
+ You will enjoy one of the most stunningly beautiful working environments Northern California has to offer with riverfront offices affording unparalleled views of the Sacramento River and Mount Shasta. You will be a member of an amazing team of down to earth people who like to work together and have fun together. You’ll be an integral building block of something great: a rapidly growing company headquartered in Redding, CA but expanding throughout the state.</p>
+<p>
+ Friday riverfront Yoga classes on the patio, YMCA memberships, paid time off to volunteer, fully stocked breakroom, BBQs and Potlucks, education/tuition reimbursements, technical and leadership training opportunities, standup desks, corporate giving and donation matching are just some of the many perks that make Apex a great place to work and why we were recognized as the best midsized employer in Shasta County. Of course we also have all of the usual benefits (Health insurance with employer contributions for employee and family, Dental and Vision insurance, 401k, generous time off, etc.).</p>
+<p>
+ Our employees can tell you that the perks are nice, but it’s the team that you work with that really makes Apex a great place to be. We offer excellent pay, benefits and long term career growth opportunities.</p>
+<p>
+What it means to work with Apex</p>
+<p>
+Discover how Apex transforms organizations and lives through innovative technology solutions.</p>
+</div></div>

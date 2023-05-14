@@ -1,0 +1,48 @@
+<h2>Support Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Make Microsoft Advertising Technical Support part of your career story! Microsoft Advertising is the destination for experienced, collaborative, and passionate digital advertising professionals seeking a rewarding career and lifestyle. We offer a compelling portfolio of advertising products, innovative solutions and the opportunity to engage with some of the brightest minds in the digital industry. Global Support is a focal point for Microsoft advertisers around the world and the Microsoft Ads Technical Support team plays a pivotal role in supporting Bing search. As a Technical Support Engineer (TSE), you will provide advanced technical support for Microsoft online advertising global sales teams with a primary focus on technically supporting paid search results that appear on Bing and other web properties such as AOL and Yahoo!. The individual that will succeed in this role will have experience in and a passion for great customer service and strong team relationships. You will partner with our platform development team, share knowledge and be an effective advocate for our internal/external partners. You will join a team that is focused on results, working together to solve problems and committed to developing people.<br>
+#MicrosoftAdvertising</div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<ul>
+<li>Perform deep technical investigations that stretch your skills as you traverse rich telemetry streams to isolate and solve complex performance issues for Microsoft Ads customers &amp; partners.</li>
+<li>Drive root cause analysis and service improvements involving bug fixes in close partnership across several Engineering teams</li>
+<li>Collaborate closely with Engineering PMS/Devs to ensure the availability and performance of Microsoft Ads platform and the satisfaction of our customers</li>
+<li>Participate in on call coverage rotation - help identify and mitigate high priority incidents while leading efforts to get the right communication out to all customers in partnership with several internal stakeholders.</li>
+<li>Drive continuous improvement in the Microsoft Ads platform incorporating feedback from internal/external customers</li>
+<li>Identify and drive requirements for increased customer self-supportability</li>
+<li>Effective ticket queue management and prioritization provide continuous and timely updates to customers.</li>
+<li>Take ownership to resolve customer issues in accordance with service level agreements (SLAs) balancing speed and quality.</li>
+<li>Create process or troubleshooting documentation in the Global Support knowledge base.</li>
+<li>Demonstrate proactive customer support by suggesting optimization opportunities and driving revenue via consultation calls.</li>
+<li>Design and automate platform checks to engage with Engineering before customers escalates on system issues.</li>
+<li>Occasional night and weekend on-call work is required</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<ul>
+<li>BS in Computer Science, Engineering or related technical discipline</li>
+<li>Preferred advanced problem-solving ability to drive great customer service and strong team relationships</li>
+<li>Minimum 2 - 4 years' experience in a technical support or software development organization (Tier 3 experience preferred), in the online industry for a high volume commercial website or service</li>
+<li>Minimum 3+ years’ experience using TSQL required with ability to manipulate data rapidly and use complex joins (3+ years’ experience preferred) and Stored Procs</li>
+<li>Ability to analyze and visualize large data sets to find issue trend</li>
+<li>Practical experience running online systems built on Azure or similar cloud providers</li>
+<li>Experience with the following web API technologies preferred: SOAP, JSON, XML</li>
+<li>Experience working with remote/virtual teams; ability to collaborate across boundaries</li>
+<li>Work in a team environment leveraging other team member ideas, contributing to others success Willingness to embrace change;</li>
+<li>Communication skills are a key component of this role with audiences that include customers, peers and occasional executive presence</li>
+<li>Strong documentation skills to be utilized for case management, knowledge capture, bug management and training</li>
+<li>Storytelling, influencing for impact skills, attention to detail and commitment to quality</li>
+<li>Enthusiastic, self-motivated with passion for the success of the customer and proven capability to develop key relationships</li>
+<li>Data driven with a focus on business impact for projects undertaken</li>
+<li>Organic &amp; Paid search platform experience preferred</li>
+</ul>
+<div></div>
+<br>
+<div>
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.</div>
+<div></div>
+<br>
+<div>
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.</div>
+</div></div>

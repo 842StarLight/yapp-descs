@@ -1,0 +1,54 @@
+<h2>Manager, Business Intelligence</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Your Opportunity
+</b></h2>
+<div><div><div>
+<div>Love exploring data for insights that impact business? Then we want you! Our large client base and multi-channel transaction volume offers a fertile data environment to uncover new insights and answers to key business questions. Our dynamic business generates many questions that provide lots of opportunity to get deep in data and have real impact.</div>
+<div></div>
+<br>
+<div>
+Analytics and Business Insight (ABI) is a smart, fun team of 140+ that provide quantitative decision support to multiple business units across Schwab. We help our business partners better understand the needs and behaviors of our prospects and clients through analytics, data science, market research, and business intelligence.</div>
+<div></div>
+<br>
+<p>
+In this role you will work directly with data partners and colleagues to engineer optimal solutions that support both short- and long-term priorities, with solutions ranging from traditional to more modern, interactive business intelligence and analytic tools. You will craft insights, create visualizations, and fuel data products that identify business opportunity and influence client experiences.</p>
+<ul>
+<li>
+Consult with business partners to understand their needs and goals and build visually appealing dashboards or reports that help them achieve those goals</li>
+<li>
+Develop high-impact analyses quantifying the impact of key business initiatives</li>
+<li>
+Communicate methodologies and results through compelling, clear visualizations and simplify and present complex concepts to a non-technical audience</li>
+<li>
+Collaborate with team members across data functions including analysts, data engineers, data scientists and analysts to deliver best-in-class solutions</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>What you’re good at
+</b></h2>
+<div><div><div>
+<ul>
+<li>
+<b>Data wrangling:</b> you are comfortable writing SQL queries from scratch that blend together data from dozens of sources in the right form for analysis, visualization, or reporting</li>
+<li>
+<b>
+Data visualization:</b> you excel at creating rich data visualizations to communicate complex ideas to leaders, and make data-driven stories come to life through visuals (you grok data-ink ratios and make data-driven stories come to life through visuals)</li>
+<li>
+<b>
+Business acumen:</b> you understand the bigger picture for customers and the business and know how to probe beyond stakeholders’ stated requests to really understand their needs and the value of information</li>
+<li>
+<b>
+Detail orientation:</b> you know how to optimize data, launch production, and manage change control</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>What you have
+</b></h2>
+<div><div><div><ul>
+<li>B.S. degree in Engineering, Information Management, Finance, Mathematics or similar quantitative field</li>
+<li>
+Proficiency with data visualization software such as Tableau, Qlik, Microsoft</li>
+<li>
+2-5 years experience in Business Intelligence, Data Analytics and SQL structured programming, ad hoc queries, and data analysis development using Teradata, Oracle, and/or Microsoft SQL Server in a large scale data warehouse environment</li>
+<li>
+Experience working directly with business and technology partners to understand objectives and articulate the impact of Business Intelligence solutions</li>
+</ul></div></div></div>
+</div></div>

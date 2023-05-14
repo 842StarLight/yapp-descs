@@ -1,0 +1,49 @@
+<h2>Senior Full-Stack Web Developer (Software Engineer)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>As a proud advocate for manufacturing in the U.S.A., Kenall has become a champion in developing advanced lighting control systems widely used in parking garages/lots, manufacturing facilities, warehouses, stairwells and multi-purpose rooms. The control systems monitor the environment, manage light levels, and provide notification services from our lighting fixtures. Image sensing technology integrated into the system also allows for additional video analytics to be released in future products.</div>
+<div></div>
+<div>Kenall has an open position for a <b>Senior Full-Stack Web Developer (Software Engineer) </b>who will be a key member of the new product development team.</div>
+<div></div>
+<div>The Senior Full-Stack Web Developer (Software Engineer) position is responsible for the ongoing development, testing and deployment of our state-of-the art, intelligent, innovative web-based lighting controls system, <b>TekLink™</b>. This includes front-end web application, back-end database, and mobile app development. Additional responsibilities include:</div>
+<div></div>
+<div><b>RESPONSIBILITIES:</b></div>
+<ul><li>Develop front-end web application using:
+<ul>
+<li>HTML5</li>
+<li>Angular</li>
+<li>JavaScript</li>
+<li>CSS3</li>
+</ul>
+</li></ul>
+<ul>
+<li>Develop back-end web application using:
+<ul>
+<li>SQL</li>
+<li>ASP.net (C#)</li>
+<li>ASP.net core (C#)</li>
+</ul>
+</li>
+<li>Develop mobile application using:
+<ul>
+<li>Mobile Web Framework (Ionic preferred)</li>
+<li>Typescript</li>
+</ul>
+</li>
+<li>Manage hosting service (AWS/Azure/IIS)</li>
+<li>Be an information source and mentor to junior engineers</li>
+<li>Work closely with product development teams to deliver well architected web application.</li>
+<li>Work closely with Product Management and Sales to enhance the user experience.</li>
+<li>Contribute in all phases of the development lifecycle.</li>
+<li>Anticipate the future evolution of Kenall’s <b>TekLink</b><b>™</b> user interface systems; research and define requirements for future enhancements.</li>
+</ul>
+<div><b>QUALIFICATIONS:</b></div>
+<ul>
+<li>5+ years experience in web development.</li>
+<li>Experience with HTML, CSS, and JavaScript</li>
+<li>Knowledge C/C++/Python preferred.</li>
+<li>Ability to learn, embrace and apply new technologies and techniques.</li>
+<li>Strong communicator, creative problem solver and ability to work in a team environment.</li>
+<li>Ability to analyze problems and solve problems.</li>
+</ul>
+<div>Committed to advancing the state of lighting, Kenall is an established organization with a proven track record of excellence and great corporate culture. If you share our drive, professionalism and enthusiastic spirit and would like to be a part of a growing organization, we would like to hear from you!</div>
+</div></div>

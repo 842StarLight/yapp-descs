@@ -1,0 +1,68 @@
+<h2>ServiceNow ITOM Consultant (DoD) TS Required</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Integrated Solutions Management (ISM) is seeking a ServiceNow ITOM Technical Consultant for an opportunity in Fayetteville, NC. (Note: This is a W2 position. U.S. Citizenship or appropriate work authorization required.)</p>
+<p>
+ISM is an IT performance company for global 2000 companies &amp; government entities providing organizational change and transformation through our ITSM and Project Portfolio delivery framework. We have built a reputation of trust, excellence, and experience, by creating world class IT strategies for highly complex and secure institutions.</p>
+<p><b>
+DESCRIPTION:</b></p>
+<p>
+ServiceNow technical consultants are responsible for leveraging IT Service Management (ITSM), IT Business Management (ITBM), IT Operations Management (ITOM) and other ServiceNow applications to optimize, transform, and ensure commercial enterprises, government agencies, and Department of Defense commands are efficient and effective using the ServiceNow platform. Our technical team serves in multiple roles and capacities within our typical ServiceNow implementation engagement, including, but not limited to, implementation specialist, business analyst, process consultant, project task leader, and testing facilitator. As such, we are looking for “team players” that are willing to do whatever it takes to ensure that the customer’s needs and requirements are fully understood, clearly documented, and the resulting solutions maximize the value of our customers ServiceNow investment.</p>
+<p><b>
+SECURITY CLEARANCE:</b> Top Secret with SCI eligibility (REQUIRED)</p>
+<p><b>
+LOCATION:</b> Fayetteville, NC - Fort Bragg - On Premises</p>
+<p><b>
+RESPONSIBILITIES:</b></p>
+<ul>
+<li>Facilitate discovery and requirements gathering workshops with a variety of executive, leadership, process, technical, and end user stakeholders.</li>
+<li>Configure ServiceNow ITOM processes (Mid servers, Discovery, Service Mapping, Event Management, Cloud Management and Orchestration components).</li>
+<li>Architect and configure Cloud Management (Amazon Web Services - AWS, Microsoft Azure, VMware) Service Provider IT Operation Management solutions in ServiceNow platform.</li>
+<li>Provide recommendations for IT Operations Management and IT Asset Management high-availability best practices.</li>
+<li>Serve as subject matter expert for discovery and service mapping of computer network hardware and software such as servers, network appliances, power units, Docker, Kubernetes, data centers, and monitoring tools.</li>
+<li>Interface with subject matter experts to perform operational configurations of system monitoring tools such as SolarWinds, Splunk, and Microsoft SCCM in ServiceNow.</li>
+<li>Creating Application programming interfaces (APIs) with scripting languages PowerShell, Bash, JavaScript, Command Line Interfaces (CLI) and batch scripting.</li>
+<li>Integrate operational systems to aggregate data to facilitate automation, visibility, transformation and optimize service operations.</li>
+<li>Perform knowledge transfers of Service Asset and Configuration Management best practices applicable to Configuration Item Discovery and relationships building.</li>
+<li>Build Orchestration and Process Automation activities and process workflows to eliminate manual tasks, mitigate and re-mediate service issues and outages.</li>
+<li>Creating views and maps of business system components that gives holistic-aware infrastructure information.</li>
+<li>Provide strong analytical skills for reviewing discovered data and configuration item management.</li>
+<li>Support ISM operational and sales initiatives by assisting with market/technical analysis, sales lead generation, RFP responses, and other efforts as requested.</li>
+</ul>
+<p><b>REQUIRED SKILLS:</b></p>
+<ul>
+<li>Understanding of and experience with IT Operation Management (ITOM) business processes</li>
+<li>5+ years of ServiceNow, Remedy or CA IT operation technical analysis experience</li>
+<li>Strong analytic, technical and problem-solving skills</li>
+<li>Strong business analyst/process consultant skills</li>
+<li>Understanding of, and ability to adapt to, both waterfall and Agile project methodologies</li>
+</ul>
+<p><b>DESIRED SKILLS:</b></p>
+<ul>
+<li> ITILâ Foundation certification</li>
+<li> ServiceNow ITOM experience, including Discovery, Event, and Orchestration</li>
+<li>ServiceNow Software Asset Management (SAM) experience</li>
+<li>ServiceNow Certified System Administrator (CSA) certification</li>
+<li>ServiceNow Certified Implementation Specialist (CIS) – Discovery certification</li>
+<li>ServiceNow Certified Implementation Specialist (CIS) – Event certification</li>
+<li>ServiceNow Certified Implementation Specialist (CIS) – Service Mapping certification</li>
+<li>ServiceNow Certified Implementation Specialist (CIS) – Cloud Management certification</li>
+<li>REST API integration experience</li>
+<li>Project management experience</li>
+</ul>
+<p><b>PERKS:</b></p>
+<p>
+ISM offers employee benefits, including Health, Dental and Vision, Life; Matching 401k; 3 weeks of PTO; 10 National Holidays; Training and Opportunities for Advancement.</p>
+<p><b>
+Why Join ISM?</b> Our team of ServiceNow professionals have extensive expertise and experience defining, developing, and delivering a broad range of technology solutions. We are a ServiceNow Gold Partner. ISM has a stellar team who provide mutual support and address process and performance improvement in a highly collaborative environment. ISM is proud of its open-door culture, internal training and advancement opportunities. Learn more about ISM at www.ism4it.com</p>
+<p><b>
+Work Environment and Physical Requirements:</b></p>
+<ul>
+<li>This is primarily a sedentary position.</li>
+<li>Driving or airline travel to client and company sites is required on a limited basis.</li>
+<li>Frequent talking and hearing is required to express and exchange ideas and convey detailed and important ideas to coworkers and customers.</li>
+<li>Close visual acuity is required to perform viewing a computer terminal for 8 or more hours a day.</li>
+</ul> <p>ISM is an Affirmative Action/Equal Opportunity Employer. Diversity candidates are encouraged to apply.</p>
+</div>
+<p></p>
+</div>

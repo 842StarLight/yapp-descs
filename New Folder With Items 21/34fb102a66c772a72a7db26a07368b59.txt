@@ -1,0 +1,74 @@
+<h2>Android Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div><div><div>
+<p>Keeper Security is transforming the way businesses and individuals protect their passwords and sensitive digital assets to significantly reduce cyber theft. As the leading password security platform, Keeper helps millions of people and thousands of businesses substantially mitigate the risk of a data breach. Keeper is SOC 2 Certified, ISO 27001 Certified and utilizes best-in-class encryption to safeguard its customers.<br>
+</p>
+<p><b>DESCRIPTION</b></p>
+<p>Keeper is hiring experienced Android developers to join our Engineering team.</p>
+<p>You’re right for this job if you:</p>
+<ul>
+<li>Have the ability to self-start and prioritize, plan, organize, and manage multiple tasks efficiently in a very demanding environment.</li>
+<li>Love Android and Java development</li>
+<li>Can balance multiple concurrent projects with varying priorities.</li>
+<li>Excel communicating with technical and non-technical teams.</li>
+<li>Want to work in a fun tech startup office environment with free snacks and catered lunches.</li>
+</ul>
+</div></div></div>
+<div>Qualifications</div>
+<div><div>
+<div>
+<p><b>REQUIREMENTS</b></p>
+<p>Here’s Some Of The Skills We’re Looking For:</p>
+<ul>
+<li>Familiarity with design patterns (GOF), Android Architecture Components, Clean Architecture principles, and RxJava.</li>
+<li>Kotlin as well as Java.</li>
+<li>Developing complex applications that integrate with back end services.</li>
+<li>Developing for a large install base (we have 10 million+ installs).</li>
+<br>
+</ul>
+<p></p>
+<p>What this job entails</p>
+<ul>
+<li>Writing maintainable, testable code and unit tests.</li>
+<li>Working with new and legacy code.</li>
+<li>Implementing new features and improvements as well as fixing bugs and improving performance.</li>
+<li>Working with cryptography libraries.</li>
+<li>Giving and accepting feedback in code reviews.</li>
+<li>Making use of continuous integration to automate internal builds, unit tests, release builds, etc.</li>
+<li>The opportunity to attend Google I/O.</li>
+<br>
+</ul>
+<p></p>
+<p><b>BENEFITS</b></p>
+<p>Technology Teams at Keeper:</p>
+<br>
+<p></p>
+<p>Our technology teams work near Sacramento virtually right alongside our Chicago-based teams in Marketing, Customer Support, Sales and Design. We are expected not just to be the experts in technology, but also work with purpose and passion building and scaling our products and company.</p>
+<br>
+<p></p>
+<p>Both inside and outside of Technology, we push each other to be great and make Keeper better tomorrow than it is today. You will quickly notice our flat culture is results focused and not a hierarchy. Communication is fast and earnest about how to achieve results in the right way technically and for our customers.</p>
+<br>
+<p></p>
+<p>On average, we have 1-2 code releases per month, and we’re getting faster with each release. We’re dedicated to creating quality software quickly, and yes, we’re Agile, use Jira for workflow, and everything else process-wise you’d expect of a modern fast-paced technology-driven company.</p>
+<br>
+<p></p>
+<p>Keeper offers a respected work-life balance and a career you can sink your teeth into. You'll work alongside people with a positive attitude who are empowered to make a difference and collaborate with the smartest people on the planet.</p>
+<p>Benefits and job perks make a huge difference. At Keeper, we believe benefits are a meaningful piece of the total value proposition and part of what makes Keeper great!</p>
+<br>
+<p></p>
+<p><b>Health Insurance &amp; Wellness Benefits</b></p>
+<ul>
+<li>Medical, Dental, Vision</li>
+<li>Retirement Planning</li>
+<li>401(k)</li>
+<li>Vacation &amp; Time Off Benefits</li>
+<li>A generous PTO plan that celebrates your commitment and seniority.</li>
+</ul>
+<p><b>Other Perks</b></p>
+<p>Casual dress, outings, stocked kitchen, regular lunches.</p>
+</div>
+</div></div>
+</div>
+</div>

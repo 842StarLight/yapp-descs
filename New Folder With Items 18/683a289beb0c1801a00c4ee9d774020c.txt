@@ -1,0 +1,40 @@
+<h2>Senior Data Engineer / automotive start-up</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>ROLE AND RESPONSIBILITIES:</b></p>
+<ul>
+<li>
+Partner with Data Scientists, Data Engineers and Business Analysts to build configurable, scalable, and robust data processing infrastructure</li>
+<li>
+Work closely with our sales, operations, research, and finance teams on data storage, retrieval, and analysis</li>
+<li>
+Develop new systems and tools to enable stakeholders to consume and understand data more intuitively</li>
+<li>
+Build, manage, and support data models</li>
+</ul>
+<br>
+<p></p>
+<p><b>PERSONAL AND PROFESSIONAL QUALIFICATIONS:</b></p>
+<ul>
+<li>
+software engineering experience with focus on data analytics</li>
+<li>
+Proficiency in Python and SQL. Knowledge of google cloud, bash/shell and workflow tools (e.g. luigi, Airflow), is preferred</li>
+<li>
+Exposure to relational (e.g. MySQL) and non-relational databases (e.g. MongoDB)</li>
+<li>
+Comfortable working with BI tools (e.g. Looker, Tableau)</li>
+<li>
+Knowledge of version control (Git) and containers (Docker)</li>
+<li>
+Proven critical thinking and analytical problem-solving skills</li>
+<li>
+Desire to learn new ETL tools and frameworks</li>
+<li>
+Passionate about data and software engineering</li>
+<li>
+Able to work collaboratively in an agile environment</li>
+</ul>
+<p><b>EDUCATION:</b></p>
+<ul><li>
+Undergraduate degree in Computer Science, Engineering, Math, or equivalent experience</li></ul>
+</div></div>

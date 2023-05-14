@@ -1,0 +1,106 @@
+<h2>Data Science - Generalist & Machine Learning Engineer - Full Time Opportunities</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><ul>Wayfair's Data Science team builds the algorithmic systems that drive our business.<br>
+<br>
+With 8 expansive workstreams (Pricing, Personalization &amp; Recommendations, Merchandising, Marketing, Measurement, B2B, Computer Vision, and Operations), and more than 20 specialized subteams, our projects span from enormously broad to minutely specific. The projects that our teams work on are driven from the ground up - we look for entrepreneurial individuals that want to take ownership over their own agenda and thrive in a collaborative team environment. Take for example (1) determining how to implement AR technology to improve the shopping experience<br>
+<br>
+versus (2) optimizing diversity in the sales we highlight in a customer's email. There is very little at Wayfair that our Data Science team does not touch. They work closely with stakeholders across the business to ensure that our data driven insights do not collect dust. With an in-house A/B testing platform and rolling code deployments, our team can quickly and clearly see the impact that its work has on the company at large.<br>
+<br>
+<b>Data Science Generalist</b><br>
+<br>
+<b>What You'll Do</b><br>
+<ul>
+<li>Own the full Data Science life-cycle from conception to prototyping, testing, deploying, and measuring its overall business value
+</li>
+<li>Develop quantitative models, leveraging machine learning and advanced data analysis techniques to create novel solutions to complex business problems
+</li>
+<li>Integrate your algorithmic solutions into our technical platforms to run at scale and directly change the experiences of customers on our site
+</li>
+<li>Drive measurable business value collaborating with business teams to change the course of Wayfair
+</li>
+<li>Uncover deep insights hidden in our vast repository of raw data, and provide tactical guidance on how to act on findings
+</li>
+<li>Use data to improve the decision-making of our employees, and ultimately, to enhance the experience of our customers and our suppliers
+</li>
+<li>Work with a team of friendly and motivated scientists working together to build novel solutions to business problems
+</li>
+</ul>
+<br>
+<b>What You'll Need</b><br>
+<ul>
+<li>Currently enrolled in an undergraduate, Master's, or PhD degree program at a top-tier institution with a strong academic track record.
+</li>
+<li>Currently obtaining a Degree focused within either Statistics, Economics, Mathematics, Computer Science or other major with a heavy quantitative concentration. Please include related coursework on your resume.
+</li>
+<li>An affinity for data along with experience leveraging statistics and regression analysis is a plus.
+</li>
+<li>Experience with or an interest and ability to quickly learn SQL and Hadoop.
+</li>
+<li>Experience with or interest and ability to quickly pick-up programming skills relevant to data science such as Python and R.
+</li>
+<li>Quick learner with an analytical approach to solving problems as part of a team who has good communication skills.
+</li>
+<li>Must be a hard worker who enjoys solving challenging problems in a fast-paced environment.<br>
+</li>
+</ul>
+<br>
+<br>
+<b>Machine Learning Engineer</b><br>
+<br>
+The projects that our teams work on directly impact our customers on a massive scale. We look for driven experts who are passionate about machine learning and applying it to solve real business problems at scale as part of a collaborative team environment. Working on projects such as:<br>
+<li>Developing novel machine learning models to identify latent customer tastes so that the best products can be highlighted in real-time to our customers.
+</li>
+<li>Build a pipeline to scale algorithms to determine the causal impact of different steps in a customer's journey across our millions of customers so we can determine what drives incremental value and iterate across the business
+</li>
+<li>Create machine learning solutions to detect product duplicates across the millions of products in our catalog and scaling the solution to handle real-time uploading of new products by partners.
+</li>
+<br>
+There is very little at Wayfair that our machine learning engineers do not touch. They work closely with data science teams across the business to build and scale novel solutions to business problems via machine learning. With an in-house A/B testing platform and rolling code deployments, our team can quickly and clearly see the impact that its work has on the company at large and the algorithms you create will directly impact the customer's experience.<br>
+<br>
+<b>What You'll Do</b><br>
+<ul>
+<li>Develop and scale state-of-the-art machine learning methods to address core business problems
+</li>
+<li>Architect and support technical platforms for our algorithmic engines to run at scale
+</li>
+<li>Build end-to-end ML solutions and pipelines to run in real-time, scaling algorithmic insights to impact millions of Wayfair customers
+</li>
+<li>Own the full machine learning life-cycle from conception to prototyping, testing, deploying, and measuring overall business value driven by your work as part of a dynamic team
+</li>
+<li>Leverage your expertise in scalable system design, working with the devops team, as part of a culture of engineering practices
+</li>
+<li>Pilot projects using new open source tools and packages to enable novel machine learning techniques across the company
+</li>
+<li>Collaborate with data scientists to create maintainable, scalable and debuggable code by bringing strong software development practices
+</li>
+<li>Work with a team of friendly and motivated scientists and engineers to build and scale novel solutions to business problems
+</li>
+</ul>
+<br>
+<b>What You'll Need</b><br>
+<ul>
+<li>Currently enrolled in an undergraduate, Master's, or PhD degree program at a top-tier institution with a strong academic track record.
+</li>
+<li>Currently obtaining a Degree focused within either Statistics, Economics, Mathematics, Computer Science or other major with a heavy quantitative concentration (e.g. mathematics, economics, computer science, engineering, physics, neuroscience, operations research, etc.). Please include related coursework on your resume.
+</li>
+<li>Intuitive sense of how quantitative and technical work aligns closely with business priorities and business value
+</li>
+<li>Ability to effectively work with technical leads: strong communication skills, ability to synthesize conclusions for non-experts and desire to influence technical decisions
+</li>
+<li>Comfortable with data structures, algorithms, and programming in a team environment, e.g. languages such as Python, C++, perl, C, Scala, Java, bash, etc. and a tools such as Docker, kafka, Jenkins, github, Kubernetes, MSSQL, AWS / GCP, etc.
+</li>
+<li>High level understanding of machine learning (such as supervised/unsupervised learning, recommendation systems, reinforcement learning, deep learning, etc.)
+</li>
+<li>Ability to thrive in a dynamic environment where there can be degrees of ambiguity
+</li>
+<li>Bonus points for being hands on, while providing technical leadership and driving strategic initiatives for your team<br>
+</li>
+</ul>
+<br>
+<br>
+No matter the position that you choose, you will have the opportunity to play a critical role in a growing company while also operating with a high level of executive visibility. The team is focused on creating strategic solutions that steer customer behavior, influence key decision making and quantify our impact within the e-commerce space. Our diverse and fun employees enjoy an environment of strong ownership and quick feedback from building, experimenting and iterating on high-impact work.<br>
+<br>
+<b>About Us:</b><br>
+<br>
+Wayfair is one of the world's largest online destinations for the home. Whether you work in our global headquarters in Boston or Berlin, or in our warehouses or offices throughout the world, we're reinventing the way people shop for their homes. Through our commitment to industry-leading technology and creative problem-solving, we are confident that Wayfair will be home to the most rewarding work of your career. If you're looking for rapid growth, constant learning, and dynamic challenges, then you'll find that amazing career opportunities are knocking.<br>
+<br>
+No matter who you are, Wayfair is a place you can call home. We're a community of innovators, risk-takers, and trailblazers who celebrate our differences, and know that our unique perspectives make us stronger, smarter, and well-positioned for success. We value and rely on the collective voices of our employees, customers, community, and suppliers to help guide us as we build a better Wayfair - and world - for all. Every voice, every perspective matters. That's why we're proud to be an equal opportunity employer. We do not discriminate on the basis of race, color, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, veteran status, or genetic information.</ul></div>

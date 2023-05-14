@@ -1,0 +1,53 @@
+<h2>Sr. E-Commerce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Company Profile: </b></p>
+<p>CaptiveAire is the nation’s leading manufacturer of commercial kitchen ventilation systems, and now provides a complete solution of fans, heaters, ductwork and HVAC equipment. For over 40 years, we’ve led the industry with innovative technologies, unmatched service, competitive pricing, and rapid lead times.</p>
+<p>CaptiveAire maintains a network of over 90 sales offices in the U.S. and Canada and six strategically located manufacturing plants in North Carolina, Iowa, Oklahoma, California, Pennsylvania and Florida.</p>
+<p><b>Job Description: </b></p>
+<p>This role will be joining a small team who are working on external facing web applications for end customers. This position is specifically for our Software as a Service (SaaS) web applications. These include configuration and purchasing of our products. You can view them here:</p>
+<p>Fan Sizing/Configuration: https://specbuilder.captiveaire.com</p>
+<p>Parts Purchasing: https://store.captiveaire.com</p>
+<p>This position requires someone that has a passion for clean software design using C# and .NET. You should have knowledge of both server and client with a primary focus on server side build out and developer infrastructure. This position will also involve helping with new application features and maintenance of the existing codebase as secondary responsibilities</p>
+<p><b>Required Skills: </b></p>
+<ul>
+<li>5+ years of continuous experience with C#; specifically. v4.0+ is preferred</li>
+<li>5+ years of Typescript/Javascript/ES6</li>
+<li>5+ years of experience using SQL Server; T/SQL, or equivalent relational database</li>
+<li>AngularJS or similar client-side framework</li>
+<li>SOLID/DDD/CQRS patterns knowledge</li>
+</ul>
+<p><b>Preferred Skills: </b></p>
+<ul>
+<li>Dependency Injection</li>
+<li>.NET Core/WebAPI5</li>
+<li>CQRS/ES/Actor knowledge</li>
+<li>Open source contributor</li>
+<li>Linux Knowledge</li>
+<li>Docker/Docker Compose/Swarm Knowledge</li>
+<li>E-Commerce/Manufacturing industry experience</li>
+<li>NoSQL experience (MongoDb preferred)</li>
+<li>Client-side build knowledge (Webpack/NPM/Gulp)</li>
+</ul>
+<p><b>Benefits: </b></p>
+<ul>
+<li>Medical, dental and vision insurance</li>
+<li>Disability &amp; life insurance based upon election of medical insurance</li>
+<li>Paid holidays, vacation, and sick days based upon tenure</li>
+<li>401k with employer match</li>
+<li>Flexible spending account (FSA)</li>
+</ul>
+<p><b>Salary: </b></p>
+<p><b>We offer a competitive salary based upon experience</b></p>
+<p>CaptiveAire hires developers that are expected to be independent with very little hand-holding and technical training required. You should be comfortable taking on medium to large projects and/or features and be able to bootstrap them from the ground-up. You should also be comfortable diving into well-entrenched, custom, in-house applications which drive the entire company. We are easy-going, don't have a lot of processes to get in our way, and basically want to deliver top-notch, quality software to run the company. As part of the CaptiveAire IT team, you will have many opportunities to contribute directly to the success of the company.</p>
+<p><i>CaptiveAire is proud to be an equal opportunity workplace. We review applications for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, uniformed services, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.</i></p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Typescript/Javascript/ES6: 5 years (Required)</li>
+<li>AngularJS or similar client-side framework: 1 year (Preferred)</li>
+<li>SQL Server, T/SQL or equivalent: 5 years (Required)</li>
+<li>C#: 5 years (Required)</li>
+</ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+</div>

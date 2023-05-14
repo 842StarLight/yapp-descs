@@ -1,0 +1,86 @@
+<h2>Senior Manager, Data Science</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Sony Corporation of America </b>, located in <b>New York, NY </b><b>, </b>is the U.S. headquarters of Sony Corporation, based in Tokyo, Japan. Sony's principal U.S. businesses include Sony Electronics Inc., Sony Mobile Communications (USA) Inc., Sony Interactive Entertainment LLC., Sony Pictures Entertainment Inc., Sony Music Entertainment, and Sony/ATV Music Publishing LLC. With some 900 million Sony devices in hands and homes worldwide today, a vast array of Sony movies, television shows and music, and the PlayStation Network, Sony creates and delivers more entertainment experiences to more people than anyone else on earth. To learn more: www.sony.com .
+</p>
+<p></p>
+<h2 class="jobSectionHeader"><b>Position Summary:
+</b></h2>
+<p>Sony Corporation of America (SCA) is seeking a Sr. Manager, Data Science to join the Marketing Technology group. In this position, the Sr. Manager, Data Science will be responsible for overseeing the design, building, and testing of formulas for complex metrics/KPIs, machine learning methods, and analytics models. This position will report to the Director, Marketing Technology
+</p>
+<p></p>
+<p><b>Job Description:
+</b></p>
+<p></p>
+<ul>
+<li>Responsible for prototype solutions, mathematical models, algorithms, machine learning techniques, and robust analytics to provide insights and development of data products
+</li>
+<li>Through the insights and visualization of complex data sets, the individual will contribute significantly to the strategy across various aspects of audience planning, set-up, optimization and insights
+</li>
+<li>Use a Bayesian dynamic time series model to estimate causal impact of an advertising campaign or a time series model to forecast future sales
+</li>
+<li>Model the effects of environmental changes on promotion effectiveness with multiple regression
+</li>
+<li>This person will develop a deep understanding of the analytical need and leverage knowledge of Sony data assets, big data technologies to develop and deploy testing hypotheses, use cases, and analyze test results
+</li>
+<li>Understanding business issues and translating it into data mining problems and providing necessary analytical objectivity to ensure data quality, consistency, repeatability and accuracy of insights
+</li>
+<li>Participate in planning, roadmap, and architecture discussions to help evolve our data science into revenue-generating products
+</li>
+<li>Lead and execute activities to support the use of Big Data tools such as SQL, R, SAS, Python, Julia etc. and Tableau
+</li>
+<li>Ensure proper use of Sony data assets by working closely with data governance and compliance professionals
+</li>
+<li>Stitch together DSP, DMP, Ad Server and Ad Verification data together using appropriate methods
+</li>
+<li>Reach, Frequency and Overlap Analysis, Path-To-Conversion Analysis and Attribution Analysis
+</li>
+<li>Identify measurement and reporting needs and implement across all channels (programmatic and non-programmatic)
+</li>
+<li>Stay current with rapidly developing Big Data technologies landscape and share knowledge with internally and with customers. Prototype and integrate tools into Ignite environment and lead adoption of tools through Data and Analytics.
+</li>
+<li>Ensure proper use of Sony data assets by working closely with data governance and compliance professionals
+</li>
+<li>Implement and evaluate business metrics, suggest new metrics as needed;
+</li>
+<li>Utilize Big Data analytical tools and packages to build highly scalable analytical models; work with data and software architects to operationalize analytical solutions and create analytical/business intelligence products; and mentor, train, and provide guidance to junior-level data analysts. Facilitate operationalization and adoption of analytical platform across Sony Group Companies
+</li>
+</ul>
+<p></p>
+<p><b>Qualifications:
+</b></p>
+<ul>
+<li>Bachelor's or Master’s degree in Computer Science, Statistics, Engineering, Mathematics or equivalent quantitative field with heavy emphasis on programming required
+</li>
+<li>Strong data analysis skills including skills to rapidly learn new data assets
+</li>
+<li>Database and Data Analysis technology skills and experience required: Advanced SQL, Advanced Excel, SAS, R/Python
+</li>
+<li>A minimum of 8 years of hands on experience in data sciences, statistical modeling, data management, keying and linking, data handling and data wrangling
+</li>
+<li>Minimum of 5 years’ experience with R, Python, SQL, Java or related technologies
+</li>
+<li>Experience and knowledge of Data Visualization concepts and at least 5 yrs of experience with tools such as Tableau
+</li>
+<li>Strong MS PowerPoint skills and ability to present to technical, business, and marketing audiences
+</li>
+<li>Ability to work in matrix environment and to serve as individual and team contributor, leading projects and initiatives
+</li>
+<li>Experience managing both internal and external partner relationships with strong influence management skills
+</li>
+<li>Exceptional interpersonal, written/oral/listening communications and presentation/persuasion skills along with proactive approach to sharing knowledge with peers and cross functional teams
+</li>
+<li>Highly organized and detail oriented
+</li>
+<li>Ability to travel approximately 20%
+</li>
+<li>All candidates must be authorized to work in the USA
+</li>
+</ul>
+<p></p>
+<p>Sony is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religious creed, sex (including pregnancy), gender, national origin, citizenship, ancestry, age, physical or mental disability, military status, status as a veteran or disabled veteran, sexual orientation, gender identity or expression, marital or family status, genetic information, medical condition, or any other basis protected by applicable federal, state, or local law, ordinance, or regulation.
+</p>
+<p></p>
+<p><b>Disability Accommodation for Applicants to Sony Corporation of America
+</b></p>
+<p>Sony Corporation of America provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures. For reasonable accommodation requests, please contact us by email at careers@sonyusa.com or by mail to: Sony Corporation of America, Human Resources Department, 25 Madison Avenue, New York, NY 10010. Please indicate the position you are applying for.</p>
+</div></div>

@@ -1,0 +1,74 @@
+<h2>Sr. Network Operations Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>About Speedcast: </b></p>
+<p>International Limited Speedcast International Ltd (asx: SDA) is the largest provider of remote communications and IT services in the world. Speedcast's fully-managed service is delivered via a leading global, multi-access technology, multi-band and multi-orbit network of 70+ satellites and an interconnecting global terrestrial network, bolstered by extensive on-the-ground local support from 40+ countries. This global "network of networks" allows customers to fully rely on the most robust, integrated infrastructure available in the market for their mission critical applications. Speedcast is uniquely positioned as a strategic business partner, tailoring communications, IT and digital solutions to meet unique customer needs and enable business transformation. Speedcast extends its managed services through differentiated technology offerings including cyber-security, crew welfare, content solutions, data and voice applications, and network systems integration services. With a passionate customer focus and a strong safety culture, Speedcast serves more than 2,000 customers in more than 140 countries in sectors such as Maritime, Energy, Mining, Enterprise, Media, Cruise, NGOs and Government. Learn more at www.speedcast.com.</p>
+<p><b>Our Values: </b></p>
+<ul>
+<li>
+<b>Customer Focus: </b> We hold ourselves accountable for responding to customer requests in a timely and straightforward manner.</li>
+<li>
+<b>Agile &amp; Responsive: </b> We bring energy to everything we do. We creatively turn problems into opportunities.</li>
+<li>
+<b>Success Through People &amp; Safety</b>: We make health and safety our priority, because we know it’s the people behind the technology that make the difference.</li>
+<li>
+<b>Team Spirit: </b> We work together to pursue our goals and objectives, support each other, and achieve the right outcomes.</li>
+</ul>
+<p><b>Job Description: </b></p>
+<p>The Sr. Network Operations Engineer is an individual contributor with advanced background in IP Network and VSAT Engineering design, implementation and operation.</p>
+<p>The primary objective of this role is to collaboratively extrapolate customer requirements and eloquently pair them with advanced capabilities of the technology to establish a baseline design which meets the customers’ needs and exceeds their expectations.</p>
+<p>This will require disciplined compliance with change management best practices while working both independently and with cross-functional teams; this role will have opportunities to coach team members on complex technical issues, interface with other engineering and support groups internally, and engage with customer IT personnel on complex network/system performance and troubleshooting efforts.</p>
+<p>This senior position provides customer facing global IP network design and implementation, hardware selection and configuration standardization as it relates to network routing protocol, switching and security methodology, along with VSAT platforms technology. As part of the Network Operations &amp; Engineering team, the role also includes Tier 3 and Tier 4 escalations from the global support organization as well as providing pre-sales technical consultation alongside Sales and Solutions Engineering teams.</p>
+<p><b>Responsibilities: </b></p>
+<ul>
+<li>Contributes to the development of customer facing solutions in coordination with Sales/Sales Engineering team to ensure optimal solution and supportability</li>
+<li>Ensure that all engineering parameters and configurations meet the client requirements and are being fulfilled on a timely basis</li>
+<li>Provide 3rd/4th level technical escalation support by providing end-to-end subject matter expertise</li>
+<li>Design and implement customer functional networks such as LAN, WLAN, WAN, VoIP/Telephony, QoS, and Security/VPN</li>
+<li>Collaborate with other Network Operations Engineers around the globe in the design and deployment of new services and/or enhancements to existing network services.</li>
+<li>Recommend technical solutions that will enhance, increase levels of redundancy, survivability and add flexibility to existing global Speedcast systems, network and VSAT Platforms</li>
+<li>Coach and mentor team members on complex technical issues to deliver the highest level of service to our customers</li>
+<li>Assist in strengthening Network Operations Engineering Team</li>
+<li>Assist in the development or improvements of network operational best practices and processes to customer network performance, capacity and scalability</li>
+<li>Ensures that appropriate action is taken to anticipate, investigate and resolve problems in systems and services. Coordinates the implementation of agreed remedies and preventative measures. Analyses patterns and trends</li>
+<li>Controls, updates and distributes new and revised quality, configuration and services standards, including technical changes, and maintains documentation</li>
+</ul>
+<p><b>Qualifications: </b></p>
+<ul>
+<li>Bachelor’s Degree in Engineering or equivalent work experience</li>
+<li>Must have at least 10 years of network engineering and operation experience utilizing Cisco equipment</li>
+<li>5 years of VSAT experience utilizing iDirect Platform and Comtech SCPC technology</li>
+<li>Experience with various VSAT antenna systems such as Seatel, Cobham, Intellian, Sailor, Virgin Technologies, Orbit and Kymeta</li>
+<li>Experience with UHP Networks and/or Newtec is a plus</li>
+<li>Must have proven experience in the application of network design, development and implementation techniques communications systems that involve a variety of hardware and software suites</li>
+<li>End-to-end knowledge of various access technologies, RF Systems and networking protocols</li>
+<li>Experience in link budget analysis for design and system validation purposes</li>
+<li>BSEE preferred but will consider candidates with the right combination of relevant work experience or degrees in related fields</li>
+<li>CCIE certification preferred but may be substituted with equivalent experience and knowledge of routing, switching and Security/VPN</li>
+<li>Advanced level knowledge and hands on working experience of routing protocols (BGP, OSPF, EIGRP, RIPv2)</li>
+<li>Advanced level knowledge and hands on working experience in designing and implementing complex QoS in Cisco network environment and iDirect VSAT Platform</li>
+<li>Extensive experience with Network Security and VPN design and implementation utilizing Cisco/Meraki and Palo Alto</li>
+<li>Extensive experience with WAN Optimization utilizing Riverbed (preferred), Xiplink and Exinda</li>
+<li>Experience with various wireless broadband in offshore communication such as LTE, Inmarsat FleetBroadband and BGAN</li>
+<li>Experience with various NMS and ITSM such as Solarwinds, DataMiner and ServiceNow</li>
+<li>Able to communicate effectively via written and verbally</li>
+<li>Experience with network packet analyzer tools such as WireShark, NetFlow or equivalent and bandwidth measurement tool such iPerf or equivalent tool</li>
+<li>Excellent problem solver, flexible and able to accommodate changing priorities and directions</li>
+<li>Must be able to interact effectively within all levels of the company</li>
+<li>Ability to effectively manage multiple projects and function with minimal supervision</li>
+<li>Research and analytical skills with the ability to collect access and report factual data and present logical conclusions</li>
+</ul>
+<p>**No VISA Sponsorship is available for this position**</p>
+<p>Speedcast is an Equal Opportunity Employer</p>
+<p>Job Type: Full-time</p>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+</ul>
+</div>

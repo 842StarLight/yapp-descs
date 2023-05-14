@@ -1,0 +1,104 @@
+<h2>Sr. Data Management Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div><div><div>
+<p>Healthgrades is focused on providing trusted information that allows consumers and providers to make meaningful connections…As the Sr. Data Management Analyst you will….</p>
+<p></p>
+<br>
+<p><b>
+What you will do:</b></p>
+<ul>
+<li>
+Implement and Maintain the ingestion of a wide variety of new data feeds through our ETL<ul>
+<li>
+Advertising data</li>
+<li>
+Performance &amp; monitoring data</li>
+<li>
+Sales &amp; Contractual data</li>
+</ul>
+</li>
+<li>
+Create new data reporting and data visualizations for internal teams and stakeholders – utilizing industry standard BI Tools</li>
+<li>
+Aid in the development and maintenance of an audit &amp; QA process for data feeds, reports, and dashboards</li>
+<li>
+Own and be a power user for our Jira ticketing intake process</li>
+<li>
+Develop and maintain operational documentation for data and systems</li>
+<li>
+Build and maintain automation scripts as needed to streamline data ingestion</li>
+<li>
+Collaborate with Product, Operational, and Strategy teams on data solutions with appropriate business formulas and logic</li>
+<li>
+Turn conceptual requirements into actionable data/visualization solutions</li>
+<li>
+Become an expert in our data infrastructure and serve as an internal resource for internal teams/stakeholders</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+What you will bring:</b></p>
+<ul>
+<li>
+Bachelors in Business or Computer Information Systems (CIS) Preferred
+</li>
+<li>4+ years of experience with backend, database, and integration environments</li>
+<li>
+4+ years of experience with multiple data formats including CSV, Excel, JSON, and XML</li>
+<li>
+Experience with data integration projects</li>
+<li>
+Master at all things Excel &amp; Google Sheets</li>
+<li>
+Experience with SQL</li>
+<li>
+Experience managing ETL workflows</li>
+<li>
+Experience with data warehousing tools and technology</li>
+<li>
+Prior working knowledge with visualizing data (e.g. Tableau, Plotly, R, Power BI, or other graphical tools/packages)</li>
+<li>
+Ability to effectively prioritize competing demands in a dynamic and time sensitive environment</li>
+<li>
+3-4 years’ experience working within digital operations and/or agency/publisher environments,</li>
+<li>
+An expert at making data actionable, contextually relevant, and compelling</li>
+<li>
+Ability to understand how to create and interpret business metrics to drive decisions</li>
+<li>
+Direct experience with digital marketing and online media performance analyses, including ROI modelling</li>
+<li>
+Clear understanding of, or experience with, 3rd party data sources such as Crossix, Symphony Health and IQVIA, Doubleverify, Integral Ad Science, Moat, comScore, Doubleclick</li>
+<li>
+Extremely organized &amp; thorough creative thinker, that is resourceful and problem solving while multi-tasking</li>
+<li>
+Flexibility to move from project to project as needed, and successfully meet multiple deadlines and manage deliverables (at times with tight deadlines)</li>
+<li>
+Demonstrate both analytic and creative thinking abilities, with proficiency in process management and problem solving</li>
+<li>
+Excellent communications skills with ability to create clear, results-oriented messaging and related materials in written and verbal form</li>
+<li>
+Ability to train others and transition processes to users and stakeholders</li>
+<li>
+Preference to work proactively (vs. reactively) with a drive to implement, execute and accomplish results daily</li>
+<li>
+Comfortable working in a fast changing, collaborative team environment, regularly interacting across all departments and organizational levels</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Why Healthgrades?</b></p>
+<p></p>
+<br>
+<p>
+At Healthgrades, we recognize that our people drive our greatest achievements. We are passionate about maintaining a fulfilling, rewarding and high-energy work environment while setting the stage for continued success.</p>
+<ul>
+<li>
+Impactful Work – helping millions connect with their healthcare providers</li>
+<li>
+Changing the Game – evolving culture with career advancement opportunities</li>
+<li>
+Community Builders – collaborating with local charity and wellness initiatives</li>
+<li>
+Robust Perks – generous PTO, 401k contributions, tuition assistance, entertainment discounts and more!</li>
+</ul>
+</div></div></div></div></div>

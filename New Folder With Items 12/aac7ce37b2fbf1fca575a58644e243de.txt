@@ -1,0 +1,83 @@
+<h2>Service Integration Developer, Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<div>The Sr. Developer of Service Integration is responsible for application service integration development to meet Blue Shield of California’s Digital integration roadmap. The service integration sr. developer will work closely with Digital product group, Sales Marketing, EDI and Corporate Financial/HR organizations, is accountable for delivering BSCA’s desired business outcomes. This includes understanding the functionality of the technical solutions used to enable business processes. This role requires interaction with our IT and Business partners in determining solid business requirements/ applications solutions that support end to end business processes and cross channel end to end user experience strategy. Building and maintaining strong partnerships with business/functional unit and technical stakeholders, drives alignment around release roadmap and solution design of service integration internally and externally.</div>
+<div>
+<br>
+This person must have demonstrated ability to lead design and development activities on concurrent complex projects with multi-source, on and offshore teams. Provide technical leadership in designing and implementing large scale, complex enterprise applications integration requiring high performance and availability. Be able to understand complex data structure. Ability to matrix manage/organize others with the IT organization in order to get work done quickly. Experience in a large, complex organization or corporate structure environment required.</div>
+<div></div>
+<br>
+<div>
+Responsibilities:</div>
+<div></div>
+<br>
+<ul>
+<li>Provide development team with Integration and Enterprise Services technical subject matter expertise and work with fellow members of the team (Architects, other Tech Leads and Systems Analysts) to ensure development activities are aligned with scope, schedule, priority and business objectives.</li>
+<li>Responsible for design and development of Cloud Integration (like AWS/IBM/Dell Boomi), Application Integration and Enterprise web services.</li>
+<li>Demonstrate leadership skills on services development, services adoption and service governance.</li>
+<li>Evaluate and review design frameworks and methodologies and approves design in order to achieve functional and non-functional requirements and conformance to the architecture</li>
+<li>Supervises full development lifecycle, including the final production acceptance review and signoff. Ensure that design and development is in compliance with architectural and development standards. Review functional specifications, create detailed design and technical specifications, oversee code and test activities. Monitors and reports on progress in completing projects and accomplishing goals.</li>
+<li>Work effectively with service vendors and IT service functions to ensure superior service (meeting or exceeding SLAs) delivery for all application core technologies and support services.</li>
+<li>Proactively addresses potential system issues to meet or exceed established timelines and delivers service within budget constraints and seeks ways to reduce application related costs.</li>
+</ul>
+<div></div>
+<br>
+<div>
+</div>
+</div>
+<p></p>
+<div>
+<b>
+Qualifications</b><div></div>
+<br>
+<div>
+<br>
+<ul>
+<li>7+ years of IT experience</li>
+<li>2-3 years’ experiences with Microservice for Cloud Integration like Kubernetes and Docker</li>
+<li>5+ years’ experience in developing enterprise services and application integrations (REST, Web services, API Economy)</li>
+<li>5+ years hands-on design, coding, integration and deployment experience in enterprise applications</li>
+<li>Extensive experience in Java, JSON, YAML, J2EE, JDBC, XML, JAX-RS, JAX-WS, JAXB, XSL, MQ and Oracle is preferred</li>
+<li>Experience with iterative development life cycle methodologies and application of those principles, especially Agile development practices</li>
+<li>Strong understanding of SOA principles and implementation</li>
+<li>Strong ability to analyze business requirements and transform into technical design and system solutions</li>
+<li>Able to effectively communicate status, design and approach with management/business sponsors/product managers</li>
+<li>Familiar with standard software development tools, including source version control, defect tracking, documentation, and testing systems.</li>
+<li>Self-directed, works with limited management direction and exercise considerable latitude in determining technical objectives of assignment.</li>
+<li>Expert-level SQL language experience</li>
+</ul>
+</div>
+<div></div>
+<br>
+<div>
+Education/Additional Experience:</div>
+<div></div>
+<br>
+<ul>
+<li>Bachelors in computer science or related field</li>
+<li>Experience in FACETS is preferred</li>
+<li>Healthcare industry experience is preferred</li>
+<li>Nice to have cloud integration certification</li>
+</ul>
+<div></div>
+<br>
+<div>
+#DicePost</div>
+<div></div>
+<br>
+<div>
+</div>
+</div>
+<p></p>
+<div>
+<b>Physical Requirements</b><div>
+</div>
+<div>
+Office Environment - roles involving part to full time schedule in Office Environment. Based in our physical offices and work from home office/deskwork – Activity level: Sedentary, frequency most of work day.<br>
+Please click here for further physical requirement detail.</div>
+</div>
+</div>
+<p></p>
+</div>

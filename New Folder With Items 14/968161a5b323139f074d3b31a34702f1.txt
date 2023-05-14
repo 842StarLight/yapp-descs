@@ -1,0 +1,100 @@
+<h2>Data Scientist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>POSITION TITLE</b></p>
+<p>
+Data Scientist</p>
+<p></p>
+<p><b>
+LOCATION</b></p>
+<p>
+Raleigh, NC</p>
+<p></p>
+<p><b>
+YOUR ROLE
+</b></p>
+<p>Genworth Mortgage Insurance is looking for motivated and talented individuals with a background in data and analytics to work on insurance focused analytics problems. This is a dynamic and challenging opportunity to apply the latest tools and methods in Big Data and Data Science to a variety of problems.</p>
+<p></p>
+<p>
+The Data Scientist is part of a highly analytical team that provides business critical intelligence and advice for decision support. In this role, you will collaborate with partners in operations (underwriting and claims), marketing, products and customer experience, pricing, risk, and other functions to define problems, identify data, build reports and dashboards, establish predictive and prescriptive models, and deliver optimal solutions across the entire range of Genworth’s line of business and customers.</p>
+<p></p>
+<p>
+The Data Scientist will report to the Senior Manager of Data Science and provides analytical cross-functional support through effective use of predictive analytics and forecasting methods to improve operational visibility and efficiencies. This Raleigh-based position will support cross-functional as well as cross-platform (including international) advanced modeling and promote best practices sharing at Genworth.</p>
+<p></p>
+<p><b>
+YOUR RESPONSIBILITIES</b></p>
+<ul>
+<li>
+Research current processes and proactively identify emerging needs for analytic models</li>
+<li>
+Develop supervised (regression and classification) and unsupervised (e.g. clustering and segmentation) models and dashboards (Tableau)</li>
+<li>
+Evolve and advance a customer behavioral segmentation model, building marketing, sales and product predicative models, analyzing results and movements of segments/clusters and providing business insights to grow the company’s market share and revenue</li>
+<li>
+Design, create, and implement advanced analytics and forecasting models to optimize business processes. Provide insights for decision making through the use of ML, traditional statistical modeling and BI.</li>
+<li>
+Perform monthly reporting of some key metrics as a part of advanced business intelligence support to functional areas (e.g. through Tableau dashboards or providing automated reports and decks)</li>
+<li>
+Partner with IT and Enterprise Data Management Organization (EDMO) teams on the evaluation of data assets and their proper use</li>
+<li>
+Provide mentorship and share knowledge with functional and cross-functional peers</li>
+<li>
+Become a trusted analytical partner to the functional areas of support (Marketing, customer solutions, Underwriting, Loss Mitigation, Pricing) and collaborate on the development and planning of analytic projects in response to business needs</li>
+<li>
+Develop and perform preliminary exploratory analysis on datasets associated with building advanced ML models. Ability to work with structured and unstructured data.</li>
+<li>
+Determine requirements, evaluate analytical approaches and take ownership of the processes of creating predictive models to optimize decision making for functional areas of support</li>
+<li>
+Communicate and document statistical analyses and methods in a logical and understandable manner for non-analytical business users and executive decision makers.</li>
+<li>
+Ensure accuracy of results and analytic methods. Perform regular validation and collaborations of the analytical models</li>
+<li>
+Demonstrate strong business acumen and understanding of mortgage insurance concepts</li>
+<li>
+Facilitate fulfilling ad-hoc requests timely and efficiently</li>
+</ul>
+<p></p>
+<p><b>
+YOUR QUALIFICATIONS</b></p>
+<ul>
+<li>
+Bachelor’s degree</li>
+<li>
+4+ years business analytics and business support functions</li>
+<li>
+Business acumen along with a strong understanding of statistical modeling / machine learning (ML) and forecasting techniques</li>
+<li>
+Experience in advance analytics. Hands-on experience with logistic regression, time series, forecasting, optimization, and other predictive modeling techniques. ML experience and knowledge of ML platforms, libraries and programming</li>
+<li>
+1+ year of experience in one or more of the following statistical / analytic languages such as Python, Apache Spark (or PySpark), Hive, Scala, preferably in a cloud computing environment e.g. AWS, Databricks, Azure, Cloudera, Hortonworks, Google Cloud, Anaconda etc.</li>
+<li>
+2+ years of experience in one or more of the following: database query and management tools (SQL, Spark, Hive / HQL etc.)</li>
+<li>
+Knowledge of or willingness to learn AWS environment where the above tools and enterprise data are being migrated to</li>
+<li>
+Hands-on experience working with advanced BI tools, Dashboard experience with visualization and automation tools, Tableau experience preferred</li>
+</ul>
+<p></p>
+<p><b>
+ADDITIONAL QUALIFICATIONS (PREFERRED)</b></p>
+<ul>
+<li>
+Master’s Degree</li>
+<li>
+Some experience with legacy analytics software such SAS or willingness to learn the basics</li>
+<li>
+Ability to perform complex day-to-day ETL tasks such as data gathering, data cleaning, wrangling, coding or programming, business and analytics requirements gathering, and data analysis</li>
+<li>
+Experience with large analysis datasets and enterprise scale database systems (e.g. Large Hadoop, Redshift, Hive, SQL tables etc.)</li>
+</ul>
+<p></p>
+<p><b>
+COMPANY</b></p>
+<p>
+Genworth Financial, Inc. is a leading insurance holding company committed to helping families achieve the dream of home ownership and address the financial challenges of aging through its leadership positions in mortgage insurance and long-term care insurance. Headquartered in Richmond, Virginia, Genworth traces its roots back to 1871.</p>
+<p></p>
+<p>
+Genworth Mortgage Insurance, headquartered in Raleigh, North Carolina, is a global mortgage insurer with a major presence in the United States, Canada, and Australia. With origins dating back to 1980, Genworth Mortgage Insurance provides primary mortgage guaranty insurance coverage on residential mortgage loans, as well as mortgage pool insurance policies that enhance insurance coverage for various types of mortgage-related securities. Our mortgage insurance can help individuals secure low-down payment loans and realize the dream of home ownership faster – even for the first time.</p>
+<p></p>
+<p>
+We know we can’t deliver on our mission unless we deliver for our employees. That’s why we’re committed to creating a work environment that fosters inclusion, excellence, improvement and connection. We know each employee contributes in their own unique way and we’re dedicated to supporting every one of them to help them reach their full potential.</p>
+</div></div>

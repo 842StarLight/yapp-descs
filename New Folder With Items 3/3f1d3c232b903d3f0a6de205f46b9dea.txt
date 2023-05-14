@@ -1,0 +1,98 @@
+<h2>Marketing Technology Innovation Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Our Mission</b><br>
+<br>
+At Palo Alto Networks® everything starts and ends with our mission:</p>
+<p>
+Being the cybersecurity partner of choice, protecting our digital way of life.</p>
+<p>
+We have the vision of a world where each day is safer and more secure than the one before. These aren’t easy goals to accomplish – but we’re not here for easy. We’re here for better. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.</p>
+<p><b>
+Your Career</b></p>
+<p>
+We are looking for an accomplished developer who has a track record of implementing best practices in marketing technology and the web and is constantly pushing the limits of systems. You will use your creativity to bring innovative ideas to our current tools with the goal of optimizing our marketing and sales processes. This role will require you to design, develop and integrate leading-edge enhancements of our tools while ensuring scalability and adoption.</p>
+<p>
+This senior technical role is for candidates who enjoy looking at existing processes and formulating new, innovative, system altering solutions. To start, your time will be focused on analyzing and innovating systems such as Drift conversational chat and the sales prospecting platform Outreach to ensure we are conceptualizing new designs and driving a leading-edge roadmap. The customer and end user’s point of view should be top of mind as you work with business to formulate new approaches. You will partner with stakeholders to understand key manual pain points, define business requirements; design, implement and operationalize solutions.</p>
+<p>
+Our fast moving culture demands that you can bridge between talking to business users and building a practice, as well as collaborating effectively across organizations like IT and Sales Ops. You are free to create, innovate and transform the business. This is an awesome opportunity for somebody who wants to take on new exciting challenges and a leadership role.</p>
+<p><b>
+Your Impact</b></p>
+<ul>
+<li>
+<b>
+I</b>ntegrate with third party systems</li>
+<li>
+launch new tools and enhancements to support optimization and scalability of business processes</li>
+<li>
+Product manager of custom development projects with web, Marketing Operations, Marketing Data Science and IT development resources</li>
+<li>
+Build advanced capabilities that simplify workflows, improve productivity, and enable reporting</li>
+<li>
+Perform QA and manage UAT with business to ensure a successful product launch</li>
+<li>
+Document processes and track the ROI of implementations to measure success and audit areas for improvement</li>
+<li>
+Analyze existing processes, collaborate with business stakeholders, gather business feedback of existing processes and interpret their pain points and areas to streamline</li>
+<li>
+Develop a roadmap and manage priorities for new tools and enhancements while managing timeline and functionality expectations with the business</li>
+<li>
+Partner with vendors to integrate and implement their offerings</li>
+<li>
+Analyze, define and implement the project plan, ensure security and privacy of the data</li>
+<li>
+<b>
+I</b>ntegrate with the necessary platforms (i.e. Salesforce.com and Marketo) to ensure automation and scalability of marketing and sales processes</li>
+<li>
+Streamline data movement between systems and ensure reportability of KPIs across systems</li>
+<li>
+Train business users on new tools and enhancements, including the enablement and training materials as well as sharing to the appropriate forums.</li>
+</ul>
+<p><b>
+You Experience</b></p>
+<ul>
+<li>
+Bachelor’s degree in business or marketing (or a related field)</li>
+<li>
+4 – 6+ years experience in marketing operations at a B2B company; enterprise software experience preferred</li>
+<li>
+Integration experience with marketing automation platforms (such as Eloqua, Marketo or Adobe Marketing Cloud)</li>
+<li>
+Integration experience with Salesforce.com</li>
+<li>
+Ability to apply technical understanding to write clear Stories and Epics to articulate the needed functionality and expected usage for IT Development team for Agile Sprint work</li>
+<li>
+Excellent organizational, project management, and collaboration skills</li>
+<li>
+Skilled at resolving conflicts by taking an open communication style, customer-centric, service-minded, positive, win-win approach.</li>
+<li>
+Able to develop productive and consultative working relationships across marketing, sales, IT, and data warehousing, teams</li>
+<li>
+Fast learner, eager to learn new technologies. Roll-up-your-sleeves work ethic and willingness to take the initiative and make things happen</li>
+<li>
+Ability to work on multiple projects at once, prioritize, work independently, and problem solve, working comfortably under pressure</li>
+<li>
+Experience with web chat (Drift preferred)</li>
+<li>
+Experience with sales prospecting tools (Outreach.io preferred)</li>
+<li>
+Salesforce Administrator Certification (Standard / Advanced)</li>
+<li>
+Development using Visual Force/Apex programming is a plus</li>
+<li>
+Experience with vendor APIs and tools such as Demand Tools</li>
+<li>
+Knowledge of Adobe Marketing Cloud tools and solutions is a huge plus</li>
+</ul>
+<p><b>
+The Team</b></p>
+<p>
+Our marketing team has an opportunity like no other industry: high impact work and the chance to change the future of digital security, globally. Your hands will be in industry-leading content created in the face of rapidly growing threats: cyberattacks. Being in marketing at Palo Alto Networks means that you will be in the midst of the changes impacting our industry, and helping our internal teams, customers, and partners address the ever-changing threats we all face on a day-to-day basis.</p>
+<p><b>
+Our Commitment</b></p>
+<p>
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.</p>
+<p>
+We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.</p>
+<p>
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.</p>
+</div></div>

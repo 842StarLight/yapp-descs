@@ -1,0 +1,64 @@
+<h2>Sr. Salesforce Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Title: </b>Senior Salesforce Administrator
+</p>
+<p><b>Location: </b>Hoboken, NJ<br>
+</p>
+<p></p>
+<p>We are in one of the most dynamic periods in our history as technology; globalism and economic diversity create far-reaching changes in the world. The demand for knowledge and learning has never been greater, and Wiley is at the forefront of meeting that need. As a learning business, we make meaningful contributions to research discovery and lifelong learning by helping organizations achieve their goals and people achieve success from education through their career. We may have been founded over two centuries ago, but our secret to success remains the same: change with the times and adapt to meet the ever-evolving needs of our customers.<br>
+</p>
+<p></p>
+<p><b>Summary:
+</b></p>
+<p>The Senior Salesforce Administrator will provide day-to-day support for Wiley’s Salesforce.com instances and the deployed applications including standard applications (Sales Cloud and Service Cloud), custom applications, and applications installed from the AppExchange. Support and maintain the integration of the deployed Salesforce applications with Wiley’s enterprise. Work with other technology teams to troubleshoot issues and solve them in timely manner. Work with Salesforce support and with the support teams of the vendors of the packaged applications to escalate issues related to the platform and to the packaged applications respectively. Work with the development team and System Integrators to be engage early in projects to get oversights of the solutions early in the development life cycle and to make sure that Wiley’s security and architecture standards are communicated and followed. Participate in daily scrum meetings and collaborate with the rest of the team to meet sprint targets. Participate in preparing training materials and support Sales Operations and Customer Service teams to conduct training for the end users. Document solutions and prepare/maintain support guides. Maintain data quality through profiling, bulk updates and configuring duplication and matching rules. Perform data migration and data import/export activities when needed. Own and participate in release deployment activities. Own and perform archiving, backup and restore activities. Provide support for all types of testing by working closely with the QA team. Be up to date with the most recent releases of Salesforce and be able to communicate and recommend the new out of the box features that can address current demand or fill current gap in Wiley’s use of Salesforce or add more capabilities. Participate in enhancements that can be done by declarative development (Point-and-Click) such as building report types, reports and dashboards, page layouts, workflow rules, lightning record pages, validation rules, etc. Manage day-to-day user management and maintain data sharing and security model by managing user profiles, roles and permission sets and applying the right security policies on Salesforce Platform. The successful candidate is a Salesforce Certified Administrator and preferably a Salesforce Certified Advanced Administrator.<br>
+</p>
+<p></p>
+<p><b>Responsibilities:<br>
+</b></p>
+<p></p>
+<ul>
+<li>Perform day-to-day user management and user access management on Salesforce Platform by assigning users to the right profiles, roles, and permission sets.
+</li>
+<li>Effectively manage Reports and Dashboards user requirements by developing the required report types, scheduling reports, and leveraging other out of the box analytical capabilities of the platform.
+</li>
+<li>Configure the declarative workflow capabilities of the platform such as Process Builder, Workflow rules, and Flow.
+</li>
+<li>Work closely with the Support Teams of Salesforce and the vendors of the packaged application to resolve issues reported by users or proactively discovered.
+</li>
+<li>Engage early in the development lifecycle in projects with the technology team or the system integrators to communicate any risks, consideration or compliance requirements.
+</li>
+<li>Maintain data quality through profiling, bulk updates and configuring validation rules, duplication and matching rules.<br>
+</li>
+</ul>
+<p></p>
+<p><b>Requirements:<br>
+</b></p>
+<p></p>
+<ul>
+<li>Bachelor’s degree in computer science, business management, or a related field.
+</li>
+<li>At least 5 years of demonstrable skills and experience with iterative and incremental software delivery methodologies (RUP, Agile).
+</li>
+<li>Mastery of use case driven requirements management
+</li>
+<li>Practical experience implementing Requirements Management “best practices”
+</li>
+<li>Understanding of how to establish/capture requirements metrics
+</li>
+<li>Salesforce Certified Administrator
+</li>
+<li>Salesforce Certified Platform App Builder
+</li>
+<li>Excellent communication (written and oral) and interpersonal skills
+</li>
+<li>Must be comfortable in rapidly changing and sometimes ambiguous work situations. Keen attention to detail and complex problem solving abilities from operational and technical perspective.
+</li>
+<li>Ability to work independently and engage their supervisor as needed<br>
+</li>
+</ul>
+<p></p>
+<p>Wiley is an equal opportunity employer and does not discriminate on the basis on race, color, creed, national origin, sex, sexual orientation, religion, age, disability or other legally protected status. Employment is contingent upon the successful completion of a background check and employment review.</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,81 @@
+<h2>2020 Summer - Software Engineer Intern</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Workiva Software Engineers develop best-in-class, next-generation collaborative applications for accounting and finance teams around the world. We hire smart people with a broad set of skills who are ready to tackle some of technology’s greatest challenges. We work on problems ranging from real time collaborative editing to distributed map-reduce algorithms to data warehousing on the latest cloud technologies.</p>
+<p>
+Workiva's culture is highly innovative and team-oriented. We encourage autonomy and provide you the opportunity to develop mastery in areas about which you are passionate. As a software engineer at Workiva, you will clearly understand the needs of our customers and the benefits our software provides them and their community. Since we develop and release on extremely fast cycles, you will see your code live, in production, often within days or weeks rather than the months or years as with some companies. We work with the best tools we can find and are always improving ourselves and our process. Candidates should be interested in challenging and improving themselves as a developer and helping your team members to do the same.</p>
+<h3 class="jobSectionHeader"><b>
+What You’ll Do:</b></h3>
+<ul>
+<li>
+Work under the direction of a senior developer implementing developer tools or product features - gaining increasing responsibilities as you demonstrate your abilities</li>
+<li>
+Use our internal tools to track job assignments and complete status updates</li>
+<li>
+Work with a small team in an Agile development methodology, defining user stories, implementing development tasks, completing code reviews and unit tests, and documenting your work</li>
+</ul>
+<h3 class="jobSectionHeader"><b>
+What You’ll Need:</b></h3>
+<ul>
+<li>
+Passion for writing software and learning the latest software development techniques</li>
+<li>
+Some exposure to programming languages such as Java, Python, C#, or Actionscript</li>
+</ul>
+<ul>
+<li>
+A solid foundation in computer science, with competencies in data structures, algorithms, and object-oriented software design</li>
+<li>
+Experience programming in one or more of Python, Go, Java, C/C++/C#, Dart or Javascript</li>
+<li>
+Additional experience with Objective-C, mobile computing, SQL, Google App Engine, Amazon EC2, database design, knowledge of HTTP and web protocols are a plus</li>
+</ul>
+<h3 class="jobSectionHeader"><b>
+More about Workiva:</b></h3>
+<p>
+At Workiva (NYSE:WK) we create best-in-class solutions for enterprise productivity. Workiva started with an idea: to make complex collaboration easy. Wdesk is being used by thousands of companies globally, including over 70% of the 500 largest U.S. corporations by total revenue. We love our customers, and they love us back.</p>
+<p>
+Applicants must be authorized to work in the United States on a full-time basis without currently or at any point in the future requiring sponsorship.</p>
+<p>
+Our values drive how we work and who we hire. You will see these values ingrained in how we support our customers, work with team members, build our products and in the work environment we’ve created.</p>
+<ul>
+<li>
+<b>
+Customer Success:</b> Always delight our customers.</li>
+<li>
+<b>
+Trust:</b> We rely on each other.</li>
+<li>
+<b>
+Integrity:</b> Do the right thing, every time.</li>
+<li>
+<b>
+Collaboration:</b> Share resources and work together.</li>
+<li>
+<b>
+Innovation:</b> Keep creating solutions and finding better ways.</li>
+<li>
+<b>
+Inclusion:</b> Support a diverse community where we all belong.</li>
+<li>
+<b>
+Accountability:</b> Be responsible for your success and failure.</li>
+</ul>
+We believe our people are our greatest asset, and our unique culture gives employees the opportunity to make an impact everyday. We give our employees the freedom and resources they need—backed by our culture of collaboration and diverse thought—to continue innovating and breaking new ground. We hire talented people with a wide range of skills and experiences who are eager to tackle some of today’s most challenging problems. At Workiva, you’ll enjoy:<br>
+<br>
+<ul>
+<li>
+<b>Casual Dress:</b> Workiva has a casual work environment, most people wear jeans to the office.</li>
+<li>
+<b>
+Involvement</b>: Ability to participate in Employee Resource Groups, (Women in Tech, Women in Sales, Ethnic Diversity, Veterans, Rainbow (LGBTQ), Remote Employees, Caregiving) Volunteering, Company wide celebrations, and more</li>
+<li>
+<b>
+Extras: </b>Free healthy snacks and drinks, Friday social hours with stocked fridges, awesome team outings, and even five dog-friendly offices.<br>
+</li>
+<li>
+<b>Internship Program: </b>Participate in a Top 100 internship program. We provide professional development opportunities, group mentoring and fun events.</li>
+<li>
+<b>
+ Learn more: </b>https://www.linkedin.com/company/workiva/life/</li>
+</ul>
+</div></div>

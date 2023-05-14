@@ -1,0 +1,71 @@
+<h2>Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">-----------
+<br><br>
+<b>Who we are:</b><br>
+-----------
+<br><br>
+Our Company was founded on the idea that there are patterns in people's behavior that, with the right logic, can be used to predict future outcomes. We are a small but rapidly growing organization that works in partnership with our customers to create solutions that are simply not found anywhere else. We work in groups rather than in structured corporate hierarchies; our culture is creative and entrepreneurial where everyone contributes to company goals in very real way. We are a hardworking group, but we have a lot of fun with what we do and are looking for new people with a similar mindset to join the organization.
+<br><br>
+-----------
+<br><br>
+<b>What we do:</b><br>
+-----------
+<br><br>
+Our proprietary software-as-a-service helps automotive dealerships and sales teams better understand and predict exactly which customers are ready to buy, the reasons why, and the key offers and incentives most likely to close the sale. Its micro-marketing engine then delivers the right message at the right time to those customers, ensuring higher conversion rates and a stronger ROI.
+<br><br>
+-----------------
+<br><br>
+<b>What you will do:</b><br>
+-----------------
+<br><br>
+Create and Manage Changes to the System
+<br><br>
+Responsibilities
+<br><br>
+<ul>
+<li>Developing custom solutions within Salesforce utilizing Apex/Visualforce/Lightning Framework front end web technologies, API, and Salesforce Workflow</li>
+<li>Leverage integrations and middleware tools to solve complex requests/problems</li>
+<li>Manage project deployments including release and environment management</li>
+<li>Extensive configuration knowledge of maintenance of declarative Salesforce capabilities on various standard objects: objects: Leads, Accounts, Contacts, Opportunities, Case, Campaigns, Product, and Reports &amp; Dashboards.</li>
+<li>Create Custom Objects, Custom fields, Standard fields, Formula fields, and Page layouts, Custom Tabs, Standard Tabs, Reports, Dashboard, Workflow, Process Builder and Email Templates.</li>
+<li>Replace Process Builders and Work-Flow-Rules with streamlined Apex code</li>
+<li>Design page layouts, contacts, leads account, business knowledge and customization experience with object page layouts and profile-based layout assignment.</li>
+<li>Experience creating Work and Approval Flows and data models.</li>
+<li>Experience creating Junction Objects to maintain one-to-many relationships</li>
+<li>Knowledge on Sales Cloud and Service Cloud concepts such as Knowledge, Case Management, and Solution.</li>
+<li>Strong understanding in implementing OWD, Profile, Role Hierarchy, Sharing rules, permission sets, Field level Security, and Record-level Security.</li>
+<li>Verifying and regression testing of new and existing functionality before the release to users.</li>
+<li>Participating in daily scrum meetings to report progress and obstacles.</li>
+<li>Working with senior members of the team to identify system needs, gather requirements, assist with prioritization and delivery (training and documentation).</li>
+<li>Drafting of runbook and cookbook documentation to assist operations teams with maintaining and triaging newly-developed applications or integrations.</li>
+<li>Manage applicable phases of systems implementations (e.g. configuration, customization, integration, data migration).</li>
+<li>Participates in software specification, gap analysis, and requirements analysis.</li>
+<li>Ability to follow and work within project work plans and timelines to meet changing needs and requirements.</li>
+<li>Develop and refines of proofs-of-concept to confirm requirements.</li>
+<li>Testing, including defining/supporting user acceptance testing (UAT) and gathering feedback from pre-release testers.</li>
+<li>Ability to log, track, and manage issues, bugs, and enhancement/ features requests logged in JIRA.</li>
+<li>Stay current with cutting edge tools/technologies that could enhance the platform and to collaborate with the Salesforce Admin team to ensure alignment in process, documentation and associated training</li>
+</ul>
+Requirements
+<br><br>
+<ul>
+<li>Minimum of 3 years Salesforce administration experience</li>
+<li>Minimum of 2 years Salesforce administration and development experience.</li>
+<li>Extensive experience with Apex with experience developing custom Apex Classes and Apex Triggers.</li>
+<li>Extensive experience with Salesforce Query and Search Language (SoQL and SoSL).</li>
+<li>Firm understanding of Salesforce Governor limits, limit monitoring, and best-practices for limit-informed development.</li>
+<li>Experience developing Visualforce pages, Visualforce components and Customer Controllers.</li>
+<li>Experience with web development languages (e.g., CSS, HTML, jQuery, JSP).</li>
+<li>Experience with integration and ETL technologies (e.g, Mulesoft, Informatica, Salesforce Dataloader).</li>
+<li>Practical knowledge of marketing automation technologies (e.g., ExactTarget, Marketo, Eloqua).</li>
+<li>Practical knowledge of telephony and CTI systems (e.g., Genesys, Cisco, Avaya)</li>
+<li>Ability to work independently and effectively manage multiple initiatives.</li>
+<li>Previous experience working in an agile/kanban environment a plus.</li>
+<li>Proven experience with integrated systems required.</li>
+<li>Strong analytical and problem solving skills.</li>
+<li>Flexibility and attitude to achieve tight deadlines.</li>
+<li>Strong balance of business and technical skills and ability to "translate" technical concepts clearly to non-technical decision-makers.</li>
+<li>Salesforce Certifications required; Certified Platform Developer 1 required</li>
+<li>BS in Computer Science, Engineering, Information Systems and/or equivalent formal training or experience.</li>
+</ul>
+</div>

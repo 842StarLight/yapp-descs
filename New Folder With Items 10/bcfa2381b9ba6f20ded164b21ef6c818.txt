@@ -1,0 +1,57 @@
+<h2>Support Technician</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Open Approach, Inc., is seeking applicants to join us in our technical support and entry-level engineering area.</p>
+<p>
+We are a client-focused, values-driven company that provides comprehensive technical support for organizations of all sizes and types here in New England and beyond. We support a wide variety of technologies for our clients, and prioritize our clients’ needs and best interests over our own sales numbers.</p>
+<p>
+As such, we are not a sales-driven organization. Rather, we let sound and reasonable decision-making drive our bottom line. This translates into long-term relationships with our clients that are rewarding on many levels, not the least of which is a high degree of personal interaction that enhances the enjoyment of our work and our success.</p>
+<br>
+<p></p>
+<p><b>
+Responsibilities</b></p>
+<ul>
+<li>Collaborate with coworkers, vendors, and work directly with End Users via phone, email, and (occasionally) onsite visits to solve a wide variety of technical issues in Windows and Mac OS X environments.</li>
+<li>Follow up on workstation and server monitoring checks, alerts, patch management, and backups, resolving or escalating as needed.</li>
+<li>Configure user accounts in Active Directory.</li>
+<li>Build upon, and write new, internal and client-facing documentation.</li>
+<li>Be willing to take ownership of an issue, seeing it through from beginning to end.</li>
+</ul> <p><b>Job Requirements</b></p>
+<ul>
+<li>Must be flexible with on-duty hours, as some maintenance activities take place during evenings and/or weekends. There is an On-call rotation.</li>
+<li>Excellent written and verbal skills are absolutely imperative (previous customer service experience is a plus).</li>
+</ul>
+<p><b>Helpful Skills</b></p>
+<ul>
+<li>Experience working in Windows (at least Windows 7, preferably Windows 10) and/or Mac OS X operating systems.</li>
+<li>Basic understanding of how a client/server network functions.</li>
+<li>Basic understanding of printers and print management.</li>
+<li>Coding or scripting (batch, PowerShell, VBScript) experience or interest is a plus.</li>
+<br>
+</ul>
+<p>
+</p>
+<p>At least 1-2 years of technical experience is preferred, but not required. Compensation is negotiable depending on experience.</p>
+<p>
+A successful candidate for this position, above all, will closely reflect the values that we have built this company upon: honesty, integrity, and an ambition to continually improve every aspect of our work.</p>
+<p>
+While we seek applicants that have studied computer science of one sort or another, we are primarily interested in a range of qualities and aptitudes that we know shape the right person for this position. We're happy to train you, guide you, and help you succeed in any way we can, so if tech is your passion, we’d love to hear from you! Specifically, these would include aspects such as:</p>
+<ul>
+<li>The ability to communicate effectively both verbally and in writing.</li>
+<li>An empathetic disposition.</li>
+<li>Deep technical aptitude and interest.</li>
+<li>Basic level of organization.</li>
+<li>Natural curiosity.</li>
+<li>A "self-starting" level of motivation.</li>
+<li>A sense of humor.</li>
+<li>Patience.</li>
+</ul>
+<p>As you can see, we are not looking for just anyone. If you are the right person, we're happy to train you, guide you, and help you succeed!</p>
+<p>
+If you're interested, please submit to us your résumé, cover letter, and a brief introduction, and we'll get back to you as soon as we can.</p>
+<br>
+<p></p>
+<p>
+Thank you for your interest and best of luck in your search for work.</p>
+<p>
+Learn more about us at www.openapproach.com</p>
+</div></div>

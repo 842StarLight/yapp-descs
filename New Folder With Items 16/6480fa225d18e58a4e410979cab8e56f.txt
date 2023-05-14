@@ -1,0 +1,52 @@
+<h2>Applications Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Tulip [https://tulip.co/] is the first Platform-as-a-Service for manufacturing. We’re disrupting one of the largest industries in the world and empowering the people who make the things you interact with every day. Factories that are run with Tulip are more efficient, their workers are more productive, and they make fewer mistakes. Why? Because manufacturing apps guide and provide them with the right information at the right time. We call it bottom-up digital transformation. Join us if you want to help create the next industrial revolution.
+<br><br>
+About you
+<br><br>
+You like to solve problems and build processes. You are eager to figure out why things are broken and turn your learnings into improved processes. People tend to describe you as a hard worker, but you would say any job that’s worth doing is worth doing well, because you care. You are curious and excited to learn about new and old technologies powering a modern factory. You are a good communicator and able to speak ‘full-stack’ from engineers to c-suite. You are able to google your way out of most problems, and understand that every customer sees the world a bit differently.
+<br><br>
+About the role
+<br><br>
+<b>Manufacturing is changing. It goes by many names:</b> Industry 4.0, Digital Manufacturing, Industrial Internet of Things. The challenge is the same: how do you adopt the latest advances in web tech and connected IoT devices, and apply them to a massive industry dominated by antiquated legacy software. We are seeking someone to help digitally transform the operations of these companies, and make sure they have the tools to be successful.
+<br><br>
+You will work closely with Sales Engineering and Customer Operations to provide guidance from a technical perspective. Post sale, you will own the delivery of enterprise level deployments. This could mean interfacing with industrial machines, devising network requirements, solution architecture, connection to cloud endpoints.
+<br><br>
+<b>In this role, you will:</b><br>
+<ul>
+<li>Own and drive multiple projects to completion with customers, internal teams, and third parties</li>
+<li>Develop processes around pre-sales and deployment, while maintaining knowledge in an internal repository</li>
+<li>Work with our engineering team to scope new features</li>
+<li>Research device or system integrations and determine the best strategy for connecting them with our platform</li>
+<li>Join in on pre-sale calls as a technical lead</li>
+<li>Write SQL queries, HTTP get/post requests, OPC/UA interfacing</li>
+<li>Learn to use our linux tools for deploying Tulip software</li>
+<li>Work together with the account lead to scope projects, define requirements and ensure a successful customer deployment.</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Willingness to travel to customer sites to deploy Tulip 30% of the time.</li>
+<li>Fluency in SQL, RESTful API and at least one programming language</li>
+<li>Strong project management and communication skills</li>
+</ul>
+<b>Bonus skills:</b> (We don’t expect you to know any of this but it would certainly help!)
+<br><ul>
+<li>Manufacturing environment experience</li>
+<li>Account Management experience</li>
+<li>Foreign Language competency</li>
+<li>Full Stack Engineering Chops</li>
+<li>Networking Knowledge</li>
+</ul>
+<b>Working at Tulip:</b><br>
+We are building a strong, diverse team that values hard work, families, and personal wellbeing. Benefits of working with us include:
+<br><br>
+<ul>
+<li>Direct impact on product and culture</li>
+<li>Company equity</li>
+<li>Competitive benefits package including Health, Dental, Vision, HRA, Commuter, and 401k</li>
+<li>Flexible work schedule and unlimited vacation policy</li>
+<li>Fully stocked office kitchen with weekly meals and beer on tap</li>
+<li>Company outings and happy hours</li>
+<li>Fitness subsidies</li>
+<li>Dog-friendly office</li>
+</ul>
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Even if you don't check every box, but see yourself contributing, please apply. Help us build an inclusive community that will transform manufacturing.</div>

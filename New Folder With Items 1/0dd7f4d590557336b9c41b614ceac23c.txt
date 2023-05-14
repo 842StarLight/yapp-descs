@@ -1,0 +1,28 @@
+<h2>QA Automation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">LeanData provides the leading Revenue Ops platform to manage all go-to-market motions to increase speed to revenue, improve the buyer experience, and better align sales and marketing ROI.
+<br><br>
+As the leader in Lead-to-Account Matching, Routing and Marketing Attribution solutions, LeanData stands at the center of your CRM connecting data to the right people, so businesses can accelerate time to revenue and drive growth. Now we’re continuing on our promise to relentlessly innovate with the LeanData Revenue Ops platform where teams can plan, execute, and analyze their ever-changing go-to-market motions with a single, centrally-managed platform that’s agile, transparent, and comprehensive. The LeanData Revenue Ops platform also integrates with leading sales and marketing applications to further streamline best-in-class go-to-market execution for companies of all size.
+<br><br>
+LeanData helps many of the world’s fastest-growing enterprises, including Glassdoor, Marketo and more, to automate, simplify and accelerate revenue for their go- to-market motions.
+<br><br>
+We are looking for experienced Quality Engineers with strong software development skills and experience in developing and enhancing test automation frameworks.
+<br><br>
+<b>Job Responsibilities:</b><br>
+<ul>
+<li>Develop in-house automation frameworks and tools or bring in open source tools and technologies to solve test automation problems.</li>
+<li>Apply QA best practices to actively look for process improvement opportunities. Implement new testing frameworks for future products and features.</li>
+<li>Work closely with Product and Engineering teams to report bugs, communicate issues and verify solutions.</li>
+<li>Provide full test coverage during product release when needed</li>
+</ul>
+<b>Job Requirements:</b><br>
+<ul>
+<li>2-5 years of professional experience in QA automation. Experience with UI test automation frameworks such as Selenium, JUnit, TestNG is required</li>
+<li>Experience in writing and executing test plans and test cases for enterprise-class software products</li>
+<li>Strong knowledge of SQL</li>
+<li>Can build out Front End Automation framework from scratch</li>
+<li>Ability to work quickly but thoroughly in a fast-paced environment</li>
+<li>Strong analytical and communication skills</li>
+<li>Exposure to Salesforce is preferred but not required</li>
+<li>B.S. in Computer Science, Computer Engineering, Mathematics or a related discipline is preferred.</li>
+</ul>
+We offer the opportunity to challenge you with complex problems in a fast paced environment. We’re located in Sunnyvale next to the CalTrain station. Our benefits include competitive compensation, equity, health care and flexible vacation'</div>

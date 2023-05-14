@@ -1,0 +1,97 @@
+<h2>Associate Software Engineer, Test</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>A <b>Software Engineer, Test (SET) </b>is a dependable member of the Testing organization who contributes mostly to the efforts of a single development team. SETs have proven their ability to work independently on simple features to assess the scope of testing, implement automated system-level tests, and maintain a CI pipeline by triaging and optimizing tests. SETs assist Senior SETs with tasks to improve our testing frameworks and processes. Candidates for this position are able to code effectively in at least one programming language and can quickly learn new techniques and languages. While SETs primarily focus on the testing effort of a single team, they also have a drive to understand how their work integrates with other groups in order to provide value to our customers. SETs use various tools to troubleshoot failing tests and issues with system stability and performance. SETs understand the needs and processes of other departments including Development, Product Management, Sales, Support, and Professional Services. Good SETs are have a strong understanding of their development team’s processes, priorities, roadmap, and current feature work. SETs develop into Senior SETs by proving their ability to assess risk and identify testing requirements for complex projects. They advance by providing helpful feedback on code reviews, leading the charge to maintain an efficient testing pipeline, and by acquiring a strong understanding of how PureCloud services integrate. Candidates for promotion beyond SET are those who show a strong understanding of testing philosophy and the ability gain respect and lead others toward positive results.</div>
+<br>
+<p></p>
+<p><b>Major Responsibilities/Activities:</b></p>
+<ul>
+<li>
+Triage failed automated test executions and report defects when appropriate</li>
+<li>
+Maintain automated test jobs in an automated deployment pipeline</li>
+<li>
+Coordinate bug hunts to gather user feedback for new features</li>
+<li>
+Identify useful test cases that identify and isolate faults</li>
+<li>
+Build trust and maintain relationships with team members of product management and development</li>
+<li>
+Participate in design and code reviews to help mentor other team members and to influence technical direction of testing department</li>
+<li>
+Perform exploratory testing to identify high risk areas, refine requirements, and isolate bugs to increase testability of application</li>
+<li>
+Coordinate test efforts for projects involving multiple teams to ensure appropriate test coverage</li>
+<li>
+Contribute robust, well architected solutions to the shared test framework</li>
+<li>
+Expert in the architecture, design, and customer use cases for their team's services</li>
+<li>
+Identify acceptance criteria for complex projects and determine priorities for test automation to balance operational efficiency with sufficient test coverage</li>
+<li>
+Identify areas of risk for performance, longevity, and architectural robustness by designing and running longevity and destructive tests</li>
+<li>
+Assist support engineers with escalated customer issues by reading logs, explaining intended behaviors, and identifying defects.</li>
+</ul>
+<p><b>Minimum Requirements:</b></p>
+<ul>
+<li>
+A Bachelor of Science degree in Computer Science or related degree or equivalent in work</li>
+<li>
+experience.</li>
+<li>
+ Intermediate proficiency of the following:</li>
+<li>
+ Ability to analyze and interpret data using software analytics services such as New Relic and</li>
+<li>
+SumoLogic to monitor services and diagnose problems</li>
+<li>
+Ability to use automation and configuration management frameworks such Ansible or Puppet</li>
+<li>
+Ability to use version control systems such as GitHub or Bitbucket</li>
+<li>
+Ability to use delivery pipeline automation and configuration tools such as Jenkins</li>
+<li>
+Knowledge of service-oriented architecture (SOA)</li>
+<li>
+Knowledge of the Software Development Life Cycle (SDLC)</li>
+<li>
+Knowledge of object-oriented programming (OOP) using programming languages such as Java and Python</li>
+<li>
+Knowledge of object-oriented design patterns</li>
+<li>
+Knowledge of multi-tier web applications and technologies such as HTTP, JavaScript, and</li>
+<li>
+JSON in a service-oriented architecture (SOA)</li>
+<li>
+Knowledge of Amazon Web Services (AWS) such as EC2 and S3</li>
+<li>
+Knowledge of agile testing methodologies and best practices for continuous delivery (CD)</li>
+<li>
+Understand how to use application frameworks such as Spring and Express to develop</li>
+<li>
+applications</li>
+<li>
+Prefer 3 to 5 years of industry experience</li>
+</ul>
+<div>
+Pluses:</div>
+<ul>
+<li>
+Testing cloud services for security and for compliance with HIPAA, PCI, and SSAE-16</li>
+<li>
+Web user interface test automation with Selenium</li>
+<li>
+Telephony message and call flows with SIP, XMPP, and Jingle</li>
+</ul>
+<p></p>
+<br>
+<p>About Us:</p>
+<p>Genesys® powers more than 25 billion of the world’s best customer experiences each year. We put the customer at the center of everything we do and passionately believe that great customer engagement drives great business outcomes. More than 10,000 companies in more than 100 countries trust the industry’s #1 customer experience platform to orchestrate omnichannel customer journeys that eliminate silos and build lasting relationships. With a strong track record of innovation and a never-ending desire to be first, Genesys is the only company recognized by top industry analysts as a leader in both cloud and on-premise customer engagement solutions. Connect with Genesys via www.genesys.com, Twitter, Facebook, YouTube, LinkedIn, and the Genesys blog.</p>
+<br>
+<p></p>
+<p><b>Genesys is an equal opportunity employer committed to diversity in the workplace. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, disability, veteran status, and other protected characteristics.</b></p>
+</div>
+<div></div>
+</div>

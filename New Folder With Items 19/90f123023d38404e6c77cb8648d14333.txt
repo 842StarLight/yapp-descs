@@ -1,0 +1,91 @@
+<h2>Salesforce Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Reach Your Peak with ICMA-RC, a FINANCIAL SERVICES LEADER in public sector employee retirement products and services. Headquartered in Washington, DC, our Financial Services corporation manages over $50 billion in retirement plan assets for more than one million participant accounts. We are constantly looking for ways to create new opportunities to serve our participants. We have an extraordinary talent base and invite you to consider joining ICMA-RC's Enterprise Data Management Team.</p>
+<p>
+The Salesforce Architect is responsible for designing complex cloud based solutions using Salesforce and related technologies. The Salesforce architect owns the architecture and design of complex solution components including integrations, security, configuration and custom development. The Architect owns design elements and is the approver for the overall technical design for solutions delivered on the Salesforce platform. The Architect is responsible for ensuring that the system accurately meets the defined expectations of the business, ensuring that proper testing is implemented, and performance and security requirements are monitored by working with implementation teams. The Architect identifies technical design risks and develops mitigating approaches.</p>
+<p>
+The Salesforce Architect guides and mentors developers and communicates closely with the rest of the Salesforce Team including keeping stakeholders informed of technical progress and risks.</p>
+<p><b>
+Essential functions for this role include:</b></p>
+<ul>
+<li>
+Set the technical standards for the development and integration of the Salesforce solution</li>
+<li>
+Lead design sessions and communicate design options to the team</li>
+<li>
+Design, code, unit test, system test, performance test, debug, implement, and support Salesforce application and integrations when required</li>
+<li>
+Leverage APIs and web-based interfaces utilizing Apex code and Web Services</li>
+<li>
+Ensure Salesforce development teams follow best practices when architecting, programming or documenting solutions. This includes creating standards and documentation and leveraging processes to ensure all development staff follows the same technical standards and guidelines</li>
+<li>
+Review and provide feedback on technical design</li>
+<li>
+Conduct code and declarative configuration reviews</li>
+<li>
+Identify options for potential solutions and assess them for both technical and business suitability: determine nature and scope of changes to existing applications for enhancements and other changes</li>
+<li>
+Create estimates for software development projects based on business requirements</li>
+<li>
+Conduct vendor analysis and proof-of-concepts/prototypes for new technologies/solutions</li>
+<li>
+Act as knowledge integrator and translator between business users and technical team members; communicate effectively with programmers, infrastructure architects and engineers, business analysts, information security practitioners, project managers, and senior management</li>
+<li>
+Ensure that technical documentation is updated according to standards; map and document interfaces between legacy and new systems</li>
+<li>
+Work with technology stakeholders to create, and maintain technology policies and procedures</li>
+<li>
+Serve as member of agile solutions team operating under the Scaled Agile Framework (SAFe) operating model</li>
+<li>
+Stays up to date on the latest technology trends in requirements gathering, analysis and documentation and stays informed on the latest technology trends in the industry</li>
+<li>
+Performs other tasks as assigned</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+If you have the following credentials, we encourage you to apply:</b></p>
+<ul>
+<li>
+BA/BS or equivalent experience</li>
+<li>
+7+ years of Salesforce implementation experience including experience with Sales Cloud and Service Cloud. Integration experience using both Web based technologies (Soap, Rest) and Integration/Middleware tools such as MuleSoft and Talend</li>
+<li>
+Salesforce Admin or Developer Certifications</li>
+<li>
+Expert level understanding of the Salesforce product suite, including Sales, Service and Marketing Clouds, as well as the Force.com Platform.</li>
+<li>
+Extensive experience with Salesforce configuration, including workflows, validation rules, and security controls. Experience defining business requirements, writing user stories, and providing detailed Salesforce system and functional designs.</li>
+<li>
+Experience using Agile methods to deliver software solutions</li>
+<li>
+ Experience in designing and developing software components and having a strong background in database design and system architecture.</li>
+<li>
+Expert level experience defining the system architecture landscape, identifying gaps between current and desired end-states, and delivering a comprehensive solution that will enable achievement of the desired business outcomes</li>
+<li>
+Experience integrating Salesforce with different business systems, as well as working with integration tools (ESB and ETL).</li>
+<li>
+Experience with Release Management, Source Control, and Deployment concepts and technologies such as ANT, SFDC Metadata API, Jenkins, Git (Code Commit) and DevOps in a Salesforce environment</li>
+<li>
+Experience operating in a Scaled Agile Framework (SAFe) Agile environment.</li>
+<li>
+Exceptional written and oral communication skills, including project-related user interview skills and effective interpersonal skills</li>
+</ul>
+<p></p>
+<br>
+<p>
+For your well-being, we offer a solid compensation and benefits package that features a competitive salary, a straight-forward incentive plan that rewards results, and a 401(k) Plan. For your career, we offer tuition reimbursement, professional development courses, seminars, career enrichment assignments, mentoring programs and a record of enterprise growth that creates continuing opportunities for career advancement. Consider ICMA-RC, and respond in strictest confidence. ICMA-RC is an Equal Opportunity Employer that values diversity in the workplace. Minorities and women are encouraged to apply. We look forward to hearing from you.</p>
+<p></p>
+<br>
+<h4 class="jobSectionHeader"><b>
+Education</b></h4>
+Required<ul><li>
+Bachelors or better</li></ul>
+<h4 class="jobSectionHeader"><b>
+Licenses &amp; Certifications</b></h4>
+Required<ul><li>
+Salesforce Cert. Admin</li></ul>
+</div>
+</div>

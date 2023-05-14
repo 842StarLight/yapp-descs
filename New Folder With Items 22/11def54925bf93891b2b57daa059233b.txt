@@ -1,0 +1,56 @@
+<h2>Professional Services Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Professional Services Engineers provide professional services on-site or remote deployment of GitLab technology and solutions as well as training. The Professional Services Engineer will act as the technical representative leading the direct interaction with the customer's personnel and project teams by rolling out best practices. This role helps the customer to faster benefit from the GitLab solution and realize business value. Meanwhile, Professional Services Engineer also need to provide feedback to product management and engineering team on the actual field experience through customer engagements and implementations.
+<br><br>
+To learn more, see the Professional Services Engineer handbook ( https://about.gitlab.com/handbook/customer-success/implementation-engineering )
+<br><br>
+Responsibilities
+<br>-
+<br><br>
+<ul>
+<li>Install &amp; configure GitLab solutions in customer environment as per Statement of Work (SOW)</li>
+<li>Provide technical training sessions remotely and/or on-site</li>
+<li>Develop and implement migration plan for customer VCS &amp; data migration</li>
+<li>Assist GitLab customer support team to diagnose and troubleshoot support cases when necessary</li>
+<li>Develop &amp; maintain custom scripts for integration or policy to align with custom requirements</li>
+<li>Create detailed documentation for implementation, guides and training.</li>
+<li>Support Sales on quoting PS and drafting SOW to respond PS requests</li>
+<li>Travel required - 40%</li>
+<li>Managing creation of new and maintaining of existing training content</li>
+</ul>
+Requirements
+<br>-
+<br><br>
+<ul>
+<li>Deep knowledge of software development lifecycle and development pipeline</li>
+<li>Understanding of continuous integration, continuous deployment, ChatOps, and cloud native</li>
+<li>Above average knowledge of Unix and Unix based Operating Systems</li>
+<li>Installation and operation of Linux operating systems and hardware investigation/manipulation commands</li>
+<li>BASH/Shell scripting including systems and init.d startup scripts</li>
+<li>Package management (RPM, etc. to add/remove/update packages)</li>
+<li>Understanding of system log files/logging infrastructure</li>
+<li>B.Sc. in Computer Science or equivalent experience</li>
+<li>Programming/scripting experience &amp; skill is required (Bash &amp; Ruby)</li>
+<li>Project management experience &amp; skills</li>
+<li>SCM admin and/or PS experience would be a plus</li>
+<li>Set up HA/DR, working with Containers and Schedulers (Kubernetes preferred) and also experience with AWS stack (EC2, ECS, RDS, ElastiCache)</li>
+<li>Experience with Ruby on Rails applications and Git</li>
+</ul>
+-
+<br>Hiring Process
+<br>-
+<br><br>
+Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find her/his job title on our team page ( https://about.gitlab.com/team ).
+<br><br>
+<ul>
+<li>Qualified candidates for the Professional Services Engineer will receive a short questionnaire</li>
+<li>Selected candidates will be invited to schedule a screening call ( https://about.gitlab.com/handbook/hiring/#screening-call ) with a member of our Recruiting team</li>
+<li>Next, candidates will be invited to schedule a first interview with our Director of Customer Success</li>
+<li>For the Professional Services Engineer role, candidates will be invited to schedule an interview with a Customer Success peer and may be asked to participate in a demo of a live install of GitLab</li>
+<li>For the Federal Professional Services Engineer role, candidates will be invited to schedule interviews with members of the Customer Success team and our Federal Regional Sales Director</li>
+<li>For a manager role, candidates will be invited to schedule interviews with our Regional Sales Directors for North America</li>
+<li>Candidates may be invited to schedule an interview with our CRO</li>
+<li>Finally, candidates may be asked to interview with the CEO</li>
+</ul>
+Additional details about our process can be found on our hiring page ( https://about.gitlab.com/handbook/hiring/interviewing/ ).
+<br><br>
+Remote-East</div>

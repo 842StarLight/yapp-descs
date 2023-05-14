@@ -1,0 +1,21 @@
+<h2>Program Analyst/ CRM Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>LOCATION: Braintree, MA</b></p>
+<p>
+Lead and/or participate in discovery analysis meetings with the stake holders to understand current business processes that need to be incorporated into CRM applications including SAP CRM, Dynamics CRM and Salesforce. Configure and implement CRM functional and application modules, encompassing account, contact management and lead management. Involve in Customization and Configuration of SAP CRM, Microsoft Dynamics CRM and Salesforce. Create server-side extensions (Plugins) using C#. Plan and design strategy for migrating other Applications into Microsoft dynamics CRM. Integrate SQL Server with CRM using SQL Stored Procedures, Functions, Triggers, and Importing/Exporting data from legacy data sources using SSIS. Develop complex reports using SSRS and deployed into MS CRM. Develop customization for SAP CRM using SAP ABAP development. CRM ABAP/WEBUI and exposure in SAP ISU. Create Fetch XML for new report and modified fetch XML using BIDS to customize the report and import back to CRM. Integrate external systems (Azure, O365, SharePoint, Exchange, etc.) with Dynamics CRM successfully. Build Proof of Concept (POC) on SAP ABAP. Develop JavaScript for all the Entity forms to implement custom business logic. Migrate CRM customizations between versions. Design and integrate ASP.NET front-end using WCF Web Services and LINQ and implemented client-side validations for Web-server controls. Extensively used .NET validation controls for Client-side validations. Coordinate geographically distributed Team Onshore/Offshore Model to expedite design, custom solutions development, integration, testing, support and maintenance of CRM application using various software tools and utilities. Create workflows based on requirements from sales department. Develop Custom Dashboards to communicate information efficiently and in real time. Identify, document, and communicate CRM configuration and development best practices to the upper management. Provide training to end users on CRM usability and customizations. Build/Maintain MSCRM Integrations to Microsoft SharePoint, Microsoft Outlook and third-party applications using Scribe and CRM Webservices.</p>
+<p></p>
+<br>
+<p>
+Position requires up to 10% of domestic travel.<br>
+</p>
+<p></p>
+<p><b>Requirements:</b></p>
+<p>
+Position requires a Master’s degree or equivalent in Information Technology, Computer Science, Computer Engineering, or a closely related field and two (2) years of experience pre or post Master’s degree in the information technology industry.<br>
+</p>
+<p></p>
+<p>Please reference Job Number #156206E when sending resumes. Please mail resumes to: HR, Confiance Tech Solutions, Inc., 14 Wood Road, Suite #103, Braintree, MA 02184.</p>
+</div>
+<div></div>
+</div>

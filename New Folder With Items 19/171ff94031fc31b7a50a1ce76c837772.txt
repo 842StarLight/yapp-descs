@@ -1,0 +1,58 @@
+<h2>Sr. DevOps - Build and Release Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>About Us:</b><br>
+Led by former Salesforce.com and Siebel executive, Chuck Ganapathi, Tact.ai is on a mission to make enterprise software more human-friendly. Tact.ai’s conversational AI sales platform is used by sales teams at GE, Cisco Systems, Kelly Services and other Fortune 500 companies to drive revenue growth by eliminating friction in their daily sales workflow.
+<br><br>
+Headquartered in Redwood City, CA., Tact.ai Technologies, Inc. is a privately-held company backed by Accel Partners, Redpoint Ventures, Upfront Ventures, M12 (formerly Microsoft Ventures), Comcast Ventures, Salesforce Ventures and the Amazon Alexa Fund.
+<br><br>
+<b>Responsibilities:</b><br>
+We’re looking for a passionate, security-minded, DevOps/IT Engineer with AWS and Azure experience to make an immediate impact on our operations team. Tact.ai is a well-funded, early stage startup with a world-class product and team and a growing customer base. Some of your main responsibilities include:
+<br><br>
+Own, improve, build and manage release processes and workflows
+<br><br>
+Perform daily software builds of iOS, Android, and its related application products
+<br><br>
+Maintain and improve our cloud infrastructure, orchestration and deployment process
+<br><br>
+Understand complex software integration and troubleshoot/resolve related issues
+<br><br>
+<b>Requirements:</b><br>
+iOS, Android, or UNIX development experience
+<br><br>
+Experience automating build and release process across a multi-platform environment
+<br><br>
+Passion for clean and elegant code
+<br><br>
+Experience shipping code (Ruby on Rails and Java)
+<br><br>
+Experience with Docker, Kubernetes, and Spinnaker
+<br><br>
+Experience with configuration management tools (Ansible, Chef or Puppet)
+<br><br>
+Strong problem-solving skills and willingness to work with various teams to find solutions
+<br><br>
+<b>Bonus Points:</b><br>
+Experience with start-ups and small teams
+<br><br>
+Familiarity with Azure Active Directory, Single Sign-On, Salesforce
+<br><br>
+<b>Perks:</b><br>
+Competitive salary
+<br><br>
+Stock options
+<br><br>
+401k
+<br><br>
+Premium medical, dental and vision plans for you and your dependents - majority are 100% Company paid!!
+<br><br>
+Flexible work hours
+<br><br>
+Subsidized lunch
+<br><br>
+Ping pong
+<br><br>
+Yoga classes
+<br><br>
+Regular team events
+<br><br>
+Stocked kitchen with endless espresso and chocolates!</div>

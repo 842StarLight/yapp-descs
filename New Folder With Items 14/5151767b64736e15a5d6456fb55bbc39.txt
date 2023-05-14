@@ -1,0 +1,33 @@
+<h2>Data Modeler</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Job Summary</b><br><b>Only locals as f2f required</b><br><b>Position : Data Modeler</b><br><b>Location : Dallas , Texas</b><br><b>Can do w2 or c2c</b><br><b>Any visa will work.</b></p>
+<p><b>If interested please send me your resume or call at 630-415-2615</b></p>
+<p><b>Responsibilities and Duties</b><br>Job Responsibilities:</p>
+<ul>
+<li>Responsible for the fundamental data of a system embodied in its components, their relationships to each other and to the environment, and the principles guiding its design and evolution.</li>
+<li>Data Modeler: Develops the Enterprise Logical Data Model (LDM) and project Logical and Physical Data Models (PDM) including data warehouse and data mart designs. Facilitates JAD sessions to determine data rules, and holds LDM Reviews with Data SMEs, Data Modeler (peer reviews), Development teams, and architecture teams.</li>
+<li>Applies client naming standards, and metadata standards, checks models in and out of Model Repository, and documents data model translation decisions.</li>
+<li>Maps data lineage across implementations.</li>
+<li>This position includes the use of data modeling and data profiling tools and techniques, and the development of review and QA data requirements.</li>
+<li>Works as a consulting team member or an individual technical consultant in the development of technical solutions of moderate complexity within consulting practice area.</li>
+<li>Develops solutions and strategies based on the analysis of customer business goals, objectives, needs, and existing infrastructure.</li>
+<li>Applies principles, concepts and techniques of skills in developing solutions and strategies.</li>
+<li>Regularly interacts with external customers and customer managers and identifies additional opportunities in customer organization.</li>
+<li>Begins to integrate multiple technologies and applications within a specific customer solution.</li>
+<li>Serves as a pre-sales support specialist through the development of materials and by presenting solutions to prospective clients as a subject matter expert</li>
+</ul>
+<p><b>Required Experience, Skills and Qualifications</b><br>Basic Qualifications:</p>
+<ul>
+<li>Minimum of 5 years prior experience as a data analyst and data modeler.</li>
+<li>Minimum of 5 years experience with ERStudio and ERwin.</li>
+<li>Minimum of 5 years experience with Logical Design demonstrated with large scale, multiple business solutions across divisiotomorrow ( Monday )ns or enterprise</li>
+<li>Minimum of 1 year experience in modeling in a Snowflake and Talend solution environment</li>
+</ul>
+<p>Job Type: Contract</p>
+<p>Experience:</p>
+<ul><li>relevant: 6 years (Preferred)</li></ul>
+<p>Contract Renewal:</p>
+<ul><li>Likely</li></ul>
+<p>Full Time Opportunity:</p>
+<ul><li>Yes</li></ul>
+</div>

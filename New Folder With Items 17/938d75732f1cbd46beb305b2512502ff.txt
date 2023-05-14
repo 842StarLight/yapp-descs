@@ -1,0 +1,76 @@
+<h2>Sr. Software Engineer, RPG</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Agilysys provides enterprise software, services and solutions for the hospitality industry in North America, Europe and Asia. Products include points-of-sale, property management, inventory and procurement, analytics solutions, and mobile and wireless solutions that are designed to improve efficiency and enhance the guest experience. We serve casinos, resorts, hotels, foodservice venues, stadiums, and cruise lines.</p>
+<p>
+Agilysys is looking for an experienced Senior Software Engineer to join our team responsible for delivering our Lodging Management Solution (LMS). This position will be part of a cross-functional team located in our Las Vegas, NV.</p>
+<p>
+The ideal candidate has a great attitude and is team oriented but also able to work well independently on one or more projects. We are looking for someone who is self-motivated with a strong desire to improve their knowledge/skills, is passionate about delivering great products for our customers, thrives in an agile development environment, and emphasizes quality code in our products. We are looking for someone with solid coding skills who understands how specification, design, coding, documentation and quality assurance pieces fit together to create a great product.</p>
+<p><b>
+Responsibilities</b></p>
+<ul>
+<li>
+Execute in a technology startup environment including activities: green field designs and implementations, build systems, engineering processes, and delivery systems</li>
+<li>
+Participate in and own delivering high quality software with customer focused features</li>
+<li>
+Own or review component level designs</li>
+<li>
+Collaborate with software architect on system level architecture</li>
+<li>
+Collaboration with Program Management on product features and requirements</li>
+<li>
+Ensure Agile software engineering best practices are utilized and continuously enhanced</li>
+<li>
+Ensure appropriate unit test coverage for product source</li>
+</ul>
+<p><b>
+Requirements</b></p>
+<ul>
+<li>
+Bachelor’s degree and 5+ years’ experience in commercial software development disciplines</li>
+<li>
+5+ years of RPG programming on IBM AS/400 mid-range computers (RPG &amp; RPG/ILE)</li>
+<li>
+5+ years of enterprise software design and architecture</li>
+<li>
+Proven track record of successfully shipping multiple commercial software products and services to market.</li>
+<li>
+Strong communication skills (written and verbal)</li>
+<li>
+Ability to work with corporate stakeholders as well and technical experts.</li>
+<li>
+Exhibit a strong passion for software development and customer delivery</li>
+<li>
+Self-directed and self-motivated</li>
+</ul>
+<p><b>
+Nice to haves</b></p>
+<ul>
+<li>
+Hospitality experience</li>
+<li>
+5+ years of SQL programming including some DB2.</li>
+<li>
+5+ years of Java programming experience.</li>
+<li>
+Experience with web programming concepts including Java, HTML, CSS, JavaScript, and web server.</li>
+<li>
+Experience designing and implementing n-tier architectures.</li>
+<li>
+Experience with RESTful and SOAP web service development.</li>
+<li>
+Experience with JPA and Hibernate</li>
+<li>
+Experience with JQuery and AJAX.</li>
+<li>
+Relational database and unstructured data experience</li>
+<li>
+User interface design and implementation including HTML5 and rich clients</li>
+<li>
+Experience shipping software in globalized and localized environments</li>
+<li>
+Agile software development project management experience</li>
+<li>
+Exposure to delivering software as a service</li>
+</ul>
+</div></div>

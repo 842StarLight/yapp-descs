@@ -1,0 +1,86 @@
+<h2>Principal Software Engineer Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>The <b>Commercial Sales &amp; Marketing Engineering team</b> is on a journey towards modernizing Sales and Marketing processes focused on providing world-class experiences for our Sellers and Marketers. The team is working on improving Seller productivity and Marketing automation through connected enterprise scale distributed systems infused with smart recommendations based on machine learning capabilities. These will be delivered to our global Sales and Marketing teams through role tailored user interfaces utilizing web, mobile, and bot technologies.</div>
+<div></div>
+<br>
+<div>
+We are looking for a self-driven <b>Principal Software Engineering Lead</b> who has a passion for new technologies, and engineering solutions that will delight our demanding users.</div>
+<div></div>
+<br>
+<div>
+This position will provide an excellent opportunity to make an impact on multiple service lines across many business areas. You must be comfortable with ramping up and moving quickly, dealing with ambiguity and understanding that you must wear many hats to deliver in agile fashion. Now is your chance to be part of this technically strong team that is on the forefront of these cutting-edge efforts and help us tackle our upcoming challenges.</div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<p><b>
+Responsibilities:</b></p>
+<p>
+To be successful in this role, you must be able to do the following:</p>
+<ul>
+<li>
+Lead the team in adopting relevant new technologies, tools, methods and processes from Microsoft and industry</li>
+<li>
+Support and influence the team culture of being customer centric and continuously improving</li>
+<li>
+Manage and grow a team of highly capable engineers developing a world-class platform</li>
+<li>
+Champion engineering practices that ensure safe and fast paced releases of our services</li>
+<li>
+Implement and maintain excellent design and development processes</li>
+<li>
+In collaboration with others apply engineering principles to solve complex problems while leveraging sound engineering practices</li>
+<li>
+Flight code changes and drive telemetry and analytics to take a data-driven approach to understanding customer impact</li>
+<li>
+Work with multiple client partner teams to implement cohesive end-to-end experiences</li>
+</ul>
+<div></div>
+<br>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<div><b>
+Basic Qualifications:</b></div>
+<ul>
+<li>
+10 years' minimum experience in Software Engineering or Software Development</li>
+<li>
+A minimum of a Bachelors degree in Computer Science, Computer Engineering, Software Engineering, Software Development, or a related field, or equivalent alternative education, skills, and/or practical experience is required.</li>
+</ul>
+<div><b>
+Preferred Qualifications:</b></div>
+<ul>
+<li>
+10 years' minimum software engineering experience building and shipping high performance and scalable systems and services</li>
+<li>
+Experience leading, mentoring and managing a team of software engineers</li>
+<li>
+Excellent problem-solving and debugging skills with a solid understanding of testing practices</li>
+<li>
+Experience with agile development practices</li>
+<li>
+Strong verbal and written communication skills, and ability to work through ambiguous situations</li>
+<li>
+Experience building and hosting WebSite for Enterprise scale.
+</li>
+<li>Experience building and/or integrating business applications</li>
+<li>
+Experience building on Azure or other cloud providers</li>
+<li>
+Experience with machine learning development and operationalization</li>
+<li>
+Experience with DevOps practices and techniques such as Continuous Delivery, TDD, and Testing in Production</li>
+<li>
+Experience with any of the following engineering areas: performance, security, privacy, accessibility, and localization/globalization</li>
+</ul>
+<div>
+#CSEO</div>
+<div>
+#SMSE</div>
+<div></div>
+<br>
+<div>
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.</div>
+<div></div>
+<br>
+<div>
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.</div>
+</div></div>

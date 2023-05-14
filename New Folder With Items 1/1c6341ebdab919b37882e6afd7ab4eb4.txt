@@ -1,0 +1,63 @@
+<h2>Senior Front End Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">WeWork Mission
+<br><br>
+WeWork is the platform for creators, providing hundreds of thousands of members around the world with space, community, and services that enable them to do what they love and create their life's work. Our mission is to create a world where people work to make a life, not just a living, and our own team members are central to that goal.
+<br><br>
+Technology Charter
+<br><br>
+WeWork is creating a layer of technology to power our vision of "space as a service". From identifying and designing a new location, to bringing that space to market in an elastic, easy-to-consume way, to seamlessly operating these spaces to delight our members, we are building state-of-the-art systems to automate, optimize, and enhance the experience. The data we are collecting is being used to dynamically optimize utilization, pricing, even layout and form factor. This technology advantage has allowed WeWork to scale to 400+ buildings in 20+ countries, and will be our competitive advantage as the company continues to grow.
+<br><br>
+The Team
+<br><br>
+The mission of Growth Technology is to deliver technology that powers the growth of our core businesses, by providing the right products to the right people at the right price at the right time. It includes how we create product offerings out of SKUs, sellable inventory, and membership rules, at a dynamically optimized price. Growth Technology covers the entire journey of a member, from their first interaction with our website or a salesperson, all the way through providing the right account visibility and flexibility so they stay a member for life and grow with us.
+<br><br>
+Here are some examples of the objectives that our team is trying to achieve:
+<br><br>
+<ul>
+<li>Shorten the product to market time across WeWork's portfolio</li>
+<li>Drive up revenue through data-driven price optimization</li>
+<li>Launch tailored flexible product offerings to enterprise and mid-market members</li>
+<li>Improve retention and reduce unexpected churn</li>
+<li>Scale our contract/subscription service to accommodate future products and initiatives</li>
+</ul>
+The Work
+<br><br>
+You'll be a contributing engineer spending most of your time solving technical and product problems with other engineers and other disciplines. You will be expected to:
+<br><br>
+<ul>
+<li>Deliver high-quality code that impacts the bottom line of the business</li>
+<li>Drive technical solutions to strategic initiatives</li>
+<li>Design scalable frontend architecture</li>
+<li>Design stable and performant APIs</li>
+<li>Help steer technical decisions about infrastructure and architecture</li>
+<li>Model engineering excellence and collaborative processes</li>
+</ul>
+<b>Responsibilities:</b><br>
+As a Front End Engineer on this team you'll be tasked with identifying flexible and scalable ways to define WeWork's products. Some tasks you will be working on are increasing WeWork's visibility online in order to attract the right customer, maintain our company brand and drive sales.
+<br><br>
+<ul>
+<li>Deep knowledge of design patterns and their applications.</li>
+<li>Take active role in breaking down an epic into multiple sprints and tickets.</li>
+<li>Define the best implementation method and related effort to answer a given problem.</li>
+<li>Lead feature development with 1-2 more collaborators..</li>
+<li>Identify and drive code improvements, including technical debt.</li>
+<li>Author feature-specific design docs.</li>
+<li>Serve as an example of quality code and design, and push for better processes around how the team operates.</li>
+<li>Mentor others and proactively identify opportunities to improve intra- and/or inter-team capability, such as interviewing and active participation in guilds.</li>
+<li>Advocate for a solid technical approach and influence peers.</li>
+</ul>
+Requirements
+<br><br>
+<ul>
+<li>4+ years of experience in Software Engineering building highly scalable and integrated web applications</li>
+<li>Experience writing scalable, highly-performant, instrumented and clean code.</li>
+<li>Demonstrated experience developing web interfaces using HTML/JavaScript/CSS (React or equivalent framework)</li>
+<li>Familiarity with Ruby, Python, or Node.JS</li>
+<li>Confident in testing, instrumentation application and experience with distributed systems</li>
+<li>Experience working in an Agile development environment.</li>
+</ul>
+<b>Nice to have:</b><br>
+<ul>
+<li>Knowledge of how to configure AWS</li>
+</ul>
+We are an equal opportunity employer and value diversity in our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</div>

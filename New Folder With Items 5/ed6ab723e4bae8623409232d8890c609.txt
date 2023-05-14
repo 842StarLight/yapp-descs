@@ -1,0 +1,44 @@
+<h2>Solutions Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>About CyberArk:</b></p>
+<p>CyberArk is the global leader in privileged access security, a critical layer of IT security to protect data, infrastructure and assets across the enterprise, in the cloud and throughout the DevOps pipeline. CyberArk delivers the industry’s most complete solution to reduce risk created by privileged credentials and secrets. The company is trusted by the world’s leading organizations, including more than 50 percent of the Fortune 500, to protect against external attackers and malicious insiders.</p>
+<p><b>Job Description:</b></p>
+<p>CyberArk is looking for a highly motivated, energetic and focused Solutions Engineer to be based in the Southeast region. The Solutions Engineer will combine technical knowledge with sales skills and is ultimately responsible for the technical win during the sales cycle. Solutions Engineers are the primary technical resource for the field sales force hence, they are responsible for actively driving and managing the technology evaluation stage of the sales process, working in conjunction with the sales team and Product Management as the key technical advisor and product advocate for our solutions. Therefore, you must be able to articulate technology and product positioning to both business and technical users. You must be able to identify all technical issues to assure complete customer satisfaction through all stages of the sales process. Above all, we are looking for someone that can communicate the CyberArk value and be able to design an optimal solution for complex customer infrastructure and datacenter environments on a global scale.</p>
+<p><b>Responsibilities:</b></p>
+<p>The ideal candidate must be self-motivated with a proven record of accomplishment in relevant vendor software sales or encompass knowledge of similar technologies. You must be comfortable in a dynamic atmosphere of a technical organization with a rapidly expanding customer base. You must possess strong presentation skills. You must be organized and analytical, able to eliminate sales obstacles through creative and adaptive approaches.</p>
+<br>
+<p></p>
+<p>The essential duties of the Solutions Engineer shall be in offering CyberArk’s product solutions to customers and prospects, including:</p>
+<ul>
+<li>Technical pre-sales support</li>
+<li>Proactively seek out new sales opportunities by developing new and existing technical relationships within prospective accounts and current active customers</li>
+<li>Present CyberArk’s technical value proposition to customers and partners effectively</li>
+<li>Able to respond to functional and technical elements of RFIs/RFPs</li>
+<li>Conduct and Ensure success of customer proof-of-concepts (POCs)</li>
+<li>Documentation of client feature requests and issues in CRM system</li>
+<li>Support CyberArk and partner seminars and industry trade shows</li>
+<li>Able to convey customer requirements to Product Management teams</li>
+<li>Develop technical knowledge of CyberArk and associated technologies</li>
+<li>Assume the role of a mentor to other system engineers when appropriate</li>
+<li>Create training content for the SE organization when appropriate</li>
+</ul>
+<p><b>Requirements:</b></p>
+<ul>
+<li>MIS/Computer Science Degree or equivalent experience required</li>
+<li>Strong experience with Windows/Active Directory administration and operations with some knowledge of UNIX/Linux</li>
+<li>Strong presentation skills as well as the ability to build and present high quality product demonstrations to both technical and executive audiences</li>
+<li>Superior communication and interpersonal skills; ability to build relationships at multiple levels to work cross organizationally toward solutions; excellent leadership and consensus building skills</li>
+<li>An understanding of security concepts and the development of security roles within organizations that meet functional, technical and regulatory requirements</li>
+<li>Prior experience with CyberArk Software solutions is preferred or relevant experience with enterprise applications, security management, systems management, identity management, and/or policy management solutions preferred especially in the IAM and SIEM space</li>
+<li>Operational experience with LDAP Directories, and LDAP Authentication methods</li>
+<li>Enterprise application authentication experience a plus (ie, .NET, Java, CLI)</li>
+<li>Scripting knowledge a plus</li>
+<li>CISSP or SANS certification preferred</li>
+<br>
+</ul>
+<p></p>
+<p>CyberArk is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.</p>
+</div>
+<p></p>
+</div>

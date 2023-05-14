@@ -1,0 +1,53 @@
+<h2>Quality Assurance Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Futuri Media creates audience engagement and sales intelligence technology solutions in use at more than 1,400 radio and TV broadcasters worldwide. Holding 11 published or pending patents, Futuri is an ROI-focused innovation partner to some of the biggest media brands in the world, and has earned a place on the Inc. 5000 List of America’s Fastest-Growing Private Companies for five consecutive years.</p>
+<p>
+Having tripled the size of the company to 100 over the last three years, Futuri, which has twice been named Tech Company of the Year by OHTec, seeks a Quality Assurance (QA) Engineer to be based out of our Seven Hills, Ohio, headquarters.</p>
+<p>
+Position Summary:</p>
+<p>
+The Quality Assurance (QA) Engineer will develop and execute exploratory and automated tests to ensure product quality. QA Engineer responsibilities include designing and implementing tests, debugging and defining corrective actions. They will also review system requirements and track quality assurance metrics. The QA Engineer plays an important part in our Company’s product development process. Our ideal candidate will be responsible for conducting tests before product launches to ensure software runs smoothly and meets client needs, while being cost-effective. Ultimately, the QA Engineer monitors all stages of software development to identify and resolve system malfunctions to meet our high quality standards.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>Review requirements, specifications and technical design documents to provide timely and meaningful feedback</li>
+<li>Document test cases</li>
+<li>Perform and document risk analysis</li>
+<li>Create detailed, comprehensive and well-structured test plans and test cases</li>
+<li>Estimate, prioritize, plan and coordinate testing activities</li>
+<li>Design, develop and execute automation scripts using open source tools</li>
+<li>Identify, record, document thoroughly and track bugs</li>
+<li>Perform thorough regression testing when bugs are resolved</li>
+<li>Develop and apply testing processes for new and existing products to meet client needs</li>
+<li>Liaise with internal teams (e.g. developers and R&amp;D) to identify system requirements</li>
+<li>Monitor debugging process results</li>
+<li>Investigate the causes of non-conforming software and train users to implement solutions</li>
+<li>Track quality assurance metrics, like defect densities and open defect counts</li>
+<li>Stay up-to-date with new testing tools and test strategies</li>
+<li>Review user interfaces for consistency and functionality</li>
+<li>Participate in product deploys to test and track issues post-deploy</li>
+<li>Problem solves to find creative solutions.</li>
+<li>Showing the initiative to hit deadlines and deliverables.</li>
+<li>Research, advise and assist implementation of new strategies.</li>
+</ul>
+<p>Requirements:</p>
+<ul>
+<li>Prefer a Bachelor’s degree (BS or BA) from four-year college or university; or 3+ years related experience and/or training; or equivalent combination of education and experience.</li>
+<li>1+ years proven work experience in software development</li>
+<li>1+ years proven work experience in software quality assurance</li>
+<li>Hands-on experience with both white box and black box testing</li>
+<li>Hands-on experience with automated testing tools</li>
+<li>Experience with performance and/or security testing is a plus</li>
+<li>Strong knowledge of software QA methodologies, tools and processes</li>
+<li>Ability to write clear, concise and comprehensive test plans and test cases</li>
+<li>Solid knowledge of SQL and scripting</li>
+<li>Must be eligible to work in the United States</li>
+</ul>
+<p>The successful candidate will possess all required skills, but also be a good fit for Futuri Media’s culture. It’s a fun place to work and a very team-oriented culture. We value and support a sensible work-life balance for our team members, but this isn’t a typical 9 to 5 gig; we work hard and bring a lot of passion to our mission to shape the future of media! Proactivity and the ability to pivot are highly valued.<br>
+<br>
+The Futuri culture is all about trust, passion, speed, and proactivity. Futuri Media can be a great place for you if you share these values.<br>
+<br>
+Futuri provides competitive compensation (commensurate with experience), excellent benefits including health, dental, and vision insurance, a generous PTO policy, a 401(k) retirement plan with company match, and free monthly massages! Futuri Media is an Equal Opportunity Employer.</p>
+<p>
+For more information on careers at Futuri Media, please visit futurimedia.com/jobs</p>
+</div></div>

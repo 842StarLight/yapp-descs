@@ -1,0 +1,48 @@
+<h2>Enterprise Technologist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>BS/BA degree</li>
+<li>10+ years in a technology-related leadership/executive position</li>
+<li>5+ years delivering enterprise-wide technology capabilities across multiple business units within large organizations</li>
+<li>3+ years driving change or transformation programs using the cloud</li>
+<li>A career demonstrating an increase in responsibility and an ability to influence non-technical executives</li>
+<li>Able to travel up to 40%+ of the time</li>
+</ul></div>
+<br>
+<div>Amazon Web Services (AWS) is proud to be the pioneer and widely recognized leader in Cloud Computing. Our web services provide a platform for IT infrastructure in-the-cloud that is used by hundreds of thousands of developers and businesses around the world. These customers range from start-ups to leading web companies to Global 500 companies in financial services, pharmaceuticals, and high technology.<br>
+<br>
+We're hiring Enterprise Technologists throughout the U.S. to guide our enterprise efforts and advise the largest companies on how they can transform the way they use technology to deliver business value. AWS Enterprise Technologists are subject matter experts in business strategy and modern cloud architecture. He/she use their personal experiences in Cloud transformation and the use of AWS to help business and IT executives accelerate their business outcomes. He/she must be a practitioner on the AWS platform or related cloud platforms and migration experience.<br>
+<br>
+This role supports various AWS customer segments and industry verticals. The Enterprise Technologist is a proven expert and thought-leader in complex business-IT transformations including platform modernization, enterprise systems, digital transformation, cloud deployment and migrations, governance, software development, and enterprise architecture. The right candidate has experience in leading global technology strategies with enterprise companies, demonstrated experience in developing strategic technical initiatives, a proven track record of driving multiple complex customer engagements.<br>
+<br>
+Here are some other qualities we are looking for:<br>
+<br>
+Be great fun to work with. At AWS, we have a credo of “Work hard. Have fun. Make history”. In this role, you will love what you do, and instinctively know how to make work fun. You will be dynamic and creative, and willing to take on any challenge and make a big impact.<br>
+<br>
+Enjoy working with enterprise customers. You will have a passion for educating, training, designing, and building cloud solutions for a diverse and challenging set of enterprise customers.<br>
+<br>
+Roles and Responsibilities:<br>
+<ul>
+<li>Lead proposal development for outcome based business-IT solution recommendations for AWS adoption in collaboration with sales, solution architecture, and business development</li>
+<li>Ensure that the solutions developed across organizations align to enterprise architecture standards and principles, leverage common solutions and services, and meet financial targets (cost and benefits.)</li>
+<li>Act as a subject matter expert in the development of business outcome framework integration with AWS methodologies, tool suite selection, and design and methodology execution</li>
+<li>Serve as the AWS executive technical sponsor for strategic customer initiatives</li>
+<li>Actively participate at industry events</li>
+<li>Engage with system integrators and strategic ISVs across multiple customers</li>
+<li>Identify patterns across customers to help AWS publish white papers, customer technical case studies, blog posts, pre-sales first call decks, and other content that will drive scale, standardization, and repeatability</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>
+<li>Experience managing a multi-hundred-million-dollar IT budget</li>
+<li>Executed a large migration to AWS</li>
+<li>Well connected with C-level executives throughout one or more industries</li>
+<li>Established voice (via blogs, books, presentations, or other thought leadership) in the technology community</li>
+<li>Ability to empathize with a large company’s existing legacy – people, process, or technology – and help map a way forward.</li>
+<li>Managed a global team and IT infrastructure</li>
+</ul>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation/Age.<br>
+aws-solarch-na</div>
+</div>

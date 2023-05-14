@@ -1,0 +1,102 @@
+<h2>Lead Application Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Join Our Team
+</b></h2>
+<p></p>
+<p>Our Company headquarters is located in Duluth, GA.
+</p>
+<p></p>
+<p>The 367,000-square-foot building houses 1,700 employees who provide first-class support to our sales force as they build their business and serve clients.
+</p>
+<p></p>
+<p>For six years in a row, Primerica has been recognized by the Atlanta Journal-Constitution as one of the best workplaces in Georgia! Over the past five years, Primerica has consistently been voted “Best Employer” by Gwinnett Magazine.
+</p>
+<p></p>
+<h2 class="jobSectionHeader"><b>About this Position
+</b></h2>
+<p></p>
+<h2 class="jobSectionHeader"><b>Responsibilities &amp; Qualifications
+</b></h2>
+<p></p>
+<p>The Java Enterprise Edition Developer is responsible for designing, modifying and developing systems using advanced techniques including the ability to analyze current systems to resolve new and/or existing problems. The developer evaluates technical feasibility of proposed system solution, prepares project proposals and develops/modifies systems to meet the business need. The developer should have experience delivering scalable, secure, and robust web applications. They will act as resource for colleagues with less experience; may lead or direct the work of other developers/projects. The developer further cultivates analysis and development skills by learning new and emerging technologies.
+</p>
+<p></p>
+<p><b>ESSENTIAL SKILLS
+</b></p>
+<ul>
+<li>Ability to design and implement scalable, secure, highly available applications
+</li>
+<li>Excellent verbal and communication skills
+</li>
+<li>Excels in ability to multi-task and stay organized in a dynamic work environment.
+</li>
+<li>Excellent interpersonal skills with the ability to work well with subordinates, peers and management.
+</li>
+<li>Designing, modeling and documenting program/code for an integrated software product or system that supports re-use, change and integration of various components
+</li>
+<li>Constructing software; that meets requirements, promotes re-use, is testable and facilitates ease of support
+</li>
+<li>Conducting unit tests, tracking problems, and implementing changes to ensure adherence to test plans and functional requirements
+</li>
+<li>Diagnosing, isolating, and implementing remedies for system failures caused by software code, using knowledge of the system characteristics and utilizing system maintenance and tracking tools
+</li>
+<li>Willingness to learn new technologies, such as VueJS, Node, etc<br>
+</li>
+</ul>
+<p></p>
+<p><b>EXPERIENCE
+</b></p>
+<ul>
+<li>College degree in Information Technology (preferred)
+</li>
+<li>Minimum of 5 years work experience in Information Technology
+</li>
+<li>Minimum of 4 years Java/ J2EE (including Servlets/JSPs), JDBC, HTML, JavaScript, CSS, SQL and XML development experience, including Java IDE’s such as Eclipse or RAD.
+</li>
+<li>Minimum 2 years frame work experience in STRUTS, SPRING, or similar JavaScript frame works.
+</li>
+<li>Minimum 2 years’ experience developing REST Services using Spring MVC / JAX-RS and/or experience building and consuming JAX-WS / JAX-RPC Web Services
+</li>
+</ul>
+<p></p>
+<p><b>SOFTWARE SPECIALIZATION
+</b></p>
+<ul>
+<li>Highly proficient in Java EE (Including Servlets/JSPs)
+</li>
+<li>Experience developing and consuming REST Services.
+</li>
+<li>Experience with jQuery, AJAX
+</li>
+<li>Working Knowledge of relational database design, SQL experience, and database programming
+</li>
+<li>Proficient in HTML, CSS (Personal portfolio and GIT repo preferred)
+</li>
+<li>Experience with troubleshooting and debugging tools such as browser DevTools, etc
+</li>
+<li>Knowledge of Fiddler, Wireshark, Postman etc.
+</li>
+<li>Java EE certification is a plus
+</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>Our Benefits:
+</b></h2>
+<ul>
+<li><p>Day one health, dental, and vision insurance
+</p></li>
+<li><p>401k plan with 4% basic employer contribution and 100% employer match contribution up to 6%
+</p></li>
+<li><p>Vacation, sick, holiday and volunteer time off
+</p></li>
+<li><p>Life and disability insurance
+</p></li>
+<li><p>Flexible Savings Account &amp; Health Savings Account
+</p></li>
+<li><p>Professional development
+</p></li>
+<li><p>Tuition reimbursement
+</p></li>
+<li><p>Company-sponsored social and philanthropy events</p></li>
+</ul>
+</div></div>

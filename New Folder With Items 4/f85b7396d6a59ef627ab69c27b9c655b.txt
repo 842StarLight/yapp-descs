@@ -1,0 +1,27 @@
+<h2>Senior AWS Solutions Architect - Microsoft Platform</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>Bachelor’s degree in Computer Science or related field or equivalent industry experience</li>
+<li>Three to Five years of technical pre-sales consultancy with a proven track record of designing complex Microsoft solutions.</li>
+<li>Proven customer experience in Microsoft related technologies (Active Directory, Windows Server and Enterprise Applications) and must be able to dive deep into identity management.</li>
+<li>Proven experience with migration of Data Center and cloud migration projects</li>
+</ul>
+<br>
+<p>Do you like helping customers implement innovative cloud computing solutions and solve technical problems based on the Microsoft Technology Stack? Would you like to do this using the latest cloud computing technologies? Do you have a knack for helping groups understand application architectures and integration approaches? Do you have the consultative and leadership skills to help customers succeed with their cloud efforts?<br>
+<br>
+Amazon Web Services is looking for a Solutions Architect to help customers accelerate their adoption of Microsoft workloads on AWS. This is an excellent opportunity to help customers understand best practices for Microsoft technologies on AWS, migrate their existing workloads, and advise them on building resilient cloud architectures. You’ll also work with the AWS Service Teams to help continuously improve the Microsoft Platform on AWS. Your broad responsibilities will include: owning the technical engagement and ultimate success around specific implementation projects; defining implementation architectures, responding to RFPs, developing a deep expertise in AWS technologies as well as broad know-how around how applications and services are constructed using the AWS platform; and being a subject matter expert on Microsoft technology Stack as it relates to customer end-to-end solutions and services. In addition, you will engage with other solutions architects, partner and professional services organizations do drive large and highly complex sales opportunities to closure.</p>
+<br>
+<div>Knowledge and/or experience in one or more of the following:<br>
+<br>
+<ul>
+<li>Deep knowledge of Microsoft Technology stack such as SQL, Active Directory or .NET</li>
+<li>AWS Certified Solution Architect - Associate</li>
+<li>Some travel may be required</li>
+<li>MCSA, MCSD, and/or MCSE</li>
+</ul>
+Amazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build.<br>
+<br>
+By submitting your resume and application information, you authorize Amazon to transmit and store your information in the Amazon group of companies' world-wide recruitment database, and to circulate that information as necessary for the purpose of evaluating your qualifications for this or other job vacancies.<br>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation</div>
+</div>

@@ -1,0 +1,32 @@
+<h2>Technologist (Front End Developer)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Overview:</b><br>
+We are seeking a Technologist (Front End Developer) to join our super smart Technology Team. The Technologist is responsible for leading and delivering projects focused on JavaScript/HTML5 web frameworks. The Technologist will work with design teams to vet out the creative direction and provide guidance to enhance the work.
+<br><br>
+<b>What You'll Do:</b><br>
+<ul>
+<li>Develop and innovation of bespoke responsive HTML5, JavaScript, CSS, multi-device products</li>
+<li>Define and maintain best practices and development of reusable tools/frameworks and repeatable processes</li>
+<li>Contribute to technical discussions for internal and client facing meetings</li>
+<li>Ensure all aspects are developed to the company standard, within the allocated timeframes</li>
+<li>Provide technical support, resolving bugs and issues</li>
+<li>Provide innovative solutions and accurate time estimations to the sales and project management team</li>
+<li>Identify and manage risk on projects</li>
+</ul>
+<b>Who You Are:</b><br>
+<ul>
+<li>Bachelor's degree in computer science, management information systems, computer engineering or closely related field</li>
+<li>You have 1-3 or more years of software development experience demonstrating basic programming skills, application analysis and testing</li>
+<li>You have 1 or more years of developing Web applications with content management focus</li>
+<li>You have experience with 2 or more WCM/ECM products</li>
+<li>You have a thorough understanding HTML5, JavaScript ECMA5, CSS3/SASS</li>
+<li>You have a strong knowledge of JavaScript fundamentals with ability to learn new libraries and frameworks, like Angular, Backbone, Node.js or React</li>
+<li>You have experience with Bootstrap, Foundation or similar systems</li>
+<li>You have experience working w/ build tools (Grunt, Gulp, Bower and NPM)</li>
+<li>You have experience developing for cross-browser compatibility</li>
+<li>You have full software development life cycle experience</li>
+<li>You have a basic understanding of terminal / command prompt</li>
+<li>Your familiar with responsive web development for multi-touch devices</li>
+<li>You have experience with Photoshop, Illustrator</li>
+</ul>
+</div>

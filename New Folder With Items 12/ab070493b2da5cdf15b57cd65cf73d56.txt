@@ -1,0 +1,99 @@
+<h2>Devops Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>It Works! ™ Devops Engineer</b></p>
+<br>
+<p></p>
+<p><b>
+Responsibilities:</b></p>
+<br>
+<p></p>
+<p>
+The DevOps Engineer will be responsible for implementing and maintaining Continuous Integration and Continuous Deployments for multiple systems that are housed in co-located sites as well as cloud based systems. You are responsible for establishing DevOps practices inside of the company’s Cloud Software teams. This position will also be responsible for setting up and monitoring cloud resources: web services, functions, service bus topics, to API gateways and virtual networks. Logging of events and system usage will be required in order to help support the programming team's development efforts as well as the support of production systems.</p>
+<br>
+<p></p>
+<ul><li>Metric driven and focused on continual improvement</li></ul>
+<br>
+<p></p>
+<ul><li>Comfortable working with distributed teams</li></ul>
+<br>
+<p></p>
+<ul><li>Development experience (C#, powershell Restful Api, utility code)</li></ul>
+<br>
+<p></p>
+<ul><li>Familiar with and utilize design patterns in software development</li></ul>
+<br>
+<p></p>
+<ul><li>Strong expertise in leveraging a wide variety of technologies</li></ul>
+<br>
+<p></p>
+<ul><li>Automation is in your DNA</li></ul>
+<br>
+<p></p>
+<ul><li>Continuous Integration tool (one of: Azure DevOps (VSTS), Jenkins, Team City, Octopus Deploy, etc.)</li></ul>
+<br>
+<p></p>
+<ul><li>System and IT Operations</li></ul>
+<br>
+<p></p>
+<ul><li>Cloud Experience (prefer: Azure additionally: Amazon, Google)</li></ul>
+<br>
+<p></p>
+<ul><li>Source Control experience (VSTS - Git, Git, etc.)</li></ul>
+<br>
+<p></p>
+<ul><li>Monitoring tools (one of: Application Insights, Datadog, Nagios, Splunk, etc.)</li></ul>
+<br>
+<p></p>
+<ul><li>Broad DB experience (SQL, NoSQL, CosmosDB)</li></ul>
+<br>
+<p></p>
+<ul><li>Configuration Management/Orchestration tool (one of: Chef, Ansible, desired state configuration)</li></ul>
+<br>
+<p></p>
+<ul><li>API Gateways (Azure api management services)</li></ul>
+<br>
+<p></p>
+<ul><li>Application Security Scanning</li></ul>
+<br>
+<p></p>
+<p><b>
+Experience and Requirements:</b></p>
+<br>
+<p></p>
+<p>
+Strong automation skills.</p>
+<br>
+<p></p>
+<p>
+The ability to design, build, and operate a technology stack.</p>
+<br>
+<p></p>
+<p>
+Configuration and automation management, health checks, single point of failure, notifications.</p>
+<br>
+<p></p>
+<p>
+Effective cross-functional leadership skills</p>
+<br>
+<p></p>
+<p><b>
+About It Works!</b><b> ®</b></p>
+<br>
+<p></p>
+<p>
+It Works!, headquartered in Palmetto, FL, is an innovator in the beauty, health, and wellness industry with an exclusive line of superior, naturally based products. Founded in 2001, It Works!® introduced a world’s first with its site-specific body contouring wrap, the Ultimate Body Applicator. Today the company has been established as one of the country’s fastest-growing private companies, and the wrap continues to be a bestseller alongside It Works! botanically based skin care line and premium, whole-food supplements.<br>
+<br>
+It Works! currently has a sales force of thousands of Independent Distributors in 20 countries and has been featured in Inc. magazine for the third consecutive year on the Inc. 500 list; ranked No. 290 for 2014 based on 1047-percent growth over the past three years. It Works! debuted at No. 15 on the Direct Selling News Global 100, the annual industry ranking produced by <i>Direct Selling News</i> magazine. The company has also appeared in the pages of two issues of Success from Home magazine dedicated to the It Works! team.</p>
+<br>
+<p></p>
+<p><b>
+The It Works! Way</b></p>
+<br>
+<p></p>
+<p>
+It Works! upholds its own “It Works! Way” standard of greatness in all areas: from creating impactful, naturally formulated products to imparting a sense of joy to its customers, changing lives with its direct sales opportunity, and cultivating a vibrant corporate culture. As our CEO and founder, Mark Pentecost, says, “We like to enjoy the journey. We’ve always had more of a Jimmy Buffett than a Warren Buffett kind of feel!”</p>
+</div>
+<p></p>
+</div>

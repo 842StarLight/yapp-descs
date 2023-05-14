@@ -1,0 +1,107 @@
+<h2>Senior Storage & MQ Infrastructure Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>PlanGrid is looking for a Senior Infrastructure Engineer to join our new Storage and Message Queue (SMQ) team. The SMQ team ensures infrastructure uptime, provisioning, and configuration of datastores (postgres, mongo, redis, elasticsearch, S3) and queuing systems (SQS, RabbitMQ) for PlanGrid engineering teams. A big part of our job is enabling developers to have visibility into their service’s performance by means of metrics, traces, and logging. Our team handles complex architectural projects to allow us to grow internationally, handle datacenter-level regional disaster recovery, and implement self-healing infrastructure across many AWS regions.<br>
+<br>
+The SMQ team was formed to help focus on larger initiatives for the ever-growing Infrastructure Engineering umbrella. In the last year, we’ve re-architected the monolithic postgres database drastically reducing data loss and recovery times. We also lead efforts to reduce the operational burden provisioning and configuring new RDS databases with solid observability in place. We also test disaster recovery scenarios quarterly to verify backups and restores and expose weaknesses within our architecture.<br>
+<br>
+We adhere to a devops methodology (as opposed to old-school operations) where developers - not operations people - are responsible for their code’s reliable operation and where developers are empowered and trusted to make the changes necessary for reliability. Our work focuses on data stores and message queueing systems but widely touches every layer of infrastructure and development lifecycle. We love people who define success in terms of SLOs, SLIs, and SLAs, who care deeply about observability in distributed systems, who educate people on the intricacies of complex database architectures, and who have experience scaling out large database systems to multiple regions worldwide.<br>
+<br>
+DevOps/SRE, database administrator, and systems experience are highly valued. If you’ve gotten your hands dirty with package and configuration management, securing cloud resources with best practices, infrastructure-as-code principles, kubernetes, Spinnaker, AWS cloud infrastructure, postgres user management, postgres replication strategies, rabbitMQ cluster provisioning, and know your way around docker, bash, and python, we’d love to talk with you!<br>
+<br>
+You should be passionate about getting in front of problems instead of waiting until things are on fire. If you dream of stability, love metrics, communicate well, document your code, and love building reliable systems that hum along and take care of themselves, we want you on the team.<br>
+<br>
+In your first 6 months on the SRE team, you will:<br>
+<ul>
+<li>Help build out new AWS regions and ensure observability and good RPO/RTO</li>
+<li>
+Automate our failover processes for our monolithic postgres database</li>
+<li>
+Research AWS Aurora as a replacement to our RDS and EC2 postgres databases</li>
+<li>
+Research and design new systems to enable developer teams to test application database load before reaching production.</li>
+<li>
+Design and re-architect resilient and observable message queuing systems</li>
+<li>
+Help educate developers on writing efficient SQL queries for large web applications</li>
+<li>
+Migrate away from our legacy Mongo cluster to enable better RTO/RPO metrics
+</li>
+</ul>
+<br>
+<b>Responsibilities</b><br>
+<ul>
+<li>Enable faster provisioning and configuration of data stores and message queue systems to speed up the developer teams building out new products</li>
+<li>
+Teach our developers about handling database migrations on deployments, caching-gotchas with redis, optimizing search queries for elasticsearch, and data loss scenarios with SQS vs RabbitMQ, and everything in between</li>
+<li>
+Automate infrastructure provisioning with Cloudformation/Terraform and Saltstack
+</li>
+<li>Build observability into every aspect of our production infrastructure enabling developer teams to manage their own storage and queuing systems</li>
+<li>
+Continually reduce RPO/RTO for our data stores and message queuing systems to enable our sales team to provide better guarantees for our customer’s data</li>
+<li>
+Participate in on-call rotations and be a model of how to manage incidents</li>
+</ul>
+<br>
+<b>
+Minimum Qualifications</b><br>
+<ul>
+<li>Basic knowledge of linux system administration</li>
+<li>
+Python (or equivalent) coding experience</li>
+<li>
+Ability to glue different systems together and provide a great user experience for our engineering developers</li>
+<li>
+Cloud provisioning and configuration tools like Cloudformation, Terraform, SaltStack, Chef, Puppet, Anisble</li>
+<li>
+Database knowledge of postgres (or equivalent SQL), memcache, redis (provisioning, configuration, RTO, RPO, HA setups, backups, restores)</li>
+<li>
+Basic knowledge of queuing systems like SQS and RabbitMQ</li>
+<li>
+Strong communicator (you can break down complex technical architectures in easy-to-digest communications for team members with and without technical knowledge)</li>
+<li>
+Experience debugging large distributed systems</li>
+<li>
+Self-starter</li>
+<li>
+Team player (willing to work with and mentor a range of developers from different skill sets, experience, and backgrounds)</li>
+<li>
+Minimum 7-10 years of experience</li>
+</ul>
+<br>
+<b>
+Preferred Qualifications</b><br>
+<ul>
+<li>Engineering leadership experience (i.e., former tech lead, manager, etc)</li>
+<li>
+AWS, RDS, Aurora, ActiveMQ, Kinesis</li>
+<li>
+Kubernetes (you've worked with it, have knowledge of the basics)</li>
+<li>
+Spinnaker (or equivalent deployment pipeline systems)</li>
+<li>
+Best practices for security and access controls with AWS (IAM)</li>
+<li>
+Experience debugging large databases (Postgres, Mongo)</li>
+</ul>
+<br>
+<b>
+About Autodesk</b><br>
+With Autodesk software, you have the power to Make Anything. The future of making is here, bringing with it radical changes in the way things are designed, made, and used. It's disrupting every industry: architecture, engineering, and construction; manufacturing; and media and entertainment. With the right knowledge and tools, this disruption is your opportunity. Our software is used by everyone - from design professionals, engineers and architects to digital scientists, students and hobbyists. We constantly explore new ways to integrate all dimensions of diversity across our employees, customers, partners, and communities. Our ultimate goal is to expand opportunities for anyone to imagine, design, and make a better world.<div>
+<br>
+</div>
+<div>
+#ACSCareers</div>
+<div>
+</div>
+</div>
+<div><div>
+<p>
+At Autodesk, we're building a diverse workplace and an inclusive culture to give more people the chance to imagine, design, and make a better world. Autodesk is proud to be an equal opportunity employer and considers all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender, gender identity, national origin, disability, veteran status or any other legally protected characteristic. We also consider for employment all qualified applicants regardless of criminal histories, consistent with applicable law.</p>
+<p>To all recruitment agencies: Autodesk does not accept unsolicited headhunter and agency resumes. Autodesk will not pay fees to any third-party agency or company that does not have a signed agreement with Autodesk, Inc.</p>
+</div></div>
+</div>
+<p></p>
+</div>

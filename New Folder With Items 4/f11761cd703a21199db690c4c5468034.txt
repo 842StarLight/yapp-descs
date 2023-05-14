@@ -1,0 +1,58 @@
+<h2>CRM / SQL Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About the Position</b><br>
+We currently have an opening for a CRM / SQL Consultant (Level II) who will execute the data conversion, business analyst, technical writer, customization and configuration, quality assurance, and project management tasks in support of the implementation of our products. All candidates must be comfortable working directly with customers and other Cobalt team members in a fast-paced and highly collaborative environment.<br>
+<br>
+<b>Primary Duties</b></p>
+<ul>
+<li>Learn the intricacies of our core products</li>
+<li>Manage client implementation projects of Microsoft Dynamics 365 for Customer Engagement</li>
+<li>Gather and document business requirements</li>
+<li>Perform deployments and quality assurance of our systems and products</li>
+<li>Perform data conversions using best-practice ETL processes through T-SQL</li>
+<li>Assist with administering Microsoft SQL Server</li>
+<li>Configure and customize our products and Microsoft Dynamics 365 for Customer Engagement</li>
+<li>Collaborate with software engineers to write and update product documentation, test cases, and produce training materials</li>
+<li>Assist with non-position specific tasks (sales demonstrations, training new employees, etc.)</li>
+<li>Act as the project manager for new implementation projects</li>
+<li>Promote Cobalt at industry events</li>
+</ul>
+<p><br>
+<b>Required Qualifications</b></p>
+<ul>
+<li>Bachelor’s Degree</li>
+<li>2 – 4 years of software development project experience</li>
+<li>1 – 2 years of SQL programming experience</li>
+<li>1 – 3 years of project management experience</li>
+<li>An interest in software development project management and desire to learn new technologies</li>
+<li>Fluency in English (written and oral)</li>
+<li>Excellent communication and writing skills</li>
+<li>Organizational and task management skills</li>
+<li>Great personality (patient, upbeat, friendly and professional)</li>
+</ul>
+<p><br>
+<b>Desired Qualifications</b></p>
+<ul>
+<li>Experience with Microsoft’s Power Platform</li>
+<li>Experience implementing Microsoft Dynamics 365 for Customer Engagement</li>
+<li>Experience with SSIS packages</li>
+<li>Experience with data analysis and BI reporting</li>
+<li>Prior positions working with associations or certification boards</li>
+<li>Experience running meetings with online meeting and collaboration tools (Skype for Business, WebEx, etc.)</li>
+<li>Experience with agile software development techniques</li>
+<li>Experience presenting technical content in-person</li>
+</ul>
+<p><br>
+<b>Compensation</b><br>
+Cobalt provides all employees with medical, vision, dental, life and disability insurance, a 401K plan with employer matching, a training budget, and free parking as well as a relaxed work environment in Crystal City. We host multiple events for our employees each year including fun quarterly events, a holiday party, and a company retreat. In addition, we offer multiple avenues for giving back to the community through a variety of volunteering opportunities.<br>
+<br>
+The CRM / SQL Consultant position pays an annual salary of $77,000 - $87,000, based on experience with the opportunity to make up to 10% more in annual performance-based bonuses.<br>
+<br>
+<b>To Apply</b><br>
+Please include a copy of your current resume and cover letter.<br>
+<br>
+<b>About Cobalt</b><br>
+Cobalt is a rapidly growing software company with a track record of providing quality software solutions to our clients. Cobalt creates, markets and sells software for the Microsoft Dynamics 365 platform specializing in Customer Relationship Management (CRM) solutions. In addition to developing our own products, we also have a robust professional services business, through which we help our clients implement and use our software. At Cobalt, our professional services groups is broken down into three departments based on the tasks to be performed – consulting, development and support. The development department is made up of software engineers who write any custom code that is necessary, the consulting personnel handle all of project management, business analyst, CRM configuration, data migration and QA tasks, and the support team provides training and post go-live support.<br>
+<br>
+Cobalt hires talented, motivated people who like to see the results of their work, develop their own skills, and strive to grow the company. This is a full-time position averaging 45 hours per week, based at our headquarters in Crystal City (Arlington), Virginia, where employees are expected to work onsite in our office in order to help encourage teamwork and collaboration. Candidates should expect to travel up to 10% locally and 5% nationally.</p>
+</div></div>

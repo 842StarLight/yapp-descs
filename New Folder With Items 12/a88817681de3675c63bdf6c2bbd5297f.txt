@@ -1,0 +1,40 @@
+<h2>CLOUD SECURITY CONSULTANT - FEDERAL</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Basic qualifications<br>
+<ul>
+<li>7+ years of design/implementation/consulting experience with Security, Compliance, and Risk Management</li>
+<li>3+ years of experience with US Government compliance and security standards</li>
+<li>Technical degree or equivalent experience</li>
+<li>This position requires that the candidate selected be a U.S. citizen and obtain and maintain an active security clearance.</li>
+</ul>
+</div>
+<br>
+<div>External job description Amazon Web Services is looking for Security, Risk, and Compliance consultants to help accelerate our growing Professional Services business. This position is for a highly technical Subject Matter Expert that can dive deep and work with customers to address the security, risk, and compliance needs of their AWS migrations.<br>
+Do you like helping Federal Government agencies implement innovative cloud computing solutions and solve technical problems? Would you like to do this using the latest cloud computing technologies? Do you have a knack for helping these groups understand application architectures and integration approaches, and the consultative and leadership skills to launch a project on a trajectory to success? Are you familiar with security best practices for applications, servers, and networks? Do you want to be part of the business development team helping to establish Amazon Web Services (AWS) as a leading technology platform?<br>
+This is an excellent opportunity to join Amazon’s world class technical teams, working with some of the best and brightest engineers while also developing your skills and furthering your career within one of the most innovative and progressive technology companies.<br>
+Professional Services engage in a wide variety of projects for customers and partners, providing collective experience from across the AWS customer base and are obsessed about strong success for the Customer. Our team collaborates across the entire AWS organization to bring access to product and service teams, to get the right solution delivered and drive feature innovation based upon customer needs.<br>
+We are looking for someone who is passionate about:<br>
+<ul>
+<li>Be great fun to work with at AWS, we have a credo of "Work hard. Have fun. Make history." In this role, you will love what you do, and instinctively know how to make work fun. You will be dynamic and creative, and willing to take on any challenge and make a big impact.</li>
+<li>Enjoy working with Federal Government customers. You will have a passion for educating, training, designing, and building cloud solutions for a diverse and challenging set of Intelligence Community customers.</li>
+<li>Have a strong understanding of Security, Risk, and Compliance for large scale computing solutions. You will enjoy keeping your existing technical skills honed and developing new ones, so you can make strong contributions to deep architecture discussions. You will regularly take part in deep-dive education and design exercises to create world-class solutions built on AWS.</li>
+</ul>
+Amazon aims to be the most customer centric company on earth. Amazon Web Services (AWS) provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers critical applications for hundreds of thousands of businesses in 190 countries around the world.<br>
+Our Consultants work with Federal Government customers locally, regionally and potentially domestically. Consultants will be required to live close to the Herndon, VA area and travel to client locations to deliver professional services as needed (20%).</div>
+<br>
+<div>Preferred qualifications:<br>
+<br>
+<ul>
+<li>Deep understanding of Cloud Computing technologies and migration challenges</li>
+<li>Experience advising customers on cloud architectures and designs meeting US Government accreditation standards</li>
+<li>Experience implementing security controls, SCTMs</li>
+<li>Experience in technology/software sales consulting or equivalent skills</li>
+<li>Professional experience architecting/deploying/operating solutions built on AWS</li>
+<li>Experience migrating or transforming legacy customer solutions to the cloud</li>
+<li>Experience with US Government compliance and security standards, including NIST, FedRAMP, FISMA, ICD 503</li>
+</ul>
+Meets/exceeds Amazon’s leadership principles requirements for this role<br>
+Meets/exceeds Amazon’s functional/technical depth and complexity<br>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>
+</div>

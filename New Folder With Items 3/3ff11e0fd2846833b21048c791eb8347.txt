@@ -1,0 +1,160 @@
+<h2>Senior Voice Engineer BroadSoft - Voice Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Role Summary:
+</b></p>
+<p></p>
+<p>Generally accepted to be fastest growing telecoms provider, GTT owns and operates most advanced and densely connected voice and data network. It delivers intelligent, customer-controlled network services to a diverse range of businesses including mobile operators, service providers and enterprise customers.
+</p>
+<p>GTT offers SIP Trunking and Hosted PBX product based on Cisco/Broadsoft to large Telco and Enterprise customers. GTT operates large deployments of Voice core platforms including multiple vendors and hosted multitenant platforms in North America, Europe and Asia.
+</p>
+<p>The Senior Voice Engineer will be a key member of the Voice Engineering team who will be responsible for owning and leading on projects related to maintenance, system software testing and upgrades, product development, retirement and high-level technical escalations of multiple Cisco/Broadsoft environments including other multitenant PBX vendors such as Metaswitch and Netsapiens.
+</p>
+<p>Senior Voice Engineer as member of Voice Engineering Department is responsible for reviewing and implementing architectural and functional changes within the GTT Voice Network both Core and Hosted. Proactively reviewing current architecture and capabilities, testing and evaluating new Voice systems and technologies, and implementing improvements of existing. Voice Engineering team maintains a high level of technical Voice proficiency and function as last technical escalation point for complex customer issues and advanced troubleshooting as well as complex customer design and solution implementations. Engineer should be capable of a high level of independent work while balancing the demands of both project-based and spur of the moment requests.
+</p>
+<p>Role involve working and managing vendor relationships and coordinating and cooperating with field and operations staff.
+</p>
+<p></p>
+<p><b>Internal Departments they will interact with:
+</b></p>
+<p>Products, Sales Engineers, Voice Provisioning, Voice Technical support, Porting Desk, Account Team.
+</p>
+<p></p>
+<p><b>Main Responsibilities:
+</b></p>
+<p></p>
+<ul>
+<li>Maintain Network components on a supportable and satisfactory Software level. Perform Software testing and after -hours upgrade on Voice Platforms.
+</li>
+<li>Lead in the design, implementation, and management of Cisco/BroadSoft platforms.
+</li>
+<li>Work directly with vendors, and cross-functional teams, to support incident/event management, system and product development, as well as capacity planning.
+</li>
+<li>Review, maintain, and implement architectural changes and improvements.
+</li>
+<li>Propose design improvements and changes to enhance network/service.
+</li>
+<li>Lead vendor and supplier escalation for critical fault resolution.
+</li>
+<li>Carry out 3rd line diagnostics on equipment across the Voice network. Team act as 3th and last technical escalation point.
+</li>
+<li>Identify and specify operations requirements for platforms, processes and supporting systems.
+</li>
+<li>Define monitoring of performance, capacity, and availability of Cisco/Broadsoft Broadworks platforms. Evaluate thresholds on an ongoing basis and recommend ways to improve metrics.
+</li>
+<li>Conduct preventative maintenance, and analysis of network performance.
+</li>
+<li>Outside of business hours to act as escalation point of contact for critical platform engineering issues.
+</li>
+<li>Co-ordinate field operatives across the Global GTT Network for project related work.
+</li>
+<li>Escalation of unresolved customer or network tickets
+</li>
+<li>Lease with customer, vendors, and other third parties to ensure fault progression.
+</li>
+<li>Review and evaluate new vendors/technologies for inclusion in the GTT Service Catalogue.
+</li>
+<li>Review, maintain, and improve voice platform and traffic monitoring solutions.
+</li>
+<li>Design, plan, document, and implement new services, systems, and solutions.
+</li>
+<li>Develop and maintain technical documentation and procedures, as well as establish and recommend policies and standards for network and platform configuration and services configuration.
+</li>
+<li>Support customer requests with respect to new turnup, outage and service reviews.
+</li>
+<li>Identify and Support projects related with platform/network/data center optimization that can reduce the cost and increase efficiency.
+</li>
+<li>Participate in proof of concept creation and analysis as well as lab environment development and testing.
+</li>
+</ul>
+<p></p>
+<p><b>Ideal Candidate Profile:
+</b></p>
+<p></p>
+<ul>
+<li>3-5 Experience with Hosted PBX products as BroadSoft, Metaswitch, Netsapiens is advantage.
+</li>
+<li>3-5 Years’ experience with Class 4/5 Voice Switches and Session Border Controller Elements is advantage.
+</li>
+<li>3-5 years technical experience in a complex Voice environment design, build and support.
+</li>
+<li>Expert level experience maintaining and supporting Cisco/Broadsoft Platform is required.
+</li>
+<li>Experience supporting and configuration of Polycom, Cisco MPP/ATA, Adtran, devices as well as relevant experience with Ribbon class 4 and Sansay SBCs is plus.
+</li>
+<li>Experience using network analysis, management, and performance monitoring tools to evaluate product and service behaviors.
+</li>
+<li>Excellent proven technical knowledge as well as troubleshooting skills on voice platforms is required. Excellent proven skills of analyzing CDR and call/signaling trace information.
+</li>
+<li>Management and ability to deliver to strict timelines for any given project.
+</li>
+<li>Proven ability to accept change and drive the change through multiple interfacing departments within an organization.
+</li>
+<li>Ability to create, understand and execute policies and procedures.
+</li>
+<li>Minimum 5 years experience in Telecommunications.
+</li>
+<li>Conversant with telecommunications operational processes and procedures.
+</li>
+<li>Technical understanding of Switching and Routing protocols.
+</li>
+<li>In Depth understanding of VOIP principles and of the components of a VOIP network.
+</li>
+<li>Excellent knowledge of VoIP protocols SIP and H.323.
+</li>
+<li>Good understanding of signaling protocols SS7 Variants, Q.931.
+</li>
+<li>Good knowledge on Windows Server, MS SQL.
+</li>
+<li>Experience of working within UNIX/Linux based operating systems and familiar with basic UNIX commands
+</li>
+<li>Scripting is a good to have – Perl, Shell, Python.
+</li>
+<li>General telecom industry knowledge and standards.
+</li>
+<li>Project Management and/or Network Design experience a plus.
+</li>
+<li>University degree in Technical related discipline.
+</li>
+</ul>
+<p></p>
+<p><b>Essential Criteria:
+</b></p>
+<ul>
+<li>Able to set own goals and meet them once given a project framework.
+</li>
+<li>High sense of responsibility and self-motivation.
+</li>
+<li>Excellent interpersonal and communication skills
+</li>
+<li>Good team player but equally able to work on own initiative
+</li>
+<li>Confident decision maker
+</li>
+<li>Able to analyze and resolve problems quickly and effectively
+</li>
+<li>Able to work under pressure and on own initiative.
+</li>
+<li>Able to handle multiple simultaneous projects.
+</li>
+<li>Able to handle high level interaction within an organization.
+</li>
+</ul>
+<p></p>
+<p><b>Desirable Criteria:
+</b></p>
+<p></p>
+<p><b>Other Similar Job Functions:
+</b></p>
+<p></p>
+<p><b>Qualifications/Courses:
+</b></p>
+<p></p>
+<p><b>Hours/Travel/Shift:
+</b></p>
+<p>Voice Engineering team works on shifts to cover US clients.
+</p>
+<p>Shift work is required to cover for the US working time zones. Oncall duties will also be required based on oncall rota.</p>
+</div>
+<p></p>
+</div>

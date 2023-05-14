@@ -1,0 +1,64 @@
+<h2>Apps Systems Engineer 4</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<b>Job Description</b><br>
+<p>At Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We’re looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where you’ll feel valued and inspired to contribute your unique skills and experience.</p>
+<p>
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.</p>
+<p><b>
+Wells Fargo Technology </b>sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargo’s more than 70 million global customers.</p>
+<p>
+This candidate will play an important technical role on the Enterprise Privacy Scrub Services (EPSS) team. EPSS is in the Sales, Service and Development group and is the central system in Wells Fargo that processes marketing campaigns to ensure all external and internal customer preferences are met. This application deals with multiple business lines within the company and has a close partnership with the Corporate Privacy Policies Office.</p>
+<p>
+The candidate will be included in the on-call rotation for EPSS.</p>
+<p>
+Preferred location: Minneapolis, MN</p>
+<br>
+<b>
+Required Qualifications</b><br>
+<p></p>
+<ul>
+<li>
+5+ years of application development and implementation experience</li>
+<li>
+1+ year of Ab Initio experience</li>
+<li>
+2+ years of experience working with Relationship Database Management Systems (RDBMS) such as SQL Server, Oracle or MySQL</li>
+<li>
+2+ years of UNIX experience</li>
+<li>
+3+ years of experience with Software Development Life Cycle (SDLC) tools</li>
+</ul>
+<br>
+<p></p>
+<b>
+Desired Qualifications</b><br>
+<p></p>
+<ul>
+<li>
+Excellent verbal, written, and interpersonal communication skills</li>
+<li>
+1+ year of Autosys experience</li>
+<li>
+2+ years of Teradata experience</li>
+</ul>
+<br>
+<p></p>
+<b>
+Job Expectations</b><br>
+<p></p>
+<ul><li>
+Ability to work on call as assigned</li></ul>
+<br>
+<p></p>
+<b>
+Disclaimer</b><br>
+<p><br>
+All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.<br>
+<br>
+Relevant military experience is considered for veterans and transitioning service men and women.<br>
+<br>
+Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.</p>
+</div>
+<br>
+TECHNOLOGY</div>

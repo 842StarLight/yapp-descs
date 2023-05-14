@@ -1,0 +1,60 @@
+<h2>Senior Software Engineer, Android</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About us
+<br><br>
+On the off chance you've thought about insurance, it's likely because you've insured something you love, not because you loved your insurance company. Metromile is out to change that. As an insurtech powered by data science and customer centric-design, we're building a community of drivers who come for the savings and stay for the experience.
+<br><br>
+With technology at its core, Metromile is reimagining insurance to make it fairer and actually delightful. We're obsessed with savings, service, and features -- street sweeping alerts, monthly mileage summaries, fuel trackers and more -- that engage a customer all along their journey. We're on the forefront of disrupting a $250 billion auto insurance category that has gone unchanged for over 80 years.
+<br><br>
+Metromile's diverse team combines the best of Silicon Valley technologists with veterans from Fortune 500 insurers and financial services giants. This management structure ensures that the business is focused on growth, customer experience and technology innovation while also balancing unit economics and profitability. The team is growing quickly across its San Francisco, Tempe, and Boston offices. Our customer service, claims, and sales teams are all based in-house in the US.
+<br><br>
+Named a Glassdoor Best Place to Work two years in a row, our CEO consistently has a 95+ percent approval rating; nearly 90% say they'd recommend Metromile to a friend.
+<br><br>
+About the role
+<br><br>
+The Android Mobile team at Metromile pride ourselves on using the latest technologies to help solve complex business problems and provide our users with the best Insurance experience. If you join us on our journey to build an industry-leading mobile experience you'll have the opportunity to explore technologies like Kotlin, RxJava and the latest tools that Android has to offer. You'll collaborate with the iOS Team to ensure the apps not only have feature parity but follow similar architectural principles. This includes working on iOS as well as Android. You'll work closely with Product and Design to ensure we're following the best practices for the Android Platform.
+<br><br>
+You will
+<br><br>
+<ul>
+<li>Build amazing mobile experiences using the latest technologies (e.g. Kotlin, MVVM)</li>
+<li>Work closely with Product Management and Design to help define the future of our Android mobile experience</li>
+<li>Be responsible for the architecture, engineering, and success of our Android app</li>
+<li>Be responsible for releasing Apps to the Play Store</li>
+<li>Be responsible for the team using the latest and greatest technologies available</li>
+<li>Willing to work on features on both Android and iOS</li>
+<li>Be autonomous, able to be search out solutions to a well-defined problem</li>
+<li>Be ready to mentor fellow co-workers on best practices</li>
+</ul>
+<b>About You:</b><br>
+<ul>
+<li>At least 1 app shipped to the Play Store</li>
+<li>3+ years of professional experience with a strong preference in multidisciplinary environments</li>
+<li>Solid Java experience</li>
+<li>Familiarity with MVP and MVVM design patterns</li>
+<li>Official Google and Android tooling to SDK</li>
+</ul>
+<b>Nice to Have :</b><br>
+<ul>
+<li>Active participation in Open Source projects (we can use this as optional rubric criteria during screens)</li>
+<li>Technical coaching via blog posts on sites such as Medium (you can wordsmith this : P )</li>
+<li>Work with annotation-based code generation</li>
+<li>Experience with Espresso</li>
+<li>Familiarity with functional programming concepts</li>
+<li>Familiarity with Reactive programming concepts</li>
+<li>Familiarity with RxJava</li>
+<li>Familiarity with Kotlin</li>
+<li>Mock based unit testing, Robolectric</li>
+<li>Profiling techniques</li>
+</ul>
+What's in it for you
+<br><br>
+<ul>
+<li>Competitive salary plus equity</li>
+<li>Robust benefit options (health, dental, vision, 401K)</li>
+<li>Transportation and well-being benefits</li>
+<li>Generous parental leave</li>
+<li>Catered lunches and a fully stocked kitchen</li>
+<li>Social events</li>
+<li>Mac equipment and adjustable workstations</li>
+</ul>
+Metromile is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>

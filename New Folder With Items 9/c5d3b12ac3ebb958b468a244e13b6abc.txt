@@ -1,0 +1,116 @@
+<h2>Inside Sales Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div><b>Contrast Security named to Forbes "Next Billion-Dollar Startups 2019 List"</b></div>
+<div>
+</div>
+<div>
+Contrast Security, Inc. is the world’s leading provider of security technology that enables software applications to protect themselves against cyberattacks. Contrast's patented deep security instrumentation is the breakthrough technology that enables highly accurate analysis and always-on protection of an entire application portfolio, without disruptive scanning or expensive security experts. Only Contrast has intelligent agents that work actively inside applications to prevent data breaches, defeat hackers and secure the entire enterprise from development, to operations, to production.</div>
+<div>
+</div>
+<div>
+Everyone at Contrast plays a critical role, and we all want co-workers who want to be here. We’re looking for a unique pedigree in our SE candidates that is ¼ developer, ¼ sysadmin, ¼ consultant, ¼ fierce-competitor.</div>
+<div>
+</div>
+<div>
+Problem solving is one of the most important traits we need in our SEs, including the ability to think on our feet. Sure, Contrast is really easy to deploy and work with, but every environment is different. The SE is a key link between Sales, Product Management and Engineering, so you need to be able to synthesize for executives, work with sales reps day-to-day, and communicate with engineers when necessary. Candidates need to have very strong backgrounds and comfort working in Linux and Windows, specifically the CLI and OS services/commands.</div>
+<div>
+</div>
+<div>
+We’ll be honest, the road for an SE is filled with both successes and challenges, with plenty of bumps along the way. If you are a thrill seeker, have a positive outlook (your glass is always half-full), and want to come back to work every day regardless of how things went yesterday, then this might be the right role for you.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Responsibilities:</b></h3>
+<div><ul>
+<li>
+Provide pre-sales assistance for sales opportunities to buyers, customers and partners. Including demonstrations, POC installations, troubleshooting and training of Contrast products. Refine and research technical requirements of the opportunity.</li>
+<li>
+Understand / Educate / Evangelize the concept of continuous + real-time application security and the need for it.</li>
+<li>
+Act as an interface between the Sales organization and technical staff to resolve outstanding issues.</li>
+<li>
+Provide reporting and feedback on customer accounts and field activities to Sales, Product Management and Engineering.</li>
+<li>
+Work closely with buyers in the process integration of Contrast products.</li>
+<li>
+Ability to navigate an evaluation to success for both clients and Contrast.</li>
+<li>
+Understand the customer’s business drivers and how to map these to a Contrast solution.</li>
+<li>
+Develop technical materials for customers and other Sales Engineers.</li>
+<li>
+Document Sales Engineering processes.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Qualifications:</b></h3>
+<div><ul>
+<li>
+Bachelor or Masters Degree in Computer Science or related discipline</li>
+<li>
+2+ years software development experience with Java, .NET, Ruby, Python, or Node.js, and 1+ years relevant AppSec industry experience, including consulting or pre-sales at a competitor</li>
+<li>
+Strong leadership skills with the ability to prioritize and execute in a methodical and disciplined manner</li>
+<li>
+1+ years of sales engineering experience</li>
+<li>
+Ability to code – not an expert – but must have some programming ability</li>
+<li>
+Set and manage expectations with senior stakeholders and team members</li>
+<li>
+Exceptional written and oral communication skills. This role requires an ability to understand and articulate both the business benefits (value proposition) and technical advantages of Contrast products and solutions.</li>
+<li>
+Understand and be conversant about Contrast’s competitors, their solutions, strengths, weaknesses, opportunities and threats.</li>
+<li>
+Excellent knowledge of security solutions, technologies, and processes including the following: Java, .NET, SDLC, Linux, Windows, Network architecture/implementation/configuration experience, packet flow, Development, Testing/QA, CI, Production, SAST, DAST, IAST, vulnerability remediation, Tomcat, Apache, WAFs, JIRA, Jenkins, general bug tracking and build systems</li>
+<li>
+Specific application security experience is a big plus</li>
+<li>
+Ability to travel 30%+, or as needed</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Do you meet the above criteria? Great! To further understand the role, please ask yourself the following questions:</b></h3>
+<div><ul>
+<li>
+Are you AppSec-savvy, able to explain insecure code to a customer, and navigate vulnerability details to demonstrate our solution in the best light?</li>
+<li>
+Can you troubleshoot a Windows service and help a customer edit the IIS metabase or registry? Likewise, can you edit a config file, change filesystem permissions and track down a process to find the right service configuration in Linux?</li>
+<li>
+Can you articulate the value proposition of Contrast compared to competitive tools?</li>
+<li>
+Can you take one of our sample apps and modify it to demo specific functionality for a prospect?</li>
+<li>
+Can you discuss Contrast results with a customer with no advance preparation?</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>What We Offer:</b></h3>
+<div><ul>
+<li>
+Competitive Compensation</li>
+<li>
+In-office Lunches</li>
+<li>
+Medical, dental, and vision benefits</li>
+<li>
+401(k)</li>
+<li>
+Flexible paid time off</li>
+</ul></div>
+</div></div>
+<div>
+<div>
+<b>We are changing the world of software security. </b><b><i>Do it with us.</i></b>
+</div>
+<div>
+</div>
+<div>
+We believe in what we do and are passionate about helping our customers secure their business. We work hard, and we have fun doing it.</div>
+<div>
+</div>
+<div>
+Solve the impossible. Easy = boring. <b>If you’re looking for a fun work environment and like a challenge, you’ll love Contrast Security.</b>
+</div>
+</div>
+</div></div>

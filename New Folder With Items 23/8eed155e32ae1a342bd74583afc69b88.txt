@@ -1,0 +1,40 @@
+<h2>Product Implementation Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Help build technology that saves lives!
+<br><br>
+We're a fast growing healthcare tech company that uses data science and machine learning to make our hospitals more efficient.
+<br><br>
+<ul>
+<li>More than 65 hospital systems including some of the nation's largest rely on our products to improve patient access and lower wait times.</li>
+<li>We've raised $70+ million dollars from prominent investors in healthcare.</li>
+<li>Our team includes veteran executives and the brightest minds from Google, McKinsey, Stanford, MIT, Duke, Berkeley, UIUC, and more.</li>
+<li>CBInsights recently named us among the top 100 AI companies in the world.</li>
+</ul>
+No Customer Left Behind!
+<br><ul>
+<li>As an Product Implementation Manager for our iQueue for Infusion Centers product, your primary focus will be driving operational improvement at our customers through our products - you will understand the unique operational needs of each of your customers, evangelize the products, build/run analytics on customer operations and performance, and work with fellow product managers, marketing and sales to ensure that our products are making our customers successful.</li>
+<li>You will communicate technical requirements and ensure that customer IT and process teams clearly understand the data and setup needs for iQueue (as well as the transfer mechanisms) and coordinate required security and other audits.</li>
+<li>You will independently manage customer implementations, take ownership of the account after a sales close and make sure that the product is configured correctly. This is an analytically intense process involving receiving accurate data, and ensuring key users are identified and accounts are all provisioned. You will establish and maintain strong relationships with key customer contacts.</li>
+<li>You will monitor customer operations and operational outcomes (using internal dashboards and customer calls), make sure that the product is working well on customer sites, and proactively solve problems.</li>
+<li>You will help refine vision and strategy, continuously educating inbound product managers on your customers’ stories and pain points and contributing detailed feature ideas to the product roadmap.</li>
+<li>You will educate many functional groups about customer successes and pain points. You will work with marketing on producing case studies, customer videos, etc. and help sales close deals as needed in the capacity of a subject matter expert.</li>
+</ul>
+Qualifications
+<br><ul>
+<li>Must have: At least 1-3 years professional experience in a client- or customer-facing role such as management consulting, enterprise product management, marketing or sales. We do consider candidates with zero experience if we see some extraordinary accomplishment(s).</li>
+<li>Must have: A background in mathematics/statistics, engineering/physics, or data science. Our products are data products, so a quantitative background is critical to the success of our PMs.</li>
+<li>Must have: Excellent communication and organizational skills. How you write your resume and approach us is a good litmus test. A blog, article, or any writing is a huge plus.</li>
+<li>Must have: A maniacal obsession with customer happiness, success, and retention. You’re the type of person who will move mountains to solve problems and make people successful.</li>
+<li>Must have: Experience with data analysis using any tools: Tableau/Excel/Python/SPSS/R.</li>
+<li>Nice to have: Experience working on healthcare products / working with hospitals.</li>
+<li>Nice to have: Experience with data or analytics products.</li>
+<li>Nice to have: Experience working on enterprise software products.</li>
+</ul>
+What You'll Get
+<br><ul>
+<li>Experience leading customer implementations from scratch in a fast-paced startup environment.</li>
+<li>The opportunity to build relationships with some of the leading hospitals and healthcare systems in the country</li>
+<li>The opportunity to build relationships with our team - veteran entrepreneurs, investors, and smart people with great networks.</li>
+<li>All the perks - market salary, equity, bonuses, standard benefits, free lunch, flexible hours &amp; more.</li>
+<li>Last but not least, the satisfaction of making a real impact in an important space with some nice, fun-oriented people.</li>
+</ul>
+</div>

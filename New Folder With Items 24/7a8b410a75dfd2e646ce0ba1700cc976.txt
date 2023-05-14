@@ -1,0 +1,137 @@
+<h2>Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>Job Overview:</b></div>
+<div></div>
+<div>Macys Merchandising systems manage the onboarding and maintenance of Product information, assortments and Pricing for all products that Macys sells. Members of team use cutting edge technologies and data techniques to discover solutions and build knowledge from the ground up, driving results that produce tangible impact and sustainable change. We are looking for Architect who have passion to build new robust software, deploy in cloud and is responsible for providing solutions for wide array of problems in order optimization, pick path optimization, work scheduling and assignment and optimized bin packing algorithms. The role involves building cutting edge solutions using modern technology and frameworks including Spring Boot, and Google Cloud platform technologies such as Google Pub/sub, GCP, GCE, Spark etc.</div>
+<div></div>
+<br>
+<div>The Architect role in Macy’s Technology is a hands-on leader in the design and development of cross-functional, multi-platform application systems. Translate business requirements into well-engineered, tested and deployed application systems that are used by the business and support these systems while in production. Interface with internal customers to determine the most efficient and cost-effective approach to meet business requirements and designs, develops, tests, installs, and deploys the required software applications. Develop solutions utilizing a variety of software technologies, including new code construction, modifications to existing modules, configuration and/or package implementation.</div>
+<div></div>
+<br>
+<div></div>
+<div>The Architect will work with the Merchandising Principal Architect to understand the current landscape of Merchandising Master data and how it is consumed in the enterprise. Help build out an integration roadmap for Stibo (STEP) to become the single point of Product data authorship. Design the inbound integration/outbound points as necessary for the STEP product. Contribute to building out the roadmap of the MDM capabilities and need to help drive the sunsetting of existing Product authoring systems. Perform other duties as assigned.</div>
+<br>
+<div></div>
+<div><b>Essential Functions:</b></div>
+<div>
+<br>
+</div>
+<div></div>
+<div><b>Operations and Support Skills
+</b></div>
+<ul>
+<li>Lead the development of the strategy and technical design for large projects. Works with Project and Product Management, defines timelines and project plans.</li>
+<li>
+Hire, coach, and mentor individuals; build a strong cross-functional organization.</li>
+<li>
+Own all operational metrics and support.</li>
+<li>
+Bring innovative ideas to the table every day, in order to find better ways of accomplishing our customer objectives. Set clear, measurable quality goals for an organization in a data-driven way.</li>
+<li>
+Foster culture of continuous engineering improvement through mentoring, feedback, and metrics.</li>
+<li>
+Analyze and estimate feasibility, cost, time, and compatibility with hardware and other programs and ensure that expected application performance levels are achieved.</li>
+<li>
+Commit to overall deliverables with customers and/or management; support evaluation of new technical directions and approaches and make recommendation to senior Macy’s Technology management.</li>
+<li>
+Lead the coding/configuration, testing, implementation, reviews and documentation of solution, and develop detailed design specifications.</li>
+<li>
+Perform complex applications programming activities, i.e. code, test, debug, document, maintain, and modify complex applications programs.</li>
+<li>
+Establish systems to monitor the operating efficiency of existing application systems and provides (or arranges for) proactive maintenance; lead the resolution of customer inquiries.</li>
+<li>
+Serve as a coach and mentor to more junior developers including delegate and manage tasks as appropriate; act as a technology mentor to team members.</li>
+<li>
+Establish standards &amp; best practices, design guidelines/principles and patterns.</li>
+<li>
+Demonstrate a broad understanding of the applications and technical architectures.</li>
+<li>
+Serve as a technical expert on existing applications and other inter- related/adjacent systems and applications.</li>
+<li>
+Design systems/applications with high level of complexity (e.g. many interfaces, multiple packages, platforms).</li>
+<li>
+Evaluate the applicability of leading edge technologies and uses this information to significantly influence future business strategies.</li>
+<li>
+Bring technical and/or business systems knowledge from external sources and incorporates those ideas into IT work.</li>
+<li>
+Consistently demonstrate regular, dependable attendance and punctuality.</li>
+</ul>
+<div>
+<b>Qualifications</b><b>:</b>
+</div>
+<div>
+<br>
+</div>
+<div></div>
+<div><b>Education/Experience:
+</b></div>
+<ul>
+<li><div>Bachelor's Degree in Computer Science and/or Engineering and 8+ years of related experience, or an equivalent combination of education and experience.</div></li>
+<li><div>
+8 years of software development experience preferred.</div></li>
+<li><div>
+Expert hands-on development experience with Java and related technologies and frameworks (Spring - boot, Spring Data, Rest services).</div></li>
+<li><div>
+Deep experience implementing and/or integrating with MDM systems (JDA, Infor, Stibo, River Sand, etc) preferred.</div></li>
+<li><div>
+Knowledge of Reliability engineering to build applications with the robust observability.</div></li>
+<li><div>
+General interest in technology and ability to learn and ability to learn and adapt new technology and architectures.</div></li>
+<li><div>
+Experience in working on Cloud technologies, preferably cloud native with Google Cloud Platform would be a STRONG plus.</div></li>
+<li><div>
+Retail domain experience is highly desirable.</div></li>
+<li><div>
+Experience supporting multiple application environments with high level of complexity (e.g. many interfaces, multiple packages).</div></li>
+<li><div>
+Experience in providing analysis to customers / business analysts on proposed solutions, working with the customers, business analysts and other colleagues as appropriate to develop a solution that provides a balance between performance, and customer service.</div></li>
+</ul>
+<div><b>Communication Skills:
+</b></div>
+<ul>
+<li><div>Excellent written and verbal communication skills.</div></li>
+<li><div>
+Ability to communicate effectively with Senior Management and key business partners.</div></li>
+</ul>
+<div><b>Mathematical Skills:</b></div>
+<ul><li><div>Basic math functions such as addition, subtraction, multiplication, division, and analytical skills.</div></li></ul>
+<div><b>Reasoning Ability:</b></div>
+<ul>
+<li><div>Ability to perform solid analysis/troubleshooting to determine code and process inefficiencies.
+</div></li>
+<li><div>Ability to consider options and make decisions to improve user functionality.
+</div></li>
+<li><div>Independently identifies, defines, and performs analysis to resolve code issues.</div></li>
+</ul>
+<div><b>Physical Demands:</b></div>
+<ul>
+<li><div>This position involves regular walking, standing, sitting for extended periods of time, hearing, and talking.
+</div></li>
+<li><div>May occasionally involve stooping, kneeling, or crouching.
+</div></li>
+<li><div>May involve close vision, color vision, depth perception, focus adjustment, and viewing computer monitor for extended periods of time.
+</div></li>
+<li><div>Involves manual dexterity for using keyboard, mouse, and other office equipment.
+</div></li>
+<li><div>May involve moving or lifting items under 10 pounds.</div></li>
+</ul>
+<div><b>
+Other Skills:</b></div>
+<ul>
+<li><div>
+Enjoys working collaboratively with teams on Operations technical and functional process improvements
+</div></li>
+<li><div>Highly motivated person with the ability to learn new technologies hands on - Self-taught initiative
+</div></li>
+<li><div>Enjoys learning new things with the ability to quickly adopt and apply</div></li>
+</ul>
+<div><b>Work Hours:</b></div>
+<ul><li><div>Ability to work a flexible schedule based on department and company needs.</div></li></ul>
+<div><b>Company Profile:</b></div>
+<div></div>
+<div>Macy’s Inc. is one of the nation’s premier retailers. With fiscal 2016 sales of $25.778 billion and approximately 140,000 employees, the company operates more than 700 department stores under the nameplates Macy’s and Bloomingdale’s, and approximately 125 specialty stores that include Bloomingdale’s The Outlet, Bluemercury and Macy’s Backstage. Macy’s, Inc. operates stores in 45 states, the District of Columbia, Guam and Puerto Rico, as well as macys.com, bloomingdales.com and bluemercury.com. Bloomingdale’s stores in Dubai and Kuwait are operated by Al Tayer Group LLC under license agreements. Macy’s, Inc. has corporate offices in Cincinnati, Ohio and New York, New York.</div>
+<div></div>
+<br>
+<div><b>
+This job description is not all inclusive. Macy’s Inc. reserves the right to amend this job description at any time. Macy's Inc. is an Equal Opportunity Employer, committed to a diverse and inclusive work environment.</b></div>
+</div></div>

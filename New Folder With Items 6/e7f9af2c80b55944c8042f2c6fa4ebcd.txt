@@ -1,0 +1,306 @@
+<h2>Database Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Description</b></p>
+<div>
+<div>
+<p><b>
+Position Title: Database Administrator</b></p>
+<p><b>
+Department:</b> <b>Management Information Systems
+</b></p>
+</div>
+<br>
+<div>
+<p><b>Reports To: Director of MIS</b></p>
+<p><b>
+Location: Miramar Headquarters</b></p>
+</div>
+<br>
+<div>
+<p><b>
+FLSA Status: Exempt</b></p>
+<p><b>
+Grade Level: N/A</b></p>
+</div>
+<p></p>
+<br>
+<div><div>
+<p><b>
+AMD Summary:</b></p>
+<p></p>
+<br>
+<p>
+AMD is a leading healthcare supply chain solutions company that leverages technology to provide smarter ways for clients to manage medical supplies and equipment utilization. Having provided supply chain solutions to healthcare providers for over 20 years, AMD implements logistics solutions that reduce delivery lead times, optimize supply stock, and lead to better patient outcomes. The company’s success in exemplified by recent awards such as the VA MSPV-NG Contract to service the VA Geographic Regions 1, 2, 4, 5, 6 and 8.</p>
+<p></p>
+<br>
+<p>
+AMD is active in the healthcare industry and its local South Florida community. From giving first-class white glove service, to promoting heart health and education, the AMD team shows its commitment to health. <i>We care. We listen. We learn. We save lives.</i></p>
+</div></div>
+<p></p>
+<br>
+<div><div>
+<p><b>
+Position Summary:</b></p>
+<p></p>
+<br>
+<p>
+Responsible for analyzing, developing and implementing initiatives resulting in the creation and maintenance of a comprehensive business suite of reports and dashboards. From design and development through deployment and support, this position will standardize and draw upon a variety of databases across the enterprise. Responsible for working with all functional areas in the Company to analyze gaps in business processes and to formulate information technology driven solutions. Define business requirements, monitor timelines, and ensure projects are completed in a timely manner. The position requires an intimate knowledge and understanding of the organization's processes, procedures and workflows and will touch every part of the business from web design, intranet development, database administration, network support, ERP support, and integration support among a wide variety of tasks.</p>
+</div></div>
+<p></p>
+<br>
+<div><div>
+<p><b>
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+</b></p>
+<ul>
+<li>Responsible for data quality and integrity within the SQL databases.</li>
+<li>
+Periodically clean and standardize the data contained within SQL databases as required.</li>
+</ul>
+<ul>
+<li>
+Creation and delivery of sales, pipeline, quotas, forecasting, customer utilization, and financial reports with information derived from multiple data repositories, including SQL databases.</li>
+<li>
+Work closely with business representative, customers and IT to ensure all reporting requirements are gathered and agreed upon.</li>
+<li>
+Assist in the development and implementation of a data warehousing and business intelligence strategy.</li>
+<li>
+Assist in increasing effectiveness of business units through metrical reporting and analysis.</li>
+</ul>
+<ul>
+<li>
+Create and maintain documented data quality standards &amp; procedures to assure delivery of accurate information to business groups.</li>
+<li>
+Design, build, test and deploy self-service reporting environment for internal and external customers, incorporating industry best practices and tools.</li>
+<li>
+Develop thorough understanding of the organization’s ERP system database at the table and field level to more fully understand the data storage relationships.</li>
+<li>
+Manage multiple projects simultaneously and ensures all requirements and deliverables are on track to meet project plan deliverables and timeframe.</li>
+<li>
+Ability to work as Liaison with outside vendors working on other IT initiatives.</li>
+<li>
+Participate in discussions regarding requirements and deriving solutions to implement best practices to serve the organization based on our policies, procedures and requirements.</li>
+<li>
+Act as project manager when required for implementation of new software, solutions, system upgrades, etc.</li>
+<li>
+Contribute to an environment that encourages information sharing, team-based productivity, cross-training and an absolute focus on meeting deadlines for delivering project results.</li>
+<li>
+Manage multiple projects simultaneously and ensure all requirements and deliverables are on track to meet project plan deliverables and timeframe.</li>
+<li>
+Work as liaison with outside vendors working on other IT initiatives.</li>
+<li>
+Support, lead and assist with requirements definition, project definition, and project planning.</li>
+<li>
+Assist with analysis, testing, system documentation and user training.</li>
+<li>
+Develop and maintain a detailed understanding of business processes and application, business user needs and priorities.</li>
+<li>
+Document current business procedures and processes and identify relevant technology issues.</li>
+<li>
+Assist in developing training documentation for new, existing and enhanced applications.</li>
+</ul>
+<p></p>
+<br>
+<p>
+Must be proficient in the following Tools in the specified Version</p>
+<p></p>
+<br>
+<ul>
+<li>
+Microsoft Visual Studio 2010, Version 10.0.40219.1 SP1Rel Microsoft .NET Framework Version 4.6.01055 SP1Rel</li>
+<li>
+Microsoft Visual Basic 2010 01011-532-2002361-70280 Microsoft Visual Basic 2010</li>
+<li>
+SQL Server Analysis Services Microsoft SQL Server Analysis Services Designer Version 11.0.5058.0</li>
+<li>
+SQL Server Integration Services Microsoft SQL Server Integration Services Designer Version 11.0.5058.0</li>
+<li>
+SQL Server Reporting Services Microsoft SQL Server Reporting Services Designers Version 11.0.5058.0</li>
+<li>
+SAP Business Objects Crystal Reports 2013 Support Pack 4 Version 14.1.4.1327</li>
+<li>
+Other duties as requested by Supervisor.</li>
+</ul>
+</div></div>
+<p></p>
+<br>
+<div><div>
+<p><b>
+Specific software/hardware requirements for this position:</b></p>
+<p></p>
+<br>
+<p><b>
+SQL Server</b></p>
+<p>
+Server building, including O/S, SQL &amp; applications</p>
+<p>
+SQL Management Studio (all features &amp; functions)</p>
+<p>
+Full Admin responsibilities</p>
+<p>
+Partitioned tables</p>
+<p>
+Full database structures &amp; relationships</p>
+<p>
+Expert SQL &amp; stored procedures</p>
+<p>
+Expert cursors &amp; dynamic SQL</p>
+<p><b>
+Integration Services</b></p>
+<p>
+Full Visual Basic language</p>
+<p>
+Visual Studio (Visual Basic &amp; SSIS designers)</p>
+<p>
+C# expressions</p>
+<p>
+Expert scripts &amp; custom transformations</p>
+<p>
+Knowledge of all tasks &amp; transformations</p>
+<p>
+Transaction control</p>
+<p>
+Error handling, recovery &amp; restart</p>
+<p><b>
+Analysis Services</b></p>
+<p>
+Full Admin responsibilities</p>
+<p>
+Visual Studio (Analysis Services projects)</p>
+<p>
+Complex data source view creation</p>
+<p>
+Full Dimensions, including hierarchies and relationships</p>
+<p>
+Multiple large interrelated Fact tables</p>
+<p>
+Stored MDX scripts</p>
+<p>
+Full MDX, including structures &amp; rollups</p>
+<p><b>
+ Reporting Services</b></p>
+<p>
+SQL queries, sub-queries, views &amp; procedures</p>
+<p>
+MDX queries, including levels and recursive hierarchies</p>
+<p>
+Visual Studio (Reporting Services projects)</p>
+<p>
+Full report layout, including grouping, subtotaling and recursive hierarchies</p>
+<p>
+Report Manager, including security, scheduling &amp; referencing</p>
+<p>
+Report deployment, debugging, modification &amp; control</p>
+<p></p>
+<br>
+<p>
+Other duties as assigned by supervisor.</p>
+<p><b>
+Education and experience requirements:</b></p>
+<p>
+Minimum 5 years of experience as a Database Administrator</p>
+<p>
+Microsoft certification in SQL is a plus</p>
+<p>
+Associate’s Degree in related field desired</p>
+<p>
+Proficiency in the following versions required:</p>
+<ul>
+<li>
+SQL Server Analysis Services Microsoft SQL Server Analysis Services Designer Version 11.0.5058.0</li>
+<li>
+SQL Server Integration Services Microsoft SQL Server Integration Services Designer Version 11.0.5058.0</li>
+<li>
+SQL Server Reporting Services Microsoft SQL Server Reporting Services Designers Version 11.0.5058.0</li>
+<li>
+SAP Business Objects Crystal Reports 2013 Support Pack 4 Version 14.1.4.1327</li>
+</ul>
+</div></div>
+<p></p>
+<br>
+<div><div>
+<p><b>
+Educational and Professional Licensing or Certification Requirements:</b></p>
+<ul>
+<li>
+Bachelor’s Degree in related field preferred</li>
+<li>
+Veteran’s Administration or healthcare experience preferred</li>
+</ul>
+</div></div>
+<p></p>
+<br>
+<div>
+<div>
+<p><b>
+Physical Requirements:</b></p>
+<ul>
+<li>
+Seeing</li>
+<li>
+Clear Speech</li>
+<li>
+Reaching</li>
+<li>
+Standing</li>
+<li>
+Sitting</li>
+<li>
+Dexterity</li>
+<li>
+Walking</li>
+<li>
+Hearing/Listening</li>
+</ul>
+</div>
+<p></p>
+<br>
+<div>
+<p><b>
+Mental/Reasoning Requirements:</b></p>
+<ul>
+<li>
+Reading-Simple</li>
+<li>
+Writing-Simple</li>
+<li>
+Reading-Complex</li>
+<li>
+Writing-Complex</li>
+<li>
+Basic Math Skills</li>
+<li>
+Judgement/Decision Making</li>
+<li>
+Advanced Math Skills</li>
+<li>
+Personable</li>
+<li>
+Detail-oriented</li>
+<li>
+Organized</li>
+<li>
+Exceptional Problem Solving Skills</li>
+</ul>
+</div>
+<div>
+<p><b>
+Work Environment:</b></p>
+<ul>
+<li>
+Verbal Contact w/Others</li>
+<li>
+Noise</li>
+<li>
+Works with Others</li>
+<li>
+Indoor Work</li>
+</ul>
+</div>
+</div>
+</div>
+<p></p>
+<br>
+<p><b>
+Disclaimer</b>: The above statements are intended to describe the general nature and level of work being performed by employees assigned to this classification. They are not intended to be construed as an exhaustive lit of all responsibilities, duties and/or skills required of all personnel so classified.</p>
+</div></div>

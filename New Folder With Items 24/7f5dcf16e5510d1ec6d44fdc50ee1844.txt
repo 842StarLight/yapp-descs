@@ -1,0 +1,28 @@
+<h2>Senior Hardware Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div>
+<h3 class="jobSectionHeader"><b>Fantastic opportunity with great benefits and very very competitive salary !!</b></h3>
+<h1 class="jobSectionHeader"><b>Position/Title Sr. Hardware Engineer</b></h1>
+<h2 class="jobSectionHeader"><b>ABOUT DYNAMICS</b></h2>
+<p>Dynamics Inc. is a mature high-tech start-up that designs, manufactures and markets intelligent powered payment devices. We focus on introducing fast-cycle innovation to top bank card issuers and our signature innovation is the world's first fully programmable magnetic stripe used in our next-generation payment cards that utilize all three industry transaction methods: swipe, pin &amp; chip and tap. Recently, we have integrated powered card technology into fully interactive, client facing websites and back-end processing systems.</p>
+<p>Dynamics believes a great company culture comes from hiring the most talented, team-oriented people that work well together in a fast paced environment. Join the start-up team at Dynamics as a key player in creating the future of payments and card technology.</p>
+<h2 class="jobSectionHeader"><b>POSITION SUMMARY</b></h2>
+<p>Dynamics is currently seeking an enthusiastic and engaged Senior Hardware Engineer that will be directly engaged and responsible for contributing to the development of future payments and card technology from design through production phases. As a key member of our engineering team at Dynamics, you will provide critical support in the drive for improved quality and cost reductions. You will also be part of a team that creates the next generation of powered cards. You will work closely with every functional area of the company including research and development, production, marketing and sales, quality assurance, and information technology.</p>
+<h2 class="jobSectionHeader"><b>Responsibilities include but are not limited to:</b></h2>
+<ul>
+<li>Performing schematic capture, PCB design, prototyping bring-up and debugging, test plan creation and functional verification.</li>
+<li>Designing and troubleshooting microcontrollers and embedded mixed-signal systems at the component level.</li>
+<li>Working proficiently with oscilloscopes, power supplies, frequency generators, soldering irons and other off-the-shelf equipment.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Qualifications:</b></h2>
+<ul>
+<li>Bachelor’s degree in Electrical Engineering (Master’s degree in Electrical Engineering is a plus).</li>
+<li>Demonstrated work experience with complex mixed signal circuits at the component level and embedded systems basic programing capability.</li>
+<li>Digital and analog design experience along with component selection and prototyping experience.</li>
+<li>Ability to clearly explain complex technical issues and justify technical decisions.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Equality Matters:</b></h2>
+<p>We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, protected veteran status or any other characteristic protected by law.</p>
+</div></div>
+<p></p>
+</div>

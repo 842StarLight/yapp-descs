@@ -1,0 +1,49 @@
+<h2>Sr. Full Stack Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Our Company</b></p>
+<p>Lavu is at the forefront of transforming the way that restaurants are managed through its mobile Point of Sale (mPOS). Lavu provides mobile and cloud-based POS solutions for fine-dining and quick serve restaurants, franchises, bars, coffee shops, pizzerias and food trucks within 90 countries. Our mission is to partner with restaurant owners with the knowledge, solutions, and expertise that accelerate their growth and success, while tailoring innovative solutions that advance the restaurant industry.</p>
+<p><b>Position Description</b></p>
+<p>As a Senior Full-Stack Developer, you will be a significant contributor to our development team, helping innovate functionality within Lavu?s iPad-based restaurant point-of-sale platform. You will also help us evolve our back-end code into a language-agnostic REST/JSON-based micro-services model, develop our next generation of internal &amp; external APIs, and expand our in-app functionality with new payment processing integrations and features to help our customers manage and run their restaurants with ease.</p>
+</div>
+<br>
+<div>
+<p><b>Requirements:</b></p>
+<ul>
+<li>Bachelor’s Degree or equivalent experience in related field.</li>
+<li>5+ years of overall test-driven development experience and industry standards.</li>
+<li>Extremely proficient with Mongo, Express, React.js, Node.js, OOP &amp; MVC principles, architectural design patterns.</li>
+<li>Deep understanding of HTML5, CSS3, JavaScript, Memcache, and Micro-Services.</li>
+<li>Proven experience with data validation, form submission &amp; processing, and performance tuning.</li>
+<li>Experience developing RESTful APIs, JSON, and multi-threaded web services.</li>
+<li>Strong experience with Mongo; building complex queries and schema designs.</li>
+<li>Strong knowledge of Linux and web server technologies.</li>
+</ul>
+<p>
+</p>
+<p><b>Additional Skills and Experience:</b></p>
+<ul>
+<li>Experience working in an Agile/Scrum environment, along with JIRA, Bitbucket, Slack, and Git.</li>
+<li>Strong written and technical communication skills.</li>
+<li>Familiar with Payment Gateways, credit card processing systems like Auth.net are a plus.</li>
+<li>Familiarity with React-Native.</li>
+<li>Restaurant experience is a plus.</li>
+</ul>
+<p>
+</p>
+<p><b>What's in it for you?
+</b></p>
+<ul>
+<li>Great opportunity for growth in a future-looking organization</li>
+<li>Competitive salary in a fast-growing company</li>
+<li>Health / dental / vision insurance</li>
+<li>401(k)</li>
+<li>Monthly Zestful allowance</li>
+<li>Stock options</li>
+<li>Paid time off</li>
+</ul>
+<p>
+</p>
+<p><b>Additional Information</b>: If you’ve got vision, drive, and a roll-up your sleeves attitude, you’ll fit right in. We’re self-starters who are passionate and enthusiastic about we do. Our culture is high output and low drama—doing great work, constantly improving and celebrating our success. Ask around, you’ll find that many people want to be part of a team like ours. The Lavu team is inventing new technology solutions that are both elegant and scalable, and if that fires you up, get in touch with us.</p>
+</div>
+</div>

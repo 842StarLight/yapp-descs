@@ -1,0 +1,81 @@
+<h2>Telephony Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div><b>Who We Are:</b></div>
+<div>
+Spring Venture Group is a leading digital direct-to-consumer sales and marketing company with product offerings focused on the senior market. We specialize in distributing Medicare Supplement, Medicare Advantage, and related products via our family of brands and dedicated team of licensed insurance agents. Powered by our unique technologies that combine sophisticated marketing, comparison shopping, sales execution, and customer engagement – we help thousands of seniors across the country navigate the complex world of Medicare every day.</div>
+<div></div>
+<br>
+<div><b>
+What We Want:</b></div>
+<div>
+The Telephony Administrator is a systems administrator solely focused on the construction, maintenance, and quality assurance of our dialer platform. This role will work with business stakeholders to solve problems, implement or improve processes and own problems that are large in scope or have a considerable impact to the business. We are looking for someone with a passion for growth — for themselves, their department, and their company. If you are acutely attentive to detail and have a fierce desire to make a direct impact at an exciting, fast-moving tech company — we want to hear from you.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Act as the primary systems administrator for all of our Telephony (dialer) systems. Currently this list includes Five9, Jabber, and a pilot project Amazon Connect</li>
+<li>
+Help maintain and build out business logic for our inbound and outbound call flows</li>
+<li>
+Act as the primary point of truth for our suite of regression tests associated with our dialer(s)</li>
+<li>
+Track, route and redirect issues to the correct resources</li>
+<li>
+Participate in the IT Change Management process, where required</li>
+<li>
+Provide IP Telephony and VoIP Subject Matter Expertise for Company and Company's managed service providers with minimal supervision</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<ul>
+<li>Two (2) years of education from an accredited college or university in a field related to the job plus two (2) years of related experience.</li>
+<li>
+Experience may substitute for education up to two (2) years.</li>
+<li>
+Outstanding troubleshooting, attention to detail, and communication skills (both verbal and written) in a fast paced setting.</li>
+<li>
+Aptitude, enthusiasm and a desire to learn are critical components for success at Spring Venture Group</li>
+<li>
+Experience owning and advocating for customer issues or needs, and prioritizing multiple tasks.</li>
+<li>
+Experience building complex software systems that have been successfully delivered to customers</li>
+<li>
+Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control</li>
+<li>
+Experience with cloud computing; familiarity with administering cloud services.</li>
+<li>
+Working knowledge of Unix/Linux environments</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Benefits
+</b></h2>
+<div><div><div>
+<ul>
+<li>Medical, Dental and Vision insurance, including free Telemedicine (Employees are eligible for benefits after 28 days of employment at the beginning of the month)</li>
+<li>
+401K retirement savings plan</li>
+<li>
+Employer paid short term and long term disability</li>
+<li>
+Employer paid Life insurance coverage</li>
+<li>
+Voluntary Life and ADD insurance coverage</li>
+<li>
+15 PTO days</li>
+<li>
+10 company paid Holidays per year</li>
+<li>
+Volunteer Time Off (VTO) up to 8 hours per year</li>
+<li>
+Paid Parental Leave up to 5 days per year</li>
+</ul>
+<div>
+Spring Venture Group is an Equal Opportunity Employer.</div>
+</div></div></div>
+</div></div>

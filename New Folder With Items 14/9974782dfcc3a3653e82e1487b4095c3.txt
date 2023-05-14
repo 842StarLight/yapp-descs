@@ -1,0 +1,21 @@
+<h2>Senior Linux Systems Engineer IV</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>PRIMARY RESPONSIBILITY: </b>Responsible for the design and support of OpenStack Private Cloud platforms.</p>
+<ul><li>
+<b>
+KNOWLEDGE/SKILLS/ABILITY: </b>A passion for virtualization technology and open cloud standards. Ability to create and maintain customer loyalty by serving customers above and beyond their expectations. Strong attention to detail. Motivated self-starter, who demonstrates good focus on completion. Able to multi-task and remain effective under pressure. Proven strong verbal and written communication skills, with colleagues and customers. Intermediate to expert knowledge of TCP/IP, VLAN, Bridging, routing, firewalls, DNS and load balancers. Intermediate to Expert working knowledge of hypervisor configuration (KVM, XenServer, etc), Mitaka/Neuton, Nova, Cinder, Glance, Keystone, Swift, Ironic, Storage protocols (NFS, iSCSI, FC), and virtual networking and storage configuration, MySQL, Python, and IP Tables.</li></ul>
+<ul><li>
+<b>
+JOB COMPLEXITY:</b> Is an ambassador for RPC through their attendance in OpenStack conventions, conferences, meetups, etc. Acts as an advocate for the customer within the RPC organization. Effective communicator at all levels from technical through to non-technical directors. Displays a basic level of business acumen with an eagerness to fully understand a customer’s strategic and non-technical needs. Deploys, maintains, and upgrades the customer’s OpenStack infrastructure ensuring a smooth operational experience for their assigned base. Responds to support requests and co-ordinates Rackspace/Customer support teams where appropriate within both tickets and phones. Serves as an on-call emergency escalation support resource 24/7. Ensure appropriate technical documentation is in place for customer solutions (to include Runbooks, Network diagrams, and Environment diagrams). Identifies opportunities for growth and passes leads to an Account Development Manager or RPC Sales Overlay. Assist Product team with implementation of new features in Rackspace Private Cloud. Work closely with sales teams during large scale implementations or non-standard deployments. Pro-actively seek opportunities to review solution architecture then puts forward and implements proposals for improvement. Supports the Account Development Manager in customer projects.</li></ul>
+<ul><li>
+<b>
+SUPERVISION:</b> Works independently with occasional checks for attainment of goals and objectives.</li></ul>
+<ul><li>
+<b>
+EXPERIENCE/EDUCATION: </b>Bachelor’s degree in Computer Science, Technology, or a related field and RHCE certified level Linux skills with at least 8 years of Sys Admin experience in a production Linux environment and 1-2 years of OpenStack experience required. RHCA Preferred. High school diploma or GED required.</li></ul>
+<ul><li>
+<b>
+PHYSICAL DEMANDS:</b> General office environment. May require long periods sitting and viewing a computer monitor. Moderate levels of stress may occur at times. No special physical demands required.</li></ul>
+<p>
+ #LI-MS1</p>
+</div></div>

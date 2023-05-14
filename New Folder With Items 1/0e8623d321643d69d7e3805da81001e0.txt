@@ -1,0 +1,32 @@
+<h2>Software Developer - C#/.NET</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Position: Software Developer – C#/.NET </b></p>
+<p>We are seeking a .NET Developer who has a solid hands-on technical experience in .NET development using C#. The .NET Developer is responsible for performing a wide variety of programming assignments of newly developed software solutions, enhancements to existing applications, maintenance of .NET applications, emergency bug fixes, and other revisions to the products. The .NET Developer is also expected to perform requirements analysis, create functional and architectural designs, database designs, to build schedules and identify project/task scopes, develop prototypes, and collaborate with the team in architectural discussions and decisions. This position requires collaborating with members outside the IT such as Operations, Sales and Marketing to help troubleshoot and provide support as needed.</p>
+<p><b>Responsibilities: </b></p>
+<ul>
+<li>Perform application development using C#, ASP.NET, MVC, WF, HTML5, JavaScript, jQuery, LINQ etc.</li>
+<li>Assist in design and architecture on development projects.</li>
+<li>Provide estimates and status reports on assigned tasks.</li>
+<li>Provide support to Deploy, configure and maintain current development projects.</li>
+<li>Partner and Collaborate with Operations, Sales and Marketing Team. <b>Qualifications: </b>
+</li>
+</ul>
+<ul>
+<li>5+ years of experience designing and developing applications utilizing C# and the .NET framework.</li>
+<li>Hands on experience in Entity Framework 6.0, Workflow Foundation (WF), ASP.NET MVC 5, Bootstrap Frontend, LINQ, Just Mock, Telerik Kendo UI tools and jQuery/JavaScript, REST/JSON, HTML5.</li>
+<li>Experience with Relational DBMS including MS SQL Server.</li>
+<li>Experience in Agile development methodology using Team Foundation Server.</li>
+<li>Sound business judgment, critical thinking, presentation, and superior communications skills.</li>
+<li>Strong technical, analytical, and documentation skills and proven experience in application development.<b>Job location: </b>
+</li>
+</ul>
+<p>Norwalk, CT</p>
+<p>Job Type: Full-time</p>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Paid time off</li>
+</ul>
+</div>

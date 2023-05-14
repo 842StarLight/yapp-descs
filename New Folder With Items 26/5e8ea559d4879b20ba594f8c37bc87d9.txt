@@ -1,0 +1,80 @@
+<h2>Software Engineer - Partner Solutions and Technologies</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div>
+<div>
+<p>Summary</p>
+<div>
+<div>
+Posted: <b>Sep 16, 2019</b>
+</div>
+<div>
+Weekly Hours: <b>40</b>
+</div>
+<div>Role Number: <b>200099060</b>
+</div>
+</div>
+</div>
+<div>
+Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+Come join Apple's Partner Solutions and Technology team as a Senior Software Engineer. Our group's focus is on design and development of web based solutions for Apple Sales Business. The position will provide architecture, design, development and project management leadership across multiple projects.</div>
+</div></div>
+<div>
+<div><div>
+<div><div><div>
+Key Qualifications</div></div></div>
+<div><div><ul>
+<li>
+Strong knowledge of Java/J2EE, JDBC, SQL, Oracle, No-SQL</li>
+<li>
+Strong experience in developing and consuming REST services</li>
+<li>
+Proficient in test driven development and familiar with popular test frameworks</li>
+<li>
+Proficient in Spring and related technologies</li>
+<li>
+Experience developing large scale and high volume multi-tiered applications</li>
+<li>
+Experience with Unix/Linux</li>
+<li>
+Strong object-oriented programming and design experience</li>
+<li>
+Experience in handling architectural and design considerations such as performance, scalability, reusability and flexibility issues.</li>
+<li>
+Extensive knowledge of Software Development Life Cycle</li>
+<li>
+Ability to review the technical design and perform code reviews.</li>
+</ul></div></div>
+</div></div>
+<div><div>
+<div><div><div>
+Description</div></div></div>
+<div><div>
+You will be responsible for developing large scale platforms that will support future Sales engineering applications. You will help build our next generation server side software stack that will deliver scalable, highly reliable solutions. You will interact with other internal and external groups to bring to life a full end to end solution that delivers the simple, secure and elegant experience to Apple customers.
+Responsibilities:
+- Architect, design and implement enterprise level back end solutions
+- Architect solutions that can scale to enterprise level requirements
+- Familiar with caching and no-sql solutions
+- Interface with application owners, developers and project managers
+- Be responsible for promised deliveries in time
+- Collaboration with Project Management team and cross functional teams
+- Intimate knowledge of open-source technologies and frameworks</div></div>
+</div></div>
+<div><div>
+<div><div><div>
+Education &amp; Experience</div></div></div>
+<div><div>
+BS degree in computer science or equivalent field plus 5 years software development experience or MS degree plus 2-3 years software development experience, or equivalent</div></div>
+</div></div>
+<div><div>
+<div><div><div>
+Additional Requirements</div></div></div>
+<div><div><div><ul>
+<li>Familiarity with Hadoop and Vertica is plus.</li>
+<li>Familiarity with Javascript and front end technologies.</li>
+<li>Strong analytic skills, excellent written and verbal communications skills.</li>
+<li>Experience working in a team environment, and demonstrated potential to lead a technical team.</li>
+<li>Team lead experience is a plus</li>
+</ul></div></div></div>
+</div></div>
+</div>
+</div></div>

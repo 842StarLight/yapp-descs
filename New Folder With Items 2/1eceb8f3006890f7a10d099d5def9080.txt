@@ -1,0 +1,90 @@
+<h2>Sr Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<p>Watchfire Signs is an exciting, dynamic growing company, headquartered in Danville IL. We are more than 80 years strong and have been growing steadily. We expanded in 2013 to bring our manufacturing facility to 150k sq. ft and our office facility to 50k sq. ft. We are a market leader in the fast-growing digital billboard and LED sign markets.</p>
+<p></p>
+<br>
+<p>
+Vertically integrated, we do everything from engineering and sales through circuit board assembly; from accounting and technical support through final product integration and calibration. This allows us to sustain our position as the quality leader and the premium provider in our industry.</p>
+<p></p>
+<br>
+<div>
+Watchfire offers comprehensive benefits including 401K with matching, affordable health/dental insurance, paid time off in year of hire, continuing education assistance and career advancement opportunities. We have been an employer of choice for decades and are growing strong! We offer opportunities for career growth and development as well as the opportunity to work in an entrepreneurial environment where decisions can be made quickly. Only candidates seeking to make a difference in a growing, collaborative and fast-paced environment should apply.</div>
+<div></div>
+<br>
+<div>
+Position could work from either Danville or Champaign office.</div>
+<div></div>
+<br>
+<ul><li><i>Watchfire is an Equal Opportunity Employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs.</i></li></ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<div>This senior level Software Engineer position will be part of the software engineering team, helping build the next generation of our flagship software product for the digital signage industry. A person at this level will research, design and develop software products within a specific technical project. S/he can provide solutions for designs and development plans of high complexity which typically requires a broad background of technical and process knowledge. This position provides expert guidance, drives decision making and supports the Software Engineering group in various technical and functional aspects of research and development of new products. A successful candidate will be a strong team player who is able to work across multiple functions and disciplines. The candidate should be self-directed and have experience and knowledge of software design, coding, and testing methodologies. Though the focus for this position will be on designing and developing embedded systems running on micro-controllers, there will be opportunities to work on user facing web and mobile applications. Our product software is a critical differentiator in our market, and we take great pride in our in-house products developed entirely by this team, from embedded systems to exceptional user facing GUI applications.</div>
+<div></div>
+<br>
+<div>
+<b>
+Responsibilities</b>:</div>
+<ul>
+<li>
+Architect, design, create and maintain embedded applications for our content playback sub-system.</li>
+<li>
+Research hardware trends and work with Electrical Engineering to arrive at the next generation of micro-controllers that are cost effective and performant.</li>
+<li>
+Help create and review system and software requirements.</li>
+<li>
+Help foster good software engineering practices and mentor junior engineers.</li>
+<li>
+Prepare test cases to perform verification and validation of software.</li>
+<li>
+Assist in data gathering and troubleshooting of products under design or returned/reported from the field.</li>
+<li>
+Involvement in all aspects of the software engineering process.</li>
+<li>
+Follow relevant company procedures and help create and maintain relevant documentation.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Required Education/Qualifications
+</b></h2>
+<div><div><div>
+<div><b>Required Education/Qualification:</b></div>
+<ul>
+<li>
+BS/MS in Computer Science, Computer Engineering, Electrical Engineering or a related discipline.</li>
+<li>
+Minimum 5 years of software engineering experience building embedded systems software.</li>
+<li>
+Experience working on embedded systems with c++ as the primary programming platform. Experience with embedded operating systems – Windows and/or Linux will be ideal.</li>
+<li>
+Proficiency in communication protocols (Ethernet and Serial specifically). Understanding of the OSI model is a plus.</li>
+<li>
+Experience with version control software (preferably Git), Continuous Integration Build systems (preferably Jenkins), project management tools (like Jira) and automated testing tools.</li>
+<li>
+Broad experience in Object Oriented Design/Analysis (OOD/OOA). Understanding of design languages such as UML will be a plus.</li>
+<li>
+Good written and verbal communication skills.</li>
+<li>
+Excellent analytical and problem-solving skills.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Other ideal skills include:</b></div>
+<ul>
+<li>
+Knowledge of hardware architecture – micro controllers, SOCs etc.</li>
+<li>
+FPGA programming.</li>
+<li>
+Experience programming in Python (used as a hardware testing tool or hardware simulator/emulator).</li>
+<li>
+Experience with image processing and rendering algorithms.</li>
+<li>
+Familiarity with Agile product development methodology (Scrum in particular) is a plus.</li>
+</ul>
+</div></div></div>
+</div></div>

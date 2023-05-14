@@ -1,0 +1,77 @@
+<h2>Sr. SQL Database Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>SCOPE</b></p>
+<p>
+Working as part of a team of Database Administrators within the Business Intelligence group, this position will be key in supporting the database environment for multiple high volume sales and back office applications. The Sr. Database Administrator will be responsible for collecting, understanding, modeling, documenting and communicating the data requirements necessary to build and integrate data models for business processes, including performing data rationalization, defining data element standards and collaborating with functional SMEs, information stewards, data analysts, business analysts and product owners.</p>
+<p>
+To succeed in this role the incumbent will need to marshal resources to identify and resolve database related issues in a timely manner and recommend monitoring and process changes to prevent reoccurrence.</p>
+<p>
+This role will collaborate with developers and analysts on database design and best practices in the development of new functionality and maintaining and improving existing systems. Experience clustered SQL Server 2012/14/16 environments is essential; as is experience with data modeling for reporting and analytics.</p>
+<br>
+<p></p>
+<p><b>
+ACCOUNTABILITIES</b></p>
+<p>
+Designing, developing and delivering Reporting Services &amp; Analysis Services, Schema modeling, stored procedures, SSIS packages, triggers and views.</p>
+<p>
+Building and implementing enterprise data models, application relational data models, and data warehouse dimensional data models.</p>
+<p>
+Installing and configuring SQL Server, implementing high availability and clustering, applying patches and fixes and monitoring, troubleshooting and optimizing performance with limited direction.</p>
+<p>
+Creating backup plans, developing and testing disaster recovery scenarios, managing security, server sizing, and performance tuning.</p>
+<p>
+Proactively communicate with business users, stakeholders, technical peers and project teams.</p>
+<p>
+Maintaining contemporary knowledge of industry trends, concepts, and techniques.</p>
+<br>
+<p></p>
+<p><b>
+QUALIFICATIONS</b></p>
+<br>
+<p></p>
+<p><b>
+EDUCATION &amp; EXPERIENCE</b></p>
+<p>
+Bachelor’s degree in Computer Science, Business Analysis or related field.</p>
+<p>
+Minimum 6 years of commercial experience with enterprise class SQL Server databases in a rapidly evolving, high-volume environment.</p>
+<p>
+An approved equivalent combination of education and experience may be considered.</p>
+<br>
+<p></p>
+<p><b>
+SKILLS &amp; CERTIFICATIONS</b></p>
+<br>
+<p></p>
+<ul><li>Strong SQL development and tuning skills</li></ul>
+<ul><li>Dimensional and Enterprise Data Modeling (Conceptual, Logical)</li></ul>
+<ul><li>High volume commercial experience with cluster services, mirroring, and log shipping.</li></ul>
+<ul><li>Solid understanding of contemporary database administration methodology.</li></ul>
+<ul><li>Commercial Experience with Microsoft SQL 2012, 2014 and 2016</li></ul>
+<ul><li>TSQL Programming; writing, debugging all mandatory (Index support, Query Plan analysis)</li></ul>
+<ul><li>Production Cluster Support (AG and Traditional failover technology) with Geolocation</li></ul>
+<ul><li>Support Operations and Development</li></ul>
+<ul><li>SSIS for ETL and C# / VB Script experience</li></ul>
+<ul><li>Excellent ability to communicate technical information, both written and verbal, to non-technical audiences.</li></ul>
+<ul><li>Ability to work on multiple projects simultaneously and prioritize appropriately</li></ul>
+<br>
+<p></p>
+<p>
+The following skills/certifications are preferred but not required:</p>
+<ul><li>Microsoft Certified (MCDBA)</li></ul>
+<ul><li>SQL Monitoring tools (SQL Monitor by RedGate and /or SQL Spotlight by Dell)</li></ul>
+<ul><li>SSRS Report development</li></ul>
+<ul><li>TFS Database deployments and Management</li></ul>
+<ul><li>General Windows and/or Linux experience</li></ul>
+<ul><li>Basic network and server configuration skills.</li></ul>
+<ul><li>Powershell</li></ul>
+<ul><li>Visual Studio .Net (C#) Development</li></ul>
+<ul><li>MySQL Management</li></ul>
+<p><i>
+#LI-JH1</i></p>
+<p><i>
+This is a summary of the primary accountabilities and requirements for this position. The company reserves the right to modify or amend accountabilities and requirements at any time at its sole discretion based on business needs. Any part of this job description is subject to possible modification to reasonably accommodate individuals with disabilities.</i></p>
+</div>
+<div></div>
+</div>

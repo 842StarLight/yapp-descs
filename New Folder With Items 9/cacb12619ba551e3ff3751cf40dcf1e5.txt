@@ -1,0 +1,36 @@
+<h2>Software Application Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>If you meet the criteria and wish to be considered, please email your resume or fax it to +1 248.357.4933.</p>
+<br><div><div><div><div><div>
+<p>DataNet is seeking a hands-on Application Engineer to join our Customer Services team. The position mission is to ensure the success of our customers by providing support, installation, configuration and training assistance for DataNet software applications, and to guide the integration of DataNet software into our customers’ Quality programs. The individual filling this position must have excellent communication skills, a technical background, and an ability to work with a wide variety of individuals. The person must be equally able to work independently or with a team.</p>
+<p>
+A significant amount of domestic travel is possible in this position. Travel schedules vary, but as much as 50% of work time may be spent at customer locations.</p>
+<p><b>
+Responsibilities include:</b></p>
+<ul>
+<li>Conducting on-site installation and system configuration of DataNet applications at customer facilities</li>
+<li>Leading application training sessions to administrators and shop floor personnel at customer facilities</li>
+<li>Interfacing software applications with manufacturing production devices such as CMMs, CNCs and PLCs, as well as with enterprise software such as ERP, MES and HMI systems</li>
+<li>Interpreting customer requirements, defining and designing proposed solutions, drafting functional specifications, coding custom applications and reports and delivering end products to customers in timely fashion</li>
+<li>Providing front-line support for incoming calls and emails and promptly responding to customers regarding application, deployment and integration questions</li>
+<li>Investigating customer incidents and working cross-departmentally to resolve software and/or hardware issues</li>
+<li>Documenting details of integration and other services provided to customers</li>
+<li>Providing sales engineering support as needed</li>
+</ul>
+<p><b>Minimum Requirements</b></p>
+<ul>
+<li>Computer Science Degree and/or at least 2 years of professional programming experience</li>
+<li>Proven skills with programming language (Visual Basic.net or C# preferred), relational database applications (Microsoft SQL Server or Oracle preferred), Windows OS platforms and Windows networks</li>
+<li>Excellent verbal and written communication skills</li>
+</ul>
+<p><b>Preferred Candidate</b></p>
+<ul>
+<li>Familiarity with shop floor manufacturing operations, Quality or SPC</li>
+<li>Experience conducting technical training classes</li>
+<li>Knowledge of HTML, JavaScript and web design</li>
+<li>Experience implementing enterprise software</li>
+<li>Experience working directly with customers</li>
+</ul>
+</div></div></div></div></div>
+<p></p>
+</div>

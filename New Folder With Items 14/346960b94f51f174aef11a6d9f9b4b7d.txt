@@ -1,0 +1,128 @@
+<h2>Lead Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h1 class="jobSectionHeader"><b>Who we are<br>
+</b></h1>
+<p></p>
+<p><b>Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal’s 286 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom, enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+</b></p>
+<p></p>
+<p><b>When applying for a job you are required to create an account, if you have already created account - click Sign In.
+</b></p>
+<p><b>Creating an account will allow you to follow the progress of your applications.
+</b></p>
+<p></p>
+<p><b>Note:
+</b></p>
+<p><b>Provide full legal first Name/Family Name
+</b></p>
+<ul>
+<li>DO: Capitalize first letter of First and Last Name. Example: John Smith
+</li>
+<li>DON'T: Capitalize entire First and/or Last Name. Example: JOHN SMITH
+</li>
+<li>NOTE: Use correct grammar for Names with multiple cases. Example: McDonald or O'Connell
+<br>
+</li>
+</ul>
+<p><b>Provide full address details
+</b></p>
+<p><b>Resume is required
+</b></p>
+<p><b>Multiple attachments can be uploaded including Resume and Cover Letter for each application<br>
+</b><br>
+</p>
+<p></p>
+<p>Job Description Summary:
+</p>Sr. Salesforce Developer Lead
+<br>
+<br>
+The global sales operations team supports the functions essential to the global sales force. These include planning, sales training and on-boarding, process optimization, compensation design and administration, sales technology management and administration, sales and partner reporting, rev share and account management.
+<br>
+The Sr Salesforce Developer Lead will lead large-scale, highly complex technical initiatives and/or projects requiring integration of cross-functional systems. Provides technical guidance in evaluating applications systems or evaluating requests for proposals. This person will be managing a team of developers and working directly with key stakeholders globally including; business leads, solution/technical architect, business analyst and quality leads to help analyze and design solutions for business requirements. Sr Salesforce Developer Lead will not only be responsible to take on the development work but also work with offshore development teams to meet the deadlines and deliver quality work.
+<p></p>
+<p>Job Description:
+</p>
+<div>Responsibilities:
+<br>
+<ul>
+<li>Participate in all phases of software development life cycle including working with architects in understanding the design of requirements, prototyping, coding, testing, deployment and support
+</li>
+<li>Develop high quality and scalable application logic with Apex and SOQL
+</li>
+<li>Develop highly interactive UI using Lightning Components and JQuery technologies
+</li>
+<li>Develop Salesforce Marketing Cloud applications using JourneyBuilder, Salesforce Sync etc.
+</li>
+<li>Develop custom applications using Force.com and integrate salesforce.com with other systems
+</li>
+<li>Apply best practices and design patterns of best of breed applications developed on the Force.com platform
+</li>
+<li>Design and generate Salesforce dashboards, reports and statistics that support better decision making and process improvement within the organization, including sales forecasting, win/loss analysis, and market trend analysis, etc.
+</li>
+<li>Perform administrator functions such as user management, profiles, roles, permissions, rules, assignment rules, queues, licenses, capacity and storage management
+</li>
+<li>Assist with database de-duping and clean up procedures, including data migrations and/or mass data uploads
+</li>
+<li>Coordinate and manage developers in the team, architects, business analysts, and project managers on evaluation, scope and new development requests
+</li>
+<li>Work closely with project leads and administrators on system upgrades and regular internal system audits
+</li>
+<li>Develop process frameworks, deployments and automation in salesforce and related salesforce tools, such as Apttus and Seismic,
+</li>
+</ul>
+<br>
+Required Skills / Experience:
+<br>
+<ul>
+<li>Bachelors degree or equivalent work experience
+</li>
+<li>5+ years of overall software development experience
+</li>
+<li>4+ years as a Salesforce Developer (Developing applications on Salesforce platforms e.g., Force.com)
+</li>
+<li>4+ years programming with Apex, including classes, triggers, extensions, asynchronous processing, and unit testing
+</li>
+<li>4+ years developing Visualforce pages, including controllers, JavaScript remoting, HTML, CSS
+</li>
+<li>4+ years consuming HTTP web services and APIs (REST, SOAP, etc.)
+</li>
+<li>2+ years developing on Salesforce Lightning Framework
+</li>
+<li>2+ years using JavaScript to control browser behavior, dynamic HTML, and DOM events
+</li>
+<li>2+ years with Git, source code branching and pull requests
+</li>
+<li>Strong understanding of Salesforce development best practices, design patterns, and mitigating platform limits
+</li>
+<li>Demonstrates knowledge of when to leverage declarative solutions over Apex &amp; Lightning Web Components
+</li>
+<li>Ability to problem solve, triage and troubleshoot complex Salesforce Implementations
+</li>
+<li>Strong problem-solving and interpersonal communication skills
+</li>
+<li>Some management experience with a team of developers or salesforce administrators
+</li>
+<li>Experience with contract and content management tools such as: Apttus and Seismic
+</li>
+</ul>
+</div>
+<p></p>
+<p>Subsidiary:
+</p>PayPal
+<p></p>
+<p>Travel Percent:
+</p>0
+<p></p>
+<p>Primary Location:
+</p>San Jose, California, United States of America
+<p></p>
+<p>Additional Locations:
+</p>
+<p></p>Bachelors Degree or Equivalent (Required)
+<p></p>Salesforce Certified - Salesforce
+<p></p>
+<p><b>We're a purpose-driven company whose beliefs are the foundation for how we conduct business every day. We hold ourselves to our One Team Behaviors which demand that we hold the highest ethical standards, to empower an open and diverse workplace, and strive to treat everyone who is touched by our business with dignity and respect. Our employees challenge the status quo, ask questions, and find solutions. We want to break down barriers to financial empowerment. Join us as we change the way the world defines financial freedom.
+</b></p>
+<p></p>
+<p><b>Paypal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.</b></p>
+</div></div>

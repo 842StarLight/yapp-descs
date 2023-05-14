@@ -1,0 +1,61 @@
+<h2>Senior DevOps Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Los Gatos, California Office
+<br><br>
+Roku pioneered streaming to the TV. We connect users to the streaming content they love, enable content publishers to build and monetize large audiences, and provide advertisers with unique capabilities to engage consumers. Roku streaming players and Roku TV™ models are available around the world through direct retail sales and licensing arrangements with TV brands and pay TV operators.
+<br><br>
+<b>Role:</b><br>
+The Platform and Cloud Engineering organization is looking for a highly motivated senior DevOps engineer to join Roku's Infrastructure team. We are a seasoned team of highly trained technical engineers looking for talent to help develop, build, and support highly scalable infrastructure platform services. Our systems operate on a scale of petabytes and millions of custom metric data-points per second. We're seeking experience to help us in our vision to provide to real time services capabilities for all engineering teams within Roku.
+<br><br>
+Responsibilities
+<br><br>
+<ul>
+<li>Lead projects and efforts to develop and maintain local and cloud infrastructure using infrastructure as code philosophy.</li>
+<li>Lead efforts to further automate cloud and local infrastructure operations with tools like; Bash, CloudFormation, Terraform, and customized programs/scripts.</li>
+<li>Help build and integrate security as part of the infrastructure.</li>
+<li>Architect and maintain Roku's codified next-generation cloud infrastructure, working with technologies like Docker, Kubernetes, and Terraform.</li>
+<li>Take the lead on other important infrastructure projects, with the support and collaboration of the team.</li>
+<li>Take the lead efforts to implement new technologies and best practices etc.</li>
+<li>Take the lead and mentor other members of the team to define and adopt new or improve existing processes and procedures.</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Demonstrated understanding of overall infrastructure design and develop tools to enable and automate the infrastructure.</li>
+<li>Experience working with both business owners and end users.</li>
+<li>Familiarity and mastery of a high-level scripting language such as Python (preferred), or Go.</li>
+<li>The drive and self-motivation to understand the intricate details of a complex infrastructure environment.</li>
+<li>Demonstrated ability to communicate clearly with both technical and non-technical project stakeholders.</li>
+<li>Ability to architect, maintain, and code next-generation cloud infrastructure, working with technologies like Docker, Kubernetes, and Hashicorp Terraform and Vault.</li>
+<li>Ability to lead team efforts to implement new technologies and best practices.</li>
+<li>An interest and past experience in IT security</li>
+<li>Several years of DevOps experience</li>
+<li>Experienced in infrastructure tool development and maintenance</li>
+<li>Experienced in cloud technologies such as AWS, GCP, or Azure</li>
+</ul>
+<b>Knowledge and Abilities:</b><br>
+<ul>
+<li>Ability to quickly learn and adapt to new technologies and programming tools.</li>
+<li>Demonstrated experience in designing, developing, testing, and deploying applications.</li>
+<li>Strong understanding of data design, architecture, relational databases, and data modeling.</li>
+<li>Thorough understanding of all aspects of software development life cycle and quality control practices.</li>
+<li>Ability to define and solve logical problems for highly technical applications.</li>
+<li>Strong communication skills with both technical and non-technical clients.</li>
+<li>Demonstrated experience leading activities on structured team development projects.</li>
+<li>Ability to select, adapt, and effectively use a variety of programming methods.</li>
+<li>Ability to recognize and recommend needed changes in user and/or operations procedures.</li>
+</ul>
+<b>Characteristics of success at Roku:</b><br>
+<ul>
+<li>Self-motivated individual who takes ownership</li>
+<li>Positive attitude</li>
+<li>Non political</li>
+<li>Results oriented</li>
+<li>Practical</li>
+<li>Hands on and team oriented</li>
+<li>Ability to adjust plan and react as needed</li>
+</ul>
+------
+<br><br>
+#LI-MH1
+<br>-------
+<br><br>
+------</div>

@@ -1,0 +1,82 @@
+<h2>Senior Embedded Graphics Engineer - Chandler, AZ</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>As a leading worldwide provider of navigation devices and wearable technology, our focus is on developing, designing and supporting superior products. Our advanced technology promotes performance, safety and ease of use in every market we serve. That makes us an engineering and technology company with a keen focus on recruiting talent in those fields. But the same vertical integration business model that keeps all design and manufacturing processes in-house also gives us the incentive to hire top performers from different backgrounds, including operations, finance and accounting, information technology, sales, marketing and communications.<br>
+<br>
+Our Technologies team is hiring a full time <b>Senior Software Engineer</b> focused on Embedded Graphics to develop software for Garmin Avionics at our Headquarters location in the Kansas City area.<br>
+<br>
+In this role, you will be developing software in C, C++, or other selected languages, performing software design, development and testing for OEM and retrofit avionics products. The work will be focused on developing, testing and optimizing low-level GPU drivers in a multi-threaded system; Implementing OpenGL and Vulkan APIs; Developing profiling and debugging tools for GPUs.<br>
+<br>
+Additional duties include:<br>
+</div>
+<ul>
+<li><div>
+Developing high-performance, graphic intensive software on a resource constrained platform</div></li>
+<li><div>
+Partner with electrical engineering to turn on new graphics processors</div></li>
+<li><div>
+Collaborate closely with product teams to integrate new features and technology into product platforms</div></li>
+<li><div>
+Coordinate closely with electrical engineers and vendors to integrate externally developed deliverables into projects as well as provide technical feedback in discussions on roadmaps and component selection for future platforms</div></li>
+<li><div>
+May perform as a Technical Lead or Lead Low-Level Software Engineer for software development projects</div></li>
+<li><div>
+Developing and maintaining multithreaded software</div></li>
+<li><div>
+Detail-oriented individual with the ability to prioritize and manage multiple tasks</div></li>
+<li><div>
+Strong verbal and written communication skills</div></li>
+</ul>
+</div>
+<p></p>
+<br>
+<div>
+<b>
+Qualifications</b><div>
+</div>
+<div>
+Qualified candidates will have a Bachelor of Science Degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math or Physics or another relevant engineering/technical field AND a minimum of 5 years relevant experience OR Master of Science Degree in any of the fields noted above AND a minimum of 3 year relevant experience OR an equivalent combination of education and relevant experience with excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule).<br>
+<br>
+Additional Qualifications:<br>
+</div>
+<ul>
+<li><div>
+Demonstrates proficiency with designing well architected software systems and modules that support new technology or improve capability/performance of existing functionality</div></li>
+<li><div>
+Excellent programming skills and knowledge of C/C++</div></li>
+<li><div>
+Experience in 2D/3D (OpenGL/Vulkan) graphics and rendering technologies and a strong expertise in math</div></li>
+<li><div>
+Experience in writing efficient GPU shader algorithms</div></li>
+<li><div>
+Knowledge of GPU architectures</div></li>
+<li><div>
+Experience in low-level programming</div></li>
+</ul>
+<div>
+Our benefits are designed to lead an evolving marketplace, support innovation and encourage a healthy balance between work and life. They allow our associates to make their own decisions about their wellbeing and future and consistently rank Garmin as a top tier benefits provider when compared to other high-tech employers. We offer a choice of high value medical, dental and vision plans with low or no premiums, to fit your and your family’s preferences. In addition, Garmin’s financial benefits include a generous 401K retirement plan that provides 5% of pay base contribution plus a match of 75 cents for every dollar you contribute to a maximum of 10% of your compensation. The employee stock purchase plan allows for shares to be bought at a 15% discount. Garmin offers many other benefits and perks ranging from wellbeing initiatives, educational assistance and career development, community charity support, and employee discounts just to name a few.<br>
+</div>
+<div><i>
+Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran’s status, age or disability.</i></div>
+</div>
+<p></p>
+<div>
+<b>
+Job</b> Engineering</div>
+<div>
+<b>
+Primary Location</b>US-AZ-Chandler</div>
+<div>
+<b>
+Organization</b> Aviation Business</div>
+<div>
+<b>
+Schedule</b> Full-time</div>
+<div>
+<b>
+Job Class</b> Exempt</div>
+</div>
+<p></p>
+</div>

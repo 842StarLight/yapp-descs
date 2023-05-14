@@ -1,0 +1,68 @@
+<h2>HCIT Systems Administrator I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>The HCIT Systems Administrator provides delivery, consultation, support, and technology solutions based on customer needs. They are responsible for servers and applications on premise, hosted or in the cloud. This role is focused on the management of customer environments including patching, monitoring, backups &amp; disaster recovery. This position will also have responsibility for some aspects of IT security. The position requires the management of projects, priorities and deliverables for Business Operation and support and will work with his manager to define project/task tracking and reporting, or other analytics as needed.</p>
+<p><b>Responsibilities: </b></p>
+<ul>
+<li>Ability to support a robust and redundant server environment.</li>
+<li>Support of both Microsoft &amp; Linux servers</li>
+<li>Support Physical and virtual server environments</li>
+<li>Manage customer patching and monitoring solutions</li>
+<li>Manage Cloud backup solution</li>
+<li>Manage &amp; Support Disaster recovery solutions</li>
+<li>Field escalations from support on performance and application issues</li>
+<li>Develop, maintain, and prepare documentation related to management of applications, including but not limited to: installation, maintenance, upgrades, patches, and support.</li>
+<li>Ensure system documentation follows best practices, is up-to-date, accurate, and tested.</li>
+<li>Manage Tradeshow and Demo equipment for sales team</li>
+<li>Participation in the development of policies and procedures, which govern the applications.</li>
+<li>Evaluate and get to root-cause on complex or difficult technical problems and escalate.</li>
+<li>Support Helpdesk team and provide guidance and direction for problem resolution.</li>
+<li>Follow detailed procedures while making recommendations for routine problem solutions.</li>
+<li>Promote a positive customer relationship while working with other business teams and technical staff and departments.</li>
+<li>Work with team to develop and maintain database backup &amp; recovery</li>
+<li>Evaluate and make recommendations for current environment configurations and business processes</li>
+</ul>
+<p><b>Requirements: </b></p>
+<ul>
+<li>Associates Degree in Information Systems or related technical field or 2+ years’ experience.</li>
+<li>Creative thinking with proven effective history of long-term fix/solutions.</li>
+<li>Professional work experience with evaluating, troubleshooting, and resolving hardware and software problems and facilitating application expansion; maintaining security, integrity and ensuring daily back up of files and databases in coordination with the other departments.</li>
+<li>Understanding of monitoring systems, patching systems, &amp; endpoint management</li>
+<li>Must have the ability to problem solve, troubleshoot, and understand risk for the business.</li>
+<li>Demonstrated work experience with evaluating, troubleshooting, and resolving infrastructure and software problems and facilitating application expansion; maintaining security, integrity.</li>
+<li>Ability to work in LINUX and/or Windows environments.</li>
+<li>This position requires a strong understanding of Infrastructure Systems and software.</li>
+<li>Broad experience with diverse systems including Servers, Cloud and Security.</li>
+<li>Ability to closely interact with various business units and their support teams.</li>
+<li>Attention to detail with a strong desire to provide exceptional service.</li>
+<li>Enthusiasm for working with technology, servers, and infrastructure as a whole</li>
+<li>Ability to troubleshoot data and application access issues and adjust properties as needed</li>
+<li>Demonstrated work experience with relational database management systems.</li>
+<li>Ability to work independently, or in groups, while maintaining a courteous attitude when dealing with customers.</li>
+<li>Ability to train users and technical staff on systems and applications.</li>
+<li>Microsoft Windows Server &amp; AD / Microsoft SQL Server / VMWare</li>
+<li>Knowledge on implementing Security, policies and standards for Healthcare industry.</li>
+<li>Experience in supporting Data Center and Cloud vendors and ability to troubleshoot and escalate issues in diverse environments.</li>
+<li>Postgres database management</li>
+<li>Strong performance tuning experience.</li>
+<li>Managing Cloud vendors, SaaS, IaaS, AWS, Azure, and Applications.</li>
+<li>Experience with Physical Server and Storage Hardware.</li>
+<li>PowerShell scripting experience</li>
+<li>Experience with compliance (HIPAA, SOC2, ISO, FDA, and PCI/DSS).</li>
+<li>Familiarity with medical terminology, software, and workflows; (DICOM, PACS, RIS, HL7 and MWL (Modality Work list), and PACS Administration or Basic Usage)</li>
+<li>Radiology Information System (RIS) and radiology workflow exposure.</li>
+</ul>
+<p><b>Physical Requirements</b><br>While performing the duties of this job, the employee is regularly required to sit; use hands; reach with hands and arms; and talk or hear. The following equipment may be used: Computer, Printer, Facsimile, Telephone. The physical demands and work environment that have been described are representative of those an employee encounters while performing the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions in accordance with the Americans with Disabilities Act.</p>
+<p><i>NOTE: The above job description is an overview of the functions and requirements for this position. This document is not intended to be an exhaustive list encompassing every duty and requirement of this position; your supervisor may assign other duties as deemed necessary.</i></p>
+<p><i><b>Indeed Hire and Konica Minolta Healthcare Americas, Inc are working together to find the best candidate for this job.</b></i></p>
+<p><i><b>By applying, you agree to be contacted by our agent, Indeed Hire, and receive updates via text and phone about your application.</b></i></p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Professional IT: 2 years (Required)</li>
+<li>LINUX and/or Windows: 1 year (Required)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Associate (Required)</li></ul>
+<p>Job distance:</p>
+<ul><li>Garner, NC: Between 31 and 40 miles (Preferred)</li></ul>
+</div>

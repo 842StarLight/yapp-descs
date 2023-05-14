@@ -1,0 +1,67 @@
+<h2>Software Developer – Entry Level</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><div>
+<div>Nokia is a global leader in the technologies that connect people and things. With state-of-the-art software, hardware and services for any type of network, Nokia is uniquely positioned to help communication service providers, governments and large enterprises deliver on the promise of 5G, the Cloud and the Internet of Things. Serving customers in over 100 countries, our research scientists and engineers continue to invent and accelerate new technologies that will increasingly transform the way people and things communicate and connect.</div>
+<div></div>
+<div>Position Description:</div>
+<div></div>
+<div>We are looking for an entry level Software Developer to join our team. The newly formed System Team within NSW Application Engineering team is responsible for Solution integration, end-to-end testing, System and Solution demos, and Solution releases.
+</div>
+<div>You will work on creating iconic products and solutions that are based on cloud-native architecture and design principles, leverage Machine Learning, AI, and design for Serviceability. Our strategic priorities are:
+</div>
+<ul>
+<li>To lead the market in solutions across Digital Experience, Operations &amp; Networks in the next generation 5G era</li>
+<li>Transform the traditional CSP inside-out driven service &amp; business models with a new Digital Innovation Platform</li>
+<li>Automation and insight capabilities to deliver the most extensive zero-touch and closed loop operations in the industry for real-time processes</li>
+</ul>
+<div></div>
+<div>As part of System Team, you are responsible to:</div>
+<ul>
+<li>Integrate and validate NSW Product Portfolio and apply user centric design principles and DevOps – CI/CD to install, configure, functional tests, performance test and more as a family (or suite) of products</li>
+<li>Drive consistency, commonality including alignment of architectural principles across NSW Products for:
+<ul>
+<li>Automation framework</li>
+<li>DevOps - CI/CD</li>
+<li>vLabs usage</li>
+<li>Performance/Reliability testing Models, Configuration, and Benchmarking</li>
+</ul>
+</li>
+<li>Roll out Solution and Product demos to Pre-Sales and Solution Architects including demo trainings and demo scripts. Define strategy, vision, and implementation of Solution and Product demos, leverage and influence demo infrastructure and help to win in market place.</li>
+</ul>
+</div></div>
+<div>
+<div>
+<b>Required Minimum Qualifications: (Education, Technical Skills/Knowledge)</b>
+</div>
+<ul>
+<li>Bachelor’s or Master’s degree in Engineering/Science field and/or equivalent experience in the areas noted in the responsibilities (and below qualifications)</li>
+<li>Eager to learn, open-minded, flexible attitude with genuine curiosity</li>
+<li>Excellent Team work mindset open to an international context as we collaborate with several different sites and product teams</li>
+<li>Excellent problem solving and critical thinking</li>
+<li>Strong interpersonal capabilities</li>
+<li>Excellent written and oral communication skills with both technical and non-technical audiences</li>
+<li>Able to work independently and under aggressive timelines</li>
+<li>Innovator mindset with good ideas and a results-oriented attitude</li>
+<li>Understanding of Software engineering principles – e.g. agile software development</li>
+<li>Knowledge in Test Automation and tools – Cucumber, Robot, Ansible, TestNG, Selenium, Jmeter</li>
+<li>Knowledge in languages - Java, Shell, Python and Linux OS</li>
+<li>Knowledge in Git, Gerrit, Jenkins, Jira</li>
+<li>Basic knowledge in IP and networking</li>
+<li>Familiarity with Agile way of working/SAFe/DevOps-CI/CD</li>
+</ul>
+<div>What does Nokia offer you?</div>
+<ul>
+<li><div>E-Learning platform with NokiaEDU to continuously enhance your skills</div></li>
+<li><div>Continuous trainings in innovating technologies</div></li>
+<li><div>Visibility on latest technologies – 5G, the Cloud, Big data, Machine Learning and AI</div></li>
+<li><div>Certifications in different area of expertise</div></li>
+<li><div>Opportunity to be part of an international and multi-cultural environment where you will work with young and experienced colleagues.</div></li>
+</ul>
+<div>
+<b>Nokia is an equal opportunity employer that is committed to diversity and inclusion. At Nokia, employment decisions are made regardless of </b><b>sex, gender identity or expression, sexual orientation, race, ethnic origin, color, creed, religion, national origin, citizenship, age, marital status, physical or mental disability, genetic information or ancestry, protected Veteran or military status,</b> <b>or other characteristics protected by law.</b>
+</div>
+</div>
+</div>
+<div></div>
+</div>

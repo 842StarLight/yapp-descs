@@ -1,0 +1,49 @@
+<h2>Software Engineer, Factory Test</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>About Us</p>
+<p>
+With electric vehicles (EVs) expected to be 25% of vehicle sales by 2025 and more than 50% by 2040, electric mobility is in the midst of a tipping point and becoming reality. ChargePoint is at the center of the e-mobility revolution, powering the world’s leading EV charging network and most complete set of hardware, software and mobile solutions for every EV charging need. Whether it's to ride, driver or deliver on electric fuel, we bring together people, vehicle fleets, businesses, automakers, policymakers, utilities and other stakeholders to make e-mobility a reality globally.</p>
+<p>
+Our fanatical focus on charging and 10+ years in business has made us an industry leader. Supported by more than half a billion dollars in funding from investors, including Quantum Energy Partners, GIC, Clearvision, Daimler Trucks &amp; Buses, Daimler, Siemens, Linse Capital, American Electric Power, Canada Pension Plan Investment Board, Chevron Technology Ventures, Rho Capital Partners, BMW i Ventures and Braemar Energy Ventures, ChargePoint offers a once-in-a-lifetime chance to be part of creating an all-electric future and shaping a trillion-dollar market. Join the team that built the EV charging industry and make your mark on how people and goods will get everywhere they need to go, in any context, for generations to come.</p>
+<p>
+Reports To<br>
+Mgr, Hardware/Software Factory Engineering</p>
+<p>
+What You Will Be Doing</p>
+<ul>
+<li>ChargePoint is looking for an outstanding engineer interested in applying creativity and a broad skill set toward building cutting-edge software for a next generation factory management and test system.</li>
+<li>You will work independently on design, implementation, and testing of new systems in a rapidly evolving factory test system.</li>
+</ul>
+<p>What You Will Bring to ChargePoint</p>
+<ul>
+<li>Create local and distributed control and management subsystems for power modules, vehicle communications, and user interfaces.</li>
+<li>Factory station device test design.</li>
+<li>Support of real-time cloud management and remote administration.</li>
+<li>Collaborate cross-functionally and globally with hardware and cloud engineering teams to define specifications, features, and APIs.</li>
+<li>Participate in design and code reviews, as well as mentor other members of the team.</li>
+</ul>
+<p>Requirements</p>
+<ul>
+<li>Experience developing for embedded systems using C/C++, or Python.</li>
+<li>Ability to use and program for Linux is a requirement.</li>
+<li>Familiarity with BuildRoot, Python3, QT5, git, SQL, and OOP programming.</li>
+<li>Exposure in connectivity architecture using Wireless (Cellular, Wi-Fi, Bluetooth and NFC), and wired (Ethernet) interfaces a plus.</li>
+<li>Demonstrated ability and willingness to make critical system-level design decisions and drive projects from start to finish with minimal supervision.</li>
+</ul>
+<p>Preferred</p>
+<ul>
+<li>Experience with a range of native graphics / display-based products and user interface application services using QT, Python3, and C++.</li>
+</ul>
+<p>Location<br>
+Campbell, CA</p>
+<p>
+We are committed to an inclusive and diverse team. ChargePoint is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic<br>
+information, marital status or any legally protected status.</p>
+<p>
+If there is a match between your experiences/skills and the Company needs, we will contact you directly.</p>
+<p>
+ChargePoint is an equal opportunity employer.</p>
+<p>
+Applicants only - Recruiting agencies do not contact.<br>
+#LI-MH1</p>
+</div></div>

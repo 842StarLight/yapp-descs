@@ -1,0 +1,83 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>OVERVIEW</b><p>
+If you believe in making a difference, then Sentry is the company for you! As a member of a multi-billion-dollar organization, you will have the opportunity to make a direct, and immediate impact on our business and customers. Do you enjoy building new and innovative solutions to old, outdated problems? How about working on fast-paced teams with the passion for driving change and continuous improvement? You’ll have the opportunity to apply the power of your imagination to drive our business forward. Sentry is setting itself apart from the old insurance platforms of yesterday, and we want you to come along for the cutting-edge vision of tomorrow.</p>
+<p>
+This position may be filled as a Software Developer or Software Engineer depending on the related experience and qualifications of the selected candidate.<br>
+</p>
+<b>
+WHAT YOU'LL DO</b><div>
+As a developer on the Personal Lines Agile Development team, you’ll:<br>
+<ul>
+<li>Deliver innovative solutions to real-world problems</li>
+<li>Work collaboratively with others across the organization, including architecture, project management, infrastructure, and other application development teams</li>
+<li>Full stack development on a variety of applications</li>
+<li>Maintain quality through code reviews, applying programming and security standards, and develop automated tests</li>
+<li>Continuously improve by expanding business domain knowledge, collaborating with associates, participating in training and development opportunities, maintaining personal networks, and involvement in professional</li>
+<li>Participate in an agile environment, including team and program level ceremonies</li>
+<li>Coordinate software deployment and releases in a continuous delivery pipeline</li>
+</ul>
+</div>
+<b>
+WHAT IT TAKES</b><div>
+ Minimum Qualifications<br>
+<ul>
+<li>Bachelor’s Degree in Computer Science, Web Development, or equivalent work experience in a related field.</li>
+<li>Excellent communication and organizational skills.</li>
+<li>Ability to work both independently and in a team environment.</li>
+<li>Experience with an object-oriented programming language, such as Java, C#, or C++.</li>
+</ul>
+<br>
+Preferred Qualifications<br>
+<ul>
+<li>2+ years of related work experience</li>
+<li>Development experience with Guidewire PolicyCenter or BillingCenter</li>
+<li>Experience with Spring (MVC, JDBC, Batch), Hibernate, SOAP/REST Webservices, BitBucket, Git, Jenkins, Gradle, SQL Server, HTML, CSS</li>
+<li>Experience with automated unit and integration testing</li>
+<li>Knowledge of professional software engineering practices for the full software development life cycle (SDLC), including coding standards, code reviews, source control management, build processes, testing, and operations.</li>
+<li>Understanding insurance and how to apply appropriate solutions to meet business needs.
+</li>
+</ul>
+</div>
+<b>WHAT YOU'LL RECEIVE</b><p>
+There is a reason why Sentry made Forbes’ list of America’s Best Midsize Employers in 2017, 2018, and 2019. At Sentry, we recognize there are many factors that contribute to your overall satisfaction both at work, and in your personal life. So, we provide a perfect mixture of compensation, benefits, company culture, and resources to ensure your everyday happiness. Below are some benefits that you’ll receive.
+</p>
+<ul>
+<li>
+<b>Competitive compensation</b> to reward you for your hard work every day.
+</li>
+<li>Generous <b>Paid-Time Off</b> Plan for you to enjoy time out of the office.
+</li>
+<li>401(K) plan with a dollar for dollar match on your <b>first eight percent</b>, plus immediate vesting to help fund your future.
+</li>
+<li>Group Medical, Dental, Vision and Life <b>insurance</b> to encourage a healthy lifestyle.
+</li>
+<li>Pretax Dependent Care and Health Expense <b>Reimbursement Accounts</b> to ease taxes on health spending.</li>
+<li>Extensive <b>Work-Life Resources</b> to lend a helping hand.
+</li>
+<li>
+<b>Volunteer Time Off</b> so you can dedicate time to the community.
+</li>
+</ul>
+<b>HOW YOU’LL APPLY</b><p>
+If you are interested in joining Sentry’s team, select the one position that you are most interested in being considered for and complete your online application details. If you have applied with us before, you will only need to provide your email address and password. If this is your first time applying, you’ll need to create an account. Please <b>upload your resume</b> directly, in addition to completing your online application details.
+</p>
+<b>WHO YOU’LL WANT TO CONTACT</b><p>
+Laura Kaczmarski<br>
+LAURA.KACZMARSKI@SENTRY.COM</p>
+<b>
+ABOUT SENTRY</b><div>
+All of us at Sentry—more than 4,000 associates—have various talents, skills, and backgrounds. We work together to deliver on our promises to our policyholders every day. We’re proud to offer a full line of property, casualty, and life insurance products to help protect businesses, cars, homes, lives, and retirement income.<br>
+</div>
+<div></div>
+<div>Our headquarters is in Stevens Point, Wisconsin, with claims and service offices located throughout the United States. From sales to claims, and information technology to marketing, we enjoy a rewarding and challenging work environment with opportunities for ongoing professional development and growth.<br>
+</div>
+<div></div>
+<div>Our bright future is built on a long track record of success. We got our start in 1904 and have been helping businesses succeed and protect their futures ever since. Because of the trust placed in us, we’re one of the largest and financially strongest mutual insurance companies in the United States. We’re rated A+ by A.M. Best, the industry's leading rating authority.<br>
+</div>
+<div></div>
+<div>Get ready to own your future at Sentry. Opportunities await.</div>
+<b>
+EQUAL EMPLOYMENT OPPORTUNITY</b><p>
+It is our policy that there be no discrimination in employment based on race, color, national origin, religion, sex, disability, age, marital status, or sexual orientation.</p>
+</div></div>

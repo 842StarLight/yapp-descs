@@ -1,0 +1,75 @@
+<h2>Lead Software Engineer, Mobile Applications</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Chicago-based EZLinks Golf LLC, a PGA TOUR affiliated company, provides leading technology and services to the golf industry including tee sheets, point of sale, and reservation services, with a focus on driving rounds of golf. EZLinks also powers TeeOff.com by PGA TOUR, a leading online retail site, helping golfers book tee times at more than 3,000 courses worldwide.</div>
+<div></div>
+<div>We offer a dynamic and casual environment, competitive benefits, and a chance to change the golf industry.</div>
+<div></div>
+<div>EZLinks Golf is seeking a full-time <b>Lead Software Engineer, Mobile Applications</b> to join our team.</div>
+<br>
+<div></div>
+<div></div>
+<div><b>Lead Mobile Application Developer</b></div>
+<br>
+<div></div>
+<div></div>
+<div>
+<b>Position Description</b>: Reporting to the Director of Delivery, TeeOff, the Lead Software Engineer will be responsible for developing and implementing technical solutions for new and existing mobile applications. This position will be responsible for leading technical design, coding activities and infrastructure recommendations while providing team leadership.</div>
+<br>
+<div>
+</div>
+<div>
+<br>
+EZLinks Golf is seeking a full-time Lead Software Engineer, Mobile Applications to join our Engineering team. Do you have experience with these exciting new technologies?</div>
+<ul>
+<li>React Native</li>
+<li>Native iOS/Android</li>
+<li>Cordova (a plus)</li>
+<li>PostgreSQL</li>
+<li>Git</li>
+<li>Adobe Analytics (a plus)</li>
+<li>Understanding of deployments to both iOS and Android platforms</li>
+</ul>
+<div>We’d love to show you what we’re doing and give you the opportunity to grow your toolset with us! This is a salaried position based in our Chicago location.</div>
+<div></div>
+<div><b>Here’s what you’ll be doing:</b></div>
+<ul>
+<li>Developing and maintaining TeeOff mobile application as part of the EZLinks application ecosystem.</li>
+<li>Working with members of Product and Technology teams while applying strong analytical and problem-solving skills to deliver high-quality software that meets the needs of our clients and stakeholders.</li>
+<li>Conducting peer code reviews and mentoring less experienced engineers.</li>
+<li>Working closely with our TeeOff Engineering team as well as DevOps.</li>
+<li>Consulting / Collaborating with other Mobile application teams within EZLinks</li>
+</ul>
+<div></div>
+<div><b>Qualifications:</b></div>
+<ul>
+<li>Self-driven team member of a high-performing development team.</li>
+<li>Bright and engaging with "start-up" energy and passion.</li>
+<li>Flexible and able to change direction as the business and technology evolves and changes.</li>
+<li>Enjoys an Agile development environment; Scrum methodology experience a plus.</li>
+<li>Excellent interpersonal and communication skills.</li>
+<li>Cares about the team culture.</li>
+<li>Takes pride in the products, team and job.</li>
+</ul>
+<div></div>
+<div><b>Experience:</b></div>
+<ul>
+<li>BS/BSE degree or equivalent with a minimum of 6-8 years relevant work experience including background with building mobile eCommerce applications.</li>
+<li>Senior level development experience in React Native, Native iOS/Android (Cordova a plus)</li>
+<li>Experience in building/integrating with APIs</li>
+<li>Experience with automated code testing (unit testing, automated UI testing)</li>
+<li>Working knowledge of analytics solutions (Google Analytics, Adobe Analytics)</li>
+<li>Proficiency with Postgres SQL Server</li>
+<li>Modern JavaScript framework experience (e.g. React, AngularJS) is a plus.</li>
+<li>Experience leading a development team and providing architectural direction</li>
+<li>Experience working with outside software development partners, including near and offshore</li>
+<br>
+</ul>
+<div>
+<br>
+</div>
+<div></div>
+<div><b>Why should you work for EZLinks?</b></div>
+<div>At EZLinks, we offer competitive base salaries and generous bonus opportunities to reward performance. Full-time employees have the opportunity to participate in our comprehensive benefits package including medical, dental, vision, basic and voluntary life and AD&amp;D, discount programs, paid vacation, and 401K.</div>
+<div></div>
+<div><i>EZLinks Golf LLC is an Equal Opportunity Employer.</i></div>
+</div></div>

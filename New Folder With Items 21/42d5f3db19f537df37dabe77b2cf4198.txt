@@ -1,0 +1,53 @@
+<h2>Web Developer Co-Op Spring 2020</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>POSITION SUMMARY:</b><br>
+The Web Developer Intern is responsible for the development, integration, and implementation of web-based solutions that support our overall company business strategies and objectives. As part of this internship, you’ll learn how to develop and test code efficiently while gaining real world experience working on web and mobile projects that support corporate marketing initiatives. With mentoring from the Senior Java Web Developers, the intern will learn multiple systems and be able to use skills in multiple projects and maintenance.
+<br><br>
+<b>KEY RESPONSIBILITIES:</b><br>
+Developing and testing code for web and mobile applications using modern methods of development across the full stack (frameworks, web services, etc.)
+<br>Scope basic project requirements
+<br>Troubleshoot and resolve application issues
+<br>Interact with team members (end-users, testers, distributors, analysts and project/release managers) in a team-oriented fashion
+<br>Support projects through entire Software Development Lifecycle (SDLC)
+<br>Follow software development methodologies and best practices
+<br>Provide end-user application support
+<br>Adhere to web security best practices
+<br>Ability to adapt technologies to meet the needs of Matco Tools in a manner that can be easily utilized across the enterprise
+<br>Work on additional projects as needed in the Marketing Department
+<br>Present to Executives and Key Managers at the end of co-op on projects, learnings, and overall experience
+<br><br>
+Attributes/Skills/Experience
+<br><br>
+Must be a current Junior or Senior pursuing a Bachelor’s degree in Computer Science, Information Systems, or a related field
+<br>1+ year prior internship or classroom experience with Java programming, various web technologies such as HTML, JavaScript, CSS, Web Service APIs, Design Frameworks and SQL or RDBMS design
+<br>Desire to learn and adapt to rapidly changing technologies
+<br>Excellent communication skills, written and oral
+<br>Ability to work collaboratively and effectively with other IT teams
+<br>Knowledge of Java application development
+<br>Fit Factors
+<br><br>
+Tenacity/do what it takes
+<br><br>
+Effective time management and personal organization
+<br><br>
+Honesty &amp; integrity
+<br><br>
+Communication skills
+<br><br>
+Ability to manage multiple priorities
+<br><br>
+Sense of urgency
+<br><br>
+Accountability
+<br><br>
+Detail oriented
+<br><br>
+Fortive is a diversified industrial growth company comprised of global businesses that are recognized leaders in attractive markets. With more than $6 billion in annual revenues, Fortive’s well-known brands hold leading positions in field instrumentation, transportation, sensing, product realization, automation and specialty, and franchise distribution.
+<br><br>
+Fortive is headquartered in Everett, Washington and employs a team of more than 24,000 research and development, manufacturing, sales, distribution, service and administrative employees in more than 40 countries around the world. Our team grows by tackling challenges that accelerate progress and further their careers. With a culture rooted in continuous improvement, the core of our company’s operating model is the Fortive Business System. For more information please visit: www.fortive.com.
+<br><br>
+Matco Tools is a manufacturer and distributor of quality, professional grade automotive equipment, tools and toolboxes. Over 13,000 products are sold to customers through franchise business owner/manager mobile tool operators. Matco employs approximately 600 associates in the United States, Puerto Rico and Canada and reported record financial results for 2018. For additional information on Matco, please visit www.matcotools.com.
+<br><br>
+Since 1979, the mission of Matco Tools has been to provide professional mechanics and auto enthusiasts with all the premium tools, storage and equipment they need to get the job done, while also offering best-in-class service and customer support. The company's network of nearly 1,800 premier independent mobile distributors is focused on developing and maintaining trust-based relationships with its customers. Ranked among the top 50 in Entrepreneur magazine's 2018 Franchise 500®, the company continues to expand throughout the United States and Canada, adding several hundred mobile stores each year. Matco offers its franchise owners industry-leading training, on-going field support, pre-identified customers, and in-house financing. Those thriving in an innovative, supportive, energized organization where continuous learning is the norm will find themselves well rewarded. For additional information on Fortive, please visit www.fortive.com.
+<br><br>
+"The company in which you have expressed employment interest is a subsidiary or affiliate of Fortive Corporation. The subsidiary or affiliate is referred to as a Fortive Company. Fortive Corporation and all Fortive Companies are equal opportunity employers that evaluate qualified applicants without regard to race, color, national origin, religion, ancestry, sex (including pregnancy, childbirth and related medical conditions), age, marital status, disability, veteran status, citizenship status, sexual orientation, gender identity or expression, and other characteristics protected by law. The "EEO is the Law" poster is available at: http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf. Individuals who need a reasonable accommodation because of a disability for any part of the employment process should call 1-866-272-5573 or e-mail applyassistance@fortive.com to request accommodation."</div>

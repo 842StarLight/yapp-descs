@@ -1,0 +1,72 @@
+<h2>DevOps Salesforce Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>Informa</b> is one of the world's leading knowledge providers. We create and deliver highly specialized information through publishing, events, training, market intelligence and expertise, providing valuable knowledge to individuals, businesses and organizations worldwide.</div>
+<div>
+</div>
+<div>
+<b>Informa Markets </b>Division organizes transaction-oriented Exhibitions and trade shows, which provide buyers and sellers across different industries and communities with a powerful platform to meet face to face, build relationships and conduct business. Informa has a portfolio of more than 200 Exhibitions, serving a number of core verticals, including Property &amp; Construction, Health &amp; Nutrition, Beauty, and Pop Culture.</div>
+<p><b>
+DevOps Salesforce Manager</b></p>
+<p>
+</p>
+<p><b>What we're looking for:</b></p>
+<p>
+Informa Markets is seeking a full-time DevOps Salesforce Manager (DSM) who will report to and partner with the Director of DevOps to define, implement, and drive best practices in DevOps philosophy and technologies for the Sales department. The main objective of the DSM is to assist in the deployment of applications as frequent and as fast as the business requires it, in a reliable and secure way.</p>
+<p><b>
+You are accountable for:</b></p>
+<ul>
+<li>The creation, improvement, and automation of processes behind releasing, deploying, operating and monitoring of application development.
+</li>
+<li>Definition of DevOps relevant KPIs and metrics, monitoring, measuring and optimizing on a continuous basis such as cycle time, frequency of builds, test coverage and testing cycle time, velocity of releases, and frequency of deployments.
+</li>
+<li>Finding innovative ways to speed up or synchronize processes, making them more seamless.</li>
+<li>Managing, protecting and securing QA, UAT and Production environments and ensuring their stability and reliability.
+</li>
+<li>Managing release manager and release engineer(s) and collaborating directly with developers, testers, and product managers.</li>
+<li>Championing, mentoring, coaching and training individuals and teams on DevOps processes and best practices.</li>
+<li>Managing DevOps knowledge and ensuring it is well documented and shared across the team at any given point, to avoid people becoming single point of failure.</li>
+<li>Ensuring individuals and teams follow agreed change and release management procedures.
+</li>
+<li>Monitoring platforms and systems performance, security, backup, disaster recovery, user access, leaver/mover processes and plans.</li>
+</ul>
+<p><b>
+What you bring to the team:</b></p>
+<ul>
+<li>B.S. in Computer Science, Software Engineering, MIS or equivalent work experience.</li>
+<li>5 years or more experience with Salesforce.com (CPQ, Billing and Communities a plus).</li>
+<li>Salesforce Certification (Development Lifecycle and Deployment Designer a plus).</li>
+<li>2 years or more of DevOps leadership experience.</li>
+<li>Comfort with a variety of DevOps tooling, such as JIRA, Bitbucket, Jenkins, Selenium, AutoRabit and others.</li>
+<li>Excellent written and oral communication skills and technical writing and documentation experience.</li>
+<li>Demonstrated leadership experience in working with geographically distributed teams, across time zones.</li>
+<li>Excellent interpersonal skills with a demonstrated ability to work in a team-oriented and sales-driven environment.</li>
+<li>Ability to identify areas for improvement and recommend steps to implementing those improvements.</li>
+<li>Experience using ServiceNow to manage Incidents, Requests and Changes, and creating and running reports.</li>
+</ul>
+<p><b>
+What we offer:</b></p>
+<ul>
+<li>Competitive Compensation Package</li>
+<li>Access to LinkedIn Learning and other development/training opportunities</li>
+<li>Health and Wellness Benefits (medical, dental, vision)</li>
+<li>401k and Matching</li>
+<li>Employee Stock Purchase Plan</li>
+<li>Generous PTO policy</li>
+<li>Work-life balance</li>
+<li>Additional discounts through various partnerships</li>
+</ul>
+<p>
+Informa is an Equal Opportunity Employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, or national origin.
+</p>
+<p>To be considered for one of Informa's openings, please complete an online application at Informa.com or by clicking Apply.</p>
+<p>
+Want to learn more about Informa and what makes us a great company? Check out the links below!</p>
+<ul>
+<li>Why Informa: https://informa.com/talent/why-work-at-informa
+</li>
+<li>What we do: https://informa.com/about-us/what-we-do/</li>
+<li>Informa.com: https://informa.com/</li>
+<li>Informa Markets: https://careers.informa.com/informa-markets/vacancies.aspx</li>
+</ul>
+</div></div>

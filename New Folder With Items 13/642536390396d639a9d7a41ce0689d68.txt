@@ -1,0 +1,76 @@
+<h2>Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b><i>About Us</i></b></p>
+<p>
+Zerto helps customers accelerate IT transformation by eliminating the risk and complexity of modernization and cloud adoption. By replacing multiple legacy solutions with a single IT Resilience Platform, Zerto is changing the way disaster recovery, data protection and cloud are managed. With enterprise scale, Zerto’s software platform delivers continuous availability for an always-on customer experience while simplifying workload mobility to protect, recover and move applications freely across hybrid and multi-clouds. Zerto is trusted by over 6,000 customers globally and is powering resiliency offerings for Microsoft Azure, IBM Cloud, AWS, Sungard AS, and more than 350 cloud services providers. Learn more at Zerto.com.</p>
+<p><b>
+Responsibilities</b>:</p>
+<ul>
+<li>
+Deliver the Zerto message and vision including technical architecture presentations and product demonstrations to prospective customers and partners</li>
+<li>
+Conduct remote calls and face-to-face meetings to discuss prospective business and technical fit with Zerto software products</li>
+<li>
+Establish relationships as a trusted technical adviser with customers, prospective customers, partners, and potential partners</li>
+<li>
+Provide technical guidance and support of sales efforts to drive team-based selling with aligned account executives</li>
+<li>
+Guide prospective customers through installation of proof of concept solutions, working with customers and the account executive to ensure that the customer purchases the software following the POC</li>
+<li>
+Support pre &amp; post sales issues</li>
+<li>
+Working with aligned Account Managers as well as regional Sales Managers to drive partner onboarding and enablement in the region to develop strong and deep strategic relationships with Value-Added Resellers (VARs), Distributors, Managed Services Providers (MSPs), and other partners and channel community members</li>
+<li>
+Interact with Development and Engineering to ensure the product fills customer requirements and communicate these requirements and findings to the Product Management team</li>
+<li>
+Provide feedback to Development around customer requirements and long term BC/DR goals</li>
+<li>
+Evangelize Zerto solutions online through social media</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Requirements</b>:</p>
+<ul>
+<li>
+At least 3 to 5 years’ experience as Pre-Sales Engineering or similar role</li>
+<li>
+Strong communication and interpersonal skills</li>
+<li>
+Ability to explain technical solutions and concepts to non-technical people</li>
+<li>
+Good practical understanding of Datacenter and Cloud architecture</li>
+<li>
+Experience with hypervisor based products/infrastructure (e.g. VMWare vSphere, Microsoft Hyper-V, Openstack, etc)</li>
+<li>
+Understanding of storage concepts, architecture and storage platforms (e.g. SAN/NAS/DAS)</li>
+<li>
+BA/BS, preferably in a Computer related field</li>
+<li>
+Working knowledge of Microsoft (Windows Server 2008, Windows Server 2003), plus x86 platforms, devices, and networking</li>
+</ul>
+<p>
+ <b>Highly Preferred Skills:</b></p>
+<ul>
+<li>
+Working knowledge of Salesforce.com or other major CRM</li>
+<li>
+Knowledge of or familiarity of real-life IT environments</li>
+<li>
+Enterprise-level systems administration, recovery, and configuration</li>
+<li>
+Experience in server, storage, and\or network administration</li>
+<li>
+Technical certifications (VCP, MCSE, CCNA, etc.)</li>
+<li>
+Experience with operation and administration of Windows Server 2012 and/or Windows Server 2008 systems</li>
+<li>
+Decent practical working with and administration of Microsoft SQL Server, MySQL, Oracle, or other mass-market databases</li>
+<li>
+Strong Linux or UNIX administration skills &amp; familiarity with the installation and configuration of Linux or UNIX operating systems &amp; setup and operation of TCP/IP networking on Linux or UNIX systems</li>
+<li>
+Ability to test and setup customer-like computing environments for demo/troubleshooting purposes</li>
+<li>
+Understanding of computer and networking hardware, Network routing, configuration, etc.</li>
+</ul>
+</div></div>

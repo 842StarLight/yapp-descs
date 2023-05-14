@@ -1,0 +1,77 @@
+<h2>.NET Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>OVERVIEW</div>
+<div>
+FieldEdge is the leading vertical SaaS business that enables contractors to run their small businesses with ease, save time and make more money through targeted marketing and improved resource utilization. FieldEdge has helped thousands of service-based organizations increase sales performance and overall workforce productivity by managing all aspects of their daily operations since 1980.</div>
+<div>
+<br>
+</div>
+<div>
+We are looking for Sr. .NET Engineer to join our engineering group in Atlanta, GA &amp; Fort Myers, FL to enhance the capabilities of the leading field service management SaaS based application in a fast-paced and fun environment. The successful candidate will work in an Agile development team. The goal is to enhance existing features and build new ones with a focus on code quality through unit tests and engineering best practices.</div>
+<div>
+<br>
+</div>
+<div>
+This is 100% hands on coding role. You will influence product design and quality, so we can help deliver a fantastic user experience.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Responsibilities:</b></h3>
+<div><ul>
+<li>
+Enhance existing features in the application</li>
+<li>
+Build new features into the application</li>
+<li>
+Develop unit tests to ensure code quality</li>
+<li>
+Collaborate with Product, Engineering, and QA to ensure quality of features</li>
+<li>
+Promote quality within all aspects of development by actively participating in requirements gathering, technical design reviews, etc.</li>
+<li>
+Become a subject matter expert in the application</li>
+<li>
+Hold the product to the upmost quality</li>
+<li>
+Assist in production releases</li>
+<li>
+Mentor and coach more junior engineers</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Requirements:</b></h3>
+<div><ul>
+<li>
+Passionate to learn about the product and grow technically</li>
+<li>
+Bachelor's Degree in Computer Science, Information Systems, or similar. Or equivalent work experience.</li>
+<li>
+2+ years’ experience coding in C#</li>
+<li>
+Knowledge working with source control systems (GIT, SVN, TFS)</li>
+<li>
+Experience with web applications is a plus</li>
+<li>
+Experience with Azure is a plus</li>
+<li>
+Excellent interpersonal and communication skills</li>
+<li>
+Experience leading a team of engineers to deliver features to production</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Benefits:</b></h3>
+<div><ul>
+<li>
+Start-up culture – for those looking to work hard and develop in a rewarding career with growth opportunities</li>
+<li>
+Competitive salaries with performance based compensation and incentive program</li>
+<li>
+Comprehensive benefits package, including medical, dental, life and disability insurance</li>
+<li>
+401k plan with company matching</li>
+<li>
+Catered lunches, free snacks and drinks and many other perks</li>
+</ul></div>
+</div></div>
+</div></div>

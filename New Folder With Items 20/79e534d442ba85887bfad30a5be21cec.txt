@@ -1,0 +1,50 @@
+<h2>Product Manager- Mobile</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div><div><div><div><div>Brivo, the original innovator of cloud-based physical security solutions for commercial buildings, seeks an experienced Product Manager to support several of our best-in-class mobile apps for iOS and Android (including Brivo Onair Pass and Brivo Onair Mobile). This role is responsible for supporting on-shore and off-shore scrum teams in both the day-to-day operations of mobile development as well as charting the strategic direction for Brivo’s current and future mobile offerings.<br>
+<br>
+Responsibilities for this role include defining and prioritizing of stories and backlogs, engaging and coordinating with other product managers, executives, internal and external sales and marketing teams to meet customer and business needs, testing and evaluating tools and vendors for integrations, and serving as the de facto product owner the products they oversee. Additionally, this role requires experience with mobile app distribution through AppCenter, Google Play, and the Apple App Store.<br>
+<br>
+<b>Responsibilities:</b>
+<ul>
+<li>Work cross functionally with all areas of our business including, but not limited to, channel partners, sales, customer support, operations and finance.</li>
+<li>
+Develop a detailed understanding of Brivo’s business environment and translate our strategic priorities into a product vision, roadmap and specifications.</li>
+<li>
+Utilize your strong Voice of Customer skills to develop product requirements and new product proposals based on market needs.</li>
+<li>
+Collaborate with internal teams to iterate on product concepts and deliver capabilities that will enable us to accelerate our growth.</li>
+<li>
+Orchestrate internal and external engineering teams using Agile methodologies to deliver on our vision including product roadmap development, sprint planning, user story creation, backlog prioritization and grooming.</li>
+</ul>
+ <b>Qualifications:</b>
+<ul>
+<li>Experienced building customer facing-products (at least 3 years) and have a Bachelor’s degree in Computer Science, Business Administration, Information Systems or related field.</li>
+<li>
+Able to lead time-sensitive, high availability products with minimum guidance and high attention to detail.</li>
+<li>
+Able to collaborate at a variety of levels on product vision, strategy and roadmap.</li>
+<li>
+Able to use data to establish priorities and drive actions.</li>
+<li>
+Action-oriented, self motivated, and a team player.</li>
+<li>
+Comfortable working in a dynamic, fast-paced environment.</li>
+<li>
+Ideally experienced in Google Analytics or similar data analytics platforms.</li>
+<li>
+Experience overseeing teams utilizing Xamarin (C#) and Firebase (Node.js) development frameworks.</li>
+<li>
+A track record of success in developing mobile applications and features, including Push Notifications, UI/UX improvements, and integration of analytics platforms.</li>
+<li>
+Excellent communication skills - both written and verbal - to develop training and marketing materials for products and services coming to market.</li>
+<li>
+The ability to clearly define, quantify, and track results to implement continuous improvements, and enhance the customer experience.</li>
+<li>
+Familiarity working with UX prototyping tools such as Proto.io, InVision, and/or Sketch to visually articulate ideas both for developers and stakeholders.</li>
+<li>
+Some level of experience in the commercial security industry or other related industries (access control, property management, etc).</li>
+</ul>
+<b>About Brivo</b><br>
+Brivo is the original innovator of cloud-based physical security solutions for commercial buildings. Currently serving over ten million users, Brivo offers a unified security platform including access control, mobile credentials, mobile administration, video surveillance, identity federation, visitor management, and elevator control. As a SaaS company, Brivo also offers a complete API platform service that empowers partners to build custom integrations and vertical market offerings. Our mission is to make the world a safer place by providing a subscription-based service for securing buildings using reliable, convenient, scalable, cyber-hardened technology..</div></div></div></div></div>
+</div>

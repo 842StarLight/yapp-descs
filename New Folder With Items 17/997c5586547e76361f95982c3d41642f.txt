@@ -1,0 +1,40 @@
+<h2>Technical Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>TECHNICAL ARCHITECT<br>
+Automation Anywhere is looking for a self-motivated, highly professional technical architect to join our Professional Services Team. Working closely with the Customer, Automation Anywhere Customer Success, Sales Engineering and Technical Support teams, the candidate will be engaged on as needed basis with customer IT management and technical personnel to help design the technical infrastructure necessary for the Automation Anywhere software to be successfully deployed and operated, troubleshoot complex issues as well as to work with customers to optimize their RPA architecture from a scalability, stability, and resilience perspective,<br>
+Responsibilities Also Include the Following<br>
+<ul>
+<li>As required, the candidate will work with customers to perform architectural and process health checks of development, test, and or/production infrastructures. This will include identifying and documenting proposed optimizations and best practices to support maximum availability as well as scaling of the infrastructure.</li>
+<li>As required, the technical architect will provide onsite or remote onboarding services for large customers and/or particularly complex environments.</li>
+<li>Ensure that customers can scale seamlessly and rapidly with minimal issues.</li>
+<li>Work on key complex critical issues on site at the customer location along with customer personnel and remote Automation Anywhere Support engineers to reproduce issues and gather data as needed.</li>
+<li>Coordinate or assist onsite/remote technical resources to work toward resolution of issues with major upgrades or implementations</li>
+<li>Produce high quality, well structured environment assessment documents as necessary, including software and hardware release planning, upgrade planning and bug risk analysis.</li>
+<li>Analyze customers systems to identify potential problems and trends, and subsequently make the necessary recommendations to resolve them to ensure optimal performance of these systems.</li>
+</ul>
+The successful candidate will thrive on customer interaction and possess excellent verbal and written communication skills as well as outstanding Windows client/server enterprise environment troubleshooting and architecture skills. The successful candidate will also have experience in one or more customer facing roles attaining trusted advisor relationships. The candidate should also be a creative problem solver who enjoys working on challenging issues, is comfortably handling customer escalations, continuously learning new technologies and protocols.<br>
+Technical Skills<br>
+<ul>
+<li>BS/MS in Computer Science or another technical field</li>
+<li>Excellent communication (both written and verbal), organization, time management, and leadership skills</li>
+<li>Strong experience evaluating, specifying, and troubleshooting large enterprise Windows Client/Server architectures including network components (firewalls, switches), load balancers, different data bases, and virtual environments. Should include a strong emphasis on deployment planning, troubleshooting, upgrading, integration, and maintenance of client/server operations. Also, should include the ability to take a creative approach to problem solving, including troubleshooting and workaround identification.</li>
+<li>Comfortable interacting with all levels of management</li>
+<li>Ability to work well with a variety of customer roles and management levels (e.g. IT engineers, developers, IT managers and Business owners’ personnel), engaging with them at the appropriate technical level.</li>
+<li>Experience in management of large enterprise customers including technical projects requiring coordination of various resources for successful outcomes.</li>
+<li>The types of tasks this individual is responsible are a mix of structured and unstructured tasks. This individual will apply attained experiences and knowledge in solving routine to moderately complex problems.</li>
+<li>A high degree of technical acumen enabling the understanding and tracking highly technical topics and scenarios.</li>
+<li>Strong aptitude for learning new technologies and understanding how to utilize them in a customer facing environment.</li>
+<li>Ability to effectively work with tight schedules and fast paced environment to minimize problem impact on the customer</li>
+<li>Experience dealing with technical end-users in support roles</li>
+<li>Good knowledge of Java and .Net</li>
+<li>8+ years’ experience in technical customer-facing role such as a Solution Architect, Enterprise Engineer or Professional Services architect.</li>
+<li>Extensive enterprise Microsoft Server and Windows environment design, specification, sizing and troubleshooting experience (MCSE a plus)</li>
+<li>Extensive experience with large enterprise ERP system deployment and architecture such as SAP and Oracle</li>
+<li>Demonstrated analysis and problem-solving expertise</li>
+<li>Experience/knowledge of Networking - practical application of technologies, protocols, and related standards including TCP/IP, HTTP, HTTPS, XML, LAN, WAN, Routers.</li>
+<li>Knowledge of Active Directory, Load Balancers and various databases preferred</li>
+<li>Citrix XenApp and Xendesktop experience (CCEA a plus)</li>
+<li>VMware View experience (VCP a plus)</li>
+<li>Cisco Networking Experience (CCNA a plus)</li>
+<li>Duties will require extensive travel, at times 50%.</li>
+</ul>
+</div></div>

@@ -1,0 +1,56 @@
+<h2>Implementations Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">WorkSpan is the only Go-To-Market Network for Alliances to automate &amp; report on joint sales, marketing, &amp; solution initiatives. Translation? We help companies partner up to offer awesome joint products &amp; services—with the ability to engage, manage, &amp; measure at scale. It’s as easy as connecting with your partners who are already on the network or inviting them to join the 180+ companies that are running over $130M in managed funds &amp; $3.1B of the influenced pipeline a year. WorkSpan is a privately held company backed by Mayfield, &amp; is currently in use by global enterprises including SAP, Google, Accenture, CenturyLink, Infosys, Lenovo, etc.
+<br><br>
+The Opportunity
+<br><br>
+Reporting to the Sr. Manager of Implementations, the Implementations Engineer will be responsible for the implementation of WorkSpan Enterprise clients.
+<br><br>
+The Network Success implementation team’s charter is to implement programs on the WorkSpan platform for our customers and their partners. Your goal will be to meet business needs while making platform decisions to unlock business value for our users.
+<br><br>
+The team also supports internal clients -- NSMs (with new and existing customers). The team will implement programs under the following sample scenarios:
+<br><ul>
+<li>New customer</li>
+<li>Onboarding the first program</li>
+<li>Existing customer</li>
+<li>Onboarding a new program</li>
+<li>Expanding an existing program (e.g., new partners, new reports, new processes, new integrations)</li>
+<li>Partner(s)</li>
+<li>Onboarding a customer’s partners and their specific needs on to WorkSpan as needed. Usually determined by Sales and Network Success Managers</li>
+</ul>
+This position is key in delivering Standard, Configured, and Custom Implementations of WorkSpan Use Cases for all our customers.
+<br><br>
+Key Responsibilities
+<br><ul>
+<li>Own technical delivery of a working solution from design, through to working with partner engineering teams through integration, testing, implementation, and launch</li>
+<li>Create tools, automation scripts, and documentation to optimize, and improve customer onboarding experience and time to go-live</li>
+<li>Be a technical subject matter expert and represent the full internal and external API capabilities of Workspan</li>
+<li>Design data ingestion processes for acquiring new datasets supporting key business initiatives</li>
+<li>Work closely with Product and Engineering to architect technical solutions to manage the balance between standard, configured, and custom implementations</li>
+<li>Assisting customers with evaluations and benchmarks, system configuration, and workflow implementation.</li>
+<li>Help customers with the integration of their home-grown or 3rd party business solutions like Salesforce, Marketo, etc.</li>
+<li>Work with the internal Product and engineering team to set up, configure and test data and system integrations</li>
+<li>Deliver a live system for customers with their own data in the SLAs defined by the Network Success and Sales teams.</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Bachelor’s degree, or equivalent experience, in Computer Science, Engineering, Mathematics or a related field equivalent with experience working in SaaS domain</li>
+<li>3-5 years of experience in technical consulting roles such as professional services or technical sales engineering</li>
+<li>Project management and cross-functional leadership skills to work with various teams supporting a timely customer use-case deployment and go-live across multiple teams</li>
+<li>3+ years of experience working or building with one or more programming languages or platforms: Python, Java, C# or Google App Script.</li>
+<li>Knowledge of the web technology stack ( HTML, JavaScript, RESTful APIs)</li>
+<li>Experience in MySQL, Google DataStore or other relational/No-SQL database covering designing, deploying, troubleshooting, and performance tuning in a production environment</li>
+<li>Git and automated code deployment solutions such as Jenkins</li>
+<li>The technical know-how of clouding computing services like AWS or Azure or Google Cloud</li>
+<li>Experience with Agile engineering practices, such as Scrum, Test-Driven Development, and Continuous Integration</li>
+<li>A great communicator, comfortable explaining complex concepts to both technical and non-technical audiences in verbal and written form to audiences large and small.</li>
+</ul>
+Next Steps
+<br><br>
+Sound right up your alley? Want to learn more? So do we! Drop us a line at ankit@workspan.com with your credentials in whatever format you feel is best. But don’t stop there—give us a few reasons to really get excited about you. Share your thoughts on:
+<br><br>
+1. What're the best and worst Implementations related experiences you’ve ever had? Why?
+<br>2. What are the 3 top best practices you would instill in your model Implementation team?
+<br>3. Tell us about one of your biggest strengths and weakness, or areas where you could use improvement.
+<br>4. Where in your career would you like to see yourself in the next 2-3 years?
+<br><br>
+Short and concise answers will do—we’re just hoping to add some color to an otherwise typically boring resume/LinkedIn profile. We want to get to know you!</div>

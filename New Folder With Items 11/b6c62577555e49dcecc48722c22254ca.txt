@@ -1,0 +1,108 @@
+<h2>AppD Project Manager, SaaS Operations</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<p><b>About Us</b></p>
+<p></p>
+<p><br>
+AppDynamics is an application performance monitoring solution that uses machine learning and artificial intelligence (AI) to provide real-time visibility and insight into IT environments. With our unique AIOps solution, you can take the right action at exactly the right time with automated anomaly detection, rapid root-cause analysis, and a unified view of your entire application ecosystem, including private and public clouds. Using AppDynamics, you’ll finally align IT, DevOps, and the business around the information that helps you protect your bottom line and deliver flawless customer experiences at scale.</p>
+<p></p>
+<p><b><br>
+What We Need</b></p>
+<p></p>
+<p><br>
+The SaaS Operations team at AppDynamics is looking for a skilled Project Manager to help drive strategic projects, including:</p>
+<p></p>
+<ul><li>
+<br>
+enable teams and resources connected with the release cycles of our controller software, which are becoming more frequent and, therefore, more operationally complex.
+</li></ul>
+<p></p>
+<p>This role requires someone with a passion for driving technical initiatives end-to-end by aligning cross-functional teams towards a common goal; someone who thrives in a fast-paced environment where collaboration, resourcefulness, and ownership are crucial. This individual needs to approach challenges strategically, with the goal of designing process which will allow us to tackle future projects more effectively. Key responsibilities include:</p>
+<p></p>
+<ul>
+<li>
+<br>
+ Coordination and direction of in-house technical resources for complex operational projects, including customer on-boarding, software upgrades, capacity planning and cloud infrastructure optimization. You will work closely with teams of engineers, product managers, finance leaders, technical operations, customer support, and sales, among others.</li>
+<li> Develop tools and processes to increase visibility into our cloud infrastructure; analyze cloud usage data and trends; recommend and implement solutions to optimize cloud cost efficiency; define and implement cloud governance policies and procedures</li>
+<li> Leverage technical &amp; project management foundation to build comprehensive plans, identify risks, and ensure a smooth process; actively assist cross-functional teams to define and manage project milestones on the path to completion. Ensure projects are properly resourced and provide necessary transparency to leadership. Maintain metrics which provide visibility to stakeholders regarding project progress and quality. Measure KPIs to track progress and success of cloud optimization efforts</li>
+<li> Acts as a liaison between technical operations, customer success, sales, support and development during customer issues to manage expectations and provide status updates.</li>
+<li> Participate in the enhancement and execution of best practices to monitor &amp; authorize changes to production</li>
+</ul>
+<p></p>
+<p><b><br>
+Core Functional</b><b> &amp; </b><b>Technical Skills:</b></p>
+<p></p>
+<ul>
+<li>
+<br>
+ Minimum of a Bachelor's degree in CSE, EE, CSM, related discipline OR equivalent work experience;</li>
+<li> 3+ years managing projects related to software operations and/or technical support, ideally in enterprise SaaS or Web Services environments;</li>
+<li> Proven understanding and working knowledge of the software development life cycle and modern project management best practices, such as Agile, Scrum, ITIL, Six Sigma, etc. Formal project management training related to Agile best practices strongly desired;</li>
+<li> Experience managing multiple, simultaneous projects and cross-functional dependencies;</li>
+<li> Project experience involving one of the leading public cloud platforms;
+</li>
+<li> Experience supporting and resolving customer escalations;</li>
+<li> Working knowledge of Jira, or similar software for tracking and managing projects;
+</li>
+<li> Experience working with MS Office, MS Project, or similar project / portfolio management tools.<br>
+</li>
+</ul>
+<p></p>
+<p><b>Strongly Preferred (not required) Skills:</b></p>
+<p></p>
+<ul>
+<li>
+<br>
+ Experience in public cloud cost / usage optimization and an understanding of public cloud spend, billing and pricing principles;</li>
+<li> Basic understanding of scripting with Ansible, Chef, Python and/or Shell;</li>
+<li> Familiarity with operational environment: Java, MSSQL or similar Relational Database, Glassfish App Server or similar;</li>
+<li> Any exposure to monitoring tools (AppDynamics, PingDom, Nagios or similar).</li>
+</ul>
+<p></p>
+<p><b><br>
+Soft Skills:</b></p>
+<p></p>
+<ul>
+<li>
+<br>
+ Excellent communication skills – oral and written. Listens and communicates effectively.
+</li>
+<li> Evidence of successful internal &amp; external customer relationship management, influencing, negotiating; the ability to manage multiple, competing stakeholders.
+</li>
+<li> Works well under pressure, comfortable meeting demanding timelines.
+</li>
+<li> Evidence of successful relationships with account and support teams.</li>
+<li> Proven problem-solving ability in complex technical environments</li>
+<li> Low ego and high integrity; team-first attitude very important.<br>
+</li>
+</ul>
+<p></p>
+<p><b>Benefits:</b></p>
+<p>
+We take great pride in the award-winning culture at AppDynamics. For example:</p>
+<p></p>
+<ul>
+<li>
+<br>
+ Medical, dental, vision coverage.</li>
+<li> 401k match (4.5%)</li>
+<li> Wellness perks (gym, hobbies, education, store discounts, personal finance).</li>
+<li> 4 weeks paid time off (PTO), 5 days volunteer time off (VTO), 14 holidays (including 1 birthday PTO and 1 floating holiday).</li>
+<li> Mandatory company shut down between Christmas and New Years.</li>
+<li> Weekly catered breakfast and lunch, and all the snacks, fruits and drinks your heart desires, monthly happy hour events, and weekly massages.</li>
+<li> Free shuttle service and pre-tax commuter benefits.</li>
+</ul>
+<br>
+<p><b>
+Just a Note:</b></p>
+<p></p>
+<p><br>
+Note to Recruiters and Placement Agencies: AppDynamics does not accept unsolicited agency resumes. Please do not forward unsolicited agency resumes to our website or to any AppDynamics employee. AppDynamics will not pay fees to any third party agency or firm and will not be responsible for any agency fees associated with unsolicited resumes. Unsolicited resumes received will be considered property of AppDynamics.</p>
+<p></p>
+<p><br>
+AppDynamics is an <b>equal opportunity employer</b> and considers all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, protected veteran status, or any other unlawful factor. AppDynamics complies with all applicable laws, including those regarding consideration of qualified applicants with criminal histories (such as the San Francisco Fair Chance Ordinance). If your disability makes it difficult for you to use this site, please contact recruiting@appdynamics.com. AppDynamics participates in E-Verify.</p>
+<br>
+</div>
+<div>
+#AppD_jobs</div>
+</div></div>

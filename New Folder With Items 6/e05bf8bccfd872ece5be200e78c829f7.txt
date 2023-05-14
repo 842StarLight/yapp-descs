@@ -1,0 +1,44 @@
+<h2>Senior Quality Assurance Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Ziosk</b> is revolutionizing the $472 billion restaurant industry by providing on-the-table payment and guest ordering experiences.</p>
+<p>
+Today there are over 180,000 Ziosk tablets deployed nationwide at over 3,000 restaurants including Chili’s, Olive Garden, Red Robin, Outback, TGI Friday’s, Yard House, and processing over $12 Billion in payments per year.</p>
+<p>
+We are expanding our team in the areas of development, sales and customer service to support this growth.</p>
+<p><b>
+Summary</b></p>
+<p>
+The <b>Senior Quality Assurance Engineer</b> will be a hands-on leader who will share our passion for market differentiation and excellence. This individual will be responsible for creating, implementing and driving quality assurance/quality control activities in a software development environment. The ideal candidate will be an independent self-starter capable of establishing priorities, managing time, meeting deadlines, and working well within a larger team.</p>
+<p><b>
+Responsibilities</b></p>
+<ul>
+<li>Design, develop, create and perform both automated and manual functional, system, performance, data, integration and regression/acceptance testing to support the delivery of high-quality software services to customers.</li>
+<li>Design, develop and execute stress testing, edge case testing, negative testing scenarios.</li>
+<li>Create a test strategy for each new feature and function to ensure journey to manage and maintain the test case leads to high quality and defect free software</li>
+<li>Develop and maintain test cases and detailed plans for projects assigned</li>
+<li>Work with the team to drive improvements into the testing coverage, testing methodologies and process</li>
+<li>Create and continue to drive automation for Front End team.</li>
+<li>Facilitate the creation and use of metrics for measuring test effectiveness and forecasting</li>
+<li>Create continuous test improvement mindset and adopt automation by creating new test cases; work with the team members to evaluate and update existing test cases to achieve comprehensive test coverage</li>
+<li>Utilizing advanced technical skills, new perspectives and creative approaches, to test the system</li>
+<li>Analyze trends to identify possible holes in testing, development or process to improve quality</li>
+<li>Implement methodology to support release over release improvement in quality and delivery</li>
+</ul>
+<p><b>Qualifications</b></p>
+<ul>
+<li>7+ years of hands-on experience in software quality engineering of both mobile and web solutions</li>
+<li>Must have hands-on software development experience to be able to review C++ and C# code.</li>
+<li>Independent self-starter capable of establishing priorities, managing time, meeting deadlines, and working well within a larger team</li>
+<li>Embedded application testing experience required</li>
+<li>Web / Cloud level testing experience required</li>
+<li>Experience with Jira tools and SCRUM methodologies</li>
+<li>Experience with both mobile/embedded and web-based testing methodologies and tools</li>
+<li>Experience with managing concurrent release activities</li>
+<li>Critical thinking and decision making skills</li>
+<li>Must be flexible and capable of working in a fast paced organization</li>
+<li>Android OS level testing a plus</li>
+<li>Hardware testing a plus</li>
+<li>Embedded Android testing a plus</li>
+</ul>
+<p><b>Ziosk</b> is an Equal Opportunity employer offering competitive benefits and compensation. Candidates must be eligible to work in the U.S. and be able to commute daily to North Dallas. <b>No agencies or third party recruiters, please</b>.</p>
+</div></div>

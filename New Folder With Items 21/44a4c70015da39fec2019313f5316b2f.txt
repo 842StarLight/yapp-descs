@@ -1,0 +1,122 @@
+<h2>Security Engineer I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Expedia<p></p>
+<h2 class="jobSectionHeader"><b>
+Position Overview</b></h2>
+<p>
+As a Security Engineer, you will be a key member of the Information Security team, who will guide in designing, building, and deploying security solutions for Expedia Partner Solutions (EPS), a B2B brand of Expedia Group. You will work hands-on with our software engineers and operations team to actively identify and address security risks. You'll be responsible for automating vulnerability scans; assessing, prioritizing and driving remediation of vulnerabilities; driving next generation security operations approaches/tools and producing automated dashboards to measure the effectiveness of the program. You share a real passion for engineering solutions to complex security problems, while minimizing friction and improving productivity.</p>
+<p></p>
+<p>
+As Expedia Group’s B2B brand, our mission is to create new opportunities and work relentlessly to fuel our partners’ growth. We are the fastest-growing affiliate network ($4 billion in sales and counting), we work with over 10,000 partners in 33 countries to turn their web traffic into hotel bookings and happy customers.</p>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+What you'll do:</b></h2>
+<ul>
+<li>
+Work closely with and encourage engineering teams to establish, implement and promote security standards to properly secure systems, applications and networks</li>
+<li>
+Responsible for developing and documenting security related processes and procedures to help secure, mature and/or improve the security of the environment</li>
+<li>
+Respond to alerts from security tools and take necessary actions to mitigate the security risk</li>
+<li>
+Perform network and application vulnerability scanning activities, helping to ensure full coverage of environments and assets</li>
+<li>
+Review, prioritize, and mitigate vulnerabilities including patching on systems and environments including guiding teams towards automation</li>
+<li>
+Perform log reviews, correlate suspicious activity, identify false positives and alert on key security metrics</li>
+<li>
+Promote security awareness across the organization</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+Who you are:</b></h2>
+<ul>
+<li>
+Bachelor's degree in Information Security or related field</li>
+<li>
+2+ years of hands on or working knowledge with Endpoint protection, Application security, Malwares, File Integrity Monitoring and Logging &amp; Monitoring</li>
+<li>
+2+ years' experience in at least one high-level programming language such as Python, Ruby or Java</li>
+<li>
+Experience with containers, scripting, automation and cloud security is desired</li>
+<li>
+Knowledge of Information Security frameworks, processes, technologies, and practices, including OWASP, PCI DSS, NIST and ISO27xxx standards</li>
+</ul>
+<p></p>
+<p><b>
+Why join us:
+</b></p>
+<p>Expedia Group recognizes our success is dependent on the success of our people. We are the world's travel platform, made up of the most knowledgeable, passionate, and creative people in our business. Our brands recognize the power of travel to break down barriers and make people's lives better – that responsibility inspires us to be the place where exceptional people want to do their best work, and to provide them the tools to do so.</p>
+<p></p>
+<p>
+Whether you're applying to work in engineering or customer support, marketing or lodging supply, at Expedia Group we act as one team, working towards a common goal; to bring the world within reach. We relentlessly strive for better, but not at the cost of the customer. We act with humility and optimism, respecting ideas big and small. We value diversity and voices of all volumes. We are a global organization but keep our feet on the ground so we can act fast and stay simple. Our teams also have the chance to give back on a local level and make a difference through our corporate social responsibility program, Expedia Cares.</p>
+<p></p>
+<p>
+If you have a hunger to make a difference with one of the most loved consumer brands in the world and to work in the dynamic travel industry, this is the job for you.</p>
+<p></p>
+<p>
+Our family of travel brands includes: Brand Expedia®, Hotels.com®, Expedia® Partner Solutions, Egencia®, trivago®, HomeAway®, Orbitz®, Travelocity®, Wotif®, lastminute.com.au®, ebookers®, CheapTickets®, Hotwire®, Classic Vacations®, Expedia® Media Solutions, CarRentals.com™, Expedia Local Expert®, Expedia® CruiseShipCenters®, SilverRail Technologies, Inc., ALICE and Traveldoo®.</p>
+<p></p>
+<p><b>
+About Expedia Partner Solutions (EPS)
+</b></p>
+<p>The travel market never stands still. At Expedia Partner Solutions (EPS), we’re smack in the middle of it. We unlock the power of Expedia Group for thousands of travel partners around the world and create the tools &amp; technologies that help millions of travelers find the perfect accommodation, car hire, &amp; flights for their next trip. We offer the chance to work with the brightest minds in the industry in an energetic, collaborative and truly international work environment. We are passionate about innovation, creative problem-solving and –making sure we have fun while we’re doing it!</p>
+<p></p>
+<p><b>
+Why build your career at EPS?</b></p>
+<ul>
+<li>
+We're re-inventing travel, one day at a time - it's an exciting challenge. We're super-motivated and setting the pace.</li>
+<li>
+We've got the scope and the freedom to make a difference. We don't do ordinary.</li>
+<li>
+We work with some really smart partners - from loyalty marketing whiz kids to the world's leading airlines and travel agents.</li>
+<li>
+We're a team of passionate, hard-working travel enthusiasts. We just love what we do.</li>
+<li>
+We define the questions, not the answers, for an industry that changes every day. Isn't that cool?</li>
+<li>
+We want everyone on our team to have the resources to succeed in their career</li>
+<li>
+We get to do all of this in beautifully designed offices around the world</li>
+</ul>
+<p></p>
+<p><b>
+Why join us:
+</b></p>
+<p></p>
+<p>Expedia Group recognizes our success is dependent on the success of our people. We are the world's travel platform, made up of the most knowledgeable, passionate, and creative people in our business. Our brands recognize the power of travel to break down barriers and make people's lives better – that responsibility inspires us to be the place where exceptional people want to do their best work, and to provide them the tools to do so.</p>
+<p></p>
+<p>
+Whether you're applying to work in engineering or customer support, marketing or lodging supply, at Expedia Group we act as one team, working towards a common goal; to bring the world within reach. We relentlessly strive for better, but not at the cost of the customer. We act with humility and optimism, respecting ideas big and small. We value diversity and voices of all volumes. We are a global organization but keep our feet on the ground so we can act fast and stay simple. Our teams also have the chance to give back on a local level and make a difference through our corporate social responsibility program, Expedia Cares.</p>
+<p></p>
+<p>
+If you have a hunger to make a difference with one of the most loved consumer brands in the world and to work in the dynamic travel industry, this is the job for you.</p>
+<p></p>
+<p>
+Our family of travel brands includes: Brand Expedia®, Hotels.com®, Expedia® Partner Solutions, Egencia®, trivago®, HomeAway®, Orbitz®, Travelocity®, Wotif®, lastminute.com.au®, ebookers®, CheapTickets®, Hotwire®, Classic Vacations®, Expedia® Media Solutions, CarRentals.com™, Expedia Local Expert®, Expedia® CruiseShipCenters®, SilverRail Technologies, Inc., ALICE and Traveldoo®.</p>
+<p></p>
+<p><b>
+About Expedia Partner Solutions (EPS)
+</b></p>
+<p>The travel market never stands still. At Expedia Partner Solutions (EPS), we’re smack in the middle of it. We unlock the power of Expedia Group for thousands of travel partners around the world and create the tools &amp; technologies that help millions of travelers find the perfect accommodation, car hire, &amp; flights for their next trip. We offer the chance to work with the brightest minds in the industry in an energetic, collaborative and truly international work environment. We are passionate about innovation, creative problem-solving and –making sure we have fun while we’re doing it!</p>
+<p></p>
+<p><b>
+Why build your career at EPS?</b></p>
+<ul>
+<li>
+We're re-inventing travel, one day at a time - it's an exciting challenge. We're super-motivated and setting the pace.</li>
+<li>
+We've got the scope and the freedom to make a difference. We don't do ordinary.</li>
+<li>
+We work with some really smart partners - from loyalty marketing whiz kids to the world's leading airlines and travel agents.</li>
+<li>
+We're a team of passionate, hard-working travel enthusiasts. We just love what we do.</li>
+<li>
+We define the questions, not the answers, for an industry that changes every day. Isn't that cool?</li>
+<li>
+We want everyone on our team to have the resources to succeed in their career</li>
+<li>
+We get to do all of this in beautifully designed offices around the world</li>
+</ul>
+<p></p>
+Expedia is committed to creating an inclusive work environment with a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. This employer participates in E-Verify. The employer will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee's I-9 to confirm work authorization.</div></div>

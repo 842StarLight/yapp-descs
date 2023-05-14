@@ -1,0 +1,83 @@
+<h2>Manager of Data Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Caring for the world, one person at a time has inspired and united the people of Johnson &amp; Johnson for over 125 years. We embrace research and science - bringing innovative ideas, products and services to advance the health and well-being of people. Employees of the Johnson &amp; Johnson Family of Companies work with partners in health care to touch the lives of over a billion people every day, throughout the world.</div>
+<br>
+<div></div>
+<div>With $76.5 billion in 2017 sales, Johnson &amp; Johnson is the world's most comprehensive and broadly based manufacturer of health care products, as well as a provider of related services, for the consumer, pharmaceutical, and medical devices and diagnostics markets. There are more than 265 Johnson &amp; Johnson operating companies employing approximately 126,500 people and with products touching the lives of over a billion people every day, throughout the world. If you have the talent and desire to touch the world, Johnson &amp; Johnson has the career opportunities to help make it happen.</div>
+<br>
+<div></div>
+<div>Thriving on a diverse company culture, celebrating the uniqueness of our employees and committed to inclusion, J&amp;J is proud to be an equal opportunity employer.</div>
+<br>
+<div></div>
+<div>We are one of only two industrial companies to hold a AAA Credit Rating. With our forward-thinking business practices, commitment to diversity and inclusion, smart management and social responsibility—as noted by our tenure in Fortune World’s Most Admired company list for the 16th year in a row, and appearing in the top 20—we are well positioned to transform Technology &amp; Analytics to help innovate faster and compete more effectively, making science and technology equal partners in building the future of Johnson &amp; Johnson.</div>
+<br>
+<div></div>
+<div>The Johnson &amp; Johnson Supply Chain Digital &amp; Analytics (“JJSC DNA”) group is seeking a Manager of Data Engineering to support modeling and analytics work needed to support the Johnson &amp; Johnson Operating System (JJOS) activities as well as general business improvement opportunities. analytics.</div>
+<div><b>Responsibilities</b></div>
+<div></div>
+<ul>
+<li>Work with business to get understanding of their data requirements</li>
+<li>
+Own end to end data and visualization applications</li>
+<li>
+Help Business improve process and help business to make data driven decisions</li>
+<li>
+Guide business units towards utilization and implementation of correct cloud computing environments.</li>
+<li>
+Set up and manage cloud computing data via (AWS/MS Azure).</li>
+</ul>
+<br>
+<br>
+<br>
+<b>Qualifications</b><br>
+<ul>
+<li>Advanced degree in STEM or related discipline, e.g. statistics, operations research, computer science, mathematics; computer science degree highly preferred</li>
+<li>
+Proven ability to understand massive disparate data sets and transform the information into clear insights for the business.</li>
+<li>
+ Strong experience in one or BI software tools like Tableau, Qlik, Power BI, etc.</li>
+<li>
+Strong communication and influencing skills.</li>
+<li>
+ Bachelor’s degree in relevant field with 3-5 years of work experience in relevant field OR.</li>
+<li>
+Master’s in relevant field with 1-3 years of relevant work experience in data analysis or related field.</li>
+<li>
+Basic understanding of machine learning methods.</li>
+<li>
+Strong demonstrated understanding of data lifecycle required around data ingestion (ingest data from disparate systems into cloud computing environment), data contextualization (merging large data sets, developing algorithms to merge and clean data); data insights and analytics is required.</li>
+<li>
+Familiarity with different types of databases and business applications of distributed computing (e.g. MapReduce, HIVE, HADOOP).</li>
+<li>
+Demonstrated experience in setting up and managing data in cloud computing environment (AWS or MS Azure) highly preferred.</li>
+<li>
+Familiarity with large datasets, and understanding of data analysis workflows is required.</li>
+<li>
+Primary Location: : North America-United States-New Jersey-Bridgewater, North America-United States-Pennsylvania-West Chester.</li>
+<li>
+Other Locations: North America-United States-New York-New York, North America-United States-New Jersey-New Brunswick, North America-United States-New Jersey-Titusville</li>
+</ul>
+<div><b>Other:</b></div>
+<ul>
+<li>Effective verbal/written communication &amp; data presentation skills, including an ability to effectively communicate with both business and technical teams</li>
+<li>
+Ability to travel up to 15% of the time, including international travel.</li>
+<li>
+Johnson &amp; Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.</li>
+</ul>
+<br>
+<div></div>
+<div>
+</div>
+<br>
+<br>
+<b>Primary Location</b><br>
+United States-New Jersey-Bridgewater-<br>
+<b>Other Locations</b><br>
+North America-United States-New Jersey-New Brunswick, North America-United States-New York-New York, North America-United States-Pennsylvania-West Chester, North America-United States-Washington-Seattle, United States-New Jersey-Titusville<br>
+<b>Organization</b><br>
+Johnson &amp; Johnson Services Inc. (6090)<br>
+<b>Job Function</b><br>
+Digital Product Development<br>
+<b>Requisition ID</b><br>
+6426190610</div></div>

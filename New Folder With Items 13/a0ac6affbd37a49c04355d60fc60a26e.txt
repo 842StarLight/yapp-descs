@@ -1,0 +1,85 @@
+<h2>Java Software Engineer (Operations Web/API)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>As a leading worldwide provider of navigation devices and wearable technology, our focus is on developing, designing and supporting superior products. Our advanced technology promotes performance, safety and ease of use in every market we serve. That makes us an engineering and technology company with a keen focus on recruiting talent in those fields. But the same vertical integration business model that keeps all design and manufacturing processes in-house also gives us the incentive to hire top performers from different backgrounds, including operations, finance and accounting, information technology, sales, marketing and communications.</div>
+<div></div>
+<br>
+<div>
+At Garmin, Software Engineering teams are comprised of associates who share the same passion about what they do every day. We offer a relaxed team environment (no dress code!) where advancement is found from sharing knowledge, not hiding it! While we promise you a lot of responsibility, you also will have the opportunity to have ownership over projects…oh, and we promise you there will be some fun mixed in there, too!</div>
+<div></div>
+<br>
+<div>
+We are looking for a full-time Software Engineer (Operations) at our world headquarters in Olathe, KS to develop to design, enhance, and develop single and multi-system applications as a part of structured SDLC process. In this role you will be responsible for working with Internet and Enterprise Application specialists to develop and implement unit and system testing processes. Other essential functions include:</div>
+<div></div>
+<ul>
+<li>
+Develop highly available, secure and scalable Cloud based REST services built in Spring/Spring Boot over.</li>
+<li>
+Owns design, implementation and maintenance for all the web applications and services for the manufacturing execution system.</li>
+<li>
+Ability to analyze and integrating big data files from manufacturing equipment to big data backends.</li>
+<li>
+Analyze and process data to build IoT solutions to enhance manufacturing machines and robots.</li>
+<li>
+Designs, enhances and develops single and multi-system applications written in Java</li>
+<li>
+Provides solutions for complex software problems for existing applications</li>
+<li>
+Maintains, improves, and extends existing software with limited assistance from other associates</li>
+<li>
+Works collaboratively and professionally in a team environment to determine general approach and specific solutions to technical problems</li>
+<li>
+Reviews complex tasks for soundness of technical judgment and overall adequacy and accuracy</li>
+<li>
+Develop and implement unit and system testing processes for single or multi system projects</li>
+<li>
+Demonstrates quality and effectiveness in work documentation and organization</li>
+</ul>
+</div>
+<p></p>
+<div>
+<b>
+Qualifications</b><div>
+</div>
+<div>
+Qualified candidates possess a Bachelor of Science Degree in Computer Science, Information Technology, Management Information Systems, or another relevant field AND 2 years’ relevant experience with a cumulative GPA of 3.0 or higher. Other requirements include:</div>
+<ul>
+<li>
+Demonstrated experience in successful implementation of technology solutions</li>
+<li>
+Must demonstrate proficiency and possess experience necessary to designs, enhances and develops single and multi-system applications</li>
+<li>
+Must possess demonstrated programming experience using Java, Spring (we use Boot, Cloud, Data, MVC),</li>
+<li>
+Ideally have experience with the following technologies: Cloud Foundary, Gemfire/Cassandra, MySQL, RabbitMQ and JPA</li>
+<li>
+Ideally have experience with some the following tools/frameworks: GIT, JIRA, Jenkins, Bitbucket, Splunk, Kibana, HAProxy, Solarwinds for monitoring, and OAuth</li>
+<li>
+Experience with Agile-Scrum/Scrumban, Jenkins CICID pipelines</li>
+</ul>
+<div>
+Our benefits are designed to lead an evolving marketplace, support innovation and encourage a healthy balance between work and life. They allow our associates to make their own decisions about their wellbeing and future and consistently rank Garmin as a top tier benefits provider when compared to other high-tech employers. We offer a choice of high value medical, dental and vision plans with low or no premiums, to fit your and your family’s preferences. In addition, Garmin’s financial benefits include a generous 401K retirement plan that provides 5% of pay base contribution plus a match of 75 cents for every dollar you contribute to a maximum of 10% of your compensation. The employee stock purchase plan allows for shares to be bought at a 15% discount. Garmin offers many other benefits and perks ranging from wellbeing initiatives, educational assistance and career development, community charity support, and employee discounts just to name a few.</div>
+<p><i>
+Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran’s status, age or disability.</i></p>
+</div>
+<p></p>
+<div>
+<b>
+Job</b> Operations</div>
+<div>
+<b>
+Primary Location</b>US-KS-Olathe</div>
+<div>
+<b>
+Organization</b> Operations</div>
+<div>
+<b>
+Schedule</b> Full-time</div>
+<div>
+<b>
+Job Class</b> Exempt</div>
+</div>
+<p></p>
+</div>

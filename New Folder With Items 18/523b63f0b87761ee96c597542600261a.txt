@@ -1,0 +1,48 @@
+<h2>Technical Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Company Description
+<br>-------------------
+<br><br>
+Vlocity, a Forbes Cloud 100 company and strategic Salesforce ISV, delivers industry-specific cloud and mobile software that embed digital, omnichannel processes for customer-centric industries. Built in partnership with Salesforce, the global leader in CRM, Vlocity is one of Salesforce's fastest growing partners. Vlocity Industry Cloud Apps embed industry-specific functionality, best practices and business processes for the Communications &amp; Media, Insurance &amp; Financial Services, Health, Energy &amp; Utilities, and Government industries. Vlocity enables companies to achieve faster business agility and time to value from the cloud across digital and traditional channels. Click here ( https://vlocity.com/company/careers/learn-more ) to learn more about Vlocity.
+<br><br>
+Job Description
+<br>---------------
+<br><br>
+We are looking to develop successful long-term relationships with all our customers - and the best way to do this is to build from strong foundations. Right from the start, we need to understand and appropriately position Vlocity's place in the customer's application ecosystem - and the Technical Architect has the prime responsibility for making this happen.
+<br><br>
+Our Technical Architects will become deep product experts with Vlocity's Industry Cloud applications, and work closely with our Sales and Product teams to ensure customer success.
+<br><br>
+You will serve as a trusted advisor to the customer, driving conversations with their Enterprise Architects and business stakeholders that shape the architectural vision and establish a program direction.
+<br><br>
+You'll advise and mentor diverse teams, which may include customer and partner resources providing guidance on application and integration development best practices as well as technical product assistance.
+<br><br>
+You'll engage with the customer and review key artifacts to keep programs on track and ensure the delivered solutions remain extendable and maintainable going forward.
+<br><br>
+Experience
+<br><br>
+<ul>
+<li>You'll have 5+ years experience of working on deployment teams throughout the project lifecycle, ideally using Agile development techniques</li>
+<li>You'll have a proven track record of successful delivery on customer projects, preferably enterprise CRM implementations</li>
+<li>Ideally, you will have extensive experience of at least one of our target industries - telecommunications, media, insurance, health, utilities, or public sector</li>
+<li>You'll be a self-starter, adept at picking up new skills and technologies, and eager to break new ground</li>
+<li>You'll have excellent communication skills, equally comfortable with crafting emails as leading a white-board discussion with customers, or delivering a technical presentation</li>
+<li>You'll have the vision to help us take our company to the next level</li>
+</ul>
+Skills
+<br><br>
+<ul>
+<li>Cloud Architecture</li>
+<li>Data modeling</li>
+<li>Salesforce (Force.com, Apex, VisualForce, Lightning, Wave)</li>
+<li>Data Warehouse and Analytics</li>
+<li>Integration technologies</li>
+<li>Performance and scalability architecture</li>
+</ul>
+Desirable Certifications / Qualifications
+<br><br>
+<ul>
+<li>Bachelors or Masters degree in Computer Science, Software Engineering or a related field</li>
+<li>Salesforce Administrator</li>
+<li>Salesforce Platform Developer / Platform App Builder</li>
+<li>Salesforce Technical Architect</li>
+</ul>
+Vlocity welcomes all. In our journey as a company -- and as individual Vlociters -- we recognize that our diversity is our strength. We are proud to be an Equal Employment Opportunity employer. All aspects of employment including our decisions to recruit, hire, promote, transfer, discipline, or separate are based on merit, competence, performance, and business needs. We do not discriminate on the basis of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. We are committed to creating an inclusive environment for all employees to bring their authentic selves to work every day. We provide accommodation for our Vlociters with disabilities both seen and unseen in the spirit and letter of the Americans with Disabilities Act (ADA).</div>

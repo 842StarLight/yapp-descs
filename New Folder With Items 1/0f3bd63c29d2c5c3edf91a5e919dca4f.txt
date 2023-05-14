@@ -1,0 +1,59 @@
+<h2>Director of Technical Solutions (DC)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">At Ad Hoc we build government digital services that are fast, efficient, and usable by everyone
+<br><br>
+Ad Hoc brings small teams of highly skilled professionals from the private sector to build government software right the first time.
+<br><br>
+Solving government technology problems is about attacking big problems with design, engineering, and compassion. We're committed to continually improving what we build and staying focused on user needs for the long haul.
+<br><br>
+As Director of Technical Solutions at Ad Hoc, you'll be a key member of our team and will contribute directly to our goal of cultivating new customer relationships. You will be responsible for creating and articulating technical solutions to business problems, working closely with both internal teams and our customers.
+<br><br>
+You have a deep background in web application architecture and development, with a focus on consumer-facing digital services that provide a great user experience. You have a deep understanding of not only the technology behind these applications, but the process by which they evolve from concept to development, and how they operate in production. You are comfortable with multiple open source programming languages like Ruby, Java, JavaScript, and Go, and know which one to use for a particular application. You have deployed services in cloud environments like Amazon Web Services, and are fluent in the basic services they provide such as EC2, S3, and RDS, and can quickly learn, understand, and effectively use new services. You've built APIs for services and understand the best way to employ an API as part of a solution to a business problem. You can evaluate a business problem and make a buy vs. build decision to meet some or all of the requirements. With this background, when presented with a business problem, you can clearly articulate a solution that combines SaaS and COTS products with custom software to guide a customer to success.
+<br><br>
+You understand the government technology market, and have a passion for addressing the challenges government agencies face in delivering digital services and technology. You embrace change, a dynamic remote work environment, and thrive in developing technical solutions and methodologies that are simple, efficient, and effective, and align with our mission to empower government customers to deliver superior digital services.
+<br><br>
+<b>What you'll do:</b><br>
+<b>Develop solutions that support new business initiatives:</b><br>
+<ul>
+<li>Lead the solutioning function for Ad Hoc, working on the front lines to bring the best we have to offer to life in proposals and other government submissions</li>
+<li>Conceive of and articulate technical solutions for web applications and APIs to deliver digital services.</li>
+<li>Architect web applications and APIs using AWS, and applying DevOps principles in their delivery.</li>
+<li>Prototype and demo solutions to internal and external stakeholders.</li>
+<li>Work closely with proposal teams to develop solutions for new growth opportunities and work with technical writers to create written responses</li>
+<li>Collaborate with subject matter experts in software engineering, user experience design, and product development to understand how best to include them in compelling technical solutions that meet customer needs</li>
+<li>Join business development teams as needed for partner and customer meetings for solution discussions or demos</li>
+<li>Stay current on emerging technologies and how they relate to Ad Hoc's current and future work, and communicate this internally and externally.</li>
+<li>Collaborate with the Growth team, including,Business Development, Proposal Managers, Growth Operations, Tech/Proposal Writers, and Business Unit teams serving target customer agencies, and technical subject matter experts in the Technical and Innovation Teams</li>
+</ul>
+<b>Develop key artifacts that support new business initiatives:</b><br>
+<ul>
+<li>Product visions and roadmaps</li>
+<li>Delivery methodology and approach (e.g., human-centered design, agile software development, DevOps, CI/CD, infrastructure as code, and lean product methods)</li>
+<li>Management and staffing approaches that support delivery of solutions</li>
+<li>Technical architectures</li>
+</ul>
+<b>What you'll bring:</b><br>
+<ul>
+<li>8+ years in web application development and software engineering, with some experience in solutioning, sales engineering, or consulting in startups or technology companies, or equivalent experience</li>
+<li>A deep understanding of how the internet works.</li>
+<li>Experience designing, architecting, and building web applications using open source languages (Ruby, Go, Java, JavaScript), frameworks (Ruby on Rails, Node.js), and tools (e.g. PostgreSQL, MySQL, ElasticSearch)</li>
+<li>Experience deploying production applications in Amazon Web Services using basic services like EC2, S3, RDS, and ability to adapt new cloud services as needed.</li>
+<li>Experience applying processes such as agile development and DevOps in building web applications.</li>
+<li>Experience incorporating SaaS and/or COTS products into an overall architecture, and making buy vs. build decisions for all or part of a solution.</li>
+<li>Experience with and understanding of human-centered design, agile software development, and lean product methods</li>
+<li>Knowledge of common topics and concerns in the delivery of web applications in government in the areas of security, privacy, and accessibility.</li>
+<li>Ability to lead a proposal solution while working with and guiding multidisciplinary expert contributors</li>
+<li>Adept at articulating business value of chosen approach and relating to proposal requirements and evaluation criteria</li>
+<li>Ability to communicate technical concepts and business value to non-technical stakeholders effectively</li>
+<li>Proficiency in engaging with internal stakeholders as well as customers and partners</li>
+</ul>
+*
+<br><br>
+Benefits
+<br><br>
+<ul>
+<li>Company-Subsidized Health, Dental, and Vision Insurance</li>
+<li>Vanguard 401K Plan</li>
+<li>Unlimited Vacation</li>
+<li>Continuing Education/Annual Conference Attendance</li>
+</ul>
+Ad Hoc LLC is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, sex, sexual orientation, gender identity or expression, religion, age, pregnancy, disability, work-related injury, covered veteran status, political ideology, marital status, or any other factor that the law protects from employment discrimination.</div>

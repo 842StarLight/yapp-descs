@@ -1,0 +1,52 @@
+<h2>Business Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div>
+<b>Contribute to a safer, secure and more sustainable World!</b><br>
+At UL, we know why we come to work. Thousands of us around the world wake up every day with one common purpose – to make the world a safer, more secure, and more sustainable place to live. We clear the way for our customers to introduce the latest products, technological advances, and systems in an increasingly complex world so they can provide peace of mind to the market. Our integrity is woven throughout our company and shapes the way we approach and deliver our solutions. We are proud that the work we do every day has a meaningful contribution to society. We continue to build upon our legacy of trusted expertise and partnership to keep our communities safe and secure as we march forward into the future. This helps us to sleep better at night, and we are confident that the millions of people we touch rest easier too.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Develops and manages new processes and improving current processes around customer setup, maintenance, and monitoring to manage the global customer master.</li>
+<li>
+Develops master data enrichment processes including working with outside service providers.
+</li>
+<li>Works with the Business, functional areas, and IT to analyze the effects of process and technical enhancements that interact with the customer master data from end to end from marketing &amp; sales to quote, order, invoice as well as fulfillment and field services.
+</li>
+<li>Develops and manages the global training materials for all customer master setup, maintenance, and monitoring processes as well as conducting global training when necessary.</li>
+<li>
+Develops monitoring reports and validation processes for the customer master data.</li>
+<li>
+Project manages the development of technical enhancements including trouble shooting solutions, business user testing, and production deployment.</li>
+<li>
+Manages mass migration of customer master data from acquisitions and supports the deployment efforts.</li>
+<li>
+Supervises and trains maintenance data stewards on customer maintenance processes.</li>
+<li>
+Develops business automation as needed.</li>
+<li>
+Performs other duties as directed.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div><ul>
+<li>University degree in Business Administration or related field plus generally 5 years of related experience.
+</li>
+<li>Demonstrated ability to independently identify needs for projects or programs, formulate objectives, plan and execute projects and/or programs, and manage programs.</li>
+<li>
+Strong ability to develop and implement efficient solutions.</li>
+<li>
+Proficiency in SQL, Python or Dotnet a plus</li>
+<li>
+Have worked in an Oracle R12 environment or other relational database experience. Customer Master experience a plus.
+</li>
+<li>Ability to troubleshoot issues and assist with support.</li>
+<li>
+Past demonstrated success in database or data management</li>
+</ul></div></div></div>
+</div></div>

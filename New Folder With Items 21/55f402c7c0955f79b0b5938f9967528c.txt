@@ -1,0 +1,63 @@
+<h2>Data Operations Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>The accuracy and timeliness of our data services is a fundamental component of Stem’s service offering – metered data, weather data, tariff data and more are required to deliver optimal results and measure performance accurately. To this end, Stem is seeking a detail-oriented and technically-minded Data Operations Specialist. You will be a key player in the daily operations of our fleet of distributed energy resources.</p>
+<p>
+Typical Responsibilities:</p>
+<ul>
+<li>Manage relationships, workflow and data integration with external service providers, partners, and utilities</li>
+<li>Import, maintain and access data as required for operational needs</li>
+<li>Oversee the management of utility data for all Stem customers on various internal data platforms</li>
+<li>Support the creation and maintenance of new and existing data objects for internal and external applications including reporting</li>
+<li>Create and improve internal processes related to customer utility data access, validation and operation, in collaboration with other internal stakeholders</li>
+<li>Identify, correct, and/or escalate data quality issues in a variety of databases</li>
+<li>Perform savings &amp; utility bill calculations and validate the accuracy of our internal models</li>
+<li>Develop an expertise of utility tariffs in the markets in which Stem participates</li>
+<li>Validate the metering accuracy of recently deployed systems by comparing against utility data</li>
+<li>Identify and execute opportunities to increase the level of automation of current processes</li>
+<li>Develop and maintain strong relationships with Stem internal customers (E.g. Sales, Customer and Program operations, our Network Operations Center)</li>
+<li>Support operational initiatives as needed</li>
+<br>
+</ul>
+<p>
+</p>
+<br>
+<br>
+Required Skills<br>
+<ul>
+<li>Exceptional attention to detail &amp; accuracy combined with high productivity</li>
+<li>Strong quantitative analytic skills with demonstrated proficiency with technical concepts</li>
+<li>Ability to learn quickly and produce quality work under tight deadlines</li>
+<li>Able to think creatively to resolve problems</li>
+<li>Ability to track and summarize project and operations status</li>
+<li>Excellent oral and written communication skills and customer-focused mindset</li>
+<li>Ability to work in a fast-paced, dynamic environment</li>
+<br>
+</ul>
+<p></p>
+<p>
+</p>
+<br>
+<br>
+Required Experience<br>
+<ul>
+<li>Bachelor of Science degree from an accredited college or university in engineering, mathematics, economics, or related field is strongly valued</li>
+<li>Prior experience in relevant data operations</li>
+<li>Understanding and demonstrated interest in time-series data, electrical utilities, utility tariffs, and renewable energy is a major advantage</li>
+<li>Experience with BI tools, Salesforce.com, Tableau and reporting</li>
+<li>Experience working with large sets of data and data analysis using Python, SQL and reporting tools a plus</li>
+<br>
+</ul>
+<p></p>
+<p>Stem is the global leader in AI-driven energy storage. With more than 800 systems on-line or being installed in 75 jurisdictions across six states and three countries, and a groundbreaking contract with Southern California Edison to deliver 85MW of grid stabilizing capacity and customer-sited energy storage, Stem has more experience installing and operating advanced energy storage systems than every other provider combined.</p>
+<p>
+By pairing energy storage with Artificial Intelligence (AI), Stem helps building operators and energy managers lower energy costs automatically while supporting a modernized, sustainable electric grid. Stem’s Athena, the first AI for energy storage, lets you buy electricity when it’s affordable and use it later when it’s suddenly more expensive. Athena links facilities into a powerful network that can instantly form virtual power plants that allow you to earn demand response revenue and participate in other grid modernization opportunities as soon as they arise.</p>
+<p>
+With Stem’s energy services agreement, customers receive guaranteed savings immediately without having to pay anything upfront. Stem manages the installation, operation, remote monitoring and maintenance. Systems are designed for safe, seamless integration into a facility.</p>
+<p>
+Headquartered in Millbrae, California, Stem is funded by a consortium of leading investors including the Ontario Teachers’ Pension Plan, Activate Capital, Temesek, Iberdrola, GE Ventures, Constellation Technology Ventures, Angeleno Group, RWE, Total Energy Ventures, Mithril, and Mitsui &amp; Co., Ltd. The breadth and depth of Stem’s resources and capabilities are unmatched in the industry.</p>
+<p><i>
+Stem, Inc. is an equal opportunity employer committed to diversity in the workplace and does not discriminate against any employee or applicant for employment because of race, color, sex, pregnancy, religion, national origin, ethnicity, citizenship, sexual orientation, gender identity, age, marital status, disability, genetic information, military status, protected veteran status or any other factor protected by applicable federal, state or local laws. Stem, Inc. complies with all applicable state, federal and local laws, regulations and ordinances prohibiting discrimination in places where we operate.</i></p>
+</div>
+<p></p>
+</div>

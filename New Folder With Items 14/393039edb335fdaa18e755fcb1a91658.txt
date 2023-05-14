@@ -1,0 +1,84 @@
+<h2>Software Engineer II (Integration Developers)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Are you interested in working with an industry leader?</b></p>
+<p></p>
+<p>
+The Software Engineer role provides leadership and guidance relating to the company’s technical services. They are responsible for building solutions, the use of management tools, defining and architecting solutions to meet the company’s business needs. Software Engineer leaders will also facilitate the definition of processes, methods, and standards for governing solution transformation within Les Schwab.</p>
+<p></p>
+<p>
+Les Schwab’s solution landscape has a number of technical subject areas that require expertise and focus. Therefore, Software Engineers will vary greatly by specific solution knowledge and/or area of technical interest (subject matter expert - SME). This role is designed to support development using the Dell Boomi platform with hybrid integration support for pub/sub patterns with AWS services like SNS, SQS, web hooks, REST, etc. Integrations include prem to prem, prem to cloud, cloud to cloud and cloud to prem. Enterprise integrations currently include Workday, Netsuite, Salesforce and IBM iSeries. Future integrations will include cloud systems from Oracle, JD Edwards and cloud based Point of Sale systems. Our teams closely adhere to DevOps, Agile and Scrum methodologies/processes for a dynamic and fast moving environment.</p>
+<p></p>
+<p>
+This role reports directly to the Digital &amp; Enterprise Architecture Manager and is based out of our headquarters in Bend, OR.</p>
+<p></p>
+<p><b>
+PRIMARY RESPONSIBILITIES/FUNCTIONS</b></p>
+<p>
+Solution Development</p>
+<ul>
+<li><p>
+Defining, designing and developing solutions; ranging from custom application development, multiple solution orchestrations and advance solution support</p></li>
+<li><p>
+Responding to requests from the business, leveraging appropriate solutions and tools</p></li>
+<li><p>
+Identifying approaches to meet business requirements/needs, confirming appropriate controls and driving approach and architecture decision making</p></li>
+<li><p>
+Ensuring documentation of enterprise artifacts and assisting Enterprise Architecture in artifact management, as needed</p></li>
+<li><p>
+Establishing and improving the solution architecture (application, data, etc.) in alignment with the Les Schwab Enterprise Architecture framework and methodologies</p></li>
+<li><p>
+Defining and governing standards for implemented solutions</p></li>
+</ul>
+<p><br>
+Operational Support</p>
+<ul>
+<li><p>
+Provide and/or coordinate level 2/level 3 support as required through incident resolution based on incidents reported and escalated by:</p></li>
+<li><p>
+Identifying and resolving solution related issues (code, data or architecture)</p></li>
+<li><p>
+Addressing production issues by root cause determination and resolution</p></li>
+<li><p>
+Responding to questions and suggestions from other IDS teams</p></li>
+<li><p>
+Support activities include investigation (such as root cause analysis), diagnosis, incident/problem resolution or issue recovery, identification of acceptable workaround, and following proper incident/problem closure procedures for knowledge and reporting/metric purposes</p></li>
+</ul>
+<p></p>
+<p>
+Solution Architecture</p>
+<ul>
+<li><p>
+Evaluate options for addressing business needs through technology improvements and managing overall solution technical lifecycle</p></li>
+<li><p>
+Establishing and improving the solution architecture (application, data, etc.) in alignment with the Les Schwab Enterprise Architecture framework and methodologies</p></li>
+<li><p>
+Defining standards, policies and procedures where appropriate for Les Schwab’s solution architecture</p></li>
+<li><p>
+Ensuring documentation of enterprise artifacts and assisting Enterprise Architecture in artifact management, as needed</p></li>
+</ul>
+<p><br>
+<b>
+MINIMUM EDUCATION &amp; SKILLS REQUIRED</b></p>
+<p>
+Educational/Experience Requirements:</p>
+<ul>
+<li><p>
+Four-year college degree in a related field, preferably in Computer Science, Information Systems, Engineering, or equivalent experience</p></li>
+<li><p>
+Minimum of 5 years’ IT experience in the required domain for this position</p></li>
+<li><p>
+A minimum of 2 years experience architecting and implementing enterprise solutions; examples include customized program development, enterprise data Integration, business intelligence &amp; governance process efforts</p></li>
+</ul>
+<p></p>
+<p>
+Required Technical Skills/Knowledge:</p>
+<ul>
+<li><p>
+Exhibiting a moderate breadth/depth of experience and knowledge in all areas involved in solution development and implementation (focus area based on specific solution area; such as coding &amp; development, database &amp; business intelligence, etc.).</p></li>
+<li><p>
+Basic knowledge of productivity applications (Google Applications, MS Office, etc.).</p></li>
+</ul>
+</div>
+<p></p>
+</div>

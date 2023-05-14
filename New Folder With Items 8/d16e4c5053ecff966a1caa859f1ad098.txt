@@ -1,0 +1,102 @@
+<h2>SAP Quality Management IT Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div><b>THE COMPANY</b></div>
+<p></p>
+<br>
+<p>
+Axalta Coating Systems Ltd. ("Axalta," or the "Company"), is a leading global manufacturer, marketer and distributor of high-performance coatings systems. With over a 150-year heritage in the coatings industry, Axalta is known for manufacturing high-quality products with well-recognized brands supported by market-leading technology and customer service.
+</p>
+<p>Over the course of the Company's history, Axalta has remained at the forefront of the industry by continually developing innovative coatings technologies designed to enhance the performance and appearance of customers' products, while improving the customer's productivity and profitability. Axalta's diverse global footprint of 50 manufacturing facilities, four technology centers, 47 customer training centers and more than 14,000 team members allows the Company to meet the needs of customers in over 130 countries. Axalta serves its customer base through an extensive sales force and technical support organization, as well as through approximately 4,000 independent, locally-based distributors. The Company's scale and strong local presence are critical to its success, allowing leverage of the technology portfolio and customer relationships globally while meeting customer demands locally.</p>
+<p>
+Axalta operates its business in two operating segments: Performance Coatings and Transportation Coatings, serving four end markets, including: Refinish, Industrial, Light Vehicle and Commercial Vehicle, across the following four regions: North America, EMEA, Latin America and Asia-Pacific.</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities<br>
+</b></h2>
+<p></p>
+<div><div><div>
+<ul>
+<li>Work closely with business team members of business functions (Manufacturing, R&amp;D, Supply Chain Planning, and Inventory Management) to facilitate effective solution implementations and provide knowledge transfer of system functionality to Super Users, Subject Matter Experts and end users.</li>
+<li>
+Analyze business process gaps, identify solution alternatives, and guidance to business and IT stakeholders for selecting the best solutions for closing the gaps.</li>
+<li>
+Work closely with ABAP developers to define programming requirements and test programming solutions.</li>
+<li>
+Provide production support for SAP Quality Management and integration points with SD, PP, and WM modules. Support SAP interfaces to other core business applications.</li>
+<li>
+Manage projects assigned through the full project lifecycle including managing and coordinating the work of consultants when necessary.</li>
+<li>
+Strong ability to lead discussions with the business to analyze, configure and model processes in SAP.</li>
+<li>
+Modify, test and validate system configuration. Prepare detailed functional specifications for development activities including reports, interfaces, conversions, enhancements, and forms.</li>
+<li>
+Build and execute unit testing, integration, and regression testing (build test cases, perform tests, and make changes to configuration or processes based on results).</li>
+<li>
+Candidate will be responsible to help with green field implementation of S/4 HANA Quality Management module by contributing towards global template design and pilot roll-out as well as regional deployments thereafter working with the SI Partner team.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications<br>
+</b></h2>
+<div></div>
+<div><div><div>
+<ul><li>
+<p><b>Required Skills:</b></p>
+<div></div>
+<br>
+<ul><li>
+We require the candidate to have extensive knowledge in SAP Quality Management systems in the following areas:</li></ul>
+<div><ul>
+<li>
+Master Data Management as it relates to Quality Management in SAP including Quality Planning, Quality Inspection, Quality Notification and Quality Reporting</li>
+<li>
+Hands-on SAP system configuration knowledge in respective areas of Quality Management</li>
+</ul></div>
+<ul>
+<li>
+Candidate should be capable of debugging SAP programs to help find the root cause and resolution to various issues.
+</li>
+<li>Working Knowledge of integration of SAP QM module with external LIMS systems, Label Printing Solutions, Document Management System as it relates to printing of COA and other Quality Certificates.</li>
+</ul>
+<ul>
+<li>
+Establish and support best practices for SAP Quality Management for the North America businesses in SAP 4.6 system.</li>
+<li>
+Drive efficiency through continuous improvement in configuration and master data management</li>
+<li>
+Provide support to other SAP work streams that are impacted by Quality Management.</li>
+</ul>
+<div></div>
+<br>
+<p><b>
+Required Experience:</b><br>
+</p>
+<ul>
+<li>
+8+ years of experience in the SAP Quality Management module under various releases of SAP.</li>
+<li>
+Candidate should have experience with two or more full project life cycle SAP implementations.</li>
+<li>
+Blueprinting, Realization, Configuration, Functional Specifications, Unit and Integration Testing and Execution, Data Definition, Data Mapping from Legacy Systems, End-user Training, Training Development, Train the Trainer, Cutover Activities, and Production Support</li>
+<li>
+Strong skill sets in communicating, training, and supporting quality function with day to day business processes.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Desired Experience:</b></p>
+<p></p>
+<br>
+<ul><li>
+2 or more SAP Full Lifecycle implementations</li></ul>
+SAP S/4 HANA Implementation experience to support Axalta S/4 HANA greenfield implementation project.</li></ul>
+<div></div>
+<br>
+<div><i>
+Location: Glen Mills, PA with possible 25% travel depending on assigned projects</i></div>
+</div></div></div>
+</div>
+<div></div>
+</div>

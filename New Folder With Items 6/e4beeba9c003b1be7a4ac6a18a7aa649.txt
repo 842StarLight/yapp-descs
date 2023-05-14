@@ -1,0 +1,102 @@
+<h2>Client Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div><b>RESPONSIBILITIES
+ </b></div>
+<ul>
+<li>7+ years’ experience leading software engineers and designing software solutions that are thoughtful, reusable and easy to maintain.
+ </li>
+<li>Designs, develops, modifies, adapts and implements solutions for our clients through new and existing applications, systems, databases and applications infrastructure.
+ </li>
+<li>Subject matter expert on key software solutions already in place, with the ability to discern when/how these solutions should be leveraged for new opportunities.
+ </li>
+<li>The ability to envision, articulate, and execute architectural design using best patterns including data and API integrations with Mittera's partners and clients.
+ </li>
+<li>Hands-on-development of solutions, as well as leading and working with the team for the execution of the solution.
+</li>
+</ul>
+<div>· Defines testing strategy for products and ensures adherence to strategy
+</div>
+<div>· Accounts for error handling and recovery procedures in design
+ </div>
+<ul>
+<li>Clear and comprehensive documentation of the architecture including workflow, diagrams and definitions for both execution and knowledge transfer.
+ </li>
+<li>Comfortable being the lead technology expert in a sales opportunity and offering solution approaches to meet client requirements.
+ </li>
+<li>Steers the final solution towards scalable and reasonable costs, as well as ongoing maintenance and support.
+ </li>
+<li>Attract, develop, grow and retain technical talent.<br>
+</li>
+</ul>
+<div></div>
+<div><b>Key Skills
+ </b></div>
+<ul>
+<li>Effective at collaborating with different parts of the business to deliver solutions.
+ </li>
+<li>A background in print is strongly desired.
+ </li>
+<li>Strong organizational skills, experience in working within project management best practices, and can delegate successfully, while keeping in tune with progress.
+ </li>
+<li>Stay current in technology trends
+ </li>
+<li>A genuine desire to do the best thing for the team and the business always.
+ </li>
+<li>Values clear, direct, and consistent communication with all stakeholders.
+ </li>
+<li>Applies people management skills to coach, mentor and develop engineers on the team.
+ </li>
+<li>Accountable for the quality, TCO, maintainability and security of the solutions built by team.
+ </li>
+<li>Balances strategic and pragmatic concerns when solving problems.
+ </li>
+<li>Detects and overcomes issues before the broader team is aware of them.
+ </li>
+<li>Accountability and desire to deliver a total solution end to end; sometimes even broader than just the software component.
+ </li>
+<li>Key member of the technology strategy team led by the VP of IT and the Director of Client Technology Strategy.<br>
+</li>
+</ul>
+<p></p>
+<p><i>The Mittera Group is committed to providing a tobacco free workplace and is an Equal Employment Opportunity employer. Must be 18 years of age to apply. Successful completion of a full background check and drug screen are required upon offer.</i></p>
+</div>
+<p></p>
+<br><p></p>
+<div>
+<div>Technologists at Mittera are playing a key role in helping build the future of digital and print solutions, working hand-in-hand with sales to create client experiences that are changing the way companies communicate with their customers.<br>
+</div>
+<div></div>
+<div>Mittera’s Client Technology Services team is looking for an outgoing, hands-on solutions architect who is capable of leading a team to design and build custom-but-repeatable client solutions. Using analytical thinking, a strong dose of creativity and by working with the company’s sales leaders, this key leadership role will drive the technology solution from sales to execution.<br>
+</div>
+<div></div>
+<div>You will work with smart, talented people across our business. We will expect you to be agile / to lead / to think outside the box. In return, we will give you challenging work that has an impact / opportunities to learn and grow / and a collaborative culture that encourages every member of our team to bring their point of view to the table—because that is how we help our clients succeed.<br>
+</div>
+<div></div>
+<div>This role is key to providing technical vision, leadership and direction to a team of software engineers and confidence in working directly with sales and clients.<br>
+</div>
+<div></div>
+<div>The role reports to the President of Creative and Tech with a strong dotted line to the VP of IT.</div>
+</div>
+<p></p>
+<br><div>
+<ul>
+<li>BS/MS degree in a Technical discipline and 7+ years of progressive software engineering and leadership experience
+ </li>
+<li>In order of level of proficiency required, experience with:
+</li>
+</ul>
+<div>1. C# / .NET Core
+</div>
+<div>2. MS SQL Server
+</div>
+<div>3. Winforms and / or WPF
+</div>
+<div>4. VDP technologies and integrating with them programmatically
+</div>
+<div>5. Vue.js
+</div>
+<div>6. Python</div>
+</div>
+</div>

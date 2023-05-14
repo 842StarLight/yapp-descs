@@ -1,0 +1,150 @@
+<h2>Executive, Data Quality & Governance</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Job Summary
+</b></h2>
+<p>Join the team that powers the global real estate economy - CoreLogic is an innovative, future focused company whose vision is to deliver unique property-level insights that power the global real estate economy.
+</p>
+<p></p>
+<p>We are a $1.95 billion in sales company with more than 6,000 employees globally serving the financial services and insurance industries. We are evolving at a rapid pace and the clients we serve are challenged from every direction, which means we are growing and innovating to help drive their success. Working together, and differentiated by our superior data, analytics and data-enabled solutions, we empower our clients to make smarter business decisions through data-driven insights. We take initiative, are fully accountable, build respect and trust, make transparency a must—and engage, include and collaborate at every turn.
+</p>
+<p></p>
+<p>We take pride in our work and believe in cultivating a work environment that supports and values our greatest asset: our talented employees.
+</p>
+<p></p>
+<p><b>Job Description:
+</b></p>
+<p>Reporting directly to the Chief Data Officer as a member of the Enterprise Data Group leadership team, this is an executive leadership role that will lead an organization comprised in part by teams of data content analysts, data research analysts, and data stewards. The successful candidate will be accountable for the data domain:
+</p>
+<p></p>
+<p><b>Leadership
+</b></p>
+<ul>
+<li>
+<b>Envision the Future: </b>Defining a DQ &amp; DG business strategy that aligns with CoreLogic’s key initiatives
+</li>
+<li>
+<b>Inspire &amp; Energize: </b>Build a high functioning team and peer leader relationships to execute on key DQ/DG deliverables, innovate for the future, establish strong partnerships with key stakeholders, and evangelize the importance, value and requirements of our DQ/DG processes
+</li>
+<li>
+<b>Deliver Excellence: </b>Drive high accountability and superior business results through the leadership team to establish a best in class Data Quality and Governance organization.
+</li>
+</ul>
+<p><b>Content (Data Stewards)
+</b></p>
+<ul><li>Ownership for:
+<ul>
+<li>Ensuring all content emerges from data supply chain fit-for-purpose, across all assets
+</li>
+<li>Business rules/logic that guide content output are defined and documented
+</li>
+<li>Quality rules are defined and documented
+</li>
+<li>Data Operations teams are alerted when new/adapted content output is required
+</li>
+<li>Managing meta data/master data - data domains (secondary and tertiary)
+</li>
+<li>Team skills are developed to efficiently and effectively deliver above
+</li>
+</ul>
+</li></ul>
+<p><b>Data Governance
+</b></p>
+<ul><li>Ownership for:
+<ul>
+<li>Governance of data content to ensure compliance with all relevant regulations and audit requirements
+</li>
+<li>Develop, Maintain and utilize Data Governance processes and tools in support of business outcomes
+</li>
+<li>Create transparency and access to data; expose internal and external people to the inventory of data assets and how it can be leveraged
+</li>
+<li>Evangelize Data Governance processes with internal and external clients and stakeholders
+</li>
+<li>Development and implementation of annual data governance, stewardship and quality programs
+</li>
+</ul>
+</li></ul>
+<p><b>Data Quality
+</b></p>
+<ul><li>Ownership for:
+<ul>
+<li>Design of enterprise data quality monitoring
+</li>
+<li>Develop Data Quality improvement programs for critical data content and engage peers to have them implemented
+</li>
+<li>Development of data quality team skills and maturity
+</li>
+<li>Evangelize Data Quality processes with internal and external clients and stakeholders
+</li>
+</ul>
+</li></ul>
+<p><b>Security
+</b></p>
+<ul>
+<li>Ensure security of data; work closely with security and monitor access
+</li>
+<li>Develop rules, controls and monitoring
+</li>
+</ul>
+<p></p>
+<p><b>Peer Engagement
+</b></p>
+<p></p>
+<p>The successful candidate will partner with: Data Strategy to develop enrichment strategies, Data Technology and Operations to implement new ways of enriching content, Data Science &amp; Analytics for short- and long-term growth opportunities, Compliance, and various data consumers to ensure data is fit for intended use.<br>
+<br>
+<br>
+</p>
+<p>Additionally, the ideal candidate will:
+</p>
+<ul>
+<li>Understand business strategy and objectives and translate them into data requirements
+</li>
+<li>Experience in leading a data management function in the context of data as the product
+</li>
+<li>Establish data quality goals
+</li>
+<li>Define policy, process, controls, metrics/KPIs to meet business objectives
+</li>
+<li>Work with both Operations and Technology to justify and implement improved data management processes
+</li>
+<li>Be familiar with Data governance and quality tools including Collibra, Informatica etc.
+</li>
+<li>Assess and communicate change impacts to all relevant processes across the organization
+</li>
+<li>Monitor, measure and report on data quality and SLA performance
+</li>
+<li>Provide thought leadership on data management
+</li>
+<li>Implement data cleanup processes
+</li>
+<li>Own final decision rights on business rules and communicate to stakeholders
+</li>
+<li>Establish consistent business processes for the ingestion of source data into the data supply chain and develop business rules and data governance policies to ensure integrity and quality of our foundational data assets
+</li>
+<li>Collaborate with IT to ensure proper delivery, storage and usage of the data environment
+</li>
+<li>Recruit, develop and grow a strong talent pipeline of data management professionals
+</li>
+</ul>
+<p></p>
+<p><b>Job Qualifications:
+</b></p>
+<ul>
+<li>Bachelor's degree in data or business-related field
+</li>
+<li>10-15 years of experience in all areas of data management including data governance, data security, data analysis, and data content management
+</li>
+<li>Reference data, master data, data modeling, and data analytical knowledge strongly desired
+</li>
+<li>Strong verbal and written communication skills
+</li>
+<li>Proven track record of leading teams and individuals as a "leader of leaders"
+</li>
+<li>Demonstrated ability to build effective relationships and influence and partner with internal and external stakeholders
+</li>
+</ul>
+<p></p>
+<p>CoreLogic offers an empowered work environment that encourages creativity, initiative and professional growth and provides a competitive salary and benefits package. CoreLogic is an Equal Opportunity/Affirmative Action employer committed to attracting and retaining the best-qualified people available, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, disability or status as a veteran of the Armed Forces, or any other basis protected by federal, state or local law. CoreLogic maintains a Drug-Free Workplace. We are fully committed to employing a diverse workforce and creating an inclusive work environment that embraces everyone’s unique contributions, experiences and values. Please apply on our website for consideration.</p>
+</div>
+<p></p>
+</div>

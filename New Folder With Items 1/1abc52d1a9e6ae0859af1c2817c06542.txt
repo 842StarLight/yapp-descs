@@ -1,0 +1,45 @@
+<h2>DevOps Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Could be remote for the right candidate - Must be willing to travel up to 25% - Must still live in the USA. This is a full time salaried benefited position I am unable to utilize a Corp. to Corp. relationship on this position.</p>
+<p>
+As an XTIVIA DevOps Engineer, you will provision, enhance, and maintain cloud and on-premise infrastructure for our clients on both small and large-scale projects spanning a number of vertical markets. Responsibilities will include working with identity and access management, network architecture, application security, logging, monitoring, billing, and more. You will help to develop the optimal design for secure, scalable infrastructure for customers, including networking, encryption, load balancer setup, caching, compute optimizations, continuous integration, and delivery pipelines. You'll leverage automation tools like Ansible, Terraform and CloudFormation and platforms like Kubernetes, Fargate, and ECS to deploy and maintain cloud compute environments as well as on-premise infrastructure.</p>
+<p><b>
+REQUIRED SKILLS:</b></p>
+<ul>
+<li>
+Experience with one or more major cloud platform (i.e. <b>AWS, Azure,</b> GCP, IBM Cloud)</li>
+<li>
+Familiarity with Jenkins CI, both setup/provisioning and usage.</li>
+<li>
+Experience using containerization platforms (i.e.<b> Docker</b>), both from an operational and delivery standpoint.</li>
+<li>
+Experience working with and managing <b>Kubernetes</b> environments, either in cloud-based or on-premises environments.</li>
+<li>
+Experience maintaining internet facing production-grade applications in virtualized environments (cloud computing platforms and services).</li>
+<li>
+Experience with distributed version control, (i.e<b>. Git,</b> Mercurial).</li>
+<li>
+Experience managing internal or</li>
+<li>
+client-facing projects, troubleshooting clients' technical issues and working with engineering, sales and services teams and customers.</li>
+</ul>
+<p><b>
+DESIRED SKILLS:</b></p>
+<ul>
+<li>
+Experience writing software in one or more languages, such as <b>Python,</b> Go, <b>JavaScript</b>, <b>Java,</b> or Ruby.</li>
+<li>
+Familiarity with the internals of the Java virtual machine, including garbage collection details and thread dump analysis.</li>
+<li>
+Strong networking skills, including <b>VPN</b>
+</li>
+<li>
+setup and networking/routing details</li>
+<li>
+Experience using Hashicorp <b>Terraform</b>, AWS <b>CloudFormation</b>, or Microsoft Azure Resource Templates to orchestrate Cloud resource provisioning.</li>
+<li>
+Expertise using and managing <b>Linux</b> operating system instances.</li>
+<li>
+Working knowledge of one or more configuration management/orchestration platforms (i.e. Ansible, Puppet, Chef, SaltStack).<b> Ansible</b> experience preferred.</li>
+</ul>
+</div></div>

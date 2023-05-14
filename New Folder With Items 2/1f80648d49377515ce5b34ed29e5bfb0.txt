@@ -1,0 +1,31 @@
+<h2>Software Engineering Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Oversee and manage a Software Engineering team involved in design, development. and support.</p>
+<p>Essential Functions/Major Responsibilities:</p>
+<ul>
+<li>Develop new designs, estimate resource requirements, create development timelines, set priorities for individual contributors, and communicate progress to senior</li>
+<li>Work directly with RF and DSP managers to anticipate upcoming projects requiring software support and define</li>
+<li>Evaluate and propose solutions to system level problems involving software with emphasis on video distribution and</li>
+<li>Coordinate with sales and marketing staff to provide software support for product demonstrations.</li>
+<li>Review work of other developers and verify that it meets acceptable</li>
+<li>Provide direct technical support to customers when they experience problems exceeding the capabilities of the customer service</li>
+<li>Partner with Human Resources for staffing needs such as recruiting, performance, termination, etc.</li>
+<li>Assist in other job duties as</li>
+</ul>
+<p>Skills/Technical Requirements:</p>
+<ul>
+<li>C/C++ coding skills at expert</li>
+<li>A thorough understanding of design and implementation issues associated with real-time embedded</li>
+<li>Significant experience with Linux embedded development and</li>
+<li>Familiarity with one or more assembly languages and processor</li>
+<li>Ability to rapidly understand and effectively use code written by</li>
+<li>Significant experience using advanced debugging techniques and tools, including JTAG, ICE, oscilloscopes, and logic</li>
+<li>Experience with scripting languages (e.g. Perl, PHP) and MPEG video a</li>
+<li>Some familiarity with basic RF principles</li>
+<li>Strong ability with use of MS Office to include MS</li>
+<li>Excellent written and verbal communication</li>
+<li>Ability to lead a team of engineers and provide performance</li>
+<li>Excellent analytical and problem solving</li>
+</ul>
+<p>Job Type: Full-time</p>
+</div>

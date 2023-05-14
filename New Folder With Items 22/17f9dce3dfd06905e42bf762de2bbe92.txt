@@ -1,0 +1,36 @@
+<h2>Product Quality Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Ready to elevate your career? Join Kespry's team dedicated to transforming industrial work through its game-changing aerial intelligence platform. We're reinventing how organizations capture, analyze and share insights about their businesses, providing the information they need to accelerate operations. Kespry's seamlessly-integrated platform, including drone data capture and industry-specific analytics, solves critical problems for the aggregates, construction, insurance, and mining sectors. Kespry serves customers across North America, Europe and Australia, including John Deere, Hancock Claims Consultants, Catastrophe Response Unit (CRU), Lehigh Hanson/Heidelberg, and Colas USA.
+<br><br>
+We are looking for an experienced Product Quality Manager to lead a team that owns quality, automation, and ops for all of our software products. If you are a highly motivated individual that can handle ambiguity and complex software systems, please apply!
+<br><br>
+----------------
+<br>Responsibilities
+<br>----------------
+<br><br>
+<ul>
+<li>Lead a team of test engineers that are responsible for quality across our products</li>
+<li>Build a quality driven engineering culture that continuously ships products quickly and with high confidence</li>
+<li>Partner with our product engineering teams by building infrastructure to test, deploy, and manage our large scale cloud services</li>
+<li>Design and implement automation strategies for various applications and systems running on different environments and platforms</li>
+<li>Own pre-sales quality of product development lifecycle, and post-sales quality via operational monitoring and incident mitigation</li>
+<li>Own release readiness for our mission critical mobile application which is used to autonomously fly drones</li>
+<li>Collaborate with our technical support and product teams to track and document the quality of our products</li>
+</ul>
+--------------
+<br>Qualifications
+<br>--------------
+<br><br>
+<ul>
+<li>B.Sc. in computer science or a related field</li>
+<li>Experience leading a team of automated and manual test engineers</li>
+<li>5+ years of experience as a test automation engineer</li>
+<li>Expert knowledge of Selenium and other automation frameworks</li>
+<li>Deep understanding of how software is built and deployed</li>
+<li>Experience writing automated tests for cloud native and distributed systems</li>
+<li>Experience working with tools like Splunk, Datadog, and New Relic</li>
+<li>Ability to work closely with engineers throughout the development process</li>
+<li>Extensive experience with Azure or AWS</li>
+<li>Excited about understanding complex systems</li>
+<li>Strong written and verbal communication skills</li>
+</ul>
+</div>

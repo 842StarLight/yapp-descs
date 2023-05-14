@@ -1,0 +1,36 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">--------
+<br>Overview
+<br>--------
+<br><br>
+DiscoverOrg + ZoomInfo is looking for a Product Manager to join our outstanding Product Management Team. This position will be responsible for managing the development and prioritization of DiscoverOrg's internal software tools projects to enable revenue generation and operational success for various departments in the organization. The person in this role will be responsible for working closely with internal stakeholders to define requirements for internal tools.
+<br><br>
+----------------
+<br>Responsibilities
+<br>----------------
+<br><br>
+<ul>
+<li>Gather and document requirements from internal stakeholders to build and enhance internal software tools</li>
+<li>Manage feature prioritization</li>
+<li>Work with development teams to groom and prioritize product requirements using agile process and methodology</li>
+<li>Define and manage team work throughput based on project timelines</li>
+<li>Facilitate acceptance testing feedback loop with internal stakeholders to ensure the product meets business requirements</li>
+<li>Build business cases to propose feature and algorithm prioritization to executive stakeholders</li>
+<li>Clearly communicate the status of projects on the product roadmap and in development</li>
+<li>Research latest technology strategies and trends in our space</li>
+<li>Create acceptance criteria and develop test cases to prove</li>
+<li>Work with stakeholders across the organization to identify opportunities to improve productivity and revenue generation</li>
+</ul>
+------------
+<br>Requirements
+<br>------------
+<br><br>
+<ul>
+<li>+3 years of experience in Product Management or Sales and Marketing in a B2B SaaS environment preferred</li>
+<li>Discipline in enforcing an agile software development process (grooming, sprint planning) in a SaaS environment from concept through implementation and delivery, preferably using JIRA</li>
+<li>Ability to plan, prioritize, and excel in developing a dynamic high paced cross functional team environment</li>
+<li>Team leadership and project management skills to keep complex product timelines on track</li>
+<li>Experience with data analysis, SQL or working with large data sets a plus</li>
+<li>Basic understanding of machine learning</li>
+</ul>
+</div>

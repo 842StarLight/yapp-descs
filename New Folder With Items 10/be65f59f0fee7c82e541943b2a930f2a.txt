@@ -1,0 +1,57 @@
+<h2>Senior E-Commerce Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Zappos E-Commerce is seeking a Senior Analyst to help drive and evaluate initiatives across all of our sales channels and marketplaces. we enjoy crafting hypotheses, validating and challenging assumptions, and sifting through vast datasets to find hidden narratives lurking beneath the surface.</p>
+<p><br>
+<b>
+What you’ll be doing:</b></p>
+<ul>
+<li>
+Work with various stakeholders to understand business drivers, goals, and actionable outcomes using analytics</li>
+<li>
+Strength in finding simple ways to map a business problems to preexisting technologies to answer business questions.</li>
+<li>
+Drive business decision-making based on analytical findings</li>
+<li>
+Provide areas of opportunity to the right teams to rapidly produce actionable data driven customer-facing features.</li>
+<li>
+Seen as a subject matter expert at the company when it comes to analytics and an understanding of the structure of the data</li>
+</ul>
+<p><b>
+Basic Qualifications</b></p>
+<ul>
+<li>
+BA/BS in Mathematics, Statistics, Engineering or a related field</li>
+<li>
+Advanced working knowledge of data mining using SQL, ETL as well as advanced Excel.</li>
+<li>
+Experience with dashboarding on Excel/QuickSight/Tableau</li>
+<li>
+4+ years of experience as a Business Analyst or similar role</li>
+<li>
+Proven analytical and quantitative skills and an ability to use hard data and metrics to back up assumptions, develop business cases and complete root cause analyses</li>
+<li>
+Ability to prioritize multiple concurrent projects while still delivering timely and accurate results</li>
+</ul>
+<p><b>
+Preferred Qualifications</b></p>
+<ul>
+<li>
+5+ years of relevant experience in a business analyst, data analyst or statistical analysis role</li>
+<li>
+Experience with a variety of BI tools, including custom in-house software</li>
+<li>
+Experience with Amazon Redshift databases</li>
+<li>
+Experience with statistical analysis on R/Python or a similar language</li>
+<li>
+Having worked on large datasets using Hadoop/Spark is a plus</li>
+<li>
+Ability to deal with ambiguity and competing objectives in a fast paced environment</li>
+<li>
+Excellent communication (verbal, written, and data presentation) and interpersonal skills to effectively communicate with both business and technical teams</li>
+</ul>
+<p>
+ <b>What you didn't know about the team:</b><br>
+<br>
+This team works really closely with various business stakeholders and has a lot of exposure to impact the business at a very direct level.</p>
+</div></div>

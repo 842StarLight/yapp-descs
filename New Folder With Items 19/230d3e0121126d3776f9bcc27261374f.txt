@@ -1,0 +1,66 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h3 class="jobSectionHeader"><b>Description/Opportunity:</b></h3>
+<br>
+CBRE Build’s Capital Markets is looking for Product Manager with extensive leadership experience supporting technology teams to develop and expand its existing platforms with new features and products for Commercial Real-estate applications.<br>
+<br>
+<h4 class="jobSectionHeader"><b>About CBRE Build:</b></h4>
+CBRE Build handles the technology and digital enablement activities of CBRE Group, Inc., the worldwide leader in real estate services. We are uniquely positioned within the organization to access global data, tools, resources, and leaders throughout the industry. Our mission is to create value by developing targeted, highly scalable technology platforms for internal and external consumption. We solve complex commercial real estate problems by bringing together good people, great minds, and top tier technologies.<br>
+<br>
+As part of CBRE Build, you’ll be able to learn from the most brilliant software engineers and designers while tackling tough problems that will drive our technology forward.<br>
+<br>
+<h4 class="jobSectionHeader"><b>About Capital Markets:</b></h4>
+CBRE Capital Markets provides local market expertise and the intelligence necessary for success. As the worldwide industry solutions leader, we offer premier advisory services. Through real estate investment sales, debt and structured finance and investment banking, we deliver real competitive advantage and superior returns on client's real estate investments.<br>
+<br>
+<h3 class="jobSectionHeader"><b>Your responsibilities will include:</b></h3>
+<br>
+A successful candidate will provide strategic thinking, technology and business leadership of key innovation initiatives and will need to have proven track record spanning: roadmap creation, customer experience design, digital marketing experience, modern product delivery approaches such as design thinking, agile methodologies and a passion for technology and innovation.<br>
+<br>
+<ul>
+<li>Collaborate with business stakeholders, clearly understand their needs and communicate the team’s roadmap</li>
+<li>
+Own and manage the product backlog and priority of work, develop user stories and acceptance criteria for development team</li>
+<li>
+Understand and articulate the product strategy and direction
+</li>
+<li>Translate concepts and requirements into an end-to-end user experience and choose the appropriate medium and fidelity for its effective communication
+</li>
+<li>Identify the MVP for products to ensure customer feedback is collected as early as possible and integrated in subsequent versions
+</li>
+<li>Work closely with engineers to execute roadmap and deliver solutions to the market
+</li>
+<li>Regularly interview customers and distill actionable insights<br>
+</li>
+</ul>
+<br>
+<div></div>
+<br>
+<div>
+<h3 class="jobSectionHeader"><b>Qualifications:</b></h3>
+<ul>
+<li>
+At least 7 - 10+ years of experience in an agile, open source software development environment</li>
+<li>
+Bachelor’s Degree and/or equivalent work experience, MS or MBA degree preferred</li>
+<li>
+Led development/ launch of modern products
+</li>
+<li>Set vision, strategy and roadmap working with internal and external customers
+</li>
+</ul>
+<br>
+<h4 class="jobSectionHeader"><b>Bonus points for these qualifications:</b></h4>
+<ul>
+<li>
+Certified Product Owner (CSPO), Certificate in Agile Management or SAF-e</li>
+<li>
+Experience with Real-estate, Loan Origination, Underwriting and Closing processes</li>
+<li>
+Experience with Salesforce, Force.com or Lightning
+</li>
+<li>Degree in Business, Computer Science, Information Systems, Engineering or Business</li>
+<li>
+Experience dealing with executives and non-technical teams (sales, marketing)</li>
+</ul>
+</div>
+</div></div>

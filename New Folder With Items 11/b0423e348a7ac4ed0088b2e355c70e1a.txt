@@ -1,0 +1,70 @@
+<h2>Consultant I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Description
+</b></h2>
+<div><div><div>
+<p>SPS Commerce is a leading supply chain management company that provides state of the art cloud based solutions. Our implementation experts are responsible for deploying SPS’s solutions and ensuring that all parties’ systems and data are ready to begin communicating.<br>
+</p>
+<p></p>
+<p>We are currently looking for an <b>Implementation</b> <b>Consultant</b> who is <i>Obsessed with Customers</i> and has a <i>Get After it </i>attitude to join our Integrated Fulfillment Implementation team.</p>
+<p></p>
+<br>
+<p><b>
+Does this sound like you?</b></p>
+<ul>
+<li>
+Do you enjoy collaborating with stakeholders across multiple internal and external teams to support strategic ERP (Enterprise Resource Planning) integrations?</li>
+<li>
+Do you enjoy communicating and working directly with external facing customers and their trading partners?</li>
+<li>
+Do you have strong analytical, problem solving and troubleshooting skills?</li>
+</ul>
+<p><b>
+Why work at SPS?</b></p>
+<ul>
+<li>
+We’re a growing technology product company (not to mention the largest cloud company HQ’d in Minnesota).</li>
+<li>
+You’ll be joining a top-notch Integrated Implementation team that is valued within our company.</li>
+<li>
+We continually strive to deliver a workplace where people feel valued and challenged to excel. Our high-energy environment provides employees with perks big and small, from company-wide events and department outings to endless coffee and a business casual dress code.</li>
+</ul>
+<div><b>
+Day-to-Day</b></div>
+<ul>
+<li>
+Manage day-to-day project tasks for integrating e-commerce solutions from close of sale through hand-off to the Customer Operations team.</li>
+<li>
+Create customer-specific business rules to meet customer and trading partner system and/or business requirements</li>
+<li>
+Define and execute test plans to successfully integrate trading partners</li>
+<li>
+Verify that maps and business rules function correctly prior to production install</li>
+<li>
+Configure production installation and confirm connectivity with successful data flow</li>
+<li>
+Monitor data flow and analyze, resolve or direct any required technical bug fixes</li>
+</ul>
+<p><b>
+Required Experience/ Skills</b></p>
+<ul>
+<li>
+College degree or equivalent combination of education and experience</li>
+<li>
+2-5 years of business experience</li>
+<li>
+Demonstrated ability to apply, test, and re-configure data rules to produce desired result</li>
+<li>
+2-5 years’ software consulting or software implementation experience (highly preferred)</li>
+<li>
+Familiarity with XML <i>preferred</i>
+</li>
+<li>
+Experience with text editing and data mapping tools <i>preferred</i>
+</li>
+<li>
+General understanding of the concept of e-commerce and electronic data interchange (EDI) <i>preferred</i>
+</li>
+</ul>
+</div></div></div>
+</div></div>

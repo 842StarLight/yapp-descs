@@ -1,0 +1,91 @@
+<h2>Data Science Analyst Co-Op</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Whether you're an investment professional, an expert in sales or a technology specialist, you'll find a culture at MFS that supports you in doing what you do best. Our employees work together to reach better outcomes, always favoring the strongest idea over the strongest individual. We put people first and show care and compassion for our community and each other. Because what we do matters – to us as valued professionals and to the millions of people and institutions who rely on us to help them build more secure and prosperous futures.
+</p>
+<p></p>
+<h2 class="jobSectionHeader"><b>Job Description
+</b></h2>
+<p>MFS is a premier investment management firm with a rich history and a growing global reputation. Since 1924, when our founders invented the mutual fund, collaboration and innovation have fueled our success. When you join our team, you will be challenged by the work you do, and you will share your talents with a vibrant network of vested individuals to create an elite organization and build a rewarding career.
+</p>
+<p></p>
+<p>This Co-op experience provides participants with a meaningful, relevant work experience as part of their academic studies. In addition to daily responsibilities, participants will have the opportunity to participate in a series of structured activities designed to enhance their learning experience including:
+</p>
+<p></p>
+<ul><li>Co-Op New Hire Orientation
+</li></ul>
+<ul><li>Senior Leadership Speaker Series
+</li></ul>
+<ul><li>Social &amp; Networking Events
+</li></ul>
+<ul><li>Presentation Challenges
+</li></ul>
+<p></p>
+<p>At the conclusion of this position, co-ops will have increased their knowledge of investing, the mutual fund industry, employee engagement, and a firm understanding of how information technology works at an asset manager.
+</p>
+<p></p>
+<p>MFS co-op positions are a 6-month commitment (January 7, 2020– June 26, 2020), working Monday – Friday and work between 35-40 hours. Our program is designed for undergraduate and graduate students who are currently enrolled in a co-op program through their college or university and can meet our requirements.
+</p>
+<p></p>
+<p><b>Job Summary
+</b></p>
+<p></p>
+<p>The Data Scientist Analyst Co-op position involves working as part of a dynamic team of Data Scientists, Sales Strategists, and Market Data Analysts within the Technology and Distribution departments. This team works with internal business partners within Distribution to develop models and provide analytics to improve decision-making.
+</p>
+<p></p>
+<h3 class="jobSectionHeader"><b>Principal Responsibilities
+</b></h3>
+<p>Primary functions include, but are not limited to:
+</p>
+<p></p>
+<p>1. Working with domain specialists in Distribution and Technology to integrate business needs with data analytics technology solutions. These solutions will be delivered by:
+</p>
+<p></p>
+<p>a. Defining the problem and identifying business requirements.
+</p>
+<p>b. Identifying, collecting, loading, and preparing the data.
+</p>
+<p>c. Building analytical models using descriptive, predictive and other advanced analytical techniques on transformed data sets.
+</p>
+<p>d. Analyzing and interpreting the results of the analytical models.
+</p>
+<p>e. Communicating results clearly and concisely using visual formats.
+</p>
+<p></p>
+<p>2. Working with other Data Scientists and Technology domain specialists to identify opportunities and deliver novel process improvements to the Distribution business units, leveraging:
+</p>
+<p></p>
+<p>a. Data from internal systems including CRM, Sales, and MFS.com
+</p>
+<p>b. Third-Party Market Data
+</p>
+<p>c. Other identified data sets as required
+</p>
+<p></p>
+<p><b>Qualifications
+</b></p>
+<ul>
+<li>Pursuing a Bachelor's or Master's degree in a related area. Data Science, Statistics, Computer Science, Mathematics, Economics, Analytics, or Applied Mathematics are preferred.
+</li>
+<li>Experience in applying Advanced Analytics and/or Data Science Modeling Techniques. This could be project experience as part of a class or work experience.
+</li>
+<li>Strong expertise utilizing Python or R for machine learning and statistical analysis.
+</li>
+<li>Basic knowledge of the following – Supervised and Unsupervised Learning including Classification Models, Cluster Analysis, Neural Networks, Non-parametric Methods, Multivariate Statistics, Reliability Models, Markov Models, Stochastic models, Bayesian Models as well as NLP (Natural Language Processing)
+</li>
+<li>Comfort manipulating and analyzing data in various formats. Experience with complex, high-volume, high-dimensionality data from varying sources is a plus.
+</li>
+<li>Understanding of relational, XML and NoSQL database models with and associated data access methods (SQL)
+</li>
+<li>Strong communication skills
+</li>
+<li>Proven analytical skills and demonstrated ability to take initiative and help with developing creative solutions to meet business needs
+</li>
+<li>Experience working on a team, preferably on projects
+</li>
+</ul>
+<p></p>
+<p>If any applicant is unable to complete an application or respond to a job opening because of a disability, please contact MFS at 617-954-5000 or email talent_acquisition@mfs.com for assistance.
+</p>
+<p></p>
+<p><i>MFS is an Affirmative Action and Equal Opportunity Employer and it is our policy to not discriminate against any employee or applicant for employment because of race, color, religion, sex, national origin, age, marital status, sexual orientation, gender identity, genetic information, disability, veteran status, or any other status protected by federal, state or local laws. Employees and applicants of MFS will not be subject to harassment on the basis of their status. Additionally, retaliation, including intimidation, threats, or coercion, because an employee or applicant has objected to discrimination, engaged or may engage in filing a complaint, assisted in a review, investigation, or hearing or have otherwise sought to obtain their legal rights under any Federal, State, or local EEO law is prohibited. </i><i>" </i><i>Click here </i><i>to view the 'EEO is the Law' poster and </i><i>supplement </i><i>."</i></p>
+</div></div>

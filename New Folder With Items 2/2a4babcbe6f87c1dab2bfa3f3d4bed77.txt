@@ -1,0 +1,80 @@
+<h2>Applications Engineer, Salesforce</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div><div><div><div><div><div>
+<p>At Twitter our IT Business Systems team focuses on implementing and supporting applications to help our internal customers meet their operational needs. We are responsible for establishing processes for continual improvement, guiding administration, and partnering with multiple customers on a project-to-project basis. Our mission is to keep our business running effectively while maintaining a healthy application environment.</p>
+<p>
+To strengthen our growing team, we are looking for an experienced Senior Salesforce Engineer to design and build highly scalable business application solutions leveraging salesforce, service cloud, sales cloud, and app exchange solutions. As an integral member of the IT business systems team, this position will be responsible for developing innovative solutions for business process automation. You will possess outstanding interpersonal skills and demonstrate yourself to be a great analytical thinker. You are team-oriented, and you thrive in a fast paced environment.</p>
+<br>
+<p></p>
+<p><b>
+Key Responsibilities</b></p>
+<ul>
+<li>
+Design, implement and deploy Salesforce based cloud application solutions to internal business teams within Twitter</li>
+<li>
+Work with multiple business stakeholders to develop solutions against departmental roadmap</li>
+<li>
+Provide leadership and guidance to develop business process automation solutions to internal Twitter teams</li>
+<li>
+Provide technical design, integration architecture, and solution recommendations</li>
+<li>
+Work closely with business operations teams to determine business requirements and desired functionality</li>
+<li>
+Partner with internal engineering teams, third party vendors to develop consistent solutions</li>
+<li>
+Responsible for design and code review, and release management</li>
+<li>
+Work with other members of the Business Systems team for coordinated delivery</li>
+</ul>
+<br>
+<p>
+</p>
+<p><b>Qualifications</b></p>
+<ul>
+<li>
+Bachelor's Degree in Computer Science, MIS/CIS or equivalent work experience</li>
+<li>
+5+ years of Salesforce enterprise wide experience</li>
+<li>
+Salesforce engineering development experience</li>
+<li>
+Excellent knowledge of Salesforce technical architecture</li>
+<li>
+Knowledge of APEX, Visualforce, Salesforce APIs, web services, and the Lightning Platform</li>
+<li>
+Knowledge of Javascript UI frameworks such AngularJS and Aura</li>
+<li>
+Experience with Java, Ruby, Scala or other development languages a plus</li>
+<li>
+Good understanding of design patterns and engineering best practices</li>
+<li>
+Experience working within a defined SDLC process</li>
+<li>
+Experience with enterprise integration frameworks</li>
+<li>
+Ability to translate business needs to technical solutions</li>
+<li>
+Excellent analytical and problem solving skills</li>
+<li>
+Excellent interpersonal, written and verbal communication</li>
+<li>
+Team oriented approach</li>
+<li>
+Ability to work in an aggressive, fast paced environment managing multiple priorities</li>
+<li>
+Experience working within an Agile development framework</li>
+</ul>
+<br>
+<p>
+</p>
+<p>** Position can be filled in San Francisco, Seattle WA or Boulder CO</p>
+<br>
+<p></p>
+<p>
+We are committed to an inclusive and diverse Twitter. Twitter is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.</p>
+<p>
+San Francisco applicants: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p>
+</div></div></div></div></div></div>
+<p></p>
+</div>

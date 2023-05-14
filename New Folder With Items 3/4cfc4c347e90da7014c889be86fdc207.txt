@@ -1,0 +1,78 @@
+<h2>Sr. Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Vbrick's mission is to simplify the complexity of creating, managing and delivering video for use within the enterprise helping organizations unleash the power of video. Customers use Vbrick to seamlessly embed video communications within their core business applications including corporate communications, live executive broadcasts, sales and employee onboarding, product training and knowledge transfer, distance learning and marketing. With more than a thousand customers in over 100 countries, Vbrick is a leading provider of enterprise video platforms.</p>
+<p></p>
+<br>
+<p><b>
+What you'll do:</b><b>
+</b></p>
+<ul>
+<li>Design and develop highly scalable cloud-based enterprise software using the latest technologies, frameworks and tools</li>
+<li>
+Tackle complex problems in distributed computing, web services, and more</li>
+<li>
+Collaborate with product managers, architects, other engineers and cloud operations teams to define, design and build new products</li>
+<li>
+Design and build frameworks and reusable components. Help implement software strategies, standards and frameworks</li>
+<li>
+Anticipate and prevent problems and roadblocks before they occur; present technical issues and their impact with recommendations for solutions</li>
+<li>
+An eagerness to learn about whatever technologies, frameworks, tools or tricks are needed to get the job done</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+What you'll bring:
+</b></p>
+<ul>
+<li>Minimum 5 years of web applications development experience preferably in a product company</li>
+<li>
+Minimum 3 years of experience in building scalable, cloud-based product or web applications</li>
+<li>
+MS/ BS Computer Science/ IT/ or related field</li>
+<li>
+Strong experience in OOP, data structures, concurrency programming, design patterns, IoC, DI, distributed and asynchronous systems</li>
+<li>
+Experience in designing and developing multi-tier distributed systems</li>
+<li>
+Expert-level experience with Node.js</li>
+<li>
+Solid experience in object-oriented languages preferably C#</li>
+<li>
+Strong experience in designing and building RESTful services</li>
+<li>
+Experience in NoSQL databases like MongoDB, CouchDB, Redis or others</li>
+<li>
+Experience in building scalable systems using cloud providers like AWS, Azure or others</li>
+<li>
+Excellent problem solving skills</li>
+<li>
+High degree of self-motivation to learn new methodologies</li>
+<li>
+Experience with agile development and release process</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+ </b></p>
+<p><b>A little about us:</b></p>
+<ul>
+<li>
+Casual and flexible work environment to encourage creativity and collaboration</li>
+<li>
+Flexible hours and 4 weeks of PTO to enjoy life!</li>
+<li>
+Competitive compensation, stock options and generous benefits</li>
+<li>
+Monthly catered lunches and a well stocked kitchen</li>
+<li>
+Wellness initiatives and game nights to keep the mind and body healthy</li>
+</ul>
+<p></p>
+<br>
+<p>
+ Vbrick Systems, Inc. is an Equal Opportunity Employer</p>
+</div>
+<p></p>
+</div>

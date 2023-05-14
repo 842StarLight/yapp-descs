@@ -1,0 +1,93 @@
+<h2>Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Work with MODERN TECHNOLOGY !
+</b></p>
+<p>Leave your foot-print within a<b> growing, successful organization! Friendly &amp; productive team. </b>If you enjoy developing<b> Java-based web applications &amp; APIs </b>using<b> Spring, RESTful web services, JSP, and jQuery/JavaScript and ReactJS, </b>then here's an outstanding opportunity!</p>
+<p><b>
+Founded in 1998</b>, ClickBank has established itself as a top global internet retailer powering one of the world's leading performance marketing platforms for both digital and physical products. The ClickBank platform meets at the intersection of ecommerce, fintech and adtech, enabling entrepreneurs to drive consumer traffic and sales through a commissioned affiliate network.<br>
+</p>
+<p>
+With over <b>200</b> million customers, <b>6</b> million platform users and distribution in <b>190</b> countries, ClickBank's powerful ecommerce and mobile ecosystem provides entrepreneurs with a reliable secure online marketplace to help them sell their products and services.</p>
+<p><b>
+THE FUN STUFF.</b>..We're actively modernizing our platform. We are responsible for transitioning our legacy application to a modern and current state of software stack.</p>
+<h3 class="jobSectionHeader"><b>
+SUMMARY:</b></h3>
+<p>
+This person will develop Java-based web applications &amp; APIs for a profitable e-commerce site in a startup atmosphere. The development team uses Agile/Lean development methodologies (a mix of Scrum and Kanban) which requires close collaboration among developers, devops, product management, and other non-technical organizations.</p>
+<p>This person should have experience designing and implementing front to back web-based flows using Spring, RESTful web services, JSP, and jQuery/JavaScript and ReactJS This person should also have experience with database interfaces using data abstraction layers such as Hibernate</p>
+<p><b>KEY RESPONSIBILITIES INCLUDE, BUT ARE NOT LIMITED TO</b><b>:</b></p>
+<ul>
+<li>Design and implement new features using Java, Spring, and JavaScript as required by ClickBank business needs.</li>
+<li>Create interactions with the database through a persistence layer.</li>
+<li>Implement best practices with regard to security and PCI compliance.</li>
+<li>Maintain existing code by fixing bugs found in production.
+</li>
+<li>Write unit, integration and end-to-end tests for new features or bug fixes.</li>
+<li>Perform code reviews and ensure quality of code is maintained to high standards.</li>
+<li>Participate in daily standups with team members to give status on projects</li>
+</ul>
+<p><b>Requirements</b></p>
+<ul>
+<li>Bachelor’s degree in Computer Science or equivalent experience.</li>
+<li>3+ years of industry experience in Java
+</li>
+<li>Knowledge of Design Patterns.</li>
+<li>Experience with test frameworks (Junit, Mockito).</li>
+<li>Collaborate with a variety of teams including Development, DevOps, Product, Warehouse, etc.</li>
+<li>Strong Java skills – knowledge of Generics, Collections, Networking.
+</li>
+<li>Working knowledge of Git.</li>
+<li>Java/Tomcat web application development – understanding of HTTP request / response cycle.
+</li>
+<li>Ability to construct and execute advanced SQL queries.
+</li>
+<li>Experience with JPA-based ORM technologies.
+</li>
+<li>JMS architecture.</li>
+<li>Proficient using Unix/Linux-based OS.
+</li>
+<li>Strong communication skills, both spoken and written.</li>
+</ul>
+<p><b>PREFERRED SKILLS</b><b>:</b></p>
+<ul>
+<li>Agile development experience (e.g. Scrum, Kanban).
+</li>
+<li>Experience with any or all of the following development components: Spring 3.0+, JSP, Hibernate, JavaScript, jQuery, Unix shell scripting, a scripting languages (Groovy, Ruby, Python...), JSON, XML, AJAX, jUnit, Apache, NodeJS, Maven, Jackson, and Jetty.
+</li>
+<li>User interface design and development experience for web applications.
+</li>
+<li>Experience with relational databases (MySQL).
+</li>
+<li>Experience with NoSQL technologies (e.g. Cassandra, Mongo, Dynamo, Redis).</li>
+<li>Experience building microservices based architectures.</li>
+<li>GraphQL</li>
+<li>Experience with a CI/CD development process.</li>
+<li>AWS</li>
+</ul>
+<p><b>Benefits</b></p>
+<p><b>
+lickBank pays for 100%</b> employee and child premiums, spouses approximately $190/month</p>
+<p>
+Total compensation = competitive base + bonus</p>
+<p>
+Laid back yet high performing culture - frequent team building and collaboration</p>
+<p>
+Boise, Idaho home office has low employee turnover</p>
+<p>
+Paid Time Off - very competitive, and it's ok if you use it!</p>
+<p>
+Flex Days - additional 7 days!</p>
+<p>
+8 Paid Holidays</p>
+<p>
+Easy access work location is near Overland/Cole road near I-84 in center of Boise</p>
+<p>
+Open modern work space with big windows overlooking Boise valley</p>
+<p>
+Free snacks and beverages</p>
+<p>
+We believe in treating our employees well, having fun together, and cultivating an exciting collaborative environment!</p>
+</div>
+<p></p>
+</div>

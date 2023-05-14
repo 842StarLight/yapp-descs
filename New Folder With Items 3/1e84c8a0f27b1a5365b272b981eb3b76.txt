@@ -1,0 +1,66 @@
+<h2>Marketing Operations Manager, Marketo</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p>The Square Marketing team works to acquire new Square sellers through self-service and lead generation campaigns and strategies. We’re looking for a Marketing Ops Manager to own all aspects of our Marketo automation platform including integrations between and our instance and the CRM.</p>
+<p>
+This role requires a strong understanding Marketo and Salesforce and the interactions between the two as well as an ability to streamline current work flows, utilize analytics to uncover new opportunities, and to debug programmatic issues. You will provide governance, process, and consultation to other users of the Marketo platform, ensuring consistent health and hygiene of the database. Your knowledge will be vital to ensuring that our Salesforce and Marketo instances communicate seamlessly, minimizing any potential sync errors, backlogs, or any other potential service slowdowns.</p>
+<p>
+With data at the heart of everything we do, you’ll work closely with Sales Ops to ensure proper attribution to uncover and create high converting opportunity segments. You will utilize your analytical and operational skills to determine ROI and further inform future campaigns across multiple channels</p>
+<p>
+You will:</p>
+<ul>
+<li><p>
+Manage all Marketo operations, providing governance, process, and consultation to enable other marketers to efficiently use the platform</p></li>
+<li><p>
+Build and deploy programs to maintain hygiene and integrity of our prospect database</p></li>
+<li><p>
+Coordinate with marketing analytics to develop robust lead scoring and decay models</p></li>
+<li><p>
+Work directly with Sales Ops to own the relationship between Marketo and Salesforce for API uptime, field creation, and system backlogs</p></li>
+<li><p>
+Implement reliable reporting, tracking, and attribution across all global markets</p></li>
+<li><p>
+Help drive closed-loop reporting from Leads to Revenue so that we know our ROI by campaign, offer, and source</p></li>
+<li><p>
+Own, measure and iterate on processes required to achieve lead qualification milestones</p></li>
+<li><p>
+Identify marketing funnel improvement areas and develop process/engagement solutions with the marketing and sales team</p></li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+<p>You have:</p>
+<ul>
+<li><p>
+3+ years of marketing experience either in a demand generation or a marketing ops role</p></li>
+<li><p>
+Advanced experience working with Marketo and Salesforce; Marketo Certified Expert preferred</p></li>
+<li><p>
+First-hand experience in owning 5M+ lead database and managing lead source tracking</p></li>
+<li><p>
+Advanced understanding of the campaign management process, attribution and measurement, and marketing funnel management</p></li>
+<li><p>
+Proficient knowledge in CAN-SPAM, GDPR, and CCPA compliance</p></li>
+<li><p>
+Strong analytical skills and experience using data to drive actionable insights using Excel or a comparable software</p></li>
+<li><p>
+Experience working cross-functionally with sales operations, engineers, analysts and product managers</p></li>
+<li><p>
+An energetic and willing attitude</p></li>
+</ul>
+<p>
+Even Better:</p>
+<ul>
+<li><p>
+Salesforce Certified</p></li>
+<li><p>
+Experience in B2B or Fintech marketing</p></li>
+</ul>
+<br>
+Additional Information<br>
+<br>
+<p>At Square, our purpose is to empower – within and outside of our walls. In order to build the best tools for the businesses and customers we support all over the world, we have to start at home with a workforce as diverse and empowered as our sellers. To this end, we take great care to evaluate all employees and job applicants equally, based on merit, competence, and qualifications. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We encourage candidates from all backgrounds to apply and always consider qualified applicants with arrest and conviction records, in accordance with the San Francisco Fair Chance Ordinance. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)squareup.com. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible. Perks At Square, we want you to be well and thrive. Our global benefits package includes: Healthcare coverage, Retirement Plans, Employee Stock Purchase Program, Meal reimbursements, Wellness perks, Paid parental leave, Flexible time off, Learning and Development resources</p>
+</div>
+</div>

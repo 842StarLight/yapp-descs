@@ -1,0 +1,86 @@
+<h2>Senior Citrix CSP Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Department: Tech</b> <b>Reports to: Service Manager</b>
+</p>
+<h3 class="jobSectionHeader"><b>
+DiamondIT Simplified</b></h3>
+<p>Do you want a career with unlimited growth potential? Do you want to be a member of an exclusive team of IT service professionals where you are treated like family? Do you want to work at an organization where employees enjoy coming to work? DiamondIT is a modern, forward-looking, IT consulting organization. We specialize in all facets of business technology with an emphasis on solutions, not products. We value hard work, and we listen to and understand our clients’ and employees’ needs. We are a company that nurtures a strong work ethic, values family, and is active in our community. While “Uncompromised Quality” is fundamental, so is having an enjoyable work environment. From hockey games to fishing trips and theme park thrills, our company puts funds into fun. We also know a balanced life is a healthy life. DiamondIT’s company culture is one you will not want to miss out on. If you are intrigued by the cutting edge of technology and are looking for a company that you can grow with personally and professionally, we want to talk to you. Please email resumes to careers@diamondIT.pro</p>
+<h3 class="jobSectionHeader"><b>
+General Summary</b></h3>
+<p>Senior Citrix CSP Engineer for a seasoned Cloud Computing services provider. The Senior Citrix CSP Engineer reports to the Lead Cloud Technical Architect (CTA) and is responsible for helping establish the company’s technical vision and leading projects to further the company’s cloud technology development.</p>
+<p>
+The Senior Citrix CSP Engineer is a key technical position, playing an integral role in the company’s strategic direction, development, and future growth</p>
+<div>
+Essential Duties and Responsibilities</div>
+<div><ul>
+<li>Provide assistance to CTA architecting and managing High Availability, High Security, High Performance Citrix Multi-Tenant Virtualization platform for a hosted desktop and application delivery service.</li>
+<li>Assist CTA with building and managing the Citrix Multi-Tenant virtualization platform with the primary directives to:
+<p>1. Delight Customers</p>
+<p>
+2. Satisfy 99.999% availability SLA’s</p>
+<p>
+3. Satisfy internal strategic &amp; financial objectives</p>
+<p>
+4. Design, Implementation and Support of:</p>
+</li>
+</ul></div>
+<div>Additional Duties and Responsibilities</div>
+<div><ul>
+<li>Multi-farm highly available Citrix XenApp 6.5/Citrix XenDesktop 7.12 environment.</li>
+<li>AppSense Environment Manager</li>
+<li>Netscaler</li>
+<li>Citrix Storefront</li>
+<li>XenServer HA Cluster</li>
+<li>Citrix Receiver for Windows, Mac, iOS</li>
+<li>Thin &amp; Zero Clients</li>
+<li>VMWare HA Cluster</li>
+<li>Experience with VDI monitoring / logging tools such as Citrix Director</li>
+<li>Strong Scripting: PowerShell, VBScript</li>
+<li>Ability to establish best practices for monitoring and forecasting of system/application capacity.</li>
+<li>System performance, troubleshooting, reliability, and capacity planning</li>
+<li>Strong Network Administration experience</li>
+<li>Experience with implementing and supporting various backup and antivirus solutions</li>
+<li>SAN (Compellent, Dell EqualLogic, EMC, etc.)
+</li>
+<li>Provide Escalation support to the Virtualization Services Team Tier 2</li>
+<li>Advanced analytical and problem solving ability, critical decision making skills, intuitive, un-yielding focus as workload rises focus increases, multi-task becomes second nature often playing mediator or calming the storm by focusing everyone on a common goal required, mediator on calls if necessary, creative and independent thinker.</li>
+<li>Excellent communication and collaboration skills.</li>
+</ul></div>
+<div>Knowledge, Skills, and/or Abilities Required</div>
+<div>
+<p>Candidate is recognized as a technical leader within the department and organization, with emphasis on the Citrix environment. Has the ability to demonstrate breadth of knowledge across multiple areas of information technology. The candidate may be a key team member on strategic or enterprise-wide technology projects or issues.</p>
+<ul>
+<li>Ability to apply a thorough understanding of Citrix products required.</li>
+<li>Has the ability to maintain relationships with technical resources at all levels of a customer organization.</li>
+<li>Thorough understanding of technical sales techniques and processes including the ability to understand customer needs, overcome objections, assist in the development of business cases, and technically close deals.</li>
+<li>Able to articulate and understand the customer strategy and DiamondIT cloud solution strategy to a technical level of detail for their technical area of focus.</li>
+<li>Ability to diffuse complicated technical and political situations with customers and business partners.</li>
+<li>Must be flexible, dependable, and capable of quickly learning new products and technologies</li>
+<li>The individual should be able to apply a good understanding of one or more of the following areas of focus:<br>
+* Xenapp * Xendesktop * Netscaler * XenServer * VMware<br>
+* Citrix App Orchestration * Citrix AD Sync<br>
+<ul>
+<li>Xenmobile or equivalent MDM product</li>
+<li>Cloudportal Services manager</li>
+<li>Microsoft products (AD, Exchange, Sharepoint, etc )</li>
+<li>Scripting Knowledge, VBScript, Powershell</li>
+<li>Must have experience with multi-tenant cloud environments</li>
+<li>Exhibits a positive attitude, represents DiamondIT to customers and business partners in the best possible fashion, and fosters interest in our offerings</li>
+<li>Excellent oral and written communications skills, as well as presentation skills.</li>
+<li>Strong work ethic, attitude and follow through ability</li>
+<li>Layer 2 functionality: Spanning Tree, VLAN trunking (802.1q), Link Aggregation</li>
+<li>Strong experience with network based segmentation solutions like firewalls, VLANs</li>
+<li>Strong experience with network/server security and hardening best practice</li>
+</ul>
+</li>
+</ul>
+</div>
+<div>Benefits</div>
+<div><ul>
+<li>Competitive compensation based on experience and qualifications</li>
+<li>401 K / Profit Share / Medical, Dental &amp; Vision Insurance / Holiday &amp; Vacation Pay</li>
+<li>Fun working environment and culture</li>
+<li>Great opportunity for training and advancement</li>
+</ul></div>
+<p><i>DiamondIT is an equal opportunity/affirmative action employer committed to diversity and inclusion worldwide.</i></p>
+</div></div>

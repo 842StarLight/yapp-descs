@@ -1,0 +1,75 @@
+<h2>Security Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Dominos Pizza, which began in 1960 as a single store location in Ypsilanti, MI, has had a lot to celebrate lately: were a reshaped, reenergized brand of honesty, transparency and accountability not to mention, great food! In the rise to becoming a true technology leader, the brand is now consistently one of the top five companies in online transactions and 65% of our sales in the U.S. are taken through digital channels. The brand continues to deliver the dream to local business owners, 90% of which started as delivery drivers and pizza makers in our stores. Thats just the tip of the icebergor as we might say, one slice of the pie! If this sounds like a brand youd like to be a part of, consider joining our team!<br>
+<br>
+Dominos Information Security group is rapidly expanding its security program, continuously design and implement new security controls and update and improve current controls. We are currently looking for a Junior Security Engineer to support the implementation and maintenance of Information Security platforms, the refinement of information security requirements and ensure that the requirements are integrated into information security strategy through purposeful security architecting, design, development, and configuration.
+<br>
+<br>
+Dominos Pizza, which began in 1960 as a single store location in Ypsilanti, MI, has had a lot to celebrate lately: were a reshaped, reenergized brand of honesty, transparency and accountability, not to mention great food! In the rise to becoming a true technology leader, the brand is consistently one of the top five companies in online transactions. Further, 40% of our sales in the U.S. are taken through digital channels. The brand continues to deliver the dream to local business owners, 90% of which started as delivery drivers and pizza makers in our stores. Thats just the tip of the icebergor as we might say, one slice of the pie! If this sounds like a brand youd like to be a part of, consider joining our team!
+<br>
+<br>
+<b>RESPONSIBILITIES AND DUTIES</b>
+<br>
+<br>
+Responsibility #1 (50%) R&amp;D project support
+<ul>
+<li>Assist R&amp;D team working to design and develop information security systems/controls or upgrade legacy systems/controls.</li>
+<li>
+Assist product research and support Analysis of Alternative (AoA) activities that independently identify the most appropriate security solutions.</li>
+<li>
+Assist with the development of system concepts, contribute to the capability phase of the systems development lifecycle, and translate technology and environmental conditions (e.g., law and regulation) into system security designs and processes.</li>
+<li>
+Assist in new Security control initiatives.</li>
+<li>
+Assist with the development and documentation of Security Architectures and roadmaps.</li>
+<li>
+This role will partner and engage with Information security teams and business partners to implement secure solutions and provide enterprise level security consultation.</li>
+<li>
+Excel in an environment of high uncertainty and constant change, where standard project management practices and process are equal in importance to fostering successful communication, collaboration and understanding among project stakeholders.</li>
+<li>
+Ensure the seamless delivery of all security projects proposed by the R&amp;D team.</li>
+<li>
+Work to ensure R&amp;D projects are successfully implemented by taking into the consideration a complex customized environment, constant resources constraints, accelerated timelines, and/or reprioritization of projects.</li>
+</ul>
+<b>Responsibility #2 (50%) Day-to-Day Security Control Management</b>
+<ul>
+<li>Maintain and troubleshoot systems and controls assigned.</li>
+<li>
+Create new federation relationships between Dominos and service providers.</li>
+<li>
+Maintain and troubleshoot existing federation relationships.</li>
+<li>
+Work with other Dominos departments to ensure applied access meets each departments requirements.</li>
+<li>
+Advises business managers and customers of security requirements, configurations, and limitations</li>
+<li>
+Work closely with Information Security Compliance to ensure that Dominos IAM initiatives comply with applicable compliance standards (SOX, PCI, etc.)</li>
+<li>
+Maintain and Develop SIEM Content and Rules</li>
+</ul>
+<b>Qualification Requirements</b>
+<ul>
+<li>Bachelors Degree in Computer Science, Information Technology, Engineering, or a related field (Preferred)</li>
+<li>
+Has foundational experience in IT and Security Information.</li>
+<li>
+2 years of Information Technology experience with a focus on Security.</li>
+<li>
+2 years of experience in System Administration, Networking, or another operations-related field.</li>
+<li>
+Candidate should have exceptional troubleshooting and problem-solving skills.</li>
+</ul>
+<b>Required Skills</b>
+<ul>
+<li>Experience with user directory technologies (LDAP, Active Directory).</li>
+<li>
+Experience with scripting. PowerShell and Java preferred.</li>
+<li>
+Experience with Identity &amp; Access Management concepts.</li>
+<li>
+Knowledge of federation concepts.</li>
+<li>
+Experience with SIEM technologies.</li>
+<li>
+Experience with Security Domain Models.</li>
+</ul>
+</div></div>

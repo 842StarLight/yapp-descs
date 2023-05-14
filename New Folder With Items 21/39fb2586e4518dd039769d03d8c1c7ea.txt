@@ -1,0 +1,37 @@
+<h2>Application Engineer - Entry Level</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Job Description:</b></p>
+<p>
+We are excited to offer an opportunity for an Entry Level Engineer to work with some of the industry's top-notch experts on Power, Analog and Automotive IC testing.
+</p>
+<p>If you are interested in how semiconductor devices work, have the desire to understand the theory of IC design, along with testing segment of chip manufactures, this is the opportunity for you.
+</p>
+<p>You would have the ability to work with world top semiconductor design companies, design and develop IC testing solutions for research, characterization and massive production. Including testing hardware definition, developing test programs with Advantest leading edge Automatic Test Equipment(ATE), implementing test solutions and drive them through from design all the way to product shipment to end users.
+</p>
+<p>You would responsible for testing at wafer process, final package, and system level. You will support customers for test program development with C++, Java and other programming languages. You will develop variety of software and tools to fulfill internal or customers' requirements.
+</p>
+<p>If you would like to have a hands-on job and experience how hardware and software meet and work in harmony, this is an opportunity you don't want to miss.
+</p>
+<p><b>Responsibilities:</b></p>
+<ul>
+<li>Develop and implement test solutions of both hardware and software for devices in the Analog and Power Management ICs segments.</li>
+<li>Pre-Sales support in the development of product demonstrations, device benchmarks, product competitive positioning in term of system features</li>
+<li>Accountable for the design, scoping, and technical validity of the solution to achieve the customer's business objectives.</li>
+<li>Support of production implementation and execution of test solutions developed.</li>
+<li>Provide technical support in V93000 Semiconductor Test Systems and Applications for Advantest customers and their partners.</li>
+<li>Keeping global technical peers informed of new and emerging technologies and information in their business segment.</li>
+<li>Create and deliver customer training classes and consultation materials for seminar usage</li>
+</ul>
+</div>
+<br><div>
+<p><b>Qualifications:</b></p>
+<ul>
+<li>BS or MS in Electrical Engineering/Physics/Computer Science or equivalent
+</li>
+<li>Experience with C++, Java programming</li>
+<li>Fundamentals of Electronic Circuits and Digital Logic, Principles of Analog Circuits is a plus</li>
+<li>Python or other scripting language is a plus</li>
+</ul>
+</div>
+</div>

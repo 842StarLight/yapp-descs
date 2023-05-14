@@ -1,0 +1,74 @@
+<h2>Software Engineer- Payments</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Software Engineer-Payments</b><br>
+<b>We're looking for geniuses. Dreamers. Inventors. Innovators. People with the will to get stuff done. Doers who'll rip an idea out of thin air. Make it a reality. Own it.And amaze their peers. Sound like you? Welcome home.</b><br>
+<br>
+<b>As a Software Engineer, you will be a member of the Hy-Vee Payments delivery team following an agile delivery cadence. Your primary focus will be building secure, highly available, and scalable payments solutions. You will work in a secure, hybrid cloud environment with fully automated CI/CD pipelines and infrastructure as code. We are looking for people who can not only be great individual contributors, but also pair program and mentor other engineers.</b><br>
+<br>
+<b>KEY RESPONSIBILITIES</b><br>
+<br>
+<ul><li>Enable easy system integration of payments solutions with ecommerce and POS clients</li></ul>
+<ul>
+<li>Incorporate PCI/DSS security requirements into all code</li>
+</ul>
+<br>
+<ul><li>Pair with other team members to cross-pollinate ideas and skills</li></ul>
+<br>
+<ul><li>Champion code quality, maintainability, and reliability</li></ul>
+<br>
+<ul><li>Find and address performance issues</li></ul>
+<br>
+<ul><li>Take features from conception to final production deployment</li></ul>
+<br>
+<ul><li>Contribute heavily to user story definition that takes our technology stack into consideration, but also continue to push the bounds of what is possible</li></ul>
+<br>
+<b>
+Qualifications</b><br>
+<br>
+<ul><li>Expert level knowledge of at least one of the following programming languages: Java, C#, or Kotlin</li></ul>
+<br>
+<ul><li>Production experience implementing RESTful APIs</li></ul>
+<br>
+<ul><li>Production experience with RDBMS's such as Postgres or MSSQL</li></ul>
+<br>
+<ul><li>Production experience with GKE and Openshift</li></ul>
+<br>
+<ul><li>Production experience with Spring Framework</li></ul>
+<br>
+<ul><li>Demonstrable grasp of logical data modeling techniques (ex. entity relationship diagrams)</li></ul>
+<br>
+<ul><li>Strong understanding of event-oriented software architectures</li></ul>
+<br>
+<ul><li>Strong understanding of test driven design and general automation</li></ul>
+<br>
+<b>
+A Strong Candidate Will Also Have:</b><br>
+<br>
+<ul><li>Experience with retail payment systems and software</li></ul>
+<ul>
+<li>Knowledge of PCI/DSS standards</li>
+<li>Knowledge of ISO 8583 messaging</li>
+<li>Experience with transaction switches</li>
+</ul>
+<br>
+<ul><li>Experience with using CI/CD technologies such as Concourse, Jenkins, Bamboo, Travis CI, and Drone</li></ul>
+<br>
+<ul><li>Production experience with OAuth and Identity Provider integration</li></ul>
+<br>
+<ul><li>Degree level qualifications in a technical related subject</li></ul>
+<br>
+<ul><li>Demonstrable knowledge of secure programming techniques</li></ul>
+<br>
+<ul><li>Experience building cloud-native applications (Docker, Docker-Compose, Kubernetes.)</li></ul>
+<br>
+<ul><li>Experience with Google Cloud GKE, PubSub, SQL, and KMS</li></ul>
+<br>
+<b>
+***May be filled at a lower or higher level depending on experience.****</b><br>
+<br>
+<b>About Hy-Vee, Inc.</b><br>
+<br>
+Hy-Vee, Inc. is an employee-owned grocery store chain with more than 240 retail stores and over 80,000 employees. With sales of more than $10 billion, Hy-Vee ranks among the top 25 supermarket chains and the top 50 private companies in the United States. Its slogan, "A Helpful Smile in Every Aisle," expresses the foundation of the company's operating philosophy.<br>
+<br>
+<b>Visit </b><b>itcareers@hy-vee.com</b><b> to apply or </b><b>https://innovate.hy-vee.com</b><b> to learn about all the exciting things our IT organization does!</b>
+</div></div>

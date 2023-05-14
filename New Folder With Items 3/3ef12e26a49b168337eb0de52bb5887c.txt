@@ -1,0 +1,73 @@
+<h2>Planner/Buyer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Planner / Buyer</b></p>
+<br>
+<p><b>Reports To:</b></p>
+<p>Materials Manager</p>
+<br>
+<p><b>FLSA Classification:</b></p>
+<p>Exempt</p>
+<br>
+<p></p>
+<p><b>Function &amp; Responsibility</b></p>
+<br>
+<p>Plans and prepares production schedules for manufacture of high vacuum components with assistance and direction from others on the team. Compiles information and records to prepare purchase orders for procurement of raw material, goods or services to support manufacturing, maintenance or sales activities.</p>
+<br>
+<p></p>
+<p><b>Primary Responsibilities:</b></p>
+<br>
+<p>
+</p>
+<ul>
+<li>Reviews open sales orders daily and updates status notes before creating excel report</li>
+<li>Reviews SFC (Shop Floor Control) report to release recommended production orders to manufacturing</li>
+<li>Reviews planned purchase orders and sends pro-forma purchase orders for approval</li>
+<li>Notify team of production orders that need expediting</li>
+<li>Notify receiving of late or overnight orders from suppliers that need expediting</li>
+<li>Process transfer orders for other sites</li>
+<li>Send RFQ’s to suppliers to obtain pricing, lead time and specifications</li>
+<li>Update trade agreements in MRP system and notify Manager of potential cost savings</li>
+<li>Work with suppliers concerning late deliveries and recovery dates</li>
+<li>Expedites operations that delay schedules and alters schedules to meet unforeseen conditions</li>
+<li>Prepares purchase requisition to obtain materials, tools, and equipment related to assigned products line(s)</li>
+<li>Performs other duties as assigned.</li>
+<li>Back up for shipping and Inventory clerk</li>
+<br>
+</ul>
+<p></p>
+<p><b>Knowledge, Skills, and Abilities Required</b></p>
+<br>
+<ul>
+<li>Working knowledge of MRP software.</li>
+<li>Proficient with Windows based software (e.g. Excel, Word…)</li>
+<li>Ability to read and interpret documents such as engineering drawings, specifications, safety rules, operating and maintenance instructions, procedure manuals.</li>
+<li>Ability to multi-task</li>
+<li>Ability to write routine reports and correspondence.</li>
+<li>Ability to speak effectively before groups of customers or employees of organization</li>
+<li>Ability to solve practical problems and deal with a variety of concrete variables in situations where only limited standardization exists.</li>
+<li>Ability to interpret a variety of instructions furnished in written, oral, diagram, or schedule form</li>
+<br>
+</ul>
+<p></p>
+<p><b>Minimum Qualifications</b></p>
+<br>
+<ul>
+<li>High school or GED graduate.</li>
+<li>At least three to five years of experience using an MRP system for planning and purchasing of products in a manufacturing environment.</li>
+<li>Working knowledge of Microsoft Dynamics AX preferred</li>
+<br>
+</ul>
+<p></p>
+<p><b>Work Environment</b></p>
+<br>
+<p>The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p>
+<br>
+<p></p>
+<p>While performing the duties of this job, the employee is regularly required to sit; use hands to finger, handle, or feel; and talk or hear. The employee is occasionally required to walk and reach with hands and arms. Requires the individual to work at a desk on a computer for an extended period of time with periods of time in which they will have to move around the office for interaction with others. Requires interaction with others via the telephone for extended periods of time.</p>
+<br>
+<p></p>
+<p>Requires light physical effort such as stopping and bending, and occasional lifting of lightweight objects (up to 25 pounds). The noise level in the work environment is low to moderate.</p>
+</div>
+<p></p>
+</div>

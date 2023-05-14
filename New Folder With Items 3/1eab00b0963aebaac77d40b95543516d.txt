@@ -1,0 +1,39 @@
+<h2>Senior Project Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>As a <b>Senior Project Engineer</b> at JKI, you will:</p>
+<ul>
+<li>Visit and talk directly with customers as part of the sales cycle and requirements gathering phases of their projects.</li>
+<li>Design and implement software (primarily in LabVIEW) using advanced object-oriented architectures developed by JKI.</li>
+<li>Develop reusable software components using JKI's software engineering quality standards.</li>
+<li>Keep yourself informed and up-to-date on the latest software engineering practices and tools for LabVIEW as well as other languages and platforms.</li>
+<li>Contribute occasional content to the community, such as JKI blog posts, user group presentations, LAVA &amp; NI Forums posts, etc.</li>
+</ul>
+<p><b>Required Skills</b>
+<br>
+Exceptional candidates will have:</p>
+<ul>
+<li>Bachelor of Science or higher in an engineering- or science-related field.</li>
+<li>5+ years of experience using LabVIEW (and a passion for it).</li>
+<li>Achieved the NI Certified LabVIEW Developer (CLD) designation.</li>
+<li>Familiarity with source code control and issue tracking.</li>
+<li>Experience in semiconductor, biotechnology, or defense industries.</li>
+<li>Great customer skills</li>
+<li>Good oral and written communication skills.</li>
+</ul>
+<p><b>Additional Skills</b>
+<br>
+Exceptional candidates may also have:</p>
+<ul>
+<li>Achieved the NI Certified LabVIEW Architect (CLA) designation.</li>
+<li>Demonstrated active involvement in the LabVIEW Community (LAVA, OpenG, NI Forums).</li>
+<li>Understanding of Object Oriented Analysis, Design, and Programming and UML and how to apply these to LabVIEW software.</li>
+<li>Knowledge of text-based programming languages: Python, Ruby, Java, C/C++, .NET/VB, VBScript.</li>
+<li>Knowledge of Databases and SQL (MySQL, SQL Server, etc.).</li>
+<li>Experience working on and/or leading large multi-developer projects.</li>
+<li>Experience with Source Code Control tools (CVS, SVN, Perforce, etc.).</li>
+<li>Knowledge of National Instruments hardware and software products.</li>
+<li>Understanding of motion control, image processing, data acquisition, and instrument control.</li>
+<li>Understanding of communication protocols and buses (TCP-IP, UDP, RS-232, GPIB)</li>
+</ul>
+<p>USHaywieQo</p>
+</div></div>

@@ -1,0 +1,69 @@
+<h2>Data Engineer, GMS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div>Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities — we're just getting started.
+</div></div>
+<div>Facebook is looking for exceptionally talented and experienced engineers to join GMS Technology team in Menlo Park, California. Our team provides analytics and workflow tools for Global Marketing Solutions (GMS), partnering with sales, marketing, measurement, support and operations teams. In this role, you’ll work with some of the brightest minds in the industry, work with one of the richest data sets in the world, use cutting edge technology, and get an opportunity to solve some of the most challenging business and engineering problems, at a scale that few companies can match. You will do so by partnering with stakeholders/teams and building scalable, reliable solutions that provide business critical insights and metrics, while ensuring the best uptime and responsiveness. This is a full-time position based in Menlo Park, CA.
+</div>
+<div>
+<div>RESPONSIBILITIES</div>
+<div></div>
+<div><div>
+<ul><li><div><div>
+Manage data warehouse plans for a business vertical or a group of business verticals</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Build data expertise and own data quality for allocated areas of ownership</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Design, build, optimize, launch and support new and existing data models and analytical solutions</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Partner with internal stakeholders to understand business requirements, work with cross-functional data and products teams and build efficient and scalable data solutions</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Conduct design and code reviews</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Work with data infrastructure to triage infra issues and drive to resolution</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Manage the delivery of high impact dashboards, tools and data visualizations</div></div></li></ul>
+</div></div>
+</div>
+<div>
+<div>
+MINIMUM QUALIFICATIONS</div>
+<div></div>
+<div><div>
+<ul><li><div><div>
+Bachelor in Computer Engineering or Computer Science</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Experience with data architecture, data modeling, schema design and software development</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Experience in leading data driven projects from definition through interpretation and execution</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Experience with large data sets, Hadoop, and data visualization tools</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Experience initiating and driving projects, and communicating data warehouse plans to internal clients/stakeholders</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+2 or more years of experience with ETL Design, maintenance, or data warehousing</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+2 or more years of experience with SQL and Python or PHP, JavaScript, etc.</div></div></li></ul>
+</div></div>
+</div>
+<div>
+<div>
+PREFERRED QUALIFICATIONS</div>
+<div></div>
+<div><div><ul><li><div><div>
+Experience leading projects in a cross-functional setting</div></div></li></ul></div></div>
+</div>
+<div><div>
+Facebook is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-ext@fb.com.</div></div>
+</div></div>

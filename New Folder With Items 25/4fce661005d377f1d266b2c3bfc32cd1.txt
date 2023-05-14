@@ -1,0 +1,46 @@
+<h2>Data Conversion Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Do you like migrating data and doing development? Are you interested in being a Data Conversion Specialist in a challenging, rewarding, and fast-paced team environment? Now is your chance. The LRS® Retirement Solutions Group is seeking a Data Conversion Specialist in Springfield, Illinois based on the increasing number of customers implementing our PensionGold software.</p>
+<p>The LRS Retirement Solutions Group has been the leading provider of pension administration software and retirement services since 1987. The current web-based version of PensionGold uses service-oriented architecture and is developed with Microsoft .Net Framework Version 4.0 tools with a Microsoft SQL Server database.</p>
+<p>You will be part of the Implementations Team that is focused on implementing our PensionGold products to provide customers with a robust solution that meets their specific requirements. In this role, you will work closely with project team members with a focus on accurately and completely converting customers’ data into our PensionGold database. You will be responsible for the research, analysis, mapping, extraction, loading, validation and balancing of customers’ data in the PensionGold database. You will also participate in technical design and development of software enhancements and custom features for your assigned projects.. The solutions you develop will be done using proprietary visual development tools, Visual Studio, C#, ASP.NET and SQL Server. As an Implementations Data Conversion Specialist, you will be expected to adhere to our full project implementation methodology. You will also provide input on recommending and implementing improved control methods and procedures to increase the quality of future conversions.
+</p>
+<p>You may be based at our corporate headquarters in Springfield, Illinois or in one of our regional offices or home-based. At each of our LRS offices, we have a casual dress environment that our employees enjoy! Travel typically occurs during the week. With customers across the U.S., we often travel on commercial airlines and occasionally on one of our corporate jets. As a Data Conversion Specialist you receive a base salary and you are eligible for overtime pay. There are substantial growth opportunities and career advancement for the right person joining our team in this position.
+</p>
+<p>Performance Objectives:
+</p>
+<ul>
+<li>Within 30 days – Demonstrate a high-level understanding of the PensionGold database model and be able to effectively access and manipulate data using SQL.</li>
+<li>Within 30 days - Develop an understanding of the PensionGold technical platform and development tools. Verbally demonstrate this understanding to management and other PensionGold employees.</li>
+<li>30 to 60 days - Perform various development tasks using SQL Server, Visual Studio and Team Foundation Server. Assignments will require a thorough understanding of the implementation standards and methodology.
+</li>
+<li>90 days – Develop efficient T-SQL and stored procedures</li>
+<li>6 months – Participate in implementation projects and serve as primary Database Developer on one project, completing processes related to data migration of customers’ data under the supervision of a senior team member</li>
+<li>1 year – Create, maintain, and debug conversion processes using an internal visual development tool. Work should be completed consistently and meet quality and time expectations.</li>
+<li>1 year - Develop a high-level understanding of the PensionGold product functionality. Communicate effectively with project managers, developers, business analysts, and other project team members to effectively complete project data conversion and development assignments.</li>
+</ul>
+<p>Applicant Requirements:</p>
+<p>You must have at least three years of experience in all of the following areas:</p>
+<ul>
+<li>Relational database experience using Microsoft SQL Server or Oracle and T-SQL development.</li>
+<li>Data analysis, data automation, data design, and database implementation.
+</li>
+<li>Effective communication, troubleshooting and problem-solving skills.</li>
+<li>Ability to read and understand programming code and ability to plan and organize technical projects.</li>
+<li>Experience with achieving deadlines for project milestones.</li>
+<li>Experience effectively executing data integrity/validation checks.</li>
+</ul>
+<p>Experience with Microsoft Visual Studio, C#, HTML, CSS, JavaScript and XML will make you a stronger candidate.</p>
+<p>You must have permanent authorization to work in the USA. No visa sponsorships are available.</p>
+<p>Success Keys:</p>
+<p>Your success will be judged on your ability to successfully convert customers’ data into the PensionGold database and complete development assignments. Excellent teamwork and effective communication skills are a must.</p>
+<p>Leadership, self-motivation, persistence, and attention to detail are critical to success in this position. The ability to handle multiple tasks and to prioritize work to maintain productivity as well as good troubleshooting and creative problem-solving skills are essential.</p>
+<p>Organization Structure and Interfaces:</p>
+<p>The LRS Retirement Solutions group has approximately 85 employees. It is managed by the Vice President. Managers over Implementations, Product Support and Product Development along with Sales report to the Vice President, and there are Team Leads that report to the Vice President or to their manager.</p>
+<p>You will be a member of the Implementations team and report directly to the Director of Implementations. You will interact with members of your team, other LRS Retirement Solutions employees along with our customers.</p>
+<p>You can learn more about LRS at jobs.lrs.com.</p>
+<div>LRS is an equal opportunity employer. Applicants for employment will receive consideration without unlawful discrimination based on race, color, religion, creed, national origin, sex, age, disability, marital status, gender identity, domestic partner status, sexual orientation, genetic information, citizenship status or protected veteran status.<br>
+<br>
+#LI-DM1<br>
+<ul><li>msja</li></ul>
+</div>
+</div></div>

@@ -1,0 +1,44 @@
+<h2>Summer 2020 Intern, Android Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Transmit is the leader in identity orchestration. We solve some of the most complex challenges in security and usability. Our technology enables large enterprises to standardize and simplify their identity infrastructure to accelerate time to market and reduce the cost of new account opening, authentication, authorization, compliance and fraud prevention related initiatives.
+<br><br>
+Are you looking to learn how to do development at one of the hottest tech startups in Boston?
+<br><br>
+Responsibilities
+<br><br>
+<ul>
+<li>Develop IAM (Identity and Access Management) related mobile applications and tools.</li>
+<li>Define functional specifications for mobile applications based on product requirements.</li>
+<li>Participate in development life cycle activities like design, coding, testing and production release in an agile team environment.</li>
+<li>Participate in product delivery from POC to production by guiding customer development teams.</li>
+<li>Perform code reviews internally and with customers and help elevate to the highest standards.</li>
+<li>Debug production issues across services and levels of the stack.</li>
+<li>Thrive in a rapidly changing environment, continuously working to adapt to ever evolving customer needs and tech stack.</li>
+<li>Support sales team on prospect conference calls, virtual meetings and onsite visits by providing product demonstrations expertly responding to technical questions and explaining features in the context of solving customer's business problems.</li>
+<li>Pair with other engineers to deliver world-class solutions.</li>
+</ul>
+<b>Qualifications:</b><br>
+<ul>
+<li>Working towards a Bachelor Degree in Engineering, Computer Science or related program.</li>
+<li>Master's Degree a plus</li>
+<li>0-2 years of Android application and framework development experience.</li>
+<li>Excellent interpersonal, verbal and written communication skills.</li>
+<li>Communicate effectively with both internal staff and external clients.</li>
+<li>Ability to work independently as well as part of a team.</li>
+</ul>
+<b>Great but not required:</b><br>
+<ul>
+<li>Overall mobile development skills. This includes native Kotlin (Advantage) and Java programming languages, source control, build and delivery systems.</li>
+<li>Understanding in development platforms such as Cordova, Ionic3, ReactNative, MobileFirst/Worklight. (Optional)</li>
+<li>Understanding with integrating third party mobile SDKs into Android mobile applications.</li>
+<li>Strong understanding of best practices applied to mobile application development.</li>
+<li>Expertise with aspects of transport as applied to mobile applications (connection handling, push notifications, client-side certificates/SSL, PKI on mobile).</li>
+<li>Understanding with Unix and native mobile operating systems</li>
+</ul>
+Solid understanding of, Web APIs (REST/JSON), web protocols, (i.e. http/s, JavaScript, SSL, DNS, proxies/caches, firewalls, etc..).
+<br><br>
+<ul>
+<li>Excellent time management, multi-tasking, prioritization skills and ability to manage multiple concurrent projects.</li>
+</ul>
+Transmit are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Headhunters and recruitment agencies may not submit resumes/CVs through this Web site or directly to managers.
+<br><br>
+A background check must be completed prior to joining Transmit Security.</div>

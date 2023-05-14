@@ -1,0 +1,29 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Digital ads drive over 100 billion phone calls to U.S. businesses every year… Surprisingly, the marketers who paid for those ads typically have zero insight into these customer interactions and conversions. As the market leader in call analytics and customer experience optimization, DialogTech provides marketers with an end-to-end call attribution and analytics platform. This enterprise-class solution delivers transparency and control over every conversation, so companies can optimize lead generation, map the full path to conversion, and increase sales conversions.
+<br><br>
+Thanks to smartphones, consumers are calling businesses to engage in conversations at record rates throughout every step of the customer journey, and at DialogTech we are changing the world of voice communications for our customers. We enable our customers to better attribute, route, personalize, and handle their voice interactions at each stage of the marketing and sales processes.
+<br><br>
+<b>The team you’d join:</b><br>
+DialogTech’s Analytics team plays an essential part in building solutions to help marketers completely understand and optimize the customer journey. We go beyond the phone call to analyze the conversation and extract insights to help marketers better serve their markets and customers. We are looking for smart, fast, passionate, and curious developers who can help push our products forward in new directions and into new markets. You will have experience and familiarity with researching, experimenting with, and using data from different sources to build new products and services. You'll be expected to stay abreast of current trends in technologies we use, and finding next technologies that can help us improve our products.
+<br><br>
+As a member of our team you will be responsible for the following:
+<br><br>
+<ul>
+<li>You will assist the Analytics team expand our reporting, transcription and analytics platforms through a dynamic, iterative and incremental process of experimentation.</li>
+<li>You will work with multiple languages such as Python, PHP, Javascript as well as key AWS tools and services such as EC2, SQS, Lambda, and Kinesis to deliver automated analytics solutions to our customers.</li>
+<li>You will help drive deployment automation and infrastructure as code best practices within our analytics platform.</li>
+<li>You will contribute to the design and implementation of our APIs, working with internal and external customers to ensure our solutions are adopted</li>
+<li>You will experiment, evaluate, and recommend new technologies and new approaches that are appropriate for our business needs</li>
+</ul>
+<b>Ideal Experience:</b><br>
+<ul>
+<li>5+ years experience developing with modern languages, preferably several different languages</li>
+<li>Passion and curiosity about technology -- researching trends, pushing them forward, and applying them to customer needs</li>
+<li>Experience with agile software development, and/or continuous deployment practices</li>
+<li>Familiarity with several data storage engines both relational and document oriented, including MySQL, ElasticSearch and the contexts in which they are appropriate</li>
+<li>Experience with successful API design and implementations</li>
+<li>Experience with a wide variety of enterprise application integration patterns, their tradeoffs and proper contexts for use</li>
+</ul>
+Join us at one of the 101 Best and Brightest Places to Work in Chicago and nationally, 10 times running, Chicago Tribune's Top 100 Workplaces company and a 2017 Crain's Fast 50 company!
+<br><br>
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</div>

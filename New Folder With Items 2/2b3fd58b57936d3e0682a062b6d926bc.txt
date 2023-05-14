@@ -1,0 +1,84 @@
+<h2>Engineering Tools Developer & Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div><div><div>
+<p><b>About the Position</b>
+</p>
+<p>We are currently seeking an engineering tools developer and administrator to join our corporate engineering group in Sparks, NV. In this role, you will be working in a team environment with 4-5 other individuals developing and configuring programs to help automate our engineering design calculations, models, drafting, and/or enterprise systems. The goal of these programs is to unburden our design department (50+ employees) of repetitive tasks so they can focus on more value added engineering. We are seeking qualified team players that mirror our core values of professional accountability, transparent communication, strong interpersonal skills, and collaborative team support in a safety first environment. Jensen Precast provides a competitive compensation package, opportunities for growth, ongoing industry training, and much more in our quest and dedication to providing excellent products and services to our customers.</p>
+<p><b>Major Duties</b></p>
+<ul>
+<li>Identify and implement process and tool improvements.
+</li>
+<li>Develops templates and automation to reduce engineering effort and improve quality.
+</li>
+<li>Configures Computer-Aided Design (CAD), Product Data Management (PDM), Engineer to Order (ETO) systems and their ancillary platforms.
+</li>
+<li>Ensures ongoing operation quality for the CAD, PDM and ETO applications through initial release and subsequent software upgrades.
+<ul>
+<li>Executes system test cases and facilitates user acceptance testing.
+</li>
+<li>Performs debugging and troubleshooting when necessary.</li>
+</ul>
+</li>
+<li>Oversees license management, including granting access, removal and permission levels.
+</li>
+<li>Perform engineering data modeling. Leads initiatives to audit and clean legacy product data as models evolve.
+</li>
+<li>Develop/maintain standard operating procedures and training materials to assist user community and future administrators.
+</li>
+<li>Mentors CAD staff in use of the tools and our standard operating procedures. Governs compliance to procedures.
+</li>
+<li>Assists in developing integration solution architecture between engineering systems and the enterprise ecosystem.
+</li>
+<li>Develops Key Performance Indicators and publishes dashboards/reports to user community and key management.
+</li>
+<li>Researches emerging software and other emerging technology and asses readiness for adoption in the engineering department.
+</li>
+<li>Performs CAD work for standard and custom precast designs, as required.
+<ul>
+<li>Generate product designs, rebar layouts, manufacturing drawings and submittals via parametric modeling in AutoDesk inventor (3D). Revises legacy designs as required via Engineering Change Order (ECO) process.
+</li>
+<li>Assist Engineers in the structural analysis of our products.</li>
+<li>Produce catalog drawings, visualization assets, and other support documents from our CAD.
+</li>
+<li>Interact with our regional sales and manufacturing teams.</li>
+</ul>
+</li>
+</ul>
+<p>Equal Opportunity Employer</p>
+<p>We offer competitive compensation, a comprehensive benefits package that includes medical, vision and dental insurance, paid time off, paid holidays, 401k plan and more.</p>
+</div></div></div>
+<div>
+Qualifications</div>
+<div><div>
+<div>
+<p><b>Knowledge, Skills, and Abilities</b></p>
+<ul>
+<li>Knowledge of 3D modeling and drafting for Autodesk Inventor</li>
+<li>An understanding of Bill of Materials and Part Maintenance in a PDM.
+</li>
+<li>An understanding of product design for a manufacturing company</li>
+<li>Knowledge of drafting protocols and standards such as ASME Y14.5</li>
+<li>Template modeling experience in Autodesk Inventor</li>
+<li>Automation development experience with CAD system Application Program Interfaces (API’s)</li>
+<li>Proficient in .NET framework programing languages</li>
+<li>Ability to work well in a team environment
+</li>
+<li>An orientation toward personal growth and continuous improvement
+</li>
+</ul>
+<p><b>Requirements</b></p>
+<ul>
+<li>Bachelor’s Degree in Engineering, Computer Science or related field preferred</li>
+<li>Minimum 3 years of modeling in a CAD system. Autodesk Inventor highly preferred</li>
+<li>Experience working with a PDM system preferred</li>
+<li>Experience working with an Enterprise Resource Planning (ERP) system preferred</li>
+<li>Experience in configuration with a manufacturing company preferred</li>
+<li>Experience with precast concrete products preferred</li>
+</ul>
+</div>
+</div></div>
+</div>
+<p></p>
+</div>

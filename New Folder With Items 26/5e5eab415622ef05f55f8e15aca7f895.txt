@@ -1,0 +1,61 @@
+<h2>Software Developer </h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div><div>
+<h3 class="jobSectionHeader"><b>Job Title: Software Developer</b></h3>
+<h4 class="jobSectionHeader">
+<b>Department: Information Systems Department</b><br>
+<b>Reports To: Principal Software Engineer</b><br>
+<b>Location: South Kansas City, MO</b>
+</h4>
+<h2 class="jobSectionHeader"><b>Position Overview</b></h2>
+<p>This position will have the opportunity to take the lead in developing solutions including working with users to understand their needs, developing the architecture, and doing the technical work. Position includes a wide variety of challenging work and responsibilities and an opportunity to take on a wide variety of tasks that impact the entire organization.</p>
+<h2 class="jobSectionHeader"><b>
+Essential Job Functions</b></h2>
+<ul>
+<li>Partners with users to understand their needs and develop requirements</li>
+<li>Designs database structures</li>
+<li>Designs and develops user interfaces</li>
+<li>Automates processes to integrate the ERP, websites, and other systems</li>
+<li>Tests solutions, supports solutions, troubleshoots, and resolves issues</li>
+<li>Develops reporting solutions</li>
+<li>Balances system issues and requests from multiple people while keeping projects moving forward</li>
+<li>Provides solutions that are flexible, scalable, reliable, and can be leveraged for multiple needs</li>
+<li>Assists and backs up other team members</li>
+<li>Responds to questions, concerns, and requests in a timely manner</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Non-Essential Job Functions</b></h2>
+<ul>
+<li>Continue personal and professional development</li>
+<li>Other duties as assigned.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Key Requirements</b></h2>
+<ul>
+<li>Excellent verbal and written communication skills</li>
+<li>Strong project management skills</li>
+<li>C#/MVC experience</li>
+<li>Ability to write complex SQL</li>
+<li>Data architecture experience</li>
+<li>Ability to troubleshoot processes</li>
+<li>Desires challenges and learning</li>
+<li>Enjoys working with users and others</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Desired Experience and Education Requirements</b></h2>
+<ul>
+<li>Bachelor’s degree in technical field</li>
+<li>Experience with CSS, Bootstrap, jQuery, and JavaScript</li>
+<li>Microsoft SQL and T-SQL experience</li>
+ <li>ASP.NET Web Forms and VB.NET experience</li>
+<li>Experience with ERP functionality such as order processing, accounting, inventory, purchasing, planning, supply chain, sales, CRM,<br>
+manufacturing, EDI, product development, engineering, and shipping/distribution</li>
+<li>Working knowledge of Object-Relational Mapping (ORM) frameworks (NHibernate, Entity Framework, etc.)</li>
+<li>Experience with unit testing</li>
+<li>Version control experience</li>
+<li>SQL Server Reporting Services (SSRS) experience</li>
+<li>Data warehouse/store design experience</li>
+<li>Fourth Shift ERP experience</li>
+</ul>
+<h2 class="jobSectionHeader">
+<b>Please submit all resumes with experience and qualifications to</b><b> employeeservices@siouxchief.com</b><b>.</b><br>
+<b>No phone calls or recruiters please.</b>
+</h2>
+<p><i>NOTE: This job description is not intended to be all-inclusive. Employee may perform other related duties as negotiated to meet the ongoing needs of the organization.</i></p>
+</div></div></div></div>

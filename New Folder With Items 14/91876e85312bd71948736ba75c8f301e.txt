@@ -1,0 +1,47 @@
+<h2>Senior Backend Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About Highspot
+<br>Highspot helps sales teams improve customer conversations and achieve their revenue goals. From content optimization and performance analytics to in-context training, guided selling, and more, the Highspot platform delivers enterprise-ready features in a modern design that sales reps and marketers love. Using Highspot, sales teams are able to stay connected to the best-performing content for each opportunity, customize and optimize their content, and more effectively engage with their customers and prospects. With 90 percent average monthly recurring usage and global support in over 125 countries, Highspot is the sales enablement industry's most trusted solution.
+<br><br>
+About the Role
+<br>We’re very proud of our customer loyalty and our rapid growth. Concurrent with this growth is the need to scale our platform, expand the surface area of integrations, deliver high-quality and timely features, and generally contend with an increasingly complex technical ecosystem. We’re looking for a Senior Backend Software Engineer who will bring creativity and experience to bear as they work collaboratively with a talented team on these opportunities.
+<br><br>
+Our ideal candidate understands how to build customer-facing software; they are a skilled communicator who enjoys working collaboratively with designers, product managers, and engineers; they are self-managed, curious, and resourceful.
+<br><br>
+Some of the tools we use to build Highspot include Ruby, Clojure, MongoDB, PostgreSQL, Apache Solr and Lucene, AWS, and Chef (but we don’t expect you to be expert in all of those).
+<br><br>
+What You’ll Do
+<br><ul>
+<li>Integrate Highspot with external APIs, including third-party Customer Relationship Management (CRM) systems, Content Management Systems (CMS), and other partner applications</li>
+<li>Develop clean, reusable, supportable, and well-tested RESTful APIs and web services, including Highspot’s external API</li>
+<li>Support and expand Highspot’s Salesforce integrations</li>
+<li>Help design and develop new product features and functionality</li>
+<li>Develop highly-availability distributed services</li>
+<li>Partner cross-functionally with UX and Product Management to create software that customers love</li>
+<li>Write maintainable and testable code</li>
+<li>Contribute to internal and external technical documentation</li>
+</ul>
+Your Background
+<br><ul>
+<li>Proficiency in building, integrating with, and supporting APIs using a variety of languages, data formats, and data transformations</li>
+<li>An entrepreneurial spirit: you’re agile, creative, resourceful, and tenacious as you solve problems and achieve team and company goals</li>
+<li>Comfortable with modern open source technologies and tools</li>
+<li>Experience developing software products, scalable internet software, and applications using a range of software models including object-oriented and functional design patterns</li>
+<li>B.S./M.S. in Computer Science or equivalent industry experience</li>
+</ul>
+Benefits
+<br><ul>
+<li>Full medical, dental, and vision benefits</li>
+<li>Flexible work and vacation schedules</li>
+<li>Transportation benefits</li>
+<li>Competitive compensation and equity</li>
+<li>Fully-stocked kitchen with healthy snacks and drinks</li>
+<li>Free catered Friday lunches</li>
+<li>Team building outside of the office</li>
+<li>Company bonding events throughout the year</li>
+<li>Open and spacious office, based in the heart of Seattle</li>
+<li>Great views of the city and Puget Sound</li>
+<li>Meaningfully contribute to a compelling vision</li>
+<li>Environment to do your best work</li>
+</ul>
+Equal Opportunity Statement
+<br>We aim to build an inclusive workforce. If you’re passionate about this role, but do not meet 100% of the qualifications listed above, we still encourage you to apply. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of age, ancestry, citizenship, color, ethnicity, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or invisible disability status</div>

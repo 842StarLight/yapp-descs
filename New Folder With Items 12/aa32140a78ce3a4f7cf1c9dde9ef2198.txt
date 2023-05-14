@@ -1,0 +1,52 @@
+<h2>Full Stack Senior Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>WHO ARE WE A GOOD FIT FOR?</b></p>
+<p>We love working with talented people but more than that, we seek compassionate co-workers with a collaborative spirit. Our work moves quickly, and priorities can change daily and we’re great at coming together to find creative solutions to some interesting problems. If that sounds good to you, join us. As a key member of the Information Technology team, you will be working in a rewarding environment and contributing to all phases of the software development lifecycle from concept and design to testing.</p>
+<p><b>WHAT WOULD BE YOUR ROLE?</b></p>
+<p>As a full stack developer, and part of the development team, you would be working on a proprietary web application that at its core is a loyalty and recognition platform with ecommerce features that is utilized by different types of businesses. These can include healthcare, banking, retail and gaming to name a few, with a strong emphasis on wellness, recognition, safety, sales and loyalty.</p>
+<p><b>DUTIES: </b></p>
+<ul>
+<li>Contribute to all software development for internal use and client facing applications.</li>
+<li>Tasks include designing, developing, integrating, testing and documenting changes and enhancements.</li>
+<li>Additional responsibilities include project implementation, researching and evaluating problems, and recommending and implementing decisions.</li>
+<li>Work with senior management and other staff to assemble project requirements and produce scope of work documents.</li>
+<li>Work with a varied group of individuals as an efficient team member to deliver quality customer service to internal and external clients.</li>
+<li>Ensure the quality and efficiency of new releases of enhancements to the company’s proprietary software.</li>
+<li>Create and maintain code documentation.</li>
+<li>Experience with source code control tools (Team Foundation Server / Git).</li>
+<li>Excellent system understanding and troubleshooting capabilities.</li>
+<li>Ability to work on your own or in a team</li>
+<li>Strong problem solving, and communication skills required.</li>
+</ul>
+<p><b>REQUIREMENTS</b></p>
+<ul>
+<li>At Least 5 Years of Experience</li>
+<li>Web project development with ASP.NET 2.0+ Web Forms</li>
+<li>Strong grounding in Microsoft core technologies, specifically C#</li>
+<li>MS SQL Server 2008+, T-SQL</li>
+<li>Visual Studio 2015/2017</li>
+<li>Networking technologies</li>
+<li>jQuery &amp; HTML</li>
+<li>Familiarity with web services, WCF, cXML</li>
+<li>Agile practices, experience with source code control (Git)</li>
+<li>Bootstrap v3+</li>
+</ul>
+<p><b>EDUCATION</b></p>
+<p>Bachelors/Masters in Computer Science / equivalent degree in a related technical discipline. 5+years or related experience.</p>
+<p><b>COMPENSATION AND BENEFITS </b></p>
+<ul>
+<li>$90,000-$125,000</li>
+<li>Full time</li>
+<li>In house position (Fiskdale MA)</li>
+<li>Paid holidays</li>
+<li>Vacation and PTO time</li>
+<li>401K</li>
+<li>Medical and Dental</li>
+<li>And much more</li>
+</ul>
+<p>Candidates must be US Citizens. Will not sponsor</p>
+<p>All Star Incentive Marketing is a full-service Incentive House and Performance Improvement Company committed to helping its clients develop, implement and manage powerful incentive programs that improve customer loyalty, employee motivation, sales, safety, and corporate identity.</p>
+<p>All Star Incentive Marketing provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics.</p>
+<p>Job Type: Full-time</p>
+<p>Salary: $90,000.00 to $125,000.00 /year</p>
+</div>

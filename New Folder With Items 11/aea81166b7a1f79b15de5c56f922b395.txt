@@ -1,0 +1,49 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div><div><div><div><div>
+<p>At Twitter our IT Enterprise Applications team focuses on implementing and supporting applications to help our internal customers meet their operational needs. We are responsible for establishing processes for continual improvement, guiding administration, and partnering with multiple customers on a project-to-project basis. Our mission is to empower our business through innovative solutions, support partnerships, and operational excellence.</p>
+<p>
+To strengthen our growing team, we are looking for a Full-stack Software engineer to own design and development of services and tooling that complement and integrate with our highly scalable IT Enterprise applications across Sales, Marketing, Support and HR systems.</p>
+<h2 class="jobSectionHeader"><b>
+What you’ll do:</b></h2>
+<p>As an integral member of the IT Enterprise Applications team, this position will be responsible for API-driven development leveraging the Twitter technology stack for business process automation. You will possess outstanding interpersonal skills and demonstrate yourself to be a great analytical thinker. You are collaborative, and you thrive in a dynamic environment.</p>
+<h2 class="jobSectionHeader"><b>
+Key Responsibilities:</b></h2>
+<ul>
+<li>Design, implement and deploy scalable solutions to internal business teams within Twitter</li>
+<li>
+Provide guidance to develop business process automation solutions to internal Twitter teams</li>
+<li>
+Provide technical design, integration architecture, and solution recommendations</li>
+<li>
+Work closely with business operations teams to determine business requirements and desired functionality</li>
+<li>
+Partner with internal engineering teams, third party vendors to develop consistent solutions</li>
+<li>
+Responsible for design and code review, and release management</li>
+<li>
+Work with other members of the Enterprise applications team for coordinated delivery</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Qualifications:</b></h2>
+<ul>
+<li>3+ years experience developing distributed systems</li>
+<li>
+Fluent in one or more JVM based language such as Java and/or Scala</li>
+<li>
+Experience with Python, React.js is a plus.</li>
+<li>
+Experience with enterprise applications such as Salesforce, AEM, Oracle and SOA best practices is a plus.</li>
+<li>
+Good understanding of design patterns, data structures and engineering best practices</li>
+<li>
+Ability to translate business needs to technical solutions</li>
+<li>
+Excellent analytical and problem solving skills</li>
+<li>
+Excellent interpersonal, written and verbal communication</li>
+<li>
+Team oriented approach</li>
+<li>
+Experience working within an Agile development framework</li>
+</ul>
+<p>At Twitter, we have a bold aspiration to reach every person on the planet. We believe that goal is more attainable with a team that understands and represents different cultures and backgrounds. Twitter is committed to providing equal employment and advancement opportunities to everyone, regardless of their race, color, ancestry, gender, religion, national origin, sexual orientation, age, citizenship, marital status, disability, Veteran or any other legally protected status.</p>
+</div></div></div></div></div></div></div>

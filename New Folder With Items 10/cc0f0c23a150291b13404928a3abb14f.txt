@@ -1,0 +1,92 @@
+<h2>Salesforce.com Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Job Purpose Statement</p>
+<p>
+The SalesForce.Com Developer requires a passion for excellence who thrives in a fast paced, high energy environment. As a member of the ENGS team you will work on SalesForce.com solutions that bring efficiency and an improved customer experience to our organization. In addition, this position will assist in using various tools to execute and build on our SalesForce Platform systems deck. As a key member of the IT team, you will be responsible for developing, configuration, reporting, training, support, maintenance, and overall improvement of the ENGS Salesforce platform. To accomplish this, you will partner closely with IT, Sales Teams, Customer Service Teams, Credit, Operational Support Teams and other teams to understand business needs and provide automated solutions.</p>
+<ul>
+<li>
+Ability to excel in a performance-driven, extremely fast-paced, and competitive atmosphere</li>
+<li>
+Thrive in challenging environments and enjoy juggling competing priorities</li>
+<li>
+Are creative, curious and energized when designing and executing process optimization and real-time sales performance enhancement</li>
+</ul>
+<p>
+Essential Job Duties</p>
+<p>
+The SalesForce Developer will perform hands-on technical implementation, with a focus on delivering functional solutions on the SalesForce.com platform. The SalesForce Developer will take a lead role in the design, implementation, deployment and documentation of projects that leverage the SalesForce.com Toolset.</p>
+<p>
+The position will entail the following duties and responsibilities.</p>
+<ul>
+<li>
+Serve as the subject matter expert for solution architecture that will include configuration, development, integration and customization of complex environments</li>
+<li>
+Serve as technical lead for SalesForce projects</li>
+<li>
+Strong understanding of SalesForce Declarative Programming and Administration (Develop Code,</li>
+<li>
+Custom Objects, Visual Force Pages, Reports, Apex, Workflows and Assignment Rules)</li>
+<li>
+Design and develop solutions primarily on the SalesForce Platform using Apex Programming Language and Visual Force</li>
+<li>
+Develop Software Solutions using MS tools, SalesForce.com API Framework, and 3rd Party API’s</li>
+<li>
+Perform Unit Testing and Defect Fixes</li>
+<li>
+Liaise with Internal Clients and Users to understand their Business Needs in Developing Solutions through SalesForce</li>
+<li>
+Set resolve problems and provide guidance to members of own team (senior)</li>
+<li>
+Work Closely with System Administrators in the day to day support of SalesForce</li>
+<li>
+Adapt departmental plans and priorities to address business and operational challenges</li>
+<li>
+Demonstrate ability to remain calm when trouble shooting user issues</li>
+<li>
+Demonstrate ability to influence business teams on maximizing the applications being developed leveraging the best solutions</li>
+<li>
+Ad-Hoc Analysis and Projects as Needed</li>
+<li>
+Work on various AppExchange Products like CONGA</li>
+<li>
+Develop Marketing automation solution using Pardot</li>
+</ul>
+<p>
+Job Qualification Requirements</p>
+<ul>
+<li>
+Bachelor’s Degree in Computer Science or Related Field</li>
+<li>
+3+ years of Salesforce.com administration and customization</li>
+<li>
+3+ years working on implementations of the Salesforce.com application</li>
+<li>
+Intermediate level of proficiency in Salesforce.com administrative tasks such as creating user profiles, roles, custom objects, custom fields, page layouts, workflow rules, validation rules, reports, dashboards</li>
+<li>
+One or More SalesForce Certifications Demonstrating Current Knowledge as a Developer</li>
+<li>
+Experience with data management and relational database design and familiarity with SQL data formats, table joins, ETL, etc.</li>
+<li>
+Proficient in writing Clean, Solid Readable Code</li>
+<li>
+Demonstrable business process knowledge of Sales, Customer Service, and Marketing.</li>
+<li>
+Excellent communication skills and ability to communicate at all levels of the organization</li>
+<li>
+Agile / Scrum background</li>
+<li>
+SFDC Administrator Certification</li>
+<li>
+SFDC Advanced Administrator Certification</li>
+<li>
+SFDC Developer Certification</li>
+<li>
+Strong Knowledge of Apex and Visual Force.</li>
+<li>
+Expertise with Pardot\Any Marketing automation tool, CONGA and AppExchange Products.</li>
+<li>
+Expertise with Salesforce Partner Communities, Lightning Process Builder and Visual Flows</li>
+</ul>
+<h4 class="jobSectionHeader"><b>
+Reports to SVP of Business Systems</b></h4>
+</div></div>

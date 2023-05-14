@@ -1,0 +1,45 @@
+<h2>Senior Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>ABOUT THE SYNQ3:</b></p>
+<p>
+SYNQ3 is the restaurant industry’s leading technology and automation-solutions provider. SYNQ3’s technologies enable restaurants to enhance order-processing, provide better customer service for to-go and catering orders, and increase sales and profits. As the globally recognized leader in restaurant technology, SYNQ3 services numerous top brands with thousands of restaurants, such as Red Lobster, Red Robin Gourmet Burgers and Brews, Chipotle Mexican Grill, Noodles &amp; Company, and P.F. Chang’s China Bistro, to name a few.</p>
+<p><b>
+ABOUT THE JOB:</b></p>
+<p>
+As a critical member of the Data Services team, the Sr Data Analyst will be responsible for working closely with other DS team members and with our R&amp;D team to recommend database structures, build complex integration pipelines, clean and analyze large datasets, and build visualizations, based on the data storage and retrieval needs. The Senior Data Analyst will also share responsibility for monitoring our SQL databases and immediately address issues and problems.</p>
+<p><b>
+RESPONSIBILITIES:</b></p>
+<ul>
+<li>Maintain multiple Microsoft SQL Server and Storage environments (On-Prem &amp; Azure).</li>
+<li>Create new development and production databases, catalogs, and repositories, to include general database maintenance.</li>
+<li>Write complex SQL queries and create reporting visualizations (PowerBI) to support reporting and data analysis needs.</li>
+<li>Create and analyze complex data sets, presenting findings to business leaders and external clients.</li>
+<li>Tune and optimize SQL queries, functions, stored procedures, triggers, and dependent reports.</li>
+<li>Support the Enterprise Business Integration pipeline by creating new and managing existing bi-directional data pipelines.</li>
+<li>Collaborate with cross-department staff to automate business processes and workflows.</li>
+<li>Provide Tier-3 technical support for internal incident and request cases escalated by junior team members.</li>
+<li>Perform regular code reviews with junior team members, to include version control management.</li>
+<li>Assist in DR mitigation by creating and managing automated backups and performing DR test scenarios.</li>
+<li>Provide on-call support for critical outages and issues, as required.</li>
+<li>All other duties as assigned.</li>
+</ul>
+<p><b>QUALIFICATIONS:</b></p>
+<ul>
+<li>Bachelor's degree from an accredited college in a related discipline, or equivalent experience/combined education</li>
+<li>10+ years of relevant professional experience, or combined equivalent</li>
+</ul>
+<p><b>EXPERIENCE &amp; KNOWLEDGE:</b></p>
+<ul>
+<li>Demonstrated MS SQL Server 2014+ Stack experience</li>
+<li>Demonstrated DML/DDL/DCL/TCL experience</li>
+<li>Experience with Azure Data and Warehousing Solutions</li>
+</ul>
+<ul>
+<li>Experience presenting to Executives and high-level Stakeholders</li>
+<li>Experience with Azure Data Factories is a plus</li>
+<li>Experience with MS PowerBI</li>
+<li>In-depth knowledge of data transforms, retrieval, and visualizations</li>
+<li>Knowledge of Physical/Logical database modeling</li>
+<li>Knowledge of CDC, OLAP, and EDW concepts are a plus</li>
+</ul>
+</div></div>

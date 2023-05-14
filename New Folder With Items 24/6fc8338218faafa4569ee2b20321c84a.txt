@@ -1,0 +1,61 @@
+<h2>Q2C Solution Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Here's the deal - we're awesome and do awesome things. Come be awesome with us.</p>
+<p><b>
+Position Overview:</b></p>
+<p>
+ATG’s Quote to Cash (Q2C) Solution Consultant plays a key role and brings essential expertise required to implement cloud-based Quote to Cash Cloud solutions, including CPQ (configure/price/quote), contract management, billing and subscriptions, revenue management and other related solutions. This role works closely with clients, internal functional managers, and business system analysts in developing robust, scalable, and flexible solutions for various customer projects. This includes designing prototypes, building proof of concepts, and preparing architecture road maps.</p>
+<p><b>
+Key Responsibilities:</b></p>
+<ul>
+<li>
+<b>Collaboration:</b> Act as liaison between technical team, functional team, business functions, and system integrators to drive implementations and should be recognized as a functional expert in CPQ and/or contract management domain</li>
+<li>
+<b>Knowledge:</b> In addition to CPQ expertise, is highly proficient in Q2C suite of products such as Steelbrick, Apttus, Aria, Zuora, Gotransverse, etc. and is recognized as an expert in the Q2C domain area while managing multiple activities across multiple projects simultaneously</li>
+<li>
+<b>Design: </b>Conducts solution architecture reviews with project teams prior to design and development activities and ensure solution is scalable, aligned with internal product roadmaps and meets clients’ business requirements</li>
+<li>
+<b>Lead: </b>Guides technical teams to deliver a flexible and scalable solution, provide mentorship and supervise developers, as well as participate in pre-sales activities and internal initiatives as required</li>
+</ul>
+<p><b>
+Key Experience:</b></p>
+<ul>
+<li>Functional and technical experience with Salesforce.com or other SaaS technology:
+<ul>
+<li>
+<b>Mid- level: </b>Minimum of 3 SaaS-based integrations in a lead solution role (IT delivery)</li>
+<li>
+<b>Senior-level: </b>Proven experience with multiple Q2C solutions</li>
+</ul>
+</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Business analysis and requirements gathering abilities</li>
+<li>CPQ and/or Billing experience is a plus</li>
+</ul>
+<p><b>
+Preferred Knowledge and Skills:</b></p>
+<ul>
+<li>Experience as a team member of a minimum of 5 recent and successful software project implementations related to SaaS, Q2C, CRM, or ERP and demonstrated successful integration experience in the capacity of a Solution Architect in a consulting organization</li>
+<li>Deep technical knowledge and hands-on experience working with Salesforce.com</li>
+<li>Mastery of Agile methods for project delivery</li>
+<li>Experience in CPQ and contract management, billing order, order management, revenue recognition management, or Rebate Management domain</li>
+<li>Exhibits high energy and drive, brings enthusiasm and the ability to engage with people at multiple levels on projects and meetings</li>
+</ul>
+<p><b>
+Relevant Technologies:</b></p>
+<p>
+Experience in the following technologies are preferred (but not required): Salesforce CPQ, Salesforce Billing, Apttus CPQ, Apttus CLM, Gotransverse TRACT, Spring CM CLM, Conga CLM and other related solutions, Xactly SPM solutions, Aria billing platform, Salesforce Communities and Cloud Craze, Salesforce Service Cloud, Sales Cloud, Marketing Cloud, Zuora, Oracle Big Machines, Calidus Cloud Solutions, Netsuite, Mulesoft, and other SaaS/Cloud Q2C and related solutions</p>
+<p><b>
+Education:</b></p>
+<ul>
+<li>4-year degree in a technical or business field of study preferred</li>
+<li>Salesforce.com Certifications are a plus</li>
+</ul>
+<p><b>
+Location and Travel:</b></p>
+<ul>
+<li>Willingness and ability to travel up to 50%, potentially international (subject to change at any time based off of project demand)
+</li>
+<li>Desired locations are ATG Delivery Centers, located in Missoula, MT, Cincinnati, OH, Kansas City, MO or St. Louis, MO, however for senior experienced professionals working virtual may be an option.</li>
+</ul>
+</div></div>

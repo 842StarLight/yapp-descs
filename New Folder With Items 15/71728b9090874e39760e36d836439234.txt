@@ -1,0 +1,35 @@
+<h2>Web Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Pivotal Role in Fast Growing Cloud Software Startup </b></p>
+<p><b>** Equity available for early contributors. ** </b></p>
+<p><b>Punchey </b>is a high growth startup built by the founder of Yodle.com ($340,000,000 Sale to Web.com).</p>
+<p><b>ROLE DETAILS: </b></p>
+<p>Design and launch software and web solutions for clients. In addition you will help shape product roadmap, identify technical issues and up-sell clients where possible. Develop processes and procedures to successfully manage workflows and customer on boarding and site setup.</p>
+<p>Activities:</p>
+<ul><li>HTML and CSS coding when necessary to modify templates and software system</li></ul>
+<ul><li>Data model updates in platform templating system</li></ul>
+<ul><li>Account configuration and support</li></ul>
+<ul><li>Website setup or integration support</li></ul>
+<p>——</p>
+<p><b>To be successful you will need experience And have demonstrated success in the following: </b></p>
+<ul>
+<li>Project management tools</li>
+<li>Website development</li>
+<li>Customer service &amp; People Skills</li>
+<li>Microsoft excel / google sheets</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $15.00 to $25.00 /hour</p>
+<p>Experience:</p>
+<ul><li>relevant: 1 year (Preferred)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>This Job Is Ideal for Someone Who Is:</p>
+<ul>
+<li>Detail-oriented -- would rather focus on the details of work than the bigger picture</li>
+<li>Innovative -- prefers working in unconventional ways or on tasks that require creativity</li>
+<li>Dependable -- more reliable than spontaneous</li>
+</ul>
+</div>

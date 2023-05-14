@@ -1,0 +1,123 @@
+<h2>Enterprise Architect-Upstate New York/Albany</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>POSITION SUMMARY:
+</b></p>
+<p>The <b>Enterprise Architect</b> will possess deep domain knowledge spanning multiple technology architectures inclusive of Enterprise Networking, Hosted and On-Premises Collaboration and Data Center platforms. Enterprise Architects are the technical leadership within the Professional Services Group and peer with PreSale Solution Architecture teams. The Enterprise Architect is responsible to establish technical delivery standards, mentor junior engineering resources, collaborate with project management and partner with pre-sale management teams.</p>
+<p><b>ESSENTIAL DUTIES AND RESPONSIBILITIES- MAY INCLUDE THE FOLLOWING: OTHER DUTIES MAY BE ASSIGNED.
+</b></p>
+<ul>
+<li>Develops repeatable Enterprise solution deployment methods related to new and existing network collaboration and data center environments.</li>
+<li>Participates in pre-booking technical solution development and validation to ensure delivery feasibility in terms of technical deliverables and economy.</li>
+<li>Designs enterprise-class solutions with Microsoft Visio, NETFORMX or similar graphing product.</li>
+<li>Design | Deploy | Test: Enterprise IP networks inclusive of:
+<ul>
+<li>Layer-3: BGP, OSPF, EIGRP, RIP, IS-IS, LISP.</li>
+<li>Layer-2: Switching, including spanning-tree, VSS, VPC, Fabric Path.</li>
+<li>Access, Distribution, and Core Redundancy Architectures</li>
+<li>Cisco ISR/ASR Routers, Catalyst &amp; Nexus Switches</li>
+<li>DNA Center, Cisco Software Defined Strategies &amp; Products including SD-WAN, ACI, and APIC-EM</li>
+<li>Cisco and Meraki Wireless Controllers and Access Points</li>
+<li>Cisco Security suite including: ASA, Firepower, ISE, AMP, NGFW, Cisco</li>
+<li>Cisco UCS B and C Series Server platforms, Hyperflex, UCS Manager, VMware ESXi, vCenter.</li>
+</ul>
+</li>
+</ul>
+<ul><li>Design | Deploy | Test: All Components of Cisco Unified Communications Framework using PRI, Analog and SIP services, inclusive of:
+<ul>
+<li>Cisco UCS C-Series Rack Servers</li>
+<li>Cisco Business Edition 6000 &amp; 7000</li>
+<li>Cisco Communication Manager [CUCM]</li>
+<li>Cisco Unity Connection [CUC]</li>
+<li>Cisco Instant Messaging &amp; Presence Server [IM&amp;P]</li>
+<li>SIP Trunking and related Telco Ordering, DID Porting, and Turn-Up</li>
+<li>Cisco Expressway MRA and B2B</li>
+<li>Cisco Hybrid Cloud Collaboration Services</li>
+<li>Cisco Contact Center Express [UCCX], and scripting for Interactive Voice Response [IVR]</li>
+<li>Cisco Automatic Call Distribution [ACD]</li>
+<li>Cisco Attendant Console</li>
+<li>Cisco Emergency Responder [CER]</li>
+<li>Cisco Paging Server [InformaCast]</li>
+<li>Cisco WEBEX Collaboration Services</li>
+<li>Cisco CUBE and Voice Gateways</li>
+<li>Cisco Prime Infrastructure Provisioning and Management</li>
+<li>Cisco Telepresence Management Suite</li>
+<li>Cisco Meeting Server and Webex Collaboration Meeting Room [CMR]</li>
+<li>Cisco Customer Journey Platform (CJP)</li>
+<li>Cisco Broad Cloud Calling</li>
+</ul>
+</li></ul>
+<ul>
+<li>Ability to provide thought-leadership in Enterprise IT services delivery road-mapping relative to emerging technologies, and market trend in both premise, hybrid, hosted and cloud environments in partnership with the company leadership team.</li>
+<li>Ability to establish common design | deployment | upgrade processes associated with Cisco network, collaboration, and compute systems and to mentor the delivery team relative to common processes and skill building.</li>
+<li>Ability to lead collaboration systems deployment teams in various client settings under limited supervision from either a remote and/or on-site position.</li>
+<li>Must possess excellent documentation skills</li>
+<li>Must be able to work independently to achieve goals</li>
+<li>Ability to act as a technical escalation within Professional Services and Managed Services.</li>
+<li>Ability to consult to both the business and technical requirements of an engagement.</li>
+<li>Ability to partner between pre and post sale teams regarding pre-booking solution review.</li>
+<li>Ability to present and communicate solutions to non-technical customers.</li>
+<li>Ability to engage in failure-mode analysis and remediation for the above technologies.</li>
+<li>Ability to engage with project management regarding project status, timelines, and escalations.</li>
+<li>Ability to engage with Operations Center and Manufacturer Support Teams to resolve network failures.</li>
+</ul>
+<p><b>Minimum Education and Experience:</b></p>
+<ul>
+<li>Bachelor’s Degree in an Information Technology related major and</li>
+<li>10+ Years of on the job experience and Cisco CCIE achieved &amp; retained, OR Cisco CCIE achieved &amp; retained with12 years minimum on the job experience.
+<ul>
+<li>Cisco UCS C-Series Rack Servers</li>
+<li>Cisco Business Edition 6000 &amp; 7000</li>
+<li>Cisco Communication Manager [CUCM]</li>
+<li>Cisco Unity Connection [CUC]</li>
+<li>Cisco Instant Messaging &amp; Presence Server [IM&amp;P]</li>
+<li>SIP Trunking and related Telco Ordering, DID Porting, and Turn-Up</li>
+<li>Cisco Expressway MRA and B2B</li>
+<li>Cisco Hybrid Cloud Collaboration Services</li>
+<li>Cisco Contact Center Express [UCCX], and scripting for Interactive Voice Response [IVR]</li>
+<li>Cisco Automatic Call Distribution [ACD]</li>
+<li>Cisco Attendant Console</li>
+<li>Cisco Emergency Responder [CER]</li>
+<li>Cisco Paging Server [InformaCast]</li>
+<li>Cisco WEBEX Collaboration Services</li>
+<li>Cisco CUBE and Voice Gateways</li>
+<li>Cisco Prime Infrastructure Provisioning and Management</li>
+<li>Cisco Telepresence Management Suite</li>
+<li>Cisco Meeting Server and Webex Collaboration Meeting Room [CMR]</li>
+<li>Cisco Customer Journey Platform (CJP)</li>
+<li>Cisco Broad Cloud Calling</li>
+</ul>
+</li>
+<li>3+ Years’ experience leading deployment teams</li>
+<li>Must possess In-depth understanding of Cisco Unified Communications products, and validated designs.</li>
+<li>Expert Level Certifications i.e.: CCIE &amp; specializations</li>
+</ul>
+<p><b>Preferred Education and Experience:</b></p>
+<ul>
+<li>10 years or more experience in enterprise networking</li>
+<li>Expert Level Certifications – CCIE, CCDE, CEH, VCP preferred</li>
+<li>Previous experience working with a Cisco Partner or VAR</li>
+</ul>
+<p><b>OTHER SKILLS and ABILITIES:
+</b></p>
+<ul>
+<li>Must possess excellent verbal and written communication skills</li>
+<li>Must be able to lead deployment teams in customer settings</li>
+<li>Must possess excellent documentation skills and provide examples of such work</li>
+<li>Must have access to a reliable vehicle and be willing to travel within NJ and Upstate NY/NE.</li>
+</ul>
+<p><b>TRAVEL:
+</b></p>
+<p>Less than 50% travel</p>
+<p><b>PHYSICAL DEMANDS</b>: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p>
+<p>While performing the duties of this job, the employee is regularly required to sit and talk or hear. The employee frequently is required to stand; walk; and use hands to finger, handle, or feel objects, tools, or controls. The employee is occasionally required to reach with hands and arms. The employee must occasionally lift and/or move up to 35 pounds. Specific vision abilities required by this job involve normal vision.</p>
+<p><b>WORK ENVIRONMENT</b>: The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p>
+<p>The noise level in the work environment is usually quiet to moderate.</p>
+<p><b>EEO statement
+</b></p>
+<p><i>Aspire Technology Partners is an Equal Opportunity Employer. All qualified candidates will receive consideration for this position regardless of race, color, religion, sex, national origin, age, disability, genetic information, or any other characteristics protected by applicable law.</i></p>
+<p>Employment is contingent upon successful completion of background and drug screening.</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,84 @@
+<h2>Jahia CMS Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><i>Are you ready to grow your dream career while making others' vacation dreams come true? Marriott Vacations Worldwide is a world premier organization for Vacation Ownership with resorts at destinations around the globe. Join our team and help deliver unforgettable experiences that make vacation dreams come true.</i></p>
+<p>
+Position Summary</p>
+<p>As a member of the professional staff, contributes specialized knowledge and skill in a discipline (e.g. Accounting, Finance, Human Resources, Information Technology, Operations Planning &amp; Support, Sales &amp; Marketing) area to support team and/or department business objectives. Generally works under limited supervision, but within established guidelines, producing and analyzing more complex business information to assist in the decision making process.</p>
+<p><b>
+Specific Job Summary</b></p>
+<p>
+The Content Management System (CMS) administrator works in alignment with agile web and mobile teams alongside with software engineers, quality assurance analysts, product owners, Scrum masters and project leads. The position is reporting to the Director of DevOps &amp; Automation. While this role focuses on the development of content management modules in Java technologies on Jahia and the administration of the content management platform, this role will also be involved in DevOps &amp; Automation development tasks.</p>
+<p>
+Expected Contributions</p>
+<ul>
+<li>Performs more complex quantitative and qualitative analysis for business processes and/or projects. Often manages small projects, business processes or parts of larger ones.</li>
+<li>Responds to, solves and makes decisions on more complex/non-routine business requests with limited to moderate risk.</li>
+<li>Responsible for own work and contributing to team, department and/or business results. May direct work of non-management staff.</li>
+<li>Assists more senior associates in achieving business results by:</li>
+</ul>
+<ul><li>Identifying opportunities to enhance the effectiveness of business processes.</li></ul>
+<ul><li>Providing training and technical guidance to less senior staff, where appropriate, and serving as point-of-contact for problem resolution.</li></ul>
+<ul><li>Participating in setting department operating plans.</li></ul>
+<ul><li>Recognizing and celebrating team successes.</li></ul>
+<ul><li>Achieving results against budget within scope of responsibility.</li></ul>
+<ul>
+<li>Demonstrates an awareness of personal strengths and areas for improvement and acts independently to improve and increase skills and knowledge.</li>
+<li>Performs other duties as appropriate.</li>
+</ul>
+<p><b>Expected Contributions</b></p>
+<ul>
+<li>Develop content modules for the Jahia platform which serves as the CMS platform for the enterprise.</li>
+<li>Perform CMS platform administration including onboarding of new resources and projects into the Jahia platform in shared responsibility with other CMS administrators.</li>
+<li>The split between development and administration is assumed to be 50%.</li>
+<li>Perform DevOps and Automation tasks for the CMS platform and other applications (CI/CD).</li>
+<li>Support production deployments during weekends or outside regular business hours if required.</li>
+<li>Conduct reviews (code, architecture, performance, etc.) for externally developed Jahia modules.</li>
+<li>Maintain existing code developed by vendors and make ongoing changes.</li>
+<li>Generate unit test for new CMS modules and integrate same as part of build life cycle.</li>
+<li>Engage with the Jahia support team in reviewing open support requests, provide feedback, etc.</li>
+<li>Collaborate with stakeholders of the CMS platform, hence strong communication skills are essential.</li>
+<li>Support existing CMS code base and implement new features and improvements.</li>
+<li>Create technical design documentation.</li>
+<li>Implement proofs of concept, prototypes and reference implementations for new initiatives.</li>
+<li>Follow and apply Test Driven Development (TDD) and Behavior Driven Development (BDD) principles throughout the development lifecycle where applicable.</li>
+<li>Prepare and present CMS usage statistics and performance metrics on an ongoing basis to senior management.</li>
+</ul>
+<p>Candidate Profile</p>
+<p>Successful candidates should possess knowledge and experience and demonstrate strong leadership and relationship skills as follows:</p>
+<p>
+Generally a professional position with specific knowledge in a discipline (e.g., Accounting, Human Resources, Information Technology). College degree and/or relevant experience typically required.</p>
+<p><b>
+Specific Candidate Profile </b>(the education, experience, skills and attributes that are important for this position)</p>
+<br>
+<p></p>
+<ul>
+<li>Bachelor's degree in Math or Computer Science or technical training/experience equivalent.<br>
+Candidates with Java certification are preferred.</li>
+<li>Minimum of 3 years of Java, JEE experience and 2 years of experience in Spring Framework</li>
+<li>Jahia development and/or administration experience is a plus or development/administration of another content management platform</li>
+<li>Strong experience on fundamental Java.</li>
+<li>Fundamental knowledge of HttpServlet/Filter, url rewrites, REST, JSON, HTTP protocol</li>
+<li>Developer tools - Spring Tool Suite, Maven, Git (Knowledge of Merging, Branching), Artifact Repositories (Nexus),</li>
+<li>HTML, CSS, JavaScript experience</li>
+<li>Unix shell scripting for developer and administration tasks</li>
+<li>Experience with CI/CD tools such as Jenkins or similar required</li>
+<li>Experience with Atlassian tools (Jira/Bitbucket) is a plus</li>
+<li>Agile Methodology (Scrum or other)</li>
+<li>Preferred experience in order
+<ul>
+<li>Java content repository implementation such as jackrabbit</li>
+<li>Drools (rules engine)</li>
+<li>JBPM (Workflow engine)</li>
+<li>GraphQL</li>
+<li>Splunk tool for log analysis</li>
+<li>Ehcache</li>
+<li>Wordpress/PHP</li>
+</ul>
+</li>
+</ul>
+<p>Note:</p>
+<p>
+Individual will be trained in Jahia platform and complete self-training available on Jahia academy.</p>
+<p><i>
+Marriott Vacations Worldwide is an equal opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture.</i></p>
+</div></div>

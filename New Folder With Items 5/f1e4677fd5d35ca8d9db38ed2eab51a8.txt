@@ -1,0 +1,77 @@
+<h2>Model Implementation Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div>
+<p>The TMX Finance® Family of Companies is looking for a Model Implementation Manager to join our team and support the customer approval process by ensuring the decision engine platform is meeting operational expectations. As a Model Implementation Manager, you’ll think logically about reducing manual or repetitive tasks and have a hand in designing and developing effective underwriting rules and scoring models.</p>
+<br>
+<p></p>
+<p><b>Essential Duties &amp; Responsibilities</b></p>
+<br>
+<p></p>
+<p><b>Manage</b> and execute the technical development of credit risk / underwriting processes using system tools that require program scripting, system configurations, and strong technical testing methods.</p>
+<br>
+<p></p>
+<p><b>Capture</b> the desired end state of each new decision process request from internal team partners or other business partners (Credit Risk, Operations, Legal, Compliance, and IT) to scope and size the request for prioritization.</p>
+<br>
+<p></p>
+<p><b>Partner</b> with IT to define new data processes/needs, develop strategies on how to update current decision processes, and estimates impact of change.</p>
+<br>
+<p></p>
+<p><b>Conduct</b> UAT and Production testing on all changes to the decision engine.</p>
+<br>
+<p></p>
+<p><b>Translate</b> underwriting processes and strategies into technical designs through collaboration with multifunctional teams.</p>
+<br>
+<p></p>
+<p><b>Work</b> closely with Credit Risk, IT, sales, marketing and compliance to ensure their design meets stated internal and regulatory requirements.</p>
+<br>
+<p></p>
+<p><b>Oversee</b> and coordinate testing life cycles from initial integration testing through production readiness, including the creation and maintenance of system documentation.</p>
+<br>
+ <p></p>
+<p><b>Perform</b> analysis and create reporting using SQL.</p>
+<p></p>
+<p>19201, CORP, Credit Risk-19201, 19201, CRD00012</p>
+</div></div>
+<br><div><div>
+<p>Job Requirements</p>
+<p><b>Minimum Qualifications</b></p>
+<br>
+<p></p>
+<ul>
+<li>Minimum 6 years of experience as a Credit Policy Analyst, Decision System Analyst, Rules Developer, or equivalent.</li>
+<li>Prior work with relational databases and experience with SQL or similar tool.</li>
+<li>Hands-on experience working with REST/SOAP web services (including deep knowledge of JSON/XML data structures)</li>
+<li>Strong analytical and problem-solving skills with the ability to think logically and effectively utilize techniques to develop and execute effective solutions</li>
+<li>Ability to work effectively both independently and as a team member</li>
+<li>Ability to succeed within a cross-functional team emphasizing collective ownership in a fast-paced environment</li>
+<li>Confidence and willingness to challenge status quo but also able to concede and execute other’s ideas when necessary</li>
+<li>Bachelor’s Degree in Mathematics, Economics, Finance, or a related field</li>
+<br>
+</ul>
+<p></p>
+<p><b>Preferred Qualifications</b></p>
+<br>
+<p></p>
+<ul>
+<li>1-2 years of experience in the financial services industry</li>
+<li>Experience with decision engine software (GDS Link, FICO Blaze, SAS Real-Time Decision Manager, Provenir)</li>
+<br>
+</ul>
+<p></p>
+<p><b>Learn More About Us</b></p>
+<br>
+<p></p>
+<p>The Model Implementation Manager is a member of the Credit Risk Team, a dynamic group comprised of multi-taskers and problem solvers. To learn more about this team, visit https://www.tmxfinancefamily.com/careers/top-talent/ .</p>
+<br>
+<p></p>
+<p>Check out what’s happening in our Company at https://www.tmxfinancefamily.com/tmx-talks.</p>
+<br>
+<p></p>
+<p><i>Standing, walking, sitting, repetitive movements, and use of mechanical controls, such as keyboard, are frequently required.</i></p>
+<br>
+<p></p>
+<p><i>All TMX Finance® Family of Companies are Equal Opportunity Employers.</i></p>
+<p><i>#LI-KM1</i></p>
+</div></div>
+</div>

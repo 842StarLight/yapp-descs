@@ -1,0 +1,39 @@
+<h2>Sr. Business Intelligence Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Are you looking for an exciting opportunity?</b></p>
+<p>
+We currently have a full-time opening <b>for a Senior Business Intelligence Developer in Carlsbad, CA.</b> If you are looking for a fast paced environment where you can make a difference every day, then this is the opportunity for you! This position is responsible for supporting hands-on design and implementation around data warehousing, ETL, OLAP/tabular cubes, report development and data modeling across Breg. He/she will be tasked with assisting in the development and design of data driven items; working individually, with key stakeholders and partnering with additional development resources that will be utilized by finance, commercial and operational teams to answer key stake holder questions and solve problems with creative solutions to provide the critical insights necessary for leadership to make informed, data driven decisions.</p>
+<p><b>
+Your day will be very busy… you will:
+</b></p>
+<ul>
+<li>Develop Microsoft Business Intelligence (BI) solutions utilizing MS SQL Server 2016/2014 SSAS, SSRS, SSIS, integration with Excel and SharePoint, tailoring solutions for management dashboards, financial reporting and operational business intelligence.</li>
+<li>Develop and manage BI presentation layer training, and documentation to ensure quality and stability.</li>
+<li>Troubleshoot BI Environment problems and tune for performance. Diagnose and resolve application bottlenecks and performance issues.</li>
+<li>Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, sales operations, and other stakeholders.</li>
+<li>Partner with additional development resources including internal as well outside contractors and consultants.</li>
+<li>Completes research, design, development, testing, retrieval, and data reporting utilizing the knowledge of various software packages.</li>
+<li>Assists with the resolution of complex analytics.</li>
+</ul> <p><b>The right person to join our team is...
+</b></p>
+<p>Demonstrates ownership and accountability; the ability to express complex concepts effectively, both verbally and in writing to business partners; to conduct quality control/auditing to ensure accurate and appropriate use of data during the project system, integration test and user acceptance testing; comfort interacting with stakeholders at all levels.</p>
+<p><b>
+ </b><b>What your background will be:</b></p>
+<ul>
+<li>Bachelor’s degree in related field or equivalent work experience.</li>
+<li>10+ years of experience developing Business Intelligence solutions using Microsoft SQL Server 2016/2014/2012/2008 R2 stack (SSRS, SSAS, SSIS), SharePoint, Excel, and Power BI.</li>
+<li>Experience designing and the development of data warehouses and reporting systems for a large scale BI user community.</li>
+<li>Experience building multi-dimensional and tabular data models.</li>
+<li>Proficiency with Microsoft SSRS, Excel and the development of KPI Dashboards.</li>
+<li>Experience with data analytics providing actionable data driven decision making.</li>
+</ul> <p><b>Other Requirements</b></p>
+<ul>
+<li>Travel required 10%</li>
+<li>Required to be on call to resolve critical outages at off hours</li>
+</ul>
+<p>For three years in a row Breg has been awarded The National Business Research Institute (NBRI) <b>Circle of Excellence Award </b>for employee engagement <b><i>AND </i></b>Breg has been awarded as one of the Best Places to work in San Diego in 2014 by “The U-T San Diego Top Workplaces”</p>
+<p>
+If you meet the requirements above and would like to apply for this position, please visit our website at <b>www.breg.com</b> and click on the ‘Careers’ section.</p>
+<p>
+Breg is an Equal Employment Opportunity Employer and dedicated to a diverse work force and Drug Free work environment. EOE/Minorities/Females/Vet/Disabled are encouraged to apply.</p>
+</div></div>

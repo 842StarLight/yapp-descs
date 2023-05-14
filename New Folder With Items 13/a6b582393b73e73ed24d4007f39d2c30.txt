@@ -1,0 +1,28 @@
+<h2>Senior Web Developer (Drupal)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Do you design and develop complex web applications in Drupal? Would you enjoy learning from – and sharing your expertise with – a talented and collaborative team? Do you thrive on working with marketing, sales, and customer service, in order to understand customers and deliver the best possible product? Do you appreciate an agile development process, focused on delivering, testing, and iterating?</p>
+<p>
+NewsBank needs you! Join our team of Web Developers, creating and enhancing our products. Help a range of people – from first-time users to power researchers – to make sense of over two billion news and government documents spanning more than 5 centuries. Create elegant and powerful products that delight thousands of libraries, businesses, and other institutions worldwide.</p>
+<p>
+We want to talk to you if:</p>
+<ul>
+<li>
+You’ve worked with Drupal extensively, including evaluating and using open-source modules where possible, and custom development where necessary</li>
+<li>You’re savvy with PHP, HTML, CSS &amp; Sass, and modern ECMAScript and / or TypeScript</li>
+<li>You’re adept at building mobile-responsive web applications</li>
+<li>You’re comfortable with XML</li>
+<li>You’re comfortable integrating with third-party software and APIs</li>
+<li>You can collaborate with stakeholders, designers, and other technical teams in a fast-paced environment to identify efficient and effective solutions</li>
+<li>You’ve enjoyed your experience with agile development processes</li>
+<li>You naturally keep up with advances in web application technologies and produce high-quality code</li>
+</ul>
+<p>We’re <i>really</i> intrigued if:</p>
+<ul>
+<li>
+You have experience supporting accessibility standards (WCAG, Section 508)</li>
+<li>You have experience leading and / or managing a team</li>
+</ul>
+<p>We have offices in Keene, NH, Chester, VT, and Naples, FL. We will give preference to people in those areas but are open to a work-from-home arrangement with the right person.</p>
+<p>
+EEO Minorities/Women/Disabled/Veterans - VEVRAA Federal Contractor</p>
+</div></div>

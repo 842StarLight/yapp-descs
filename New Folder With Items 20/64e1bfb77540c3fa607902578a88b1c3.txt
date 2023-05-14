@@ -1,0 +1,34 @@
+<h2>Infrastructure Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About Live Objects</b><br>
+Live Objects delivers continuous business process optimizations to the enterprise through AI-driven automation of discovery, design and process engineering by mining patterns in business objects, cases and transactions across all process variations. The product integrates deeply with business process management platforms (like SAP, Salesforce etc.) and delivers continuous process engineering natively as on-demand compositions through the platform’s interfaces. Live Objects’ path-breaking process-calculus engine models predictive, diagnostic and quality related projections for live cases in business processes. Its AI-driven on-demand process reengineering engine composes process enhancements with rule-based associations with business objects for delivering quantified time, process, margin and cost efficiency gains. The on-demand compositions can be subject to review by functional subject matter experts in CRM, ERP, MRP, order-to-cash etc. before deploying them into live business processes. Ongoing client engagements include self-optimizing a wide spectrum of business processes including master data management, order-to-cash, sales distribution and supplychain management. The company is based in Palo Alto and venture funded by The Hive. The Hive is a fund and co-creation studio for AI powered enterprise applications.<br>
+<b>About the role</b><br>
+The Infrastructure Architect will drive the design and development of data management infrastructure, DevOps &amp; CI/CD automation, cloud hosting, security and service availability aspects of Live Objects’ products and platforms.<br>
+<b>Responsibilities</b><br>
+The successful candidate will be leading the development of key aspects of Live Objects’ product:</p>
+<ul>
+<li>Design industrial leading solutions to deeply optimize the big data computing and storage setup, to enable new business needs</li>
+<li>Design and build the infrastructure for data extraction, preparation, and loading of data from a variety of sources</li>
+<li>Design and implement enterprise infrastructure and platforms required for cloud computing</li>
+<li>Design, architect, and improve automation tools for systems management, including development of scripts/building tools</li>
+<li>Perform analysis of best practices and emerging concepts in DevOps, Infrastructure Automation, and system Security</li>
+<li>Dig deep into hardware, driver, Linux kernel, and TCP stack issues to troubleshoot problems and improve system performance</li>
+<li>Implement Continuous Delivery solutions and helping customers automate various stages of their deployments and testing processes</li>
+</ul>
+<p><b>About you</b><br>
+The successful candidate will have experience in working in innovative projects with fast-paced<br>
+delivery schedules in startups &amp; large enterprises:</p>
+<ul>
+<li>Proficient understanding of distributed computing principles</li>
+<li>Experience in managing Hadoop cluster, with all included services</li>
+<li>Ability to solve any ongoing issues with operating the cluster</li>
+<li>Proficiency with Hadoop v2, MapReduce, HDFS</li>
+<li>Experience with web technologies and building enterprise architecture roadmaps</li>
+<li>Experience designing, integrating and managing complex infrastructure solutions</li>
+<li>Hands-on experience with containers stacks and orchestration like Kubernetes/K8S, Rancher, Docker</li>
+<li>Expert in the configuration and maintenance of common applications such as Tomcat, Nginx, LDAP, NFS, DHCP, DNS</li>
+<li>Hands-on expert level experience with at least one of the configuration management tools (Puppet/Ansible/Chef)</li>
+<li>8+ years of experience with medium to large-scale Linux production environments</li>
+<li>BS/MS degree in Computer Science or equivalent experience</li>
+</ul>
+</div></div>

@@ -1,0 +1,51 @@
+<h2>Technical Architect (Front End)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Job Summary:<br>
+<br>
+This role centers around the definition and strategy of Lowe’s microservice architecture. You will work closely with the Principal Architect of Digital to help drive our architecture utilizing best practices for cloud native applications and services. You will guide technical architects to ensure that architecture is being followed. The person for this role is always looking at new technologies and trends and keeps current with latest technologies.<br>
+<br>
+Responsibilities:<br>
+<br>
+<ul>
+<li>Responsible for helping define microservice architecture strategy helping set Lowe’s target state service architecture</li>
+<li>Engaged with business/IT customer stakeholders, partners, and teams from different vendors in developing an architecture vision, future state architecture, and implementable architecture roadmaps</li>
+<li>Facilitates collaborative architecture development sessions with Product team, Operations, IT and other stakeholders.</li>
+<li>Analyzes and creates architecture models based on continuous feedback loop with key customer personnel</li>
+<li>Recommends architecture solutions and roadmaps to IT and/or business leaders</li>
+<li>Understand IT challenges of current state, influence IT strategy, suggest suitable microservice products and modules, collaborate on architecture development and future state of roadmap</li>
+<li>Act as subject matter expert providing best-practice guidance on microservice implementation and approach</li>
+<li>Researches and analyzes technology industry and market trends to determine their potential impact on the enterprise</li>
+<li>Creates architecture roadmaps and system retirement plans to rationalize technology, reduce licensing costs, ensure adherence to standard technologies, and ensure alignment to strategies</li>
+<li>Defines and enforces Architecture standards, procedures, metrics and policies to ensure consistency across the organization with guidance from Principal Architect</li>
+<li>Collaborates with the Technical Architects to ensure the development of the conceptual and logical architectures required for solution delivery</li>
+</ul>
+<br>
+Minimum Qualifications:<br>
+<br>
+<ul>
+<li>Bachelor's Degree Computer Science, CIS, Engineering, or related field. Additional equivalent work experience may be substituted in lieu of degree</li>
+<li>10 to 12+ years of experience in IT, including 5+ years of experience in IT architecture</li>
+<li>5+ years of experience leading technical teams with or without direct reports</li>
+<li>2+ years of experience with Cloud Native architectures</li>
+<li>2+ years of Microservice Implementation and Architecture experience</li>
+<li>5+ years of Defining Architectures for Software Engineering teams</li>
+</ul>
+<br>
+Preferred Qualifications:<br>
+<br>
+<ul>
+<li>Master's Degree Computer Science, CIS, Engineering, or related field</li>
+<li>6+ years of Software Engineering experience</li>
+<li>5+ years of experience architecting, designing, and implementing enterprise-scale, high volume, high availability systems</li>
+<li>5+ years of experience architecting, designing, and implementing enterprise-scale, high volume, high availability systems</li>
+<li>2+ years of experience working with Enterprise Architecture frameworks, such as TOGAF or Zachman</li>
+<li>3+ years of experience working with third party IT vendors and/or IT system solution providers</li>
+<li>3+ years of experience in IT within the retail industry</li>
+<li>Experience with Google Cloud Platform</li>
+</ul>
+<br>
+About Lowe's<br>
+<br>
+Lowe’s Companies, Inc. (NYSE: LOW) is a FORTUNE® 50 home improvement company serving more than 18 million customers a week in the United States and Canada. With fiscal year 2018 sales of $71.3 billion, Lowe’s and its related businesses operate or service more than 2,200 home improvement and hardware stores and employ approximately 300,000 associates. Founded in 1946 and based in Mooresville, N.C., Lowe’s supports its hometown Charlotte region and all communities it serves through programs focused on creating safe, affordable housing and helping to develop the next generation of skilled trade experts. For more information, visit Lowes.com.<br>
+<br>
+#LI-JP1<br>
+#DICE</div></div>

@@ -1,0 +1,38 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>The Product Manager will be responsible for helping manageproduct development and innovation for the organization.</p>
+<p>The successful person in this role will have experience as a ProductOwner with a track record of bringing new software products to market and willhave experience creating and developing a product in close collaboration withEngineering teams.</p>
+<p><b>Job Duties: </b></p>
+<ul>
+<li>Manage existing products and lead the ongoing development of enhancements to support customers.</li>
+<li>Gather and analyze feedback from different departments including sales, marketing, operations and customers to help set the strategic vision for existing products and development of new products.</li>
+<li>Manage the execution of consumer research to further support rationale for product development and positioning within the software marketplace.</li>
+<li>Foster, promote and strengthen relationships with key customers, vendors and Catalyst employees</li>
+<li>Research, develop and implement best process strategies for new product development, launch and analysis.</li>
+<li>Develop needs analysis, requirements and documents for new product features.</li>
+<li>Monitor the status of development projects.</li>
+<li>Work closely with retention and customer communication teams to ensure accuracy of products being developed.</li>
+<li>Maintain knowledge of current and emerging trends in the industry, including all relevant areas of information systems that might be incorporated as new technologies into future systems.</li>
+<li>Help establish direction, goals and processes for each part of the product development team.</li>
+<li>Communicate current and future statuses of product development as it relates to current and future projects and direction related to these projects.</li>
+<li>Other duties as assigned.</li>
+</ul>
+<p><b>JobRequirements: </b></p>
+<ul>
+<li>B.S. degree in Computer Science, Engineering, or related discipline/experience, or a combination of education and related work experience</li>
+<li>3+ years in a Technical Product Management/Product Owner role within an agile environment</li>
+<li>Experience working in Pharmaceutical healthcare software is required</li>
+<li>Experience working within an Agile methodology and demonstrated ability to effectively operate within an Agile team environment</li>
+<li>A team player and individual contributor</li>
+<li>A technical mindset with great attention to detail</li>
+<li>High quality organizational and leadership skills</li>
+<li>Ability to assess risks, dependencies, and identify mitigation strategies</li>
+<li>Excellent verbal and written communication skills</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Pharmaceutical Healthcare Software: 3 years (Required)</li>
+<li>Product Management: 3 years (Required)</li>
+</ul>
+</div>

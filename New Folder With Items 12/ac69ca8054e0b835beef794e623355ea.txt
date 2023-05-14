@@ -1,0 +1,94 @@
+<h2>Product Manager, Ad Platform</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview and Responsibilities
+</b></h2>
+<div><div><div>
+<div>The Product Manager, Ad Platforms plays a meaningful role in ensuring that Viacom has the needed technology and product offering to support its global digital advertising businesses. You will play a key strategic, consultative and operational function to ensure that Viacom is able to monetize its digital products via a scalable suite of high quality ad offerings.</div>
+<div></div>
+<br>
+<ul>
+<li>
+You lead agile product development for advertising specific platform capabilities.</li>
+<li>
+You act as lynchpin in assessing and resolving technical, product and operational issues.</li>
+<li>
+Develop deep partnership with program management office to handle project and program budget, resource allocation and delivery</li>
+<li>
+Identify and drive delivery of new platform capabilities that improve the ad product offering, drive increased revenue yield or improve operational efficiency</li>
+<li>
+Facilitate communication across the organization on product specs, feature sets current projects and upcoming priorities</li>
+<li>
+Manage critical third party application partnerships, evaluate new partnership opportunities</li>
+<li>
+Maintain deep familiarity with digital ad tech ecosystem in order to act as a subject matter expert internally, understand and participate in the development of industry standards</li>
+</ul>
+<div>
+The team runs the technology that powers the ad supported video experiences across all devices all brands globally. This includes the following:</div>
+<div></div>
+<br>
+<ul>
+<li>
+Custom video ad integrations on all platforms including custom ad reporting and advanced analytics.</li>
+<li>
+HTML5 player for web, Chromecast, Xbox</li>
+<li>
+iOS native player for iOS mobile, tablet, and TVOS</li>
+<li>
+Android native player for Android mobile, tablet, Android TV, Amazon FireTV</li>
+</ul>
+<div>
+Proprietary server-side ad insertion (SSAI) platform which facilitates digital ad insertion on all platforms. Includes the following features:</div>
+<div></div>
+<br>
+<ul>
+<li>
+Direct integration with Viacom’s CMS and global content workflow to build HD HLS streams for all content</li>
+<li>
+Server-side ad fetching and transcoding with audio level normalization.</li>
+<li>
+Dynamic, Frame accurate ad insertion</li>
+<li>
+Custom big data analytics and alerts to track key KPIs on ad delivery</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Basic Qualifications
+</b></h2>
+<div><div><div>
+<ul>
+<li>3-5 years of Product Management Experience</li>
+<li>
+Bachelor's Degree preferred</li>
+<li>
+Experience with video players, ad technology, or similar media platforms strongly preferred</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Additional Qualifications<br>
+</b></h2>
+<div></div>
+<div><div><div>
+<ul>
+<li>
+<b>Product leadership: </b>Can drive an initiative from conception to maturity by identifying a business opportunity and developing a technology solution that contributes value to the customer</li>
+<li>
+<b>
+Interpersonal skills: </b>You can clearly communicate technical concepts to a broad range of audiences</li>
+<li>
+<b>
+Technical skills: </b>Ability to lean in on technical details if needed</li>
+<li>
+<b>
+Analytical abilities: </b>Adept at using data to inform decisions and able to get hands dirty with data if necessary</li>
+<li>
+<b>
+Executional chops: </b>Can process a large volume of work in an ambiguous and fast changing environment. Can manage a complex project with many dependencies by seeing the big picture, managing the details and risks</li>
+<li>
+<b>
+Generalist/expert</b>: Enough of a generalist to see products from all perspectives (ops, sales, tech, research, finance) with a corresponding ability to go deep into the details of Viacom’s ad platforms</li>
+<li>
+<b>
+Resourcefulness: </b>Finds a way to get from point a to point b when the answer isn’t obvious</li>
+</ul>
+<div>
+#LI-JB1</div>
+</div></div></div>
+</div></div>

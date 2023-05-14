@@ -1,0 +1,104 @@
+<h2>Software Engineer, Frontend</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Medallia’s mission is to help companies win through customer experience. The world’s best-loved brands trust Medallia’s Experience Cloud™, which embeds the pulse of the customer in an organization and empowers employees with the real-time customer data, insights, and tools they need to make every experience great. Named a leader in the most recent Forrester Wave and ranked in the 2018 Forbes Cloud 100 list, Medallia is growing quickly, with a global footprint that spans Silicon Valley, Austin, New York, Washington DC, London, Paris, Sydney, Buenos Aires, and Tel Aviv. Here, we value people for each of the aspects that make them whole. We believe that people should not be defined only by a job title—nobody is "just an engineer" or "just a salesperson." We are each partners, parents, children, siblings, friends, and former classmates. We have different backgrounds and we celebrate different cultures. And, just like our product, we honor each of the experiences that build our people.</div>
+<div>
+<br>
+</div>
+<div>
+At Medallia we hire the whole person, not just a part of them.</div>
+<div>
+<br>
+</div>
+<div>
+Medallia is the global leader in Customer Experience Management. Our mission is to create a world where companies are loved by their customers; where organizations see you as a person and not just their next sale. We do this by building a bridge between hundreds of companies and billions of customers, around the world, enabling access to your eyes, ears, and hearts, so they may design and deliver extraordinary experiences, every single day.</div>
+<div>
+<br>
+</div>
+<div>
+Medallia Engineering is a global, no-nonsense and flat organization where the best ideas are implemented, no matter where they come from. We’ve got a culture focused on smarts, kindness, continual learning, and feedback… and our people love it. Come find out why!</div>
+<div>
+<br>
+</div>
+<div><b>
+The Role</b></div>
+<div>
+As a Software Engineer at Medallia, you will be joining our Reporting team, whose responsibility is to rebuild (and scale) the face of our flagship reporting product - the platform that tells stories out of the insane amount of data each client receives, and incites action to impact customer experiences. The most exciting part is that Medallia is just at the beginning of our journey! You’ll specialize in building responsive and elegant user interfaces that scale to hundreds of thousands of users. Be a part of the movement that is driving Medallia to even greater heights!</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Responsibilities</b></h3>
+<div><ul>
+<li>
+Work closely with Product and Design teams to design and implement complex user interfaces and user-facing features for the next generation CEM product.</li>
+<li>
+Develop new user-facing features, interactive visualizations, and customer-driven enhancements to our Core Platform.</li>
+<li>
+Create fast, easy to use UI components that can be implemented quickly and seamlessly to support diverse clients.</li>
+<li>
+Participate in a thriving Front-End Engineering community, helping shape mid/long-term technical roadmap and FE architecture patterns for the global Engineering organization.</li>
+<li>
+Learn from a team of senior to mid-level engineers through their mentorship and technical leadership.</li>
+<div>
+<br>
+</div>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Our Engineering Culture</b></h3>
+<div><ul>
+<li>
+We don’t expect to be perfect, but we are always proactively seeking out ways to help ourselves and our teams to minimize pain points within our infrastructure and code base.</li>
+<li>
+We love technology - and follow the latest technologies, sharing what we learn.</li>
+<li>
+We are not afraid of failing when we are experimenting with different technologies, development methodologies, and toolings.</li>
+<li>
+We build strong relationships with team members around the globe.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Minimum Qualifications</b></h3>
+<div><ul>
+<li>
+Bachelors in CS, Engineering, or related technical field. In lieu, relevant equivalent work experience.</li>
+<li>
+1+ years of delivering customer-facing web apps using a modern web stack. Our enterprise applications are built in React, with modern libraries like Apollo, Typescript, and JEST.</li>
+<li>
+Proven proficiency in Javascript - functional programming, promises, closure.</li>
+<li>
+Experience building microservices using Node, preferably supporting GraphQL.</li>
+<li>
+Experience ensuring the technical feasibility of UI/UX design.</li>
+<li>
+Previous experience with agile process, inclusive of ability to work in fast-paced and distributed teams.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Preferred Qualifications</b></h3>
+<div><ul>
+<li>
+Masters in CS, Engineering, or other advanced degree.</li>
+<li>
+Experience with: ES6/7, NodeJS, GraphQL, Docker, CSS-in-JS techniques.</li>
+<li>
+Bring an ownership mindset with quality orientation and DevOps experience.</li>
+<li>
+Demonstrate strong software engineering fundamentals.</li>
+</ul></div>
+</div></div>
+<div>
+<div>At Medallia, we don’t just accept difference - we celebrate it and recognize the value it brings to our customers and employees. Medallia is proud to be an equal opportunity workplace and is an affirmative action employer. Equal opportunity and consideration are afforded to all qualified applicants and employees. We won't unlawfully discriminate on the basis of gender identity or expression, race, ethnicity, religion, national origin, age, sex, marital status, physical or mental disability, Veteran status, sexual orientation, and any other category protected by law.</div>
+<div>
+Medallia is committed to working with and providing reasonable accommodation to applicants with disabilities in accordance with the American Disabilities Act and state disability laws.</div>
+<div>
+<br>
+</div>
+<div>
+At Medallia, we don’t just accept difference—we celebrate it and recognize the value it brings to our customers and employees. Medallia is proud to be an equal opportunity workplace and is an affirmative action employer. Equal opportunity and consideration are afforded to all qualified applicants and employees. We won't unlawfully discriminate on the basis of gender identity or expression, race, ethnicity, religion, national origin, age, sex, marital status, physical or mental disability, Veteran status, sexual orientation, and any other category protected by law. We also consider all qualified applicants regardless of criminal histories, consistent with legal requirements.</div>
+<div>
+<br>
+</div>
+<div>
+Medallia is committed to working with and providing reasonable accommodation to applicants with disabilities in accordance with the American Disabilities Act and local disability laws.</div>
+</div>
+</div></div>

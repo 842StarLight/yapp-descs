@@ -1,0 +1,105 @@
+<h2>UI Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Kochava builds real-time tracking and attribution analytics tools for connected devices; serving the world’s top brands and apps. We analyze millions of requests every single day and are ramping up at an extraordinary pace to serve billions of requests every day.</div>
+<div>
+<br>
+</div>
+<div>
+The company is growing fast as we add new clients and services and we are looking to add talented, dedicated and innovative people who will strengthen our core team.</div>
+<div>
+<br>
+</div>
+<div>
+We're looking for a UI Developer to function as a central member of Kochava's front-end development team. The mobile user tracking and attribution market is challenging, dynamic, fun, and provides almost unlimited opportunities for personal and professional growth.</div>
+<div>
+<br>
+</div>
+<div><b>
+WHAT YOU CAN EXPECT IN A UI DEVELOPER ROLE AT KOCHAVA</b></div>
+<div>
+You'll help improve the overall experience of our product through improving the quality of the Frontend features</div>
+<div>
+You’ll help identify areas of improvements in the code base and help contribute to make it better</div>
+<div>
+You’ll learn, collaborate and teach other UI Developers. Everyone can contribute something new to the team regardless of how long they’ve been in the industry.</div>
+<div>
+You’ll fix prioritized issues typically assigned to you by the Director of UI. These are typically bugs listed in an Asana task with an attached priority label.</div>
+<div>
+You'll write high quality code to complete tasks assigned to you.</div>
+<div>
+You’ll contribute to and follow our workflow process, alongside the rest of the UI Developer team.</div>
+<div>
+<br>
+</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Job Responsbiltities</b></h3>
+<div><ul>
+<li>
+Develop &amp; deliver front end-design assets using clean, easy-to-read, semantic HTML/JS/CSS/SCSS</li>
+<li>
+Review specifications &amp; provide time estimates on the development of projects &amp; features</li>
+<div>
+<br>
+</div>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Apply If You</b></h3>
+<div><ul>
+<li>
+Have prior experience building Frontend web applications</li>
+<li>
+Have a solid understanding in core web and browser concepts (eg. how does JavaScript handle asynchronous code)</li>
+<li>
+Have a solid understanding of CSS/SASS, semantic HTML and core JavaScript concepts.</li>
+<li>
+Have working knowledge writing CSS in the SASS/LESS extension languages</li>
+<li>
+Have experience working with modern frontend frameworks (eg. Vue, React, Angular, etc.)</li>
+<li>
+Have experience optimizing code and look for ways to resolve performance issues</li>
+<li>
+Are proactive in taking ownership of tasks and take them to completion</li>
+<li>
+Desire to learn and continually give and receive feedback effectively</li>
+<li>
+Are proactive in taking ownership of tasks and take them to completion</li>
+<div></div>
+<br>
+<div>
+</div>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Nice to Have</b></h3>
+<div><ul>
+<li>
+Have working knowledge of PHP</li>
+<li>
+Have a working knowledge of TDD, BDD, and end to end testing procedures</li>
+<div></div>
+<br>
+<div>
+</div>
+</ul></div>
+</div></div>
+<div>
+<div><b>Our Start</b></div>
+<div>
+Kochava began in 2011 when a team of mobile and gaming professionals saw the need to better understand the feedback loop of user acquisition, engagement, and LTV for mobile applications. Through the process of creating apps for customers from a wide range of industries, we were repeatedly asked if we could shed some light on what media advertising efforts were converting and the effectiveness of their mobile ad spend by partner. Realizing a solution to these questions wasn’t readily available, we started designing and building a mobile measurement platform that would become Kochava.</div>
+<div>
+<br>
+</div>
+<div><b>
+Our HQ Location</b></div>
+<div>
+We live and work in the wonderful ski resort town of Sandpoint, Idaho. Kochava has sales and agency representation in major markets worldwide, but we choose to grow our development and engineering infrastructure around Sandpoint, as it allows us to stay focused on cutting code while taking advantage of the community and quality of life the town offers to our team.</div>
+<div>
+<br>
+</div>
+<div>
+Kochava is an equal opportunity employer committed to building a team culture that celebrates diversity and inclusion.</div>
+</div>
+</div></div>

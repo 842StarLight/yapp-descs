@@ -1,0 +1,54 @@
+<h2>Salesforce Quality Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">San Francisco, CA
+<br><br>
+6 months Contract
+<br><br>
+These will be your tasks
+<br><br>
+Bachelors Degree or equivalent
+<br><br>
+<ul>
+<li>Preferred 5+ years relevant experience</li>
+<li>Two SFDC certifications</li>
+<li>Good understanding of a functional area primary technology and platform</li>
+<li>Demonstrated ability to execute on features of medium to high complexity within his/her functional area.</li>
+<li>Partners with a more senior engineer to deliver complex features.</li>
+<li>Written code that others can understand, support, maintain, and expand.</li>
+<li>Demonstrated consistent, successful delivery over time.</li>
+<li>Considered a good problem solver who can identify root cause within functional domain and collaborate to identify root cause across system boundaries quickly</li>
+<li>Aware of interdependencies between his/her functional areas and other functional area, both upstream and downstream.</li>
+<li>Solid understanding of a major technology employed in IT development: Java, Force.com, Front-End technologies/CMS (Object Oriented Javascript, CSS), PL/SQL, SOA, Ruby etc, solid understanding of remainder</li>
+<li>Aware of and understands trends, technical developments in the broader industry and how those can be applied at SFDC.</li>
+<li>Basic understanding of the architecture of the major functional platform(s) within the group or BU</li>
+<li>Recognition of when to configure vs. build</li>
+<li>Work needs direction and oversight from a more senior member of the team</li>
+<li>Partners with a more senior engineer to deliver very complex or foundational features.</li>
+<li>Able to use and extend existing code framework to implement new functionality.</li>
+<li>Maintains at least one applicable technology certification</li>
+<li>Industry Standard ETL Tool (Informatica, Ab Initio, etc)Sql , PL/SQL, DatabaseShell ScriptingLinux/Solaris - basic commands</li>
+<li>Understanding of Data models</li>
+<li>Solid understanding of a business area and multiple processes within that area.</li>
+<li>Able to actively participate in functional process discussions (level 3-4)</li>
+<li>Understanding of immediate upstream / downstream impacts from functional decisions</li>
+<li>Understanding of underlying data schema, data definitions and relationship to process</li>
+<li>Demonstrated understanding of both industry and SFDC-specific policies &amp; practices. Applies them to his/her work effectively.</li>
+<li>Track record of delivering on features of medium complexity over a period of time</li>
+<li>Track record of meeting sprint commitments</li>
+<li>Minimal code rollbacks or post production bugs.A highly experienced professional with a full understanding of area of specialization; Has wide-ranging experiences, uses professional concepts and company objectives to resolve complex issues in creative and effective ways.</li>
+</ul>
+All software engineers must be well versed in Agile Methodology &amp; have ADM Training.Works on complex issues where analysis of situations or data requires an in-depth evaluation of variable factors. Exercises judgment in selecting methods, techniques and evaluation criteria for obtaining results. Internal and external contacts often pertain to company plans and objectives.
+<br><br>
+You're offering these qualifications
+<br><br>
+<ul>
+<li>Preferred 5+ years relevant experience</li>
+</ul>
+QE experience in testing Front end applications, specifically Sales and Marketing domain
+<br><br>
+<ul>
+<li>QE experience in testing applications on Force.com platform</li>
+<li>Experience writing functional automation using Java and APEX (Force.com)</li>
+<li>Experience working with Selenium Web Driver and UI automation</li>
+<li>Strong experience in scrum/agile process</li>
+</ul>
+</div>

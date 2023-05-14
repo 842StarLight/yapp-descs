@@ -1,0 +1,61 @@
+<h2>Front End Engineer at Rul.ai</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Named by Bloomberg as one of the 50 Most Promising Startups in 2017, Rulai has a team of proven researchers and engineers with extensive track records in AI development. Our team members have unique expertise, building AI platforms and technologies for Facebook, Google, Microsoft, IBM, Baidu and Alibaba as well as leading award-winning academic research. Collectively, we have made pioneering contributions to natural language processing, deep learning and personalized recommendation systems. We are backed by top tier VCs.</div>
+<br>
+<h3 class="jobSectionHeader"><b>
+We are seeking a Front-end developer with very strong technical skills, who is excited about enabling AI for customers. This is an outstanding opportunity for a highly motivated individual to be a member of an unusually talented team, utilize the full range of software development skills, and work on a revolutionary new technology platform. If you want to work in an agile, collaborative environment, are fascinated with technology, and passionate about building best in class AI applications, we may have a position for you on our team.</b></h3>
+<div><b>
+Responsibilities:</b></div>
+<ul>
+<li><div>
+Design and implement user friendly web UI for the AI backend</div></li>
+<li><div>
+Build responsive UI with streamlined workflow for users to follow through easily</div></li>
+<li><div>
+Work closely with customer success team and AI team to adjust workflow quickly</div></li>
+<li><div>
+Actively test and optimize UI/UX based on a/b testing or other data driven methods</div></li>
+</ul>
+<br>
+<div><b>
+Requirements:</b></div>
+<ul>
+<li><div>
+<b>
+5</b>+ years writing frontend code for web applications</div></li>
+<li><div>
+Excellent CSS / HTML / Javascript skills</div></li>
+<li><div>
+Familiar with vue.js and other similar framework like react.js</div></li>
+<li><div>
+Deep understanding of modern frontend JavaScript frameworks</div></li>
+<li><div>
+Understanding of UX design principles</div></li>
+<li><div>
+Willing and enjoy learning new technologies</div></li>
+<li><div>
+Experience in supporting mobile, tablet, and desktop browsers</div></li>
+<li><div>
+Good communication and interpersonal skill</div></li>
+<li>
+<div>
+Strong skills to manage multiple timelines and complete tasks quickly within the constraints timelines and budgets</div>
+<div></div>
+<br>
+<div>
+Documentation to certify your legal right to work in the United States is required.<br>
+</div>
+<div></div>
+<h3 class="jobSectionHeader"><b>
+About Rulai</b></h3>
+<div>
+Silicon Valley-based Rulai delivers AI virtual customer assistance that reduces sales and support costs, increases sales conversion rates and improves customer experience with quick, always-available, chat-and SMS-based, human-like conversational engagement. These smart agents, driven by Rulai Natural Language Understanding (NLU) and Deep Learning technologies, enable brands to handle their growing customer interaction volume faster and more efficiently by answering customer questions, completing tasks and learning from live agent:customer interaction. Rulai Virtual Assistance complements live support with seamless escalation to human agents when desired or required for more complex issue resolution. Rulai solutions are developed and supported by a team of award-winning computer scientists and engineers widely considered to be among the world’s leading experts in the field of Machine Learning.<br>
+<br>
+Like a typical Silicon Valley start-up’s, we are made of a group of highly motivated and smart/creative talents. We enjoy solving challenging and meaningful problems(the really hard ones). We take great pride in building our product and enabling our customers for greater success in doing their businesses. Together as a team, we are poised to disrupt the enterprise customer service space and hence serve consumers like you to have a much smoother and enjoyable customer service experience.</div>
+<div></div>
+<br>
+<div>
+Last but not least, we also offer some nice perks such as free happy Friday lunches and drinks(our kitchen is regularly stocked with cool snacks and beverage), a massage chair in office, paid time off, 401k and good medical/dental benefits.</div>
+</li>
+</ul>
+</div></div>

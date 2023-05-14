@@ -1,0 +1,62 @@
+<h2>Senior Network Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>FirstLight Fiber is seeking an experienced Senior Network Engineer to join our technical leadership team.
+</p>
+<p><b>SUMMARY:</b>
+</p>
+<p>The Senior Network Engineer will provide Layer 2 and 3 expertise, designing the framework to strategically expand our network, while delivering packetized services to carrier and enterprise customers.
+</p>
+<p><b>ESSENTIAL DUTIES AND RESPONSIBILITIES:</b>
+</p>
+<ul><li> Analyze and assess structure and behavior of expanding network systems including interior and exterior routing protocols.
+</li></ul>
+<ul><li> Author written network Engineering Design Packages including detailed implementation project plans and procedures.
+</li></ul>
+<ul><li> Collaborate with other operations departments to design approved infrastructure.
+</li></ul>
+<ul><li> Manage contractors and vendors during implementation phase.
+</li></ul>
+<ul><li> Provide technical and costing expertise to sales engineering teams during complex network developments.
+</li></ul>
+<ul><li> Continuously identify, review, and recommend potential opportunities for cost-savings, service quality improvement, and operational efficiency.
+</li></ul>
+<ul><li> Develop operational strategies such as Service Migration (grooms). End of Life (EOL) management, expansion, and vulnerability mitigation processes.
+</li></ul>
+<ul><li> Develop Technology roadmaps.
+</li></ul>
+<ul><li> Serve as the escalation contact during complex outages requiring Layer 3 analysis.
+</li></ul>
+<ul><li> Develop and assist in developing Reasons for Outages (RFO) and corrective action plans.
+</li></ul>
+<ul><li> Perform special projects and other duties as assigned.
+</li></ul>
+<p><b>QUALIFICATIONS, KNOWLEDGE, and SKILLS</b><b>:</b>
+</p>
+<ul><li> Minimum of five (5) years relevant experience in a Service Provider environment utilizing ISIS, OSPF, BGP, and MPLS.
+</li></ul>
+<ul><li> Experience architecting large scale IP networks and supporting system design as either the lead engineer or as part of a team.
+</li></ul>
+<ul><li> Experience with design and implementation of large scale/regionalized Route Reflectors.
+</li></ul>
+<ul><li> Experience with Carrier Ethernet design/deployment, focused on MEF compliant architectures.
+</li></ul>
+<ul><li> Experience with equipment and vendors such as Adtran NetVanta, Ciena CES, Cyan Z-Series, Telco Systems, Accedian, and Juniper MX Series.
+</li></ul>
+<ul><li> Thorough knowledge of Engineering Design Package (EDP) creation and execution.
+</li></ul>
+<ul><li> Proven ability to manage contractors and vendors.
+</li></ul>
+<ul><li> Functional working knowledge of Linux/Unix OS variants.
+</li></ul>
+<p><b>EDUCATION</b><b>:</b>
+</p>
+<ul><li> Bachelor’s degree preferred
+</li></ul>
+<ul><li> CCNP Service Provider required
+</li></ul>
+<p><b>COMPANY PROFILE:</b>
+</p>
+<p>We offer a competitive base salary as well as an outstanding benefits package including health, dental, vision, and life insurance, short-term and long-term disability, 401(k) with company match, flexible spending accounts, and very generous paid time off.
+</p>
+<p>FirstLight, headquartered in Albany, NY, provides fiber optic data, voice, and high-speed Internet services to enterprise, carrier and wholesale customers in Upstate New York and Northern New England utilizing its own fiber optic network. FirstLight offers a robust suite of advanced telecommunications services, including dedicated Internet access, Metro Ethernet, traditional TDM solutions, SIP trunks, virtual PBX and Data Center Colocation.</p>
+</div></div>

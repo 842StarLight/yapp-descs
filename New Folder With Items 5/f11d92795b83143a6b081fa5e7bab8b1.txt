@@ -1,0 +1,53 @@
+<h2>Solutions Engineer- Cloud (Pre-Sales)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Are you looking for a challenging role as a <b>Solutions Engineer- Cloud</b>? InterVision Systems is a strategic service provider committed to unlocking value by delivering innovative technology through a consultative approach. We believe we will transform businesses through the evolutionary power of technology. Our people are the best in their field!</p>
+<p><i>If you are looking for a career changing opportunity, we want to meet you!</i></p>
+<p>InterVision Company is seeking a <b>Solutions Engineer- Cloud</b> who is an expert in public cloud and data center solutions. This architect possesses the necessary skills and disposition to provide consultative pre-sales support to clients. Qualified candidates will have experience translating client business needs into technology specifications and serve as an authority for multiple technologies and their deployment in a public cloud environment. This individual will gather requirements, and design solutions while working directly with the sales team to help position cloud solutions, technologies and professional services within the client organization.</p>
+<p>This position reports to the Manager, Solution Engineering.</p>
+<p><b>Do you have the right skills and experience for our team?</b></p>
+<ul>
+<li>5+ years of driving solution architecture design.</li>
+<li>3+ years of experience with cloud computing solutions implementations including AWS, Azure, etc.</li>
+<li>Experience in cloud computing-based services architecture, technical design and implementations including Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS) delivery models.</li>
+<li>Knowledge of key AWS best practices including Cloud Adoption Framework, Well Architected Framework, Security by Design, CIS AWS Foundations Benchmark.</li>
+<li>Strong Knowledge of Data Center Concepts, design and architecture methodologies, Data Storage and compute platform.
+<ul>
+<li>Storage technology - NAS, SAN, Object Storage.</li>
+<li>Concepts like Big Data, structured, unstructured data and data lakes.</li>
+<li>Data Center Networking</li>
+<li>Virtualization technologies such as VMWARE, HyperV, KVM.</li>
+<li>Converged and hyperconverged platforms.</li>
+<li>Data Protection concepts such as DR and Business Continuance</li>
+<li>Network Security such as firewalls.</li>
+<li>Backup and Recovery</li>
+<li>Load Balancing</li>
+</ul>
+</li>
+<li>Familiarity with the leading vendors in data center infrastructure such as NetApp, CISCO, Juniper, Palo Alto Networks, DELL/EMC, F5. VMWARE, Rubrik, Cohesity, HPE.</li>
+<li>Knowledge of cloud/virtualization technologies, such as VMware vSphere, EC2, Xen, KVM, OpenStack.</li>
+<li>Strong knowledge of Security Architecture, Design and Operations.</li>
+<li>Experience in cloud based and on-premise Identity and Access Management (IAM), and Security architectures</li>
+<li>Functional knowledge of Automation.</li>
+</ul>
+<p><b>What great things will you be doing?</b></p>
+<ul>
+<li>Partner with Account Managers in all Pre-Sales activity, solution architecture, design, account planning and client relationships.</li>
+<li>Own the technical sales process and deliverables from opportunity identification through closing.</li>
+<li>Create and deliver client-facing presentations covering cloud service and data center solutions.</li>
+<li>Gather and use client requirements to develop cloud solutions, including Solution Architecture, high-level designs, low-level design, BOM and professional services scopes.</li>
+<li>Conduct proof of concepts and demonstrations as needed.</li>
+<li>Assist in responding to RFP’s, RFI’s and RFQ’s.</li>
+<li>Provide hand-off from pre-sales to professional services for client engagements.</li>
+<li>Maintain deep technical knowledge across multiple technology domains and applications.</li>
+<li>Perform technical account management activities such client relationships, quarter business reviews (Internal and client facing) and executive briefings.</li>
+<li>Maintain relationships with peers at major vendors.</li>
+<li>Maintain all required certifications.</li>
+</ul>
+<p><b>How Do We Back Our Strong Reputation?</b></p>
+<p><b>GREAT PLACE TO WORK: </b>If you thrive in an environment of growth and individual impact, InterVision is the place for you!</p>
+<p><b>CUSTOMER SUCCESS:</b> InterVision has worked with more than 5,000 clients across industry sectors to solve their biggest business challenges. We take a neutral approach to determine which IT consumption model best fits each client organization. Recommendations are custom designed around specific client requirements, integrating best-in-class solutions from our vendor partners. SBM Magazine recognized our unparalleled approach to customer service by awarding InterVision with their Best Customer Service Award.</p>
+<p><b>BROAD CAPABILITIES:</b> InterVision offers a wide range of services and solutions that organizations need to thrive in today’s dynamic IT market, including on-premises solutions, managed services, cloud services, hosting/colocation services, automation, and professional services. This broad Hybrid IT portfolio uniquely and competitively positions InterVision in an industry largely made up of small, specialized consultancies or very large commodity resellers.</p>
+<p><b>WORLD-CLASS FACILITIES:</b> InterVision has headquarters in Santa Clara, Calif. and St. Louis, Mo., and offices and data centers in Missouri, Colorado, California and Washington. We operate multiple Tier 3 and Tier 4 level data centers, which are SOC II Type 2 compliant specific and certified in Confidentiality and Security. Our Integration Center is a restricted-access facility with power, cooling, and space to handle a high volume of IT equipment.</p>
+<p><b>INDUSTRY ACCOLADES:</b> InterVision has received some of the technology industry’s most prestigious awards. This includes multiple wins for CRN Technology Elite 250, CRN’s Solution Provider 500; CRN MSP 500, and Inc. Magazine’s 5000 Fastest Growing Private Companies. InterVision President and CEO Aaron Stone received accolades as one of the Top 100 St. Louisans to “Know How to Succeed in Business.” InterVision’s Disaster Recovery-as-a-Service has been positioned in Gartner and Forrester analyst reports multiple years in a row.</p>
+<p><b>TOP VENDOR CERTIFICATIONS:</b> InterVision holds the highest certifications and partner levels with leading technology vendors, and we have teams of trained engineers supporting their solutions. Here are just a few of the certifications from our list of 80+ vendors: Cisco Gold Certification, Cisco Cloud and Managed Services Master, Juniper Elite Partner, Microsoft Gold Partner, NetApp Star Partner, Palo Alto Networks Diamond Partner, and VMware Premier Partner.</p>
+</div></div>

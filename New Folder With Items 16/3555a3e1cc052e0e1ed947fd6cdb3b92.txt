@@ -1,0 +1,72 @@
+<h2>Senior Network Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Overview of the Senior Network Engineer</b></p>
+<p>
+This position will assist/manage/own voice and data communication architectures, topologies, hardware, software, transmission and signaling links and protocols into complete network configurations. Monitors protocol compatibility and performs system tuning and makes recommendations for improvement. Develops integrated solutions to resolve highly complex technical and business issues. Assists in network planning and network architecture design and engineering. Performs network problem resolution and assists in the development and documentation of technical standards and interface applications. Performs work that is highly complex and varied in nature. Requires senior level experience of technical and business knowledge in multiple disciplines/processes. Provides leadership in fostering teamwork and cooperation.
+</p>
+<p><b>Responsibilities</b></p>
+<ul>
+<li>Understands the company's vision, mission, and strategy; understands business unit objectives and sets/accomplishes individual performance goals accordingly.
+</li>
+<li>Serve as cornerstone for escalation of network issues, providing timely and effective responses to the business.
+</li>
+<li>Maintain operational stability for Corporate and Branch level wired and wireless data and voice networks.
+</li>
+<li>Enhance availability of the network with highly available and redundant products, tools, and technology.
+</li>
+<li>Build and maintain standard network topology mappings.
+</li>
+<li>Define, perform, and maintain network backups and recovery procedures.
+</li>
+<li>Plan, schedule, and deploy network patches, fixes, and upgrades.
+</li>
+<li>Create, oversee, and test network related security measures.
+</li>
+<li>Monitor, alert, and report against systems providing performance statistics and reporting.
+</li>
+<li>Manage vendor partner relationships; making recommendations for resources to maintain and/or expand service levels.
+</li>
+<li>Define standards and implementation strategies for integrating disparate network environments from acquisition.
+</li>
+<li>Conduct research on network hardware, security, and protocols for developing and enhancing organizational operation.
+</li>
+<li>Assist with special projects and additional duties/responsibilities as required. Where applicable and when performing the responsibilities of the job, employees are accountable to security compliance and adhere to internal control policies and procedures.<br>
+</li>
+</ul>
+<p></p>
+<p><b>Qualifications</b></p>
+<ul>
+<li>Bachelor's degree required; Masters a plus.
+</li>
+<li>Experience/certifications in Cisco or Juniper technology.
+</li>
+<li>5-7+ years of experience in related area of responsibility.</li>
+<li>Demonstrated experience in an analytical position responsible for managing 50+ location enterprise environment preferred.
+</li>
+<li>Expert knowledge for the following protocols/technology: BGP, OSPF, SDWAN, HSRP/VRRP, DMVPN, GRE, DHCP, SMTP, NTP, DNS, Fiber Channel, SNMP. Linux/Unix experience a plus.
+</li>
+<li>Experience troubleshooting and diagnosing routing and switching issues.
+</li>
+<li>Experience deploying and improving network performance tuning and monitoring tools.
+</li>
+<li>Full understanding of all layers of OSI model.
+</li>
+<li>Skilled in managing firewall and network security technology.
+</li>
+<li>Strong written and verbal communication/interpersonal skills</li>
+<li>Ability to present ideas in business, executive and associate friendly language.
+</li>
+<li>Highly self-motivated and directed, with keen attention to detail.
+</li>
+<li>Ability to learn and follow established change management processes; experience in ITIL environment a plus.
+</li>
+<li>Availability for On-Call rotation.
+</li>
+</ul>
+<p><b>Who We Are</b></p>
+<p>
+DS Services is a national direct-to-consumer provider of bottled water, office coffee and water filtration services. DS Services offers a comprehensive portfolio of beverage products, equipment and supplies to approximately 1.5 million customers through its network of over 210 sales and distribution facilities and daily operation of over 2,100 routes. With one of the broadest distribution networks in the country, DS Services can provide service to approximately 90 percent of U.S. households and efficiently services homes and national, regional and local offices. DS Services is dedicated to achieving its mission of becoming America's favorite water, coffee and tea service provider where consumers live, work and play. Please visit our website www.water.com for more information about DS Services. Equal Opportunity Employer Minorities/Women/Protected Veterans/Disabled.</p>
+</div>
+<p></p>
+</div>

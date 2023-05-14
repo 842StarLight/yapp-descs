@@ -1,0 +1,46 @@
+<h2>QA Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Ideal Software Systems, an innovator in business management systems for 30 years, is looking for a talented QA Analyst to join its growing team. The Ideal candidate will create and perform testing procedures for Windows-based products in our Family Entertainment and Financial Services division, as well as research and advise the Development team on new hardware integrations to keep the company’s POS (Point Of Sale), E-Commerce and other products at the head of their markets.<br>
+<br>
+<b>What You'll Do:</b></p>
+<ul>
+<li>Develop and maintain test plans, manual and automated test scripts for user interface, functionality, system and "ad-hoc testing" Execute regression tests, functional tests and data tests</li>
+<li>Document quality assurance practices</li>
+<li>Report, track and determine priority of reported bugs using our internal tracking system</li>
+</ul>
+<p><br>
+<b>What You'll Need:</b></p>
+<ul>
+<li>BA/BS in Computer Sciences/Engineering or associated discipline or the equivalent experience</li>
+<li>Well versed in all testing methodologies</li>
+<li>A solid understanding of quality assurance as part of the development process</li>
+<li>Detail oriented and a problem solver</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Ability to work in a rapidly changing environment</li>
+<li>Deductive reasoning, patience and creativity<br>
+</li>
+</ul>
+<p><b>Preferred candidates will have experience with:</b></p>
+<ul>
+<li>Test Complete or other automated testing toolset</li>
+<li>Firebird Database</li>
+<li>Two years of scripting or programming experience<br>
+</li>
+</ul>
+<p><b>Compensation &amp; Benefits:</b></p>
+<ul>
+<li>Competitive base salary commensurate with track record and experience</li>
+<li>Leadership opportunity a possibility</li>
+<li>Major medical and dental insurance</li>
+<li>401k plan</li>
+<li>Health and fitness center membership</li>
+<li>Paid vacation and holidays</li>
+<li>Personal days</li>
+<li>Live and work in a great location for family</li>
+</ul>
+<p><br>
+Ideal Software Systems is a progressive technology company with a legacy of providing quality integrated hardware and software systems and support to the amusement, family entertainment and financial markets. Ideal’s rapidly growing client base, aggressive product development path and dynamic work environment provide an exciting opportunity for talented individuals looking for career growth and significant advancement opportunities.</p>
+</div>
+<p></p>
+</div>

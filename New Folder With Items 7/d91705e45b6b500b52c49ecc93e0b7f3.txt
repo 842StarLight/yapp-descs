@@ -1,0 +1,71 @@
+<h2>Analytics Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div><b>Contribute to a safer, secure and more sustainable World!</b></div>
+<div></div>
+<br>
+<div>
+At UL, we know why we come to work. Thousands of us around the world wake up every day with one common purpose – to make the world a safer, more secure, and more sustainable place to live. We clear the way for our customers to introduce the latest products, technological advances, and systems in an increasingly complex world so they can provide peace of mind to the market. Our integrity is woven throughout our company and shapes the way we approach and deliver our solutions. We are proud that the work we do every day has a meaningful contribution to society. We continue to build upon our legacy of trusted expertise and partnership to keep our communities safe and secure as we march forward into the future. This helps us to sleep better at night, and we are confident that the millions of people we touch rest easier too.</div>
+<div></div>
+<br>
+<div>
+The Analytics Engineer is responsible for data science, data engineering, and data analytics functions within our corporate marketing. This position provides the organization with key data insights into marketing operations and supports business divisions with customer insights, reports, and advanced analysis for informing business decisions.
+</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul><li>Applies expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how our users interact with product</li></ul>
+<ul>
+<li>
+Helps architect and develops our reporting database, using data warehousing / ETL concepts to build new fields and tables, improve query efficiency, QA changes, troubleshoot problems, and scale our data warehouse</li>
+<li>
+Acts a thought leader within the organization on performance measurement - work with teams to ensure they are measuring their business / function optimally</li>
+<li>
+Develops and maintains data-driven reporting and dashboards</li>
+<li>
+Partners with Sales and Marketing teams to help solve problems and identify trends and opportunities</li>
+<li>
+Identifies relevant data, analyzes, and interprets trends or patterns in complex data sets</li>
+</ul>
+<ul><li>
+Performs additional duties as needed</li></ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<ul><li>Three (3) years minimum of hands-on analytics and advanced statistical modeling and machine learning techniques experience with demonstrated track record of manipulating large, complex data sets</li></ul>
+<ul>
+<li>
+Bachelor’s Degree in Economics, Statistics, Computer Science, or related field; Master’s degree in related field preferred
+</li>
+<li>Technical expertise regarding data models, database design &amp; development, data mining and segmentation techniques</li>
+<li>
+Knowledge of statistics and experience using statistical packages</li>
+</ul>
+<ul><li>
+Experience building analytics tools that utilize the big data pipelines to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics</li></ul>
+<ul>
+<li>
+Software skills including:</li>
+<ul>
+<li>
+Python programming experience in analyzing large dataset</li>
+<li>
+JavaScript or related object-oriented/object function scripting languages</li>
+<li>
+PowerBI and related business intelligence tools for data visualization</li>
+<li>
+SQL for querying data and reporting</li>
+<li>
+REST and SOAP API’s</li>
+<li>
+Scripting in Bash</li>
+</ul>
+<li>
+Preferred experience: Building the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and Azure ‘big data’ technologies.</li>
+</ul>
+</div></div></div>
+</div></div>

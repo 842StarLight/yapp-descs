@@ -1,0 +1,27 @@
+<h2>Sr. Full Stack Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>One by one, we are leading a movement to a future where all beauty is clean beauty. We are powered by people, and our collective mission is to get safer products into the hands of everyone. Formulate, advocate &amp; educate— that’s our motto for creating products that truly perform while holding ourselves to unparalleled standards of safety.<br>
+<br>
+Why?</p>
+<p>It’s really this simple: Beauty should be good for you.</p>
+<p>We are looking for a great Senior Software Engineer who can help build out Beautycounter’s platform. From ordering to customer accounts to product catalogs and pricing, you’ll work across the sets of services and functionality we provide to customers.</p>
+<p>The ideal candidate will be able to collaborate with our top-notch engineering team &amp; product managers, and build great services and features for our customers; and then work with our highly-skilled engineers in both code reviews and architecture discussions to help drive forward a cohesive code base.</p>
+<p>In this role you will:</p>
+<ul>
+<li>Develop new backend Node.js functionality &amp; components</li>
+<li>Help migrate our functionality and services to Firebase</li>
+<li>Help maintain a cohesive, well-engineered code base</li>
+<li>Integrate with a team of engineers and participate in a collaborative, code review environment</li>
+<li>Drive engineering efficiency improvements through build tooling, CI/CD pipeline improvements, architectural improvement, tech debt paydown, etc</li>
+</ul>
+<p>We are looking for someone who has:</p>
+<ul> <li>5+ years Node.js/javascript (bonus points for ecommerce or direct sales experience)</li>
+ <li>Experience building robust backend functionality</li>
+ <li>Great cloud experience in AWS or Google (bonus points for FAAS: AWS Lamda, Google Cloud Functions)</li>
+ <li>Strong ES6/ES7 JavaScript knowledge</li>
+ <li>Able to build highly customized build pipelines in JS</li>
+ <li>Experience with CI/CD tools such as Travis, Jenks</li>
+ <li>Experience with JS unit and integration testing frameworks</li>
+ <li>Operations experience an asset (capacity planning, incident response, security scanning, etc)</li>
+</ul>
+</div></div>

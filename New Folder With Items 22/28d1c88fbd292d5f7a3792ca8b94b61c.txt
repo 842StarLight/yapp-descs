@@ -1,0 +1,39 @@
+<h2>Software Engineer I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">EducationDynamics®
+<br><b>Job Description:</b> Software Engineer I
+<br><b>Department:</b> Information Technology
+<br><b>Location:</b> Boca Raton, FL
+<br>EducationDynamics is a marketing services and technology company dedicated to getting students to the right program at the right school at the right time. As the premier provider of qualified prospective students for colleges and universities, we identify individuals who are the best fit for a school's programs and who are most likely to complete them. Our services also cover the key stages of the student lifecycle, from initial inquiry through program enrollment.
+<br>Seeking a highly motivated and energetic Software Engineer for projects utilizing Microsoft's leading edge technologies. Our company is working on a state of the art software platform to be leveraged by our sales, marketing and operations teams to provide the best experience for our partners, clients and consumers. Our IT team is a talented group who enjoys working together to solve complex problems and appreciates innovation and creativity in our approach. You will be part of an enterprise development effort, participating in the architecture, design, implementation and support of our platform, reporting to the Director of Software Development.
+<br><br>
+<b>Position Responsibilities:</b><br>
+<ul>
+<li>Triage, research, analyze and help solve complex system issues using SQL, software debugging and problem solving skills.</li>
+<li>Maintain and support existing web applications and consumer-facing web properties.</li>
+<li>Design and develop web sites, administrative applications, services and APIs.</li>
+<li>Create prototypes and functional specifications for software projects.</li>
+<li>Produce code that meets specifications.</li>
+<li>Database development including creating queries, indexes, views, stored procedures and triggers.</li>
+<li>Report project status to supervisors and project management including regular review of goals.</li>
+<li>Quickly learn new technologies and systems.</li>
+<li>Meet with project managers on specifics of projects tasks, responsibilities and deadlines.</li>
+<li>Effectively communicate technical issues to non-technical business users.</li>
+</ul>
+<b>Education &amp; Experience:</b><br>
+<ul>
+<li>Bachelor's degree in Computer Science, Information Systems, Engineering (or another related field) AND/OR 1 – 3 years of equivalent software development experience</li>
+<li>Advanced degree a plus.</li>
+</ul>
+<b>Desired Skills:</b><br>
+<ul>
+<li>Ability to quickly understand complex business scenarios and provide impactful advice on intelligent solutions.</li>
+<li>Some knowledge or experience with JavaScript and JavaScript based frameworks (Angular, jQuery, Bootstrap, etc).</li>
+<li>Demonstrated skills with MS SQL Server or another SQL based database system.</li>
+<li>Working knowledge of an Object Oriented programming language (C# or Java preferred).</li>
+<li>Must have a demonstrated strong attention to detail and quality.</li>
+<li>Must be comfortable working in a highly dynamic and fast-paced environment.</li>
+<li>Must be comfortable with changing roles/responsibilities.</li>
+<li>Must possess strong debugging and analytical skills.</li>
+<li>Experience with the Visual Studio IDE and Team Foundation Server (TFS) a plus.</li>
+</ul>
+</div>

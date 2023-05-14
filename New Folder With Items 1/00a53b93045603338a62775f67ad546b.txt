@@ -1,0 +1,67 @@
+<h2>Optical Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Introduction</b></h2>
+<p>ASML brings together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our main headquarters are located in Veldhoven, the Netherlands, and we also have 18 office locations around the United States- including main offices in Wilton, CT, Chandler, AZ, San Jose, CA and San Diego, CA.</p>
+<h2 class="jobSectionHeader"><b>Job Mission</b></h2>
+<p>ASML is seeking an experienced data analysis engineer with expertise in processing of optical images for metrology process development of ultra-high precision flat optics to join the Optical Sensor and Metrology Department in Wilton, Connecticut. The main job function is to develop, improve and integrate image processing, correction algorithms and deliver software packages in MATLAB for engineering and manufacturing teams to solve challenging engineering problems associated with achieving nanometer scale precision.
+</p>
+<p>ASML is a world leader in the manufacture of advanced technology systems for the semiconductor industry.ASML’s corporate headquarters is in Veldhoven, the Netherlands. Manufacturing sites and research and development facilities are located in Connecticut, California and the Netherlands. Technology development centers and training facilities are located in the United States, Japan, Korea, the Netherlands, and Taiwan. Additionally, ASML provides optimal service to its customers via over 50 sales and service organizations in 16 countries. Founded in the Netherlands in 1984, the company is publicly traded on Euronext Amsterdam and NASDAQ under the symbol ASML.</p>
+<h2 class="jobSectionHeader"><b>Job Description</b></h2>
+<div>The main focus of this position will be:<br>
+<ul>
+<li>Develop / improve image processing algorithm to extract nm flatness information from interferometer data.</li>
+<li>Integrate algorithm from developers in to image processingsoftware package for analysis and process development cycles for engineering and manufacturing users.</li>
+<li>Maintain Version controlled software package for multiple product generations.</li>
+<li>Perform software testing to identify application, algorithmand software bugs.</li>
+<li>Validate/ verify / regression test software to ensure it meets the business and technical requirements.</li>
+<li>Develop &amp; execute roadmap of analysis, software, and systems, to mitigate product &amp; process risk and prevent software performance issues.</li>
+<li>Lead the design team in software analysis tool development to find solutions to difficult technical problems in an efficient manner.</li>
+<li>Develop/ maintain /improvedatabase structures and capabilities.</li>
+<li>Write Matlab scripts to search analyze and plot data from Database.</li>
+<li>Support query code to interrogate data for manufacturing and engineering needs.</li>
+<li>Support image analysis on data and derive conclusions.</li>
+<li>Some travel ( ~ 10%) to Europe, Asia, and within the US can be expected.</li>
+</ul>
+</div>
+<h2 class="jobSectionHeader"><b>Education</b></h2>
+<p>Bachelor degree in Computer Science / electrical engineer / optical engineering with minimum of 4 years experience in developing signal processing &amp; image processing algorithm and software; or Master's degree in similar disciplines with a minimum of 2 years of related experience; or PhD degree in similar disciplines.</p>
+<h2 class="jobSectionHeader"><b>Experience</b></h2>
+<ul>
+<li>Experiencedin software like:; MATLAB, Python , C/C++.</li>
+<li>Experienced in scientificimage/signal /data process algorithm, statisticsand software development.</li>
+<li>Theoretical expertisein to image/signal /data processing, Transfer Function Convolution, filtering anddata fitting techniques.</li>
+<li>Clear understanding in: optical measurement techniques like interferometry, scatterometry , optical sensor, Imagingsystems ,etc.</li>
+<li>Familiarity with Software Configuration Management.
+</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Personal skills</b></h2>
+<ul>
+<li>Have strong written and oral communicative skills and a commitment to achieving results on time.</li>
+<li>Demonstrated “team player” with a quality orientation and interpersonal skills.</li>
+<li>Be able to interface with multidisciplinary groups and work effectively in a team and be willing to take on responsibility, follow through and keep multiple simultaneous assignments on schedule.</li>
+<li>Be able to quickly acquire technical knowledge from documentation and on-the-job training and be capable of thoroughly investigating technical issues (analytically and hands-on in a lab).</li>
+<li>Be willing to own the integrated systems performance, and support the entire product life-cycle (development through sustaining engineering), strive to deliver the right design solution for the right cost at the right time.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Context of the position</b></h2>
+<div>The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br>
+<ul>
+<li>While performing the duties of this job, the employee routinely is required to sit; walk; talk; hear; use hands to keyboard, finger, handle, and feel; stoop, kneel, crouch, twist, reach, and stretch.</li>
+<li>The employee is occasionally required to move around the campus.</li>
+<li>The employee may occasionally lift and/or move up to 20 pounds.</li>
+<li>May require travel dependent on company needs.</li>
+<li>Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus.</li>
+<li>Can work under deadlines.</li>
+<li>The environment generally is moderate in temperature and noise level.</li>
+<li>Must be able to read and interpret data, information, and documents.</li>
+<li>Can observe and respond to people and situations and interact with others encountered in the course of work.</li>
+<li>Can learn and apply new information or skills.
+</li>
+</ul>
+</div>
+<h2 class="jobSectionHeader"><b>Other information</b></h2>
+<p>EEO/AA (W/M/Vets/Disability) Employer.</p>
+<p>
+This position requires access to controlled technology, as defined in the Export Administration Regulations (15 C.F.R. § 730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with applicants who are immediately eligible to access controlled technology.</p>
+<p>
+Internal Reference: #LI-KG1</p>
+</div></div>

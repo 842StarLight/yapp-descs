@@ -1,0 +1,56 @@
+<h2>Sr. BSA - FCE Payer Analytics</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Genentech is looking for a<b> Sr. BSA - FCE Payer Analytics</b> in <b>South San Francisco, CA.</b> <b>It is a 4 to 36 months contract on W2.</b><br>
+<br>
+Please email your Resume attached as a Word Doc along with your desired Hourly Rate, your current location, visa status and date you are available to start a new position. Please make certain your resume clearly details your experience with the skills required for this requirement.<br>
+<br>
+Also please provide a brief writeup about why you are a match for the position that can be passed along to the manager. If you have worked at Roche or Genentech in the past please provide your previous managers names, so they too can be passed along to the hiring manager.<br>
+<br>
+<b>Duties</b><br>
+<br>
+The IT Business Systems Analyst will be responsible for working closely with partners across the commercial lines of business and within IT to understand strategic drivers and tactical needs to ensure that the team can provide solutions that meet the business need with the necessary stability, usability, and scalability. The IT Business Systems Analyst will partner closely with our business partners in the Field Analytics &amp; Operations organization to develop dashboard solutions that will aggregate Payer data and enable key metrics for our field and home office users.<br>
+The IT Business Systems Analyst will be supporting analytics projects in the Field Customer Engagement, experience at mid-senior level is required.<br>
+</p>
+<ul>
+<li>Facilitate workshops - story-boarding workshops, translate story-boarding artifacts into an electronic format and provide input in design sessions</li>
+<li>Clearly communicate keeping IT and business partners apprised of developments and requirements, key metrics</li>
+<li>Analyze and document current and future business process models, requirements, business rules, etc</li>
+<li>Analyze and document data requirements (from a business needs perspective)</li>
+<li>Use Agile constructs and tools to create user personas, user stories, epics, etc and iterate on Minimum Viable Product (MVP) solutions</li>
+<li>Plan and manage user acceptance test (UAT), create UAT scripts and facilitate UAT; report out on UAT progress and outcomes</li>
+<li>Collaborate with business partners, IT Project Managers, User Experience Designers, Solution Architects, Developers &amp; Software Quality Assurance on scope, solutions, constraints, and risks</li>
+<li>Mentor the teams on UX best practices and oversee the creation of delightful prototypes &amp; dashboards</li>
+<li>Perform knowledge transfer to training and communication teams</li>
+<li>Support user deployment activities as needed</li>
+<li>Lead business stakeholders and other business systems analysts thru the business analysis lifecycle</li>
+<li>Work closely with Project Manager, Technical Lead, Developers, Software Quality Assurance Lead to accomplish a successful project delivery, focused on Minimum Viable Product (MVP)</li>
+</ul>
+<p><br>
+<b>Skills</b><br>
+</p>
+<ul>
+<li>8+ experience analyzing business requirements and support information systems projects</li>
+<li>Experience delivering technical solutions for data management solutions (ETL, Data Integration, Master Data Management, Informatica PowerCenter/Siperian, Data Warehousing/Data Marts), and Business Intelligence reporting/visualization (Qlik, Tableau, SAS)</li>
+<li>Demonstrated excellence in analysis, documentation, facilitation and presentation skills</li>
+<li>Understanding of and experience with Agile methodologies for delivering projects</li>
+<li>Strong skills in critical thinking and analysis, small and large group facilitation skills</li>
+<li>Pharma, Life sciences industry, pharma sales &amp; payer data, and commercial business process knowledge preferred</li>
+<li>Demonstrated success handling initiatives of high complexity and risk</li>
+<li>Advanced experience with data visualization and business intelligence software (ETL, Data Integration, Master Data, Qlikview, SAS,...)</li>
+<li>
+<b>Education:</b> Bachelor's degree or equivalent experience in business administration, systems design, advanced analytics or equivalent field</li>
+</ul>
+<p><br>
+<b>Required Skills</b><br>
+</p>
+<ul>
+<li>Business intelligence</li>
+<li>Data integration</li>
+<li>Data management</li>
+<li>Data visualization</li>
+<li>Data warehousing</li>
+</ul>
+</div>
+</div>

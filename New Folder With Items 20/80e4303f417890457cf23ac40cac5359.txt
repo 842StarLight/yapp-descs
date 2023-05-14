@@ -1,0 +1,87 @@
+<h2>Cloud Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div>FOUNDED IN 2003, Carrington has evolved from a mortgage credit asset manager into a vertically-integrated financial services company that covers virtually every aspect of the single family residential real estate transaction, including investment in U.S. real estate and mortgage markets, loan origination and servicing, asset management and property preservation, real estate sales and rental, and title and escrow services. Carrington has built the infrastructure necessary to maximize value during any market cycle. Join us!</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<div>The Senior Cloud Engineer maintains and operates enterprise cloud applications in support of business operations to include virtualization operations, both on premise and in the public cloud.</div>
+<div></div>
+<br>
+<div><b>
+ESSENTIAL DUTIES AND RESPONSIBILITIES:</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+Designs and architects cloud solutions to provide recommendations to Senior Leadership about cloud strategy, migration paths, best practice, and technical direction in both current and future offerings.</li>
+<li>
+Leads cross-functional teams including business and technical units in adoption of enterprise-wide cloud directives.
+</li>
+<li>Acts as a technical evangelist for cloud operations in internal team meetings, cross-functional team meetings and for the company as a whole.
+</li>
+<li>Monitor network and systems operations within the cloud and hybrid-cloud fabric; respond both reactively and proactively to alerts.</li>
+<li>
+Support, troubleshoot, research, and resolve Infrastructure as a Service (IaaS) Virtual machine issues related to installations, migration, operating system and application installations, cloud network to include load balancers, firewalls and Network Virtual Appliances (NVAs).</li>
+<li>
+Support, troubleshoot, research, and resolve Platform as a Service (PaaS) deployment and recovery options; coordinate as necessary with third party cloud providers and vendors to ensure Carrington IT systems meet business requirements.</li>
+<li>
+Ability to deploy, manage, and operate scalable, highly available, and fault-tolerant systems on virtualization technology to include “serverless computing” and container technology.</li>
+<li>
+Ability to translate business requirements in technical cloud architecture; then manage the implantation with the cloud provider.</li>
+<li>
+Review cloud design for best practices in security, efficiency and design, provide/implement fixes where necessary.</li>
+<li>
+Perform maintenance tasks and configuration with management tools, including software updates and patches for virtual machines, remote control tools, application inventory and management tasks.</li>
+<li>
+Establish and maintain user accounts and passwords in accordance with the company's information security guidelines.</li>
+<li>
+Take ownership and follow up on escalated issues.</li>
+<li>
+Participate in on call rotation, and scheduled maintenance during non-business hours.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications<br>
+</b></h2>
+<div></div>
+<div><div><div>
+<div><b>ESSENTIAL KNOWLEDGE, SKILLS, ABILITIES, AND COMPETENCIES:</b></div>
+<ul>
+<li>
+<b>
+ </b>Extensive knowledge of cross platform cloud technology to include:<ul>
+<li>
+Infrastructure, Platform, Desktop and Software as a Service</li>
+<li>
+Public cloud (Amazon, Google, Microsoft), private cloud, and a focus on cloud hybrid.</li>
+</ul>
+</li>
+<li>
+Ability to understand complex problems and to collaborate and explore alternative solutions.</li>
+<li>
+Ability to make decisions that have moderate impact on immediate work unit.</li>
+</ul>
+<div><b>
+ EDUCATION, EXPERIENCE AND/OR LICENSES:</b></div>
+<ul>
+<li>
+Bachelor’s degree in Management Information Systems or equivalent related work experience.</li>
+<li>
+Advanced technical training in systems/cloud infrastructure, vendor specific certification preferred, to include Amazon Web Certification (Professional level), Azure Solutions Architect, and/or Apache CloudStack Certification (ACCEL).</li>
+<li>
+5+ years of enterprise systems engineering experience.</li>
+<li>
+Experience with cloud based architecture, virtualization, installation, maintenance and troubleshooting</li>
+</ul>
+<div></div>
+<br>
+<div>
+We are an equal opportunity employer.</div>
+</div></div></div>
+</div>
+<div></div>
+</div>

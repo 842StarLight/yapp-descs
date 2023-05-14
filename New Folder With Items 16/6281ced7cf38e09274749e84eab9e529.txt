@@ -1,0 +1,71 @@
+<h2>Security Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">At ZoomInfo Powered by DiscoverOrg we encourage creativity, value innovation, demand teamwork, expect accountability and cherish results. If you are a take charge, take initiative, get stuff done individual we want to talk to you! We have high aspirations for the company and are looking for the right people to help fulfill the dream. We strive to continually improve every aspect of the company and use cutting edge technologies and processes to delight our customers and rapidly increase revenues.
+<br><br>
+ZoomInfo, a leading B2B data company located in Waltham, MA, makes it our goal to maintain the highest security standards in our products, keeping an intense focus on product security. As a hands-on Security Engineer you will guide and influence the product security domain and ensure our product security is excellent, and our clients are safe from advanced attacks.
+<br><br>
+This is a soup to nuts, a highly hands-on security position. The ideal candidate will extensively probe our multiple environments – cloud, data center, offices – to identify and prioritize risks and issues ranging from firewall configurations, network firmware, OS patching and hardening, DB security, Cloud access and so much more. Then, in close cooperation with engineering management and systems engineers, develop a short and long term plan to rectify those issues through upgrades, patching, configuration changes, and tooling. Many of those fixes will fall on the Security Engineer to coordinate and, in many cases, implement where appropriate. Once the initial fixes/deficiencies have been remediated, the engineer will then be able to focus on further enhancing our security posture.
+<br><br>
+<b>In this job, you will:</b><br>
+<ul>
+<li>Maintain &amp; promote the security posture of our products from the technical perspective, in view of today's increasing levels of security threats &amp; challenges.</li>
+<li>Constantly be probing our data centers, corporate offices, and cloud-based platforms using a wide range of open source and proprietary solutions and tools</li>
+<li>Coordinate and, in many cases, implement fixes (patches, configuration changes and so much more) for discovered issues</li>
+<li>Own the structured process for responding to security issues found in our SaaS / Cloud-based product offerings</li>
+<li>Lead from definition to implementation the significant security initiatives related to our products</li>
+<li>Interact with auditors to maintain our SOC2 audit compliance.</li>
+</ul>
+Experience (not all required provided there is a comparable experience and a willingness to learn):
+<br><br>
+<ul>
+<li>Cisco Firewalls</li>
+<li>Centos</li>
+<li>CloudFlare</li>
+<li>F5 Load Balancers, NGinX</li>
+<li>FirePower Security IDS/IPS</li>
+<li>Open source pen-testing tools</li>
+<li>Linux / Centos OS patching solutions</li>
+<li>Windows patching solutions (we are about 10% Windows)</li>
+<li>Google Compute Engine</li>
+<li>2-3 years of experience in a security engineering role</li>
+</ul>
+We are looking for a hands-on individual with a white hat hacker mindset to join us in an Application Security Engineer Role. You will be responsible for architecting, developing and deploying application security tools and technologies to protect ZoomInfo's platform and backend infrastructure.
+<br><br>
+WHAT YOU'LL DO
+<br>--------------
+<br><br>
+<ul>
+<li>Develop the secure SDLC process at ZoomInfo and perform static security code analysis (SAST) of ZoomInfo's codebase on a regular basis and provide relevant recommendations to ZoomInfo's developers.</li>
+<li>Perform dynamic application security testing (DAST) using open source and commercial tools before applications are deployed in production.</li>
+<li>Perform threat modeling on the existing and upcoming feature set in the ZoomInfo application so that appropriate security controls can be built from the ground up.</li>
+<li>Review security alerts and reports on a daily basis and work closely with the DevOps team in any follow-up investigation or remediation.</li>
+<li>Manage the bug bounty program at ZoomInfo and work with the developers for timely remediation of the reported issues.</li>
+<li>Manage external independent Application Security Testing and ensure timely remediation of issues.</li>
+<li>Identify all vulnerabilities originating from third-party dependencies and ensuring timely remediation.</li>
+<li>Impart ongoing secure code and application security best practices training to developers.</li>
+</ul>
+SKILLS AND EXPERIENCES THAT'LL HELP YOU BE GREAT
+<br>------------------------------------------------
+<br><br>
+<ul>
+<li>Bachelors in Computer Science or a related field</li>
+<li>5+ years in a security engineering or operations role</li>
+<li>Strong knowledge of applied cryptography, web security, TLS/SSL, web authentication protocols such as OAuth/SAML</li>
+<li>Experience in using scripting languages e.g. Python, Perl, PHP, Ruby to automate tasks and manipulate data</li>
+<li>Experience with developing threat models (STRIDE, DREAD, etc.)</li>
+<li>Comfortable with security tools like Burp Suite, OWASP ZAP, CheckMarx, Veracode, MetaSploit, App Spider etc.</li>
+<li>Experience with automation tools like Ansible, Chef, Puppet, Jenkins desired but not a must-have</li>
+<li>Experience with automated application testing tools/frameworks e.g. Selenium, SonarQube</li>
+<li>js/Java/Angular</li>
+</ul>
+THE THREE SKILLS THAT MATTER MOST
+<br><br>
+Nobody can be great at everything, but we're looking for candidates who are extraordinary at: Hands-on experience with SAST and DAST tools
+<br><br>
+<ul>
+<li>Past development experience</li>
+<li>Security design review experience</li>
+</ul>
+<b>About us:</b><br>
+Built over 20 years ago, ZoomInfo Powered by DiscoverOrg has become the go-to-market standard for over 13,500 companies worldwide. Designed to be the single source of truth, the ZoomInfo platform offers best-in-class technology paired with unrivaled data coverage, accuracy, and depth of contacts, companies, and opportunities essential to empower sales, marketing and recruiting professionals to hit their numbers. Deeply embedded into business workflows and technology stacks-- including integrations with the leading CRM, Sales Engagement, Marketing Automation, and Talent Management applications - ZoomInfo is capable of delivering more predictable, accelerated, and sustainable growth than any stand-alone solution. ZoomInfo's investors include TA Associates, The Carlyle Group and 22C Capital. For more information about our leading marketing and sales intelligence solution, visit www.zoominfo.com ( http://www.zoominfo.com/ ).
+<br><br>
+All qualified applicants will receive consideration for employment without regard to race, color, ethnicity, religion, gender, national origin, disability and protected veterans status or any other personal characteristic protected by law.</div>

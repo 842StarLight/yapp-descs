@@ -1,0 +1,86 @@
+<h2>Head of Data</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Email is the universal communication tool for work. It’s where you discuss work, answer questions, and talk to all of your customers, vendors, and partners. But email wasn’t made for business and hasn’t evolved to help you work with a team. So you’re dropping the ball, missing important context, and relying on many siloed apps that make you less productive as a whole.</div>
+<div>
+<br>
+</div>
+<div>
+With more than 5,000 customers and $79 million in funding from Sequoia, Threshold (formerly DFJ), and others, Front is reinventing the inbox so people can accomplish more together. We’ve created one place where you communicate internally and externally, gain context about customers and projects, and access all your other tools so you can be more efficient, more fulfilled, and ultimately happier at work.</div>
+<div>
+<br>
+</div>
+<div>
+As the Head of Data, you will be responsible for growing a team that owns the full data stack. This team provides business insights from data to all functions in the company, operates big data systems that can capture, store and present internet scale data in close-to real time to both humans and machines, and</div>
+<div>
+productizes data to make our products smarter and our customers more efficient.</div>
+<div>
+<br>
+</div>
+<div>
+You will partner closely with Product, Engineering, Design, Marketing, Sales, and Customer Support to provide visibility into our data, craft narratives, find insights, and provide recommendations. Working closely with these teams, you will transform massive amounts of data into insights that will allow the rest of the company to make better decisions, faster.</div>
+<div>
+<br>
+</div>
+<div>
+Additionally, you will work closely with Engineering, Product and Design teams to transform massive amounts of data into products that will be utilized by our customers.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>This role is a demanding leadership role that requires:
+</b></h3>
+<div><ul>
+<li>A leader: you attract and retain the talent needed to build a top notch full-stack data team</li>
+<li>
+A strategist: you provide key business insights based on emerging data trends, and provide a technical roadmap that outlines when and how we can use data to achieve our company mission</li>
+<li>
+A collaborator: you work with teams across the company to establish KPIs and apply data science to a wide range of problems.</li>
+<li>
+An architect: you envision and deliver systems and tools to democratize data across organizations and allow that data too be easily consumed by humans and machines</li>
+<li>
+A data expert: you are adept at turning data into insights that drive the business and can own metrics dashboards and design queries to measure our performance. For example:</li>
+<li><i>
+Provide visibility to the work that the product, marketing, and sales teams do by using data to support their wins, find areas of improvement, and explore the endless possibilities of what we can build</i></li>
+<li><i>
+Provide to the Engineering, Product and Design teams objective evaluations post implementation so we can learn what kind of impact we had with each release</i></li>
+<li><i>
+Model the impact of product and marketing changes on DAUs, retention, new user acquisition, etc.</i></li>
+<li><i>
+Develop, implement, run statistical analysis, and report on A/B tests that are run by different teams (e.g. Sales, Product, Engineering).</i></li>
+<li><i>
+Investigate anomalous data trends and loop in relevant teams (engineering, sales, marketing) to respond</i></li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>What skills and experience do you need?</b></h3>
+<div><ul>
+<li>
+Several years leading data efforts in a product-focused company</li>
+<li>
+A background in data science or data engineering</li>
+<li>
+Strong experience with consumer metrics such as new user acquisition, customer acquisition cost, MAU/DAU, user retention, and churn.</li>
+<li>
+Familiarity with BI tools and dashboards, etc</li>
+<li>
+Deep curiosity, excellent communication skills and next level organizational abilities</li>
+<li>
+Experience with developing, implementing, and reporting on A/B tests</li>
+<li>
+Fluency in a dynamic language like Javascript, Python, Ruby, or similar</li>
+<li>
+Fluency in data systems/platforms</li>
+<li>
+Experience writing SQL, extracting, cleaning and enhancing large datasets</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Bonus</b></h3>
+<div><ul>
+<li>
+Recent SaaS experience</li>
+<li>
+Recent start-up experience</li>
+</ul></div>
+</div></div>
+<div><div><i>Front provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age or disability.</i></div></div>
+</div></div>

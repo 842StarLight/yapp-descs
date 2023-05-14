@@ -1,0 +1,76 @@
+<h2>Senior Salesforce.com Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Senior Salesforce Developer</p>
+<br>
+<p></p>
+<p><i>
+Eagle Creek Software Services is a CRM, BI, and eCommerce services firm and the largest dedicated provider of on-shore and rural sourcing services in the US. Eagle Creek Software focuses on implementing, upgrading and extending the useful life of CRM, BI, and allied technologies. People are attracted to Eagle Creek for our focus; for our success, (rapid growth since 1999); for the opportunity to work on the largest and most innovative projects in the US with Fortune 1000 clients; and for our reputation for high quality.</i></p>
+<br>
+<p></p>
+<p><b>
+Competitive Advantage</b></p>
+<p>
+Since 2005, Eagle Creek has leveraged US based on-shore/off-site Consultants in our multiple Technology Centers. This has given us the ability to provide our customers with a cost-comparable alternative to off-shoring for many reasons:</p>
+<ul>
+<li>Technology Centers in the heart of the United States</li>
+<li>No more than 2 time zones away from the customer</li>
+<li>No more than a half day trip to inspect a project or engagement</li>
+<li>Dedicated technological focus – CRM, BI, eCommerce</li>
+<li>Six month training programs for every consultant</li>
+<li>The capability of delivering any phase and any size engagement</li>
+<li>Supported by the most extensive onsite consulting team in the industry</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Value Proposition</b></p>
+<p>
+Eagle Creek has over 2,500,000 hours of project experience spanning over 300 engagements. It is one of the only companies in the world with the experience and capabilities to successfully deliver multi-million dollar engagements remotely. The company’s value proposition is based exclusively on Quality and Price, where customers receive the highest quality in the industry at a price that is more cost effective than offshore and lower than traditional onsite service companies. The company’s Valley City, North Dakota Project Center primarily focuses on CRM and related technologies while the Pierre, South Dakota Project Center primarily focuses on Business Intelligence technologies, and the Vermillion, South Dakota and Eden Prairie, Minnesota Project centers focus on eCommerce development.</p>
+<br>
+<p></p>
+<p><b>
+Duties</b></p>
+<ul>
+<li>Participate in the development of Salesforce applications based on client needs for integration, implementation, and customization projects</li>
+<li>Mentor and train, formally and informally, Eagle Creek’s Jr. and mid-level resources</li>
+<li>Foster and maintain development and integration standards, best practices and related deliverables with the EC team</li>
+<li>Participate in pre-sales efforts and strategic project planning</li>
+<li>Ability to travel for initial project set-up and major milestones as required</li>
+<li>Additional duties as required</li>
+<br>
+</ul>
+<p><b>
+</b></p>
+<p><b>Required Technical Skills</b></p>
+<ul>
+<li>Bachelor’s degree in computer science, related field, or equivalent</li>
+<li>3+ years experience with end to end Salesforce.com implementations, integrations, and enhancement projects</li>
+<li>2+ years APEX and VisualForce development for custom Salesforce functionality</li>
+<li>Experience integrating business processes across disparate systems and multiple Salesforce instances using web services, SOAP, XML, REST, MSMQ, workflow, XML, HTML, UML and JavaScript</li>
+<li>Development of custom objects, fields and formulas, custom reports, and dashboards</li>
+<li>Integration experience with other Salesforce Applications and External systems</li>
+<li>Development of SOAP and REST based web services used for custom development</li>
+<li>Solid understanding of SaaS and CRM development processes and methodologies</li>
+<li>Create supporting technical documentation and detailed design specifications</li>
+<li>Develop and maintain validation rules and custom workflows</li>
+<li>Salesforce development certification (highly desired)</li>
+<li>Hands-on development skills</li>
+<li>Knowledge about OOTB functionality and the ability to discern when to configure over code</li>
+</ul>
+<p><br>
+<b>Desired Technical Skills</b></p>
+<ul>
+<li>Design and development of applications using the Force.com IDE</li>
+<li>Java based web application development and OOP skills</li>
+<li>Jitterbit or Informatica Cloud adapter for Salesforce</li>
+<li>Certified Advanced Developer</li>
+<br>
+</ul>
+<p></p>
+<p>
+</p>
+<p>Eagle Creek is an Equal Opportunity/Affirmative Action Employer</p>
+<br>
+Required Skills<br>
+<br>
+Required Experience</div></div>

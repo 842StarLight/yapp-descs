@@ -1,0 +1,46 @@
+<h2>Software Engineer, Backend</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h3 class="jobSectionHeader"><b>All about these Boxed Boxes!</b></h3>
+<p>Boxed was launched in our CEO’s garage in 2013 by our four founders; an eclectic group of experienced tech pioneers. They had a simple idea: to make shopping for bulk-sized products easy, convenient and fun. Today, we deliver a first class e-commerce experience for everyday essentials across the country. We work out of our corporate headquarters in New York City, another corporate office in San Mateo, and our three fulfillment centers serving the country from New Jersey, Nevada and Texas.</p>
+<p>
+We’re a late stage start-up that places technology and innovation at the heart of all that we do. Our technology platform and automated, state-of-the-art fulfillment centers make headlines and our systems utilize machine learning, predictive analytics and other technologies to ensure a delightful B2C and B2B online shopping experience. While technology is at the core of what we do, providing a personalized, thoughtful and seamless shopping experience is at the core of who were are. We value each and every customer and every single order receives a hand-written thank you note.</p>
+<h3 class="jobSectionHeader"><b>
+Unpack your Potential at Boxed!</b></h3>
+<p>Boxed is made up of a vibrant and fun group of engineers, designers, marketers, sales people and operations specialists - just to name a few! We work with passion for driving superior value and experience to our customers. Our customers choose to buy from Boxed because we save them time and money, which in turn makes their lives easier. That’s where you come in!</p>
+<p>
+We are looking for talented software engineers to join our Commerce Platform team. The team’s primary mission is to build value into the overall ecommerce platform with a focus on enhancing our storefront with new features through well designed and documented APIs. The team is also responsible for creating and maintaining various integrations with internal and external systems. As part of this team, we expect software engineers to ensure that all services are built to be performant, reliable, scalable and reusable.</p>
+<p>
+We value any Software Engineer who can think critically and learn quickly. We often leverage open-source tools that may be written in any language, and a software engineer should feel comfortable diving into the source code to fix bugs or understand the software when there’s a gap in documentation. We’re a bunch of engineers who enjoy balancing time to market and robustness, and are comfortable making decisions that shape the way software will be built at Boxed for years to come.</p>
+<h3 class="jobSectionHeader"><b>
+You will:</b></h3>
+<ul>
+<li>Be a critical part of not just the technology team but to the company as an excellent problem solver</li>
+<li>Design and implement solutions to provide value to our customers as quickly, reliably, and correctly as possible</li>
+<li>Improve the performance, reliability, and scalability of our existing systems</li>
+<li>Think critically and solve the problems around you</li>
+<li>Assist in refactoring the existing monolithic codebase into smaller microservices where it makes sense</li>
+<li>Write clear documentation and automated tests to ensure code reliability and ease of maintenance</li>
+<li>Review your peers’ code to teach and learn while improving software quality</li>
+<li>Collaborate with the Product team to execute against the Product Roadmap</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Your foundations:</b></h3>
+<ul>
+<li>A bachelor’s degree in Computer Science or equivalent</li>
+<li>Demonstrable results and products from 3+ years of relevant experience</li>
+<li>Experience writing production code in NodeJS</li>
+<li>Excellent analytical and problem-solving skills with a healthy experimental attitude.</li>
+<li>Ability to learn and adapt quickly in a fast-paced environment.</li>
+<li>Strong verbal and oral communication skills – it will be necessary for you to communicate your work to the rest of the engineering team through many mediums including documentation, presentations, and small workshops</li>
+<li>Strong Database skills (e.g. NoSQL, Postgres, Redshift)</li>
+<li>Ability to work alone or in small teams</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Nice-To-Haves</b></h3>
+<ul>
+<li>Experience teaching, mentoring, or captaining in any capacity</li>
+<li>Experience using and debugging DevOps/Networking/Infrastructure (e.g. Kubernetes, Jenkins)</li>
+</ul>
+<p><b>Don’t meet all of our requirements? Not a problem. We’re always looking for fast learners who may have a less than standard path or the exact skillset mentioned above. Please apply anyways and show us why you’re awesome!</b></p>
+<h3 class="jobSectionHeader"><b>
+OUR package for you!</b></h3>
+<p>Alongside our customer focus and technology DNA, we pride ourselves on our employee centric mentality. NBC Nightly News called our CEO, Chieh Huang, “America’s Dream Boss” for our generous benefits. Every day is bring your dog to work day at Boxed! In addition, our team enjoys competitive compensation plus stock options, endless snacks, flexible parental leave, unlimited paid time off, company lunches, and lots of other perks - just some of the reasons we made Crain’s list of best places to work in NYC. We’d love to meet you, so apply today!</p>
+</div></div>

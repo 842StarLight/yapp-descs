@@ -1,0 +1,47 @@
+<h2>Software Test Technician</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>About STRATACACHE</b><br>
+<br>
+STRATACACHE provides scalable customer experiences, empowering retailers to learn deeply about their customers’ shopping preferences and behaviors, allowing for personalized shopper interaction. Our solutions deliver consumer activation at the point-of-decision, generating new sales opportunities and enhanced retail profitability. With 3 million+ software activations globally, we power the biggest digital networks for the world’s largest brands. Across the STRATACACHE family of complementary digital media/ad tech solution companies, we have the technology, expertise and track record to bring retail innovation that delivers results.<br>
+<br>
+Learn more about the STRATACACHE family at www.stratacache.com.<br>
+<br>
+<b>About SuperLumin Networks</b>
+</div>
+<div>
+<br>
+SuperLumin provides sophisticated Web and Enterprise Content Delivery Network (eCDN) solutions. We are part of the STRATACACHE family of companies which focuses on digital signage, media displays and marketing solutions. Our network technology increases network performance, reduces congestion by decreasing the overall volume of content moving over the network. Our technologies identify frequently requested data and stores or caches it locally. Caching eliminates the need to repeatedly transmit the same content over and over again from the web server through the cloud to the client improving web content delivery and performance.<br>
+<br>
+<b>Core responsibilities</b>
+</div>
+<ul>
+<li>Create new test scripts and follow existing test scripts</li>
+<li>Ensure product quality and functionality</li>
+</ul>
+<div>
+<br>
+<b>Basic Qualifications</b>
+</div>
+<ul>
+<li>Comfortability with computers and new software programs (i.e. Linux)</li>
+<li>Quick learner</li>
+<li>High level of curiosity and desire to learn</li>
+<li>General knowledge of client and network operating systems (i.e. Microsoft Windows and SUSE Linux)</li>
+<li>Preferred skills in Linux, Docker, Kubernetes, OpenStack and Network Management and Configuration would also adjust pay grade, roles and potential full time status.</li>
+</ul>
+<div></div>
+<ul><li>Flexibile work hours around class schedules</li></ul>
+<ul><li>Casual work environment</li></ul>
+<ul><li>Great group of fellow software engineers &amp; technicians to work alongside</li></ul>
+<br>
+<div>
+</div>
+<div>
+<br>
+STRATACACHE and its family of companies provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, pregnancy, childbirth or related medical condition, veteran, marital, parental, citizenship, or domestic partner status, or any other status protected by applicable national, federal, state or local law.<br>
+<br>
+While we are excited and appreciate you interest in our opportunities, please keep in mind that we are not able to contact all applicants that have applied.<br>
+<br>
+No vendor/agency solicitation please.</div>
+</div></div>

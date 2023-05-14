@@ -1,0 +1,23 @@
+<h2>Email Marketing Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">As the Email Marketing Manager, your role is to engage prospects and customers through content-driven email marketing campaigns, nurture flows, and scoring activity. You'll manage the ESP integration with Salesforce for advanced B2B account-based marketing strategies. This role reports directly to the Chief Marketing Officer and collaborates with internal teams on email marketing programs to support Sales, Product, and Client Success by running campaigns and programs that increase leads and revenue.
+<br><br>
+<b>Principal Responsibilities:</b><br>
+<ul>
+<li>Build and manage email campaigns, including setting strategy, testing, launching, and analyzing results</li>
+<li>Weekly, monthly and quarterly KPI reporting of all campaigns, and make recommendations for corrective or optimization modifications</li>
+<li>Develop lead nurturing and lead scoring programs including but not limited to increasing organic page rankings, website and key landing pages traffic and conversions</li>
+<li>Create emails for launches, announcements, blog updates, lead generation, newsletter, and lead nurturing</li>
+<li>Work cross functionally across the Product, Sales, and Client Success teams to create, execute, and manage a full ABM initiative with Salesforce CRM integration</li>
+<li>Develop ideas for email nurturing campaigns, A/B tests, how to improve email marketing metrics; and execute on these ideas independently</li>
+<li>Build automated, multi-touch lead nurture programs across the customer lifecycle in Pardot</li>
+<li>Ensure all email campaigns comply with current best practices and regulations in the industry, including email deliverability, database hygiene, and compliance with opt-in laws and regulations as well as ensuring compliance with CAN-SPAM regulations</li>
+</ul>
+<b>Personal Skills/Attributes/Qualifications:</b><br>
+<ul>
+<li>5+ years experience creating the strategy and executing campaigns within a marketing automation or email marketing platform.</li>
+<li>Preferred experience working with Salesforce.com, Pardot Marketing Automation Software, Adobe Premiere Pro and HTML. Candidates may have experience with similar platforms (Marketo, Hubspot, Eloqua).</li>
+<li>Strong proficiency and experience with email best practices, lead nurturing, marketing automation, and marketing analytics.</li>
+<li>Strong knowledge of HTML, CSS, and landing page creation as it integrates with CRM.</li>
+<li>Strong analytical skills and experience with email campaign reporting and data analysis.</li>
+</ul>
+</div>

@@ -1,0 +1,41 @@
+<h2>Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>GoTab is looking for a highly motivated, self-driven developer who can traverse the full web stack with ease. Qualified candidates must have demonstrated experience with functional programming with Javascript, Node.js, relational databases (preferably PostgreSQL), knowledge of working with and/or building RESTful APIs, and other modern web technologies. If you think you fit the bill, then let's talk. We are building the next disruptive movement in app-less mobile payments and social recommendations for the restaurant industry (to start), and we want you to be a part of this thrilling journey.<br>
+<br>
+<b>This is not a remote work position. Candidates must be able to work full-time at company office in Arlington, VA.</b><br>
+</p>
+<b>Responsibilities</b>
+<p>As a Developer at GoTab, you will be responsible for collaborating closely with a product owner, sales, UX and fellow developers to define the product direction informed by the state of the art in mobile web technology. You will have significant freedom in exercising design judgment to build user interfaces and the underlying server-side code that powers the experience. You must be comfortable working in a fast-paced, startup environment to be successful.</p>
+<b>
+Skills &amp; Requirements</b><br>
+<br>
+Required:
+<ul>
+<li>Bachelor's degree in Computer Science (or equivalent), with a minimum of 3 years relevant experience</li>
+<li>Excellent communication and collaboration skills</li>
+<li>Advanced asynchronous Javascript on Node.js with ES2015 and ES2016 constructs</li>
+<li>Strong knowledge of relational databases, preferably with PostgreSQL</li>
+<li>HTML5, CSS3, jQuery and Bootstrap</li>
+<li>Full competency with software development workflow tools such as JIRA, Git, CI tools such as CircleCI/Bamboo/Jenkins</li>
+</ul>Preferred:
+<ul>
+<li>Experience with building and deploying applications on Heroku</li>
+<li>Familiarity with Amazon Web Services, particularly AWS SNS, SQS, S3 and API Gateway</li>
+<li>Experience with MarkoJS templating</li>
+<li>Familiarity with any flavor of Linux</li>
+<li>Familiarity with software development on low-power devices such as Raspberry Pi, The Chip or Pyboard</li>
+</ul>
+<b>Perks</b><br>
+<ul>
+<li>Laid-back, fun, and casual office environment</li>
+<li>Ballston location with easy metro access</li>
+<li>Unlimited vacation policy</li>
+<li>Medical/dental/vision insurance</li>
+<li>Free gym access</li>
+<li>Friday happy hours</li>
+<li>Join the ground floor of a rapidly growing start up with endless potential</li>
+<br>
+</ul>
+<br>
+<br>
+GoTab is fully committed to Equal Employment Opportunity and to attracting, retaining, developing, and promoting the most qualified employees without regard to their race, color, religion, creed, sex, gender, sexual orientation, gender identity, gender expression, age, national origin, genetic information, marital/familial status, disability, military status, veteran status, or any other protected status. We are dedicated to providing a work environment free from discrimination and harassment, where employees are treated with respect and dignity.</div></div>

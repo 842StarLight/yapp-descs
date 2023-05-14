@@ -1,0 +1,67 @@
+<h2>Senior SQA Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Brady Corporation Overview</b></p>
+<p>
+Brady Corporation is an international manufacturer and marketer of complete solutions that identify and protect people, products and places. Brady's products help customers increase safety, security, productivity and performance and include high-performance labels, signs, safety devices, printing systems and software. Founded in 1914, the Company has a diverse customer base in electronics, telecommunications, manufacturing, electrical, construction, medical, aerospace and a variety of other industries. Brady is headquartered in Milwaukee, Wisconsin and as of July 31, 2018, employed approximately 6,200 people in its worldwide businesses. Brady's fiscal 2018 sales were approximately $1.17 billion. Brady stock trades on the New York Stock Exchange under the symbol BRC. More information is available at www.bradycorp.com.</p>
+<br>
+<p></p>
+<p><b>
+Position Summary</b></p>
+<p>
+Brady is looking for a Senior SQA Engineer to work with engineering teams to improve the quality of products being developed. The core purpose of this position is to execute the test effort on software development projects. You will be part of an engineering team designing and building embedded, desktop, web and mobile applications that will enable Brady to provide various solutions to our customers globally.</p>
+<br>
+<p></p>
+<p><b>
+Essential Duties and Responsibilities</b></p>
+<ul>
+<li>Have a thorough understanding of our software and printer products and be able to share knowledge with junior resources</li>
+<li>Actively participate in Scrum teams, partner with engineers to automate testing</li>
+<li>Create, update and execute manual tests</li>
+<li>Build test suites to exercise growing feature sets and customer requirements</li>
+<li>Manage test environments</li>
+<li>Develop skills in test automation</li>
+<li>Provides status updates to seniors on projects</li>
+<li>Communicate test coverage, risks and defects to aid in decision making</li>
+<li>Report and verify defects</li>
+<li>Track issues on through to resolution</li>
+<li>Identify risks</li>
+<li>Troubleshoot complex issues</li>
+<li>Mentor junior testers in conducting root cause analysis of software, firmware defects</li>
+<li>Interface with product and development teams to address bugs, enhancements and features.</li>
+<li>Assist in support of complex customer questions or issues</li>
+<li>Build and maintain relationships with Technical Support technicians</li>
+<li>Create test strategies that will help accelerate product development</li>
+<li>Actively Participate in design reviews and provide feedback on features and usability</li>
+<li>Learn to analyze and decompose software systems and assist in the development of strategies to test the system at all levels of the application stack</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Required Knowledge, Skills &amp; Abilities</b></p>
+<ul>
+<li>Bachelor's degree in Computer Science or related field, or comparable previous experience</li>
+<li>Minimum of 6 years experience plus additional SQA responsibility with software development projects</li>
+<li>Some experience working in an Agile environment</li>
+<li>Some experience with test automation tools including Selenium</li>
+<li>Some experience with software development projects, preferably in distributed computing environments</li>
+<li>Understanding of Test Driven Development</li>
+<li>Some experience with various mobile test platforms (Android, iOS)</li>
+<li>Ability to collaborate with engineers, project managers, product owners, and/or scrum masters</li>
+<li>Ability to communicate clearly and effectively</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Desired Characteristics: Knowledge, Skills and Abilities</b></p>
+<ul>
+<li>Ability to independently learn software technologies</li>
+<li>Advanced knowledge of a Brady product line</li>
+<li>Understanding of Software Development Life Cycle processes and methodologies</li>
+<li>Some experience leading testing efforts for complex software development projects</li>
+<li>Knowledge and experience using software testing tools, such as defect and test case management tools and automation tools</li>
+<li>Strong analytical and problem solving skills</li>
+<li>Highly organized with a strong attention to detail</li>
+<li>Ability to manage multiple high priorities in a fast paced environment</li>
+<li>Flexibility to work in rapidly changing situations while driving for results and managing deadlines</li>
+</ul>
+</div></div>

@@ -1,0 +1,132 @@
+<h2>Oracle Cloud Reporting Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><b>Ready to reimagine your Oracle career?</b></div>
+<br>
+<div></div>
+<div>
+Develop and deliver the next generation of Oracle solutions using innovation-led design thinking, agile development methodologies and new intelligent technologies, such as IoT, analytics, automation and AI.</div>
+<br>
+<div></div>
+<div>
+There has never been a better time to join our team of 54,000+ Oracle experts, where you’ll:</div>
+<div>
+<ul>
+<li>
+<b>Drive end-to-end innovation. </b>Gain early access to Oracle innovations through our unparalleled program of collaboration. Accenture is Oracle’s #1 systems integrator globally for 12 years running and a proud Global Cloud Elite and Platinum-Level member of the Oracle Partner Network.
+</li>
+<li>
+<b>Lead the Journey to Cloud.</b> Define and implement Oracle Cloud solutions on large, complex client projects with a scope unsurpassed in the industry.
+</li>
+<li>
+<b>Deliver award-winning work</b>. Accenture has won more than 145 Oracle awards since 2003—more than any other systems integrator.
+</li>
+<li>
+<b>Learn and Grow Continuously. </b>Benefit from unmatched training and development including workshops and training to secure Oracle certifications, expert-curated learning boards and Oracle Cloud Academy training on sales and delivery excellence.
+</li>
+<li>
+<b>Advance your agenda. </b>Grow your career as far as your ambition takes you. We provide real-time performance feedback based on your strengths – not stats.
+</li>
+<li>
+<b>Thrive in diversity. </b>Succeed in an organization that actively promotes networking and mentorship among all communities.</li>
+</ul>
+</div>
+<br>
+<div></div>
+<div><b>
+Essential Job Functions</b></div>
+<br>
+<div></div>
+<div>
+Focused in PaaS domain - Application development using ADF, JET, SQL, PLSQL, ICS/OIC, Process Cloud service and similar areas in EBS.<br>
+</div>
+<div></div>
+<ul>
+<li>Responsible for delivering technical architecture and presenting it to the client, Oracle etc.
+</li>
+<li>Design and develop Integration solutions involving both Oracle and non-Oracle applications both on-premise and cloud.
+</li>
+<li>Produce Integration and Technical Architecture Documents to include Conceptual Technical Models, Platform, Performance, Security, Operational Requirements, Integration and Batch Requirements.
+</li>
+<li>Identify potential risks and problem areas. Develop procedures that provide effective solutions to the problem at hand.
+</li>
+<li>Be an onsite technical lead and co-ordinate with offshore team to complete project deliverables.
+</li>
+<li>Serves as advisory-level (technical) pre-sales support and post-sales technical support specialist when needed.</li>
+</ul>
+</div>
+<div></div>
+<br>
+<div></div>
+<div>
+<div><div>
+<div><div><div><b>Knowledge, Skills and Experience Requirements</b></div></div></div>
+<br>
+<div><div><ul>
+<li>BS / MS level technical degree or equivalent experience; Computer Science or Engineering background preferred.
+</li>
+<li>10+ years of strong software development life cycle experience in Oracle domain.
+</li>
+<li>Focused experience in PaaS domain - application development using ADF, JET, SQL , PLSQL, ICS/OIC, Process Cloud service and progressive experience in similar areas in the EBS.
+</li>
+<li>Deep expertise and hands-on experience with PaaS- Java Cloud Service, Database Cloud Service, Integration Cloud Service.
+</li>
+<li>Prior Experience as a technical architect and lead in the EBS and/or Oracle Cloud implementations.
+</li>
+<li>Familiarity with Cloud Security Technology and best practices (SSO, IAM, Federated)
+</li>
+<li>Experience in Authentication and Authorization technologies/protocols (OAuth 2.0, OpenID, SAML)
+</li>
+<li>Proven Software development experience in at least Java, Oracle SQL/PLSQL.
+</li>
+<li>Familiarity with backup and disaster recovery options and implementation in the cloud.
+</li>
+<li>Familiarity with industry compliance and security standards that includes PCI DSS, ISO 27001, HIPAA etc.
+</li>
+<li>Able to demonstrate high level computer skills and knowledge in MS Office, Outlook, Excel
+</li>
+<li>Excellent verbal and written communication skills
+</li>
+<li>Excellent analytical capabilities
+</li>
+<li>Ability to interact effectively within a team and with client(s)</li>
+</ul></div></div>
+<br>
+</div></div>
+<div></div>
+<div><b>Business Skills required</b></div>
+<ul>
+<li>Systems implementation skills: requirements/process analysis, conceptual and detailed design, configuration, testing, training, change management and support
+</li>
+<li>Consulting skills: self-motivated, team oriented, positive attitude, with a can-do, jump-right-in attitude
+</li>
+<li>Excellent written and verbal communication including presentation skills
+</li>
+<li>Ability to work independently and manage multiple task assignments
+</li>
+<li>Tool knowledge: MS Project, MS Visio, MS PowerPoint, Excel, Word<br>
+Strong problem solving and troubleshooting skills with the ability to exercise mature judgment
+</li>
+<li>Effectively produces deliverables
+</li>
+<li>Ability to identify, assess and mitigate relevant risks during project execution
+</li>
+<li>Organized and detailed oriented
+</li>
+</ul>
+<div>
+<div>All of our consulting professionals receive comprehensive training covering business acumen, technical and professional skills development. You'll also have opportunities to hone your functional skills and expertise in an area of specialization. We offer a variety of formal and informal training programs at every level to help you acquire and build specialized skills faster. Learning takes place both on the job and through formal training conducted online, in the classroom, or in collaboration with teammates. The sheer variety of work we do, and the experience it offers, provide an unbeatable platform from which to build a career.</div>
+<div></div>
+<div>Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status).</div>
+<div></div>
+<div>Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.</div>
+<div>Accenture is a Federal Contractor and an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.</div>
+<div></div>
+<div>Equal Employment Opportunity</div>
+<div>All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.</div>
+<div>Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.</div>
+<div></div>
+<div>Accenture is committed to providing veteran employment opportunities to our service men and women.</div>
+</div>
+</div>
+</div>

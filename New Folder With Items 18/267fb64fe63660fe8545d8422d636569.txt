@@ -1,0 +1,37 @@
+<h2>Technical Support Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Avail Medsystems is a pioneering medical technology company that is reinventing how medical procedures are supported by industry and clinicians. We are committed to delivering HIPAA compliant real-time video conferencing solutions that improve the quality, and lower the cost, of procedural care delivery.
+<br><br>
+We are looking for a passionate Technical Support Engineer to help us realize the mission of improving medical outcomes all while reducing cost for hospitals; these are critical problems to solve as we move forward in the transformation of health care.
+<br><br>
+We are data driven and milestone oriented. We are looking for self-starters, and good team players. Join us in our journey in improving healthcare.
+<br><br>
+<b>The Work You'll do to Help Build Our Innovative Product:</b><br>
+<ul>
+<li>Resolution of Service Request Tickets to satisfactorily close out technical support concerns via phone, email or on-site; including detailed documentation of all customer issues.</li>
+<li>On-site and remote consultancy and assistance for recommendations regarding software upgrade planning, technology and product migrations or assisting with multi-product solution upgrades.</li>
+<li>Maintain backup configurations of all Avail Medsystems products in the customer network. Utilize virtualized lab for troubleshooting and software-verification testing.</li>
+<li>This role requires onsite visits for on-boarding new clients for several tasks including:</li>
+<li>Understanding the customer's deployment and environment and documenting this information.</li>
+<li>Explaining for customers how to obtain needed logs for each product.</li>
+<li>Setting up and testing remote access between Avail Products and the customer.</li>
+<li>Work in conjunction with our Field Sales Team to meet or exceed our customer service goals.</li>
+<li>Develop subject matter expert level skills on the full range of Avail Medsystems features.</li>
+<li>Gather problem descriptions, log files, and configuration data related to a specific issue facing the customer; analyze this data to seek root cause of these issues and engage escalation support as needed to drive resolution.</li>
+<li>Ability to work independently and successfully while addressing multiple customer issues simultaneously.</li>
+<li>Maintain expert level technical knowledge on Avail Medsystems solution and the environments in which is it deployed. This requires the ability to learn via formal training, self-driven initiatives and on the job experience.</li>
+<li>10 to 15 percent of your time requires travel to either customer sites.</li>
+</ul>
+<b>The Qualifications and Experience You Will Bring to our Team:</b><br>
+<ul>
+<li>Bachelor's degree in technical or computer science field or equivalent experience.</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Excellent customer service skills.</li>
+<li>Strong problem-solving skills with logical approach to problem determination. Must have the ability to effectively communicate recommended resolutions.</li>
+<li>Ability to be self-motivated, pro-active and work in a small team.</li>
+<li>5+ years of experience working in a networking-focused technology field, preferably related to customer support.</li>
+<li>Strong understanding of the fundamental operations of a modern IP based network supporting Video Conferencing (TCP/IP, UDP, routing, switching, and firewalls)</li>
+<li>Experience with iOS and macOS</li>
+<li>Familiarity with MPEG-DASH, HLS, Smooth Streaming, etc.</li>
+<li>Familiarity with H.264 Codec, HEVC, AAC, etc.</li>
+</ul>
+</div>

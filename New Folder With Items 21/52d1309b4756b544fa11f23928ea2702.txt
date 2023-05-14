@@ -1,0 +1,113 @@
+<h2>Data Visualization and Business Intelligence Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Company Overview
+</b></h2>
+<div><div><div>
+<div>Every organization has surplus – assets or inventory no longer required. Liquidity Services (NASDAQ: LQDT) works with clients to ensure surplus is intelligently transformed from a burden into a liquid opportunity that fuels the achievement of strategic goals. Our superior service, unmatched scale, and ability to deliver results enable us to forge trusted, long-term relationships with over 12,000 clients, including Fortune 1000 and Global 500 organizations as well as government agencies. With nearly $8 billion in completed transactions, over 3.5 million registered buyers, and reach into almost 200 countries and territories, we are the proven market leader in delivering smart surplus solutions.</div>
+<div></div>
+<br>
+<div>
+Liquidity Services operates in an entrepreneurial, collaborative, and vibrant workplace. We’re looking for team members who enjoy working in a fast-paced, relaxed environment – a place where you’ll be challenged and empowered to perform. Our core values – which include integrity, customer focus, relentless improvement, innovation to support leadership, and mutual trust and accountability – drive our individual and corporate success.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>General Summary
+</b></h2>
+<div><div><div>
+<div>The Data Analyst will transform raw, complex data sets into business intelligence tools that will be used by leadership both inside and outside of the organization to analyze key performance indicators and assess the growth and profitability of programs and accounts. This position is a hybrid role that will enable the Analyst to work across several different teams, each having specific needs and uses for data reporting and visualization. The Analyst will have the opportunity to work closely with the core business unit to analyze data and report results directly to senior leadership.</div>
+<div>
+<br>
+Dashboards and KPI reporting will be primarily created using Microsoft Power BI. Power BI allows developers to utilize multiple data formats for source data, including CSV and SQL databases. The main data source for most of the dashboards is a SQL database that provides real-time information from LSI’s proprietary Inventory Management System (IMS). The Analyst will work closely with project teams to assess, define, and implement improved reporting capabilities for unique client requirements as they arise. Over time, the individual will be expected to evolve their role to lead clients from simple, pre-existing business intelligence solutions to forward-looking “what’s next” capabilities using more advanced predictive and prescriptive methods.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<div>
+<b>External Reporting</b>- The Analyst will be at the forefront of an initiative to migrate current reporting techniques to industry leading reporting tools for external users. LSI’s clientele includes many of the world’s top retailers and manufacturers, each of which require tailored dashboards and visualization tools to assess sales, volume, and profitability of their programs.</div>
+<div>
+<br>
+<b>
+Internal Reporting</b>- The Analyst will also work to create products that will be used by internal-facing users to visualize key statistics and KPIs for the business. Any metric that directly or indirectly impacts the profitability of the company will be included in these internal facing tools, and these tools will drive strategy and decision making for senior leadership within the company.</div>
+<ul>
+<li>
+Analyze highly complex business requirements and generate technical specifications to design or redesign interactive dashboards for internal and external users</li>
+<li>
+Design and develop dashboards, data visualizations, and complex reports</li>
+<li>
+Support the Retail Supply Chain Group with the understanding of business and data requirements, and design visualizations for initial concepts and prototypes that can be presented to customers for feedback</li>
+<li>
+Define, execute, and interpret complex/nested SQL queries</li>
+<li>
+Establish standards and best practices for dashboards and related technologies</li>
+<li>
+Manage a repository of re-usable data visualization templates and views</li>
+<li>
+Support activities to document, evolve, and communicate artifacts developed</li>
+<li>
+Implement row-level security for embedded reporting</li>
+</ul>
+<div></div>
+<br>
+<div>
+<b>
+Supervisory Responsibilities:</b>
+</div>
+<ul><li>None</li></ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<div><b>Job Specifications:</b></div>
+<div><b>
+Education/ Experience:</b></div>
+<ul>
+<li>
+Bachelor's degree in a technical field such as computer science, computer engineering, or related field required</li>
+<li>
+Experience or relevant training associated with relational databases, specifically SQL</li>
+<li>
+Experience or relevant training associated with consolidating information from various data sources - Oracle, MS Access, SQL, CSV</li>
+<li>
+Experience or relevant training associated with working across multiple datasets with a high degree of complex relationships</li>
+<li>
+Experience or relevant training associated with supporting numerous Business Management reports and dashboards using data visualization tools</li>
+</ul>
+<div><b>
+Skills:</b></div>
+<ul>
+<li>
+Ability to communicate complex information clearly via webcast, phone and email</li>
+<li>
+Extremely high attention to detail</li>
+<li>
+Excellent written and verbal communication skills</li>
+</ul>
+<div><b>
+Ability:</b></div>
+<ul>
+<li>
+Cognitive ability to perform complex Data Analysis</li>
+<li>
+Ability to handle multiple, conflicting deadlines</li>
+<li>
+Ability to think critically and translate data into business actions</li>
+</ul>
+<div></div>
+<br>
+<div>
+<b>
+Work Conditions/ Physical Demands:</b>
+</div>
+<ul><li>Normal office environment</li></ul>
+<div><b>
+Location(s):</b></div>
+<ul><li>
+Bethesda, MD</li></ul>
+<div><b>
+Travel:</b></div>
+<ul><li>
+0-10%</li></ul>
+<div></div>
+<br>
+<div><b>
+Liquidity Services is an Equal Opportunity Employer.</b></div>
+</div></div></div>
+</div></div>

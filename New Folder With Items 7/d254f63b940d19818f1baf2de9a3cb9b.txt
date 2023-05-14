@@ -1,0 +1,40 @@
+<h2>Senior Business Intelligence Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>5+ years of professional work experience in enterprise business setting in Data Science, Computer Science, Predictive Analytics or similar quantitative applied fields.</li>
+<li>2+ years experience and expert knowledge in SQL and at least one of the following programming languages: Python, Scala, Julia, R</li>
+<li>Experience with statistical analysis and model prototyping environments (SAS, SPSS, etc.)</li>
+<li>QuickSight, Tableau, PowerBI, or other visualization tools</li>
+</ul></div>
+<br>
+<div>About AWS:<br>
+<br>
+Amazon Web Services (AWS) provides companies of all sizes with an infrastructure web services platform in the cloud (“cloud computing”). With AWS you can requisition compute power, storage, and many other services – gaining access to a suite of elastic IT infrastructure services as your business demands them. AWS is the leading platform for designing and developing applications for the cloud and is growing rapidly with hundreds of thousands of companies in over 190 countries on the platform.<br>
+<br>
+About you:<br>
+You recognize and adopt best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation. You write high quality code to retrieve and analyze data as well as analyze and solve business problems at their root, stepping back to understand the broader context. Developing pragmatic analyses and choosing applicable solutions that add value to your business area, you understand data resources and know how, when, and which to use (and which not to use).<br>
+<br>
+By recognizing and using advanced analytical techniques to solve business problems, you develop analyses (whether fully formed or exploratory) for the business’ sake, not for analyses’ sake.<br>
+<br>
+You seek to understand the business objectives relevant to your area and align your work to those objectives and seek to deliver business value.<br>
+<br>
+What you will do<br>
+<ul>
+<li>Work with customers to define business problems and deliver minimum viable products in days and weeks.</li>
+<li>Continually improved MVPs with a regular cadence of updates.</li>
+<li>Deliver analysis and develop predictive models in an Agile development environment.</li>
+<li>Collaborate with business analysts, data engineering peers, Business operations, finance, and customers to deliver scalable consumption of analytics insights and statistics.</li>
+<li>Support the analytical needs of the team inclusive of routine reporting, statistical inference, predictive modeling, simulation, and visualization</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Advanced degree or equivalent education in statistics, economics, computer science, operational research, or another highly quantitative field.</li>
+<li>Experience with Sales, Inside Sales, Sales Operations, Business Development, HR, or Autonomous Vehicle domains</li>
+<li>Industry experience building/operating highly available, distributed systems for data analytics</li>
+<li>Strong communication skills in both technical and non-technical settings.</li>
+</ul>
+<br>
+We work hard. Have fun. Make history. Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>
+</div>

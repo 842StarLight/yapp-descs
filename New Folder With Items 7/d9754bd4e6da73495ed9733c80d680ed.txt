@@ -1,0 +1,47 @@
+<h2>IT Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>(Metro Boston)</b></h2>
+<br>
+<p>Terminal is an IT service and sales company serving a variety of small, medium, and enterprise level businesses throughout the greater Boston area. We are a previous Microsoft Certified Gold Partner and current Microsoft Certified Partner with Silver Level Competency, as well as a certified partner with Cisco, Citrix, HP, and many other software and hardware vendors.
+</p>
+<p>We are currently seeking a full-time system engineer with experience in Windows networks, including Windows Server, Active Directory, DNS, DHCP, WINS, and Group Policy management. Exposure to Linux would be a plus. The position focuses on full management of customer IT and networks, as well as complex migrations and other projects. This position requires excellent customer service skills and abilities as it will involve a high level of direct customer interaction. Our reputation for customer service is excellent and we expect every employee to meet or exceed our customers’ expectations. Engineers are also expected to be tenacious and used to thinking outside the box to solve a variety of complex and obscure problems.
+</p>
+<h3 class="jobSectionHeader"><b>Responsibilities:</b></h3>
+<ul>
+<li>Handle complex Windows network issues with zero abandonment rate or escalation.
+</li>
+<li>Prompt turn-around on scheduling and problem resolution.
+</li>
+<li>Independently manage workload and personal task schedules for multiple projects.
+</li>
+<li>Achieve and maintain a high level of industry certification.
+</li>
+<li>Keep detailed information on all open services cases in our service tracking system.
+</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Experience/Skills:</b></h3>
+<ul>
+<li>At least 3 years of experience in working with Windows networks.
+</li>
+<li>Intimate knowledge of networking basics, as well as Active Directory, DNS, DHCP, Group Policy and other basic network services.
+</li>
+<li>Experience with virtualization and a strong understanding of how virtualization functions on a network.
+</li>
+<li>Ability to troubleshoot a variety of issues including DNS resolution issues, IP address conflicts, critical service failures on production servers, disaster recovery from image based backups, etc.
+</li>
+<li>Strong customer service skills are required. You will be interacting directly with clients and they will look to you to provide support and solutions in a timely and professional manner.
+</li>
+<li>Ability to work independently is a must. We are a small company and each person is expected to handle their own workload efficiently.
+</li>
+</ul>
+<p>Additionally, any Microsoft certifications are a plus, specifically MCITP in server technologies. Experience with Microsoft Exchange, Microsoft Sharepoint, Microsoft SQL, Citrix XenDesktop, and VMWare are a plus. Through our training access, you will be expected to become certified on many of these technologies, if you are not already.
+</p>
+<p>To apply, please email your resume and a brief description of your relevant skills and experience to hr@terminal.com
+</p>
+<p>Applicants should be aware that they will be tested with various technical scenarios during the interview and their performance on these tests will heavily influence hiring decisions.
+</p>
+<p>Salary would be commensurate with the market and the position offers considerable growth potential as we have rapid plans to grow.</p>
+</div>
+<p></p>
+</div>

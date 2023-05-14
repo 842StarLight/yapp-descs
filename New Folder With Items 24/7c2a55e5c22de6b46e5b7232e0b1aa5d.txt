@@ -1,0 +1,42 @@
+<h2>Senior Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>Technical and analytical background with 7+ years of software design/development, database/analytics systems development and deployment.</li>
+<li>Experience on commercial or open source database technologies (Microsoft SQL Server, Oracle Databases, IBM DB2, MySQL, PostgreSQL, or Amazon Databases), and on different stages of the lifecycle (Schema Design, Query Tuning and Optimization, Data Migration and Integration, operational management and troubleshooting).</li>
+<li>Proven experience on development technologies in the industry (Java, .NET, Node.JS, Go, Python, PHP or other languages), and modern software architecture and development practices (Test Driven Development, Domain Driven Development, Continuous Integration / Delivery / Deployment)</li>
+<li>Strength in gathering requirements, designing data models, and experience with data visualization/BI tools</li>
+<li>Working knowledge of software development tools and methodologies</li>
+<li>Ability to learn new concepts and technologies, and apply them to provide the best business outcomes for customers</li>
+<li>Ability to formulate and communicate ideas clearly in a business environment, including presenting in front of varied internal and external audiences.</li>
+</ul>
+<br>
+<div>At Amazon Web Services, we believe cloud is the new normal and adoption of cloud technologies fuels transformative business initiatives. Our customers are interested in leveraging AWS to increase agility, improve security, reduce costs, and expand globally. AWS Solutions Architects (SA) are at the forefront of this change. SAs help our customers build highly scalable, flexible, resilient, secure, and cost-effective cloud architectures. As a trusted customer advocate, the SA helps organizations adopt advanced cloud-based solutions and migrate existing on premises workloads to the cloud. SAs have the opportunity to help shape and execute a strategy to build knowledge and broad use of AWS technologies for large, strategic customers. As part of our culture of innovation, SAs are adept at fostering partnerships with other teams within AWS such as engineering services teams, marketing, and professional services, as well as representing their team to executive management.<br>
+<br>
+The ideal candidate for this role will possess a breadth of technical knowledge as well as depth in application development and relational data modeling. A successful candidate will exhibit a firm grasp of technical fundamentals, have a background in software development, and have the ability to learn complex new technologies quickly. A “builder” who loves to tinker with technology is an asset. The ideal candidate will have demonstrated customer facing skills that will enable them to build strong relationships with our customers and help cultivate advocates of AWS within the customer’s environment. SAs possess empathy and interest in Customers' business challenges and objectives. They should be comfortable facilitating discussions with a wide range of customer personnel from enterprise architects to non-technical business owners regarding trade-offs, best practices, and risk mitigation.<br>
+<br>
+Roles and Responsibilities<br>
+<ul>
+<li>As a key member of the business development and sales team, ensure success in building and migrating applications, software, and services onto the AWS platform and educate customers of all sizes on the value proposition of AWS.</li>
+<li>Work collaboratively with Customers to understand and capture their core business objectives, distill requirements and translate them into technical solutions that are designed for successful deployment in the cloud</li>
+<li>Build trust relationships with Customer personnel with diverse business backgrounds and provide mentorship and guidance to non-technical business owners</li>
+<li>Conduct one-to-few and one-to-many training sessions to transfer knowledge to customers considering or already using AWS</li>
+<li>Capture and share best-practice knowledge amongst the AWS Solutions Architect community, including authoring and contributing to AWS customer-facing publications such as whitepapers</li>
+<li>Serve as a technical liaison between customers, service engineering and support teams.</li>
+</ul>
+<br>
+This position can be based in Seattle or San Francisco and involves up to 25% travel.<br>
+<br>
+AWS is one of Amazon’s fastest growing businesses, servicing millions of customers all over the world, reshaping the way global enterprises consume information technology, and powering the developers who are building the next generation of global industry leaders. AWS customers include some of the most innovative startups like Netflix, Airbnb, and Instagram, as well as some of the largest global enterprises like Shell, Unilever, Hitachi, Sharp, and Samsung.<br>
+<br>
+Pursuant to the San Francisco or Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>
+<br>
+<ul>
+<li>Professional experience architecting/operating solutions built on AWS</li>
+<li>Experience building scalable and performant web applications that address business needs</li>
+<li>Presentation skills with a high degree of comfort speaking with executives, IT Management, and developers</li>
+<li>Excellent communication skills with an ability to right level conversations</li>
+<li>Demonstrated ability to adapt to new technologies and learn quickly</li>
+</ul>
+</div>

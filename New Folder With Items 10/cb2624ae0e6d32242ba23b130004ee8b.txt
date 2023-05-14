@@ -1,0 +1,24 @@
+<h2>Office Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Wisdom is currently recruiting for an experienced Office Manager on behalf of a leading reinsurance data analytics software company, that has recently relocated their HQ from London to the US.</p>
+<p>Job Type: Full-time</p>
+<p>Salary: $60,000.00 to $100,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>sales: 1 year (Required)</li>
+<li>Office Administration: 5 years (Preferred)</li>
+<li>Sales And Marketing: 2 years (Preferred)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Location:</p>
+<ul><li>New York, NY (Required)</li></ul>
+<p>Language:</p>
+<ul><li>English (Required)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul><li>Health insurance</li></ul>
+</div>

@@ -1,0 +1,149 @@
+<h2>Systems Integration Test Eng I - Temp</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>KARL STORZ SE &amp; Co. KG based in Tuttlingen, Germany, is a family-owned, global company committed to benefiting humanity by advancing medical technology through innovation and education.</p>
+<br>
+<p></p>
+<p>For more than 70 years, KARL STORZ has been dedicated to earning its international reputation as a leader that designs, engineers, manufactures, and markets all its products with an emphasis on visionary design, precision craftsmanship, and clinical effectiveness.</p>
+<br>
+<p></p>
+<p></p>
+<p>
+System Integration Test Engineer I Responsibilities:</p>
+<ul>
+<li>
+<p>Develop custom software and/or use existing software to perform Integration test and measurement activities defined below.</p>
+</li>
+<li>
+<p>Provide early feedback to development team (systems engineers, software architects, etc.) on robustness of system components as they are integrated.</p>
+</li>
+<li>
+<p>Perform hardware and software integration and informal verification activities</p>
+<ul>
+<li>
+<p>‘White Box’ intrusive testing.</p>
+</li>
+<li>
+<p>‘Black Box’ verification testing</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Debug and characterize defects, providing detailed configuration and descriptions for passing and failing tests for product evaluation reports.</p>
+<ul>
+<li>
+<p>Exploratory system testing.</p>
+</li>
+<li>
+<p>Automation of software and hardware verification.</p>
+</li>
+<li>
+<p>Analyze test results to ensure existing functionality and recommend corrective action.</p>
+</li>
+<li>
+<p>Consult with system and development engineers in resolution of problems.</p>
+</li>
+<li>
+<p>Help develop verification test plans.</p>
+</li>
+<li>
+<p>Provide Software Quality Metrics.</p>
+<ul>
+<li>
+<p>Performance metrics (CPU utilization, memory usage, etc.)</p>
+</li>
+<li>
+<p>Quality metrics (bugs/release, static analysis warnings, etc.)</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Support Bench-(alpha) and Market Acceptance (Beta) testing by providing and/or updating equipment required for testing.</p>
+</li>
+<li>
+<p>Work with and assist Student Interns.</p>
+</li>
+<li>
+<p>Assists product development engineers in the diagnosis and replication of product failures.</p>
+<p>Regular attendance is an essential job function.</p>
+<p>Will spend part of his/her time as a member of continuous improvement teams undertaking projects and seeking ways to improve the quality of KSI’s products and services.</p>
+</li>
+</ul>
+<div>
+<p><b>SKILLS, KNOWLEDGE, AND LICENSE OR CERTIFICATE REQUIRED:</b></p>
+</div>
+<ul>
+<li>
+<p>Must have strong analytical skills and good technical report writing skills.</p>
+</li>
+<li>
+<p>Must have good interpersonal and communication skills, both verbal and written.</p>
+</li>
+<li>
+<p>Desired: experience with object oriented methods and languages: C++, C#, Java, etc.</p>
+</li>
+<li>
+<p>Desired: experience with Python programing language.</p>
+</li>
+<li>
+<p>Knowledge of Linux.</p>
+</li>
+<li>
+<p>Desired: familiarity with Internet technologies, communication protocols, networking, network security, and related techniques.</p>
+</li>
+<li>
+<p>Experience with Software, Hardware and Firmware Systems Integration.</p>
+</li>
+<li>
+<p>Experience with Integration Test and Software Testing.</p>
+</li>
+<li>
+<p>Self-motivated and able to produce high quality work alone or within a team.</p>
+</li>
+</ul>
+<div>
+<p><b>PHYSICAL REQUIREMENTS: (Describe the specific physical requirements necessary to accomplish the essential job functions, i.e. ability to sit or stand for long periods of time, lifting requirements, audio/visual requirements etc.)</b></p>
+<p>This position requires occasional lifting of test equipment such as a PC, monitor, camera, etc. up to approximately 30 lbs. The employee will also need to be seated and work in front of a monitor for extended periods of time.</p>
+</div>
+<div>
+<p><b>EDUCATION/EXPERIENCE: (Typical pattern of education and experience that would provide the knowledge and skills indicative of successful job performance.)</b></p>
+</div>
+<p>BS/MS in Computer Science, Electrical or Computer Engineering or related field with 0-2 years of experience in engineering / development.</p>
+<p>KSI is unable to consider No H-1B Sponsorships for this position.</p>
+<br>
+<p><br>
+Link to job posting: https://chm.tbe.taleo.net/chm01/ats/careers/requisition.jsp?org=KARLSTORZENDO&amp;cws=1&amp;rid=10215</p>
+<p>#LI-LS1</p>
+<br>
+<p></p>
+<p><b>Employee Benefits Program Overview for U.S. Locations</b></p>
+<ul>
+<li>Medical / Dental / Vision including a state of the art wellness program and pet insurance, too!*</li>
+<li>3 weeks’ vacation, 10 holidays plus paid sick time*</li>
+<li>401K retirement savings plan providing a match of 60% of the employee’s first 6% contribution</li>
+<li>Section 125 Flexible Spending Accounts</li>
+<li>Life, STD, LTD &amp; LTC Insurance</li>
+<li>Tuition reimbursement of up to $5,250 per year</li>
+<li>Fitness reimbursement up to $200 annually</li>
+<li>Employee referral program of up to $2,000 per hire</li>
+<li>And much more!</li>
+</ul>
+<ul><li><i>Field sales, internships and part-time employees are not eligible except for where required by state law.</i></li></ul>
+<i>
+Non-employees, including temporary workers and consultants, are not eligible to participate in KARL STORZ benefits program.</i><br>
+<p></p>
+<p>KARL STORZ reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship. Additionally, KARL STORZ, through its supervisors, may require an employee to perform duties outside their normal description within the sole discretion of the supervisor. Employee must comply will all applicable KARL STORZ policies and procedures.</p>
+<br>
+<p></p>
+<p><b>Equal Employment Opportunity Statement</b></p>
+<p>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability or protected veteran status. KARL STORZ is an Equal Opportunity Employer supporting EOE/M/F/Vet/Disability.</p>
+<br>
+<p></p>
+<p><b>Reasonable Accommodation</b></p>
+<p>If, at any point in the application process (including hiring), a candidate would like to request a reasonable accommodation due to a disability or a religious need, please email us at Taleo_Administrator@karlstorz.com and we'll be happy to engage in an interactive process with you.</p>
+<br>
+<p></p>
+<p><b>Notice to Employment Agencies</b></p>
+<p>This recruitment assignment is being managed directly by KARL STORZ’s Human Resources team. Human Resources will reach out to our preferred, contracted agency partners in the rare instance additional talent options are required. Your respect for this process is appreciated. KARL STORZ does not accept unsolicited Agency resumes. Resumes received which were unsolicited by KARL STORZ Human Resources department will be ineligible for referral fees.</p>
+</div></div>

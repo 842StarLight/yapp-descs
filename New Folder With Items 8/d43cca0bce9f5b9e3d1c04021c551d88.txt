@@ -1,0 +1,54 @@
+<h2>Senior Front End Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">We have a future to create, so join Aclara as we harness science and engineering to make a difference. We're at the intersection of communications, data technology, energy, and national resource engineering.
+<br><br>
+Over 800 energy and utility customers across the globe ask us to solve complex challenges from making the power grid smarter, to delivering clear water, to empowering their customers to conserve energy. We're a hardware, software, and network engineering company building new solutions to hard problems. We're big data gurus and in the field problem solvers.
+<br><br>
+Sound like your kind of challenge? Then join us. We'll offer you a great work environment and competitive benefits such as medical, dental, and vision care, flex spending, 401k, tuition reimbursement, vacation, holiday and personal time, and we're committed to diversity and our veterans.
+<br><br>
+<b>Purpose:</b><br>
+To provide senior level software design and development for a family of multi-tier 24x7 Azure Cloud hosted web applications that scale to a large number of web users and large backend databases. The applications focus on the consumer engagement through the analytics of utility usages such as billing data for electric, gas, and water consumption. Develop applications in Microsoft .NET technologies, SQL Server database, Cassandra NoSQL database, Azure Cloud Platform services, Azure Data storage, Web APIs, CSS, and JavaScript frameworks, such as Bootstrap and AngularJS. As a senior full stack developer, you will work in a scrum team. You will be responsible for design, development, testing, maintenance, and enhancements of the ACE applications written in high level languages (C#, AngularJS, T-SQL, CQL). In addition, this role includes designing, coding, and testing for web application security, performance, and scalability.
+<br><br>
+<b>Essential Functions:</b><br>
+<ul>
+<li>Work closely with SMEs and Product Management to validate functional and non-functional requirements to satisfy the product use cases.</li>
+<li>Troubleshoot and resolve production issues. This requires you to work with cross-functional teams such as Professional Services, Support, and Sales.</li>
+<li>Author and review artifacts of all phases of a project, such as: use cases, estimates, high- and low-level designs, code, and test cases to make sure they meet requirements. This requires working with the architect to ensure that product architecture is cohesive and adhering to the required functional and non-functional requirements like performance, scalability, and security.</li>
+<li>Review new product requirements, gap analysis provided by professional services, then work with the Pod leader and the Product Owner to create user stories to address these requirements and use cases.</li>
+<li>Ensure software quality responsibility through demos, creation of solid testing plans, execution and reporting on the test results.</li>
+<li>Serve as technical conduit responsible for ensuring clear communication, solid commitments, and clear accountability by all groups involved: Project Management, Product Management, Software Engineering, and the Professional Services team.</li>
+<li>Mentor junior engineers and provide them with technical oversight.</li>
+</ul>
+<b>Additional Responsibilities:</b><br>
+<ul>
+<li>Constantly interface with the Professional Services Team and clients when needed.</li>
+</ul>
+<b>Knowledge/Skills/Abilities:</b><br>
+<b>Required:</b><br>
+<ul>
+<li>Minimum of a Bachelor's Degree in Computer Science, Engineering or related field.</li>
+<li>A minimum of five (5) years of experience as a Sr. Software Engineer in the capacity of a developer working on new product development and feature enhancements.</li>
+<li>Excellent communication skills.</li>
+<li>Excellent time management skills, including multi-tasking and prioritization.</li>
+</ul>
+<b>Preferred:</b><br>
+<ul>
+<li>3+ years of experience as a Sr. Software Engineer working on new product development and feature enhancements with Cassandra as the backend. This entails having experience in Cassandra architecture, CQL, designing and monitoring Cassandra cluster using tools such as DataStax, OpsCenter.</li>
+<li>7+ years of experience coding for/in MS SQL Server, C#, ASP.NET.</li>
+<li>5+ years of experience in full stack development.</li>
+<li>Experience working in a fast pace Agile environment.</li>
+<li>Experience with NoSQL Databases, such as Cassandra.</li>
+<li>Advanced knowledge of database programming with a C derivative using MS SQL Server.</li>
+<li>Experience in a distributed development environment.</li>
+<li>Knowledge of .NET web APIs using REST Web Service development.</li>
+<li>Experience in responsive and accessible web based development; HTML, Bootstrap, AngularJS, XML, JSON, etc.</li>
+<li>Experience in performance tuning of applications.</li>
+<li>Experience with Azure Data Factory, ETL with SSIS, Power BI premium.</li>
+<li>Prior experience in the AMR/AMI industry.</li>
+<li>Experience with developing performant/scalable/high-availability systems; has addressed performance/reliability issues related to high user concurrency, deadlocks, race conditions, and database contention; developed error handling/recovery and self-correction, used tools such using CQL and SQL profiling, memory analyses, and thread dumps analyses tools.</li>
+</ul>
+<b>Physical Demand:</b><br>
+<ul>
+<li>Frequent sitting.</li>
+<li>Negligible travel may be required.</li>
+</ul>
+</div>

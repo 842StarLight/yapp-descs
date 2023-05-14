@@ -1,0 +1,53 @@
+<h2>Sr. Cloud Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Relapath LLC</b> is searching for a <b>Consultant</b> to perform as a <b>Sr. Cloud Architect</b> to leverage cloud provider platforms to drive high priority customer initiatives. Be part of a team<b> </b>that will have a tremendous impact in transforming the client’s business by leveraging cloud technology, and have the opportunity to play an integral role in shaping the company’s future. This highly visible role will leverage business knowledge, technical competence, outstanding communication and consultative capabilities in an entrepreneurial and innovative environment.
+</p>
+<p><b>The successful Sr. Cloud Architect:</b></p>
+<ul>
+<li>Very technical, have a deep history of providing exceptional customer service, and you are accountable for end-to-end customer cloud deployments. You are
+</li>
+<li>Skilled at owning technical customer engagements including architectural design sessions and proofs of concept, and able to lead deep, technical architecture and application design discussions with senior customer executives to drive cloud deployment.</li>
+<li>Built a successful point of view that is cloud enabled, cloud appropriate, and cloud ready—but you’ll never stop learning or challenging your own assumptions.
+</li>
+<li>With a team of consultants, you intuitively use your leadership skills to grow their internal cloud knowledge, capabilities, and best practices.
+</li>
+<li>With the customers, you leverage your expertise to understand the client’s problems through consultation and advisory services, align their opportunities to the needs of their business, and develop solutions that support Hybrid IT strategy.</li>
+</ul>
+<p><b>POSITION RESPONSIBILITIES:
+</b></p>
+<ul>
+<li>Drive deployment of customer workloads into Azure or AWS and into our Cloud Services Platform or public cloud solutions</li>
+</ul>
+<ul>
+<li>Increase customer consumption of cloud platforms by providing deployment guidance, supporting development of the customers’ cloud adoption model, and providing appropriate recommendations to overcome blockers</li>
+<li>Identify, validate and grow opportunities to accelerate consumption in customer accounts with high migration potential</li>
+<li>Work in partnership with the sales team, driving hybrid solution architecture and simulating compelling cloud pricing models for both Microsoft Azure, AWS, and other third-party solutions</li>
+<li>Design and update infrastructure monitoring, management plan design road map and engagement for performing migration</li>
+<li>Accelerate consumption in high-potential customer accounts by providing deep technical expertise and working collaboratively with key stakeholders to support migrating complex workloads to the cloud</li>
+<li>Automation skills, such as Portal/PowerShell/CLI Administration and Configuration for IaaS and PaaS</li>
+<li>Ability to design an architecture for cloud network deployment</li>
+</ul>
+<p><b>We would be looking for the following</b></p>
+<ul>
+<li>
+<b>5+ years of success</b> in consultative/complex technical sales and deployment projects</li>
+<li>
+<b>5+ years of architecture</b>, design, implementation, and/or support of highly distributed applications (i.e. having an architectural sense for ensuring availability, reliability, etc.)</li>
+<li>
+<b>2+ years of experience in “migrating”</b> on-premises workloads to the Microsoft Azure or AWS cloud</li>
+<li>
+<b>Deep understanding of cloud computing technologies</b>, patterns, business drivers, and emerging computing trends</li>
+<li>Successful in <b>building technical relationships with senior executives</b> and growing cloud consumption share in large or highly strategic accounts</li>
+<li>Familiarity with <b>software development lifecycle and Internet of Things (IoT) concepts</b> and designing platforms to suit specific application requirements</li>
+<li>
+<b>Ability to provide examples of providing oversight</b> of as well as successful transition to implementation support teams for major transformation projects</li>
+<li>
+<b>Ability to travel nationwide 30%</b> of the time, on average</li>
+<li>
+<b>Successful completion</b> (or candidate validation) of at least one of the <b>Microsoft Azure technical certification exams</b> (70-532, 70-533, or 70-534) or <b>certified AWS Solution Architect</b>
+</li>
+</ul>
+<p><b>Candidates for this position </b>with Relapath LLC must be legally authorized to work in the United States on a permanent basis. Verification of <b>employment eligibility</b> <b>will be required</b> at the time of hire. Visa sponsorship is not available for this position.
+</p>
+<p><b>Relapath LLC</b> is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status.</p>
+</div></div>

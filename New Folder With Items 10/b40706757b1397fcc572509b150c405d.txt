@@ -1,0 +1,56 @@
+<h2>Systems Application Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Please Note:
+</b></p>
+<p><b>1. If you are a first time user, please create your candidate login account before you apply for a job. (Click Sign In &gt; Create Account)
+</b></p>
+<p><b>2. If you already have a Candidate Account, please Sign-In before you apply.
+</b></p>
+<p></p>
+<p><b>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, citizenship, disability or protected veteran status.
+</b></p>
+<p></p>
+<h2 class="jobSectionHeader"><b>Job Description:
+</b></h2>
+<p></p>
+<h1 class="jobSectionHeader"><b>Responsibilities include
+</b></h1>
+<p>Analyze, debug, &amp; root cause issues found within Broadcom’s PCIe switch products and work with appropriate development teams (firmware, software, IC hardware, or board hardware) to provide a solution.
+</p>
+<p>Provide guidance to OEM customers on properly integrating Broadcom’s PCIe switch products into GP-GPUs, AI/ML platforms, storage servers and custom designs. Guidance consists of architecture reviews, schematic reviews, design-in support and training customers on product features.
+</p>
+<p>Develop product documentation for use by customers implementing PCIe switch.
+</p>
+<h1 class="jobSectionHeader"><b>Other duties include
+</b></h1>
+<p>Develop software tools and methods to improve debug efficiency and customer satisfaction.
+</p>
+<p>Train field sales and support staff in the features and uses of Broadcom PCIe switch products.
+</p>
+<p>Occasional travel, some of which may be international.
+</p>
+<h1 class="jobSectionHeader"><b>Requirements/Qualifications
+</b></h1>
+<p>Experience with firmware, software, hardware and PCIe protocol level debug.
+</p>
+<p>Experience developing and debugging C code.
+</p>
+<p>Prior experience in embedded SW debug or development (firmware, drivers, BIOS ) using PCIe technology.
+</p>
+<p>Skilled in organizing information.
+</p>
+<p>Self-motivated and a strong self-driven learner who learns new technologies quickly
+</p>
+<p>Good written and verbal communications skills
+</p>
+<p>Strong interpersonal skills. Must be able to communicate complex technical solutions with the customer and internal teams
+</p>
+<p>Bachelor of Science in Computer Engineering or related field plus 8 years of relevant experience (or Masters Degree in related field plus 6 years of relevant experience).
+</p>
+<h1 class="jobSectionHeader"><b>Desirable, but not required skills
+</b></h1>
+<p>Experience with SAS/SATA protocols, RAID, ARM or PPC embedded processors, logic analyzers, and oscilloscopes
+</p>
+<p></p>
+<p><b>If you are located outside USA, please be sure to fill out a home address as this will be used for future correspondence.</b></p>
+</div></div>

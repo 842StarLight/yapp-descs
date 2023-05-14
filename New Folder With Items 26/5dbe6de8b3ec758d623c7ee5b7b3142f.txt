@@ -1,0 +1,57 @@
+<h2>Director, Application Development</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Director, eCommerce Application Development – </b><i>Direct Hire, On-Site, Bonus Eligible, Orlando FL</i></p>
+<p>The Director of eCommerce Application Development will be responsible for supervising and guiding all application development initiatives, enterprise-wide. As the leader of a small team, you'll have sufficient flexibility and autonomy designing and deploying solutions while working to make delightful user experiences while optimizing day-to-day company app dev workflows. You will build out, lead &amp; mentor a high performance software engineering team tasked with delivering a sincerely disruptive product. The current stack uses AWS, Python, Django and PostgreSQL, and demonstrable Senior/Lead level experience developing with these technologies is required for consideration. This is a highly visible management role with additional responsibilities that span cost, timeline, funding and staffing determinations. To be clear, this role will sit, full-time, on-site in Orlando, FL NOT Tampa. Seeking qualified Tampa area candidates seeking relocation.</p>
+<p><b>Key Responsibilities: </b></p>
+<ul>
+<li>Lead the architecture, design, and development of applications from design through release.</li>
+<li>Lead the development of new features with complex components.</li>
+<li>Effectively steward the design of scalable architecture.</li>
+<li>Work in an Agile/Scrum, TDD environment</li>
+</ul>
+<p><b>Skill &amp; Experience Requirements: </b></p>
+<ul>
+<li>4Y College Degree, CS/IS</li>
+<li>Min 6-8 years total experience in application developement/SaaS-based workflows/SDLC</li>
+<li>Min 4+ years of recent Python/Django development experience required</li>
+<li>Experience deploying web apps to AWS (EC2, S3 etc)</li>
+<li>Sound knowledge of PostgreSQL</li>
+<li>The ability to embrace challenge and ambiguity</li>
+<li>The ability to inspire, lead by example and grow a high-performance team from the ground up</li>
+<li>Ability to align workflows with other cross-functional business segments including Sales, Marketing, Customer Success, DevOps and Business Intelligence to optimize efficiency when solutions go to market</li>
+<li>Ability to breakdown complex requirements into independent components, modules, tasks &amp; strategies</li>
+<li>Outstanding communication with stakeholders regarding delivery goals and status updates throughout the SDLC.</li>
+<li>Strong knowledge of data structures, algorithms, distributed systems, and asynchronous architectures</li>
+<li>Knowledge of software engineering best practices, including coding standards, code reviews, source control management, build processes, testing &amp; CI/CD</li>
+<li>Deep understanding of workflows related to pull requests, merge strategies, deployments</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $130,000.00 to $150,000.00 /year</p>
+<p>Experience:</p>
+<ul><li>Python/Django: 4 years (Preferred)</li></ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Location:</p>
+<ul><li>Orlando, FL (Required)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Parental leave</li>
+</ul>
+<p>This Company Describes Its Culture as:</p>
+<ul>
+<li>Innovative -- innovative and risk-taking</li>
+<li>People-oriented -- supportive and fairness-focused</li>
+<li>Team-oriented -- cooperative and collaborative</li>
+</ul>
+<p>Schedule:</p>
+<ul><li>Monday to Friday</li></ul>
+</div>

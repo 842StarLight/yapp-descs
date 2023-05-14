@@ -1,0 +1,106 @@
+<h2>Voice Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h1 class="jobSectionHeader">
+<b>Voice Architect</b><br>
+<br>
+</h1>Directs, establishes, maintains, and plans the overall direction and goals for assigned solution sets or product divisions for telecommunications and connectivity solutions. Drives product roadmap and backlog activities while owning and enforcing profit and loss responsibilities for a multi-million-dollar solution set. Coordinate and negotiate product issues with the engineering, operations, marketing, training and sales groups, as well as third-party vendors and carriers. Interacts with sales, development, operations and product marketing to define requirements, and directs interaction with engineering and QA on product development activities. Defines the requirements and manages the product development process by translating user requirements and customer support feedback into feature/function requirements. May work as a manager of other product managers or as an individual contributor. Relies on experience and judgment to plan and accomplish goals.<br>
+<br>
+<b>As a Voice Architect, a Typical Day Might Include the Following:</b><div><div><ul>
+<li>
+Provides overall design for voice services, R&amp;D product consultation and escalation support (Tier 4) for the operations teams</li>
+<li>
+Research and document new products and tools, interact with vendors on ongoing basis with vendors for the purpose of investigating new equipment and services and resolving pending platform challenges</li>
+<li>
+Research and create the standards providing for secure and high performance voice services, including the monitoring, reporting and QA practices</li>
+<li>
+Research, evaluate, and approve hardware and software solutions for complex problems; work with third party</li>
+<li>
+Drive product roadmaps based upon research recommendations</li>
+<li>
+Communicates changes to standards and design as needed, including necessary training</li>
+<li>
+Monitors, measures and reports on the health and scalability of the production network; Communicates to management relevant usage and actions needed</li>
+<li>
+Ability to initiate and complete projects with minimal direction and guidance</li>
+<li>
+Ability to manage multiple conflicting priorities, commitments and projects; Responsibilities will vary based on the project scope and deliverables</li>
+<li>
+Ability to influence and drive consensus on multiple technical views</li>
+<li>
+Ability to work under pressure</li>
+<li>
+Ensures system availability, redundancy, security, and performance of equipment and functions</li>
+<li>
+Document Network Architecture and Topology changes, and implement automated backup of configuration files</li>
+<li>
+Excellent time management skills</li>
+<li>
+Analytical thinking and problem solving skills</li>
+<li>
+Ability to be pro-active with a sense of urgency</li>
+<li>
+Must be an example to other engineers and willing to train / mentor</li>
+<li>
+Manages other engineers performing implementation activities</li>
+<li>
+Excellent interpersonal communication skills (verbal and written)</li>
+<li>
+Work with internal and external customers to understand current and future requirements and develop scalable, cost efficient voice networks</li>
+</ul></div></div>
+<br>
+<b>
+To Land This Gig You'll Need:</b><br>
+<br>
+<ul>
+<li>B.S. or M.S. degree in computer science, engineering or related discipline, or equivalent combination of education and experience</li>
+<li>
+Certifications must show an expert level of training on SIP and TDM</li>
+<li>
+10+ years experience installing / supporting networks based on T1, DS3, Fiber / Optical, DSL, Ethernet, ATM, Frame Relay, and Ethernet</li>
+<li>
+7+ years experience architecting/designing networks for integrated voice (VoIP &amp; TDM) and data networks.</li>
+<li>
+Must have knowledge of Telecommunications wiring; hands on experience preferred</li>
+<li>
+Expert level knowledge of VOIP/SIP</li>
+<li>
+Expert level experience with IP administration and management</li>
+<li>
+Expert level experience with administration and management for at least 2 technology vendors such as: Sonus, Lucent, Acme Packet, Cisco</li>
+<li>
+Complete understanding of TCP/IP and how it applies to troubleshooting</li>
+<li>
+Experience with Network Sniffer Technologies and Capture Tools</li>
+<li>
+Experience with Network Monitoring/Management systems</li>
+<li>
+Testing, provisioning, operations and emergency response for ongoing VOIP network operations</li>
+<li>
+Conceptual understanding of Routers, Switches, Hubs, Firewalls, Domains, DNS, DHCP, and Subnets<br>
+</li>
+</ul>
+<br>
+<br>
+<br>
+<br>
+<b>Bonus Experience:</b><br>
+<ul>
+<li>CCVP or CCDP; CCIE - Voice preferred</li>
+<li>
+Solaris administration</li>
+<li>
+Linux administration</li>
+<li>
+Knowledge of Call Center and NOC metrics</li>
+<li>
+HIPAA Security</li>
+<li>
+ITIL Certification or proven experience working in an ITIL environment</li>
+<li>
+Emergency Responder (e911)</li>
+<li>
+Experience with services such as L2VPN, L3VPN, and VPLS preferred</li>
+</ul>
+<br>
+<b>
+ABOUT NICE inContact:</b> NICE inContact makes it easy and affordable for organizations around the globe to provide exceptional customer experiences while meeting key business metrics. NICE inContact provides the world’s #1 cloud customer experience platform, NICE inContact CXone™, combining best-in-class Omnichannel Routing, Workforce Optimization, Analytics, Automation and Artificial Intelligence on an Open Cloud Foundation. NICE inContact is a part of NICE (Nasdaq: NICE), the worldwide leading provider of both cloud and on-premises enterprise software solutions.</div></div>

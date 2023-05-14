@@ -1,0 +1,71 @@
+<h2>Business Intelligence Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><div>
+<p><b>GENERAL DESCRIPTION – PURPOSE OF ROLE:</b></p>
+<p>
+Blue Buffalo is looking for an individual to mature an existing BI function. As a Business Intelligence Developer you will be engaging directly with business teams consisting of product development, marketing, sales, customer service etc. and developing elegant reporting solutions to help them fully understand their data, derive valuable insights and drive business change. Individual is responsible for the design, development and programing of systems to consolidate and analyze data from multiple internal sources and to integrate unstructured, diverse data sources to generate actionable solutions.</p>
+</div></div>
+<p></p>
+<br>
+<div><div>
+<p><b>
+ESSENTIAL FUNCTIONS:</b></p>
+<ul><li>Support the Business Operations process, focused on data driven deliverables as they pertain to business goals.</li></ul>
+<ul><li>Provide actionable business insight through data analysis and reporting.</li></ul>
+<ul><li>Provide insights and own reporting solutions, data validation, and presenting data in a format that allows the team</li></ul>
+<p>
+ and management to make strategic decisions.</p>
+<ul><li>Research, Validate and maintain data to develop reports and scorecards aligned to business needs and ongoing</li></ul>
+<p>
+ team initiatives.</p>
+<ul><li>Build interfaces between the business intelligence systems and other business applications to maintain a timely</li></ul>
+<ul><li>and accurate integration of data.</li></ul>
+<ul><li>Develop and maintain testing plans to ensure data integrity throughout business intelligence landscape.</li></ul>
+</div></div>
+<p></p>
+<br>
+<div><div>
+<p><b>
+OTHER RESPONSIBILITIES AS REQUESTED:</b></p>
+<ul><li>Ability to drive impact by thoughtfully tackling open-ended problems.</li></ul>
+<ul><li>Collaborate and work with data analysts in various departments to ensure that data meets their reporting and</li></ul>
+<p>
+ analysis needs.</p>
+<ul><li>Provide technical guidance for design and implementation of data governance systems and policy.</li></ul>
+<ul><li>Collaborate and work with data analysts in various departments to ensure that data meets their reporting and</li></ul>
+<ul><li>analysis needs.</li></ul>
+</div></div>
+<p></p>
+<br>
+<div><div>
+<p><b>
+QUALIFICATIONS:</b></p>
+<ul><li>5+ years’ experience in business / customer intelligence, business analysis, or database marketing</li></ul>
+<ul><li>Analytical, creative, and innovative approach to solving problems</li></ul>
+<ul><li>Demonstrates knowledge of Data Warehouse concepts (e.g. Data Marts, Facts/Dimension tables, Star schema etc.)</li></ul>
+<ul><li>Must be able to work in an environment with free-roaming companion pets.</li></ul>
+</div></div>
+<p></p>
+<br>
+<div><div>
+<p><b>
+PREFERRED SKILLS, COMPETENCIES AND EXPERIENCE:</b></p>
+<ul><li>Positive, people-oriented, and energetic attitude</li></ul>
+<ul><li>Excellent organizational skills with attention to detail</li></ul>
+<ul><li>Ability to clearly explain technical and analytical information (verbally, written &amp; in presentation format)</li></ul>
+<ul><li>Ability to provide total analytic support which includes data extraction, developing reports and synthesizing data</li></ul>
+<ul><li>Pet parent preferred</li></ul>
+</div></div>
+<p></p>
+<br>
+<div><div>
+<p><b>
+EDUCATION REQUIREMENTS:</b></p>
+<ul><li>BS or MS of degree in Computer Science, Information Technology, Engineering or related field is required.</li></ul>
+<ul><li>At least 3-5 years of experience in ETL tools in SAP BODS or related tools like Microsoft Analytical Services, Informatica, Data Stage.</li></ul>
+<ul><li>Experience with SQL and SAP Business Objects tools or related application (e.g. Cognos, Business Objects SAS, Microsoft Analytical Services)</li></ul>
+</div></div>
+</div>
+<p></p>
+</div>

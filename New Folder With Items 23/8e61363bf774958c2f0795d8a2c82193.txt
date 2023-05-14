@@ -1,0 +1,74 @@
+<h2>Enterprise Cloud Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>An Enterprise Cloud Solutions Architect is a principal technical adviser to help craft and execute strategies to drive adoption and use of Cloud services among SHI’s largest enterprise customers. This role requires technical acumen and customer-facing skills to effectively represent SHI within a customer’s environment and drive discussions with their senior leadership regarding cloud strategy and provide advocacy and strategic technical guidance to help plan and build solutions using best practices. Ent CSA interfaces with enterprise architects to understand business drivers and assess application portfolios ensuring that cloud solutions are highly scalable, flexible and resilient. This will help executives embrace agility and deliver high impact transformation. The close relationships developed with customers will allow SHI to understand their business needs and technical challenges and help them achieve the greatest value from SHI’s wide array of services.<br>Examples would be implementing AWS or Azure Cloud Adoption Frameworks, Well Architected Reviews, Design Workshops and other core best practices as well as bringing to the forefront emerging solutions like Landing Zones, VMC on AWS and AWS Outposts. This helps in establishing a thought leadership position and early insight into future customer plans.</p>
+<p>Working jointly with the SHI services delivery teams, Ent CSA ensures a customer’s experience working with SHI is served from both a technical and day-to-day support aspect. The Ent CSA must display executive presence and confidence to manage executive relationships internally and with the customer to create business transformation.</p>
+<p><b>Responsibilities/Job Function</b></p>
+<ul>
+<li>Guide strategic customers as they design and implement cloud projects ranging from cloud deployments to cloud transformations through on-site and remote engagements</li>
+<li>Provide technical leadership in a pre-sales and post-sales capacity for customers to support successful understanding, evaluation and adoption of Cloud technologies</li>
+<li>Identify and drive new customer project initiatives and opportunities</li>
+<li>Provide escalated level of support for customer satisfaction and critical customer operational issues</li>
+<li>Align with customers on their short and long term business objectives, and assist with the technologies to get them there</li>
+<li>Maintain strong relationships with local account managers from cloud providers</li>
+<li>Stay on top of top business trends affecting key accounts and understand their competition</li>
+<li>Research industry trends and make appropriate technical recommendations</li>
+<li>Build reference architectures, frameworks, solutions, how-to articles, and prototypes for customers</li>
+<li>Understand competitive landscape of cloud providers</li>
+<li>Architect migration of workloads from traditional data centers to Public Cloud environments</li>
+<li>Plan and coordinate with SHI Account Executives and Cloud Services teams for expanding the use of SHI services within strategic customers on a weekly basis</li>
+<li>Think long term with clients on one, three and five year plans</li>
+<li>Review best practices around cloud architectures with customers</li>
+</ul>
+<p><b>Qualifications/Minimum Skills Required</b></p>
+<ul><li>10+ years’ hands-on support of business-critical IT infrastructure that includes design/admin/implementation/management. At least five of those years should be in cloud technologies.</li></ul>
+<ul>
+<li>Baseline Security/Compliance understanding relative to Cloud technology</li>
+<li>Have a strong understanding of enterprise technology adoption. The ideal candidate will have experience working as a technical leader that has personally brought material change to an organization.</li>
+<li>Ability to identify key personnel in client’s org chart, namely key decision makers, directors with budgets to invest, project champions, early adopters</li>
+<li>Proven ability to explain transformational concepts to executive decision makers and influence their technology strategy.</li>
+<li>Fluency with cloud-native application architectures (PaaS, microservices, containerization, serverless computing, API design patterns)</li>
+<li>Ability to develop automation scripts using PowerShell, Lambda or other similar vendor specific tools</li>
+<li>Ability to travel up to 50% - 75% of the time</li>
+<li>Excellent verbal and written communication skills</li>
+</ul>
+<p><b>Preferred Skills: </b></p>
+<ul><li>Professional level AWS, Azure or GCP technical certifications</li></ul>
+<p><b>Education/Certifications: </b></p>
+<ul><li>Bachelor’s Degree in Computer Science, Math, or related disciplines</li></ul>
+<p><b>About SHI</b></p>
+<p><i>Innovative Solutions. World Class Support.</i></p>
+<p>Constantly growing in response to the needs of our customers in all sectors and verticals, SHI has transformed itself from a $1 million "software-only" regional reseller into a $10 billion global provider of information technology products and services.</p>
+<p>From software and hardware procurement to deployment planning, configuration, data center optimization, IT asset management and cloud computing, SHI offers custom IT solutions for every aspect of your environment.</p>
+<p>Privately-held and under the guidance of our current ownership since 1989, SHI has experienced tremendous growth in size and scope through neither merger nor acquisition. Our organic growth and two decades of stability are a direct result of backing a highly-skilled and tenured sales force with software volume licensing experts, hardware procurement specialists and certified IT services professionals.</p>
+<p>Headquartered in Somerset, NJ, SHI supports their clients from over 30 offices throughout the U.S., Canada, the U.K., Germany, France and Hong Kong. SHI’s goal is to foster long-term, mutually-beneficial relationships with its customers and partners, every day.</p>
+<p><b>What SHI Can Offer: </b></p>
+<ul>
+<li>World Class Facility includes on site gyms, restaurants and community events</li>
+<li>Ongoing opportunities for personal and professional growth and development due to our strong promote from within philosophy</li>
+<li>Work in an up-beat, creative, and fun environment</li>
+<li>Benefits, include medical, vision, dental, 401K, and flexible spending</li>
+</ul>
+<p><b><i>Equal Employment Opportunity – M/F/Disability/Protected Veteran Status</i></b></p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Hands-on support of business-critical IT Infrastructure: 10 years (Required)</li>
+<li>Cloud Technology: 5 years (Required)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+</ul>
+</div>

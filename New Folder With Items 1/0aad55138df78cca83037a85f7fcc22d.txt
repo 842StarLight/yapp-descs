@@ -1,0 +1,107 @@
+<h2>Data Engineer - SQL / Big Data / Cloud</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p><b>Your Opportunity</b></p>
+<p>
+Denodo is always looking for technical, passionate people to join our Services Engineering team. We want a professional who will travel, consult, develop, train and troubleshoot to enhance our clients’ journey around Data Virtualization.<br>
+</p>
+<p>
+Your mission: to help people realize their full potential through accelerated adoption and productive use of Denodo solutions.<br>
+</p>
+<p>
+In this role you will successfully employ a combination of high technical expertise and client management skills to conduct on-site and off-site consulting, product implementation and solutions development in either short or long-term engagements being critical point of contact for getting things done among Denodo, partners and client teams.<br>
+</p>
+<p><b>
+Duties &amp; Responsibilities</b><br>
+</p>
+<ul>
+<li>
+Obtain and maintain strong knowledge of the Denodo Platform, be able to deliver a superb technical pitch, including overview of our key and advanced features and benefits, services offerings, differentiation, and competitive positioning.<br>
+</li>
+<li>Constantly learn new things and maintain an overview of modern technologies.</li>
+<li>
+Be able to address a majority of technical questions concerning customization, integration, enterprise architecture and general feature / functionality of our product.</li>
+<li>
+Capable of building and/or leading the development of custom deployments based and beyond client’s requirements.</li>
+<li>
+Provide timely, prioritized and complete customer-based feedback to Product Management, Sales, Support and/or Development regarding client’s business cases, requirements and issues.</li>
+<li>
+Train and engage clients in the product architecture, configuration, and use of the Denodo Platform.</li>
+<li>
+Promote knowledge and best practices while managing deliverables and client expectations.</li>
+<li>
+Manage client expectations, establish credibility at all levels within the client and build problem-solving partnerships with the client, partners and colleagues.</li>
+<li>
+Provide technical consulting, training and support.</li>
+<li>
+Develop white papers, presentations, training materials or documentation on related topics.</li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+<p><b>Required Skills</b></p>
+<p></p>
+<ul>
+<li>
+BS or higher degree in Computer Science.<br>
+</li>
+<li>Solid understanding of SQL and good grasp of relational and analytical database management theory and practice.</li>
+<li>
+Knowledge in Java software development, especially in the database field.</li>
+<li>
+Good knowledge of JDBC, XML and Web Services APIs.</li>
+<li>
+Excellent verbal and written communication skills to be able to interact with technical and business counterparts.</li>
+<li>
+Active listener.</li>
+<li>
+Strong analytical and problem solving abilities.</li>
+<li>
+Lots of curiosity. You never stop learning new things.</li>
+<li>
+Creativity. We love to be surprised with innovative solutions.</li>
+<li>
+Willingness to travel around 50%.</li>
+<li>
+Be a team worker with positive attitude.</li>
+</ul>
+<p><b>
+We Value</b></p>
+<ul>
+<li>
+Experience working with Java frameworks.<br>
+</li>
+<li>Experience working with GIT or other version control systems.</li>
+<li>
+Experience working with BigData and/or noSQL environments like Hadoop, mongoDB, ...</li>
+<li>
+Experience working with caching approaches and technologies such as JCS.</li>
+<li>
+Experience in Windows &amp; Linux (and UNIX) operating systems in server environments.</li>
+<li>
+Business software implementation and integration projects (e.g. ETL/Data Warehouse architectures, CEP, BPM).</li>
+<li>
+Integration with packaged applications (e.g. relational databases, SAP, Siebel, Oracle Financials, Business Intelligence tools, …).</li>
+<li>
+Industry experience in supporting mission critical software components.</li>
+<li>
+Experience in attending customer meetings and writing technical documentation.</li>
+<li>
+Foreign language skills are a plus.</li>
+</ul>
+<br>
+Additional Information<br>
+<br>
+<p><b>Employment Practices</b></p>
+<ul>
+<li>
+We are committed to equal employment opportunity.</li>
+<li>
+We respect, value and welcome diversity in our workforce.</li>
+<li>
+We do not accept resumes from headhunters or suppliers that have not signed a formal fee agreement. Therefore, any resume received from an unapproved supplier will be considered unsolicited, and we will not be obligated to pay a referral fee.</li>
+</ul>
+</div>
+</div>

@@ -1,0 +1,49 @@
+<h2>SENIOR ENGAGEMENT MANAGER - FEDERAL</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Basic Qualifications:<br>
+<ul>
+<li>7+ years of customer-facing, large scale IT implementation consulting experience. Must be able to represent AWS within the customer’s environment and drive discussions with senior personnel regarding trade-offs, best practices, project management and risk mitigation</li>
+<li>5+ years of experience with software development life cycle (SDLC) and Agile/iterative methodologies required</li>
+<li>5+ years of experience with IT compliance and risk management requirements (eg. security, privacy, SOX, HIPPA etc.)</li>
+<li>BS degree</li>
+</ul>
+</div>
+<br>
+<div>At Amazon Web Services (AWS), we’re hiring a Senior Engagement Manager to lead AWS consultants, partners, and client teams within the Public Sector space, specifically Fed Civ. Engagement Managers, manage and deliver AWS cloud products and services that enable our customers to realize their business objectives. These professional services engagements focus on the full platform of AWS customer solutions to help our customers and partners remove constraints and accelerate their journey to AWS.<br>
+<br>
+AWS Professional Services engage in a wide variety of projects for customers and partners, providing collective AWS customer experience, best practices, and obsessing about strong success for the Customer. Our team collaborates across the entire AWS organization to bring access to product, service, and training teams, to deliver the right solutions and drive feature innovations for our customers across all industries. Engagement Managers help Customers make decisions to meet their technical and business objectives by providing best practices, proactively identifying and closing project gaps.<br>
+Responsibilities:<br>
+<ul>
+<li>Collaborating with AWS field sales, pre-sales, training and support teams to seek to understand our customer’s needs, their business, how success is defined, and ensure that we are exceeding expectations in delivery and developing valued solutions.</li>
+<li>Possesses a deep knowledge of project management methodologies and best practices and how to apply them in an effective yet pragmatic way across large, complex enterprise-wide projects.</li>
+<li>Understanding of technology principles and services including infrastructure, business applications, data management, security, application platforms and consumer facing technology.</li>
+<li>Leading individuals, teams or multiple groups and play an active role in analyzing project goals, creating a plan to achieve those goals, and then driving the AWS team members, customer stakeholders/SMEs and potentially other third parties to achieve those goals while understanding the client environment and any limitations to execution.</li>
+<li>Developing strategic business cases.</li>
+<li>Planning, organizing, and managing all phases of a project lifecycle to ensure successful delivery. This includes developing and managing project governance plans, project schedules, team goals, defining success criteria, project milestones, and budgets.</li>
+<li>Plays an active role in managing project goals and driving teams to achieve customers’ business outcomes by managing issues, risks, decisions, and action items.</li>
+<li>Interfaces with various customer and internal AWS stakeholders which consists of senior leadership teams (C-level execs, SVP/VP, Directors) and project level resources such as SMEs.</li>
+<li>Plans and oversees the preparation and dissemination of project communications.</li>
+<li>Proven success in working with teams and executive leadership in a complex, global company environment.</li>
+<li>Team player who effectively integrates, motivates and builds relationships with cross-functional team members (local or remote), sponsors, key stakeholders, executives, and other individuals or organizations involved with or affected by the project.</li>
+<li>Working cross functionally in a matrix environment, managing multiple stakeholders.</li>
+<li>Navigating highly political environments.</li>
+<li>The position may require up to 50% travel to customer sites in the US. Proximity to a major US airport is preferred.</li>
+</ul>
+</div>
+<br>
+<div>Preferred Qualifications:<br>
+<ul>
+<li>BS in Computer Science or Math background preferred</li>
+<li>Professional project management certification (PMP)</li>
+<li>Demonstrated experience with implementing AWS services in a variety of distributed computing environments</li>
+<li>AWS certifications</li>
+<li>Demonstrated experience integrating AWS cloud services with on-premise technologies from Microsoft, IBM, Oracle, HP, SAP etc.</li>
+<li>Masters degree in Computer Science or related field</li>
+<li>Meets/exceeds Amazon’s leadership principles requirements for this role.</li>
+<li>Meets/exceeds Amazon’s functional/technical depth and complexity for this role.</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.<br>
+<br>
+Amazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success and we make recruiting decisions based on your experience and skills. We welcome applications from all members of society irrespective of age, gender, disability, sexual orientation, race, religion or belief.</div>
+</div>

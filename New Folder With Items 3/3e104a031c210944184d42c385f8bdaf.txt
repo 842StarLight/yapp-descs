@@ -1,0 +1,46 @@
+<h2>Software / Controls Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Since creating the very first air shaft, Tidland Corporation - a Maxcess International Company - has been committed to providing our customers with the best products and service. We manufacture components and systems for converting industries, offering the broadest range of equipment for slitting and winding paper, plastic film, metal foils and non-woven materials.</p>
+<p>This position is expected to develop expert knowledge of slitting applications &amp; the potential solutions that Maxcess can provide its customers. During the quoting phase of new capital projects the incumbent is expected to support Sales on the technical &amp; performance aspects. This position is responsible for the specification, development, testing, deployment and support of software applications that are routinely customized to meet user requirements and project needs. The creation of software code entail approximately 50% to 60% of the incumbent’s time, the remainder is testing out the newly developed code on the electro-mechanical system itself and interfacing directly with customers creating solutions to improve their operating effectiveness.</p>
+<p>Job Responsibilities will include:</p>
+<ul>
+<li>Write and maintain high quality object-oriented Windows / Embedded Linux application code (MFC/C++/.NET) and documentation to fulfill project and customer requirements. Software involves user interface, motion control, I/O control, algorithm optimization, serial communication, and Ethernet communication.</li>
+<li>On-site support and installation of automated control systems using electrical, mechanical, and software experience. Travel is required up to 15%.</li>
+<li>In-house and on-site customer training and troubleshooting.</li>
+<li>Interaction and coordination with marketing, sales, electrical, mechanical, production personnel and customers throughout the production cycle.</li>
+<li>Support the development of new product offerings.</li>
+</ul>
+<p>Job Qualifications/Experience &amp; Technical Skills:</p>
+<ul>
+<li>Bachelor’s degree or an Associate’s degree from a recognized college or university.</li>
+<li>Minimum of 3 years related experience with Bachelor’s degree or 5 years related experience with Associate’s degree.</li>
+<li>Mechanical aptitude and electrical experience</li>
+<li>Understanding of PLC controller interfaces and ladder logic</li>
+<li>Troubleshooting skills with software and electrical components</li>
+<li>Experience using motion control and servo drive systems</li>
+<li>Ability to support older DOS based systems to most current Windows version and Linux</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Able to manage multiple concurrent projects</li>
+<li>EPICOR / ERP system knowledge a plus.</li>
+</ul>
+<p>Maxcess offers competitive pay and benefits including; Bonus plans, Wellness Program, Health, Dental and Vision, Paid Vacation, Holidays and Sick leave, Disability, Life and AD&amp;D, 401(k) with Matching Contributions, Flexible Spending Accounts, Health Savings Accounts and Tuition Reimbursement.</p>
+<p>All employment offers are contingent upon successful completion of our pre-employment background/criminal check, physical and drug screen.</p>
+<p>We are proud to be an Equal Opportunity Employer! No phone calls or 3rd party recruiters.</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>related engineering: 3 years (Required)</li></ul>
+<p>Language:</p>
+<ul><li>English (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Benefits offered:</p>
+<ul>
+<li>Paid time off</li>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Healthcare spending or reimbursement accounts such as HSAs or FSAs</li>
+<li>Other types of insurance</li>
+<li>Retirement benefits or accounts</li>
+<li>Education assistance or tuition reimbursement</li>
+</ul>
+</div>

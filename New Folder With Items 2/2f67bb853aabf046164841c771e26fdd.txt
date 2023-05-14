@@ -1,0 +1,118 @@
+<h2>Senior Security Engineer - Tools & Technology</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Innovate to solve the world's most important challenges</p>
+<div>Are you a cyber professional who desires to make a difference in the everyday security of people? Someone who wants to drive real improvements into real products in an environment that with strong organizational support for product security?</div>
+<div>
+</div>
+<div>
+Honeywell is a Fortune 100 company with global sales surpassing $40B and has been one of Fortune’s Most Admired Companies for over a decade. Through innovation the company brings together the physical and digital world to tackle some of the toughest societal and business problems – making the world a more productive, safe and sustainable place. The business is organized into five primary groups: Aerospace; Building Technologies; Performance Materials and Technologies; Safety and Productivity Solutions; and the Connected Enterprise.</div>
+<div>
+</div>
+<div>
+<b>
+Honeywell Building Technologies (HBT)</b> is a global leader for products and technologies that are installed in more than 10 million buildings worldwide. These offerings support building owners and occupants to ensure their facilities are safe, comfortable, and sustainable. Honeywell is a pioneer in the Internet of Things, developing the next generation of connected offerings. The <b>Security Engineer – Tools &amp; Technology</b> reports to the Global Product Security Tools and Technology Leader and will be responsible to provide drive hardware selection, configuration, design, and process improvements within our products; and to provide mentoring and guidance to other team members.</div>
+<div></div>
+<div><b><i>
+</i></b></div>
+<div><b><i>
+As a key member of our growing product security team, you'll leverage your proven experience and...</i></b></div>
+<ul>
+<li>
+Drive product security process activities to incorporate effective security for all software and firmware development in HBT</li>
+<li>
+Develop HBT standards for product security beginning with component selection and continuing through layout, testing, and processor configuration</li>
+<li>
+Lead efforts with the security teams to ensure they are getting effective, affordable, and understandable methods to properly design and develop our products</li>
+<li>
+Partner with the development teams to enable them to integrate the standards into their continuous delivery processes</li>
+<li>
+Provide product security related coaching/mentoring and security expertise for all software and firmware development teams in HBT</li>
+<li>
+Lead proof of concept exploit efforts against select products and platforms</li>
+<li>
+Participate in select, high profile penetration testing projects with executive report outs</li>
+</ul>
+<div><b>YOU MUST HAVE:</b></div>
+<ul>
+<li>
+Bachelors degree
+</li>
+<li>4 years of cyber security engineering experience</li>
+<li>
+1 year of professional penetration testing or equivalent</li>
+</ul>
+<div><b>
+WE VALUE:</b></div>
+<ul>
+<li>
+Passion for working with development teams to make more secure, harder to defeat products</li>
+<li>
+Familiarity with most of the following with subject matter expertise in at least one:<ul>
+<li>
+Jenkins / Bamboo</li>
+<li>
+JTAG</li>
+<li>
+I2C</li>
+<li>
+Ghidra or IDA Pro</li>
+<li>
+Secure ARM A9 / M4 / M43 Microprocessor Configuration</li>
+<li>
+ARM TrustZone / TPM or similar devices</li>
+<li>
+Printed Circuit Board Layout for Security</li>
+<li>
+Protocol Analysis and Exploitation</li>
+<li>
+Software Defined Radios</li>
+<li>
+Kali Linux</li>
+<li>
+Python</li>
+<li>
+FreeRTOS / QNX</li>
+<li>
+C / C++</li>
+<li>
+REST API</li>
+<li>
+DevSecOps</li>
+</ul>
+</li>
+<li>
+Additional penetration testing experience, especially if focused in the device space</li>
+<li>
+Extensive knowledge of ARM-based microcontrollers and how to attack / defend devices based on them</li>
+<li>
+Experience designing or exploiting hardware-level security features such as Secure Boot, Encrypted Storage, or communication protocols</li>
+<li>
+Strong knowledge of python-based development</li>
+<li>
+Public speaking at security conferences, especially those focused on reverse engineering</li>
+<li>
+Deep understanding of reverse engineering</li>
+<li>
+Familiarity with secure software development lifecycle and practices such as threat modeling, security reviews, penetration tests, and security incident response</li>
+<li>
+Understanding of security by design principles and architecture level security concepts</li>
+<li>
+Up to date knowledge of current and emerging security threats and techniques for exploiting security vulnerabilities</li>
+<li>
+Good communication and leadership skills</li>
+<li>
+Good interpersonal skills with the ability to facilitate diverse groups, help negotiate priorities, and resolve conflicts among project stakeholders</li>
+<li>
+Certifications in security and privacy demonstrating deep practical knowledge such as CSSLP</li>
+<li>
+Understanding of Agile software development practices</li>
+</ul>
+<p>Additional Information</p>
+<ul>
+<li>
+<b>Category: </b>Engineering</li>
+<li>
+<b>Location: </b>715 Peachtree Street, N.E., Atlanta, GA 30308 USA</li>
+<li>Exempt</li>
+</ul>
+</div></div>

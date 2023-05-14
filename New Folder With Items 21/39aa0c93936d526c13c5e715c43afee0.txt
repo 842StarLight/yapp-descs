@@ -1,0 +1,63 @@
+<h2>Senior Design Engineer- Motors</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div>
+<p>JOB DESCRIPTION</p>
+<p><b>ORGANIZATIONAL STRUCTURE</b></p>
+<p>BUSINESS: A&amp;D</p>
+<p>LOCATION: Corona, CA</p>
+<p>DIRECT REPORTING: Engineering Manager</p>
+<p>FUNCTIONAL REPORTING:</p>
+<p><b>POSITION DETAILS</b></p>
+<p>The Sr. Design Engineer supports the design effort of motors and electro-mechanical actuation devices and works under technical supervision of a Sr. Principal Engineer or Engineering Manager.</p>
+<p>This position requires interactions with other engineering associates, suppliers, and applicable departmental assignees (production, sales, quality, program management, etc.) in Concurrent Engineering environment to develop producible and economical design solutions.</p>
+<p>Hands-on participation in the test laboratory and related design validation, prototype development, as well as product preparation activities.</p>
+<p><b><i>Principal Activities</i></b></p>
+<ul>
+<li>Performs DC Brushed and Brushless Motor Design (Mechanical and Electrical), with types such as Frameless, Gear-motor and Brake-motor.</li>
+<li>Reviews customer motor RFQ and specifications, develops preliminary design concepts and prepares technical proposals for new business opportunities</li>
+<li>Prepares Design 3D models, 2D drawings, Bills of Materials (BOMs), and all design related documentation or reports.</li>
+<li>Performs tolerance stack-ups, fits and clearances, and stress, strain and flow calculations as required.</li>
+<li>Performs analytical and/or experimental testing as necessary to demonstrate soundness of the design.</li>
+<li>As defined in the CIRCOR New Product Introduction procedures, the Design Engineer works with Sr. level Engineers, Manufacturing Engineering, Quality Engineering, Procurement, Operations and Program Management to ensure designs are efficient to manufacture and inspect, and within cost targets.</li>
+<li>Investigates production problems when called upon and searches for solutions; advises and assists other department members on design issues.</li>
+<li>Completes forms and relevant documentation within the Engineering department for change management, procurement, fabrication and testing.</li>
+<li>Generates applicable test and assembly procedures and reports for design verification and manufacturing.</li>
+<li>Initiates requests and supports fabrication of prototypes and order special materials when required, as well as any fixtures and tooling needed.</li>
+</ul>
+</div></div>
+<p></p>
+<br><div><div>
+<p>JOB REQUIREMENTS</p>
+<p><b>Experience:</b></p>
+<ul>
+<li>3+ years applicable experience in development, installation, testing and certification of DC brushed, DC brushless motors and electro-mechanical actuation devices. Motor fabrication experience preferred.</li>
+<li>SolidWorks (preferred)</li>
+<li>MathCAD, Simulink or Equivalent Engineering Software Tools</li>
+<li>Motor Design Software such as Magsoft, Infolytica, Flux2D, Flux3D, SPEED, MotorSolve</li>
+<li>LabView experience is a plus</li>
+<li>MS Office</li>
+<li>ASME Y14.5</li>
+<li>Stress Analysis – Linear. FEA experience is a plus.</li>
+<li>Seal Design</li>
+<li>Structural Mechanics - Fastening Methods, Torque Design, Material Selection</li>
+<li>Machine Elements in Mechanical Design - Strength of Materials, Processing, Finish, etc.</li>
+<li>Heat Transfer</li>
+<li>Tolerance Analysis</li>
+<li>Technical Writing – Technical Proposals, Assembly and Test Procedures Reports, Failure Analysis</li>
+<li>Compatibility - Lubricants, Service Media, Materials</li>
+<li>Knowledge of electronics and EMI</li>
+<br>
+</ul>
+<p></p>
+<p><b><i>Education<br>
+</i></b></p>
+<p></p>
+<ul>
+<li>Minimum of Bachelor's degree (B.S.) in Mechanical Engineering or Aerospace Engineering from a four-year college or university.</li>
+<br>
+</ul>
+<p></p>
+<p><b><i>CIRCOR is an EEO Employer of Females/Minorities/Veterans/Individuals with Disabilities</i></b></p>
+</div></div>
+<p></p>
+</div>

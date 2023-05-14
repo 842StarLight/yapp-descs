@@ -1,0 +1,96 @@
+<h2>Sr. Application Programmer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Description</b>
+</p>
+<h2 class="jobSectionHeader"><b>Job Requisition:</b></h2>
+Sr. Application Programmer<p></p>
+<h2 class="jobSectionHeader"><b>
+Job Description:</b></h2>
+<p>
+Senior Applications Programmer</p>
+<p><br>
+The government (DLA) requires an electronic Point of Sale (EPoS) turn-key solution for capturing military fleet management fuel retail transactions at unattended military service stations, mobile ground fuel transactions and capturing aviation fuel transactions for mobile airfield/flight line operations that meets the current standards for Cybersecurity and Audit Readiness. This program will deploy 970 fixed pedestal devices to 350 domestic and international locations.</p>
+<p>
+Varec seeks a part-time Senior Applications Programmer to leads software and hardware design requirements, development, unit testings, and oversight of the EPoS software/hardware platform. The application programmer must possess experience with government programs, deriving customer requirements, design and architecting solutions in an integrated software and hardware environment for successful delivery of this position.</p>
+<div>
+<br>
+Must Have:<br>
+<ul>
+<li>Technical software and hardware design and IT background with sufficient technical breadth and superior communication and collaboration skills in order to successfully work with key stakeholders and subcontractors to solve business related problems or implement new solutions.</li>
+<li>CompTIA Advanced Security Practitioner (CASP+) or equivalent and IAT/IAM/IASAE Level II (or ability to get prior to start)</li>
+<li>LINUX UBUNTU Certification (Or ability to get prior to start)</li>
+<li>Minimum of Bachelor’s Degree from an accredited college or university in related field. Requires minimum of 5 years of combined experience in hardware and software configuration for the selected solution. Two years or more experience in international implementations</li>
+</ul>
+</div>
+<p></p>
+<p>
+The Senior Applications Programmer is responsible for translating technical software and hardware specifications into software and hardware design and providing IT technical guidance to site-specific installers. The Senior Applications Programmer shall provide project leadership as the principal designer under this PWS.</p>
+<div>
+Duties and Responsibilities:<br>
+<ul>
+<li>Collaborates with business analysts, architects, others to plan, design, develop, test, and maintain applications</li>
+<li>Collects and documents user requirements</li>
+<li>Prepares reports, manuals and other documentation on the status, operation and maintenance of application software</li>
+<li>Designs, develops, and unit tests applications in accordance with established standards</li>
+<li>Participates in peer-reviews of solution designs and related code</li>
+<li>Packages and supports deployment of releases</li>
+<li>Develops, refines, and tunes integrations and interfaces</li>
+<li>Configures services for performance, security, and error handling</li>
+<li>Analyzes and resolves technical and application problems</li>
+<li>Assesses opportunities for application and process improvement</li>
+<li>Assists in determining and enforcing development standards and best practices</li>
+<li>Performs application related Security Technical Implementation Guides (STIGs) and vulnerability reporting</li>
+</ul>
+</div>
+<p></p>
+<p>
+Education and Experience:</p>
+<div>
+The Senior Applications Programmer shall possess minimum of Bachelor’s Degree from an accredited college or university in related field. Requires minimum of 5 years of combined experience in hardware and software configuration for the selected solution. Two years or more experience in international implementations; this can be in conjunction with the five years of experience requested above. Experience includes:<br>
+<ul>
+<li>Certification in applicable experience areas</li>
+<li>Proficiency in analyzing user-defined functional, technical system requirements as well as writing design and technical specifications</li>
+<li>Proficiency in drafting integration test plans and integration test cases as well as executing and documenting integration testing activities</li>
+<li>Proficiency in complex testing and debugging of hardware and software solution</li>
+<li>Knowledge of Section 508 compliance</li>
+</ul>
+<br>
+</div>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+External Referral Bonus:</b></h2>
+Eligible<p></p>
+<h2 class="jobSectionHeader"><b>
+Potential for Telework:</b></h2>
+No<p></p>
+<h2 class="jobSectionHeader"><b>
+Clearance Level Required:</b></h2>
+ADP2 / IT2<p></p>
+<h2 class="jobSectionHeader"><b>
+Travel:</b></h2>
+Yes, 10% of the time<p></p>
+<h2 class="jobSectionHeader"><b>
+Scheduled Weekly Hours:</b></h2>
+20<p></p>
+<h2 class="jobSectionHeader"><b>
+Shift:</b></h2>
+Day<p></p>
+<h2 class="jobSectionHeader"><b>
+Requisition Category:</b></h2>
+Professional<p></p>
+<h2 class="jobSectionHeader"><b>
+Job Family:</b></h2>
+Software Development<p></p>
+1000<p></p>
+Defense<p>
+Leidos is a Fortune 500® information technology, engineering, and science solutions and services leader working to solve the world's toughest challenges in the defense, intelligence, homeland security, civil, and health markets. The company's 33,000 employees support vital missions for government and commercial customers. Headquartered in Reston, Virginia, Leidos reported annual revenues of approximately $10.19 billion for the fiscal year ended December 28, 2018. For more information, visit www.Leidos.com.</p>
+<p>
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available here.</p>
+<p>
+Leidos will never ask you to provide payment-related information at any part of the employment application process. And Leidos will communicate with you only through emails that are sent from a Leidos.com email address. If you receive an email purporting to be from Leidos that asks for payment-related information or any other personal information, please report the email to spam.leidos@leidos.com.</p>
+<p>
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.</p>
+</div>
+<p></p>
+</div>

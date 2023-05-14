@@ -1,0 +1,84 @@
+<h2>IT Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Department: </b>IT Services</p>
+<p><b>Title: </b>IT Manager</p>
+<p><b>Compensation: </b>Salary</p>
+<p><b>Location: </b>The Woodlands, Texas (Not eligible for remote work-site location. Not eligible for relocation.)</p>
+<p><b>POSITION OVERVIEW: </b></p>
+<p>Responsible for driving the overall IT system infrastructure forward in continuous improvement and maximizing production infrastructure uptime. This is accomplished through analysis, careful planning, and hands-on execution of any system upgrade, migration, optimization, or security enhancement. Responsible for documentation of system processes, system security, and overall system architecture. Provide supervision to and entrench the System Administrator with best practices as aligned with the goals of DataTrans. As an integral part of the DataTrans team, the incumbent will continue to grow the DataTrans brand through effective and timely IT system resolutions, delivery of high quality services, suggesting enhancements and innovations to the product line and business processes, product design, and hands-on execution of internal IT changes.</p>
+<p><b>PRINCIPAL DUTIES AND RESPONSIBILITIES: </b></p>
+<ul>
+<li>Responsible for, recommends, and plans technology products and services to support and meet company objectives based on research and evaluation</li>
+<li>Hands-on execution of new/upgraded information systems via well-defined and documented plans including procedures, deadlines, and transparency throughout the process</li>
+<li>Evaluates and implements IT procedures and equipment for maximum efficiency and cost containment</li>
+<li>Analyzes risks and potential issues for new product deployments</li>
+<li>Responsible for documenting IT processes</li>
+<li>Executes the product deployments or product changes to production</li>
+<li>Keeps and manages configuration databases of all the infrastructure</li>
+<li>Defines, manages, and executes security policies and security updates</li>
+<li>Develops, maintains, and executes company Disaster Recovery Plan</li>
+<li>Stays abreast of trends and regulations to ensure effectiveness and compliance</li>
+<li>Responsible for achieving and maintaining maximum system availability. The DataTrans systems must be functioning properly at 99.99% up-time</li>
+<li>Interface with 3rd party vendors</li>
+<li>Contribute to organization success by responding to requests, helping others accomplish required results, building relationships and leverage internal/external resources to resolve issues</li>
+<li>Responsible for other reasonable and related duties as assigned</li>
+</ul>
+<p><b>QUALIFICATIONS: </b></p>
+<p><b>REQUIRED: </b></p>
+<ul>
+<li>Bachelor degree (or higher) in Business Administration, Computer Science, or a related field.</li>
+<li>6 years closely related IT experience.</li>
+<li>Experience with large scale IT projects with proven ability to identify, develop, negotiate, communicate, and resolve complex problems within multiple projects.</li>
+<li>Infrastructure management experience utilizing AWS.</li>
+<li>Minimum 3 years hands-on experience with Linux system administration.</li>
+<li>Experience with SaaS, e-commerce business development IT support, cloud based solutions and disaster recovery.</li>
+<li>Experience with strategic planning on long and short range cycles.</li>
+<li>Information systems development and full life-cycle IT project implementation experience within large and small organizations and systems.</li>
+<li>Experience in effectively communicating and building relationships with internal and external partners</li>
+<li>Hands-on experience configuring and managing Java/PHP, MySQL and Apache environments</li>
+<li>Experience with documentation of IT products and solutions</li>
+</ul>
+<p><b>PREFERRED: </b></p>
+<ul>
+<li>Solid database maintenance experience</li>
+<li>Windows server administration</li>
+<li>Advanced certifications such as LPIC, AWS</li>
+<li>Protocol analysis, network experience and strong troubleshooting experience in a large-scale, multi-vendor, client/server infrastructure</li>
+<li>Scripting and automation knowledge</li>
+</ul>
+<p><b>KNOWLEDGE, SKILLS &amp; ABILITIES: </b></p>
+<ul>
+<li>Skilled leader who can work independently to find new solutions and enhancements within the product and business processes.</li>
+<li>Anticipates consequences of actions, potential problems, or opportunities for change.</li>
+<li>Excellent analytical, problem solving, and negotiation skills</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Actively seeks help in gathering resources, soliciting input, and using a variety of techniques to reach a solution which best meets DataTrans needs.</li>
+<li>Ability to translate technical or procedural information into specifications or action plans and to convey technical or complex information to others in non- technical terms.</li>
+<li>Understands, implements, advises, changes, and follows standard operating procedures.</li>
+</ul>
+<p><b>OVERALL IMPACT: </b></p>
+<p>Work duties have high impact that affects company-wide sales, brand, services, support, and customers. Work often requires multiple interactions with customers (internal and external) over time. Individual efforts seen as representing and contributing to team and overall company results.</p>
+<p><b>PHYSICAL DEMANDS AND WORK ENVIRONMENT: </b></p>
+<ul>
+<li>Walk, talk, sit, stand, touch, hear, lift up to 10 lbs., sight, use of hands and fingers</li>
+<li>Normal office environment with normal travel environment</li>
+<li>Contact with internal and external work-groups and customers</li>
+<li>Smoke Free Tobacco Free Workplace</li>
+<li>All prospective employees must pass a background check (post-offer w/contingency)</li>
+</ul>
+<p><b><i>This job description is not designed to cover or contain a comprehensive listing of activities, duties, or responsibilities required by this position. Nothing in this job description restricts management's right to assign or reassign duties and responsibilities to this job at any time.</i></b></p>
+<p>Job Type: Full-time</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Information Technology: 5 years (Required)</li>
+<li>System architecture: 4 years (Preferred)</li>
+<li>Linux Administration: 3 years (Required)</li>
+<li>SQL database: 2 years (Preferred)</li>
+<li>AWS Administration: 2 years (Required)</li>
+</ul>
+<p>Location:</p>
+<ul><li>The Woodlands, TX 77380 (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+</div>

@@ -1,0 +1,91 @@
+<h2>QA Engineer - Automated (SDET)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Do you enjoy testing the latest web app/mobile apps? Do you relish being challenged, but in a culture and team where it's safe to explore and be curious?</b><br>
+</p>
+<p><b>
+Founded in 1998</b>, ClickBank has established itself as a top global internet retailer powering one of the world's leading performance marketing platforms for both digital and physical products. The ClickBank platform meets at the intersection of ecommerce, fintech and adtech, enabling entrepreneurs to drive consumer traffic and sales through a commissioned affiliate network.<br>
+</p>
+<p>
+With over <b>200</b> million customers, <b>6</b> million platform users and distribution in <b>190</b> countries, ClickBank's powerful ecommerce and mobile ecosystem provides entrepreneurs with a reliable secure online marketplace to help them sell their products and services.<br>
+</p>
+<h3 class="jobSectionHeader"><b>
+MISSION:</b></h3>
+<p>
+ClickBank’s mission is to inspire, support and grow thousands of existing and new businesses worldwide to market and sell products and services that are potentially life-changing.</p>
+<p>
+ClickBank’s platform helps vendors around the world market and sell digital and physical products.</p>
+<p>
+We’re a team of full stack product-development engineers. We execute our mission by continuously and consistently improving the ClickBank experience with new product offerings and enhancements to our platform.<br>
+</p>
+<p><b>
+SUMMARY:</b></p>
+<p>
+This person will work directly with the development teams to ensure high quality code across the Click Bank platform. This position includes designing, building, and maintaining the tests and test cluster written in Java and running in AWS.<br>
+</p>
+<p><b>
+DAY to DAY:</b></p>
+<ul>
+<li>Design, develop, and maintain new automated tests.</li>
+<li>Work directly with other QA and Software Development teams to determine areas of the platform which should be automated.</li>
+<li>Create infrastructure &amp; code to regularly and reliably test our products.
+</li>
+<li>Write well documented and maintainable automated testing code.</li>
+<br>
+</ul>
+<p></p>
+<br>
+<p><b>Requirements</b></p>
+<p><b>
+Knowledge, Skills, and Abilities:</b></p>
+<ul>
+<li>Min 2 years experience designing and building automated tests.</li>
+<li>3+ Years software development experience.
+</li>
+<li>Experience with test frameworks (Selenium, Junit, Mockito).</li>
+<li>Strong debugging and trouble shooting skills.</li>
+<li>Strong understanding of automated testing best practices and methodologies.</li>
+<li>Ability to read existing code and review new code.</li>
+<li>Collaborate with a variety of teams including Development, DevOps, Product, BI, etc.</li>
+<li>Strong Java skills – knowledge of Collections, Networking, JEE.
+</li>
+<li>Working knowledge of Git.</li>
+<ul><li>Build and read regular expressions.
+</li></ul>
+</ul>
+<p></p>
+<p><b>PREFERRED SKILLS</b><b>:</b></p>
+<p></p>
+<ul><li>Agile development experience (e.g. Scrum, Kanban).
+</li></ul>
+<ul><li>Strong communication skills, both spoken and written.<br>
+</li></ul>
+<p></p>
+<br>
+<p><b>Benefits</b></p>
+<p><b>
+ClickBank pays for 100%</b> employee and child premiums, spouses approximately $190/month</p>
+<p>
+Total compensation = competitive base + bonus</p>
+<p>
+Laid back yet high performing culture - frequent team building and collaboration</p>
+<p>
+Boise, Idaho home office has low employee turnover</p>
+<p>
+Paid Time Off - very competitive, and it's ok if you use it!</p>
+<p>
+Flex Days - additional 7 days!</p>
+<p>
+8 Paid Holidays</p>
+<p>
+Easy access work location is near Overland/Cole road near I-84 in center of Boise</p>
+<p>
+Open modern work space with big windows overlooking Boise valley<br>
+</p>
+<p>
+Free snacks and beverages</p>
+<p>
+We believe in treating our employees well, having fun together, and cultivating an exciting collaborative environment!</p>
+</div>
+<p></p>
+</div>

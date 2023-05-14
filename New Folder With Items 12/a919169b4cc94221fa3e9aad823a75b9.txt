@@ -1,0 +1,76 @@
+<h2>Software Engineer Intern</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>The MatrixCare R&amp;D team is seeking a <b>Software Engineering QA </b>I<b>ntern</b> to join our Quality Assurance team in Bloomington, MN. In this role, you will be part of an interdisciplinary team that includes fellow Software Engineering QA , Scrum Masters, Business Analysts, Developers, and Product Managers throughout all phases of the development cycle. You'll be a part of the Scrum team and participate in all testing activities related to assigned web application. The candidate will also get an opportunity to participate in multiple automation research and testing activities.<br>
+<br>
+<b>As our Software Engineering QA Intern, you will:
+</b></p>
+<ul>
+<li>Develop software based on completed designs and requirements.</li>
+<li>
+Participate in debugging and implementation of test automation framework, infrastructures, and tools that will be utilized across multiple test and development teams under guidance of lead.</li>
+<li>
+Perform manual functional testing and write Test automation scripts/Code.</li>
+<li>
+Document Test results and support the efficient resolution of problems and capture defect data.</li>
+</ul>
+<ul><li>
+Collaborate with a cross-functional team including Development, QA, Implementation, Documentation, Support and Sales</li></ul>
+<p><b>
+Skills and Experience needed for the </b><b>Software Engineering QA Internship:</b></p>
+<ul><li>
+Pursuing Bachelor’s Degree in Computer Science or related technical field.</li></ul>
+<ul><li>
+Object Oriented Programming experience (In Java, C#, or C++).</li></ul>
+<ul>
+<li>
+Good understanding of Software Development Lifecycle, Quality and scripting to facilitate automation.</li>
+<li>
+Awareness in test automation solutions such as Test Complete, Selenium.</li>
+<li>
+Motivation to drive tasks to completion and take ownership of assignments.</li>
+<li>
+Must be technical, fast learner and team player.</li>
+</ul>
+<ul>
+<li>
+Strong analytical and problem solving skills</li>
+<li>
+Capacity to take direction and feedback with a willingness to learn</li>
+</ul>
+<p><b>
+Why MatrixCare?
+</b></p>
+<p>Change the way technology is used to deliver healthcare. Build amazing products. Create ways to</p>
+<p>
+provide better care for the nation’s aging population. Tackle complex questions to ensure optimal</p>
+<p>
+customer service. See your work improve healthcare each and every day.</p>
+<p><b>
+ </b><b>About MatrixCare
+</b></p>
+<p>Current and multi-time winner of the prestigious Best in KLAS for Long-Term Care Software award,</p>
+<p>
+MatrixCare is the complete solution for growing organizations that need to successfully manage risk in</p>
+<p>
+care delivery across the LTPAC spectrum.</p>
+<p>
+Trusted by more than 13,000 facility-based care settings and more than 2,500 home care, home health</p>
+<p>
+and hospice organizations, MatrixCare’s solutions help ACOs, skilled nursing and senior living providers,</p>
+<p>
+life plan communities (CCRCs), and home health organizations to connect, collaborate and prosper as we</p>
+<p>
+migrate to a fee-for-value healthcare system. In addition to purpose-built EHR components for any</p>
+<p>
+LTPAC care-setting, MatrixCare also includes solutions to systematically</p>
+<p>
+increase clinical quality: Enterprise Analytics, robust Clinical Decision Support and the industry’s first</p>
+<p>
+Care Coordination platform to create a true, person-centric, e-longitudinal health record and enable</p>
+<p>
+LTPAC providers to efficiently manage the populations under their care.</p>
+</div>
+<p></p>
+</div>

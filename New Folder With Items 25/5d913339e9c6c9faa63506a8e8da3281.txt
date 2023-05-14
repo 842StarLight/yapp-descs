@@ -1,0 +1,23 @@
+<h2>Software Development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>3+ years of software development experience</li>
+<li>3+ years working with JavaScript/TypeScript/ECMAScript, HTML, CSS, React/Angular/Vue, and other front end tech.</li>
+<li>Strong OO analysis, design, and development skills</li>
+<li>Knowledge of usability/accessibility principles, cross-browser compatibility, and HTML document architecture</li>
+<li>Work well in teams, respecting and welcoming ideas from partners, business stakeholders, and technical expert</li>
+<li>B.S. in Computer Science, related field, or equivalent work experience</li>
+</ul>
+<br>
+<p>Are you ready for a career-defining opportunity to reinvent one of the world's largest e-commerce platforms? More than two million entrepreneurs in 172 countries sell on Amazon. The third-party marketplace is one of the “three big pillars” that support all of Amazon (along with AWS and Prime), and is responsible for almost half of all sales on our retail websites.<br>
+<br>
+We are looking for a Software Development Engineer with a strong sense of ownership and a passion for delivering creative solutions for complex problems on an unprecedented scale. You will build tools that enable the next generation of our seller experience platform that will enable designers and developers to build and measure beautiful, powerful, intuitive, responsive interfaces and UX for all devices. As part of our team, you will have the opportunity to create significant impact - on our systems, our business and most importantly, our customers - as we take on challenges that will reshape the e-commerce industry.<br>
+<br>
+To be successful in this position, you will have full stack experience with strong front end skills and/or fluency in all things data. We are moving fast, using the latest technologies, and transforming the entire experience lifecycle. And we’re just getting started. If you're looking for a place to make a huge difference, this is it.</p>
+<br>
+<p>Experience with big data technologies (Hadoop, Spark, Hive, etc.)<br>
+Experience with Test Driven Development<br>
+Experience in developing distributed, highly scalable systems<br>
+Experience using Amazon Web Services<br>
+M.S. in Computer Science or a related field</p>
+</div>

@@ -1,0 +1,119 @@
+<h2>Staff Cloud Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Requisition ID: </b>30606</p>
+<p><b>
+Department: </b>Engineering (DEPT_ENG)</p>
+<p></p>
+<br>
+<p>
+Dover Fueling Solutions (DFS), comprised of the most trusted names in the fuel industry, are global leaders in driving innovation for over 100 years. DFS, the industry's 1st end-to-end fueling solution, provides advanced fuel-dispensing equipment, including systems and payment, automatic tank gauging and wet stock-management solutions. The DFS business is comprised of industry leading brands including Tokheim, Wayne Fueling Systems, Fairbanks, ProGauge, ClearView and OPW Fuel Management Systems. We lead every market we serve with focused expertise, progressive thinking and customer-inspired innovation in order to push the boundaries of performance for our customers and shareholders. To learn more about DFS, visit www.doverfuelingsolutions.com. DFS is part of the Fluids segment of Dover Corporation (NYSE: DOV).</p>
+<p></p>
+<br>
+<p><b>
+Position Summary:</b></p>
+<p></p>
+<br>
+<p>
+Dover Fueling Solutions, a global leader in fuel dispensing, payment processing and point of sale technology, is seeking an Engineer specializing in Cloud Technologies. The Cloud Engineer will develop data, interface and service architecture capabilities within software &amp; technology solutions applications, built on the company’s technology platforms and product offerings, for worldwide customers.</p>
+<p></p>
+<br>
+<p><b>
+Position Responsibilities:</b></p>
+<p></p>
+<br>
+<ul>
+<li>
+Develop software components using Microsoft Azure</li>
+<li>
+Work with business stakeholders to refine business requirements</li>
+<li>
+Analyze business requirements and architect a solution that is robust and scalable</li>
+<li>
+Provide technical documentation of solutions</li>
+<li>
+Break down architected solution into smaller, achievable tasks</li>
+<li>
+Present and communicate solution to both technical and nontechnical stakeholders</li>
+<li>
+Debug and provide solutions for complicated issues</li>
+<li>
+Participate in demos and code reviews</li>
+<li>
+Enforce software best practices, standards and processes</li>
+<li>
+Proactively seek ways to incorporate new and creative ideas and methodologies into software development efforts by keeping abreast of current methodologies, technologies and tools</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+The successful candidate will have/possess:</b></p>
+<p></p>
+<br>
+<ul>
+<li>
+Proven technical skills</li>
+<li>
+Knowledge of cloud product systems, cloud solutions and software-as-a-service offerings</li>
+<li>
+Thorough understanding of the software development cycle, software architecture and product development</li>
+<li>
+Effective interpersonal verbal and written communication skills</li>
+<li>
+Organization, time management, and prioritization skills</li>
+<li>
+Proficient in MS Office applications including Word, Excel, and PowerPoint</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Qualification Requirements:</b></p>
+<p></p>
+<br>
+<ul>
+<li>
+Bachelor’s degree in computer science or equivalent and 6 years of software development experience</li>
+<li>
+3 years of cloud product development (not solely web-based) experience (Azure, AWS, Google Cloud)</li>
+<li>
+8 years of software development experience</li>
+<li>
+C# and .NET coding experience using Visual Studio IDE</li>
+<li>
+Strong object-oriented and multi-threading programming knowledge</li>
+<li>
+Expert knowledge with standard design patterns</li>
+<li>
+Expert diagramming solutions (flow, block, logical)</li>
+<li>
+Demonstrated knowledge and experience of Agile (Scrum) methodology</li>
+<li>
+Team player and self-starter with minimal supervision</li>
+<li>
+Familiar with tools such as VSTS/TFS, MTM, TeamCity</li>
+<li>
+Ability to effectively communicate with others, both verbally and in writing</li>
+</ul>
+<p>
+<br>
+<b>Preferred Qualifications:</b></p>
+<p></p>
+<br>
+<ul>
+<li>
+Experience with microservices design and development</li>
+<li>
+Experience developing software services in MS Azure</li>
+<li>
+Experience using modern Web UI technologies</li>
+<li>
+Experience using DevOps tools for scripting, test automation, build automation, deployments, etc.</li>
+<li>
+Experience with Azure environment administration</li>
+</ul>
+<p></p>
+<br>
+<p>
+All qualified applicants will receive consideration for employment without discrimination on the basis of race, colour, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, genetic information, or any other factors prohibited by law.</p>
+<p>
+This position may be located in: Americas : United States : Illinois : Chicago</p>
+</div></div>

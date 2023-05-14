@@ -1,0 +1,92 @@
+<h2>Software Engineering Technician</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Do you have a strong background working with computer hardware in an electronics manufacturing or IT environment? MBX is looking for a Software Engineering Technician to join our growing Manufacturing Engineering team. The ideal candidate can work confidently and efficiently in a face-paced environment to provide written guidance and technical advice under strict deadlines.</p>
+<p>
+In this role, you will play an integral part in new product introduction, assuring quality in the products we build and configure for our customers. You will be responsible for building, troubleshooting and testing prototypes used internally by our manufacturing and warehouse departments, and externally by our customers and third-party vendors.</p>
+<p>
+Our industry reputation as a leader in high-tech manufacturing in an ISO 9001:2015 certified facility demonstrates our dedication to quality. Hard-working employees on our manufacturing team are the backbone of our company to continue our success at attracting and maintaining satisfied customers.</p>
+<h3 class="jobSectionHeader">
+What you’ll do</h3>
+<p>
+Software Engineering Technicians are exposed to a wide range of system configurations, form factors, hardware, software, and various other technologies we develop for some of the world’s largest and most successful software companies who deploy their applications on hardware, from streaming media companies to cybersecurity companies to military flight simulation developers, and other exciting industries.</p>
+<ul>
+<li>
+Review customer and engineering specifications as well as previous generation platforms for prototype and documentation systems</li>
+<li>
+Build prototype systems for customer testing and evaluation, and establish build guidelines for these platforms</li>
+<li>
+Set up BIOS and firmware for integrated and add-in components</li>
+<li>
+Set up platform automation for production, which may require writing or modifying existing Shell scripts</li>
+<li>
+Implement and evaluate proposed designs and processes in relation to automation tools for manufacturability</li>
+<li>
+Review processing methods and provide continuous development of manufacturing techniques to improve in-house capabilities</li>
+<li>
+Create departmental work instructions and knowledge base for Manufacturing Engineering team</li>
+<li>
+Mentor engineers and team members on methodology, standards, monitors, and best practices</li>
+<li>
+Help drive innovation in manufacturing by focusing on new technology and industry tools with an emphasis on automation</li>
+</ul>
+<h3 class="jobSectionHeader">
+What would make you a strong fit</h3>
+<ul>
+<li>
+Computer hardware and software troubleshooting skills</li>
+<li>
+Knowledge of computer hardware, software, and operating systems</li>
+<li>
+Knowledge of Shell scripts</li>
+<li>
+Knowledge and understanding of Python</li>
+<li>
+Knowledge and understanding of content or document management systems and version control management tools such as Git, CVS, SVN, and Bazaar</li>
+<li>
+Knowledge and understanding of wiki environments</li>
+<li>
+Ability to work both independently and in a team environment</li>
+<li>
+Top-notch writing, communications, and organizational skills</li>
+<li>
+Ability to work well in a dynamic environment, quickly pick up new skills, and adapt to changing business needs</li>
+</ul>
+<h3 class="jobSectionHeader">
+Why you’ll love working at MBX</h3>
+<ul>
+<li>
+You will join a positive, fun and supportive atmosphere</li>
+<li>
+You will work in a relaxed environment with a heavy emphasis on employee happiness</li>
+<li>
+We have a history of promoting from within - you have opportunities to grow within the company</li>
+<li>
+We crave knowledge and value ongoing learning and education</li>
+<li>
+We are a driven, creative and energetic group</li>
+<li>
+We invest substantially in technology and implement the best tools to foster innovation</li>
+<li>
+You will get direct feedback on your work and know what a difference you are making</li>
+<li>
+Your voice and opinions will matter</li>
+</ul>
+<h3 class="jobSectionHeader">
+A little about us</h3>
+<p>
+Everything we do at MBX stems from our passion to help successful tech companies simplify the process of bringing their products to market on hardware. You’ll find MBX-built products branded with our customers’ names around the world, in places like the White House, Disney World, and ESPN, to data centers around the globe streaming movies and shows to your phones, laptops, and TVs (but those names are a well-guarded secret).</p>
+<p>
+We strive to hire bright, curious people with a fascination for technology to help us bring together every complex facet of delivering our customers’ hardware. Whether your forte is engineering, software development, manufacturing, or another role that supports the business, the common denominator is that we all put customers at the center of our universe. We hire diverse, yet like-minded, individuals who can share our passions and model our habits to exceeded customer expectations.</p>
+<h3 class="jobSectionHeader">
+A little more about us (if you care to keep reading)</h3>
+<p>
+Our coming of age story is pretty unique. The company started in a four-wall storefront in 1995 in suburban Chicago selling computer components to consumers from a catalog. We were wildly successful, even winning awards because people liked doing business with us. From there we expanded into building complete computing systems, and we kept growing - and moving - and expanding, until finally in 2012, we landed in Libertyville, IL, in an 84,000 square foot facility only about a half hour east of where we started.</p>
+<p>
+While we don’t build computers for consumers anymore, two things haven’t changed: hardware still runs through our veins and people still like doing business with us. Today we work with some of the largest technology companies in the world who deploy hardware-based products in some way, shape, or form. We operate other locations, too: a manufacturing and logistics facility in the EU - MBX Netherlands, and a regional sales and engineering office in San Jose, CA, plus stocking, logistics, and support services around the globe.</p>
+<p>
+We’ve won around 20 awards within the last decade for the kinds of things that our customers and employees value most: operational excellence, impeccable quality, a great company culture, maintaining a top workplace, and providing a world-class customer experience.</p>
+<p>
+Want to hear what our employees say? https://www.youtube.com/watch?v=SSSDEl74w98</p>
+<p><b>
+MBX Systems is an Equal Opportunity Employer</b></p>
+</div></div>

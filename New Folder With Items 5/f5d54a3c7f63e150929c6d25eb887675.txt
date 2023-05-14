@@ -1,0 +1,73 @@
+<h2>Manager, Customer Analytics</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Job Description</div>
+<p></p>
+<p>
+This position is part of the Enterprise Data &amp; Analytics (ED&amp;A) team, a high-performing group chartered with delivering a beautifully simple analytics foundation and service that allows Zendesk to scale to a $1 Billion and beyond. Our team focuses on building and maintaining a data platform, easy-to-consume curated datasets, and the muscle to deliver insights for the entire company to make data-driven decisions.</p>
+<p></p>
+<p>
+The Manager, Customer Analytics role is responsible for supporting our business partners in the Customer Experience (CX) organization with analytics and insights related to the customer lifecycle and touch points at various points along the way. This role is new and will require significant investment around defining the role within the organization as well as within the ED&amp;A team. This role will manage two analysts that will be working on two areas: Customer Lifecycle and Customer Health. You will be the main point of contact for strategic CX projects such as defining the optimal multi-product experience, measuring and tracking the results of data-driven engagements and usage-triggered flows, and providing analysis and recommendations related to renewal processes.</p>
+<p></p>
+<div>
+Responsibilities:</div>
+<ul>
+<li>
+Manage two analysts that will focus on different but overlapping areas of work, namely, Customer Lifecycle and Customer Health</li>
+<li>
+Customer Lifecycle: Provide insights to capture lost renewal/upsell opportunities, minimize churn/contraction risks, and identify upsell / cross-sell opportunities</li>
+<li>
+Customer Health: Provide analytical support to identify use cases, enable adoption and measure accuracy of Customer Health Index (CHI) scores derived from ML models built by our Data Science team</li>
+<li>
+Navigate the unstructured and undefined data infrastructure to join together relevant data from multiple sources in a way that sheds light on customer behaviors and interactions</li>
+<li>
+Support our Enablement team to build a more robust data foundation around the customer rather than around individual transactions/events</li>
+<li>
+Build strong relationships with internal stakeholders across multiple functional areas to deliver holistic customer insights, including leveraging the knowledge of subject matter experts on product engagement, support experience, sales/success engagements, marketing touch points, etc.</li>
+<li>
+Track, prioritize, and project manage projects and requests that is informed by leadership guidance and potential ROI</li>
+</ul>
+<p></p>
+<div>
+Requirements:</div>
+<ul>
+<li>
+BS/BA or equivalent in a quantitative field e.g., math, statistics, engineering, economics, finance, computer science; MBA preferred</li>
+<li>
+MINIMUM of 8+ years experience in Business/Operations/Product Analytics</li>
+<li>
+Previous people management experienceAdvanced SQL skills a must</li>
+<li>
+Familiarity with BigQuery and data visualization tools a plus</li>
+<li>
+Previous experience in Sales Operations, Marketing Operations, Customer Success/Customer Operations preferred (within software/SaaS industry a plus)</li>
+<li>
+Self-motivated and thrives in ambiguous, fast-paced environments</li>
+<li>
+Eager to be a leader at Zendesk in understanding what customer health means, and willing to go deep and learn from co-workers and other CX companies about this aspect of the industry.</li>
+<li>
+Strong communication skills, both written and oral, and an ability to listen and understand root needs across many different business units, each with their own perspectives on our customer experience.</li>
+<li>
+A seeker of insight, who is driven to use data that, presented in the right way at the right time, allows Zendesk to take action and radically improves the experience of our customers.</li>
+<li>
+A proficient data visualizer and empathetic listener, who can design solutions (e.g. reports, dashboards) that significantly improve business in spite of the inevitable issues with data availability, format, quality, source, etc.</li>
+<li>
+Deeply passionate about customer health; shares our urgency to find those who aren’t getting as much out of Zendesk or are obscured from us, and tee-them-up in a way that enables the rest of the company to help drive business and technical value.</li>
+<li>
+Using data to do this over and over at scale for a demonstrable impact.</li>
+<li>
+Interested in building advanced data skills, particularly in machine-learning and big-data.</li>
+</ul>
+<p><br>
+<b>
+Zendesk</b> builds software for better customer relationships. It empowers organizations to improve customer engagement and better understand their customers. <b>Zendesk</b> products are easy to use and implement. They give organizations the flexibility to move quickly, focus on innovation, and scale with their growth.</p>
+<p></p>
+<p>
+More than 100,000 paid customer accounts in over 150 countries and territories use <b>Zendesk</b> products. Based in San Francisco, <b>Zendesk</b> has operations in the United States, Europe, Asia, Australia, and South America.</p>
+<p><br>
+Interested in knowing what we do in the community? Check out the Zendesk Neighbor Foundation to learn more about how we engage with, and provide support to, our local communities.<br>
+<br>
+Zendesk is an equal opportunity employer, and we’re proud of our ongoing efforts to foster diversity &amp; inclusion in the workplace. Individuals seeking employment at Zendesk are considered without regard to race, color, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by applicable law.</p>
+<p></p>
+<p>
+By submitting your application, you agree that Zendesk may collect your personal data for recruiting, global organization planning, and related purposes. Zendesk's Candidate Privacy Notice explains what personal information Zendesk may process, where Zendesk may process your personal information, its purposes for processing your personal information, and the rights you can exercise over Zendesk’s use of your personal information.</p>
+</div></div>

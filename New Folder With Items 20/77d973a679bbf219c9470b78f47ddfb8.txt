@@ -1,0 +1,68 @@
+<h2>Senior Software Engineer - Data</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Location: CA- Oakland</b></p>
+<p><b>
+Position Summary:</b></p>
+<p>
+SiriusXM and Pandora have joined together to create the world's largest audio entertainment company. Together, we are uniquely positioned to lead a new era of audio entertainment by delivering the most compelling subscription and ad-supported audio experiences to millions of listeners - in the car, at home and on the go. Our talent, content, technology and innovation continue to be at the forefront, and we want you to be a part of it! Check out our current openings below and at <b>www.SiriusXM.com/careers</b>.<br>
+<br>
+Data engineers at Pandora are responsible for the services and infrastructure capable of processing and making available the extensive volume of data produced on its platform each day. Data Engineers build the infrastructure needed to enable analysts and scientists to query and author data products that operate against our largest collections (billions of events per day). At Pandora the data platform team supports a variety of business functions including our science, marketing, product, finance and sales teams. You should have a solid understanding of Java and Python software development, and take personal responsibility for testing the code you write. You should have strong academic credentials and a degree in Computer Science or a related field. You should be enthusiastic about learning new technologies and skills. You must be capable of managing your time well and working collaboratively. Excellent communication skills, both written and verbal, are required.</p>
+<p><b>
+Duties and Responsibilities:</b></p>
+<p>
+Already described in position summary</p>
+<br>
+<p></p>
+<p><b>
+Supervisory Responsibilities:</b></p>
+<p>
+None</p>
+<br>
+<p></p>
+<p><b>
+Minimum Qualifications:</b></p>
+<p>
+Requirements:</p>
+<ul>
+<li>5+ years experience developing back-end server software, preferably in Java</li>
+<li>Experience with data streaming technologies - Kafka, Kafka Connect, KStreams, KSQL</li>
+<li>Experience with cloud computing - Google Cloud Platform, Amazon Web Services</li>
+<li>Experience developing for Linux-based deployment platforms, developing scalable, multithreaded server side software for deployment</li>
+</ul>
+<ul>
+<li>Experience developing service oriented architectures/orchestration</li>
+<li>Experience with API design/development - RPC, REST, JSON</li>
+<li>Significant experience unit testing with frameworks - JUnit</li>
+</ul>
+<p>Plus Requirements:</p>
+<ul>
+<li>Experience developing with additional languages - Python, Scala, pyTest, pyUnit</li>
+<li>Experience with data warehouse technologies: MapReduce, HDFS, Hive, Tez, Spark, Scoop</li>
+<li>Experience developing SQL applications of significant complexity</li>
+<li>Experience with workflow tools - Airflow, Composer</li>
+<li>Experience with full stack development - React, SpringBoot, Django</li>
+<li>Experience with data serialization system - Avro, Protobuf</li>
+<li>Experience with automated deployment procedures using dev-ops tooling - Ansible, Terraform</li>
+<li>BA/BS or above in Computer Science or a related field</li>
+</ul>
+<p>"We're considering candidates for multiple positions and levels. Successful candidates will be placed at appropriate level depending on their qualifications or experience."</p>
+<br>
+<p></p>
+<p><b>
+Technical Skills:</b></p>
+<p>
+Already addressed in minimum qualifications</p>
+<br>
+<p></p>
+<p><b>
+Requirements and General Skills:</b></p>
+<p>
+Already addressed in minimum qualifications</p>
+<p><b>
+SiriusXM is an equal opportunity employer that does not discriminate on the basis of sex, race, color, age, national origin, religion, creed, physical or mental disability, medical condition, marital status, sexual orientation, gender identity or expression, citizenship, pregnancy, military or veteran status or any other status protected by applicable law.</b></p>
+<p><i>
+The requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.</i></p>
+</div>
+<p></p>
+</div>

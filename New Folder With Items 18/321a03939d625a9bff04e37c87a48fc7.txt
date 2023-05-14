@@ -1,0 +1,21 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Founded in 2015, Honor is now one of the fastest-growing, non-medical home care companies in the U.S. Why? We realized that by combining our amazing technology and operations with the local, personal touch of our partner agencies, we could make real progress transforming this fast-growing, $30BN industry. Honor's unique approach is driving our rapid growth and leadership as an innovator. We have cutting-edge machine learning, a beautiful, well-designed app, and industry-leading design, paired with a strong sales, marketing, and support engine.
+<br><br>
+Our mission and ambitions are huge. We're looking for people who believe, as we do, that changing the way we care for our parents is one of the most important problems we can solve. Honor is a well-funded, strongly backed company with experienced leaders who have a proven track record of building large businesses and solving extraordinarily difficult challenges. Join us!
+<br><br>
+We're looking for passionate developers to join our engineering team. Your work will directly impact the lives of people receiving care, people delivering care, and the families that are normally left in the dark about the entire care process. We want you to light up and innovate on systems that have traditionally been left behind. The product team is small, lean, and fast so if you thrive on getting your coding fingers in a lot of important pies, Honor could be the place for you.
+<br><br>
+Are you a fit?
+<br><br>
+<ul>
+<li>We're looking for strong engineers, who have experience designing and leading development on complex web applications</li>
+<li>You thrive working with a diverse, cross-functional team (engineers, care operations, and sales folks).</li>
+<li>You'll need good computer science fundamentals, meaning you've got a degree in CS or something equivalent.</li>
+<li>We'd love it if you had 4 or more years of industry experience (we're super fast paced and will need you to hit the ground running).</li>
+<li>You've worked with modern JavaScript frameworks. React with Redux is a plus</li>
+<li>You've got strong JavaScript fundamentals</li>
+<li>As a bonus, you enjoy working across the stack, building the backend for your web apps</li>
+<li>You love hands-on coding, and enjoy being thrown in the middle of mission critical projects.</li>
+<li>You absolutely love to learn from your peers.</li>
+</ul>
+Honor is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy), national origin, age, disability, genetic information, political affiliation or belief.</div>

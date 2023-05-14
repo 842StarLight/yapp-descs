@@ -1,0 +1,135 @@
+<h2>Business Intelligence Portfolio Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Phenomenal opportunity with an industry leader!</b></p>
+<p></p>
+<p>
+We started in 1952 when Les Schwab bought one tire store in Central Oregon. Since then, we have remained true to Les Schwab's vision of World-class Customer Service and unsurpassed benefits and opportunity to our employees. Today, we have over 400 locations including Retail Tire Stores, Distribution Center, Production, Transport, Equipment, and Headquarters. As the largest tire dealer in the western states, you will have a meaningful role as our Business Intelligence Portfolio Manager leading two teams comprised of data scientists, data analysts and data engineers to turn data into actionable insights. We look for candidates who are not satisfied with the status quo, are intellectually curious and confident in their abilities. If you are looking to join a dynamic, exciting and growing leader, consider Les Schwab!</p>
+<p></p>
+<p>
+You will report to the Vice President of Information &amp; Digital Services and will be based out of our headquarters in Bend, OR.</p>
+<p></p>
+<p><b>
+About the opportunity</b></p>
+<p>
+Your teams will support revenue generation, company growth and profitability by working closely with line-of-business leaders and their teams in Marketing, Sales/Operations, Real Estate, Supply Chain, Digital, Finance &amp; HR. The BI Insights team will collaborate with line-of-business counterparts to develop valuable insights, meaningful KPI’s, predictive/prescriptive models and decision-making tools. The BI Platform team will architect, engineer and support foundational components such as data management processes, data lake, data warehouse, master data management, data integration and reporting tool sets.</p>
+<p>
+As co-chair of a cross-department steering committee, this role facilitates collaboration across all levels of the company from executive to the operational/transactional levels. You will work with others to define/understand data, insight and reporting needs and propose services and solutions to meet requirements. You will oversee the design, development and delivery of these services including one time data analyses, continuous insight “products”, prototyped tools and production systems that span reporting, data cleansing/management and Master Data Management.</p>
+<p></p>
+<p>
+The primary objectives of this role are to:<br>
+Contribute to company success by supporting sales growth and solid profitability<br>
+Ensure service level targets are defined/met and investment levels are meeting the desired objectives.<br>
+Build and maintain a strategic data assets platform that continuously improves the quality of and access to data by BI scientists/analysts and LOB business analysts.<br>
+Build and manage a high-performing team by inspiring, mentoring and leading individual employees and contractors.</p>
+<p></p>
+<p><b>
+Primary responsibilities/functions you are responsible for:</b><br>
+Strategic Management</p>
+<ul>
+<li>
+Responsible for managing the BI team to deliver a continuous stream of insights and rationale for line-of-business leaders to take action on to grow our business and maintain profitability.</li>
+<li>
+Responsibility to partner with line of business departments to develop, influence and align the BI portfolio roadmap objectives with company-wide strategic goals and align on investment levels</li>
+<li>
+In doing so, define, implement and monitor metrics and KPIs against objectives.</li>
+<li>
+Develop associated plans and continuous improvement goals - directing team activities to accomplish goals.</li>
+<li>
+Research new technologies and vendors to support the long term vision and growth of Les Schwab</li>
+<li>
+Think creatively, recognize new business trends, and identify the most valuable opportunities, ideas, and improvements for the organization</li>
+<li>
+Establish and adhere to standards and processes to guide BI teams and architecture.</li>
+</ul>
+<p></p>
+<p>
+Solution Delivery, Maintenance &amp; Support</p>
+<ul>
+<li>
+Responsible for partnering with business stakeholders for activities including system design, analysis and development efforts to modify existing solutions and to implement new custom or commercial-off-the-shelf solutions (primarily cloud-based).</li>
+<li>
+Provide functional, technical and operational leadership in primary areas of Business Intelligence including data science, data mining, machine learning, data architecture, data modeling, data warehouse and reporting.. Contribute to and influence effort prioritization, team and individual assignments, support activities, etc.</li>
+<li>
+Ensure the stable operation of the BI portfolio’s business applications and system integrations including legacy solutions, component platforms and cloud based platforms.</li>
+<li>
+Liaison with assigned business and technology partners to respond to requests for services.</li>
+<li>
+Maintain and establish enterprise-wide standardization and operational documentation for all enterprise and technical architecture components (corporate IT processes and systems)</li>
+<li>
+Ensure controls compliance and standards are followed</li>
+</ul>
+<p></p>
+<p>
+Team Management</p>
+<ul>
+<li>
+Lead a team of direct and matrixed employee/contractor resources including data scientists, data analysts, data engineers, solution administrators and application specialists</li>
+<li>
+Create an environment that encourages and enables peak performance from team members by providing leadership, direction, coaching, motivation and guidance.</li>
+<li>
+Build a successful team through the effective selection, hiring and training of new team members</li>
+<li>
+Provide leadership, direction, coaching, motivation and guidance, goal setting, recognition, and development opportunities</li>
+<li>
+Responsible for formal performance evaluation and career development of direct reports, including corrective action and termination as necessary</li>
+<li>
+Set operational vision and direction for the team resources in alignment with strategic leadership direction</li>
+<li>
+Monitor, measure, and report the status of team members’ work</li>
+</ul>
+<p></p>
+<p>
+Vendor Management</p>
+<ul>
+<li>
+Establish and maintain vendor relationships and contracts (MSA’s, SOW’s, etc.) to support solutions including providers of software, infrastructure, professional services and managed services.</li>
+<li>
+Work with contracted vendors to ensure contractual terms/objectives are met. Experience working with remote (onshore &amp; offshore) teams.</li>
+<li>
+Manage vendor performance to ensure that partners are providing support and solutions in accordance with mutually agreed upon outcomes that are beneficial to Les Schwab’s business objectives.</li>
+</ul>
+<p></p>
+<p>
+Financial Management</p>
+<ul>
+<li>
+Working with business partners, develop business cases, appropriation requests and annual operating plans &amp; budgets.</li>
+<li>
+Manage to financial plans ensuring adherence to financial objectives.</li>
+<li>
+Manage project/portfolio budgets and scope, and conduct resource planning for risks that are proactively identified.</li>
+<li>
+Review &amp; approve purchase orders and invoices for processing.</li>
+</ul>
+<p></p>
+<p><b>
+Qualifications:</b></p>
+<ul>
+<li>
+Requires a bachelor's degree in Information Systems, Computer Science, Engineering, Economics, Mathematics or equivalent business experience.</li>
+<li>
+Prefer an additional Masters degree in Business, Economics, Mathematics or Computer Science</li>
+<li>
+A minimum 8 years experience in Information Technology</li>
+<li>
+A minimum 5 years experience managing people and leading teams</li>
+<li>
+A minimum 3 years experience in analytical domain areas</li>
+<li>
+Proven track record of hands-on individual contributor work in at least three of the following domains with working knowledge in the remaining domains (1-Data Science, 2-Data Architecture, 3-Data Engineering, 4-Data Mining, 5-ETL, 6-Dimensional Modeling, 7-Reporting/Dashboards, 8-Machine Learning)</li>
+<li>
+Functional and technical experience utilizing Business Intelligence, Master Data Management (customer/product domains) and Customer Information Management (CIM) solutions, with special consideration for experience with any of the following tools; Stibo STEP, Tableau, Dataiku, Birst, Snowflake or AWS BI toolsets.</li>
+<li>
+Integration middleware experience interconnecting systems in support of capturing/ingesting data streams and publishing data assets. Experience or familiarity with contemporary integration platforms and techniques common of SaaS platforms.</li>
+<li>
+Familiarity with data science and a demonstrated aptitude for fact-based decision making.</li>
+<li>
+Familiarity with the ITIL framework for guiding application management activities.</li>
+<li>
+Experience with system development methodologies, including Agile and DevOps</li>
+<li>
+Ability to coordinate systems development activities to establish priorities, resolve technical problems, and maintain proper documentation</li>
+<li>
+Ability to drive feasibility studies, time and cost estimates, and the development of new or revised applications</li>
+</ul>
+</div></div>

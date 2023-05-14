@@ -1,0 +1,23 @@
+<h2>Principal Software Engineer/Architect (C++)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Block Engineering, located in Southborough, MA (Boston metro area) is a premier designer, manufacturer, and seller of Quantum Cascade Laser-based (QCL) spectrometers and gas analyzers for the detection and identification of gases, liquids and solids. Block's products have won two Prism awards, and are used to protect people and facilities against chemical threats.</p>
+<p>Block is seeking a Software Engineer to lead the development of a new generation of its scientific instrument control software. Development will primarily involve C++ in a Linux / embedded Linux environment.</p>
+<p>Responsibilities will include:</p>
+<ul>
+<li>Lead and participate in the design and development of a new generation of instrument software architecture for Block's QCL-based spectrometers and gas analyzers.</li>
+<li>Participate and assist in the development of internal manufacturing and debugging tools for characterizing and debugging instruments.</li>
+<li>Assist in the development and debugging of low-level software components that interacts with FPGA and device drivers.</li>
+<li>Support key OEM customers with software integration efforts and provide technical recommendations to the sales support team as required.</li>
+</ul>
+<p>The ideal candidate will have the following qualifications:</p>
+<ul>
+<li>A BS degree in Computer Science or related fields.</li>
+<li>Experience with OOP and strong C++ coding skills.</li>
+<li>3+ years development experience in the Test and Measurement industry.</li>
+<li>Experience with implementation of virtual instrument software architecture (VISA) and standard commands for programmable instruments (SCPI) is highly desirable.</li>
+<li>Knowledge and experience with embedded Linux, Linux kernel, and/or POSIX APIs.</li>
+<li>Experience with Git and Jira in a team environment.</li>
+<li>Ideally, familiarity with communication protocols (Ethernet, USB, UART, PCI-X, etc.)</li>
+</ul>
+<p>Job Type: Full-time</p>
+</div>

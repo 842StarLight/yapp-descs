@@ -1,0 +1,27 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—providing always-on alerting, metrics visualization, logs, and application tracing for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.</div>
+<p>
+The APM Team at Datadog provides mission critical application health and performance monitoring for customers of all sizes and industries. We’re taking a new approach to APM with distributed tracing and seamless integration with Datadog’s Infrastructure and Logs products. You will lead new products to help our customers find areas for performance optimization quickly and debug critical application issues on-the-fly.
+</p>
+<p>Together with your team, you will define the future of this critical product and grow this new business unit within Datadog. Your decisions will have deep impact on both the product and the work lives of our customers.</p>
+<h2 class="jobSectionHeader"><b>
+You will</b></h2>
+<ul>
+<li>Drive the Product Roadmap for APM, working with a world-class engineering team across NYC and Paris</li>
+<li>Work closely with Executives, Marketing, Sales, PR, Design, and Support teams to ensure the success of the APM business unit within Datadog</li>
+<li>Engage with our largest and most complex enterprise customers to identify new market opportunities and extract valuable product feedback
+</li>
+<li>Write technical product specifications and discuss technical tradeoffs with engineering</li>
+<li>Understand the APM market, competition and business to determine the right product functionality to build based on customer needs, technological shifts, and revenue generation</li>
+<li>Grow to deeply understand our users (software developers, ops engineers); design solutions they find intuitive and delightful</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Requirements</b></h2>
+<ul>
+<li>You have a proven track record as a Product Manager, ideally at a SaaS company
+</li>
+<li>You have Bachelor's Degree in Computer Science or Engineering or equivalent experience.</li>
+<li>Excellent verbal and written communication skills and the willingness to present and defend your ideas to both technical and non-technical audiences</li>
+<li>Customer-minded with a high quality standard for the product to be delivered</li>
+</ul>
+</div></div>

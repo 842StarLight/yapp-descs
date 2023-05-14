@@ -1,0 +1,81 @@
+<h2>Database Administrator/Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div>MyWebGrocer is looking for database administration, and development professional on our database team.<b> </b>Focus on optimizing database systems for performance and reliability. You will actively work across teams, supporting Agile development efforts, our customers, and systems.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Administer and oversee the maintenance of SQL Server and other databases.</li>
+<li>
+Optimize database systems for performance and reliability.</li>
+<li>
+Query optimization and tuning. Read, analyze, interpret and respond to execution plans by creating supporting DB objects and make/recommend specific optimization/refactoring changes.
+</li>
+<li>Provide database performance analysis resulting in specific actionable recommendations.</li>
+<li>
+Work with development and operations staff to understand their database needs. Develop solutions where needed and assist developers when appropriate.</li>
+<li>
+Assist in monitoring and maintaining all production and non-production databases.</li>
+<li>
+Install new DBMS software, application software, and other software related to DBMS administration. Perform acceptance testing.</li>
+<li>
+Monitor SQL Server Jobs.</li>
+<li>
+Support and promote standards and policies for the secure and efficient use of sensitive information.</li>
+<li>
+Execute project plans; communicate progress and obstacles effectively to stakeholders.</li>
+<li>
+Import and export data using DTS, SSIS packages.</li>
+<li>
+Develop reports as well as perform ad hoc data reporting.</li>
+<li>
+Develop and test T-SQL Scripts.</li>
+<li>
+Test patches before deploying on production servers.</li>
+<li>
+Assist in database upgrades.</li>
+<li>
+Assist testing backup/restore procedures and disaster recovery plans.</li>
+<li>
+Work as a team member with product management, development, support, documentation, training and sales departments. Provide input, during project estimation, design, development, QA and deployment phases.</li>
+<li>
+Participate in database code reviews to assure accuracy and adherence to standards.</li>
+<li>
+Practice 100% usage of Source Code Control.</li>
+<li>
+Complete other work requirements or tasks that are requested by management when necessary to meet the goals and objectives of the department or company.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div><ul>
+<li>Bachelor’s in computer science or related discipline or equivalent combined education and experience.</li>
+<li>
+Minimum of 3 years professional experience with database monitoring, administration, maintenance and reporting.</li>
+<li>
+Hands-on SQL Server 2008 and 2012 administration experience; knowledge of standard SQL Server tools.</li>
+<li>
+Proven ability within the database performance and query optimization arena.</li>
+<li>
+Strong SQL, T-SQL, and DTS/SSIS package skills.</li>
+<li>
+A self starter with ability to work in a fast paced environment.</li>
+<li>
+Excellent verbal and written communication skills.</li>
+<li>
+Ability and flexibility to perform a number of database tasks at one time unsupervised.</li>
+<li>
+Experience with Mongo DB, EventStore, and ElasticSearch a plus.</li>
+<li>
+Ability to be on call 24/7/365 to sustain availability and SLA.</li>
+<li>
+Attention to detail is critical.</li>
+</ul></div></div></div>
+</div>
+<div></div>
+</div>

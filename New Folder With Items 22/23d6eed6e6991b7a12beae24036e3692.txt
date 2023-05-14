@@ -1,0 +1,56 @@
+<h2>Senior Solution Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Company Overview</p>
+<p>
+As one of the world's leading providers of CDN and Cloud Services and as one of the largest CDN providers in China, ChinaCache North America offers both challenging and rewarding career platforms in an environment that cultivates creative and passionate individuals.</p>
+<p>
+Based in the Los Angeles area, we serve a wide network of clients in various industries across the globe. Our beliefs in providing high performance, reliable, scalable and flexible content delivery network and cloud services as well as our passion for innovation have driven us to stay on top of technology and have guided us to build one the most advanced and dependable networks. We believe strongly in providing our customers with the best possible support and our focus is on helping our customers grow their businesses.</p>
+<p>
+Position Overview</p>
+<p>
+The <b>Senior Solution Engineer</b> will be working closely with the Sales and Business Reliability Engineer Teams as part of a team of Solution Engineers and performing the duty as the leader of the SE team. The role is an experienced technical engineering professional, adept at designing solutions that meet the business and technical requirements of existing and prospective customers. A Senior SE is self-directed, capable of leading technical activities, managing the customer technical relationship, and assuming subject matter expert responsibilities. The Senior SE will also proactively work with teams in both China and the EMEA to resolve all escalated cases and ensure services are successfully delivered at all times with high availability and SLA. The Senior SE will strive to drive quality and reliability improvement, combining pre-sales technique, and achieve the business unit goals.</p>
+<p>
+Main Responsibilities:</p>
+<ul>
+<li>Assist the sales team in achieving specific direct sales revenue goals by managing the technical portion of customer requirements and defining company solutions in the prospecting and provisioning stages, using a thorough understanding of company solutions and services.</li>
+<li>Engage in conference calls, online meetings, site visits, presentations, technical evaluations, respond to RFP/RFI’s, address all technical concerns, follow-up on all customer-related technical questions during each phase of the sales cycle including implementation.</li>
+<li>Review proposals created by Account Executives to provide necessary input and ensure technical accuracy</li>
+<li>Engage and oversee the development of customer proposals, ensuring all expertise, information and recommendations are concisely defined with high-quality standards.</li>
+<li>Transfer customer requirements to the implementation team by following and utilizing appropriate customer on-boarding and work order process.</li>
+<li>Design, document and assist in the implementation of solutions and services, and proactively follow up status to meet ETA commitment.</li>
+<li>Verify service before handing over to the customer for POC testing or live launch, ensure the information communicated to the customer is accurate without ambiguity.</li>
+<li>Collaborate with internal support teams to diagnose and resolve customer problem cases or incidents, communicating RCA (root cause analysis) to customers if necessary.</li>
+<li>Develop a deep understanding of company product portfolio and services, maintain strong relationships with internal product, engineering, and support teams, and contribute to product innovation.</li>
+<li>Remove Sales obstacles by providing internal consulting, training, and knowledge support</li>
+<li>Partner with Sales to educate existing and prospective customers about the superiority of the company’s services and build long-term account relationships, that deliver ongoing business value</li>
+</ul>
+<p>Requirements</p>
+<ul>
+<li>7+ years' experience working with Enterprise IT organizations</li>
+<li>Experience designing internet/web application solutions.</li>
+<li>Familiarity with HTTP, DNS, TCP/IP, routing protocols</li>
+<li>Experience with Apache, Nginx, and/or IIS</li>
+<li>Experience with web analysis and browser network tools</li>
+<li>Understanding of hosting infrastructure (load balancers, firewalls, IDS/P, etc)</li>
+<li>Understanding of Linux command and shell scripts</li>
+<li>Strong communication skills that allow you to be a bridge between customers and the internal team</li>
+<li>Proven ability to collaborate across all roles (sales, engineering, product, operation) in a global, geographically distributed organization with an interpersonal savvy</li>
+<li>Demonstrated problem-solving skills, drive for results, customer focus, and a passion for excellence</li>
+</ul>
+<p>Bonus Points</p>
+<ul>
+<li>Bachelor’s degree in Computer Science, Math or related field</li>
+<li>Mandarin language proficiency (verbal and written)</li>
+<li>Understanding of application, server, and enterprise security (DDoS, WAF)</li>
+<li>Understanding of internet exchange, enterprise WAN and VPN solution, and cloud computing</li>
+<li>Hands-on experience in one or more web development technologies/architectures – Python, PHP, Java)</li>
+</ul>
+<p>Compensation:</p>
+<ul>
+<li>Competitive compensation package with full benefits</li>
+<li>Comprehensive medical and dental care, matching 401K, paid time off and annual leave</li>
+</ul>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,70 @@
+<h2>Senior Data and Systems Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>Fidelity Institutional Asset Management (FIAM) is seeking an experienced, skilled and energetic Senior Systems Analyst to fill a position within our Quality Data Delivery group located in Smithfield, RI.<br>
+</div>
+<div></div>
+<div>The candidate will be responsible for providing leadership on complex systems analysis projects as well as providing influence with our business partners to develop recommendations that address business needs and opportunities. Additionally, the candidate will be skilled in negotiating business priorities through partnership with product owners and translating needs back to the team for timely delivery. The ideal candidate will have a passion for data and fall in love with the problem at hand, working through systems analysis and team collaborations to solve it.<br>
+</div>
+<div></div>
+<div>The selected candidate must have the ability to execute effectively on both Systems Analysis (SA) and Business Analysis (BA) tasks.</div>
+<br>
+<div></div>
+<div><b>The Team</b></div>
+<br>
+<div></div>
+<div>FIAM is a sales, marketing and servicing division within Fidelity with the mission to bring Fidelity investment products and services to the market through investment advisors and large institutions.</div>
+<div>This is a dynamic environment that operates using mature agile practices and principles. We stress customer-obsessed thinking and a creative culture!</div>
+<br>
+<div></div>
+<div><b>The Expertise You Have</b></div>
+<ul>
+<li>5+ years of Systems Analysis experience, with a solid understanding of data intensive applications.
+</li>
+<li>Bachelor’s degree in Computer Science, Information Systems or related field</li>
+</ul>
+<div><b>The Skills You Bring</b></div>
+<ul>
+<li>Demonstrated expertise interviewing and extracting high quality business requirements from stakeholders using the Agile scrum methodology.</li>
+<li><div>
+You love working with data and are confident in your SQL skills.</div></li>
+<li><div>
+Your passion for data analysis with the ability to navigate and master complex transactional and warehouse databases.
+</div></li>
+<li><div>Exposure to NoSQL database technologies and non-relational data models, e.g. Document, Columnar, KVP, Indexes, Graph</div></li>
+<li><div>
+Experience with cloud native data warehousing and data lake solutions using Redshift or Snowflake a plus.</div></li>
+<li>
+Excellent analytical, reporting and problem-solving skills. Including strong judgement, issues management and problem analysis techniques.</li>
+<li>
+Excellent interpersonal, relationship management and facilitation skills.</li>
+<li>
+Demonstrated ability to effectively balance multiple tasks and priorities in a fast-paced environment. Must be an organized, self-starter with a collaborative work style and customer service focus.</li>
+<li>
+Excellent verbal and written communication skills with attention to detail.</li>
+</ul>
+<div><b>The Value You Deliver</b></div>
+<ul>
+<li>Your strong analytical skills and ability to solve issues and work through ambiguous situations by making timely decisions based on facts, knowledge, experience and judgment.</li>
+<li>
+Facilitating requirements elicitation sessions with business partners and be the active driver in the backlog refinement process.
+</li>
+<li>Executing analysis and evaluate systems on large and complex projects.</li>
+<li>
+Encouraging the agile and cloud first methodologies. Including active participation in the daily Scrums, Sprint Planning Meetings, sprint reviews and reflections.
+</li>
+<li>Building a deep understanding of the domain and actively share that understanding through team mentoring.</li>
+<li>
+Communicating effectively to influence team members and external groups, including navigating the organization to effectively accomplish tasks.</li>
+</ul>
+<br>
+<div>
+At Fidelity, we are focused on making our financial expertise broadly accessible and effective in helping people live the lives they want. We are a privately held company that places a high degree of value in creating and nurturing a work environment that attracts the best talent and reflects our commitment to our associates. We are proud of our diverse and inclusive workplace where we respect and value our associate for their unique perspectives and experiences. For information about working at Fidelity, visit FidelityCareers.com.</div>
+<div>
+<br>
+</div>
+<div><i>
+Fidelity Investments is an equal opportunity employer.</i></div>
+</div>
+<div></div>
+</div>

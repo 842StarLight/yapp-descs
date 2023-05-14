@@ -1,0 +1,76 @@
+<h2>Serdes/AMS Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<b>Job Description</b><br>
+<p>Job Description:</p>
+<p>
+The Custom Solutions team in DSD (DCG Silicon Development) is looking for an industry-experienced leader to join our group as the Engineering Manager, Serdes/AMS managing/leading all Serdes and AMS related technical activities associated with Custom ASICs developed by the team. The Custom ASIC business is poised for explosive growth in areas such as accelerators for Application processing (AI and media) and Infrastructure (5G, Smart NIC and switches), and this is your chance to help define and drive our success.</p>
+<p>
+This role is primarily located in Chandler, Arizona, USA, Santa Clara, California, USA or Hillsboro, Oregon, USA, with a requirement for some International and Domestic business travel to customers and partners.</p>
+<p>
+As the Serdes/AMS engineering leader of the organization, you will be an integral member of the leadership team that drives all aspects of the Custom ASIC engineering effort, from design win to production. In this role, you will be expected to perform the following tasks:</p>
+<p>
+Develop internal and eco-system roadmap/capability to enable Intel to provide end-to-end solutions for all Custom ASIC Serdes and AMS IP needs. This includes internal capabilities in full chip PHY integration, post-silicon electrical validation, system/package integration, low-latency/high performance clocking solutions, SI/PI analysis and foundation AMS IP (PLL, Temp Sensor, GPIO, etc) integration.</p>
+<p>
+Help plan and build Serdes/AMS engineering team/capability to de-risk and deliver very high end Data Center silicon products.</p>
+<p>
+Engineering ownership of clocking methodology/analysis solutions for high-performance very large Data Center ASICs.</p>
+<p>
+Engineering ownership of power delivery solutions for very large high power Data Center ASICs.</p>
+<p>
+Lead customer discussions on how they can leverage Intel and eco-system Serdes/AMS assets to come up with an optimized solution for their ASIC.</p>
+<p>
+Collaborate with customer and eco-system to proactively create detailed Serdes/AMS solutions for Custom ASICs that the customer awards to Intel. This would include due diligence in selection and ASIC integration of HSIO subsystem solution, along with critical AMS IPs such as PLL's, Reference Clock receivers, GPIO, etc.</p>
+<p>
+Provide expert technical ownership in post silicon electrical validation/characterization of Serdes/AMS IP's through PRQ.</p>
+<p>
+Review/provide technical supervision/guidance to successful integration of high speed Serdes into Intel custom ASIC products.</p>
+<p>
+Manage support of customer and Intel teams during product development, in both pre-silicon and post-silicon phases. Lead a team to work with customers and other ecosystem partners to characterize customer technical problems that can be solved with solutions from Intel.</p>
+<p>
+Participate in discussions at a company level to develop the plan for IP and subsystem portfolio needed to get design win and deliver the Intel solutions for future Custom ASICs.</p>
+<p>
+Be a trusted adviser and partner to the Custom ASIC Business Unit sales team. Enable and empower the sales team with deep technical understanding and technical collateral for customer consumption.</p>
+<p>
+Demonstrated successes driving design wins to production.</p>
+<p>
+Proven history of working well with senior technical and business experts, including Intel and customer fellows, designers, architects, engineers, etc.</p>
+<p>
+Strong interpersonal skills with demonstrated strong teamwork and communication skills. Ability to effectively communicate with customers and senior executives.</p>
+<p>
+Demonstrated ability to lead without authority across extensive multi-function, multi-geo stakeholder communities.</p>
+<p></p>
+<p><br>
+<b>
+Qualifications</b><br>
+</p>
+<p>
+Minimum of 15 years of experience in Serdes/AMS development and ASIC integration for industry-leading products, including customer-facing roles.</p>
+<p>
+MS in Electrical Engineering, Computer Engineering, or related field.</p>
+<p>
+10+ years expertise in design of Serdes (Tx/Rx/Clocking Schemes/Vref, etc), PLL, GPIO, Temp Sensor, etc. as well as experience in integration of those designs into the ASIC, including digital design, Signal Integrity, Power delivery and Structural design challenges.</p>
+<p></p>
+<b>
+Inside this Business Group</b><br>
+<p>The Data Center Group (DCG) is at the heart of Intel’s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies—spanning software, processors, storage, I/O, and networking solutions—that fuel cloud, communications, enterprise, and government data centers around the world.</p>
+<p><br>
+<b>
+Other Locations</b><br>
+<br>
+US, Arizona, Phoenix;US, California, Santa Clara</p>
+<p></p>
+<p><br>
+<b>
+Posting Statement</b><br>
+<br>
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance....</p>
+<p></p>
+<p><br>
+<b>
+Position of Trust</b><br>
+<br>
+This role is a Position of Trust. Should you accept this position, you must consent to and pass an extended Background Investigation, which includes (subject to country law), extended education, SEC sanctions, and additional criminal and civil checks. For internals, this investigation may or may not be completed prior to starting the position. For additional questions, please contact your Recruiter....</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,60 @@
+<h2>Adobe Experience Manager (AEM) Digital Developer III</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Job Summary</b><br>
+<br>
+Leads the development of cost-effective information technology solutions by creating new, and modifying existing, software applications. Analyzes complex systems requirements, existing business processes, and information systems. Codes, tests, and debugs documents, and implements software applications. Undertakes complex projects requiring additional specialized technical knowledge. Coordinates with users to determine requirements that are more complex.<br>
+As our Adobe Experience Manager developer, you will hands-on develop AEM 6.3 building blocks with an emphasis on components, templates, and will integrate AEM with our front-end ecommerce codebases and ecommerce platforms. Our ideal candidate will be AEM Developer Certified with a proven track record of enhancing and deploying mission-critical Digital projects. Candidate should have a strong and proven track record of both AEM and front-end development experience and can operate as a full tech-stack developer with an emphasis on AEM-based projects. As an AEM developer, you will enhance and maintain code for our transactional web sites and will be enhancing web functionality in accordance with Adobe best practices. Candidate will require in-depth knowledge of frontend/backend integration methods; experience with advanced javascript frameworks and design patterns; and ability to integrate AEM with RESTful APIs. Candidate will drive and influence technical web discussions across Digital supplier teams and will hands-on code web site enhancements meant to improve our customer experience and drive sales conversions. Candidate should be able to communicate effectively across all levels of management and should be able to lead brainstorming conversations and participate in architectural discussions. Candidate may supervise the work of other developers to ensure accountability for goals and objectives, with a high focus on AEM code quality and integrity.<br>
+<b>Basic Qualifications</b><br>
+<ul>
+<li>Bachelor's degree and four years related work experience or eight years related work experience post high school</li>
+<li>
+Three years systems development experience</li>
+<li>
+Three years coding experience</li>
+<li>
+Three years software application experience</li>
+</ul>
+<br>
+<b>
+Preferred Qualifications</b><br>
+<ul>
+<li>Front-end web development; MVC frameworks.</li>
+<li>
+AEM backend/frontend integrations</li>
+<li>
+Javascript (version ES5/ES6)</li>
+<li>
+OSGI development</li>
+<li>
+AEM component and template development and packaging.</li>
+<li>
+Jenkins; SonarQube; Jira; Bitbucket</li>
+<li>
+RESTful API integrations with a focus on MuleSoft APIs</li>
+<li>
+Experience mentoring developers.</li>
+<li>
+Agile Development Methodologies and deployment processes</li>
+<li>
+Excellent communication skills, verbal and written</li>
+</ul>
+<br>
+At Sprint, we're more than just talk. We've changed the way people communicate, how they work and how they stay connected on the go. Sprint is widely recognized for developing, engineering and deploying innovative technologies, including the first wireless 4G service from a national carrier in the United States; offering industry-leading mobile data services, leading prepaid brands including Virgin Mobile USA, Boost Mobile, and Assurance Wireless; instant national and international push-to-talk capabilities; and a global Tier 1 Internet backbone. Behind every decision we make, there is a passion and drive to develop technologies to enhance and simplify our customers' lives.<br>
+Are you ready for the big time?<br>
+<p>Sprint is a background screening, drug screening, and E-Verify participating employer and considers qualified candidates with criminal histories consistent with applicable law.<br>
+<br>
+Equal Opportunity Employer/Disability/Protected Veterans.</p>
+<br>
+<b>
+Metro Area</b><br>
+<br>
+US-VA-Reston<br>
+<br>
+<p>Sprint is an <b>Equal Opportunity Employer</b> and has been recognized for its commitment to diversity and creating an inclusive workplace where all employees’ backgrounds, talents and contributions are valued. Sprint reviews applications for employment without regard to the applicant's race, religion, color, creed, gender/sex, gender identity, national origin, genetic information, ancestry, age, citizenship, marital status, sexual orientation, protected veteran status, disability or any other classification protected by Federal, state or local law. Sprint is a background screening, drug-free workplace.<br>
+<br>
+Equal Opportunity Employer/Disability/Protected Veterans<br>
+<br>
+If you are a qualified individual with a disability or a disabled protected veteran and need an accommodation or accessibility assistance to apply for one of our positions, you may submit a request by sending an email to <b>careers@sprint.com</b> or by faxing your request to <b>913-523-9980</b>.<br>
+<br>
+“Applicants have rights under Federal Employment Laws” <b>Family and Medical Leave Act (FMLA) Poster</b>; <b>Equal Employment Opportunity (EEO) Poster</b>; <b>Supplemental Equal Employment Opportunity (EEO) is the Law Poster</b>; <b>Employee Polygraph Protection Act (EPPA) Poster</b>; <b>Pay Transparency Notice Poster</b>; and the <b>Philadelphia’s Fair Change Hiring Law Poster</b>.</p>
+</div></div>

@@ -1,0 +1,64 @@
+<h2>Salesforce Administrator Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Summary of Job:</b></p>
+<p>The Salesforce Administrator &amp; Developer will oversee daily operations related to the administration, development, and management of Salesforce (Sales Cloud, Service Cloud, Community Cloud and CPQ) for eMDs. This includes data management and reporting, process improvement and automation, solution design and development, and implementation and integration management in order to improve efficiencies for both internal users and customers and improve data quality.</p>
+<p><b>Supervisory Responsibilities:</b></p>
+<p>None.</p>
+<p><b>Essential Duties and Responsibilities:</b></p>
+<ul>
+<li>Follows all company policies as defined by eMDs leadership and HR department.</li>
+<li>Follows the direction, guidance, processes, and policies as defined by eMDs leadership.</li>
+<li>Able to work independently and as part of a team in a fast-paced environment.</li>
+<li>Team player with excellent communication, presentation, and interpersonal skills.</li>
+<li>Customer service oriented.</li>
+<li>Clearly communicates (verbal and written) in a professional, courteous, and respectful manner.</li>
+<li>Maintains a positive ?can-do? attitude that fosters a positive team environment.</li>
+<li>Ensures Salesforce is operating correctly and data is maintained accurately</li>
+<li>Customizes Salesforce declaratively and programmatically to utilize Salesforce to solve most business problems</li>
+<li>Manages data and metadata including regular deduplication and field reviews, to maintain quality and accurate reporting</li>
+<li>Supports new and existing Salesforce user base with questions and issues in Salesforce (Sales Cloud, Service Cloud, Community Cloud, CPQ)</li>
+<li>Adds new users, check system permissions on users to restrict or provide data access and modify existing accounts.</li>
+<li>Understands the business in order to recommend solutions to improve user experience, streamline workflows, and optimize business processes for every department in the company</li>
+<li>Publishes content and updates to the Support Centers and sends related customer-facing communications.</li>
+<li>Documents system configuration and administrative processes.</li>
+<li>Keeps up to date with industry best practices</li>
+<li>Maintains and develops knowledge of current Salesforce releases, features and best practices.</li>
+<li>Maintains Salesforce Certifications</li>
+<li>Manages multiple projects and responsibilities with ease</li>
+<li>And other duties as assigned</li>
+</ul>
+</div>
+<br>
+<div>
+<p><b>Qualifications:</b></p>
+<ul>
+<li>Software administration experience</li>
+<li>Working knowledge of help desk ticketing systems
+</li>
+<li>Basic Web Design skills, HTML</li>
+<li>Data extraction/reporting</li>
+<li>Proficiency in Microsoft Excel and Access</li>
+<li>Production experience working with API, and web technology in cloud-based architecture</li>
+<li>Solid software fundamentals in object-oriented algorithms, databases, and web technologies</li>
+<li>Understands basic troubleshooting and network concepts</li>
+<li>Ability to code in Apex and Visualforce</li>
+<li>Ability to implement workflows, triggers
+</li>
+<li>Understanding of XML, XSLT, SQL, related technologies for enterprise application integrations</li>
+</ul>
+<p>
+</p>
+<p><b>Education and/or Experience or both:
+</b></p>
+<ul>
+<li>B.S./B.A. in Business, Computer Science, Software Engineering, MIS or equivalent work experience.</li>
+<li>Administration experience of CRM software such as Salesforce Sales and ServiceCloud and related apps such as Parature, Zendesk, etc.</li>
+<li>Salesforce Administrator Certifications (201 and 211).</li>
+<li>Salesforce Platform Developer Certification</li>
+<li>Experience with Salesforce object, layouts, workflows, process builder and validation rules, permissions, roles, reports, dashboards, and logical formulas</li>
+<li>Minimum of 5 years of technical support experience.</li>
+</ul>
+</div>
+<p></p>
+</div>

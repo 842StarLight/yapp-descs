@@ -1,0 +1,45 @@
+<h2>Systems Reliability Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Job Summary</b></p>
+<p>
+We ensure the success of our groundbreaking technology through cluster health monitoring, quick response time, and unparalleled customer intimacy. We are top-notch engineers from leading virtualization, compute, and networking companies with the ability to handle all problems that come our way. Working closely with Sales and Software Engineers, the support team acts as our customers’ champions.</p>
+<p>
+Nutanix is seeking well-rounded, junior and senior, customer facing Technical Support Engineers. You will support our cloud solution in the field and provide an enriched and successful product experience. You will need to be the champion for Nutanix, by providing an over the top support experience to our customers leveraging our private cloud solution.</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Troubleshoot, debug, and diagnose customer issues encountered in the field.</li>
+<li>
+Improve serviceability of the product by testing new features and developing tools to scale our field deployment and auto-support infrastructure.</li>
+<li>
+Provide analysis of our existing customer base to avoid and minimize risks in the field.</li>
+<li>
+Define and drive changes to our product with our development engineering team based on feedback from customers and field implementations.</li>
+<li>
+Work with technology partners (ie.g. VMware, Citrix, Microsoft) to resolve issues and push improvements in our ecosystem.</li>
+<li>
+Develop and contribute to internal and external knowledge bases.</li>
+<li>
+Provide support on weekdays and also off hours on an as needed and scheduled rotational basis</li>
+<li>
+Be a champion for our customers. Go above and beyond to support their business and use of the Nutanix stack.</li>
+</ul>
+<p><b>
+Requirements:</b></p>
+<ul>
+<li>
+Excellent verbal and written communication skills, problem solving skills, customer service and interpersonal skills.</li>
+<li>
+The passion and ability to learn new things, while never being satisfied with the status quo.</li>
+<li>
+Willingness to work in a fast growing company with huge potential.</li>
+</ul>
+<p><b>
+Qualifications:</b></p>
+<ul><li>
+BS in Engineering</li></ul>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,23 @@
+<h2>Android Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>PAX Technology Inc’s mission is to provide world-class cost effective, superior quality secure payment services and solutions for our customers. PAX is considered one of the fastest growing payment solutions providers with world-class manufacturing, R&amp;D capabilities and a growing portfolio of products and services across the globe because of our innovative and collaborative employees.</p>
+<p>PAX Technology is looking for junior to mid-level Android developer to be part of an agile team of developers to develop and ensure support of software components that provide interfacing of MS Windows / Linux based point-of-sale electronic cash register applications with specialized hardware peripherals typically to create point-of-sale system.</p>
+<p>DESIRED SKILLS AND JOB REQUIREMENTS:</p>
+<ul>
+<li>2+ years’ hands-on development experience in Android platform..</li>
+<li>Strong knowledge of Android SDK, offline storage, threading and performance tuning.</li>
+</ul>
+<p>3, Knowledge of the open-source-Android ecosystem and the libraries available for common tasks.</p>
+<p>4, Participate in creating/updating technical documentation.</p>
+<p>5, Solid understanding of the full mobile development life cycle.</p>
+<ul>
+<li>Diagnose software system, and hardware failures that impact deployment</li>
+<li>Test Driven Development</li>
+<li>Excellent communication and problem solving skills</li>
+<li>Willing to work in a global work environment. Flexible work schedule is required for coordination and reviews with teams in other Geographies. Experience in a global development role is beneficial</li>
+</ul>
+<p>10, Ability to thrive in a team/ collaborative environment.</p>
+<p>EDUCATION REQUIREMENTS:</p>
+<p>1. BS in computer science, or related field, or equivalent experience</p>
+<p>Job Type: Full-time</p>
+</div>

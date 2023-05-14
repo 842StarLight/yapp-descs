@@ -1,0 +1,42 @@
+<h2>Senior Consultant (SQL/Oracle)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Job Summary – Senior Consultant (SQL/Oracle)<br>
+<br>
+Nutanix Services primary goal is to ensure the success of our customers. The Services function engages customers in the pre-sales and post-sales stages to deliver high-valued outcomes in their software-defined data center (SDDC) strategy and architecture. Besides helping customers implement Nutanix products successfully, the Services team, working with our partners, delivers migrations, hybrid cloud, VDI, and Tier 1 Application re-platforming solutions to enable truly software-defined data centers. The Nutanix Services function includes consulting, planning, design, implementation, integration and automation services as well as project management.<br>
+<br>
+The Senior Consultant will work in the Services organization to help clients establish architectural vision and direction. He or she will help clients design, deploy, and migrate complex applications as well as work with software developers, consultants, and engineers to create scalable and repeatable solutions for partners.<br>
+<br>
+Responsibilities:<br>
+<br>
+<ul>
+<li>Billable Project work 60% of time</li>
+<li>Provide Database consultancy services to existing Nutanix customer as well as potential customers</li>
+<li>Evangelize the Nutanix platform to Application owners, DBAs and management</li>
+<li>Participate in a pre-sales involvement to provide services overlay to the existing sales motion primarily as a SME</li>
+<li>Create toolkits and best practice documents and whitepapers</li>
+</ul>
+<br>
+Required Qualifications:<br>
+<br>
+<ul>
+<li>Up to 70% of travel</li>
+<li>Expertise in at least one of the following Database systems (past and current versions): Microsoft SQL Server and Oracle. Prefer experience in both with mastery in SQL.</li>
+<li>Proficient in virtualization technologies with a focus on VMware (experience with of additional hypervisors is a plus). Must have hands on experience designing and deploying vSphere environments.</li>
+<li>Experience with enterprise datacenter infrastructure including servers, storage, networking</li>
+<li>Proficient in designing, implementing and administering large complex database environments in both physical and virtual server hosting patterns.</li>
+<li>Able to design, implement and administer advanced Database capabilities such as (but not limited to) Database Mirroring, Disaster Recovery, Monitoring, Backups, and Restores.</li>
+<li>Experience scripting languages such as, Bash, Python, PowerShell</li>
+<li>A minimum of 10 years of industry experience</li>
+<li>High level of comfort in presenting by means of white boarding sessions and PowerPoint presentations</li>
+</ul>
+<br>
+Preferred Qualifications:<br>
+<br>
+<ul>
+<li>Experience in consulting, either from a Vendor, VAR, or System Integrator.</li>
+<li>Experience in designing and deploying business critical applications such as SAP, Exchange, Active Directory</li>
+<li>Experience with other DB technologies such as (SAP Hana/MongoDB/PostgreSQL/MySQL/Db2)</li>
+<li>Experience designing and building database solutions hosted in cloud platforms such as Amazon Web Service (AWS) Technologies or Azure</li>
+<li>A Bachelor’s Degree in Engineering, Computer Science, or Information Systems.</li>
+<li>Location: North America (All States) and Asia</li>
+</ul>
+</div></div>

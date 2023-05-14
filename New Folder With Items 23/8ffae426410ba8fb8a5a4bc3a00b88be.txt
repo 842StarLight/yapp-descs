@@ -1,0 +1,29 @@
+<h2>Fullstack Engineer (Senior and Mid-level)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Postscript is hiring!
+<br><br>
+Postscript is building a best-in-class text message marketing platform specifically for e-commerce stores. Postscript lets users easily create text message campaigns and automated flows designed to increase sales and revenue, not just clicks. Backed by Y Combinator (YC W19), Postscript is growing fast and looking for remarkable people to help scale the company.
+<br><br>
+Postscript is hiring in Engineering.
+<br><br>
+This role is responsible for developing and managing our back and frontend systems. Our backend stack is a Python (Flask) API with a PostgreSQL database hosted on AWS, and our frontend is built with React JS and Bootstrap UI.
+<br><br>
+We are looking for someone with strong full-stack skills combined with an intense passion for early-stage companies. You will help the team to build out our architecture and processes as we scale, and help with hiring to grow the engineering team quickly. You will have a large influence on both the product and the company.
+<br><br>
+<b>Here's what you'll get to do:</b><br>
+<ul>
+<li>Architect, build and maintain the REST API and frontend codebase for our web application</li>
+<li>Work closely with the design team to deliver a beautiful, world-class product</li>
+<li>Take ownership and get creative with your solutions</li>
+<li>Manage AWS services as needed</li>
+<li>Maintain and optimize our databases</li>
+<li>Improve our internal development processes to minimize errors and improve team efficiency</li>
+</ul>
+<b>Here's what we're looking for:</b><br>
+<ul>
+<li>3+ years software development experience</li>
+<li>1+ years experience with React</li>
+<li>Experience with Python ( Flask &amp; SQLAlchemy a plus)</li>
+<li>Experience managing AWS services</li>
+<li>Experience managing relational databases (PostgreSQL)</li>
+</ul>
+</div>

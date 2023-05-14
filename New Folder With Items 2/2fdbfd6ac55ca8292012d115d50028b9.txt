@@ -1,0 +1,35 @@
+<h2>Business Systems Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>Job Overview:</b><br>
+CapCenter is a growing, Richmond-based mortgage and real estate company that combines services under one roof to provide our clients with less stressful experience that saves them money along the way. People come first at CapCenter, and we are seeking talent that is equally focused on a building a better way for our customers. This manager will be a key member of our Platform team, a team that is instrumental in both delivering and improving internal systems and processes. This individual has a passion for continuous learning, using technology to solve problems at their root, and strong organizational and analytical thinking abilities. The person in this role, reporting to CapCenter’s Director of Platform and Secondary Markets, will work directly with internal stakeholders across departments to structure and organize internal systems and platforms to optimize efficiency and increase throughput.<br>
+<br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Technical Design: The business systems manager will be expected to collaborate with key internal stakeholders to assess the current state of platform systems and identify ways to improve them. This collaboration and design will be needed for both existing systems as well as new installations, optimizing workflows and improving performance.</li>
+<li>End-to-End Data Management: This individual will be responsible for ensuring that data flows properly from the CapCenter.com website to the system of record to the data warehouse and that upstream changes get reflected downstream as well.</li>
+<li>Business Process Improvement: This manager will be expected to identify areas of opportunity within existing business processes, then driving to completion initiatives in those areas that deliver increased effectiveness and efficiency while reducing cost.</li>
+<li>Business Analysis: As bandwidth allows, the business systems analyst will also be tasked with ad hoc business analysis, supporting internal initiatives through development of business cases and providing consultative support with a Systems/Platform lens.</li>
+</ul>
+<br>
+<b>
+Qualifications:</b><br>
+<ul>
+<li>Strong organizational skills and an ability to structure workflows based on stakeholder input</li>
+<li>Proficient user of the Microsoft Office suite, especially Excel</li>
+<li>Working knowledge of Microsoft Azure and SQL</li>
+<li>Bonus: Prior experience working in the mortgage industry and with loan origination systems</li>
+<li>Bonus: Experience with diagramming/flowchart software, such as Visio or yEd</li>
+</ul>
+<br>
+<b>
+Benefits:</b><br>
+<ul>
+<li>Competitive compensation and benefits package (401(k) match, paid vacation, health, etc.)</li>
+<li>Influence in business decisions based on technical recommendations</li>
+<li>Opportunity to shape design of systems implementations and data structures</li>
+</ul>
+</div>
+ <p></p>
+<p>CapCenter is an Equal Opportunity Employer M/F/V/D</p>
+</div></div>

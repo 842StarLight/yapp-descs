@@ -1,0 +1,64 @@
+<h2>Web Application Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div>
+<div>Callcap careers
+<h1 class="jobSectionHeader"><b>Web Application Developer</b></h1>
+</div>
+<p>The Web Application Developer will be responsible for developing and deploying code for internal and external website applications. Problem solving, flexibility, adaptability, time estimation and ability to learn quickly are key attributes of this position. The individual must be able to report on progress and validate results. A passion for web/mobile, and keeping up with technology trends will go a long way. You should have big ideas and the conviction to talk about them.</p>
+<h3 class="jobSectionHeader"><b>
+Scheduling:</b></h3>
+<p>Full-time. Our normal operating hours are 8am to 4:30pm M-F.</p>
+<h3 class="jobSectionHeader"><b>
+Responsibilities:</b></h3>
+<ul>
+<li>Develop new features and new products in line with Callcap’s mission.</li>
+<li>Enhance the product experience of Callcap’s suite of products.</li>
+<li>Come up with new ideas and take ownership over them.</li>
+<li>Learning our telecom/web software infrastructure.</li>
+<li>Assisting with bug fixes on legacy code and new web apps.</li>
+<li>Help us continue to modernize our infrastructure.</li>
+<li>Assist in development and improvement of documentation for internal staff and end-users.</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Required:</b></h3>
+<ul>
+<li>Strong problem solving skills</li>
+<li>Experience with Adobe Coldfusion, or another server-side programming language (PHP, node.js, Python, etc.) and the will to learn Coldfusion</li>
+<li>Basic knowledge of data structures and algorithms</li>
+<li>Experience with MySQL</li>
+<li>In-depth knowledge of the web, and how HTML, CSS, Javascript and back-end technologies combine to form modern web applications</li>
+<li>Experience with version control systems, especially Git</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Bonus Points:</b></h3>
+<ul>
+<li>Experience with Javascript, frameworks such as JQuery, and asynchronous Javascript development</li>
+<li>Experience with telephony software or APIs</li>
+<li>CSS skills and experience with responsive development</li>
+<li>An eye for modern user interfaces</li>
+<li>Experience with Illustrator and Photoshop</li>
+<li>Self started projects (Github portfolio)</li>
+<li>Experience with Linux, Apache, RESTful API development and usage</li>
+<li>A drive for optimization and a passion for new technologies and problem solving</li>
+<li>Technical writing and/or creative writing and/or strong editing skills</li>
+<li>Experience with dynamic web app Javascript frameworks, such as Angular, React, etc.</li>
+</ul>
+<h3 class="jobSectionHeader"><b>To Apply:</b></h3>
+<p>Must be able to work on-site in Wichita, KS. Please send your resume, portfolio website, and anything else that demonstrates the above skills and requirements and include a picture of your favorite game, movie, book, music, beer, or coffee to show your attention to detail.</p>
+<h3 class="jobSectionHeader"><b>
+About Callcap:</b></h3>
+<p>Callcap started in 2001 as a “peg-count” call tracking company. Customers purchase a few phone numbers from us and put a unique phone number on each of their advertising pieces. We then report which phone number (and so which ad) generated the most calls. Today, this is still the core of our offering, but we’ve expanded on our original goal of providing businesses with actionable insight into their business from the perspective of their phones.</p>
+<p>
+Our Callsurance service allows every incoming call to be monitored and graded according to customized criteria – usually whether it led to a sale or not. Our system of configurable alerts and advanced reporting lets business owners keep tabs on the performance of their employees and their advertising pieces – providing both training opportunities and data to justify budgets. Immediate missed opportunity alerts even give businesses a second chance at overcoming customer objections to recover a lost sale. This feature, Callsaver, generates more than a half billion per year in otherwise lost revenue for our customers.</p>
+<p>
+While these are the frontline of our business offerings, we offer our customers much more. Features such as outbound call tracking, broadcast messaging and surveys, a group voice messaging system, credit card number scrubbing, voice transcription, call report card grading, and soon plug-and-play call center monitoring without the need for separate tracking phone numbers. We’ve got many more projects in the pipeline and are looking for your help and your ideas.</p>
+<h3 class="jobSectionHeader"><b>
+EOE Statement</b></h3>
+<p>Callcap is an equal opportunity employer. In accordance with anti-discrimination law, it is the purpose of this policy to effectuate these principles and mandates. Callcap prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, sex, national origin, age, disability or genetic information. Callcap conforms to the spirit as well as to the letter of all applicable laws and regulations. Additionally, Callcap will take action to employ, advance in employment and treat qualified Vietnam-era veterans and disabled veterans without discrimination in all employment practices.</p>
+<h3 class="jobSectionHeader"><b>
+Job Type:</b></h3>
+<p>Full-time</p>
+<h3 class="jobSectionHeader"><b>
+Reports To:</b></h3>
+<p>Callcap Dev Manager</p>
+</div></div>
+<div></div>
+</div>

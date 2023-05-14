@@ -1,0 +1,49 @@
+<h2>Retail Systems Business Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>JOB SUMMARY:</b><br>
+Responsible for identifying and documenting the business needs of various business units, to include understanding their structure, processes, and operations, and interpreting their rules, requirements, and workflows to help the business achieve their goals and resolve their business challenges via information technology solutions. This role acts as a liaison between the business and technology functions of the company.<br>
+<br>
+<b>KEY RESPONSIBILITIES (other duties as assigned):</b><br>
+<ul>
+<li>Elicits and documents business requirements using interviews, workshops, and/or existing systems documentation or procedures. Uses industry standard analysis techniques to document business requirements such as data flow modeling, use case analysis, workflow analysis, functional decomposition analysis, and object modeling.</li>
+<li>Participates in the deployment of Retail Software to La-Z-Boy Furniture Galleries to include Readiness Assessment, table set and configuration, data conversion, training, and deployment.</li>
+<li>Develops functional designs (FDD’s) to include wire frames, logical data model, system interfaces, and security requirements, and reviews with and obtains stakeholder approvals.</li>
+<li>Performs System Testing and reports and tracks issues identified through resolution.</li>
+<li>Develops user acceptance test plans and test scenarios and manages the execution of UAT. Documents test results and monitors and reports testing results and status.</li>
+<li>Perform first and second level production support to Retail systems, including analysis and resolution of assigned ServiceNow incidents.</li>
+<li>Manages requirements and functional design through entire lifecycle - tracks and fully documents changes for functional and business specifications; writes detailed universally understood procedures for permanent records and for use in training.</li>
+<li>Leads and conducts definition, documentation, testing, training, implementation, and support of system requirements on assigned projects. Manages issues and reports status to assigned Project Manager.</li>
+<li>Liaison between departmental end-users and I.T. in the analysis, design, configuration, testing and maintenance of information systems to ensure optimal operational performance.</li>
+</ul>
+<br>
+<b>
+SCOPE &amp; IMPACT:</b><br>
+This role primarily supports the RMS system, but is used cross functionally across many La-Z-Boy information systems. The RMS system supports (6) Retail Distributions Centers across the U.S, (130+) Retail stores, and (60+) independent dealer stores all comprising hundreds of users transacting daily on the system that this role supports. Additionally, the role is responsible for maintaining an understanding of multiple business disciplines within the organization to effectively perform the job duties, to include but not limited to, Retail, Point of Sale, Operations (warehousing), Merchandising/Purchasing, and Accounting.<br>
+<br>
+<b>MINIMUM REQUIREMENTS:</b><br>
+<ul>
+<li>Bachelor’s degree with 2 – 4 years of relevant experience or equivalent.</li>
+<li>20% travel required.</li>
+</ul>
+<br>
+<b>
+PREFERED REQUIREMENTS:</b><br>
+<ul>
+<li>Certified Business Analyst Professional</li>
+<li>Experience with DROOLS, Pentaho, and Business Objects.</li>
+</ul>
+<br>
+<b>
+SUPERVISORY RESPONSIBILITIES: None.</b><br>
+<br>
+<b>PHYSICAL DEMANDS/WORK ENVIRONMENT:</b><br>
+Office environment / no specific or unusual physical or environmental demands.<br>
+<br>
+<b>CORE ATTRIBUTES:</b><br>
+Communicate Transparently<br>
+Lead the Team<br>
+Impact and Influence<br>
+Deliver Results<br>
+Coach and Develop<br>
+<br>
+<b>OTHER DUTIES:</b> Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the incumbent for this job. Duties, responsibilities and activities may change at any time with or without notice.</div></div>

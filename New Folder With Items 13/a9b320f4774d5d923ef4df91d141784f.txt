@@ -1,0 +1,78 @@
+<h2>Program Architect, Health Insurance</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Company Description
+<br>-------------------
+<br><br>
+Vlocity is a leading provider of industry-specific cloud and mobile software, driving digital transformation for the world's largest companies. A Forbes 2018 &amp; 2017 Cloud 100 Winner, Vlocity is an 'industry cloud' pioneer built in partnership with Salesforce, the world's #1 CRM provider, increases agility, operational efficiency and simplicity, at a lower cost of ownership for the enterprise. Vlocity's cloud software suite transforms customer centric processes and fuels innovation in the Communications, Media &amp; Entertainment, Energy &amp; Utilities, Insurance, Health, and Government vertical industries. Vlocity's values of trust, transparency and transformation drive customer, partner and employee success. Clickhere ( https://vlocity.com/company/careers/learn-more ) to learn more about Vlocity.
+<br><br>
+Job Description
+<br>---------------
+<br><br>
+Vlocity Advisory Services (Program Architects) provide trusted Industry-specific business and enterprise-level technical advice to major customer organizations globally.
+<br><br>
+We work within the broader Vlocity Customer Success team and serve as the Customer Advocate to ensure success throughout the Customer life cycle.
+<br><br>
+The Vlocity Program Architect will be well versed in using the Vlocity Industry Cloud Applications and Methodologies strategically.
+<br><br>
+A Vlocity Program Architect will engage our Customers, from CxO to program level, to understand their business priorities, their technology architecture landscape and digital strategic aims in order to ensure effective digital transformation with great holistic success.
+<br><br>
+<b>We live the Vlocity values in everything we do:</b> Customers First, Integrity, People at the Core, Innovation, Speed matters, Giving Back &amp; We are all shareholders.
+<br><br>
+Responsibilities
+<br><br>
+<ul>
+<li>Collaborate with customer to understand and execute against the long term strategy</li>
+<li>Be the overall Vlocity customer advocate for enabling the digital transformation by actively engaging full-time to providing solution/technical guidance and demonstrating leadership</li>
+<li>Take accountability for the Vlocity architecture and design. Provide design guidance/patterns to customer, other SIs and implementation team</li>
+<li>Ensure you have a deep understanding of the Vertical Industry</li>
+<li>Continuously provide best practices to ensure the customer receives desired returns on investment</li>
+<li>Be a conduit to Vlocity product and engineering team on behalf of the customer. Align customer on future roadmap and upgrades</li>
+<li>Become highly certified and recognized Vlocity platform expert</li>
+<li>Participate in specific governance meetings where Vlocity needs representation</li>
+<li>Build CxO, business, IT and enterprise architect level relationships within the customer team. Being able to influence leaders from customer teams is crucial</li>
+<li>Contribute to the growth of PA program across Vlocity globally. Mentor newer team members on being a top performer in that role</li>
+<li>Measuring Program Architect value-add to the customer and ensure high stickiness</li>
+</ul>
+Experience
+<br><br>
+<ul>
+<li>Extensive (10+ years) experience and understanding of the health industry and need for digital disruption</li>
+<li>Foundational understanding of individual, small group, large group plans supporting medical, dental, vision offerings</li>
+<li>10+ years of enterprise consulting experience spanning large organizations and enterprise platforms such as Salesforce.com, Oracle, Siebel, Microsoft, Amdocs, Netcracker, etc.</li>
+<li>5+ years experience as a Senior Architect and/or CTO in a mid to large sized organization. Successfully demonstrated leadership and influential skills in a complex organization</li>
+<li>Experience with key areas of enterprise architecture, including integration technologies, master data management, AWS, CDNs, etc.</li>
+<li>Experience with Agile implementation frameworks</li>
+<li>Ability to work independently and be a self-starter in one or more of the following domains: front- and back-end solution architecture, web/mobile solutions, development and release management strategies, change management, and direct leadership in designing solutions that meet or exceed customer needs</li>
+<li>Proven ability to analyze, design, and optimize business processes via technology and integration</li>
+<li>Guiding customers and colleagues in rationalizing and deploying emerging technologies that drive increased business value</li>
+<li>Accomplished speaker with the ability to evangelize best practices at various levels within a large organization, SIs or a combination of the two</li>
+<li>Continually study new Vlocity &amp; Salesforce technologies and functionality, as well as be involved in projects that push the capabilities of existing technologies</li>
+<li>Excellent communication skills, both written and verbal. Able to effectively develop materials that are appropriate for the audience</li>
+<li>Strong presentation skills. Able to effectively present and defend a point of view to a variety of audiences</li>
+<li>Travel to the client site (average of 75%), but may be higher or lower based on the client engagement</li>
+<li>Passionate about solving tough client problems</li>
+</ul>
+Technical Skills
+<br><br>
+<ul>
+<li>Salesforce Certified preferred- Admin, Developer, Sales and Service Clouds</li>
+<li>Alternatively, Architecture certifications from equivalent platforms (AWS, Oracle…)</li>
+<li>Prior platform experience at Oracle, Amdocs, Integration Platforms such as Informatica, SSO, Security/Data Privacy, Mobile, etc.</li>
+<li>Extensive experiences with integration platforms supporting mission-critical, large volumes</li>
+<li>Understanding of Integration Patterns and Enterprise Component architecture</li>
+<li>Understanding of DevOps and Release Management for large scale transformation projects</li>
+<li>Ability to use Google and Microsoft productivity tools</li>
+<li>Not afraid to get hands dirty to solve problems or demonstrate certain development patterns</li>
+<li>Understanding of Mobile and Lightning Style frameworks and channels</li>
+</ul>
+Desired Certifications / Qualifications
+<br><br>
+<ul>
+<li>Salesforce.com certifications in Administration, Sales/Service Cloud, Marketing Cloud, etc.</li>
+<li>Bachelor's or Master's degree in Computer Science, Software Engineering, STEM Subject, Business or a related field</li>
+<li>Product catalog and CPQ solutions (e.g. Apttus, Siebel, Steelbrick, NetCracker, Amdocs, etc)</li>
+<li>Affiliated to industry forums such as TM Forum (SID, eTOM), InsurTech</li>
+<li>Solid understanding of regulations such as HIPAA, GDPR, etc.</li>
+<li>TOGAF / Architecture qualification</li>
+<li>Agile Methodology certification (eg Scaled Agile Framework)</li>
+</ul>
+Vlocity welcomes all. In our journey as a company -- and as individual Vlociters -- we recognize that our diversity is our strength. We are proud to be an Equal Employment Opportunity employer. All aspects of employment including our decisions to recruit, hire, promote, transfer, discipline, or separate are based on merit, competence, performance, and business needs. We do not discriminate on the basis of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. We are committed to creating an inclusive environment for all employees to bring their authentic selves to work every day. We provide accommodation for our Vlociters with disabilities both seen and unseen in the spirit and letter of the Americans with Disabilities Act (ADA).</div>

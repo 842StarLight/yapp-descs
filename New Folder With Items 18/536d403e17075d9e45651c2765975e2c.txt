@@ -1,0 +1,35 @@
+<h2>SAP BW Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div>
+<ul>
+<li>Post Date: April 8, 2019</li>
+<li>Salary: $0.00 - $0.00 / Monthly</li>
+</ul>
+<ul>
+</ul>
+</div></div>
+<div>
+<div><h2 class="jobSectionHeader"><b>Job Description</b></h2></div>
+<div>
+<p>SAP BW Developer</p>
+<ul>
+<li>Extract data from CRM or PLM into BW. Consultants would be involved in different tasks throughout the project lifecycle.</li>
+<li>Understanding and documenting the functional and technical requirements</li>
+<li>Designing the target solution</li>
+<li>Implementation of SAP Business Intelligence analytics solutions</li>
+<li>Maintain and correct applications to keep them performing in accordance with technical and functional specifications</li>
+<li>Work within a multi-language, multicultural, multi-discipline environment</li>
+</ul>
+<p><b>Required Skills:</b></p>
+<ul>
+<li>Experience in BI/BW application development and implementation in SAP ECC integration, SAP BW 7.x, BEx 7.x, Enterprise Portal, Solution Manager 7.1, SAP CRM, SAP SCM, ABAP Programming, Business Objects 4.x</li>
+<li>Planning and organizational skills, including ability to engage with multiple development projects concurrently and working to tight deadlines</li>
+<li>Experience with process improvement for operational support systems</li>
+<li>Experience communicating technical and business issues/solutions to all levels of management</li>
+<li>Business process experience and knowledge of SAP components and functionality such as: SAP Finance and Controlling (FI/CO), Sales and Distribution (SD), Materials Management (MM), Production Planning (PP), Supply Chain Management (SCM, including APO, SNC), and SAP Customer Relationship Management (CRM)</li>
+<li><b>MUST have worked on extracting data from CRM OR PLM into BW</b></li>
+<li>Agile and ABAP skills are a plus</li>
+</ul>
+</div>
+</div>
+</div></div>

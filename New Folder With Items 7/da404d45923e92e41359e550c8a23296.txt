@@ -1,0 +1,66 @@
+<h2>Senior QA Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>SUMMARY</b></div>
+<div>The QA engineer will join the Commercial applications development team that creates state of art CRM and web applications with Salesforce Clouds, Salesforce Community Cloud, and web development tools. These applications are used by ANSYS sales, marketing and business operations to manage over $1.2B in revenue. They are also used by our customers worldwide to interact with ANSYS, use our software, and obtain support.</div>
+<div>The QA engineer will collaborate daily within an Agile SCRM development teams to assess the quality of user stories, define and execute test plans and strategies. The QA engineer will also collaborate daily with product owners about how a feature should work, how quickly it should perform, and what will be the resulting customer experience.</div>
+<div>The QA engineer plays ultimately a key role as the advocate for the customer experience and product quality. He helps building customer facing products that meet today Digital world expectations - fast, accurate, and pixel-perfect applications.</div>
+<div></div>
+<br>
+<div><b>RESPONSIBILITIES</b></div>
+<ul>
+<li>Define the test strategies and tests schedules as part of the product planning and the Agile sprints; help to define the test automation strategy as part of continuous integration and deployment.</li>
+<li>Develop and execute comprehensive test plans for Salesforce CRM, including Community Cloud</li>
+<li>Participate to user stories grooming sessions and to the sprint planning sessions to provide input on user stories quality</li>
+<li>Write and execute functional test in collaboration with another QA engineer</li>
+<li>Participate to daily Scrum with developers and products owners and provide input on the overall quality status and tasks</li>
+<li>Coordinate the User Acceptance Tests and System Build Verification Tests with release management engineers and product owners</li>
+<li>Maintain a library of regression testing as part of the continuous improvement of existing applications</li>
+<li>Lead triage meetings, coordinate re-testing and validation, define and lead reporting and tracking</li>
+<li>Maintain accurate and up to date QA information in the ANSYS TFS Agile development environment</li>
+<li>Provide constructive feedback and recommendation to the SCRUM team(s) as part of the retrospectives</li>
+</ul>
+<div></div>
+<br>
+<div><b>MINIMUM QUALIFICATIONS</b></div>
+<ul>
+<li>Bachelor’s degree in computer science, electrical engineering or a related field</li>
+<li>5 years of experience in CRM configuration or software development as part of a development team</li>
+<li>2 years of experience in the Salesforce environment</li>
+<li>2 years of experience in software quality assurance with all phases of testing</li>
+<li>Ability to thrive in a team environment that operates under the self-organizing principles of Agile Scrum</li>
+<li>Attention to details and to the pixel perfect quality of customer facing Digital products</li>
+</ul>
+<div></div>
+<br>
+<div><b>PREFERRED QUALIFICATIONS</b></div>
+<ul>
+<li>Experience in building large-scale commercial applications in the high-tech industry</li>
+<li>Experience with the APEX programming language</li>
+<li>Salesforce certifications</li>
+<li>Experience working in an Agile Scrum environment with tools such as Jira or TFS</li>
+<li>Experience with global environments and working across many teams and cultures</li>
+</ul>
+<div></div>
+<br>
+<div><b>CULTURE AND VALUES</b></div>
+<div>Culture and values are incredibly important to ANSYS. They inform us of who we are, of how we act. Values aren't posters hanging on a wall or about trite or glib slogans. They aren't about rules and regulations. They can't just be handed down the organization. They are shared beliefs – guideposts that we all follow when we're facing a challenge or a decision. Our values tell us how we live our lives; how we approach our jobs. Our values are crucial for fostering a culture of winning for our company:</div>
+<ul>
+<li>Customer focus</li>
+<li>Results and Accountability</li>
+<li>Innovation</li>
+<li>Transparency and Integrity</li>
+<li>Mastery</li>
+<li>Inclusiveness</li>
+<li>Sense of urgency</li>
+<li>Collaboration and Teamwork</li>
+</ul>
+<div></div>
+<br>
+<div>ANSYS is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other protected characteristics.</div>
+<div></div>
+<br>
+<div>ANSYS does not accept unsolicited referrals for vacancies, and any unsolicited referral will become the property of ANSYS. Upon hire, no fee will be owed to the agency, person, or entity.</div>
+<div></div>
+<br>
+<div>#SP</div>
+</div></div>

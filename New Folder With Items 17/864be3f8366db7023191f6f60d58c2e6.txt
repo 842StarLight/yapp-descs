@@ -1,0 +1,155 @@
+<h2>Associate Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div><b>DriveTime Needs an Associate Systems Engineer</b></div>
+<div></div>
+<br>
+<div>
+DriveTime is the nation’s second largest used car retailer, focused on helping people find and finance used vehicles (trust us, it’s more exciting than it sounds). We have single-handedly rebuilt, retooled, redreamed and reconfigured the way people think about driving cars, breaking apart from the industry’s status quo. For more than 17 years, DriveTime has changed the auto world from the ground up while emphasizing values, morals and growth from the inside-out!</div>
+<div></div>
+<br>
+<div>
+DriveTime’s goal is to take every customer on the full path to ownership. All the way from purchasing vehicles, inspecting and selling; to financing, servicing and warranties – when it comes to owning a vehicle - we know what’s up! As motivated as we are to take our customer on the path to ownership, we are just as focused on taking our employees on the path to owning their careers. Across the nation, from our home office and call centers to our 138 retail locations and 20 inspection centers, we are looking for talented individuals like yourself to join our ever-growing team!</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<div><b>That’s Nice, But What’s the Job?</b></div>
+<div></div>
+<br>
+<div>
+In short, as an Associate Systems Engineer, Support the day-to-day IT operations of area DriveTime Car Sales locations with the ability to troubleshoot and diagnose system, Server, and LAN related issues. Strong technical skills relating to Windows Server, Windows 10, Active Directory, PowerShell Scripting, Virtualization and Cisco Networking are required in this role. This is the perfect position for the System Admin and/or budding System Engineer who wants to learn even more, and grow their skills in an advanced environment.</div>
+<div></div>
+<br>
+<div>
+In long, as an Associate Systems Engineer, you are responsible for:
+</div>
+<ul>
+<li>Windows Server setup, troubleshooting, maintenance and management
+</li>
+<li>Performing administrative tasks with Hypervisors (ESXi and AHV), to include monitoring and maintenance</li>
+<li>
+Coordinating with business units and execute system patches, upgrades and scheduled maintenance</li>
+<li>
+Microsoft Active Directory Administration on a regular basis to include Azure AD, Office 365, DNS, and Active Directory Federation Services (ADFS) support and maintenance</li>
+<li>
+Working with Enterprise Architects to execute projects and tasks as needed</li>
+<li>
+Assisting with monitoring and maintenance of Citrix Virtual Desktops</li>
+<li>
+Maintaining maximum system up time for maximum end-user productivity</li>
+<li>
+Willingness and ability to learn, and adapt to rapid change</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<div><b>So What Kind of Folks Are We Looking for?<br>
+</b></div>
+<div></div>
+<div>This is the perfect position for the System Admin and/or budding System Engineer who wants to learn even more, and grow their skills in an advanced environment. Our culture rewards ambitious people who thrive in an environment of autonomy and frequent change.</div>
+<div></div>
+<br>
+<ul>
+<li>
+<b>
+Organization and time management skills in spades. </b>You’ll be handling multiple projects and deadlines that will require you to prioritize then re-prioritize… then… re-prioritize again.</li>
+<li>
+<b>
+Excellent verbal and written communication skills - </b>the ability to talk and write with confidence, charisma and competence for a wide variety of audiences.</li>
+<li>
+<b>
+Detail-oriented. </b>Okay we know it’s on about every job description – but we really mean it!</li>
+<li>
+<b><i>
+Team Orientation</i></b>. You appropriately include others in decision making. You genuinely care about co-workers’ wellbeing and input and are interested in developing collaborative working relationships characterized by trust and mutual respect.</li>
+<li>
+<b><i>
+Decisiveness</i></b>. You’re able to make timely, informed decisions that take into account facts, goals, constraints, and risks.</li>
+<li>
+<b><i>
+Outcome Orientation</i></b>. You understand the “whys” behind tasks, and are able to achieve complex goals with a high level of autonomy.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+The Specifics.</b></div>
+<ul>
+<li>
+High School Diploma or equivalent</li>
+<li>
+Possess 3 - 5 years of Windows/Network/System administration experience<br>
+OR Any equivalent combination of education, training and/or experience that fulfills the requirements of the position will be considered</li>
+<li>
+MCSA and/or CCNA certification preferred</li>
+<li>
+Experience with Virtualization – VMWare ESXi and/or Nutanix AHV</li>
+<li>
+Experience with Nutanix Enterprise Cloud Platform preferred</li>
+<li>
+Works with minimal supervision</li>
+<li>
+Exhibits strong customer service skills</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Anything Else? Absolutely.</b></div>
+<div></div>
+<br>
+<div>
+DriveTime was awarded Top Companies to Work for in AZ by AZCentral.com for our great culture and one of the Best Places to Work in IT as awarded by PBJ. Essentially we offer a creative, transparent and fun environment since, well, we work here too. DriveTime was also voted the Fastest-Growing Private Companies by Inc 5000, and we aren’t slowing down anytime soon!</div>
+<div></div>
+<br>
+<div>
+<b>
+PHYSICAL DEMANDS</b><br>
+<br>
+The Physical demands described within are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</div>
+<ul>
+<li>
+Must be able to lift up to 10 pounds independently; majority of lifting from knee to shoulder heights; other lifting required from various levels.</li>
+<li>
+Must be able to carry and transport up to 10 pounds up to 60 feet.</li>
+<li>
+Requires sitting for extended period of time with frequent stretching, reaching, walking and stooping.</li>
+<li>
+Requires excellent visual acuity and manual dexterity.</li>
+<li>
+Must be able to communicate professionally over the phone to customers</li>
+<li>
+Requires typing for extended periods of time.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+So What About the Perks? Perks matter.</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+<b>
+Medical, Dental and Vision.</b> DriveTime pays a nice chunk of your premiums to keep the cost as low as possible for our employees.</li>
+<li>
+<b>
+Ample PTO and 6 paid Holidays.</b> Because who doesn’t love time off?</li>
+<li>
+Benefits like 401(k), company paid life insurance, short and long-term disability.</li>
+<li>
+<b>
+Casual Dress.</b> Come dressed in jeans (you’ll fit right in with the rest of us).</li>
+<li>
+<b>
+Game Room</b>. Gimme a break – no, not a Kit Kat ad but we do have a ping-pong table, pool table and Virtual Reality if you ever need a break in your day.</li>
+<li>
+<b>
+Wellness Program and In-House Gym.</b> We want our employees to be the best versions of themselves. That’s why we offer a Wellness Program that includes an in-house gym, B12 shots, teeth cleanings, biometric screenings and much more!</li>
+<li>
+<b>
+Growth opportunities</b>. DriveTime takes a lot of pride in promoting from within. We have spent the last 14 years growing our team members and taking them on the path to owning their careers!</li>
+</ul>
+</div></div></div>
+</div></div>

@@ -1,0 +1,83 @@
+<h2>Mechanical FEA Engineer - Northeast</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>We are looking for a Mechanical Engineer with up to 3 years of industry experience to join our world-class FEA Support and Consulting team! This position will be based out of our Rochester office location.</p>
+<br>
+<p></p>
+<p>The right candidate will become a key member of our technical staff; working and learning in an exciting and challenging technical environment. Success of the Mechanical Engineer will be measured not only by helping to grow SimuTech’s FEA and CFD business, but also by continued development of your own technical skills by solving challenging problems in a wide variety of industries. Each member of our staff is a CFD or FEA expert who also maintains expertise in one or more specialized fields. Many of our engineers hold advanced degrees with extensive experience in the engineering consulting business. We maintain a high level of professionalism in a friendly, cooperative, flexible environment.</p>
+<br>
+<p></p>
+<p>Essential Job Functions/Accountabilities:</p>
+<br>
+<p></p>
+<p>The Mechanical Engineer will use software such as ANSYS Mechanical and Mechanical APDL to provide:</p>
+<br>
+<p></p>
+<p>1. Technical Support - Provide Support to end users of ANSYS by phone, e-mail, or in person.</p>
+<br>
+<p></p>
+<p>2. Pre-sales Support - Work with our account managers to determine the customer's software needs, answer customer questions during the sales process and provide software demos/presentations on a variety of subjects.</p>
+<br>
+<p></p>
+<p>3. Consulting</p>
+<ul>
+<li>Work with customers to determine their analysis requirements and expectations.</li>
+<li>Develop quotes/proposals by determining scopes, costs and schedules</li>
+<li>Work with customers to propose alternative design ideas</li>
+<li>Write analysis reports and other technical documents requested by the customer</li>
+</ul>
+<p>4. Technical Training - Teach ANSYS classes at client sites, on-line, and in SimuTech offices across the U.S. and Canada</p>
+<br>
+<p></p>
+<p>DESIRED SKILLS AND EXPERIENCE</p>
+<p>Non-Negotiable Hiring Criteria:</p>
+<ul>
+<li>Must be a U.S. citizen or permanent resident.</li>
+<li>Professional appearance and presentation required.</li>
+<li>Good communication skills and proficient in Microsoft Office.</li>
+<li>Must be able to work well in a group and independently.</li>
+<li>Excellent English-based technical writing and verbal skills</li>
+<li>Documented industry experience with: ANSYS Mechanical (Workbench) and ANSYS Mechanical APDL (formerly called ANSYS classic)</li>
+<li>Ability to communicate with customers on a technical pre-sales basis to help drive software and services sales</li>
+<li>Creativity</li>
+<li>Superb problem-solving and analytical skills</li>
+<li>Solid theoretical background in structural mechanics and numerical methods backed up by real-world, production-level experience</li>
+<li>Documented experience (as evidenced by industry experience and/or publications in reputable journals) in at least one of these areas:</li>
+</ul>
+<ul>
+<li>Structural linear and non-linear static implicit<br>
+analysis methods (non-linear materials including plasticity and hyperelasticity as well as contact and large strain/large deformation)</li>
+<li>Implicit dynamics including linear (modal, harmonic, response spectrum, random vibration) and time domain transient Thermal analysis including steady-state and time domain transient</li>
+<li>Explicit dynamics</li>
+</ul>
+<ul>
+<li>Familiarity with grid generation and meshing techniques (Workbench Meshing, Gridgen, Hypermesh, Mechanical APDL or ICEM)</li>
+<li>Personable attitude with an ability to work well with clients and other staff</li>
+<li>Bachelor's degree in Engineering required; Master's degree considered a plus</li>
+<br>
+</ul>
+<p></p>
+<br>
+<p>Helpful Qualifications / Non-requirements:</p>
+<ul>
+<li>ANSYS programming skills, including GUI customization in J-script and Python</li>
+<li>Explicit dynamics modeling experience (crash impact, metal forming simulations, etc.) using LS-Dyna, Autodyne, or Abaqus Explicit</li>
+<li>Ability to use 3-D CAD to modify parts and assemblies (SpaceClaim Direct Modeler, DM, Solidworks, ProE or Unigraphics preferred)</li>
+<li>Practical ANSYS experience manipulating and/or modeling complex 3-D assemblies</li>
+<li>Academic background or work experience in fluid mechanics and CFD</li>
+<li>Experience with optimization and DOE methods</li>
+<li>LF/Maxwell experience</li>
+<br>
+</ul>
+<p></p>
+<p><b>About the company:</b></p>
+<p>SimuTech Group is an engineering services company specializing in the entire ANSYS suite of software, providing the most comprehensive coupled physics software tools combining structural, thermal, CFD, acoustic, electromagnetic and system simulation capabilities all on one platform.
+</p>
+<p></p>
+<p>As the largest full-service provider of ANSYS Multiphysics simulation software in North America, we have offices in Atlanta, Chicago, Cincinnati, Cleveland, Denver, Rochester, San Diego, Seattle, Montreal, and Toronto.</p>
+<br>
+<p></p>
+<p>We provide sales, technical support, training, mentoring and consulting services for ANSYS simulation software. Training is provided at nine facilities throughout North America. Customized on-site training is also available.</p>
+<br>
+<p></p>
+<p><i>SimuTech Group is an Equal Opportunity Employer.</i></p>
+</div></div>

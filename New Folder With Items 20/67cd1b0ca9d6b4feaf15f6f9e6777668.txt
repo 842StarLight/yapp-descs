@@ -1,0 +1,121 @@
+<h2>Principal Architect - Unified Communication and Collaboration</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>What you’ll be doing...</b>
+</p>
+<p>As an Advanced Communications Principal Architect in Verizon Business Group (VBG) within the Advanced Technology Group (ATG), you will be responsible for acting as the technical presales expert, primarily focused on engaging with clients, contributing technical elements to Product Management, supporting the ATG Solution Architect team in complex solutions and driving sales opportunities to closure by providing technical design and validation.</p>
+<ul>
+<li>
+Responsible for articulating and designing solutions for the latest technology and market trends and relating them to Verizon Unified Communications and Collaboration product features. Your goal is to ensure that our internal and external clients are equipped with the latest reference design architectures, and are following best practices</li>
+<li>
+Design and/or implement UC technology for a range of enterprise customers, and would like to further enhance their skills, tenure and experience while sharing their passion for technology</li>
+<li>
+Serve as pre-sales engineering and technical expert in Verizon’s IP Telephony, Unified Communications and Collaborations solutions portfolio, including associated hardware, software, licensing, professional services, and network architecture</li>
+<li>
+Work with the Solution Architects and account teams as the lead UC subject matter expert to lead customer discussions, develop solutions and recommend Verizon products and services to meet customer’s business requirements</li>
+<li>
+Create and deliver customer facing materials, both formal and informal at various levels, including leading detailed technical discussions as well as delivering business-focused C-Level presentations</li>
+<li>
+Work with CISCO Webex teams &amp; Jabber- designing solutions, encompassing Cisco collaboration suite for meetings, messaging and calling. Cisco Webex teams Board for Room and Admin functionality encompassing security, compliance and analytics solution review. Leading to design validation for provisioning, management and Professional Services support</li>
+<li>
+Solid understanding of network design best practices convergence (QoS/CoS), routing (BGP, EIGRP) and switching (VLAN trunking, Ethernet) with focus on resiliency, availability, and latency</li>
+<li>
+Knowledge of all aspects of IP Telephony and UC&amp;C solutions:<ul>
+<li>
+Station- and/or trunk –side SIP designs including a detailed understanding of SIP Messaging and Call Flows</li>
+<li>
+Experience designing and engineering technical solutions containing IP-PBX components</li>
+<li>
+Session Border Control design</li>
+<li>
+Determine customer requirements, and designing hosted UC solutions leveraging cloud based architectures, such as: Unified Communications as a Service (UCCaaS)</li>
+<li>
+Video (HD) and Telepresence design</li>
+<li>
+Webex, Microsoft, Avaya and Zoom collaboration suite.</li>
+</ul>
+</li>
+</ul>
+<p><b>
+What we’re looking for...</b>
+</p>
+<div>You’ll need to have:</div>
+<ul>
+<li>
+Bachelor’s degree in Engineering or Computer Science or four or more years of work experience.</li>
+<li>
+Six or more years of relevant work experience.</li>
+<li>
+Five or more years of architecture experience in conceptualization, definition and development of IT and or telecom based products and service.</li>
+<li>
+Three or more years in customer facing positions (sales, sales engineering, consulting)
+</li>
+<li>Willingness to travel.</li>
+</ul>
+<div>
+Even better if you have:</div>
+<ul>
+<li>
+Masters in engineering, computer science or business administration or related discipline.</li>
+<li>
+Communications and presentations skills, both oral and written.</li>
+<li>
+Experience in sales or service of Fortune 500 companies</li>
+<li>
+Project delivery experience within Fortune 500 companies</li>
+<li>
+Knowledge and design of Video Architecture (SIP)</li>
+<li>
+Microsoft Teams, O365, experience or certification(s)</li>
+<li>
+Knowledge of API’s related to UC&amp;C applications</li>
+<li>
+Current and valid industry certifications.</li>
+<li>
+Career Certifications or relevant work experience such as:<ul>
+<li>
+Cisco Certified Design Associate/ Cisco Certified Network Associate (CCDA/CCNA)
+</li>
+<li>Cisco Certified Network Professional/ Cisco Certified Design Professional (CCNP/CCDP)
+</li>
+<li>Cisco Certified Voice Professional (CCVP)</li>
+<li>
+Cisco Certified Internetworking Expert (CCIE) Either Internetworking or Voice Track</li>
+<li>
+Avaya Certified Solutions Specialist (ACSS)</li>
+<li>
+Avaya Certified Specialist (ACS)</li>
+<li>
+Avaya Certified Expert (ACE)</li>
+<li>
+Avaya Certified Solutions Architect (ACSA)</li>
+<li>
+SIP School Certification (SSCA)</li>
+</ul>
+</li>
+<li>
+SBC Certifications such as:<ul>
+<li>
+Acme Packet/Oracle</li>
+<li>
+SONUS/Ribbon</li>
+</ul>
+</li>
+<li>
+This position can be located anywhere in US and isremote workforce enabled.</li>
+</ul>
+<p><b>
+When you join Verizon...</b>
+</p>
+<p>You’ll have the power to go beyond – doing the work that’s transforming how people, businesses and things connect with each other. Not only do we provide the fastest and most reliable network for our customers, but we were first to 5G - a quantum leap in connectivity. Our connected solutions are making communities stronger and enabling energy efficiency. Here, you’ll have the ability to make an impact and create positive change. Whether you think in code, words, pictures or numbers, join our team of the best and brightest. We offer great pay, amazing benefits and opportunity to learn and grow in every role. Together we’ll go far.</p>
+<p><b>
+Notice(s)</b>
+</p>
+<p>Verizon will consider qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.</p>
+<p><b>
+Equal Employment Opportunity</b>
+</p>
+<p>We're proud to be an equal opportunity employer- and celebrate our employees' differences,including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,85 @@
+<h2>Salesforce Technical Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Taxnexus, Inc. is a cannabis fintech startup based in Berkeley, California. We are building a tech team to take on the challenge of developing a new category of financial services — Tax Compliance as a Service.</p>
+<p>Using modern cloud technologies, Taxnexus challenges the traditional ways that business of all sizes will meet the increasingly complex challenges of paying sales and speciality taxes, starting with Cannabis Taxes.<br>
+</p>
+<p>The Taxnexus Salesforce Technical Architect is the hands-on leader of the Taxnexus in-house development team. Under the TA’s leadership, Taxnexus will use the power of Salesforce to disrupt the global tax industry.<br>
+</p>
+<p>At Taxnexus, we don’t build enterprise-class systems, but carrier-class systems that stand up to the service delivery demands of a trusted financial transaction network.<br>
+</p>
+<p>You are both a big picture thinker and in-depth problem solver, your knowledge and skills are both broad and deep. You take pride in designing systems that stand up to high volumes and won’t fail at critical points. The solutions you design are built for the long-term and can take a company from one customer to one million customers seamlessly. You have proven experience integrating systems via API’s as well as a strong development background.</p>
+<p>To apply, submit an Employment Application and send your resume to jobs@taxnexus.net.<br>
+</p>
+<p><b>CHALLENGES and OPPORTUNITIES:</b></p>
+<ul>
+<li>Architect and implement a new transaction network that will process billions of dollars of cannabis transactions</li>
+<li>
+Keep technical debt low establishing sound practices for ensuring code reviews, high test coverage, and documentation</li>
+<li>
+Work closely with experienced developers who love discussing databases and APIs</li>
+<li>
+Collaborate with non-engineering teammates to solve difficult practical problems</li>
+<li>
+Partner with Founders and Product Lead to set and manage expectations in delivering high quality technology at a fast pace</li>
+<li>
+Gain exposure to all parts of the venture capital, private equity, and startup ecosystems</li>
+<li>
+Recruit other talented engineers as we continue to grow</li>
+<li>
+Own a part of the equity in the company you’d help build</li>
+<li>
+Have fun and learn with our incredible team</li>
+</ul>
+<p><b>ROLES and RESPONSIBILITIES:</b></p>
+<ul>
+<li>Develop and enforce the roadmap, standards and compliance in the broad functional domain of service delivery.</li>
+<li>
+Manage technical guidance and architectural decisions regarding designing, building, testing, deploying and maintaining highly-available, scalable, and secure applications</li>
+<li>
+Constantly research, evaluate and identify new technologies for implementation</li>
+<li>
+Engage with key customer stakeholders to understand desired business outcomes and define success criteria</li>
+<li>
+Contribute to every phase of the project lifecycle, including development, testing, deployment, and supporting</li>
+<li>
+Align internal IT strategy and planning with application development and business roadmaps designed to maintain a Connected Enterprise design pattern</li>
+<li>
+Create detailed solution &amp; technical architecture diagrams, data models, mockups and process maps that supports solutions as required to demonstrate and ensure business alignment with proposals</li>
+<li>
+Responsible for the end to end solution design and technical implementation within the scope of a business applications projects</li>
+</ul>
+<p><b>PROFESSIONAL QUALIFICATIONS:</b></p>
+<ul>
+<li>10+ years of CRM industry experience</li>
+<li>
+4+ years of deep technical experience working with Salesforce.com</li>
+<li>
+4+ years of experience as an architect with experience in defining solution architecture for complex project involving multiple applications and technologies</li>
+<li>
+Expert level understanding of the Salesforce product suite, including Sales, Service, Community, and Marketing Clouds, as well as the Force.com Platform</li>
+<li>
+A demonstrated background in System Architecture, Development &amp; System Integration using Salesforce and other cloud-based platforms.</li>
+<li>
+Adeptly applies SaaS and PaaS to business challenges and knows where each is best-fit; translates business requirements and technical requirements into Salesforce capabilities</li>
+<li>
+Experience with multiple Salesforce implementations, including a deep knowledge of system limitations and governor limits.</li>
+<li>
+A proven ability to learn new products, develop technical knowledge and apply new skills in a high paced environment</li>
+<li>
+Excellent client-facing written and oral communications skills</li>
+<li>
+Ability to lead a team of Salesforce professionals</li>
+</ul>
+<p><b>EDUCATION:</b></p>
+<ul>
+<li>Bachelor’s in Computer Science or related field or comparable industry experience required</li>
+<li>
+SFDC certifications (Advanced Admin, Platform Developer II, Technical Architect) preferred</li>
+</ul>
+<p><br>
+To apply, submit an Employment Application and send your resume to jobs@taxnexus.net.
+</p>
+<p>The statements contained in this position description are not necessarily all-inclusive; additional duties and responsibilities may be assigned and requirements may vary from time to time.</p>
+<p>Taxnexus, Inc. is not currently accepting resumes from agencies for this position. If you are a recruiter, search firm, or employment agency, you will not be compensated in any way for your referral of a candidate even if Taxnexus hires the candidate.</p>
+<p>Taxnexus, Inc. is an equal opportunity employer that does not discriminate on the basis of race, color, ancestry, national origin, religion, creed, age, disability (mental and physical), sex, gender (including pregnancy, childbirth, breastfeeding or related medical conditions), sexual orientation, gender identity, gender expression, medical condition, genetic information, marital status, military and veteran status, family leave status, citizenship status or any other characteristic protected under federal, state and local law. Our company’s equal opportunity policy applies to all employment practices and terms and conditions, including, without limitation, recruitment, employment, assignment, training, compensation, benefits, promotions, disciplinary action and terminations.</p>
+</div></div>

@@ -1,0 +1,88 @@
+<h2>BI Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div><div>
+<div>Individuals within the Business Intelligence (BI) Developer role work closely with clients and BAs to turn data into critical information and knowledge that can be used to make sound business decisions.</div>
+<div>
+The BI Engineer is responsible for the full life cycle development, implementation, production support, and performance tuning of the Enterprise Data Warehouse, Data Mart, and Business Intelligence Reporting environments, and support the integration of those systems with other applications.
+</div>
+<p>Members of this role understand how data is turned into information and knowledge and how the knowledge supports and enables key business processes. They must have an in-depth understanding of the business environment, and strong analytical and communication skills. Individuals must work well within a team environment.</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>WHAT YOU WILL BE DOING
+</b></h2>
+<div><div><div>
+<ul>
+<li>Works on highly complex and cross-functional BI solutions.</li>
+<li>
+Directs, organizes, and leads projects in the implementation and use of new BI software tools and systems.</li>
+<li>
+Provide leadership and independent initiatives in facilitating information gathering, structured documentation and presentation of findings to all levels of management.</li>
+<li>
+Develops work plans or reviews other work plan timelines and manages to meet timeframes.</li>
+<li>
+Participates in project management estimation process.</li>
+<li>
+Manages and plans for service demand forecasts.</li>
+<li>
+Works with BA’s during implementation, gathering additional information when needed and keeping the business informed.</li>
+<li>
+Implements data structures using best practices in data modeling, processes, and technologies.</li>
+<li>
+Implements tools and frameworks for automating report generation, identification of data-quality issues, and data governance.</li>
+<li>
+Leads the integration efforts for merging BI platforms with enterprise systems and applications.</li>
+<li>
+Creates scalable, efficient, automated processes for large scale data analyses, model development, model validation, and model implementation.</li>
+<li>
+Interfaces with Architects to recommend new technology opportunities that will have an impact on BI systems.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>WHAT WE NEED FROM YOU
+</b></h2>
+<div><div><div>
+<p><b>Requirements:</b></p>
+<ul>
+<li>
+7+ years experience creating and architecting content within Microsoft BI Stack (SSAS, SSRS, SSMS, Power BI, Power Pivot).</li>
+<li>
+3+ years experience supporting a major system.
+</li>
+<li>Knowledge of one or more business functional areas.</li>
+<li>
+Expert skills in data analysis and data mining.</li>
+<li>
+Experience leading technical teams.</li>
+<li>
+Computer or business-related degree or equivalent</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>THE PLACE &amp; THE PERKS
+</b></h2>
+<div><div><div>
+<p>United Shore is a diverse group of over 4,000 mortgage experts, sales superstars, tech gurus, marketing whizzes and more. We’re a $41 billion and growing, family owned and operated company that still feels like family. Our award-winning workplace just happens to be home to the #1 wholesale mortgage lender in the nation, United Wholesale Mortgage. And we believe in setting our team members up for success by creating a unique, energetic culture where you can be yourself and still reach your professional goals.</p>
+<p></p>
+<br>
+<p>
+Here are some of the reasons you’ll love working here:</p>
+<ul>
+<li>
+Large, state-of-the-art fitness center with a full-size basketball court, outdoor sand volleyball court, plus Zumba and yoga classes</li>
+<li>
+Wellness area, including an in-house primary-care physician’s office, full-time massage therapist and hair salon</li>
+<li>
+Gourmet cafeteria featuring homemade breakfast and lunch, and a dedicated food truck</li>
+<li>
+Free fruit, soft drinks and coffee</li>
+<li>
+Convenience store featuring grab-and-go snacks</li>
+<li>
+In-house Starbucks and indoor/outdoor café with Wi-Fi</li>
+<li>
+Escape room designed for team-building activities</li>
+<li>
+Indoor/outdoor putting greens</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>DISCLAIMER
+</b></h2>
+<div><div><div>All the above duties and responsibilities are essential job functions subject to reasonable accommodation and change. All job requirements listed indicate the minimum level of knowledge, skills and/or ability deemed necessary to perform the job proficiently. Team members may be required to perform other or different job-related duties as requested by their team lead, subject to reasonable accommodation. This document does not create an employment contract, implied or otherwise. Employment with United Shore is "at-will." United Shore is an Equal Opportunity Employer.</div></div></div>
+</div></div>

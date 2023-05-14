@@ -1,0 +1,41 @@
+<h2>Java Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>You'll be responsible for the following:</p>
+ <ul>
+<li>Understand, scope, develop and sustain mobility products</li>
+ <li>Work with Offshore development teams and co-ordinate</li>
+ <li>Job may require travel up to 15% of the time</li>
+<br>
+</ul>
+<p></p>
+<p>Who You'll Work With</p>
+<br>
+<p></p>
+<p>You will be part of the Mobile Core Business Unit (MCBU), which is enabling Mobile Network Operators (MNOs) personalize the mobile experience to make the most out of the challenges, and opportunities it presents. MCBU products have #1 market share in US, deployed at 300 Mobile operators, carrying 1 Billion subscribers, 2 Billion sessions, and 3 TB worth of internet traffic.</p>
+<br>
+<p></p>
+<p>The Mobile Core Business Unit was created to focus on mobile Internet transformation where mobile data traffic growing very rapidly and ever more complex for operators to monetize. The business unit enables mobile operators to make the most out of the innovation, challenges and opportunities it presents in 5G/4G space. MCBU also focuses on 5G EPC nodes which supports CUPS (Control and User Plane Separation) and containerization/virtualization.</p>
+<br>
+<p></p>
+<p>MCBU is a trusted partner to operators migrating to the next generation virtual networks. MCBU continues to be the market leader in mobility, delivering virtual and cloud solutions that address service provider challenges of network reach, network intelligence, and service creation velocity while enhancing overall profitability. MCBU is responsible for complete development of 4G/5G nodes ( Both NSA and SA ).</p>
+<br>
+<p></p>
+<p>You will work within and across teams of focused premier mobility engineers. Socialize with key focused groups such as product management, sales, customer support and advanced services.</p>
+<br>
+<p></p>
+<p>Who You Are</p>
+<br>
+<p></p>
+<p>You will work with bedrock of engineering talent. You encourage, challenge and work with the team to innovate solutions, products and associated features.</p>
+<br>
+<p></p>
+<p>You will have Good understanding of Unix/Linux Kernel and a deep understanding of Operating systems, data structures and awareness about efficient algorithms. You will also have the below:</p>
+ <ul>
+<li>4G/5G 3GPP architecture familiarity</li>
+ <li>Diameter or Radius technologies experience</li>
+ <li>MongoDB or other NoSQL Databases, REST API experience</li>
+ <li>OpenStack/VMWare expertise</li>
+ <li>Kubernetes and/or other virtualization expertise</li>
+ <li>Excellent communication/presentation/negotiation skills</li>
+</ul>
+</div></div>

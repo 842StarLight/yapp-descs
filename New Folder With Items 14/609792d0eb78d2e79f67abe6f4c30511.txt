@@ -1,0 +1,51 @@
+<h2>Software Engineer II - Data Platform Team</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Xandr powers the real-time sale and purchase of digital advertising. We simplify the most sophisticated machine learning and data science capabilities to help our customers unlock their greatest potential. Our data platform team handles 15billion transacted ad requests per day and up to 5 terabytes of data per hour. We are looking for a senior engineer to elevate our data ingestion and pipeline processing that emphasizes high performance &amp; optimize data processing designs that include Streaming, MapReduce and Parallelized ETL to support even faster, higher volume and the delivery of actionable data for our stakeholders.</div>
+<div></div>
+<br>
+<div><b>
+About the job:</b></div>
+<div></div>
+<br>
+<ul>
+<li>Abinitio Engineer will partner with partner with the Transaction Logics Team which is responsible for the data transformations, integrations, enrichment of the data platform. The tool use for this is Abinitio.</li>
+<li>Most of our Data Platform is implemented in Java and TL processing is being migrated from Java MapReduce jobs to Abinitio.</li>
+<li>There is still much work require to refactor these migrated jobs in Abinitio to optimize and streamline these processing.</li>
+<li>It will be vital for the Abinitio Engineer to have an appreciation of the Java language and the origin for these migrated jobs to successfully refactor and optimize these jobs.</li>
+<li>There are additional data pipeline jobs in MapReduce and Scala that needs to be migrated to Abinitio as well.</li>
+<li>Take ownership of core components of data ingestion &amp; integration processing that intakes ~ 20 billon events per hour with data volume in excess of 2TB per hour.</li>
+<li>Design and implement new features and enhancements to our data platform in an intelligent fashion that advances component architecture toward strategic data governance/management objectives</li>
+<li>Work with world class high frequency/low latency design experts to perform in-depth analysis and optimization of data pipeline components to ensure smooth execution within strict time and resource limitations</li>
+<li>Work closely with product stakeholders and users to understand data and reporting requirements</li>
+<li>Prioritize bug fixes to ensure critical up-time</li>
+<li>Serve as a mentor and guide for other team members</li>
+</ul>
+</div>
+<br>
+<div>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<ul>
+<li>BA/BS/MS degree and 5+ years of experience; we’ll designate level of role base on depth of expertise. (Degree in Computer Science or related field preferred)</li>
+<li>Must be a capable developer with some compiled language (java, C#, C++ or C); with deep understanding for automated, distributed and highly scalable designs patterns.</li>
+<li>Experience with Big Data, ETL and distributed systems using technologies such as Hadoop, Spark, Python, Java, MapReduce, Scala and Ab Initio.</li>
+<li>Experience/Achievements in coping with Big Data deployments and/or extremely high frequency/low latency projects.</li>
+<li>Familiarity with Enterprise Data Management &amp; Governance practices or Data Architecture methodologies are a plus.</li>
+</ul>
+<div>
+<br>
+<b>
+More about you:</b>
+</div>
+<div>
+<br>
+<ul><li>You are passionate about a culture of learning and teaching. You love challenging yourself to constantly improve, and sharing your knowledge to empower others</li></ul>
+</div>
+<ul>
+<li>You like to take risks when looking for novel solutions to complex problems. If faced with roadblocks, you continue to reach higher to make greatness happen</li>
+<li>You care about solving big, systemic problems. You look beyond the surface to understand root causes so that you can build long-term solutions for the whole ecosystem</li>
+<li>You believe in not only serving customers, but also empowering them by providing knowledge and tools</li>
+</ul>
+</div>
+</div></div>

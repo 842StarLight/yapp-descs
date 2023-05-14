@@ -1,0 +1,61 @@
+<h2>Director of Product Management</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>SignalFx, the only real-time cloud monitoring platform for infrastructure, microservices, and applications, is built on a massively scalable streaming architecture. We apply advanced analytics and data-science-directed troubleshooting to let operators find the root cause of issues in seconds. We are trusted by leading enterprises across almost every industry sector. SignalFx has a leading-edge technology platform, a stellar leadership team, a rich, diverse customer base, and the financial backing of Andreessen Horowitz, Charles River Ventures, General Catalyst and Tiger Global Management. If you have limitless energy and want to work for a game-changing company, we definitely want to talk to you.</div>
+<div>
+<br>
+</div>
+<div>
+As a director of product management at SignalFx, you will help to evolve, refine and grow our observability solutions and platform in order to save users time: by getting them the insights they need, by alerting them to issues they face, and especially by accelerating their ability to understand and solve for those issues.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Key Responsibilities</b></h3>
+<div><ul>
+<li>
+Drive the product vision and strategy for the parts of our product that revolve around correlation and causality via explanatory events. Ensure that your focus areas align with our broader product, customer and company needs</li>
+<li>
+Understand customer and user needs in depth; communicate those needs crisply and succinctly within SignalFx; and work with design and a distributed engineering teams to translate those needs into clear priorities, a compelling roadmap and high-impact, innovative features</li>
+<li>
+Actively maintain a view of how the market, competition and technologies are evolving, and factor it, as well as feedback from internal groups and customers, into the product direction</li>
+<li>
+Collaborate with product marketing, support and the sales team to solve for business limiters within your control and pursue key business accelerants</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Basic Qualifications</b></h3>
+<div><ul>
+<li>
+Demonstrated ability to prioritize requirements across conflicting dimensions and to be clear on the minimum capabilities that matter</li>
+<li>
+Excellent analytical / problem-solving skills. Ability to identify patterns and synthesize disparate data into a coherent whole</li>
+<li>
+Strong written and verbal organizational, analytical, and communication skills. Ability to lead and influence via persuasion, patience and energy</li>
+<li>
+A passion for usability and a knack for simplicity</li>
+<li>
+Willing to do whatever it takes to get quality products and features to market on time</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Preferred Qualifications</b></h3>
+<div><ul>
+<li>
+7-10 years of experience in product management or technical product management role</li>
+<li>
+BA/BS in Computer Science or related field</li>
+<li>
+MBA from top-tier program</li>
+<li>
+Background in enterprise SaaS; bonus if those were monitoring, log management or analytics products</li>
+<li>
+Participation in all stages of the software development lifecycle, experience with Agile software methodologies</li>
+</ul></div>
+</div></div>
+<div>
+<div>If you’d like to join one of the fastest growing and most exciting tech companies in the Silicon Valley, contact us! This position has the ability to make a huge impact. Your compensation will include a competitive salary, stock options, cool perks, and generous benefits.</div>
+<div><i>
+</i></div>
+<div><i>
+SignalFx is committed to fostering a culture of inclusion and connectedness. We believe we are able to grow and learn better together with a diverse team of employees. We welcome the distinct contributions that everyone brings in terms of their education, opinions, culture, ethnicity, race, gender identity and expression, nationality, age, languages spoken, veteran’s status, religion, disability, sexual orientation and beliefs. We are a proud Equal Opportunity Employer.</i></div>
+</div>
+</div></div>

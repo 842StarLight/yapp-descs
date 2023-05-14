@@ -1,0 +1,61 @@
+<h2>SFDC Admin</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>At LG we make products and services that make lives better, easier and happier through increased functionality and fun. Put simply, we offer the latest innovations to make “Life Good” – from home appliances, consumer electronics, vehicle components and mobile communications to business innovations in digital signage, air conditioning, solar and LED lighting. As a global leader, we strive for greatness in product leadership, market leadership and people leadership to realize our growth strategies.</p>
+<br>
+<p></p>
+<p>Talk about a mantra. Life’s Good with LG!</p>
+<br>
+<p></p>
+<p>We offer an environment that enables colleagues to demonstrate their capabilities, focus on their work and create value. At LG, you're encouraged to take a creative and individual approach to challenges with strong emphasis placed on performance and skill—and equal, merit-based opportunities across the board. We want our colleagues to grow with our global business. That's why we deliver sure rewards for exceptional performance and offer industry-leading benefits. Come join the team!</p>
+<br>
+<p></p>
+<div>
+<p><b>THE SALESFORCE ADMINISTRATOR</b></p>
+will work as part of the team dedicated to ensuring that we are maximizing efficiency and capitalizing on the full features and benefits of the system based on the various user group needs. We are seeking someone with excellent technical and communication skills who can interface directly with our team to understand their needs in order to administer and enhance the system accordingly. This person will serve as the "go to" for users, promote adoption, keep current on new releases and AppExchange solutions, provide training, and more. Additionally, the Administrator will perform basic updates, such as add/delete users, and adding basic custom fields.
+<p><b>RESPONSIBILITIES:</b></p>
+</div>
+<ul>
+<li>Manage new releases of SFDC and efficiently roll out new features. Create and Manage Changes to the System , modifying the system to increase benefits and usability</li>
+<li>Create and maintain fields, views, reports, dashboards, campaigns, custom objects and other Salesforce.com objects and functions</li>
+<li>Handle on-going customization/ alteration of Salesforce.com, including Report and Dashboard Creation and Maintenance
+</li>
+<li>Maintain, enhance and create workflows, functions and configurations within the Salesforce.com environment Proactively seek out and identify needed system changes, gather requirements from end users and proactively gather feedback from users Manage system changes without interruption to the user and communicate system changes to the users in advance so they understand the change and how to use it prior to implementation Maintain System, Security and Integrity</li>
+<li>Provide support functions as needed</li>
+<li>Map Salesforce.com hierarchy and territories in response to personnel changes Reassign Accounts, Contacts, and Opportunities in response to personnel changes Grant/ remove and maintain user licenses Maintain security including sharing rules and security levels Design, Create and maintain user roles, profiles and hierarchies Monitor application storage usage and archive data as needed</li>
+<li>User Assistance, Training, Adoption and Satisfaction Create and administer training to existing or new users/groups Provide one to one training to end users on an on-going basis</li>
+<li>Expand use of Salesforce.com – attend planning meetings, assist with determining if /how Salesforce.com can be used in new ways as opposed to purchasing a new internal system Assist management to create processes in Salesforce.com to help monitor activities, trends, sales and leads Monitor usage and mentor users/groups needing assistance Be the company SME on Salesforce.com Process Creation, Documentation and Maintenance
+</li>
+<li>Data Quality, Migration and Maintenance, manage duplicate records and monitor and improve data quality Ensure data integrity by removing unnecessary fields and data; ensuring screens, fields and workflow have accurate names and reflect current workflow</li>
+<li>Import data as appropriate</li>
+<li>Monitor neglected accounts and contacts as appropriate and monitor and maintain exception logs for back end system integration with SFDC</li>
+<li>Develop complex, macro driven reports to summarize system information for Senior Management</li>
+<li>Build and manage report folders for reps to improve sales efficiency
+</li>
+</ul>
+<div>
+<p><b>ESSENTIAL REQUIREMENTS:</b></p>
+They must have solid Salesforce.com skills and ideally, understand the general concepts of Customer Relationship Management (CRM). Most importantly they should be proactive, organized and logical.
+</div>
+<ul>
+<li>
+<p><b>QUALIFICATIONS:</b></p>
+3 to 5 years of Salesforce administration experience</li>
+<li>In-depth knowledge of the standard capabilities of SFDC and have successfully expanded on those capabilities through the use of custom code (Apex, s-controls) and/or integration with external systems</li>
+<li>Data Loader and Import Wizard (experience using these two would be important)</li>
+<li>Knowledge of Sales Cloud and Service Cloud (we use both)</li>
+<li>Salesforce Lightning experience (its SF’s new version of their platform)</li>
+<li>Strong reporting background using standard reporting tools including standard salesforce.com reporting functionality</li>
+<li>Previous re-engineering experience updating an existing Salesforce.com configuration to provide solutions for reporting, workflows and enhanced functions</li>
+<li>Salesforce.com Administrator certification is required</li>
+<li>Detail oriented and self-starter with strong written and interpersonal skills</li>
+<li>Ability to work independently, as well as part of a team</li>
+<li>Proven ability to utilize Salesforce.com as a sales analysis tool</li>
+<li>Minimum expectation of a Bachelors degree OR equivalent education/experience</li>
+<li>Team player with positive “Can-do” attitude</li>
+<li>Great communication skills with enthusiastic personality</li>
+<li>Computer literate and proficient in standard office applications Word, Excel and Outlook</li>
+<li>Strong problem solving skills, data and software applications</li>
+</ul>
+<p></p>
+<p>LG Electronics, USA Inc.; LG Mobilecomm USA, Inc., LG Mobile Research USA LLC, and Zenith Electronics LLC provides equal employment opportunity to all individuals regardless of their race, color, creed, religion, gender, age, sexual orientation, national origin, disability, veteran status, or any other characteristic protected by state, federal, or local law. Further, the Company takes affirmative action to ensure that applicants are employed and employees are treated during employment without regard to any of these characteristics.</p>
+</div></div>

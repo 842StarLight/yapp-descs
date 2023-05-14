@@ -1,0 +1,82 @@
+<h2>Software Engineer - Third Party Tools</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Linode is looking for a software engineer to join our team to develop integrations between our platform and Infrastructure as Code cloud automation tools.</p>
+<p>As a Software Engineer on our 3rd Party Tools (3PT) team, you'll be building products and services that enable our customers to manage their Linodes using solutions like Terraform, Chef, Ansible, and Salt. You'll get a chance to ease the accessibility of our services through third-party platforms and open source projects. This position sits at a really interesting intersection of our business: you'll have an active voice in shaping our open source community, help sales technically evaluate business partnerships, and build tools that will be internally useful.</p>
+<p>We're a highly collaborative team with a focus on agile development and innovative solutions. We encourage and reward curiosity, ingenuity, and technical skill. If you enjoy working on ambitious projects that have a huge impact, you'll enjoy working at Linode!</p>
+<h1 class="jobSectionHeader"><b>Technologies:</b></h1>
+<p>You don't have to have experience with all of these, but you should have experience with some of them and an interest to learn others.</p>
+<ul>
+<li>Infrastructure as code tools: Terraform, Chef, Puppet, Ansible, Salt</li>
+<li>
+Go</li>
+<li>
+Kubernetes</li>
+<li>
+Python, pip, virtualenv, pytest</li>
+<li>
+Ruby</li>
+<li>
+JavaScript (ES6 / ES7), NodeJS</li>
+<li>
+Perl, C, Bash</li>
+<li>
+Linux Virtualization and Containers</li>
+<li>
+Git, Jenkins, Docker<br>
+</li>
+</ul>
+<h1 class="jobSectionHeader"><b>Must Haves:</b></h1>
+<ul>
+<li>3+ years experience in software development</li>
+<li>
+Excellent written and verbal communication skills</li>
+<li>
+Strong planning and organization skills</li>
+<li>
+Educated views on technology and software design</li>
+<li>
+Experience with automated testing</li>
+<li>
+A love for Linux<br>
+</li>
+</ul>
+<h1 class="jobSectionHeader"><b>Nice to Haves:</b></h1>
+<ul>
+<li>Bachelor's degree in Computer Science or related field
+</li>
+<li>Build and Deployment Automation Experience</li>
+<li>
+API design experience</li>
+<li>
+Contributions to open source projects as well as your own projects</li>
+<li>
+Systems Architecture and Design Skills</li>
+<li>
+Experience in a hosting environment or other IAAS or SAAS provider</li>
+</ul>
+<h1 class="jobSectionHeader">
+<b>Work With Us</b><br>
+</h1>
+<ul>
+<li>Philadelphia office: HQ is one of the coolest tech buildings (https://www.linode.com/press/linode-buys-real-world-bank-for-phila-office) in Philly; join us on N3RD street!</li>
+<li>
+Flexible work hours: We offer a flexible work schedule, a generous paid time off package, and two work from home days on a weekly basis.</li>
+<li>
+Unbelievable benefits: We provide comprehensive health insurance, 401(k) contributions, a profit- sharing program, and pension plans.</li>
+<li>
+Monthly wellness reimbursements: up to $100 towards gym memberships, diet plans, massages, etc.</li>
+<li>
+A Macbook Pro: to use around the office and at home.</li>
+<li>
+Free hosting service: Take advantage of some Linode service - we'll pick up the tab.</li>
+<li>
+Linode Lunch: What goes better with technology than food? Nothing. We bring in a catered lunch every week.</li>
+<li>
+Competitive salary: It all begins with fair compensation. We believe in paying people well and rewarding those who go the extra mile.</li>
+</ul>
+<p></p>
+<p><i>Since 2003, Linode has been providing cloud computing services to customers around the world. Linode offers compute, storage, and networking services from ten data centers in regions spanning across North America, Europe, and Asia. </i><i>We are committed to making Linode the most simple, powerful and reliable hosting</i><i> provider that thousands of customers—from the fastest-growing startups to established enterprises—trust. This industry moves fast, but we strive to hire the kind of people who can stay a step ahead and keep us - and themselves - at the top. We are an equal opportunity employer and we are committed to building a diverse, inclusive, and welcoming workplace for all.</i></p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,148 @@
+<h2>Customer Project Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>Job title: </b><b>Customer Project Manager
+</b></p>
+<p><b>Division/function: Service Assurance &amp; Analytics (DF0004)
+</b></p>
+<p><b>Business unit / department: Professional Services (BU0086)
+</b></p>
+<p><b>Country: </b><b>United States
+</b></p>
+<p><b>State: </b><b>Colorado
+</b></p>
+<p><b>City(ies): </b><b>Denver<br>
+</b></p>
+<p></p>
+<p>EXFO develops smarter network test, monitoring and analytics solutions for the world’s leading telecommunications service providers, network equipment manufacturers and webscale companies—and we love what we do! With nearly 1,900 employees in more than 25 countries, EXFO is no. 1 worldwide in fiber optic test solutions and has the largest active assurance deployment. Our broad portfolio of intelligent hardware and software solutions enable our customer’s network transformations related to fiber, 5G, virtualization and big data analytics. We’re always looking for top talent to help us lead the way in a thriving industry with boundless opportunities.<br>
+</p>
+<p></p>
+<div>
+<p><b>Job summary<br>
+</b></p>
+<p></p>
+<ul>
+<li>EXFO(Ontology Team), is at the cutting edge of graph-based data alignment and linking, using new and innovative ways of representing and storing data that radically reduces the cost and risk associated with joining up data from multiple, misaligned sources and understanding its quality.
+</li>
+<li>In its current guise the product, “Ontology6”, has been specifically developed as a topology visualisation, data alignment, network operations and service management product for the telecommunications industry that enables a consistent view of the communications network, the services it delivers and the customers it supports, to be provided throughout the entire organization. It also includes real-time capabilities targeted at the growing field of Network Functions Virtualization (NFV) and Software Defined Networking (SDN).
+</li>
+<li>This is an opportunity to work as an EXFO Client Partner (Project Manager) and Business Analyst helping lead fast, agile Professional Services teams in using EXFO’s ground-breaking graph-based data integration and modelling platform and our suite of tools to develop and deliver sophisticated solutions to Tier-1 clients.
+</li>
+<li>We are seeking candidates with experience of curating and managing the delivery of software applications (especially OSS) to telecommunications clients, with ideally a ‘data management’ technical background, who will work to make sure the customer receives the most benefit from their investment in EXFO products and services.<br>
+</li>
+</ul>
+<p></p>
+<p><b>What we are looking for<br>
+</b></p>
+<p></p>
+<p>A hands-on role for a client partner, analyst and project leader, who is interested in:<br>
+</p>
+<p></p>
+<ul>
+<li>Establishing a “trusted partner’ relationship with clients, creating and fostering a positive atmosphere in which to progress in-flight and future business.
+</li>
+<li>Working closely with client business, project and subject-matter leaders to help analyse and establish clearly formed requirements against which functional and architecturally bounded and achievable technical propositions can be built.
+</li>
+<li>Assisting the Client’s compilation of a roadmap, within which the Ontology Solution will be a part, and the broad organisation of a programme of works to deliver the required benefits at the correct time.
+</li>
+<li>Assisting the Client’s organisation in the business and systems analysis and the expression of requirements (user-stories) towards the Ontology solution(s) that are of the quality, detail, and precision, such that they can be interpreted and reliably assessed for implementation by the Ontology project delivery teams. In other words, to act as a strong facilitator to ensure a smooth pipeline of work into the project ‘engine(s)’.
+</li>
+<li>Constructing and managing the execution of an ‘Agile’ delivery plan that dovetails into and provides the features and deliverables needed by the Client programme on a timely basis.
+</li>
+<li>Ensuring communications, in both directions, between the Client and EXFO project teams on technical and project delivery subjects such that collaboration is efficient, risks are surfaced, transparent and mitigated, blockages are assessed and readily removed.
+</li>
+<li>Ensuring the technical supply delivered conforms to what has been contractually agreed, through all agreed client acceptance testing processes and monitoring the delivery of said objects against agreed quality and scope.
+</li>
+<li>Taking a wide-view of ‘success’ - supporting wider discussions to facilitate best adoption of the solution/Ontology platform (e.g. user community education including conferences and training sessions).
+</li>
+<li>Working with the Client project leadership team to ensure EXFO resources are appropriately prioritised towards tasks of highest value to the Client (to include such tasks as concept proving, risk-reduction, engineering feature introduction, best-practice establishment, mentoring and coaching).
+</li>
+<li>Acting as the on-site escalation point for issues arising and helping manage any dispute or conflict.
+</li>
+<li>Building an excellent working relationship with:
+<ul>
+<li>EXFO Ontlogy Consultants, for technical delivery interactions
+</li>
+<li>EXFO Prfessional Services Managers, for technical and commercial delivery management
+</li>
+<li>EXFO Accunt Managers and Pre-Sales, for the advancement of sales opportunities
+</li>
+<li>All Client stakehlders.
+</li>
+<li>Interfaces with ther internal EXFO functions such as Customer Support, Product Management and Engineering as required.
+</li>
+</ul>
+</li>
+<li>Providing ad-hoc contributions to EXFO pre-sales opportunities, managing the construction of sales propositions and carrying out the services-sales interactions with potential new clients.
+</li>
+<li>Contributing to the evolution of EXFO; advising on the features and capabilities of Ontology and other products and improvements to best-practices in Ontology solution design and development.<br>
+</li>
+</ul>
+<p></p>
+<p><b>Required Aptitudes<br>
+</b></p>
+<p></p>
+<ul>
+<li>An excellent communicator with an outstanding ability to interact with diverse teams, from business owners/leaders to subject-matter-experts and end-users.
+</li>
+<li>Eloquent and calmly persuasive, composed and reacts well under pressure. In possession of some gravitas, able to bring team members and wider stakeholders together along a common direction.
+</li>
+<li>Able to work directly with the client as a Business Analyst to help capture and verify business objectives, and as a Client Partner/Project Manager to communicate EXFO’s vision and a detailed plan to satisfy their requirements.
+</li>
+<li>Politically astute; able to recognise and balance the wide set of stakeholder needs.
+</li>
+<li>A quick learner, fast and logical thinker, a problem solver by nature.<br>
+</li>
+</ul>
+<p></p>
+<p><b>Must Have<br>
+</b></p>
+<p></p>
+<p><b>Pertinent experience:
+</b></p>
+<ul>
+<li>3-5 years’ experience of client and project management of the delivery of software applications, ideally to the telecommunications industry. Industry Project/Programme Management qualifications an advantage.
+</li>
+<li>Extensive Business Analyst experience of working directly with clients, to capture and communicate business objectives and support the design and build of appropriate solutions.
+</li>
+<li>Experience with OSS applications and telecoms network management technologies is an advantage.
+</li>
+<li>Any experience with graph data, RDF, SPARQL and associated technologies is an asset, or of projects having a significant data-centric orientation and software development lifecycle.
+</li>
+<li>A technical hands-on background in software development would be an asset including.
+<ul>
+<li>Frmal Requirements gathering and Business Analysis techniques.
+</li>
+<li>Knwledge of advanced query (SQL) and scripting languages.<br>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<p><b>Education </b>: Bachelor’s Degree in Computer Science, Engineering, Telecoms or related.<br>
+</p>
+<p></p>
+<p><b>Travel: </b>Will be located at a customer location 70% of time initially, though over time this will change to a portfolio of customer face to face and flexible remote working interactions. Ability to travel both domestically and internationally, for occasional pre-sales and consultancy engagements.<br>
+</p>
+<p></p>
+<p><b>AUTHORIZATION TO WORK IN US.<br>
+</b></p>
+<p></p>
+<p><i>EXFO and its US entities are Equal Opportunity Employers. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability or veteran status<br>
+</i></p>
+</div>
+<p></p>
+<div>
+<p><b>EXFO is an equal opportunity employer.<br>
+</b></p>
+<p></p>
+<p>Thanks for your interest in EXFO.
+</p>
+<p>If you have questions, please write us at careers@EXFO.com
+</p>
+<p>We look forward to hearing from you soon.</p>
+</div>
+</div>
+<p></p>
+</div>

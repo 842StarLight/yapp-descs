@@ -1,0 +1,62 @@
+<h2>Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Hub Promotional Group (HPG), a limited liability company with 7 promotional products manufacturing suppliers across North America is seeking a full time ERP System Developer. Candidates with <b>NetSuite</b> <b>or any ERP system</b> experience highly desired and encouraged to apply.</p>
+<p><b>Position Summary: </b> The ERP System Developer (ESD) will be a part of a team currently supporting <b>NetSuite</b> for 4 subsidiaries within HPG. This role will be responsible for the development of coding based on the design of a solution that meets enhancement requests that are requested by various departments that are using the system. He\she will need to be able to develop and configure NetSuite based on the architecture\design of the solution using any or a combination of custom coding/programming and configuration capabilities within NetSuite’s such as custom records\fields, custom lists and or workflows. The ESD will need to understand department’s business needs and translate them to system requirements, write technical specification documents, ensure test cases are mapped to requirements document and verify all system functionality is tested. The ESD will work with the requesting department’s business process owner to determine a design that will meet their needs and as a result will need to explain in general terms of inherent issues or challenges or pros and cons of one design solution vs another.</p>
+<p>This role may also be a project team member for the onboarding or migration of a newly acquired promotional products manufacturing entity or an existing subsidiary that will be migrated into HPG’s NetSuite system. During a project of this nature, travel maybe necessary at times up to 35%. This role will work with users, department managers, members of IT and consultants and will report to HPG’s Enterprise Software Manager. This is an onsite position and can be located in either Salt Lake City, UT or Braintree, MA.</p>
+<p><b>Key Responsibilities: </b><br><i>The key responsibilities or duties listed below are intended only as illustrations of the various type of work that may be performed. The omission of specific statements of duties does not exclude them from the position.</i></p>
+<p>· Pro-actively communicate, collaborate and build relationships with business users, IT development and support teams</p>
+<p>· Manage project assignment to successful completion with limited direction and within assigned deadlines</p>
+<p>· Provide reliable and informative project status to supervisors and business users</p>
+<p>· Develop and monitor project plans to track and project results</p>
+<p>· Pro-actively identify, document and resolve issues</p>
+<p>· Lead cross functional work groups to identify and document detailed requirements, work flow, information sources and distribution paths, and system specifications</p>
+<p>· Evaluate user requirements and implement working solutions through system design, analysis, testing, training, and documentation</p>
+<p>· Apply technical and business knowledge in the analysis of user requirements.</p>
+<p>· Determine short- and long-term solutions to resolve pressing businesses process and technology issues</p>
+<p>· Perform post deployment evaluation of solution to determine necessary adjustments and enhancement to solution</p>
+<p>· Liaison with business users and development to resolve issues that arise during development</p>
+<p>· Liaison with development and support teams to transfer/communicate business requirements</p>
+<p>· Influence the decision-making process by effectively presenting concepts and project overviews to vendors, technologist, and management</p>
+<p>· Deliver documented business requirements\system design\workflow with in enough detail for IT team to support and provide training to end users</p>
+<p>· Prepare recommendations and propose IT solutions</p>
+<p>· Ability to read, digest and communicate complex subject matter to all levels and to influence personnel to accomplish the business purpose necessary</p>
+<p>· Assist in other IT department initiatives such as configure new workstations, printers and other IT related devices, troubleshoot end user computer issues: software or hardware</p>
+<p>· Assist in the development of training documents and/or provide end user training on <b>NetSuite</b></p>
+<p>· Other duties as assigned</p>
+<p><b>Recommended Minimum Qualifications: </b></p>
+<p><b>Education and Experience: </b> <i>or any equivalent combination of education, training, and experience which provides the required knowledge, skills, and abilities to perform the key responsibilities of the job.</i></p>
+<p>· Bachelor’s degree in Computer Science, Business, or related field; or equivalent experience with a minimum of two (2) to three (3) years’ experience</p>
+<p>· Experience in other ERP systems to the same degree will be acceptable. Training will be provided</p>
+<p>· Experience with <b>NetSuite</b> (Suiteflow (workflow), SuiteScript (1.0 or 2.x), Custom Records, Forms, Reports, Saved Searches, Dashboard, OzLink, eBizNet, CyberSource, etc.)*</p>
+<p>· Proficient in the following programming languages: SQL, Java Script, JQUERY, JSON, SOAP, C#, HTML, CSS and XML</p>
+<p>· Advanced experience with Microsoft Office Suite including Visio</p>
+<p>· Experience providing end user training is a plus</p>
+<p>· Reliable means of transportation</p>
+<p><b>Knowledge, Skills, and Abilities: </b></p>
+<p>· Ability to decipher/rationalize how the system works using validation methods</p>
+<p>· Knowledge of business operations sales to cash process, accounting\finance, sales &amp; marketing, manufacturing and warehousing</p>
+<p>· Exceptional presentation and client relation skills</p>
+<p>· Excellent interpersonal and communication skills (oral and written)</p>
+<p>· Ability to present technical knowledge in a simplified understandable manner</p>
+<p>· Knowledge of computer network concepts (LANS, WANS, Subnetting) is a plus</p>
+<p><b>Physical and Mental Requirements</b><br><i>The physical and mental demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the position’s essential functions and responsibilities. </i></p>
+<p><b>Physical Skills: </b></p>
+<p>· The demands are in the nature to stand, sit, and move within the office.</p>
+<p>· Utilization of office equipment, and the capacity to lift up to 25 pounds.</p>
+<p><b>Motor Skills: </b></p>
+<p>· Duties may involve hand-eye coordination and physical dexterity.</p>
+<p><b>Visual Skills: </b></p>
+<p>· Ability to read, see, and differentiate between coloris not necessary.</p>
+<p><i>Hub Pen Company is an Equal Opportunity Employer. We do not discriminate in employment on the basis of race, color, religious creed, national origin, sex (including pregnancy and gender identity), age, political affiliation, marital status, disability, sexual orientation, military service, genetic information, parental status, retaliation, or other non-merit factors.</i></p>
+<p><b>Principals only, no Recruiters please. </b></p>
+<p>Job Type: Full-time</p>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Parental leave</li>
+</ul>
+</div>

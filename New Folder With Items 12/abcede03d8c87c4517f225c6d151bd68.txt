@@ -1,0 +1,52 @@
+<h2>Professional Services Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Enghouse is looking for an <b>Professional Services/Integration Engineer</b> out of our NetBoss office in <b>Melbourne, FL</b>. In this role you will be responsible for implementing network management and integrated service assurance OSS solutions for service-oriented network operators. If working directly with customers on understanding and implementing system requirements related to network management sounds like a position you are looking for, take a look below…and apply!</p>
+<p><b>
+Responsibilities:</b></p>
+<ul><li>Travel to and from customer sites around the world for 2-4 weeks at a time
+</li></ul>
+<ul><li>Install and setup hardware components in a data center environment
+</li></ul>
+<ul><li>Design and implement solutions to integrate system applications found in NOC environments
+</li></ul>
+<ul><li>Build interfaces between network elements and network management software
+</li></ul>
+<ul><li>Provide administration support for various network management solutions by participating in install, configuration, and patching activities.
+</li></ul>
+<ul><li>Assist in performance tuning of existing network management solutions and databases
+</li></ul>
+<ul><li>Actively collaborate with sales, and other engineering groups on product development, best practices, and OSS trends
+</li></ul>
+<ul><li>Be self-directed and interact with customers, partners, and vendors to achieve contractual objectives under a fixed time constraint
+</li></ul>
+<ul><li>Be comfortable in a fast-paced environment that embraces new technologies
+ </li></ul>
+<p><b>Preferred Skills:</b></p>
+<p>
+ -Systems Administration for RHEL, Windows and other UNIX-based operating systems</p>
+<ul><li>Software Development experience with Java and JavaScript
+</li></ul>
+<p><b>Experience with:</b></p>
+<ul><li>Database Administration with Oracle 11g/12c
+</li></ul>
+<ul><li>Nosql technologies like Hadoo</li></ul>
+<ul><li>IDEs such as Eclipse
+</li></ul>
+<ul><li>Build environments such as Maven</li></ul>
+<ul><li>Lucene-based search systems like Elasticsearch or similar
+</li></ul>
+<ul><li>SOAP and REST based web services
+</li></ul>
+<ul><li>JSON and XML
+</li></ul>
+<ul><li>Agile / Scrum Methodologies
+</li></ul>
+<ul><li>Version control systems such as git
+</li></ul>
+<ul><li>Network Management systems</li></ul>
+<ul><li>SevOne performance management a plus</li></ul>
+<p>
+Enghouse is an Equal Opportunity Employer</p>
+<p>
+#LI-EN8</p>
+</div></div>

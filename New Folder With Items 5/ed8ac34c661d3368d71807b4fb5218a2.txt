@@ -1,0 +1,91 @@
+<h2>Front End React Developer for Startup</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Lunchbox Technologies Inc is looking for a talented self starting frontend web developer to join NYC’s newest restaurant ordering startup. Lunchbox is a SaaS platform which specializes in building out Mobile, Web and Kiosk digital ordering and loyalty solutions for restaurant groups.</p>
+<p>As a member of a growing startup you will be working very closely with each team member to execute any server side related development and upkeep.</p>
+<p><b>What You Can Expect From Us</b></p>
+<p><b>How Things Are Now: </b></p>
+<p>- Web ordering is an customer-facing platform for people to place orders for pickup and delivery. Some examples:</p>
+<p>https://order.bareburger.com<br>https://order.stickys.com<br>https://order.16handles.com</p>
+<p>- Admin panel is an internal-facing tool for making remote changes to content fed-to and derived-from the app.</p>
+<p>- iOS and Android apps for customers to place orders for pickup and delivery. Some examples:</p>
+<p>Bareburger iOS: https://apps.apple.com/us/app/bareburger-app/id1450355222<br>Bareburger Android: https://play.google.com/store/apps/details?id=com.bareburger.bareburger.android.app</p>
+<p>- An existing backend which is integrated with multiple POS (Point-of-Sale) such as Toast, Revel, Clover as well as Square, Stripe, and Worldpay for payment processing.</p>
+<p><b>What Is In Progress: </b></p>
+<p>- Building out new themable components for our frontend customer ordering sites, and onboarding new customers onto our web platform.</p>
+<p>- Updating the admin panel to be an external-facing product rather than an internal management tool.</p>
+<p>- Moving mobile app styling to be configurable by admin panel, as well an iterating with new app functionality based on growing platform partnerships.</p>
+<p>What It’s Like Working Here:</p>
+<p>- Ready to jump in on the occasional after hours problem-solving. We work in the restaurant industry after all</p>
+<p>- You'll be in on the ground floor, joining a profitable startup since day one</p>
+<p>- Work with a bunch of like-minded engineers who know their way around those 1s and 0s</p>
+<p>- Profit sharing based on length of tenure and record of work</p>
+<p>- Join our team in NYC and eat from a different restaurant every day in the heart of NoMad</p>
+<p><b>What We Expect From You: </b></p>
+<p>- To be a role leader and engineering wizard who can ask the right questions from all teams to prevent mission critical errors</p>
+<p>- A laid back personality that can strap and execute under pressure while taking all criticism in stride</p>
+<p>- Be an amazing team player</p>
+<p>- Initiative to solve problems.</p>
+<p>- An amazing entertainer at parties regardless of alcohol being involved or not</p>
+<p><b>General Responsibilities: </b></p>
+<ul><li>A solid understanding of developing web application front ends with React.js</li></ul>
+<ul><li>Develop features and create fulfilling user experiences following best practices</li></ul>
+<p><b>Specific Responsibilities: </b></p>
+<ul><li>Building out themeable online and catering ordering templates and website with reuse in mind. Think Shopify, wordpress, Squarespare.</li></ul>
+<ul><li>Pitch in developing the administrative dashboard</li></ul>
+<ul><li>Provide insight to the front end needs to be addressed by the backend application</li></ul>
+<p><b>Skills: </b></p>
+<p>React.js, Javascript (ES6), CSS, HTML, WebPack and/or Create React App,Yarn/Npm and NodeJS, Git, Styled Components, CSS modules.</p>
+<p>Requirements:</p>
+<ul><li>Background building single-page applications with React.js</li></ul>
+<ul><li>Latest features such as React Hooks, Context api, code-splitting</li></ul>
+<ul>
+<li>Understanding of react component patterns such as Higher order components, render props, and compound components.</li>
+<li>Strong understanding of styling and of when to use different styling methods such as CSS-in-JS libraries, CSS modules and standard CSS.</li>
+</ul>
+<ul><li>Ability to troubleshoot frontend issues.</li></ul>
+<ul><li>Curiosity and continuously expands their skill set.</li></ul>
+<ul><li>Proficient in browser and mobile testing.</li></ul>
+<ul><li>An expert understanding of industry best practices and web standards.</li></ul>
+<ul><li>A commitment to crafting readable and dependable code.</li></ul>
+<p><b>Plus: </b></p>
+<ul><li>Prefers writing their own libraries.</li></ul>
+<ul><li>Experience with continuous integration (CI) and continuous delivery (CD).</li></ul>
+<ul><li>Experience working within e-commerce and have worked with third-party payment.</li></ul>
+<ul><li>Familiarity with accessibility best practices.</li></ul>
+<ul><li>Familiarity with functional programming.</li></ul>
+<ul><li>Familiarity with React Profiler.</li></ul>
+<ul><li>Worked in a Test Driven Development (TDD) environment before.</li></ul>
+<ul><li>A strong portfolio showcasing web design work and beautiful comps</li></ul>
+<ul><li>Build systems for deploying sites to AWS cloudfront and S3</li></ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $40,000.00 to $65,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>React: 2 years (Required)</li>
+<li>Front-End Development: 3 years (Required)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Flexible schedule</li>
+<li>Professional development assistance</li>
+</ul>
+<p>Visa Sponsorship Potentially Available:</p>
+<ul><li>No: Not providing sponsorship for this job</li></ul>
+<p>This Company Describes Its Culture as:</p>
+<ul>
+<li>Detail-oriented -- quality and precision-focused</li>
+<li>Innovative -- innovative and risk-taking</li>
+<li>Outcome-oriented -- results-focused with strong performance culture</li>
+<li>Stable -- traditional, stable, strong processes</li>
+<li>People-oriented -- supportive and fairness-focused</li>
+<li>Team-oriented -- cooperative and collaborative</li>
+</ul>
+<p>Schedule::</p>
+<ul><li>Monday to Friday</li></ul>
+</div>

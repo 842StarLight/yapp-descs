@@ -1,0 +1,136 @@
+<h2>Payment Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Payment Architect<p>
+Based at our Denver, CO Home Office, the Payment Architect acts as a subject matter expert for credit card payments in the development, configuration, support, and deployment of new initiatives and existing products/systems. The role will oversee the payment design and integration of new deployments, enhancements, upgrades, and updates for all Red Robin entities including Red Robin’s Franchise community.</p>
+<p></p>
+<p>
+The role works closely with Business Solution Architects, Project Managers, Vendors, other members of the IT department and internal business stakeholders, to ensure the new implementations and/or enhancements are completed successfully and on time. The Payment Solutions Architect must communicate specifications and requirements to all involved with the development of a product/system to ensure understanding of expectations as defined by payment industry specifications. This role is responsible for staying up to date on payment innovations with a strong knowledge of future payment technologies.</p>
+<p></p>
+<p>
+The main emphasis of the role is to be the payment subject matter expert on cloud or on-premise enterprise software applications within the IT Restaurant Technology team. Applications such as, but not limited to, existing restaurant Back Office Systems, Point of Sales (BOS/POS configuration(s), Olo (online ordering), Credit Card Processing, PCI, Ziosk (or any table top or Kiosk technology), Red Robin’s proprietary Digital Guest Experience, Monkey Media, Red Robin’s Loyalty program, Aloha’s ODSP API suite and other solutions and systems as applicable. Additionally, PCI expertise and working knowledge of credit card processing partnerships and strong subject matter expertise regarding payments and how systems/applications are affected is necessary.</p>
+<p></p>
+<p>
+The role is a very collaborative one as it will require continuous interaction within the multiple areas within the IT department but also with internal and external stakeholders as it relates to configuration, testing, implementation and overall stakeholder satisfaction.</p>
+<p></p>
+<p><b>
+Essential Functions:</b></p>
+<ul>
+<li>
+Responsible for the design, customization, and implementation of robust, secure, scalable payment systems across n-tier platforms.</li>
+<li>
+Set the product direction and be responsible for evaluating and incorporating emerging standards and new technologies.</li>
+<li>
+Act as subject matter expert during the deployment of new and existing initiatives/systems. Includes enhancements, upgrades, updates, and patches if applicable included in the payment card process.</li>
+<li>
+Review software update release notes, ensure compatibility, communicate feature changes to employees, and validate updates to the system.</li>
+<li>
+Rigorously test software in preparation for deployment and assist with writing test cases for quality assurance.
+</li>
+<li>Identify and research changes in payment standards and emerging technologies.</li>
+<li>
+Work closely with IT Helpdesk and Restaurant Support to ensure appropriate project documentation is available in the Transition/Run book for each new initiative or enhancement release. This also applies for changed/modified functionality on a new product or service.</li>
+<li>
+Manage the technical relationship with credit card and gift card processing partners.</li>
+<li>
+Manage payment issues, chargebacks, and adjustments with all active payment systems and applications including gift card platforms.</li>
+<li>
+Identify inconsistencies and opportunities to improve the Digital Guest Journey through all ordering processes.</li>
+<li>
+Monitor payment systems performance using internal and third-party tools.</li>
+<li>
+Support, resolve and document issues that arise within the payment architecture. This may include reviewing designs and recommending improvements to the architecture.</li>
+<li>
+Work across IT teams, Accounting, and our Cash department to ensure the environment is fully utilizing available technology to enhance productivity and improve work processes.</li>
+<li>
+Coordinate with appropriate Red Robin personnel to evaluate system capabilities and translate operational requirements into system configuration development.</li>
+<li>
+Consider and evaluate the configuration interoperability between new proposed solutions vs. existing solutions in use at Red Robin for the most effective and efficient development, configuration, and implementation.</li>
+<li>
+Coordinate and perform in depth tests, including end-user reviews, for modified and new system application.</li>
+<li>
+Continuous education and market knowledge development to understand new trends within existing payment solutions as well as new initiatives as it relates to existing systems.</li>
+<li>
+Adhere to organizational ITIL and ITSM standards</li>
+</ul>
+<p></p>
+<p><b>
+Other Functions:</b></p>
+<ul>
+<li>
+Demonstrate good judgment in selecting methods and techniques for obtaining solutions.</li>
+<li>
+Complete projects thoroughly and according to project plans</li>
+<li>
+Submit detailed records in a timely manner (time sheets, tickets, reports, etc).</li>
+<li>
+Attend and participate in regularly scheduled team meetings</li>
+<li>
+Available for on-call and emergency response as needed</li>
+<li>
+Identify and escalate business and technical opportunities as appropriate</li>
+<li>
+Maintain a high level of professionalism with business stakeholders, vendors and staff.</li>
+<li>
+Perform all responsibilities in alignment with the core values of Red Robin</li>
+<li>
+Other duties as assigned</li>
+</ul>
+<p></p>
+<p><b>
+Qualifications:
+</b></p>
+<ul>
+<li>6 – 8 years of experience working in or directly related to Payment Card Industry</li>
+<li>
+Knowledge of Radiant product suite including Aloha and MenuLink is preferred</li>
+<li>
+Bachelor’s Degree in Engineering or Computer Science (preferred)</li>
+<li>
+Associate’s degree in Computer Science or equivalent experience required</li>
+<li>
+Advanced knowledge of PCI standards and their application</li>
+<li>
+3 – 6 years of experience in providing support for business applications</li>
+<li>
+3 – 6 years of demonstrated proficiency working with troubleshooting and support of end users.</li>
+<li>
+Strong understanding of application programming interfaces</li>
+<li>
+Radiant MenuLink Back Office Suite</li>
+<li>
+Aloha POS</li>
+<li>
+3rd party tools/utilities</li>
+<li>
+Current system/hardware configurations</li>
+<li>
+Experience in ITIL a plus</li>
+<li>
+The role requires both broad and deep technology knowledge and the ability to provide solutions to a customer’s technical business problem.</li>
+</ul>
+<p></p>
+<p><b>
+Knowledge, Skills and Abilities:
+</b></p>
+<ul>
+<li>Ability to approach projects and stakeholders in an empathetic manner to understand the needs and the best approach of how to accomplish the intended results in a collaborative way. Fosters communication among all involved with the product/system being developed.</li>
+<li>
+Ability to work independently and in a team environment managing a range of situations involving business stakeholders, vendor partners and technical resources.</li>
+<li>
+Anility to resolve a wide range of issues in creative ways.</li>
+<li>
+Good written and verbal communication skills</li>
+<li>
+Excellent customer service skills</li>
+<li>
+Good interpersonal communication skills to work with the business on requirements</li>
+<li>
+Good analytical and troubleshooting skills as it relates to the interoperability of new and existing solutions</li>
+<li>
+Basic PC and Windows experience</li>
+<li>
+Inherent curiosity to troubleshoot effectively</li>
+</ul>
+<p></p>
+<p>
+Red Robin is an Equal Opportunity &amp; E-Verify Employer</p>
+</div></div>

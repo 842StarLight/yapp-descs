@@ -1,0 +1,84 @@
+<h2>ERP Development Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h1 class="jobSectionHeader"><b>Job Description:
+</b></h1>Provide on-site development and support of SAP ECC applications and programs written in ABAP. Design, code, test, debug, document, and maintain those applications and programs. Provide functional support to the FICO staff as needed.
+<br>
+<br>
+<ul>
+<li>Communicates with IS business analysts to write technical specifications based on business requirements.
+</li>
+<li>Evaluates business requirements. Determines approach to meet requirements within SAP capabilities and customizations.
+</li>
+<li>Designs, codes, tests, debugs, documents, and maintains software programs and applications according to specifications.
+</li>
+<li>Provides on-site support of software, to include business needs analysis and changes for all supported locations.
+</li>
+<li>Provides technical support for projects and other initiatives.
+</li>
+<li>Researches reported problems and proposes solutions.
+</li>
+<li>Monitors and analyzes data to verify data integrity.
+</li>
+<li>Writes programming scripts to enhance functionality and/or performance of company applications as necessary.
+</li>
+<li>Recommends and performs software improvements and upgrades.
+</li>
+<li>Liaises with team members and vendors to assist in resolving problems with software products or company software systems.
+</li>
+<li>Assists with development of recommendations and estimates for new functionality and changes.
+</li>
+<li>Evaluates new and existing software products and make recommendations of potential uses
+</li>
+<li>Monitors systems and applications to ensure stability.
+</li>
+<li>Conducts research to learn current trends in technology, generates improvement suggestions, and presents findings to supervisors.
+</li>
+<li>Attends various training and/or conference sessions.
+</li>
+<li>Develops training material/documentation.
+</li>
+<li>Provides training and ongoing support to end users.
+</li>
+<li>Makes peer-reviewed changes to produce a solution to a problem.
+</li>
+<li>Identifies ways that custom SAP applications and programs can be adapted to improve efficiency of business processes.
+</li>
+</ul>
+<h1 class="jobSectionHeader"><b>Requirements:
+</b></h1>
+<ul>
+<li>BS or BA degree in Information Systems or related field preferred. Relevant technical or industry experience will also be considered.
+</li>
+<li>
+<b>Certifications </b>: None
+</li>
+<li>
+<b>Specialties </b>: SAP ABAP, SAP ABAP Web Dynpro, SAP ECC, SAP DDIC, Object Oriented Programming, Database concepts, SQL, SOA framework.
+</li>
+<li>Minimum of 3 years I/S experience with SAP ABAP programming mainly in the FICO (Finance and Controlling) and PS (Project System) with some optional experience in the MM (Material Management), PM (Plant and Equipment Maintenance), and SD (Sales and Distribution) ECC business areas.
+</li>
+<li>Object oriented programming using ABAP Web and SAP GUI Dyn Pro, SAP UI5, Java Script and Web Services experience a plus.
+</li>
+<li>Experience in SAP Workflow as plus.
+</li>
+<li>Proficiency with Microsoft Office products.
+</li>
+<li>Exposure with UNIX based scripting languages.
+</li>
+<li>Familiarity with the various software development life cycles.
+</li>
+<li>Excellent communication skills required to interact with internal and external contacts.
+</li>
+<li>Demonstrate thorough understanding of primary function/system for an area, understanding of both functional and technical knowledge, ability to diagnose problems and handle multiple problems simultaneously that may cross multiple departments/systems and impact numerous end users or areas of the business, ability to prioritize and work autonomously, ability to formulate new or better processes or ideas, establish effective working relationships and communicate appropriately according to level of understanding, and ability to attend meetings to represent area.
+</li>
+<li>Ability to identify an issue, analyze and research the problem, and begin to formulate a solution and/or recommendation.
+</li>
+<li>Oil and gas business and operations knowledge preferred. Some travel may be required.
+</li>
+</ul>
+<p></p>
+<p>In order to be considered for this position, applicants must apply directly through NuStar’s career site at www.nustarenergy.com/careers .
+</p>
+<p></p>
+<p>When a higher-level position exists candidates with greater qualifications may be considered for the position.</p>
+</div></div>

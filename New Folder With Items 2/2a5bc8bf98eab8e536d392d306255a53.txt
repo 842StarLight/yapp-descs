@@ -1,0 +1,146 @@
+<h2>Reliability Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>As a leading worldwide provider of navigation devices and wearable technology, our focus is on developing, designing and supporting superior products. Our advanced technology promotes performance, safety and ease of use in every market we serve. That makes us an engineering and technology company with a keen focus on recruiting talent in those fields. But the same vertical integration business model that keeps all design and manufacturing processes in-house also gives us the incentive to hire top performers from different backgrounds, including operations, finance and accounting, information technology, sales, marketing and communications.</div>
+<div></div>
+<br>
+<div>
+In operations and facilities, we literally do it all…in-house. We are looking for skilled, energetic individuals who want to join our quality, international shipping, manufacturing, office services, planning, purchasing, receiving, returns and warehouse teams. These associates do everything from delivering packages and purchasing supplies to assembling aviation panel mounts and ensuring our large shipments of goods are exported according to applicable international laws. Together, they proactively support associates and customers alike. If you’re ready to work – and have fun, too – come, help us put the pieces together!</div>
+<div></div>
+<br>
+<div>
+We are looking for a full-time Reliability Engineer for our headquarters in the greater Kansas City area. In this role you will create, develop, perform, and coordinate complex reliability analysis, test plans and procedures to improve quality and reliability of Garmin products, processes, and systems in a team orientated environment. You may serve as a leader for reliability small projects or sub projects as well. Other essential functions include:</div>
+<ul>
+<li><div>
+May perform as a leader for small reliability projects or sub projects as part of a greater project, following established procedures<br>
+</div></li>
+<li><div>Develops more complex process instructions for reliability analysis<br>
+</div></li>
+<li><div>Perform more complex activities to maximize reliability of both new and existing products.<br>
+</div></li>
+<li><div>Designing and conducting experiments to measure product life and reliability<br>
+</div></li>
+<li><div>Partnering with Design and Process Engineering to implement strategies aimed at improving detection of product failures and determining root cause<br>
+</div></li>
+<li><div>Assisting in development and application of reliability testing strategies including accelerated life testing such as HALT and HASS<br>
+</div></li>
+<li><div>Recommending design or process improvements to enhance reliability<br>
+</div></li>
+<li><div>Measuring and maintaining field reliability data and communicating results<br>
+</div></li>
+<li><div>Able to elicit, formulate and identify reliability test requirements using techniques such as interviewing and use case development.<br>
+</div></li>
+<li><div>Develops test plans and procedures<br>
+</div></li>
+<li><div>Participates in the investigation and documentation of root cause analysis related to quality and reliability issues<br>
+</div></li>
+<li><div>Analysis of reliability data to identify adverse performance trends and improvement opportunities; areas may include external/internal measurements, technical analysis of product applications, corrective actions, and implementation of improvement processes and design improvements<br>
+</div></li>
+<li><div>Contribute to cross-functional teams focusing on improving the reliability of products and processes. Reliability improvement initiatives may include any of the following : Design for Manufacturability, Design for Serviceability, FMEA (Failure Mode and Effects Analysis) and Design of Experiments<br>
+</div></li>
+<li><div>Statistical analysis of test and field data with regard to durability and reliability. This includes Weibull analysis, regression analysis, Reliability Growth Testing models, ANOVA and related techniques<br>
+</div></li>
+<li><div>Providing support to suppliers in evaluating the reliability of their components; providing support to suppliers in addressing reliability related problems associated with their product<br>
+</div></li>
+<li><div>Work with Design Engineering, Manufacturing, Customer Repair, and Process Engineering to identify and implement process and design improvements in order to continuously improve product and process reliability<br>
+</div></li>
+<li><div>Estimate level of effort for a task including calculating reliability testing times<br>
+</div></li>
+<li><div>Focus on continuous improvement<br>
+</div></li>
+<li><div>Collaborate and add value through participation while partnering with Engineering; Applies reliability guidelines to design reviews and provides alternative quality solutions as appropriate<br>
+</div></li>
+<li><div>Develops designed experiments for process and quality improvements<br>
+</div></li>
+<li><div>Analyzes processes for quality improvements and provides justification for purchases as needed<br>
+</div></li>
+<li><div>Demonstrates excellent communication skills in collaboration with Engineering<br>
+</div></li>
+<li><div>Provide reliable analytic solutions to a variety of quality problems using sound problem solving techniques<br>
+</div></li>
+<li><div>Serve as a mentor to less experienced reliability engineers (Reliability Engineer 1)<br>
+</div></li>
+<li><div>Apply a sense of urgency, commitment and focus on the right priorities in developing solutions in a timely fashion<br>
+</div></li>
+<li><div>Apply Garmin’s Mission, Vision, Values, and Quality Policy and enthusiastically exhibit a desire to see Garmin succeed</div></li>
+</ul>
+</div>
+<p></p>
+<div>
+<b>
+Qualifications</b><div>
+</div>
+<div>
+Qualified candidates possess a Bachelor of Science Degree in Electrical Engineering, Computer Engineering, Mechanical Engineering, Industrial Engineering, or related field AND a minimum of 2 years’ relevant experience, OR an equivalent combination of education and experience Other requirements include:</div>
+<ul>
+<li><div>
+Outstanding academics (cumulative GPA greater than or equal to 3.0 as a general rule)</div></li>
+<li><div>
+Demonstrates full use of industry standards and procedures</div></li>
+<li><div>
+Demonstrated proficiency and knowledge in use of engineering tools</div></li>
+<li><div>
+Demonstrated use of Lean techniques in process development</div></li>
+<li><div>
+Demonstrated strong and effective verbal, written, and interpersonal communication skills</div></li>
+<li><div>
+Demonstrates proficient computer skills and knowledge of Microsoft Office applications</div></li>
+<li><div>
+Must demonstrate the capability to perform complex analysis, test plans and procedures</div></li>
+<li><div>
+Superior organizational and analytical skills with keen attention to detail and quality</div></li>
+</ul>
+<div>
+ DESIRABLE QUALIFICATIONS:</div>
+<ul>
+<li><div>
+Experience in reliability and testing within the aircraft avionics industry</div></li>
+<li><div>
+Experience in an FAA approved quality system</div></li>
+<li><div>
+Proven knowledge of Design of Experiments, FMEA, Weibull analysis, regression analysis, and Reliability Growth Testing</div></li>
+<li><div>
+Experience with qualification and certification of products to National and international Standards</div></li>
+<li><div>
+Experience with database management systems such as Microsoft Access and SQL</div></li>
+<li><div>
+Experience with statistics packages such as Minitab</div></li>
+<li><div>
+Experience programming with languages such as Visual Basic</div></li>
+<li><div>
+Experience using computer aided design software to generate part models and assembly drawings</div></li>
+<li><div>
+Experience using computer aided design software to generate part models and assembly drawings</div></li>
+<li><div>
+Experience using National Instruments products and LabVIEW to automate tests</div></li>
+<li><div>
+Experience utilizing and programming microcontrollers (e.g. Arduinos and Raspberry Pi)</div></li>
+</ul>
+<br>
+<div></div>
+<div>Our benefits are designed to lead an evolving marketplace, support innovation and encourage a healthy balance between work and life. They allow our associates to make their own decisions about their wellbeing and future and consistently rank Garmin as a top tier benefits provider when compared to other high-tech employers. We offer a choice of high value medical, dental and vision plans with low or no premiums, to fit your and your family’s preferences. In addition, Garmin’s financial benefits include a generous 401K retirement plan that provides 5% of pay base contribution plus a match of 75 cents for every dollar you contribute to a maximum of 10% of your compensation. The employee stock purchase plan allows for shares to be bought at a 15% discount. Garmin offers many other benefits and perks ranging from wellbeing initiatives, educational assistance and career development, community charity support, and employee discounts just to name a few.</div>
+<br>
+<div></div>
+<div><i>Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran’s status, age or disability.<br>
+</i></div>
+</div>
+<p></p>
+<div>
+<b>Job</b> Quality</div>
+<div>
+<b>
+Primary Location</b>US-KS-Olathe</div>
+<div>
+<b>
+Organization</b> Operations</div>
+<div>
+<b>
+Schedule</b> Full-time</div>
+<div>
+<b>
+Job Class</b> Exempt</div>
+</div>
+<p></p>
+</div>

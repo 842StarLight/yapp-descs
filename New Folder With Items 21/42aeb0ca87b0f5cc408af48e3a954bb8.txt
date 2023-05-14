@@ -1,0 +1,52 @@
+<h2>Sr. Director, Data Science</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Job Description</p>
+<br>
+<p></p>
+<p><b>
+Summary:</b><b>
+</b></p>
+<p>Vertafore is hiring a leader of our Data Science initiatives. Insurance is an industry with an incredible amount of data. With Vertafore providing management software to approximately 40% of the US insurance industry, by analyzing this data we can potentially provide incredible insights to the industry to help drive growth, profitability and customer satisfaction. We have taken the first step with our RiskMatch solution, which is a data analytics platform for our customers. We need a proven data science leader to take us to the next step, by building a strong team to take us to the next level of insights to offer to the insurance industry.</p>
+<p>
+In this role, you will have the opportunity to provide insights that have a major impact on a very large and important industry. You will have access to senior management at both Vertafore, as well as our customers. You will have the opportunity to build yourself into an industry thought leader who is sought after for insights. You will have the opportunity to build a large new business.</p>
+<br>
+<p></p>
+<p><b>
+Responsibilities and Duties:</b></p>
+<p>
+In this role, the ideal candidate will:</p>
+<ul>
+<li>Build and manage a team of data scientists to develop business insights and new product opportunities leveraging advanced data analytics and machine learning techniques</li>
+<li>Initial objectives will center on:
+<ul>
+<li>Determining a set of industry metrics that provide meaningful insights beyond what is available to the industry today</li>
+<li>Developing automated insights that provide custom insights to customers to help them understand their business in real-time, and identify steps they can take to improve their businesses</li>
+<li>Working collaboratively across organizations at Vertafore, such as product management, sales and development</li>
+<li>Implementing data quality and governance processes</li>
+</ul>
+</li>
+<li>Publish and present results of research to customers, industry conferences, publications, etc.</li>
+<li>Work directly with customers to solve complex challenges in their businesses</li>
+</ul>
+<p><b>Qualifications:</b></p>
+<ul>
+<li>Must have management experience, ideally having built teams of both experienced and new college graduates, and managing across multiple geographic locations</li>
+<li>Experience managing India-based resources a strong plus</li>
+<li>Customer-facing experience</li>
+<li>Strong project management skills</li>
+<li>Hands-on experience deploying analytical models to solve business problems</li>
+<li>Proven ability to collaborate and develop positive business relationships both internally and externally</li>
+<li>Insurance industry knowledge and experience a strong plus, but not required</li>
+<li>Advanced degree in a quantitative field (Computer Science, Statistics, Engineering etc.)</li>
+<li>Advanced experience in machine learning algorithms, regression, clustering, statistical analysis</li>
+<li>Demonstrated experience leading large scale data/data science centered modelling</li>
+<li>Experience in programming languages such as R, Python, Java, C++, Scala</li>
+<li>Familiarity with Big Data technologies (e.g., MapReduce, Hadoop, Spark) and data management systems</li>
+<li>Familiarity with existing Machine Learning APIs (e.g., Amazon Machine Learning API) is a plus</li>
+<li>Experience with unstructured data, and with techniques such as natural language processing or neural networks</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Location:</b> Vertafore Headquarters in Denver, CO</p>
+</div></div>

@@ -1,0 +1,148 @@
+<h2>Director Data Intelligence, Strategy and Capabilities, Oncology</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>AstraZeneca’s vision in Oncology is to help patients by redefining the cancer-treatment paradigm, with the aim of bringing six new cancer medicines to patients between 2013 and 2020. A broad pipeline of next generation medicines is focused principally on four disease areas - breast, ovarian, lung and hematological cancers. As well as other tumor types, these are being targeted through four key platforms: immunotherapy, the genetic drivers of cancer and resistance, DNA damage repair, and antibody drug conjugates, underpinned by personalized healthcare and biomarker technologies.</p>
+<p></p>
+<p><b>
+Position Summary:</b></p>
+<p>
+The Data Enablement &amp; Capabilities Lead role combines the role of Strategy, Marketing &amp; Execution of the capabilities. Lead role is accountable for developing and implementing an emerging capability to deliver the infrastructure needed and the execution of complex, actionable, big-data analytics that support strategic, closed-loop marketing efforts (Customer, Consumer &amp; Digital) across US Oncology Portfolio (Women’s Franchise, IO Franchise, Hematology Franchise, Lung Franchise). The role will use strong analytical and critical thinking skills to development relevant strategy and communication channels based on the US Oncology commercial strategy across 4 franchise. Keys to success in this position are superlative communication, consultative and influencing skills predicated on a strong foundation of data analysis proficiency, Clinical acumen, unconventional Marketing strategy &amp; emerging technologies like Big data, Artificial Intelligence, Machine Learning etc.</p>
+<p></p>
+<p><b>
+Accountabilities/Responsibilities:</b></p>
+<ul>
+<li>Develop a vision for Data driven execution and aligns and engages individuals around the vision</li>
+<li>Brings an innovative and future focused approach to work; willing to experiment to drive impact to the top line</li>
+<li>Support brand teams in the development of strategy, especially the use of secondary data and analytics to support business goals, and high-level design of programmatic needs</li>
+<li>Provide brand and market evaluation, interpretation, and communication of results synthesizing key data and insights spanning a host of different sources and types of data</li>
+<li>Leverage Oncology experience to engage with brand and medical stakeholders to derive and visualize patient journeys , HCP Network, using primary &amp; secondary data</li>
+<li>Develop, deliver and execute a trigger platform, leading a matrix team with representation from across the Commercial organization, including marking science, marketing, and sales operations</li>
+<li>Identify and implement technology solution to integrate triggers with the sales force execution platform and the marketing channels</li>
+<li>Drive implementation of the sales team facing tools that provide insight into the customer behavior derived from secondary data</li>
+<li>Drive customer behavior analytics to understand referral networks, treatment influencers, KOLs, scientific leadership and publications</li>
+<li>Create insightful reports and presentations that clearly and succinctly highlight the actionable insights combined with business implications/strategic &amp; tactical options</li>
+<li>Identify business needs proactively and build analysis with foresight</li>
+<li>Keep abreast on key Oncology trends and best practices to help solve challenges and capitalize on opportunities</li>
+<li>Develop and maintain budget to support data driven execution deliverables</li>
+<li>Maintain effective relationships with contractors and other third-party vendors through oversight of the vendor management process</li>
+<li>Leverage/apply AZ insight best practices as appropriate</li>
+</ul>
+<p></p>
+<p><b>
+Leadership Capabilities:</b></p>
+<ul>
+<li>Drives Performance: Holds self and others accountable for the achievement of performance expectations. Creates an environment that enables others to perform at their best. (Essential)</li>
+<li>Acts Decisively: Makes and acts on decisions quickly and effectively and fosters the same in others. This is based on an underlying courage to enable risk-taking for the business. (Essential)</li>
+<li>Works Collaboratively: Actively creates and promotes cross-boundary collaboration with the aim of achieving better business results. Boundaries can exist between individuals, geographies, cultures, teams, functions, organizations, etc. (Essential)</li>
+<li>Thinks Strategically: Quickly identifies and acts on opportunities, combining forethought with action. This is based on an understanding of the external environment and its impact on AZ and the brand. (Essential)</li>
+<li>Assembles facts and insight to tell a cohesive story that clearly communicates the health of the business (Essential)</li>
+</ul>
+<p></p>
+<p><b>
+Data and Analytical Expertise</b></p>
+<ul>
+<li>In depth knowledge of secondary data sources like patient level claims (Symphony, IMS, HMS etc.) , EMR (Flatiron), IMS DDD, specialty pharmacy, specialty distributors, IDN’s &amp; GPO’s..</li>
+<li>Identify, evaluate and procure new and innovative data sources</li>
+<li>Ability to onboard new datasets by navigating compliance, legal, procurement, data governance and IT infrastructure</li>
+<li>Working knowledge of machine learning techniques and algorithms such as k-NN and random forests</li>
+<li>Good understanding of statistics skills, such as distributions, statistical testing and regression to guide teams analyzing the data</li>
+<li>Ability to synthesize complex analyses into clear presentations for the senior leadership, sales leaders and medical teams</li>
+</ul>
+<p></p>
+<p><b>
+Oncology Expertise</b></p>
+<ul>
+<li>Exceptional medical understanding of various tumor types that AstraZeneca already has and the ones that are in the pipeline</li>
+<li>Ability to translate the medical aspects to data and validate the expected treatment patterns</li>
+<li>Strong understanding of the healthcare eco-system in US</li>
+<li>Multiple Tumor / Indication launch experience across oncology &amp; hematology</li>
+<li>Understanding of Oncology/specialty pharmacy sales force landscape in the US along with Payer, IDN’s GPO’s role in the buy-bill model &amp; reimbursement</li>
+<li>Experience rolling out large initiatives with Oncology sales organization with field based role training</li>
+<li>Good Understanding Incentive comp structure, sizing, planning &amp; alignment of Sales force</li>
+<li>Provide data support to the marketing teams better optimize their budgets</li>
+</ul>
+<p></p>
+<p><b>
+Technology Expertise</b></p>
+<ul>
+<li>Recommends information technology strategies by evaluating organization outcomes, identifying problems, evaluating trends and anticipating requirements</li>
+<li>Marshall a team of big data experts and developers in implementing enterprise solutions internal AZ platforms</li>
+<li>Working knowledge of basic big data technologies like Redshift, Cloudera, EMR and Hive to appropriately challenge the team</li>
+<li>Drive implementation of enterprise wide reporting solutions on technologies like Microstrategy and Qlik</li>
+<li>Engage with IT leadership to pull through on immediate demand as well as provide guidance on the technology road map to address future demand</li>
+<li>Hands on experience with Neural Networks, Machine learning, Artificial intelligence</li>
+</ul>
+<p></p>
+<p><b>
+Requirements/Qualifications:</b></p>
+<p></p>
+<p><b>
+Education</b></p>
+<p>
+Bachelors degree in relevant field, MBA preferred</p>
+<p></p>
+<p><b>
+Experience</b></p>
+<ul>
+<li>
+Minimum 10+ years pharmaceutical or biotechnology experience – Oncology experience required</li>
+<li>
+Experience implementing technology platforms with multiple data sources</li>
+<li>
+Ability to thoroughly asses data various data sources to identify strengths, weaknesses, and gaps</li>
+<li>
+Ability to interface with both application/database developers and sales/marketing to ensure business needs are translated into easy to use and meaningful applications (to this extent anyone with a business analyst background would also be a good candidate)</li>
+<li>
+Data source knowledge: IMS, Symphony, FlatIron, or other claims or EMR based data</li>
+<li>
+Experience in sales field based reporting</li>
+<li>
+3-5 years of primary market research preferred</li>
+<li>
+Analytical experience applying various primary research techniques and secondary analysis to inform business decisions preferred</li>
+<li>
+Demonstrated ability to influence laterally and vertically</li>
+<li>
+Pharmaceutical or consumer Insight experience highly desirable</li>
+</ul>
+<p></p>
+<p><b>
+Skills and Competencies:</b></p>
+<ul>
+<li>
+Demonstrated success in applying various primary research techniques to inform strategy in the pharmaceutical industry</li>
+<li>
+Demonstrated ability to pull together insights from a variety of sources and develop strategic guidance for brand teams that result in a business decision or action</li>
+<li>
+Demonstrated ability to communicate at all levels</li>
+<li>
+Experience with common statistical analysis and techniques</li>
+<li>
+Strong business and marketing acumen and excellent communication and interpersonal skills; consultative background preferred</li>
+<li>
+Ability to think strategically about integrating Big Data into commercial execution in the pharmaceutical industry.</li>
+<li>
+Ability to coordinate the appropriate analytical expertise necessary to address a variety of different business issues</li>
+<li>
+Ability to navigate through a lot of information and to identify what’s most important and most actionable</li>
+<li>
+Ability to work in a collaborative and influencing fashion that drives to business action</li>
+<li>
+Ability to manage and lead numerous projects at the same time</li>
+<li>
+Ability to prioritize and manage demands of more than one project simultaneously</li>
+<li>
+Strong analytical skills with intimate knowledge of variety of secondary data sources (e.g., IMS, WK, IPSOS); direct data management and analysis experience preferred</li>
+<li>
+Exhibit high capability at working collaboratively, thinking strategically, and juggling multiple priorities</li>
+</ul>
+<p></p>
+<p><b>
+Next Steps - Apply today!</b></p>
+<p>
+To be considered for this exciting opportunity, please complete the full application on our website at your earliest convenience - it is the only way that our Recruiter and Hiring Manager can know that you feel well qualified for this opportunity. If you know someone who would be a great fit, please share this posting with them.</p>
+<p><i>
+AstraZeneca is an equal opportunity employer. AstraZeneca will consider all qualified applicants for employment without discrimination on grounds of disability, sex or sexual orientation, pregnancy or maternity leave status, race or national or ethnic origin, age, religion or belief, gender identity or re-assignment, marital or civil partnership status, protected veteran status (if applicable) or any other characteristic protected by law. AstraZeneca only employs individuals with the right to work in the country/ies where the role is advertised.</i></p>
+</div>
+<p></p>
+</div>

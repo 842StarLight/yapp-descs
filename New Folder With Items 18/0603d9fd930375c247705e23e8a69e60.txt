@@ -1,0 +1,96 @@
+<h2>Solutions Architect, Original Equipment Manufacturer (OEM) and Technical Integration Alliance (TA) Partners</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About CrowdStrike</b></p>
+<p>
+At CrowdStrike we’re on a mission - to stop breaches. Our groundbreaking technology, services delivery, and intelligence gathering together with our innovations in machine learning and behavioral-based detection, allow our customers to not only defend themselves, but do so in a future-proof manner. We’ve earned numerous honors and top rankings for our technology, organization and people – clearly confirming our industry leadership and our special culture driving it. We also offer flexible work arrangements to help our people manage their personal and professional lives in a way that works for them. So if you’re ready to work on unrivaled technology where your desire to be part of a collaborative team is met with a laser-focused mission to stop breaches and protect people globally, let’s talk.<br>
+</p>
+<p><b>
+About the Role</b></p>
+<p>
+Are you ready for your next real security challenge? Are you passionate about helping organizations stop breaches using a platform that just works? If so, CrowdStrike is seeking a Solutions Architect with significant expertise working with Original Equipment Manufacturer (OEM) and Technical Integration Alliance (TA) Partners</p>
+<p>
+You should be comfortable working in a fast paced environment on multiple engagements. You should be able to articulate how current security solutions are designed and deployed, why they are failing, and how OEM and TA Partners can assist their customers in truly preventing breaches by leveraging CrowdStrike’s capabilities. You will be part of a team responsible for changing what the security market and customers believe is possible with a next-generation endpoint technology.</p>
+<p>
+The OEM/TA Solution Architect , is a partner focused technical business development professional, who provides support, enablement, and guidance to CrowdStrike's OEM and TA Integration Partners. You will be expected to take ownership of the technical design and management of strategic initiatives and programs relating to OEM and Integration Activities, their technical architectures, solutions delivery, partner training and enablement as well as working internally to represent the technology needs of the OEM and TA Partners to the CrowdStrike Product and Engineering organizations. The ideal candidate will have a good mix of deep technical knowledge and business acumen in the security and managed services marketplace. In this position you will be leading the development and execution of technology strategies and solutions integrations to meet strategic corporate and partner needs, present and future.</p>
+<p>
+ <b>Responsibilities</b></p>
+<ul>
+<li>
+Work closely with OEM/TA Partners and their SEs/SAs to promote and further CrowdStrike's Sales growth.</li>
+<li>
+Assist OEM partner SEs/SAs to accomplish CrowdStrike training and certifications. Shadow partners in live deployments. Including installations, troubleshooting and training of CrowdStrike's products.</li>
+<li>
+Rollout of NFR program (helping partners to deploy CS internally)</li>
+<li>
+Assist with demo environments, ensuring partners have necessary training and technology to demonstrate to CS customers.</li>
+<li>
+Develop technical enablement certification offering.</li>
+<li>
+Act as an interface between the OEM/TA Partners and other CS technical staffs to resolve outstanding issues</li>
+<li>
+Provide reporting and feedback on partner field activities to Sales, Product Management and Engineering</li>
+<li>
+Participate in partner and CS events such as security conferences, lunch &amp; learns, and partner sponsored events.</li>
+</ul>
+<p>
+ <b>Requirements</b></p>
+<ul>
+<li>
+Significant experience in a technical capacity in either incident response services, attack and penetration assessments, or host-based security technologies, preferably working with large Service Providers, other OEMs, technical integrators, or Consulting organizations</li>
+<li>
+Experience with delivery of OEM solution support or providing support to OEM/TA Partners</li>
+<li>
+Experienced in a security focused technical lead and/or solutions architect role</li>
+<li>
+Extensive contacts in the information security field and strong references</li>
+</ul>
+<p>
+ <b>Additional Qualifications</b></p>
+<ul>
+<li>
+Excellent organizational and project management skills</li>
+<li>
+Deep understanding of Modern Malware Lifecycle, Malware/Forensic Analysis, Cyber Security, threat Intelligence landscape, and the overall value of intelligence</li>
+<li>
+Understanding of host based security technologies such as: whitelisting, micro-virtualization, behavioral analysis, machine learning</li>
+<li>
+Excellent communication and presentation skills with the ability to present to a variety of external audiences, including C-level executives</li>
+<li>
+Ability to travel both domestic and internationally up to 50%</li>
+<li>
+Prior experience with SIEM systems, and data consumption capabilities including API’s, scripting, and data exchange formats</li>
+<li>
+Optional: Scripting experience in Bash and/or Python</li>
+<li>
+Optional: Product Management experience</li>
+<li>
+S./B.A./M.S. degree or equivalent experience/technical training</li>
+</ul>
+<p>
+Want to help us redefine what endpoint security should really look like? Let’s have a chat. Be prepared to tell us what differentiates you.<br>
+</p>
+<p><b>
+Benefits of Working at CrowdStrike:</b></p>
+<ul>
+<li>
+Market leader in compensation and equity awards</li>
+<li>
+Competitive vacation policy</li>
+<li>
+Comprehensive health benefits + 401k plan</li>
+<li>
+Paid paternity and maternity leave, including adoption</li>
+<li>
+Flexible work environment</li>
+<li>
+Wellness programs</li>
+<li>
+Stocked fridges, coffee, soda, and lots of treats</li>
+</ul>
+<p><i>
+We are committed to building an inclusive culture of belonging that not only embraces the diversity of our people but also reflects the diversity of the communities in which we work and the customers we serve. We know that the happiest and highest performing teams include people with diverse perspectives and ways of solving problems so we strive to attract and retain talent from all backgrounds and create workplaces where everyone feels empowered to bring their full, authentic selves to work.</i></p>
+<p><i>
+CrowdStrike is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.</i><br>
+<br>
+<i>#LI-LP1</i></p>
+</div></div>

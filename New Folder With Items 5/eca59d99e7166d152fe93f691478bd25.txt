@@ -1,0 +1,91 @@
+<h2>Cloud Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<p><b>GENERAL SUMMARY</b></p>
+<p>
+Under the direction of the Vice President of IT, the Cloud Solutions Architect is responsible for providing expertise and leadership in the areas of technical and data architecture for both the Infrastructure and DevOps teams in Microsoft Azure and D365.
+</p>
+<p><b>Essential Duties and Responsibilities</b></p>
+<ul>
+<li>
+Be a Microsoft Azure Platform evangelist within the organization.
+</li>
+<li>Performs Microsoft Azure and D365 design work that may include logical design, I/O design, cloud architecture analysis and design, data architecture analysis and design along with systems engineering.</li>
+<li>
+Apply technical knowledge and customer insights to create a modernization roadmap and architect solutions to meet business and IT needs, ensuring technical viability of new projects and successful deployments, orchestrating key resources and infusing key infrastructure technologies.</li>
+</ul>
+<ul>
+<li>
+Provides thought leadership not only at the project level, but in a strategic manner providing consultation to key Product Owners, IT and business leaders to help drive long-term cloud adoption.
+</li>
+<li>Maintain and advance deep technical skills and knowledge, keeping up to date with market trends and competitive insights, and share that knowledge within the organization.</li>
+<li>
+Assess knowledge of the Microsoft Azure platform and cloud readiness of the IT team and build a structured training plan to ensure it can support future IT roadmap.</li>
+<li>
+Responsible for technical governance of Technical architecture and applications. Ensures that reference architecture and standards are followed.</li>
+</ul>
+</div>
+<div>
+<div>
+<h2 class="jobSectionHeader"><b>Minimum Requirements</b></h2>
+</div>
+<div>
+<p><b>EDUCATION, SKILLS &amp; EXPERIENCE REQUIREMENTS</b></p>
+<ul>
+<li>
+Bachelor’s degree in Information Technology, Computer Science, or equivalent.</li>
+<li>
+A minimum of 5 years of experience as an Azure Cloud Architect with D365 expertise a plus
+</li>
+<li>Experience in all aspects of cloud computing (e.g. infrastructure, storage, platforms and data, etc.)</li>
+<li>
+Good understanding of Azure Infrastructure services and their limitations</li>
+<li>
+Experience in configuring &amp; monitoring different attributes and handling scale up and scale down scenarios for the applications in Azure</li>
+<li>
+Provide best practices around provisioning production and non-production environments on Azure to optimize the usage</li>
+<li>
+Have good understanding in implementation of advanced security, authentication and single sign on across cloud and on premise</li>
+<li>
+Strong experience in Azure Platform Services, understanding of their capabilities and limitations and being able to architect and deliver solutions leveraging various platform services</li>
+<li>
+Have experience in implementing enterprise application using platform services like Azure websites, Azure SQL, Azure Service Bus, Azure Data Lake, Azure Notification hubs, Azure Event hubs, Application Insights etc.</li>
+<li>
+Strong expertise in building cloud native enterprise scale applications and moving applications from on-premises to cloud environments</li>
+<li>
+Strong understanding of different attributes for cloud application availability, scalability and ability to propose optimized design for cloud</li>
+<li>
+Performance tuning of cloud-based applications for best performance</li>
+<li>
+Experience in defining and implementing hybrid scenarios with workloads shared across on premise and Microsoft Azure, application integration between cloud and on-premise environments</li>
+<li>
+Candidate should be from an application development and solution architecture background and have expertise in building large scale web applications before the cloud experience.</li>
+<li>
+Acknowledged for driving decisions collaboratively, resolving conflicts and ensuring follow through with exceptional verbal and written communication skills</li>
+<li>
+Presentation skills with a high degree of comfort with both large and small audiences (Senior Executives, IT management and developers)</li>
+<li>
+Experienced in working in Agile / DevOps environment with in depth knowledge of networking, and cloud-based delivery models.</li>
+<li>
+Good skills and knowledge of servant leadership, facilitation, situational awareness, conflict resolution, continual improvement, empowerment, and increasing transparency.</li>
+<li>
+Excellent oral and written communication skills including active listening and the ability to influence or persuade others in positive or negative circumstances.</li>
+<li>
+Familiar with SAFe and/or other enterprise agile frameworks.</li>
+<li>
+Experience with Retail including but not limited to Finance &amp; Accounting, Sales Order Entry, Supply Chain Management, Distribution, Warehousing, Inventory Management, Store Operations, Ecommerce and Merchandising a plus.</li>
+<li>
+Experience with Microsoft Dynamics 365 a plus.</li>
+<li>
+Willingness and ability to accept after-hours support calls and the dedication to resolve after-hours calls to resolution, as necessary to support the business.</li>
+<li>
+Ability and willingness to travel frequently between Lids’ corporate office and distribution center (5 miles).</li>
+<li>
+Ability and willingness for occasional long-distance travel (business meetings and/or training), usually not more than 2-3 per year.</li>
+</ul>
+</div>
+</div>
+</div>
+<p></p>
+</div>

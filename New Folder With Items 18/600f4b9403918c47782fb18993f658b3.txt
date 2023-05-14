@@ -1,0 +1,77 @@
+<h2>Business Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Job Description</b><br>
+<br>
+<div>Hilton Reservations and Customer Care (HRCC) is on a path to revolutionize human hospitality in a digital world, the same way we defined hospitality from its early beginnings. We strive to deliver personalized solutions that inspire a passion for travel, and our goal is to make a lasting impression with every Hilton guest with whom we interact.</div>
+<br>
+<b>
+What will I be doing?</b><br>
+<br>
+<div>Are you looking for an exciting career in a contact center manipulating data and impacting the business? The Business Analyst directly supports reporting and analysis for all business units in Hilton’s Reservations and Customer Care centers. You will have a specific focus on performance metrics in both sales and service branches of the organization. You will also utilize various Business Intelligence tools and advanced analytical skills to extract, organize and analyze large amounts of data. Your expertise in building and effectively communicating this to leadership will directly result driving strategic decisions.</div>
+<div></div>
+<br>
+More specifically, you will:<div>
+Establish and Maintain Data Integrity – 20%:<br>
+<ul>
+<li>Understand valuable metrics and report structure, establish report processes, and identify data discrepancies and errors.</li>
+<li>Test and evaluate data accuracy for different datasets both within Oracle and in external data sources.</li>
+</ul>
+Collect and Organize Data – 30%:</div>
+<div>
+<ul>
+<li>
+Use Business Intelligence tool (MicroStrategy, Alteryx) to query the data in Hilton’s Enterprise Data Warehouse accurately and deftly.</li>
+<li>Build and understand data relationships/architecture, working with the database team to ensure the integrity of the data structure and design.</li>
+</ul>
+Analyze and Interpret Data – 30%:</div>
+<div>
+<ul>
+<li>
+Use BI tools, spreadsheets and database tools to manipulate massive quantities of data to create and combine insightful and automated reports to identify trends, relationships, and discover root causes of business outcomes (MicroStrategy, Alteryx, Tableau, R).</li>
+<li>Design and implement advanced analytical processes by combining BI tools (MicroStrategy and Alteryx) with R to create predictive forecasting and target setting models.</li>
+<li>Use advanced analytical models to analyze unstructured data (text) to derive key insights based on text and sentiment analysis.</li>
+<li>Support Operations team by helping build frameworks and automation to analyze and understand forecasts, staffing and planning requirements to improve operational insights and efficiency.</li>
+</ul>
+Communicate/Deliver insights effectively – 20%:</div>
+<div>
+<ul>
+<li>
+Use BI tools to design and build dashboards, along with visualizations, to show trends, patterns, relationships and analyses with clarity to deliver impactful insight.</li>
+<li>Use verbal and written communication skills to deliver analytical observations and recommendations to business owners and leadership. You will communicate your findings in a concise, yet informative manner, to provide a strong data-centric basis for strategic decision-making.</li>
+</ul>
+<br>
+</div>
+<b>
+What are we looking for?</b><br>
+<br>
+<div>The success in this role will demonstrate itself through the following attributes and skills:</div>
+<ul>
+<li>
+Expertise with Microsoft Office Suite, with high proficiency in Microsoft Excel and PowerPoint</li>
+<li>Deep understanding of the fundamentals of Data structure, including data table relationships</li>
+<li>Ability to handle multiple priorities, work well and effectively handle concurrent demands to prioritize responsibilities</li>
+</ul>
+<div>
+To fulfill this role successfully, you should demonstrate the following minimum qualifications:</div>
+<ul>
+<li>
+BA/BS Bachelor's Degree OR an Associate’s Degree with four (4) years of Information Technology (IT) related experience OR a High School Diploma/GED with six (6) years of IT related experience</li>
+<li>One (1) year of experience with SQL or SQL-based Business Intelligence Tools (e.g., MicroStrategy, Tableau, Alteryx, etc.)</li>
+<li>Travel &lt;10% of the time</li>
+</ul>
+<div>
+It would be helpful in this position for you to demonstrate the following capabilities and distinctions:</div>
+<ul>
+<li>
+MA/MS Master’s Degree in mathematics, statistics, finance, business analytics, etc.</li>
+<li>Five (5) years in related business analytics experience</li>
+<li>Proficiency with Microsoft Access</li>
+<li>Experience with and knowledge of SQL</li>
+<li>Experience with building or maintaining databases or data warehouse</li>
+<li>Knowledge of database architecture and data modelling principles and techniques</li>
+</ul>
+<b>
+What will it be like to work for Hilton?</b><br>
+<br>
+<div>Hilton is the world’s leading global hospitality company, spanning the lodging sector from luxurious full-service hotels and resorts to extended-stay suites and mid-priced hotels. For nearly a century, Hilton has offered business and leisure travelers the finest in accommodations, service, amenities, and value. Hilton is dedicated to continuing its tradition of providing exceptional guest experiences across its global brands. Our vision to fill the earth with the light and warmth of hospitality unites us as a team to create remarkable hospitality experiences around the world every day. And, our amazing Team Members are at the heart of it all!</div>
+</div></div>

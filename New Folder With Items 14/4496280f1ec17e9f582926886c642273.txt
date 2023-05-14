@@ -1,0 +1,104 @@
+<h2>Test Engineer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Our Team
+</b></p>
+<p></p>
+<p><i>We’re looking for an exceptional and motivated Test Engineer II to work on software applications that reach retailers and shoppers across the globe. The Catalina team offers a creative, fast paced, startup-like work environment. You will apply software testing principles/practices combined with best in breed testing workflows to analyze and troubleshoot complex data sets and systems. You will have a focus on our B2C international websites and will be collaborating with team members across the globe; reviewing system architectures and detailed user stories to build test plans, write detailed test cases and run automation scripts, track and facilitate defect resolutions, and apply analytical problem-solving skills by collaborating with business and technical staff throughout the testing process within an Agile SDLC.
+</i></p>
+<p></p>
+<p><b>Responsibilities
+</b></p>
+<p></p>
+<ul>
+<li>Responsible for test planning and activities including all Agile ceremonies.
+</li>
+<li>Analyze changes that span application test team and functional processes to ensure all impacts have been identified for testing
+</li>
+<li>Partner with Test support teams, Business Areas, and IT to ensure testing goals, objectives, and expectations are effectively met across organizations
+</li>
+<li>Work closely across the Test Organization in the Regression, Integration and Functional Test Cases to meet release and project deliverables
+</li>
+<li>Work and mentor other tester resources in defining the development of Automated scripts and have the ability to maintain/execute these scripts independently
+</li>
+<li>Working knowledge of industry standard Metrics and KPI’s with ability to ingest and output to a dashboard to monitor and report on test results.
+</li>
+<li>Writing SQL queries and verify data quality (ETL Testing)
+</li>
+<li>Leveraging Risk management skills in performing effective testing to optimize release time to market
+</li>
+<li>Participate as a contributing Project Team Member from Inception through Completion for Agile projects
+</li>
+<li>Collaborate with software/systems personnel in application testing, such as unit, system, regression, load and acceptance testing methods
+</li>
+<li>Collaborate with the development and DevOps team for CI/CD for testing.
+</li>
+<li>Contribute to the establishment and adherence to testing guidelines and standards.
+</li>
+<li>Prepare and Analyze test results to aid in problem solving and facilitate decision-making.
+</li>
+</ul>
+<p></p>
+<p><b>Qualifications
+</b></p>
+<ul>
+<li>Bachelor’s in computer science or equivalent
+</li>
+<li>3+ years’ experience in Software Testing
+</li>
+<li>Minimum of 2 years of product development
+</li>
+<li>Automation framework development experience a plus
+</li>
+<li>Ability to analyze and troubleshoot complex testing scenarios and defects
+</li>
+<li>Familiarity with Virtual Test environments and configurations, Cloud-based testing as well as
+</li>
+<li>Aid in building automation frameworks and automated test data creation is a plus
+</li>
+<li>Skill-set for effective status reporting (including PowerPoint presentations as needed) and senior management communications.
+</li>
+<li>Experience utilizing industry standard Agile tools and test case repository management
+</li>
+<li>Experience testing ETL, RESTful Web-Services and ability to create/edit JSON, SOAP services and XML documents
+</li>
+<li>Core strengths must include excellent communication and coordination skills inclusive of team leadership, relationship management and mentoring
+</li>
+<li>Proven application testing experience that includes testing of distributed applications on a variety of platforms such as DB2, SQL, UNIX, Client Server, and Web.
+</li>
+<li>Preferred experience with event-driven architectures, Java-based services, LAMP, Hadoop ecosystem, Solr, and Kafka.
+</li>
+<li>Ability and willingness to work on a collaborative geographically dispersed team, leveraging and measuring off shore resources in producing automation and testing deliverables in an Agile environment
+</li>
+<li>Thorough understanding and experience with Agile
+</li>
+<li>Usage of Cloud based Architecture (Azure), Ghost imaging and VMware also a plus
+</li>
+<li>Experience in leveraging Risk management skills in performing effective testing to optimize release time to market
+</li>
+<li>Experience &amp; understanding of API testing, integration and unit testing in all layers would be a plus. Experience of TDD &amp; BDD methodology is a plus
+</li>
+<li>Experience of configuration management tools (GIT / SVN / TFS), configuration concepts and continues integration tools (Jenkins / TeamCity / Bamboo)
+</li>
+<li>Experienced or ready to grow into performance based automated testing using JMeter and bulk data setup. Preference given to those who have performance testing experience.
+</li>
+<li>Test Lead experience a plus
+</li>
+</ul>
+<p></p>
+<p><b>About Catalina
+</b></p>
+<p></p>
+<p>Catalina is a recognized leader in highly targeted, personalized digital media that drives, tracks and measures sales lift for leading CPG retailers and brands. Powered by the most extensive shopper database in the world, Catalina's mobile, online and in-store networks personalize the consumer's path to purchase, delivering $7.9 billion in relevant consumer value each year. Catalina has no higher priority than ensuring the privacy and security of the data entrusted to us and maintaining the consumer trust paramount to the continued success of our business partners and Catalina. Based in St. Petersburg, FL, Catalina has operations in the United States, Europe and Japan. To learn more, please visit www.catalina.com or follow us on Twitter @Catalina.
+</p>
+<p></p>
+<p><i>The intent of this job description is to describe the major duties and responsibilities performed by incumbents of this job. Incumbents may be required to perform other job-related tasks other than those specifically included in this description.
+</i></p>
+<p></p>
+<p><i>All duties and responsibilities are essential job functions and requirements and are subjected to possible modification to reasonably accommodate individuals with disabilities.
+</i></p>
+<p></p>
+<p><i>We are proud to be an EEO employer M/F/D/V. We maintain a drug-free workplace.
+</i></p>
+<p></p>
+<p>#LI-BP1</p>
+</div></div>

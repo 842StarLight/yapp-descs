@@ -1,0 +1,49 @@
+<h2>Data Integration Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Currently, we are seeking a talented Data Integration Manager to join the Retirement Solutions Division based in Newport Beach, California. The Retirement Solutions Division leverages its strengths in product development, technology, services and risk management to create retirement solutions for individuals, families, and businesses. With the guidance of financial professionals, customers have access to an array of an array of annuities and mutual funds designed to help grow assets and to provide retirement income for financial independence.<br>
+<br>
+POSITION SUMMARY<br>
+<br>
+The Data Integration (DI) Manager leads a team that is responsible for the system implementation and support of data integrations from and data feeds to various internal and external data sources and vendors. Team members have strong data domain and technical knowledge and collaborate with business partners and technology teams to deliver various data integration needs across the division and enterprise. This is an exciting time to join the team as we are getting ready to modernize our data integration infrastructure and migrate to cloud for better scalability, flexibility and security. Key responsibilities include:<ul>
+<li>
+Partner with key business stakeholders in sales, marketing, finance, product, risk management, compliance, and operations to understand current and future data needs and provide sustainable &amp; cost-effective technology solutions, effectively using internal and external resources.</li>
+<li>
+Work with Data Integration Director for prioritization of projects for the DI team and focus the team on the highest value business outcomes.</li>
+<li>
+Provide visibility and reporting for the project queue and highlight any capacity constraints and effectively leverage flex sourcing partners to meet project and support needs</li>
+<li>
+Lead direct and indirect resources to achieve strategic goals. Encourage self-organizing teams in development of broad skills, accountability, learning mindsets and cross training. Create career growth opportunities for your team.</li>
+<li>
+Oversee compliance to appropriate policies, standards, and audit requirements. Ensure periodic review to refresh and enhance standards and processes as necessary. Ensure adherence to standards for information and data security</li>
+<li>
+Review provide input and help drive process improvements</li>
+<li>
+Oversee and ensure timely handling of production issues, auditing and user inquiries and ensure appropriate escalation and communication is done.</li>
+<li>
+Ensure optimal use of employee resources on activities that best utilize their skills while directing relevant work toward strategic sourcing partners.</li>
+<li>
+Creating balanced projects portfolio allowing time for projects for infrastructure upkeep, progress on long term roadmap items, address data gaps and innovation</li>
+<li>
+Assess technology demands for sizing, CBA input, capacity/resource planning and update systems used for tracking and reporting. Monitor and report on project health. Provide management oversight and communication on changes moving to production.</li>
+</ul>
+<br>
+FACTORS FOR SUCCESS<ul>
+<li>
+You’re educated, with a bachelor's or higher degree in a relevant discipline and ten or more years of experience, including five or more years of leadership or managerial experience with technical teams;</li>
+<li>
+You have demonstrated experience with delivery of Datawarehouse and Data integration technology solutions in both agile and waterfall frameworks.</li>
+<li>
+You enjoy working with business partners to identify solutions to complex problems and working in fast paced environment.</li>
+<li>
+You interact effectively with, and influence at all levels, building collaborative working relationships.</li>
+<li>
+You drive toward goals with tenacity, determination and self-motivation.</li>
+<li>
+You are experienced in vendor management, procurement, budgeting, forecasting and capacity management.</li>
+<li>
+Preferably, you have experience with AWS cloud technologies related to Data Integration.</li>
+<li>
+Preferably, you are familiar with annuity, life insurance and/or financial services products and business functions.</li>
+</ul>
+#LI-DD1<br>
+<br>
+For more than 150 years, Pacific Life has offered innovative products and services including life insurance, annuities, and mutual funds, along with a variety of investment products, all of which provide The Power to Help You Succeed. We firmly believe each employee plays a part in our continued growth and success, and we pride ourselves in providing a work environment that is challenging, inclusive, collaborative, and results-oriented. With a powerful past and a strong future, Pacific Life offers an environment where you’re empowered to achieve your personal best. In return, we look to your passion and insight to help us grow. For additional company information, including current financial strength ratings, visit www.PacificLife.com.Join the Pacific Life team and watch your career grow! We offer a competitive compensation and benefits package that includes: • Competitive salary and bonus program • Medical, dental, and vision as part our commitment in investing in the health and wellbeing of our employees • Two retirement savings plans: 401k savings plan with company match and Company Retirement Contribution (company-paid) • Generous vacation time and holiday pay • And much more!Pacific Life Insurance Company is an Equal Opportunity /Affirmative Action Employer, M/F/D/V. If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access our career center as a result of your disability. To request an accommodation, contact a Human Resources Representative at Pacific Life Insurance Company.</div></div>

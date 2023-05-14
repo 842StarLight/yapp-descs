@@ -1,0 +1,105 @@
+<h2>Senior Product Manager, Developer Toolkit</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>New Relic</b><br>
+<b>SDK &amp; Tools Product Manager</b><br>
+<b>Portland, Oregon</b><br>
+</p>
+<h2 class="jobSectionHeader"><b>
+Your Opportunity
+</b></h2>
+<p>At New Relic, we believe building an amazing developer experience is rooted in a deep understanding of modern software operators and developers who are building the world’s most amazing applications. The mission of this newly forming team is to provide developers with a set of tools and utilities, e.g. SDKs &amp; CLIs, that to make it easy for New Relic to be embedded into automation workflows, integrated with source code management tools, work with CI/CD pipelines, and other applications commonly used by modern software teams.</p>
+<p>
+To be successful in this role, you’ll need a good balance of technical skills, strong product sense, and an understanding of how teams deliver and monitor software. You’ll need excellent written and verbal communication skills, including the ability to represent the team with senior executives. And, you’ll need strong customer relationship skills, including the ability to discover the true requirements underlying customers’ feature requests in order to identify the most meaningful problems we could solve for.</p>
+<p>
+As the product manager, you will be responsible for the strategy, define product features, drive the system architecture, and spearhead the standard methodologies that enable a quality product. In addition, you will be working, through open source, to build a thriving ecosystem of developers. This is a dynamic role for someone who is a strategic thinker, that understands the need for process and prioritization on high demand projects, and who can turn planning into great product experiences by jumping in and getting their hands dirty.<br>
+<br>
+Opportunity to work from a remote office may be available depending on applicant level of experience.<br>
+</p>
+<h2 class="jobSectionHeader"><b>
+What You’ll Do</b></h2>
+<ul>
+<li>
+You'll drive Product strategy: Drive the product strategy for New Relic’s platform capabilities, informed by customer and market insights, product and business KPIs, bold pressures, technical capability, and internal initiatives; craft the product story by understanding the landscape, developer needs, and New Relic principles</li>
+<li>
+Planning: In collaboration with Engineering, define a detailed, rolling 4-quarter product roadmap based on the product strategy and drive the alignment of key releases to deliver on the roadmap; adjust the roadmap as needed based on key metrics, market efforts, and changes in execution resources. Lead the business during the full product lifecycle – from requirements definition, to delivery, to end of life – collaborating with other teams across the company, including Engineering, Design, Support, Marketing, and Sales counterparts.</li>
+<li>
+Partake in Internal leadership: Maximize efficiency in a constantly evolving environment where the process is fluid and creative solutions are the norm; Consider the business impact, return on investment, and other implications when taking important decisions</li>
+<li>
+Customer &amp; Technology Partner interactions: Engaging with key technology partners on integration; Optimize developer experience including on-boarding, documentation, tools, and support.</li>
+<li>
+You'll be a part of Metrics and research: Conduct user research, integrate usability studies and market analysis into product requirements to enhance developer satisfaction; Define and analyze metrics that inform the success of products</li>
+<li>
+Positioning: Enable the go-to-market teams (sales, support, marketing)</li>
+<li>
+Product champion: Advise development teams at New Relic about API design impacts; Represent New Relic as a product and domain guide in front of Industry Analysts, customers, industry events/conferences, and other events; Lead sales engineer and support education sessions</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Your Qualifications</b></h2>
+<p>
+Must-have:</p>
+<ul>
+<li>
+Knowledge and experience in developer tools, operational tools, and/or application management tools, including monitoring tools, build tools, and continuous delivery (CI/CD) tools</li>
+<li>
+Solid understanding of DevOps with an understanding how modern software is built, packaged, and deployed</li>
+<li>
+5+ years of Product Management experience</li>
+<li>
+5+ years experience developing software and working with application lifecycle management tools</li>
+<li>
+7+ years experience leading cross-functional software projects</li>
+<li>
+Strong technically with a passion for design and usability</li>
+<li>
+Ability to drive requirement definition and solution design sessions, working closely with partners from across the entire organization and with developers</li>
+<li>
+Ability to drive teams of diverse backgrounds to ship features on daring timelines</li>
+<li>
+Capability to identify technical impacts, recommend best-practices and/or alternate approaches, and provide timeline estimates</li>
+<li>
+An ability to articulate development status and challenges to both technical and non- technical audiences</li>
+</ul>
+<p>
+Nice-to-have:</p>
+<ul>
+<li>
+BA/BS in business, computer science, computer engineering or a related technical field preferred</li>
+<li>
+Strong written communication skills</li>
+<li>
+Experience in working with open source projects is a plus</li>
+<li>
+Prior experience building developer platforms is a plus</li>
+<li>
+Experience working with or building GraphQL schemas is a plus</li>
+<li>
+Significant experience with Kubernetes and Docker is a plus</li>
+<li>
+Strong capacity for emotional intelligence</li>
+</ul>
+<p>
+Please note that visa sponsorship is not available for this position.</p>
+<h2 class="jobSectionHeader"><b>
+Our Office</b></h2>
+<p>
+Our office is in the center of downtown Portland, situated in a thriving tech community in the Pacific Northwest. We enjoy easy commute access and a plethora of good eats and great coffee. We provide competitive compensation including equity and big-company benefits (medical, dental, etc.)—all while maintaining the energy, agility and fun of a start-up.</p>
+<h2 class="jobSectionHeader"><b>
+About Us</b></h2>
+<p>
+New Relic (NYSE: NEWR) is the industry’s largest and most comprehensive cloud-based instrumentation platform built to create more perfect software. The world’s best software and DevOps teams rely on New Relic to move faster, make better decisions and create best-in-class digital experiences. If you run software, you need to run New Relic. We’re proudly trusted by more than 50% of the Fortune 100.</p>
+<p>
+Founded in 2008, we’re a global company focused on building a culture where all employees feel a deep sense of belonging, where every ‘Relic’ can bring their whole self to work and feel supported and empowered to thrive. We’re consistently recognized as a distinguished employer and are committed to building world-class products and an award winning culture. For more information, visit newrelic.com.</p>
+<h2 class="jobSectionHeader"><b>
+Our Hiring Process</b></h2>
+<p>
+In compliance with applicable law, all persons hired will be required to verify identity and eligibility to work and to complete employment eligibility verification. Note: Our stewardship of the data of thousands of customers’ means that a criminal background check is required to join New Relic.</p>
+<p>
+We will consider qualified applicants with arrest and conviction records based on individual circumstances and in accordance with applicable law including, but not limited to, the San Francisco Fair Chance Ordinance.</p>
+<p>
+Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. New Relic does not accept unsolicited headhunter and agency resumes, and will not pay fees to any third-party agency or company that does not have a signed agreement with New Relic.</p>
+<div><i>
+New Relic is an equal opportunity employer. We eagerly seek applicants of diverse background and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities (or disability), age, sexual orientation, veteran status, or any other characteristic protected by law.</i></div>
+<div><i>
+Interested in the details of our privacy policy? Read more here: https://newrelic.com/termsandconditions/applicant-privacy-policy</i></div>
+<br>
+#LI-NS1</div></div>

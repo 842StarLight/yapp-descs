@@ -1,0 +1,204 @@
+<h2>Principal I - Artificial Intelligence – Strategic Architecture</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>Principal I - Artificial Intelligence – Strategic Architecture</b><b>-</b><b>045030</b>
+</div>
+<div>
+<b>
+Description</b><div>
+</div>
+<div><b>
+Artificial Intelligence – Strategic Architecture / Subject Matter Expert: Job Profile</b></div>
+<br>
+<div></div>
+<div>
+<b>A) Context:</b><br>
+Capgemini is recruiting high profile business &amp; technology executives in order to scale its worldwide business on Artificial Intelligence, at Group Level, across Global Business Lines. By essence, this role is of high complexity from a technology and business standpoint, covers potentially all sectors and domains of applications of Artificial Intelligence, and all potential current and future technology stacks.</div>
+<div>The candidate will interact on a daily basis with all units (Global Business Lines, Global &amp; local practices, Applied Innovation Exchanges) of the Capgemini Group. While reporting to the AI Group Offer Leader, Group Portfolio Officer, the candidate must be able to interact with all leadership stakeholders (Chief Sales Officer, Chief Innovation Officer, Chief Technology Officer, etc.). Geographical priorities are Europe, North America and India but the role covers the entire geographical scope of Capgemini.</div>
+<br>
+<div></div>
+<div>The primary role of the candidate will be to be one of the top recognized leaders of the construction and execution of Capgemini’s business on AI, inclusive of data platforms, core AI skills such as Machine Learning, Deep Learning, etc., as well as Intelligent Automation. The candidate should have a “builder” and pragmatic mindset, meaning that we are not looking for strong leaders “only” able to articulate a vision, but also able to drive its execution in a very concrete manner and tangible business outcomes (bookings, contribution margin, revenue, market recognition).</div>
+<br>
+<div></div>
+<div>The role demands a high level of autonomy, a strong appetite to drive change and overcome organizational complexity, a high level of “drive” to build a business from the current strong foundations to a potential billion-scale business.</div>
+<br>
+<div></div>
+<div><b>B) Overall:
+</b></div>
+<div>The candidate should exhibit a combination of:</div>
+<ul>
+<li>Technical vision, technical acumen, and deep technical skills with passion for learning and keeping up-to-date with the latest technology products</li>
+<li>
+Skills to provide insight and direction to scale initiatives from MVPs / pilots into Enterprise wide implementations - offer both conceptual and practical solutions and recommendations to teams and clients</li>
+<li>
+Strong analytical skills for solving technical issues (perform analysis and diagnosis of complex problems) as well as a proven capacity to prepare high level and low level design, process and technical documentation</li>
+<li>
+Experience of establishing credibility with the field organization as a subject matter expert providing incremental value to the selling motion and customer interactions</li>
+<li>
+Experience with business development pursuits, leading client pitches, RFPs, proposals, and statements of work including conducting workshops and presentation</li>
+<li>
+Self-motivation with the capacity of multi-tasking and able to self-adapt in terms of tasks, priorities and schedule</li>
+<li>
+Ability to work in a complex matrixed organization, with multiple, C-level stakeholders</li>
+<li>
+Excellent verbal and written communication skills in English</li>
+<li>
+Team player attitude being both able to lead a team as well as being an individual contributor</li>
+<li>
+Strong active connector, you must be able to connect teams together across a complex organization to achieve tangible outcomes quickly</li>
+<li>
+Excellent team leadership</li>
+<li>
+Ability to Travel internationally</li>
+</ul>
+<div>Key responsibilities</div>
+<div></div>
+<div>AI Flagship Clients relationship</div>
+<ul>
+<li>Leading account sales/global business lines/local practices teams for deals qualification and solutioning (pre-sales / delivery) along with the AI CoEs</li>
+<li>
+Promoting, leveraging and connecting our AI CoEs capabilities worldwide with account &amp; market units</li>
+<li>
+Leading conversations with our Clients CxO / VPs on business strategy of the application of AI, and platforms architecture and technology</li>
+<li>
+Actively seeking to expand and secure new business</li>
+</ul>
+<div>AI Group Offer / Go To Market Development</div>
+<ul>
+<li>Supporting AI offering development &amp; leadership in strategy/architecture/technology</li>
+<li>
+Develop Go To Market Materials and deploy them in Market Units/CoEs/accounts</li>
+<li>
+Contribute to the continuous development of Capgemini AI “Product” Strategy for sectors &amp; domains, with the development of use cases, prototypes &amp; accelerators</li>
+</ul>
+<div>AI Ecosystem Management</div>
+<ul>
+<li>Interact with at least 2 of Capgemini’s AI Strategic partners to build co-engineering relationships and stay ahead of the curve in AI innovation</li>
+<li>
+Continuously interact with Capgemini’s Applied Innovation Exchanges network to build continuous relationships with AI startups/scaleups to embark in Capgemini’s value proposition</li>
+<li>
+Support the construction of key academia relationships between our AI CoEs and local recognized universities and research centers</li>
+</ul>
+<div>Analyst/Thought Leadership</div>
+<ul>
+<li>Leadership in the AI architects/technology community</li>
+<li>
+Thought leadership – internal/external</li>
+<li>
+Supporting analyst queries on AI as well as key global AI events representation</li>
+</ul>
+<div>
+<b>C) Specific AI skills:</b><br>
+</div>
+<div>Strong experience in designing Data &amp; AI (Machine Learning, Deep Learning, Neural Networks, Natural Language Processing, Intelligent Automation) strategy and solutions.</div>
+<div>The candidate must have a proven experience either in Cloud and Big Data systems, and must have put key business use cases in production for tangible outcomes. The candidate should have lead multiple AI-based engagements through completion – including collaborating with organizations on value messaging, use case elaborations and managing AI Engagement lifecycle (through deployment) while managing a team.
+</div>
+<ul>
+<li>Proven Solution Architecture (data / integration based solutions) capabilities – POC / MVP to productionizing solutions</li>
+<li>
+Overall experience of 15 years – specific AI experience of minimum of two years.
+</li>
+</ul>
+<div></div>
+<div><b>D) Machine Learning (Must have):</b></div>
+<ul>
+<li>Experience implementing ML algorithms such as Logistic Regression, Naive Bayes, Bayesian Network, Decision Tree, Neural Network, SVM, Boosting, K-Means, Ensembler Classifiers, Random Forest, convex optimization, transfer learning.
+</li>
+<li>Experience in frameworks such as Spark to implement real-time ML systems</li>
+<li>
+Strong mathematical understanding</li>
+<li>
+Up-to-date knowledge and understanding of recent trends in machine learning</li>
+</ul>
+<div><b>E) Data / AI Engineering (Must have):</b></div>
+<ul>
+<li>Proven experience working with large scale data foundations – data acquisition, processing / transformation, feature engineering and building production quality data foundation.</li>
+<li>
+Understanding of Bigdata ecosystem – Spark / Databricks, Hadoop components,
+</li>
+<li>Deep experience with at least one of the Cloud-native (AWS, Azure, GCP) data platforms.
+</li>
+<li>Hands-on expertise in scripting – Python, R.</li>
+</ul>
+<div><b>F) ML / DL Frameworks</b></div>
+<ul>
+<li>Knowledge of ML / DL frameworks – Tensorflow, Keras, MxNet, Caffe. CNTK, Theano / Pytorch</li>
+<li>
+Working knowledge of at least two frameworks.
+</li>
+<li>Hands-on usage of leading tools for productionizing DL solutions – AWS Sagemaker / Libraries (like Rekognition), Azure ML components (Studio etc.), H2O.AI.
+</li>
+<li>Hands-on scripting using the frameworks – Python or R.</li>
+</ul>
+<div>
+<b>G) Should have deep expertise</b> in at least one of the following – Computer Vision, Speech Recognition and / or NLP.<br>
+</div>
+<div></div>
+<br>
+<div><div><b>G1 - Computer Vision:</b></div></div>
+<div><ul>
+<li>Experience with object detection, tracking, classification, recognition, scene understanding, facial expression analysis</li>
+<li>
+Sound background in one or more of Computer Vision like Scene Understanding, Recognition</li>
+<li>
+Image Processing</li>
+<li>
+Programming in C / C++ Usage of Mat lab, Open CV toolkits.
+</li>
+<li>Experience on embedded / mobile platforms and real-time implementation of complex algorithms</li>
+</ul></div>
+<div><div><b>G2 - Speech Recognition</b></div></div>
+<div><ul>
+<li>Should have good experience in speech technologies, ASR/TTS (Text to Speech).</li>
+<li>
+Exposure to speech technology tools like, HTK, Kaldi, Festival
+</li>
+<li>Prior experience in speech technologies (ASR or TTS) is required.</li>
+<li>
+Strong understanding of Machine Learning techniques especially deep learning</li>
+<li>
+Good Programming skills in C, Python &amp; Shell scripting is desirable.</li>
+</ul></div>
+<div><div><b>G3 - Natural Language Processing / Understanding / Generation</b></div></div>
+<div><ul>
+<li>Experience with NLP topics, like entity extraction, semantics, intent detection, sentiment analysis, NER etc</li>
+<li>
+Strong understanding of Machine Learning techniques</li>
+<li>
+Good Programming skills in C, Python &amp; Shell scripting is desirable.</li>
+</ul></div>
+</div>
+<div></div>
+<div>
+<b>Qualifications</b><div>
+</div>
+<div>
+Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.</div>
+<br>
+<div></div>
+<div>This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.</div>
+<br>
+<div></div>
+<div>Click the following link for more information on your rights as an Applicant - https://www.capgemini.com/resources/equal-employment-opportunity-is-the-law</div>
+<br>
+<div></div>
+<div>About Capgemini</div>
+<br>
+<div>
+<br>
+A global leader in consulting, technology services and digital transformation, Capgemini is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong 50 year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. It is a multicultural company of 200,000 team members in more than 40 countries. The Group reported 2018 global revenues of EUR 13.2 billion.</div>
+<br>
+<div></div>
+<div>Visit us at www.capgemini.com. People matter, results count.</div>
+<br>
+</div>
+<div></div>
+<div>
+<b>Schedule</b> <b>:</b> Full-time</div>
+<div>
+<b>
+Primary Location</b> <b>:</b> US-IL-Chicago</div>
+<div>
+<b>
+Organization</b> <b>:</b> NA LP DCX</div>
+</div></div>

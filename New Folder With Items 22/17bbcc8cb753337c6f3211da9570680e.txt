@@ -1,0 +1,54 @@
+<h2>Business Analyst - Microsoft Dynamics</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Title: </b>Microsoft Dynamics BA (D365 F&amp;O or AX) - Finance Systems focused</p>
+<p><b>Terms: </b>Full-Time Consultant (~40 hours a week); Open to W-2 or C-2-C</p>
+<p><b>Location: </b>Midtown, Manhattan (Onsite)</p>
+<p><b>Length: </b>Expected to last 1+ years (3 remaining phases for the implementation)</p>
+<p>Seeking a Dynamics BA who has experience with MS Dynamics ERP Systems (either Dynamics 365 F&amp;O or AX), various financial modules within it (GL, AP, AR, Budgets, Cash Flow, etc.) and an in-depth knowledge of financial processes, workflows, terminology, etc. Preference is D365.</p>
+<p><b>Position Overview: </b></p>
+<ul>
+<li>Will work collaboratively across the various business functions within finance and will drive simplification in system design and processes.</li>
+<li>Strong analytical skills are required, including a thorough understanding of how to interpret national and local business needs and translate them into application and operational requirements. Produce, maintain and interpret workflow diagrams.</li>
+<li>Develop requirements specifications (system/reporting/performance improvement) and distinguish user requests from the underlying true needs utilizing business case development principles.</li>
+<li>Collaborate with internal and third-party IT Project Managers, Developers and Subject Matter Experts to establish the technical and/or functional vision and analyze trade-offs between usability and performance needs.</li>
+<li>Responsible for the daily keep it running and keep it current oversight in the broader finance space to include ticket tracking, ISV updates, CU upgrades, IT operational projects (e.g. archiving and purging, disaster recovery and business continuity) and audit and compliance work.</li>
+</ul>
+<p><b>Key Responsibilities: </b></p>
+<ul>
+<li>Gather requirements (system or reporting) from multiple sources and distilling those requirements into a single set of documented needs</li>
+<li>Collaborate with business users to understand their challenges and being able to solve those challenges by leveraging MS Dynamics 365 F&amp;O, its ISV’s and/or reporting tools</li>
+<li>Articulate business problems, opportunities, and justification for change</li>
+<li>Analyze information and make appropriate recommendations to align various stakeholder expectations</li>
+<li>Be the main point of contact between the business functions and the IT team (internal/vendor)</li>
+<li>Work closely with software developers, project managers and systems testers/users to translate business requirements into successful technical deliveries, including preparation of functional requirements documents</li>
+<li>Identify opportunities for simplification of business processes and developing workflow diagrams with multiple swim lanes</li>
+<li>Conduct meetings, workshops and/or presentations as required to facilitate overall Solution Delivery</li>
+<li>Track all development items initiated throughout life cycle to ensure accuracy, budget, quality and schedule are met</li>
+<li>Assist with defining, documenting &amp; implementing business processes and policies</li>
+<li>Manage relationships with 3rd party vendors providing critical ISV’s in the finance area.</li>
+<li>Extract relevant knowledge and expertise from business and IT resources and contribute to on-going creation and maintenance of knowledge repositories</li>
+<li>Assume project management responsibilities on specific projects where required</li>
+</ul>
+<p><b>Qualifications: </b></p>
+<ul>
+<li>Bachelor’s degree required</li>
+<li>2 – 3 years of functional Microsoft D365 F&amp;O / AX experience</li>
+<li>At least 2 years of hands-on experience with MS Dynamics Financials configuration – GL, AP, AR, etc. functionality</li>
+<li>Exposure to other Dynamics AX modules – Sales, Trade and Logistics, Projects, HR or Service would be a big plus</li>
+<li>2 – 3 years of business process design and mapping experience</li>
+<li>Ability to communicate effectively via written and oral means, and with various levels of management including executives</li>
+<li>Ability to work closely with the Finance &amp; Accounting department to ensure operational ERP information flows flawlessly into the Financials, specifically the Banking, Tax, Accounts Receivable, Accounts Payable, General Ledger, Time &amp; Expense and Projects modules</li>
+<li>Possess a strong attention to detail and willingness to take ownership of processes and projects within finance</li>
+</ul>
+<p>Job Types: Full-time, Contract</p>
+<p>Experience:</p>
+<ul>
+<li>business analyst: 2 years (Required)</li>
+<li>Finance Systems: 2 years (Required)</li>
+<li>Microsoft Dynamics F&amp;O / AX: 2 years (Required)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+</div>

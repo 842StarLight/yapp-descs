@@ -1,0 +1,51 @@
+<h2>SDEII -Front End Dev</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Liveperson is an expert based culture, built on the drive and passion of smart people! Our business is growing and we are looking for people like you!
+<br><br>
+LivePerson is the global leader in conversational commerce solutions and we aim to make life easier by transforming how people communicate with brands. Our 18,000 customers, including leading brands like Citibank, HSBC, Orange, Virgin Atlantic, RBS and Liberty Global, use our conversational commerce solutions to orchestrate humans and AI, at scale, and create a convenient, deeply personal relationship — a conversational relationship — with their millions of consumers.
+<br><br>
+Over the next three years, our goal is to transform the 268 billion analogue phone calls between a brand and its consumers to digital on the LiveEngage platform. By doing this, we enable consumers to get back time and experience a more connected relationship with the brand in which sales, service, marketing, branches, stores, and contact centre's become a unified experience.
+<br><br>
+LivePerson is currently seeking a Software Development Engineer to join our Developer Experience team in Seattle, WA. This role offers a unique challenge to build solutions for a global audience of developers. Your work will shape the future of how developers onboard, learn and engage with LivePerson's products and services. You will work closely with product and design teams to launch compelling web applications that meet business goals. You have a passion for simplifying complex problems into intuitive workflows and are a champion of building engaging experiences to meet developer needs.
+<br><br>
+<b>In this role you will:</b><br>
+<ul>
+<li>Lead delivery of web applications that simplify developer onboarding and deliver engaging user experiences</li>
+<li>Develop high-quality, scalable and reusable web components for global use, powered by a CMS and DAM</li>
+<li>Work with production teams to ensure a secure, scalable and reliable setup in LivePerson's global data centers</li>
+<li>Setup and implement performance measurement and monitoring frameworks for continuous improvement</li>
+<li>Work in an Agile environment using Agile methodologies</li>
+</ul>
+*
+<br><br>
+<b>You should be an expert in:</b><br>
+<ul>
+<li>Bachelor degree in Computer Science, Computer Engineering, or a related field / equivalent experience</li>
+<li>5+ years software development experience for web applications, including UI and UX responsibility</li>
+<li>5+ years of demonstrated experience in coding, testing, implementation, maintenance and debugging web applications</li>
+<li>Expertise in HTML5, CSS, JavaScript, and responsive design techniques.</li>
+<li>Expertise in at least one front-end development framework such as React, Angular or Vue.js</li>
+<li>Strong track record in designing systems for scalability, performance and reliability</li>
+<li>Experience in microservices architecture</li>
+</ul>
+<b>Preferred qualifications:</b><br>
+<ul>
+<li>Master degree in Computer Science, Computer Engineering, or a related field.</li>
+<li>Experience developing applications that utilize web authentication methods such as OAuth, JWT, JWS, etc.</li>
+<li>Experience working with remote development teams, including external development partners</li>
+<li>Experience engineering websites for translation into different languages</li>
+<li>Experience building integrations with enterprise CRM</li>
+<li>Experience with public cloud solutions such as AWS and tools such as Docker</li>
+<li>Past experience developing solutions for developers and development communities</li>
+</ul>
+We care about you.
+<br>LivePerson works hard to create a positive employee experience. Your life outside of the office is important to us. We support our teams with competitive benefits and paid time-off that enables our family to take the time they need to recharge.
+<br><br>
+We want you to feel part of our LivePerson family.
+<br>Team events, daily snacks and happy hours on occasion will help you settle quickly into your new workplace.
+<br><br>
+You can read more about LivePerson and Our Principles here - https://www.liveperson.com/company/#guiding-principals ( https://www.liveperson.com/company/#guiding-principals )
+<br><br>
+Our company believes equal opportunities for both genders is something that has been overlooked for too long.
+<br>To shake up the industry, LivePerson CEO Robert Locascio recently launched the Equal AI initiative - established to focus efforts on eradicating gender bias in AI engineering. We are also keen on getting women enthusiastic about software engineering by sponsoring "WomenHack" and "Female's Favor{IT}e Conference" events globally.
+<br><br>
+LivePerson provides equal employment opportunity without regard to an applicant's race, color, age, national origin, religion, sex, gender identity or expression, sexual orientation, veteran status, disability, pregnancy, genetic information, or any other status protected under applicable law.</div>

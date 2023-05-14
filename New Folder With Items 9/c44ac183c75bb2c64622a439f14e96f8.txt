@@ -1,0 +1,43 @@
+<h2>Senior Technical Support Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><ul><li><div><div><div><div>
+<p>As a part of Customer Focus Team, you will work in a highly skilled team to solve interesting technical problems, resulting in successful deployment of products. In addition to working with a world class engineering team, you will also have the opportunity to interact with customers and experience real-world application of products. This is a high impact role and exposes you to a variety of growth avenues
+</p>
+<p></p>
+<div>•Collaborate with Engineering, Tech Support and Product Teams to learn customer deployment scenarios, requirements and use cases
+<br>
+<ul>
+<li>Solve critical technical issues by handling customer escalations and providing solutions in a timely manner
+</li>
+<li>Work with cutting edge technologies in the areas of data crawling, search engine, information retrieval and database technologies
+</li>
+<li>Work in an agile and fast paced environment to deliver long-term solutions across feature set, on a demanding timeline
+</li>
+<li>Collaborate with high-caliber teams across the board: Core Engineering, Quality Engineering, Tech Support, Product Management and Sales
+</li>
+</ul>
+</div>
+<p></p>
+<ul>
+<li>6+ years of hands-on experience in systems software development, preferably on Linux/UNIX
+</li>
+<li>Knowledge of storage domain technologies such as Logical Volume Managers, Filesystems, Snapshots, Disk Arrays ,SAN and NAS Devices is a must
+</li>
+<li>Advanced programming skills in C/ C++/ Java and scripting languages -Perl, Python, Shell
+</li>
+<li>Hands-on experience in technologies, including in Angular JS, JavaScript, CCS, HTML, DHTML, XML, Node.js, Express, Django, Servlets, JSP, AJaX
+</li>
+<li>Experience with creating interactive data visualizations/dashboards
+</li>
+<li>Experience designing and developing RESTful APIs
+</li>
+<li>Familiarity with the whole stack including databases, protocols, and web server optimization
+</li>
+<li>Deep understanding of computer architecture, data structures and algorithms, virtualization technologies
+</li>
+<li>Prior experience with storage and network stack is a must
+</li>
+<li>Experience developing products and applications in Distributed systems area
+</li>
+<li>Bachelor’s or Master’s degree in Computer Science or related field</li>
+</ul>
+</div></div></div></div></li></ul></div></div>

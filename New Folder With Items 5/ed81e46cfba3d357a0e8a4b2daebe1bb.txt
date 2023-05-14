@@ -1,0 +1,33 @@
+<h2>Software Engineer - Performance Tools & Infrastructure</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>The Role:</b><br>
+Every day, Clover devices handle the core card and point-of-sale processing for hundreds of thousands of merchants. Behind the scenes, we operate a cloud platform providing processing, storage and collaboration for merchants, application developers, service providers and our merchants' customers. Our devices and platform form the backbone of millions of payment interactions between merchants and their customers daily.
+<br><br>
+To support all of this, we have a team of engineers working around the clock to ensure our systems remain operational, safe and secure. Our systems not only process payments, but help merchants run their businesses - with inventory management solutions, customer loyalty rewards and other applications that are tailored to their industry.
+<br><br>
+The Performance Tools &amp; Infrastructure team owns all companywide efficiency metrics and build solutions tools. These tools are used to solve efficiency problems in distributed systems in a generic way. If your are performance-minded and passionate about solving performance/efficiency problems at scale, this is the ideal position for you.
+<br><br>
+On a daily basis, you will spend most of your time working on building performance tools for investigation &amp; metrics reporting. You should be comfortable with digging into complex systems, identifying opportunities for optimization and working with different teams to develop elegant technical solutions.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Analyze and optimize large-scale server code and the underlying platforms</li>
+<li>Build performance instrumentation and analysis infrastructure</li>
+<li>Optimize CPU, memory, I/O, network and storage usage in our backend infrastructure</li>
+<li>Build common framework to provide optimal implementation of common server-side logic</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>5+ years of industry experience shipping production software</li>
+<li>Experience building large-scale distributed systems</li>
+<li>Superior problem-solving skills</li>
+<li>Knowledge of systems architecture and performance trade-offs</li>
+<li>Experience in Java/Python programming languages</li>
+</ul>
+<b>Nice to have:</b><br>
+<ul>
+<li>Experience with Locust testing tool.</li>
+<li>Experience with a cloud platform: AWS, Google Cloud or similar</li>
+<li>Experience with Docker and some orchestration technologies; Kubernetes, Swarm or similar</li>
+</ul>
+</div>

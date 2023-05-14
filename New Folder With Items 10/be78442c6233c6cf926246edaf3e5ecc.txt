@@ -1,0 +1,56 @@
+<h2>Sr. Leader, Solutions Architecture, EC2 Spot</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>Undergraduate degree in Computer Science, Technology, Engineering, Math or 10+ year’s work experience in technical role in lieu of no Bachelor’s degree.</li>
+<li>5+ year’s management of technical, enterprise customer facing resources.</li>
+<li>10+ years’ experience in software design, implementation, or consulting experience with distributed applications.</li>
+<li>5+ years of experience in infrastructure architecture, database architecture and networking.</li>
+</ul></div>
+<br>
+<div>Amazon is where innovation, risks, and ideas are celebrated. We are builders. We try new things and dream big dreams. At Amazon Web Services (AWS), we are inventing the future of cloud computing. AWS is where the cloud first came to life. Now we’re inventing for the decades ahead. It is still Day 1 for us, and we are looking for curious people to be part of our diverse teams of thinkers, testers, and doers. Come join us and work with the latest cloud computing technologies that enable our customers to do more with their technology and change the world in their respective industries.<br>
+<br>
+We are looking for experienced and motivated customer facing leaders to coach, grow, and partner with technically skilled, customer-facing Solutions Architects, with an emphasis on EC2 Spot. You will help develop the industry’s best cloud-based solutions architects by enabling and coaching them on best practices, solution selling, presentation and speaking skills, as well as how to create and present architectures of widely varying size and complexity. In collaboration with sales, you will drive revenue growth across a broad set of customers. If you think you have what it takes to lead the best in the industry, AWS is hiring Managers for our Solutions Architects.<br>
+<br>
+You will partner with diverse AWS teams to craft highly scalable, flexible and resilient cloud architectures for customers in the EC2 Spot compute space. As a trusted customer advocate, you will help customers understand best practices around advanced EC2 Spot solutions, and how to run EC2 Spot in a scalable yet cost-effective manner on AWS. You will have the opportunity to help shape and execute a strategy to build mindshare and broad use of AWS across strategic global accounts. The successful candidate will possess experience running scalable compute workloads in the cloud, and be able to translate cloud computing concepts into business value for these accounts while coaching a team to do the same.<br>
+<br>
+In this role, you will need to be technically capable and credible in your own right as well as effective in shaping the customer and solutions-focused skills of your team. You must enjoy learning and introducing new technology in order to help colleagues and customers embrace and adopt new technology. Furthermore, thought leadership in terms of looking beyond the technology and considering the value technology creates for our customers, and helping to change how technology is viewed are important aspects of the role. You will help team members ramp-up on AWS as well as develop speaking, writing, presentation, and executive interaction skills. You will also need to be adept at interacting, communicating and partnering with other departments within AWS such as our services teams, marketing, and professional services, as well as representing your team to executive management.<br>
+<br>
+Here are some other qualities we are looking for:<br>
+<br>
+Be great fun to work with. At AWS, we have a credo of “Work hard. Have fun. Make history”. In this role, you will love what you do, and instinctively know how to make work fun. You will be dynamic and creative, and willing to take on any challenge and make a big impact.<br>
+<br>
+Enjoy developing technical talent to achieve great things. You will have a passion for educating, training, and enabling cloud computing experts for a diverse and challenging set of Enterprise customers.<br>
+<br>
+Have a strong understanding of solutions innovation. The ideal candidate will have past experience working with customers or similar role and leading architecture teams.<br>
+<br>
+Roles and Responsibilities<br>
+<br>
+<ul>
+<li>As a key member of the business development and sales management teams, ensure success in building and migrating applications, software and services onto the AWS platform</li>
+<li>Hire, on-board, train, and develop new Solutions Architects from internal and external sources</li>
+<li>Educate customers on the value proposition of AWS, and participate in architectural discussions to ensure solutions are designed for successful deployment in the cloud</li>
+<li>Coach Solutions Architects in the skills needed to conduct one-to-few and one-to-many training sessions so they can transfer skills to customers who are considering or using AWS</li>
+<li>Educate EC2 Spot customers in our Strategic Accounts on the value proposition of AWS, and participate in in-depth architectural discussions to ensure solutions are designed for successful deployment in the cloud</li>
+<li>Capture and share best-practice knowledge amongst the AWS solutions architect community</li>
+<li>Guide and motivate the development of whitepapers, data sheets, and other high-value customer facing guidance and best practices</li>
+<li>Build deep relationships with decision makers within customer accounts to enable them to be “Cloud advocates”</li>
+<li>Act as a conduit and liaison between customers, service engineering teams, and Support</li>
+<li>Ability to travel up to 30% as needed</li>
+</ul>
+</div>
+<br>
+<div>· · 3+ years design/implementation/deployment experience of cloud compute solutions with special interest in Container architecture, CI/CD solutions, scalable batch processing, and distributed frameworks like Hadoop<br>
+<ul>
+<li>Passion for leading diverse teams.</li>
+<li>Graduate degree in Computer Science, Technology, Engineering or Math.</li>
+<li>Experience architecting, operating cloud-based solutions. AWS Solution Architecture certification or relevant cloud expertise.</li>
+<li>Experience migrating or transforming legacy customer solutions to the cloud.</li>
+<li>Demonstrated ability to adapt to new technologies and learn quickly.</li>
+<li>Excellent presentation skills with a high degree of comfort speaking with executives, IT Management, and developers</li>
+<li>Experience leading teams in technology, software sales or pre-sales consulting.</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation / Age.<br>
+<br>
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</div>
+</div>

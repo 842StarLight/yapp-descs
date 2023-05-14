@@ -1,0 +1,47 @@
+<h2>Senior Software Development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>Bachelor's degree in Computer Science, Information Systems, Mathematics or related discipline</li>
+<li>5+ years of experience in design and development of data driven, highly scalable web applications with rich user interface in distributed cloud computing environment</li>
+<li>5+ years of one or more core programming language (Java, C++, Ruby, JavaScript)</li>
+<li>2+ years of using a modern JavaScript framework and libraries such React, Angular, D3, Vue</li>
+</ul></div>
+<br>
+<div>Amazon Web Services (AWS) is the leading platform for designing and developing applications for the cloud and is growing rapidly with hundreds of thousands of companies in over 190 countries on the platform. The Tech360 team will be the authoritative source of customer metadata and the solutions team for applications that action AWS’ strategies to better serve our customers. We invest resources in information and solutions enabling AWS sales and business teams that yield increased customer adoption and an optimal customer experience.<br>
+<br>
+Are you an experienced software engineer passionate about building scalable, enterprise-level systems? We are looking for a Software Development Engineer to play a key role in building next generation tools and solutions. In addition to technical expertise, you will invest time to understand the needs of the business, the data behind it, and how to transform information into technical solutions that allow the business to take action. Ideal candidates will have expertise with all phases of the web application development life cycle and in building models that scale over time while balancing accuracy, flexibility, and speed.<br>
+<br>
+In this role you will:<br>
+<br>
+<ul>
+<li>Write high-quality, efficient, testable code in Java and other object-oriented languages.</li>
+<li>Build highly available, secure, distributed systems in microservices, container, and distributed cluster-compute architectures.</li>
+<li>Collaborate with some of the best engineers in the industry to work on some of the most complex challenges in large-scale computing.</li>
+<li>Find out what it takes to engineer systems for "Amazon Scale".</li>
+<li>Own and operate the systems that you build based on real-time customer data and demanding service-level agreements.</li>
+<li>Contribute to planning, design, implementation, testing, operations, and process improvement as a member of a Scrum team.</li>
+<li>Play an instrumental role in defining the system architecture, own and implement specific components, and help shape the overall user experience.</li>
+</ul>
+<br>
+You must insist on the highest standards for quality, maintainability, security, and performance as you will ensure that engineering best practices are followed and that software is designed to be highly available, dynamically scalable, and resilient to continuity threats. You should be able to thrive in an ever-changing entrepreneurial environment and not be hindered by ambiguity or competing priorities. You are a person with a commitment to team work and who enjoys working on cutting edge technology, is customer obsessed, and thrives on the challenge of building something new that will eventually operate at world-wide scale.<br>
+<br>
+The right candidate will have a strong system delivery background, a well-rounded technical background in current web and object-oriented technologies, and demonstrated experience working on medium-to-large projects.</div>
+<br>
+<div>
+<ul>
+<li>Master's Degree in Computer Science or relevant technical discipline (or equivalent experience)</li>
+<li>Experience developing large scale services on AWS such as Amazon DynamoDB, S3, API Gateway, IAM, Glacier, Redshift, Athena.</li>
+<li>Has lead high-impact, cross team impacting architectural design decisions, and guide senior engineers by setting examples to deliver solutions to ambiguous problems.</li>
+<li>Has sense of strong ownership, and engineering mindset to change the way how the business is executed to positively impact the future.</li>
+<li>
+<li>Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations</li>
+<li>
+<li>Ability to take a project from scoping requirements through actual launch of the project</li>
+<li>
+<li>Experience in communicating with users, other technical teams, and management to collect requirements, describe software product features, and technical designs</li>
+<li>Meets/exceeds Amazon’s leadership principles requirements for this role</li>
+<li>Meets/exceeds Amazon’s functional/technical depth and complexity for this role</li>
+</ul>
+<br>
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>
+</div>

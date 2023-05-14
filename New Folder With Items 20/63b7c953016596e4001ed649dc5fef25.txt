@@ -1,0 +1,75 @@
+<h2>Systems Application Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Analog Devices (NASDAQ: ADI) designs and manufactures semiconductor products and solutions. We enable our customers to interpret the world around us by intelligently bridging the physical and digital worlds with unmatched technologies that sense, measure and connect.</p>
+<br>
+<p></p>
+<p>Seeking an experienced System µWave/mmWave Applications Engineer whose primary focus will be providing system level support to end customers in multiple markets such as the cellular infrastructure market as well as many other diverse markets. In conjunction with the system level support, component level application support is required on new and existing products ranging from baseband up to D-Band (170 GHz).</p>
+<br>
+<p></p>
+<p>The µWave/mmWave product responsibility will be for the following:</p>
+<ul>
+<li>Integrated modulators/demodulators</li>
+<li>Integrated up and down converters with and without synthesizers</li>
+<li>Integrated beamformers</li>
+<li>Passive Double Balanced Mixers</li>
+<li>µWave/mmWave Tunable Filters</li>
+<br>
+</ul>
+<p></p>
+<p>This position will report to an Application Team within the Microwave Communications group, working directly and closely with Design, Product and Marketing teams to understand the technologies and products offered, and acting as the systems, product and technical expert for sales and customers on broad applications and support.</p>
+<br>
+<p></p>
+<p><b>Essential Job Responsibilities and Duties:</b></p>
+<ul>
+<li>Serve as the primary technical contact for customers through direct, internal field applications or sales and distribution sales on pre- and post-release products. Provide direct technical supports for the development and implementation of customer applications in Military &amp; Space, Cellular Infrastructure and Test &amp; Instrumentation markets.</li>
+<li>Provide and communicate expert-level µWave/mmWave product and application knowledge within the company and with the customers. This includes customer visits, datasheet and application note creations, technical trainings and Customer-specific seminars.</li>
+<li>Develop technical data and information that are application-relevant and will help to shorten customers’ time-to-evaluation and time-to-market. Technical information or data such as simulation models, reference designs and user guides.</li>
+<li>Carry out in depth analysis and bench evaluation of new products or customers’ applications and design ins. This includes applying bench analysis using the principles and theoretical µWave/mmWave knowledge and measurement techniques, performing simulations and generating technical or application notes.</li>
+<li>Collaborate and provide technical support to the internal Design, Product Engineering and Marketing teams, and be involved in the product development from the "Advance Technology Development" phase to the "Product Release to Manufacturing and Sales" phase.</li>
+<li>Participate and contribute applications knowledge for new product definition, new design review, new design evaluation plans and cross product integrations.</li>
+<li>Create technical documentations such as application notes, product datasheets and user guides, training collaterals and customer design-in support collaterals.<br>
+<p></p>
+<p><b>Skills and Experiences Needed:</b></p>
+</li>
+</ul>
+<ul>
+<li>Must possess a minimum of Bachelor’s Degree in Electrical Engineering with related work experiences in applications, design and/or product development on µWave/mmWave products.</li>
+<li>Experience in Semiconductor industry or in Cellular infrastructure, Test and Instrumentations, and/or Military markets will be a plus.</li>
+<li>Familiarity in digital FPGA programming in either in Verilog or VHDL</li>
+<li>Familiarity in software programming is preferred</li>
+<li>Demonstrate system level knowledge such as Zero IF and superhertodyne radio architectures as well as experience with modem/radio integrations is a plus</li>
+<li>Must be knowledgeable with schematic capture and PCB layout tools.</li>
+<li>Familiarity with basic antenna concepts and antenna testing.</li>
+<li>Understanding of high order modulation techniques along with EVM/BER testing.</li>
+<li>Demonstrate strong technical expertise in understanding customer’s application challenges and requirements, and in solving customer challenges with innovative solutions.</li>
+<li>Must have strong knowledge and hands-on experiences in µWave/mmWave measurement techniques and test equipment.</li>
+<li>Work effectively and collaboratively with other functional teams, such as field and sales, system engineering, IC design and product engineering, quality and marketing.</li>
+<li>Have strong sense of competitive awareness at product and/or system level and be able to increase the technical value of product or solution offerings relative to the competition and to the design wins.</li>
+<li>Must possess critical thinking skills and capable of working independently.</li>
+<li>Experience in customer-interfacing and collaborating with field applications and sales.</li>
+<li>Require excellent business communication skills, fluent in English and solid presentation skills in professional demeanor.<br>
+<p></p>
+<p><b>Education Requirements:</b></p>
+</li>
+</ul>
+<ul>
+<li>Bachelor’s degree with a minimum of 5-10 years’ related, progressive µWave/mmWave work experiences.</li>
+<li>Master’s degree with discipline in RF and Microwave Engineering is preferred.<br>
+</li>
+</ul>
+<p></p>
+<p><i>For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.</i></p>
+<br>
+<p></p>
+<p>Analog Devices, Inc. is an Equal Opportunity Employer Minorities/Females/Vet/Disability</p>
+<br>
+<p></p>
+<p>EEO is the Law: Notice of Applicant Rights Under the Law</p>
+<br>
+<p></p>
+<p><b>Education Level</b>: Bachelor's Degree<br>
+<b>Travel Required</b>: Yes, 10% of the Time</p>
+</div>
+</div>

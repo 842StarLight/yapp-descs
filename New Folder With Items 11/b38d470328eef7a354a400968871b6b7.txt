@@ -1,0 +1,65 @@
+<h2>QA Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<p><b>Job Scope</b></p>
+<div>
+The QA Manager will ensure that the multiple PHP web applications, both back end and front end, are stable through a high level of thorough testing. This includes several front-end, user-facing websites, in-office front-end management applications, and several REST API services used for data access and integration This individual will lead a team of QA experts to be able to ensure that our builds are being sufficiently covered by a diverse and thorough set of tests, and that our deployments are both stable and timely. This involves coordinating QA developers with the software development team to ensure the proper work and planning is being done on a timely basis.<br>
+</div>
+<p></p>
+<p><b>Day-to-Day</b></p>
+<ul>
+<li>Lead the team of QA engineers to ensure that robust, thorough tests are being written to ensure test coverage of all PHP codebases</li>
+<li>Coordinate with the software development team to ensure that resources, priorities, and timelines are in lined up to deliver on timely, stable builds of all software applications</li>
+<li>Communicate the overall QA strategy including testing procedures and resource assignment on large technical projects to ensure proper alignment of when projects will be delivered</li>
+</ul>
+<p><b>Essential Competencies</b></p>
+<p>
+You are a strong leader with passion for ensuring that as a team we’re producing high quality software solutions efficiently and quickly. You are able to coordinate resources and timelines on multiple projects to meet multiple deadlines, and can communicate any road blocks, caveats, or needs pertaining to meeting your teams’ goals. You are well versed in modern software QA best practices, and can guide the team in which technologies to use, and how best to construct the team and its workflows to ensure prompt turnaround on robust test suites for all new code being written.</p>
+<div>
+<br>
+</div>
+</div>
+<div>
+<b>
+Qualifications</b><div>
+</div>
+<p><b>
+Qualifications</b></p>
+<ul>
+<li>Bachelor’s degree in computer science or systems preferred but not required</li>
+<li>5-8 years of QA experience in a web-based environment</li>
+<li>At least 5 years of managing a QA team for web-based technology</li>
+<li>Experience in E-Commerce a plus</li>
+<li>Experience working with and testing RESTful APIs</li>
+<li>Experience with PHPUnit and/or other unit testing frameworks for PHP</li>
+<li>Experience with QUnit, Jasmine, or other Javascript testing frameworks</li>
+<li>Experience with Selenium web drivers, with Laravel Dusk being a plus</li>
+<li>Experience with implementing solutions to gauge code coverage</li>
+<li>Proficient in SQL</li>
+<li>Ability to learn anything new quickly and be able to MVP that new concept to a product in short turnaround</li>
+</ul>
+<p><b>
+The Customer Support Center</b> (Corporate Office) is located in Phoenix, Arizona. The Customer Support Center assists all of Leslie’s internal and external customers around the nation. The once warehouse, now office, includes an on-site gym and wellness center, along with covered parking. As the leading pool supply retailer in the nation, we work hard to maintain a supportive and friendly atmosphere that results in innovation and quality service.
+</p>
+<p><b>Since 1963</b>, we have aimed to deliver quality products through superior customer service. As a steadily growing organization, with a presence in 35 states, we recognize that the most critical component to our continued success is our people. And as such, there is nothing we value more than the development and growth of our team. Our internal promotion and advancement structure is unsurpassed: the vast majority of all open management positions are filled from talent within our company.
+</p>
+<p><b>Company Mission Statement</b>; We are committed to being the world-class authority in pool and spa care, supported by our dedication to offer the best value across all channels and the highest quality of customer service, delivered through knowledge, integrity and friendliness.</p>
+<p><b>
+Leslie’s Core Tenants</b>; Passion for Sales Growth, Superior Customer Service, Operational Excellence, A Great Place to Work, Culture of Thrift and Continuous Improvement.</p>
+<p><b>
+We offer our employees </b>competitive compensation, extensive paid training, comprehensive and flexible suite of benefits package, 401K with company match, team member discounts, rewards for top performers, and most importantly career advancement opportunities.</p>
+<p><b>
+Leslie’s is committed to infusing diversity</b> into the workplace and providing opportunity to our military veterans and their families. Having a diverse and experienced team fuels innovation and creativity. We promote an expansive environment that supports differing perspectives, thoughts, ideas, concerns, cultures, and ways of life. Leslie’s is an equal opportunity employer.</p>
+<p><b>
+Stop treading water; your career is here</b></p>
+<p>
+</p>
+<div>IND123</div>
+<div>
+#CB</div>
+</div>
+</div>
+<div></div>
+</div>

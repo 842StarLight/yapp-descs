@@ -1,0 +1,93 @@
+<h2>Senior Technical Account Manager - Digital Services</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p>The Technical Account Management team is tasked with supporting clients using Visa Digital products and services including, but not limited to, Visa Checkout and Visa Token Service. As Sr. Technical Account Manager, Client Services you will be responsible for providing integration and post-launch support to Visa Digital Solutions merchants, developers, and partners across the Global Enterprise, Mid-Market, and Small Business channels. You will be responsible for providing technical support of a client through the integration of the Visa Digital products and offer post launch escalation technical support to all live merchants and partners. You will be expected to handle escalated support requests, working with other teams inside and outside the Client Services organization. As Sr. Technical Account Manager, you will also be responsible for acting as a subject matter expert, training and mentoring new team members in the organization.<br>
+<br>
+About Visa Token Service: The Visa Token Service is a security technology that replaces sensitive payment account information found on payment cards, such as the 16-digit account number, expiration date and security code, with a unique digital identifier that can be used to process payments without exposing actual account details. Token service allows financial institutions, merchants and value-added partners to develop new payment and commerce platforms. With a complete set of tools, specifications, APIs and SDKs, Visa Token Service secures mobile and digital transactions<br>
+<br>
+About Visa Checkout: For consumers and online retailers, Visa Checkout offers an easy and secure way to pay online. Enrolling in Visa Checkout is intuitive and simple, and shoppers can use any Visa debit or credit card or even other branded cards to make purchases from a PC, mobile device or within a mobile app. Once enrolled, shoppers simply provide their username and password to complete the payment process - without ever having to leave the merchant's website.<br>
+<br>
+<b>Main Job Tasks and Responsibilities</b></p>
+<ul>
+<li>
+Act as the single point of technical contact for assigned merchant and partner accounts</li>
+<li>
+Manage and troubleshoot escalated technical problems, interfacing with Product Development, Product Management, and/or Operations teams</li>
+<li>
+Provide technical implementation assistance to developers</li>
+<li>
+Perform business analytics and performance monitoring of live merchants and partners</li>
+<li>
+Provide eCommerce and payment acceptance consultative guidance and best-practices to merchants and partners</li>
+<li>
+Educate merchants on how ongoing enhancements of Visa services may benefit their business</li>
+<li>
+Create, edit, and distribute client notifications and communications</li>
+<li>
+Participate in requirements, design, and roll out of new products and services</li>
+<li>
+Represent Client Support to other departments in the company including sales, operations, product management, and product development</li>
+<li>
+Partner with Sales to build relationships with technical and business contacts across the account portfolio</li>
+<li>
+Client-facing travel (international and domestic), ~20%</li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+<p><b>Basic Qualifications:</b></p>
+<ul>
+<li>
+4 years of work experience with a Bachelors Degree or at least 2 years of work experiencewith an Advanced degree (e.g. Masters, MBA, JD, MD) or 0 years of work experience with a PhD degree</li>
+<li>
+Client facing experience</li>
+<li>
+Candidate must be a self-starter and have a disposition to work independently with a commitment to detail in an organized manner</li>
+<li>
+Experience working with e-commerce platforms, shopping cart technologies, and/ or payment service providers (gateways)</li>
+<li>
+Understanding of mobile payments and architecture, including, NFC, TSMs, OTA, secure elements, contactless payments, online/remote payments, QR Codes, cloud based payments and chip cards (contact and contactless)</li>
+<li>
+Demonstrated strong leadership capabilities and interpersonal skills</li>
+<li>
+Executive-level written and verbal communication, and customer interaction skills</li>
+<li>
+Strong organization skills including resolution management and follow up</li>
+<li>
+Strong problem solving skills</li>
+<li>
+Experience with web-based software development technologies: PHP, ASP, .NET, JavaScript, HTML, XML, JSON, REST APIs</li>
+<li>
+Understanding of Web Security: SSL, HTTPS, Hash algorithms</li>
+<li>
+Strong SQL skills</li>
+<li>
+Familiarity with PCI DSS</li>
+</ul>
+<p><br>
+<b>
+Preferred Qualifications:</b></p>
+<ul>
+<li>
+7-10 years of work experience with a Bachelors Degree or 6 years of work experience with an Advanced Degree (e.g. Masters, MBA, JD, MD) or 3 years of experience with a PhD.Credit card payments and payment systems</li>
+<li>
+eCommerce industry</li>
+<li>
+Web technologies and systems</li>
+<li>
+Mobile app development<br>
+</li>
+</ul>
+Additional Information<br>
+<br>
+<p><b>Work hours</b>: 8 Hours / 5 Days per week</p>
+<p><b>
+Travel:</b> Position might require occasional travel for training or team meetings -</p>
+<p><b>
+Physical Requirements:</b> This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers, reach with hands and arms, and bend or lift up to 25 pounds.</p>
+<p>
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.</p>
+</div>
+</div>

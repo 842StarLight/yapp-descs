@@ -1,0 +1,64 @@
+<h2>Lead PHP Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>About DISQO:</b><br>
+DISQO is a next generation consumer insights platform. We provide the highest quality consumer data to the world's largest market research agencies, analytics companies, and brands. We operate one of the world's largest true consumer insights panels. This data helps our clients understand user behavior, build better experiences, and make better decisions. We utilize cutting-edge technology and innovative, out-of-the-box strategies to collect and analyze insights which help shape the products and services of tomorrow.
+<br><br>
+This is a great opportunity to join a fun, exciting &amp; highly motivated team and upgrade your skills while creating real impact. We use a modern tech stack and cloud infrastructure. We are not only looking for work experience, but rather the willingness to step up to challenges and the ability to learn quickly.
+<br><br>
+We believe the best software is written and managed by small teams that know how to make the impossible possible. We use agile software development techniques and modern tools to focus our efforts on solving our business goals. We use OKRs to track everything we do. We deliver early and often. We obsess over our code, architecture and infrastructure. And we believe that these practices lead to higher quality products.
+<br><br>
+<b>The role:</b><br>
+DISQO is hiring a Lead PHP Engineer to manage a team of Engineers on implementing state of the art technologies; laying the foundation for all future development and scalability. This role reports into the Director of Engineering and will be responsible for DISQO's main application, Survey Junkie.
+<br><br>
+Through Survey Junkie, DISQO gathers attitudinal and behavioral data, conducting 1.5 MM+ surveys each month. With hundreds of thousands of users, every update has an immediate impact on our users. Survey Junkie users are based in the U.S., Australia and Canada.
+<br><br>
+Working closely with Product, this role will be responsible for applying best practices to ensure our users have an amazing in app experience, introduce improved features, reduce cycle time and enable the marketing and sales teams to be more effective.
+<br><br>
+<b>What you will do:</b><br>
+<ul>
+<li>Be a part of a highly functional autonomous Agile Team</li>
+<li>Lead technical discussions and guide the team to implement best practices</li>
+<li>Define and measure code quality over time to track improvement</li>
+<li>Ensure not just development, but testing and documentation is also part of the definition of done user stories to enable sprint success</li>
+<li>Build CI tools to enable rapid feedback and deployment and test automation</li>
+<li>Lead design and code reviews</li>
+</ul>
+<b>What you bring to the table:</b><br>
+<ul>
+<li>6+ years of modern PHP programming on a large custom code base</li>
+<li>Subject matter expertise on PHP development</li>
+<li>Experience with Laravel or Lumen</li>
+<li>Solid knowledge of the Design Patterns</li>
+<li>Experience scaling web apps</li>
+<li>Experience with Linux</li>
+<li>Fluent in English reading/writing/speaking</li>
+</ul>
+<b>Nice to haves:</b><br>
+<ul>
+<li>Experience with building RESTful APIs</li>
+<li>Amazon Web Services (AWS)</li>
+<li>Experience with Containerization, Docker, Kubernetes &amp; Service Mesh</li>
+<li>Experience with CI/CD</li>
+<li>Experience building Analytics/Data Driven applications</li>
+<li>GitLab or similar environment</li>
+</ul>
+<b>Benefits &amp; Perks:</b><br>
+<ul>
+<li>100% covered Medical/Dental/Vision for employee</li>
+<li>Equity</li>
+<li>Paid vacation</li>
+<li>Flexible work hours</li>
+<li>Catered lunches 3x's a week</li>
+<li>Stocked pantry</li>
+<li>Happy Hours</li>
+<li>Weekly Yoga</li>
+<li>Discounted Gym Membership</li>
+<li>Commuter Program</li>
+<li>Quarterly Offsites</li>
+</ul>
+DISQO is an equal opportunity employer
+<br><br>
+<ul>
+<li>Recruiting firms that submit resumes to DISQO without first entering into a written contract will not be entitled to any compensation on candidates referred by that firm.</li>
+</ul>
+</div>

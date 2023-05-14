@@ -1,0 +1,81 @@
+<h2>Product Solutions Engineer Wireless</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>What you’ll be doing...</b>
+<br>
+<br>
+As the Product Solutions Engineer – Wireless, you will be applying your technical expertise and Product knowledge to support the critical function of Offering Delivery &amp; Transformation (OD&amp;T) for the Global Customer Operations organization. Your role will involve the technical analysis and verification of Products leveraging wireless technologies to enable digital transformation initiatives of Verizon Business Group customers. We are constantly innovating to bring the best cutting-edge technologies to our customers to enable them to work faster and smarter and you can be part of the team to make this happen.
+<br>
+<br>
+The Product Solutions Engineer will focus on the following areas:
+<ul>
+<li>Hands-on technical skills as well as appreciation of business trends and drivers to understand market launch priorities along with operational support efficiencies.</li>
+<li>
+Work closely with development engineers, implementation engineers and OD&amp;T Product Delivery Engineers to ensure new product launches meet both time to market and customer experience requirements.</li>
+<li>
+Provide feedback on product to Product Development engineering team to ensure product is feasible and incorporates requirements for implementation and service assurance</li>
+<li>
+Act as technical interface with pre-sales engineering teams to provide peer review on new product customer solution designs</li>
+<li>
+Design and execute necessary testing to validate operational readiness for service assurance and delivery functions</li>
+<li>
+Provide onboarding support by leading implementation for initial customers of new product launch</li>
+<li>
+Generate documentation required for test planning &amp; execution, implementation guides, management solution guidelines, and troubleshooting and operational support guidelines</li>
+<li>
+Strategic analysis &amp; comparison of competitive wireless network evolution and trends including but not limited to CDMA transition, 4G LTE-A/U, and 5G</li>
+<li>
+Support for the integration of both mobile and fixed wireless solutions with other networking technology infrastructures such as MPLS VPNs (Private IP Networks), broadband access, SDWAN and Network Function Virtualization (NFV)</li>
+<li>
+Technical participation and feedback for both product development and customer trials of wireless products</li>
+</ul>
+<b>What we’re looking for...</b>
+<br>
+<br>
+You are not only a wireless and networking technology expert, but you also appreciate the business demands of proper market timing for new product launches and helping customers achieve their digital transformation journeys with best in class products and services. You have an eye for detail, but never let the big picture pass you by. People know you for your ability to strike the right balance between new technology and operational efficiency. You take a keen interest in the competitive landscape and the latest trends and technologies reconciled with the customer's demand for a reliable infrastructure that meets their digital needs. As an effective communicator, you build strong client and team relationships and can explain complex technical systems in a straightforward manner by tailoring the content to your audience as appropriate.
+<br>
+<br>
+You’ll need to have:
+<ul>
+<li>Bachelor’s degree or four or more years of relevant work experience.</li>
+<li>
+Six or more years of relevant work experience.</li>
+<li>
+Technical experience with wireless technologies such as 4G LTE-A/U, and 5G and cellular designs including experience with Radio Access Networks (RAN), Private LTE or CBRS networks</li>
+<li>
+Experience in the communications and/or network industry in an operations, technical design and engineering role, with an emphasis on IP-based network, communications and mobility solutions.</li>
+<li>
+Architecture experience in conceptualization, definition and development of large enterprise or service provider based products and services with verifiable instances implementing one or more of the following:</li>
+<li>
+Data and IP Services (Managed Network Services, VoIP, MPLS, VPN, VNS, SDWAN)</li>
+<li>
+Data Center Outsourcing (application hosting, managed storage)</li>
+<li>
+Knowledge of storage networking or cloud computing (especially IoT management platforms and managed mobility cloud solutions)</li>
+<li>
+knowledge of network, communications and mobility protocols</li>
+</ul>Even better if you have:
+<ul>
+<li>Bachelor’s degree in a scientific or quantitative field (e.g. math, EE, computer science)</li>
+<li>
+Programming language or scripting experience (python, Ansible, etc.)</li>
+<li>
+Hands-on configuration and trouleshooting experience with Cradlepoint cellular routers (e.g. AER1600) or Ericsson Private LTE hardware components (e.g. Radio DOT-B2, Radio 2203-B5, AIR5121, SM6701, Baseband 6630 and IDU5209)</li>
+<li>
+Experience with fault management, alarm and incident handling workflow automation, and performance management tools (e.g. Assure1, SMARTS, SevOne, ServiceNow)</li>
+<li>
+Proven capabilities with development or support of products leveraging wireless technology for Internet of Things (IoT) solutions, wireless network backup, managed mobility, or fixed wireless access.</li>
+<li>
+Experience with wireless networking solutions from vendors such as Ericsson, Nokia, Samsung, Cradlepoint, or Digi</li>
+<li>
+Demonstrated strong written, verbal, and interpersonal communication skills; capability to communicate internally, upward, and cross functionally</li>
+</ul>
+<b>When you join Verizon...</b>
+<br>
+<br>
+You’ll have the power to go beyond – doing the work that’s transforming how people, businesses and things connect with each other. Not only do we provide the fastest and most reliable network for our customers, but we were first to 5G - a quantum leap in connectivity. Our connected solutions are making communities stronger and enabling energy efficiency. Here, you’ll have the ability to make an impact and create positive change. Whether you think in code, words, pictures or numbers, join our team of the best and brightest. We offer great pay, amazing benefits and opportunity to learn and grow in every role. Together we’ll go far.
+<br>
+<br>
+<b>Equal Employment Opportunity</b>
+<br>
+<br>
+We're proud to be an equal opportunity employer- and celebrate our employees' differences,including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.</div></div>

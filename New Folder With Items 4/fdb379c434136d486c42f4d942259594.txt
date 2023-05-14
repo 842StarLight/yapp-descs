@@ -1,0 +1,68 @@
+<h2>Director – Restaurant Solution Architecture</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>WHO WE ARE:</b><br>
+McDonald's Global Technology Development organization is responsible for the architecture, design, development and maintenance of the foundational McDonald's digital and restaurant software platforms and products. These software platforms and products power one of the most significant brands in the world, enabling and scaling to over 34,000 restaurants operating in over 120 diversified countries. Furthermore, these software platforms provide the foundation to achieve operational excellence and to reliably serve some of the world’s favorite food to a base of over 70 million customers every single day.
+<br><br>
+<b>WHO WE ARE LOOKING FOR:</b><br>
+As digital consumer engagement models and retail business opportunities evolve, McDonald’s is continuing to build extraordinary digital and restaurant platforms for commerce, CRM, marketing, etc to enable us to reach even more customers and support the McDonald's global digital business and technology growth. As the above digital platform and the related eco system evolves, the engineering that is required to productionalize, stabilize and make the above platforms solid become increasingly meaningful.
+<br><br>
+We are looking for a highly skilled director to lead the governance and modernization of our in restaurant technology systems, and to ensure we create and deploy holistic and fully integrated solutions to our markets. One of the primary responsibilities of this role is to work with our strategic provider to evaluate and govern the integration and deployability of solutions that are adopted by our markets. Mostly, this position will be responsible for working with our strategic providers to ensure that our restaurant technology systems are reliable, deployable, repeatable and supportable. We strive for as close to a software-as-a-service model as possible.
+<br><br>
+Primary focus will be the technology within our restaurants (Point of Sale, KIOSK, Menu Boards, Kitchen Systems, etc) and the platforms that help us to manage them (Remote software distribution, asset management, monitoring and performance measurement, staging and OS level management.) The role will lead a team of technical managers to accomplish these governance functions and will work closely with our partners in IT Delivery to deploy the software releases to the markets.
+<br><br>
+Responsibilities
+<br><br>
+KEY RESPONSIBILITIES
+<br><br>
+Requirements Definition, Solution Design and Governance
+<br><br>
+<ul>
+<li>Work with Restaurant Systems and Operations teams, market IT, and innovation teams to understand business capability requirements</li>
+<li>Work with global architecture team, security teams, deployment teams and support to ensure understanding of non-functional requirements and policies.</li>
+<li>Work with the strategic provider and our internal architecture and capability teams to define and craft end to end solutions for store systems</li>
+<li>Providing directional management on ensuring restaurant solution designs adhere to functional and non-functional requirements.</li>
+<li>You will provide governance on how store systems integrate with each other, and with backend systems such as eCommerce, content management, drive-thru and in-store displays, and back office shift management solutions. Ensure associated information is clearly documented, validated as reasonable, and shared with deployment partners</li>
+<li>You will ensure that the strategic provider understands and runs specific integration points and dependencies throughout the SLDC to continuously integrate our software solutions</li>
+<li>Provide governance on market data and configuration requirements</li>
+<li>Provide governance on implementation of DevOps methodologies into our restaurant software ecosystem.</li>
+<li>Provide directional management on how to manage distributed micro kernel based services via Docker containers for restaurant systems</li>
+<li>Manage the validation of delivered solutions to ensure they meet approved designs</li>
+<li>Lead the creation and execution of an engagement model for Restaurant Architecture team</li>
+<li>Lead the creation and decisions on proof of concept projects within the scope of the restaurant technology</li>
+</ul>
+FINANCIAL DUE DILIGENCE
+<br><br>
+<ul>
+<li>Provide subject matter expertise in how cost and delivery models can be optimized for products, including cost optimization of current systems as well as cost analysis of systems in the design phase</li>
+<li>Provide support in defining, along with the vendor management and finance office, chargeback models for solutions, and find opportunities to improve such models</li>
+</ul>
+DEPENDENCY MAPPING
+<br><br>
+<ul>
+<li>Ensure all technical dependencies for products and services are well understood, documented and appropriate for the target audiences</li>
+</ul>
+Minimum Requirements
+<br><br>
+EXPERIENCE AND SKILLS
+<br><br>
+<ul>
+<li>10+ years meaningful IT experience, especially in retail industry initiatives, demonstrating broad technology skills across application development and integration disciplines</li>
+<li>5+ years in a leadership role with demonstrated competencies in implementing highly integrated and complex distributed software systems</li>
+<li>Proven skills and experience in consolidating multiple products into highly distributed service offerings</li>
+<li>Deep understanding of how mobile, restaurant, commerce and CRM technologies integrate to build holistic and deployable software solutions</li>
+<li>Understanding of micro-service based architecture, container based architecture and software deployment / management within those architectures</li>
+<li>Experience with the management of widely distributed software and hardware endpoints</li>
+<li>Ability to solicit and communicate business expectations and build strong client and partner relationships</li>
+<li>Skilled and experienced in leading internal and external teams</li>
+<li>Excellent verbal and written communications and presentation skills, with the proven ability to influence and negotiate</li>
+<li>Proven experience taking care of both global and virtual teams and the demonstrated ability to drive consensus through process</li>
+<li>Ability to self-direct and prioritize multiple engagements against business and management priorities</li>
+<li>Experience in retail/restaurant technology is strongly preferred</li>
+<li>College degree required in an IT discipline</li>
+</ul>
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+<br><br>
+CountryUnited States
+<br>Requisition Number
+<br><br>
+6815BR</div>

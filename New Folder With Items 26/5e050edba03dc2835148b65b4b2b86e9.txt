@@ -1,0 +1,46 @@
+<h2>Salesforce Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">At Bluebeam, we empower people to advance the way the world is built. We create smart software solutions that make construction sites more efficient, connected and safe and improve the lives of design and construction professionals everywhere.
+<br><br>
+The Salesforce Admin is responsible for the overall administration of Salesforce.com (SFDC). This includes, but is not limited to, system configuration, ongoing testing and maintenance, and new feature implementation, and release management. This role collaborates with functional leaders to identify, define, and implement changes and enhancements to meet business requirements in a dynamic, high-growth environment. While this position does require a moderate level of technical acumen, it is not a developer position. This role will report to the Manager of Technology.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Responsible for the overall configuration, design, functionality and end-user support of the Salesforce.com platform.</li>
+<li>Configure and maintain custom objects, record types, fields, page layouts, formulas, data validation rules, triggers, custom workflows, approval processes, installed packages, etc. within SFDC.</li>
+<li>Maintain user roles and profiles, security settings, access settings, etc. (User Profiles, Role Hierarchy, Sharing Rules and Security).</li>
+<li>Establish and implement change control and best practices with regards to system maintenance, configuration, development, testing, data integrity, etc.</li>
+<li>Engage with business stakeholders to gather &amp; analyze requirements, and propose solutions that leverage Salesforce functionality. Translate approved solutions into actionable deliverables, ensuring high levels of quality, accuracy and process consistency.</li>
+<li>Manage data imports, database de-duping and cleanup.</li>
+<li>Manage the integration of applications connected to Salesforce.com.</li>
+<li>Identify production risks and areas for improvement; prioritizes, designs and facilitates successful implementation and adoption of new processes.</li>
+<li>Support Sales Operations in cross-functional projects and strategic changes to systems and processes.</li>
+<li>Collaborate with business stakeholders to drive high levels of data integrity and operational reliability of our standardized business analytics, tools and processes.</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Minimum of 3 years of Salesforce Admin experience.</li>
+<li>Salesforce Administrator certification preferred.</li>
+<li>At least 1 full life-cycle Salesforce or CRM implementation preferred.</li>
+<li>Prior experience supporting a user base (domestic and international) of at least 100 users.</li>
+<li>Experience with third-party integrations required.</li>
+<li>Previous experience in admin salesforce in the software/IT vertical strongly preferred.</li>
+<li>Experience with Salesforce CPQ and Salesforce Communities would be a plus.</li>
+<li>Understanding of relational databases, data modeling, and/or data integration tools would be a plus.</li>
+<li>Leadership role on cross-functional projects with implementation partners, other IT managers, internal stakeholders and developers in providing solution suggestions.</li>
+<li>Advanced problem-solving skills. The ability to solve highly complex business problems across platforms utilizing Salesforce and other business applications.</li>
+</ul>
+If you think you are a good match for the Bluebeam team, please send us the following:
+<br><br>
+<ul>
+<li>Your Resume</li>
+<li>A Cover Letter reflecting your personality and why you are a fit for Bluebeam and this role</li>
+</ul>
+About Bluebeam
+<br><br>
+The construction industry is adopting new technology at a feverish pace. Tablets and cell phones are replacing paper blueprints, drones are surveying jobsites in 3D, and cloud collaboration is changing the way teams work together. Bluebeam plays a crucial role in this transformation. The key to our success is a customer-focused approach to product development: we work with the industry to create solutions for the industry. Today, over 1.4 million people throughout the world use Bluebeam. In the US, we're a critical partner for the majority of top AEC firms, and rapidly expanding our presence globally, with offices in Sweden, Germany and the UK.
+<br><br>
+Come design and build your future with us.
+<br><br>
+Bluebeam is proud to be an equal opportunity workplace. We are committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender identity, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, or veteran status.
+<br><br>
+#LI-PC1</div>

@@ -1,0 +1,82 @@
+<h2>Network Engineer, Level 2</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>High Availability, Inc. </b>is currently seeking an experienced <b>Network Engineer </b>to join our team in Audubon, PA office.</p>
+<p><b>About Us: </b></p>
+<p>High Availability, Inc. is a systems integrator and managed service provider responsible for implementing, monitoring, managing, and maintaining multiple clients’ IT environments. We are currently looking to hire a mid-level Network Engineer to join the network engineering team in our managed cloud services division. Our ideal candidate is a self-motivated, detail oriented, security-minded individual with an eagerness to learn and thrive in a team atmosphere.</p>
+<p>We value having a great company culture, where casual dress is common and employees are key. Team outings are practiced with activities like Pumpkin Derby Racing, Cooking Competition (Iron Chef-style), charity run and bike rides, family team buildings, take your child to work day, and more. That’s not to say that hard work isn’t done here, it’s rewarded. We offer a competitive salary and extensive benefits package for all full-time employees. Work hard, play hard - all in the name of High Availability Inc.</p>
+<p><b>Job Summary: </b></p>
+<p>This position will provide network engineering support to clients of High Availability, Inc., while operating a variety of on-premise and cloud-based network technologies. As a mid-level Network Engineer, you will primarily be responsible for responding to device and client generated support tickets. These range from service requests (move, add, change, delete) to troubleshooting and break/fix tickets. Additional duties may include assisting with the network specific components of client onboardings and disaster recovery tests.</p>
+<p><b>Job Responsibilities: </b></p>
+<ul>
+<li>80% ticket-based service requests and break/fix</li>
+<li>20% other activities (onboarding clients, assisting with DR tests, infrastructure planning, etc.)</li>
+<li>Part of team on-call rotation, one week per month</li>
+</ul>
+<p><b>Requirements</b></p>
+<p><b><i>Education and Experience: </i></b></p>
+<ul>
+<li>Minimum 3 years of experience in a network engineer role, preferably in a managed service provider environment</li>
+<li>Prior help desk support and/or customer service experience</li>
+<li>Working experience with TCP/IP route/switch technologies</li>
+<li>Working experience with network security technologies such as firewalls, routers, and VPNs including Cisco, Palo, and FortiGate firewall products</li>
+</ul>
+<p><b><i>Skills and Abilities: </i></b></p>
+<ul>
+<li>Basic understanding of operating system network administration (Windows, Linux, vSphere)</li>
+<li>History of clean and consistent network racking, cabling, and labeling practices</li>
+<li>History of creating and maintaining robust network documentation (diagrams, port maps, etc.)</li>
+<li>Excellent logical troubleshooting skills</li>
+<li>Ability to contribute to a team as part of an on-call rotation</li>
+<li>Ability to lift objects up to 50lbs</li>
+<li>The following are not required but a plus:</li>
+</ul>
+<ul>
+<li>Experience with formal change control process or ITIL (or similar) service delivery framework</li>
+<li>Industry vendor certifications (Cisco, Palo, FortiGate, etc.)</li>
+<li>Experience with Cisco UCS hardware</li>
+<li>Experience with NAC products (ISE)</li>
+<li>Experience with VMware vSphere</li>
+<li>Experience with PowerShell, Python, or similar scripting languages</li>
+</ul>
+<p>*</p>
+<p>Compensation decisions for positions shall be governed primarily by job responsibilities and the position’s range of compensation as well as the applicant’s knowledge, skills, competencies, experience, compensation requests, or other bona fide factor other than sex, except where compensation is based on:</p>
+<ul>
+<li>collective bargaining agreement;</li>
+<li>a seniority system;</li>
+<li>a system of merit pay increases;</li>
+<li>a system which measures earnings by quantity or quality of production, sales goals and incentives.</li>
+</ul>
+<p><b>Benefits: </b></p>
+<ul>
+<li>401k with 3% Safe Harbor contribution.</li>
+<li>Employee and Dependent Health, Dental, Vision, and Life insurance employer paid premium paired with a Flexible Spending Account</li>
+<li>Employer paid premium Employee STD and LTD insurance</li>
+<li>Voluntary employee and dependent Life and AD&amp;D insurance</li>
+</ul>
+<p><b>EEO Statement: </b></p>
+<p>It is the policy of High Availability, Inc to provide equal employment opportunity/ affirmative action to all employees and applicants for employment regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic projected by federal, state or local law. In addition, High Availability, Inc will provide reasonable accommodations for qualified individuals with disabilities.</p>
+<p>High Availability, Inc participates in the federal E-Verify program to confirm the identity and employment authorization of all newly hired employees.</p>
+<p>No phone calls or third-party recruiters</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Network Engineer Role: 3 years (Preferred)</li>
+<li>Prior Help Desk Support: 1 year (Preferred)</li>
+</ul>
+<p>Additional Compensation:</p>
+<ul>
+<li>Bonuses</li>
+<li>Commission</li>
+</ul>
+<p>Benefits offered:</p>
+<ul>
+<li>Paid time off</li>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Healthcare spending or reimbursement accounts such as HSAs or FSAs</li>
+<li>Other types of insurance</li>
+<li>Retirement benefits or accounts</li>
+<li>Employee discounts</li>
+<li>Others</li>
+</ul>
+</div>

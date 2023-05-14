@@ -1,0 +1,36 @@
+<h2>Director of Security</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>About Taulia:</b><br>
+Taulia delivers working capital solutions that make it easy for businesses to free up cash, accelerate payments and improve supply chain health.
+<br><br>
+Since founding in 2009, we’ve envisioned a world where every business thrives by liberating cash. Today, our team of financial gamechangers have built a network connecting 1.5 million businesses across 168 countries and accelerated more than $80 billion in early payments.
+<br><br>
+Using our state-of-the-art platform, businesses now have the option to choose when and how to pay and get paid. It sounds simple. But our painless process provides both buyers and suppliers the chance to skyrocket their cash - cash to fuel economic growth all over the world. It’s win-win for everybody.
+<br><br>
+<b>About the Job:</b><br>
+As the Director of Security at Taulia you are responsible for defining, implementing, and maintaining our security efforts that allow us to continue to innovate and evolve our product lines while providing a safe and secure service to our customers and users. You will work cross-functionally to ensure we meet compliance requirements, act according to industry standards and associated audits and that we maintain all our security certifications.
+<br><br>
+As Taulia is growing and expanding rapidly, new security challenges are appearing frequently and you have the opportunity to help us continue to improve on our abilities as a secure organization and platform provider in the future. You lead our efforts to protect customer and Taulia data/information as well as our application security, platform security, information security, physical security, company wide security training and incident management.
+<br><br>
+<b>Essential Duties:</b><br>
+<ul>
+<li>Take personal responsibility for the security of Taulia’s systems, products and company-wide practice, always aiming to improve our readiness against all threats</li>
+<li>Provide guidance and advocacy regarding prioritization of investments that impact security</li>
+<li>Identify risk and vulnerabilities in our organization then work to mitigate these through systems and repeatable automated practices</li>
+<li>Partner with our engineering and product management teams to maintain and implement features that allow us to provide great security in our products while we continue to innovate and build new products that have a profound impact on the business of our customers</li>
+<li>Oversee incident response planning as well as the investigation of security breaches, and assist with disciplinary and legal matters associated with such breaches as necessary</li>
+<li>Work with all teams to support our ongoing efforts to increase overall security, achieve relevant certifications and continue to invest in the trust our big brand-name customers have in our ability to store and process some of their most valuable information</li>
+<li>Work with our legal and sales teams to ensure all customer agreements and requests meet our policies and standards</li>
+<li>Contract with and lead the efforts of Third Party Auditors to test the policies and controls in place and ensure that all policies are followed</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Experience leading SOC type audits for a SaaS company and have demonstrated the capability to work with all relevant departments of an organization</li>
+<li>Proficient in all aspects of security principles and practices for FinTech SaaS software platforms and the business supporting them while you also maintain a current awareness of the FinTech industry, and you are comfortable discussing pros and cons of different approaches</li>
+<li>Experienced with business continuity planning, auditing, and risk management, as well as contract and vendor negotiation</li>
+<li>Experienced in developing, improving, and implementing data breach mitigation plans.</li>
+<li>Worked hand in hand with product development teams in the past and supported them to deliver more secure products and systems</li>
+<li>Comfortable with complex, business critical SaaS platforms and provided security guidance and systems to assure their secure operations and expansion.</li>
+<li>Efficiently conducted manual and automated penetration tests and code audits both manually and with automated tools</li>
+</ul>
+</div>

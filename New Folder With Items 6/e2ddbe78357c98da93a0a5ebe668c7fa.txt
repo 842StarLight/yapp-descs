@@ -1,0 +1,73 @@
+<h2>Manager Retail Technology</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<div><b>Company Overview</b></div>
+<div>
+<br>
+</div>
+<div>
+Fanatics is the global leader in licensed sports merchandise and changing the way fans purchase their favorite team apparel and jerseys. Through an innovative, tech-infused approach to making and selling fan gear in today's on-demand culture, Fanatics operates more than 300 online and offline stores, including the e-commerce business for all major professional sports leagues (NFL, MLB, NBA, NHL, NASCAR, MLS, PGA), major media brands (NBC Sports, CBS Sports, FOX Sports) and more than 200 collegiate and professional team properties, which include several of the biggest global soccer clubs (Manchester United, Real Madrid, Chelsea, Manchester City). Fanatics offers the largest collection of timeless and timely merchandise whether shopping online, on your phone, in stores, in stadiums or on-site at the world's biggest sporting events.</div>
+<div>
+<br>
+</div>
+<div><b>
+About the Team</b></div>
+<div>
+<br>
+</div>
+<div>
+Fanatics is first and foremost a technology company. We are powered by cutting-edge tech created by our small agile teams using the latest tools and technologies under our highly analytical, forward thinking, and open-minded leadership. As the global leader in licensed sports merchandise, we challenge ourselves by improving our new fully responsive NodeJS cloud commerce platform, Elasticsearch engine, and deep data science capabilities while building the best-in-class retail manufacturing and supply chain technologies. Our tech teams work together to revolutionize data science and engineering initiatives, provide highly scalable real-time and streaming platforms, and create secure e-commerce and in-stadium fan experience products. Our own e-commerce platform transacts in over 190 countries, 17 languages, and 14 currencies. Our motto is “#GSD”—get stuff done—and we do just that. If you want to be at the nexus of sports, commerce, and technology, come be a part of our industry-leading team here at Fanatics Tech.</div>
+<div>
+<br>
+</div>
+<div>
+Position Overview</div>
+<div>
+This role is part of Retail/In-Venue Engineering team and responsible for deploying and supporting technology solutions to improve store operations and fan/customer experience. This individual will be execution and results focused, with emphasis on quality, on-time delivery, ability to structure complex work streams and work independently and with teams.</div>
+<div>
+<br>
+</div>
+<div>
+This role will have 1-2 direct reports.</div>
+<div>
+<br>
+</div>
+<div>
+Responsibilities:</div>
+<ul>
+<li>Drive requirements, design, build, test, deploy, support for all software applications in retail domain.</li>
+<li>Provide technical expertise in design, build and roll-out of new systems/enhancements/features/reports</li>
+<li>Partner with Enterprise Architecture, Product Management and Business Stakeholders to implement technology solutions.</li>
+<li>Define the processes needed to achieve and sustain operational excellence, including project delivery and systems reliability.</li>
+<li>Manage vendor delivery, effort and cost estimation</li>
+<li>Provide production support as needed</li>
+<li>Issue, Change, and Risk Management</li>
+</ul>
+<div>
+<br>
+</div>
+<div>
+Qualifications</div>
+<div>
+Bachelors degree and/or applicable experience in the information technology field.</div>
+<ul>
+<li>Sound understanding of Retail and Store processes preferably in Apparel/Footwear retail environment</li>
+<li>Experience enabling omni-channel experiences like BOPIS</li>
+<li>8+ years of experience in Technology. 4+ years of experience in retail technologies like Point Of Sale, Store back-office, Planogram, Reflexis Task Management, RFID. Experience with cloud-based POS systems like OpSuite will be a plus.</li>
+<li>4+ years of hands-on experience in programming languages like Java, C#, Go, Node JS, Javascript, Python. AWS experience will be a plus.</li>
+<li>4+ years of experience working with SQL or NoSQL database management systems like SQL Server, My SQL, Oracle, Mongo DB</li>
+<li>3+ years of experience implementing large-scale, high availability systems</li>
+<li>3+ years people-management experience</li>
+<li>Experience with Saas-based POS systems</li>
+<li>Good understanding of testing automation</li>
+<li>Desire and aptitude to learn new technologies</li>
+<li>Experience with Agile/Kanban methodology</li>
+<li>Technical troubleshooting and problem solving skills</li>
+<li>Strong communication and interpersonal skills with a high degree of professionalism in working collaboratively at all levels inside/outside the organization</li>
+</ul>
+</div>
+<div><div><i>Tryouts are open at Fanatics! Our team is passionate, talented, unified, and charged with creating the fan experience of tomorrow. The ball is in your court now.</i></div></div>
+</div>
+<div></div>
+</div>

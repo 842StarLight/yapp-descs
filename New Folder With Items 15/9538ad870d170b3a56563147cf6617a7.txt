@@ -1,0 +1,37 @@
+<h2>Senior Applications Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Join us as a Senior Application Developer where you will interface with multiple departments including Sales, Marketing, Engineering, Customer Service, Logistics, Manufacturing, and Finance. The role will interface with multiple locations including Corporate Headquarters in Oak Brook, IL; Distribution and Service Centers in Tucson, AZ; Manufacturing in Nogales, MX. This role will be based at our facility in Oak Brook, IL.
+<br><br>
+The Senior Application Developer works with business system analysts and business stakeholders to enhance, maintain, and support a variety of applications. This includes creating technical designs, programming, debugging, unit testing, and documenting application changes within a variety of platforms, tools, and technologies; providing production support including analyzing and resolving production problems and responding to end user service requests; also will serve as a technical architect creating, reviewing, and approving designs and mentoring junior team members. The role requires strong technical abilities within application design and development, implementation, and support, especially in an SAP environment; ability to work with cross-functional teams; basic project management skills; and communication skills.
+<br><br>
+<b>Requirements:</b><br>
+<ul>
+<li>Bachelor’s in Information Systems or equivalent required. Masters in Computer Science a strong plus.</li>
+<li>Minimum 7 years total experience in applications development with strong debugging and analyzing skills.</li>
+<li>Minimum 5 years hands-on experience with SAP ABAP and/or OOP equivalent.</li>
+<li>At least two full lifecycle implementation of SAP including Blueprint phase.</li>
+<li>Minimum 5 years experience required in environments with multiple applications and application integration requirements such as eCommerce, third party logistics &amp; shipping, or multiple ERP environments.</li>
+<li>Experience in SAP UX tools such as Fiori &amp; Personas solutions a strong plus.</li>
+<li>Expert knowledge of core systems and expertise in configuration and customization in all functions within one or more business areas. Able to architect and design robust, sustainable technical solutions in their functional area(s) including how the solution will interact with other functional areas. Able to work cross-functionally with other technical resources to ensure complete, thorough, end-to-end solutions.</li>
+<li>Excellent skills in systems analysis, problem analysis, debugging, troubleshooting, and technical error resolution. Can facilitate small groups to analyze/debug/resolve problems.</li>
+<li>Solid knowledge of software development lifecycle; able to manage solutions through entire SDLC from design through development, testing, and deployment including release and change management. Proactively supports business deployment including communications and training.</li>
+<li>Excellent business requirements analysis skills. Able to work with business stakeholders, understand needs, produce alternatives with recommendations. Strong ability to communicate technical topics clearly with business stakeholders.</li>
+<li>Possesses deep technical knowledge in multiple areas and strong breadth of knowledge across related areas and integrations.</li>
+<li>Excellent data analysis skills; strong understanding of business operational reporting needs and how to meet those needs effectively with a variety of systems solutions. Strong working knowledge of core systems data models and able to translate meaning of data to business stakeholders.</li>
+<li>Deep Technical understanding of some of the these SAP skills, IDOCS, BADI’s, Enhancement Framework (Implicit and Explicit Enhancements), User Exits, BAPI’s, SAP EDI, Smart Forms, Adobe Forms, Sap script, ABAP Classes and Methods, ALV, VOFM Routines, BTE’s, Workflow, Performance and tuning, SPAU and SPDD. Skilled, expert developer in ABAP and Object Oriented Programming.</li>
+<li>Strong skills in system integration between applications in an SAP environment; strong skills and abilities in various interface types and methods especially SAP Web Services, IDoc user-Exits etc.; SAP PI skills and experience a strong plus.</li>
+<li>Good interpersonal skills including written and oral communications. Proficient with MS Office tools. Ability to work cross-functionally and to rapidly learn and adapt to new business processes, technologies, and environments.</li>
+</ul>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Design, develop, and implement technical solutions that meet business needs. Activities include:</li>
+<li>Take responsibility for end-to-end delivery of individual work items and small projects, including projects that require coordination of tasks done by others. Create project plans and estimate time and resources required on small to medium projects. Oversee end to end delivery of individual solutions and small to medium projects, taking responsibility for all aspects of the SDLC including design, development, configuration, testing, and release and change control.</li>
+<li>Lead technical solutions from initiation through conclusion. Able to work with business stakeholders to elicit and understand requirements. Facilitate small teams through the process of developing alternatives, identifying and documenting pros and cons, and coming to a consensus point of view with supporting documentation.</li>
+<li>Design and develop end to end solutions that contain multiple technical components crossing functions and technical areas, following best practices and development standards and guidelines.</li>
+<li>Serve as a mentor to others; review work of others and provide constructive feedback; proactively share information with others to help them; lead by example.</li>
+<li>Demonstrate knowledge of and stays current with industry best practices relative to technology, products, services and methodologies.</li>
+<li>Create deliverables according to the Software Development Lifecycle such as functional and technical specifications, use cases, test cases, and system documentation.</li>
+<li>Support production systems; proactively monitor systems to enable smooth operations; work to analyze and resolve production problems in a timely manner. Resolve end user service requests as assigned.</li>
+</ul>
+The Senior Application Developer role offers a competitive base salary and excellent benefits including medical, dental, vision, 401(k) with company match, and more! We're an organization who values its human capital and provides support to assist its employees succeed.
+<br><br>
+Chamberlain Group is proud to be an Equal Opportunity Employer. You will be considered for this position based upon your experience and education, without regard to race, color, religion, sex, national origin, age, sexual orientation, ancestry; marital, disabled or veteran status. We are committed to creating and maintaining a workforce environment that is free from any form of discriminations or harassment. The Chamberlain Group conducts background checks and drug screen for candidates who except employment offers.</div>

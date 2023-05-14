@@ -1,0 +1,39 @@
+<h2>Sr. Web Developer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Sr. Web Developer II</b></p>
+<p>Woodland Direct is a family owned business based in Auburn Hills, MI that focuses on providing customers the perfect fire features for their home or business. A leader in the hearth, patio and barbecue industry, Woodland prides itself in a technical sales team that holds more certifications than any other company in the industry. With top tier product expertise, and a unique approach to the market, they offer their customers the very best experience in fire.</p>
+<p>About the Sr. Web Developer II Position:</p>
+<p>Developer II, reporting to the Development Manager, will be responsible for building and maintaining the e-commerce platform for Woodland Direct. This position is designed to be full stack. Qualified candidates should feel comfortable working as part of a development team and engaging in pair programming to deliver solutions. Dev II should feel comfortable mentoring the less experienced members of the team.</p>
+<p>Responsibilities:</p>
+<ul>
+<li>Synthesize requirements from business users to write useful work tickets</li>
+<li>Write well designed, testable, and efficient code while utilizing best software development practices</li>
+<li>Create website user interface utilizing modern web development technologies</li>
+<li>Integrate data from various back-end services and databases</li>
+<li>Stay plugged into emerging technologies/industry trends and apply them into operations and activities</li>
+<li>Be comfortable working as part of a development team with a strong emphasis on pair programming</li>
+<li>Ability to coach and mentor team member as needed</li>
+<li>Other duties as assigned</li>
+<li>Onsite attendance required</li>
+</ul>
+<p>Qualifications:</p>
+<ul>
+<li>Knowledge of full-stack development (strong focus on Web and Services)</li>
+<li>Familiarity with E-Commerce best practices</li>
+<li>Experience in building React applications</li>
+<li>Familiarity with build tools (Webpack, Parcel, Gulp)</li>
+<li>Familiarity with unit testing framework</li>
+<li>Experience with Agile framework and tools (JIRA, Scrum, Kanban)</li>
+<li>Ability to communicate effectively, both orally and in writing</li>
+<li>Self-motivated with the ability to work with a large degree of independence</li>
+<li>3+ years of development experience required</li>
+<li>Bachelor’s Degree in MIS, or Computer Science preferred, but not required</li>
+</ul>
+<p>The working conditions are that of a typical office environment. Operation of a personal computer during business hours, as defined by the company, is required.</p>
+<p>Woodland Direct Inc. is an equal opportunity employer and does not discriminate on the basis of race, religion, color, national origin, age, sex, gender, disability or any other characteristic protected by law. Woodland expressly prohibits any form of workplace discrimination or harassment based on any of these characteristics.</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>development: 3 years (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+</div>

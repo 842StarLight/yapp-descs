@@ -1,0 +1,100 @@
+<h2>Senior Network Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Requisition ID: 1001<br>
+</b></p>
+<p></p>
+<p><b>Job Title: Senior Network Engineer<br>
+</b></p>
+<p></p>
+<p><b>Job Country: United States (US)<br>
+</b></p>
+<p></p>
+<p>Here at Avanos Medical, we passionately believe in three things:
+</p>
+<ul>
+<li>Making a difference in our products, services and offers, never ceasing to fight for ground-breaking solutions in everything we do;
+</li>
+<li>Making a difference in how we work and collaborate, constantly nurturing our nimble, fast-moving innovation culture;
+</li>
+<li>Having an impact on the healthcare challenges we all face, and the lives of people and communities around the world.<br>
+</li>
+</ul>
+<p></p>
+<p>At Avanos you will find an environment that thrives to be independent and different, one that supports and inspires you to excel and to help change what medical devices can deliver, now and tomorrow.<br>
+</p>
+<p></p>
+<p>Avanos is a medical device company focused on delivering clinically superior breakthrough solutions that will help patients get back to the things that matter. We are committed to creating the next generation of innovative healthcare solutions which will address our most important healthcare needs, such as reducing the use of opioids while helping patients move from surgery to recovery. Headquartered in Alpharetta, Georgia, we develop, manufacture and market recognized brands in more than 90 countries. Avanos Medical is traded on the New York Stock Exchange under the ticker symbol AVNS. For more information, visit www.avanos.com .
+</p>
+<p><b>Job Overview:
+</b></p>
+<p>Avanos is looking for a Senior Network Engineer who is responsible for the design, operations, maintenance, and troubleshooting of Network, Voice and Security infrastructure in a large, Global multi-site, diverse enterprise network within the Avanos global ecosystem. Reporting to Network and Infrastructure Security Leader, this role must be able to quickly learn modern technologies and have a broad range of skills encompassing Cloud environments, data centers, manufacturing sites and business offices. Knowledge should include all network hardware, security hardware, Windows Server and Active Directory functionality. Responsibilities will include managing the day-to-day operations and control of all equipment within wide and local area network infrastructure and Cloud. Candidate must have demonstrated customer service skills while dealing with business partners and all levels of management. Attention to detail is vital, as well as the ability to independently follow-up on details until a problem is resolved or projects are seen through to completion. Some travel expected, excellent customer interaction skills and occasional scheduled off-hours service for upgrades and maintenance will be required.
+</p>
+<p><b>Principal Accountabilities
+</b></p>
+<ul>
+<li>Provide technical and operational guidance, Cloud Network support (Azure), review Architecture, management and oversight of Network/security for the global Avanos business which mainly comprises of Cisco, Avaya, Forcepoint technologies.
+</li>
+<li>Design, implement and maintain network and security technology, (i.e., routers, switches, firewalls, Wireless access points, NAC, Web Filtering), monitoring software, Remote Access, VPN’s and Encryption technology
+</li>
+<li>Assist in managing budget and manage all Avanos Technical documentation related Network, voice and Network Security working with 3rd party Managed Service Providers
+</li>
+<li>Partner with Avanos ITS Security, Cloud/Data center operations and application support teams to understand current and future needs for voice, data, security and mobile networks and develop/translate infrastructure requirements
+</li>
+<li>Perform analysis of network/security needs to design solutions to satisfy requirements. Includes the integration and installation of network hardware and software
+</li>
+<li>Provide operational direction and management of multiple on-site and off-site outsourced ITS resources and vendor service providers
+</li>
+<li>Ensure maximum possible service availability and performance by identifying and responding to faults on Avanos’s systems and networks, liaising with 3rd party suppliers, and handling escalation through to resolution
+</li>
+<li>Knowledge of Voice systems (Avaya, Cisco and Microsoft Phone System) and maintenance
+</li>
+<li>Perform analysis on suspicious activity to ensure Avanos’s network security against unauthorized use
+</li>
+<li>Keep ticketing and work order system logs up to date. Manage incident identification and response, which includes correctly identifying and evaluating incidents
+</li>
+<li>Ensure proper and consistent communication to Avanos clients and internal leadership aligns with policy and procedures, SLAs, metrics reporting and contractual agreements
+</li>
+</ul>
+<p><b>Preferred Qualifications and Experience
+</b></p>
+<ul>
+<li>BA or BS in a Computer Science or Information systems related discipline required
+</li>
+<li>8+ years of progressive hands-on experience with network operating systems, wide area networks, Local area networks, IP based telephony systems
+</li>
+<li>8+ years demonstrated experience with Network/security infrastructure technologies like Firewalls, IDS/IPS, Proxies, encryption and other security related disciplines
+</li>
+<li>Experience in managing Network and Security within Public Cloud (Azure preferred)
+</li>
+<li>In-depth knowledge of TCP/IP protocols, IP Addressing, routing, switching, IPSEC VPN, Packet Capture and analysis, and normal operations of Active Directory (DNS, DHCP), Windows OS, deep understanding of OSI model
+</li>
+<li>Experience in providing operational management and coordination with Network Service providers like AT&amp;T
+</li>
+<li>Ability to function independently with minimal supervision and within a team environment.
+</li>
+<li>Must be able to work a flexible schedule including nights, weekends and holidays as needed
+</li>
+<li>Job specific competencies may be assigned by the department / direct manager.
+</li>
+<li>Excellent oral and written communication skills
+</li>
+<li>Prefer individual to be a Certified in CISSP, CCSP, CCNP, or CCNP Security.
+</li>
+<li>ITIL knowledge certification is a plus
+</li>
+</ul>
+<p><i>Avanos Medical is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, sexual orientation, gender identity or any other characteristic protected by law. If you are a current employee of Avanos, please </i><i>apply here </i><i>.<br>
+</i></p>
+<p></p>
+<p><b><i>Join us at Avanos
+</i></b><br>
+<i>Join us and you can make a difference in our products, solutions and our culture. Most of all, you can make a difference in the lives, people, and communities around the world.
+</i><br>
+<br>
+<b><i>Make your career count
+</i></b><br>
+<i>Our commitment to improving the health and wellbeing of others begins with our employees – through a comprehensive and competitive range of benefits. We provide more than just a salary – our Total Rewards package encompasses everything you receive as an employee; your pay, health care benefits, retirement plans and work/life benefits.<br>
+</i></p>
+<p></p>
+<p><i>free onsite gym | onsite cafeteria | 401(k) + 6% match | immediate vesting | benefits on day 1 | uncapped sales commissions | HQ region voted ‘best place to live’ by USA Today</i></p>
+</div></div>

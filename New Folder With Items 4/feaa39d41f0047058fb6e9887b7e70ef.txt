@@ -1,0 +1,121 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>At Regions, the Programmer Analyst formulates/defines specifications for complex operating software programming applications or modifies/maintains complex existing applications using engineering releases and utilities from programs.
+</p>
+<p></p>
+<p><b>Primary Responsibilities
+</b></p>
+<ul>
+<li>Competent to work at the highest technical level
+</li>
+<li>Ability to work within multiple applications
+</li>
+<li>Codes, debugs and analyzes
+</li>
+<li>Competent with multiple languages/tools
+</li>
+<li>Applies comprehensive knowledge of particular field of specialization to the completion of difficult assignments
+</li>
+<li>Plans, conducts and may supervise assignments
+</li>
+<li>Reviews progress and evaluates results
+</li>
+<li>Mentors junior level associates in technical complexities of assigned work
+</li>
+<li>Involved heavily with business segments
+</li>
+<li>Takes independent action, makes decisions and takes on ownership of applications
+</li>
+<li>Responsible for compliance
+</li>
+</ul>
+<p></p>
+<p>This position is exempt from timekeeping requirements under the Fair Labor Standards act and is not eligible for overtime pay.
+</p>
+<p></p>
+<p><b>Requirements
+</b></p>
+<ul>
+<li>Bachelors degree in Computer Science or a related field
+</li>
+<li>Eight years business experience
+</li>
+<li>Experience with large technical environments and offers wide range of technical knowledge
+</li>
+</ul>
+<p></p>
+<p><b>Skills and Competencies
+</b></p>
+<ul>
+<li>Strong verbal and written communications skills, with an ability to express complex technical concepts
+</li>
+<li>Strong analytical, problem-solving and conceptual skills
+</li>
+<li>Good project management skills, operating as part of a team organizing, planning and executing projects
+</li>
+<li>Good troubleshooting skills
+</li>
+<li>Ability to coach, teach and mentor
+</li>
+</ul>
+<p></p>
+<p><b>In the continuous improvement mindset, the Commercial Bank is proposing to develop a tool that will provide machine learning driven insights to the bank’s Relationship Managers that will drive sales and a reduction in charge offs from early warning detection analytics.
+</b></p>
+<p></p>
+<p>Project Overview:
+</p>
+<p></p>
+<ul>
+<li>Develop a web application that provides Regions’ commercial banking associates machine learning based solutions recommendations and attrition / credit distress flags based on client behavior modeling.
+</li>
+<li>The application has three core machine learning model suites:
+<ul>
+<li>Wallet Sizing (Next Best Product to Buy Model)
+</li>
+<li>Attrition Risk Model and Treatment Recommendation Engine
+</li>
+<li>Early Warning Indicator for Credit Distress and Treatment Rec. Engine
+</li>
+</ul>
+</li>
+<li>Regions’ Executive team is proposing to engage the Boston Consulting Group to co-develop the web application and modeling suite.
+</li>
+<li>The tool will help strengthen financial performance by helping bankers (1) avoid losses by identifying clients potentially in financial stress more quickly; (2) improve client retention and (3) identify needs that can be explored for suitability with the client.
+</li>
+<li>Lastly, the tool would support Continuous Improvement by providing better insight to allow bankers to more efficiently identify and react to client needs and issues in a consistent and timely manner throughout the footprint.
+</li>
+</ul>
+<p></p>
+<p>Skill details:
+</p>
+<ul><li>
+<b>Technical Skills:
+</b><ul>
+<li>Language: JavaScript, ReactJS, AngularJS, REST, JSON, SOAP, Java, .NET/C#, HTML, CSS, iOS, Android, Python
+</li>
+<li>Databases: Oracle, SQL Server, MongoDB, NoSQL, InfoSphere, DB2
+</li>
+<li>DevOps: CI/CD, Microservices architecture
+</li>
+</ul>
+</li></ul>
+<p></p>
+<p><b>Additional Locations:
+</b></p>
+<p>Atlanta, GA; Charlotte, NC
+</p>
+<p></p>
+<p><b>Position Type
+</b></p>Full time
+<p></p>
+<h2 class="jobSectionHeader"><b>Location Details
+</b></h2>Riverchase OPS Center
+<p></p>
+<h3 class="jobSectionHeader"><b>Location:
+</b></h3>Hoover, Alabama
+<p></p>
+<p>EEO/AA/Minorities/Females/Disabled/Veterans</p>
+</div>
+</div>

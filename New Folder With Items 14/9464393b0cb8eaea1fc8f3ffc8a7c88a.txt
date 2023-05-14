@@ -1,0 +1,67 @@
+<h2>Senior Penetration Tester</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Senior Penetration Tester</b></p>
+<p><b>
+DESCRIPTION</b></p>
+<p>
+The Senior Penetration Tester will work with Avertium (formerly Sword &amp; Shield) customers to conduct network vulnerability assessments, application security assessments, and penetration testing. Additional job duties include, but are not limited to, performing social engineering campaigns, wireless network assessments, and other miscellaneous offensive security functions. The Senior Penetration Tester will lead and mentor junior members to enhance and develop their technical capabilities along with professional customer service interactions. The position will report to the Director of Security Assessments and will work with staff members to lead in the delivery of security testing services to a diverse clientele. Other responsibilities will include pre-sales scoping and support, client development, and conflict resolution. The successful candidate will be self-disciplined and able to work on individual tasks, sometimes without clear requirements, and must work well in a team environment.</p>
+<p><b>
+EXPERIENCE, EDUCATION, and CERTIFICATIONS</b></p>
+<p>
+The Senior Penetration Tester should have a combination of experience or certifications. Experience should be identified by previous job duties, published work, or public presentations. The requirements for this position are:</p>
+<ul><li> Information Security Fundamentals – 5 years of experience, BS degree (or higher) in a technical discipline, or certifications like GSEC, GCIH, CISSP, or Security+</li></ul>
+<ul><li> Consulting – 4 years of experience</li></ul>
+<ul><li> Penetration Testing – 4 years of recent experience or certifications like CEH, OSCP, GPEN, or GXPN</li></ul>
+<ul><li> Web Application Assessments – 2 years of recent experience or certifications like OSWE or GWAPT</li></ul>
+<ul><li> Wireless Assessments – 2 years of experience or certifications like OSWP or GAWN</li></ul>
+<br>
+<p>
+<b>
+KNOWLEDGE, SKILLS, and ABILITIES</b></p>
+<p>
+The ideal candidate will have expert knowledge, skills, or abilities in most of the following areas:</p>
+<ul><li> Well-known vulnerability assessment and penetration testing methodologies</li></ul>
+<ul><li> Strong understanding of networking and common TCP/IP protocols</li></ul>
+<ul><li> Strong knowledge of Windows system components and networks to include Active Directory concepts</li></ul>
+<ul><li> Knowledge of web application design &amp; implementation concepts to include supporting systems</li></ul>
+<ul><li> Expert knowledge, skills, and abilities in the use of common vulnerability assessment and penetration testing tools such as Metasploit, Nessus, Nmap, Burp Suite, PowerSploit, and Impacket. These are examples and are not a requirements list.</li></ul>
+<ul><li> Expert knowledge of common vulnerabilities, exploits, and attacks used during a penetration test</li></ul>
+<ul><li> Familiar with at least one programing or scripting language such as C, Java, Ruby, Perl, or Python</li></ul>
+<br>
+<p>
+<b>
+DESIRED</b></p>
+<p>
+The Senior Penetration Tester could have any of the desired, but optional, skill sets in the following areas:</p>
+<ul><li> Social Engineering tactics, techniques, and procedures</li></ul>
+<ul><li> Offensive Security Certified Expert (OSCE) certification</li></ul>
+<ul><li> Payment Card Industry knowledge and penetration testing concepts</li></ul>
+<ul><li> Proficient programming capabilities</li></ul>
+<ul><li> Threat modeling, adversary emulation, or long duration Red Team exercises</li></ul>
+<ul><li> Mobile application assessments</li></ul>
+<br>
+<p>
+<b>
+IDEAL PERSONAL CHARACTERISTICS</b></p>
+<p>
+The Senior Penetration Tester should be strong in most of the following personal characteristics:</p>
+<ul><li> Verbal and written communication skills</li></ul>
+<ul><li> Documentation skills</li></ul>
+<ul><li> Interpersonal and conflict resolution skills</li></ul>
+<ul><li> Customer service-oriented capabilities</li></ul>
+<ul><li> Creative problem solving and analytical thinking</li></ul>
+<ul><li> Willing to accept new challenges and learn in new areas</li></ul>
+<ul><li> Flexible and responsive to changing situations; adaptable to changing requirements</li></ul>
+<p>
+ <b>Location:</b> Knoxville, TN 37932</p>
+<p><b>
+Tax Term:</b> Full Time</p>
+<p><b>
+Pay Range:</b> DOE</p>
+<p><b>
+Travel Required:</b> Up to 25%</p>
+<p>
+In addition to a career in the challenging world of computer and network security, Avertium (formerly Sword &amp; Shield Enterprise Security, Inc.) offers competitive salaries, full benefits, participation in 401(k), and opportunities for professional growth and development. We offer the opportunity to work with cutting-edge security technologies in a stimulating work environment.</p>
+<p><i>
+Avertium (formerly Sword &amp; Shield) is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.</i></p>
+</div></div>

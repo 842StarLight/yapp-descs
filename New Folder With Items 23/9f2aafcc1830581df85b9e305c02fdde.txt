@@ -1,0 +1,47 @@
+<h2>Enterprise Service Management Systems (Remedy)-Functional Area Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<h1 class="jobSectionHeader">
+<b>METI is a Professional Services company providing Engineering and Information Technology Support Services to the Federal Government and Commercial Customers, including the FAA, U.S. Navy, U.S. Coast Guard, U.S. Army, U.S. Air Force and the USDA. METI was recognized by Federal Times as one of the Nation’s Top Program Management Support contractors and by Washington Technology as one of the Nation’s Top 25 8(a) Small Businesses. Inc. 500 Magazine recognized METI as one of the fastest growing privately held companies in the nation on more than one occasion.</b><br>
+<b>
+</b>
+</h1>We are seeking a <b>Remedy/IT Service Management, Functional Area Expert FAE</b>, to join our team of highly skilled professionals.<br>
+<h1 class="jobSectionHeader">
+<b>As a </b><b>Remedy/IT Service Management, Functional Area Expert FAE,</b><b> you will provide services in support of the U.S. Army Network Enterprise Technology Command (NETCOM), Assistant Chief of Staff (ACofS), G-5. You will provide engineering, test and evaluation, over-the-shoulder training, integration and sustainment support, configuration management, and life-cycle support of the Army Enterprise Service Management System (ESMS). You will provide subject matter expertise in the Remedy Information Technology Service Management (ITSM) capability including all core modules, which are Service Desk, Change Management, Configuration Management, Release Management, and Asset Management. In support of the ITSM capability, you will provide expertise in the Remedy Service Level Management (SLM), Service Request Management (SRM), Remedy Analytics, and Remedy Knowledge Management (RKM) modules as well as BMC ProactiveNet Performance Management (BPPM) Suite and BMC Remedy Analytics and Dashboards. You will also support the integration of information/data exchange of Army Land War Net (LWN) Network Operations (NetOps) Architecture (LNA) capabilities with the ESMS. This requirement is for the Continental United States (CONUS) and Outside the Continental United States (OCONUS) Secure Internet Protocol Router Network (SIPRNET), Non-secure Internet Protocol Router Network (NIPRNET), and Deployed Forces (DF) environments.</b><br>
+<b>Location:</b><b> United States-Fort Huachuca AZ</b>
+</h1>
+<br>
+<b>Primary Duties:</b>
+<ul>
+<li>Provide system engineering and analysis support the BMC Remedy ITSM, Remedy Analytics, Remedy SLM, Remedy SRM, and Remedy RKM for the Army enterprise including installation, integration, maintenance, and Tier 3 support.</li>
+<li>Evaluate the Remedy ITSM architecture and provide recommended changes in processes, configuration, software, and hardware, as needed.</li>
+<li>Provide engineering support for the development and maintenance of engineering and related technical documentation.</li>
+<li>Provide engineering, test and evaluation, and operational, post deployment and life-cycle support of the Army Enterprise ITSM, Remedy Analytics, Remedy SLM, Remedy SRM, Remedy RKM, BMC ProactiveNet Performance Management (BPPM) Suite and BMC Remedy Analytics and Dashboards as deployed in all theaters.</li>
+<li>Provide technical support, to include performing on-site visits to develop requirements for Government review; on-site installation, engineering validation, and test support, and engineering analysis technical reviews.</li>
+<li>Perform and document technical engineering studies and provide over-the-shoulder training as required.</li>
+<li>Support the implementation and maintenance of the ESMS standard design and configuration at the Data Centers and Data Center Continuity of Operations Plan (COOP) site, Regional Cyber Center (RCC), and installation Network Enterprise Centers (NEC) for integration of an Enterprise-wide standard, ITIL-based, ESMS.</li>
+<li>Provide design and implementation support for migration to the Enterprise system by the TNOSC and NEC sites identified by NETCOM.</li>
+<li>Perform operational engineering tasks in UNIX, Windows, Oracle, SQL, ESMS core modules as well as Remedy SLM, Remedy SRM, Remedy Analytics, and Remedy RKM product installation and integration with other enterprise management tools, including Microsoft Systems Management Server (SMS) and Spectrum Network Management System (NMS).</li>
+<li>Support the system design and implementation of NetOps tools that interface with the ESMS core modules as well as Remedy SLM, Remedy SRM, Remedy Analytics, Remedy RKM NetOps and BMC ProactiveNet Performance Management (BPPM) Suite and BMC Remedy Analytics and Dashboards capabilities.</li>
+<li>Attend meetings in a team environment in order to identify problem areas, review hardware/software requirements, and coordinate milestones.</li>
+<li>Interface with IT management, specialists, and engineers throughout all echelons of the LandWarNet and the Joint NetOps community.</li>
+</ul>
+<b>Qualifications/</b><b>Requirements</b>:
+<ul>
+<li>Current Active Secret Security Clearance and or the ability to obtain one; IT Level II and NACLC in accordance with AR 25-2.</li>
+<li>Bachelors 7-12 years of experience.</li>
+<li>Five years or more of Remedy ITSM Experience.</li>
+<li>IAT Level III certified as specified in DOD 8570.01-M and BBP 05-PR-M-0002 (CISA, GCIH, GCED, CISSP, CASP CE or CCNP Security Certifications).</li>
+<li>Must be able to obtain a Certification in BMC Remedy Administrator or Developer 7.x or greater within 6 months of start date.</li>
+</ul>
+<b>Preferred Education and Experience</b>:
+<ul>
+<li>Have training and expertise in BMC Remedy IT Service Management (ITSM) version 7.x and 8.x BMC 8.x Accredited Administrator, BMC 8. X AtriumCore Administrator, BMC 8.x ITSM Administrator, BMC 9.x BPPM Administrator, BMC 9.x Atrium Discovery and Dependency Administrator, Remedy AR System 7.5 or higher and ITIL 2011 Foundations</li>
+<li>Have a working knowledge and experience in configuring, installing, testing, documenting, and training on ITSM products, with emphasis on the full suite of ITSM.</li>
+<li>Have a working knowledge and understanding of enterprise NetOps tools, procedures, and operational constructs.</li>
+<li>Have a working knowledge of Army or DoD Information Management and Security processes and procedures.</li>
+</ul>
+</div>
+<br>
+METI is an Equal Opportunity Employer: M/F/V/D<br>
+XJ6</div></div>

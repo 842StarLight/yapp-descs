@@ -1,0 +1,56 @@
+<h2>LabVIEW Programmer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div><div><div><div><div><div><div><div><div><div><div><div>
+<p><b>Pro Mach</b> is a leading provider of integrated packaging systems for food, beverage, household goods, pharmaceutical, and other consumer and industrial markets with manufacturing facilities and offices throughout the United States and Canada.</p>
+<p><b>
+Ossid LLC</b>,<b> Powered by Pro Mach</b>, is a recognized leader in the manufacture of automated manufacturing systems including; horizontal thermoform, fill, and seal machinery, automatic weighing and labeling systems, high speed tray sealing, and tray overwrap equipment.</p>
+<p>
+Ossid is searching for top candidates for our Controls Engineer/LabVIEW Programmer position located in Rocky Mount, NC. This opportunity is a highly visible position and is an exciting chance to demonstrate hands-on and inventive engineering capabilities within a multi-discipline engineering team. Ossid supports a complete manufacturing facility including multiple CNC machining centers, computer controlled sheet metal fabrication, and advanced welding stations giving engineering the ability to be involved in every step of the manufacturing process. The position reports to the Product Line Manager.</p>
+<p><b>
+Job Description</b>:</p>
+<p>
+The primary focus of this position is to design, program, troubleshoot, implement and test the electrical control systems for automated packaging machinery.</p>
+<p>
+This includes but is not limited to:</p>
+<ul>
+<li>PLC Programming</li>
+<li>PC Programming (VB, LabView, SQL Server)</li>
+<li>HMI Programming</li>
+<li>Motion Control including Stepper and Servo control (A Must)</li>
+<li>Motor control with VFDs</li>
+<li>Electrical Schematic Design (AutoCad Electrical)</li>
+<li>Panel Layout and Design</li>
+<li>Creation of Bills of Material</li>
+<li>Fieldbus Communications</li>
+<li>Creation of documentation and training materials</li>
+</ul>
+<p>The position will also require travel (up to 25%) to customer locations to oversee installation, provide service, and commissioning of the machines as well as provide in-house and on-site technical training for other employees and customers.</p>
+<p><b>
+IMPORTANT: This job description is to be used as a guide for accomplishing company objectives. The description incorporates most typical duties performed and covers the primary functions and responsibilities of the position. It is recognized that other related duties not specifically mentioned may also be performed. The inclusion of those duties would not alter the overall evaluation of this position.</b></p>
+<p><b>
+Education Requirements: </b>Bachelor of Science degree, Technical School degree, or equivalent proven work experience in control software design and implementation. Packaging machinery control software design experience is a plus.</p>
+<p><b>
+Required Skills: </b>The ideal candidate will possess the following skills:</p>
+<ul>
+<li>Minimum 5 years of automation controls and programming experience</li>
+<li>Proficient in SolidWorks or AutoCAD electrical design software</li>
+<li>LabVIEW Experience</li>
+<li>PLC programming experience preferably Rockwell, Mitsubishi and Omron.</li>
+<li>Working knowledge of machine control &amp; data acquisition systems including I/O hardware, signal conditioning, field devices &amp; sensors</li>
+<li>Ability to work on a cross-functional team including sales, marketing, engineering, and field services</li>
+<li>Knowledge of PC object oriented programming software and architecture.</li>
+<li>Position requires ability to effectively communicate both orally and in written form</li>
+<li>Project management experience is preferred</li>
+</ul>
+<p>If you are a dynamic, successful, driven professional, OSSID is the company that will further your experience and career growth.</p>
+<p>
+We offer a competitive salary and a full benefits package including comprehensive health and a 401(k) program. Please visit our website at www.promachinc.com Relocation is available.</p>
+<p><b>
+BENEFITS:</b></p>
+<p>
+Salary is only a part of a well-developed compensation program. As a Pro Mach employee, you receive more than just a paycheck. Total compensation includes your pay (base salary), very comprehensive medical/dental programs as well as life insurance, a generous paid time off program, a retirement savings plan with a company match and a wellness program. There is no waiting period for benefits – <b>you are eligible on your first day of employment. </b>Relocation assistance is available.</p>
+<p>
+Pro Mach is an Equal Opportunity Employer. Pro Mach complies with all states mandating the use of E-Verify to verify employment eligibility of new hires to work in the United States. Pro Mach is a drug-free workplace.</p>
+</div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div></div>
+</div>

@@ -1,0 +1,95 @@
+<h2>Software Quality Analyst - GPS/GNSS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>As a leading worldwide provider of navigation devices and wearable technology, our focus is on developing, designing and supporting superior products. Our advanced technology promotes performance, safety and ease of use in every market we serve. That makes us an engineering and technology company with a keen focus on recruiting talent in those fields. But the same vertical integration business model that keeps all design and manufacturing processes in-house also gives us the incentive to hire top performers from different backgrounds, including operations, finance and accounting, information technology, sales, marketing and communications.</div>
+<div>
+<br>
+Associates get the royal treatment at Garmin. Regardless if you’re a newbie or a veteran, engineers dream it, design it and use it. Here, you will be surrounded by others who share the same passion about what they do every day. We offer a relaxed team environment (no dress code!) where advancement is found from sharing knowledge, not hiding it! While we promise you a lot of responsibility, you also will have the opportunity to have ownership over projects…oh, and we promise you there will be some fun mixed in there, too!</div>
+<div>
+<br>
+We are looking for a full-time <b>Software Quality Analyst</b> for our headquarters in Kansas City. In this role, you will be responsible for performing GPS/GNSS software quality assurance development and testing activities for Garmin’s products in a team-oriented environment. Other essential functions include:</div>
+<ul>
+<li>
+Develop, maintain, and &amp; review test cases as necessary per test process including feature interaction, stress &amp; performance to improve continuous test coverage</li>
+<li>
+Execute test cases/scripts as identified per test process</li>
+<li>
+Analyze test results and users’ feedback, and communicate with product development teams to assist in problem resolution.</li>
+<li>
+Analyze test results (also comparing one build to another) to create periodic test reports per test process</li>
+<li>
+Analyze defects to add new test cases to improve test coverage</li>
+<li>
+Provide leadership in first level defect analysis</li>
+<li>
+If identified as test coordinator for a product, lead overall test planning and execution for that product</li>
+<li>
+Define new or improved test processes</li>
+<li>
+Provide leadership on mid to large sized projects with responsibilities that include test planning, test activity coordination and reporting test results to development teams.</li>
+<li>
+Perform job functions independently with minimal direction from supervisor</li>
+<li>
+Gain understanding and apply detailed knowledge of Garmin processes and procedures</li>
+<li>
+Train and mentor new team members</li>
+</ul>
+</div>
+<p></p>
+<br>
+<div>
+<b>
+Qualifications</b><div>
+</div>
+<div>
+Qualified candidates possess an Associate’s degree from a two-year college or technical school or a minimum of 4 years experience performing a role substantially similar to the essential functions of this job description. Other requirements include:</div>
+<ul>
+<li>
+Must possess relevant experience creating test plans, conducting usability tests, and/or writing test scripts</li>
+<li>
+Scripting experience in Python, Shell, or Bash<br>
+</li>
+<li>Experience and/or training in software quality assurance processes and methodologies relevant to Garmin’s business needs for this role</li>
+<li>
+Demonstrated strong and effective verbal, written, and interpersonal communication skills</li>
+<li>
+Superior organizational and analytical skills with keen attention to detail and quality</li>
+<li>
+Must be detail-oriented and have the ability to work proactively and effectively with minimal supervision while exercising sound judgment</li>
+<li>
+Ability to prioritize and multi-task in a flexible, fast paced and challenging environment</li>
+<li>
+Must possess a minimum of 2 years experience as a Garmin International Software Quality Specialist or 4+ years experience performing a role substantially similar to the essential functions of this job description</li>
+<li>
+Superior academics (cumulative GPA greater than or equal to 3.5 as a general rule)</li>
+</ul>
+<div>
+Bachelor’s degree from a four-year college or university, Superior academics (cumulative GPA greater than or equal to 3.5), and previous experience working in a team environment are highly preferred.<br>
+</div>
+<div>
+Our benefits are designed to lead an evolving marketplace, support innovation and encourage a healthy balance between work and life. They allow our associates to make their own decisions about their well-being and future and consistently rank Garmin as a top tier benefits provider when compared to other high-tech employers. We offer a choice of high value medical, dental and vision plans with low or no premiums, to fit your and your family’s preferences. In addition, Garmin’s financial benefits include a generous 401K retirement plan that provides 5% of pay base contribution plus a match of 75 cents for every dollar you contribute to a maximum of 10% of your compensation. The employee stock purchase plan allows for shares to be bought at a 15% discount. Garmin offers many other benefits and perks ranging from wellbeing initiatives, educational assistance and career development, community charity support, and employee discounts just to name a few.<br>
+</div>
+<div><i>
+Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran’s status, age or disability.</i></div>
+</div>
+<p></p>
+<div>
+<b>
+Job</b> Engineering</div>
+<div>
+<b>
+Primary Location</b>US-KS-Olathe</div>
+<div>
+<b>
+Organization</b> Consumer Engineering</div>
+<div>
+<b>
+Schedule</b> Full-time</div>
+<div>
+<b>
+Job Class</b> Exempt</div>
+</div>
+<p></p>
+</div>

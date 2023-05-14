@@ -1,0 +1,52 @@
+<h2>Staff Product Engr</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div>
+<div><div>
+<div>Participate in all aspects of new product introduction (NPI) and development from planning to production ramp for IOT products.
+</div>
+<div>Good knowledge and experience of RF test program and ATE hardware maintenance; qual hardware design and burn_in patterns debugging; product characterization; qualification; yield improvement; FA/RMA activities; safe launch for production ramp.
+</div>
+<div>Full ownership of product characterization deliverables from design phase to production including post-silicon debug and ATE characterization of IOT products.</div>
+<div>Work with Design and Test engineers on correlation of ATE and system bench environments</div>
+</div></div>
+<div>
+<div>
+<b>
+Skills</b>
+</div>
+<div>
+<div>Interact with appropriate functional teams (design, technology, manufacturing, assembly, quality, reliability, marketing, sales, etc.) to execute NPI goals.</div>
+<div>Some customer interface may be required.</div>
+<div>Good understanding of semiconductor technology and wireless product operation.</div>
+<div>Solid understanding of the ASIC design and experience on RF devices</div>
+<div>Working knowledge of fab process and technologies</div>
+<div>Solid understanding of the effect of fab process parameters on device performance and yield.</div>
+<div>Strong understanding of common failure modes / mechanism and screening techniques. FA experience is highly desired.</div>
+<div>Strong problem solving techniques and debugging skills</div>
+<div>Advanced statistical data analysis skill; proficient with statistical analysis tools and concepts</div>
+<div>Automatic Test Equipment (ATE) experience, Teradyne uFLEX, and Advantest 93K preferred</div>
+<div>Software skills: script writing (perl); excel macros and visual basic; C (C+) desired</div>
+<div>Experience using evaluation boards (EVB) and software tools is preferred.</div>
+<div>Good written and verbal communication skills</div>
+<div>Ability to work independently or with a team to solve problems</div>
+<div>BS or MS in Electrical or Computer Engineering with 5+ years direct experience in semiconductor industry</div>
+</div>
+</div>
+<div>
+<div>
+<b>
+Note</b>
+</div>
+<div>
+<p>Cypress is an Equal Employment Opportunity employer and does not discriminate in recruiting, hiring, training or promoting, on the basis of race, ethnicity, color, creed, religion, sex, sexual orientation, gender, gender identity, genetic information, national origin, physical or mental disability, pregnancy, medical condition, U.S. military or protected veteran status, union membership, or political affiliation.<br>
+</p>
+<br>
+<br>
+<p>TO ALL RECRUITMENT AGENCIES:<br>
+<br>
+Cypress Semiconductor does not accept unsolicited agency resumes. Please do not forward resumes to our jobs alias, Cypress Semiconductors employees or any other company location. Cypress Semiconductor is not responsible for any fees related to unsolicited resumes.</p>
+</div>
+</div>
+</div></div>
+</div>

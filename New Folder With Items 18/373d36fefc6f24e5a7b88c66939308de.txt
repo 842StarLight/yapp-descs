@@ -1,0 +1,59 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Location:</b> Seattle, Washington
+<br><br>
+ABOUT US
+<br><br>
+Xnor.ai brings state-of-the-art artificial intelligence to the edge. Xnor's platform allows companies to run complex deep learning algorithms, formerly restricted to the cloud, locally on a range of devices including mobile phones, drones, and wearables. This new, highly scalable approach ensures complete privacy of data, eliminates the need for connectivity, and significantly reduces memory load and power demands, all without compromising accuracy or performance. Xnor is a venture-funded startup, founded on award-winning research conducted at the University of Washington and the Allen Institute for Artificial Intelligence. Xnor's industry-leading technology is used by global corporations in aerospace, automotive, retail and supply chain, photography, and consumer electronics.
+<br><br>
+THE ROLE
+<br><br>
+Xnor is seeking a Product Manager to turn more of our incredible technology into scalable products that can be easily deployed in high-value use-cases for our customers and partners. If you are collaborative, a self starter, and want to be part of the AI revolution, this is the opportunity for you. Xnor has traction in many problem spaces, applications, and markets, including: consumer, retail, and industrial. We're seeking an experienced Product Manager with a proven background in technologies related to IoT, Edge computing, or machine learning. Ideally, you have a bachelor's in electrical engineering or computer science, experience in a customer-facing role, and depth in industries of interest to Xnor. You will be responsible for the entire product lifecycle from conception through launch, channel development, and scale-up. You will also work closely with Engineering, Marketing, and Sales.
+<br><br>
+Responsibilities
+<br><br>
+<ul>
+<li>Develop insight into customer challenges</li>
+<li>Collaborate with Engineering and company leadership to turn those insights into products that leverage Xnor's strengths to delight customers, and drive business growth</li>
+<li>Write requirements documents, craft business plans, develop competitive strategies, and recommend pricing and business models</li>
+<li>Uncover potential markets and customers while adding value to existing sales activities and customer projects</li>
+<li>Translate complex product features into easily understood and impactful customer messaging</li>
+<li>Assist in development of marketing collateral and strategies for market outreach</li>
+<li>Develop and nurture networks with key industry leaders</li>
+<li>Travel for customer meetings and trade-shows</li>
+</ul>
+Minimum Qualifications
+<br><br>
+<ul>
+<li>Experience with full product lifecycle (concept to shipment)</li>
+<li>Shown ability to understand customer challenges and translate them into successful products</li>
+<li>Broad fluency in information technology software and hardware (IoT and/or data center/cloud)</li>
+<li>Understanding of project management concepts</li>
+<li>5+ years technology product management experience</li>
+<li>Bachelor's degree or higher in electrical engineering or computer science</li>
+</ul>
+Preferred Qualifications
+<br><br>
+<ul>
+<li>Prior experience in consumer, retail, or industrial automation industries</li>
+<li>Familiarity with machine learning or data science technologies</li>
+<li>Exposure to computer vision applications (traditional and/or deep learning)</li>
+<li>Experience with IoT or combined hardware/software products</li>
+</ul>
+Benefits and Perks
+<br><br>
+<ul>
+<li>Competitive salary and stock option packages</li>
+<li>Comprehensive health care plan</li>
+<li>401K</li>
+<li>Unlimited PTO</li>
+<li>Gym membership</li>
+<li>Conference travel</li>
+<li>Culture of learning</li>
+<li>Healthy lunch and snacks</li>
+<li>Regular team activities</li>
+<li>Standing Desks</li>
+<li>Waterfront views</li>
+<li>Support for obtaining a visa through its immigration attorney, and pays the necessary expenses</li>
+</ul>
+Xnor.ai is proud to be an Equal Opportunity Employer</div>

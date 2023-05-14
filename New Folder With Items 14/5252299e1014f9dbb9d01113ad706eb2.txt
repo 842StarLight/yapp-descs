@@ -1,0 +1,63 @@
+<h2>Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Software Developer - Multi-product environment</p>
+<p>Innovate. Grow. Bloom.<br>The healthcare insurance industry is growing faster than any other insurance sector in the United States. If you’re looking for a tech career with a growing company where you can make a difference, earn a great salary, and be recognized for your forward thinking, then you’ve found it at Bloom.</p>
+<p>Who Is Bloom?<br>We are the Insurance Industry's Trusted Growth Partner. We are industry visionaries. We’re solving problems and advancing the healthcare insurance business through innovative technology. We are committed to ensuring our state-of-the-art software products and services provide greater efficiency and cost savings to clients. This is what we do at Bloom and you can be part of it.</p>
+<p>Our Technology<br>We provide advanced sales and enrollment automation software to the insurance industry through our Ascend™ technology platform. Bloom’s Ascend™ technology platform focuses on sales automation efficiencies and optimizing the member experience from the first moment a prospect considers a health plan membership.</p>
+<p>Our Culture<br>We pride ourselves on being an awesome place to work. Our office environment is fun and casual, we want our team to enjoy the space in which they work. You’ll get to know your fellow employees at our fun events and team lunches. Our community engagement events offer opportunities to give back to the community through volunteering and other activities.</p>
+<p>What’s in it for you:</p>
+<p>· Competitive compensation</p>
+<p>· FT office hours</p>
+<p>· Paid vacation and holidays</p>
+<p>· Comprehensive health benefits package</p>
+<p>· Long-term career growth &amp; mentoring</p>
+<p>Your role:<br>As a Software Developer, you will have the opportunity to work in a multi-product environment in both individual &amp; team settings. You will develop new software and support existing in-house made software.</p>
+<p>Education/Experience:</p>
+<p>· B.S. in computer science or related or equivalent</p>
+<p>· 3-5 years professional experience or equivalent</p>
+<p>Responsibilities:</p>
+<ul><li>Develop and support customized .NET applications</li></ul>
+<ul><li>Develop and support customized mobile applications using Xamarin Studio and/or Visual Studio</li></ul>
+<ul><li>Discovery on new projects, followed by specification development</li></ul>
+<ul><li>Stay current with new technologies and programming techniques</li></ul>
+<ul><li>Keep team members and management apprised on project progress</li></ul>
+<ul><li>Work with project managers to set and meet client expectations</li></ul>
+<ul><li>Troubleshoot technical issues</li></ul>
+<ul><li>Work with SQL Developers to create necessary database objects in a .NET environment</li></ul>
+<ul><li>Develop and maintain functional, and automated unit tests for in-house developed software solutions</li></ul>
+<ul><li>Testing of products in controlled environments prior to going live</li></ul>
+<ul><li>Participate in code reviews</li></ul>
+<ul><li>Communicate all aspects of projects in a clear, concise manner</li></ul>
+<ul><li>Explain technical solutions to non-technical stakeholders</li></ul>
+<ul><li>Tier 3 Ascend Help desk support</li></ul>
+<ul><li>Software requirement specifications for the development of new applications</li></ul>
+<ul><li>Working with reporting tools</li></ul>
+<ul><li>Work with project managers to develop documentation of new features for end users</li></ul>
+<p>Technical Background</p>
+<p>The ideal candidate will have comfort and proficiency with the majority of the following:</p>
+<ul><li>Demonstrated experience writing complex business apps in .NET with SQL Server back-end</li></ul>
+<ul><li>Thorough understanding of Object Oriented Programming (OOP) concepts and practice</li></ul>
+<ul><li>Thorough understanding of Web development concepts and practice</li></ul>
+<ul><li>Experience working with Visual Studio</li></ul>
+<ul><li>Experience with most of the following technologies</li></ul>
+<p>o ASP.NET</p>
+<p>o C#</p>
+<p>o MVC</p>
+<p>o Web API</p>
+<p>o HTML</p>
+<p>o JavaScript</p>
+<p>o Jquery</p>
+<p>o CSS</p>
+<p>o REST based web services</p>
+<p>o XML &amp; JSON</p>
+<p>o Source Control Management (Git, Mercurial, TFS, Subversion)</p>
+<ul><li>Experience using performance tuning tools and techniques for web applications</li></ul>
+<ul><li>Experience in systems integration, business analysis, and project management is also a plus</li></ul>
+<ul><li>Experience with Xamarin a plus</li></ul>
+<ul><li>Experience in cross platform mobile development a plus</li></ul>
+<ul><li>Clear, concise communication skills, attention to details, analytical thinking</li></ul>
+<p>We have an opening with an immediate start date, so we invite you to apply NOW!</p>
+<p>Applicants must be authorized to work in the U.S.</p>
+<p>Bloom is an equal opportunity employer and does not discriminate against any employee or applicant for employment based on race, color, religion, national origin, age, gender, sex, ancestry, citizenship status, mental or physical disability, genetic information, sexual orientation, veteran status, or military status.</p>
+<p>Job Type: Full-time</p>
+</div>

@@ -1,0 +1,108 @@
+<h2>IT Coordinator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview</b></h2>
+<p>Sealevel Systems, Inc is a mature communications hardware manufacturer, providing serial and digital communications solutions across a wide array of computing platforms to customers since 1986. The company is seeking a IT professional to coordinate IT maintenance with its outside IT maintenance organization and to handle internal IT-related tasks. Visit www.sealevel.com for more insight into the company.</p>
+<p><b>
+Reporting Relationship</b><br>
+The position will report to the Vice President of Engineering.</p>
+<p><b>
+Compensation</b><br>
+The objective of the compensation structure is to attract an individual who is detailed oriented and is interested in a challenging opportunity with a growing company.</p>
+<ul>
+<li>Base Salary – Commensurate with experience and earnings history</li>
+</ul>
+<p><b>Competencies</b><br>
+The person we are seeking will:</p>
+<ul>
+<li>Be organized and detail oriented</li>
+<li>Be comfortable and able to operate in a rapidly growing environment</li>
+<li>Be able to react to changes and handle requests from different sources (multi-task)</li>
+<li>Excellent written and oral communication skills</li>
+<li>Proven ability to work effectively both independently and as part of a team</li>
+</ul>
+<p><b>Style</b><br>
+The Ideal Candidate will:</p>
+<ul>
+<li>Have the flexibility to adapt to business conditions to achieve corporate goals and meet customer demand</li>
+<li>Possess the ability to interact with other departments within organization, to ensure that internal customer demands are met</li>
+<li>Be able to take a high level goal and break it down into measurable results</li>
+<li>Be driven and results oriented with a positive outlook</li>
+<li>Have strong problem-solving skills</li>
+<li>Interest in collaborative environments and software development methodology and process</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Objectives &amp; Responsibilities</b></h2>
+<p>The IT Coordinator is responsible for installing and maintaining computer hardware, software, and networks and also cooperating with outside IT vendors for any upgrades and major support that is needed. He/she is also responsible for the management of company data in Microsoft SharePoint. The IT Coordinator is expected to keep up to date on the latest in corporate software and hardware to help the company maintain the advantage provided by the effective use of technology.</p>
+<p>
+The following are responsibilities that will be required of the IT Coordinator on a day to day basis at the company.</p>
+<ul>
+<li>Provide technical support for computer systems at Sealevel Systems</li>
+<li>Maintain and provide technical support for Sealevel Cloud Infrastructure</li>
+<li>Be an active member of the Sealevel Cloud computing team</li>
+<li>Help with the installation and integration of new and upgraded software assets</li>
+<li>Maintain and service company equipment (i.e. UPSs, Servers, Desktop PCs, etc.)</li>
+<li>Train users when necessary on computer systems, software or hardware</li>
+<li>Continually improve the efficiency of company software systems</li>
+<li>Design and code applications with Visual Studio for the improvement of company processes and the increased efficiency of company product production</li>
+<li>Recommend new purchased solutions as required</li>
+<li>Document the inventory and layouts of the current IT system and continually improve it</li>
+<li>Maintain documentation of network layout</li>
+<li>Maintain important user manuals and IT documentation</li>
+<li>Maintain and support the company’s SharePoint site and assist users with any issues</li>
+<li>Provide technical support for the company’s accounting/ERP system</li>
+<li>Create any reports that are required for accurate data reporting</li>
+<li>Maintain user permissions and data</li>
+<li>Maintain and update company’s customer and sales data in Salesforce</li>
+<li>Liaison with outside IT vendors for hardware and software upgrades and major support</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Previous Experience</b></h2>
+<p>The ideal candidate will possess the following skills:</p>
+<ul>
+<li>U.S. Citizen or U.S. Permanent Resident, legally authorized to work in the US</li>
+<li>Experienced programming with C#, HTML, JAVA, and SQL</li>
+<li>Experience with Docker, Kubernetes, Azure, and AWS</li>
+<li>Bachelor’s degree in Information Technology or related degree</li>
+<li>Ability to work independently</li>
+<li>Understand the basics of Windows and Linux operating system administration</li>
+<li>Proficient in the use of Microsoft SharePoint collaboration software</li>
+<li>Have good written and oral communication skills</li>
+<li>Proficient in researching and evaluating company IT solutions</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Benefits</b></h2>
+<p>Sealevel offers an array of employee benefits to address our employees’ health and wellness needs, long-term savings goals, and much more.</p>
+<div><div>
+<div>
+<h3 class="jobSectionHeader"><b>Health and Well Being</b></h3>
+<ul>
+<li>Medical</li>
+<li>Dental</li>
+<li>Vision</li>
+<li>Long-Term Disability</li>
+</ul>
+</div>
+<div>
+<h3 class="jobSectionHeader"><b>Financial Security</b></h3>
+<ul>
+<li>Matched 401k</li>
+<li>Flex Spending</li>
+<li>Credit Union Membership</li>
+</ul>
+</div>
+<div>
+<h3 class="jobSectionHeader"><b>Work-life Balance</b></h3>
+<ul>
+<li>3 Weeks PTO to Start</li>
+<li>10 Holidays (Including your birthday!)</li>
+<li>Corporate Sponsored Events</li>
+</ul>
+</div>
+</div></div>
+<p></p>
+<p>Sealevel Systems is conveniently located in Liberty, SC, a short drive from Greenville and Clemson. Our 45,000 square foot facility sits on almost twenty acres of land. The Company offers a comprehensive benefits package, competitive salary, and is an Equal Opportunity/Affirmative Action Employer. Interested candidates should forward a resume with cover letter to:</p>
+<p>
+Sealevel Systems, Inc<br>
+Attn: Human Resources<br>
+PO Box 830<br>
+Liberty, SC 29657<br>
+Fax: (864) 843-3067<br>
+E-mail: hr@sealevel.com</p>
+</div></div>

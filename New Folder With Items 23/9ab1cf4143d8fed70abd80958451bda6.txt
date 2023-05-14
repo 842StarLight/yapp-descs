@@ -1,0 +1,56 @@
+<h2>Electronic Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div>
+<p>Responsible for providing Electronic Engineering design and troubleshooting for new products and support for existing products to ensure operational goals, for the product and/or manufacturing, are achieved through continuous improvement of product design, equipment, materials, processes and manufacturing practices.</p>
+<h3 class="jobSectionHeader"><b>ESSENTIAL FUNCTIONS / JOB DUTIES:
+</b></h3>
+<p><br>
+This position is divided into the following areas of functional responsibility with percentages assigned indicating the amount of time spent on each activity, which could include the following:<br>
+40% Design, evaluation, validation, and documentation of new electronic product designs, including circuit design, PCB fabrication, Circuit simulation, etc. Participate in the evaluation and specification of electronic components and suppliers. Interface with other Engineering disciplines, Sales, and Purchasing to facilitate concurrent design and customer-driven requirements.<br>
+<br>
+30% Write software to integrate the hardware interface to stepper motor motion.<br>
+<br>
+15% Perform and assist remote and on-site troubleshooting of existing products. Provide support for manufacturing and troubleshooting of current and future products.<br>
+<br>
+15% Generate and maintain manufacturing test tools for existing production. Including documentation for electronic assemblies, PCB data, BOMs, manufacturing procedures, etc.<br>
+</p>
+<h3 class="jobSectionHeader"><b>SUPPORTIVE FUNCTIONS:
+</b></h3>
+<p><br>
+In addition to performance of the essential functions, this position may be required to perform a combination of the following supportive functions, with the percentage of time performing each function to be solely determined by the supervisor based upon department necessity. • Prepare, input and maintain specific data, in written or digital format. • Prepare internal and external written correspondence.</p>
+<h3 class="jobSectionHeader"><b>SPECIFIC JOB KNOWLEDGE, SKILL AND ABILITY:
+</b></h3>
+<p><br>
+Must possess and demonstrate the following combination of knowledge, skill and ability to perform the essential functions of this position, with or without reasonable accommodation (or provide an alternative set). • Must be familiar with state-of-the-art Electronic Engineering methodologies as they pertain to design and manufacturing of electronic assemblies. • Must have strong organizational and time-management skills in order to prioritize and complete multiple competing tasks simultaneously. • Ability to effectively communicate with coworkers, customers, and other departmental personnel in a professional and positive manner. • Familiar with Schematic Capture and PCB Layout tools, processes, and requirements to accurately input, manipulate and access information. • Technical writing skills to include the preparation of Engineering test protocols, Engineering test reports, and manufacturing Standard Operating Procedures. • Familiar with Engineering documentation processes. • Requires strong ability to work with others in the department to share specific knowledge of products, processes, and/or procedures in order to resolve cross-functional performance issues. • Prepare and conduct technical meetings/presentations. • Knowledgeable and trained in ISO 9001:2000 and ISO 14001. • Ability to effectively use MS Office, Word, Excel, PowerPoint, C, C++, Python, LabView, (or their equivalent). • Ability to persuade others in acceptance of desired changes, improvements.</p>
+<h3 class="jobSectionHeader"><b>QUALIFICATION STANDARDS:
+</b></h3>
+<p><b>Education: </b>Any combination of education and training, equivalent to graduation from an accredited college/university with a BS or MS degree in Electronic or electrical Engineering, that would provide the required knowledge, skill and ability to perform the job.<br>
+<br>
+ <b>Experience:</b> Minimum of 48-months in related Electronic Engineering experience, with additional 24-months specific experience in precision electronic controls used in semiconductor industry preferred. Receives appropriate direction or supervision on assignments from higher-level Engineers, and/or appropriate interdepartmental personnel. Exercises high-level of independent, discretionary judgment on a regular basis.<br>
+<br>
+<b>Familiar with some or all of the following:</b>
+</p>
+<ul>
+<li>Embedded systems firmware/software</li>
+<li>C, C++, assembly</li>
+<li>LabVIEW</li>
+<li>DSP Motor Control</li>
+<li>EtherCAT, Ethernet(TCP/IP), DeviceNet, Modbus</li>
+<li>SPI, I2C, RS232, RS485, CAN, SCI, UART interfaces</li>
+<li>TI DSP products</li>
+<li>Motor controls of various types</li>
+<li>DSP Bios</li>
+<li>TI Code Composer Studio, Eclipse</li>
+<li>8051, PIC</li>
+<li>Printed circuit board schematics</li>
+<li>Voltmeters, Oscilloscopes, Logic Analyzers.</li>
+</ul>
+<br>
+<b>Safety: </b>90% inside, climate / noise controlled office, and 10% manufacturing environment; lifting to 75 lbs on occasion. Eye and hearing protection may be required, and other protective clothing required by customers.<br>
+<br>
+<b>Travel: </b>Position may require travel and overnight stay on workdays and weekends.<br>
+<br>
+Nor-Cal Products is an Equal Opportunity and Affirmative Action Employer. We provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, pregnancy and related medical conditions, gender identity and expression, sexual orientation, national origin, ancestry, citizenship status, marital status, age, protected medical condition, uniform service member and veteran status, disability, genetic information, or any other protected status in accordance with all applicable federal, state, and local laws. Offers of employment are contingent upon applicants' ability to perform essential functions of employment; Successful results of pre-employment drug testing, plus acceptable background and reference checks.</div></div>
+<p></p>
+</div>

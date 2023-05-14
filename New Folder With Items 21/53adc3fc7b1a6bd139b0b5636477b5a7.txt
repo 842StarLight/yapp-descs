@@ -1,0 +1,91 @@
+<h2>Data Team Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div><div>
+<div>
+<div>We’re adding to our diverse team of experts and are looking to hire those who are committed to building a culture that enables the creation of innovative solutions for our business units and clients.<br>
+<br>
+<b>The Insurance Operations</b><br>
+Munich Re US is launching new insurance operations described as Munich Re Specialty Insurance(MRSI) that will unite the strengths and expertise of Munich Re’s specialty commercial teams in North America under a new management structure. This will allow for the development of an overarching sales strategy through which the specialty risk appetite and product offerings can be profitably optimized and expanded.<br>
+<br>
+As a member of Munich Re's US operations, we offer the financial strength and stability that comes with being part of the world's preeminent insurance and reinsurance brand. Our risk experts work together to assemble the right mix of products and services to help our clients stay competitive – from traditional reinsurance coverages, to niche and specialty reinsurance and insurance products.<br>
+<br>
+<b>The Opportunity</b><br>
+<i>Future focused and always one step ahead</i><br>
+<br>
+This Data Team Lead will lead a team of data architects, engineers, BI developers and other analysts in designing, developing and maintaining an efficient flow of information for data driven decision making within the business and analytic teams at Munich Re Specialty Insurance. This role reports to the Head of Data &amp; Analytics and maintains a critical partnership to understand the business objectives and engineer efficiencies into the day to day business processes. A successful individual will have very strong data engineering and architecture experience and spend a considerable amount of time rolling their sleeves to engineer outcomes with their team.<br>
+<br>
+In this position you will:<br>
+<ul>
+<li>
+Develop and manage a team of data engineering and architecture experts to continuously improve our existing data landscape to drive better data driven decisions within the business.</li>
+<li>
+This role will also act as the data engineering lead and personally design and develop the data pipelines, lakes, operational data stores, warehouses and other required BI applications for driving the efficient flow of information across the business.</li>
+<li>
+Work closely with business architecture, IT and analytic teams to own and implement an end to end data strategy from data ingest to output into business tools.</li>
+<li>
+Define the required infrastructure and resourcing demands to put in place a modern data landscape and successfully implement the data strategy. Work closely with delivery lead to ensure project work is scoped, resourced and delivered on-time and budget.</li>
+<li>
+Build on existing data governance framework to ensure significant business ownership over data assets and decision making.</li>
+<li>
+Accountable for all reporting and BI tools including statistical and regulatory reporting. Develop and lead the implementation of an automated reporting strategy and process.</li>
+<li>
+Design and maintain data assurance and validation process to maximize the accuracy and usefulness of the information used within the business.</li>
+<li>
+Maintain a close working relationship with other group data teams within Munich RE to understand existing data tools and resources available for use within MRSI.</li>
+</ul>
+<br>
+</div>
+</div>
+<div>
+<p><b>Qualifications</b></p>
+<div>Successful candidates will be possess the following skills/capabilities:<br>
+<ul>
+<li>
+7+ years of experience in insurance and/or reinsurance preferably commercial specialty.</li>
+<li>
+Experience leading a team of data engineers, architects and analysts.</li>
+<li>
+Strong data engineering background and expert level experience in data modelling, data intake and data curation procedures as well as outstanding SQL skills, incl. advanced concepts such as distributed and spatial queries.</li>
+<li>
+Hands on experience in SQL, Python, Hadoop, C# and other web development application</li>
+<li>
+Strong experience developing on web based business intelligence tools including Cognos, PowerBI and Tableau.</li>
+<li>
+Proven experience in software development and code promotion procedures.</li>
+<li>
+Experience developing data driven rating applications for informed underwriting.</li>
+<li>
+Knowledgeable with agile development methodologies and tools (i.e. Jira, AzureDevOps)</li>
+<li>
+Data governance design and implementation experience a plus.</li>
+<li>
+Knowledge of continuous integration and DevOps a plus.</li>
+<li>
+Technical savviness and a willingness to experiment with and learn new technologies</li>
+<li>
+Strong communication skills with an ability to explain complex details and methodologies to both technical and non-technical audiences</li>
+<li>
+Ability to introduce and drive innovative ideas and processes within established environments</li>
+<li>
+Bachelor’s degree required</li>
+</ul>
+</div>
+</div>
+<div>
+<p><b>Company Name</b></p>
+<div>Munich Re America
+</div>
+</div>
+<div>
+<p><b>Requisition Number</b></p>
+<div>3204BR</div>
+</div>
+<div>
+<p><b>Country</b></p>
+<div>United States of America
+</div>
+</div>
+<div>
+<p><b>Employment Type</b></p>
+<div>Full Time</div>
+</div>
+</div></div></div></div>

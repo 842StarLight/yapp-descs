@@ -1,0 +1,136 @@
+<h2>Senior Oracle Applications Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>Founded in 1866, The Sherwin-Williams Company is a global leader in the manufacture, development, distribution, and sale of paints, coatings and related products to professional, industrial, commercial, and retail customers. The company manufactures products under well-known brands such as Sherwin-Williams®, Valspar®, HGTV HOME® by Sherwin-Williams, Dutch Boy®, Krylon®, Minwax®, Thompson’s® Water Seal®, Cabot® and many more. Sherwin-Williams® branded products are sold exclusively through a chain of more than 4,100 company-operated stores and facilities, while the company’s other brands are sold through leading mass merchandisers, home centers, independent paint dealers, hardware stores, automotive retailers, and industrial distributors. The company supplies a broad range of highly-engineered industrial and OEM coatings for wood and general industrial, coil, packaging, protective and marine, and transportation applications worldwide. Our 60,000 employees are diverse, innovative and passionate. With a variety of rewarding and challenging opportunities, Sherwin-Williams is a great place to find a career that takes you places.</div>
+<div></div>
+<br>
+<div>
+The Senior Oracle Applications Developer’s role is to partner with customers, functional business analysts and other team members in driving appropriate design and implementation of technical solutions to meet desired business requirements. Design, develop, test, analyze, and maintain the Oracle E-Business Suite Applications within the application in support of the business function. The developer will also research, design, document, and modify software specifications throughout the production life cycle in accordance with the business goals and organizational architectural standards.</div>
+<br>
+<div></div>
+<br>
+<div><b>Essential Functions<br>
+</b></div>
+<div></div>
+<div><b>Strategy &amp; Planning</b></div>
+<ul>
+<li>Collaborate with business analysts, business users and other developers in conceptualization and development of new technical objects within the Oracle applications environment.</li>
+<li>
+Analyze and assess existing procedures to allow the application to respond to business changes.</li>
+<li>
+Evaluate requirements from functional specifications and create efficient technical designs.</li>
+<li>
+Analyze and plan Oracle release upgrades.</li>
+</ul>
+<div><b>Acquisition &amp; Deployment</b></div>
+<ul>
+<li>Develop complex technical objects in accordance with the technical development standards and best practices.</li>
+<li>
+Mitigate significant risks associated with projects, which have a high technical complexity and/or involve significant challenges to the business.</li>
+<li>
+Create and resolve Service Requests in collaboration with Oracle Support.</li>
+<li>
+Provide generalized production technical support.</li>
+<li>
+Gather business requirements and recommend industry best practices and work with functional knowledge holders.</li>
+</ul>
+<div><b>Operational Management</b></div>
+<ul>
+<li>Design, develop, deploy, test and maintain technical objects that exist in Oracle applications production environment, e.g., reports, interfaces, conversions and custom applications extensions.</li>
+<li>
+Create process flows, high level functional and detailed technical design specifications from business requirements.</li>
+<li>
+Provide customer support for business critical application problems and issues.</li>
+<li>
+Assist with testing and deployment of Release Update Pack and other module upgrades to keep application release level current.</li>
+<li>
+Proactively work through service requests with vendor support as needed.</li>
+<li>
+Coordinate work efforts with the DBA and middleware teams for application change controls and system performance issues.</li>
+<li>
+Provide support to System Administrators relating to custom responsibilities, security profiles, menus, and user account provisioning.</li>
+<li>
+Partner with business analysts and application super users to successfully complete projects.</li>
+</ul>
+<div><b>Incidental Functions</b></div>
+<ul>
+<li>Assist with large scale projects may be required to contribute to efficiency, effectiveness and success of the work.</li>
+<li>
+Conduct research into new technologies, including tools, components, and frameworks.</li>
+<li>
+Make presentations to management, clients, and peer groups as requested.</li>
+<li>
+Train and share knowledge with development teams.</li>
+<li>
+Participate in hiring activities and fulfilling affirmative action obligations and ensuring compliance with the equal employment opportunity policy.</li>
+<li>
+Up to 25% travel as required (domestic and international).</li>
+<li>
+Work outside the standard office 7.5 hour work day as required.</li>
+</ul>
+<div><b>Position Requirements
+</b></div>
+<div></div>
+<div><b>Formal Education &amp; Certification</b></div>
+<ul><li>Bachelor degree or foreign equivalent in related field or equivalent experience.</li></ul>
+<div></div>
+<b>Knowledge &amp; Experience</b><br>
+<ul>
+<li>5+ years IT experience.</li>
+<li>5+ years progressively responsible ERP application implementation and support experience.</li>
+<li>Strong knowledge of Oracle EBS 12.1/ 12.2 releases to ensure effective and optimal solution design, deployment and support of Oracle solutions.</li>
+<li>3+ years of experience in Oracle SQL, PL/SQL, Oracle Application Framework (OAF), Oracle Reports/Oracle BI Publisher( or Other equivalent)</li>
+<li>2+ years experience in developing custom ADF applications using Oracle JDeveloper with JSF/ADF, Java/JSP technologies.</li>
+<li>Proven experience in 2 or more ERP modules including those in the Quote to Cash, Demand to Build, Procure to Pay, or Warehouse Management.</li>
+<li>Knowledge and familiarity with the 2 or more of the following tools: Linux/Unix Shell Scripting, Oracle Workflow Builder, Oracle Approvals Management (AME), Oracle BI Publisher, Oracle Forms (or other equivalent), Oracle Alerts, Java.</li>
+</ul>
+<br>
+<b>
+Preferred Qualifications and Skills</b><br>
+<ul>
+<li>Strong Knowledge on REST/SOAP API(s), XML/JSON, XSD, XSLT, XPath technologies. Experience on Oracle SOA suite, Oracle Integration Cloud (OIC) is a plus.</li>
+<li>Experience with ETL/ELT development with Oracle Data Integrator (ODI) or other tools is preferred.</li>
+<li>1+ years of Oracle Cloud experience is preferred.</li>
+<li>Experience in Java development.</li>
+<li>Experience in Enterprise Scheduling with BMC Control-M.</li>
+<li>Experience in working with version control and software configuration management tools including Subversion, CVS, GitHub, HP Project and Portfolio Management (PPM).</li>
+<li>Oracle Certification in PL/SQL or Java.</li>
+<li>Conversational/Business competency in speaking/writing languages including Spanish, Portuguese or Mandarin.</li>
+</ul>
+</div>
+<div></div>
+<br>
+<div>
+<div><b>
+Personal Attributes</b></div>
+<ul>
+<li>Strong written and oral communications skills.</li>
+<li>
+Proven ability and initiative to learn and research new concepts, ideas, and technologies quickly.</li>
+<li>
+Strong systems/process orientation with demonstrated analytical thinking, organization skills and problem solving skills.</li>
+<li>
+Ability to work in a team-oriented, collaborative environment.</li>
+<li>
+Ability to quickly pick up new tools and technologies.
+</li>
+<li>Willingness and ability to train and teach others.</li>
+<li>
+Ability to facilitate meetings and follow up with resulting action items.</li>
+<li>
+Ability to prioritize and execute tasks in a high-pressure environment.</li>
+<li>
+Strong presentation and interpersonal skills.
+</li>
+<li>Ability to work effectively in a globally focused multi-cultural environment, and to lead and influence cross-organizationally with and without direct authority.</li>
+<li>
+Ability to effectively move forward on tasks even with ambiguous or changing requirements.</li>
+</ul>
+</div>
+<div></div>
+<br>
+Equal Opportunity Employer. All qualified candidates will receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information, creed, citizenship status, marital status, or any other consideration prohibited by law or contract. VEVRAA Federal Contractor requesting priority referral of protected veterans.</div>
+<p></p>
+</div>

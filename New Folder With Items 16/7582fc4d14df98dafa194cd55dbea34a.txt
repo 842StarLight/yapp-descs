@@ -1,0 +1,49 @@
+<h2>Microsoft Business Intelligence Developer/Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>What you’re about to read is <b>NOT</b> your typical job description, and that’s simply because we’re not looking for any typical person to join our team. If you find yourself thinking, “Hey this place sounds awesome” AND “I totally fit this bill” then we want you! Just know that we will absolutely hold off on hiring until we find the right person, BUT that this is absolutely one of the best places to work (we even have awards that back up our claims :)<br>
+</p>
+<p><b>JourneyTEAM</b></p>
+<p>
+JourneyTEAM is more than just a place to work; we are an organization that values creativity, innovative thinking, diversity and fun. We offer a great opportunity to work alongside highly intelligent and motivated people. Founded in 1993, JourneyTEAM has grown from a small software development shop into an award-winning, business-technology consulting firm. We are a Microsoft Gold Certified Partner that serves organizations of all sizes, including many of the world’s best-known brands. We have expert level consultants that help companies dive deep into the dynamics of their organization and solve complex issues that will improve a company’s sales, marketing, productivity, collaboration, accounting, business intelligence, and security. Awesome benefits like a fully loaded kitchen, your pick of a laptop, and so much more just round off what it’s like to work at JourneyTEAM.</p>
+<p>
+Now that you know a little about us, here’s a little about the position!</p>
+<p><b>
+Job Description</b></p>
+<p>
+Our Data &amp; Analytic Solutions team started in October of 2018 and is quickly growing. That growth means that we need to grow our team, but because of the size of our team and the working environment we want to maintain, we only want to bring on the right people for the job.</p>
+<p><i>
+Daily job responsibilities include the following:</i></p>
+<p><b>
+If these things don’t sound like fun, you’re just not going to like working on this team. And if it isn’t already clear, we REALLY want you to like working on our team! :)</b></p>
+<ul>
+<li>Work with clients to assess their current organizational situation. Create project plans to address concerns while offering the correct solutions to their specific scenarios. We recognize that not all options will fit each customer the same and will adjust our approach based on the specific needs of the customer.</li>
+<li>Build rapport with customers and work to develop long-term relationships through delivering projects on-time, under budget, and by being genuinely fun to work with. We fully understand that without our customers, we don’t have jobs; building and maintaining good relationships with our customers is not only good for business, it’s good business.</li>
+<li>Create reports, dashboards, queries, data transformations, and other data related objects to change the paradigm in which a client is operating. We believe in being the catalyst in the transformation an organization will go through when they successfully use their data to grow and drive their business. This one is big. If you don’t love working with data, you won’t love this job.</li>
+<li>Creating training videos and content; leading training classes in-person and virtually. Not only is learning important for us, we believe learning is important for our customers. By teaching (instead of insisting that we are the only ones capable of doing the work), we build better relationships, and enable the customer to be successful on their own.</li>
+<li>Actively participating in the growth of our team at JourneyTEAM. We believe having a growth mindset isn’t just a business term, it’s a way of life. (If you haven’t read Mindset by Carol Dweck, you should. It’s a great book) (and if you don’t like reading books, you should. Reading books makes you a better person (Winston Churchill said so.)).</li>
+<li>Willingly admitting faults and striving to be a better person, team member, spouse, and contributing member of society. We know that “Leadership is not about titles or the corner office. It’s about the willingness to step up, put yourself out there, and lean into courage.” (Dare to Lead. Read this one too. You’ll like it.).</li>
+</ul>
+<p><b>Basic Qualifications</b></p>
+<p><b><i>
+These are the things we need you to have so that you can be successful. These aren’t just “nice to have’s”, these are “can’t do without’s”.</i></b></p>
+<ul>
+<li>Have an innate, insatiable appetite for learning.</li>
+<li>Be a world-class team member who is humble, hungry, and smart (look it up if you don’t recognize the reference). Working with others is not only something you can do, but something you actually enjoy doing.</li>
+<li>Be able to see and find opportunities in data and then clearly express those opportunities visually and verbally (both for the technically savvy and those less so)</li>
+<li>Be extremely familiar with 3 of the following 6 tools: Power BI, Flow, Power Apps, Azure/SQL Server, Azure/SQL Reporting Services, Azure/SQL Analysis Services – Extremely familiar might be interpreted as “can easily teach others best practices when it comes to this tool”</li>
+<li>Be very fun to work with.</li>
+</ul>
+<p><b>Preferred Qualifications</b></p>
+<ul>
+<li>Able to program in the following languages: SQL, Python, R, DAX, M.</li>
+<li>C+, Java, C#, Pearl, .NET, JavaScript, PHP, Ruby, Swift, Scala, Perl, Go, and countless others are helpful, although your use of them would be very limited.</li>
+<li>An understanding of, and love for, the Scrum method of agile project management.</li>
+<li>Prior experience as a DBA, Business Analyst, Business Intelligence Engineer, Data Engineer, Data Analyst, or another data related position.</li>
+<li>Clear understanding of statistics and how they impact the proper representation of data for a customer</li>
+<li>Bachelor or Master’s degree in math, finance, engineering, statistics, data analytics, economics, or another related or quantitative field.</li>
+<li>2+ years of experience building user-friendly, extensible tools in Power BI, Power Query, and generally the Power Platform</li>
+</ul>
+<p><b>Rock Star Qualifications</b></p>
+<ul><li>
+PhD in math, finance, engineering, statistics, data analytics, economics, or another related or quantitative field.</li></ul>
+</div></div>

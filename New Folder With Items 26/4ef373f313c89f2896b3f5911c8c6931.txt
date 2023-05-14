@@ -1,0 +1,53 @@
+<h2>Application Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<div>
+<b>OPENTEXT - THE INFORMATION COMPANY</b><br>
+<br>
+As the Information Company, our mission at OpenText is to create software solutions and deliver services that redefine the future of digital. Be part of a winning team that leads the way in Enterprise Information Management. #LI-POST</div>
+</div>
+<div>
+<p><b>The opportunity:</b>
+</p>
+<p>OpenText is looking for an Application Architect to join its Cloud Service Delivery team to help enhance and support its Identity Access Management (IAM) and Internet of Things (IoT) solutions and customers.</p>
+<p><b>You are great at:
+</b></p>
+<ul>
+<li>Provide leadership and oversight for IAM/IoT solution architecture and implementations</li>
+<li>Lead and participate in architecture and design reviews.</li>
+<li>Translate solution design into technical specs and detailed implementation tasks to be delegated to on-site and off-site teams.</li>
+<li>Hands-on programming experience with an ability to partake in development activities, if required.</li>
+<li>Oversee the solution implementation per agreed requirements and design.</li>
+<li>Troubleshooting and defect resolution of critical issues identified by customers.</li>
+<li>Support incident management and ensure operational excellence.</li>
+<li>Provide sales support for IAM/IoT new opportunities.</li>
+</ul>
+<p><b>What it takes:
+</b></p>
+<ul>
+<li>BS in computer science, computer engineering, or equivalent.</li>
+<li>5+ years of enterprise architecture and support operations experience.</li>
+<li>5+ years of hands-on delivery experience and knowledge with agile SDLC</li>
+<li>Application development leadership experience.</li>
+<li>Extensive Java server-side, SOA design and architecture experience.</li>
+<li>Hands-on experiences in SOAP and REST based Web Services.</li>
+<li>Experience with Spring/Spring Boot, JPA and API design and development experience is must.</li>
+<li>Exposure to responsive design and SPA technologies like Angular, React is a plus.</li>
+<li>Experience in microservices and container-based architecture is a plus.</li>
+<li>Experience with common internet protocols such as TCP, UDP, FTP, HTTP, TLS, MQTT.</li>
+<li>Experience with PaaS and IaaS desired.</li>
+<li>Web and application server technologies, including open-source technologies.</li>
+<li>Ability to work in a very dynamic, flexible and creative environment.</li>
+<li>Demonstrated experience with enterprise software systems.</li>
+<li>Experience estimating software development projects for all key roles in SDLC in addition to design and development including but not limited to business requirements gathering, quality assurance and support and operations.</li>
+<li>Solid understanding of the organization’s key success factors, business strategy and rationale as well as that of the competition.</li>
+<li>Ability to communicate effectively with management, development staff, and customers.</li>
+<li>Critical problem solver with the ability to recognize and anticipate problems (technical, operational, process, organizational) and to identify and implement the best practices.</li>
+</ul>
+</div>
+<div></div>
+<div><p>At OpenText we understand and value diversity in our employees and are proud to be an Equal Opportunity Employer. We hire the best talent regardless of race, creed, color, national origin, ancestry, disability, marital status, sex, age, veteran status or sexual orientation. If you require accommodation at any time during the recruitment process please email accommodationrequests@opentext.com. Applicants have rights under Federal Employment Laws including but not limited to: Family and Medical Leave Act (FLMA), Equal Employment Opportunity and Employee Polygraph Protection Act</p></div>
+</div>
+</div>

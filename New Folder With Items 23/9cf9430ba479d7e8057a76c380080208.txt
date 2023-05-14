@@ -1,0 +1,54 @@
+<h2>Application Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Seica USA is a world leader in test &amp; measurement equipment design and services. We market, promote, train and install capital test and process equipment built in Italy and shipped to North America. With offices worldwide Seica can support you no matter where your NPI centers or production facilities are located. From bare board/substrate testing to traditional in-circuit and functional testing, Seica is the only ATE company that provides solutions to both the substrate and loaded board markets.</p>
+<p><i>Seica USA is now hiring a: </i></p>
+<p><b>Application Engineer I</b></p>
+<p>Business: Provide pre/post sales technical support and software application development to potential and existing customers.</p>
+<p>In this position the Pre-Sales Application Engineer I is part of a team that is offering test solutions (Flying Probe, In-circuit &amp; Functional) to customers with the goal to achieve sales and support our existing customer base. The Pre-Sales Application Engineer is the main technical driver between the sales manager and customer. In this critical position the sales manager will rely on the all technical skills of the Pre-Sales Application Engineer to help close sales, train the customer and provide post sales support. The Pre-Sales Application Engineer should be competent of all or most of Seica's products he/she is assigned to and understand the advantages and weaknesses of Seica products. In addition, the Pre-Sales Application Engineer must understand the competitors from a technical viewpoint as well. The Pre-Sales Application Engineer I is an entry to mid level position (0-5 years experience), with potential for growth within the Application group.</p>
+<p>The main responsibilities of the Pre-Sales Application Engineer I:</p>
+<ul>
+<li>A) Develop Application notes on the Flying Probe and In-Circuit products to describe different uses of the equipment to satisfy specific customer needs.</li>
+<li>B) Train the customer on the Seica Flying Probe and In-Circuit products including Hardware architecture, test development / debug software and data collection/reporting.</li>
+<li>C) Process/evaluate customer product data to determine specific needs and identify a Seica solution for the customer.</li>
+<li>D) Participate in Pre-sales activities including product presentations to customers, teleconferences, trade show support.</li>
+<li>E) Interface with the Seica factory personnel (Applications/Service/R&amp;D) to resolve pre/post sales issues.</li>
+</ul>
+<p>Minimum Requirements:</p>
+<ul>
+<li>Education: BSEE, BSCE, BSSE or equivalent</li>
+<li>0-5 years of minimum experience</li>
+<li>Up to 50% Travel will be required</li>
+<li>Previous Customer interaction experience</li>
+<li>Ability to interpret schematics and an understanding of electrical testing</li>
+<li>Proficient in MSOffice products (Excel, Word, Powerpoint)</li>
+</ul>
+<p>Desired Requirements:</p>
+<ul>
+<li>Programming language experience in the following: LabVIEW, TestStand, Visual Basic, Python, C++ etc. Certifications are a plus.</li>
+<li>Ability to write technical documentation clearly and concisely such as statement of works, benchmark reports, corrective action procedures, and test equipment operation procedures.</li>
+<li>Ability to lead a technical customer meeting independently or in a group setting to achieve the desired outcome.</li>
+<li>Be able to present the Seica products in a meaningful way to show the customer solutions with the intent to achieve product sales.</li>
+</ul>
+<p>There is no relocation package available with this position. Local candidates preferred.</p>
+<p>Job Type: Full-time</p>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Location:</p>
+<ul><li>Haverhill, MA (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Required travel:</p>
+<ul><li>50% (Required)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Commission</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+</ul>
+</div>

@@ -1,0 +1,80 @@
+<h2>Technical Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Technical Manager<p>
+<br></p>
+<p>
+Job Description</p>
+<p>
+<br></p>
+<p>
+CoStar is the owner of Lands of America and Land and Farm and is the leading operator of online marketplaces that support the sale and purchase of farms, ranches, country homes, and rural land. Our customers include real-estate brokers, real-estate agents, owners, and investors who need internet listing services and information to help them sell/purchase properties and track competitive trends.</p>
+<p></p>
+<p>
+CoStar is currently seeking a full-time Technical Manager in our Austin office where you will be integral in building a team and architecting/implementing the next generation of our Land technology platforms and web based applications. The Technical Manager is responsible for architecture, project ownership, and team leadership. In this role you will: design, develop, test, debug and implement operating systems components, software tools, and utilities; determine systems software design requirements; ensure that system improvements are successfully implemented and monitored to increase efficiency; and help transition from current systems to new large scale systems that are aligned with CoStar’s software engineering policies, standards and procedures. This is a great position for a self-motivated “out of the box” thinker.</p>
+<p></p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Engage with internal and external customers to develop clear requirements and define scope.</li>
+<li>
+Lead a 4-6 person agile team to develop, test and delivery high quality software in a consistent manner.</li>
+<li>
+Hands-on involvement in design, architecture and development activities using ASP.NET MVC, C#, HTML5, modern JavaScript frameworks such as jQuery, and SQL Server technologies.</li>
+<li>
+Evaluates new technologies for inclusion where appropriate.</li>
+<li>
+Act as player coach.</li>
+<li>
+Apply sound quality management methods, tools and techniques to create and support defect-free application software that meets the needs of the organization.</li>
+<li>
+Act as release manager to ensure product components are released for production deployment as tested by Software QA Group.</li>
+<li>
+Act as "Voice of the Customer" when participating in product readiness reviews.</li>
+</ul>
+<p></p>
+<p>
+Requirements:</p>
+<ul>
+<li>
+Bachelor’s Degree Required</li>
+<li>
+7+ years of development experience</li>
+<li>
+2+ years of prior management experience</li>
+<li>
+Experience in Web based and Database technologies</li>
+<li>
+Experience developing SOA-based systems to support high-volume traffic</li>
+<li>
+Demonstrated expert knowledge of Object Oriented Programming and design patterns</li>
+<li>
+Solid experience with the following technologies; C#, .NET, ASP.NET MVC, JavaScript, HTML/DOM/CSS, ADO.NET and SQL Server</li>
+<li>
+Solid web development and troubleshooting skills</li>
+<li>
+Experience in fast paced Agile Scrum environments.</li>
+<li>
+Proficiency in Continuous Delivery best practices</li>
+<li>
+Understanding &amp; implementation of automated test processes</li>
+<li>
+Strong project management skills</li>
+<li>
+Strong written and verbal communication skills; Must be able to communicate at a level appropriate to the audience (direct reports, peers and senior management)</li>
+<li>
+Excellent team building, negotiation and consensus building abilities</li>
+<li>
+Ability to motivate and build high performance software development teams</li>
+</ul>
+<p></p>
+<p>
+So why work for CoStar?</p>
+<p>
+Our culture of innovation and excellence attracts and encourages the best and brightest in a broad range of disciplines, which makes CoStar a fun and supportive place to work. CoStar’s benefits plan ranked among the top 10% of employers nationwide. Besides generous pay and performance-based incentives, the company also provides a 401(k) with company match. We support our employees’ professional and academic growth with internal training and tuition reimbursement.</p>
+<p></p>
+<ul><li>LI-AM2</li></ul>
+<p>
+<br></p>
+<p>
+CoStar Group is an Equal Employment Opportunity Employer; we maintain a drug-free workplace and perform pre-employment substance abuse testing</p>
+</div></div>

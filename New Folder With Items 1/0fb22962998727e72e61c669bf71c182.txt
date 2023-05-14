@@ -1,0 +1,92 @@
+<h2>Data Scientist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<b>To support our project teams, we are looking for</b>
+<h1 class="jobSectionHeader"><b>Data Scientist-USA</b></h1>
+<b>
+for our office in Boston, United States</b>
+</div>
+<p><b>
+ </b><b>About Simon-Kucher &amp; Partners</b></p>
+<div><p>
+For over 30 years, Simon-Kucher &amp; Partners has helped development stage to Global Fortune 500 companies in addressing their strategic and marketing challenges. We are regarded as the world’s leading pricing advisor and thought leader. We focus on TopLine Power® by helping clients grow their top-line through strategy, pricing, marketing and sales.<br>
+<br>
+Globalization is a core element of our goals and strategy. Today we are an international and multilingual team of over 1,300 full-time employees from diverse academic and professional backgrounds in over 38 offices across the US, Europe, Asia Pacific, and South America.</p></div>
+<div>
+<p><b>
+The Role:</b></p>
+<p>
+The Simon-Kucher Data Science team is a group of data scientists who develop best-in-class approaches and models to solve complex business problems using Machine Learning and Advanced Analytics.</p>
+<p>
+As a Data Scientist at Simon-Kucher &amp; Partners, you will be an integral part of the project teams working to drive top-line growth for our clients. You will be responsible for the core components of the model development process, from data wrangling / pre-processing to Machine Learning model development, testing, and implementation. Throughout this process, you will also gather and communicate meaningful data insights to your project team.</p>
+<p>
+In addition, you will keep an eye on the fast-changing market of advanced analytics and help further develop Simon-Kucher’s data science offerings. Your continued involvement and efforts will enable Simon-Kucher &amp; Partners to become a thought-leader on the applications of Machine Learning and AI to pricing, sales and marketing strategies.</p>
+<p><b>
+Key Responsibilities:</b></p>
+<ul>
+<li>
+Data wrangling, cleaning, and pre-processing</li>
+<li>
+Conducting exploratory data analysis and communicating insights through clear descriptions and visualizations</li>
+<li>
+Developing, testing, and implementing Machine Learning models</li>
+<li>
+Conducting research on recent developments in machine learning and AI, with a focus on topics related to pricing, sales, and marketing</li>
+<li>
+Being a topic expert on Machine Learning and AI for your project team, enabling strong project planning and team performance</li>
+</ul>
+<p><br>
+<b>
+Basic Qualifications:</b></p>
+<ul>
+<li>
+Degree in a quantitative field, such as computer science, engineering, statistics, operations research, data science, or equivalent experience</li>
+<li>
+Experience with Machine Learning and statistical modelling techniques</li>
+<li>
+Strong programming skills in R and/or Python</li>
+<li>
+Experience applying advanced analytics and Machine Learning to solve business problems</li>
+<li>
+Experience with data visualization software / libraries (Tableau, PowerBI, Matplotlib)</li>
+<li>
+Comfort working both on a team and autonomously</li>
+<li>
+Strong written and verbal communication skills, ability to simply and concisely explain complex analytical topics</li>
+<li>
+Entrepreneurial spirit—we are a fast-growing team with vast opportunities for growth</li>
+</ul>
+<p><b>
+Preferred Qualifications:</b></p>
+<ul>
+<li>
+Implementation experience with Machine Learning models and applications</li>
+<li>
+Knowledge of cloud-based Machine Learning engines (AWS, Azure, Google, etc.)</li>
+<li>
+Experience with large scale data processing tools (Spark, Hadoop, etc.)</li>
+<li>
+Ability to query and program databases (SQL, No SQL)</li>
+<li>
+Experience with distributed ML frameworks (TensorFlow, PyTorch, etc.)</li>
+<li>
+Familiarity with collaborative software tools (Git, Jira, etc.)</li>
+<li>
+Experience with user interface libraries / applications (Shiny, Django, etc.)</li>
+<li>
+Domain expertise in pricing, demand forecasting, or time-series data</li>
+</ul>
+<p><b>
+To Apply:</b><br>
+Submit your Resume/CV and Cover Letter via the Simon-Kucher job portal. Please ensure your Cover Letter includes:</p>
+<ul>
+<li>
+Why you are interested in a job at Simon-Kucher.</li>
+<li>
+Specific reasons why your application differentiates you from other candidates.</li>
+</ul>
+</div>
+</div>
+</div>

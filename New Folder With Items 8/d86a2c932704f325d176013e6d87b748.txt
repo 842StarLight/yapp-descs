@@ -1,0 +1,36 @@
+<h2>Global Partner Technical Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">As the Global Partner Technical Architect you will own the technical engagement with partners focusing on business, reference &amp; solution architecture(s) for Business Applications using Fonteva and Salesforce solution sets. You're expected to provide solution and technical expertise in order to drive our high priority initiatives in collaboration with teams across Fonteva and partners. This requires both deep technical skills and commercial acumen as the Global Partner Technical Architect will frequently take an engagement from an introductory discussion through to a successful sales or partner led product development conclusion.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Enable the partner to identify technology opportunities that enable and/or support the creation of differentiated offers in the market. Enable the partner to define the delivery and operational models, including adoption services and activities.</li>
+<li>Enable the partner to be successful during pre-sales activities which includes support of their Demonstrations, RFP Responses, Proposal preparation, Proof Of Concepts (POC), Pilots Technical designs as well as technical blocker and objection removal</li>
+<li>Enable and deliver Architecture Design Sessions</li>
+<li>Provide guidance for completing technical competency qualifications</li>
+<li>Collaborate with strategic technology partners to create integrations and end to end solutions that increase customer value.</li>
+<li>Assist partners with architecture guidance for integrating with Fonteva platform and solutions.</li>
+<li>Help create technical white papers, blogs or other content for strategic partner solutions.</li>
+<li>Staying current on competitive analysis and understanding differentiators between Salesforce/Fonteva and its competitors from a platform perspective</li>
+<li>Help partners of all types to develop on Fonteva platform and products, provide reference architecture, design review, API and Integration guidance.</li>
+</ul>
+RELAX! There's no such thing as the ideal candidate for a Global Partner Technical Architect. The list below is absolutely NOT a check list to be completed but simply guidance to give you a good understanding of the role.
+<br><br>
+In order to be successful in this role, we need someone who has:
+<br><br>
+<ul>
+<li>Minimum 2 years development experience on the Salesforce/Fonteva Platform</li>
+<li>7 years development experience in modern web technologies such as having fundamental understanding of the key technologies relevant to the Salesforce/Fonteva integration solutions including: SSO, SAML, SSL, Web Services, LDAP, JDBC, ODBC, REST, SCP, FTPS</li>
+<li>Experience in business SaaS applications such as the Salesforce platform, Customer Relationship Management (CRM) / Customer Experience (CX) and/or Enterprise Resource Planning (ERP).</li>
+<li>Deep functional knowledge in one or more of the following disciplines: Customer Service, Non-profit, Associations Customer Relationship Management, Project Management, etc.</li>
+<li>High-level of knowledge in identity, authentication, security, privacy, and compliance requirements, and experience integrating them into cloud</li>
+<li>Experience building business and technical architectures, particularly with industry and solution focus</li>
+<li>Experience with enterprise architecture domains and SaaS integrations</li>
+<li>Experience designing, implementing and integrating client facing solutions that leverage the Salesforce/Fonteva Platform.</li>
+<li>Experience with scripting in the Salesforce/Fonteva platform using JavaScript and Angular including: Business Rules, Client Scripts, UI Actions, UI Pages, etc…</li>
+<li>Ability to travel up to 10-15% of the time.</li>
+<li>Exceptional communication and presentation skills to include technical and business concepts.</li>
+<li>Support partners by understanding their needs and help with technical specifications, guidance on APIs, workflows, data sets etc., in order to enable them on their projects and build competence within their organization around Fonteva products.</li>
+<li>Salesforce Lightning Platform Skills (Apex, Workflow, Customization, Configuration etc).</li>
+<li>Formal Salesforce certification is a bonus.</li>
+</ul>
+</div>

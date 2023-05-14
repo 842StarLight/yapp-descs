@@ -1,0 +1,36 @@
+<h2>Systems Engineer (Server)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Job Summary: </b></p>
+<p>High-performance product team in Supermicro is seeking talented System Product Engineer who can lead the technical collateral development of in-house server system products. This individual will have the opportunity to define and implement latest data center and server technologies, and to create proof of concepts and technical feature paper presentations to differentiate Supermicro product through online and at various industry events. This individual will also be the go-to person for product managers and system engineers to be the subject of matter expert in application benchmarks specifically in network, database, and virtualization.</p>
+<p><b>Essential Duties and Responsibilities: </b></p>
+<p><b>Includes the following essential duties and responsibilities (other duties may also be assigned): </b></p>
+<ul><li>Define and develop application benchmarks based on enterprise computing requirements and generic server architecture, key examples include HammerDB, MySQL, RDMA, flashed based storage (NVDIMM, and NVMe)</li></ul>
+<ul><li>Execute benchmark testing and build proof of concepts based on latest data center technologies and Supermicro server products such as the Supermicro SuperServers</li></ul>
+<ul><li>Work with product managers and system engineers to draft technical marketing presentations and white papers for online publications and industry event promotional activities</li></ul>
+<ul><li>Proactively engage in learning and researching new technologies and products to propose new Proof of Concepts</li></ul>
+<ul><li>Work with sales and customers to provide networking solution and technical knowledge</li></ul>
+<p><b>Qualifications: </b></p>
+<ul><li>Bachelor or Master's degree in EE, CE or ME with minimum of 2 years system engineering experiences in server products</li></ul>
+<ul><li>Strong knowledge in server architecture and OS concept required, and knowledge in distributed computing a plus</li></ul>
+<ul><li>Knowledge in benchmarks(FIO/IOMeter/HammerDB), PCIe protocol, and database (SQL/MySQL) required</li></ul>
+<ul><li>Experiences in configuring Windows Server, Ubuntu, Redhat Enterprise Linux</li></ul>
+<ul><li>Experiences in scripting languages (PowerShell, Linux Shell) a plus</li></ul>
+<ul><li>Strong knowledge with server hardware and architectures including PCI express, and OOB management</li></ul>
+<ul><li>Experiences in technical writing and Good communication skills</li></ul>
+<p><b>Physical Requirements: </b></p>
+<p>The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job:</p>
+<ul><li>Able to sit for long periods of time.</li></ul>
+<ul><li>Able to input data into a computer and work with a computer screen for long periods of time.</li></ul>
+<ul><li>Occasional bending and standing.</li></ul>
+<ul><li>Standing, walking, sitting, talking/listening, crouching or crawling, reaching with hands and arms.</li></ul>
+<ul><li>Lift, carry, push and pull up to 15 pounds.</li></ul>
+<p><b>Work Environment: </b></p>
+<p>The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job:</p>
+<ul><li>Primarily works indoors in an office setting with controlled climate conditions</li></ul>
+<ul><li>May be susceptible to outdoor weather conditions (i.e., cold, heat, rain, and/or wind)</li></ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>systems engineer: 2 years (Preferred)</li></ul>
+<p>Education:</p>
+<ul><li>Master's (Required)</li></ul>
+</div>

@@ -1,0 +1,50 @@
+<h2>.Net Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Role: .Net Developer((AWS/Azure is a Must)</b></p>
+<p><b>Location: Houston,TX</b></p>
+<ul><li>Key Responsibilities:</li></ul>
+<ul><li>Use technologies, such as C#, ASP.NET, MVC, SQL, No-SQL (Couchbase, MongoDB), Enterprise Service Bus, to develop technical solutions to complex problems that require the regular use of ingenuity and creativity</li></ul>
+<ul><li>Design, code, test, debug and document software according to the functional requirements</li></ul>
+<ul><li>Analyze, diagnose and resolve errors</li></ul>
+<ul><li>Follow all department standards and methodologies</li></ul>
+<ul><li>Interact and communicate effectively with other developers and team lead</li></ul>
+<ul><li>Communicate effectively and clearly, in writing and verbally</li></ul>
+<ul><li>Draw up specific proposals for modified or replacement systems</li></ul>
+<ul><li>Produce project feasibility reports to team lead</li></ul>
+<p>Required Key Skills:</p>
+<p>Bachelor’s degree or higher in Computer Science, Computer Engineering and/or equivalent work experience</p>
+<ul><li>5+ years of experience of Software Development experience in design, development, documenting, testing, and debugging of new and existing software systems and/or applications for market sale or large-scale proprietary software</li></ul>
+<ul><li>Strong working experience with Languages, Tools &amp; Technologies in C#, ASP.NET MVC, .NET Core Web API, Rest, Microservices</li></ul>
+<ul><li>Experience working with SQL &amp; Document Database</li></ul>
+<ul><li>2+ years’ experience with cloud technologies/patterns (AWS/Azure), good understanding of Docker containers and Container Orchestration platforms such as Kubernetes</li></ul>
+<ul><li>A solid understanding of OOP principles</li></ul>
+<ul><li>A good understanding of N-tier and N-layered architecture</li></ul>
+<ul><li>Demonstrate advance knowledge of software engineering best practices such as: Continuous Integration, Unit/Integration testing, Code reviews, versioning and versioning control, software packaging and software release management</li></ul>
+<ul><li>Thorough knowledge and experience with Microsoft Technology Stack, Windows Server OS (2016), IIS 8.5, Net Framework 4.0, 4.5</li></ul>
+<ul><li>Good working experience with Agile Methodologies, familiar with common Agile ceremonies and tools such as JIRA</li></ul>
+<ul><li>Worked closely with the architect for development of applications</li></ul>
+<ul><li>3 years of IT experience developing business critical applications</li></ul>
+<ul><li>At least 2 years of experience in a Technical lead role</li></ul>
+<ul><li>Proficient with on time delivery with minimal supervision</li></ul>
+<ul><li>About 4 weeks of travel to US in a year may be needed</li></ul>
+<ul><li>Exhibit written and spoken English fluency</li></ul>
+<ul><li>Must be legally authorized to work in India for any employer without sponsorship</li></ul>
+<ul><li>Successful completion of interview required to meet job qualification</li></ul>
+<ul><li>Reliable, punctual attendance is an essential function of the position</li></ul>
+<p>Additional Skills and Qualifications:</p>
+<ul><li>Master's Degree in Computer Science, Information Systems</li></ul>
+<ul><li>Good understanding of continuous integration and deployment tools such as GoCD and Team City</li></ul>
+<ul><li>Airlines industry experience</li></ul>
+<ul><li>Experience with policy of handling PCI/PII data</li></ul>
+<ul><li>Mobile Technologies</li></ul>
+<ul><li>Work experience with asynchronous program pattern in .Net.</li></ul>
+<ul><li>Familiar with common messaging platform such as Tibco, IBM MQ, MSMQ, Kafka</li></ul>
+<p>Job Type: Contract</p>
+<p>Experience:</p>
+<ul>
+<li>.net: 1 year (Preferred)</li>
+<li>relevant: 1 year (Preferred)</li>
+</ul>
+<p>Contract Length:</p>
+<ul><li>More than 1 year</li></ul>
+</div>

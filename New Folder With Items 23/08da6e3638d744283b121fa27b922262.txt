@@ -1,0 +1,45 @@
+<h2>Software Engineer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Storage Commander Cloud is the next level of self-storage management software.</p>
+<p>With an intuitive user interface, tiered pricing to fit any operator's budget, and a variety of unique features, Storage Commander scales seamlessly to meet the needs of any self-storage operation.</p>
+<p>As one of our Software Engineers, you will design, develop, and maintain computer software for in-house and customer facing applications. Provide support to the Technical Support and Sales Departments on complex cases or providing information on system capabilities. Administration of in-house and customer data storage systems and communication system. Perform hardware and software testing of customer facing products.</p>
+<p>Duties Include:</p>
+<ul>
+<li>Develop and maintain software programs for in-house and customer facing programs.</li>
+<li>Perform data migration from competitor’s software to the company’s products.</li>
+<li>Troubleshoot and repair software, hardware, and data issues escalated from Technical Support.</li>
+<li>Provide technical assistance to the sales and marketing team.</li>
+<li>Perform quality assurance testing of software products.</li>
+</ul>
+<p>Knowledge and Skills:</p>
+<ul>
+<li>Proficient at maintaining source code in C#, Java Script, Angular and ASP languages.</li>
+<li>Good understanding and practice developing Structure Query Language and Microsoft SQL database servers.</li>
+<li>Good written and verbal communication skills required.</li>
+<li>Strong critical thinking skills.</li>
+<li>Work well independently and within software development teams.</li>
+</ul>
+<p>Please include a resume and salary requirements when replying to this job posting!</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Software Development: 5 years (Preferred)</li>
+<li>Structure Query Language and Microsoft SQL: 2 years (Preferred)</li>
+<li>C#, Java Script, Angular and ASP Languages: 2 years (Preferred)</li>
+</ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits offered:</p>
+<ul>
+<li>Paid time off</li>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Healthcare spending or reimbursement accounts such as HSAs or FSAs</li>
+<li>Other types of insurance</li>
+<li>Retirement benefits or accounts</li>
+<li>Commuting/travel assistance</li>
+<li>Flexible schedules</li>
+</ul>
+</div>

@@ -1,0 +1,38 @@
+<h2>Senior QA Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Centage is a leader in intelligent financial planning for small to medium-sized businesses, a large and active market. The company is poised for continued rapid growth driven by both the introduction of a new cloud-based SaaS product and an increase in the size and scale of our customers. In support of these efforts, we are building a high-caliber Software Engineering team and development process to complement our already strong Sales and Marketing organizations. Our goal is to ship great products and delight our users. This is why we need you!</p>
+<p>
+We’re looking for an experienced senior level QA software engineer, who will be responsible for improving and expanding our current regression and load testing frameworks. You will report to the QA Manager and will work tightly, in an agile software development framework, with other members of the QA team, development and customer support organizations to deliver high quality releases of Centage’s products.</p>
+<h1 class="jobSectionHeader"><b>
+Responsibilities</b></h1>
+<ul>
+<li>Provide both manual and automated testing capabilities to support the software development life cycle</li>
+<li>Improve and expand existing automation frameworks</li>
+<li>Design automation test plans for new and existing features</li>
+<li>Support and enhance the Agile process to improve development velocity while increasing quality</li>
+<li>Interact with all business stakeholders to independently validate requirements</li>
+<li>Work with SDLC and Agile tools such as Jira and Confluence</li>
+</ul>
+<h1 class="jobSectionHeader"><b>Background and Skills</b></h1>
+<ul>
+<li>A BS or BA in Computer Science or Software Engineering (or equivalent experience)</li>
+<li>Experience with one or more modern automation/load test frameworks in a SaaS and browser-based environment (Selenium, Protractor, Locust, etc.)</li>
+<li>Excellent scripting skills in a modern language (Python, JS, Groovy, etc.)</li>
+<li>Desire and ability to learn and utilize new technologies quickly, effectively and appropriately</li>
+<li>Ability to communicate effectively, in words and pictures, to a wide variety of stakeholders with a range of technical knowledge</li>
+<li>Technical background including some of the following is a strong plus: cloud-hosted SaaS, Linux, Docker, enterprise Java and Apache Tomcat; databases (both SQL and NoSQL, e.g., SQL Server and MongoDB); browser-based technologies including JavaScript and UI testing frameworks; SQL Server Analysis Services; data exchange and ETL using tools like Oracle Data Integrator (ODI)</li>
+<li>Financial, budgeting general ledger, ERP or accounting background a strong plus</li>
+<li>Minimum of 4 years in Software QA Automation</li>
+<br>
+</ul>
+<p>
+</p>
+<h1 class="jobSectionHeader"><b>About Centage</b></h1>
+<p>Since 2001, thousands of finance professionals have used Centage’s product suite to transform how they plan, budget, forecast, analyze and report. Centage has been recognized three years in a row as being one of Inc 5000’s fastest growing private companies, as well as by the Boston Business Journal as one of the Top 50 fastest growth companies in Massachusetts. Centage provides a high energy, team-oriented workplace with the opportunity to be a significant contributor in an entrepreneurial environment.</p>
+<p>
+Centage offers a competitive compensation package with full benefits including paid time off, health insurance, dental/vision coverage, long and short disability, and life insurance.</p>
+<br>
+<p></p>
+<p>
+Send Resume</p>
+</div></div>

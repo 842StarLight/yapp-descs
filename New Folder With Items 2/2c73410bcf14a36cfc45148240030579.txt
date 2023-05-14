@@ -1,0 +1,72 @@
+<h2>Battery Pack Development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>This position will work with the sales team and other internal engineering resources to design, prototype, test and move into production custom battery packs for many different applications. The desired candidate will have demonstrated experience in battery pack design, board layout skills and overall project management. This position will reside in the manufacturing and engineering facility south of Boston and will work closely with a highly qualified and motivated team of engineers and sales professionals. The candidate will be a multi-disciplinary engineer with experience in some or all the following areas:</p>
+<ul>
+<li>Li-ion battery management system requirements and design</li>
+<li>Li-ion battery charger requirements and design</li>
+<li>Electrical, mechanical and environmental testing</li>
+<li>Wire harness and electrical connector requirements and design</li>
+<li>Injection molded plastic design</li>
+</ul>
+<p><b>ESSENTIAL DUTIES AND RESPONSIBILITIES</b>:</p>
+<ul>
+<li>Work with internal and external customers to define requirements, identify risks, and develop specifications.</li>
+<li>Design, build and test of custom battery packs for military, medical and industrial applications.</li>
+<li>Support electronic design for batteries, chargers, power systems as part of a cross functional development team.</li>
+<li>Create/coordinate system diagrams, schematic capture, simulation, board layout, firmware requirements, and electronic requirements and specifications.</li>
+<li>Selection of COTS components where appropriate, maintenance of Bill of Materials including selection of new components and replacement of obsolete parts</li>
+<li>Derivation, testing and validation of electrical and controls requirements</li>
+<li>Assist with system integration and testing including novel robotic platforms</li>
+<li>Work with cross-functional engineering team including mechanical, controls, software, quality and program management</li>
+<li>Be effective working on challenging fast paced projects in both independent and team environments</li>
+<li>Develop custom software and firmware for microcontrollers.</li>
+<li>Guide remote engineering resources with design reviews and tasking.</li>
+<li>Perform engineering calculations, measurements and analysis.</li>
+<li>Develop and execute test requirements for product characterization and verification.</li>
+</ul>
+<p><b>OTHER DUTIES AND RESPONSIBILITIES</b>:</p>
+<ul><li>Flexible hours may be required from time to time in order to address outstanding projects.</li></ul>
+<p>QUALIFICATIONS</p>
+<p>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p>
+<p><b>EDUCATION and/or EXPERIENCE</b></p>
+<ul>
+<li>Bachelor’s in Electrical Engineering or ECE or related field with minimum of 3 years of industry experience</li>
+<li>Experience with battery systems including BMS, charging and pack design desired</li>
+<li>Experience with ECAD tools for schematic capture and board layout.</li>
+<li>Experience with Low Power Microcontrollers, including Atmel, Seiko and Texas Instruments.</li>
+</ul>
+<p><b>COMPETENCIES: </b></p>
+<p>To perform the job successfully, an individual should demonstrate the following competencies:</p>
+<ul>
+<li>Excellent verbal and written communication skills</li>
+<li>Proficient with Software/Firmware development and test.</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>battery systems: 2 years (Required)</li></ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Location:</p>
+<ul><li>New Bedford, MA (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Flexible schedule</li>
+<li>Parental leave</li>
+<li>Professional development assistance</li>
+<li>Tuition reimbursement</li>
+</ul>
+<p>Typical start time:</p>
+<ul><li>8AM</li></ul>
+<p>Typical end time:</p>
+<ul><li>5PM</li></ul>
+<p>This Job Is:</p>
+<ul><li>A job for which military experienced candidates are encouraged to apply</li></ul>
+</div>

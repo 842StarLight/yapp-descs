@@ -1,0 +1,76 @@
+<h2>IT Telecom</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>SENIOR NETWORK ENGINEER</b></p>
+<p><b>
+Position Location:</b> Chicago (Loop), IL (444 W. Lake Street, 27th floor)</p>
+<p><b>
+Camping World Job</b> #19-6930</p>
+<br>
+<p></p>
+<p><b>
+POSITION</b></p>
+<p>
+Responsible for the execution of projects and break/fix support across Routing &amp; Switching, Data Center, Wireless and Security functions. Provide technical mentoring and guidance to Network Engineers throughout the organization.</p>
+<ul><li>Design and implement functional network infrastructure including but not limited to routers, switches, wireless access points and controllers.</li></ul>
+<ul><li>Maintain network security platforms and technology including VPN, content filtering, intrusion detection and firewalls.</li></ul>
+<ul><li>Assist with the design and implementation of WANs for resiliency and redundancy.</li></ul>
+<ul><li>Install, administer and troubleshoot layer 2/3 switching including Cisco Nexus platforms, MPLS wide area technologies and Software Defined Wide Area Networks.</li></ul>
+<ul><li>Provide technical support on the Cisco Unified Communications environment to include system upgrades and scoping major changes.</li></ul>
+<ul><li>Provide guidance and assistance for large scale voice projects to include scoping, interfacing with vendors, and execution of critical tasks.</li></ul>
+<ul><li>Lead technology implementation projects of varying sizes.</li></ul>
+<ul><li>Provide break/fix support.</li></ul>
+<ul><li>Work with Network Engineering Team Leads and Lead Network Engineers to develop and design best practice solutions and associated documentation (Break/Fix and Deployment Guides).</li></ul>
+<ul><li>Mentor Network Engineers to encourage teamwork and professional growth. Participate in team training programs.</li></ul>
+<ul><li>Develop and maintain positive relationships with vendors.</li></ul>
+<ul><li>Keep current on relevant technologies.</li></ul>
+<ul><li>Participate in rotation of after hours on call support.</li></ul>
+<ul><li>Certifications preferred: CCNA, CCIE, CCNP, Network+, Security+</li></ul>
+<ul><li>Travel approximately 20% mainly to client sites and CW data center sites.</li></ul>
+<p><b>
+QUALIFICATIONS</b></p>
+<ul><li>Minimum 5 years in enterprise network engineering and support in a distributed / multi-location environment.</li></ul>
+<ul><li>Cisco CUCM, UCCX, Expressway, Jabber preferred.</li></ul>
+<ul><li>Cisco Switch and Routing Configuration (IOS, IOS XE, NX-OS)</li></ul>
+<ul><li>Knowledge of Cisco VoIP Telephony preferred.</li></ul>
+<ul><li>MPLS Networking and vendor management.</li></ul>
+<ul><li>Quality of Service experience preferred.</li></ul>
+<ul><li>Experience with Wireshark or related packet capture analysis tools.</li></ul>
+<ul><li>Experience supporting networks in VMWare environments.</li></ul>
+<ul><li>Experience with VeloCloud.</li></ul>
+<ul><li>Competent with Visio.</li></ul>
+<ul><li>Wi-Fi Networking Configuration preferred.</li></ul>
+<ul><li>
+<b>Routing &amp; Switching</b> technology experience should include: Cisco ISR Router, Cisco ASR Routers, Cisco Catalyst Switches, Cisco Prime Infrastructure, Cisco APIC-EM, Meraki Switches, Aruba Switches, SD-WAN, Network Analysis Tools (Solarwinds, PRTG, etc.), RIP, EIGRP, OSPF and BGP</li></ul>
+<p>
+PVST+, Rapid-PVST, MST and VTP, GRE/VTI/IPSEC, DHCP Snooping and Dynamic ARP Inspection, VRRP, HSRP and GLBP, Policy Based Routing, LACP/PAGP Port-Channels, Dot1q, 802.1x, Syslog, Netflow, Metro Ethernet / VPLS,</p>
+<ul><li>
+<b>Data Center</b> technology experience should include: Cisco Nexus Switches, Cisco Nexus Fabric Extenders, HPE / Comware Switches NX-OS, Virtual Port-Channels, VXLAN / OTV / DCI / ACI</li></ul>
+<ul><li>
+<b>Wireless</b> experience should include: Cisco Wireless LAN Controllers, Cisco Autonomous Aps, Cisco Prime Infrastructure, Cisco APIC-EM, Meraki Wireless, Aruba Mobility Controllers, Aruba Instant Aps, Aruba Airwave, Aruba Central, Aruba Activate, 802.11 a/b/g/n/ac, WEP/WPA/WPA2 Personal, WEP/WPA/WPA2 Enterprise/802.1x, Bluetooth Low Energy (BLE), 2.4ghz and 5ghz, Mesh Wireless, P2P Wireless Bridging, Broadcast/Sector/Patch Antennas, Controller-base and non-controller based wireless, Wireless Assessment Tools, Signal Propagation Characteristics.</li></ul>
+<ul><li>
+<b>Network Security </b>technology should include: Cisco Adaptive Security Appliance (ASA), Cisco FirePOWER Threat Defence (FTD), Cisco FirePOWER Management Center (FMC), Cisco Identity Services Engine (ISE), Cisco AMP for Endpoints, Cisco Umbrella, Aruba ClearPass, Network Address, Translation (NAT), Access Control List (ACL), IKE/IKEv2, IPSEC, GRE/VTISite to Site VPN, SSL Client VPN, Web Security/URL Filtering, Intrusion Prevention System (IPS), Malware Prevention</li></ul>
+<p><b>
+Other:</b></p>
+<ul><li>Ability to communicate and present objectives verbally and in writing to a variety of audiences.</li></ul>
+<ul><li>Ability to work independently in a self-directed manner and collaboratively as a team leader or member.</li></ul>
+<ul><li>Ability to create and implement detailed project plans.</li></ul>
+<ul><li>Ability to manage and prioritize complex, changing workloads in a challenging technical environment.</li></ul>
+<ul><li>Work both independently and as a member of a team for project execution.</li></ul>
+<ul><li>Ability to write clear, concise documentation</li></ul>
+<p><b>
+ABOUT CAMPING WORLD / FREEDOM ROADS</b></p>
+<p>
+The outdoors is a big place and just as it offers endless adventures, so does our company.</p>
+<p>
+Camping World is your premier one-stop-shop for everything RV. Along with RV parts and accessories, we also offer a full selection of new and used RVs for sale. Once you buy an RV, should it need a little TLC, our RV Spa detail and refurbishment centers are there to make it shine like new. However, if the problem is under the hood, our nearly 2,000 service bays, over 1,600 technicians and 100+ collision centers scattered around the country are ready to get you back on the road in no time.</p>
+<p>
+As the RV industry leader, Camping World is always looking for new and better ways to enhance your RV and outdoor experience. Camping World - like the great outdoors - is a big place, full of opportunity and we make it our mission to equip you for it. We've got an awesome team already, but there's always room for more! Are you ready for a new adventure?</p>
+<p><b>
+BENEFITS OVERVIEW</b></p>
+<p>
+Full-time associates are offered a comprehensive benefit package including medical, dental, vision, PTO, 401k and more!</p>
+<p><b>
+EEO</b></p>
+<p>
+We don't just accept diversity of thought - we support it, celebrate it and thrive on it for the benefit of our associates, our customers and our company. We are proud to be an equal opportunity workplace where we strive to think outside - and not simply check - the box.</p>
+</div></div>

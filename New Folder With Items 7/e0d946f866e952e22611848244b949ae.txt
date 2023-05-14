@@ -1,0 +1,54 @@
+<h2>Salesforce Product Owner</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>At <b>Strong-Bridge Envision Consulting</b>, we work as true partners both with our employees and our clients, embodying our number one value: <b>People First.</b> Our consultants are full -time employees. Our team is driven by a desire to always learn, improve, and innovate. We take an open-minded approach to opportunities and challenges and are focused on solving business challenges.
+</p>
+<p>We deliver programs and projects that exceed stakeholder expectations. To be successful at Strong-Bridge Envision, you will be a driver with a flexible working style, and excellent communication skills; you will think strategically and act tactically; you will be the person on the team our client can’t live without!
+</p>
+<p><b>Strong-Bridge Envision</b> is seeking an experienced <b>Salesforce Product Owner</b> to join our firm as a dedicated full-time employee. This is a Seattle based opportunity; relocation is not provided.
+</p>
+<p><b>Responsibilities:</b></p>
+<ul>
+<li>Be a SME for the Salesforce implementation and assist in Product design and vision. Manages Salesforce enhancements and features from ideation through development and delivery.</li>
+<li>Primary liaison between product managers and development team.</li>
+<li>Communicates scope changes to delivery team.</li>
+<li>Requirements elicitation: facilitate meetings and workshops, create a shared understanding with stakeholders, and engage team-members to gather and understand requirements.</li>
+<li>Requirements analysis: Collaborates with stakeholders and product teams to decompose large stories into features and user stories that can be understood by the development team.</li>
+<li>Requirements documentation: Translate features and functions into documented items for the development team.</li>
+<li>Creates acceptance criteria to express requirements. Ensures test and validation plans are complete.
+</li>
+<li>Conduct testing such as functional testing, user acceptance testing (UAT), automated acceptance testing (AAT), and specification by example.</li>
+<li>Leads grooming exercises.
+</li>
+<li>Accountable for sprint readiness and delivery.
+</li>
+</ul>
+<p><b>Qualifications:</b></p>
+<ul>
+<li>2 years of experience working in Salesforce Sales Cloud, Service Cloud, Lightning, and/or Heroku.</li>
+<li>Expertise managing Salesforce enhancements and features from ideation through development and delivery.</li>
+<li>Preferred certifications: Salesforce Certified Administrator, Salesforce Certified Platform App Builder, Salesforce Certified Architect, Salesforce Service Cloud Consultant, Salesforce Sales Cloud Consultant, or other relevant certification.</li>
+<li>Bachelor’s degree and 3-5 years of prior functional experience as a Product Owner. Experience writing user stories, vertically slicing features, using test suites, and maintaining Scrum backlogs.</li>
+<li>At least 2 years in direct support of a large Scrum effort for a software development project.</li>
+<li>Experience in Agile/Scrum and in supporting Agile efforts, preference given to Scrum Alliance Certified applicants and/or PMI-ACP applicants.</li>
+<li>Excellent verbal and written communication skills and the ability to interact professionally with a diverse group, executives, managers, and subject matter experts.</li>
+<li>Experience conducting stakeholder interviews and facilitating stakeholder workshops.</li>
+<li>Ability to work independently and in fast-paced environment with tight deadlines, with minimal supervision.</li>
+<li>Experience with Rally and JIRA required.
+</li>
+<li>Ability to work permanently in the U.S. on a full-time basis.
+</li>
+<li>Must be in the Seattle area; with ability to work on the client site 100% of the time.</li>
+</ul>
+<p><b>Desired Skills:</b></p>
+<ul>
+<li>A talent for multi-tasking, meeting deadlines, learning new skills and methodologies, and working under pressure in a fast-paced environment.</li>
+<li>Ability to work independently.</li>
+<li>Flexible working style, ability to work in various types of client environments.</li>
+<li>Excellent communication skills, and proven ability to communicate effectively across the organization.</li>
+<li>Ability to lead decision making through influence, with the ability to make sound decisions in the best interest of the client as needed throughout the project lifecycle.</li>
+<li>Collaborative working style with the ability to flex with many different types of working styles on client site.</li>
+</ul>
+</div>
+<p></p>
+</div>

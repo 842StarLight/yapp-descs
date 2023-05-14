@@ -1,0 +1,56 @@
+<h2>API/SDK Software Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<h2 class="jobSectionHeader"><b>Job description</b></h2>
+<div>
+<p>Job Summary:<br>
+The Software Architect (API/SDK) partners with key stake holders across the organization in the development of platform technical roadmap and strategies. This individual acts as a technical leader to guide the creation and lifecycle of software platform architecture. Produces architectural block diagrams and high-level designs, delivers architectural design to development staff and provides answers to customer inquiries concerning system software and applications, and interfaces with third party software vendors. The Software Architect relies upon wide-ranging experience, using professional concepts and company objectives to resolve complex issues in creative and effective ways.</p>
+<p>
+Duties and Responsibilities:<br>
+ Design API/SDK architecture<br>
+ Technical experience in modular software application architecture development<br>
+ Develop software and systems platform architecture<br>
+ Work with customers to gather requirements for platform specific system functional specifications<br>
+ The design and development of high-level product specification with attention to system integration and feasibility.<br>
+ Lead the initial architecture of major sub systems, defining the high-level platform design and reference technologies to be used<br>
+ Oversee progress of development teams to ensure consistency with initial design.<br>
+ Provide technical guidance and coaching to developers and engineers.<br>
+ Ensure software meets requirements of quality, security, modularity and extensibility.<br>
+ Coaching and mentoring teams on design practices and helping to resolve issues<br>
+ Participate in technical exchange meetings with program engineers, other contractors, and customers<br>
+ Support requirements definition and analysis for new software frameworks<br>
+ Develop documentation of system use cases for software architecture<br>
+ Apply and/or develop advanced technologies, scientific principles, theories and concepts</p>
+</div>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Job requirements</b></h2>
+<div>
+<p>Preferred Qualifications and/or Education:<br>
+ Bachelor's Degree in Engineering or equivalent experience in a related field<br>
+ 8+ years of experience working in a similar role<br>
+ 12+ years of experience as a software developer<br>
+ 5+ years of Linux platform experience<br>
+ C++ and design pattern experience<br>
+ Proven experience as a software architect<br>
+ Experience with mitigating design risks using research and proof of concept methods<br>
+ Excellent knowledge of software and application design and architecture<br>
+ Technical mindset with great attention to detail<br>
+ Understand end to end product lifecycle</p>
+</div>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Complementary description</b></h2>
+<div>
+<p>#LI-SH1</p>
+</div>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Company information</b></h2>
+<div>
+<p>Safran is an international high-technology group, operating in the aircraft propulsion and equipment, space and defense markets. Safran has a global presence, with more than 92,000 employees and sales of 21 billion euros in 2018. Working alone or in partnership, Safran holds world or European leadership positions in its core markets. Safran undertakes Research &amp; Development programs to meet fast-changing market requirements, with total R&amp;D expenditures of around 1.5 billion euros in 2018.</p>
+<p>
+Safran is ranked among the Top 100 Global Innovators by Thomson Reuters and is featured on the "Happy at work" rankings. The Group places fourth on the Universum ranking for the favorite companies of newly-qualified engineers in France.</p>
+</div>
+</div>
+</div></div>

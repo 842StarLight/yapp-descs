@@ -1,0 +1,78 @@
+<h2>Team Lead, Systems Engineering and Operations</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div><div><div>
+<p><b>Reports to</b>: VP Software Engineering</p>
+<p><b>Work location</b>: Anywhere</p>
+<p><b>Direct reports</b>: 2</p>
+<p>We are hiring a Team Lead over Systems Engineering and Operations to help expand our platform and operations excellence. We are inviting you to join our small, fully remote team of developers and operators helping make our platform faster, more secure, and more reliable. You will be self-motivated and disciplined in order to work with our fully distributed team.</p>
+<p>We are looking for someone who is a quick study, who is eager to learn and grow with us, and who has experience in in DevOps and Agile cultures. At Crunch, we believe in learning together: we recognize that we don’t have all the answers, and we try to ask each other the right questions. As Crunch employees are completely distributed, it’s crucial that you can work well independently, and keep yourself motivated and focused.</p>
+<h1 class="jobSectionHeader"><b>Our stack</b></h1>
+<p>We currently run our in-house production Python code against Redis, MongoDB, and ElasticSearch services. We proxy API requests through NGINX, load balance with ELBs, and deploy our React web application to AWS CloudFront CDN.Our currently CI/CD process is built around GitHub, Jenkins, BlueOcean including unit, integration, and end to end tests and automated system deployments. We deploy to Auto Scaling Groups using Ansible and Cloud-Init.</p>
+<p>In the future, all or part of our platform may be deployed via DroneCI, Kubernetes, nginx ingress, Helm, and Spinnaker.</p>
+<h1 class="jobSectionHeader"><b>What you’ll do</b></h1>
+<h2 class="jobSectionHeader"><b>As a manager:</b></h2>
+<ul>
+<li>Manage and lead a team of Cloud Operations Engineers who are tasked with ensuring our uptime guarantees to our customer base.</li>
+<li>Scale the worldwide Cloud Operations Engineering team with the strategic implementation of new processes and tools.</li>
+<li>Hire and ramp exceptional Cloud Operations Engineers.</li>
+<li>Assist in scoping, designing and deploying systems that reduce Mean Time to Resolve for customer incidents.</li>
+<li>Inform executive leadership and escalation management personnel of major outages</li>
+<li>Compile and report KPIs across the full company.</li>
+<li>Work with Sales Engineers to complete pre-sales questionnaires, and to gather customer use metrics.</li>
+<li>Prioritize projects competing for human and computational resources to achieve organizational goals.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>As an individual contributor:</b></h2>
+<ul>
+<li>Monitor and detect emerging customer-facing incidents on the Crunch platform; assist in their proactive resolution, and work to prevent them from occurring.</li>
+<li>Coordinate and participate in a weekly on-call rotation, where you will handle short term customer incidents (from direct surveillance or through alerts via our Technical Services Engineers).</li>
+<li>Diagnose live incidents, differentiate between platform issues versus usage issues across the entire stack; hardware, software, application and network within physical datacenter and cloud-based environments, and take the first steps towards resolution.</li>
+<li>Automate routine monitoring and troubleshooting tasks.</li>
+<li>Cooperate with our product management and engineering organizations by identifying areas for improvement in the management of applications powering the Crunch infrastructure.</li>
+<li>Provide consistent, high-quality feedback and recommendations to our product managers and development teams regarding product defects or recurring performance issues.</li>
+<li>Be the owner of our platform. This includes everything from our cloud provider implementation to how we build, deploy and instrument our systems.</li>
+<li>Drive improvements and advancements to the platform in areas such as container orchestration, service mesh, request/retry strategies.</li>
+<li>Build frameworks and tools to empower safe, developer-led changes, automate the manual steps and provide insight into our complex system.</li>
+<li>Work directly with software engineering and infrastructure leadership to enhance the performance, scalability and observability of resources of multiple applications and ensure that production handoff requirements are met and escalate issues.</li>
+<li>Embed into SRE projects to stay close to the operational workflows and issues.</li>
+<li>Evangelize the adoption of best practices in relation to performance and reliability across the organization.</li>
+<li>Provide a solid operational foundation for building and maintaining successful SRE teams and processes.</li>
+<li>Maintain project and operational workload statistics.</li>
+<li>Promote a healthy and functional work environment.</li>
+<li>Work with Security experts to do periodic penetration testing, and drive resolution for any issues discovered.</li>
+<li>Liaise with IT and Security Team Leads to successfully complete cross-team projects, filling in for these Leads when necessary.</li>
+<li>Administer a large portfolio of SaaS tools used throughout the company.</li>
+</ul>
+<h1 class="jobSectionHeader"><b>Basic qualifications</b></h1>
+<ul>
+<li>Team Lead experience of an on-call DevOps, SRE, or Cloud Operations team (at least 2 years).</li>
+<li>Experience recruiting, mentoring, and promoting high performing team members.</li>
+<li>Experience being an on-call DevOps, SRE, or Cloud Operations engineer (at least 2 years).</li>
+<li>Proven track record of designing, building, sizing, optimizing, and maintaining cloud infrastructure.</li>
+<li>Proven experience developing software, CI/CD pipelines, automation, and managing production infrastructure in AWS.</li>
+<li>Proven track record of designing, implementing, and maintaining full CI/CD pipelines in a cloud environment (Jenkins experience preferred).</li>
+<li>Experience with containers and container orchestration tools (Docker, Kubernetes, Helm, traefik, Nginx ingress and Spinnaker experience preferred).</li>
+<li>Expertise with Linux system administration (5 yrs) and networking technologies including IPv6.</li>
+<li>Knowledgeable about a wide range of web and internet technologies.</li>
+<li>Knowledge of NoSQL database operations and concepts.</li>
+<li>Experience in monitoring, system performance data collection and analysis, and reporting.</li>
+<li>Capability to write small programs/scripts to solve both short-term systems problems and to automate repetitive workflows (Python and Bash preferred).</li>
+<li>Exceptional English communication and troubleshooting skills.</li>
+<li>A keen interest in learning new things.</li>
+</ul>
+<h1 class="jobSectionHeader"><b>Advanced (preferred) qualifications</b></h1>
+<ul>
+<li>Software development experience using Python or JavaScript</li>
+<li>Bachelor’s Degree in Statistics, Science, Programming or Engineering related field</li>
+<li>Experience with MongoDB, Elasticsearch, and Redis</li>
+<li>AWS Management</li>
+</ul>
+<h1 class="jobSectionHeader"><b>Crunch</b></h1>
+<p>Crunch.io is a market-defining company in the analytics SaaS marketplace. We’re a company on the rise. We’ve built a revolutionary platform that transforms our customers’ ability to drive insight from market research and survey data. We offer a complete survey data analysis platform that allows market researchers, analysts, and marketers to collaborate in a secure, cloud-based environment, using a simple, intuitive drag-and-drop interface to prepare, analyze, visualize and deliver survey data and analysis. Quite simply, Crunch provides the quickest and easiest way for anyone, from CMO to PhD, with zero training, to analyze survey data. Users create tables, charts, graphs and maps. They filter, and slice-and-dice survey data directly in their browser.</p>
+<p>Our start-up culture is casual, respectful of each other’s varied backgrounds and lives, and high-energy because of our shared dedication to our product and our mission. We are loyal to each other and our company. We value work/life balance, efficiency, simplicity, and fantastic customer service! Crunch has no offices and fully embraces a 100% remote culture. We have 40 employees spread across 5 continents. Remote work at Crunch is flexible and largely independent, yet highly cooperative.</p>
+<p>We are an equal-opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status.</p>
+<p>Learn more about our team!</p>
+<h1 class="jobSectionHeader"><b>Apply now</b></h1>
+<div>To apply, send a resume and cover letter to jobs@crunch.io.</div>
+</div></div></div></div>
+<div></div>
+</div>

@@ -1,0 +1,109 @@
+<h2>Senior Systems Engineer – VMware (Avi Networks)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Senior Systems Engineer – VMware (Avi Networks)</b></p>
+<p></p>
+<p><b>
+Avi Networks</b>, recently acquired by VMware, delivers software-defined application services with intelligent automation and elasticity with multi-cloud data fabrics. The Avi Vantage Platform (<b>VMware NSX Advanced Load Balancer</b>) also includes an Intelligent Web Application Firewall (iWAF) and Universal Service Mesh to ensure fast, scalable, and secure application delivery. Avi Networks also integrates seamlessly with API driven automation and orchestration tools such as Ansible and Terraform. Avi Networks completes and enables enterprises’ digital transformation.</p>
+<p></p>
+<p>
+With Avi Networks now part of VMware, we can deliver the industry’s only complete software-defined networking stack from L2-L7 built for the modern multi-cloud era leveraging a common architectural foundation. VMware will be able to offer both built-in load balancing capabilities as part of VMware NSX, and an advanced, standalone ADC offering that includes global server load balancing, web application firewall (WAF) and advanced analytics and monitoring.</p>
+<p></p>
+<p><b>
+The Role:</b></p>
+<p>
+We are looking for a driven, experienced, and extremely technical Sr Systems Engineer to build and expand our customer base in major markets. You must thrive on working with the Regional Sales Managers to deliver solutions to customers that consists of ground-breaking technology and new ways of automating their environments. Developing a strong understanding of Avi Networks and the adjacent ecosystems: public clouds (AWS, Azure, GCP), service mesh &amp; containers (OpenShift, K8s, Istio, Docker, Rancher), OpenStack, SDN (NSX, ACI, Nuage), automation tools (Ansible, Terraform, BOSH), etc., is crucial to the success of this position.<br>
+</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Conduct pre-sales technical assistance, solutions and product education.</li>
+<li>
+Architect complete solutions which meet client needs in the high-end markets.</li>
+<li>
+Develop and deliver technical presentations and product demonstrations.</li>
+<li>
+Design, implement, test and troubleshoot PoV/PoC environments.</li>
+<li>
+Participate and represent Avi Networks in customer field events such as trade shows, conferences, seminars, etc.</li>
+<li>
+Respond to functional and technical elements of RFIs/RFPs.</li>
+<li>
+Convey customer requirements to Product Management teams.</li>
+<li>
+Participate in the development of technical account strategy.</li>
+</ul>
+<p><br>
+<b>
+Background Requirements:</b></p>
+<ul>
+<li>
+B.S. in Computer Science, Engineering, or a related field is preferred.</li>
+<li>
+5+ years relevant experience in vendor sales.</li>
+<li>
+8+ years relevant experience building networking, virtualization, and software solutions.</li>
+<li>
+Proven experience as a pre-sales, systems engineer or customer-facing engineer working on large scale enterprise environments</li>
+<li>
+Experience and understanding of DC infrastructure products, SDN and virtualization technologies, as well as ADC services.</li>
+<li>
+Expertise with automation and orchestration tools, and the ability to help customers operationalize advanced deployments.</li>
+<li>
+Knowledgeable in scripting languages, and REST API</li>
+<li>
+Ability to interact and communicate with CxO level personnel</li>
+<li>
+Willingness to support customers during product demonstrations, training, and PoCs</li>
+</ul>
+<p></p>
+<p><b>
+Additional Qualifications:</b></p>
+<ul>
+<li>
+Self-motivated with a proven track record in hardware/software sales and a strong knowledge of technology.</li>
+<li>
+Demonstrated Systems Engineering success in an early-stage high growth firm (1st-4th in market) as well as a well-regarded, market-leading firm a must.</li>
+<li>
+Ability to engage with customers and to effectively evangelize solutions by highlighting technical merits while simultaneously addressing customer needs.</li>
+<li>
+Comfortable in the dynamic atmosphere of a technical organization with a rapidly expanding customer base.</li>
+<li>
+Strong presentation skills and the ability to communicate professionally via written responses including emails, RFPs, and reports.</li>
+<li>
+Excellent written and verbal communication skills</li>
+<li>
+Demonstrated ability to actively orchestrate resources and manage across a complex matrix environment within a quarterly driven sales environment.</li>
+<li>
+This role is (home) office based, but travel will be required</li>
+</ul>
+<p></p>
+<p><b>
+The Company:
+</b></p>
+<p>VMware is the leader in virtualization and cloud infrastructure solutions that enable our more than 350,000 enterprise and SMB customers to thrive in the Cloud Era/ A pioneer in the use of virtualization and automation technologies, VMware simplifies IT complexity across the entire data center to the virtual workplace, empowering customers with solutions in the software-defined data center to hybrid cloud computing and the mobile workspace.</p>
+<p></p>
+<p>
+Our team of 20,000+ employees working in 50+ locations worldwide is committed to building a community where phenomenal people want to work long term by living our values of passion, innovation, execution, partnership, active learning and giving back. If you are ready to accelerate, innovate and lead, join us as we challenge constraints and problem solve for tomorrow today. Learn more at www.vmware.com/careers.</p>
+<p></p>
+<p><b>
+Benefits:</b></p>
+<p>
+Changing the world is not an easy job. With your valuable talents and innovative achievements, you deserve to be rewarded with benefits that inspire you to succeed in a fun, flexible environment. Our programs at VMware will keep you engaged and part of a supportive community so you can dare to reach your dreams.</p>
+<ul>
+<li><b><i>
+At VMware we also know there’s more to a job than a salary. That’s why we offer a competitive benefits package and resources so you can balance the demands of work and life.</i></b></li>
+<li>
+VMware strives to create a flexible friendly work environment.</li>
+<li>
+Continuous learning- VMware offer a range of L &amp; D programs including work within different teams and multi month assignments.</li>
+<li>
+VMware also offers a Full benefits package for employees.</li>
+</ul>
+<br>
+<b>
+Business Unit: </b>Sales: VMware’s Sales team focuses on two primary goals: helping customers solve their biggest business problems and hitting our bookings targets to keep our company growing and strong. We begin by forging deep relationships with our customers, so we can truly understand their business challenges and opportunities. We help drive their digital transformation by bringing VMware solutions that provide the speed, agility, and efficiency needed to compete and grow in the Internet economy. We also try to make the world a better place by hosting and participating in community activities. Are you inspired by the chance to solve your customers’ biggest challenges? You can make that kind of difference with VMware’s portfolio of industry-leading solutions. Join our team, and you can grow your career and share in the success of an industry pioneer that’s turning companies into truly digital enterprises.<br>
+<br>
+<b>VMware Company Overview: </b>VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.<br>
+<br>
+<b>Equal Employment Opportunity Statement:</b> VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</div></div>

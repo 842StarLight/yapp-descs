@@ -1,0 +1,81 @@
+<h2>Senior SQL Database Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>Senior SQL Database Administrator</b><br>
+<b>Corporate Headquarters</b><br>
+<b>12575 Uline Drive, Pleasant Prairie, WI 53158</b>
+</div>
+<br>
+Uline is seeking a Senior Database Administrator to join our Technology team.<br>
+<br>
+<div>
+<b>Come visit one of our Open Houses! Visit </b><b>uline.jobs</b><b> for details.</b><br>
+<b>Talk to us about this position, see Uline's gorgeous facilities and learn all about our spectacular growth, generous benefits and awesome people!
+</b>
+</div>
+<br>
+<b>Position Responsibilities</b><ul>
+<li>
+Support all areas of the enterprise, ensuring all databases run at optimal performance.</li>
+<li>
+Ensure that industry-wide security standards are properly implemented.</li>
+<li>
+Develop and optimize complex T-SQL and PL/SQL code.</li>
+<li>
+Design and develop SQL code, ETL processes and SSRS reports based on provided requirements.</li>
+</ul>
+<br>
+<b>
+Minimum Requirements</b><ul>
+<li>
+10+ years of experience in data integration, data movement and database administration <b>preferred.</b>
+</li>
+<li>
+Proficient in the following RDBMS: SQL Server 2012-2017 (expert), Oracle 11g and 12c RAC (basic), DB2 LUW 11.1 pureScale (basic).</li>
+<li>
+Experience with SQL Server replication (transactional, snapshot, SQL and Oracle target).</li>
+<li>
+Proficient in installing, configuring, upgrading and patching all RDBMS listed above, as well as OLTP performance troubleshooting.</li>
+<li>
+Experience with HA/DR technology for RDBMS’ mentioned above</li>
+</ul>
+<div><b>Benefits</b></div>
+<ul>
+<li>
+Complete insurance coverage that includes medical, dental, vision and life insurance, Flexible Spending Accounts and wellness programs.</li>
+<li>
+401(k) with 5% employer match.</li>
+<li>
+Paid holidays and generous paid time off.</li>
+<li>
+Bonus programs that include annual performance, sales goals and profit sharing.</li>
+<li>
+Scholarship program for children of employees.</li>
+</ul>
+<div>
+<br>
+<b>
+Employee Perks</b>
+</div>
+<ul>
+<li>
+On-site café with executive chefs and seasonal dinner-to-go options.</li>
+<li>
+First-class fitness center with complimentary personal trainers.</li>
+<li>
+Over four miles of beautifully maintained walking trails.</li>
+<li>
+Numerous employee appreciation events throughout the year.</li>
+<li>
+Professional development classes and monthly in-house speakers.</li>
+</ul>
+<br>
+<b>
+About Uline</b><br>
+<br>
+Uline is the leading distributor of shipping, industrial and packaging materials to businesses throughout North America. We're a family-owned company known for incredible service and quality products. We offer same-day shipping on over 36,000 products found in our 788-page catalog and on our state-of-the-art e-commerce website.<br>
+<br>
+Our quality products, huge inventory and ongoing expansion fuel our incredible growth. This is a great time to join Uline!<br>
+<br>
+EEO/AA Employer/Vet/Disabled<br>
+Uline is a drug-free workplace.</div></div>

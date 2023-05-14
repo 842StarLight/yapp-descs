@@ -1,0 +1,86 @@
+<h2>Sr. Director, System Test and Customer Adoption</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>ISBU has been an innovative start-up within VMware that past two years, growing at a rocket ship pace. ISBU’s mission is to create secure, agile, and consistent hybrid clouds – which then enables enterprises to run a spectrum of workloads, from mission-critical workflows to apps leveraging containers, ML/AI, Blockchain, Big Data, FaaS, HPC infrastructure or other technologies in both private and public environments. To achieve this mission, ISBU delivers a full stack hybrid cloud infrastructure, VMware Cloud Foundation (VCF), which has become VMware’s de facto solution in both the private and public clouds. For more information: https://www.vmware.com/products/cloud-foundation.html</p>
+<p></p>
+<p>
+We are looking for an ambitious, entrepreneurial leader with a strong combination of business and technical skills to lead a unique role to maintain and enhance the phenomenal customer experience of VCF. There are two primary responsibilities in this role:</p>
+<p>
+(a) owning and driving Customer adoption and ensuring great Day 0 and Day N experience for VCF, and</p>
+<p>
+ (b) being responsible for the end-to-end quality of our full stack software solutions.</p>
+<p></p>
+<p>
+Through your efforts, you will directly impact customer adoption and customer experience for VCF, and bring the learnings back to improve our product development and system testing.</p>
+<p></p>
+<p>
+In the first portion of the role, you will own strategic customer success at scale, ensuring a great customer experience through successful deployments, and helps customers maximize ongoing value from our solution. Approaching 1,000+ customers worldwide by the end of the year, the Customer Adoption team represents a significant opportunity to deepen and expand VMware’s overall customer relationships and significantly contribute to the sales objectives. This role is highly visible and will work closely with executives and leaders from Sales, Product Management, Engineering, Technical Support, Professional Services, Partners, Operations. The leader will create and implement systems and processes to operationalize these practices at scale.</p>
+<p>
+For the second portion, you will own the overall efforts of end-to-end System Testing and DevOps/Serviceability Tools. You will lead a dynamic, global, System Test engineering team with the responsibility to ensure that we deliver high-quality solutions to meet our customers’ needs. You will also develop and maintain innovative tools to improve customer experience when using our product, and engineering and DevOps experience with our CI/CD pipeline. As the leader of this team, you will be responsible for the overall quality of VCF, communication, teamwork, and people management of our System Test Engineering teams.
+</p>
+<p></p>
+<p><b>How do you succeed:
+</b></p>
+<p></p>
+<ul>
+<li>
+<b>Develop Customer Adoption Strategy.</b> Identify the most effective path to successfully manage key strategic accounts, large service providers, and typical customers. Build a team and process to scale support for our growing install base of customers.</li>
+<li>
+<b>
+Nurture System Test Strategy</b>: Improve and implement the long-term vision and strategy for system test to maintain and improve solution quality, including customer scenario testing, stress testing, interop testing, scale testing, etc. Provide leadership and technical guidance within System Test Engineering, and work cross-functionally with other BUs to create a streamlined end-to0end validation and testing pipeline, and tools development. Apply creative thinking/approach to determine test solutions that further release certification goals while considering reliability, scalability, usability, flexibility, and cost.
+</li>
+<li>
+<b>Develop innovative tools and frameworks: </b>You are an innovative engineering leader who will extend current tools and develop new means to measure and improve the customer experience, and DevOps/engineering experience when using our CI/CD pipeline</li>
+<li>
+<b>
+Customer and Business Advocacy: </b>You will be the champion for customer experience to Product Management and Development engineering for VCF. You will own and monitor release quality from a customer viewpoint. To our Customer Success, Global Support, and operations teams, you will be both a trusted and reliable partner, and be the advocate and spokesperson for our product capabilities and enterprise readiness. To our customers, you will be a voice for engineering and product, and our roadmaps.</li>
+<li>
+<b>
+Be the Master of Cross-Functional Leadership.</b> Partner with our product development teams to evolve and modernize our system strategy, including driving testing more into development teams across products. Engage, collaborate, and strongly influence global organizations across various VMware functions to succeed with VCF at scale. (Sales, Product Management, Engineering, Technical Support, Professional Services, Partners, Operations, and other core functions)</li>
+<li>
+<b>
+You have strong Technical Acumen. </b>You are a technical problem solver – and are equally adept in diving in, understand and summarize technical and product issues, as well as quickly analyze and improve the efficiency and success rate of our engineering pipelines. Using the right data and dashboards, you can have real-time insights into the state of our product releases, as well as our customer’s experience when using our products.</li>
+<li>
+<b>
+You have strong business Acumen and Savviness.</b> You can identify and drive revenue expansion and repeat business. You can work and negotiate with sales teams on their needs and the customer needs without giving away the business and quality.</li>
+<li>
+<b>
+Passion, Energy, and Commitment for the Customer with Strong Bias Towards Action with Scale in Mind.</b> Do what it takes to deliver upon our commitments to customers and enable the relationships to evolve and flourish. You act with speed and empathy/thoughtfulness to rapidly mitigate and solve customer and account escalations. At the same time, you are mindful of the business and product requirements and collaborate with product management and engineering to avoid developing custom solutions.</li>
+<li>
+<b>
+Team Player and mentor: </b>You mentor, develop and hire smart, technically savvy, dedicated, and collaborative engineers and leaders into your global team. You chip in to fill gaps and support others, even outside your direct scope. You inspire and develop teams to improve, through coaching, reviews, and help design, architect, and build better solutions. People love working for you.</li>
+<li>
+<b>
+Deep thinker:</b> You can see the forest for the trees, present "the big picture" and offer solutions to make it better. You are an extraordinarily intelligent, rigorous thinker who can operate successfully among very bright and charismatic people.</li>
+<li>
+<b>
+Robust Design and Communication skills: </b>You help your team understand requirements. You can structure and summarize complex issues and thoughts into simple and easy to understand concepts presentable at the executive level. You communicate excellently, but you are also a great listener.</li>
+</ul>
+<p></p>
+<p><b>
+Your background:</b></p>
+<p></p>
+<ul>
+<li>
+12-15+ years of experience delivering, designing, tooling and testing complex, distributed enterprise software, and services.</li>
+<li>
+4+ years of engaging with external and internal customers to successfully drive adoption of solutions, services, products or tools, including managing relationships and escalations</li>
+<li>
+8+ years of senior people management and team building experience leading, recruiting, and retaining premier software engineers within the area of test who have diverse experience in system level testing and tooling for complex and large-scale environments, focusing on stress, scalability, customer scenarios, and system integration</li>
+<li>
+Ambitious, entrepreneurial leader. Entrepreneurial, metrics minded strategic thinker who can move and act at operational and tactical levels when required.</li>
+<li>
+Deep and structured thinker with the ability to create and execute a cohesive strategy High level of energy, ability to lead and gain respect among peers, team and other business partners; be viewed as a real motivator and leader with vision in the organization.</li>
+<li>
+Strong empathy towards customers and engineering teams. Passion for high, but sustainable revenue and growth</li>
+<li>
+Excellent analytical skills, passion for data and facts</li>
+<li>
+Strong negotiation abilities, both business and technical</li>
+<li>
+Experience leading large, cross-functional teams to deliver successful, value-driven outcomes</li>
+<li>
+Excellent communication skills, both written and oral. Even better at listening.</li>
+<li>
+BS in Computer Science or related discipline. Advanced degree (MS/Ph.D.) preferred</li>
+</ul>
+</div></div>

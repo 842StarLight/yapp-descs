@@ -1,0 +1,73 @@
+<h2>Senior Tool Chain Engineer- DevOps</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<p><br>
+<b>Capture Your Edge with a Global leader in the exciting field of Enterprise Asset Intelligence. With Global Sales of over $4.22B USD, Zebra Technologies has 100+ global offices in 45 countries.</b></p>
+<p>
+Zebra’s Enterprise Asset Intelligence captures real-time data and increases the productivity of an on-the-go workforce. Our versatile integrated voice and data mobile computing products allow organizations to capture information specific to their enterprises’ demands. We are number 1 in Mobile Computing with thousands of customers and well over 10,000 channel partners. rapid growth in worldwide online shopping and e-commerce.</p>
+<p>
+We are searching for a DevSecOps engineer for our IT team to support our Engineering and Product Development business units focusing on automation and extensive variety of cloud services opportunities while delivering infrastructure DevOps services and supporting the global engineering labs.</p>
+<div></div>
+<br>
+<p>
+The DevSecOps engineer is responsible for assisting product development teams to speed development times. This includes responsibility for executing the tools and processes to enable DevSecOps and will support an end-to-end provisioning process, facilitating automation wherever possible. Part of the DevSecOps engineer job is to ensure the orchestration/automation layer automatically adds, modifies, or removes any service in a standard and controlled manner based on defined application policies and new services / components are automatically built as planned based on usage patterns. Ideally the candidate should have experience within a wide variety of Cloud Services and process automation.</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div><ul>
+<li>Ensure services are automatically provisioned as expected in Production and works with Build Engineer to setup templates in catalog.</li>
+<li>
+Automates the request for standard Infrastructure services for which a pre-defined approval and qualification process exists.</li>
+<li>
+Builds plugins and extensions to developer tools</li>
+<li>
+Define an end-to-end provisioning process facilitating automation wherever possible</li>
+<li>
+Perform patch management and image management activities</li>
+<li>
+Ensure standard build/image for overall enterprise</li>
+<li>
+Ensure the orchestration/automation layer automatically adds, modifies, or removes any service in a standard and controlled manner based on defined application policies</li>
+<li>
+Ensure new services / components are automatically built as planned based on usage patterns</li>
+<li>
+Automatically perform patch management activities (i.e. acquire, test, and install code changes to an administered computer system)</li>
+<li>
+Document and communicate how service items can be requested and how they will be delivered to the requester</li>
+<li>
+Perform image management tasks (i.e. maintenance and support for the base images and the core software components)
+</li>
+</ul></div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div><ul>
+<li>Bachelors Degree in Computer Science or Software Engineering</li>
+<li>
+5+ years of event and provisioning management experience</li>
+<li>
+Significant experience with software defined infrastructure</li>
+<li>
+Extensive knowledge of IT applications, infrastructure and Service Assembly and Service Operations</li>
+<li>
+Moderate understanding of service management tools for event management, provisioning and monitoring</li>
+<li>
+Extensive knowledge and experience with automation software such as Ansible or Chef</li>
+</ul></div></div></div>
+</div>
+<div></div>
+<br><div>
+<h2 class="jobSectionHeader"><b>Need help finding the right job?
+</b></h2>
+<div><div><div>We can recommend jobs specifically for you! Click here to Connect with us!<br>
+</div></div></div>
+<div>
+<br>
+<br>
+Zebra is an equal opportunity/affirmative action employer committed to a diverse and inclusive workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, ancestry, marital status, age, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. If you are an individual with a disability and need assistance in applying for a position, please contact us at workplace.accommodations@zebra.com.<br>
+<br>
+The EEO is the Law poster is available here: https://www.zebra.com/content/dam/zebra/compliance/eeoisthelawposter.pdf. The EEO is the Law poster supplement is available here: https://www.zebra.com/content/dam/zebra/compliance/ginasupplement.pdf.</div>
+</div>
+</div>

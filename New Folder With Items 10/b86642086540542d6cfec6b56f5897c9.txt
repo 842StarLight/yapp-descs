@@ -1,0 +1,33 @@
+<h2>Product Owner</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>The mission of the Syndigo product owner is to understand the needs of our users and how those needs fit into the overall vision for each product or feature.</p>
+<p>
+The Product Owner will be responsible for the end-to-end process related to his or her features, including: developing functional and non-functional business requirements, collaborate with engineering to build features according to business needs, train internal and external stakeholders on new product functionality, and function as the product/technical lead during sales cycles. This role will require someone who understands technology and business, a high degree of organization and attention to detail, and the ability to professionally interact with a diverse blend of personalities to reach resolution and maintain strong relationships.</p>
+<p>
+The preference would be for this role to be based in Syndigo's Nashville office, but candidates in Cleveland, Chicago, or Waukesha will also be considered.</p>
+<p>
+RESPONSIBILITIES</p>
+<ul>
+<li>Provide consistency and clarity to software development projects by identifying business needs and constraints, defining scope, and ensuring efficient execution</li>
+<li>Responsible for defining requirements and recommending solutions in the form of epics, user stories and acceptance criteria</li>
+<li>Identify all functional and non-functional requirements</li>
+<li>Work with engineering and business stakeholders to groom and prioritize the backlog of user stories through the release and sprint cycles</li>
+<li>Act as a proxy for the business throughout development, testing, and release activities to ensure the business needs are being met</li>
+<li>Develop business analysis artifacts, such as business rules or process flows to clarify requirements</li>
+<li>Coordinate with other departments in advance of feature and product launches to develop messaging to evangelize new releases, features, or updates</li>
+<li>Conduct product training, both internal and externally, including, but not limited to: training internal trainer(s), collaborating with technical writer to product new product/feature documentation, introduce new functionality to internal employees or key customers</li>
+<li>Participate in sales cycles as the technical/product lead. Prepare and deliver technical presentations/demos explaining products or services to customers and prospective customers.</li>
+<li>Collect and document competitive intelligence</li>
+</ul>
+<p>REQUIREMENTS</p>
+<ul>
+<li>3+ years’ experience as a product owner, product manager, or business analyst with a technology-focused organization (ie, digital agency, SaaS product firm)</li>
+<li>Track record of leading technical projects through full life cycle from definition to post-launch</li>
+<li>Excellent client-facing and internal communication skills</li>
+<li>Excellent written and verbal communications skills, able to communicate in business and technical terms</li>
+<li>Solid organizational skills including attention to detail and multi-tasking skills</li>
+<li>Strong ability to translate product concepts and ideas into functional requirements</li>
+<li>Bachelor's degree required</li>
+<li>Understanding of Agile software development, CSPO a plus</li>
+</ul>
+</div></div>

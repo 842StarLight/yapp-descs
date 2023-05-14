@@ -1,0 +1,74 @@
+<h2>Senior Software Engineer (Javascript, Node.js)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Are you passionate about building Web applications? Do you want to work with other smart people who really care about their craft? Do you excel in an environment of continuous self-improvement and learning? We are looking for someone who is motivated to build truly great web applications to lead our web development initiatives and develop high performing applications. The apps we build are used by Splunk’s sales &amp; customer success organizations and partners to help prospects and customers understand the value they can derive from Splunk, and provide actionable plans to achieve this. These apps have a measurable effect on Splunk’s bottom line.</p>
+<h3 class="jobSectionHeader"><b>
+Your Responsibilities:</b></h3>
+<ul>
+<li>
+Write state of the art applications using a modern JavaScript stack (Node.js, React).</li>
+<li>
+Collaborate with UI experts and designers to implement responsive interfaces across multiple platforms.</li>
+<li>
+Build close relationships with teammates, product managers, and quality engineers.</li>
+<li>
+Break down feature requests into actionable plans and assist when needed with the creation and execution of test plans.</li>
+<li>
+Put your head together with key architects and managers to establish and implement standard methodologies for delivery of high quality software.</li>
+<li>
+Ensure development projects fulfill business requirements and goals and delight end-users.</li>
+<li>
+Create necessary documentation to ensure project objectives are met and that designs are well documented and communicated.</li>
+<li>
+Engage in hands-on, in-depth analysis, review, design, development and debugging of your applications.</li>
+</ul>
+<h3 class="jobSectionHeader"><b>
+Requirements:</b></h3>
+<ul>
+<li>
+8 years of web application development using Javascript, HTML, and MVC frameworks.</li>
+<li>
+2 years of professional experience developing single-page applications.</li>
+<li>
+Strong knowledge of CSS and Javascript.</li>
+<li>
+Familiarity with developing and working with Restful APIs using Node.js frameworks.</li>
+<li>
+Experience with single-page application frameworks and web design industry standards.</li>
+<li>
+Excellent analytical skills and attention to detail.</li>
+<li>
+Proven ability to pick up new technologies and concepts quickly, coupled with an unending desire to learn and improve.</li>
+<li>
+Experience with automated build and deploy systems, such as Jenkins.</li>
+<li>
+Experience crafting and developing multi-tiered applications in a microservices architecture.</li>
+<li>
+Strive to work in a team-first, collaborative environment.</li>
+<li>
+Experience working on cross-browser, multi-device applications.</li>
+<li>
+Excellent communications and interpersonal skills.</li>
+<li>
+Proven track record of developing web applications, from inception to delivery.</li>
+<li>
+Highly self-motivated and disciplined.</li>
+<li>
+Appreciation and understanding of usability, networking, security, privacy, and regulatory compliance.</li>
+<li>
+Familiarity with Jira, Git and agile development methodology a huge plus.</li>
+<li>
+Experience selecting, using, and tuning relational and NoSQL databases and message queueing systems.</li>
+<li>
+Familiarity with application containerization (Docker).</li>
+<li>
+Familiarity with Amazon Web Services (AWS) a plus.</li>
+</ul>
+<h3 class="jobSectionHeader"><b>
+Education:</b></h3>
+<ul><li>
+Bachelor's degree in CS, CE, or MIS or equivalent experience</li></ul>
+<h3 class="jobSectionHeader"><b>
+This isn’t a job – it’s a life changer – are you ready?</b></h3>
+<p>
+We value diversity at our company. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which you are applying to.</p>
+</div></div>

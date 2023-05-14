@@ -1,0 +1,82 @@
+<h2>Platform Support Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Summary:</b></p>
+<p>The Optanix <b>Platform Support Specialist</b> <b>(PSS1)</b> will follow defined PaaS procedures in managing daily service tickets and providing the highest level of customer service satisfaction. The PSS Level 1 will be responsible for taking ownership of client specific requests, incidents and resolution process for the product support lifecycle. The PSS Level 1 will be an expert in the user experience utilizing the GUI for each Platform release that is deployed in the field. The PSS Level 1 will proactively review client trends, perform client root cause analysis and document executable plans and steps to reduce repeatable incidents using the Knowledge Database. This position requires consistent communication and feedback to other functional groups within Optanix, such as Customer Success Managers, Engineering, Product Management and RMS (Remote Managed Services).
+</p>
+<p></p>
+<p><b>Core Competencies:</b></p>
+<ul><li>General understanding of LAMP stack technologies (Linux, Apache, MySQL and PHP).
+</li></ul>
+<ul><li>General understanding of Network and Systems Administration.
+</li></ul>
+<ul><li>Self-motivated, analytical, quick learner, organized, detail-oriented, result oriented, and ability to multitask.
+</li></ul>
+<ul><li>Strong written and verbal communication skills, including ability to deliver customer presentations or trainings. Strong work</li></ul>
+ethic, initiative and integrity.
+<p></p>
+<p><b>Essential Functions and Responsibilities:</b></p>
+<p>o IT Service Management (ITSM) Roles
+</p>
+<p>§ Service Desk (First Line Support)
+</p>
+<ul><li>Log all relevant incident/service request details, allocating categorization and prioritization codes.
+</li></ul>
+<ul><li>Provide first-line investigation and diagnosis.
+</li></ul>
+<ul><li>Resolve real-time incidents/service requests whenever possible.
+</li></ul>
+<ul><li>Escalate incidents/service requests that cannot be resolved within terms of respective SLAs (Service Level Agreements).
+</li></ul>
+<ul><li>Close all resolved incidents, customer/channel/partner requests and other calls.
+</li></ul>
+<ul><li>Solicit customer/user satisfaction call-backs/surveys per the NPS process.
+</li></ul>
+<ul><li>Update the CMS (Configuration Management System) under the direction and approval of Service Asset &amp; Configuration</li></ul>
+Management (SACM) if so agreed.
+<p>o Assume ownership of maintenance, health and functionality of deployed Platform versions.
+</p>
+<p>o Drive successful scheduled change control events.
+</p>
+<p>o Possess a comprehensive understanding of the Platform in all GA (General Availability) releases, with the ability to<br>
+highlight key features, reports, and dashboards for technology types and subsequently articulate those features within the<br>
+Platform in relation to customer needs.
+</p>
+<p>o Fulfill all Optanix post-incident billing review &amp; submittal process.
+</p>
+<p>o Follow-up on 80% of all calls within 30 minutes, 100% of all calls within 60 minutes.<b>Customer Support</b>
+</p>
+<p>o Achieve a high-level of customer rapport when working directly with a channel partner or customer.
+</p>
+<p>o Achieve and maintain a successful NPS (Net Promoter Score) rating with the channel partner or customer.
+</p>
+<p>o Create, develop and maintain reference documentation for channel partners and customer for the external Partner<br>
+Portal Knowledge Base.
+</p>
+<p>o Create, develop and improve policies, procedures and best practices for the internal Optanix Knowledge Base. <b>Communication</b>
+</p>
+<p>o Communicate with users – keep them informed of incident progress, notify them of impending changes or critical<br>
+outages, etc.
+</p>
+<p>o Use proficient and professional communication skills (written and verbal) to effectively communicate with internal and<br>
+external teams.
+</p>
+<p>o Deliver impactful, high-quality presentations and/or trainings to clients of all sizes, virtually and in person.
+</p>
+<p>o Outline technical detail in case notes within Platform and other necessary systems (i.e. JIRA, AHA etc.).
+</p>
+<p><b>Special Projects</b>
+</p>
+<p>o Participate in a variety of special projects as requested, including explorations of system or process improvements, new<br>
+feature requests, and joint projects with Engineering/Product Management, Professional Services, TAC, Sales and<br>
+Customer Success Management.
+</p>
+<p></p>
+<p><b>Education (minimum required):</b></p>
+<p>High School Diploma/GED; major in Information Technology, or related field preferred.</p>
+<p></p>
+<p><b>Experience (minimum required):</b></p>
+<p>0-3 years; customer support and system administration experience preferred.</p>
+<p></p>
+<p><b>Certifications:</b></p>
+<p>Industry relevant certifications (LPIC/CCNA, etc.); ITIL preferred.</p>
+</div></div>

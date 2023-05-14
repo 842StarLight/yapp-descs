@@ -1,0 +1,101 @@
+<h2>Application Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>About Midwest Tape</b></p>
+<p>Midwest Tape is a library-dedicated full-service media distributor providing physical and digital media to thousands of libraries across North America. We are strong believers in continually innovating to better serve our customers and deliver the best experience possible for the staff and patrons of public libraries. Our International Headquarters is located in Holland, Ohio at the facility that we built in 2016, to house our distribution center and support teams for Midwest Tape, hoopla digital, the fastest growing app serving libraries and Dreamscape Publishing, the Library-First publisher of Audiobooks and Video. As we build our team to support the ongoing growth of our business, we are looking for enthusiastic team players dedicated to delivering best-in-class service for our library customers and their patrons.<br>
+ </p>
+<p></p>
+<div>
+<b>Position Goal</b><br>
+Increase efficiency and stability of current custom developed and acquired information systems. Increase collaboration with stakeholders and IT application owners to improve positive impact along with the quality of Midwest Tape's core applications.<br>
+<br>
+<b>Position Summary:</b><br>
+<ul><li>Enable delivery, communications, and design around robust internal IT systems</li></ul>
+</div>
+<ul>
+<li>Contribute development code to some key projects in order to analyze patterns</li>
+<li>Collaborate with several segments of the IT organization to deliver multi-platform products</li>
+<li>Analyze and audit system workflow and code quality</li>
+<li>Focus on supporting company growth through helping to focus on key stability areas</li>
+</ul>
+<ul>
+<li>Foster continuous improvement in both business processes and IT systems</li>
+<li>Strengthen the relationship between analytic data / reporting and new development features</li>
+<li>Contribute to project management strategic planning</li>
+<li>Interact with release communications and quality assurance staff during the development cycle</li>
+<li>Assist in managing the production support workload while strategically planning feature releases</li>
+<li>Analyze current IT workflows with stakeholders to identify areas of inefficiency with internal systems</li>
+<li>Strengthen current documentation and business education of data and systems operations</li>
+</ul>
+<br>
+ <p><b>Core IT Systems:</b><br>
+.NET / ASP.NET Frameworks<br>
+Java/React Frameworks<br>
+SAP Business Software<br>
+Sales Force Business Cloud<br>
+Media Delivery and Storage Technologies</p>
+<br>
+ <p></p>
+<div>
+<b>Primary Duties and Responsibilities:</b> - Contribute developed code to some key projects in order to analyze patterns<br>
+<ul>
+<li>Contribute to process mapping documentation</li>
+<li>Ensure development lifecycles are adhered to during sprint cycles</li>
+<li>Review project tasks and provide accurate estimates for completion timelines</li>
+<li>Communicate status of project tasks to senior team members and management as required</li>
+<li>Demonstrate effective and collaborative communication with internal team members and business partners</li>
+<li>Proactive work toward study on information systems that are in a production support only phase to find new efficiencies</li>
+</ul>
+</div>
+<br>
+ <p></p>
+<div>
+<b>Skills:</b><br>
+<ul><li>Application development using VB.NET and ASP.NET</li></ul>
+</div>
+<ul>
+<li>Ability to code review Java/React frameworks -Strong analysis/troubleshooting skills</li>
+<li>Experience mapping processes with stakeholders</li>
+<li>Broad knowledge of IT services and technologies</li>
+<li>Testing methodology lifecycle experience</li>
+<li>Experience developing services, service roadmaps, and service strategies</li>
+<li>Comfortable working on systems that interact with terabyte size relational data sets across many technologies</li>
+<li>Familiarity with modern application security identity and role based architecture</li>
+<li>Able to foster open conversations around inefficiencies involving application workflow</li>
+<li>Basic reporting and sql background (Oracle, PostGreSql, MySQL)</li>
+<li>Experience using Microsoft Project</li>
+<li>Experience using Microsoft Visio</li>
+</ul>
+<br>
+ <p></p>
+<div>
+<b>Preferred Experience:</b><br>
+<ul>
+<li>Minimum 7+ years experience in information system management</li>
+<li>Served in a role where production support of a large application was a primary duty</li>
+<li>Experience with modern enterprise cloud offerings</li>
+<li>SAP and Sales Force experience</li>
+<li>Experience presenting data findings and information insight drafts to business stake holders</li>
+<li>Experience working with outside resources through conferencing and specifications</li>
+</ul>
+<br>
+<b>Preferred Education Requirements</b><b>:</b><br>
+<ul>
+<li>Courses or certificates in modern development languages and information delivery</li>
+<li>Bachelor's degree in computer science or related area, or equivalent additional work experience required</li>
+<li>Demonstrated ability to create processes procedures, standards, or policies</li>
+<li>Excellent written and verbal communication skills</li>
+</ul>
+<br>
+<b>Physical Requirements / Work Environment</b><b>:</b><br>
+The work environment characteristics and physical demands described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br>
+<ul>
+<li>Authorized to work in the United States without sponsorship now or in the future</li>
+<li>Ability to regularly sit for extended periods of time</li>
+<li>Ability to control emotions under various levels of pressure, stress and fast paced activities</li>
+<li>Perform repetitive motion type tasks</li>
+</ul>
+</div>
+</div>
+<p></p>
+</div>

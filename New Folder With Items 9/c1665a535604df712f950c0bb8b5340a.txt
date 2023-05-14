@@ -1,0 +1,64 @@
+<h2>Software Development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>We are seeking a candidate with a passion for software engineering built on solid design, implementation, and testing principles. This role provides the opportunity to perform technical work on embedded systems and web applications for our WAN management network products. The candidate must be able to operate in a fast paced organization, working with project managers, system architects, other design team members, and external customers. Tactically, the candidate will be responsible for all aspects of software development – working with the project team to define, design, test, troubleshoot, document, and release new products to our clients while meeting schedule, performance, and budget objectives.</p>
+<h3 class="jobSectionHeader"><b>Key Job Responsibilities</b></h3>
+<ul>
+<li>Interact with Engineering, Sales, external customers, and other functional teams to identify and distill product requirements into design specifications and test plans.</li>
+<li>
+Drive feasibility and trade-off analyses to determine product or requirement feasibility and support product architecture definition.</li>
+<li>
+Perform software design, development, and testing as part of an agile project.</li>
+<li>
+Develop BSP, drivers, kernel, bootloader and applications for existing and custom embedded systems or web applications.</li>
+<li>
+Drive software code reviews within the Software Engineering team; hold others accountable for leveraging best practices and proper documentation and traceability.</li>
+<li>
+Proactively track and report progress toward a project’s objectives, including maintaining estimate-to-complete for assigned tasks.</li>
+<li>
+Champion, conduct, and coordinate software testing activities; including unit testing, functional testing, and regression testing.</li>
+<li>
+Prepare estimates for software development tasks and projects.</li>
+<li>
+Act as a trusted expert in the Software Engineering discipline for the broader Ecessa team including Engineering, Sales, and business development.</li>
+<li>
+Proactively leverage the available resources at Ecessa to minimize project expense when working with new technologies and responding to unforeseen issues.</li>
+<li>
+Identify and control project risk associated with Software development, working with project management and other team members to implement risk-reducing plans.</li>
+<li>
+Drive process improvements, share industry best practices, introduce new tools and methods, and contribute to continuous improvement within the Software Engineering team.</li>
+<li>
+Lead, mentor, and coach other engineers in the organization.</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Qualifications and Requirements</b></h3>
+<ul>
+<li>Bachelor of Science degree (Electrical Engineering, Computer Science, Computer Engineering, or equivalent).</li>
+<li>
+6+ years of related professional experience in an engineering role; developing embedded or web (Django and/or Flask) applications</li>
+<li>
+Experience in the complete product development process, including design and project definition, development, testing, certifications, and on-time execution.</li>
+<li>
+Experience developing on Linux and comfortable on the command line</li>
+<li>
+Proficient in C, Python, and JavaScript</li>
+<li>
+Working knowledge of source control systems (Git experience preferable)</li>
+<li>
+Experience with network communications, socket programming and packet analysis</li>
+<li>
+Familiarity with IP networking and routing</li>
+<li>
+Ability to manage available work time effectively, set and hold schedule commitments, and pro-actively identify and communicate project risks and setbacks.</li>
+<li>
+Accountable – takes responsibility for decisions, actions and results</li>
+<li>
+Open and candid communication skills; demonstrate inclusive behavior, ability to build trust and inspire others.</li>
+<li>
+Leads change, personally adaptable, and able to perform well under pressure.</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Other Desirable Skills</b></h3>
+<ul>
+<li>Excellent written and verbal communication skills. Comfortable communicating with external clients to communicate technical status.</li>
+<li>
+This position has minimal travel requirements (up to 10%); work is primarily performed in a collaborative office environment at Ecessa.</li>
+</ul>
+</div></div>

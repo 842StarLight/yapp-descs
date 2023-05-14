@@ -1,0 +1,61 @@
+<h2>Technical Support Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Databases are the beating heart of every business in the world.
+<br>---------------------------------------------------------------
+<br><br>
+Cockroach Labs is the team behind CockroachDB, an open source, distributed SQL database. We aim to build infrastructure that keeps pace with the world, so developers can focus on what matters most: building the best products. Join us on our mission to Make Data Easy. Are you ready to aim high and build to last?
+<br><br>
+About the Role
+<br>--------------
+<br><br>
+We're looking for a Technical Support Engineer to help us make CockroachDB easy for our customers and open source users.
+<br><br>
+You Will
+<br>--------
+<br><br>
+<ul>
+<li>Provide extraordinary service for both our open source users and Enterprise customers across our various support channels: chat, forum, Github, and phone.</li>
+<li>Develop deep technical expertise in CRDB and accompanying technologies.</li>
+<li>Recognize patterns among user issues, and suggest ways to improve our product and offerings.</li>
+<li>Partner with our Documentation, Product, Sales, and Engineering teams to guide those improvements.</li>
+<li>Help develop and iterating on our support processes and systems.</li>
+</ul>
+The Expectations
+<br>----------------
+<br><br>
+In your first 30 days, you will have completed onboarding, and have developed enough expertise to begin assisting users directly. During this time, you will familiarize yourself with CockroachDB, our customers, and our company.
+<br><br>
+After 3 months, you'll be fully integrated into the team. You'll be able to manage most issues from customers, and will be able to contribute to improving the scope and quality of our offerings.
+<br><br>
+As our team and your expertise grow, you'll begin mentoring and training new members of the team, developing and updating training and documentation to ensure that knowledge is not lost.
+<br><br>
+You Have
+<br>--------
+<br><br>
+<ul>
+<li>A passion for working with users directly and know how to adjust the tone and content of a message, so it's well received.</li>
+<li>A natural knack for collaboratively crafting solutions with users and colleagues.</li>
+<li>Excitement about working with a growing list of Enterprise customers, and can provide the polish expected by Fortune 500 companies.</li>
+<li>Familiarity with, or are willing to learn about, the various technologies that make web-scale applications function.</li>
+<li>Experience creating order out of chaos, and are excited to tackle the unique challenges of teams face in their early stages.</li>
+<li>The ability to absorb information. You love getting into the weeds technically, but don't let that distract you from achieving your end goals.</li>
+<li>You are a systems thinker, with experience solving problems at their root cause.</li>
+</ul>
+The Team
+<br>--------
+<br><br>
+Reporting to Tim O'Brien - Technical Support Manager
+<br><br>
+CockroachDB makes data easy. As the leader of our support team, my mission is to make CockroachDB easy. I cut my teeth at Microsoft and then moved to AppNexus, where I built the support team from three employees to a global team. When not at the office, I can be found gardening, trying to build furniture in my back yard, or skiing, depending on the season.
+<br><br>
+Our Benefits
+<br>------------
+<br><br>
+<ul>
+<li>100% health insurance coverage (for you and your dependents!)</li>
+<li>Paid parental leave (with baby bucks)</li>
+<li>Flex Fridays</li>
+<li>Flexible time off &amp; flexible hours</li>
+<li>Education reimbursement</li>
+<li>Relocation support</li>
+</ul>
+Cockroach Labs is proud to be an Equal Opportunity Employer building a diverse and inclusive workforce. If you need additional accommodations to feel comfortable during your interview process, please email us at accessibility@cockroachlabs.com ( accessibility@cockroachlabs.com ).</div>

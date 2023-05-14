@@ -1,0 +1,74 @@
+<h2>Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Position Description</b></p>
+<p>
+Key activities for the role include but are not limited to: For various projects and enhancements, execute all configuration / code work to implement custom application development, assist with developing related Salesforce reporting and analytics requirements, and deploy to production the changes/ enhancements.</p>
+<p>
+The position requires detailed knowledge of and experience shaping the SFDC environment to achieve business objectives.</p>
+<p><b>
+Job Responsibilities</b></p>
+<ul>
+<li>Comprehensive SFDC knowledge
+</li>
+<li>Work with SFDC team, business units and IT teams (as needed), to build solutions in salesforce.com that support business requirements and processes for continuous improvement.</li>
+<li>Configuration and development including but not limited to, Apex code and supporting test classes, Custom Objects, Workflow Rules, Custom Fields, Validation Rules, and Visual Force Pages.</li>
+<li>Perform administration tasks as needed related to SFDC, including but not limited to:
+<ul>
+<li>User management (activation, deactivation, password support)</li>
+<li>Security (roles, profiles, sharing roles, global security settings)</li>
+<li>Configuration (field set-up, page layouts, record types, assignment rules)</li>
+<li>Workflow and approval management</li>
+<li>Communication templates
+</li>
+<li>Analytics (reports, dashboards)</li>
+<li>AppExchange (apps and plug-ins)</li>
+<li>Data management exercises to assure (data loads, transfer, cleansing)</li>
+</ul>
+</li>
+<li>Provide user support to troubleshoot individual issues and logging support issues to identify trends and topics requiring escalation and feature / enhancements.</li>
+<li>Work with IT to supports ongoing release management and rollout with new configuration</li>
+</ul>
+<p><b>Qualifications</b></p>
+<ul>
+<li>A minimum of 5-7 years of progressive responsibility in Sales Force Automation on the SFDC platform, including advanced workflows and complex configurations (i.e. non-coding) tasks</li>
+<li>Experience in designing and developing processes in a highly agile environment
+</li>
+<li>Working knowledge of Visualforce, Apex, and Informatica Cloud or other ETL tools</li>
+<li>Detailed knowledge of Salesforce.com data modeling</li>
+<li>Experience using Salesforce.com data tools (Data Loader)</li>
+<li>Demand Tools experience and knowledge a plus</li>
+<li>Strong communication skills: oral, written, and presentation, plus the ability to communicate with a wide range of people and behavior styles.</li>
+<li>Ability to learn quickly and operate in a fast paced environment</li>
+<li>A self-starter, confident in his/her abilities, self-motivated and able to work effectively with little supervision.
+</li>
+<li>A results-oriented individual who can make a difference; a person who takes initiative, makes things happen, accepts accountability, &amp; has a "can do" attitude; sense of urgency.
+</li>
+</ul>
+<p><b>Ally Overview</b></p>
+<p>
+Ally Financial Inc. (NYSE: ALLY) is a leading digital financial services company and a top 25 U.S. financial holding company offering financial products for consumers, businesses, automotive dealers and corporate clients. Ally's legacy dates back to 1919, and the company was redesigned in 2009 with a distinctive brand, innovative approach and relentless focus on its customers. Ally has an award-winning online bank (member FDIC), one of the largest full service auto finance operations in the country, a complementary auto-focused insurance business, a growing digital wealth management and online brokerage platform, and a trusted corporate finance business offering capital for equity sponsors and middle-market companies.
+</p>
+<p><b>Business Unit/Enterprise Function
+</b></p>
+<p>Ally's Information Technology (IT) organization is focused on supporting and improving the position of our industry-leading business franchises through cost effective, innovative IT solutions, as well as overseeing critical functions that enable the day-to-day operations of the entire Ally Financial enterprise. IT is also responsible for the administration and execution of information protection, disaster recovery and IT risk management.</p>
+<p><b>
+Total Rewards Information</b></p>
+<p>
+Ally's compensation program offers market-competitive base pay and pay-for-performance incentives (bonuses) based on achieving personal and company goals. Plus, we have a flexible paid-time-off program including time off for volunteer opportunities. Ally's Total Rewards Program is designed to enrich your life at work - and outside of it and includes:</p>
+<p>
+Industry-leading 401K retirement savings plan with matching and company contributions</p>
+<p>
+Wellness program encouraging healthy living with financial rewards</p>
+<p>
+Flexible health insurance options including dental and vision</p>
+<p>
+Pre-tax Health Savings Account with generous employer contributions</p>
+<p>
+Pre-tax commuter benefits</p>
+<p>
+Other work-life integration benefits including parental and caregiver leave, adoption assistance, backup child and adult/elder day care program, child care discounts, tuition reimbursement, LifeMatters® Employee Assistance Program, subsidized and discounted Weight Watchers® program and other employee discount programs</p>
+<p><b>
+Ally is an Equal Opportunity Employer</b></p>
+<p>
+We extend equal employment opportunities to qualified applicants and employees on an equal basis regardless of an individual's age, race, color, sex, religion, national origin, disability, sexual orientation, gender identity or expression, pregnancy status, marital status, military or veteran status, genetic disposition or any other reason protected by law.</p>
+</div></div>

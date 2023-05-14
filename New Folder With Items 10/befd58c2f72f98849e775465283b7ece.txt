@@ -1,0 +1,52 @@
+<h2>Senior Network Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>John Drake &amp; Associates is an IT consultancy, hosted and managed service provider in the Chicagoland area.</p>
+<p>Senior Network Engineer responsibilities:</p>
+<ul><li>Support design, implementation and maintenance of network infrastructures for JDA and clients</li></ul>
+<ul>
+<li>Oversight of the administration of Cisco routers, switches, and firewalls, network monitoring tools, and anti-spam appliances</li>
+<li>Oversight of the administration of network and system monitoring tools</li>
+<li>Maintain network security policies and have knowledge of current security best practices and tools for a highly secure and available production environment</li>
+<li>Network systems planning and diagramming (Visio) for documentation</li>
+<li>Use of protocol analyzers to identify and resolve network issues and monitor network usage trends</li>
+</ul>
+<ul>
+<li>Work with telecom providers to manage existing telecommunication circuits, troubleshoot outages, and install service upgrades</li>
+<li>Work with sales team to develop proposals and provide technical input and insight during meetings.</li>
+</ul>
+<p>Requirements</p>
+<ul><li>A proven track record of 5 or more years as a Network Engineer</li></ul>
+<ul>
+<li>Excellent problem solving and troubleshooting skills</li>
+<li>Experience with LAN hardware including patch panels, Fiber Optic, Cat5e and Cat 6 wiring</li>
+<li>A strong working knowledge of technologies surrounding a network infrastructure</li>
+<li>Experience working with, designing, and supporting IP Telephony, Linux, Microsoft Server, VMware virtual environments, specifically datacenter networking</li>
+<li>Strong experience in working with firewalls</li>
+<li>Excellent documentation skills</li>
+<li>Self-starters with a good work ethic, the ability to work independently or as a team and a desire to come up with the best solutions for our clients</li>
+<li>Commitment to achieve additional vendor specific certifications</li>
+<li>Experience with wireless access points and controllers</li>
+<li>Great customer service skills</li>
+<li>Experience in Sales Engineering not required but considered</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $80,000.00 to $95,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>Network Engineer: 5 years (Preferred)</li>
+<li>relevant: 7 years (Preferred)</li>
+<li>Virtualization: 3 years (Preferred)</li>
+</ul>
+<p>Work Location:</p>
+<ul>
+<li>Multiple locations</li>
+<li>One location</li>
+</ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+</ul>
+</div>

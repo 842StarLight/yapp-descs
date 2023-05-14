@@ -1,0 +1,89 @@
+<h2>Javascript Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div><div>
+<div><div><h2 class="jobSectionHeader"><b>Be Challenged</b></h2></div></div>
+<div><div><div><p>
+Visiture is a rapidly growing eCommerce agency headquartered in Charleston, SC with a thriving office in Midtown Atlanta as well. For 5+ years Visiture has been developing and implementing end-to-end eCommerce solutions on the Magento platform. We offer a challenging and rewarding environment where you’ll have the opportunity to work with leading brands and learn from some of the brightest folks in the industry. Magento now powers more than a third of all mid-market eCommerce sites and is the most widely used &amp; fastest growing eCommerce platform in the world! We are seeking someone who craves a challenge and is passionate about eCommerce. Visiture markets its services to a broad range of retailers looking to increase their online sales and profitability.</p></div></div></div>
+<div><div><h2 class="jobSectionHeader">
+<b>
+</b><b>Position Summary</b>
+</h2></div></div>
+<div><div><div><p><b>
+Position Summary:</b> The developer in this position will report to our Manager of Engineering and will work in a collaborative multi-disciplinary team environment with dedicated project managers. They will eventually be responsible for building and customizing eCommerce websites using the Magento EE &amp; CE platform, following Magento best practices. We ask that all of our developers become certified in Magento within the first year of employment. They will also be tasked with maintaining client repositories using GIT SCM while helping us advance our deploy process as well as building complex integrations with various systems such as ERPs, tax, shipping, and order management.</p></div></div></div>
+<div><div><h2 class="jobSectionHeader">
+<b>
+</b><b>Qualifications</b>
+</h2></div></div>
+<div><div><div><p>
+Strong knowledge of JavaScript and React.js</p></div></div></div>
+<div><div><div><p>
+Knowledge of object-oriented PHP programming</p></div></div></div>
+<div><div><div><p>
+Understanding accessibility and security compliance
+</p></div></div></div>
+<div><div><div><p>Strong knowledge of the common PHP or web server exploits and their solutions</p></div></div></div>
+<div><div><div><p>
+Understanding fundamental design principles behind a scalable application</p></div></div></div>
+<div><div><div><p>
+User authentication and authorization between multiple systems, servers, and environments</p></div></div></div>
+<div><div><div><p>
+Integration of multiple data sources and databases into one system</p></div></div></div>
+<div><div><div><p>
+Familiarity with limitations of PHP as a platform and its workarounds</p></div></div></div>
+<div><div><div><p>
+Creating database schemas that represent and support business processes</p></div></div></div>
+<div><div><div><p>
+Familiarity with SQL/NoSQL databases and their declarative query languages</p></div></div></div>
+<div><div><div><p>
+Proficient understanding of code versioning tools, such as Git</p></div></div></div>
+<div><div><div><p>
+Familiar with Agile methodologies</p></div></div></div>
+<div><div><div><p>
+Experience in team-based web development</p></div></div></div>
+<div><div><div><p>
+BA Degree in Computer Science or related field</p></div></div></div>
+<div><div><div><p>
+Active community contributions to open source projects</p></div></div></div>
+<div><div><div><p>
+Experience with non LAMP technologies such as SQL, .NET, Java, etc</p></div></div></div>
+<div><div><h2 class="jobSectionHeader">
+<b>
+</b><b>Training and Special Skills</b>
+</h2></div></div>
+<div><div><h2 class="jobSectionHeader">
+<b>
+</b><b>Our Perks</b>
+</h2></div></div>
+<div><div><div><p>
+Highly competitive compensation package (including 401K, comprehensive health/dental/vision package, paid parking) and opportunity to work for a fast growing digital marketing firm.</p></div></div></div>
+<div><div><div><p>
+Laid-back office, casual attire. Jeans and a t-shirt always OK, though we have some pretty snappy dressers on this team. The choice is yours.</p></div></div></div>
+<div><div><div><p>
+A culture we care about deeply. People should be happy in their jobs and lives. There is a balance to strike to achieve this, and we respect it.</p></div></div></div>
+<div><div><div><p>
+You’ll receive a laptop (MacBook Pro) with appropriate software installed to complete your work.</p></div></div></div>
+<div><div><div><p>
+Free healthy snacks &amp; drinks.</p></div></div></div>
+<div><div><div><p>
+Ergonomic desk options from top to bottom.</p></div></div></div>
+<div><div><div><p>
+Oh, and did we mention the unlimited vacations?</p></div></div></div>
+<div><div><h2 class="jobSectionHeader">
+<b>
+</b><b>Details</b>
+</h2></div></div>
+<div><div><div><p>
+Location: Midtown – Atlanta, GA.</p></div></div></div>
+<div><div><h2 class="jobSectionHeader">
+<b>
+</b><b>How to Apply</b>
+</h2></div></div>
+<div><div><div><p>
+Email cover letter and resume to: career@visiture.com (preferred method) with subject “Amazon JMC”</p></div></div></div>
+<div><div><h3 class="jobSectionHeader">
+<b>
+</b><b>Please, no phone calls about this job!</b>
+</h3></div></div>
+</div></div></div>
+<p></p>
+</div>

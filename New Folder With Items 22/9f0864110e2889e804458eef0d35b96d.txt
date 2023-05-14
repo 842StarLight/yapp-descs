@@ -1,0 +1,50 @@
+<h2>Implementation Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">-
+<br>About the Role
+<br>-
+<br><br>
+Do you have a knack for developing solutions to ambiguous technical software requirements? Do you enjoy working with enterprise customers to deliver world-class service? Then you may be the Implementation Consultant we're looking for on our team!
+<br><br>
+Our Implementation Consultants help to drive the post-sales execution of software development projects for end-clients (municipalities, agencies, universities, private operators). They establish expertise with the Passport systems and work with Project Managers to build out an awesome product for each client's specifications. The ability to problem solve, configure and train clients on their new system, and collaborate with Development, and Support Services teams to resolve issues is crucial.
+<br><br>
+Since our Implementation Consultants play such a critical role liaising between our clients and our software engineers, a background in technology (educational, professional, or otherwise) and an aptitude for solving ambiguous technical issues will be advantageous to a new hire!
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Assist Project Managers in onboarding a client onto the Passport platform. This typically includes: environment buildout &amp; system configuration and setting up third-party integrations</li>
+<li>Build operational standards within proprietary framework, testing user scenarios, develop processes, and strategize with Support Services and Development teams to ensure a top-notch implementation/end product</li>
+<li>Generate Scope of Work (SOW) documents for integrations using information gained from Solutions Engineering and customer intake meetings</li>
+<li>Develop internal and client-facing user guides to be used post go live</li>
+<li>Train clients on functionality, configuration, and troubleshooting of Passport software and hardware systems related to their operations</li>
+<li>Provide transitional client support post-go-live, ensuring project success prior to Customer Support handoff for ongoing system support</li>
+<li>Become a subject matter expert on the Passport system, helping to document and build up our knowledge base</li>
+</ul>
+Qualifications
+<br><br>
+<b>Required:</b><br>
+<ul>
+<li>Four-year degree, or equivalent work experience</li>
+<li>Excellent verbal, interpersonal, and written communication skills</li>
+<li>Prior experience in a customer-facing role with demonstrated ability to think on your feet and outside-of-the-box—adaptability is key</li>
+<li>Exemplary organizational skills with the ability to handle multiple tasks and long-range projects simultaneously in a fast-paced environment</li>
+<li>Highly analytical</li>
+<li>Ability to travel, on average, 25% annually</li>
+<li>A team player attitude, promoting Passport's cultural pillars</li>
+</ul>
+<b>Preferred:</b><br>
+<ul>
+<li>Experience using and understanding ETL tools, SSIS, SQL query tools</li>
+<li>Ability to learn relevant programming languages (Ex: Jupiter, Panda Scripts, Python etc).</li>
+<li>4+ years' experience implementing enterprise-level software systems</li>
+<li>Basic understanding of web application technologies highly preferred</li>
+<li>Parking industry experience a plus!</li>
+</ul>
+-
+<br>About Us
+<br>-
+<br><br>
+Passport is transforming mobility management for cities, empowering them to create more livable and equitable communities. Passport's mobility platform enables clients to digitally coordinate all modes of transportation and implement real-time, data-centric management of their curbside and street space through its enterprise software. Trusted by nearly 600 cities, universities and agencies, including Chicago, Toronto, London, Los Angeles, and Miami.
+<br><br>
+Passport is one of the fastest growing companies on the Inc. 500 and Deloitte Technology Fast 500 lists. Passport is backed by Bain Capital Ventures, Grotech Ventures, MK Capital, and Relevance Capital. For more information, visit passportinc.com ( http://passportinc.com/ ).
+<br><br>
+Passport provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, genetic information, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state and local laws.</div>

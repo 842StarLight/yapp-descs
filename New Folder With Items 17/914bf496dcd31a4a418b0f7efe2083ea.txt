@@ -1,0 +1,98 @@
+<h2>Salesforce Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Description</b>
+</p>SHIFT: No Weekends<br>
+<br>
+SCHEDULE: Full-time<br>
+<br>
+<div>At HealthTrust we are committed to strengthening provider performance and clinical excellence through an aligned membership model and the delivery of total spend management advisory solutions that leverage its operator experience, scale and innovation. We are headquartered in Nashville, Tennessee, and serve over 1,500 hospitals and health systems, and more than 31,000 other member locations including ambulatory surgery centers, physician practices, long-term care and alternate care sites.</div>
+<br>
+<br>
+<br>
+<div>HealthTrust is part of the HCA family, a Fortune 100 company with more than 200,000 employees and one of the nation's leading providers of healthcare services. HCA operates over 170 locally managed hospitals and over 100 freestanding surgery centers in 20 states and the United Kingdom. HCA has been named one of the world's most ethical companies for eight years in a row. At HCA, we are driven by a single goal: the care and improvement of human life.</div>
+<br>
+<br>
+<div><b>Job Summary</b></div>
+<div>The Salesforce Administrator will lead the deployment and administration of Salesforce across the HealthTrust enterprise working with executive management, department leads and their teams, providing solutions, process improvements, training and analysis to support their sales and account management objectives. The Salesforce Administrator and Technical Business Analyst will also manage the configuration and administration for Service Cloud, HealthTrust’s customer service tracking database. This position also works closely with IT, third party providers and other vendors to connect Salesforce and Service Cloud to our production systems that manage our accounts, contracts and healthcare databases.<br>
+</div>
+<div></div>
+<div><b>
+Duties and Responsibilities:</b></div>
+<div></div>
+<ul>
+<li>
+Leverage Salesforce Sales Cloud and Service Cloud experience to become a trusted internal consultant for all business units and leadership to ensure that desired business results are achieved in a quality manner.</li>
+<li>
+Provide daily technical expertise, analysis and recommendations on how to best utilize Salesforce functionality to design processes and deliver solutions that support sales and marketing strategies.</li>
+<li>
+Create custom workflows and processes in Salesforce to support local organizations/users.</li>
+<li>
+Support new and existing users with questions and issues (help requests).</li>
+<li>
+Manage, prioritize and follow-up on help requests from the users.</li>
+<li>
+Act as the primary contact with Salesforce.com support when needed. Deliver solutions that support sales and marketing strategies.</li>
+<li>
+Extend functionality to support business needs and goals.</li>
+<li>
+Share and implement recommendations on best practices and process improvements.</li>
+<li>
+Identify and nurture super users, developing their Salesforce skill set to support daily departmental needs.</li>
+<li>
+Create documentation and training sessions to develop CRM knowledge and increase user adoption.
+</li>
+<li>Communicate system changes to users in advance so they understand the change and how to use it prior to implementation.</li>
+<li>
+Develop, create and maintain reports and dashboards to ensure usability, as well as create ad‐hoc reports as requested by user groups or stakeholders.</li>
+<li>
+Contribute to projects and work collaboratively on the creation of solutions that support business objectives.</li>
+</ul>
+<p><b>
+Qualifications</b><br>
+</p>
+<br>
+<b>Education and </b><b>Experience</b><br>
+<ul>
+<li>Bachelor’s Degree in Computer Science, Mgmt Information Systems, Software Engineering, or related field required</li>
+<li>
+5+ years’ experience with Salesforce CRM and Service Cloud applications</li>
+<li>
+Certified Salesforce Administrator and heavy Trailhead participation preferred.</li>
+<li>
+Experience developing and maintaining training materials and training curriculum.</li>
+<li>
+Healthcare business experience preferred</li>
+<li>
+Experience managing a complex Salesforce database serving multiple, diverse service lines</li>
+<li>
+Experience supporting SalesCloud and ServiceCloud users in a complex Salesforce database.</li>
+<li>
+Experience developing and implementing CRM software solutions.</li>
+<li>
+Knowledge of best practices for Salesforce technology and CRM business processes.</li>
+<li>
+Strong project management skills and knowledge of CRM software deployment methodologies.</li>
+<li>
+Excellent written and verbal communication skills.
+</li>
+<li>Proficiency with Excel, Word and PowerPoint.</li>
+<li>
+Solid understanding of Salesforce platform, capabilities and architecture.</li>
+<li>
+Strong technical background and experience with Salesforce utilities such as CRM Fusion, Drawloop, Passage Technology, Force.com and Config Workbook.</li>
+<li>
+Ability to provide recommendations and best practices on extending the capabilities of Salesforce.</li>
+<li>
+An understanding of programming languages such as SQL, JavaScript, HTML, Java, Apex.</li>
+<li>
+Proficient in deploying or managing third-party software integrations using Salesforce.</li>
+</ul>
+<div><b>Benefits of working at HealthTrust</b></div>
+<div>Our benefits package allows you to select the options that best meet the needs of you and your family. Benefits include 401k with a company match, paid time off, medical, dental, vision, flex spending for both health and day care, life insurance, disability, tuition reimbursement and student loan repayment, employee discount program, employee stock purchase program.</div>
+<br>
+<br>
+<div>We are an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</div>
+<br>
+<br>
+<br>
+#HTrustBCOM</div></div>

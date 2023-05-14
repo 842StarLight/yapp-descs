@@ -1,0 +1,87 @@
+<h2>Product Management Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Come work at a place where innovation and teamwork come together to support the most exciting missions in the world!
+</p>
+<p></p>
+<p>NGINX, Inc., now part of F5, is the company behind the popular open source project. We offer a suite of technologies for developing and delivering modern applications. Together with F5, our combined solution bridges the gap between Software Developers, DevOps, and SecOps with multi-cloud application services that span from code to customer.
+</p>
+<p></p>
+<p>The NGINX Application Platform enables enterprises undergoing digital transformation to modernize legacy, monolithic applications, as well as deliver new, microservices‑based applications. Companies like Netflix, Starbucks, and McDonalds rely on NGINX to reduce costs, improve resiliency, and speed innovation.
+</p>
+<p></p>
+<p>We are building the applications to help millions of our dedicated users do more with their NGINX servers and are currently searching for an excellent Product Management Engineer to join our team in Seattle or San Jose.
+</p>
+<p></p>
+<p>Working in the NGINX Business Unit at F5, you will use your skills to provide product analysis, product strategy input, and build demonstrations to show the value of our product to our customers and internal sales teams. You will be the technical authority for our products and our market, and you will work with our product managers to understand the customer needs, analyze market and vendor dynamics, and set product direction. You will also be responsible for input on the technical design of our products to ensure it meets the needs of our customers.
+</p>
+<p></p>
+<p>We’re looking for people who want to make a difference in the world by working on products that enable applications to be quickly available to customers an in easily accessible and secure way. If what you read reminds you of yourself, send us your resume!
+</p>
+<p></p>
+<p>What You’ll Be Doing:
+</p>
+<ul>
+<li>Produce demos and trainings on the security value and use of the product
+</li>
+<li>Assist in crafting sales materials focusing on competitive advantages
+</li>
+<li>Provide product and market analysis to product management and product development
+</li>
+<li>Participate in the overall product strategy
+</li>
+<li>Collect technical requirements from customers in security, software development, DevOps, and other teams
+</li>
+<li>Partner closely with other team members and departments
+</li>
+<li>Perform analyses and testing of competitor products in order to improve F5 product management requirements
+</li>
+<li>Contributing authority on competitors and their products
+</li>
+</ul>
+<p></p>
+<p>Knowledge, Skills, and Abilities:
+</p>
+<ul>
+<li>Ability to communicate technical concepts to technical and business audiences
+</li>
+<li>Software development experience and/or security experience with apps based on web technologies, including HTTP, JavaScript, and HTML. Functional experience with APIs and microservices.
+</li>
+<li>Functional knowledge of deploying apps in data centers and/or public cloud environments
+</li>
+<li>Ability to rapidly understand new technologies
+</li>
+<li>Experience with various performance tools associated with stress testing preferred
+</li>
+<li>Competitive intelligence experience preferred
+</li>
+<li>Ability to work flexible hours based on a dynamic, milestone-driven test/product development cycle
+</li>
+<li>Love of hard problems
+</li>
+</ul>
+<p></p>
+<p>Qualifications:
+</p>
+<ul>
+<li>Bachelor’s degree in computer science with 5 years of experience; or equivalent education and/or work experience
+</li>
+<li>4+ years of relevant work experience required in Software Development, IT, technical product management, technical sales, consulting related to web based products or security products, etc.
+</li>
+<li>2+ years of relevant experience in application, network, data security, or related field
+</li>
+</ul>
+<p></p>
+<p>#LI-MK1
+</p>
+<p></p>
+<p>The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.
+</p>
+<p></p>
+<p><b>Equal Employment Opportunity
+</b></p>
+<p></p>
+<p>It is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination. Reasonable accommodation is available for qualified individuals with disabilities, upon request.</p>
+</div>
+<p></p>
+</div>

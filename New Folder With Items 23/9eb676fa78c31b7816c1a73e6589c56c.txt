@@ -1,0 +1,42 @@
+<h2>Software Engineer - Server Applications</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>The Role:</b><br>
+Every day, Clover devices handle the core credit card and point-of-sale processing for hundreds of thousands of merchants. Behind the scenes, we operate a cloud platform providing processing, storage and collaboration for merchants, application developers, service providers and our merchants' customers. Our devices and platform form the backbone of millions of payment interactions between merchants and their customers daily.
+<br><br>
+To support all of this, we have a team of engineers dedicated to ensuring our systems remain operational, safe and secure. Our systems not only process payments, but help merchants run their businesses with inventory management solutions, customer loyalty rewards and other applications that are tailored to their industry. Right now, as we are looking to dive into new markets and expand our breadth of product, and we need server engineers to improve our applications in order to reach company goals.
+<br><br>
+At Clover, our team is broken down into product-focused squads. Each squad comes with its own unique set of responsibilities and contains engineers from all parts of the stack. These squads range from developer focused to business solution focused for our merchants. For instance, The Clover App Market currently boasts over 220 applications from 3rd party developers. We have a squad dedicated to supporting 3rd parties development on our platform and another squad supporting App Market functionality and ease of use for merchants. We also have squads supporting our core payments business which can generate over 5400 transactions a minute. One squad focuses on EMV, NFC, and swipe transactions, and another touches more on the reporting end, so merchants can gain valuable insights to the businesses.
+<br><br>
+Our Server Application Engineers are tasked with improving/expanding our platform and product. They work closely with the Infrastructure Team, Product Team, and Design Team. Our engineers are pragmatic in balancing priorities and enjoy working in an iterative model where application features and server improvements are released every other week and bug-fixes are deployed as needed.
+<br><br>
+In the coming year there will be a focus on scalability. We plan to further grow our semi-integrated partnerships, expand services to deal with multi-site and enterprise merchant management, and ramp existing services up for global expansion. We also hope to break our existing infrastructure down into digestible microservices to better support our merchants.
+<br><br>
+On a daily basis, you will spend 50% of your time developing new features, 30% of your time investigating/reproducing/resolving bugs, and about 20% of your time driving testing and creating helpful documentation. We are interested in hiring flexible engineers who are not afraid to be involved in product discussions and work with multiple parts of the stack.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Design and implement REST APIs for mobile and web clients including our payment devices, web dashboard, and 3rd party apps</li>
+<li>Identify technical requirements in product meetings and assist the business team with realistic project planning and feature development; translate product requirements into functional, maintainable, extensible software that is in-line with company objectives</li>
+<li>Own your merchant-facing services /features from development through deployment and production monitoring</li>
+<li>Work with the Infrastructure Team to design data models to support large-scale highly available services</li>
+<li>Work with QA to develop test plans/strategies</li>
+<li>Participate in a regular on call rotation</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Strong coding skills; Java is our language of choice</li>
+<li>Familiarity with MySQL</li>
+<li>Experience with API design</li>
+<li>Superior problem-solving skills and debugging capabilities</li>
+<li>Flexible and self driven</li>
+</ul>
+<b>Nice to have:</b><br>
+<ul>
+<li>Interest in working with multiple parts of the stack</li>
+<li>Experience with a cloud platform: AWS, Google Cloud, etc.</li>
+<li>Python scripting</li>
+<li>Exposure to Ember.js or Netty</li>
+<li>Experience with Android,or iOS platforms</li>
+<li>Data analysis experience</li>
+</ul>
+</div>

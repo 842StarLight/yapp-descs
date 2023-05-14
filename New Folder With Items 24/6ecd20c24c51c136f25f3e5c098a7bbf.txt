@@ -1,0 +1,131 @@
+<h2>Team Lead, Site Reliability Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><p><b>About the Team</b>
+</p></div>
+<div><p>You will be part of the Enterprise Support and Reliability Engineering - eCommerce Support group, supporting our mission of providing frictionless, always-on eCommerce services to the public, as well as supporting custom business workflow tooling. We monitor the productions eCommerce services, detect issues early, and resolve operational and functional issues in the eCommerce web services.<br>
+</p></div>
+<div><p><b>About the Role:</b>
+</p></div>
+<div><p>As a Team Lead, Site Reliability Engineer at Williams-Sonoma you will support eCommerce production operations on the eCommerce Support team as an engineer who serves as an example to their team on how to solve problems at root cause. You already enjoy solving problems with code, which is why you're a balanced engineer, at home both in application code written by others, as well as designing your own app from scratch. Your documentation and communication skills are above par and you have prior experience working in a production support capacity as a full-stack, Site Reliability, Production Operations, or similar engineer.
+</p></div>
+<div><p>Your primary focus will be on the resilience, operability, stability, and scalability of the Williams-Sonoma family of brands' eCommerce websites and to ensure that the websites maintain optimal availability for our users. You will collaborate with a full-stack team of peers to monitor, detect, and investigate site behaviors, correct and enhance code already in production, deliver features, and facilitate more efficient software business process.
+</p></div>
+<div><p><b>Why you will love working at </b><b>Williams-Sonoma</b><b>, Inc.</b>
+</p></div>
+<ul>
+<li>We're a successful, fast-growing company with an entrepreneurial vibe
+</li>
+<li>A technologically and data-driven business
+</li>
+<li>Competitive salaries and comprehensive health benefits
+</li>
+<li>We're at the forefront of tech and retail, redefining technology for the next generation
+</li>
+<li>We're passionate about our internal and external clients and live/breathe the client experience
+</li>
+<li>We get to be creative on a daily basis
+</li>
+<li>A smart, experienced leadership team that wants to do it right and is open to new ideas
+</li>
+<li>We believe in autonomy and reward taking initiative
+</li>
+<li>We have fun!</li>
+</ul>
+</div>
+<br><div>
+<div>
+<div><p><b>We're excited about you because...</b>
+</p></div>
+<ul>
+<li>You have a B.S. degree in Computer Science or related field and/or 5+ years of Java or full stack application development experience in a professional setting
+</li>
+<li>You have a history of recognizing opportunities and leading initiatives, involving management and peers and working toward successful completion
+</li>
+<li>You have successfully mentored peers, pair programmed, and written standard operating procedures for teams
+</li>
+<li>Your work style means you are constantly looking for how to improve your efficiency and that of your team
+</li>
+<li>Monitoring instrumentation, tooling, and alert design and implementation across APM, RUM, and log management systems are second nature
+</li>
+<li>You are a proactive communicator with a track record of success writing English for a business audience
+</li>
+<li>You demonstrate a history of identifying and designing automation to eliminate repetitive tasks
+</li>
+<li>You exhibit an exemplary practice of documenting findings based on data and providing evidence
+</li>
+<li>You've supported production operations issue management and response
+</li>
+<li>You can collaborate with internal support and engineering teams and 3rd party vendors on problems and solutions
+</li>
+<li>You have a strong organizational skillset and the ability to track multiple issues to resolution
+</li>
+<li>You're able to lead a cross-functional, technical team of peers toward issue resolution
+</li>
+<li>You bring experience utilizing issue/workflow ticket tracking systems
+</li>
+<li>You are self-motivated, collaborative
+</li>
+<li>E-commerce industry experience is a plus</li>
+</ul>
+</div>
+<div>
+<div><p><b>Technical Competencies required:</b>
+</p></div>
+<ul>
+<li>Strong full stack, Java and/or JavaScript to production
+</li>
+<li>5 years of experience supporting production services
+</li>
+<li>SQL and/or NOSQL queries for production purposes
+</li>
+<li>Strong troubleshooting skills utilizing log analysis, application performance management (APM), real user monitoring (RUM), developer tools, and localhost testing
+</li>
+</ul>
+<p><b>About </b><b>Williams-Sonoma</b><b>, Inc.</b>
+</p>
+</div>
+<div>
+<div><p>Founded in 1956, Williams-Sonoma, Inc. is the premier specialty retailer of high-quality products for the home. Our family of brands includes Williams Sonoma, Pottery Barn, Pottery Barn Kids, PBteen, West Elm, Williams-Sonoma Home, Rejuvenation, and Mark and Graham. These brands are among the best known and most respected in the industry. We offer beautifully-designed, stylish and functional products for every area of the home, including the kitchen, living room, bedroom, home office, closet, laundry room, and even outdoor spaces. We've seen some big changes since our first brick-and-mortar store opened more than half of a century ago. What hasn't changed is our passion for high-quality products, functional design, outstanding customer service, and enhancing the lives of our customers and the communities where we operate. In 2017, we acquired Outward, Inc., a 3-D imaging and augmented reality platform for the home furnishings and décor industry. Today, we're a multi-brand, multi-channel, global enterprise supported by state-of-the-art technology and some of the most talented teams in retailing - and we're always looking for new energy and ideas.
+</p></div>
+<div><p><b>Benefits:</b>
+</p></div>
+</div>
+<div>
+<div><p>Once you are here, you can look forward to a wide variety of benefits. Our corporate vision-to enhance our customers' quality of life at home-extends to the lives of our associates. To that end, we offer an extensive benefits package designed to help you grow, personally and professionally, to keep you healthy, to prepare you for the unexpected, to care for your family and to build a secure future. Depending on your position and your location, here's a look at what you might be eligible for:
+</p></div>
+<ul>
+<li>A generous discount on all Williams Sonoma Inc. brands through multiple shopping channels
+</li>
+<li>A 401(k) plan and other investment opportunities
+</li>
+<li>Paid vacations, holidays and other time-off programs
+</li>
+<li>Health benefits, including health, dental and vision insurance; health and dependent care tax-free spending accounts; medical, family and bereavement leave; same-sex domestic partner benefits; short- and long-term disability programs; life and travel insurance; an employee assistance program
+</li>
+<li>Tax-free commuter benefits
+</li>
+<li>A wellness program that supports your physical, financial and emotional health
+</li>
+<li>In-person and online learning opportunities through WSI University, LearnIt and AcademyX
+</li>
+<li>Cross-brand and cross-function career opportunities
+</li>
+<li>Quarterly sample sales
+</li>
+<li>A business casual work environment
+</li>
+<li>Time off to volunteer
+</li>
+<li>Matching donations to qualifying nonprofit organizations
+</li>
+<li>Company-sponsored walks and runs
+</li>
+<li>Discounts on nearby gyms and other local businesses<br>
+</li>
+</ul>
+<div></div>
+<div>#LI-JD1</div>
+</div>
+</div>
+</div>

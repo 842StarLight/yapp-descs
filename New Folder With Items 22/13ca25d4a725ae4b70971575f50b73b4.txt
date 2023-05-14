@@ -1,0 +1,80 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Typical Project Responsibilities: </b></p>
+<ul><li>Collaboratively prioritizing requirements with Customers, Sales, Marketing, Service and Manufacturing</li></ul>
+<ul>
+<li>Determining the architecture and detailed design approach</li>
+<li>Documenting project requirements</li>
+<li>Executing and reviewing designs</li>
+<li>Developing test plans and procedures for the project, ensuring they are executed correctly and any deviations are addressed</li>
+<li>When applicable, understand present code base and product use model</li>
+<li>Other duties as assigned</li>
+</ul>
+<p><b>Required Skills: </b></p>
+<ul>
+<li>Solid understanding of software algorithms and data structures</li>
+<li>Object oriented design skills including object design and responsibility assignment, low coupling and high cohesion, and polymorphism</li>
+<li>Demonstrated skills in C/C++ and Java or C#</li>
+</ul>
+<p><b>Highly Desired Skills: </b></p>
+<ul>
+<li>Experience in mobile development using Android Studio</li>
+<li>Mobile UI development skills</li>
+<li>Experience with both Java and C threading</li>
+</ul>
+<p><b>Desired Skills: </b></p>
+<ul>
+<li>Experience using a Realm object database in a mobile environment</li>
+<li>Experience using SciChart for creating charts and graphs in a mobile environment</li>
+<li>Experience developing in C in a Linux environment</li>
+<li>Experience developing for an embedded system</li>
+<li>Experience using JNI to interface between native C libraries and managed Java to provide low level support to Java applications</li>
+</ul>
+<p><b>Experience and Qualifications: </b></p>
+<ul>
+<li>Bachelors or Masters degree in Computer Science, or equivalent experience</li>
+<li>2-5 years’ experience in a software engineering role</li>
+<li>Experience in engineering of products consisting or electronic, software, and mechanical content, with history of meeting schedule, scope and budgets.</li>
+</ul>
+<p><b>Additional Knowledge/Skills/Abilities: </b></p>
+<ul>
+<li>Technical expertise and the knowledge to apply technology effectively</li>
+<li>Is a self-starter – takes initiative to make things happen</li>
+<li>Continually improves self, product, process and team</li>
+<li>Innovates in the areas of product concepts, project content and technology application</li>
+<li>Satisfies customers, both internal and external</li>
+<li>Demonstrates high level of professional integrity</li>
+</ul>
+<p><i>Disclaimers: </i></p>
+<p><i>Company management reserves the right to add, delete, or otherwise alter assigned duties at any time. To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The minimum qualifications listed are representative of the knowledge, skill, and/or ability required. </i></p>
+<p><i>The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required.</i></p>
+<p><i>AVO Multiamp dba Megger complies with all state and federal laws concerning the employment application process.</i></p>
+<p><i>Megger is committed to ensuring the application process provides an equal employment opportunity to all job seekers, including individuals with disabilities. If you believe you need a reasonable accommodation in order to search for a job opening or to submit an application, please call HR at 970-282-1200. At Megger, our commitment to diversity and inclusion is helping us to create not only a great place to work, but also an environment where our employees, our customers and our communities around the world can reach their goals and connect with each other. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</i></p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>relevant: 2 years (Required)</li>
+<li>C/C++ and Java or C#: 2 years (Required)</li>
+<li>Software Engineering: 2 years (Required)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Location:</p>
+<ul><li>Fort Collins, CO (Required)</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Tuition reimbursement</li>
+</ul>
+<p>This Company Describes Its Culture as:</p>
+<ul>
+<li>Team-oriented -- cooperative and collaborative</li>
+<li>Detail-oriented -- quality and precision-focused</li>
+</ul>
+</div>

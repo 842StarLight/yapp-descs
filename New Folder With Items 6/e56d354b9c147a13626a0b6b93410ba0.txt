@@ -1,0 +1,29 @@
+<h2>DevOps Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>In JFrog, you will have the opportunity to build the future of DevOps for some of the most innovative and successful organizations in the world, including Netflix, Amazon, LinkedIn, Yahoo, Google, SalesForce, Cisco, EA, Spotify, Twitter, Oracle, VMware, and EMC. Beyond any specific perk, what we believe matters most is creating an open and positive work environment where everyone has a voice and everyone matters. As a DevOps Architect at JFrog's DevOps Acceleration Team, you will be on the front lines, working closely with our customers and prospects, guiding them on how to build robust DevOps processes. You will work with our sales, product &amp; engineering teams to help customers understand the value of JFrog solutions from a technical and business perspective.</p>
+<p>
+If you love working with brilliant people, being part of an energetic team, changing the world of software and you’ve got the technical skills, you might be the perfect Frog to join our Swamp! Come and help us to continue to lead the rapidly evolving space of Continuous Integration and Delivery!</p>
+<h4 class="jobSectionHeader"><b>
+Responsibilities</b></h4>
+<ul>
+<li>Engage with customers to ensure their success in their DevOps journey leverage of the JFrog products</li>
+<li>Support JFrog sales teams with their mission and significantly contribute to the customer journey to build technical win and championship</li>
+<li>Train our community and customers about DevOps and JFrog products</li>
+<li>Represent JFrog in events and conferences</li>
+<li>Influence the features and roadmap of JFrog products based on customer needs</li>
+<li>Keep current with the latest technology trends related to the DevOps landscape</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Desired Skills and Experience</b></h4>
+<ul>
+<li>Docker, Kubernetes, CI Server (Jenkins, TFS/VSTS), git (Github, bitbucket, gitlab), Artifactory, Build tools (maven, gradle, npm, docker etc.)</li>
+<li>Ability to build software pipelines with Docker, npm, Java, Pypi etc.. with various DevOps tools</li>
+<li>Hands-on experience in Linux - Mandatory</li>
+<li>Hands-on experience with cloud infrastructure - AWS / Azure / GCP - Mandatory</li>
+<li>Experience with software development in scale, both on-premise and in the cloud</li>
+<li>Experience with Software Architecture design and product development a plus</li>
+<li>3 years Experience in technical sales Or sales engineering position is an advantage</li>
+<li>Great interpersonal, team playing, customer service oriented and “can do” attitude</li>
+<li>Uncompromising will to learn</li>
+<li>Bachelor’s Degree or higher education in Computer Science/Engineering Major is preferred</li>
+</ul>
+</div></div>

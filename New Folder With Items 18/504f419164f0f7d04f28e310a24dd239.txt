@@ -1,0 +1,110 @@
+<h2>Systems Integration Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><div><div>
+<div>
+<p>Are you interested in working for an organization dedicated to innovation, customer intimacy, and improving healthcare for everyone? Do you enjoy working in an environment filled with respect and integrity? Are you driven by a will to win? You’re in the right place!</p>
+<p>
+Since 1992, Omnicell has been inspired to create safer and more efficient ways to manage medications across all care settings. As a leading provider of solutions across the continuum of care, we offer a path to fully automated medication management infrastructure, powered by a cloud data platform that supports improved patient care, fewer errors, enhanced safety, and new opportunities for growth.</p>
+<p>
+Our vision for the Autonomous Pharmacy integrates a comprehensive set of solutions powered by the Omnicell Cloud Data Platform across three key areas: Automation – solutions designed to digitize and streamline workflows; Intelligence – actionable insights to better understand medication usage and improve pharmacy supply chain management; and Work – expert services that serve as an extension of pharmacy operations to support improved efficiency, regulatory compliance, and patient outcomes.</p>
+<p>
+Over 5,500 facilities worldwide use Omnicell automation and analytics solutions to increase operational efficiency, reduce medication errors, deliver actionable intelligence, and improve patient safety. And more than 40,000 institutional and retail pharmacies across North America and the United Kingdom leverage Omnicell’s innovative medication adherence solutions to improve patient engagement and adherence to prescriptions, helping to reduce costly hospital readmissions.</p>
+<p>
+Come join our team and be inspired by care!</p>
+</div>
+</div></div></div>
+<p><b>Systems Integration Engineer AA</b></p>
+<p>
+The System Integration Engineer (SIE) primary role is to install and support the various interfaces that allows Omnicell’s products and services to intercommunicate with a healthcare facility’s information system. Typical interfaces include receiving patient data, receiving medication order data, sending billing data, sending purchase order information, confirming receipt of an order, and exchanging information necessary for efficient management of inventory.
+</p>
+<p>Working independent or as part of a larger project team, the SIE is the subject matter expert responsible for delivering Omnicell’s interface integration design and deployment strategy. Using their technical and creative ability, SIE’s deliver interface solutions to overcome common integration problems encountered during the installation of Omnicell products within a healthcare environment. The Omnicell SIE excels in solving integration problems with customers, while at the same time, advocates for Omnicell implementation best practices. SIE’s traditionally serve as valued consultants during Omnicell sales and support calls with customers.</p>
+<p><b>
+Responsibilities:
+</b></p>
+<p><i>Installation/Upgrades</i></p>
+<ul>
+<li>Lead interface installation and conversion projects as the technical expert to ensure customers, colleagues, and business partners understand interface functions, design, specifications, implementation strategy, and support requirements</li>
+<li>Collaborate with project teams in formulating a project plan and scope of work document to design, deploy, test, and bring live Omnicell interfaces</li>
+<li>Produce and properly archive requirements, specification, design model, data flow, testing, disaster recovery, and acceptance documentation for system interfaces</li>
+<li>Coordinate with Technical Implementation Managers in scheduling projects, and resolve any escalations from various sources to keep projects moving</li>
+<li>Act as spokesperson for technical escalations that need to go to other departments, while in turn implementing any provided solutions</li>
+<li>Implement customized Heath Level (HL7) interfaces using XSLT, XML, and Omnicell’s Interface Engine (OIS) to integrate all of Omnicell’s products into the customer’s information systems environment</li>
+<li>Use well developed problem solving and troubleshooting skills to find and resolve interface issues that arise during testing or troubleshooting</li>
+</ul>
+<p><i>Interface Support</i></p>
+<ul>
+<li>Support the Omnicell Help Desk 24/7 with emergency service ticket escalations requiring advanced interface engineering support</li>
+<li>Submit unique customer configurations to the Omnicell help desk for entry into Omnicell’s service ticket system</li>
+</ul>
+<p><i>Consulting/Education</i></p>
+<ul>
+<li>Train others to support all existing interfaces and newly developed interfaces</li>
+<li>Work closely with other SIEs and Omnicell management to develop and maintain interface policy and procedures</li>
+</ul>
+<p><i>Marginal Functions</i></p>
+<ul>
+<li>Support external validations/Beta projects</li>
+<li>Work closely with Omnicell’s Training, Marketing, and Engineering Departments as content expert to devise new company products and supporting materials</li>
+</ul>
+<p><b>Required Knowledge and Skills:</b></p>
+<ul>
+<li>Working knowledge of scripting and Object Oriented Programming (OOP) techniques and mechanisms</li>
+<li>Understanding of inter-system communication methods (ex. HTTP(S)/TLS, TCP/IP, FTP(S), RS-232, network drive mapping, and firewalls)</li>
+<li>Strong troubleshooting skills and strong customer communication skills (written and verbal)Good understanding of server architecture</li>
+<li>Flexible work schedule to communicate with U.S. based customers on a regular basis.</li>
+<li>A creative, innovative, problem-solver with a passion for quality</li>
+<li>Proficient in MS Office applications</li>
+<li>Familiarity with Windows Server / SQL 2008 or later.</li>
+</ul>
+<p><b>Basic Qualifications</b></p>
+<ul>
+<li>Bachelor degree with 3+ years of system integration experience in one or more of the following. ( In lieu of a Bachelor degree, a high school diploma/GED with 6+ years of system integration experience in one or more of the following is required)
+<ul>
+<li>Healthcare Interface Standards such as HL7 (Health Level 7) and HIPAA (Health Insurance Portability and Accountability Act)</li>
+<li>Healthcare Industry or with Clinical Data Management
+</li>
+<li>Experience with working directly with the customer (e.g. Customer Support)
+</li>
+<li>Experience XML, XSLT, and ASP pages.</li>
+<li>MS Office applications</li>
+</ul>
+</li>
+</ul>
+<p><b>Preferred Qualifications:</b></p>
+<ul>
+<li>Bachelor degree in Engineering, Computer Science or Web Development</li>
+<li>Demonstrated working knowledge of multi-threaded programming and understanding of synchronization issues</li>
+<li>Experience with:
+<ul>
+<li>Visual Studio or Visual Studio.Net development environments</li>
+<li>SOAP, Java, C#, and Visual Basic</li>
+<li>MS SQL Server or other Databases</li>
+<li>E-Commerce and Electronic Purchase Order communication techniques (EDI)</li>
+</ul>
+</li>
+<li>Experience coding, developing, or implementing applications used in customer production environments</li>
+<li>Experience presenting technical material to customer and/or team forums</li>
+<li>Information Security Clearance and/or Training</li>
+<li>Experience managing timecards and company expense reports</li>
+</ul>
+<p><b>Work Conditions:</b></p>
+<ul>
+<li>Field-based, within a home office</li>
+<li>Customer remote support via broadband internet access.</li>
+<li>Minimal travel required</li>
+<li>Will work occasional afterhours, holidays, and weekends</li>
+<br>
+</ul>
+<p>
+</p>
+<div><div><div><div>
+<p>Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time.</p>
+<p>
+All qualified applicants will receive consideration for employment without regard to race, sex, color, religion, sexual orientation, gender identity, national origin, protected veteran status, or on the basis of disability.</p>
+<p>
+Omnicell will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information.</p>
+</div></div></div></div>
+</div>
+<div></div>
+</div>

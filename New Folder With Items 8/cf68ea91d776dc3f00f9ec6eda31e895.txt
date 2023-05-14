@@ -1,0 +1,74 @@
+<h2>Azure System Admin (Azure Cloud Engineer)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Please note - This position requires employee to live in Colorado Springs, CO or must be willing to relocate self to COS prior to start date.<br>
+<br>
+ General Job description : Provide System administration support for our current and future customers on the Windows Platform. Responsible for Azure deployments, migrations, upgrades, and configuration. Continual monitoring of customer s system resources located on-prem, hosted, or in the cloud. Creating and maintaining monitoring scripts. Perform system administration work as assigned by customers. System Architecture design, implementation, and maintenance. Provide AD, DNS, and other critical systems monitoring and support. Participate in sales cycles, gathering customer requirements, scoping/estimating solutions. Participate in on-call rotation working directly with end clients.<br>
+<br>
+Technical requirements :</p>
+<ul>
+<li>
+Provide effective provisioning, installation, configuration, operation, and maintenance of systems hardware and software and other related on-prem, hosted, and Cloud infrastructure.</li>
+<li>
+Ensure that system hardware, operating systems, software systems, and security mechanisms adhere to best practices and organizational standards</li>
+<li>
+Utilize various automation, monitoring, and service management tools &amp; techniques to troubleshoot issues and perform performance tuning</li>
+<li>
+Experience with Microsoft Azure services management and integration of Azure with on-premise infrastructure and private cloud environments</li>
+<li>
+Experience with common protocols including LAN / WAN, subnetting, VLANs, IPSec VPN, BGP, IDP, QoS, LUNs, RAID, iSCSI technologies</li>
+<li>
+Experience with multiple Microsoft technologies including Active Directory, Group Policy, Remote Desktop Services, IIS, Systems Center, and common server Oss</li>
+<li>
+Advanced level knowledge of Active Directory architectures, management, and implementation, specifically including Azure AD, AAD Connect, and ADFS</li>
+<li>
+Working knowledge of high-availability and hybrid SQL architectures including Always On Availability Groups across on-prem and Azure, and SQL PaaS</li>
+<li>
+Proficiency in coding PowerShell scripts and Azure Automation</li>
+<li>
+Experience analyzing VM sizing, VM family/class recommendations from Microsoft on Reserved Instances, and identity/execute on VM migrations to proper sizing</li>
+<li>
+Strong understanding of AzureRM, PowerShell commandlets (scripting skills) covering a wide range of Azure services (VNETS, Express Route, NSG, OMS, Azure Automation, Storage (blobs/ tables), Key Vault, Azure Function Apps, Web Apps</li>
+</ul>
+<p>
+Soft Skills:</p>
+<ul>
+<li>
+Heavily involved in architectural decision making, and providing recommendations based on knowledge and past experience</li>
+<li>
+Participate with on-hours and after-hours system support activities</li>
+<li>
+Identify, establish, and document standards and procedures for routine tasks and hardware/software configurations</li>
+<li>
+Provide direction in complex problem-solving situations</li>
+<li>
+Adapt quickly to unfamiliar system configurations to provide support</li>
+<li>
+Continuous learning in the ever-changing Cloud environment</li>
+<li>
+Strong Communication Skills (including technical writing and verbal communication)</li>
+<li>
+Excellent demonstrated customer interfacing skills</li>
+<li>
+Work independently or in a team environment</li>
+</ul>
+<p>
+Education/Certifications/Qualifications</p>
+<ul>
+<li>
+5+ years of experience as the principal administrator for Windows OS, Domain controllers, Firewalls, Monitoring tools, and Disaster recovery software</li>
+<li>
+2+ years of Cloud experience, Azure is required</li>
+<li>
+Technical Associate Degree or Bachelor Degree in IT, Computer Science, MIS, or related field</li>
+<li>
+Certified in any of the following; Cisco Firewall, VMWare, Microsoft, Linux, Azure, AWS</li>
+<li>
+Azure certification is a plus</li>
+</ul>
+<div>
+The goal of Virtual-DBA is to provide a cost-effective solution for organizations seeking to optimize the availability and performance of their critical business<br>
+information systems. XTIVIA’s Virtual-DBA service combines a sophisticated suite of monitoring and reporting tools with expert consulting services to deliver complete database<br>
+performance management. Virtual-DBA provides proactive, remote database support and maintenance<br>
+<ul><li>enabling subscribers to focus their resources and improve productivity while</li></ul>
+enhancing operational benefits.</div>
+</div></div>

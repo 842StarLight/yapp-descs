@@ -1,0 +1,76 @@
+<h2>Sr. QA Test Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>JOB DESCRIPTION</b></p>
+<p><b>Summary/Objective </b></p>
+<p>The QA Test Analyst will be responsible for supporting the planning, designing and executing of system testing on simple to complex implementations for highly specialized systems applications. The QA Test Analyst will work collaboratively within the IT department, software development team, external vendors, and business units to execute and validate test cases based upon system requirements.</p>
+<p><b>Essential Functions</b></p>
+<ul>
+<li>Works closely with Software Development Team in an Agile environment (either agile, waterfall or a combination of the two e.g. hybrid model) to verify and validate software solutions in the integrated environments</li>
+<li>Participates in the design, development, and implementation of complex applications, often using new technologies</li>
+<li>Review user requirements documents to ensure that requirements are testable</li>
+<li>Create test plan, test cases, test scripts, and analyze test results for software solutions</li>
+<li>Perform testing and reporting on various software applications and environments</li>
+<li>Perform End-to-End data validation for Extract Transform &amp; Load (ETL) processes</li>
+<li>Perform data analytical testing for the Business Analytics (BI) reporting systems</li>
+<li>Perform integration testing of API Web services and analysis</li>
+<li>Validate that user expectations are achieved during the testing process</li>
+<li>Collaborates in the implementation, monitoring and reassessment of quality improvement plans Maintains working knowledge of CMMI Level-3 standards as pertinent to the organization</li>
+<li>Develop test automation framework for functional and regression testing</li>
+<li>Perform performance testing on AWS cloud-DevOPS environment</li>
+<li>Plan and execute performance testing of the application</li>
+</ul>
+<p><b>Competencies</b></p>
+<ul>
+<li>Problem solving, analysis, &amp; debugging skills</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Experience working with cross-functional team</li>
+<li>Excellent team player</li>
+</ul>
+<p><b>Required Skills and Qualifications </b></p>
+<ul>
+<li>At least Bachelor's degree in computer science or information systems</li>
+<li>Proficiency in Microsoft Office (Word, Excel, PowerPoint), SharePoint</li>
+<li>Knowledge about Software Development Life Cycle (SDLC) processes and Azure, AWS cloud-DevOPS environments</li>
+<li>Ability to obtain and maintain a required security clearance</li>
+</ul>
+<p><b>Desired Skills and Qualifications </b></p>
+<ul>
+<li>Proficient or familiar with CRM (Sales Force, Microsoft Dynamics 365) tools</li>
+<li>Expert managing test suits and defects using JIRA and similar tools</li>
+<li>Familiar with advance SQL and experience with scripting programming language</li>
+<li>Ability to work in a fast-paced dynamic environments</li>
+<li>Demonstrated collaboration skills and ability to work in a team environment</li>
+<li>Ability to work independently, take initiative, contribute new ideas, and take direction positively</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>CMMI Level-3: 3 years (Required)</li>
+<li>SDLC in Cloud-DevOps environment (Azure, AWS, etc.): 3 years (Required)</li>
+<li>Managing test suites and defects using JIRA or similar tools: 3 years (Required)</li>
+<li>CRM Tool: 3 years (Preferred)</li>
+<li>SQL: 3 years (Preferred)</li>
+<li>Support for Federal Government Systems: 3 years (Required)</li>
+<li>Scripting Programming Language: 3 years (Required)</li>
+<li>QA and Software Test: 5 years (Required)</li>
+</ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Professional development assistance</li>
+</ul>
+<p>This Job Is Ideal for Someone Who Is:</p>
+<ul>
+<li>Detail-oriented -- would rather focus on the details of work than the bigger picture</li>
+<li>Autonomous/Independent -- enjoys working with little direction</li>
+<li>High stress tolerance -- thrives in a high-pressure environment</li>
+<li>Dependable -- more reliable than spontaneous</li>
+<li>Innovative -- prefers working in unconventional ways or on tasks that require creativity</li>
+</ul>
+</div>

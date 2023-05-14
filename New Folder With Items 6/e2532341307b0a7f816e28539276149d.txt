@@ -1,0 +1,82 @@
+<h2>Sr Leader, Data Governance</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Job Summary
+</b></h2>
+<p>Join the team that powers the global real estate economy - CoreLogic is an innovative, future focused company whose vision is to deliver unique property-level insights that power the global real estate economy.
+</p>
+<p></p>
+<p>We are a $1.95 billion in sales company with more than 6,000 employees globally serving the financial services and insurance industries. We are evolving at a rapid pace and the clients we serve are challenged from every direction, which means we are growing and innovating to help drive their success. Working together, and differentiated by our superior data, analytics and data-enabled solutions, we empower our clients to make smarter business decisions through data-driven insights. We take initiative, are fully accountable, build respect and trust, make transparency a must—and engage, include and collaborate at every turn.
+</p>
+<p></p>
+<p>We take pride in our work and believe in cultivating a work environment that supports and values our greatest asset: our talented employees.
+</p>
+<p></p>
+<p><b>Job Description:
+</b></p>
+<p>The Senior Leader, Data Governance is responsible for the development and implementation of the Data Governance Framework and will report to the Executive of Enterprise Data Management. This leader will be responsible for developing the strategy, processes and roadmap to continually elevate data quality, integrity and accuracy to enable business outcomes. They will partner with executive-level business stakeholders to understand their key objectives, identify where data quality and governance are critical to success then implement the policies, standards and metrics that drive measurable value. This role will also serve as the point of escalation for governance issues and ensure positive outcomes by driving key decisions and remediation plans which are actionable.
+<br>
+<br>
+</p>
+<ul><li>
+<ul><li>Provide strategic vision and management to drive optimization of roadmaps in the area of data governance by domain (Property, Consumer and Lending lifecycles). Strong communication, business relationships and cross-functional collaboration skills are vital to successful outcomes.
+</li></ul>
+<ul><li>Develop and maintain standards for managing data as a strategic asset for data sources, MDM/Trusted data models and big data platforms while ensuring the integrity across the supply chain. Partner with the analytics team to ensure there are clear roles and responsible from data exploration to commercialization (model reviews). Have oversight for data certification and audits.
+</li></ul>
+<ul><li>Coordinate projects that involve multiple team members and oversee the gathering of analyses into a timely, accurate, comprehensive and understandable format. This includes working across business stakeholders to identify key metadata and content subject matter experts who are the stewards across multiple business lines and functions.
+</li></ul>
+<ul><li>Lead and engage team of content experts and enterprise data stewards who have oversight for data quality, industry research, content optimization and permissible use resulting in accessible, transparent, and compliant data sets to drive sustained value.
+</li></ul>
+<ul><li>Drive increase awareness and value from our diverse data portfolio/brand value to improve the improve the business impact data governance will bring understanding higher level of data curation and quality are critical to continued business growth.
+</li></ul>
+<ul><li>Lead development and management of business and technical metadata development and sharing tools and practices. Accountable for the adoption and maturity of the Collibra Data Governance Platform and business process workflows.
+</li></ul>
+<ul><li>Perform schedule audits and metrics on the effectiveness of a data governance program. Work across the value chain and with regulatory/compliance on developing programs to facilitate common approaches to new regulatory requirements, permissible use, access and policy enforcement.
+</li></ul>
+<ul><li>Manage the algorithm logic for derived fields, reference data and inferred data techniques supporting the advanced analytics team of a high level of curation excellence.
+</li></ul>
+<ul><li>Scale and optimize the data governance council cadence and deliverables at the various level across business lines, working, tactical and strategic. Manage data governance and quality presentations, metrics, dashboards and overall progress at the strategic level.
+</li></ul>
+<ul><li>Formalize accountability for data documentation and work with responsible stewards to make sure logical and physical data dictionaries for individual data assets are sufficiently comprehensive, tagged, accurate, accessible and searchable in the common data catalog to promote self-service and data sharing.
+</li></ul>
+</li></ul>
+<p></p>
+<p><b>Job Qualifications:
+</b></p>
+<ul><li>
+<ul><li>College degree in Information Systems, Computer Science, or a related discipline OR equivalent experience. Experience must include 10 or more years of data management, data governance, data architecture, analytics and/or business reporting experience.
+ </li></ul>
+<ul><li>Experience in establishing and managing data governance process and procedures across multiple business units.
+ </li></ul>
+<ul><li>Experience in developing tools in Big Data and traditional DW environments in support of Data Governance and master data management technologies (preferably Collibra, Informatica, Oracle or top solutions providers)
+</li></ul>
+<ul><li>Has extensive experience in data quality metrics, business rules and dashboards. Understand the concepts of operational data quality to manage daily operations vs. stories that enable the business to effectively understand how data is impacting their products.
+</li></ul>
+<ul><li>Excellent analytical skills. Must be able to not only extract and manipulate data but understand what the data represents; to review information critically and ensure that it is accurate and reasonable within the context that it is presented. •
+</li></ul>
+<ul><li>The ability to work independently and lead a team.
+</li></ul>
+<ul><li>Excellent leadership and organizational skills. Must be flexible and willing to work additional hours as necessary to complete work during critical deadlines and manage multiple projects in a fast-paced environment. •
+</li></ul>
+<ul><li>Good oral and written communications abilities; strong interpersonal skills for customer interfacing. •
+</li></ul>
+<ul><li>Strong knowledge and demonstrated ability to manage SDLC processes.
+</li></ul>
+<ul><li>Experience with reference data, master data, data modeling, data analytics, metadata, glossary and data lineage.
+</li></ul>
+<ul><li>Excellent planning, negotiation, prioritization, problem solving and organizational skills
+</li></ul>
+<ul><li>Interpersonal skills that demonstrate the ability to build effective relationships, influence and partner with internal and external stakeholders. Ability to scale from Executive level to hands on operators to understand challenges and develop solutions.
+</li></ul>
+<ul><li>Able to operate in areas of uncertainty and ambiguity
+</li></ul>
+<ul><li>Be results driven – hold team members accountable, keep team engaged, elevate skills and work collaboratively
+</li></ul>
+<ul><li>Experience in driving transformational projects and the way in which our stakeholders can utilize its enterprise data.
+</li></ul>
+</li></ul>
+<p></p>
+<p>CoreLogic offers an empowered work environment that encourages creativity, initiative and professional growth and provides a competitive salary and benefits package. CoreLogic is an Equal Opportunity/Affirmative Action employer committed to attracting and retaining the best-qualified people available, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, disability or status as a veteran of the Armed Forces, or any other basis protected by federal, state or local law. CoreLogic maintains a Drug-Free Workplace. We are fully committed to employing a diverse workforce and creating an inclusive work environment that embraces everyone’s unique contributions, experiences and values. Please apply on our website for consideration.</p>
+</div>
+<p></p>
+</div>

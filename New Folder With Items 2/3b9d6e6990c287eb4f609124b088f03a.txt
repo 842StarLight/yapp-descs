@@ -1,0 +1,134 @@
+<h2>AppD Senior Technical Consultant - Central</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>Senior Technical Consultant, Professional Services</b></p>
+<p></p>
+<br>
+<p><b>
+About Us</b></p>
+<p></p>
+<p><br>
+AppDynamics is an application performance monitoring solution that uses machine learning and artificial intelligence (AI) to provide real-time visibility and insight into IT environments. With our unique AIOps solution, you can take the right action at exactly the right time with automated anomaly detection, rapid root-cause analysis, and a unified view of your entire application ecosystem, including private and public clouds. Using AppDynamics, you’ll finally align IT, DevOps, and the business around the information that helps you protect your bottom line and deliver flawless customer experiences at scale.</p>
+<p></p>
+<br>
+<p><b>
+About the Role</b></p>
+<p></p>
+<p><br>
+You are a passionate technologist who loves connecting with customers and help them address their key business problems. You will be working with the leading brands in the world and help them improve the user experience and performance of their most critical applications.</p>
+<p>
+You will exemplify these traits:</p>
+<ul>
+<li>
+Curious – Have desire to truly and intimately understand our customer's business problems</li>
+<li>
+Creative – In finding a sustainable path to yes</li>
+<li>
+Partnership – To both the customer and to our colleagues outside of services organization</li>
+<li>
+Technology-first Mindset - We sell software for technologists and we speak their language</li>
+<li>
+Empathetic – Connect at a human level with our customers and be able to walk in their shoes</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Key responsibilities</b></p>
+<p></p>
+<ul>
+<li>
+<br>
+Develops meaningful relationships with key stakeholders within the customer teams as well as AppDynamics teams (sales, pre-sales, support etc.), adopting a consultative and prescriptive approach that inspires trust and confidence</li>
+<li>
+Enable customers to realize the most value from their AppDynamics investments</li>
+<li>
+You will be responsible for the technical execution of the project and will work hand-in-hand with the project team to monitor the progress of the project against its technical design</li>
+<li>
+Build the technical design and assist with building project plan as needed</li>
+<li>
+Concisely convey and evangelize the business value of the combined product and services solution</li>
+<li>
+Maintain expert level implementation proficiency and the ability to implement any AppDynamics product independently</li>
+<li>
+Keep abreast of dynamic technology landscape with a particular focus on adjacent technologies like microservices, containerization and Cloud</li>
+<li>
+Help synthesize learning and trends observed in the field into repeatable technology best practices in collaboration with other AppDynamics functions</li>
+<li>
+Mentor other services team members on various technology aspects to promote a culture of technology excellence at all levels</li>
+<li>
+Foster collaboration with our product, support and engineering teams and provide feedback from the field on features and functionality</li>
+<li><b>
+This role requires the ability to travel up to 50%</b></li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Critical Experiences
+</b></p>
+<p></p>
+<ul>
+<li>Master’s in computer science or similar technical field</li>
+<li>
+5+ years of relevant technical experience as technical or pre-sales Consultant for an enterprise software company or for a recognized consultancy firm</li>
+<li>
+Understanding of the application performance management space with hands on experience on AppDynamics or competing product a bonus</li>
+<li>
+Excellent customer interaction and presentation skills (ability to clearly articulate to different audiences and bring the message across in a concise, professional manner)
+</li>
+<li>Ability to influence and persuade at all level and gain a ‘Trusted Advisor’ status with key stakeholders
+</li>
+<li>Expert, hand-on experience (2+ years) in at least two of the following technical domains
+<ul>
+<li>SDLC practices including Agile practices, DevOps and CI/CD strategies
+</li>
+<li>IT Operations (NOC or similar)</li>
+<li>
+Virtualization and/or Containerization
+</li>
+<li>Cloud technologies (Azure, AWS, etc)</li>
+<li>
+Application Performance Management</li>
+<li>
+Broader Application Infrastructure domains (OS, Databases, Servers, etc)</li>
+<li>
+Application Development</li>
+<li>
+Experience with JavaScript (JQuery, Dojo, AngularJS, etc)</li>
+<li>
+Java (J2EE) or .NET</li>
+</ul>
+</li>
+<li>
+ITIL, TOGAF certifications a plus</li>
+<li>
+Solid command of the English language (written and spoken) with each additional language a plus</li>
+<li><b>
+Ability to travel up to 50%</b></li>
+</ul>
+<div>
+<br>
+</div>
+<p><b>
+Perks</b></p>
+<p>
+We know that the award-winning culture at AppDynamics is something to brag about, but here are more reasons that make you excited to get out of bed to come in the morning, like:</p>
+<div>
+<ul><li> Medical, dental, vision coverage.</li></ul>
+<ul><li> 401k match (4.5%)</li></ul>
+<ul><li> Wellness perks (gym, hobbies, education, store discounts, personal finance).</li></ul>
+<ul><li> 4 weeks paid time off (PTO), 5 days’ volunteer time off (VTO), 14 holidays (including 1 birthday PTO and 1 floating holiday).</li></ul>
+<ul><li> Mandatory company shut down between Christmas and New Year’s.</li></ul>
+<ul><li> Weekly catered breakfast and lunch, and all the snacks, fruits and drinks</li></ul>
+<ul><li> Brand new state of the art office in downtown San Francisco, centrally located near BART, Caltrain, Muni, the ferry, and a bike share station</li></ul>
+<ul><li> Free shuttle service and pre-tax commuter benefits</li></ul>
+ </div>
+<p><b>Just a note</b></p>
+<p>
+Note to Recruiters and Placement Agencies: AppDynamics does not accept unsolicited agency resumes. Please do not forward unsolicited agency resumes to our website or to any AppDynamics employee. AppDynamics will not pay fees to any third-party agency or firm and will not be responsible for any agency fees associated with unsolicited resumes. Unsolicited resumes received will be considered property of AppDynamics.</p>
+<p>
+AppDynamics is an <b>equal opportunity employer</b> and considers all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, protected veteran status, or any other unlawful factor. AppDynamics complies with all <b>applicable laws</b>, including those regarding consideration of qualified applicants with criminal histories (such as the San Francisco Fair Chance Ordinance). If your disability makes it difficult for you to use this site, please contact <b>recruiting@appdynamics.com</b>. AppDynamics participates in <b>E-Verify</b>.</p>
+<div></div>
+<br>
+#appd_jobs</div>
+</div>

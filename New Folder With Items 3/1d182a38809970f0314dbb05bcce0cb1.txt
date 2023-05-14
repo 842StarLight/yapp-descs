@@ -1,0 +1,64 @@
+<h2>Embedded Software Engineer - Wayside</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Alstom’s approach can be summarized in one word – “fluidity”. Alstom is a global leader in passenger, freight and mining rail transportation, signalling, and infrastructure, and sets the benchmark for innovative and environmentally friendly technologies. Alstom builds the fastest train and the highest capacity automated metro in the world, provides a wide variety of associated maintenance, modernization, overall and refurbishment services and turnkey transportation solutions. Our 32,000 employees worldwide rigorously apply the Alstom Code of Ethics and work closely with our community of stakeholders to deliver solutions and services that bear the brand of Alstom. Alstom businesses had sales of <b>€</b>6 billion for the 2014/2015 fiscal year. Visit www.alstom.com to learn more about our business.</p>
+<br>
+<p></p>
+<div>
+<p><b>Role Summary / Purpose</b></p>
+<p>Alstom has an opening for a Real-Time Software Engineer, in its Melbourne, FL location.</p>
+<br>
+<p></p>
+<p>This position is for a highly motivated, energetic Software Engineer who will develop real-time embedded software for our CORE wayside systems.</p>
+<br>
+<p></p>
+<p>This position is for a self-motivated, confident, open source savvy individual. The successful candidate will demonstrate the ability to execute as an individual developer and an individual contributor in a team. The Software Engineer will be experienced in real-time and embedded programing techniques in C/C++ on a standalone bare metal or RTOS target using an Agile process.</p>
+<br>
+<p></p>
+<p><b>The successful candidate will be responsible for:</b></p>
+<ul>
+<li>Working closely with Systems Engineers to understand operations and translate them into clear software requirements.</li>
+<li>Designing, documenting, implementing and unit testing C/C++ embedded real-time software.</li>
+<li>Providing input to software deliverables such as software requirements specifications, software design documents, and professional high quality software executables.</li>
+<li>Developing safety critical software using vital software development standards.</li>
+<li>Communicating schedule updates, risks, and plans to software technical leaders and other stakeholders</li>
+<li>Working with field support teams to diagnose customer issues and quickly resolve issues</li>
+<li>Executing Quality Management Standards and necessary vital software design standards</li>
+<br>
+</ul>
+<p></p>
+<p><b>Qualifications:</b></p>
+<ul>
+<li>Bachelor's Degree in Electrical Engineering, Software Engineering, Computer Science, Computer Engineering or other related engineering degree</li>
+<li>Real-Time Software Development Engineering experience in C / C++</li>
+<li>Experience developing software in a cross platform development environment (Eclipse, GreenHills, etc.)</li>
+<li>Experience in Agile Software Development Process using software development life cycle tools (git, JIRA, and Confluence).</li>
+<br>
+</ul>
+<p></p>
+<p><b>Desired Qualifications:</b></p>
+<ul>
+<li>Network programming with exposure to IP protocol stacks (TCP / UDP / FTP)</li>
+<li>Safety Critical Systems and Software Design</li>
+<li>Rail Domain Signaling Systems: ITCS, Cab-Signaling, CBTC, IETMS, PTC</li>
+<li>Experience in requirements management tool of DOORS</li>
+<br>
+</ul>
+<p></p>
+</div>
+<p></p>
+<p>Alstom offers competitive salaries, an excellent benefits package, and flexible work options, as well as a uniquely diverse and unified team of professionals. Our culture supports an environment where employees can continuously learn and gain professional growth through education, exciting projects and career mobility. Alstom recognizes your achievements and excellent performance through various performance incentive, recognition and reward programs. Our commitment is to you, the employee. Come work in an environment that is driven by integrity, innovation and visionary thinking. Make the switch to a new track and join Alstom today!</p>
+<br>
+<p></p>
+<p>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. Alstom is a drug-free workplace.</p>
+<br>
+<p></p>
+<p>This contractor and subcontractor shall abide by the requirements of 41 CFR 60-1.4(a), 60-300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity or national origin. Moreover, these regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</p>
+<br>
+<p></p>
+<p><b>Accommodations for Applicants with Disabilities
+</b></p>
+<p>Alstom provides reasonable accommodations and/or assistance to applicants with disabilities and disabled veterans (including but not limited to other protected veterans and individuals with known physical and mental limitations). If you need a reasonable accommodation/assistance for any part of the application and/or hiring process, please contact Alstom’s Recruiting Department at careers.us@alstom.com (please use <b>“Accommodation Request”</b> as the subject line).</p>
+<br>
+<p><br>
+<b>Job Segment: </b>Developer, Embedded, Informatics, Computer Science, Testing, Technology</p>
+</div></div>

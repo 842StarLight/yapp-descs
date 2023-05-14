@@ -1,0 +1,28 @@
+<h2>Senior Java Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h3 class="jobSectionHeader"><b>Multiple Positions</b></h3>
+<h4 class="jobSectionHeader"><b>Job Description</b></h4>
+<p>As a Java software developer focused on the Financial Services sector for APPS Consultants Inc you will participate in all aspects of the engineering life cycle. You will be writing fully testable core-platform code, deploying software to our cloud infrastructure, and troubleshooting problems in production. Our primary language is Java, but we welcome experience with other languages such as Python, Groovy and Javascript.</p>
+<p>Work within an agile development environment with other developers and product owners to scope, develop and deliver world-class software solutions Influence / lead projects and technical direction of the product<br>
+Work directly with Product Management and Sales to design and develop new product features
+</p>
+<h4 class="jobSectionHeader"><b>Qualifications</b></h4>
+<h4 class="jobSectionHeader"><b>Required Skills and Experience:</b></h4>
+<p>6+ years software development experience, including Java and Unix<br>
+Experience developing and deploying software in distributed environments<br>
+Experience in the tools required in a development life cycle: build (Maven, Gradle), unit testing (JUnit, TestNG), version control (Git), task and defect management (Jira), Agile development approaches.</p>
+<h4 class="jobSectionHeader"><b>Desired Skills and Experience:</b></h4>
+<p>Proficiency with GIT as a version control system<br>
+Experience with Python, Ruby &amp; JavaScript<br>
+Experience with NoSQL solutions such as Cassandra, MongoDB, Redis<br>
+Capital Markets/Asset Management Solutions Development<br>
+Experience developing scalable systems<br>
+Experience working in a SCRUM team.
+</p>
+<p>We offer a friendly team oriented workplace and our benefits are among the best in the business including matching 401K program, medical, dental, vision, disability and life insurance, wellness programs, tuition reimbursement, an extremely generous vacation package and more.</p>
+<p>APPS Consultants Inc is an Equal Employment Opportunity and Affirmative Action Employer with a commitment to workplace diversity. Employment is contingent upon successful completion of background investigation and pre-employment drug screen. APPS participates in eVerify.</p>
+<br>
+<p>
+</p>
+<p><i>Job Location: Hollywood, FL</i></p>
+</div></div>

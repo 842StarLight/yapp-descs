@@ -1,0 +1,82 @@
+<h2>Salesforce Administrator/B3 Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>B3 Group, Inc. is a fast-growing Service-Disabled Veteran-Owned Small Business (SDVOSB) certified health IT firm providing end-to-end technology support services to the federal government and enterprise customers. Our values-driven team of business, IT and management professionals blend innovation and client-first thinking to deliver sustainable solutions for better healthcare outcomes. Established in 2008 and located in Herndon, Virginia, B3 Group is founded on the principles of servant leadership. Those principles are reflected in every aspect of our operations.<br>
+</p>
+<p>B3 Group is seeking a Salesforce Administrator to support our rapidly growing team responsible for the overall support, maintenance, and functioning of the Salesforce platform for a federal client. Telework may be considered.</p>
+<p>
+Some of the day-to-day responsibilities will include tasks to:</p>
+<ul>
+<li>Support the daily cross-functional operational readiness of VA’s shared Salesforce.com platform.</li>
+<li> Help manage security, users, roles, profiles, groups, queues and other Salesforce.com setup options as necessary.</li>
+<li> Support and maintain the integrity of services integrated with our cloud environments, including proprietary in-house systems and external integrations.</li>
+<li>Participate in the planning and analysis of business requirements for system changes and enhancements.</li>
+<li>Evaluate new Salesforce releases and applications, participate in plans for their implementation and remain current with Salesforce administration best practices.</li>
+<li>Help manage SFDC enhancement projects to support business needs, including collaborating closely with external contractors, solution vendors, and consultants to deliver new business functionality to the platform.</li>
+<li>Monitor performance and scalability and refactor existing sub-optimal features.</li>
+<li>Perform regression testing and validation of Salesforce configuration and development.</li>
+<li>Create reports in Salesforce.com to meet operational requirements including maintaining a standard set of queries/reports to satisfy requirements; validate queries/reports created by others in the organization and assist in the interpretation of data. Provide meaningful and actionable intelligence to our business groups.</li>
+<li>Train/support end users with the use of the SFDC application, and act as an escalation point for internal SFDC issues.</li>
+<li>Participate in all planning, development, and discussions related to the Salesforce tool uses.</li>
+</ul>
+<p>In order to be successful in this position, we expect you to have the following skills and experience:</p>
+<ul>
+<li>Certified Salesforce Administrator (ADM 201).</li>
+<li>Bachelors degree.</li>
+<li>Minimum 5 years of experience in a Salesforce administration or business analyst role.</li>
+<li>Experience deploying change sets and packages from sandboxes/lower environments through to production using continuous integration tools including GitHub and Flosum.</li>
+<li>Help desk or other experience working in a customer service capacity.</li>
+<li>Experience with planning and performing regression testing.</li>
+<li>Knowledge of SFDC configuration including the use of third party tools (Salesforce development experience a plus but not required).</li>
+<li> Some familiarity with Agile project management and sprint planning.</li>
+<li>Experience with data migration into SFDC for objects including but not limited to accounts, contacts, cases, leads, and opportunities and custom objects.</li>
+<li>Experience with the SFDC business workflow (different entities like opportunity, leads, account, assets etc.); experience working on multiple Salesforce implementations with Service, Sales, custom applications and associated technologies.</li>
+<li>Ability to work independently as well as collaboratively on cross-functional teams.</li>
+<li>Highly skilled in interpersonal and verbal/written communications, presentations, math, analytical and problem-solving skills.</li>
+<li>Must be able to obtain and maintain government clearance.</li>
+</ul>
+<p>Desired / Preferred Qualifications:
+</p>
+<ul>
+<li>Experience supporting Department of Veterans Affairs (VA) and/or other federal organizations.</li>
+<li>Experience with Agile methodology and Scrum approach</li>
+</ul>
+<p>Successful B3 Group employees will display the following characteristics:<br>
+</p>
+<ul>
+<li>You strive to be an expert in your field currently and in the future.</li>
+<li>You take care in learning your customer’s business and drivers in order to ensure solutions meet not only technical needs, but also support their mission properly in a way that meeting their client's mission.</li>
+<li>You like to make your client look good.</li>
+<li>You find solutions, where others only see problems.</li>
+<li>You are proactive, you make and meet commitments, and you perform your duties exceedingly well.</li>
+<li>You are aware of the client’s needs at all times and are well-versed in what both your team and B3 Group can offer them as a whole.</li>
+<li>You have the ability to work with diverse, integrated, deliverable-driven teams to accomplish the larger mission.</li>
+</ul> <p>Our Benefits</p>
+<p>
+Our reputation is built upon the talents and integrity of our employees. We value the contributions of each and every person who is a member of our organization. We offer challenging career opportunities, competitive salaries and a comprehensive benefits package to include the following:</p>
+<ul>
+<li>Paid Federal Holidays</li>
+<li>Annual Leave/Paid Time Off (PTO) and Sick Leave</li>
+<li>Health, Dental and Vision Insurance</li>
+<li>401(k) plan with contribution match</li>
+<li>Continuing education assistance</li>
+<li>Flexible Spending Accounts</li>
+<li>Profit Sharing</li>
+<li>Employee Referral Program</li>
+<li>Life and Accidental Death and Dismemberment (AD&amp;D) Insurance</li>
+<li>Short (STD) and Long-Term Disability (LTD) Insurance</li>
+<li>Performance Bonuses</li>
+<li>Employee Assistance Plan</li>
+</ul> <p>About B3 Group, Inc.</p>
+<p>
+B3 Group, Inc. is a fast-growing Service-Disabled Veteran-Owned Small Business (SDVOSB) health IT firm providing end-to-end technology support services to the federal government and enterprise customers. Our values-driven team of business, IT and management professionals blend innovation and client-first thinking to deliver sustainable solutions for better healthcare outcomes.</p>
+<p>
+Established in 2008 and headquartered in Herndon, Virginia, B3 Group is founded on the principles of servant leadership. Those principles are reflected in every aspect of our operations.</p>
+<br>
+<p></p>
+<p>
+<br>
+<b>B3 Group, Inc. does not discriminate in employment opportunities, terms and conditions of employment, or practices on the basis of race, age, gender, religious or political beliefs, national origin or heritage, disability, sexual orientation, or any characteristic protected by law.</b></p>
+</div>
+<p></p>
+</div>

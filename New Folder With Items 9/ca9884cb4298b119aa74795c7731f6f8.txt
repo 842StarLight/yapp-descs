@@ -1,0 +1,76 @@
+<h2>Cloud Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>
+<p>HighJump is a global provider of supply chain management software that streamlines the flow of inventory and information from supplier to store shelf. The company is headquartered in Minneapolis, MN (USA) and supports customers ranging from SME business to marquee global enterprises. HighJump’s functionally rich and highly adaptable end-to-end solutions efficiently manage customers' warehousing, manufacturing, transportation, distribution, delivery routes and retail stores. The company belongs to the Business Unit Software and is part of the Business Area Logistics Systems belonging to the international technology group Körber.</p>
+<p>
+The Business Area Logistics Systems is the leading supplier of fully-integrated solutions for optimizing complex internal and external logistics processes. Under a common roof the companies of this Business Area offer solutions in the fields of warehouse and conveying technology, palletization plants, software and logistics network controls as well as system integration.</p>
+<br>
+<p></p>
+<br>
+<p></p>
+<p>The Körber Group is an international technology group with around 10,000 employees all over the world. It unites technologically leading companies with more than 100 production, service and sales locations and offers its customers solutions, products and services in the Business Areas of Körber Digital, Logistics Systems, Pharma Systems, Tissue and Tobacco.</p>
+<p></p>
+</div>
+<p><b>For our location in Minneapolis, MN, Colorado Springs, CO, Bellignham, WA, or Basingstoke UK, we are looking for a
+</b></p>
+</div>
+<p><b>Cloud Administrator</b></p>
+<div>
+<p><b>Tasks:</b>
+</p>
+<p></p>
+<div>
+<p>HighJump currently has a full-time position open for a <b>Cloud Operations Administrator </b>to work in our <b>Minneapolis, MN or Colorado Springs, CO </b>office.<b> </b>This individual will have a proven track record in supporting Cloud operations securely for our customers and will have a superior understanding of cloud operations</p>
+<p>
+This person will work for the Cloud Operations Team; a fast paced team of highly technical employees tasked with delivering world class cloud offerings to brand name recognizable customers. Additional responsibilities include:</p>
+<ul>
+<li>Provide effective provisioning, installation, configuration, operation, and maintenance of systems hardware and software and other related Cloud infrastructure located within HighJump’s Cloud infrastructure</li>
+<li>Heavily involved in Architectural decision making, and providing recommendations based on knowledge and past experience</li>
+<li>Ensure that system hardware, operating systems, software systems, and security mechanisms adhere to best practices and organizational standards</li>
+<li>Participate in technical research and development to enable continuing innovation and automation</li>
+<li>Provide strong influence in technical project teams to evaluate and implement new solutions</li>
+<li>Utilize various automation, monitoring, and service management tools &amp; techniques to troubleshoot issues and perform performance tuning</li>
+<li>Act as an escalation point to Business Unit product support groups for Cloud related issues</li>
+<li>Support our services and support teams on cloud related issues</li>
+<li>Participate with on-hours and after-hours cloud activities</li>
+<li>Prioritize cloud project work the priority of decreasing manual activities</li>
+<li>Provide superior customer service to internal and external customers</li>
+</ul>
+</div>
+</div>
+<p></p>
+<div>
+<p><b>Qualifications:</b>
+</p>
+<p></p>
+<div>
+<ul>
+<li>Technical Associate Degree or Bachelor Degree in IT, Computer Science, MIS, or related field</li>
+<li>3+ years of experience administering AWS, Azure, OCI, and CenturyLink cloud</li>
+<li>5+ years of experience as the principal administrator SQL server, Windows OS, Domain controllers, Firewalls, Monitoring tools, Disaster recovery software.</li>
+<li>Knowledge of common protocols including LAN / WAN, subnetting, VLANs, IPSec VPN, BGP, IDP, QoS, LUNs, RAID, iSCSI technologies</li>
+<li>Understanding of SQL Server 2012 or later and associated troubleshooting and performance tuning techniques</li>
+<li>Experience with multiple Microsoft technologies including Active Directory, Group Policy, Remote Desktop Services, IIS, Systems Center, and common server OSs including Server 2012 R2</li>
+<li>Enterprise Disaster recovery tools</li>
+<li>Automation &amp; scripting experience with PowerShell, Systems Center Orchestrator, Puppet, Chef, Ansible, Terraform</li>
+</ul>
+<p><b>Preferred Qualifications
+</b></p>
+<ul>
+<li>MCSE certified</li>
+<li>CCSP certified</li>
+<li>Certified in any of the following; Cisco Firewall, VMWare, Microsoft, Linuix, Azure, AWS, OCI</li>
+<li>HighJump software experience</li>
+</ul>
+</div>
+</div>
+<p></p>
+<div><div><p>Contact person:<br>
+Natalie Shulman<br>
+HighJump</p></div></div>
+</div>
+<div></div>
+</div>

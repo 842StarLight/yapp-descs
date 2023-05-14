@@ -1,0 +1,95 @@
+<h2>Analytics and Business Intelligence Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Job:</b> IT/Information Systems<br>
+<b>Primary Location:</b> United States-California-US-CA-Sunnyvale<br>
+<b>Schedule:</b> Full-time<br>
+<b>Requisition ID:</b> 190112<br>
+<br>
+<b>Description</b><br>
+<br>
+<div><b>Company Description:</b></div>
+<div>
+Who is Intuitive Surgical? The numbers tell an amazing story. Learn more about our company.</div>
+<br>
+<p></p>
+Joining Intuitive Surgical means joining a team dedicated to using technology to benefit patients by improving surgical efficacy and decreasing surgical invasiveness, with patient safety as our highest priority.<br>
+<br>
+<b>Position Overview:</b><div>
+<br>
+The idea of surgical robotics was little more than a curiosity until 1999, the year Intuitive Surgical introduced the da Vinci® Surgical System. Today, Intuitive Surgical is the global leader in the rapidly emerging field of robotic-assisted minimally invasive surgery.<br>
+<br>
+We are looking for a talented individual to join our growing Global Enterprise Analytics team and help provide Insights thought leadership across everything we do. Analytics are permeating the ISI products the data to support them needs to be managed and monitored. You will be expected to solve the complex and pressing data and data integration problems for the company.<br>
+<br>
+<b>Roles and Responsibilities:</b>
+</div>
+<div>
+<br>
+The information management architect develops the annual information management services strategy and owns the foundational work that guarantees data and information health. The role is responsible for leading analytics governance conversations with data stewards and business partners. The role works with enterprise and digital architects, technology vendors, business partners, and external service providers to ensure that new capabilities comply with the information needs of the business.<br>
+<br>
+<b>Key Responsibilities:</b>
+</div>
+<div>
+<br>
+</div>
+<div><ul>
+<li>Understands the decision-making process, workflows, and business and information needs of our analytic teams.
+</li>
+<li>Helps develops and promote the BU Analytics strategy as a coherent part of the Enterprise Analytics strategy.
+</li>
+<li>Collaborates with architects and engineering leads to design data standards and architectures that support the organization’s business processes and comply with regulatory standards.
+</li>
+<li>Provides high quality structured and unstructured solutions from internal and external sources that support business-facing Analytics.
+</li>
+<li>Guides architecture design review process to drive ongoing improvement efforts.</li>
+<li>Translates business needs into analytics/reporting requirements to support digital tools for service and sales products</li>
+<li>Coordinates with the Business Analysts to understand their information needs and identifies ways to visualize and present information in a user-friendly manner</li>
+<li>Proactively mines data warehouse to identify trends and patterns and generates insights for business units and senior leadership</li>
+<li>Develops frameworks and processes to analyze unstructured information collected through our medical devices for use in the service lines
+</li>
+<li>Interacts with Product team to understand how unstructured information is instrumented, stored, modeled, and tagged
+</li>
+<li>Supports analysts and UI engineers to enhance information visualization through development of dashboards and user interfaces</li>
+<li>Works closely with product managers, architects, and business units for knowledge sharing, mentoring, and training
+</li>
+<li>Drive standardization of key metrics across various business stakeholders to improve data governance maturity.
+</li>
+<li>Continually recommend, develop, and implement process improvements and tools to collect and analyze data, and visualize/present insights.</li>
+</ul></div>
+<b>
+Qualifications</b><br>
+<br>
+<b>Skill/Job Requirements:</b><div>
+<br>
+</div>
+<div><ul>
+<li>Bachelor’s degree in Business, Economics, Statistics or related area. MBA a plus.</li>
+<li>Minimum 10 years Analytics / Business Intelligence / Data Warehouse implementation experience</li>
+<li>Minimum 5 years working in the Medical Device industry</li>
+<li>Expert in BI / analytics architecture development, data asset management, data modeling, data taxonomy and meta-data</li>
+<li>Experience in BI or analytics, IT service delivery
+</li>
+<li>Experience with direct business engagement technology sales and marketing, and developing strategic plans.
+</li>
+<li>Strong business domain knowledge, combined with the ability to communicate advanced analyses to an executive audience.
+</li>
+<li>Experience drawing insights from structured and unstructured information</li>
+<li>Proven competency in dashboard design and information visualization techniques</li>
+<li>Ability to challenge and convince the various stakeholders involved in any project initiative or effort</li>
+<li>Strong analytical and project management skills required (agile projects), including a thorough understanding of how to interpret customer business needs and translate them into technical solutions</li>
+<li>Strong statistical skills and the ability to translate these skill into SQL, R or Python</li>
+<li>Ability to explain technical concepts to non-technical associates and vice-versa</li>
+<li>Strong sense of customer service for internal customers</li>
+<li>Medical robotics has unique characteristics that will require immersion in clinical and technical training and he or she must come up to speed quickly– an interest and desire to learn are critical</li>
+<li>Excellent verbal and written communication skills</li>
+</ul></div>
+<div></div>
+<br>
+<div>
+We are an AA/EEO/Veterans/Disabled employer.<br>
+We will consider for employment qualified applicants with arrest and conviction records in accordance with fair chance laws.</div>
+<div>
+<br>
+</div>
+<div>
+#RN1</div>
+</div></div>

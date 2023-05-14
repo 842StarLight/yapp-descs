@@ -1,0 +1,55 @@
+<h2>Senior Database Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Senior Database Developer, Headquartered in Evanston, IL</b><br>
+<br>
+<b>Welcome to the Highest Authority in the Intellectual Property Services Industry</b><br>
+<br>
+Cardinal Intellectual Property, Inc./Cardinal Holdings LLC is a global leader in patent and trademark services, and a provider of software services for intellectual property management. Our clients include Fortune 500 companies, law firms, education institutions and the United States Patent and Trademark Office.<br>
+<br>
+<b>Your Responsibilities</b><br>
+<br>
+Cardinal Intellectual Property is looking for a Senior Database Developer who will join our Evanston based team. The database developer will support our Sales and Account Managers with requests related to SQL database, such as ad hoc reports and new database deployments. The candidate will support operations and the onboarding of new clients, while creating and maintaining up to-date documentation of all SQL environments and processes associated with the database. They will also implement and support daily, weekly, and monthly Backup/restore strategies.<br>
+<br>
+<b>Who You Are</b><br>
+<br>
+The ideal candidate will bring a minimum of 5 years database development experience working with Microsoft SQL Server, and a proven understanding of database server architectures and advanced skills. In addition to the necessary technical and analytical chops, this position requires a highly effective communicator with strong interpersonal and relationship-building skills. If you’re known for your keen trouble-shooting abilities and wicked sense of humor, even better because there are only 10 kinds of people in this world: those who know binary and those who don’t. Previous experience working with Power BI and in Agile environments is highly desirable.<br>
+<br>
+<b>Summary of Your Skills</b><br>
+</p>
+<ul>
+<li>Expert in writing Complex TSQL queries, sub-queries and complex joins.</li>
+<li>Developed and implemented ETL Processes by using SSIS to move data from different sources to targets.</li>
+<li>Involved in Performance tuning at different levels (Package, Source, and Target).</li>
+<li>Ability to create sub reports and linked reports from queries in SSRS.</li>
+<li>Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements</li>
+<li>Optimize poorly performing SQL queries identified using the SQL profiler.</li>
+</ul>
+<br>
+<b>What You Need</b><br>
+<ul>
+<li>5+ years of experience writing advanced SQL queries</li>
+<li>Ability to develop and debug complex stored procedures, functions and triggers in T-SQL.</li>
+<li>Experience with backup strategies, clustering, high availability (Always On Availability Groups), replication and DR solutions for SQL a must</li>
+<li>Solid expertise in SSIS, SSRS in an enterprise scale environment</li>
+</ul>
+<br>
+<b>What We Will Offer You</b><br>
+<br>
+At Cardinal, you are a vital part of our organization. Our offices are in vibrant downtown Evanston, only a few blocks away from the Northwestern University campus and a block from the Davis Street El and Metra stop. The company culture is creative, fast-paced, and focused on massive growth. We work to foster an environment that appreciate diversity of thought and provides continuous opportunities for development. That is why we provide:<br>
+<ul>
+<li>Competitive pay with opportunity for discretionary bonus</li>
+<li>Health, Dental, Vision, Short-Term and Long-Term Disability, and Life Insurance</li>
+<li>401(k) with profit sharing per company policy</li>
+<li>Paid Time Off and Paid Sick Days</li>
+<li>Paid Company Holidays</li>
+<li>Transportation reimbursement (parking, CTA, and Metra) per company policy for in office workers</li>
+</ul>
+<p><br>
+<b>More About Us</b><br>
+<br>
+Our technology solutions for intellectual property management include Invention Disclosure Processing, Docketing, E-Discovery, and Competitive Monitoring. Our technology platforms incorporate rigorous security and data protection standards, and we maintain confidentiality using the same diligence and procedures as a law firm. We do not outsource our software or research services, enabling the company to maintain the highest standards of quality, confidentiality and accountability. Please visit http://cardinal-ip.com/ for more information.<br>
+<br>
+Cardinal Intellectual Property, Inc. provides equal opportunity in employment to all employees and applicants for employment. No person will be discriminated against in employment because of race, religion, color, sex, gender, age, national origin, ancestry, citizenship status, disability, sexual orientation, military status, marital status, genetic information, or any other characteristic protected by applicable Federal, State or local statute or ordinance.<br>
+</p>
+<br>
+XJ6</div></div>

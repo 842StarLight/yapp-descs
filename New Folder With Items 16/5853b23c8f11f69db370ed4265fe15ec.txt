@@ -1,0 +1,135 @@
+<h2>Sr Business Intelligence (BI) Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<b>Sr Business Intelligence (BI) Developer
+</b><br>
+Lansdale, Pa
+</div>
+<p>Every day within SKF USA, amazing ideas are born and quickly become solutions for our customers’ biggest challenges. SKF uses over 100 years of knowledge and engineering to develop products and services that help our customers grow successful and profitable businesses. Today we have over 4,500 U.S. employees supporting our enterprise.
+</p>
+<p>If you’re looking for an amazing career, where you can add value and have career growth opportunities ... come join our team for a new challenge!<br>
+</p>
+<p></p>
+<p><b>Bring your financial and business background, data and analytic skills, and purposeful action taking to the Customer to Cash and Business Intelligence Department.<br>
+</b></p>
+<p></p>
+<p>This position will be responsible for turning data into critical information and knowledge that can be used to make sound business decisions. It is essential the BI Developer builds an understanding of the business at a level of detail that enables them to identify and address critical issues. In this role, you will be working in a fast-paced environment assisting in the creation of new information services. You will be taking our business intelligence from tactical to strategic. <b>This is a contract to hire position.<br>
+</b></p>
+<p></p>
+<p><b>ESSENTIAL DUTIES AND RESPONSIBILITIES </b>:
+</p>
+<ul>
+<li>Work closely with business to turn data into critical information and visualizations that can be used to make sound business decisions.
+</li>
+<li>Help user understand and evangelize the importance of a data driven culture
+</li>
+<li>With the rest of the BI Team, you will contribute to the effective Data Governance of business data. This includes data quality, data management, data policies, business process management, and risk management surrounding the handling of business data.
+</li>
+<li>Identifies and provides input to new technology opportunities that will have an impact on the enterprise wide BI systems.
+</li>
+<li>Explores data using techniques and tools such as basic queries, machine learning and multidimensional analysis discovers patterns, meaningful relationships, anomalies and trends.
+</li>
+<li>Determine and implement the best technique for extracting data from a source and moving it to the BI/DW system.
+</li>
+<li>Design, implement and maintain BI apps, dashboards, reports, KPIs and models
+</li>
+<li>Document business rules, data mappings, transformations and visualizations related to data driven solutions
+</li>
+<li>Initiate and lead projects from start to finish using sound project management skills.
+</li>
+<li>Identify root cause and implement corrective actions
+</li>
+<li>Be creative and find new ways of working, creating process efficiencies
+</li>
+<li>Stays abreast of BI products/tools and of business strategies and direction
+</li>
+<li>Bring rigor and clarity to a process<br>
+</li>
+</ul>
+<p></p>
+<p><b>MINIMUM QUALIFICATIONS:
+</b></p>
+<ul>
+<li>5 years of experience in a Analyst, ETL or BI Developer role.
+</li>
+<li>Proficiency developing visualization and data visualization concepts
+</li>
+<li>3 Years’.experience with BI software such as Qlik Sense (required), MicroStrategy, Cognos, and OBIEE
+</li>
+<li>3+ Years’ designing and developing Qlik load scripts, data models, visualizations and extensions
+</li>
+<li>1+ year experience in the creation of Extension objects using Qlik Capability APIs and QLIK Engine API.
+</li>
+<li>1+ year experience creating, modifying and maintaining custom mashups, mashup templates, hypercubes, asset files and objects
+</li>
+<li>A strong knowledge of data structures, database technology (structured and NoSQL) with an emphasis on the use of analytical and BI tools
+</li>
+<li>Ability to write and troubleshoot new and existing SQL queries.
+</li>
+<li>Working knowledge REST API web service technologies
+</li>
+<li>Strong architecture, design and development skills
+</li>
+<li>Can extract and manipulate raw data into meaningful summaries
+</li>
+<li>Ability to work on projects and many data streams and many deadlines simultaneously.
+</li>
+<li>Ability to self-manage and self-direct being proactive and demonstrating purposeful action taking
+</li>
+<li>Excellent documentation skills, ability to produce diagrams and schematics that visualize technical solution.
+</li>
+<li>Can effectively communicate (writing, speaking &amp; presenting)
+</li>
+<li>Comfortable making informed and detailed recommendations to senior management
+</li>
+<li>Demonstrated leadership, particularly in the areas of process improvements and leading change
+</li>
+<li>Acute attention to detail
+</li>
+<li>Bachelor’s degree in information technology, computer science, business administration, mathematics, statistics or equivalent work experience
+</li>
+</ul>
+<p>Travel: As needed (i.e. less than 10%)<br>
+</p>
+<p></p>
+<p><b>PREFERRED (NOT REQUIRED) QUALIFICAITONS:
+</b></p>
+<ul>
+<li>Familiar with languages: Java, R, Python, SAS, Spark,
+</li>
+<li>Experience with ETL tools suchs as SSIS, Talend, Informatica
+</li>
+<li>Understanding of big data warehouse such as Amazon Redshift, Postgres, Hadoop, MongoDB
+</li>
+<li>Knowledge of the industrial OEM and/or End User sales channels or B2B supply-chain
+</li>
+<li>An understanding of enterprise software such as CRM, Telephony, Order Management, etc.
+</li>
+<li>Advanced degree in computer science or statistics<br>
+</li>
+</ul>
+<p></p>
+<p>Salary Negotiable
+</p>
+<p>Equal Opportunity Employer/Disable/Veterans<br>
+</p>
+<p></p>
+<p>SKF ‘best-in-class’ employer
+</p>
+<p>SKF is everywhere. You use our products every day, even though you may not see them.<br>
+</p>
+<p></p>
+<p>SKF offers immediate 401k company match, a generous amount of paid time off, and comprehensive health care coverage.
+</p>
+<p>Please go to www.skfusa.com for more information and career opportunities.
+</p>
+<p>Visit us on www.facebook.com/SKFUSA or Glassdoor.com<br>
+</p>
+<p></p>
+<p><b>About SKF
+</b></p>
+<p><i>SKF works to reduce friction, make things run faster, longer, cleaner and more safely. Doing this in the most effective, productive and sustainable way has made the SKF Group a leading global supplier of products, solutions and services within rolling bearings, seals, mechatronics, services and lubrication systems. Services include technical support, maintenance services, condition monitoring, asset efficiency optimization, engineering consultancy and training.</i></p>
+</div>
+</div>

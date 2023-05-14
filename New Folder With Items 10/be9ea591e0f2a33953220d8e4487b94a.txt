@@ -1,0 +1,74 @@
+<h2>Salesforce Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Ready to help us transform healthcare? Bring your true colors to blue.
+</b></h2>
+<p></p>The BCBSMA Salesforce Center of Excellence is seeking an innovative, technically talented Salesforce Solution architect who can expand our Salesforce architecture and design in support of major initiatives that support our business segments. The position is part of Corporate Systems Delivery and reports to the Director of the Salesforce Center of Excellence.
+<p>The Solution Architect provides overall technical architecture / design leadership for implementing solutions <b>on multiple projects or one large/complex project </b>. Ensures that the design is consistent with the overall Salesforce architecture at BCBSMA. <b>Accountable for contributing to the successful delivery and quality of technology solutions on Salesforce. </b>Assists with detail system design to a point where implementation can proceed. Identifies and documents architecturally significant aspects/views of the systems. Ensures consistent use of Salesforce design methodology. Leads or participates in project planning of architecture and design activities and provides estimates. Responsible for application planning and maximizing on our investment in the Salesforce platform.
+</p>
+<p></p>
+<p><b>Key Accountabilities
+</b></p>
+<p></p>
+<ul>
+<li>Designing and solutioning complex cloud-based business applications on Salesforce.
+</li>
+<li>Leading decision for build vs. buy, while navigating the complex Salesforce partner echo-system.
+</li>
+<li>Experience and deep knowledge of data management, integration, and web-based security.
+</li>
+<li>Supporting all stages of the software development life cycle, for Agile and Waterfall projects.
+</li>
+<li>Creating or reviewing design elements and signing off on the overall technical design.
+</li>
+<li>Ensuring that the system accurately meets the defined expectations of the business.
+</li>
+<li>Identify and confirm technical risks and develop mitigating approaches.
+</li>
+<li>Drive Salesforce best practices, with methods and tools, in order to maximize the value of the platform.
+</li>
+<li>Influence business and technical leads in best use of Salesforce out-of-the box tools and features.
+</li>
+<li>Working with solution vendors, and leading technical discussions and decisions.
+</li>
+<li>Health Insurance understanding and experience, and the ability to collaborating with business leadership.
+</li>
+<li>Self-driven and able to take lead others or work autonomously to drive solution decisions, troubleshoot system issues, and perform root-cause analysis.
+</li>
+</ul>
+<p></p>
+<p><b>Qualifications
+</b></p>
+<ul>
+<li>Bachelor's degree in a technical domain is preferred (or equivalent experience).
+</li>
+<li>7+ years direct experience in software development life cycle
+</li>
+<li>5+ year experience in Salesforce configuration and implementing CRM systems.
+</li>
+<li>Knowledge of APEX, XML, SOQL, and Lightning.
+</li>
+<li>Strong knowledge of Salesforce as a platform for Enterprise solutions.
+</li>
+<li>Preferred, but not a must, Salesforce certification of Platform Developer I and II and/or Platform App Builder, Administrator certification, as well as certification in at least one of following domains: Sales, Service and Marketing Cloud.
+</li>
+<li>Excellent oral and written communication, presenting, meeting facilitation, negotiation, decision making, and problem-solving skills
+</li>
+<li>Must be a team player able to operate in large scale enterprises with multiple work streams.
+</li>
+<li>Experience working with solution partners, and offshore teams.
+</li>
+<li>Understanding of the medical payer space or healthcare is a plus
+</li>
+<li>Knowledge of Vlocity is a plus
+</li>
+<li>Knowledge of CTI connectors for unified communications is a plus
+</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>Location
+</b></h2>Boston
+<h2 class="jobSectionHeader"><b>Time Type
+</b></h2>Full time</div>
+<p></p>
+</div>

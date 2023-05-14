@@ -1,0 +1,62 @@
+<h2>Manager Business Intelligence (SAP Business Objects)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>GENERAL PURPOSE OF THE POSITION:</div>
+<div></div>
+<div>This position is responsible to design, develop, and maintain Business Intelligence architecture for enabling development of the reports and universes in the data warehouse environment using the SAP BusinessObjects suite of products. Collaborate with multiple business departments to understand the needs of enhancements and improvements, more importantly lead the business to the road of the innovation for value creation.<br>
+Lead the internal and external development and analysts to develop standard, self-service, and ad-hoc Web Intelligence reports and Explorer Information Spaces that meet their needs. Mentor the organization users with training and assistance in BusinessObjects as needed.</div>
+<div></div>
+<div>ESSENTIAL DUTIES AND RESPONSIBILITIES:</div>
+<div></div>
+<ul>
+<li>Collaborate with business experts to take a lead role in the design of SAP BusinessObjects universes that meet the needs of the business and create quality and consistency of reporting across multiple areas</li>
+<li>Develop and maintain Business Object Universe using the Information Design Tool</li>
+<li>Take a lead role in development of SAP BusinessObjects reports and ad-hoc analytics in SAP reporting tools, Web Intelligence and Explorer.</li>
+<li>Collaborate with Data Architect and ETL developer to design, develop, test, maintain, and support the data architecture to ensure optimal performance and reporting flexibility while maintaining data warehouse quality standards</li>
+<li>Provide mentoring, guidance and training on how to most effectively use SAP Business Objects reporting and analysis tools</li>
+<li>Experience with SAP Business Objects Administration/CMC is a plus</li>
+<li>Adhere to and enforce established standards and best practices to deliver stable, reliable and highly available solutions.</li>
+<li>Support all phases of the reporting project life cycle including analysis, design, development, testing, deployment and post-production support/maintenance.</li>
+<li>Communicate with project management team efficiently</li>
+<li>All other assigned duties.</li>
+</ul>
+<br>
+<div></div>
+<div>
+<br>
+SKILLS AND ABILITIES REQUIRED</div>
+<div></div>
+<ul>
+<li>Strong understanding of a manufacturing business.</li>
+<li>In-depth knowledge of information technology trends and technologies as it relates to Business Intelligence.</li>
+<li>Deep understanding of technologies used in a manufacturing business specifically related to ERP product suites.</li>
+<li>Strong ability to clearly document and communicate business processes and IT processes to both business and IT stakeholders at appropriate levels of abstraction.</li>
+<li>Must be able to work closely with infrastructure and data architects, as well as with application development teams.</li>
+<li>Expert business intelligence reporting skills.</li>
+<li>Strong business acumen and analytical skills.</li>
+<li>Excellent communication skills (verbal and written)</li>
+<li>Highly motivated and self directed</li>
+<li>Persuasive, encouraging and motivating</li>
+<li>Must be able to work in a fast-paced environment and meet tight project schedules with minimal supervision.</li>
+<li>Strong analytical skills required.</li>
+</ul>
+<br>
+<div></div>
+<div>
+<br>
+COMPUTER EQUIPMENT AND SOFTWARE REQUIREMENTS<br>
+<ul>
+<li>Broad understanding of computers and business software (Word, Excel, Project, Visio, Outlook)</li>
+<li>In-depth knowledge of database design and reporting mechanisms.</li>
+<li>Extensive knowledge of core business applications.</li>
+</ul>
+</div>
+<div></div>
+<div>EDUCATION and EXPERIENCE REQUIRED<br>
+<ul>
+<li>Bachelor's degree in the field of business administration or information technology.</li>
+<li>Knowledge of relational data modeling and data warehousing models.</li>
+<li>Strong experience is relational Database modeling and Star Schema</li>
+<li>Advanced problem-solving skills and the ability to work collaboratively with other department to resolve complex architecture issues with innovative solutions</li>
+</ul>
+</div>
+</div></div>

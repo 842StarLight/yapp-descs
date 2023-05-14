@@ -1,0 +1,120 @@
+<h2>Sales Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>About Snowflake</div>
+<div>
+<br>
+</div>
+<div>
+Snowflake is growing fast and we’re scaling our team to help enable and accelerate our growth. We’re passionate about our people, our customers, our values and our culture! We’re also looking for people with a growth mindset and the pragmatic insight to solve for today while building for the future. And as a Snowflake employee, you will be accountable for supporting and enabling diversity and belonging.
+</div>
+<div></div>
+<br>
+<div>Snowflake started with a clear vision: make modern data warehousing effective, affordable, and accessible to all data users. Because traditional on-premises and cloud solutions struggle with this, Snowflake developed an innovative product with a new built-for-the-cloud architecture that combines the power of data warehousing, the flexibility of big data platforms, and the elasticity of the cloud at a fraction of the cost of traditional solutions.</div>
+<div>
+<br>
+</div>
+<div>
+Snowflake started with a clear vision: make modern data warehousing effective, affordable, and accessible to all data users. Because traditional on-premises and cloud solutions struggle with this, Snowflake developed an innovative product with a new built-for-the-cloud architecture that combines the power of data warehousing, the flexibility of big data platforms, and the elasticity of the cloud at a fraction of the cost of traditional solutions. Snowflake: Your data, no limits.</div>
+<div>
+<br>
+</div>
+<div>
+The <b>Sales Engineer</b> will work hand-in-hand with Sales, Product, Engineering, and Marketing to help us bring our first product to market and grow the company. She/he will be responsible for providing the technical expertise to make Snowflake customers successful. This sales engineer will have a broad range of skills and experience ranging from data architecture to ETL, security, performance analysis, analytics, etc. He/she will have the insight to make the connection between a customer’s specific business problems and Snowflake’s solution, the customer-facing skills to communicate that connection and vision to a wide variety of technical and executive audiences, and the technical skills to be able to not only build demos and execute proof-of-concepts but also to provide consultative assistance on architecture and implementation.</div>
+<div>
+<br>
+</div>
+<div>
+The person we’re looking for shares our passion about reinventing the data platform and thrives in the dynamic environment that comes with being part of an innovative startup from its early days. That means having the flexibility and willingness to jump in and get done what needs to be done to make Snowflake and our customers successful. It means keeping up to date on the ever-evolving technologies for data and analytics in order to be an authoritative resource for both Snowflake and customers. And it means working collaboratively with a broad range of people both inside and outside the company.</div>
+<div>
+<br>
+</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>As a Sales Engineer at Snowflake you will:
+</b></h3>
+<div><ul>
+<li>Present Snowflake technology and vision to executives and technical contributors at prospects and customers.</li>
+<li>
+Work hands-on with prospects and customers to demonstrate and communicate the value of Snowflake technology throughout the sales cycle, from demo to proof of concept to design and implementation.</li>
+<li>
+Maintain deep understanding of competitive and complementary technologies and vendors and how to position Snowflake in relation to them.</li>
+<li>
+Collaborate with Product Management, Engineering, and Marketing to continuously improve Snowflake’s products and marketing.</li>
+<div>
+<br>
+</div>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Our ideal Sales Engineer will have:
+</b></h3>
+<div><ul>
+<li>Minimum 5 years of experience working with customers in a pre-sales or post-sales technical role.</li>
+<li>
+Outstanding skills presenting to both technical and executive audiences, whether impromptu on a whiteboard or using presentations and demos.</li>
+<li>
+Understanding of complete data analytics stack and workflow, from ETL to data platform design to BI and analytics tools.</li>
+<li>
+Strong skills in databases, data warehouses, and data processing.</li>
+<li>
+Hands-on expertise with SQL and SQL analytics.</li>
+<div>
+<br>
+</div>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Strongly Desired:</b></h3>
+<div><ul>
+<li>
+Experience and track record of success selling data and/or analytics software to enterprise customers; includes proven skills identifying key stakeholders, winning value propositions, and compelling events.</li>
+<li>
+Extensive knowledge of and experience with large-scale database technology (e.g. Netezza, Exadata, Teradata, Greenplum).</li>
+<li>
+Software development experience with C/C++ or Java.</li>
+<li>
+Scripting experience with Python, Ruby, Perl, Bash.</li>
+<li>
+University degree in computer science, engineering, mathematics or related fields, or equivalent experience.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Bonus points for experience with the following:</b></h3>
+<div><ul>
+<li>
+Experience with non-relational platforms and tools for large-scale data processing (e.g. Hadoop, HBase).</li>
+<li>
+Familiarity and experience with common BI and data exploration tools (e.g. Microstrategy, Business Objects, Tableau).</li>
+<li>
+Experience and understanding of large-scale infrastructure-as-a-service platforms (e.g. Amazon AWS, Microsoft Azure, OpenStack).</li>
+<li>
+Experience implementing ETL pipelines using custom and packaged tools.</li>
+<li>
+Experience using AWS services such as S3, Kinesis, Elastic MapReduce, Data Pipeline.</li>
+<li>
+Experience selling enterprise SaaS software.</li>
+<li>
+Proven success at enterprise software startups.</li>
+</ul></div>
+</div></div>
+<div>
+<div>About Snowflake</div>
+<div>
+<br>
+</div>
+<div>
+Snowflake Computing, the cloud data warehousing company, has reinvented the data warehouse for the cloud and today’s data. The Snowflake Elastic Data Warehouse is built from the cloud up with a patent-pending new architecture that delivers the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud – at a fraction of the cost of traditional solutions. Snowflake can be found online at snowflake.net.</div>
+<div>
+<br>
+</div>
+<div>
+Snowflake has been voted as one of the Bay Area Best Places to Work in 2015, 2016, and 2017. We are a place where people work effectively with the same values and vision. We focus on doing what is right for our customers, shareholders, and employees. We create great products, individually and as a team.</div>
+<div></div>
+<br>
+<div>
+</div>
+<div>
+Snowflake is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, color, gender identity or expression, marital status, national origin, disability, protected veteran status, race, religion, pregnancy, sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div>
+</div>
+</div></div>

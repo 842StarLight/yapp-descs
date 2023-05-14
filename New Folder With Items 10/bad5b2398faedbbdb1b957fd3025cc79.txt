@@ -1,0 +1,43 @@
+<h2>Senior Data Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>SiriusXM and Pandora have joined together to create the world’s largest audio entertainment company. Together, we are uniquely positioned to lead a new era of audio entertainment by delivering the most compelling subscription and ad-supported audio experiences to millions of listeners – in the car, at home and on the go. Our talent, content, technology and innovation continue to be at the forefront, and we want you to be a part of it! Check out our current openings below and at www.SiriusXM.com/careers.<br>
+<br>
+Data engineers at Pandora are responsible for the services and infrastructure capable of processing and making available the extensive volume of data produced on its platform each day. Data Engineers build the infrastructure needed to enable analysts and scientists to query and author data products that operate against our largest collections (billions of events per day). At Pandora the data team supports a variety of business functions including our science, marketing, product, finance and sales teams. You should have a solid understanding of Java software development, and take personal responsibility for testing the code you write. You should have strong academic credentials and a degree in Computer Science or a related field. You should be enthusiastic about learning new technologies and skills. You must be capable of managing your time well and working collaboratively. Excellent communication skills, both written and verbal, are required.</p>
+<p>
+Requirements:</p>
+<ul>
+<li>
+5+ years development experience focused on data or analytics engineering working with big data technologies (Hadoop: i.e. MapReduce, HDFS, Tez, Hive, Spark)</li>
+<li>
+Experience with one of the following distributed databases: MySQL, Postgres, Redis, NoSQL or NewSQL</li>
+<li>
+Experience developing in one of the following: Java, Scala, C/C++, or Python</li>
+<li>
+Experience developing for Linux-based deployment platforms, developing scalable, multithreaded server side software for deployment</li>
+<li>
+Experience developing SQL applications of significant complexity</li>
+<li>
+Experience developing service oriented architectures/orchestration including the support of data science</li>
+<li>
+Experience with API design/development (i.e. RPC, REST, JSON)</li>
+<li>
+Significant experience unit testing with frameworks i.e. JUnit</li>
+</ul>
+<p></p>
+<p>
+Plus Requirements:</p>
+<ul>
+<li>
+Experience collaborating with data scientists, exposure to machine learning algorithms and/or statistical modeling methods.</li>
+<li>
+Experience with anomaly detection, recommender, or search systems.</li>
+<li>
+Experience with Apache Spark and Kafka.</li>
+<li>
+Experience working across the full technology stack</li>
+<li>
+BA/BS or above in Computer Science or a related field</li>
+</ul>
+<p>
+“We're considering candidates for multiple positions and levels. Successful candidates will be placed at appropriate level depending on their qualifications or experience.”</p>
+</div></div>

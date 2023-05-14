@@ -1,0 +1,107 @@
+<h2>Software Configuration Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>Connecting people with each other and the right information is mission-critical. Intrado, formerly West develops innovative cloud-based technology to make it easier, more effective and more efficient to make the right connections. Our solutions put people in sync with each other and the right information, so they gain the insight needed to reach better decisions on the issues that matter most. We do it with a laser focus on reliability.</div>
+<div></div>
+<br>
+<div>
+Intrado is a leading provider of technology-driven, communication services, serving Fortune 1000 companies and other clients in a variety of industries, including telecommunications, retail, financial services, public safety, technology and healthcare. For more than 30 years, we have been leading the way in hosted and cloud-based solutions.</div>
+<div></div>
+<br>
+<div>
+Our Global Technology Services department is currently seeking a <b>Software Configuration Engineer</b> to join our team in Omaha.</div>
+<div></div>
+<br>
+<div>
+As a Software Configuration Engineer, you are responsible for supporting the Intrado CI/CD stack (i.e. GitHub, Artifactory, Jenkins and RedHat Ansible Tower), as well as Bamboo license management servers. Our ideal candidate is someone who has a good understanding of software builds and the tools associated with software releases and is excited to be a part of the Intrado Digital Transformation!</div>
+<div></div>
+<br>
+<div><b>
+Day to day responsibilities include, but are not limited to:</b></div>
+<ul>
+<li>Assist in managing multiple systems including the Change Management System (CMS) taking steps to ensure it runs effectively according to established policies and procedures</li>
+<li>
+Manages the source code repository and release codes ensure it is completed in a timely and effective manner</li>
+<li>
+Assist in upgrades to the systems as necessary to ensure systems are up-to-date and remain efficient</li>
+<li>
+Assist in working with development teams to add new builds to the system for future use</li>
+<li>
+Troubleshoot and resolve issues pertaining to code disparity between production and quality assurance</li>
+<li>
+Adding and removing approved users from the system to ensure it is up to date</li>
+<li>
+Ability to participate in an on-call rotation as needed</li>
+<li>
+Other duties as assigned</li>
+</ul>
+<div>
+</div>
+</div>
+<p></p>
+<div>
+Qualifications<div>
+</div>
+<div><b>
+Education</b></div>
+<ul>
+<li>Bachelor’s Degree in Computer Science, MIS, or a related field required, however equivalent work experience in a similar position may be substituted to education</li>
+<li>
+Certifications may count towards experience</li>
+</ul>
+<div><b>Experience and Technical Skills</b></div>
+<ul>
+<li>3-5 years of experience in software engineering, systems administration, software configuration management or a related field required</li>
+<li>
+Experience with Windows and Linux operating systems</li>
+<li>
+Experience with RedHat Tower (Ansible), GitHub, Artifactory, Jenkins and/or SonarQube</li>
+<li>
+Experience with Puppet and Chef are preferred, but not required</li>
+<li>
+Strong troubleshooting and analytical skills</li>
+<li>
+Excellent communication both verbal and written</li>
+<li>
+Ability to work both independently and as part of larger team</li>
+</ul>
+<div>Our solutions connect people with each other and the information needed to gain insights for better decisions on the issues that matter most – <b>Information to Insight.</b>
+</div>
+<div>
+<br>
+</div>
+<div>
+Intrado has sales and/or operations in the United States, Canada, Europe, the Middle East, Asia Pacific, Latin and South America and is an Equal Opportunity Employer – Veterans/Disabled and Other Protected Categories.</div>
+<div>
+<br>
+</div>
+<div>
+This position will be posted for 7 days or until the position is filled.</div>
+<div>
+</div>
+</div>
+<p></p>
+<div>
+Job: Technical<div>
+</div>
+</div>
+<div>
+Primary Location: United States-Colorado-Longmont<div>
+</div>
+</div>
+<div>
+Organization: Global Technology Services USA<div>
+</div>
+</div>
+<div>
+Schedule: Full-time<div>
+</div>
+</div>
+<p></p>
+<div>
+Job Posting: 09/13/2019, 2:39:37 PM</div>
+</div>
+<p></p>
+</div>

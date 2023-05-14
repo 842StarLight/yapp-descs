@@ -1,0 +1,62 @@
+<h2>Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Job Description</b></h2>
+<p><b>Description</b>
+</p>
+<div>SAIC is supporting the Systems Simulation, Software and Integration Directorate (S3I) at Redstone Arsenal in development of the Radar Training Device (RTD). A Systems Engineer is needed for requirements maintenance, development, and sustainment, continuous process improvement, risk management, process analysis and development, and system hardware and software life cycle sustainment and development.</div>
+<div></div>
+<div>The RTD provides realistic training in THAAD Enhanced Operator/Maintainer operations, emplacement, and maintenance tasks for the THAAD Radar and includes an Antenna Equipment Unit (AEU), a Cooling Equipment Unit (CEU), and an Electronic Equipment Unit (EEU). The RTD replicates the THAAD Radar to the extent necessary to support the training of the THAAD Interactive Electronic Training Manual (IETM) instructions.</div>
+<div></div>
+<div>The Institutional Conduct of Fire Trainer (ICOFT) provides realistic institutional training in all areas of the THAAD Enhanced Operator/Maintainer operations and maintenance tasks for the THAAD Fire Control and Communication (TFCC), Radar, and Launcher components. The ICOFT replicates the tactical system environment and supports training of the TFCC, Radar, and Launcher tactical software. The ICOFT software will be used in the RTD.</div>
+<div></div>
+<div>The Systems Engineer may support additional training devices systems engineering development and maintenance tasks supporting S3I including Foreign Military Sales (FMS).</div>
+<div></div>
+<div>
+<b>Duties and Responsibilities:</b>
+</div>
+<ul>
+<li>Analyze system, software, and hardware specifications and interface documents for capabilities to integrate into a training system.
+</li>
+<li>Assist in the architecture, design and modeling of the training system.<br>
+Create and maintain functional test criteria for acceptance of system functionality.
+</li>
+<li>Coordinate with the Project, Software, Product and Test Leads to ensure appropriate implementation, documentation and testing of desired capabilities.
+</li>
+<li>Serve as an Integration Lead of Products supporting THAAD Training Devices</li>
+</ul>
+<p><b>
+Qualifications</b>
+</p>
+<div><b>Education and Experience:</b></div>
+<div>Bachelors and two years or more experience (equivalent experience accepted in lieu of a degree)</div>
+<div></div>
+<div><b>Required Skills:</b></div>
+<ul>
+<li>Strong attention to detail and follow-through skills
+</li>
+<li>Experience with engineering analysis
+</li>
+<li>10% Travel possible</li>
+</ul>
+<div></div>
+<div><b>Desired Skills:</b></div>
+<ul>
+<li>Experience with THAAD or BMDS system architectures
+</li>
+<li>Experience with DOORS system
+</li>
+<li>Experience with DoDAF
+</li>
+<li>Experience with Army Training</li>
+</ul>
+<div></div>
+<div>
+<b>Clearance Requirement:</b> Must possess an active secret clearance or be able to obtain secret clearance</div>
+<p><b>
+Desired Qualifications</b></p>
+<br>
+<br>
+<br>
+<p><b>Overview</b></p>
+<p>SAIC is a premier technology integrator, solving our nation's most complex modernization and systems engineering challenges across the defense, space, federal civilian, and intelligence markets. Our robust portfolio of offerings includes high-end solutions in systems engineering and integration; enterprise IT, including cloud services; cyber; software; advanced analytics and simulation; and training. We are a team of 23,000 strong driven by mission, united purpose, and inspired by opportunity. Headquartered in Reston, Virginia, SAIC has annual revenues of approximately $6.5 billion. For more information, visit saic.com. For information on the benefits SAIC offers, see Working at SAIC. EOE AA M/F/Vet/Disability</p>
+</div></div>

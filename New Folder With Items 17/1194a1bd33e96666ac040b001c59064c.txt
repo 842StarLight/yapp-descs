@@ -1,0 +1,74 @@
+<h2>Systems Administration - Cloud</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Ardalyst - Annapolis, MD
+<br>Ready to change the world? Are you an Ardalyst?
+<br><br>
+Ardalyst is a digital risk management company that helps organizations thrive in the digital world by replacing uncertainty with understanding. We do this by powering digital transformation through expertise in line of business applications, cloud, and cyber resilience.
+<br><br>
+We are looking for a Cloud Systems Administrator that is passionate about turning ideas into practice and enabling customers to thrive on the Microsoft digital platform. This position is a post-sales resource that works directly the team and the client to implement cloud solutions. The design of these cloud solutions will rely on a combination of consultative knowledge, partnering with the internal team and the client team and an understanding of Ardalyst services and capabilities in the consulting, development, deployment, migration and managed services areas. You will be responsible for the construction and implementation of cloud environments, ongoing customer support, and participation in customer business reviews.
+<br><br>
+Ardalyst is a mashup of Ardent, meaning “passionate” and Catalyst, meaning “change agent.” To be an Ardalyst means to be passionate about creating and sustaining meaningful transformations. Ardalysts come from a wide variety of backgrounds and share a few additional behaviors in common, such as being curious, trustworthy, and accountable. Is this you?
+<br><br>
+We take pride in our ability and desire to mentor. You will join our existing team of extremely talented developers, analysts, operators, and consultants with a unique opportunity to grow and advance your career at a pace that is rarely achievable outside of this environment. We are open to a wide range of candidates that have some combination of the knowledge, skills and abilities below. We hope to find someone that has a passion for technology and is looking for the right opportunity to grow professionally in a company like ours.
+<br><br>
+We operate nationally with our employees based out of Seattle, WA and Annapolis, MD. You will work from our Annapolis, MD office.
+<br><br>
+Key Responsibilities
+<br><br>
+Provide world class delivery and support of our customer’s cloud services.
+<br>Establish yourself as a trusted resource. You will need to partner with the customer to understand their business requirements and support their cloud implementations.
+<br>Assist with creation of design specifications, templates, reference architectures, and assist with other project deliverables as needed.
+<br>Implement solutions that address customer's requirements for scalability, reliability, security, and performance in accordance with industry best practice.
+<br>Collaborate with other teams on technical solutions where needed.
+<br>Stay up to date on all technical developments related to Azure Cloud Services
+<br>Be familiar with Cloud based defensive systems and alert analysis (such as FireEye cloud offerings).
+<br>Be familiar with Vulnerability Management techniques and scanning software.
+<br>As a part of the Managed Services team you will interact with Sales, Marketing, and Operations to support ongoing projects or work.
+<br>Where required, perform client assessments and workshops to support new customer implementations as well as support existing customer requests.
+<br>Participate in pre-sales consultation when needed.
+<br>Self-motivated and able to work with limited supervision, and excellent time management.
+<br>Strong communication and customer service skills.
+<br>Technical Certifications a definite plus.
+<br>Qualifications
+<br><br>
+1-4 years of experience in host and network security tools.
+<br>1-3 years of experience working with small-business or enterprise environments.
+<br>Experience migrating on-premises environments to a cloud environment.
+<br>Experience with log analysis and alert management.
+<br>Incident Response and Alert Management experience highly desired.
+<br>Understanding of Active Directory Domain Services and Azure Active Directory.
+<br>Experience with MDM. Microsoft Intune preferred.
+<br>Experience with Windows 10.
+<br>Experience with Windows Server 2012/2016/2019.
+<br>Strong experience with protecting and securing cloud-based/multi-tenant infrastructure.
+<br>Experience with Office 365 administration, O365 services, and Azure VMs with an eye to the security aspects of these systems.
+<br>Experience with Microsoft Cloud App Security desired.
+<br>Experience with PowerShell is desired.
+<br><b>Knowledge of network protocols such as:</b> DNS, SMTP, SNMP, SSH, SFTP.
+<br>Knowledge of Network and TCP/IP routing/subnetting.
+<br>Working knowledge of VPN connectivity and client trouble shooting.
+<br>Ability to evaluate customers to have systems virtualized.
+<br>Ability to evaluate customers readiness to be migrated to Azure.
+<br>Ideal Candidates
+<br><br>
+FireEye cloud-based suite administration and analysis.
+<br>Ideal Team Player with a history of strong analytical ability, driving decisions collaboratively, resolving conflicts and ensuring follow through.
+<br>Strong problem-solving and analytical skills oriented to leveraging all available resources to accomplish the goal.
+<br>Ability to connect technology with measurable mission business value.
+<br>Demonstrated technical focus in customer facing situations.
+<br>Collaborate and work with other technical teams to better provide subject matter expertise and insights.
+<br>Provide periodic off-hours on-call support for production and development environments.
+<br>Thrive in a dynamic, work hard, play hard environment.
+<br>Pitches in wherever they can help and comfortable both in a team and flying solo.
+<br>Can do attitude with willingness to learn when faced with a task you have never done.
+<br>Embraces the challenge and opportunity of joining a company on the ground floor and growing with us!
+<br>The Benefits
+<br><br>
+Bonus Plan
+<br>Paid Time Off (PTO)
+<br>Paid Holidays
+<br>401(k) Retirement Plan
+<br>Health, Dental, Vision, Life, as well as, Short Term and Long-Term Disability insurance
+<br>Monetary assistance with training and certifications
+<br>You can find out more about us at www.ardalyst.com.
+<br><br>
+<b>Posted On:</b> Wednesday, June 26, 2019</div>

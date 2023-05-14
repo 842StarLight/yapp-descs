@@ -1,0 +1,57 @@
+<h2>Firmware Engineer - Dog Products</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>We are looking for a full-time Firmware Engineer at our Dog Product Center of Excellence in Tucson, Arizona.</div>
+<div></div>
+<div>Garmin is a large, multinational provider of products that are a compelling part of our customers lives. In Tucson, these products are focused on improving the relationship between dogs and their owners. If you love hands on product development where you can see your work making a difference to the business right away, we have the job for you. This position is located in our sunny Tucson, AZ Dog Product Center of Excellence. Tucson boosts over 280 days of sun a year with no snow all year round. A city of almost a million people, nestled in Southern Arizona and home to a major research university, Tucson offers all of the amenities of larger cities with lower cost of living, minimal travel times and easy access to mountains, hiking, biking and just about any other outdoor activity one could want.</div>
+<div></div>
+<div>As a leading worldwide provider of navigation devices and wearable technology, our focus is on developing, designing and supporting superior products. Our advanced technology promotes performance, safety and ease of use in every market we serve. That makes us an engineering and technology company with a keen focus on recruiting talent in those fields. But the same vertical integration business model that keeps all design and manufacturing processes in-house also gives us the incentive to hire top performers from different backgrounds, including operations, finance and accounting, information technology, sales, marketing and communications.</div>
+<br>
+<div></div>
+<div>Our outdoor product development team is looking for someone to provide very low-level, embedded C software development for next generation outdoor products, including using SPI, I2C, UART and other interfaces on bare metal 8 and 32 bit processors.</div>
+<div></div>
+<div>Important Note: Due to the nature of our products, contact with dogs and products that have been in contact with dogs is common/ frequent</div>
+<br>
+<div></div>
+<div>In this role you will be responsible for creating and executing designs for small sets of new functionality as part of a software project. Other essential functions include:</div>
+<br>
+<div></div>
+<ul>
+<li>Creates and executes designs for small sets of new functionality as part of a software project</li>
+<li>May perform as a technical leader or Lead Software Engineer for derivative software project</li>
+<li>Collaborates and adds value through participation in peer code reviews, providing comments and suggestions</li>
+<li>Provides reliable solutions to a variety of problems using sound problem solving techniques</li>
+<li>Performs technical root cause analysis and outlines corrective action for given problems</li>
+<li>Contributes to technical research on new technologies</li>
+<li>Estimate level of effort, evaluate new options of similar technology, offer suggestions to improve processes, and provide comments on some electrical design aspects</li>
+</ul>
+</div>
+<div></div>
+<br>
+<div>
+<div>Qualified candidates possess a Bachelor's of Science Degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering Aerospace Engineering, Math or Physics or a technical field (such as CIS or IT) relevant to the essential functions of this job description from a four-year college or university AND 2 years of current work experience. Other requirements include:</div>
+<br>
+<div></div>
+<div>Demonstrates proficient knowledge and utilization of engineering tools necessary for successful performance of the essential functions of this job description</div>
+<div></div>
+<ul>
+<li>Must have a minimum of 2 years of current C level programming</li>
+<li>Must have a minimum of 1 year of current low-level embedded system experience (non-Linux)</li>
+<li>Experience performing maintenance activities for products already in production and troubleshoot issue reports, reproduce issues, perform technical root cause analysis and outline corrective action, and implement and test software solutions.</li>
+<li>Proficient knowledge and utilization of engineering tools plus proficiency and experience necessary to develop moderately complex software in C, or other selected language are a must. Mastery of relevant software engineering tools (configuration management systems, build processes, debuggers, emulators, simulators and logic analyzers) and proficient ability to capture and document software requirements are additional requirements.</li>
+<li>Demonstrates mastery of relevant software engineering tools (configuration management systems, build processes, debuggers, emulators, simulators and logic analyzer</li>
+</ul>Preferred experience with
+<ul>
+<li>USB/SPI/I2C</li>
+<li>BTLE</li>
+<li>RTOS</li>
+<li>32 bit MCU's</li>
+<li>Wireless technologies and battery powered devices</li>
+</ul>
+<div></div>
+<div>Our benefits are designed to lead an evolving marketplace, support innovation and encourage a healthy balance between work and life. They allow our associates to make their own decisions about their wellbeing and future and consistently rank Garmin as a top tier benefits provider when compared to other high-tech employers. We offer a choice of high value medical, dental and vision plans with low or no premiums, to fit your and your family’s preferences. In addition, Garmin’s financial benefits include a generous 401K retirement plan that provides 5% of pay base contribution plus a match of 75 cents for every dollar you contribute to a maximum of 10% of your compensation. The employee stock purchase plan allows for shares to be bought at a 15% discount. Garmin offers many other benefits and perks ranging from well-being initiatives, educational assistance and career development, community charity support, and employee discounts just to name a few.</div>
+<br>
+<div></div>
+<div><i>Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran’s status, age or disability.</i></div>
+</div>
+</div>

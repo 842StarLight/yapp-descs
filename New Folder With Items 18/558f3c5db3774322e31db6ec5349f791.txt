@@ -1,0 +1,93 @@
+<h2>Front End Web App Interface Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div>Develops front end administration interface software for web applications and web sites to emphasize embedded/IOT interface of web applications. Works closely with embedded/IOT product teams to define and document requirements, prepare design documents, develop code, unit and system test code, document code and processes, deploy code and document build/deployment processes.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Design overall architecture of the web application</li>
+<li>
+Maintain quality and ensure responsiveness of applications</li>
+<li>
+Collaborate with the rest of the engineering team to design and launch new features</li>
+<li>
+Maintain code integrity and organization</li>
+<li>
+Implement and maintain security and data protection</li>
+<li>
+Creation of front end administration interface software</li>
+<li>
+Properly test and document all development work using test scripts and test plans to ensure requirements are met.</li>
+<li>
+Support and maintain production web sites and applications after initial deployment.
+</li>
+<li>Utilize configuration management tools in manner consistent with corporate standards for documentation and source code control.</li>
+<li>
+Interface with marketing, account, corporate IT and product management personnel as required for successful completion of development projects</li>
+<li>
+Maintain API documentation</li>
+<li>
+Coordinate with product design teams as they develop and test their products</li>
+<li>
+Maintain shared software library for product design teams</li>
+<li>
+Peforms other work as assigned by Manager</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<ul>
+<li>Bachelor’s degree in computer science or computer engineering.</li>
+<li>
+7+ years experience building robust, scalable web sites and web applications</li>
+<li>
+Demonstrable grasp of web fundamentals and their supporting frameworks and libraries (HTML, JavaScript, CSS</li>
+<li>
+API design/development experience</li>
+<li>
+CRUD (Create, Read, Update, Delete) expertise</li>
+<li>
+RESTful services expertise</li>
+<li>
+Experience with database technologies (MS SQL, MySQL, Oracle, PostgreSQL, and/or MongoDB)</li>
+<li>
+Experience with Web server technologies (Node.js, J2EE, Apache, Nginx, IIS, etc.)</li>
+<li>
+Experience in &gt;NET development (.NET Framework, NET Core, .NET Core, .NET Standard, and/or Xaamin) using Visual Studio</li>
+<li>
+Embedded and/or IOT product interface expertise is a plus</li>
+<li>
+iOS / Android app development experience is a plus</li>
+<li>
+Experience with Windows-based apps and installers</li>
+<li>
+Previous Corporate IT department cooperation a plus</li>
+<li>
+Experience organizing and maintaining software repositories</li>
+<li>
+Knowledge and application of latest security techniques for web sites and data.</li>
+<li>
+Knowledge of Internet, Intranet, and e-commerce systems and their content update processes.</li>
+<li>
+Possess a high level of initiative and a strong sense of ownership.</li>
+<li>
+Must be able to work effectively in a team environment as well as work independently.</li>
+</ul>
+<div>
+Must have and maintain all required credentials.</div>
+<div></div>
+<br>
+<p>
+Snap-on offers a competitive compensation package, which includes a base expense plus sales bonus opportunity. Snap-on also offers a complete benefits package which includes: medical, vision, dental, life insurance, 401(K) Savings and offers a company paid retirement plan and many other benefits.
+</p>
+<div>Snap-on is a drug free work environment and welcomes all qualified candidates to apply. Snap-on is an Equal Opportunity Employer, Minority/Female/Disabled/Veteran</div>
+</div></div></div>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,82 @@
+<h2>Software Engineer II - Java</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Overview
+</p>
+<div><div><div>
+<div>Leveraging deep integrations into retailers’ point-of-sale systems, InComm provides connectivity to a variety of service providers that allow consumers to conduct everyday business at more than 450,000 points of retail distribution worldwide. Whether those consumers are activating prepaid products, paying bills, enjoying real-time discounts through a membership card, purchasing digital goods in-store or adding funds to an online account, InComm is there to provide unique gift-gifting opportunities, cater to on-the-go shoppers, deliver added value through loyalty programs and serve cash-based consumers. With 186 global patents, InComm is headquartered in Atlanta with a presence in over 30 countries in North and South America, Europe and the Asia-Pacific region. Learn more at www.incomm.com or connect with us on www.twitter.com/incomm, www.facebook.com/incomm, www.linkedin.com/company/incomm or www.incomm.com/blog.</div>
+<div></div>
+<br>
+</div></div></div>
+<p>About This Opportunity
+</p>
+<div><div><div>
+<div>The Software Engineer II is responsible for managing all technical aspects of software development for applications including, but not limited to, the development of prototypes, writing code and application program interfaces (API), testing, support and deployment.</div>
+</div></div></div>
+<p>Responsibilities
+</p>
+<div><div><div>
+<ul><li>Development, testing and support of all the associated applications
+</li></ul>
+<ul>
+<li> Support design and assist in planning team sprints and projects</li>
+<li> Support and maintain projects developed by the team and assist in production outages</li>
+<li> Develop new features and enhancements on the platform</li>
+<li> Test and certify release of code artifacts</li>
+<li> 3-5 years of progressive Java development experience including JSE, JEE in enterprise level scalable, distributed and fault tolerant environments, JMS</li>
+<li> Experience with Angular 2 development.</li>
+<li> Experience with SQL and DBs such as Microsoft SQL Server
+</li>
+<li> Good understanding of Object Oriented Programming/Design principles</li>
+<li> Experience with various platforms like Windows server, Linux/Unix</li>
+<li> Experience reading and writing UML (Specifically class and sequence diagrams)</li>
+<li> Familiarity with open source application frameworks</li>
+<li> Bachelor’s Degree in Computer Science, Engineering or equivalent work experience
+</li>
+<li> Flexibility to learn on the job and adapt to a changing environment</li>
+</ul>
+</div></div></div>
+<p>Qualifications<br>
+</p>
+<div></div>
+<div><div><div>
+<ul>
+<li>Bachelor’s degree in Computer Science, Engineering, or related field required
+</li>
+<li>3-5 years of progressive development experience in enterprise level scalable, distributed and fault tolerant environments
+</li>
+<li>Good understanding in objected-oriented analysis and design across a variety of platforms</li>
+<li>
+Experience in agile development, application design, software development, and testing</li>
+<li>
+Demonstrated experience with Angular SPA, CSS3, SCSS, Web Workers, Components, pipes, HTTP Interceptors, Performance Tuning Techniques on UI Components, Change Detection Mechanisms, Angular Material, Bootstrap Frame works, JWT token handling,</li>
+<li>
+Demonstrated experience in using Jasmin, Karma Unit testing, code coverage and Protractor e2e testing.</li>
+<li>
+Demonstrated experience developing Web Services (ex. RESTful or SOAP) and strong experience utilizing XML</li>
+<li>
+Knowledge of queues, caching mechanisms, data transfer techniques and Splunk logging</li>
+<li>
+Experience with various platforms like Windows server, Linux/Unix</li>
+<li>
+Experience participating in the full lifecycle of projects, including effective use of version control, build management, unit testing, and issue tracking software (ex. SVN, Maven, JJRA, Jenkins)</li>
+<li>
+Knowledge of and experience with software development best practices</li>
+<li>
+Experience reading and writing UML (Specifically class and sequence diagrams)</li>
+<li>
+Expertise in objected-oriented analysis and design across a variety of platforms</li>
+<li>
+Experience with application frameworks such as Angular</li>
+</ul>
+<div></div>
+<br>
+<div>
+InComm provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity or national origin, citizenship, veteran’s status, age, disability status, genetics or any other category protected by federal, state, or local law.</div>
+<div></div>
+<br>
+<ul><li>This position is eligible for the Employee Referral Bonus Program -Tier 4 - #LI-JM1</li></ul>
+</div></div></div>
+</div>
+<div></div>
+</div>

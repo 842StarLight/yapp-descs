@@ -1,0 +1,50 @@
+<h2>Software Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Onica is an APN Premier Consulting Partner in North America. As a full spectrum AWS integrator, we assist hundreds of companies to realize the value, efficiency, and productivity of the cloud. We take customers on their journey to enable, operate, and innovate using cloud technologies – from migration strategy to operational excellence and immersive transformation.
+<br><br>
+If you like a challenge, you'll love it here, because we're solving complex business problems every day, building and promoting great technology solutions that impact our customers' success. The best part is, we're committed to you and your growth, both professionally and personally.
+<br><br>
+Overview
+<br><br>
+We are expanding our team of motivated technologists with a proven track record of delivering results in software/technology sales or consulting. Onica is looking for an AWS Cloud Architect who's passionate about helping customers build applications at scale. Our Solutions Architects (SAs) are experienced technologists with technical depth and breadth, along with strong interpersonal skills. In this role, you will work directly with customers to help enable innovation through continuous, hands-on, deployment across technology stacks. Onica SAs build architectures and provide prescriptive guidance across network, storage, operating systems, virtualization, RDBMS &amp; NoSQL databases, and Hadoop. In addition you will work with mid-tier technologies that include application integration, in-memory caches, security, and much more!
+<br><br>
+The qualified SA will have demonstrated ability to think strategically about businesses, create technical definitions around customer objectives in complex situations, develop solution strategies, motivate &amp; mobilize resources, and deliver results. The ability to connect technology with measurable business value is a critical component to be successful in this role. We seek team members who are self-motivated, driven, collaborative, passionate about AWS, and want to have a direct positive impact on our customer's business.
+<br><br>
+What you'll be doing
+<br><br>
+<ul>
+<li>Technical liaison between customers and support teams</li>
+<li>Design software and system architectures for modern cloud-based application</li>
+<li>Develop well-designed, documented, and tested software features that meet customer requirements.</li>
+<li>Participate in an agile delivery team, helping to ensure the technical quality of the features delivered across the team, including documentation, testing strategies, and code.</li>
+<li>Remain up-to-date on emerging technologies and architecture and propose ways to use them in current and upcoming projects.</li>
+<li>Leverage technical knowledge to cut scope while maintaining or achieving the overall goals of the product.</li>
+<li>Leverage technical knowledge to improve the quality and efficiency of product applications and tools.</li>
+</ul>
+Qualifications &amp; Experience
+<br><br>
+<ul>
+<li>Professional development experience with one or more of the following programming languages: Java, C#, Node.js, Python, Go, or Scala</li>
+<li>Experience building multi-tiered web applications</li>
+<li>Experience with relational databases, including designing complex schemas and queries.</li>
+<li>Familiarity with AWS technologies (EC2, S3, Lambda, API Gateway, DynamoDB, Kinesis) a plus.</li>
+<li>Familiarity with serverless or IoT development concepts a plus.</li>
+<li>Strong verbal and written communication skills for documenting workflows, tools, or complex areas of a codebase.</li>
+<li>Ability to thrive in a fast-paced environment and multi-task efficiently.</li>
+<li>Strong analytical and troubleshooting skills.</li>
+<li>Interest in participating in the development community (speaker at events, meetup organizer, blogging, or contributor to open-source software projects).</li>
+</ul>
+What's in It for You
+<br><br>
+<ul>
+<li>Cloud community-minded, meetups/conferences around North America</li>
+<li>Generous vacation policy</li>
+<li>Professional development and training</li>
+<li>Cell reimbursement and wellness program</li>
+<li>Retirement plan</li>
+<li>Recognition program</li>
+<li>Pet-friendly</li>
+<li>Flexible work environment</li>
+<li>Community involvement and activities</li>
+<li>Unlimited snacks and beverages!</li>
+</ul>
+If you get a thrill working with cutting-edge technology and love to help solve customers' problems, we'd love to hear from you. It's time to rethink the possible. Are you ready?</div>

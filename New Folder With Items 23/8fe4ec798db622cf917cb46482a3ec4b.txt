@@ -1,0 +1,83 @@
+<h2>Senior Java Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Secure our Nation, Ignite your Future
+</p>
+<p>Manages identification and development of effective product/service applications requiring a blend of high-level sales, marketing, and technical expertise and strong involvement in the actual selling process. Manages the coordination of activities among subordinates, customers, and third party vendors, participates in sales presentations on more complex products/services to major prospects and/or customers.Entering ManTechs 50th year, we hold the distinct honor of being named a Top 100 Global Technology Company by Thomson Reuters. We have earned this and many other accolades over the years for our dedication to serving the missions of our nations most important customers: U.S. Intelligence, Defense and Federal Civilian agencies. All know us as a trusted partner offering best-in-class solutions in cyber, data collection &amp; analytics, enterprise IT, and systems and software engineering tailored to meet their specific requirements.
+<br>
+<br>
+Become an integral part of a diverse team in the Mission, Cyber and Intelligence Solutions (MCIS) Group. Currently, ManTech is seeking a motivated, mission-oriented Senior Java Developer, in the Chantilly, VA area, with strong Customer relationships. At ManTech, you will help protect our national security while working on innovative projects that offer opportunities for advancement.
+<br>
+<br>
+The NIS Division provides mission solutions to a wide range of Defense and Intelligence Community customers. This division consists of a team of technical leaders that deliver advanced technical solutions to government organizations. Our customers have high standards, are technically adept, and use our products daily to support their mission of protecting national security. Our contributions to our customers success is driving our growth.
+<br>
+<br>
+Join the top Information Technology and Analytic professionals in the industry to make invaluable contributions to our national security on a daily basis. In this innovative, self-contained, Big Data environment, the ManTech team is responsible for everything from infrastructure, to application development, to data science, to advanced analytics and beyond. The team is diverse, the questions are thought-provoking, and the opportunities for growth and advancement are numerous.
+</p>
+<p></p>
+<p>Summary
+<br>
+The successful candidate will be dedicated full-time to development and enhancement support for an existing application. The candidate will take architectural direction from our immediate Sponsor organization and requirements taskings from the end-user organization.
+<br>
+<br>
+Duties, Tasks &amp; Responsibilities
+<br>
+Designing, programming/developing, and modifying software systems, applications, and tools, both existing and potentially new in the future
+<br>
+Analyzing user needs and software requirements to determine feasibility of design within time and cost constraints
+<br>
+Correcting errors by making the appropriate changes and then re-checking the program to ensure the desired result was produced
+<br>
+Conducting testing of program and software applications to be sure they will produce the desired results and that instructions are correct
+<br>
+Organizing and maintaining documentation of application development and subsequent revisions, so others are able to understand the program
+<br>
+Collaborating with teammates, other service providers, vendors, and users to develop new programming methods
+<br>
+<br>
+Required Experience, Skills, &amp; Technologies
+<br>
+Strong Java programming/development skills and experience
+<br>
+Experience with HTML, CSS, JavaScript, and at least one modern front-end framework such as Angular
+<br>
+Experience with Spring and ORM libraries such as Hibernate/JPA
+<br>
+Experience working and interacting with different types of data stores (e.g. Oracle, Elasticsearch)
+<br>
+Experience with RESTful services
+<br>
+Experience with Ext JS (v3 and v4), Groovy (v2), Grails (v2), and Bootstrap (v3+)
+<br>
+Understanding of SQL and Elasticsearch
+<br>
+Strong ability to manage competing priorities and communication to multiple stakeholders
+<br>
+Desired Experience, Skills &amp; Technologies
+<br>
+Angular (v2+) or Ext JS (v6+)
+<br>
+<br>
+Security Clearance Requirement:
+<br>
+Active/current TS/SCI with Polygraph clearance is required.<br>
+<br>
+<br>
+<br>
+Degrees:
+<br>
+See Qualifications
+<br>
+<br>
+Skills:
+<br>
+Ability to handle stress and work well under pressure,Ability to use MS Office,Ability to use PC,Analytical and Critical Thinking Skills,Interpersonal and People Skills,Listening Skills,MultiTasking Ability,Oral and Written Communication Skills,Organizational Skills
+</p>
+<p></p>
+<p>ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+</p>
+<p></p>
+<p>If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+</p>
+<p></p>
+<p>If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.</p>
+</div></div>

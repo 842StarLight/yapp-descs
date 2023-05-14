@@ -1,0 +1,125 @@
+<h2>Support Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>Are you ready to be part of the Cloud Movement and join a team of the world’s best </b><b><i>Microsoft Dynamics 365</i></b><b> troubleshooters to enable the success of </b><b>our Microsoft Dynamics customers?</b> Do you have a passion for customer service and working to resolve issues with the “speed of the cloud”?</div>
+<div></div>
+<br>
+<div>
+In Customer Service and Support at Microsoft, you will have a chance to solve technically complex problems in a fast-paced, high-growth product area. As a trusted advisor to our customers and partners, you will have influence over the implementation and administration of multimillion-dollar, enterprise-level customer configurations. Expect to work closely with other Support Engineers and our Product and Engineering teams to integrate cross-product solutions. Your technical and relationship skills are critical to the success of the <i>Dynamics 365 </i>solution and the customer’s perception of value.</div>
+<div></div>
+<br>
+<div>
+As a <i>Microsoft Dynamics 365</i> Support Engineer (SE), you will leverage existing skills and learn new skills around Dynamics 365 applications including (but not limited to) Sales, Customer Service, Field Service and Marketing. We’ll provide you with abundant resources, including training, advanced diagnostic tools, the <i>Microsoft Dynamics 365</i> product group, and the experience of tenured engineers around you. You will also have the opportunity to collaborate and help your colleagues by sharing the results of your investigation. In this professional role, your contribution and overall impact is self-directed and the opportunities are plentiful.<br>
+<br>
+Troubleshooting at this level is not scripted. As a Microsoft Dynamics 365 Support Engineer (SE), you are a technical leader and will be driving the discovery of potentially unique solutions for each customer situation as part of a team. During the troubleshooting, you may uncover software defects and have opportunities to improve the customer experience as well as to influence the current and future design of <i>Microsoft Dynamics 365</i> by working directly with the product team. Our continuous learning environment expects that you will develop ever increasing depth skills as a subject matter expert. You will become the world’s best in your area of expertise.</div>
+<div></div>
+<br>
+<div>
+Besides technical talent, we are looking for people who thrive under challenging circumstances and engage in difficult situations while they learn. Our culture is built around customer obsession and a growth mindset.</div>
+<div>
+This position will require you to work a rotational On-Call schedule. You may have the opportunity for some occasional domestic and/or international travel.</div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<div><div><b>
+Responsibilities</b></div></div>
+<div></div>
+<br>
+<ul>
+<li>
+Be part of a team and develop your skills as you solve complex technical issues in Microsoft Dynamics 365.</li>
+<li>
+Own the customer experience and provide technical documentation for the troubleshooting steps.</li>
+<li>
+Report software bugs and be an advocate for product improvement.</li>
+</ul>
+<ul>
+<li>
+Document your knowledge and share it with others.</li>
+<li>
+Use tools for debugging and root cause analysis.</li>
+<li>
+Provide in-depth technical support for customer service delivery via telephone, written correspondence, or electronic service regarding technically complex, escalated problems.</li>
+<li>
+Engage and collaborate with other Microsoft groups, including escalation teams and the development team, in gaining resolution to critical, complex issues.</li>
+<li>
+Provide exceptional customer service in politically charged environments.</li>
+<li>
+Represent Microsoft professionally in customer and partner onsite visits, where travel may be required.</li>
+<li>
+Create advanced online technical content including Knowledge Base articles, training documents, blogs, etc.</li>
+<li>
+Participate in planned team-wide shift rotations to cover business needs, including 24x7 “On-Call” responsibilities and extended (evening shift).</li>
+</ul>
+<div>
+Present technical content to various audiences including customers, partners, and internal stakeholders.</div>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<div><div><b>
+Qualifications</b></div></div>
+<div></div>
+<br>
+<div>
+Required Qualifications</div>
+<ul>
+<li>
+At least two years in a customer facing service role in any capacity</li>
+<li>
+At least two years in Technical Support, customer service industry, product support, IT Admin support, consulting or product development.</li>
+<li><div>
+Due to the senstive nature of the work and the client requirements, US Citizenship is required</div></li>
+</ul>
+<div></div>
+<br>
+<div>
+Other Qualifications:</div>
+<ul>
+<li>
+Strong customer service skills, accurate and logical problem solving, and communication skills, plus the ability to excel in a team environment is essential</li>
+<li>
+Excellent Communication Skills - verbal, listening, and written (including technical writing).</li>
+<li>
+Passion for technology, lifelong learning and professional development.</li>
+<li>
+Experience in creating technical documentation and sharing knowledge with others through training delivery and mentoring</li>
+</ul>
+<div></div>
+<br>
+<div>
+Any of the following Technical Qualifications are a Plus:</div>
+<ul>
+<li>
+Experience working with customers in the Cloud, e.g. Microsoft Cloud products such as Azure, Office 365, Microsoft Dynamics 365 or other cloud solutions (SalesForce, AWS, etc.)</li>
+<li>
+Experience working with Enterprise customers</li>
+<li>
+Industry experience with Microsoft stack (or comparable) technologies.</li>
+<li>
+Working knowledge of Microsoft (or other) SQL Databases (T-SQL, Indexes, Stored Procedures, etc.) and Active Directory</li>
+<li>
+A fundamental understanding of IIS/Apache, troubleshooting website issues/HTTP responses</li>
+<li>
+Ability to troubleshoot networking issues, database or scripting issues using tools like Message Analyzer, SQL Profiler and browser debuggers, etc.</li>
+<li>
+Ability to read and analyze network traces, Fiddler, SQL traces, etc.</li>
+<li>
+Current Microsoft IT Certification (Ex. MCSE, MCSA, MCSD, MCTS)</li>
+</ul>
+<div></div>
+<br>
+<div>
+Education:</div>
+<div>
+Bachelor’s Degree in Management Information Systems, Computer Science, Computer Information Systems, Computer Engineering, related technical degrees or applicable industry experience is a plus</div>
+<div></div>
+<br>
+<div>
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check every two years.</div>
+<div></div>
+<br>
+<div>
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.</div>
+<div></div>
+<br>
+<div>
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.</div>
+</div></div>

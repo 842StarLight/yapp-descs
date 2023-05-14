@@ -1,0 +1,48 @@
+<h2>Quality Assurance & ILS Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><p>Rohde &amp; Schwarz develops, produces and markets innovative products for test and measurement, broadcast and media, cybersecurity, secure communications and monitoring and network testing areas.<br>
+</p></div>
+<div></div>
+<p>We are seeking an experienced System Engineer to serve as a project Test Lead for our growing communications system business within the air traffic control and maritime communications markets. This position is based out of our Columbia, MD headquarters. The position is responsible for the planning and conduct of verification and validation programs that prove the functional and non-functional requirements of the system. The candidate will work on project teams, with sales teams on proposal efforts, and directly with our customers. The candidate will be comfortable with networking and computing systems, software, and related analysis tools. This position will require excellent system engineering skills and attention to detail.
+</p>
+<h1 class="jobSectionHeader"><b>Quality Assurance &amp; ILS Specialist
+</b></h1>
+<div>
+<div>
+<b>Your tasks:</b>
+<ul>
+<li>(QA) Develop and enforce project quality management plans based on R&amp;S processes, customer requirements, and industry standards.</li>
+<li>(QA) Oversee project design, delivery and testing to ensure conformance to quality processes.</li>
+<li>(QA) Maintain conformance through records and tracking systems, including root cause and corrective actions.</li>
+<li>(QA) Manage problem/defect reports, corrective action plans. Develop and administer a system to track Problem Tickets and Failure Reports to Closure.</li>
+<li>(Support) Provide guidance to Program Manager on risk management plan.</li>
+<li>(CM) Designs, develops and establishes configuration and data management documents based on program requirements.</li>
+<li>(CM) Provides advice and guidance on methods, procedures and requirements to individuals responsible for the creation of documentation. Experienced with Change Control Boards, project baseline maintenance, formal change control processes, and formal functional and physical audit practices. Develops configuration management procedures, and coordinates to resolve configuration issues. Provides configuration management direction to technical documentation personnel.</li>
+<li>(CM) Manage the documentation and communication of status and change control of development and deployed system.</li>
+<li>(DM) Manage project data and customer inputs through final submittal of all data deliverables.</li>
+<li>(ILS) Develop and execute Integrated Logistic Support Plans, Maintenance Support Plans, and other customer required plans.</li>
+<li>(ILS) Oversee and prepare reports containing reliability analysis (RMA and FMEA) and logistics support analysis performed by the product development teams.</li>
+</ul>
+</div>
+<div>
+<b>Your qualifications:</b>
+<ul>
+<li>B.S. in Computer Science, Electrical Engineering, or relevant engineering degree.</li>
+<li>5+ years of systems engineering experience with strong understanding of test process and methods.</li>
+<li>Fluent in relevant business tools such as MS Word, Excel, Visio, Power Point.</li>
+<li>Proficient with test tools such as GL Communications, security scanners, test scripting.</li>
+<li>Proficient with Linux (CentOS &amp; RedHat) with Windows.</li>
+<li>Proficient with requirements management tools such as DOORS.</li>
+<li>Experience configuring and analyzing VoIP networks, computing infrastructure, software deployments, wireless.</li>
+<li>Software test experience using Python, C, C++.</li>
+<li>Understanding of industry best practices, standards, USG contracts.</li>
+<li>Ability to travel domestically and internationally up to 30% (more during critical phases).</li>
+<li>Excellent technical writing skills.</li>
+<li>Proactive, analytical, detail-oriented and self-managed.</li>
+<li>Comfortable working in a team and as indirect lead.</li>
+<li>US citizen capable of receiving a US Government security clearance.</li>
+</ul>
+</div>
+</div>
+<div><p>If this sounds like the job you‘ve been looking for, please email your resume to RSNA.careers@rsa.rohde-schwarz.com and reference job number US-BWI-50763880-001. Rohde &amp; Schwarz is an equal opportunity employer.</p></div>
+</div></div>

@@ -1,0 +1,112 @@
+<h2>Technical Services Engineer- Oracle Data Cloud/Grapeshot</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>Technical Services Engineer- Oracle Data Cloud/Grapeshot-19000WB8<div></div>
+<br>
+<div>
+</div>
+</div>
+<div>
+<b>
+Preferred Qualifications</b><div>
+</div>
+<div><div>
+<div><div>
+<div>
+The Technical Services Engineer is a key role in ensuring that Grapeshot’s geographical organizations are given effective first line technical support and that technical issues are effectively escalated to the central QA function in a timely manner.</div>
+<div>
+This role will liaise closely with the Customer Services function acting as their local technical backup and knowledge base. Documenting new issues/procedures as they arise to share knowledge within the Technical Services teams and wider business.</div>
+<div>
+The Technical Services Engineer will also support the Sales teams with their Publisher and Platform solutions.</div>
+</div></div>
+<div></div>
+<div><div>
+<br>
+<div>
+Responsibilities:</div>
+</div></div>
+</div></div>
+<div><div><div><div><div>
+<div><ul><li>Monitoring categorization quality and rates across regional platforms and languages and communicate exceptions to QA, either through ticketing service or directly on Jira.</li></ul></div>
+<div><ul><li>Make sure tickets are in a format and with enough relevant information that can be actioned by QA. Controlling the technical tickets to ensure all information relevant to the query is captured without the need for subsequent follow-up queries.</li></ul></div>
+<div><ul><li>Carrying out systematic and detailed fault diagnosis to ensure the cause is understood.</li></ul></div>
+<div><ul><li>Resolving all calls not dependent on a code fix and provide the solution to the customer.</li></ul></div>
+<div><ul><li>Communicating with Software Development team members any issues requiring code changes.</li></ul></div>
+<div><ul><li>Taking ownership of a technical query from initial contact through to successful resolution.</li></ul></div>
+<div><ul><li>Work closely with product and local Customer services on system upgrade and product rollouts.</li></ul></div>
+<div><ul><li>Contribute to the development of the Technical Support systems.</li></ul></div>
+<div><ul><li>Give technical training for customers, partners and internal staff.</li></ul></div>
+<div><ul><li>Ensure a quality service to the business, meeting the requirement to set up, modify and delete customer configurations as demanded; including new demo installs and languages and moving installs from demo to live.</li></ul></div>
+<div><ul><li>As required set up Signal self-serve categorization runs and the FTP servers to run the service live.</li></ul></div>
+<div><ul><li>Work closely with QA, Product and local Customer Services on system upgrades and product rollouts.`</li></ul></div>
+<div><ul><li>Support local publisher tags implementation.</li></ul></div>
+<div><ul><li>Support Customers with the roll out of third-party tags.</li></ul></div>
+<div><ul><li>Debugging campaign deliveries.</li></ul></div>
+<div><ul><li>Support the Custom creation capability during the Tech Services phase of Integrations.</li></ul></div>
+</div></div></div></div></div>
+<div><div><div><div>
+<div>
+Knowledge, Skills, and Experience Needed for the Job</div>
+<div></div>
+<br>
+<ul>
+<li>
+Able to write and run scripts.</li>
+<li>
+Excellent debugging skills.</li>
+<li>
+Basic understanding of JavaScript calls.</li>
+<li>
+Working knowledge of APIs.</li>
+<li>
+Previous working experience to have included interaction with the customer and handling their queries.</li>
+<li>
+Ability to deal with customers and staff at a technical as well as a non-technical level.</li>
+<li>
+Good interpersonal skills.</li>
+<li>
+A thorough, structured and rigorous approach to problem-solving.</li>
+<li>
+Effective communication skills.</li>
+<li>
+Strong learning skills.</li>
+</ul>
+<div></div>
+<br>
+<div>
+Desired Skills:</div>
+<div></div>
+<br>
+<ul>
+<li>
+Knowledge of the web stack architecture:</li>
+<li>
+Linux, Apache, Databases i.e. Mongo, MySQL o CGI scripting e.g. Perl, Python, Bash, PHP</li>
+<li>
+Jquery</li>
+<li>
+Experience of ad serving technologies.</li>
+</ul>
+</div></div></div></div>
+<div></div>
+<div>
+<br>
+</div>
+</div>
+<div>
+<b>
+Detailed Description and Job Requirements</b><div>
+</div>
+<div>
+As a member of the Support organization, your focus is to deliver post-sales support and solutions to the Oracle customer base while serving as an advocate for customer needs. This involves resolving post-sales non-technical customer inquiries via phone and electronic means, as well as, technical questions regarding the use of and troubleshooting for our Electronic Support Services. A primary point of contact for customers, you are responsible for facilitating customer relationships with Support and providing advice and assistance to internal Oracle employees on diverse customer situations and escalated issues.<br>
+<br>
+As a Support Engineer, you will be the technical interface to customers, Original Equipment Manufacturers (OEMs) and Value-Added Resellers (VARs) for resolution of problems related to the installation, recommended maintenance and use of Oracle products. Your primary task will be to provide support to customers who contact the Oracle Solution Center and maintain high level of customer satisfaction while meeting guidelines (mostly through electronic means). Able to work with general guidance from senior support engineers and management and, in some areas, may work independently. Solutions often take time to develop through research, collaboration or problem replication.<br>
+<br>
+Duties and tasks are standard with some variation. Completes own role largely independently within defined policies and procedures. One year prior working experience with Oracle products (or at least two years related experience without Oracle products) and technical degree i.e., BS Computer Science/Management Information Systems/Science/ Engineering/Math/Physics/Chemistry with a 3.0 GPA OR functional degree + technical higher degree or in lieu of degree may substitute 4 years professional experience &amp; professional certification (i.e., CNE, MCSE, CPA, Oracle, etc.).<br>
+<br>
+<b>Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.</b>
+</div>
+</div>
+</div>
+<p></p>
+</div>

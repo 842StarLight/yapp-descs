@@ -1,0 +1,53 @@
+<h2>Senior Demo Engineer - UI Designer and Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Company Description
+<br>-------------------
+<br><br>
+Vlocity is a leading provider of industry-specific cloud and mobile software, driving digital transformation for the world's largest companies. A Forbes 2018 &amp; 2017 Cloud 100 Winner, Vlocity is an 'industry cloud' pioneer built in partnership with Salesforce, the world's #1 CRM provider, increases agility, operational efficiency and simplicity, at a lower cost of ownership for the enterprise. Vlocity's cloud software suite transforms customer centric processes and fuels innovation in the Communications, Media &amp; Entertainment, Energy &amp; Utilities, Insurance, Health, and Government vertical industries. Vlocity's values of trust, transparency and transformation drive customer, partner and employee success. Click here ( https://vlocity.com/company/careers/learn-more ) to learn more about Vlocity.
+<br><br>
+Job Description
+<br>---------------
+<br><br>
+Vlocity, Inc. is recruiting a UI Designer and Developer to help build Vlocity product demonstration capabilities for Vlocity Solution Consultants. The UI Designer and Developer will lead the creation of attractive and business relevant visual layouts for our demos. The goal is to enable our Solution Consultants to deliver repeatable, reliable and reusable demo experiences that speak to customer work flows, process flows and business requirements.
+<br><br>
+This role will be part of the Demo Engineering Team. We work within the broader Vlocity Solution Consulting organization and our goal is to provide a trusted single source of truth regarding the latest demo environments – so that our Solution Consultants can confidently demo the latest, stable product capabilities to customers. This role will report to the VP Demo Engineering, and will be part of Vlocity's first dedicated Demo Engineering team – helping Solution Consultants deliver faster and more accurate demos – directly contributing to the hyper-growth of our company.
+<br><br>
+We seek an experienced and talented UI designer with solid front-end coding capabilities to design and shape unique, Enterprise level experiences.
+<br><br>
+.Responsibilities
+<br><br>
+<ul>
+<li>Collaborate with product teams (Communications, Media, Utilities, Health Insurance, Insurance &amp; Public Sector) and Solution Consultants to understand demo requirements</li>
+<li>Define and implement innovative solutions for demo visuals and user experience</li>
+<li>Build designs for the Demo Org; which can then be fed back into Engineering</li>
+<li>Conduct testing of completed applications, websites and software to assess user experience</li>
+<li>Bias to making those around you successful and are comfortable working as a team player</li>
+<li>Contribute to building a positive, can-do, high-performance culture</li>
+</ul>
+Experience
+<br><br>
+<ul>
+<li>Ideal candidate has experience working in agile teams, with developers, UX designers and product management – must enjoy the 'small company' challenge</li>
+<li>Account for and track HCI (human-computer interaction) element of design [preferred]</li>
+<li>UI design and development experience in Mobile environments is a plus</li>
+<li>5+ years of Enterprise experience – UI design work related to enterprise platforms such as Vlocity, Salesforce.com, Oracle, Siebel, Microsoft, Amdocs, Netcracker, etc.</li>
+<li>Excellent communication skills, both written and verbal</li>
+<li>Experience and desire to work within a fast-paced, iterative sales and development environment</li>
+</ul>
+Technical Skills
+<br><br>
+<ul>
+<li>Hands-on experience creating wireframes, prototypes, storyboards, user flows, process flows and site maps</li>
+<li>Proficiency with basic front-end languages: HTML5, CSS3 Javascript, for rapid prototyping</li>
+<li>Proficiency in Photoshop, Sketch, Illustrator, InVision, UXPin, Quartz or other visual design and wire-framing tools</li>
+<li>Strong portfolio to be presented and defended during interview</li>
+<li>Creative ideas with problem solving mindset</li>
+<li>Experience working in an agile/scrum development process</li>
+</ul>
+Desired Certifications / Qualifications
+<br><br>
+<ul>
+<li>Vlocity certifications</li>
+<li>Salesforce.com certifications in Administration, Sales/Service Cloud, Marketing Cloud, etc.</li>
+<li>Bachelor's or Master's degree in Computer Science, Software Engineering, STEM Subject, Business or a related field</li>
+</ul>
+Vlocity welcomes all. In our journey as a company -- and as individual Vlociters -- we recognize that our diversity is our strength. We are proud to be an Equal Employment Opportunity employer. All aspects of employment including our decisions to recruit, hire, promote, transfer, discipline, or separate are based on merit, competence, performance, and business needs. We do not discriminate on the basis of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. We are committed to creating an inclusive environment for all employees to bring their authentic selves to work every day. We provide accommodation for our Vlociters with disabilities both seen and unseen in the spirit and letter of the Americans with Disabilities Act (ADA).</div>

@@ -1,0 +1,51 @@
+<h2>Compliance Technology Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p>We are looking for a Compliance Technology Lead to join our team in San Francisco, reporting into Square’s Chief Compliance Officer. A successful candidate will be responsible for leading Square’s Compliance Analytics Team, and in concert with engineering and data science teams, designing, building, and maintaining Square’s Compliance technology stack. The Compliance Technology Lead will be an integral member of the global Leadership team, setting long term technology strategy and determining areas of appropriate investment. The Lead will also serve as Square’s compliance technology subject matter expert and will represent Square in all manner of regulatory and partnership audits.</p>
+<p>
+This role is key to the Square Compliance team’s long term success and scalability. The Technology Lead will work with colleagues across Compliance, Payments and Industry Relations, Finance, Risk, Counsel, Internal Audit, Product, and Sales and Marketing to drive alignment between Compliance team technology and company priorities. The role necessitates strong management, developing relationships with these key stakeholders, informing the CCO of significant compliance matters that require attention or action, and dynamically supporting a growing and innovative business. In this role you will have the opportunity to use your compliance experience and technology background to solve challenging business problems, find better ways of doing things, and lead meaningful change through technology enablement and scalability. This position is full-time and based in San Francisco, with 20% travel expected.</p>
+<p><b>
+You Will:</b></p>
+<ul>
+<li><p>
+Lead the Compliance Analytics Team through strong technical direction and drive deep integration into Square’s analytics discipline. Functionally oversee their work in data analysis and metrics generation, model governance/validation, queue creation and tuning</p></li>
+<li><p>
+Provide accountability and represent the Compliance team’s tech stack and behavior monitoring model in regulatory and partner audits</p></li>
+<li><p>
+Support the CCO as Square’s AML/CTF/Sanctions technology subject matter expert, identifying areas for technical innovation and M&amp;A, evaluating relevant technologies (products, services, and platforms) and vendors, and driving the creation of new and standardized technical requirements and specifications</p></li>
+<li><p>
+Oversee and drive the development of Square’s AML/CTF/Sanctions technology products and services (“tech stack”), including developing a holistic strategic roadmap for the tech stack across products, organizations, and jurisdictions, and maintaining comprehensive and real-time management of the systems</p></li>
+<li><p>
+Support the development and scaling of new Square products by ensuring that the Compliance tech stack is properly designed and features all required elements to support the products, while also maximizing operational efficiency and effectiveness</p></li>
+<li><p>
+Assess areas of highest technological risk and form a perspective on investment paths in a compliance system or tool’s life cycle</p></li>
+<li><p>
+Build relationships with and influence cross functional engineering and data science teams responsible for building and maintenance of Compliance tech stack</p></li>
+<li><p>
+Influence resourcing and prioritization conversations across organizations</p></li>
+<li><p>
+Networking with compliance technology companies and partners who are critical to advancing Square’s mission and global expansion</p></li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+<p><b>You Have:</b></p>
+<ul>
+<li><p>
+10+ years of technology-related experience in the financial services industry, preferably as a systems engineer in AML/CTF/Sanctions, compliance risk management, sanctions screening, and/or financial services platforms;</p></li>
+<li><p>
+Advanced degree in Engineering, Software Development, Computer Science, Information Systems, or a related field of study;</p></li>
+<li><p>
+Deep Compliance regulatory knowledge, implementation expertise, and experience navigating regulatory expectations of compliance systems</p></li>
+<li><p>
+Experience in and a desire to innovate in the emerging fields of Fintech, Regtech, Blockchain, artificial intelligence, machine learning, and/or virtual currencies.</p></li>
+<li><p>
+Experience managing and developing a high functioning team</p></li>
+</ul>
+<br>
+Additional Information<br>
+<br>
+At Square, our purpose is to empower – within and outside of our walls. In order to build the best tools for the businesses and customers we support all over the world, we have to start at home with a workforce as diverse and empowered as our sellers. To this end, we take great care to evaluate all employees and job applicants equally, based on merit, competence, and qualifications. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We encourage candidates from all backgrounds to apply and always consider qualified applicants with arrest and conviction records, in accordance with the San Francisco Fair Chance Ordinance. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)squareup.com. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible. Perks At Square, we want you to be well and thrive. Our global benefits package includes: Healthcare coverage, Retirement Plans, Employee Stock Purchase Program, Meal reimbursements, Wellness perks, Paid parental leave, Flexible time off, Learning and Development resources</div>
+</div>

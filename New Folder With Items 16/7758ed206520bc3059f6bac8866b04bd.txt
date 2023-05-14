@@ -1,0 +1,83 @@
+<h2>Principal Software Engineer - Financial Services Technology</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Principal Software Engineer – Financial Services Technology</b></p>
+<p>
+GRM (Global Retail Markets) US Sales Compensation<br>
+At Liberty Mutual, technology isn't just a part of our business, it's what drives us forward. We deliver our customers peace of mind every day by helping them protect what they value most. Our passion for placing the customer at the center of everything we do is driving a transformational shift at Liberty Mutual. Operating as a tech startup within a Fortune 100 company, we are leading a digital disruption that will redefine how people experience insurance.<br>
+</p>
+<p><b>
+About the job:</b><br>
+We are looking for an experienced Principal Software Engineer to join our Financial Services Tech team and leverage cloud-based technology to build tools and solutions used to sales compensation for insurance products within Liberty’s Global Retail Market. You will work on an exciting, moderinized tech stack consisting of Java, AWS, Spring Boot, AngularJS/Polymer and Docker.<br>
+The Sales Compensation team is responsible for the applications that compensate our internal sales reps, independent agents and third parties for Liberty Personal Insurance. We are in the midst of modernizing our platform by moving the remainder of our systems from legacy technologies to cloud-based microservices. As part of the global technology organization, we are also architecting solutions that will span the globe. We are well on our way and need a strong developer to help us achieve our goal.<br>
+</p>
+<div>
+<b>
+What you’ll do:</b><br>
+<ul>
+<li>Work with Scrum Masters, Product Owners, and peer developers to iteratively create technical solutions that meet business and technical requirements</li>
+<li>Analyze technical system problems, and design and implement effective solutions</li>
+<li>Handle end-to-end development, including coding, testing, and debugging during each cycle</li>
+<li>Create applications using a server side framework</li>
+<li>Support feature technical implementation</li>
+<li>Create and maintain technical documentation</li>
+<li>Executes all levels of testing (Unit, System, Integration, Regression)</li>
+<li>Mentoring new and junior developers</li>
+<li>Collaborate with a product owner and an autonomous team of engineers to find comprehensive solutions</li>
+<li>Research technology and bring new ideas to the team</li>
+<li>Create libraries and tools which allow for scaling a large and distributed client development team</li>
+<li>Become a developer advocate improving technical communications with developers at Liberty Mutual and foster a deeper understanding to their problems and needs</li>
+<li>Facilitate collaboration between engineers, product owners, and designers</li>
+<li>Possess a deep understanding of the product and business goals which you can translate into technology decisions</li>
+<li>Mentor other engineers on your team</li>
+</ul>
+</div>
+<p></p>
+<br>
+<p><b>
+Who you are:</b></p>
+<div>
+<br>
+<ul>
+<li>Above all, you bring a team-first mindset – you are the person everyone else wants to work with…</li>
+<li>Bachelor's or Master's degree in technical or business discipline or equivalent experience, technical degree preferred.</li>
+<li>Generally 8+ years of professional Java development experience in a full-stack environment with emphasis on back-end services including experience with using AWS, server-side frameworks (preferably NodeJS, SpringBoot) and managing APIs exposing microservices (REST, SOAP) including development and support of Java/JavaScript services.</li>
+<li>You know how to write readable, maintainable, and performant code</li>
+<li>You have a deep knowledge of software engineering best practices</li>
+<li>You have a good understanding of functional reactive programming</li>
+<li>You have a great ability to learn, and you are eager to expand your areas of expertise</li>
+<li>You have a passion for supporting and enabling others to become more productive</li>
+<li>You have extensive experience working hands-on as a Software Engineer in an agile environment</li>
+<li>You care about quality and you know what it means to ship high-quality code</li>
+<li>You have experience in identifying, debugging and resolving complex production issues</li>
+</ul>
+</div>
+<p></p>
+<br>
+<p><b>
+Benefits &amp; Culture:</b></p>
+<p></p>
+<br>
+<p>
+Liberty Mutual is a company that cares, offering excellent benefits for our employees including generous parental leave, retirement plans including 401k and pension, education reimbursement, commuter benefits, college savings plans, and much more. We are highly recognized as a best place to work; http://bit.ly/LibertyMutual-BestPlacestoWorkas well as one of the Best Employers for the following:</p>
+<p><br>
+</p>
+<p>Best Employers for Diversity http://bit.ly/LibertyMutual-BestPlaces-for-Diversity</p>
+<p>
+Best Employers for Women; http://bit.ly/LibertyMutual-BestPlacesToWorkforWomen</p>
+<p>
+Best Employers for New Grads http://bit.ly/LibertyMutual-BestPlacesforNewGrads</p>
+<p></p>
+<br>
+<p>
+To learn more about our benefit offerings and culture please visit:</p>
+<p>
+https://LMI.co/Benefits</p>
+<p>
+http://bit.ly/LibertyMutual-Culture</p>
+<p><br>
+</p>
+<p>Liberty Mutual is an equal opportunity employer. We embrace an environment that is free from all discrimination in the workplace, in its business, or by its vendors. Liberty Mutual values diversity and the differences and similarities of our employees. We foster a diverse and inclusive work environment that leads to better ideas, stronger teams and more innovative products and services for our customers.</p>
+</div>
+<p></p>
+</div>

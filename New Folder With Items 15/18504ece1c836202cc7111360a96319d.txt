@@ -1,0 +1,51 @@
+<h2>Lead Technical Support Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Fresh off our Series B round (https://venturebeat.com/2019/03/05/zinier-raises-22-million-from-accel-qualcomm-others-to-automate-field-service-management/) led by Accel, along with Founders Fund, Qualcomm Ventures, Nokia-backed NGP Capital, and Newfund, Zinier is growing our team across all functions and regions! At Zinier, we're building a modern platform to help companies with large field service teams manage their complex businesses and processes. This includes large telecom companies with thousands of technicians who install and repair equipment, to leading satellite companies that provide complex tracking of ship fleets. We are already working with some of the largest telecoms of the world and are currently growing in the United States, Asia Pacific, Latin America, and Europe.</p>
+<p>We are experiencing explosive growth and building our global technical support organization. The Technical Support team's mission is to provide exceptional post-sales product support experience to all our customers and partners. We have multiple openings for senior technical support engineers in our world-wide locations – San Mateo (US), Singapore and Bangalore (India). This role is a key component of the Technical Support global organization. The candidate will need to collaborate across teams, creatively solve product-related issues for customers and partners, and drive the evolution of the technical support team.</p>
+<p><b>Core Responsibilities include but are not limited to:</b></p>
+ <ul>
+<li>Collecting all relevant information to fully understand customer issues to be able to troubleshoot, isolate, and resolve in a timely manner</li>
+<li>
+ Systematically analyzing product native log files and third-party log files to understand/describe chains of events</li>
+<li>
+ Setting up test environments to replicate customer environments and reproduce customer issues</li>
+<li>
+ Troubleshooting and assisting customers with accessing data from various data sources (e.g. relational databases, web services, …)</li>
+<li>
+ Assisting customers with optimizing data access performance, such as reviewing SQL queries and/or analyzing data transfer and suggesting improvements</li>
+<li>
+ Providing guidance and troubleshooting issues related to data analysis/visualization</li>
+<li>
+ When needed, analyzing network traffic to understand problems, using tools like Wireshark, Fiddler, and web browser debugging tools</li>
+<li>
+ Making use of the product source code in case troubleshooting, such as looking up an error message in Java code to understand its context</li>
+<li>
+ Closely collaborating with team members in both local and remote support teams, as well as members of the Product Development and Product Management departments, in solving complex support cases</li>
+<li>
+ Mentoring and training junior members of the team, e.g. by coaching them in case troubleshooting or by providing knowledge transfer/training sessions</li>
+<li>
+ Creating customer self-service content, e.g. in the form of knowledge base articles, community forum posts and videos.</li>
+<li>
+ Participating in side-projects aimed at improving our processes and tools, and the usability, supportability and quality of products being supported.</li>
+</ul>
+<p><b>Job Requirements:</b></p>
+<ul>
+<li>Experience in a customer-facing technical role in the SaaS industry</li>
+<li>
+Knowledge of various cloud computing platforms (AWS, Azure, Google Cloud)</li>
+<li>
+Experience using support ticketing systems (e.g. Salesforce, Zendesk)</li>
+<li>
+Good understanding of bug-tracking systems, such as JIRA and GIT</li>
+<li>
+Basic understanding of REST APIs, Web Services, JavaScript, JSON, and databases</li>
+<li>
+Ability to effectively diagnose and troubleshoot product issues remotely</li>
+<li>
+Strong team player as well as an individual contributor</li>
+<li>
+Participate in on-call rotation and be on standby after-hours and weekends to support and resolve business critical customer issues</li>
+<li>
+At least 7-10 years of customer facing experience, supporting technology products</li>
+</ul>
+</div></div>

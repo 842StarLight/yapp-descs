@@ -1,0 +1,51 @@
+<h2>.Net Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>AVB Marketing is in search of a talented Microsoft .NET developer for our growing team. This role will play a crucial part in the support of an E-Commerce platform and custom-built Microsoft .NET web applications. This is a chance to work on a high traffic platform and enhance the customer experience for E-Commerce customers. A well-rounded background in server technologies and software solutions is required. A successful candidate will take ownership of development projects and improve upon existing web applications.</p>
+<p><b>Summary: </b></p>
+<ul>
+<li>End to end development: design, develop, test and fix bugs</li>
+<li>Troubleshoot current code base and apply fixe</li>
+<li>Collaborate with development and design teams to create functional and intuitive applications</li>
+<li>Work closely with the IT team to design deployment procedures for our products and take ownership of rollouts to assure success</li>
+<li>Write C# code for new web applications or perform updates to existing codebases that can be easily understood and maintained</li>
+<li>Develop software solutions compliant with enterprise architecture, processes, procedures and protocol</li>
+</ul>
+<p><b>Competencies/Computer Skills Required: </b></p>
+<ul>
+<li>Bachelor's degree (preferably in Computer Science) or equivalent experience</li>
+<li>Strong troubleshooting and critical thinking skills</li>
+<li>Strong background in multi-tenant single code base web applications</li>
+<li>Version control (GIT)</li>
+<li>Strong background in JavaScript, HTML and CSS</li>
+<li>Experience developing and supporting enterprise business applications using Microsoft .NET technologies as they apply to Web development (MVC, WCF,REST APls)</li>
+<li>Experience with TSQL and Microsoft SQL Server</li>
+<li>Telerlk for NET experience</li>
+<li>Knowledge of Angular JS a plus</li>
+<li>Knowledge of optimized web server configurations and have experience scaling web applications</li>
+</ul>
+<p><b>Required Education and Experience: </b></p>
+<ul>
+<li>B.S. in Computer Science or equivalent work experience</li>
+<li>Minimum of 2 years of progressive .NET experience</li>
+</ul>
+<p><b>About AVB Marketing: </b></p>
+<p>It all started on a fishing boat…no, really. In the spring of 1969, on a small fishing boat in southern California, a few appliance and electronics retailers debated the possibility of pooling their purchase orders, so they could buy product for less and increase profitability. That summer, Associated Volume Buyers (AVB) was born. Fast forward to present day, we have more than $17 Billion, with a capital B, in annual retail sales, over 4,500 independent members and over 8,000 stores in North America. We are member-owned, not-for-profit, the fastest growing membership of our kind and a force to be reckoned with. For us, <b>it’s all about the members!</b> Their growth and profitability is our passion and we pursue every opportunity to help make this ever changing and competitive business more rewarding.</p>
+<p>We are a quick-moving, forward-thinking, industry leader - in other words, we are doing big things. We are excited to learn from you, and for you to learn from us.</p>
+<p>We have a brand-new office that includes amenities such as a stocked kitchen, unlimited beverages, wide open spaces, ping pong table and other fun things to do. Then there is our biggest asset, a fantastic team of brilliant people. We love challenges and are always looking to the next big win. We are all about great people, grand plans and creative solutions.</p>
+<p>Are you ready to be a part of it?</p>
+<p>We offer a very competitive compensation package including excellent medical, dental, life, vision, EAP, FSA Accounts, 401(k) Plan, paid vacation, sick leave and holidays.</p>
+<p>If you want to work for an innovative company that is growing and values their employees, we encourage you to apply.</p>
+<p>For immediate consideration, please submit your resume.</p>
+<p>AVB is an Equal Opportunity Employer. We consider qualified candidates without regard to race, color, religion, sex, national origin, sexual orientation, disability, gender identity, veteran status and genetics.</p>
+<p>No remote workers.</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>.net: 4 years (Required)</li>
+<li>MVC: 2 years (Required)</li>
+<li>C#: 2 years (Required)</li>
+<li>SQL: 1 year (Required)</li>
+</ul>
+<p>Location:</p>
+<ul><li>Sacramento, CA (Required)</li></ul>
+</div>

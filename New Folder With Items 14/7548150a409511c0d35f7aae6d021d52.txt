@@ -1,0 +1,70 @@
+<h2>Sr Software Engineer - Front End Web Developer (UI)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Are you passionate about building the best possible user experience with a team of people who really care about their craft? Do you excel in an environment of continuous self-improvement and learning? Do you dream in responsive containers and swoon over flexbox's possibilities?</p>
+<p>
+We are looking for someone who is motivated to build truly great web applications to be our team's lead frontend engineer. The apps we build are used by Splunk’s sales &amp; customer success organizations and our partners to help prospects and customers understand the value they can derive from Splunk, and provide actionable plans to achieve this. These apps have a measurable effect on Splunk’s bottom line.</p>
+<h2 class="jobSectionHeader"><b>
+Your Responsibilities:</b></h2>
+<ul>
+<li>
+Create amazing applications in a modern single-page JavaScript framework (React).</li>
+<li>
+Collaborate with UI experts and designers to implement responsive interfaces across multiple platforms, including web and mobile.</li>
+<li>
+Build close relationships with teammates, product managers, and quality engineers.</li>
+<li>
+Break down feature requests into actionable plans and assist when needed with the creation and execution of test plans.</li>
+<li>
+Put your head together with key architects and managers to establish and implement standard methodologies for delivery of high quality software.</li>
+<li>
+Continually strive to improve the efficiency and capabilities of the full-stack developers in your team.</li>
+<li>
+Ensure development projects fulfill business requirements and delight end-users.</li>
+<li>
+Engage in hands-on, in-depth analysis, review, design, development and debugging of your applications.</li>
+<li>
+Lead your team to UI greatness!</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Requirements:</b></h2>
+<ul>
+<li>
+8 years of web application development, with 2+ years of professional experience developing single-page applications.</li>
+<li>
+Hybrid web/mobile experience a bonus.</li>
+<li>
+Expert-level knowledge of HTML and CSS.</li>
+<li>
+Familiarity with interacting with Restful APIs.</li>
+<li>
+Experience with single-page application frameworks and web design industry standards.</li>
+<li>
+Impeccable attention to detail.</li>
+<li>
+Proven ability to pick up new technologies and concepts quickly, coupled with an unending desire to learn and improve.</li>
+<li>
+Strive to work in a team-first, collaborative environment.</li>
+<li>
+Experience working on cross-browser, multi-device applications.</li>
+<li>
+Excellent communications and interpersonal skills.</li>
+<li>
+Eager to teach and mentor others inside and outside of your immediate team.</li>
+<li>
+Proven track record of developing web applications, from inception to delivery.</li>
+<li>
+Highly self-motivated and disciplined.</li>
+<li>
+Appreciation and understanding of usability standards.</li>
+<li>
+Familiarity with Jira, Git and agile development methodology a big plus.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Education:</b></h2>
+<ul><li>
+Bachelor's degree in a relevant field (CS, HCI, Design, etc)</li></ul>
+<h2 class="jobSectionHeader"><b>
+This isn’t a job – it’s a life changer – are you ready?</b></h2>
+<p>
+We value diversity at our company. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which you are applying to.</p>
+</div></div>

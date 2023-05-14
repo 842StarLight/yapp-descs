@@ -1,0 +1,87 @@
+<h2>Implementation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader">
+<b>Overview</b><b>
+</b>
+</h2>
+<div><div><div>
+<div>As a Mimecast Professional Services Consultant you will be involved in both pre and post sales activities, working closely with the sales team. Design and present Mimecast’s Professional Services offerings to customers. Continuously work with customers to implement and optimize Mimecast through post-sales, handling data migration projects while delivering customized training. While supporting customers, engage with various internal Mimecast teams to ensure that technical issues are handled quickly and appropriately. You will be expected to build close relationships with Mimecast’s Support, Product Management, Engineering and Sales Teams actively contributing to the ongoing success of Mimecast’s products. The successful candidate will be an enthusiastic and professional individual with in-depth technical abilities as well as commercial acumen and relationship building skills both internal and external.</div>
+</div></div></div>
+<h2 class="jobSectionHeader">
+<b>Responsibilities</b><b>
+</b>
+</h2>
+<div><div><div>
+<ul>
+<li>Assist Customers with implementing the Mimecast Service.</li>
+<li>
+Perform email archive migrations from various email archive solutions.</li>
+<li>
+Develop and deliver customized training covering Administration, End user tools, and eDiscovery along with new features.</li>
+<li>
+Escalation and tracking of issues are raised with Mimecast Support Team.</li>
+<li>
+Escalation and tracking of feature requests are raised with Mimecast Product Development recognize upsell opportunities for additional product and services</li>
+</ul>
+<ul>
+<li>
+Support pre-sales calls to discuss Mimecast professional services and product features</li>
+<li>
+Develop professional service proposals and statements of work.</li>
+<li>
+Support 10% travel to customer sites in US and Canada per quarter.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader">
+<b>Qualifications</b><b>
+</b>
+</h2>
+<div><div><div>
+<ul>
+<li>Experience with the general administration and support of Microsoft Exchange, Lotus Notes Domino or other mail systems</li>
+<li>
+Experience with email archive solutions such as Enterprise Vault, EAZ Zantaz, SourceOne Dell EMS, etc.</li>
+<li>
+Experience with email gateway solutions such as McAfee, MessageLabs\Symantec. Cloud, Proofpoint etc.</li>
+<li>
+Strong technical skills specifically in Datacenter platforms, operating systems, desktop deployment, system administration and/or technical architecture.</li>
+<li>
+Comfortable with developing pre-sales and project deliverables using MS Office products such as Word, Powerpoint, Excel, and Visio.</li>
+<li>
+Experience with Archive &amp; Email Migration tools.</li>
+<li>
+Good knowledge of MSSQL and SQL a plus</li>
+<li>
+Experience with scripting technologies such as Powershell, VBScript, C#, a plus but not required</li>
+<li>
+Understanding of Exchange and Domino email migrations a plus</li>
+<li>
+Ability to successfully articulate technical solutions</li>
+<li>
+Demonstrate ability in customer-facing positions, preferably as a professional services consultant</li>
+<li>
+Strong analytical skills regarding technical and project management issues</li>
+<li>
+Excellent communications and interpersonal skills, including ability to interact and communicate with CxO level personnel</li>
+<li>
+Prior pre-sales experience a plus</li>
+<li>
+MCSE or equivalent is a plus</li>
+<li>
+Other Vendor Certifications in other Archiving or Gateway Security Platforms a plus</li>
+</ul>
+<div>
+Reward</div>
+<div></div>
+<br>
+<div>
+We offer a highly competitive rewards and benefits package including private healthcare, dental and life coverage. Mimecast is an entrepreneurial and high growth company which will provide the right candidate with a wealth of career development opportunities. All Mimecasters strive on being high performers, problem solvers, and team players with passion and integrity.</div>
+<div></div>
+<br>
+<div><i>
+An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.</i></div>
+</div></div></div>
+</div>
+<div></div>
+</div>

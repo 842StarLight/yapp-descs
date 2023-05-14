@@ -1,0 +1,57 @@
+<h2>Technical Writer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Dubbed an "open-source unicorn" by Forbes, Confluent is the fastest-growing enterprise subscription company our investors have ever seen. And how are we growing so fast? By pioneering a new technology category with an event streaming platform, which enables companies to leverage their data as a continually updating stream of events, not as static snapshots. This innovation has led Sequoia Capital, Benchmark, and Index Ventures to recently invest a combined $125 million in our Series D financing. Our product has been adopted by Fortune 100 customers across all industries, and we’re being led by the best in the space—our founders were the original creators of Apache Kafka®. We’re looking for talented and amazing team players who want to accelerate our growth, while doing some of the best work of their careers. Join us as we build the next transformative technology platform!</div>
+<div>
+<br>
+</div>
+<div>
+About the Role:</div>
+<div>
+</div>
+<div>
+Confluent is looking for an experienced Technical Writer to help document Confluent Platform, a more complete distribution of the Apache Kafka distributed streaming platform. We are looking for a writer with a passion for technology and communication. Confluent has a culture that values documentation, which means you will get contributions from engineers, the community, and more! You will make it easy for developers to build a streaming platform and put it at the heart of every company.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Responsibilities</b></h3>
+<div><ul>
+<li>
+Work directly with Engineering, Product, Support, and Sales to deliver best-of-breed documentation that ensures customer success.</li>
+<li>
+Produce documentation with unified examples, consistent style, and jaw-dropping quality.</li>
+<li>
+Work with the tools and marketing team to publish documentation in an SEO-friendly, searchable, browsable, and automated way.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>What we're looking for:</b></h3>
+<div><ul>
+<li>
+5+ years experience writing technical documentation for a developer audience.</li>
+<li>
+Excellent writing, editing, and verbal communication skills.</li>
+<li>
+Ability to work in a modern documentation toolchain, including GitHub experience.</li>
+<li>
+Experience using reStructuredText, Markdown, or equivalent.</li>
+<li>
+Experience reading code in languages such as Java or Python</li>
+<li>
+Experience using or documenting distributed systems technologies.</li>
+<li>
+Experience working with open-source development.</li>
+<li>
+Bachelor's Degree in English, Technical Writing, Computer Science, Learning Technology, or related field.</li>
+</ul></div>
+</div></div>
+<div>
+<div>#LI-JD1</div>
+<div>
+<br>
+</div>
+<div><b>
+Come as you are</b></div>
+<div>
+At Confluent, equality is a core tenant of our culture. We are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and broader our impact.</div>
+</div>
+</div></div>

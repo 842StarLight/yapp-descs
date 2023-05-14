@@ -1,0 +1,164 @@
+<h2>Senior Network Design Engineer - Disaster Recovery</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Flexential stands for something not often found in the world of IT transformation: the human touch. The best infrastructure solutions aren’t about infrastructure, they’re about people. With a mission to accelerate customer success through people and technology, we build trusted relationships and deliver tailored, value-added and reliable solutions to demonstrate the power of people in a technical world.</div>
+<div></div>
+<div>Utilizing our people, values and reliable performance, Flexential is deeply invested in the success of our 4,200+ customers, who trust us to deliver core data center solutions of colocation and connectivity, as well as cloud, managed solutions and professional services.</div>
+<div>Flexential’s robust suite of assets spans 21 domestic and international markets and comprises 41 highly redundant and connectivity-rich data centers.</div>
+<div></div>
+<div>Investing in our people, we have an exciting opportunity for <b>Senior Network Design Engineer</b>, which can sit anywhere in the US<b>, </b>to join our team!</div>
+</div>
+<div></div>
+<div>
+<b>General Description</b><b>:</b>
+</div>
+<div>The Senior Platform Design Engineer is responsible for designing and evolving supporting systems and tools that make up of the underpinnings of the Flexential Cloud Platform product offerings. These systems and tools range from capacity planning tools, OS provisioning, security &amp; configuration management and storage infrastructure to name a few. A successful candidate is curious and passionate, enjoys solving complex problems, values being a member of a high performing team but also can work autonomously, continuously evolves their skills and thinking, and has a thirst for building innovative technology solutions that people enjoy using. As a Senior Platform Design Engineer, you will be expected to successful teach and mentor your team members on new technologies and skills.</div>
+<div></div>
+<div><b>Responsibilities:</b></div>
+<ul>
+<li>
+<div>Develop highly automated infrastructure systems and tools</div>
+</li>
+<li>
+<div>Partner with Product Management to execute on a roadmap of Flexential services and platforms, providing technical leadership and direction as necessary</div>
+</li>
+<li>
+<div>Outcome responsibility for services your team owns – Patching, Compliance, Performance + Capacity Management, Availability, Emergency Response / On-call</div>
+</li>
+<li>
+<div>Act as an operations and sales escalation point for service exceptions</div>
+</li>
+<li>
+<div>Assist with KPI development and execution of continual improvement processes for services your team owns</div>
+</li>
+<li>
+<div>Strong project management and project implementation experience. Able to gather requirements, design, plan, coordinate, prioritize, and implement complex technical projects, individually and across diverse teams.</div>
+</li>
+<li>
+<div>Mentor others in your area of expertis</div>
+</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Requirements</b></h2>
+<ul>
+<li>
+<div>Bachelor’s Degree from an accredited university or equivalent experience</div>
+</li>
+<li><div>
+<div>Disaster Recovery / Virtualization Focus</div>
+</div></li>
+<li>
+<div>Expert knowledge of Zerto (ZVM, ZCC, ZSSP)</div>
+</li>
+<li>
+<div>Expert knowledge of VMware vSphere 6.5+</div>
+</li>
+<li>
+<div>Experience designing, deploying, managing Hyper-converged Infrastructure platforms is a plus (Dell VxRail)</div>
+</li>
+<li>
+<div>Knowledge of backup technologies is a plus (Commvault / Avamar / Veeam)</div>
+</li>
+<li>
+<div>3 years’ experience in a cloud technical support and/or engineering role, preferably with an IT service provider</div>
+</li>
+<li>
+<div>Experience supporting and automating cloud-based IT environments (e.g. – VMware, Hyper-V, Xen)</div>
+</li>
+<li>
+<div>Functional knowledge of infrastructure as code methodologies</div>
+</li>
+<li>
+<div>Examples of successful participation on larger project teams</div>
+</li>
+<li>
+<div>Experience successfully implementing and maintaining a full technology stack</div>
+</li>
+<li>
+<div>Supporting, integrating and tailoring configuration management &amp; IT service management tools</div>
+</li>
+<li>
+<div>Intermediate level scripting and automation skills including code development (SDLC), CI/CD system consumption and workflow development, automation system design, and new technology evaluation</div>
+</li>
+<li>
+<div>Creation and maintenance of technical documentation &amp; operational process</div>
+</li>
+<li>
+<div>Self-starter with a history of excellent communication and time management skills</div>
+</li>
+<li>
+<div>Ability to quickly assess problems and execute a plan of action</div>
+</li>
+<li>
+<div>Ability to work in a fast paced, SLA-bound, 24x7 service provider environment</div>
+</li>
+<li>
+<div>Practical understanding of a large breadth of infrastructure technologies under support</div>
+</li>
+<li>
+<div>Effectively prioritize reactive and proactive activities</div>
+</li>
+<li>
+<div>Department is highly visible and paramount to customer satisfaction</div>
+</li>
+<li>
+<div>Straddle between moving quickly and agility with balance of quality in design and rock-solid platforms that scale</div>
+</li>
+<li>
+<div>Excellent customer service and communication skills</div>
+</li>
+<li>
+<div>Comprehensive understanding of IT infrastructure building blocks:</div>
+<ul>
+<li>
+<div>Primary storage (Disk arrays, distributed file systems, SAN/NAS fabrics)</div>
+</li>
+<li>
+<div>Backup technologies and secondary storage</div>
+</li>
+<li>
+<div>Network fundamentals (OSI model, TCP/IP, ARP, DNS, DHCP, NAT, NTP, Firewalls, Load balancers)</div>
+</li>
+<li>
+<div>Compute vendors and management tools (Dell, Cisco, and Nutanix)</div>
+</li>
+<li>
+<div>Virtualized Infrastructure and management tools</div>
+</li>
+</ul>
+</li>
+<li>
+<div>Mastery of a primary OS and a user in a secondary OS</div>
+</li>
+<li>
+<div>Extensive Experience with VMware Products (vCenter, vROps, vRLI, etc…)</div>
+</li>
+<li>
+<div>Awareness of ITIL framework</div>
+</li>
+<li>
+<div>Awareness of Compliance Frameworks – PCI, HIPAA, HYTRUST</div>
+</li>
+<li>
+<div>Experience with a primary programming language and the ability to be flexible when working with foreign languages</div>
+</li>
+<li>
+<div>Experience with automation system design, implementation, maintenance, and evolution – Automating tasks end to end based on user needs</div>
+</li>
+<li>
+<div>Experience with using and deploying Configuration Management tooling (i.e. - Puppet, Ansible, DSC)</div>
+</li>
+<li>
+<div>Configuration and consumption of Monitoring &amp; reporting tools (i.e. Nagios, Graphite/Grafana, ScienceLogic, New Relic, etc…)</div>
+</li>
+<li>
+<div>Experience implementing security focused configurations at each layer of the technology stack</div>
+</li>
+<li>
+<div>Experience with using CI/CD systems, version control systems, and SDLC thought processes</div>
+</li>
+<li>
+<div>Experience with container technologies and management frameworks (e.g. Docker and Kubernetes)</div>
+</li>
+<li><div>Industry Certification – MCSE, RHCE, LFCE, CCNA, VCP, CISSP, etc…</div></li>
+</ul>
+</div></div>

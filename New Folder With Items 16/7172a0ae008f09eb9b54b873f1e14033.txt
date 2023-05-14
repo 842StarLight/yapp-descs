@@ -1,0 +1,66 @@
+<h2>Senior Engineering Manager - Sales, Marketing & Support</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">---------------------------
+<br><b>Location:</b> San Francisco, CA
+<br>---------------------------
+<br><br>
+Coinbase has built the world's leading compliant cryptocurrency platform serving over 30 million accounts in more than 100 countries. With multiple successful products, and our vocal advocacy for blockchain technology, we have played a major part in mainstream awareness and adoption of cryptocurrency. We are proud to offer an entire suite of products that are helping build the cryptoeconomy, and increase economic freedom around the world.
+<br><br>
+There are a few things we look for across all hires we make at Coinbase, regardless of role or team. First, we assess whether a candidate demonstrates our values: Clear Communication, Positive Energy, Efficient Execution, and Continuous Learning. Second, we look for signals that a candidate will thrive in a culture like ours, where we default to trust, embrace feedback, disrupt ourselves, and expect sustained high performance because we play as a championship team. Finally, we seek people with the desire and capacity to build and share expertise in the frontier technologies of crypto and blockchain, in whatever way is most relevant to their role.
+<br><br>
+Read more about our values ( https://www.coinbase.com/mission ) and culture ( https://blog.coinbase.com/culture-at-coinbase-fe510fe9c098 ) here.
+<br><br>
+We are looking for a seasoned manager to establish a Sales, Marketing and Support Engineering delivery team in IT and guide practices like product quality, CI/CD and agile adoption, from day one. We have an aggressive portfolio of brand new world class implementations like SFDC Sales and Service Cloud. The successful candidate will have significant previous experience in IT Engineering for Sales, Marketing and Support roles in rapidly growing environments, and a long track record of buy vs build decisions.
+<br><br>
+Our growing IT Enterprise Applications and Architecture (EAA) team is based in San Francisco, CA. This role will report to the overall Director of Engineering for EAA.
+<br><br>
+<b>What you'll be doing:</b><br>
+*
+<br>Manage a team of Product Owners, BSAs, Engineers to deliver fit-for-purpose solutions to business requirements in the space of Sales, Marketing and Support.
+<br><br>
+<ul>
+<li>Complete PLAN, BUILD, RUN responsibility.</li>
+</ul>
+*
+<br>Responsible for production metrics and meeting production SLAs.
+<br><br>
+<ul>
+<li>Troubleshoot and fix production issues and help prioritize against existing backlog based on severity and impact.</li>
+</ul>
+*
+<br>Responsible for all engineering practices for their area- Signal Lights Executive Cockpit, Product Quality, CI/CD.
+<br><br>
+<ul>
+<li>Perform Quarterly Operational reviews.</li>
+<li>Complete Platform Ownership: Management of Technical Debt and Platform Life Cycles for Salesforce and other platforms.</li>
+</ul>
+*
+<br>Drive buy vs. build decisions.
+<br><br>
+<ul>
+<li>Perform hands-on configuration and code reviews.</li>
+<li>Work across a number of technologies and advise on fit-for-purpose solutions.</li>
+</ul>
+*
+<br>Balance needs for functional and non-functional requirements (availability scalability, supportability, security, interoperability, etc.).
+<br><br>
+<ul>
+<li>Work closely with the Security teams to identify and implement unique security requirements relevant for the Coinbase business model.</li>
+</ul>
+*
+<br>Work closely with the Business Unit Engineering teams to understand, document and integrate the customer Blockchain implementation with back-office Enterprise Applications.
+<br><br>
+<b>What we look for in you:</b><br>
+<ul>
+<li>5+ years experience with the above, including successful influencing skills at the Director level.</li>
+<li>Past experience with global platforms - SFDC, Marketo, and their integrations via Mulesoft/Workato.</li>
+<li>Experience with integration of large systems and custom products.</li>
+<li>Clear communication and orchestration of technical resources.</li>
+<li>Significant vendor management skills.</li>
+<li>Working knowledge of Jira, Jenkins, GitHub and overall Devops experience.</li>
+<li>Hands-on experience with Agile and breaking down epics into user stories.</li>
+<li>Hands-on code reviews and technical reviews in the last 5 years.</li>
+<li>Hands-on administration, configuration and development in the last 2 years.</li>
+<li>Demonstrated ability to create order out of chaos, with minimal oversight.</li>
+<li>Deep working knowledge of Google Docs, Google Slides, Google Sheets, Wiki's.</li>
+</ul>
+Coinbase is committed to diversity in its workforce and is proud to be an equal opportunity employer and to review all of our job postings to minimize biased language. Coinbase does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Coinbase will also consider for employment qualified applicants with arrest and conviction records in a manner consistent with San Francisco's Fair Chance Ordinance and similar local laws.</div>

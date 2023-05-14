@@ -1,0 +1,34 @@
+<h2>Field Applications Engineer - Cellular Technical Support</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Country: USA – Durham, North Carolina</b><br>
+<b>Contact: </b><b>Ken Bednasz</b><br>
+<b>
+</b></p>
+<p><b>POSITION OVERVIEW</b></p>
+<p>
+Provide comprehensive technical support on Telit’s Cellular IoT module products to customers during pre-sale, design and development, certification, deployment, and post-sale activities. Work closely with customers’ design teams, as well as their OEM end-customers. You will become a technical expert on Telit’s product portfolio of Cellular IoT modules.</p>
+<p><b>
+BACKGROUND &amp; EXPERIENCE</b></p>
+<p>
+The ideal candidate has worked in the wireless industry with Cellular/m2m/IoT experience.<br>
+</p>
+<p><b>Key Technical Skills:</b></p>
+<ul>
+<li>Cellular 4G LTE technologies</li>
+<li>Data communication protocols such as: TCP/IP, IPv4/IPv6, MBIM, NCM/ECM, PPP, RNDIS or other commonly used protocols.</li>
+<li>USB, RS232, SPI, I2C, and AT command interfaces</li>
+<li>Driver setup and configuration</li>
+<li>Linux operating system</li>
+<li>Embedded systems, firmware, development tools, microcontrollers, antenna design and power management.</li>
+<li>Logging and analysis tools (Qualcomm QXDM, Linux logging tools, Wireshark, etc.)</li>
+<li>Software development/debugging in C/C++</li>
+</ul>
+<p><b>Other Requirements:</b></p>
+<ul>
+<li>Four-year engineering degree and 1-20 years of cellular and/or embedded design experience.</li>
+<li>Cellular carrier certification experience is highly desired</li>
+<li>Strong written and oral communication skills</li>
+<li>Ability to manage multiple projects and activities at one time</li>
+<li>Available to travel up to 15%</li>
+</ul>
+</div></div>

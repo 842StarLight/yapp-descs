@@ -1,0 +1,103 @@
+<h2>Firmware/Software Engineer, Senior</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div>Senior software engineer responsible for development and maintenance of software decode package for Android and Linux platforms. Job involves interacting with OEM manufactures who will integrate Zebra barcode scan engines to various hardware platforms such as Qualcomm, Mediatek etc.<br>
+</div>
+<div></div>
+<div>Zebra OEM software decode team is responsible for delivering the software stack to integrate Zebra barcode scan engines to OEM platforms. Software decode includes V4L camera driver (sensor driver), I2C driver, barcode decoder and SDK.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Development and maintenance of software decode barcode scanning stack for Android and Linux platforms.</li>
+<li>
+Work with Electrical engineers to establish hardware testing and debugging procedures.</li>
+<li>
+Lead geographically distributed small group of software decode team of engineers.</li>
+<li>
+Research on latest updates of Android and Linux operating systems and assess how it affects the Zebra scanner software and recommend solutions pro-actively</li>
+<li>
+Develops documentation for new projects and reviews previous results.</li>
+<li>
+Learn about Zebra barcodes scan engine modules as and when new products are being introduced in order to be able to develop software to integrate to various platforms.</li>
+<li>
+Take training on Mobile hardware platforms such as Qualcomm Snapdragon in order to stay ahead of the latest technologies affecting Zebra scan engines.</li>
+<li>
+Study release history of open source software pertaining to camera drivers and system libraries such as Bionic.</li>
+<li>
+Responsible for making Android AOSP builds for various hardware platforms.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<ul>
+<li>Prior knowledge about barcode scanning and/or image processing a big plus.</li>
+<li>
+Good understanding on Android JNI interface.</li>
+<li>
+Experience in Android app development is desirable but not enough for this position as most of the work involves native libraries, Linux driver and AOSP</li>
+<li>
+Experience working on Linux/Android platforms is a must.</li>
+<li>
+Good written and oral communication skill</li>
+<li>
+Ability to handle pressure from multiple customer at the same time.</li>
+<li>
+Ability to interact with customers all over the world in coordination with sales and field support engineers</li>
+<li>
+Knowledge in any of the programming language such as C, C++, Java, Python</li>
+<li>
+Basic understanding on electrical circuits to read schematic diagrams</li>
+<li>
+Basic understanding of logic analyzers to check signals such as I2C, SPI etc.</li>
+<li>
+Knowledge about Camera sensors are a big plus.</li>
+<li>
+Knowledge about any of the source control tool such as GIT</li>
+<li>
+Quantitative and problem-solving skills</li>
+<li>
+Passion to learn new technologies and care about open source.</li>
+<li>
+Self-motivated and ability to learn technologies with hep of online content.</li>
+</ul>
+<div>
+U.S. Only:</div>
+<ul>
+<li>
+Bachelor's or Master's degree required</li>
+<li>
+Bachelor's +6 years of experience</li>
+<li>
+Master's +4 years of experience</li>
+<li>
+Experienced knowledge in machine language, assembly language and high level language (e.g., C, C++)</li>
+</ul>
+<ul><li>
+All other Regions:<ul>
+<li>
+Bachelor's or Master's degree</li>
+<li>
+6+ years work experience</li>
+</ul>
+</li></ul>
+</div></div></div>
+</div>
+<br><div>
+<h2 class="jobSectionHeader"><b>Need help finding the right job?
+</b></h2>
+<div><div><div>We can recommend jobs specifically for you! Click here to Connect with us!<br>
+</div></div></div>
+<div>
+<br>
+<br>
+Zebra is an equal opportunity/affirmative action employer committed to a diverse and inclusive workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, ancestry, marital status, age, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. If you are an individual with a disability and need assistance in applying for a position, please contact us at workplace.accommodations@zebra.com.<br>
+<br>
+The EEO is the Law poster is available here: https://www.zebra.com/content/dam/zebra/compliance/eeoisthelawposter.pdf. The EEO is the Law poster supplement is available here: https://www.zebra.com/content/dam/zebra/compliance/ginasupplement.pdf.</div>
+</div>
+</div>

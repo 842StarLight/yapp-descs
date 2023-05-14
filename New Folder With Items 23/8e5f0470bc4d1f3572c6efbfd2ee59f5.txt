@@ -1,0 +1,55 @@
+<h2>Senior Data Engineer - Apple</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Summary</b></p>
+<p>
+Apple is seeking an experienced, detail-minded data engineering<br>
+consultant to join our worldwide business development and strategy team. If you are someone<br>
+who looks forward to solving complex business problems and is excited about this opportunity,<br>
+please reach out to us.</p>
+<p><b>
+Job Description</b></p>
+<ul>
+<li>
+You will design and build data warehouses on cloud, to provide efficient analytical and reporting capabilities across Apple's global and regional sales and finance teams.</li>
+<li>
+You will develop highly scalable data pipelines to load data from various source systems, use Apache Airflow to orchestrate, schedule and monitor the workflows.</li>
+<li>
+You will be required to understand existing solutions, fine-tune them and support them as needed. Data quality is our goal and we expect you to meet our high standards on data and software quality.</li>
+<li>
+We seek a self starter, who is willing to learn fast, adapt well to changing requirements and work with cross functional teams.</li>
+</ul>
+<p><b>
+Key Qualifications</b></p>
+<ul>
+<li>
+6+ years of hands-on data modeling and data engineering experience</li>
+<li>
+Strong expertise in dimensional modeling and data warehousing</li>
+<li>
+Database design and development experience with relational or MPP databases such as Postgres/ Oracle/ Teradata/ Vertica</li>
+<li>
+Experience in design and development of custom ETL pipelines using SQL and scripting languages (Python/ Shell/ Golang)</li>
+<li>
+Proficiency in advanced SQL, performance tuning</li>
+<li>
+Hands on experience with Big-Data platform like Hadoop, MapReduce, Hive etc</li>
+<li>
+Experience with cloud computing platforms like AWS, Google Cloud</li>
+<li>
+Familiarity with version control and migration tools for database and software</li>
+<li>
+Experience working with APIs will be a plus</li>
+</ul>
+<p><b>
+Education &amp; Experience</b><br>
+BS or MS in Engineering/ Computer Science</p>
+<p></p>
+<br>
+<p><i>
+Theorem expects employees to be honest, trustworthy, and operate with integrity. Discrimination and all unlawful harassment (including sexual harassment) in employment are not tolerated. We encourage success based on our individual merits and abilities, and all decisions regarding recruitment, hiring, promotion, compensation, employee development decisions such as training, and all other terms and conditions of employment, will be made without regard to race, nationality, national origin, citizenship status, employment status, ethnicity, ethnic origin, color, creed, religion, belief, age, marital status, pregnancy, gender, gender identity, sexual preference, lifestyle, social class, military status, disability, physical features, or any other protected status. We oppose all forms of unlawful or unfair discrimination. Theorem is an equal opportunity employer.</i></p>
+<p><br>
+<i>
+No statements by Theorem are intended to create an offer of employment unless made in writing signed by an officer of the company, and no offer shall become effective unless countersigned by the prospective employee.</i></p>
+<p>
+4S8o0qylz4</p>
+</div></div>

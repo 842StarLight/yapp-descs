@@ -1,0 +1,51 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Creating as a team and growing as a team. </b></p>
+<p>At Dama Financial, we’re bringing financial inclusion to an industry that is defining our decade – cannabis. We’ve spent the past 3 years building products that now serve as the building blocks to an entire financial framework for businesses in the underserved cannabis industry.</p>
+<p>We’re seeking hungry self-starters to join our team of optimistic problem solvers. We believe that success is driven by a combination of passion and curiosity. Together, both fuel rapid innovation, a required component to leading the market with best-in-class offerings. If you identify with our mission and have what it takes to add value to our organization, submit your resume today.</p>
+<p><b>An overview of the problem we’re tackling.</b></p>
+<p>With limited access to financial services, about 70 percent of all cannabis-related businesses (CRBs) use cash for all their transactions. Cash-intensive operations can pose major threats to public safety, incur high costs to properly manage, and be vulnerable to employee theft. 10 percent of all financial and product loss in the cannabis industry is attributed to external robberies that some businesses attempt to combat with security equipment and armed guards – a costly risk to manage. Even with those safety measures in place, there’s a bigger problem to worry about: employee theft which contributes to about 90% of all loss in the industry.</p>
+<p>From an efficiency perspective, cash ridden CRBs operate at a fundamental disadvantage. With cannabis sales expected to reach $75 billion by 2030, CRBs need to establish a reliable financial framework to thrive.</p>
+<p>Viable financial solutions for CRBs exist and are readily available. Dama Financial was founded by entrepreneurs that have a proven track record of successfully leveraging modern technology to provide financial inclusion to historically unbanked categories. During the past 3 years, Dama’s leadership team has turned their focus to addressing the challenges burdening the cannabis industry – the unbanked category of our time.</p>
+<p><b>Our unique positioning enables us to deliver.</b></p>
+<p>Dama Financial, through its bank partners, provides CRBs with access to transparent and sustainable banking and payment solutions. Using innovative technology, data and artificial intelligence, Dama exceeds the compliance and regulatory requirements for servicing CRBs, bringing legitimacy to the rapidly growing cannabis industry.</p>
+<p>Dama’s comprehensive and compliant financial framework offers CRBs the option to maintain cashless operations, reducing their exposure to security risks while improving their business efficiencies and operational focus.</p>
+<p><b>Experience that would be great to have.</b></p>
+<ul><li>Built APIs, products, and complex systems at scale</li></ul>
+<ul><li>Experience working on a large-scale platforms or infrastructure</li></ul>
+<ul><li>A computer science, math, or science degree or software engineering experience</li></ul>
+<p><b>Traits that may indicate you are a fit.</b></p>
+<ul><li>You’re a creative product thinker who loves collaborating across the company with engineering, analytics, marketing, design and sales</li></ul>
+<ul><li>You have strong written and verbal communication skills with a talent for precise articulations of customer problems</li></ul>
+<ul><li>You have experience managing technical software products from kick-off to ship</li></ul>
+<ul><li>You do whatever it takes to make your product and team successful whether that means writing a QA plan or hunting down the root cause of a user’s frustration</li></ul>
+<ul><li>Beyond just shipping new products, you obsess about continuous product improvement and can optimize for shipping a portfolio of small, medium and large releases</li></ul>
+<ul><li>You’ve ever started or run a business before</li></ul>
+<p><b>It’s a two-way street. How can Dama support you as an employee?</b></p>
+<p>As an organization, we are proud of our ability to rapidly respond to industry change. As such, the Dama work environment is fast paced and fosters careers that are driven by a balance of entrepreneurship and collaboration. Dama’s leaders are mentors who empower Dama employees to explore their strengths while offering honest and immediate feedback.</p>
+<p><b>Benefits</b></p>
+<p>· Healthcare</p>
+<p>· 401K</p>
+<p>· Work from home options</p>
+<p>· Lunch provided</p>
+<p><b>Seeking Bay Area Candidates for this position</b></p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>relevant: 3 years (Preferred)</li>
+<li>Product Management: 3 years (Preferred)</li>
+</ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Flexible schedule</li>
+</ul>
+</div>

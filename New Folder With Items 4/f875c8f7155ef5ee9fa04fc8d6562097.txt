@@ -1,0 +1,78 @@
+<h2>Application Security Senior Analyst - Customer Connectivity</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Johnson &amp; Johnson is currently recruiting for an Application Security Senior Analyst - Customer Connectivity. This position is located in Piscataway, NJ.<br>
+<br>
+Caring for the world, one person at a time has inspired and united the people of Johnson &amp; Johnson for over 130 years. We embrace research and science - bringing innovative ideas, products and services to advance the health and well-being of people.<br>
+<br>
+With $81.6 billion in 2018 sales, Johnson &amp; Johnson is the world's most comprehensive and broadly-based manufacturer of health care products, as well as a provider of related services, for the consumer, pharmaceutical, and medical devices markets. There are more than 250 Johnson &amp; Johnson operating companies employing over 125,000 people and with products touching the lives of over a billion people every day, throughout the world. If you have the talent and desire to touch the world, Johnson &amp; Johnson has the career opportunities to help make it happen.<br>
+<br>
+As a part of the Information Security Risk Management Supply Chain group, the ISRM Senior Analyst – Customer Connectivity is responsible for supporting the development and implementation of a green-field security program which spans e-commerce, hospital systems integration, contracts management, and customer call center security.<br>
+<br>
+<b>Key Responsibilities:</b><br>
+<ul>
+<li>Provide security consulting and assurance via secure architecture design reviews on projects and new implementations</li>
+<li>
+Shape security user stories and provide security solution/remediation guidance across both on premise and cloud/SaaS hosted platforms</li>
+<li>
+Provide mentorship on secure coding; lead and support adoption and implementation of secure CI/DC and DevSecOps practices including integration of static analysis, software composition analysis, and dynamic analysis tools</li>
+<li>
+Provide consulting on security patterns for microservices, APIs and serverless architectures.
+</li>
+<li>Assist in site, vendor and full-stack technology assessments existing customer call center sites, systems and vendor relationships. Rank risks; provide security remediation guidance across Information Technology solutions (applications, databases, infrastructure, networks, industrial Internet of Things); facilitate penetration testing.</li>
+<li>
+Provide consulting to IT teams on secure application architecture and design, secure coding, adoption and implementation of secure Continuous Integration/Continuous Delivery practices, and security patterns for microservices, APIs and serverless architectures.</li>
+<li>
+Perform assessments and design reviews of solutions and environments, analyzing and triaging output of scan tools and penetration testing, ranking risks and providing and guidance, solution design and technology options for remediation.</li>
+<li>
+Contribute SME knowledge to help shape the strategy and security program for J&amp;J Customer facing IT solutions.</li>
+<li>
+Monitor the industry landscape for emerging threats, technologies and capabilities.
+</li>
+</ul>
+<br>
+<b>Qualifications</b><br>
+<ul>
+<li>A minimum of a bachelor’s degree is required. Preferably in cybersecurity or computer science.
+</li>
+<li>A minimum of 2 years of experience working in software development with a security focus is required.</li>
+<li>
+Hands-on implementation level understanding of software design and development principles, processes and tooling is required.</li>
+<li>
+Experience analyzing software architecture to identify security gaps and designing solutions is required.</li>
+<li>
+Strong knowledge of the security landscape including trends in process, tooling and threats is required.</li>
+<li>
+An understanding of cloud and virtualized environments is required.</li>
+<li>
+Hands-on experience of integration with hospitals and health-care environments is preferred.</li>
+<li>
+Experience of penetration testing and penetration testing tool is preferred.</li>
+<li>
+Experience of working within an incident response team is preferred.</li>
+<li>
+Demonstrable track record of working within large projects and handling multiple contending priorities is required.</li>
+<li>
+Big Picture/Attention to Detail – align strategic and tactical security aspects is required.</li>
+<li>
+Results Orientation/Sense of Urgency – ability to drive to tight timelines is required.</li>
+<li>
+A passion for software security is required.</li>
+<li>
+Creative problem-solving skills are required.</li>
+<li>
+Customer focus (internal &amp; external) is required.</li>
+<li>
+Superb communication skills, able to network and influence at all levels of the organization, cross sector, cross-functionally and globally is required.</li>
+<li>
+This position is located in Piscataway, NJ and may require up to 5% travel.
+</li>
+</ul>
+<br>
+Johnson &amp; Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.<br>
+<b>Primary Location</b><br>
+United States-New Jersey-Piscataway-<br>
+<b>Organization</b><br>
+Johnson &amp; Johnson Services Inc. (6090)<br>
+<b>Job Function</b><br>
+Information Security<br>
+<b>Requisition ID</b><br>
+7444191011</div></div>

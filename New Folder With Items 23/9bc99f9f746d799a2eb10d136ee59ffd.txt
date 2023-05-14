@@ -1,0 +1,39 @@
+<h2>Senior Software Engineer, Full Stack</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Summary
+<br><br>
+Yaana Technologies Product R&amp;D Team is seeking an experienced Full Stack Engineer who is technically proficient, passionate about their work and looking to learn and grow with the firm. As a member of the R&amp;D team, you will play a key role in developing cutting-edge web based products in Legal Compliance, Mobile Network Services and Communications Data Analytics. You will also be collaborating with Sales, Services, Implementation and Support teams for customer acquisition, deployments and sustained operations.
+<br><br>
+To apply, please email your resume to jobs@yaana.com and include the title of the job you’re applying for in the email subject. We look forward to hearing from you!
+<br><br>
+Locations
+<br><br>
+<ul>
+<li>Overland Park, KS</li>
+</ul>
+Essential Skills, Qualifications &amp; Competencies
+<br><br>
+<ul>
+<li>Strong experience in creating user experiences utilizing HTML5, CSS3, JavaScript, Typescript, JQuery, Bootstrap, LESS</li>
+<li>Desirable experience with frameworks like AngularJS, ReactJS, Node, Jasmine, Karma, Gulp, Grunt, WebPack</li>
+<li>Strong experience developing J2EE/Java backend systems</li>
+<li>Experience with designing and developing RESTful interfaces</li>
+<li>Strong Experience with RDBMS databases and SQL</li>
+<li>Knowledge of web security concepts and best practices</li>
+<li>Strong experience in agile practices – Scrum, Continuous Integration and TDD/BDD practices</li>
+<li>Experience using CI tools such as Jenkins, JobDSL, Code Quality Control tools like Sonar, etc.</li>
+<li>Experience automating deployments and configuration management using tools such as Chef, Ansible, Ambari</li>
+<li>Experience with Unix/Linux, including shell scripting</li>
+<li>Experience in production release preparation and coordination</li>
+<li>Must have strong analytical, problem-solving and technical debugging skills</li>
+<li>Must be able to effectively communicate with management, customers and business stakeholders</li>
+<li>Experience in working with globally distributed teams</li>
+</ul>
+Education &amp; Industry
+<br><br>
+<ul>
+<li>5+ years of experience in web application development including analysis, design, coding and implementation of large scale applications</li>
+<li>B.S. in Computer Science or Engineering</li>
+</ul>
+<b>Physical Demands:</b> While performing the duties of this Job, the employee is regularly required to stand; walk; sit; use hands to finger, handle, or feel; reach with hands and arms; climb or balance; stoop, kneel, crouch, or crawl; talk or hear and taste or smell. The employee must occasionally lift and/or move up to 25 pounds.
+<br><br>
+<b>Work Environment:</b> Moderate noise level associated with open office work environment.</div>

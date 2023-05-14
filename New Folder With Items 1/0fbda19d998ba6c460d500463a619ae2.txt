@@ -1,0 +1,101 @@
+<h2>Software Developer Sr.</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<ul>
+<li>
+<div>Location</div>
+<div>Washington, District of Columbia</div>
+</li>
+<li>
+<div>Department</div>
+<div>IT Services</div>
+</li>
+<li>
+<div>Employment Type</div>
+<div>Full Time</div>
+</li>
+<li>
+<div>Minimum Experience</div>
+<div>Experienced</div>
+</li>
+</ul>
+<div>
+<p>
+We are seeking a Senior-level SAP Developer with 10 years' SAP experience to take over a complex enterprise environment to optimize and modernize it.</p>
+<p></p>
+<p><b>Background</b></p>
+<p></p>
+<p>SAP ECC 6.0 Business Suite is FPl's financial system of record. FPI follows the SAP methodology in system transport landscapes of DEV, OAS, and PRO. FPI has one PRO instance that utilizes the MM, SD, PP, Fl/CO, and HCM modules of the Business Suite. FPI SAP systems run on a mix of Window 2008R2/Windows 2012R2 servers and use an SQL 2008R2/2012 R2 database. The PRO client system has one DB/Central instance server and six applications servers. ECC 6.0 is on support stack 22 with no enhancement packs installed. Only the ABAP stack has been implemented. The frontend is GUI 7.</p>
+<p></p>
+<p>RealTech software is used for transport management. Solution Manager, Transport Management System (TMS) will be implemented to manage changes in the S/4 HANA landscape.</p>
+<p></p>
+<p><b>The solution you'd be working with utilizes the following SAP ECC 6.0 modules on-premise:</b></p>
+<ul>
+<li>Financial Management/Controlling (COPA is not currently activated)</li>
+<li>Materials Management to include Variant Configurator</li>
+<li>Production Planning</li>
+<li>Sales and Distribution</li>
+<li>Human Capital Management for payroll</li>
+</ul>
+<p><b>And utilizes the following 3rd-party SAP applications as well:</b></p>
+<ul>
+<li>Kronos biometric clocks and server software for time management-connected to SAP HCM</li>
+<li>Symmetry Control Panel GRC</li>
+<li>ReadSoft for AP invoice processing</li>
+<li>Card Connect (PPS) for credit card processing and tokenization. PPS is used as an encryption solution.</li>
+<li>Genesys Voice Portal (GVP) IVR for credit card number entry</li>
+<li>ERP Link to store OMS and Archivelink (Services for Object) documents in SharePoint. PBS for Archiving</li>
+<li>Spreadsheet server for reporting</li>
+<li>WinShuttle for master data entry (currently in implementation phase in ECC 6.0)</li>
+<li>ShipERP for shipping (currently in the implementation phase in ECC 6.0)</li>
+<li>WorkSoft Certify for automated testing</li>
+<li>SAP BW 7.4</li>
+<li>GLSU from Z Option</li>
+</ul>
+<p><b>Required Qualification</b></p>
+<ul>
+<li>US Citizen</li>
+<li>Current / Active Public Trust or Higher Security Clearance</li>
+<li>Excellent English Language skills a must</li>
+<li>10+ years experience developing, managing, optimizing SAP ABAP systems</li>
+<li>Available to provide onsite support in Washington, DC (400 First St, NW)</li>
+</ul>
+<p><b>Preferred Qualifications</b></p>
+<ul>
+<li>Four-year degree: Bachelor's degree in Computer Science, Information Systems, Business Administration, or other related fields</li>
+<li>Strong working knowledge and understanding of FICO Module</li>
+<li>Strong understanding of the underlying SAP tables and T-Codes</li>
+<li>Experience with as many as possible of the following:</li>
+<li>An implementation of AP automation software (preferably from ReadSoft)</li>
+<li>SAP S/4HANA</li>
+<li>SAP Basis</li>
+<li>SAP 81/BW</li>
+<li>SAP Security</li>
+<li>SAP Upgrades</li>
+<li>SQL Server</li>
+<li>Design with Functionals</li>
+<li>Please address your experience (both in years and in the above-enumerated specific competencies) in a very brief cover letter.</li>
+</ul>
+<p><b>More Info:</b></p>
+<ul>
+<li>Full-Time position</li>
+<li>Company Benefits</li>
+<li>Health Insurance</li>
+<li>Dental</li>
+<li>Life &amp; Short Term Disability</li>
+<li>401K retirement plan. (Fully Vested 4% match)</li>
+<li>Training</li>
+<li>3 Weeks Personal Time off</li>
+<li>Federal Holidays</li>
+<li>Employee W2 or 1099</li>
+</ul>
+<p><b>Principals only.</b></p>
+<p></p>
+<p>***************** No Agencies Please *****************</p>
+<p></p>
+<p>Principals only. Recruiters, please don't contact this job poster.</p>
+<p></p>
+<p>Do NOT contact us with unsolicited services or offers</p>
+<p></p>
+<p>Job Types: Full-time, Contract</p>
+</div>
+</div></div>

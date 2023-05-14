@@ -1,0 +1,87 @@
+<h2>Senior Test Automation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>We are looking for a results-oriented, self-motivated Senior Test Automation Engineer that has the ability to thrive in a fast-pace environment. This role requires frequent interaction with project managers, developers, third-party application vendors, product managers, sales and helpdesk professionals in order to ensure that we deliver a quality-trading platform to our users.</div>
+<div>
+<br>
+</div>
+<div><b>
+Responsibilities</b></div>
+<div>
+<ul>
+<li>
+Design and develop comprehensive automated test strategy and test cases using an existing and mature framework</li>
+<li>
+Produce functional test automation strategies and test scripts</li>
+<li>
+Work with team members to facilitate automation of a large set of existing manual test cases for a complex financial domain application</li>
+<li>
+Execute existing and new automated test scripts on a regular basis using programs that leverage continuous delivery/continuous integration frameworks like Jenkins</li>
+<li>
+Work with quality assurance leads in enabling complex testing strategies multi-tiered based architecture</li>
+<li>
+Perform troubleshooting software / hardware configuration problems</li>
+</ul>
+<div>
+<br>
+</div>
+</div>
+<div>
+<b>Knowledge and Experience</b><div>
+<ul>
+<li>
+Bachelor’s degree or higher in Computer Science or related discipline</li>
+<li>
+Strong background in functional testing, reviewing requirements and test cases</li>
+<li>
+Very strong programming skills with the ability to write clean, maintainable code</li>
+<li>
+Strong proficiency in one or more scripting languages (VBScript, JavaScript)</li>
+<li>
+Strong working knowledge of UFT is required</li>
+<li>
+Experience participating in all aspects of a full-lifecycle development methodology, and related quality concepts and processes</li>
+<li>
+Hands-on experience utilizing and developing solutions using open source and market leading solutions is required (ex. Selenium WebDriver/ WebDriverIO, Groovy, SOAPUI, GIT, Jenkins etc.)</li>
+<li>
+Experience working in SQL/Oracle environments is required</li>
+<li>
+Understanding of Webservice standards (SOAP, REST, WSDL, XML, JSON etc.)</li>
+<li>
+Knowledge of Test/Defect management tools (HP ALM &amp; Jira)</li>
+<li>
+Strong problem-solving, analytical, technical, and troubleshooting skills</li>
+<li>
+Knowledge of core Java is preferred</li>
+<li>
+Experience in testing Java Swing and browser based UI applications is preferred</li>
+<li>
+Track record of completing assignments on time with a high degree of quality</li>
+<li>
+Able to set and adjust priorities and multi-task in a fast paced environment</li>
+<li>
+Able to work independently and productively under pressure</li>
+<li>
+Strong communication skills</li>
+<li>
+Strong organizational skills and decision making ability</li>
+</ul>
+<div></div>
+<br>
+<div>
+</div>
+<div>
+Intercontinental Exchange, Inc. is an Equal Opportunity and Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin or ancestry, age, disability or veteran status, or other protected status.</div>
+</div>
+</div>
+</div>
+<br><div>
+<div>Additional Information
+</div>
+<ul>
+<li>Job Type: Standard</li>
+<li>Schedule: Full-time</li>
+</ul>
+</div>
+</div>

@@ -1,0 +1,51 @@
+<h2>Information Tester Level I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Job Description:</b><br>
+<p>Designs, develops and executes all testing-related activities on applications, infrastructure or hardware components of IT solutions. Applications and infrastructure solutions include both 3rd party software and internally developed applications and infrastructure. Responsibilities include, but are not limited to, establishing testing strategy and plan, analysis of business requirements &amp; designs for testability, design and development of test cases, utilization of appropriate tools to develop automated test scripts, and execution of various testing types such as System, system Integration, performance and modeling. Develops the Testing components of application solutions by applying knowledge of service offerings, capabilities, innovation, sales pursuit strategy, Testing &amp; Quality Methodology and best practices to collaborate with the Project team and client to deliver high quality solutions. Works within the Services function, obtaining resources and working in support of objectives and strategies.</p>
+<p></p>
+<p><b><i>
+Responsibilities:
+</i></b></p>
+<ul>
+<li>Applies basic foundation of a function’s principles, theories and concepts to assignments of limited scope.</li>
+<li>Utilizes professional concepts and theoretical knowledge acquired through specialized training, education or previous experience.</li>
+<li>Exercises independent judgment within defined parameters.</li>
+<li>Develops expertise and practical knowledge of applications within business environment.</li>
+<li>Acts as team member by providing information, analysis and recommendations in support of team efforts.</li>
+<li>Proficient in testing analysis and design, functional and performance models, and test specifications to:</li>
+</ul>
+ o develop functional models for testing<br>
+ o develop performance models for testing<br>
+ o evaluate and validate test cases and scripts<br>
+ o validate functional models for testing<br>
+ o validate performance models for testing<br>
+ o develop test specifications, validate test specifications<br>
+ o validate testing coverage<br>
+ o escalate quality issues for resolution<br>
+ o evaluate test automation tools and validate testing environment in order to develop test specifications<br>
+<ul><li>Proficient in testing processes and tools to:</li></ul>
+ o execute test cases and scripts<br>
+ o analyze test results<br>
+ o report on testing progress and results<br>
+ o facilitate defect resolution and document final test results in order to execute testing engagement<br>
+<ul><li>Knowledgeable of testing processes and testing metrics to:</li></ul>
+ o review test summary report<br>
+ o provide testing project feedback and archive testing assets in order to verify completion of testing<p></p>
+<p><b><i>
+Requirements:</i></b></p>
+<ul>
+<li>A Bachelor’s degree or equivalent experience</li>
+<li>0-2 years of related manual and/or automated testing experience</li>
+<li>Healthcare industry knowledge a plus</li>
+<li>1-2 years’ experience in Writing and executing Test cases, Test scripts. Knowledgeable in testing and development methodologies and their interaction.</li>
+<li>Good verbal and written communication skills.</li>
+<li>HP ALM / Quality Center</li>
+<li>Applies basic foundation of a function’s principles, theories and concepts to assignments of limited scope.</li>
+<li>Proficient in testing and development methodologies and their interaction.</li>
+<li>Strong verbal and written communication skills; ability to work effectively in a global team.</li>
+<li>Proficient in understanding requirements, design specifications, and testing strategy</li>
+<li>Proficient in testing analysis and design</li>
+<li>Proficient in creating, writing, and validating test cases</li>
+<li>Proficient in testing processes and tools to execute test cases, analyze test results, report on testing progress and results, facilitate defect resolution and document final test results.</li>
+</ul>
+</div></div>

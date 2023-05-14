@@ -1,0 +1,176 @@
+<h2>Senior Linux Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div><div>
+<div><b>Position Summary</b></div>
+<p>The Senior Linux Engineer will lead the technical design and continued advancement of core infrastructure service capabilities and availability across the enterprise. In addition to ensuring systems are available and engineered to industry best practices. Install new software releases, system upgrades, evaluates and installs patches and resolves software related problems. Performs system backups and recovery. Maintains data files and monitors system configuration to ensure data integrity. In accordance with standards and project/operational requirements, installs new / rebuilds existing servers and configures hardware (including virtual systems), peripherals, services, settings, directories, storage, etc. Maintains system software (Red Hat Linux), including patching and upgrading; ensures information technology compliance.</p>
+<br>
+<div></div>
+<div><b>Areas of Responsibility:</b></div>
+<ul>
+<li>Implements and maintains enterprise-class Red Hat Linux Unix solutions that support systems such as ERP and WebSphere.</li>
+<li>
+Designs and implements a toolset that simplifies provisioning and support of a large enterprise Red Hat Linux environment.</li>
+<li>
+Works closely with Applications teams to create a continuous integration pipelines focused on automation.</li>
+<li>
+Manage a Red Hat Satellite Infrastructure. This will include, but not limited to: infrastructure implementation, OS installation, system upgrading, errata remediation, and post-processing tasks.</li>
+<li>
+Works closely with Application &amp; Database administrators to standardize and automate deployments.</li>
+<li>
+Strong focus on design, build, deployment, security, system hardening and securing services.</li>
+<li>
+Plans and executes major platform software and operating system upgrades and maintenance across a highly virtualized environment.</li>
+<li>
+Manages the planning, implementation, and upgrade of OEM packages.</li>
+<li>
+Integrate Linux systems into Windows Active Directory and design mapping or gap matrix of Group Policy on Linux platforms to enhance standardization.</li>
+<li>
+Plans, configures and implements features on the Red Hat Linux platforms that improve availability, response time, and monitoring of key system metrics.</li>
+<li>
+Collaborates with Enterprise Architecture to design and review architectural decision documents.</li>
+<li>
+Provides support to the user community using incident and problem management tools, email, and voicemail.</li>
+<li>
+Serves as a mentor and provides guidance and training to other team members and I.S. personnel.</li>
+<li>
+Periodic off-hours work required including weekends and holidays and be able to provide 24 by 7 on-call support as necessary.</li>
+<li>
+Manage MuleSoft middleware platform and DevOps ancillary stack for customer data integrations.</li>
+<li>
+Creates and maintains detailed up-to-date technical documentation.</li>
+<li>
+Assists in other areas of the department and company as necessary.
+</li>
+<li>Install new / rebuild existing physical and virtual servers and configure hardware, peripherals, services, settings, directories, storage, etc. in accordance with standards and project/operational requirements</li>
+<li>
+Develop and maintain installation, configuration and security procedures.</li>
+<li>
+Perform daily system monitoring, verifying the integrity and availability of all hardware, server resources, systems and key processes, monitor Nagios and update monitors as needed.</li>
+<li>
+Perform daily backup operations, ensuring all required file systems and system data are successfully backed up. Verify completion of scheduled backup jobs to local storage and replication to remote storage.</li>
+<li>
+Repair and recover from hardware or software failures. Coordinate and communicate with impacted end user communities.</li>
+<li>
+Apply OS/application patches and upgrades on a regular basis, and upgrade administrative tools and utilities. Configure / add new services as necessary.</li>
+<li>
+Perform ongoing performance, system and application tuning, hardware upgrades, and resource optimization as required. Configure CPU, memory, and disk partitions as required.</li>
+<li>
+Monitor virtual computing environment, servers, virtual machines, data stores, networks. Perform application and firmware updates as required.</li>
+<li>
+Install new/rebuild existing servers and configure hardware, peripherals, services, settings, directories, storage, etc. in accordance with client and project requirements</li>
+<li>
+Experience with Redhat Linux and other flavors of Linux</li>
+<li>
+Install and configure new systems</li>
+<li>
+Develop and maintain installation and configuration procedures</li>
+<li>
+Perform systems monitoring to verify availability and integrity of hardware and server resources.</li>
+<li>
+Perform backup operations as needed</li>
+<li>
+Handle ongoing maintenance e.g., hot fixes, software upgrades, etc.</li>
+<li>
+Shell scripting experience</li>
+<li>
+Experience building and maintaining Red Hat Linux servers in a DMZ.
+</li>
+<li>Security hardening experience required.</li>
+<li>
+Knowledge of PERL and other programming experience</li>
+<li>
+Follow policies and procedures for change and incident management.</li>
+<li>
+Excellent application integration troubleshooting skills and the ability to diagnose system problems</li>
+<li>
+Excellent oral and written communication skills</li>
+<li>
+Strong customer facing skills</li>
+<li>
+Ability to establish a solid working relationship with the customer, technical staff, managers, peers and teaming partners.</li>
+</ul>
+<br>
+<br>
+</div></div>
+<p></p>
+<div>Qualifications<div>
+</div>
+<div>
+<ul>
+<li>Strong knowledge of Red Hat Enterprise Linux (RHEL)</li>
+<li>
+Experienced in writing scripts (bash, perl, ruby) to automate system administration functions</li>
+<li>
+Technically proficient at installing, configuring, and maintaining UNIX/Linux (both in a physical and virtual environment-VMware, Hyper-V and Nutanix Acropolis)
+</li>
+<li>Must have experience with SAN storage configuration along with Logical Volume Manage (LVM) required</li>
+<li>
+Must have experience as a system administrator for the Red Hat Enterprise Linux (RHEL) operating systems
+</li>
+<li>Must have strong team skills and a customer-support background handling complex hardware and software systems
+</li>
+<li>Must have excellent computer and customer service skills, strong verbal communication skills, efficient organizational skills and the ability to multi-task in a high-volume, fast-paced environment
+</li>
+<li>Automate routine system configuration task using tools such as Red Hat Satellite, Spacewalk, Puppet, Ansible, Chef, and kickstart installation of new RHEL servers
+</li>
+<li>Must have experience with hardware issues on RHEL include disk failures, controller issues, system boards, memory issues, etc. on Dell based hardware Interact with customers and staff at the technical level, as required</li>
+<li>
+Provide after-hours support for Infrastructure related emergencies as well occasional weekend maintenance</li>
+<li>
+Windows Server 2012</li>
+<li>
+Microsoft SQL 2016 Enterprise</li>
+<li>
+Red Hat Enterprise Linux 7</li>
+<li>
+MDM Runtime</li>
+<li>
+IDQ Platform</li>
+<li>
+Mulesoft Platform</li>
+<li>
+GitHub Enterprise</li>
+<li>
+Nexus Repository Manager</li>
+<li>
+SonarQube</li>
+<li>
+Postman Enterprise</li>
+<li>
+SoapUI</li>
+<li>
+Ansible Tower</li>
+<li>
+Elastic Stack</li>
+<li>
+JBoss EAP</li>
+<li>
+Red Hat Enterprise Linux (RHEL): 5-8 years</li>
+<li>
+Shell Scripting (bash/ksh, PERL, Python): 8 years</li>
+<li>
+Yum / RPM repository management: 5 years</li>
+<li>
+Red Hat Satellite (implementation &amp; administration): 5 years</li>
+<li>
+MuleSoft Runtime: 3 years</li>
+<li>
+Git/Jenkins/Maven/Jboss: 3 years</li>
+<li>
+Windows Active Directory Integration: 5 years</li>
+</ul>
+<div></div>
+<div><i>As your local community bank, we work hard to support the neighborhoods we serve. We are members of many local chambers of commerce, and we’re active in local charities, local government, school boards and community development activities. At Wintrust you can “Have it All” with access to the big bank resources and the customer service you can only get from a local community bank that makes decisions locally and still calls customers by their name. We invite you to be part of the Wintrust team by submitting your application today!</i></div>
+<br>
+<div></div>
+<div><i>Wintrust is a financial holding company with assets of over $30 billion whose common stock is traded on the NASDAQ Global Select Market. Built on the "HAVE IT ALL" model, Wintrust offers sophisticated technology and resources of a large bank while focusing on providing service-based community banking to each and every customer. Wintrust operates fifteen community bank subsidiaries, with over 160 banking locations located in the greater Chicago and southern Wisconsin market areas. Additionally, Wintrust operates various non-bank business units including business units which provide commercial and life insurance premium financing in the United States, a premium finance company operating in Canada, a company providing short-term accounts receivable financing and value-added out-sourced administrative services to the temporary staffing services industry, a business unit engaging primarily in the origination and purchase of residential mortgages for sale into the secondary market throughout the United States, and companies providing wealth management services and qualified intermediary services for tax-deferred exchanges.</i></div>
+<br>
+<div></div>
+<div><i>Wintrust Financial Corporation, including community banking and financial services subsidiaries, is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, ethnicity, gender, sexual orientation, gender identity, national origin, veteran status, or disability.</i></div>
+</div>
+</div>
+</div>
+<p></p>
+</div>

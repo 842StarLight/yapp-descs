@@ -1,0 +1,79 @@
+<h2>Partner Solutions Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Your Opportunity</b></h2>
+<p>
+If you have that special mix of DNA that makes an outstanding Technical Consultant– the blend of great business savvy and technical prowess – then we may be a match made in heaven!</p>
+<p>
+With the swift adoption of our observability platform among enterprise customers, New Relic is redefining how large organizations effectively drive transformation as every business becomes more digital.</p>
+<p>
+Working with the Partner Sales organization, you will use your technical expertise and eye for business to ensure our high-value partners are able to grow their business by using the full scope of our platform. You will evangelize our strategic direction and vision, help consulting partners build practices on our platform, work to support integration efforts with leading cloud providers and champion joint go to market strategies.</p>
+<p>
+The successful candidate will be adept at working in an ecosystem of partners to drive exponential value for joint customers, will have outstanding relationship building skills and entrepreneurial attitude. They will have experience solving technical problems and articulating value.</p>
+<p>
+Are you ready to be part of this extraordinary story? To make a personal impact on a company that is changing the way the world uses software? The link to apply now is given below.</p>
+<p>
+Opportunity to work from a remote office may be available depending on applicant location.</p>
+<h2 class="jobSectionHeader"><b>
+What You’ll Do</b></h2>
+<ul>
+<li>
+Support the Business Development team and partners with opportunity qualification, demonstrations, design wins, Proof of Concept (POC), RFP responses &amp; business justification in a presales capacity</li>
+<li>
+Evangelize and enable partners on how our platform can help their customers accelerate business transformation through observability</li>
+<li>
+Work closely with partners to identify revenue opportunities and build go to market strategies through technology integrations, marketplaces, services offerings and MSP offerings</li>
+<li>
+Drive thought leadership through speaking at various industry conferences like Re:Invent, Kubecon, Google Next, SpringOne</li>
+<li>
+Provide partner and customer feedback to our product management and engineering teams</li>
+<li>
+Ensure timely resolution of partner issues by coordinating support responses</li>
+<li>
+Maintain a deep understanding of the partner’s business as well as their technical environment</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Your Qualifications</b></h2>
+<ul>
+<li>
+5 years + of technical pre-sales experience in SaaS, PaaS and/or IaaS companies</li>
+<li>
+Experience in the monitoring and observability space including opensource technologies like Prometheus, Grafana, Opencensus, ELK</li>
+<li>
+Exposure to DevOps, SRE practices, Cloud Adoption, microservices and container orchestration</li>
+<li>
+Development experience in one or more of the following languages – Java, .Net, Ruby, C, Python, JavaScript, React</li>
+<li>
+Clear understanding of cloud architecture, networking, Infrastructure as a Code, serverless computing</li>
+<li>
+Exposure to ITSM a big plus</li>
+<li>
+Strong presentation &amp; negotiation skills</li>
+<li>
+Excellent communication, critical thinking &amp; analytical skills</li>
+<li>
+Bachelor's degree in Engineering/Computer Science or equivalent</li>
+</ul>
+<p>
+Please note that visa sponsorship is not available for this position.</p>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+About Us</b></h2>
+<p>
+New Relic (NYSE: NEWR) is the industry’s largest and most comprehensive cloud-based instrumentation platform built to create more perfect software. The world’s best software and DevOps teams rely on New Relic to move faster, make better decisions and create best-in-class digital experiences. If you run software, you need to run New Relic. We’re proudly trusted by more than 50% of the Fortune 100.</p>
+<p>
+Founded in 2008, we’re a global company focused on building a culture where all employees feel a deep sense of belonging, where every ‘Relic’ can bring their whole self to work and feel supported and empowered to thrive. We’re consistently recognized as a distinguished employer and are committed to building world-class products and an award winning culture. For more information, visit newrelic.com.</p>
+<h2 class="jobSectionHeader"><b>
+Our Hiring Process</b></h2>
+<p>
+In compliance with applicable law, all persons hired will be required to verify identity and eligibility to work and to complete employment eligibility verification.</p>
+<p>
+We will consider qualified applicants with arrest and conviction records based on individual circumstances and in accordance with applicable law including, but not limited to, the San Francisco Fair Chance Ordinance.</p>
+<p>
+Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. New Relic does not accept unsolicited headhunter and agency resumes, and will not pay fees to any third-party agency or company that does not have a signed agreement with New Relic.</p>
+<p><i>
+New Relic is an equal opportunity employer. We eagerly seek applicants of diverse background and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities (or disability), age, sexual orientation, veteran status, or any other characteristic protected by law.</i></p>
+<p><i>
+Interested in the details of our privacy policy? Read more here: </i><i>https://newrelic.com/termsandconditions/applicant-privacy-policy</i><br>
+<br>
+#LI-MB2</p>
+</div></div>

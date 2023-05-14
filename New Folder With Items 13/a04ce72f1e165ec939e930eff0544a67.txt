@@ -1,0 +1,100 @@
+<h2>Software Quality Assurance Analyst III</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>Founded in 1866, The Sherwin-Williams Company is a global leader in the manufacture, development, distribution, and sale of paints, coatings and related products to professional, industrial, commercial, and retail customers. The company manufactures products under well-known brands such as Sherwin-Williams®, Valspar®, HGTV HOME® by Sherwin-Williams, Dutch Boy®, Krylon®, Minwax®, Thompson’s® Water Seal®, Cabot® and many more. Sherwin-Williams® branded products are sold exclusively through a chain of more than 4,100 company-operated stores and facilities, while the company’s other brands are sold through leading mass merchandisers, home centers, independent paint dealers, hardware stores, automotive retailers, and industrial distributors. The company supplies a broad range of highly-engineered industrial and OEM coatings for wood and general industrial, coil, packaging, protective and marine, and transportation applications worldwide. Our 60,000 employees are diverse, innovative and passionate. With a variety of rewarding and challenging opportunities, Sherwin-Williams is a great place to find a career that takes you places.</div>
+<div></div>
+<br>
+<div>
+The Software Quality Assurance Analyst III, in conjunction with team members, will develop and implement quality assurance standards and measures within the organization. This role is responsible for writing test plans, creating and executing both functional and understand automated tests, for tracking defects and fixes and reporting the progress of each. The Analyst will apply proven analytical and problem-solving skills to help validate IT processes through careful testing in order to maximize the benefit of business investments in IT initiatives.</div>
+<div></div>
+<br>
+<div>
+<b>
+Essential Functions</b><br>
+<br>
+<b>Strategy &amp; Planning</b><br>
+<ul>
+<li>Promote, foster and pro-actively implement the use of Quality Assurance best practices and standards in direct support of increased profitability and financial growth of the Sherwin-Williams Company on a daily basis.</li>
+<li>Assist with the creation and development of best practices for use of our automated testing tools; including Selenium Webdriver and Java.</li>
+<li>Create efficient test scripts using HP ALM and/or Jira.</li>
+<li>Proactively mentor QA Professional Apprentices and teammates on QA processes, best practices, and industry standards.</li>
+<li>Assist with the training of QA team members and business users on the HP and Jira Testing Tools.</li>
+</ul>
+<br>
+<br>
+<b>Acquisition &amp; Deployment</b><br>
+<ul>
+<li>Assist with the development and execution of selenium scripts that support UI Validations.</li>
+<li>Support the requests of PCG customers for the creation of test scripts and automated testing.</li>
+<li>Install and train personnel on software testing tools.</li>
+<li>Support the QA effort on projects which includes, but is not limited to: creating test plans, writing test cases, creating data load scripts, effectively communicating statuses, coordinating meetings, creating effective reports, and performing functional, usability utilizing the HP ALM and Jira Testing Tools</li>
+</ul>
+<br>
+<b>
+Operational Management</b><br>
+<ul>
+<li>Support test automation by gathering requirements from business or project team to identifying key business processes.</li>
+<li>Analyze requirements, write test scripts, execute test sets, and track defects within HP Application Lifecycle Management or equivalent tool.</li>
+<li>Implement efficiencies in manual script execution and the test automation process through the adaptation and use of best practices and standards.</li>
+<li>Coordinate and participate in meetings and documentation as required throughout the testing process.</li>
+<li>Work with and effectively communicate with QA team members, project managers, developers, and customers in both technical and non-technical terms.</li>
+</ul>
+<br>
+<b>
+Incidental Functions</b><br>
+<ul>
+<li>Assist with projects as may be required to contribute to efficiency and effectiveness of the work.</li>
+<li>Assist with research into new technologies, including tools, components, and frameworks.</li>
+<li>Attend management meetings on behalf of team.</li>
+<li>Install software products for end users as required.</li>
+</ul>
+</div>
+<ul>
+<li>Some travel, up to 5%, may be required.</li>
+<li>Work outside the standard office 7.5 hour work day may be required.</li>
+</ul>
+<br>
+<b>
+Position Requirements</b><br>
+<br>
+<b>Formal Education &amp; Certification</b><br>
+<ul><li>Bachelor’s degree or foreign equivalent in a related field or equivalent experience.</li></ul>
+<br>
+<b>
+Knowledge &amp; Experience</b><br>
+<ul>
+<li>2+ year of IT experience.</li>
+<li>2+ year work experience in the area of Software Quality Assurance.</li>
+<li>Experience working with HP Quality Center or Jira or Application Lifecycle Management or equivalent testing tool(s).</li>
+<li>Experience applying testing skills: Test plan and test case formulation, report creation, defect tracking, business requirement/system specification analysis.</li>
+<li>Experience in developing Automation scripts using Java or any other programming languages.</li>
+<li>Experience with Jenkins, continuous integration and data driven framework preferred.</li>
+<li>Exposure to SQL preferred.</li>
+<li>Exposure to version control or continuous integration systems preferred.</li>
+</ul>
+<br>
+<b>
+Personal Attributes</b><br>
+<ul>
+<li>Good written and oral communications skills.</li>
+<li>Ability and initiative to learn and research new concepts, ideas, and technologies quickly.</li>
+<li>Ability to work in a team-oriented, collaborative environment.</li>
+<li>Motivated and competent to contribute time and effort to work assigned.</li>
+<li>Participate in meetings and follow up with resulting action items as needed..</li>
+<li>Good analytical, conceptual, and problem-solving abilities.</li>
+<li>Ability to learn new tools and technologies.</li>
+<li>Ability to organize, prioritize and execute tasks in a high-pressure environment as requested.</li>
+<li>Ability to work effectively in a multi-cultural environment.</li>
+</ul>
+<br>
+<ul><li>Preferred Candidate identified for this role.</li></ul>
+<br>
+<ul><li>Candidate must be eligible to work in the country for which they are applying for employment, without now or in the future needing sponsorship for employment work visa and/or permanent residence status.</li></ul>
+</div>
+<div></div>
+<br>
+Equal Opportunity Employer. All qualified candidates will receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information, creed, citizenship status, marital status, or any other consideration prohibited by law or contract. VEVRAA Federal Contractor requesting priority referral of protected veterans.</div>
+<p></p>
+</div>

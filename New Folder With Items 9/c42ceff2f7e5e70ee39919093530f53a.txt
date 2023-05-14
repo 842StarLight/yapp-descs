@@ -1,0 +1,42 @@
+<h2>Lead DevOps Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>As Lead DevOps Engineer at Clearpath, you’ll be working alongside some of the savviest IT talent in the industry. The ideal candidate will have a passion for technology, a relentless focus on the customer experience and an ability to multitask, assimilate data, make decisions and prioritize complex work. This is a hands-on type role responsible for leveraging CI/CD pipelines to help customer’s both internal and external achieve greater software release and deployment efficiencies. Candidates must be willing to jump in and learn new tools and technologies in support of a very diverse set of customers.</p>
+<p><b>
+You will leverage your hands-on skills and experience to design and deploy Infrastructure as a Service technologies, Application and Storage services</b></p>
+<p><b>
+Duties:</b></p>
+<ul>
+<li>Assess and recommend public and hybrid Cloud solutions, including Infrastructure-as-a-Service (IaaS), Software-as-a-Service (SaaS), and Platform-as-a-Service (PaaS)</li>
+<li>Advise customers on various Cloud solution options, discuss benefits and risks of each, and recommend a solution that aligns with the customer’s business needs and requirements</li>
+<li>Develop and maintaining CI/DC pipelines to automate software deployment and other tasks</li>
+<li>Assist field sales and marketing with the planning and execution of customer facing workshops</li>
+<li>Resolving complex Linux systems administration issues</li>
+<li>Performing system testing, operations, administration and maintenance; Identifying system performance risks and problems, and developing and presenting solutions</li>
+<li>With the CTO, provide technical direction to the marketing team to create compelling website messaging, blogs, presentations and other applicable content as required</li>
+</ul>
+<p><b>Skills/Qualifications:</b></p>
+<ul>
+<li>5+ years of technical experience with Linux operating systems</li>
+<li>Solid IT infrastructure background required</li>
+<li>Strong background in networking and storage technologies required</li>
+<li>Server virtualization technologies, e.g. VMware vSphere or Microsoft Hyper-V experience</li>
+<li>Strong background in Microsoft Windows Server and Active Directory design, implementation and administration desired</li>
+<li>CI/CD technologies experience e.g. Jenkins, Team City, Concourse, Travis CI, Team Foundation server etc.</li>
+<li>Code/Artifact Repository technologies experience Github, bitbucket, Gitlab, Mercurial, jFrog</li>
+<li>Configuration Management technologies experience e.g. Ansible, Puppet</li>
+<li>Kubernetes experience a plus</li>
+<li>Experience working in a consulting environment preferred</li>
+<li>Must have excellent organizational and project management skills</li>
+<li>Must have strong written and verbal communication skills</li>
+<li>Must be open to travel to client sites, mostly in the DC metro area, if needed</li>
+<li>Detail orientated and ability to multi-task</li>
+<li>Demonstrated excellent verbal, written, and interpersonal communication skills</li>
+<li>Ability to work independently, self-directed, strong work ethic and adherence to deadlines</li>
+<li>Ability to engage in multiple projects simultaneously</li>
+<li>Demonstrated effective client management (internal or external) skills</li>
+</ul>
+</div>
+<p></p>
+</div>

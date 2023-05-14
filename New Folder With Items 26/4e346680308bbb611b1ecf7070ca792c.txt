@@ -1,0 +1,22 @@
+<h2>Account Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>About Us: </b><br>dSPACE is a market innovator and leader in solutions and systems for embedded controller software development. It provides integrated hardware and software for prototyping control algorithms, automatic generation of production code, controller testing, and engineering support services.</p>
+<p>In 1988, engineers working at the University of Paderborn founded dSPACE’s headquarters in Germany. In 1991, the Detroit office was established for North American business. Today dSPACE employs over 1,600 dedicated people worldwide, who are committed to making the embedded controls software development process more efficient through innovative tools and services.</p>
+<p><b>Account Manager</b><br>As an Account Manager you will work as part of a motivated sales team on providing consultative solutions for in vehicle software development and validation tools in the areas of Hardware-in-the-Loop Simulation, Rapid Control Prototyping, Code Generation. This challenging position encompasses technical consulting, generating quotations and customer relationship management for our clients using dSPACE products.</p>
+<p><b>About You: </b><br>You will be working with our Inside Sales force. A sale for us results from technical consulting. Our sales team is composed of engineers with a strong hands-on background, whose business relations range from recommending standard products and engineering consulting services, to custom designs for complex process-oriented customer consultations. You will be dealing directly with the end user as well as management.</p>
+<p><b>Requirements: </b></p>
+<ul>
+<li>Bachelor’s Degree</li>
+<li>Sales skills and experience and/or a proven ability to sell; 2-5 years experience in technical sales capacity</li>
+<li>Strong organizational skills</li>
+<li>Strong analytical skills</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Excellent presentation skills</li>
+<li>Ability to work both independently and in a team environment</li>
+<li>Knowledge of MATLAB, Simulink, C is a plus</li>
+<li>Travel to trade shows and client sites</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>sales: 3 years (Required)</li></ul>
+</div>

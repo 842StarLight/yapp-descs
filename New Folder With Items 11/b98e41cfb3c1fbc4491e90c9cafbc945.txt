@@ -1,0 +1,95 @@
+<h2>Senior Sales Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Trustwave helps businesses fight cybercrime, protect data and reduce security risk. With cloud and managed security services, integrated technologies and a team of security experts, ethical hackers and researchers, Trustwave enables businesses to transform the way they manage their information security and compliance programs. Trustwave delivers automated, efficient and cost-effective threat, vulnerability and compliance management. Trustwave is headquartered in Chicago, with customers in 96 countries. For more information about Trustwave, visit https://www.trustwave.com.</p>
+<p>Trustwave, a leader in cloud-based compliance and information security solutions, is seeking a Sales Engineer to join Trustwave's Sales Team in Chicago. The Sales Engineer is responsible for identifying new client revenue opportunities. In addition, the role is responsible for the sales strategy, obtaining the correct support infrastructure to assist the sale as well as delivering the required results.</p>
+<p>The Sales Engineers in the global practice should be technology and solution advisors with pragmatic experience in a particular security domain. These Sales Engineer will act in many ways as solution consultants that can speak to the security landscape, architectural models and solutions credibly, and possess the ability to discuss and present to senior members of a client team. This role requires a depth of knowledge and experience in one or more of the following core domains: Security Consulting Services, Managed Security Services, Incident Response and/or Threat Detection. You should also be able to speak to the breadth of the landscape at an introductory level as well. The Sales Engineer will provide subject matter expertise through delivery of workshops, as a member of pre-sales and consulting engagements, and as leader on solution design and deployment projects. The Sales Engineer should be conversant in solution design methodologies (e.g. Best Practices type of approaches) and have the ability to generate high quality artifacts such as requirements artifacts, high level and detailed designs and deployment plans.</p>
+<p>Core Skills</p>
+<ul>
+<li>Strong communication and presentation skills</li>
+<li>The ability to lead large groups and be a primary facilitator</li>
+<li>Strong written communication skills</li>
+<li>Comfortable working in a project based/client serving model</li>
+<li>Demonstrated ability to convert complex enterprise requirements to a comprehensive security services solution.</li>
+<li>Ability to lead and shape client expectations</li>
+<li>Help drive pursuits and engage in complex deals, matching outcomes to expectations</li>
+<li>Ability to work easily with diverse and dynamic teams</li>
+<li>Ability to work in a matrix management model</li>
+</ul>
+<p>Domain Skills</p>
+<ul>
+<li>Experience in the design and deployment of technology and solutions in at least two of the core domains: Network Security, Endpoint Security, Security Consulting, Incident Response, Threat Detection, and Managed Security solutions.</li>
+<li>An understanding across this breadth of technology domains, understanding the inter-relationships between major components.</li>
+<li>Solid understanding and experience working a structured solution design methodology</li>
+</ul>
+<p>Responsibilities</p>
+<ul>
+<li>Participate in sales conference calls and prospect visits, providing product demonstrations in person and via WebEx, and working with prospects at both a technical and business level to show how Trustwave’s security solutions can meet their business needs.</li>
+<li>Possess demonstrable skills in customer-centric selling and a proven track record using it to help drive revenue</li>
+<li>Participate as a technical resource at trade shows and conferences</li>
+<li>Work independently and as a vital member of a sales team</li>
+<li>Work with the sales team to strategize on sales approaches to develop business</li>
+<li>Ensure successful on-site and remote product evaluations (POCs)</li>
+</ul>
+<p>Required</p>
+<ul>
+<li>4+ years of experience working in a pre-sales capacity related to at least two of the following core domains: Network Security, Endpoint Security, Security Consulting, Incident Response, SIEM, Threat Detection and Managed Security solutions.</li>
+<li>Strong leadership skills with the ability to prioritize and execute in a methodical and disciplined manner. Set and manage expectations with senior stake-holders and team members</li>
+<li>Excellent communication and presentation skills with the ability to present to a variety of external audiences, including being able to interact with senior executives</li>
+<li>Hands-on technical understanding of incident response, computer forensics, network, endpoint and/or application security</li>
+<li>History of creating rapport with customers, from line technicians to C-level executives</li>
+<li>Ability to explain and demonstrate - live and in color - a complex solution</li>
+<li>Readiness to travel 10 - 25% annually</li>
+<li>English: Fluent</li>
+</ul>
+<p>Preferred</p>
+<ul>
+<li>Bachelor's Degree or equivalent educational or industry experience</li>
+<li>6+ years of experience working in a pre-sales capacity related to at least two of the following core domains: Network Security, Endpoint Security, Security Consulting, Incident Response, SIEM, Threat Detection and Managed Security solutions.</li>
+<li>Previous technical enablement or training experience.</li>
+<li>Hands-on experience with Intrusion Detection Systems, Security Information Event Management solutions, packet analysis tools and operating system analysis.</li>
+<li>Excellent knowledge of security solutions and technologies, including:</li>
+</ul>
+<ul>
+<li>Linux, Network architecture/implementation/configuration experience</li>
+<li>Knowledge of packet flow/TCP/UDP traffic Firewall technologies, proxy technologies, anti-virus, spam and spyware solutions (Gateway and SaaS)</li>
+<li>Malware/security experience * Understand and be conversant about Trustwave competitors, their solutions, strengths, weaknesses, opportunities and threats</li>
+<li>Understand and be conversant about Trustwave partners, their solutions, strengths, weaknesses, opportunities and threats. These include, but are not limited to: Palo Alto, Splunk, Fortinet, Carbon Black</li>
+<li>Basic knowledge in one or more of the following security and compliance/regulatory standards: CIS, ISO 2700x, HIPAA, PCI-DSS, GDPR, PIPEDA, DISA-STIG, etc.</li>
+<li>Verifiable and current certifications, including CISSP, CISM, C|EH, CISM and/or CISA.</li>
+</ul>
+<p>Education:<br>We prefer college-educated applicants, but at minimum, high school diploma or equivalent is required for employment.</p>
+<p>Trustwave is an Equal Opportunity Employer of Minorities, Females, Protected Veterans, and Individuals with Disabilities.</p>
+<p>To All Agencies:<br>Please, no phone calls or emails to any employee of Trustwave outside of the Talent Acquisition team. Trustwave’s policy is to only accept resumes from agencies via the Trustwave Agency Portal. Agencies must have a valid fee agreement in place and they must have been assigned the specific requisition to which they submit resumes, by the Talent Acquisition team. Any resume submitted outside of this process will be deemed the sole property of Trustwave and in the event a candidate is submitted outside of this policy is hired, no fee or payment of any kind will be paid.</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>sales engineering: 4 years (Required)</li>
+<li>Cybersecurity: 1 year (Preferred)</li>
+</ul>
+<p>Additional Compensation:</p>
+<ul><li>Commission</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Signing bonus</li>
+<li>Paid time off</li>
+<li>Flexible schedule</li>
+<li>Parental leave</li>
+<li>Professional development assistance</li>
+</ul>
+<p>Paid Training:</p>
+<ul><li>Yes</li></ul>
+<p>Management:</p>
+<ul><li>Key Leader</li></ul>
+<p>This Job Is Ideal for Someone Who Is:</p>
+<ul>
+<li>Autonomous/Independent -- enjoys working with little direction</li>
+<li>Detail-oriented -- would rather focus on the details of work than the bigger picture</li>
+<li>People-oriented -- enjoys interacting with people and working on group projects</li>
+</ul>
+</div>

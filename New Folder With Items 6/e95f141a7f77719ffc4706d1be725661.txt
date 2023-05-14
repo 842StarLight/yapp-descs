@@ -1,0 +1,74 @@
+<h2>Senior Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Summary</p>
+<p>
+We are looking for an experienced, Product Manager to be part of our Core platform team, within the VMWare End-User Computing division. You will be responsible for software components providing system management, securing devices and making deployments easy and cost effective. You will interact with other teams and partners and guide them in their integration efforts. You will be working closely with developers and software architects, to design, develop, validate and manage the day to day delivery for both client and server-sided components. You will be responsible for managing the product lifecycle for your product line - including but not limited to gathering requirements, crafting technical and functional specifications, coordinating development efforts through to implementation and subsequent support.</p>
+<p></p>
+<p>
+You will work with partners, customers and other internal teams and use their inputs to create product requirement documents, write and review technical specifications, work with finance and leadership on business justifications and train the sales and support prior to shipping the product. In this role you will work closely with VMware OEM partners. You will align our approach to partner needs, create pricing, packaging and positioning that will ensure success of VMWare’s products in their portfolio and maximize the revenue for both companies. You should be comfortable in Jira, writing and managing stories, writing technical specs with enough details for developers to create the product as well as inside Excel spreadsheet creating a business case or Power Point to deliver crisp message.</p>
+<p></p>
+<p>
+Why work for our Division?</p>
+<p>
+VMware's world-class, award-winning R&amp;D team is comprised of thousands of top-notch computer scientists, software engineers and product managers that are transforming computing through virtualization. Members of the R&amp;D team voice their creative ideas and watch them become initiatives, participate in exciting short-term and long-term products on the VMware roadmap, initiate advanced research projects, and/or write and test code that ships. At VMware, our engineers continue to learn and grow by working with top professionals from around the world and recent graduates of top universities and by taking advantage of our extensive internal training opportunities and generous external education assistance program. R&amp;D team members work on the latest computing equipment and have access to the ACM and IEEE libraries.</p>
+<p></p>
+<p>
+Competencies:</p>
+<p></p>
+<ul>
+<li>
+Led a software product or component from the inception to the shipping stage</li>
+<li>
+Excellent communication skills, both written and verbal with technical and non-technical cross-functional teams</li>
+<li>
+Ability to handle a number of concurrent activities with strong interpersonal skills and attention to detail.</li>
+<li>
+Ability to take multiple inputs from various sources and consolidate them into a strategy, product vision and a roadmap</li>
+<li>
+Ability to prioritize and eliminate day to day challenges during the entire SDLC</li>
+<li>
+Ability to collect and process data, build reports and drive data driven decisions</li>
+<li>
+Ruthless at scope prioritization</li>
+<li>
+Demonstrated analytical skills and a natural predisposition toward data-driven decision making with the ability to make reasoned decisions in situations of uncertainty or imperfect data</li>
+<li>
+Prior experience with application security, PKI platform integrations, REST API development &amp; monetization.
+</li>
+<li>Preferred experience with open identity standards such as OAuth 2, SAML, OpenID Connect and SCIM</li>
+<li>
+Hands on and “in the weeds” type, with an understanding of how things work and constantly suggesting improvements</li>
+<li>
+Prior experience with Infrastructure-as-a-Service (IaaS) cloud platforms, including Amazon Web Services, Google Compute Engine, Microsoft Azure, and/or OpenStack</li>
+<li>
+Preferred experience with enterprise software requirements, deployments and security</li>
+<li>
+Preferred experience delivering endpoint management or enterprise mobility solutions</li>
+</ul>
+<p></p>
+<p>
+Responsibilities:</p>
+<p></p>
+<ul>
+<li>
+Collect requirements and turn them into PRDs</li>
+<li>
+Collaborate with engineering on solution designs</li>
+<li>
+Engage cross-functional teams in order to estimate timely delivery</li>
+<li>
+Track progress and remove roadblocks for teams</li>
+<li>
+Work independently and effectively in a team environment</li>
+<li>
+Act as customer advocate, provide voice of the customer during internal discussions</li>
+<li>
+Accountable for success of the product</li>
+<li>
+Work closely with the support, QE and Dev team to triage bugs</li>
+</ul>
+<br>
+<b>
+VMware Company Overview: </b>VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.<br>
+<br>
+<b>Equal Employment Opportunity Statement:</b> VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</div></div>

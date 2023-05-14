@@ -1,0 +1,75 @@
+<h2>Software Engineer / Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Job Description</b></p>
+<p><b>Do you dream about being part of a world-class agile software engineering team that enjoys success and has a proven track record of building and deploying award winning products?</b></p>
+<p><b>If you like being challenged and extremely well compensated when you achieve your objectives, then please read further.</b></p>
+<p><b>So, who is Octopi and what are we looking for?</b></p>
+<p><b>At Octopi we have built a fully integrated, frictionless customer data platform (CDP) named REACH that was created to provide unparalleled automation guided by AI designed to drive more customers into our merchants’ doors while at the same time increasing the lifetime value of existing customers. We achieve this though tight partnerships with our Point of Sale partners thereby enabling the vast amounts of data within their systems to become actionable, relevant, and timely. Our REACH CDP feature set spans both online and offline channels, using purchasing and communication preference to support and delight customers. Our focus is on providing optimal returns, campaign development and business </b><b>decision making for immediate and measurable results.</b></p>
+<p><b>The Role: </b></p>
+<p><b>We are looking for a full stack senior software engineer, with a real passion for innovation and a strong sense of product ownership, who has deep expertise with modern web development standards. We would also like to see strong server-side development experience using C# or .Net. We need a confident and creative problem solver who feels right at home diagnosing and solving any technical challenge. You should be able to architect a feature from start to finish, accounting for how it will work, scale, deploy, be measured and get monitored.</b></p>
+<p><b>Responsibilities</b></p>
+<ul>
+<li><b>Enthusiastic about being a part of an agile team that develops/tests and deploys in quick development iterations</b></li>
+<li><b>Smart, driven problem solver</b></li>
+<li><b>Ability to contribute critical input in software design meetings and analyze user needs to determine technical requirements.</b></li>
+<li><b>Excellent communication skills both written and verbal.</b></li>
+<li><b>Ability to work on a distributed team.</b></li>
+<li><b>Responsible for technical specifications to support the stated business requirements</b></li>
+<li><b>Seasoned professional in working in an Agile/Scrum development environment</b></li>
+<li><b>Architect, design, code test and deliver solutions for our partners</b></li>
+<li><b>Collaborate with product management to properly translate requirements into design</b></li>
+<li><b>Participate in product design, architecture, and technology roadmap reviews and discussions to ensure customer requirements can be met</b></li>
+<li><b>Work closely with product teams and other multi-functional teams to enhance and customize existing functionality and/or fix specific defects</b></li>
+<li><b>Acquire and maintain a detailed understanding of the Octopi platforms, software and services solutions</b></li>
+<li><b>Anticipate and identify problems and provides alternative solutions to resolve issues</b></li>
+<li><b>Promote and drive adoption of software engineering standard methodologies including but not limited to code reviews, unit test, and test automation</b></li>
+<li><b>Champion the reciprocal culture within the team and provide mentoring to other team members when applicable</b></li>
+<li><b>Keep up with the technology trends across the industry and analyze how they can be embraced by the team</b></li>
+</ul>
+<p><b>Requirements</b></p>
+<ul>
+<li><b>5-7 years of software engineering experience with an emphasis on SaaS web application development</b></li>
+<li><b>3+ years’ experience with strong Computer Science fundamentals (e.g. Algorithms, Objected Oriented / Functional paradigms)</b></li>
+<li><b>3+ years’ experience working front end technologies like Angular, JavaScript, JQuery, Material Design, Bootstrap.</b></li>
+<li><b>5+ years’ experience with C#, ASP.NET MVC, .NET CORE, Angular, node.js, HTML</b></li>
+<li><b>Experience working in SQL Server environment and developing T-SQL</b></li>
+<li><b>Microsoft Azure and Native Cloud Application</b></li>
+<li><b>Unit Test development / Test Driven Development</b></li>
+<li><b>Experience developing and consuming REST web services in a production environment</b></li>
+<li><b>Expertise in responsive web design, cross-browsers compatibility,</b></li>
+<li><b>Azure DevOps experience, primarily CI/CD pipelines</b></li>
+<li><b>Experience with Scrum / Agile / Jira</b></li>
+<li><b>Extremely detailed oriented, committed to excellence and takes dedicated pride in the code you write</b></li>
+<li><b>Excellent problem-solving skills, willingness to take ownership and risks, and enthusiasm in the face of technical challenges</b></li>
+<li><b>Excellent written and oral communication skills</b></li>
+<li><b>Track record of delivering results in a reciprocal work environment including working with a geographically distributed team</b></li>
+<li><b>Proficiency in object-oriented design, data structures and algorithms</b></li>
+<li><b>Ability to change directions when presented with new data</b></li>
+<li><b>Local candidates only - No relocation offered</b></li>
+</ul>
+<p><b>Preferred Experience: </b></p>
+<ul>
+<li><b>Docker &amp; Kubernetes</b></li>
+<li><b>Bachelor's Degree in Computer Science or related field relevant work experience</b></li>
+<li><b>Angular 6/Typescript/Node js</b></li>
+<li><b>Experience working in an eCommerce and Digital Marketing technology company</b></li>
+<li><b>Micro services</b></li>
+</ul>
+<p><b>So, What About the Perks? Perks Matter.</b></p>
+<ul>
+<li><b>Medical, Dental and Vision. Octopi pays a nice chunk of your premiums to keep the cost as low as possible for our employees.</b></li>
+<li><b>Plenty of PTO and paid Holidays. We appreciate work/life balance</b></li>
+<li><b>Benefits like 401(k), company paid life insurance, short and long-term disability.</b></li>
+<li><b>Casual Dress. Come dressed in jeans (you’ll fit right in with the rest of us).</b></li>
+<li><b>Great Office environment. Our headquarters is in one of the best office buildings in Scottsdale. Unreal views, top-notch surroundings, and over 10,000 square feet of fun and great culture!</b></li>
+<li><b>Growth opportunities. When we grow… our people grow! We are moving very quickly as an organization and want our talent to help lead that charge. In order to do that, we need to develop our team members internally and foster their knowledge.</b></li>
+</ul>
+<p><b>Salary and Other Details</b></p>
+<ul>
+<li><b>Negotiable depending upon experience</b></li>
+<li><b>Job Type: Full-time</b></li>
+<li><b>Local candidates only - no relocation assistance offered</b></li>
+<li><b>H1B sponsorship is not available at this time</b></li>
+</ul>
+<p>Job Type: Full-time</p>
+</div>

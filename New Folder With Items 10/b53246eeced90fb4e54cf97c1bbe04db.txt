@@ -1,0 +1,132 @@
+<h2>Salesforce System Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Dickinson Financial Corporation is a family-owned bank with a long history of service to the communities in which we do business. Our two banks, Academy Bank and Armed Forces Bank, share this philosophy by supporting the long term success of people and a commitment to serving others. We recruit talented people to deliver Fast, Easy and Personal service to our clients, helping us to achieve our vision of being the "Go To" bank, all while having fun and doing good things along the way!</p>
+<p>
+The Salesforce System Administrator is the owner and administrator of the Salesforce.com and nCino Commercial Lending platform, which includes utilization of the CRM tool across multiple business lines including, Marketing, Recruit, Retail Banking Centers and Commercial. The Salesforce Administrator is responsible for ensuring the company is maximizing efficiency and capitalizing on the full features and benefits of the system based on the various user group needs. The position is the liaison between Executive Management, Information Technology and revenue producing business units utilizing the platform, Marketing, Credit Administration as well as others. The System Administrator will work with stakeholders to define requirements, configure the application to ensure the application meets their needs and delivers the tools necessary to manage and analyze customer and competitor contact information, the selling process and sales pipeline. The System Administrator will work with the user business unit managers to set up reporting dashboards, monitor system availability and performance, activate new features, answer user questions, drive continual improvements in usage of the Salesforce platform and provide training as needed.</p>
+<br>
+<p></p>
+<p><b>
+</b></p>
+<p></p>
+<p><b>Principal Accountabilities</b>:</p>
+<br>
+<p></p>
+<ul>
+<li>Assisting various business groups utilizing the Salesforce platform with developing strategies and tactics around assembling client and prospect information by revenue, industry (SIC), UCC research, geographic (county, state, city, etc.) from various 3rd party lists or subscription services and working with officers to organize into coherent sales and marketing plan.</li>
+<li>Work with bank officers and business groups utilizing Salesforce to develop and implement a database of Clients and prospects identified as Gold/Silver/and Bronze and develop the framework within the Salesforce platform for tracking, reporting and managing customer interactions. This will require joint collaboration with the business units.</li>
+<li>Develop and build out enterprise wide Salesforce platform with vision to create a database that is a true corporate asset that is established, managed and ultimately grows.</li>
+<li>Maintain a positive work atmosphere by behaving and communicating in a manner that encourages productive interactions with customers, co-workers and supervisors</li>
+<li>Responsible for configuring and enhancing the Salesforce.com application, leveraging experience with built-in administration, reporting, development tools and security configurations</li>
+<li>Maintain data integrity through de-duplication, standardization, verification as well as the importing and exporting of data</li>
+<li>Develop and execute solution design activities such as data mapping, object modeling, page layout design, workflows, and rule logic definition in the context of the Salesforce application</li>
+<li>Create users, customize and implement profiles, security settings, roles and data sharing rules.</li>
+<li>Work with the business to develop a roadmap of the Salesforce, nCino and other related CRM applications/components to ensure consistent improvements in regards to functionality and user experience of this software.</li>
+<li>Assess training needs and create and maintain training materials and user documentation as well as provide user training</li>
+<li>Serve as subject-matter expert on sources, definitions, and procedures for capturing, accessing, extracting, and processing data</li>
+<li>Work closely with stakeholders, sales groups and technical teams to define and develop strategies for improving and enhancing the existing data infrastructure across different business units in the organization</li>
+<li>Design and create workflows including automated alerts, field updates, and email generation</li>
+<li>Communicate regularly with user base regarding system changes, new features and enhancements</li>
+<li>Analyze user requirements and issues, provide best fit solutions while maintaining the integrity of the existing applications</li>
+<li>Create custom fields, objects, tabs and workflows as required to meet business objectives</li>
+<li>Develop and maintain custom reports, dashboards, and processes to continuously improve data quality, process integrity and productivity</li>
+<li>Implement and drive user adoption of Salesforce features such as Chatter as well as new features and product enhancements</li>
+<li>Keep abreast of new Salesforce &amp; nCino features and functionality using this knowledge to provide recommendations for process improvements.</li>
+<li>Create and maintain documentation on processes, policies, application configuration and help related materials for users of Salesforce, nCino and other related CRM applications/components</li>
+<li>Monitor user adoption rates and determine whether additional training sessions, communication, modifications, or other resources are needed; implement as appropriate</li>
+<li>Work with stakeholders to identify new and creative opportunities to leverage the customer data to support additional business processes or functions</li>
+<li>Monitor and manage exception logs</li>
+<li>Manage the software testing process, devising test plans, creating test cases, establishing protocols and appropriate testing environments and ensure appropriate individuals are performing the necessary testing.</li>
+<li>Develop and manage Salesforce/nCino code migration process from development environment to production environment per DFC's change control process</li>
+<li>Perform batch reassignment of accounts and opportunities based on organizational changes</li>
+<li>Manage Salesforce, nCino and other CRM related application licenses to ensure optimum utilization</li>
+<li>Perform and analyze system analytics to measure and report efficiencies gained</li>
+<li>Review and recommend to approve Salesforce and nCino related invoices</li>
+<li>Monitor application storage usage and archive data as needed</li>
+<li>Other duties as assigned</li>
+<li>Regular attendance is required, working at the worksite during regular business hours and/or assigned hours.</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Minimum Qualifications:</b></p>
+<br>
+<p></p>
+<ul>
+<li>BS Degree in IT, Engineering or related field</li>
+<li>Strong overall technical background</li>
+<li>2 to 5 years Salesforce.com Administration experience preferred</li>
+<li>Strong understanding of Salesforce.com best practices and functionality</li>
+<li>Excellent project management, business analysis, and organization skills</li>
+<li>Understanding of relational databases and database integrity tools</li>
+<li>Experience using data loader and de-duplication tools</li>
+<li>Proficiency in data manipulation (Excel, Access or other related data manipulation tools)</li>
+<li>Excellent written and oral communication skills as well as the ability to speak in front of large groups</li>
+<li>Ability to prioritize workload, gather and analyze detailed information, think logically and in a process oriented fashion</li>
+<li>Prior knowledge of the selling process and sales pipeline</li>
+<li>Knowledge of customer records management within Salesforce including data transformation/cleansing, house holding and relationship management techniques</li>
+<li>Strong research, troubleshooting, and creative problem-solving skills</li>
+<li>Ability to work independently, as well as part of a team on multiple projects</li>
+<br>
+</ul>
+<p></p>
+<p><br>
+</p>
+<p></p>
+<p><b>Preferred Qualifications:</b></p>
+<br>
+<p></p>
+<ul>
+<li>Salesforce.com certifications: Salesforce Administrator Certification; Salesforce App Builder Certification</li>
+<li>Experience with Apex programming language, VisualForce development, and report writing software</li>
+<li>Salesforce administration experience in banking/lending environment</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Physical Requirements:</b></p>
+<p>
+The work environment is typical of a standard office setting. The position is sedentary, exerting 0 - 10 lbs. of force occasionally and/or a negligible amount of force frequently. It involves sitting most of the time but may also involve walking or standing for brief periods of time. Reaching may be required involving extending arms in any direction. Office equipment, such as a computer and telephone will be used requiring the use of hands and fingers to manipulate a keyboard or keypad. Visual ability to read a computer screen or written documents is necessary. Speaking ability to express or exchange ideas; impart oral information to customers or to the public; or convey detailed or important spoken instructions by means of the spoken word is required. Hearing is necessary to receive detailed information through oral communication.</p>
+<p><b>
+Academy Bank provides equal employment and affirmative action opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability.</b></p>
+</div>
+<br><div>
+<p><b>Minimum Qualifications:</b></p>
+<br>
+<p></p>
+<ul>
+<li>BS Degree in IT, Engineering or related field</li>
+<li>Strong overall technical background</li>
+<li>2 to 5 years Salesforce.com Administration experience preferred</li>
+<li>Strong understanding of Salesforce.com best practices and functionality</li>
+<li>Excellent project management, business analysis, and organization skills</li>
+<li>Understanding of relational databases and database integrity tools</li>
+<li>Experience using data loader and de-duplication tools</li>
+<li>Proficiency in data manipulation (Excel, Access or other related data manipulation tools)</li>
+<li>Excellent written and oral communication skills as well as the ability to speak in front of large groups</li>
+<li>Ability to prioritize workload, gather and analyze detailed information, think logically and in a process oriented fashion</li>
+<li>Prior knowledge of the selling process and sales pipeline</li>
+<li>Knowledge of customer records management within Salesforce including data transformation/cleansing, house holding and relationship management techniques</li>
+<li>Strong research, troubleshooting, and creative problem-solving skills</li>
+<li>Ability to work independently, as well as part of a team on multiple projects</li>
+<br>
+</ul>
+<p></p>
+<br>
+<p></p>
+<p><b>Preferred Qualifications:</b></p>
+<br>
+<p></p>
+<ul>
+<li>Salesforce.com certifications: Salesforce Administrator Certification; Salesforce App Builder Certification</li>
+<li>Experience with Apex programming language, VisualForce development, and report writing software</li>
+<li>Salesforce administration experience in banking/lending environment</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Physical Requirements:</b></p>
+<p>
+The work environment is typical of a standard office setting. The position is sedentary, exerting 0 - 10 lbs. of force occasionally and/or a negligible amount of force frequently. It involves sitting most of the time but may also involve walking or standing for brief periods of time. Reaching may be required involving extending arms in any direction. Office equipment, such as a computer and telephone will be used requiring the use of hands and fingers to manipulate a keyboard or keypad. Visual ability to read a computer screen or written documents is necessary. Speaking ability to express or exchange ideas; impart oral information to customers or to the public; or convey detailed or important spoken instructions by means of the spoken word is required. Hearing is necessary to receive detailed information through oral communication.</p>
+</div>
+</div>

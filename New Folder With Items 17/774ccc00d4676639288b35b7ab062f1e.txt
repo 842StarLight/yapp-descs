@@ -1,0 +1,40 @@
+<h2>Manager, Indirect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>At KPMG, we are reimagining tax with you in mind. Become an integral part of a dynamic team within a collaborative, future forward environment at one of the world's top tax firms. Be surrounded by deep tax knowledge and equipped with the latest in cutting-edge tax technologies. And join an extensive network of functional, industry, legislative and technical specialists with access to our Ignition Centers, where technology innovation accelerates. We welcome people with a passion for tax, a spirit for new thinking, and a commitment to providing outstanding client service today, and tomorrow.</p>
+<p>
+KPMG is currently seeking a Manager to join our State and Local Tax (SALT) practice.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Review sales, use, and telecommunications tax data received on a monthly basis from KPMG compliance clients to determine if it is in the proper format for input into KPMG's mechanized tax processing systems</li>
+<li>
+Arrange the monthly data received into the proper tax location codes, tax types, tax categories, authority levels, taxpayer entities, and tax amounts</li>
+<li>
+Apply client specific business rules to the tax data received from tax compliance clients to modify the data for input into KPMG mechanized tax processing systems.</li>
+<li>
+Once the data is ready for input, process the data for the returns using one or more of KPMG's mechanized tax systems</li>
+<li>
+Identify, document, and recommend client technological business requirements for sales, use, and telecommunications tax compliance processes, and system improvements
+</li>
+<li>Design, test and troubleshoot indirect tax technology solutions developed using Microsoft Access, Excel or SQL Server</li>
+</ul>
+<p>
+Qualifications:</p>
+<ul>
+<li>
+Bachelor's degree in business, accounting, or a related field of study from an accredited college/university</li>
+<li>
+Licensed CPA, J.D., LL.M., MST (Master's in Taxation) or a Certified Member of the Institute for Professionals in Taxation (CMI) designation for non-CPA eligible candidates (Please note that any candidate hired by KPMG into this position that doesn't currently possess one of the aforementioned credentials/designations will be required to secure one within one year from the commencement of employment)</li>
+<li>
+Development knowledge using Visual Basic for Applications in Microsoft Access, and experience developing in .NET is preferred</li>
+<li>
+Proficiency in Microsoft Excel, Access, SQL Server, XML, PowerPoint, Project, Visio, or process mapping software and strong technical awareness and basic knowledge of global indirect tax issues</li>
+<li>
+Strong skills in indirect tax information systems, including strong project management skills and the ability to analyze client business needs</li>
+<li>
+Experience in reviewing and working with transaction tax data received from the billing systems of wire line/wireless telecommunications companies or cable/broadband companies, and a working knowledge of federal, state, and local telecommunications transaction taxes imposed in the United States</li>
+</ul>
+<p>
+KPMG LLP (the U.S. member firm of KPMG International) offers a comprehensive compensation and benefits package. KPMG is an affirmative action-equal opportunity employer. KPMG complies with all applicable federal, state and local laws regarding recruitment and hiring. All qualified applicants are considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other category protected by applicable federal, state or local laws. The attached link contains further information regarding the firm's compliance with federal, state and local recruitment and hiring laws. No phone calls or agencies please.</p>
+</div></div>

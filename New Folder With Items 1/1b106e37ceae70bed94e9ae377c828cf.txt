@@ -1,0 +1,133 @@
+<h2>Security Solution Architect (Mount Olive, NJ or Chicago, IL)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>A mutually rewarding experience.</p>
+<p></p>
+<br>
+<p>
+Work. Realize your ambitions. And realize there’s more to being in business than just making a profit. That’s the Mars philosophy. And the opportunity we offer every one of our Associates. An opportunity to take what you do and make it mean more for you, for those around you and for the planet. What you get here is challenging, interesting work. You get the tools you need to do a great job and you get to have the best possible people on your side to help you do it. And at the same time as getting to find ways to do business better today than we did it yesterday and driving a great career, you also get to build a more enlightened business and drive sustainability.</p>
+<p></p>
+<br>
+<p>
+Because it’s never just about a single person, a single project or a single brand. It’s about how you can grab everything that’s within your reach here and use it to pursue mutual, long-term gain. It’s about having ideas. And ideals. Being prepared to risk failure because the promise of success means we’ll all be a little better off. It’s that mix of integrity and ambition that makes Mars such a special place to work. And why working here is always about more than just a job.</p>
+<p></p>
+<br>
+<p><b>
+About Mars, Incorporated</b></p>
+<p>
+Mars is a family-owned business with more than a century of history making diverse products and offering services for people and the pets people love. With almost $35 billion in sales, the company is a global business that produces some of the world’s best-loved brands: M&amp;M’s®, SNICKERS®, TWIX®, MILKY WAY®, DOVE®, PEDIGREE®, ROYAL CANIN®, WHISKAS®, EXTRA®, ORBIT®, 5™, SKITTLES®, UNCLE BEN’S®, MARS DRINKS and COCOAVIA®. Mars also provides veterinary health services that include BANFIELD® Pet Hospitals, Blue Pearl®, VCA® and Pet Partners™. Headquartered in McLean, VA, Mars operates in more than 80 countries. The Mars Five Principles – Quality, Responsibility, Mutuality, Efficiency and Freedom – inspire its more than 100,000 Associates to create value for all its partners and deliver growth they are proud of every day.</p>
+<p></p>
+<br>
+<p>
+Job Purpose/Overview:</p>
+<p></p>
+<br>
+<p>
+The role will entail leading security solution architecture for one of the business segments globally. The Security Solution Architect will leverage Security Solution Architecture standards and frameworks to provide security guidance to the business partners and project teams from a specific business segment with goals of maturing and improving overall security posture of the segment and cultivating a segment-wide culture of security–awareness. The role also requires the Security Solution Architect to assess the security requirements for projects/ products, develop security architecture, develop detailed design, and providing support to help integrate security controls during solution deployment.</p>
+<p></p>
+<br>
+<p>
+Key Responsibilities:</p>
+<p></p>
+<br>
+<ul>
+<li>
+Partner with stakeholders from the business segment globally on all the projects and initiatives to apply security requirements for projects/ products, develop security architecture, develop detailed design, and providing support to help integrate security controls during solution deployment</li>
+<li>
+Educate the business and IT stakeholders of the business segment on the Security Solution Architectural frameworks/patterns, processes, standards and security guidelines related to systems, business or data architecture.</li>
+<li>
+Provide security review/ consulting for project teams or other stakeholders within the business segment to help Influence the overall architecture direction of IT systems and applications and ensure the confidentiality, integrity and availability of the information is protected.</li>
+<li>
+Design and lead the implementation of a solutions architecture across a group of specific business applications or technologies based on enterprise business strategy, business capabilities and business requirements</li>
+<li>
+Manage and develop the architecture for a broader scope of projects, working closely with product architects, platform architects and other solution architects that manage and design architecture for a single project or initiative</li>
+<li>
+Analyze the segment-IT environment (run, grow and transform the business) to detect critical deficiencies, and recommend solutions for improvement (systems of record, differentiation and innovation)</li>
+<li>
+Define the principles, guidelines, standards and solution patterns to ensure solution decisions are aligned with the enterprise's future-state architecture vision</li>
+<li>
+Design and direct the governance activities associated with ensuring solutions architecture assurance and compliance</li>
+</ul>
+<p></p>
+<br>
+<p>
+Context and Scope:</p>
+<p></p>
+<br>
+<ul>
+<li>
+Partner with internal stakeholders within digital technologies and Segment/Functional stakeholders on all assigned projects and initiatives</li>
+<li>
+May join other initiatives as a team member representing Security standards/frameworks/processes</li>
+<li>
+To perform the role, must have strong analytical skills and deep security subject matter expertise across platforms</li>
+<li>
+Exercise critical thinking in identifying external trends in information security threats and correlating to internal activity</li>
+<li>
+Hands-on experience in implementing security controls and agile, devops &amp; devsecops delivery methodologies</li>
+<li>
+Ability to work with minimal supervision</li>
+<li>
+Excellent communication skills and ability to work with business segment teams across all the regions to ensure fast and appropriate action is taken when a breach is identified</li>
+<li>
+Possess deep cyber security expertise to be credible to organization when making recommendations and driving change</li>
+<li>
+Experience across various security domains, which include:<ul>
+<li>
+Perimeter network security: firewall, IDS/ IPS, WAF, DDoS mitigation, etc</li>
+<li>
+Data security: encryption, key management, data masking, etc</li>
+<li>
+Identity &amp; Access Management: User authentication/ authorization, de-provisioning, access review, etc</li>
+<li>
+Privileged access management: password vaulting, session management, access review, etc</li>
+<li>
+Application &amp; Integration security: Secure SDLC, static/ dynamic testing, web service/ API security, etc</li>
+<li>
+Server and endpoint security: Anti-malware, Host IPS, Host Firewall, File Integrity Monitoring, etc</li>
+<li>
+Logging/ monitoring, SIEM integration and Incident Response</li>
+<li>
+Cloud, Mobile &amp; Digital security</li>
+<li>
+Industrial control security (ICS)</li>
+<li>
+Security for new and emerging technology areas such as AI, etc</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<br>
+<p>
+Job Specifications/Qualifications:</p>
+<p></p>
+<br>
+<p>
+ Education &amp; Professional Qualification</p>
+<ul>
+<li>
+University degree (engineering/IT/computer science) or equivalent work experience</li>
+<li>
+Certifications such as CISSP, CISSP-ISSAP, etc</li>
+</ul>
+<p></p>
+<br>
+<p>
+ Knowledge/Experience</p>
+<ul>
+<li>
+Minimum of 5+ years in several security functional areas</li>
+<li>
+Solid knowledge and understanding of securing all major operating systems</li>
+<li>
+Architecture development</li>
+<li>
+Information analysis and insight generation</li>
+</ul>
+<p></p>
+<br>
+<p>
+Mars is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. If you need assistance or an accommodation during the application process because of a disability, it is available upon request. The company is pleased to provide such assistance, and no applicant will be penalized as a result of such a request.</p>
+</div>
+<p></p>
+</div>

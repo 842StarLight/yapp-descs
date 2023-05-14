@@ -1,0 +1,137 @@
+<h2>Sr. Software Engineering Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><b>Senior Software Engineering Manager</b></div>
+<div></div>
+<br>
+<div>
+We’re on a mission. As a fast-growing software company on the cutting-edge of technology, Plex is revolutionizing global manufacturing in the same way cloud solutions have transformed sales, marketing, and human capital management. We want manufacturers to succeed. That’s why we’re on a mission to replace underperforming, on-premise enterprise resource planning (ERP) systems with the Plex Manufacturing Cloud – ERP built for today’s model of manufacturing. If you want to see the future of business, we’re what’s next.</div>
+<div></div>
+<br>
+<div>
+In support of our ongoing growth, we are looking for a Senior Software Engineering Manager<b> </b>to help lead the design and build of our next generation platform. There are new, disruptive forces in today’s manufacturing environment where we need to be ready to capitalize on opportunities. Integrating augmented/mixed reality, voice, IIOT and new levels of automation to name a few, while maintaining scale, stability and performance. Sound fun? It does to us too!</div>
+<div></div>
+<br>
+<div>
+<b>
+What do we need</b><b> </b><b>from you?</b>
+</div>
+<ul>
+<li>
+Proven people management, people development, and leadership skills</li>
+<li>
+Strong strategic thinking and planning experience focused on shipping enterprise great software</li>
+<li>
+Broad technology awareness including experience defining technical architectures and establishing best practices</li>
+<li>
+Passion for technology</li>
+<li>
+Track record of building positive and productive cross-group relationships</li>
+<li>
+Passion for customers and business partner satisfaction</li>
+<li>
+Passion for building high performance teams and attracting and retaining talent</li>
+<li>
+Ability to drive technical decisions, solve tough problems, and organize multiple concurrent projects</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+What do you need to know?</b></div>
+<ul>
+<li>
+Bachelors in Computer Science or related area or equivalent industry experience</li>
+<li>
+10+ years of professional development experience</li>
+<li>
+Demonstrated experience in architecting and deploying high volume, high transaction based, distributed and redundant web applications</li>
+<li>
+Demonstrated experience architecting on Cloud platforms</li>
+<li>
+Strong understanding of full stack modern technologies from UI layer to middleware and DB layer</li>
+<li>
+Strong understanding of modern distributed architecture and development frameworks for scalable and fast applications</li>
+<li>
+Expert knowledge of generally accepted software development lifecycle processes</li>
+<li>
+Extensive database design/data modeling experience</li>
+<li>
+Proven understanding of security concepts and best practices</li>
+<li>
+Willing to work hard to help build our growing company</li>
+<li>
+Sense of humor</li>
+</ul>
+<div></div>
+<br>
+<div>
+<b>
+Any</b><b> </b><b>other skills?</b>
+</div>
+<ul>
+<li>
+Deep understanding of design patterns, principles, and frameworks</li>
+<li>
+Extensive development experience in one or more of the following – C#/.NET, Python, Go, Java)</li>
+<li>
+Strong working knowledge of SQL and NoSQL persistence approaches</li>
+<li>
+Experience with continuous integration and continuous delivery</li>
+<li>
+Extensive experience with multiple API methodologies and application integrations</li>
+</ul>
+<div><b>
+Bonus Experience Points</b></div>
+<ul>
+<li>
+Certifications such as Certified ScrumMaster of equivalent experience with Agile methodologies</li>
+<li>
+Hands on experience with container and cluster technologies (e.g. Docker, RKt, Kubernetes, etc)</li>
+<li>
+Strong conceptual or hands on experience with service mesh implementations</li>
+<li>
+Experience with distributed storage and data systems (e.g. Cassandra, Memcached, Kafka, Redis)</li>
+<li>
+Experience in a manufacturing environment</li>
+</ul>
+<div></div>
+<br>
+<div>
+<b>
+Remote work with occasional travel</b><b> </b><b>available</b><b> </b><b>for the right candidate</b>
+</div>
+<div></div>
+<br>
+<div>
+We are proud to be recognized as one of the top workplaces in the tech industry. In fact, it’s Plex employees themselves who say our company is a great place to work. We’ve created an inviting workspace that fosters a culture of collaboration, innovation, and excitement. Some of the things our employees enjoy include:</div>
+<div></div>
+<br>
+<ul>
+<li>
+Competitive wages</li>
+<li>
+Generous benefits including Health, Dental, Vision, Life, Disability Insurance, &amp; 401(k) matching program</li>
+<li>
+Very generous PTO/paid holidays</li>
+<li>
+Tuition reimbursement</li>
+<li>
+Health club dues reimbursement</li>
+<li>
+Sustainable work-life balance and flexibility</li>
+<li>
+Our multiple locations offer a casual-dress workplace, complimentary food and drink, and “de-stress areas” complete with video games, ping pong tables, and more</li>
+</ul>
+<div></div>
+<br>
+<div>
+We’re looking for high-skilled, passionate people to help us do something daring, difficult, incredibly rewarding and fun. If you’re ready to be inspired, solve problems, grow professionally, and unleash your talent…then apply today. You’re what’s next.</div>
+<div></div>
+<br>
+<div><b>
+The Plex Manufacturing Cloud</b></div>
+<div>
+Plex Systems® delivers industry-leading ERP, MES, and Industrial IoT solutions to manufacturers across process and discrete industries. Plex pioneered cloud solutions for the production line, connecting suppliers, machines, people, systems, data, and customers with capabilities that are easy to configure, deliver continuous innovation, and reduce IT costs. With insight from the shop floor to the top floor, the Plex Manufacturing Cloud® helps companies see and understand every aspect of their business ecosystems, enabling them to transform their businesses and lead with precision, efficiency, and agility in an ever-changing market. Learn more at www.plex.com.</div>
+</div>
+<div></div>
+</div>

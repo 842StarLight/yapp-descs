@@ -1,0 +1,59 @@
+<h2>Systems Stress Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<h2 class="jobSectionHeader"><b>Job description</b></h2>
+<div>
+<p>We have a Stress Engineering opportunity to join our highly motivated and multi-functional team responsible for designing, developing, and testing pilot control systems, throttle control systems, actuators, and related flight control products for the next generation of business, regional, military and air-transport aircraft.</p>
+<p>
+Job Responsibilities<br>
+</p>
+<div><ul>
+<li>Develop high-fidelity FEA models of Actuation and Pilot Control product assemblies.</li>
+<li>Perform static, dynamic, and fatigue analyses using ANSYS Workbench or similar FEA tools (Nastran, Abaqus)</li>
+<li>Perform Rigid Body Dynamics analysis using ANSYS Workbench or similar tools (MSC Adams)</li>
+<li>Generate component/interface loads based on system level analysis using rigid body and flexible body system models.</li>
+<li>Perform component stress analysis of Actuation and Pilot Control assemblies and recommend design improvements based on the analysis results.</li>
+<li>Perform endurance and vibration fatigue (LCF and HCF) analyses on various components of pilot control and actuator assemblies.</li>
+<li>Support structural testing and perform test data (strain gage and accelerometer) correlation with analysis models.</li>
+<li>Prepare structural analysis reports and presentations in support of product design reviews (PDRs, CDR) and FAA/EASA/JAR certification.</li>
+</ul></div>
+<p></p>
+</div>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Job requirements</b></h2>
+<div>
+<p>Qualifications<br>
+</p>
+<div><ul>
+<li>Bachelor's degree in a Science, Technology, Engineering or Math (STEM) discipline</li>
+<li>US Citizenship or Permanent Residency, required</li>
+<li>0-4 years of Stress related engineering experience required</li>
+<li>Strong knowledge of stress analysis fundamentals, such as engineering mechanics, structural dynamics, and finite element method.</li>
+<li>Expertise performing hand calculations based on fundamental equations.</li>
+<li>Hands-on experience with ANSYS Workbench, ANSYS Classic, or other commercial FEA tools (Nastran, Abaqus) for structural analyses.</li>
+<li>Understanding of commercial regulations (FAR Part 23 and 25, and DO-160) as they relate to materials, product design, and analysis.</li>
+<li>System level certification testing and how it correlates to modeling and theory</li>
+<li>Industry standard practices for development and sizing of load carrying structures.</li>
+<li>The selected candidate must be motivated to learn at a fast pace, have strong written and verbal communication skills, and be able to work autonomously or in a highly interactive team environment.</li>
+</ul></div>
+<p></p>
+</div>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Specificity of the job</b></h2>
+<div>
+<p>Less than 10%</p>
+</div>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Company information</b></h2>
+<div>
+<p>Safran is an international high-technology group, operating in the aircraft propulsion and equipment, space and defense markets. Safran has a global presence, with more than 92,000 employees and sales of 21 billion euros in 2018. Working alone or in partnership, Safran holds world or European leadership positions in its core markets. Safran undertakes Research &amp; Development programs to meet fast-changing market requirements, with total R&amp;D expenditures of around 1.5 billion euros in 2018.</p>
+<p>
+Safran is ranked among the Top 100 Global Innovators by Thomson Reuters and is featured on the "Happy at work" rankings. The Group places fourth on the Universum ranking for the favorite companies of newly-qualified engineers in France.</p>
+<p>
+Safran Electronics &amp; Defense is a world leader in optronics, avionics, electronics and critical software for civil and defense applications. The company's products are deployed worldwide on more than 1,000 ships, 25,000 armored vehicles and 10,000 aircraft.</p>
+</div>
+</div>
+</div></div>

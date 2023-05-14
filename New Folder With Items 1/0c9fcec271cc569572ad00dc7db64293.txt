@@ -1,0 +1,88 @@
+<h2>Salesforce Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Who We Are:</b></p>
+<p>
+Jobvite is leading the next wave of talent acquisition innovation with a candidate-centric recruiting model that helps companies engage candidates with meaningful experiences at the right time, in the right way, from first look to first day. The Jobvite Platform infuses automation and intelligence into today’s expanded recruiting cycle to increase the speed, quality, and cost-effectiveness of talent acquisition.<br>
+<br>
+Focused exclusively on recruiting software since 2006 and headquartered in Silicon Valley, Jobvite serves thousands of customers including Ingram Micro, Schneider Electric, Premise Health, Zappos.com, and Blizzard Entertainment. Jobvite continues to empower companies to provide an even richer hiring experience with its recent acquisitions of Talemetry, RolePoint, and Canvas – enabling hiring teams to source, engage, hire, onboard, and retain top talent with one end-to-end platform.</p>
+<p>
+We have a cross collaborative environment with a company culture unlike any other. We offer a competitive salary, medical/dental benefits, PTO (including volunteer time off), paid holidays, gym &amp; cell phone perks. Join our team!</p>
+<p><b>
+What Will You Do:</b></p>
+<p>
+The Salesforce Administrator will play a lead role in managing Seamless Salesforce system configurations, activities, programming, and reporting in support of multiple business functions including Sales, Operations, Marketing, Finance, and Senior Leadership. The Salesforce Administrator will be integrally involved in supporting users across the US, and Canada.</p>
+<ul>
+<li>
+Provide day-to-day end-user support on Salesforce including system configuration and system maintenance</li>
+<li>
+Support users with reporting, analyses, and dashboards, from intake of requirements through development and delivery against the requests</li>
+<li>
+Assist users with proactive best practices to enhance and increase their knowledge of Salesforce</li>
+<li>
+Provide day-to-day production support to users who have questions and issues</li>
+<li>
+Maintain user roles and profiles, security settings, access settings etc. (User Profiles, Role Hierarchy, Sharing Rules and Security)</li>
+<li>
+Create and manage custom fields, formulas, validation rules, custom workflow, and approval processes</li>
+<li>
+Perform data integrity and manipulation tasks such as merging duplicate records and establishing proper ownership of existing accounts and contacts in accordance with sales territories</li>
+<li>
+Mass upload new data and amendments</li>
+<li>
+Help support integration and related process flows with Salesforce.com</li>
+<li>
+Develop, provide, and maintain custom reports</li>
+<li>
+Lead / Assist with user requirement sessions and document user requirements to address changing business needs.</li>
+</ul>
+<p><b>
+What Will You Bring:</b></p>
+<ul>
+<li>
+Bachelor’s Degree in a Technical Discipline or equivalent work experience</li>
+<li>
+2-4 years of Salesforce Administrator experience</li>
+<li>
+Strong knowledge and understanding of Salesforce application architecture, Governor’s limit, and development components such as Visual Force, SOQL, Apex Classes and Triggers, JQuery, APIs, Process Builder, Approval process, etc.</li>
+<li>
+Knowledge and experience working with Salesforce as a Developer</li>
+<li>
+Self-directed individual who is a self-starter and able to lead multiple projects simultaneously</li>
+<li>
+Team player</li>
+<li>
+Strong business process and analytical skills</li>
+<li>
+Focus on quality</li>
+<li>
+Dedication to customer needs, both internal and external</li>
+<li>
+Flexible and Agile</li>
+<li>
+Excellent time management skills</li>
+<li>
+Salesforce Administrator Certification preferred</li>
+<li>
+Documentation of business requirements for systems development and/or configuration preferred</li>
+</ul>
+<p><b>
+What Will You Get:</b></p>
+<ul>
+<li>
+Competitive salary</li>
+<li>
+Medical/Dental/Vision/Life Insurance benefits</li>
+<li>
+PTO – including Volunteer Time Off</li>
+<li>
+Paid Holidays</li>
+<li>
+An experience you will cherish forever</li>
+</ul>
+<p>
+Recruiting technology has always been about innovation — the promise of sourcing and hiring great talent. If, like us, you believe that hiring the best people is of the utmost importance, then you should expect technology with a laser focus on helping you find today's greatest candidates.</p>
+<p>
+Delivering on the promise of innovation moves Jobvite forward every day. Jobvite serves companies with the highest expectations of recruiting technology and candidate quality. Companies that value an easy-to-use applicant tracking system, social grown employee referrals, and positive candidate experiences choose Jobvite.</p>
+<p><b>
+Jobvite is an Equal Opportunity Employer.</b></p>
+</div></div>

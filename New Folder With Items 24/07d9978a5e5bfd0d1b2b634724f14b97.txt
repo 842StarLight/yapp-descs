@@ -1,0 +1,149 @@
+<h2>Senior Automation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b><i>Are you ready to grow your dream career while making others' vacation dreams come true? Marriott Vacations Worldwide is a world premier organization for Vacation Ownership with resorts at destinations around the globe. Join our team and help deliver unforgettable experiences that make vacation dreams come true.</i></b></p>
+<p>Position Summary</p>
+<p>As a member of the professional staff, contributes specialized knowledge and skill in a discipline (e.g. Accounting, Finance, Human Resources, Information Technology, Operations Planning &amp; Support, Sales &amp; Marketing) area to support team and/or department business objectives. Generally, works under limited supervision, but within established guidelines, producing and analyzing more complex business information to assist in the decision-making process.</p>
+<p>
+Specific Job Summary</p>
+<p>
+This role is responsible for evaluating and implementing orchestration, automation, and innovation within all enterprise infrastructure to ensure consistent processes and repetitive tasks are performed with a higher level of accuracy and reduced defects. Introducing new and impactful technologies to the enterprise tool chain that help minimize friction for new releases and support to quickly diagnose and recover from any incidents and push boundaries of digital transformation throughout the organization. The day to day operations include automating and innovating MVW's global organization, while serving as a subject matter expert in automation and its utilization in numerous initiatives while spanning various departments within the Enterprise Infrastructure realm.</p>
+<p>
+Expected Contributions</p>
+<p>
+§ Performs more complex quantitative and qualitative analysis for business processes and/or projects. Often manages small projects, business processes or parts of larger ones.</p>
+<p>
+§ Responds to, solves and makes decisions on more complex/non-routine business requests with limited to moderate risk.</p>
+<p>
+§ Responsible for own work and contributing to team, department and/or business results. May direct work of non-management staff.</p>
+<p>
+§ Assists more senior associates in achieving business results by:</p>
+<ul><li>identifying opportunities to enhance the effectiveness of business processes.</li></ul>
+<ul><li>providing training and technical guidance to less senior staff, where appropriate, and serving as point-of-contact for problem resolution.</li></ul>
+<ul><li>participating in setting department operating plans.</li></ul>
+<ul><li>recognizing and celebrating team successes.</li></ul>
+<ul><li>achieving results against budget within scope of responsibility.</li></ul>
+<p>
+§ Demonstrates an awareness of personal strengths and areas for improvement and acts independently to improve and increase skills and knowledge.</p>
+<p>
+§ Performs other duties as appropriate.</p>
+<br>
+<p></p>
+<p>
+Specific Expected Contributions</p>
+<p>
+§ Gathers requirements for new initiatives and projects in relation to automation and brings these requirements to via building activities, as requested.</p>
+<p>
+§ Successful candidate has technical depth and hands-on implementation experience of various practices of IT Automation.</p>
+<p>
+§ The candidate will assist on larger projects and or run smaller opportunities independently.</p>
+<p>
+§ Comfortable with rolling up your sleeves to design and code modules for infrastructure, application and processes.</p>
+<p>
+§ Familiar with REST and RESTful APIs.</p>
+<p>
+§ Project Estimation from inception to fruition.</p>
+<p>
+§ Ability to work independently, as well as part of a team with little oversight.</p>
+<p>
+§ Architect, install, manage/maintain automation tools and applications.</p>
+<p>
+§ Participate in an on-call rotation to support automation tools and processes.</p>
+<p>
+§ Create design specifications and documentation, as needed.</p>
+<p>
+§ Work as a technical leader alongside customer business, development and infrastructure teams.</p>
+<p>
+§ Leverage new technology paradigms (e.g., serverless, containers, microservices, cloud technologies)</p>
+<p>
+§ Drive and maintain a culture of quality, innovation and experimentation.</p>
+<p>
+§ Influence infrastructure architecture by sharing automation expertise.</p>
+<p>
+§ Experience working with automation tools and technologies, scaling the technology stacks and writing code, when required.</p>
+<p>
+§ Exposure to DevOps practices such as Infrastructure as Code, Continuous Integration and automated deployment.</p>
+<p>
+§ Continuous Integration tools (e.g. Jenkins, Bamboo)</p>
+<p>
+§ Configuration Management Platforms (e.g. Ansible, Chef, Puppet, or Salt.</p>
+<p>
+§ Exposure to automation at scale, orchestrating thousand(s) of systems at a time.</p>
+<p>
+§ Moderate exposure to development on Linux and or Windows-based systems.</p>
+<p>
+§ Experience working with scripting and or compiled languages, such as Python, Bash, GO, PowerShell, Ruby, etc.</p>
+<p>
+§ Desire to always be learning, as this role will require the candidate to always be up to date on the latest technologies and tools.</p>
+<p>
+§ Deep level of understanding in Linux and Windows based Operating Systems.</p>
+<p>
+§ Advise on implementing automation in as many use-cases as practical.</p>
+<p>
+§ Knowledge of version-controlled systems, such as Bitbucket, GitHub, Gitlab.</p>
+<p>
+§ Consults and provides guidance and options for the use of related technologies as required.</p>
+<p>
+§ Mentor to less experienced team members and willingness to strengthen the mentor-mentee relationship with other team members.</p>
+<p>
+§ Knowledge of Virtual System technology such as VMWare.</p>
+<p>
+§ Familiarity with Cloud technologies/providers, (e.g., AWS/GCP/Azure a plus)</p>
+<p>
+§ Enjoys automating daily tasks and solving complex problems or workflows.</p>
+<p>
+§ Understanding of Infrastructure as Code concepts and tooling. (e.g., Terraform, CloudFormation)</p>
+<p>
+§ Excellent troubleshooter, utilizing a systematic problem-solving approach</p>
+<p>
+§ Establishes good working relationships and excellent communications with other teams and employees.</p>
+<p>
+§ Work with Engineering leadership to build shared services that meet the requirements and need of the platform and application teams.</p>
+<p>
+§ Works with vendors to resolve issues as required.</p>
+<p>
+§ Strong oral and written communication skills, including presentation skills (MS Visio, MS PowerPoint).</p>
+<p>
+§ Strong verbal and written communication skills, with the ability to communicate core concepts.</p>
+<p>
+§ Completes tasks assigned and project work within scope, priority, timelines, and budget.</p>
+<p>
+§ Ability to work in a team that utilizes principles, which enable and empower the employee to act on behalf of the team and within the boundaries of clearly defined policies and objectives.</p>
+<br>
+<p></p>
+<p>
+Candidate Profile</p>
+<p>Successful candidates should possess knowledge and experience and demonstrate strong leadership and relationship skills as follows:</p>
+<p>
+Generally, a professional position with specific knowledge in a discipline (e.g., Accounting, Human Resources, Information Technology). College degree and/or relevant experience typically required.</p>
+<p>
+Specific Candidate Profile</p>
+<p>
+Education</p>
+<ul>
+<li>BA/BS preferred and or equivalent experience required.</li>
+</ul>
+<p>Experience</p>
+<ul>
+<li>7-10 years of experience in an IT administration, engineering, architect or similar role.</li>
+<li>5+ years of automation experience surrounding the incumbent's current or previous role(s).</li>
+</ul>
+<p>Skills/Attributes</p>
+<ul>
+<li>Advanced understanding of Operating Systems, Virtualization/Containerization concepts.</li>
+<li>Version Control System usage, preferably Git based.</li>
+<li>Programming and or Scripting using Python, GO, Ruby, Bash, PowerShell, or other functional language</li>
+<li>Ability to think outside the box to solve complex problems using automation.</li>
+<li>Familiarity with REST/RESTful APIs</li>
+<li>Usage of orchestration and or configuration management tools, custom written software, preferred.</li>
+<li>Experience automating large scale environments</li>
+<li>Ability to design and implement process automation using scripting tools and languages</li>
+<li>Experience with large enterprise applications, including deployment, maintenance, administration.</li>
+<li>Strong problem solving and troubleshooting skills with the ability to exercise mature judgement, under pressure.</li>
+<li>Willingness and ability to learn quickly, technical methods and technologies.</li>
+<li>High energy, clear goal orientation and strong work ethic; can do attitude; professional attitude.</li>
+</ul>
+<p>
+(Posting due to corporate restructure)</p>
+<p>
+Marriott Vacations Worldwide is an equal opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture.</p>
+</div></div>

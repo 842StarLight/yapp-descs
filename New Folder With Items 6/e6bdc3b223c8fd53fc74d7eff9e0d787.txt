@@ -1,0 +1,90 @@
+<h2>Site Reliability Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>In support of the Avalara SaaS suite of services the Senior Site Reliability Engineer is responsible for the security, reliability and efficiency of our production systems. The team is responsible for maintaining service up-time in 24 x 7 environments, meet client expectations of accessible data services, and analyze the data in support of Tier1 client support tickets when requested. The Senior Site Reliability Engineer will enhance monitors, troubleshoot Windows and Linux applications, create AWS infrastructure, write tools &amp; automation, and impact the design of the future platform architecture. Additionally, the Senior Site Reliability Engineer develops support plans for all applications and adheres to those plans to provide the necessary level of production SLAs.</p>
+<p>
+The Avalara product suite is a mix of Windows/SQL environments with a wide variety of additional open source applications present in a Linux environment. The role supports multiple projects and requires interactions and partnerships with teams and personnel from multiple business locations, skill sets, and backgrounds. As such, the position requires strong communication skills in addition to a solid foundation of technical skills, analytical abilities, and end-to-end troubleshooting techniques.</p>
+<p><b>
+Essential Operational Engineering Skills:</b></p>
+<ul>
+<li>
+Recommend application changes to improve application performance</li>
+<li>
+Work with Development to transition applications from one platform to another when called for by the business</li>
+<li>
+Cloud Services experience with AWS or Azure</li>
+<li>
+Experienced in troubleshooting applications running on a Windows .NET stack using IIS or experienced in the LAMP stack. You must have strong experience in one and a willingness to learn the other.</li>
+</ul>
+<p><b>
+ Other Duties:</b></p>
+<ul>
+<li>
+Provide technical escalation and share in the on-call rotation</li>
+<li>
+Work independently and as a team-player, as required for the project at hand</li>
+<li>
+Review existing processes and recommend changes or institute new processes as necessary, including the areas of monitoring, upgrades, and tuning, etc.</li>
+<li>
+Generate high-quality project documentation, such as architecture designs, implementation plans, design documents, test plans, etc.</li>
+<li>
+Participate in on-call 24/7 rotation.</li>
+</ul>
+<p><b>
+Technical Qualifications</b></p>
+<ul>
+<li>
+At least 5 years’ experience in a SAAS operating environment.</li>
+<li>
+Deep expertise in the mentality, processes, and tools needed to deliver five nines SLAs.</li>
+<li>
+Strong working knowledge of Windows or Linux and it’s underlying components, system statistics, performance tuning, file systems and io.</li>
+<li>
+Experience with either .NET or Linux in AWS.</li>
+<li>
+Solid scripting skills in Powershell, Python or Perl and a history of automating workloads</li>
+<li>
+Experience with production deployment, monitoring and operational support for enterprise class applications</li>
+<li>
+Experience in performance diagnostics, capacity planning, performance architecture design, performance tuning, performance monitoring</li>
+<li>
+Experience working with load balanced high-traffic solutions/services.</li>
+<li>
+Experience in SQL and database services</li>
+<li>
+BS in Computer Science or equivalent with 5-8 years of relevant work experience</li>
+<li>
+Good verbal and written communication skills</li>
+</ul>
+<p>
+Technologies you are likely to be working with: AWS, GitHub, Atlassian suite, Powershell, Python, Terraform &amp; HashiCorp suite, Jenkins, C#, Logentries, Cloudability, Solarwinds, RabbitMQ, SQL, Linux, Docker and containerization technologies etc.</p>
+<p><b>
+Preferred Qualification</b></p>
+<ul>
+<li>
+Can do attitude no problem is too big or too small.</li>
+<li>
+A desire to delight customers.</li>
+<li>
+A systematic problem solver, with the ability to think outside the box.</li>
+<li>
+Good data analysis skills to pick up trends before they become major problems.</li>
+<li>
+Previous experience as an enterprise class Site Reliability Engineer</li>
+<li>
+A strong mix of Software Engineer and Operation Support skills.</li>
+<li>
+Eager to learn new technologies and programming languages.</li>
+</ul>
+<p>
+(5659)<br>
+<br>
+About Avalara<br>
+<br>
+Avalara helps businesses of all sizes achieve compliance with transaction taxes, including sales and use, VAT, excise, communications, and other tax types. The company delivers comprehensive, automated, cloud-based solutions designed to be fast, accurate, and easy to use. The Avalara Compliance Cloud® platform helps customers manage complicated and burdensome tax compliance obligations imposed by state, local, and other taxing authorities throughout the world.<br>
+<br>
+Avalara offers more than 600 pre-built connectors into leading accounting, ERP, ecommerce and other business applications, making the integration of tax and compliance solutions easy for customers. Each year, the company processes billions of indirect tax transactions for customers and users, files more than a million tax returns, and manages millions of tax exemption certificates and other compliance documents.<br>
+<br>
+Headquartered in Seattle, Avalara has offices across the U.S. and overseas in the U.K., Belgium, Brazil, and India. More information at www.avalara.com<br>
+<br>
+Avalara is an Equal Opportunity Employer. All qualified candidates will receive consideration for employment without regard to race, color, creed, religion, age, gender, national orientation, disability, sexual orientation, US Veteran status, or any other factor protected by law.</p>
+</div></div>

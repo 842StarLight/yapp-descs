@@ -1,0 +1,31 @@
+<h2>Speech Recognition R&D Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About Rev
+<br>---------
+<br><br>
+Rev is an online marketplace for remote work consisting of an extensive network of 60,000+ professional freelancers (aka Revvers) that provide services to our 100,000+ customers around the world, including companies like Amazon, Google, Facebook, and more. Our mission is to create great work from home jobs, powered by AI.
+<br><br>
+Rev is at the forefront of disrupting the multi-billion dollar speech and language technology industry. Our offerings include audio transcription, video captions and subtitles, and document translation. What all of these jobs have in common is that the work can easily be done anywhere and software can facilitate them via marketplace methods, productivity improvements, and machine learning, and Rev has a game plan to change more of them in the years to come.
+<br><br>
+Founded by MIT engineers in 2010, Rev has raised capital from top-tier Silicon Valley VCs. We have 150+ employees (and growing) with offices in San Francisco and Austin. Sales are growing fast, and we reached profitability in 2017. We seek to hire people that are intelligent, humble, high achievers and are eager to advance their careers.
+<br><br>
+<b>Qualifications:</b><br>
+<ul>
+<li>University degree in Computer Science, Software Engineering, or related fields</li>
+<li>3+ years of experience developing ASR systems (training models and tuning existing systems)</li>
+<li>Fluency in Python, C++, shell scripting, and Linux usage.</li>
+<li>Broad mastery of speech recognition techniques such as WFSTs, lattice processing, neural net (RNN / DNN / LSTM), acoustic and language models, and Viterbi decoding.</li>
+<li>Experience with Deep Learning frameworks (such as TensorFlow or PyTorch).</li>
+<li>Excellent oral and written communication skills.</li>
+<li>Comfort working with remote teams as a proactive team member.</li>
+</ul>
+<b>Responsibilities:</b><br>
+As a Senior Speech Recognition R&amp;D Engineer, you will
+<br><br>
+<ul>
+<li>work with a team of engineers and researchers to find ways to improve and innovate on the existing ASR infrastructure.</li>
+<li>find ways to improve word accuracy, distinguish and leverage speaker characteristics, and dynamically model speech in different acoustic environments.</li>
+<li>provide input and suggestions towards innovating new approaches and new product features.</li>
+<li>automate and integrate workflow from diverse systems.</li>
+<li>Interact daily with other teams at Rev working towards a shared goal</li>
+</ul>
+</div>

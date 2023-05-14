@@ -1,0 +1,40 @@
+<h2>Senior Consultant – VMware on AWS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>3+ years hands-on, technical experience working with VMware</li>
+<li>5+ years of experience in a customer facing, consultative technical sales or professional services organization</li>
+<li>Bachelor’s degree in computer science, engineering or mathematics or equivalent experience</li>
+</ul>
+<br>
+<div>Do you have a passion for helping customers innovate and implement transformative cloud computing solutions? Do you have an ability for helping customers build their understanding of new cloud platforms and application architectures, and the consultative and leadership skills to launch and ramp a cloud project on a trajectory to success?<br>
+<br>
+Amazon Web Services (AWS) is looking for an experienced and motivated technical AWS and VMware expert to join the Security and Infrastructure- Enterprise Platform team. VMware Cloud on AWS is an integrated cloud offering jointly developed by AWS and VMware delivering a highly scalable, secure and innovative service that allows organizations to seamlessly migrate and extend their on-premises VMware vSphere-based environments to the AWS Cloud running on next-generation Amazon Elastic Compute Cloud (Amazon EC2) bare metal infrastructure.<br>
+<br>
+You will be part of global team of enterprise-focused security and infrastructure specialists architecting and building solutions for a broad range of customer use cases such as hybrid architectures, security, migration, and application modernization initiatives.<br>
+<br>
+The ideal candidate should have deep technical knowledge of and hands-on experience with VMware technologies such as ESXi, NSX, HCX, and vSAN, a strong understanding software architecture and cloud computing, and a solid understanding of AWS services such as Amazon EC2, VPC, and DirectConnect. In this role, you will need to be technically capable and credible with both AWS and VMware.<br>
+<br>
+Roles and Responsibilities<br>
+<br>
+<ul>
+<li>As a member of the Enterprise Platform Team, you will ensure success in helping customers accelerate their adoption of our specialized services and that of VMware Cloud on AWS</li>
+<li>Capture and share planning, implementation and optimization knowledge amongst the AWS Professional Services and AWS solutions architect communities</li>
+<li>Spearhead and manage the development of artifacts, data sheets, implementation patterns, and other high-value customer facing guidance and methodologies</li>
+<li>Act as a conduit and liaison between customers, field sales/account teams, and product teams at AWS</li>
+<li>Become a deep technical resource that earns the trust of customer executive stakeholders</li>
+</ul>
+This is a technical, hands-on customer facing role. Candidates must have the ability to earn the trust of AWS customers and partners at any level, from executive to developer. We're looking for builders to help us innovate the future of cloud computing.<br>
+<br>
+You will be required to travel to client locations to deliver professional services when needed.</div>
+<br>
+<ul>
+<li>Experience working with VMware and AWS technology</li>
+<li>An Advanced degree in computer science, engineering or mathematics or equivalent experience</li>
+<li>Experience working with customers in regulated industries that have requirements for working with one or more security and compliance regimes</li>
+<li>Demonstrated ability to think strategically about business, product, and technical challenges</li>
+<li>Strong verbal and written communications skills are a must,</li>
+<li>Experience working to collaborate effectively across internal and external organizations and virtual teams</li>
+<li>AWS Solutions Architecture Certification (Associate or Professional)</li>
+<li>VMware Certification (Associate or Professional)</li>
+</ul>
+</div>

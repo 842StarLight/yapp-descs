@@ -1,0 +1,50 @@
+<h2>Senior DevOps Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>The job </b></p>
+<p>Pointillist is seeing a <b>Senior DevOps Engineer</b> to helpmanage an AWS production environment and engage in projects to add to andimprove automation, monitoring, infrastructure design, and security. Pointillistis a rapidly growing, industry-leading provider of an innovative SaaS customerjourney analytics platform. Employing cutting-edge artificial intelligence andmachine learning technology, Pointillist enables the world’s leading CustomerExperience teams to connect the dots between customer interactions and businessoutcomes across channels, programs, and time. We make it easy for organizationsto discover and optimize the experiences that matter to their customers andtheir company.</p>
+<p><b>You get to . . .</b></p>
+<ul>
+<li>Design, deploy, and maintain the infrastructure in the AWScloud and participate in regular software releases</li>
+<li>Identify and execute on opportunities for increased andimproved automation, monitoring, and improved security</li>
+<li>Code tools based on business needs</li>
+<li>Contribute to the growing body of DevOps documentation and participatein on-call rotation</li>
+<li>Collaborate and coordinate with colleagues across teams</li>
+<li>Contribute to developing processes that improve DevOpsefficiency and reliability</li>
+</ul>
+<p><b>You have . . .</b></p>
+<ul>
+<li>Bachelors degree</li>
+<li>4+ years of DevOps, operations, or relevant experience in aproduction environment is required</li>
+<li>2+ years with automation and configuration management toolsis required and Chef and RunDeck are a plus</li>
+<li>2+ experience with monitoring tools and frameworks arerequired and Prometheus and ELK elastalert are a plus</li>
+<li>2+ years working with cloud technology is required and AWSexperience is a plus</li>
+<li>Experience setting up security controls is required andexperience with compliance certification is a plus</li>
+</ul>
+<p><b>Others describe you as . . .</b></p>
+<ul>
+<li>Very detail oriented and analytical</li>
+<li>Someone who enjoys problem solving and puzzles</li>
+<li>Enjoying a fast paced, iterative, and evolving environment</li>
+</ul>
+<p><b>The Company</b></p>
+<p>Pointillist is located in Boston’s vibrant Seaport district, juststeps away from South Station. Founded in 2014, Pointillist is rapidly growingby enabling companies like Comcast, Gamestop and Nissan to quantify and improvecustomer experience. Pointillist has already been recognized as an industryleader by Forrester, the Edison Awards, the Stevie Awards, Customer Magazine,and Best in Biz. Take your career to the next level by joining our world-classteam, which includes leaders in data science, artificial intelligence, machinelearning, customer success, sales and marketing.</p>
+<p>Job Type: Full-time</p>
+<p>Additional Compensation:</p>
+<ul>
+<li>Bonuses</li>
+<li>Other forms</li>
+</ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Flexible schedule</li>
+</ul>
+<p>Schedule::</p>
+<ul><li>Monday to Friday</li></ul>
+</div>

@@ -1,0 +1,51 @@
+<h2>Product Support Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>The Product Support Developer role supports our client teams through providing technical solution review, configuration guidance, new feature rollout and defect resolution. This individual will be responsible for collaborating with the Product Support Manager and Practice Governance teams to provide the right level support to our client teams. They are responsible for supporting and ensuring our client teams have the right guidance in their implementation of product features and functions.<p></p>
+<div>
+<br>
+<b>Note that visa employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity.</b>
+</div>
+<div><b>The Role</b></div>
+<ul>
+<li>Collaborates with the Health and Pension Practice Governance teams to understand how to proactively provide the required support to client teams through product or process enhancements, documentation, training, etc.
+</li>
+<li>Collaborates with Sales &amp; Marketing teams to implement, maintain and deliver Demo environments used to support current and prospective clients.
+</li>
+<li>Collaborates with Development teams on the design and development of new product features from project inception to rollout.</li>
+<li>Responsible for development and maintenance of starter kit databases.</li>
+<li>Provide input on opportunities to improve product documentation and training that will better enable TAS colleagues to successfully deliver BenefitConnect functionality to our clients.</li>
+</ul>
+<div>The Product Support team will be responsible for, but not limited to:</div>
+<ul>
+<li>Providing implementation configuration and code guidance to client teams</li>
+<li>Reviewing and providing input on client specific solutions</li>
+<li>Vetting, validating and managing reported core defects</li>
+<li>Participating in all new feature pilot and rollout programs</li>
+<li>Identifying process efficiencies</li>
+<li>Managing demo environments including data maintenance and new feature implementation</li>
+</ul>
+<p></p>
+<p></p>
+<p><b>The Requirements</b></p>
+<ul>
+<li>2 – 5 years development experience in MS SQL Server / Transact-SQL, Microsoft .Net, C#, and either ASP.Net or MVC.</li>
+<li>Would prefer that candidates have experience in Visual Studio, Team Foundation Server, JavaScript and jQuery. Relevant client-server development experience is also preferred.</li>
+<li>Substantial experience leading projects involving the application of technology to solve human resource needs such as: Health &amp; Welfare administration, Defined benefit administration, HR self-service, HR systems integration, HR shared services or HRIS/payroll; prior experience managing or working within a product development or software support team is desired</li>
+<li>Proven experience in delivering Benefit Administration to clients.</li>
+<li>Solid experience in the fundamentals of software deployment best practices, quality assurance protocols, challenges and methodology regarding solution implementation and technical documentation and training</li>
+<li>Proven experience in successfully contributing to project teams with multifaceted, competing priorities and deadlines, including virtual work teams with members in different geographic regions</li>
+<li>Attention to detail and follow-through</li>
+<li>Ability to multi-task in the midst of tight deadlines</li>
+<li>Demonstrates commitment to quality and continuous improvement</li>
+<li>Must be excellent communicator, able to gain the respect of the team, external stakeholders, and management</li>
+<li>Strong written and verbal communication, time management, and project organization skills.</li>
+<li>Strong analytical skills and ability to solve difficult problems in a complex environment</li>
+<li>Experience with Agile development processes a plus</li>
+<li>Bachelor’s degree or equivalent, Master’s degree a plus</li>
+<li>Ability to travel and work extended hours as needed</li>
+</ul>
+<p></p>
+<p><b>EOE, including disability/vets</b></p>
+</div>
+<p></p>
+</div>

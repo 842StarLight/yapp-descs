@@ -1,0 +1,47 @@
+<h2>Technical Support Engineer – Mountain View, CA</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><p>We are looking for a Technical Support Engineer III/IV to join our Customer Support team in our Mountain View, CA office.
+</p></div>
+<p>As a member of the Redis Labs Global Customer Support team, you will be responsible for providing dependable and timely resolution for complex software issues related to Redis Enterprise products. As a technical expert, you are expected to act as a point of contact for challenging support cases. You will need to become an expert for Redis Labs products and ensure the quality of service and SLA compliance.</p>
+<p>
+Our ideal candidate has great interpersonal skills, as the role requires you to maintain close relationships with customers, fellow team members, DevOps teams, R&amp;D teams, and product teams.
+</p>
+<p>If you are excited to serve as the subject matter expert to a growing customer base, while continuing to grow and expand your knowledge, then this is the right challenge for you.<br>
+</p>
+<p></p>
+<h4 class="jobSectionHeader"><b>Responsibilities</b></h4>
+<ul>
+<li>Work with global customers to troubleshoot and resolve complex software issues, replicating customer environments and network problems as needed.
+</li>
+<li>Provide technical expertise and apply advanced platform knowledge during testing and deployment of Redis Labs software.</li>
+<li>Manage critical customer issues and facilitate communication between customers, Sales, and Engineering.</li>
+<li>Research and solve complex issues impacting our customer’s utilization of our products.</li>
+<li>Participate in new product development, customer training, and other support-related activities.</li>
+<li>Document issues and collaborate with Engineering (if needed) to provide solutions.</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Requirements</b></h4>
+<ul>
+<li>B.Sc. in Computer Science or Information Systems</li>
+<li>3+ years in high-level technical support or customer success within a software environment</li>
+<li>Advanced to expert level knowledge of technologies such as Linux/Unix, TCP/IP, DNS, TLS and Clustering</li>
+<li>Experience with programming skills such as Java, C/C++, Python
+</li>
+<li>Strong technical background with excellent problem solving and multitasking skills</li>
+<li>Proficiency in communication and presentation, both written and verbal (in English)</li>
+<li>High availability and commitment to customers at any time</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Advantages</b></h4>
+<ul>
+<li>Experience with NoSQL databases (especially Redis)</li>
+<li>Prior experience handling with cloud computing such as AWS</li>
+</ul>
+<p>We have been named “Best Places to Work in the Bay Area” and ranked the fastest growing Enterprise Software company in Silicon Valley. We offer a competitive compensation package; an employee stock program; medical, dental and vision coverage; unlimited PTO, 401K and more. For more info: https://redislabs.com/<br>
+</p>
+<p></p>
+<p>As an equal opportunity employer, Redis Labs Inc. is committed to a diverse workforce. Employment decisions regarding recruitment and selection will be made without discrimination based on race, color, religion, national origin, gender, age, sexual orientation, physical or mental disability, genetic information or characteristic, gender identity and expression, veteran status, or other non-job related characteristics or other prohibited grounds specified in applicable federal, state and local laws. It is also our policy to comply with all applicable federal, state and local laws respecting consideration of unemployment status in making hiring decisions. For more information about equal employment opportunity protections, please view the ‘EEO is the Law’ poster.</p>
+<p>
+To ensure reasonable accommodation are provided to individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veterans’ Readjustment Act of 1974, and Title I of the Americans with Disabilities Act of 1990, applicants who require accommodation in the job application process may contact redislabs.careers@applynow.io or (415)930-9666 for assistance.</p>
+</div>
+<p></p>
+</div>

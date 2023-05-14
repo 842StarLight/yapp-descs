@@ -1,0 +1,55 @@
+<h2>Marketing Operations Sr. Coordinator, Marketing Channel Solutions</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Cartera – A Rakuten Company, is the leading shopping solution for brand loyalty programs. We make shopping more rewarding by empowering businesses, including major airlines and top banks, to extend their brands and by helping members earn rewards when shopping with over 1,000 popular stores.<br>
+<br>
+We are seeking a driven, enthusiastic individual to join us as a member of Cartera’s Marketing Channel Solutions team. The Marketing Operations Sr. Coordinator’s key responsibilities will be to update HTML and other code for marketing communications (such as AMPscript and GTL), use an automation platform to schedule events like data queries, and assist with operations for the entire marketing organization. The Marketing Operations Sr. Coordinator will be part of a fast-paced and dynamic digital marketing team, whose work will improve the entire team’s functionality as well as the improve the effectiveness of marketing campaigns. You will be joining Cartera at a time when we are growing rapidly, adding new digital products and clients.<br>
+<br>
+<b>Responsibilities include:</b><br>
+<ul>
+<li>Update email, SMS and other code for marketing communications in response to client requests, marketing campaigns, and product enhancements
+<ul>
+<li>Support the creation of new templates as well as updating existing template code</li>
+<li>Add code to Salesforce Marketing Cloud (formerly ExactTarget) platform</li>
+<li>Code emails in HTML using Adobe Dreamweaver or text editor</li>
+<li>Deliver on personalization requirements using AMPscript and Guide Template Language (GTL)</li>
+<li>Follow a release process to ensure updates are reviewed and approved</li>
+</ul>
+</li>
+<li>Run data queries to build marketing lists and provide data for personalization in campaigns
+<ul>
+<li>Be a subject matter expert on the organization's data structure</li>
+<li>Work directly with data engineers and analytics personnel</li>
+<li>Create and edit simple SQL queries</li>
+<li>Investigate data issues, isolating records and cleaning data for marketing use</li>
+<li>Create test lists for marketing email programmers to use in development work</li>
+</ul>
+</li>
+<li>Create and edit workflow procedures for marketing operations across multiple departments
+<ul>
+<li>Project management using Workfront and Jira platforms</li>
+<li>Able to work across multiple departments: creative, marketing strategy, analytics, and data and software engineers</li>
+<li>Create and edit custom forms for capturing campaign information</li>
+<li>Provide project tracking and analytics data support</li>
+<li>Monitor ongoing campaigns to catch bugs and diagnose problems</li>
+<br>
+</ul>
+</li>
+</ul>
+<br>
+<br>
+<b>Required Skills and Experience</b><br>
+<ul>
+<li>3+ years of experience on digital marketing teams</li>
+<li>Knowledge of HTML and CSS. Responsive design coding experience a plus</li>
+<li>Knowledge of relational database structure. SQL experience a plus</li>
+<li>Experience writing or editing code in at least one language (other than HTML). AMPscript or Guide Template Language a plus</li>
+<li>Experience working across marketing departments and organizing marketing projects. Workfront experience a plus</li>
+<li>Experience working on multi-channel campaigns across mobile devices</li>
+<li>Outstanding organizational skills and ability to multi-task</li>
+<li>Strong communication skills and ability to work in a team environment</li>
+<li>College degree, certification or relevant work experience required</li>
+<li>Experience with Salesforce Marketing Cloud (formerly ExactTarget), Evergage, Optimizely or similar personalization tools preferred</li>
+</ul>
+<br>
+At <b>Cartera Commerce – A Rakuten Company,</b> our employees are our most valuable assets – they are Cartera. We want you to succeed and go far here. Our dynamic environment lets you be you, while still collaborating toward team success. We want fun, proactive, high-energy individuals to join us in making people happy. Cartera Commerce offers competitive compensation packages including stock options, medical and dental insurance, matching 401(k), company-paid holidays, and five weeks of paid time off per year.<br>
+<br>
+At Cartera Commerce everyone is empowered and responsible for innovating, building, and producing.</div></div>

@@ -1,0 +1,52 @@
+<h2>Cybersecurity - Incident & Breach Management Director</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>A career in our Incident and Crisis Management practice, within Cybersecurity and Privacy services, will provide you with the opportunity to help our clients implement an effective cybersecurity programme that protects against threats, propels transformation, and drives growth. As companies pivot toward a digital business model, exponentially more data is generated and shared among organisations, partners and customers. You’ll play an integral role in helping our clients ensure they are protected by developing transformation strategies focused on security, efficiently integrate and manage new or existing technology systems to deliver continuous operational improvements and increase their cybersecurity investment, and detect, respond, and remediate threats. Our team helps organisations manage their controls over access to critical systems and assets during a crisis or an active cyber threat. As part of the team, you’ll help us develop controls to stay ahead of a crisis, but also help us maintain security and information risk by responding and remediating any current or future cyber threats.</p>
+<br>
+<div>
+To really stand out and make us ?t for the future in a constantly changing world, each and every one of us at PwC needs to be an authentic and inclusive leader, at all grades/levels and in all lines of service. To help us achieve this we have the PwC Professional; our global leadership development framework. It gives us a single set of expectations across our lines, geographies and career paths, and provides transparency on the skills we need as individuals to be successful and progress in our careers, now and in the future.<br>
+<br>
+As a Director, you’ll work as part of a team of problem solvers, helping to solve complex business issues from strategy to execution. PwC Professional skills and responsibilities for this management level include but are not limited to:<br>
+<br>
+<ul>
+<li>Arrange appropriate assignments and experiences to support others’ learning and development.</li>
+<li>Seek out different ways to use current and relevant technological advances.</li>
+</ul>
+- Analyse marketplace trends - economical, social, cultural, technological - to identify opportunities and create value propositions.<br>
+<ul>
+<li>Deploy methods to keep up with, and stay ahead of, new developments and ideas.</li>
+<li>Offer a global perspective in stakeholder discussions and when shaping solutions/recommendations.</li>
+<li>Drive and take ownership for developing networks that help deliver what is best for stakeholders.</li>
+<li>Proactively manage stakeholders to create positive outcomes for all parties.</li>
+<li>Uphold the firm’s code of ethics and business conduct.</li>
+</ul>
+</div>
+<br>
+<div><div><div><div>
+<b>
+Job Requirements and Preferences</b>:<br>
+<br>
+<b>Basic Qualifications</b>:<br>
+<br>
+<b>Minimum Degree Required</b>:<br>
+Bachelor Degree<br>
+<br>
+<b>Required Fields of Study</b>:<br>
+Computer and Information Science, Computer Applications, Management Information Systems, Computer Engineering, Forensic Science<br>
+<br>
+<b>Minimum Years of Experience</b>:<br>
+10 year(s)<br>
+<br>
+<b>Preferred Qualifications</b>:<br>
+<br>
+<b>Degree Preferred</b>:<br>
+Master Degree<br>
+<br>
+<b>Certification(s) Preferred</b>:<br>
+Any of the following: GIAC including GCFA, GCFE, GREM, GNFA, GCCC, and/or GCIA.<br>
+<br>
+<b>Preferred Knowledge/Skills</b>:<br>
+Demonstrates thought leader-level knowledge with, and/or a proven record of success directing efforts in the following areas: - Apply incident handling processes-including preparation, identification, containment, eradication, and recovery-to protect enterprise environments; - Analyze the structure of common attack techniques in order to evaluate an attacker's spread through a system and network, anticipating and thwarting further attacker activity; - Utilize tools and evidence to determine the kind of malware used in an attack, including rootkits, backdoors, and Trojan horses, choosing appropriate defenses and response tactics for each; - Analyze a security architecture for deficiencies; - Derive Indicators of Compromise (IOCs) from malicious executables to strengthen incident response and threat intelligence efforts; - Conduct in-depth forensic analysis of Windows operating systems and media exploitation focusing on Windows 7, Windows 8/8.1, Windows 10, and Windows Server 2008/2012/2016; - Conduct in-depth forensic analysis of *Nix operating systems and media exploitation focusing on CentOS, RHEL, Solaris, AIX, HPUX, and Ubuntu/Debian; - Identify artifact and evidence locations to answer critical questions, including application execution, file access, data theft, external device usage, cloud services, anti-forensics, and detailed system usage; - Hunt and respond to advanced adversaries such as nation-state actors, organized crime, and hacktivists; - Examine traffic using common network protocols to identify patterns of activity or specific actions that warrant further investigation; - Detect and hunt unknown live, dormant, and custom malware in memory across multiple Windows systems in an enterprise environment; - Identify and track malware beaconing outbound to its command and control (C2) channel via memory forensics, registry analysis, and network connections; - Target advanced adversary anti-forensics techniques like hidden and time-stomped malware, along with utility-ware used to move in the network and maintain an attacker's presence; and, - Use memory analysis, incident response, and threat hunting tools to detect hidden processes, malware, attacker command lines, rootkits, network connections, and more.<br>
+<br>
+Demonstrates thought leader-level abilities with, and/or a proven record of success directing efforts in the following areas: - Utilize Network Analysis, Memory Analysis, Endpoint Analysis, Cyber Incident Lifecycle, NIST 800-61; - Identify and address client needs by building solid relationships with clients, developing an awareness of firm services, communicating with the client in an organized and knowledgeable manner, delivering clear requests for information, demonstrating flexibility in prioritizing and completing tasks, and communicating potential conflicts; - Direct the identification and addressing of client needs by building, maintaining, and utilizing networks of client relationships and community involvement, communicating value propositions, managing resource requirements, project workflow, budgets, margins, billing and collection; - Lead and supervise teams to create an atmosphere of trust and seek diverse views to encourage improvement and innovation, answer questions and provide direction to less-experienced staff, coach staff including providing timely meaningful written and verbal feedback; and, - Provide opportunities to contribute to practice development through the development of new collateral and thought leadership pieces, as well as participation in sales and driving revenue.</div></div></div></div>
+<br>
+All qualified applicants will receive consideration for employment at PwC without regard to race; creed; color; religion; national origin; sex; age; disability; sexual orientation; gender identity or expression; genetic predisposition or carrier status; veteran, marital, or citizenship status; or any other status protected by law. PwC is proud to be an affirmative action and equal opportunity employer.</div></div>

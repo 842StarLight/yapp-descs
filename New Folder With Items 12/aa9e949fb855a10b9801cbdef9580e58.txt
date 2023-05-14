@@ -1,0 +1,62 @@
+<h2>QA Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Software Quality Engineer</b></p>
+<br>
+<p></p>
+<p>Centerfield develops intelligent Big Data driven marketing and sales technology utilizing real time biddable media (RTB), automated call routing and customized scripting. Our proprietary platform, Dugout, combined with our 1500 person sales and retention center delivers new customers at scale to many of the leading brands worldwide.</p>
+<br>
+<p></p>
+<p><b>Job Description</b></p>
+<p>Centerfield Media is looking to fill a Software Quality Engineer position on their technology team to collaborate with project owners, developers and other stake holders to ensure systems and documents are developed according to Software Development Life Cycle (SDLC) requirements. The SQE will plan testing execution projects, create Test Plans, create Automated Test Cases, execute Test Cases and review other Test Plans for accuracy.</p>
+<br>
+<p></p>
+<p><b>Responsibilities</b></p>
+<ul>
+<li>Works with the product owners to aggregate business requirements.</li>
+<li>Documents and builds Functional Test Plans which encompass the business requirements specific to each application.</li>
+<li>Organizes and records detailed test results; provides reports of results and project status.</li>
+<li>Works with project teams through the design and test stages to ensure strict adherence to business requirements.</li>
+<li>Logs detailed and accurate defect reports and follows the defects through to resolution and closure.</li>
+<li>Works within Engineering to improve the quality of project documents and systems documentation.</li>
+<li>Assists in the identification and design of automated processes to increase testing efficiency and reliability.</li>
+<li>Writes code which is readable, scalable, &amp; flexible to automatically test various different application types such as web &amp; API.</li>
+<li>Monitors and reviews other team members' Test Procedures (TPs).</li>
+<li>Serves as a resource to the team in the resolution of complex business or technical issues.</li>
+<li>Ensures adherence to Information Technology project management methodologies; plans testing execution projects and provides labor and resource estimates that meet Quality Assurance Service Level Agreements (SLAs); adheres to SDLC processes and procedures.</li>
+<br>
+</ul>
+<p></p>
+<p><b>Requirements</b></p>
+<ul>
+<li>Minimum of 1 to 2 years’ experience with software quality assurance required. Experience must include:</li>
+<li>Business requirements analysis</li>
+<li>Test case identification</li>
+<li>Test plan creation, prioritization and execution</li>
+<li>Tracking of defects and reporting of results</li>
+<li>Strong experience with coding (i.e. C#, Python, Java) automated test cases for web &amp; API with various automation tools and frameworks</li>
+<li>Experience executing automated scripts</li>
+<li>Experience creating performance tests with tools such as Jmeter</li>
+<li>Experience working with Oracle or SQL databases</li>
+<li>Understanding of all phases of SDLC</li>
+<li>Experience working in an Agile/SCRUM environment</li>
+<li>Excellent communication skills</li>
+<li>Excellent interpersonal communication and management skills</li>
+<li>Demonstrated problem solving skills and troubleshooting</li>
+<br>
+</ul>
+<p></p>
+<p><b>Why Centerfield?</b></p>
+<ul>
+<li>Competitive salary, and profit sharing bonus</li>
+<li>401K match – Fully Vested Day 1</li>
+<li>Take a break when you need it – unlimited PTO</li>
+<li>Award winning culture &amp; unprecedented team spirit</li>
+<li>Fully stocked break rooms with drinks, snacks</li>
+<li>Paid volunteer days</li>
+<li>Monthly team games/competitions/catered lunches</li>
+<li>Team outings (Ball games, BBQ’s, Parties, etc.)</li>
+</ul>
+</div>
+<p></p>
+</div>

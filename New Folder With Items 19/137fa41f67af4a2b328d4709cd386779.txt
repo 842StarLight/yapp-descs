@@ -1,0 +1,127 @@
+<h2>Senior Engineer, Service Delivery</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Senior Engineer, Service Delivery</b></p>
+<p><b>
+Denver, Colorado, US</b></p>
+<p><b>
+Competitive Compensation</b></p>
+<p></p>
+<p>
+The Dell EMC Professional Services delivery teams are experts in installing and deploying end-to-end Hyper-Converged Infrastructure (HCI) and Converged Infrastructure (CI) solutions for our customers. After thorough consultation and careful planning with our clients, we implement HCI solutions such as VxRail and VxRack Flex and our VxBlock CI systems. Dell EMC professional services helps to support our customers’ strategic, operational and financial goals with great success. The Senior Engineer, Service Delivery represents the company to our clients and helps to ensure both successful project delivery and customer satisfaction.</p>
+<p></p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Develops strategies, policies and best practices for the customer using established Dell EMC standards and procedures</li>
+<li>
+Develops and cultivates strong customer relationships ensuring a 'customer for life' relationship</li>
+<li>
+Holds responsibility for achieving the Dell EMC Bar of Excellence as the highest level of Customer Satisfaction for every customer</li>
+<li>
+Expected to have strong customer-facing skills including negotiation, conflict resolution, and crisis management</li>
+<li>
+Adheres to and utilizes proper Escalation and Change Control procedures</li>
+<li>
+Prepares, maintains and submits activity/progress reports and time recording/management reports in accordance with published procedures</li>
+<li>
+Stays current on technical specifications for hardware/software requirements of Dell EMC and industry products through professional certifications and associations, trade journals, networking and associated training and seminars</li>
+<li>
+Responsible for sharing information and best practices with others</li>
+<li>
+May be required to support and instruct less experienced co-workers, through classroom training sessions or on-the-job mentoring</li>
+<li>
+Provides technical leadership during the implementation of an engagement</li>
+<li>
+Participates in the installation, customization, and integration of a Dell EMC solution</li>
+<li>
+Maintains awareness of existing or potential customer software/hardware situations</li>
+<li>
+Proactively alerts project management and sales team of potential problems and solutions</li>
+<li>
+Design, customize, and integrate Dell EMC solution, map the solution to technical requirements, and support the deployment of the solution based on the content defined in the Statement of Work</li>
+<li>
+Prepares technical architectural and implementation design documents and works with the Project Manager to develop the implementation plan</li>
+<li>
+Works closely with the Project Manager to define project deliverables and schedules</li>
+<li>
+Helps to identify and leverage EMC and Partner Resources in order to satisfy the technical needs and objectives of the implementation</li>
+<li>
+May act as lead technical expert in the pre-sales qualification and is responsible for the delivery of the technical architectural design, strategies and plans that will be delivered in the engagement</li>
+<li>
+May lead project quality assurance activities, including performing technical QA reviews on components for a team and performing QA reviews of code documentation</li>
+<li>
+May supervise staff on project engagements in large projects where many technical people may be involved</li>
+<li>
+Provide knowledge transfer training to end customer after product implementation</li>
+</ul>
+<p></p>
+<p><b>
+Desirable Soft Essential Requirements:</b></p>
+<ul>
+<li>
+Excellent interpersonal communication and customer service skills’ including negotiation, conflict resolution, and crisis management, are needed in order to work successfully with customers in high stress and/or ambiguous situations</li>
+<li>
+Strong aptitude for learning new technologies and understanding how to utilize them in a customer-facing environment</li>
+<li>
+Ability to follow standard engineering and delivery principles and practices</li>
+<li>
+Creative approach to problem solving</li>
+<li>
+To be successful in this role, you must be a motivated self-starter and self-learner, possess strong customer service and technical problem solving skills; and be someone who embraces challenges</li>
+<li>
+Provides guidance, leadership, technical consultation and training to less experienced team members</li>
+<li>
+Strong ability needed to work both with internal and external teams and independently</li>
+<li>
+Ability to “own” projects and assignments and work on them as needed until customers are satisfied</li>
+</ul>
+<p></p>
+<p><b>
+Desirable Technical Requirements:</b></p>
+<ul>
+<li>
+Strong background with entire VMware vSphere suite (vSphere 6.0 and 6.5 certifications are a plus)</li>
+<li>
+Experience with VMware stretched clusters</li>
+<li>
+Experience with VMware orchestration</li>
+<li>
+Software Defined networking such as NSX</li>
+<li>
+VMware VSAN</li>
+<li>
+ScaleIO</li>
+<li>
+Understanding of Layer 2 networking and file serving protocol experience: TCP/IP, NFS, SMB, HTTP, FTP</li>
+<li>
+Experience with DNS, NTP, LDAP, Active directory and other network services</li>
+<li>
+Experience with VxRail deployment and administration</li>
+<li>
+Experience with VxRack Flex deployment and administration</li>
+<li>
+Experience with VxBlock deployment and administration</li>
+<li>
+V2V and P2V migration experience desired</li>
+<li>
+Microsoft Server and Red Hat Linux experience</li>
+<li>
+Some general experience with Dell EMC storage systems and SAN switches</li>
+</ul>
+<p></p>
+<p><b>
+Education and Experience</b></p>
+<ul><li>
+8+ years of related experience</li></ul>
+<p></p>
+<p><b>
+Benefits
+</b></p>
+<p>We offer highly competitive salaries, bonus programs, world-class benefits, and unparalleled growth and development opportunities — all to create a compelling and rewarding work environment.</p>
+<p></p>
+<p><b>
+Apply now!
+</b></p>
+<p>Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Learn more about Diversity and Inclusion at Dell here.</p>
+</div></div>

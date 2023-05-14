@@ -1,0 +1,51 @@
+<h2>Software Quality Assurance Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Powerhouse Gaming is a Northern California based software development company specializing in cutting edge products for the charitable gaming and entertainment industry. Powerhouse prides itself on creativity, innovation and professionalism; raising the standard of excellence in the gaming industry nationwide. Powerhouse Gaming is looking for a Quality Assurance Manager to join our team.</p>
+<p>In this position, you will be responsible for verifying all software for functional completeness and regulatory compliance. You will also be tasked with documenting and replicating bugs found both in testing and in the field and with generating and maintaining release notes and other related documentation. You will be in charge of managing any additional QA staff and setting up policies and procedures for the department. The position of Quality Assurance Manager will work closely with all of the stakeholders to make sure that the product created matches market needs and technical requirements.</p>
+<p>This position will also be responsible for managing release of the product into the field. This will include scheduling when updates are deployed and making sure that the correct version of code goes into the field for each jurisdiction.</p>
+<p>All candidates must be willing to relocate to the Sacramento area.</p>
+<p><b>Essential Functions: </b></p>
+<ul>
+<li>Conduct full range of testing on all software products for applicable platforms. This includes feature testing, full regression testing, and smoke testing.</li>
+<li>Collect, analyze, and document bug reports from the field.</li>
+<li>Develop and maintain release notes and other related documentation. This will include test reports and documentation meant for wide release.</li>
+<li>Work with the development department to design and maintain test cases and testing infrastructure.</li>
+<li>Development of automated testing suites, including integration testing.</li>
+<li>Develop and maintain test cases, testing checklists, and other related documents.</li>
+<li>Work with the product manager and the sales staff to schedule software deployment.</li>
+<li>Manage additional QA staff members.</li>
+<li>Create and maintain comprehensive product documentation, including end user manuals and technical manuals.</li>
+<li>Create and maintain automated testing systems and systems for monitoring build stability.</li>
+</ul>
+<p><b>Qualifications: </b></p>
+<ul>
+<li>Bachelor’s Degree, preferably in information technology, computer science, or other related technical degree. Equivalent work experience will also be considered.</li>
+<li>3+ years managing a quality assurance team</li>
+<li>Expert knowledge of industry standard quality assurance practices and procedures</li>
+<li>Experience with Sql Server</li>
+</ul>
+<p><b>Nice to Haves: </b></p>
+<ul>
+<li>ISTQB Certification or equivalent</li>
+<li>Jenkins continuous integration experience</li>
+<li>Direct experience in the gambling or charitable gaming markets, especially experience with Class 2 gaming.</li>
+<li>Experience working in a regulated environment.</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $50,000.00 to $75,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>Management: 3 years (Preferred)</li>
+<li>Technical Writing: 3 years (Required)</li>
+<li>Automated testing processes: 3 years (Preferred)</li>
+<li>Quality Assurance: 5 years (Preferred)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Location:</p>
+<ul><li>Sacramento, CA (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+</div>

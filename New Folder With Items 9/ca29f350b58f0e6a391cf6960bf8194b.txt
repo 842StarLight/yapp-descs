@@ -1,0 +1,85 @@
+<h2>Technical Project Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Forter is looking for a highly motivated, energetic and focused technical leader, to be the technical face of Forter to its customers. The technical project manager is responsible for project managing the client on-boarding process, answering all technical questions arising during the pre-and post sales process, helping customers by assessing their needs and resolving their technical questions, as well as identifying and adapting Forter’s products and services to the customer’s needs. The ideal candidate will combine technical knowledge with sales skills and is ultimately responsible for the technical win during the sales cycle (pre and post). The technical project manager will work in conjunction with R&amp;D, Sales, Customer Success, and Product Management as a key technical advisor and product advocate for our solutions, ensuring that Forter delivers overall superior service and support to both existing as well as prospective customers.</p>
+<p><b>
+Job Specific Responsibilities:</b></p>
+<p>
+The job will be split into two functions where you will support pre-sales (20-30% of the time) and on-boarding (70-80% of the time).</p>
+<p><b>
+On-boarding responsibilities include but are not limited to:</b></p>
+<ul>
+<li>
+Build integration project plans with merchants/partners to Forter’s software as a service, driving the plan to completion, and evaluating success throughout.</li>
+<li>
+Manage all aspects of integration projects including coordinating with Forter engineering, product, and analytics resources in Tel Aviv as well as merchant resources in accordance with project management best practices.</li>
+<li>
+Become an expert on Forter’s technical integration technologies such as API operations, JavaScript, and JSON concepts, as well as other web and database technology so decisions can be made on project plan requirements and where appropriate doing minor code analysis to aid in technical problem resolution.</li>
+<li>
+Maintain and keep up to date shared project plans and ensure project reporting is consistently delivered to internal and external project stakeholders.</li>
+<li>
+Ensure clients and vendors and internal resources are on-track with their requirements so the project plans remain on-track.</li>
+<li>
+Manage to resolution any issues that may arise during the on-boarding project and be an escalation point for existing clients with respect to Forter's integration technology.</li>
+</ul>
+<p><b>
+Pre-sales responsibilities include but are not limited to:</b></p>
+<ul>
+<li>
+Support the sales department by developing a deep understanding and working knowledge of Forter's service.</li>
+<li>
+Enable sales by continually developing new documentation to more easily communicate Forter’s integration technology and simplify the on-boarding process.</li>
+<li>
+Help remove barriers with potential prospects by clearly articulating Forter’s integration technology and helping scope projects with a relentless drive for quality.</li>
+<li>
+Working with clients or partners to perform and document data/technical gap analysis.</li>
+</ul>
+<br>
+Requirements:<br>
+<ul>
+<li>At least 3 years of hands-on implementation experience at a SaaS and/or relevant tech company</li>
+<li>
+B.S. in Computer Science, Information Systems or equivalent work experience</li>
+<li>
+Account and customer management experience with enterprise/strategic partners</li>
+<li>
+Strong analytical, creative thinking and problem solving skills</li>
+<li>
+Excellent communication, project management and multi-tasking skills</li>
+<li>
+Success in presenting new ideas and problem solving with internal/external executive staff</li>
+<li>
+Proven ability to read, debug, and understand JavaScript, API calls, etc</li>
+<li>
+Ability to work in a fast-paced, deadline-driven start-up environment</li>
+<li>
+Passionate about customer service and helping others</li>
+<li>
+Experience with payment systems and an understanding of risks in integrating to/from them - a plus</li>
+</ul>
+<br>
+About Forter:<br>
+<p>Forter provides new generation fraud prevention to meet the challenges faced by modern enterprise e-commerce. Only Forter provides fully automated, real-time Decision as a Service™ fraud prevention, with approve/decline decisions backed by a 100% chargeback guarantee. The system eliminates the need for rules, scores or manual reviews, making fraud prevention friction-free. The result is fraud prevention that is invisible to buyers and empowers merchants with increased approvals, smoother checkout and the near elimination of false positives - meaning more sales and happier customers. Behind the scenes, Forter’s machine learning technology combines advanced cyber intelligence with behavioral and identity analysis to create a multi-layered fraud detection mechanism.</p>
+<br>
+Benefits:<br>
+<p>Our compensation package includes:</p>
+<ul>
+<li>
+A competitive salary</li>
+<li>
+Comprehensive and generous, health, dental and vision insurance cover</li>
+<li>
+Stock options</li>
+<li>
+Generous PTO policy</li>
+<li>
+401K Plan</li>
+</ul>
+<p>
+But most importantly – we are an excellence-driven work environment, where you will have the opportunity to collaborate with the smartest people in the industry, while being both inspired and challenged on a daily basis.</p>
+<br>
+EEO:<br>
+<p>Forter is an Equal Employment Opportunity employer that will consider all qualified applicants, regardless of race, color, religion, gender, sexual orientation, marital status, gender identity or expression, national origin, genetics, age, disability status, protected veteran status, or any other characteristic protected by applicable law.</p>
+<br>
+*Note To All Recruitment Agencies*:<br>
+<p>Forter does not accept agency resumes. Please do not forward resumes to the Forter (or any related) jobs alias or directly to any Forter employees. Forter will not be responsible for any fees related to unsolicited resumes.</p>
+</div></div>

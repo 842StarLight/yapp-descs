@@ -1,0 +1,78 @@
+<h2>Senior QA Manual Tester</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Accelerate Your Career</b></p>
+<p><i>
+Drive global technology</i></p>
+<p></p>
+<br>
+<p>
+With more than $2 billion in revenues, CDK Global is a leading global provider of integrated information technology and digital marketing solutions to the automotive retail and adjacent industries. Focused on enabling end-to-end automotive commerce, CDK provides solutions to dealers in more than 100 countries around the world, serving approximately 28,000 retail locations and most automotive manufacturers. CDK Global solutions automate and integrate critical processes from pre-sale targeted advertising to the sale, financing, insurance, parts supply, repair and maintenance of vehicles, with an increasing focus on utilizing data analytics and predictive intelligence.</p>
+<p></p>
+<br>
+<p>
+We’re large enough to make a difference but small enough for your voice to be heard. This means that we are an organization where every person matters. You can make an impact on the success of our business and that of our customers regardless of what career you decide to pursue.</p>
+<p></p>
+<br>
+<p>
+From data scientists to sales and client service experts, we’re hiring to support your growth and ours - Green light your career.</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Develop Manual Unit and System Test cases bases on project requirements.</li>
+<li>
+Review the requirements, develop extensive Unit Test cases and System Test cases to cover all requirements, including expected results.</li>
+<li>
+Execute Manual Test Cases and report results.</li>
+<li>
+Compare expected results with executed results, and report to Development any discrepancies.</li>
+<li>
+Develop complex SQL queries to assist with determining expected results and comparing with actual results.</li>
+<li>
+Follow approved SDLC and project management methodology.</li>
+<li>
+Assist with developing new processes to make Manual Testing environment more efficient.</li>
+<li>
+Service as a technical resource, mentor and trainer to other QA Manual Testers.</li>
+<li>
+Demonstrates the ability to work on multiple projects simultaneously.</li>
+<li>
+Creates documentation in accordance with tasks performed.</li>
+<li>
+Ensures written communication is accurate, timely and thorough.</li>
+<li>
+Adheres to accepted standards and procedures.</li>
+</ul>
+<p><b>
+Required Skills:</b></p>
+<ul>
+<li>
+Four year college degree and 4 or more years professional experience or 6 or more years professional experience is required.</li>
+<li>
+Four or more years working with a Relational Database Management System and Manual Testing software.</li>
+<li>
+Strong written and oral communications skills.</li>
+<li>
+Experience writing and debugging Manual Unit and System Test cases.</li>
+<li>
+Ability to translate business requirements into a technical architecture using common business tool sets.</li>
+<li>
+Ability to manage multiple priorities, operate and perform with little or no supervision.</li>
+<li>
+Strong attention to detail.</li>
+</ul>
+<p><b>
+Preferred Skills:</b></p>
+<ul>
+<li>
+Two or more years working with Microsoft software products including SQL Server and Team Foundation Service.</li>
+<li>
+Degree in Computer Science.</li>
+</ul>
+<p></p>
+<br>
+<p>
+CDK Global knows you have passions outside of work. You have family, friends, sporting events, and lots of things going on. That’s why we offer a comprehensive benefits package to not only take care of you but your family as well. All of our benefits are effective the first day of employment including 401K matching, paid time off to re-energize, donate your time to volunteer in your community, and tuition reimbursement to name a few.</p>
+<p>
+At CDK, we pride ourselves on having a diverse workforce. We value and celebrate the uniqueness of individuals and the different perspectives they provide. We offer equal opportunity employment regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, or protected veteran status.</p>
+</div></div>

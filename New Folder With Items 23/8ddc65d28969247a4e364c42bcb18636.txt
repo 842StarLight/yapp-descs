@@ -1,0 +1,38 @@
+<h2>Product Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Analog Devices (NASDAQ: ADI) designs and manufactures semiconductor products and solutions. We enable our customers to interpret the world around us by intelligently bridging the physical and digital worlds with unmatched technologies that sense, measure and connect.</p>
+<br>
+<p></p>
+<p><b>Job Location : Raleigh,NC or Greensboro,NC</b></p>
+<p>Analog Devices Inc. is seeking an intelligent and versatile product engineer to join our agile radio transceiver design group. You will join a team of digital, analog and mixed signal CMOS designers, algorithm and software developers implementing state of the art RF transceiver chips. As a member of a small, focused team, you will be responsible for a specific product or group of products from product definition through production and release and will participate in the design, simulation, and verification of the product prior to tapeout. Key responsibilities include:</p>
+<ul>
+<li>Verification &amp; release of transceiver products including embedded software.</li>
+<li>Interface as the central resource with design, test, application, software and marketing teams as the product(s) move from design to completion and distribution.
+</li>
+<li>Perform lab analysis and evaluation of new silicon and software, working with a multi-functional team to identify, simulate, and correct functional and parametric problems.
+</li>
+<li>Responsible for taking silicon and ARM software from early development stage to full production release.
+</li>
+<li>Responsible for developing and operating software\system verification test bench.
+</li>
+<li>Direct interaction with field sales/applications as well as customers to resolve product issues.
+</li>
+<li>May participate in customer visits.</li>
+<br>
+</ul>
+<p></p>
+<p><i>For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.</i></p>
+<br>
+<p></p>
+<p>Analog Devices, Inc. is an Equal Opportunity Employer Minorities/Females/Vet/Disability</p>
+<br>
+<p></p>
+<p>EEO is the Law: Notice of Applicant Rights Under the Law</p>
+<br>
+<p></p>
+<p><b>Education Level</b>: Master's Degree<br>
+<b>Travel Required</b>: Yes, 10% of the Time</p>
+</div>
+</div>

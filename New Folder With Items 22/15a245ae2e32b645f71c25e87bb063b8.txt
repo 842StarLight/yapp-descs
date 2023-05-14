@@ -1,0 +1,43 @@
+<h2>Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Atypon (www.atypon.com) is a leading technology partner to the online publishing industry. Its customers are companies with a focus on publishing or distributing digital content in significant volumes, including scholarly, professional, and B2B publishers, and major financial services and media providers. Founded and headquartered in Silicon Valley, we have 6 offices across the US and Europe.</p>
+<p>We are currently looking for Solution Architects based in our Hoboken office.</p>
+<p>This role involves interacting with client staff to gather business requirements, propose solutions incorporating existing and new functionality of our state of the art publishing platform. The Solution Architect forms a bridge between client staff, product management and engineering.</p>
+<p>It is an ideal job for a senior developer or tech lead with excellent communication and people skills looking to move into a more client facing role.</p>
+Responsibilities
+<ul>
+<li>Interact with clients’ various constituencies to interpret and evaluate business requirements, and propose technology solutions.</li>
+<li>Write solution/technical specifications for engineering.</li>
+<li>Identify the need/opportunity for platform extensions with new features and functionality and bring it to the attention of product management.</li>
+<li>Work in cross-functional internal teams (engineering, quality assurance, ops, product management, project management, business) to develop new solutions.</li>
+<li>Evaluate and prototype APIs for third party integrations.</li>
+<li>Understand content and coordinate content conversions.</li>
+<li>Understand business models and translate them into either platform configuration or specification for new implementation.</li>
+<li>Understand and perform data migrations.</li>
+<li>Propose and build UI using our state of the art drag and drop page builder.</li>
+<li>Significant development work with CSS/HTML</li>
+<li>Support the sales team with technical knowledge as required, including giving demonstrations and assisting on RFP responses.</li>
+<li>Potentially present product capabilities and solutions to internal teams and prospects.</li>
+</ul>
+<p><b>Requirements</b></p>
+<p>
+MINIMUM QUALIFICATIONS</p>
+<ul>
+<li>Must have experience in a directly related role (e.g., business analyst or solution architect)</li>
+<li>Bachelor’s degree from an accredited institution.</li>
+<li>Prior hands-on web software development experience.</li>
+<li>Hands-on knowledge of XML, HTML, CSS, JavaScript, web services, SQL</li>
+<li>Hold a valid passport, or be eligible to apply for one.</li>
+</ul>
+<p><br>
+KNOWLEDGE, SKILLS &amp; ABILITIES</p>
+<ul>
+<li>Must have customer facing experience.</li>
+<li>First rate analytical skills, evidence of translating vague requirements into actionable development items.</li>
+<li>Experience in project management techniques or otherwise demonstrable experiences with managing new development to completion.</li>
+<li>Excellent communication and organization skills.</li>
+<li>Ability to collaborate with multiple stakeholders in multiple time zones.</li>
+<li>Worked on product oriented projects and release management processes.</li>
+<li>Experience in software development processes, and source control and issue tracking systems.</li>
+</ul>
+</div></div>

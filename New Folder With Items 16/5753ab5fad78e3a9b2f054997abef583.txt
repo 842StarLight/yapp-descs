@@ -1,0 +1,132 @@
+<h2>Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div><div><div><div><b>Job Type:
+</b></div></div></div></div>
+<div><div><div><div>
+<div>1300 MKT - Wanamaker Building Req ID: 27714</div>
+<div>Shift: Days</div>
+<div>Employment Status: AF - Active - Regular - Full Time</div>
+<div>
+<div>
+<div>
+<b>
+Job Summary</b>
+</div>
+<div>
+<div>The Salesforce Developer will provide global day-to-day end-user support (including system configuration, complex formulas and system maintenance) for the Children’s Hospital of Philadelphia Foundation’s use of the Non-Profit Success Pack, Marketing Cloud, and other related Salesforce applications. S/he will ensure that business objectives and processes are translated accurately and effectively in Salesforce.</div>
+<br>
+<div>
+<br>
+This role will assist users with proactive best practices to enhance and increase their knowledge of Salesforce.com. S/he will collaborate with management and fellow developers to design, develop and provide user solutions compliant with technical requirements and standards in Sales Cloud, and will be responsible for delivering high quality code with supporting unit test and automation on time. This role must be able to develop custom Salesforce components from scratch.</div>
+<br>
+<div>
+<br>
+The Developer will be expected to work with Senior Developers to evaluate project requirements, create technical designs and implement changes within the Salesforce instance.</div>
+<br>
+<div>
+<br>
+Must be eager to learn and proactively use the Salesforce online training to become proficient in Salesforce modules and features.<br>
+</div>
+</div>
+</div>
+<div>
+<div>
+<b>Job Responsibilities</b>
+</div>
+<div><ul>
+<li>Code enhancement and bug fixes to current Salesforce Application.</li>
+<li>Champion modular design and code reuse while employing industry best practices.</li>
+<li>Enable change, help accelerate innovation and ensure customer satisfaction with Salesforce.</li>
+<li>Drive software development activities to meet schedules and timelines.</li>
+<li>Research problems discovered by team, users or product support and develop solutions to the problems.</li>
+<li>Conduct unit testing and integration testing for functionality.</li>
+<li>Ensure that software standards and quality targets are met.</li>
+<li>Drive low-level architecture and contribute to high-level architecture.</li>
+<li>Manage application phases of system implementation (e.g. configuration, customization, integration, data migration)<br>
+</li>
+</ul></div>
+</div>
+<div><div>
+<b>Job Responsibilities (Continued)</b>
+</div></div>
+<div></div>
+<div><div>
+<b>Job Responsibilities (Continued)</b>
+</div></div>
+<div></div>
+<div><div>
+<b>Required Licenses, Certifications, Registrations</b>
+</div></div>
+<div></div>
+<div>
+<div>
+<b>Required Education and Experience</b>
+</div>
+<div>
+<div>Bachelor’s degree</div>
+<br>
+<div>
+<br>
+Two (2) years’ experience working with Salesforce UI Lightning.</div>
+<br>
+<div>
+<br>
+At least one (1) years of object oriented programming experience.<br>
+</div>
+</div>
+</div>
+<div>
+<div>
+<b>Preferred Education, Experience &amp; Cert/Lic</b>
+</div>
+<div>
+<div>Preferred Experience:</div>
+<ul>
+<li>Experience working in a non-profit environment and general understanding of the non-profit data structure.</li>
+</ul>
+</div>
+</div>
+<div>
+<div>
+<b>Additional Technical Requirements</b>
+</div>
+<div><ul>
+<li>Experience integrating 3rd party applications with Sales Cloud</li>
+<li>Demonstrated interest in business processes and technology</li>
+<li>Experience with agile development methodologies</li>
+<li>Demonstrated ability to work with and train individuals with diverse skill sets.</li>
+<li>Experience in a busy, high-volume Development office preferred.</li>
+<li>Experience in building custom applications using APEX, Lightning and UI related coding technologies</li>
+<li>Experience with Sales and Marketing Cloud implementations.</li>
+<li>Possess excellent software architecture, design and problem solving skills</li>
+<li>Ability to work effectively with other Salesforce developers, cross-functional teams and business partners to develop high-quality applications.</li>
+<li>Experience developing mission critical applications in agile environment.</li>
+<li>Experience with Salesforce, Marketing Cloud, Excel</li>
+<li>Proven excellent analytical and organizational skills</li>
+<li>A sincere appreciation for people and how they are each uniquely motivated.</li>
+<li>Poised and engaging, empathetic communications style based on natural warmth and enthusiasm.</li>
+<li>Fast-paced and results oriented with the ability to work in a timely manner with multiple deadlines and competing requirements.</li>
+<li>Strong written, presentation, verbal, organizational, and interpersonal skills; demonstrated ability to relate well to individuals from diverse backgrounds.</li>
+<li>Demonstration of good judgement, professionalism and the highest standards of ethical conduct.<br>
+</li>
+</ul></div>
+</div>
+</div>
+<div><b>All CHOP employees who work in a patient building or who provide patient care are required to receive an annual influenza vaccine unless they are granted a medical or religious exemption.</b></div>
+<div><b>Children's Hospital of Philadelphia is committed to providing a safe and healthy environment for its patients, family members, visitors and employees. In an effort to achieve this goal, employment at Children's Hospital of Philadelphia, other than for positions with regularly scheduled hours in New Jersey, is contingent upon an attestation that the job applicant does not use tobacco products or nicotine in any form and a negative nicotine screen (the latter occurs after a job offer).</b></div>
+<div><b>Children's Hospital of Philadelphia is an equal opportunity employer. We do not discriminate on the basis of race, color, gender, gender identity, sexual orientation, age, religion, national or ethnic origin, disability or protected veteran status.</b></div>
+<div><b>VEVRAA Federal Contractor/Seeking priority referrals for protected veterans. Please contact our hiring official with any referrals or questions.</b></div>
+<div><b>CHOP Careers Contact</b></div>
+<div><b>Talent Acquisition</b></div>
+<div><b>2716 South Street, 6th Floor</b></div>
+<div><b>Philadelphia, PA 19146</b></div>
+<div><b>Phone: 866-820-9288</b></div>
+<div>
+<b>Email:</b><b>TalentAcquisition@email.chop.edu</b>
+</div>
+</div></div></div></div>
+</div>
+<div></div>
+</div>

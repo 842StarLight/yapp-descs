@@ -1,0 +1,30 @@
+<h2>Client Strategist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Description:</b><br>
+The Client Strategist is the point person on projects and communication with clients.
+<br><br>
+<b>Action items include:</b><br>
+<ul>
+<li>Understand the client's needs and requirements for reporting and analysis. From there translate into an efficient and simple analytics framework that effectively demonstrates client's KPI and business performance.</li>
+<li>Demonstrate an understanding of the analytics back-end process and capabilities, including data setup, data management and dashboard development to evaluate organizational methods. Recommend improvement and provide source-to-target data mapping and information-model specification for data sets.</li>
+<li>Demonstrate an understanding of and be able to communicate clearly about timeline, deliverable and responsibilities of all stakeholders in a project.</li>
+<li>Be able to keep track of all client requests and follow-up with with internal team and external client to make sure deliverables are on time and quality work.</li>
+<li>Manage client's expectations</li>
+<li>Adhere to internal processes and requirements in communication and documentation</li>
+<li>Maintain strong relationship with clients through frequent formal and informal check-in's</li>
+<li>Own and understand profitability, hours, budget and the scope of work for each client</li>
+<li>Maintain an external mindset, including staying current on marketing and business trends.</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Must be a self-starter that takes personal responsibility for education in relevant digital marketing, and sales analytics</li>
+<li>Ability to use and experience with industry tools and systems, digital research tools, visualization tools analytics platforms, etc. Examples include Tableau, Amazon Redshift, Google Products, social platforms and programmatic platforms.</li>
+<li>Understanding of analytics, business intelligence, client strategy, and storytelling process.</li>
+<li>Must be able to multi-task, be detail oriented, organized and analytical</li>
+<li>Superior skills with Excel and/or other software to leverage statistical analysis</li>
+<li>Ability to problem solve and think creatively to overcome obstacles</li>
+<li>Able to work within a team environment while handling multiple projects with deadlines</li>
+<li>Bachelor's degree from four-year college or university, degree or concentration in advertising, marketing or communications preferred; or one to two years related experience and/or training; or equivalent combination of education and experience.</li>
+<li>One to three experience in Digital Media Strategy, Analytics or related agency experience.</li>
+</ul>
+</div>

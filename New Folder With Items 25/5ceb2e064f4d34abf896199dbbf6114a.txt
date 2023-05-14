@@ -1,0 +1,220 @@
+<h2>Full Stack Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<h1 class="jobSectionHeader"><b>WHO WE ARE</b></h1>
+<p>Red Caffeine is a growth consultancy that delivers strategy + branding + technology + marketing to fuel meaningful impact. We support our clients through the most common business challenges:</p>
+<ul>
+<li>
+<p>Brand Awareness</p>
+</li>
+<li>
+<p>Lead Generation</p>
+</li>
+<li>
+<p>Sales Enablement</p>
+</li>
+<li>
+<p>Digital Transformation</p>
+</li>
+<li>
+<p>Employer Branding</p>
+</li>
+</ul>
+<p><b>RC PURPOSE</b></p>
+<p>
+We entangle ourselves with our team, clients, and the community to fuel meaningful impact.</p>
+<p><b>
+MISSION</b></p>
+<p>
+To build badass brands that clients want to work with and employees want to work for.</p>
+<p><b>
+VISION</b></p>
+<p>
+To be a company of unquestionable authority.</p>
+<p><b>
+CORE VALUES</b></p>
+<br>
+<p></p>
+<p>
+We embrace transparency</p>
+<p>
+We hug it out</p>
+<p>
+We play to win and we win together
+</p>
+<p>We are client advocates</p>
+<p>
+We believe in work/life harmony</p>
+<p>
+We make an impact with our flava’</p>
+<p>
+We are intentional in our relationships</p>
+<p>
+We give back &amp; pay-it-forward</p>
+<p>
+We own it good or bad</p>
+<p>
+We uphold a culture of learning</p>
+<p>
+We are passionate, energetic &amp; fearless</p>
+<p></p>
+<p>PRINCIPAL RESPONSIBILITIES AND DUTIES:</p>
+<p>
+Full Stack Developer</p>
+<p>
+Do you want to work with a group of badass designers, technologists and writers to create innovate websites and web applications? We are seeking a strong Full Stack Developer who has a passion for building websites, single page applications and working with API’s to make extremely fluid and functional software. You will be responsible for building the front-end and back-end design of websites and software applications, and creating design plans for the user-facing side of applications, which controls look, feel, and function.
+</p>
+<p>This role will be an integral part of the Development team and you will collaborate with designers, marketers, and the entire company to solve problems and achieve meaningful results. As our team’s first full-time Full Stack Developer, you will be expected to pick things up quickly, work efficiently, and contribute to the direction and future of our Development team. You’ll work on multiple client accounts in varying industries. You will have the opportunity to make a big impact both for your clients and on the company. Red Caffeine takes pride in making sure every team member’s voice is heard and that everyone has the ability to shape their and the company’s growth path.<br>
+</p>
+<p></p>
+<p>Who You Are</p>
+<p>
+People with a strong desire to learn a multitude of technologies and programming languages with a can-do attitude will thrive in this role. You are a problem-solver who can work in a fast-paced, collaborative office environment alongside other engineers and developers.<br>
+</p>
+<p></p>
+<p>Position Responsibilities Include:</p>
+<ul>
+<li>
+<p>Plan and develop websites and web applications</p>
+</li>
+<li>
+<p>Create software solutions</p>
+</li>
+<li>
+<p>Architect and implement solutions to complex client systems</p>
+</li>
+<li>
+<p>Maintain quality and ensure responsiveness of applications</p>
+</li>
+<li>
+<p>Collaborate with the rest of the team to design and launch new features</p>
+</li>
+<li>
+<p>Maintain code integrity and organization</p>
+</li>
+<li>
+<p>Work with databases; both maintaining, creating, and configuring them</p>
+</li>
+<li>
+<p>Code in various programming languages especially .NET and JavaScript</p>
+</li>
+<li>
+<p>Take low fidelity mockups and turn them into fully functioning end products and components</p>
+</li>
+<li>
+<p>Develop immersive experiences for both mobile and desktop applications</p>
+<br>
+</li>
+</ul>
+<p><b>
+</b></p>
+<p>Requirements &amp; Bonus Points:</p>
+<ul>
+<li>
+<p>Degree in Information Sciences, Computer Science, MIS, or related field of study (Experience/Portfolio can suffice)</p>
+</li>
+<li>
+<p>3+ years of application development and maintenance experience in a professional work environment</p>
+</li>
+<li>
+<p>Highly skilled, detail oriented Developer well versed in Object Oriented Programming &amp; best practices</p>
+</li>
+<li>
+<p>Expertise with HTML5/SCSS/Javascript</p>
+</li>
+<li>
+<p>Experience in a back-end language such as Java, C++, etc. - C# preferred</p>
+</li>
+<li>
+<p>Experience with SQL queries and relational modeling/databases (RESTful API, MS SQL, etc.)</p>
+</li>
+<li><p>Experience with .NET &amp; Visual Studio - a compatible CMS is a plus
+</p></li>
+<li><p>Experience with Umbraco or Razor is a huge plus
+</p></li>
+<li>
+<p>Experience building real-world web application software and SPA’s</p>
+</li>
+<li>
+<p>Experience with at least one front-end application framework such as Angular, React, or Vue</p>
+</li>
+<li>
+<p>Expertise in reasoning about and cleaning data</p>
+</li>
+<li>
+<p>Meticulous attention to detail</p>
+</li>
+<li>
+<p>Great communication and organizational skills</p>
+</li>
+<li>
+<p>Understanding of security and data protection</p>
+</li>
+<li>
+<p>Working knowledge of code versioning tools (Git, DevOps, SVN)</p>
+</li>
+<li>
+<p>Understands how to manage/estimate time and deliver projects on schedule</p>
+</li>
+<li>
+<p>Experience with testing tools is a plus, but not required such as Jest, Jasmine, etc.</p>
+</li>
+<li>
+<p>Any experience with Data Visualization tools or analytics dash-boarding is a bonus</p>
+<br>
+</li>
+</ul>
+<p><b>
+</b></p>
+<p>Perks:</p>
+<ul>
+<li>
+<p>Medical, dental, and vision benefits</p>
+</li>
+<li>
+<p>401k matching</p>
+</li>
+<li>
+<p>Complete freedom to explore and implement new technology ideas and solutions</p>
+</li>
+<li>
+<p>Work with a small group of dedicated Tech/Digital focused individuals who share your passion for technology</p>
+</li>
+<li>
+<p>Craft coffee and beer</p>
+</li>
+<li>
+<p>Ping pong matches at will</p>
+</li>
+<li>
+<p>Flex-Time</p>
+</li>
+<li>
+<p>Work from home opportunities</p>
+</li>
+<li>
+<p>Transparent company financials</p>
+</li>
+<li>
+<p>Office dogs</p>
+</li>
+<li>
+<p>Complimentary beverages and snacks</p>
+</li>
+<li>
+<p>Work with a group of Badasses</p>
+<br>
+</li>
+</ul>
+<p></p>
+<p>
+</p>
+<p>Red Caffeine is an Equal Opportunity Employer</p>
+<p>
+Must be able to pass pre-employment, post offer background checks</p>
+<p><b>
+Principals only. Recruiters, please do not contact.</b></p>
+</div>
+<p></p>
+</div>

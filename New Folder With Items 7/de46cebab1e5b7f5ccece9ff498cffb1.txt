@@ -1,0 +1,23 @@
+<h2>Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>eNGINE builds Technical Teams. We are a Solutions and Placement firm shaped by decades of interaction with Technical professionals. Our inspiration is continuous learning and engagement with the markets we serve, the talent we represent, and the teams we build. Our Consulting Workforce is encouraged to enjoy career fulfillment in the form of challenging projects, schedule flexibility, and paid training/certifications. Successful outcomes start and finish with eNGINE.</p>
+<p>We are hiring for a full time Data Analyst, who will be conducting analysis and data modeling for critical business decisions pertaining to the company's assets and strategic look into the market.</p>
+<p><b>Duties: </b></p>
+<ul><li>Preparation and analysis of data pertaining to key business sales and product drivers</li></ul>
+<ul>
+<li>Utilize MS SQL Server to extract, model and ensure the quality of significant amounts of data</li>
+<li>Perform data modeling through MS SQL Server and represent visualizations through various reporting tools</li>
+<li>Create, develop, implement T-SQL procedures and functions</li>
+<li>Review company data and monitor/assure for appropriate compliance</li>
+<li>Participate in monthly/ yearly forecasting of services and provide insight to the health of the program</li>
+</ul>
+<p><b>What you will need: </b></p>
+<ul>
+<li>BS Debree in IT, Accounting/ Finance or related. Experience may be considered in lieu of completed degree</li>
+<li>3+ years experience in data analyis, design and/or modeling</li>
+<li>Demonstrated skills in Reporting and Analysis using MS Excel, PowerBi or related</li>
+<li>Advanced knowledge of T-SQL query development, including writing and analysis of complex queries</li>
+</ul>
+<p>Apply today and see how eNGINE can make a difference in your career!</p>
+<p>Job Type: Full-time</p>
+</div>

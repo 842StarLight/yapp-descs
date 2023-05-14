@@ -1,0 +1,108 @@
+<h2>Cortex Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Our Mission</b></p>
+<p>
+At Palo Alto Networks® everything starts and ends with our mission:</p>
+<p>
+Being the cybersecurity partner of choice, protecting our digital way of life.</p>
+<p>
+We have the vision of a world where each day is safer and more secure than the one before. These aren’t easy goals to accomplish – but we’re not here for easy. We’re here for better. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.</p>
+<p><b>
+Your Career</b></p>
+<p>
+As a Palo Alto Networks Systems Engineering (SE) Specialist, you will be the expert for our Endpoint and broader Cortex XDR portfolio within our offerings. Your portfolio includes Advanced Endpoint Protection (Traps), Cortex XDR - Investigations and Response, Cortex XDR - Analytics, Autofocus and Cortex Data Lake.</p>
+<p>
+You are the “go to” resource for customer interactions that exceed standard SE support requirements. Your role is one of technical mentorship – working with your account manager to build integrated solutions for our client’s unique environments. With your colleagues, you will displace competing technologies, and build market share within your targeted accounts, and most importantly, help your client sleep at night as our product integrates to build secure digital transactions. This position does not work in a physical Palo Alto Networks office location, but instead covers a particular market for our sales prospects.</p>
+<p><b>
+Your Impact</b></p>
+<ul>
+<li>
+Present to customers as our expert in your area at all levels in the customer hierarchy from technician to manager</li>
+<li>
+Lead conversations about industry trends and emerging changes to the security landscape that every customer needs to be aware of and planning to take care of</li>
+<li>
+Discuss, with credibility, competitive offers in the marketplace and positions ours as the best alternative</li>
+<li>
+Lead and support customer demonstrations (with our SE’s) that showcase our unique value</li>
+<li>
+Interact locally and remotely with customers in an equally persuasive manner</li>
+<li>
+Working with Product Management, Technical Marketing and R&amp;D to create requirements and product features for our large customers and provide feedback from customers</li>
+<li>
+Provide design consultation and best practice guidance for rollout, implementation, and policy conversion during the 'pre-sales' process for strategic opportunities</li>
+<li>
+Take ownership of advanced 'proof of concept' testing in strategic accounts either at the customer site or Palo Alto Networks lab facilities</li>
+<li>
+Provide product update and enhancement training to other SEs in the region or theater</li>
+<li>
+Provide demos for strategic prospects and current accounts in all facets of Palo Alto Network’s virtual offerings and integration in existing data center environments</li>
+<li>
+Assist in the training of Palo Alto Networks SEs in their designated region in installs customer presentations, and internally-focused deal preparation activities</li>
+<li>
+Provide territory coverage within the region when additional resources are required</li>
+<li>
+Provide advanced 'Partner SE' training for updates in the Palo Alto Networks product suite</li>
+</ul>
+<p><b>
+Your Experience</b></p>
+<ul>
+<li>
+BSCS or equivalent and 5+ years of experience as a SE or systems integrator</li>
+<li>
+4+ years of technical hands-on experience with application security/endpoint security</li>
+<li>
+4+ years of experience as a pre-sale engineer facing customers; Experience working with FIs is an advantage; preferably working in a start-up and vendor environment</li>
+<li>
+Solid grasp of web applications, web protocols, security and Internet environments</li>
+<li>
+Advanced knowledge of web threats and cybercrime</li>
+<li>
+Experience with common enterprise desktop software deployment methodologies</li>
+<li>
+Experience installing, configuring and integrating a complex Security environment</li>
+<li>
+Experience understanding malware, exploits, operating system structure and behavior</li>
+<li>
+Demonstrable experience in securing these environments</li>
+<li>
+Deep understanding of Unix/Linux and Windows operating systems and scripting</li>
+<li>
+Demonstrable experience with systems installation, configuration, and administration of routers/switches, UNIX/Linux, and Windows-based systems (prior Active Directory/LDAP experience desirable)</li>
+<li>
+Experience that emphasizes L2-L4 Networking (L2 Switching architectures including Spanning Tree, IP routing including OSPF and BGP, L4 Load balancing)</li>
+<li>
+Working knowledge of endpoint prevention, SIEM, vulnerability management tools, SOC, firewalls, and other security technologies both from a technology and a business driver standpoint</li>
+<li>
+Experience with Incident Response; both IR tools and IR workflow process</li>
+<li>
+Experience selling, demonstrating, installing, and solving network infrastructure security product</li>
+<li>
+Strong communication and presentation skills, both verbally and written</li>
+<li>
+Strong problem finding and solving skills, ability to analyze complex multivariate problems and use a systematic approach to gain quick resolution</li>
+<li>
+Familiar working with Channel partners and understanding of a channel centric go to market approach</li>
+<li>
+Experience from companies in the enterprise networking security space</li>
+<li>
+Experience installing and configuring a virtual environment</li>
+<li>
+Experience understanding threat signatures and their creation</li>
+<li>
+Scripting experience with a focus on Python and PowerShell</li>
+<li>
+Travel of 40%-60% within the designated region</li>
+</ul>
+<p><b>
+The Team</b></p>
+<p>
+As part of our Systems Engineering team, you’ll support the sales team with technical expertise and guidance when establishing trust with key clients. You won’t find someone at Palo Alto Networks that isn’t committed to your success – with everyone pitching in to assist when it comes to solutions selling, learning, and development. As a member of our systems engineering team, you are motivated by a solutions-focused sales environment and find fulfillment in working with clients to resolve incredible complex cyberthreats.
+</p>
+<p><b>Our Commitment</b></p>
+<p>
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.<br>
+<br>
+We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.<br>
+<br>
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.</p>
+</div></div>

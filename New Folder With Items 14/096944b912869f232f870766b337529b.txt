@@ -1,0 +1,111 @@
+<h2>Sr. Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<p><b>Department:</b> Engineering</p>
+<p><b>
+Location:</b> Yorba Linda, CA</p>
+<p><b>
+Reports To:</b> Director of Engineering</p>
+<p><b>
+FLSA Status:</b> Except</p>
+<p><b>
+Travel:</b> &lt;10%</p>
+<p>
+Summary:</p>
+<p>
+A Senior Software Engineer is a professional with an advanced degree and significant experience with software and/or firmware design. In this role, the individual will work directly with engineering staff, production staff and customers to design, develop, and validate various special purpose communication systems supporting the U.S. military. This individual will perform detailed software and/or firmware design/analysis, work closely with project leads to coordinate prototyping activities, and be responsible for the assigned software and system design from concept through production phase. The individual must have a good working and analytical knowledge of POSIX and Win32 multithreaded design, device driver design and programming in Linux and Windows, and real-time programming in VxWorks and other embedded environments. They must possess in-depth knowledge of the workings of real-time operating systems, demonstrated C/C++ coding experience, and object-oriented design skills. This individual will be responsible for their own generated project plans and running project teams when projects become large or are beyond their skill set, experience, or abilities.</p>
+<p>
+Essential Duties and Responsibilities:</p>
+<ul>
+<li>Design and validate complex software projects utilizing skills in C, C++, and operating systems (such as VxWorks, Linux, Windows, FreeBSD, HP-UX etc.)</li>
+<li>Write detailed requirement documentation based on high level requirements.</li>
+<li>Perform detailed software and firmware sub-system analysis, simulation, and design work as required.</li>
+<li>Work with software/firmware system concepts and detailed software/firmware design to properly determine the necessary design tradeoffs.</li>
+<li>Participate in system test planning and system test procedure generation for first articles.</li>
+<li>Provide support to the design, development, and verification testing of real-time and GUI software designs.</li>
+<li>Directly support customers with questions and issues on products.</li>
+<li>Produce regression tests for software designs.</li>
+<li>Develop production test software for board level and system products.</li>
+<li>Generate user documentation (such as user manuals and user guides).</li>
+<li>Participate in all phases of design activities.</li>
+<li>Generate all necessary design documentation in a timely fashion.</li>
+<li>Oversee activities for sustaining and technical support projects.</li>
+<li>Work closely and share innovative ideas with engineering, sales, and manufacturing.</li>
+</ul>
+<p>Required Qualifications:</p>
+<ul>
+<li>B.S. in Software Engineering (or equivalent) with a minimum 10 years of experience in hands-on design, implementation, and testing of software.</li>
+<li>Demonstrated strength with C/C++ programming.</li>
+<li>Demonstrated experience with object oriented design principles.</li>
+<li>Experience with POSIX and/or Win32 multithreaded software applications.</li>
+<li>Experience with GUI application design.</li>
+<li>Experience with creating applications to operate in real-time operating systems.</li>
+<li>Working knowledge of hardware device communication techniques.</li>
+<li>Device driver programming experience in Linux and Windows.</li>
+<li>Experience with digital busses (PCI, PCIe, USB, VME etc.), chipsets and architecture concepts.</li>
+<li>Knowledge with interfacing to embedded computing systems.</li>
+<li>Demonstrated ability to solve practical problems and with a variety of variables in situations where only limited standardization exists.</li>
+<li>Working knowledge of top-down design capabilities.</li>
+<li>Demonstrated ability to work within or lead a small technical development team.</li>
+<li>The ability to work with and without direct supervision.</li>
+<li>The ability to interpret a variety of instructions furnished in written, oral, diagrammatic, etc. forms, and move projects to completion.</li>
+<li>Understanding of software industry project lines and industry roadmaps.</li>
+<li>Computer literate.</li>
+<li>Excellent communication and interpersonal skills.</li>
+</ul>
+<p>Desired Qualifications:</p>
+<ul>
+<li>Windows WHQL certification experience.</li>
+<li>Experience with NTDS (MIL-STD-1397), ATDS (MIL-STD-188-203-1), and 1553 (MIL-STD-1553) communication protocols.</li>
+<li>Experience programming PCI/VME chipsets such as the PLX9056 and the Universe II.</li>
+<li>Working knowledge of design and implementation of state machines.</li>
+<li>Working knowledge of design and implementation of microprocessor or DSP embedded computing systems.</li>
+<li>Experience with Python and Wi-Fi protocols.</li>
+<li>Database programming experience with SQL.</li>
+<li>Experience with project planning software and budgeting.</li>
+<li>Experience utilizing electronic military equipment and systems.</li>
+<li>Military background is a plus.</li>
+</ul>
+<p>Language Skills:</p>
+<p>
+The individual must have the ability to read, write, and understand spoken English; the ability to read and understand product requirements and performance specifications; and the ability to read and understand schematics, assembly drawings, parts lists, test procedures, engineering drawings, technical procedures, and governmental regulations. The individual must have strong communication skills and the ability to interface directly with customers.</p>
+<p>
+Other Qualifications:</p>
+<p>
+The individual may be required to obtain a U.S. Government Security Clearance.</p>
+<p>
+Physical Demands:</p>
+<p>
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the employee is occasionally required to stand, walk, and sit. The employee must occasionally lift and/or move up to 50 pounds. Specific vision abilities required by this job include color vision and the ability to adjust focus.</p>
+<p>
+Work Environment:</p>
+<p>
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals to perform the essential functions. The noise level in the work environment is generally quiet, but may be moderate when various test fixtures are operating.</p>
+</div>
+<div>
+<p>
+All candidates will be subject to a background check and drug screening. IXI offers a competitive salary and a full range of comprehensive benefits, including medical, dental, life insurance, and 401(k) plan with company matching. As an Equal Opportunity Employer, we are committed to promoting and sustaining the development of the strengths that diversity brings to our workforce.</p>
+<p>
+We also offer:</p>
+<ul>
+<li>Exceptional leadership and a diverse, talented team</li>
+<li>The opportunity to make a difference</li>
+<li>Work in a team environment</li>
+<li>The opportunity to excel and grow</li>
+<li>Support of your ability to work creatively and efficiently by making regular investments in equipment, software, process controls and professional training</li>
+<li>An environment that welcomes people with diverse cultural and professional backgrounds</li>
+<li>Skills, drive and experience</li>
+</ul>
+<p>Currently, IXI is seeking professionals for the open positions listed below at our Yorba Linda, CA corporate headquarters. Only the most qualified, talented and committed individuals seeking to benefit from producing exceptional work are successful in our work environment. If you are certain about your ability to convince us that you are the individual most qualified to join our team for one of our open positions, please submit a resume along with cover letter referencing the position title via one of the following methods:</p>
+<p>
+Email: careers@ixitech.com</p>
+<p>
+Fax: 714.221.5990</p>
+<p>
+Mail:<br>
+IXI<br>
+Attn: Human Resources<br>
+22705 Savi Ranch Parkway Suite 200<br>
+Yorba Linda, CA 92887</p>
+</div>
+</div></div>

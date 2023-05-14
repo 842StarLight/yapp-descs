@@ -1,0 +1,34 @@
+<h2>Senior Software Engineer-Java</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>ClearCorrect is a leading manufacturer of clear aligners, an alternative to traditional metal dental braces, since 2006. ClearCorrect offers a more affordable and doctor-friendly approach to tens of thousands of doctors around the world.</p>
+<p>
+We are looking for well-rounded software engineers to help us develop, extend, and scale our internal and customer facing software products. Our software is used extensively by our diagnostics, finance, provider services, sales, and manufacturing staff. You will have the opportunity to work with software systems related to 3d modeling and printing systems, laser etching, e-commerce, medical diagnostics, machine learning, and the finishing and packing of custom manufactured clear dental aligners.</p>
+<p>
+About the Culture:</p>
+<p>
+Our ongoing goal is to continually improve everything. Our product, our customer experience, ourselves, our process, our work life balance, etc.</p>
+<p>
+About the Opportunity:</p>
+<p>
+We are looking for talented senior level software engineers to work with internal and external personnel to implement innovative solutions. This role will serve primarily as a senior software developer with opportunities to contribute within the entire software stack.</p>
+<p>
+Required Qualifications:</p>
+<ul>
+<li>Full stack with strong front-end experience</li>
+<li>Recent hands-on experience building enterprise applications using one or more JavaScript frameworks preferably AngularJS</li>
+<li>Experience with building and maintaining microservices</li>
+<li>Experience with build tools - Maven, Gradle and Jenkins</li>
+<li>Proven understanding of RESTful web architecture and design patterns</li>
+<li>Proficiency with Unit Test, mocking framework and Test-Driven Development (TDD)</li>
+<li>Experience with Java, Spring and ORM framework</li>
+<li>Strong programming, and excellent problem-solving skills</li>
+<li>Excellent written and verbal communication skills</li>
+</ul>
+<p>Desired Qualifications:</p>
+<ul>
+<li>Understanding of system design, distributed systems, event driven architectures, cloud infrastructure, DevOps, and immutable infrastructure</li>
+<li>Experience in source code version control (SVN, GIT)</li>
+<li>Knowledge in fully automated CI build and deployment infrastructure and processes</li>
+<li>Having good understanding of Microsoft technologies is plus.</li>
+</ul>
+</div></div>

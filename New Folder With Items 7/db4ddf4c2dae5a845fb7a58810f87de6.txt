@@ -1,0 +1,26 @@
+<h2>Principal Web Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">We're looking for …
+<br><br>
+A Principal Web Engineer to join the world-class team combining two of the top private sale e-commerce destinations, Gilt and Rue La La. This is an opportunity to be directly involved in scaling our systems towards $1B annual sales using best-of-breed technologies
+<br><br>
+<b>You will:</b><br>
+<ul>
+<li>Be a part of future development for our consumer facing, eCommerce website</li>
+<li>Lead and implement web architecture that is aligned with business and technology objectives</li>
+<li>Establish development practices to improve software quality and pace of development</li>
+<li>Advocate for better technologies and tools to build web applications.</li>
+<li>Collaborate with engineering leadership, architects, designers and engineers to implement elegant solutions to business problems that our members love</li>
+<li>Provide technical leadership and mentoring to other engineers.</li>
+</ul>
+<b>You have:</b><br>
+<ul>
+<li>5+ years of experience delivering large-scale client-side applications for both desktop and mobile web using one of the popular libraries or frameworks (React, Angular, Vue.js, Backbone, etc.)</li>
+<li>Experience writing semantic markup, clean CSS, and solving cross-browser and cross-device compatibility concerns</li>
+<li>Solid understanding of core programming concepts, component, application and system design, core JavaScript concepts like scope, closures, event loop, asynchronous callbacks, and promises.</li>
+<li>Experience building scalable and performant REST API's.</li>
+<li>Strong understanding of web application lifecycle.</li>
+<li>Drive to writing clean, solid, readable code that scales and performs well.</li>
+<li>Strong desire to learn, think creatively, and share knowledge with others.</li>
+</ul>
+<b>ABOUT RUE GILT GROUPE:</b><br>
+Rue Gilt Groupe combines world-class merchandising, technology and marketing to create the most engaging and satisfying online shopping experience available. Each day, 30+ million loyal Members turn to Rue Gilt Groupe for everything from women, men and children's apparel and accessories to home décor and exclusive experiences. Our approach to retail brings excitement to online shopping in a way that not only strategically supports our brand partners, but also inspires our Members daily.</div>

@@ -1,0 +1,120 @@
+<h2>Site Reliability Engineer, CloudConnect (4902)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Own the production deployment and monitoring duties of an engineering team that produces an on-premise SaaS accelerator appliance server. Be part of a senior autonomous team that has the freedom to choose the product's path and to implement its own ideas to solve business problems. The individual hired will be the DevOps expert of the team and will have a large influence on day-to-day operations and the product's future iterations.</p>
+<p></p>
+<br>
+<p><b>
+Technologies</b></p>
+<p>
+Linux</p>
+<ul>
+<li>
+bash scripting</li>
+<li>
+common Linux utilities—ssh, scp, rsync, cron, iptables, curl, etc</li>
+<li>
+HAProxy, DHCP/static IP configuration</li>
+<li>
+Debian packages</li>
+<li>
+Postgres</li>
+<li>
+Java, Scala</li>
+</ul>
+<p>
+Windows</p>
+<ul>
+<li>
+SQL Server</li>
+<li>
+IIS</li>
+<li>
+C#, .NET Framework, ASP.NET</li>
+</ul>
+<p>
+Common</p>
+<ul>
+<li>
+RabbitMQ</li>
+<li>
+REST, SOAP API's</li>
+<li>
+XML, JSON datasets</li>
+<li>
+Jenkins automation server</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Duties</b></p>
+<ul>
+<li>
+Deploy updates to fleet of systems</li>
+<li>
+Monitor production systems</li>
+<li>
+On-call duty along with quick response to critical alerts</li>
+<li>
+Coordinate with other teams to plan for deployments</li>
+<li>
+Improve production monitoring and alerting</li>
+<li>
+Assist in implementation and going-live on systems</li>
+<li>
+Troubleshoot issues on production systems</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Skills</b></p>
+<ul>
+<li>
+DevOps minded</li>
+<li>
+Deployment automation</li>
+<li>
+General infrastructure and networking knowledge, including load balancer configuration</li>
+<li>
+Knowledge of virtualization technologies</li>
+<li>
+Security best-practices</li>
+<li>
+Cross-platform <i>know-how</i> — Linux, Windows</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Qualifications</b> (absolute must haves walking in the door)</p>
+<ul>
+<li>
+Minimum of 3 years experience in a DevOps/Systems Engineering role supporting teams shipping complex applications to large scale production environments.</li>
+<li>
+Ability to perform scheduled deployments outside business hours.</li>
+<li>
+Use of Amazon Web Services (AWS), specifically S3, Route 53, EC2, RDS or relatable cloud infrastructure experience.</li>
+<li>
+Experience in management automation both on Linux and Windows.</li>
+<li>
+SQL queries and scripting.</li>
+<li>
+Bash scripting and Linux tools.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Preferred Qualifications</b> (great to have but not absolutely necessary)</p>
+<ul><li>
+Strong mix of software engineering (C# and .NET Core/Framework) and operation support skills.</li></ul>
+<p></p>
+<br>
+<p>
+<b>About Avalara</b><br>
+<br>
+Avalara helps businesses of all sizes achieve compliance with transaction taxes, including sales and use, VAT, excise, communications, and other tax types. The company delivers comprehensive, automated, cloud-based solutions designed to be fast, accurate, and easy to use. The Avalara Compliance Cloud® platform helps customers manage complicated and burdensome tax compliance obligations imposed by state, local, and other taxing authorities throughout the world.<br>
+<br>
+Avalara offers more than 600 pre-built connectors into leading accounting, ERP, ecommerce and other business applications, making the integration of tax and compliance solutions easy for customers. Each year, the company processes billions of indirect tax transactions for customers and users, files more than a million tax returns, and manages millions of tax exemption certificates and other compliance documents.<br>
+<br>
+Headquartered in Seattle, Avalara has offices across the U.S. and overseas in the U.K., Belgium, Brazil, and India. More information at www.avalara.com<br>
+<br>
+Avalara is an Equal Opportunity Employer. All qualified candidates will receive consideration for employment without regard to race, color, creed, religion, age, gender, national orientation, disability, sexual orientation, US Veteran status, or any other factor protected by law.</p>
+</div></div>

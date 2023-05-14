@@ -1,0 +1,115 @@
+<h2>Lead Software Engineer - Java</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><b>Job Overview:</b></div>
+<div></div>
+<div>At Macy’s, we’re moving fast—we’re at top speed to become America’s premiere retailer. Macy’s Technology strives to set the pace by providing seamless and compelling shopping experiences for our Macy’s and Bloomingdale’s customers. Macy’s Technology is creating innovative technology solutions to support these experiences and define the future of retailing.</div>
+<br>
+<div></div>
+<div>This Lead Software Engineer role will deliver software for Order Management system. We manage millions of orders from Macys.com, Bloomingdales.com, Mobile Apps, more than 500 stores, and Call Centers. We integrate with various downstream processes like warehousing, provisioning, logistics, shipping, Credit services, 3rd party partnerships. We are expanding our capabilities, technologies, and improving our speed to market. This position will be responsible for the leadership, development, and support of applications for a specific area, leveraging his/her expertise and knowledge of multiple systems. This position will work closely with Software Engineers, Product Management, and Engineering Management in a highly collaborative environment. Perform other duties as assigned.</div>
+<br>
+<div></div>
+<div>Translates business requirements into well-engineered, tested and deployed application systems that are used by the business and supports these systems while in production. Interface with internal customers to determine the most efficient, cost-effective approach to meet their business requirements. Design, develop, test, install, and deploy the required software applications. Develop solutions utilizing a variety of software technologies, including new code construction, modifications to existing modules, configuration and/or package implementation.</div>
+<div></div>
+<br>
+<div><b>Essential Functions:</b></div>
+<ul>
+<li>Be an inspiring leader to a dedicated scrum/lean team.</li>
+<li>
+Design, implement, and unit test JEE/Java enterprise application code.</li>
+<li>
+Participate in the full SDLC (Agile), including iterative development, estimations and design sessions.</li>
+<li>
+Deliver project assignments on time and with high quality.</li>
+<li>
+Partner with Product Management to maintain a clear roadmap and ready backlog.</li>
+<li>
+Work with other software engineers, software architects and quality assurance engineers to resolve roadblocks.</li>
+<li>
+Serve as a coach/mentor to team. Manages and delegates tasks as appropriate.</li>
+<li>
+Be part of exploring new technologies/frameworks.</li>
+<li>
+Monitor the application for operating efficiency and performance stability in order to provide proactive maintenance.</li>
+<li>
+Flexibility to work across all functions/levels as part of a dynamic team.</li>
+<li><div>
+Serve as a coach/mentor to less experienced developers. Manages and delegates tasks as appropriate.</div></li>
+<li><div>
+Regular, dependable attendance and punctuality.</div></li>
+</ul>
+<div>
+<b>Qualifications</b><b>:</b>
+</div>
+<div>
+<br>
+</div>
+<div></div>
+<div><b>Education/Experience:
+</b></div>
+<ul>
+<li>Bachelor's Degree in Computer Science and/or Engineering preferred and 6+ years of related experience or an equivalent combination of education and experience. Master’s Degree in Computer Science/Engineering and 3 years’ experience is a plus.</li>
+<li><div>
+6+ years of experience as an engineer in a web and enterprise environment doing development with Java/JEE.</div></li>
+<li><div>
+3+ years of experience leading the team in Agile environment with hands-on coding.</div></li>
+<li><div>
+2+ years of exposure to computing platform and associated automation tools such as Microsoft Azure, Google Cloud Platform, or Amazon EC2.</div></li>
+<li><div>
+Deep technical understanding of Java/J2EE , Spring, REST, Hibernate, JAXB and JMS or similar.</div></li>
+<li><div>
+Experience with highly scalable, high performance, 100% stable Java applications.</div></li>
+<li><div>
+Hand on experience with debugging, configuration and tuning of Application server, JVM, OS and databases.</div></li>
+<li><div>
+Experience with UML modeling and effective communication for design reviews.</div></li>
+</ul>
+<div><b>Communication Skills:
+</b></div>
+<ul>
+<li><div>Demonstrated ability to effectively share technical information and train and mentor less experienced or knowledgeable team members.</div></li>
+<li><div>
+Excellent presentation (written and verbal) communication skills.</div></li>
+<li><div>
+Ability to effectively communicate technical issues and solutions to all levels of Product Engineering and Product Management.</div></li>
+</ul>
+<div><b>Mathematical Skills:</b></div>
+<ul><li><div>Basic math functions such as addition, subtraction, multiplication, division, and analytical skills.</div></li></ul>
+<div><b>Reasoning Ability:</b></div>
+<ul><li><div>Strong analytical and problem-solving skills.</div></li></ul>
+<div><b>Physical Demands:</b></div>
+<ul>
+<li><div>This position involves regular walking, standing, sitting for extended periods of time, hearing, and talking.
+</div></li>
+<li><div>May occasionally involve stooping, kneeling, or crouching.
+</div></li>
+<li><div>May involve close vision, color vision, depth perception, focus adjustment, and viewing computer monitor for extended periods of time.
+</div></li>
+<li><div>Involves manual dexterity for using keyboard, mouse, and other office equipment.
+</div></li>
+<li><div>May involve moving or lifting items under 10 pounds.</div></li>
+</ul>
+<div><b>
+Other Skills:</b></div>
+<ul>
+<li><div>
+Understanding of full life cycle software development with Agile and Lean Startup methodologies.</div></li>
+<li><div>
+Knowledge of Unit Testing best practices and Continuous Integration processes.</div></li>
+<li><div>
+Ability to effectively learn and use new programming concepts, tools and methodology to support the needs of the business.</div></li>
+</ul>
+<div><b>Work Hours:</b></div>
+<ul><li><div>Ability to work a flexible schedule based on department and company needs.</div></li></ul>
+<div>
+</div>
+<div><b>Company Profile:</b></div>
+<div></div>
+<div>Macy’s Inc. is one of the nation’s premier retailers. With fiscal 2016 sales of $25.778 billion and approximately 140,000 employees, the company operates more than 700 department stores under the nameplates Macy’s and Bloomingdale’s, and approximately 125 specialty stores that include Bloomingdale’s The Outlet, Bluemercury and Macy’s Backstage. Macy’s, Inc. operates stores in 45 states, the District of Columbia, Guam and Puerto Rico, as well as macys.com, bloomingdales.com and bluemercury.com. Bloomingdale’s stores in Dubai and Kuwait are operated by Al Tayer Group LLC under license agreements. Macy’s, Inc. has corporate offices in Cincinnati, Ohio and New York, New York.</div>
+<br>
+<div></div>
+<br>
+<div><b>This job description is not all inclusive. Macy’s Inc. reserves the right to amend this job description at any time. Macy's Inc. is an Equal Opportunity Employer, committed to a diverse and inclusive work environment.</b></div>
+</div>
+<div></div>
+</div>

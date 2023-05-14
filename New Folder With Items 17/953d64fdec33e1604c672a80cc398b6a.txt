@@ -1,0 +1,115 @@
+<h2>Project Engineer - Azure</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<p><b>SUMMARY:</b></p>
+<p>The <b>Project Engineer – Azure</b> role is a senior-level consulting position within the Cyber Advisors Project Team. This post-sales position is customer-facing and consists of the delivery of business-transformation technology projects, as well as providing consulting services for next-generation projects and services. The <b>Project Engineer – Azure</b> role is a responsible and trusted member of the customer's technology team, relied upon to provide exceptional services and solutions that make a visible and valued contribution to customer goals.
+</p>
+<p>Cyber Advisors Project Engineers deliver technical designs, implementations, and support services. These services will include projects within the following areas:
+</p>
+<ul>
+<li>Microsoft servers: Windows 2012R2-2019, Exchange 2010-2019, SharePoint, SQL</li>
+<li>
+Local and Wide Area Networks: advanced routing, firewalls, switching</li>
+<li>
+Security services: vulnerability assessments, penetration testing, remediation solutions
+</li>
+<li>Virtualization: VMware, Microsoft Hyper-V</li>
+<li>
+Storage, backup and archiving appliances and systems</li>
+<li>
+Design, deployment, upgrade, and decommission of Windows services, including Active Directory
+</li>
+</ul>
+<p>This role is focused on Azure-based Infrastructure as a Service (IaaS) solutions, including:
+</p>
+<ul>
+<li>Designing Azure deployments based on customer requirements, best practices, and following patterns and practices developed by Cyber Advisors</li>
+<li>
+Automating Azure tasks using PowerShell
+</li>
+<li>Moving or expanding Active Directory from on premise to Azure</li>
+<li>
+Migration of workloads into Azure
+</li>
+</ul>
+<p><b>TECHNICAL SKILLS:
+</b></p>
+<ul>
+<li>In-depth knowledge with Microsoft Azure/Office 365/Windows Server 2016/Microsoft IIS and Microsoft Azure PAAS SQL.</li>
+<li>
+Working knowledge of Azure ARM templates.</li>
+<li>
+Experience on usage of monitoring tools such as Nagios, Azure monitor, Splunk, etc.</li>
+<li>
+Knowledge or experience in Azure Security aspects to secure infrastructure.</li>
+<li>
+Experience in building and developing Azure virtual networks.</li>
+<li>
+Demonstrated ability to deploy Azure App Services, Azure SQL, Azure Active Directory, and Azure Virtual Machines.</li>
+<li>
+Familiarity with hypervisor platforms including Microsoft Hyper-V and VMWare ESX.</li>
+<li>
+Familiarity with networking technologies and hardware VPN setup.</li>
+<li>
+Experience with the Microsoft Windows 2008 -2019 Server platform, Active Directory design, tuning and troubleshooting.</li>
+<li>
+Exposure to e-mail systems including Exchange 2007-2019, Office 365 Cloud &amp; Hybrid configurations.</li>
+<li>
+Familiarity with cloud storage systems (BLOB, etc.) and hardware-based devices (Dell Compellent or similar, NAS devices, Backup Appliances, etc.).</li>
+<li>
+Experience with performing 3rd party and non-biased hybrid and public cloud assessments.</li>
+<li>
+Experience with PaaS and SaaS solutions a plus.
+</li>
+<li>Experience with multiple cloud management solutions is a plus.
+</li>
+<li>Experience with true hybrid cloud management planes such as Azure Stack, VMWare vRealize, VMWare Cloud Foundation, and AWS Outpost is a plus.</li>
+<li>
+Experience with non-Microsoft cloud platforms such as AWS, Google, etc. is a plus.</li>
+</ul>
+<p><b>QUALIFICATIONS:
+</b></p>
+<ul>
+<li>Dedication to customer satisfaction and getting it right the first time.</li>
+<li>
+Demonstrate ability to explain complex technical concepts to a non-technical audience.</li>
+<li>
+Strong trouble-shooting skills across a broad and diverse population and environment.</li>
+<li>
+Demonstrate ability to proactively look for process improvement opportunities, challenge conventional practices, and adopt new methods and best practices. Also focused on continuous self-improvement.
+</li>
+<li>Demonstrate verbal and written communication skills; ability to communicate with all levels of the organization, clearly and concisely present issues, alternatives, and recommendation(s).</li>
+<li>
+Strong technical documentation skills, ability to clearly record key information within ticketing and knowledge base systems.</li>
+<li>
+Appreciation of internal customer business, goals and objectives, strategies, and needs.</li>
+<li>
+Demonstrate ability to manage and prioritize multiple tasks, aggressive targets and deadlines.</li>
+<li>
+Demonstrate understanding of priorities and effective work procedures, self-manage work time and prioritize multiple tasks and problems.</li>
+</ul>
+<p><b>EDUACATION AND CERTIFICATIONS:</b></p>
+<p>The successful candidate will hold:
+</p>
+<ul>
+<li>Bachelor of Science in Information Technology, Computer Science or Business or an equivalent level of work experience.</li>
+<li>
+8 years of successively more responsible experience as a consulting engineer.</li>
+<li>
+Microsoft Azure certifications such as:</li>
+<div></div>
+<li>
+o Cloud Platform MCSE</li>
+<li>
+o Cloud Platform MCSA</li>
+<li>
+o Azure Admin Associate</li>
+</ul>
+<p><b>WORKING CONDITIONS AND PHYSICAL EFFORT:
+</b></p>
+<p>Being responsive to company/project emergencies and availability after-hours is part of this position. Some out-of-state travel might also be required.</p>
+<p></p>
+<li>Certification in selected Microsoft Cloud services is required as well as experience. If you have not previously attained Microsoft Azure Certification, you must pass the required exams within your first 90 days using self-study and on-the-job training.</li>
+</ul>
+<p></p>
+</div>

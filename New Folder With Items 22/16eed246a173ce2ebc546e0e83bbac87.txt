@@ -1,0 +1,69 @@
+<h2>Engineering Manager - Full Stack - Identity & Verification</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.
+</div>
+<div></div>
+<br>
+<div>Affirm’s mission is to build honest financial products to improve user’s lives. We have started off by providing point-of-sale financing to our merchant’s customers, and have expanded our reach with consumers via the Affirm mobile app. We are continuously working on making our product available to more consumers, ensuring each interaction exceeds their expectations.</div>
+<div>
+<br>
+</div>
+<div>
+We're looking for a dynamic Engineering Manager to lead and grow a full-stack engineering team. This team is tasked with building and optimizing user identification and verification experiences that are secure, seamless, and compliant. This role is critical to support our continually expanding set of consumer products as well as our accelerating business growth.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>What You'll Do</b></h3>
+<div><ul>
+<li>
+Lead, grow, and scale out a full-stack engineering team</li>
+<li>
+Own the optimization of our current identification (e.g. signup and signin) flows as well as the development of future flows</li>
+<li>
+Collaborate with Product Management, Design, and Analytics to define and deliver on our product and technical roadmaps</li>
+<li>
+Establish an inclusive work environment that inspires autonomy, transparency, high degree of craftsmanship and personal growth</li>
+<li>
+Evangelize software development best practices and set a high engineering barFacilitate technical discussions and plans to improve our software quality</li>
+<li>
+Plan, design, communicate and implement reliable, scalable and extensible software systems</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>What We Look For</b></h3>
+<div><ul>
+<li>
+Driven to change consumer financial services for the better</li>
+<li>
+Prior experience leading a product focused engineering team</li>
+<li>
+Fluent in full-stack development (we use React/Redux + Python/Flask).</li>
+<li>
+Experience with mobile and A/B testing/experimentation is a plus</li>
+<li>
+Prior experience architecting, building, launching and maintaining complex products</li>
+<li>
+Strong focus toward both user experience and security</li>
+<li>
+Strong cross-team communication and collaboration</li>
+</ul></div>
+</div></div>
+<div>
+<div><b>About Affirm</b></div>
+<div>
+<br>
+</div>
+<div>
+Affirm is reinventing credit to make it more honest and friendly. Started by PayPal Co-founder Max Levchin, Affirm gives consumers the flexibility to buy now and make simple monthly payments. Unlike other credit options, Affirm offers transparent payment terms (no fees or compounding interest), and employs advanced technology to reach a broader consumer population.</div>
+<div>
+<br>
+</div>
+<div>
+At Affirm, "People Come First" is a core value and that’s why diversity and inclusion are vital to our priorities as an equal opportunity employer. You can learn more about our D&amp;I efforts here.</div>
+<div>
+<br>
+</div>
+<div>
+We also consider qualified applicants with arrest and conviction records for positions in accordance with applicable laws, including the San Francisco Fair Chance Ordinance.</div>
+</div>
+</div></div>

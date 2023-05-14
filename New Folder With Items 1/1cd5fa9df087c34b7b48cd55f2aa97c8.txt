@@ -1,0 +1,59 @@
+<h2>Pre-Sales Engineer - Naples, FL</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Job Summary</b></p>
+<p>
+Adaptive Computing is seeking to fill the position of PRE-SALES ENGINEER in the Naples, FL office. The Pre-sales Engineer will collaborate with the sales account team by acting as a technical expert in customer presentations. In addition, this individual will determine the technical requirements to meet client goals and act as liaison between the organization’s sales/business development and engineering groups. They will also respond to requests for information or requests for proposals from customers, supplying the technical details of proposed solutions.</p>
+<p><b>
+Responsibilities and Duties</b></p>
+<ul>
+<li>Present HPC solutions in a professional manner to customers in-person, via email,<br>
+and by phone</li>
+<li>Create and present real-time demonstrations both in person and via webinars</li>
+<li>Must be able to run both command-line centric and GUI-centric interfaces. Must be able to proficiently answer, at a deep level, all common High-Performance Computing (HPC) technical questions that arise in the demonstrations and evaluation process</li>
+<li>Work with customers to determine customer needs and current situation</li>
+<li>Develop proposed solutions supported by Adaptive Computing products</li>
+<li>Estimate level of effort and timelines for proposed solutions</li>
+<li>Effectively present solutions to customers and the market</li>
+<li>Coordinate the transition between pre-sales specifications and implementation engineering once contracts have been awarded</li>
+</ul>
+<p><b>Requirements of Education and Experience</b></p>
+<ul>
+<li>Bachelor’s degree in computer science, information technology, information systems, or a related field</li>
+<li>Experience in software technical sales at the C-level</li>
+<li>Experience in Linux scripting, systems design, software design theory and networking</li>
+<li>Good understanding of infrastructure, operations and cloud computing</li>
+<li>Ability to communicate effectively both verbally and in writing</li>
+<li>Ability and willingness to travel (Both domestically and internationally)</li>
+<li>Experience with the standard HPC software stack and how HPC works</li>
+<li>Linux fluency and scripting</li>
+<li>Proven success working in a fast-paced, changing environment</li>
+</ul>
+<p><b>Desirable Knowledge, Skills, and Abilities</b></p>
+<ul>
+<li>Experience with HPC schedulers<br>
+(Moab, Torque, SLURM, LSF, PBSPro, SGE, etc)</li>
+<li>HPC system administration</li>
+<li>Cloud computing knowledge</li>
+<li>Strong familiarity with the HPC industry and customers</li>
+<li>Familiarity with python programming language</li>
+<li>Familiarity with network monitoring tools and how to debug network traffic (wireshark)</li>
+<li>Familiarity with gdb, valgrind, autoconf, make, and other Linux development tools</li>
+<li>Familiarity with RESTful Web Services, Mongodb, Postgres, Tomcat, Spark, Hadoop, Kafka, SQL</li>
+<li>Familiarity with setting up environments in public cloud offerings (AWS, Google Cloud, Azure, Oracle)</li>
+</ul>
+<p><b>Benefits</b></p>
+<p>
+Adaptive Computing is headquartered in Naples, Florida; with offices in Provo, UT. The company enjoys a rock-solid industry reputation in High Performance Computing. We’ve built that reputation on our industry-leading Moab software technology. Moab® HPC Suite is a workload and resource orchestration platform that automates the scheduling, managing, monitoring, and reporting of HPC workloads on massive scale. Adaptive Computing works with some of the largest commercial enterprises, government agencies, and academic institutions in the world.</p>
+<ul>
+<li>Adaptive Computing offers competitive salaries with paid vacation and holidays; health, dental, and vision-care plans; company-paid life insurance and both short-term and long-term disability insurance</li>
+<li>Work in a smaller, fast paced company where every contribution makes an impact</li>
+<li>Work in a high-tech data center and high-performance cluster computing environment</li>
+<li>Work with “Cloud Bursting”, “Elastic Computing” and other leading-edge technologies</li>
+<li>Our complex is located just outside downtown Naples, FL and only 5 minutes from the Gulf of Mexico</li>
+<li>Naples, FL averages over 275 days of sunshine a year.</li>
+</ul>
+<p>Send resume to sdegram@adaptivecomputing.com.</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,47 @@
+<h2>Salesforce Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Basic Qualifications<br>
+<ul>
+<li>Bachelor’s degree, high standard of education, or compensating work experience.</li>
+<li>5+ years Salesforce.com Admin experience and configuration of 300+ users.</li>
+<li>Certified Salesforce.com Salesforce Administrator, Sales Cloud Consultant, and Platform App Builder or other equivalent qualification.</li>
+</ul>
+</div>
+<br>
+<div>Amazon Web Services (AWS) provides companies of all sizes with a web services platform in the cloud (“cloud computing”). With AWS you can requisition compute power, storage, and many other services – gaining access to a suite of elastic IT infrastructure services as your business demands them. AWS is the leading platform for designing and developing applications for the cloud and is growing rapidly with hundreds of thousands of companies worldwide on the platform.<br>
+<br>
+AWS’ growth is driving a rapid expansion of its Salesforce usage and the need for an experienced Salesforce Administrator to partner with the business to build and maintain the Salesforce platform. This candidate would own management of a new instance for a new and exciting product from initial set up, to ongoing support and continuous improvements. Candidates must possess the ability to work directly with the internal business team and partner with program managers and developers for requirement gathering, on going maintenance, configuration, consulting, and implementation of new projects. The successful candidate must have a strong Salesforce technical skillset, prioritize multiple work streams, communicate with partners, execute in a fast paced environment, and be eager to learn.<br>
+<br>
+Key Responsibilities<br>
+<ul>
+<li>Hands on configuration of all new and existing Salesforce.com features including user management, security, custom objects, page layouts, validations, workflows, flows, process builders, Einstein Analytics, and other 3rd party applications.</li>
+<li>Manage Salesforce.com CRM application including support requests and escalated administrative needs of users by providing prompt and complete resolution to technical challenges and business support issues.</li>
+<li>Partner and consult with the business to identify and define business requirements and initiate and prioritize enhancement, gap analysis, and prepare user stories.</li>
+<li>Partner with global business stakeholders to proactively identify, drive, and build improvements, enhancements, and system customization that solve business needs.</li>
+<li>Own and deliver new process updates and projects, including ideation, requirement gathering, build, support, maintenance, and success tracking.</li>
+</ul>
+</div>
+<br>
+<div>Preferred Qualifications<br>
+<ul>
+<li>Solid understanding of and detailed experience working with enterprise level Salesforce.com instance.</li>
+<li>In-depth understanding of the capabilities and constraints of the Salesforce.com CRM application coupled with good understanding of standard business processes (Sales, Marketing, Operations, etc.).</li>
+<li>Strong business analysis and functional understanding, including requirements gathering, creating/deploying solutions to end users.</li>
+<li>Strong problem solving skills and ability to assess a problem and determine an effective course of action with sustainable solution.</li>
+<li>Excellent verbal/written communication skills, including an ability to effectively communicate with both business and technical teams.</li>
+<li>Excellent customer service skills, including strong ability to determine customer needs and provide appropriate solutions.</li>
+<li>Experience implementing Salesforce in highly regulated industries.</li>
+<li>Previous experience implementing and configuring Service Cloud, Health Cloud, Pardot, Marketing Cloud, and/or other customer support tools.</li>
+<li>Experience with Apex/Visualforce, JavaScript, HTML, CSS, etc.</li>
+<li>Strong understanding of Agile based development practices and Sprint planning strategies.</li>
+<li>Highly organized, detail oriented, and ability to work independently.</li>
+<li>Ability to handle competing priorities in a fast paced, deadline driven environment.</li>
+<li>Project management and/or business process management certification.</li>
+<li>Experience managing and triaging user submitted issues via ticketing system(s).</li>
+<li>Experience using Salesforce data tools (Data Loader, DemandTools, Eclipse Force.com IDE).</li>
+<li>Advanced Excel skills (Macro, Pivot Tables, VLookups).</li>
+<li>Experience working on iterative projects, and with deployment strategies/processes (staging environment vs. production).</li>
+</ul>
+<br>
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation / Age.</div>
+</div>

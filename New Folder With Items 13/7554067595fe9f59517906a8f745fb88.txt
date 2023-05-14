@@ -1,0 +1,74 @@
+<h2>Principal Business Systems Analyst - Enterprise Data and Analytics</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><div><div>
+<div>At Red Hat, we connect an innovative community of customers, partners, and contributors to deliver an open source stack of trusted, high-performing solutions. We offer cloud, Linux, middleware, storage, and virtualization technologies, together with award-winning global customer support, consulting, and implementation services. Red Hat is a rapidly growing company supporting more than 90% of Fortune 500 companies.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Job summary
+</b></h2>
+<div><div><div>
+<div>The Red Hat Information Technology (IT) team is looking for a Principal Business Systems Analyst to join the Enterprise Data and Analytics (EDA) team in Raleigh, NC. In this role, you will become the pivotal person helping to transform our analytics capabilities specific to our partner channel. You should have the ability to analyze complex business problems and issues using data from internal and external sources to provide insight to decision-makers. You will be responsible for working directly with internal customers to document and consult on business, data, and system requirements to deliver on new channel analytics, and translating said requirements to wireframes and technical requirements for developers. Ideally, you should have a minimum of eight years of experience working as a business analyst, knowledge of agile methodologies, and excellent communication skills.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Primary job responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Communicate and consult on business requirements</li>
+<li>
+Translate business needs into technical requirements</li>
+<li>
+Analyze and document business logic from various solutions including Tableau, SQL, Microsoft Excel, and SAP BusinessObjects (BOBJ)</li>
+<li>
+Constructs forecasts, recommendations, and strategic and tactical plans based on business data and market knowledge</li>
+<li>
+Create specifications for reports and analysis based on business needs and required or available data elements</li>
+<li>
+Directly produce datasets and reports for analysis using system reporting tools, if needed</li>
+<li>
+Plan, prioritize, and design features for the deployment of offerings</li>
+<li>
+Communicate feature release roadmap to customers</li>
+<li>
+Compile process flows to analyze dependencies</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Required skills
+</b></h2>
+<div><div><div>
+<ul>
+<li>Excellent communication skills and ability to converse with both business and technical resources</li>
+<li>
+Experience working with all aspects of business including channels, sales, marketing, finance, and operations</li>
+<li>
+Proficient in communicating and coordinating technology solutions and processes</li>
+<li>
+Ability to translate business rules logic into technical requirements</li>
+<li>
+Motivated, goal-oriented, and enthusiastic about solving tough problems</li>
+<li>
+Experience working in channel business models is a plus</li>
+<li>
+Proficiency in SQL, Amazon Web Services (AWS), and Tableau is a plus</li>
+<li>
+Knowledge of data architecture practices and data transport methods (ETL, ESB, API)</li>
+<li>
+Technical competency related to IT industry standards and best practices</li>
+<li>
+8+ years of experience working in a business analyst role</li>
+<li>
+8+ years of experience working in business intelligence (BI) with data analytics tools</li>
+<li>
+Good problem-solving and conflict resolution skills</li>
+<li>
+Solid written and verbal communication skills</li>
+</ul>
+<div></div>
+<br>
+<p>
+Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.</p>
+<p><br>
+Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.</p>
+</div></div></div>
+</div>
+<div></div>
+</div>

@@ -1,0 +1,65 @@
+<h2>Technical Account Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Technical Account Manager, New York
+<br><br>
+Want to empower digital business through real-time analytics delivered as a service? Passionate about putting the power of machine data analytics in the hands of everyone by unifying all data types, enabling universal access and leveraging cloud economics – all this from a single, unified platform delivered and consumed as a service? Come talk with us!
+<br><br>
+As a Technical Account Manager, you will be responsible for working with and guiding Sumo Logic's largest and most strategic customers toward successful adoption of the service. You will partner very closely with our senior Customer Account Managers to develop deep customer relationships with a small set of large, strategic accounts. You will be the main point of contact for all technical questions and assistance for these customers and represent their needs back to customer support, product management, engineering, and sales. And, you will work with the rest of the Customer Success team to build out and cultivate a customer community to enhance the experience of our customers.
+<br><br>
+The successful candidate for this job will have a strong technical aptitude along with a strong self-starting, proactive mentality. You must have a proven track record of creating and maintaining deep, lasting relationships with customers. You're going to be dealing with very technical users and complex issues, but you're also tasked with creating excitement and loyalty in the customers you interact with. This is an ideal role for technical, experienced sales engineers looking to get away from full-time travel requirements or experienced Professional Services consultants looking for a chance to focus on a set of strategic accounts they can help to grow.
+<br><br>
+<b>What you'll be working on:</b><br>
+<ul>
+<li>Engage customers during their post-sales onboarding process</li>
+<li>Help advise customers on successful implementation of use cases</li>
+<li>Share best-practices and other tools and resources to help customers successfully adopt the Sumo Logic service</li>
+<li>Help further adoption of the Sumo Logic service by discovering and implementing new use cases and data sources</li>
+<li>Proactively manage issues at customers based on KPIs and SLAs</li>
+<li>Stay actively engaged on assigned customers to ensure great customer health</li>
+<li>Participate in customer community forums</li>
+<li>Partner with senior Sumo Logic Customer Account Managers to ensure customers are renewing and expanding their accounts</li>
+<li>Represent customer needs internally with our product management and engineering teams</li>
+</ul>
+<b>Your experience and skills should include:</b><br>
+<ul>
+<li>A track record of having a bias for action to make things happen and drive results</li>
+<li>Experience with public cloud services such as AWS or Microsoft Azure</li>
+<li>Ability to write scripts, regular expressions, SQL queries, etc.</li>
+<li>Hands-on experience working with a variety of enterprise software infrastructure (operating systems, virtualization, database, network, security) products in production environments</li>
+<li>Five years or more experience working as a professional services consultant, customer success engineer, technical account manager, Solutions Architect or sales engineer</li>
+<li>Customer relationship management skills</li>
+<li>Excellent communication and interpersonal skills</li>
+<li>The ability to travel occasionally to customer sites</li>
+<li>The ability to thrive in a fast-paced, high growth and rapidly changing environment</li>
+<li>A demonstrated passion for making customers wildly successful</li>
+</ul>
+<b>These additional skills would be highly desirable:</b><br>
+<ul>
+<li>Experience with enterprise log management/metrics/SIEM products</li>
+<li>Experience with cloud-based technologies</li>
+<li>BS/B.Tech/M.Tech in Computer Science or Engineering</li>
+</ul>
+Still interested? We'd love to hear from you! Apply ( https://www.sumologic.com/company/careers/ ) now and learn more about our purpose ( https://www.youtube.com/watch?time_continue=12&amp;v=Z_RiuTuXrdM )!
+<br><br>
+___________________________________________________________________________
+<br><br>
+<b>About Us:</b> https://app.box.com/v/SLGeneralDossier ( https://app.box.com/v/SLGeneralDossier )
+<br><br>
+<ul>
+<li>What we do:</li>
+</ul>
+We are a cloud-native SaaS machine data analytics platform, solving complex monitoring problems for DevOps, SecOps and ITOps teams. Customers love our product because it allows them to easily monitor and optimize their mission critical, large scale applications.
+<br><br>
+<ul>
+<li>Mission:</li>
+</ul>
+Democratize machine data analytics through the Sumo Logic platform, bringing real-time data insights securely through the cloud.
+<br><br>
+<ul>
+<li>Massive Scale:</li>
+</ul>
+Our microservices architecture in AWS ingests hundreds of terabytes daily across many geographic regions. Millions of queries a day analyze hundreds of petabytes of data.
+<br><br>
+<ul>
+<li>Funding and Growth:</li>
+</ul>
+We have raised $345 million in funding to date, with the most recent round being May 2019. Investors include Battery Ventures, Greylock Partners, Sutter Hill Ventures, Accel Partners, Sequoia Capital, Sapphire Ventures, IVP, and DFJ Growth. Our recurring revenue and customer base are growing steadily. We serve over 2,000 customers across the globe including AirBnB, Alaska Airlines, Anheuser Busch, Hootsuite, Hearst, Hudl, Major League Baseball, Marriott, Medidata, Sauce Labs, Samsung SmartThings, SPS Commerce, Twitter, Telstra, Toyota, Zuora and more.</div>

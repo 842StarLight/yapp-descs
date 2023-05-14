@@ -1,0 +1,86 @@
+<h2>Solution Architect (REF21442Q) - Visa Digital Developer Platform (VDDP)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p></p>
+<ul>
+<li>Designs Push payments solutions based on a detailed understanding of Visa Direct’s strategic priorities, business requirements, and technical capabilities; provides detailed documentation to facilitate both internal alignment and technical direction and guidance.</li>
+<li>
+Coordinates with Product Management and Architects to determine the solution and functionality that the Visa Direct development team can implement.</li>
+<li>
+Designs all payment flows, including data points and business processes working with Product Management and Partners to understand product gaps and timescales for delivery.</li>
+<li>
+Drive internal proof of concept initiatives. When needed, quickly design and implement a prototype of a system or component with a proper architecture, and then hand over to (may lead) a small group of developers to finish</li>
+<li>
+Collaborate with the Business Owners, other product development groups and software vendors to identify and define solutions for complex business requirements.</li>
+<li>
+Provides thought leadership on all push payments related matters in order to develop a vision for specific areas of solution with an eye toward applicability across the greater client base.</li>
+<li>
+Collaborates with the Client-facing teams and coordinates with Product Management, Architects and Product Development teams to define the use cases and technical roadmap for Visa Direct integration with various ERP systems and business vertical specific applications.</li>
+<li>
+Stays abreast of evolving payment technologies, innovations and strategic partners that may accelerate speed-to-market, or enhance our existing products and solutions.</li>
+<li>
+Initiates solution ideation and execution to drive the creation of new solutions with Visa Direct product managers, as well as 3rd-party technology providers. Turns ideas into proof of concepts, prototypes, and technical artifacts to highlight our innovations, or to solicit client feedback on new product features or functionality.</li>
+</ul>
+</div>
+<p></p>
+<br>
+<div>Qualifications<br>
+<br>
+<p><b>Basic:</b></p>
+<ul><li>
+10 years of work experience with a Bachelor’s Degree or at least 8 years of work experience with an Advanced Degree (e.g. Masters/MBA/JD/MD) or at least 3 years of work experience with a PhD</li></ul>
+<div><b>
+Preferred:</b></div>
+<ul>
+<li>
+Bachelors Degree in Computer Science, Computer Engineering or related technical field required. Masters Degree or other advanced degree preferred.</li>
+<li>
+13+ years of relevant experience with 3+ years of experience in technical leadership role.</li>
+</ul>
+<p><b>
+Technical:</b></p>
+<ul>
+<li>
+Advanced understanding of banking, payment card systems, payment methods and merchant acquiring and processing in the US, Europe and Asia</li>
+<li>
+Detailed knowledge of how messages flow through the Payments Networks with a thorough understanding of ISO 8583 messages.</li>
+<li>
+Detailed and demonstrated experience in eCommerce, mobile and point-of-sale technologies</li>
+<li>
+Highly preferred to have an understanding of Fraud Management, PCI, Product Management and Marketing Principles</li>
+<li>
+ Business acumen on various modes of Electronic Payments</li>
+<li>
+Current knowledge of emerging payment trends, players and competitive landscape</li>
+</ul>
+<p><b>
+Business:</b></p>
+<ul>
+<li>
+Negotiation skills with a track record of achieving results</li>
+<li>
+Strong analytical, quantitative, commercial, project management and interpersonal skills</li>
+<li>
+Excellent written, verbal and presentation skills. Ability to synthesize information into key messages appropriate for the audience</li>
+<li>
+Ability to inspire and lead high performing cross-functional teams who can envision and create innovative solutions that meet the needs of our global clients</li>
+<li>
+Disciplined and tolerant of ambiguity, with the maturity and capability to interact and influence across multiple organizational levels, internal and external to the Visa Direct team</li>
+<li>
+Ability to interact with senior management; strong communication and presentation skills</li>
+<li>
+Intellectual curiosity and interest in digging into the detail, understanding data, making recommendations based on the data and using it to solve problems</li>
+</ul>
+<br>
+Additional Information<br>
+<br>
+<p><b>Work Hours </b>This position requires the incumbent to be available during core business hours.</p>
+<p><b>
+Travel Requirements </b>This position requires the incumbent to travel for work 15% of the time.</p>
+<p><b>
+Mental/Physical Requirements </b>This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers, and reach with hands and arms.</p>
+<p><b>
+EEO Statement </b>Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.</p>
+</div>
+</div>

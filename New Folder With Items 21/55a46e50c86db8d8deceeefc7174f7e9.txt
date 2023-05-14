@@ -1,0 +1,32 @@
+<h2>Salesforce Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Job Duties</p>
+<ul>
+<li>Effectively deals with a multitude of ambiguity by confidently walking through an undefined situation and drawing out key requirements and political constraints</li>
+<li>Conducts facilitated working sessions with technical executives and experts</li>
+<li>Participates in hiring resources Conduct hands-on development, configuration, or system setup</li>
+<li>Present technology architecture and solution overviews to executive-level audiences</li>
+<li>Create presentation materials with emphasis on simplifying complex ideas into digestible topics</li>
+<li>Provide leadership across multiple accounts as well as support sales and business development activities</li>
+<li>Apply technical aptitude and design patters across multiple industry verticals and use cases</li>
+<li>Conduct assessments and define enterprise roadmaps for enabling digital transformation</li>
+<li>Travels to client locations</li>
+</ul>
+<p>Requirements</p>
+<ul>
+<li>5-7+ years of SFDC experience</li>
+<li>Practiced at leading teams of 2-10+ technical resources</li>
+<li>Experience with the Salesforce platform, including template solutions like Sales Cloud, Service Cloud, Marketing Cloud</li>
+<li>Experience with custom application development in the Salesforce Platform, utilizing Visualforce and Lightning Components/Framework</li>
+<li>Experience with designing and implementing custom applications on the Salesforce platform using Apex programming</li>
+<li>Experience with object modeling in Salesforce and understanding of fundamental database concepts (including SOQL)</li>
+<li>Background in application development using technologies like HTML, CSS, and JavaScript</li>
+<li>Experience with integrating with the Salesforce platform (inbound/outbound) using the REST/SOAP APIs, MuleSoft, or Data Loader</li>
+</ul>
+<p><b>Sense Corp powers insight-driven organizations.</b></p>
+<p>We turn data into actionable insights and transform organizations for the digital era.</p>
+<p>Our people, culture, and how we engage with our clients are differentiators. Brilliant, Creative, Human, and Fun exemplify who we are. We are regularly recognized as a Best Place to Work by Austin, Houston, Dallas, and St. Louis Business Journals. With operations in Austin, Atlanta, Columbus, Dallas, Houston, San Antonio, and St. Louis we serve mid-market to Fortune 50 companies.</p>
+<p><b>The Sense Corp Compass</b></p>
+<p>We may be the only management consulting firm in the country where being brilliant isn’t enough to land you a job. Sense Corp people must be brilliant, creative, human, and fun all at once. In other words, we hire terrific, well-rounded people. It’s one reason clients love working with us. And it’s why we enjoy working with each other. We may not sound like typical consultants but that’s OK. We don’t think like them either.</p>
+<p>Visit us at www.sensecorp.com.</p>
+</div></div>

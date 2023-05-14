@@ -1,0 +1,40 @@
+<h2>ISV Solutions Architect - Amazon Web Services (San Francisco Bay Area)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>7+ years design/implementation/consulting experience with distributed applications</li>
+<li>5+ years of experience in infrastructure architecture, database architecture, applications, and networking</li>
+<li>Technical degree required; Computer Science or Math background desired</li>
+<li>3+ years of experience in technology/software sales, pre-sales, or technical consulting</li>
+<li>Working knowledge of software development tools and methodologies</li>
+</ul>
+<br>
+<div>Amazon Web Services (AWS) is looking for a Solutions Architect who is passionate about helping enterprise customers build infrastructures and applications at scale. Our solutions architects are experienced technologists with technical breadth and depth coupled with strong interpersonal skills. As a solutions architect, you will work directly with some of our largest customers to enable innovation through continuous deployment across technology stacks and demonstrate best practices around advanced cloud solutions.<br>
+<br>
+You will partner with Sales, Professional Services, and several other AWS teams to craft highly scalable, flexible and resilient cloud architectures that address customer business problems and accelerate the adoption of our services. Our solutions architects build architectures and provide prescriptive guidance across networking, storage, operating systems, virtualization, RDBMS &amp; NoSQL databases, Hadoop, and mid-tier technologies (application integration, security, in-memory caches). The ideal candidate will have a strong understanding of large-scale computing solutions and experience leading deep architecture discussions in a pre-sales role.<br>
+<br>
+Roles and Responsibilities:<br>
+<ul>
+<li>As a key member of the Account team, ensure success in designing, building and migrating applications, software, and services on the AWS platform</li>
+<li>Educate enterprise customers on the value proposition of AWS</li>
+<li>Participate in deep architectural discussions and design exercises to create world-class solutions built on AWS while ensuring solutions are designed for successful deployment in the cloud</li>
+<li>Author or otherwise contribute to AWS customer-facing publications such as whitepapers and proof of concepts</li>
+<li>In partnership with the sales team, formulate and execute a sales strategy to exceed revenue objectives through the adoption of AWS</li>
+<li>Build deep relationships with senior technical individuals within customers to enable them to be cloud advocates</li>
+<li>Capture and share best-practice knowledge amongst the AWS solutions architect community</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Experience architecting/operating solutions build on AWS</li>
+<li>Presentation skills with a high degree of comfort speaking with executives, IT Management, and developers</li>
+<li>Excellent communication skills with an ability to right level conversations</li>
+<li>Demonstrated ability to adapt to new technologies and learn quickly</li>
+<li>Experience migrating or transforming legacy customer solutions to the cloud</li>
+<li>Willingness to travel up to 25%</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.<br>
+<br>
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</div>
+</div>

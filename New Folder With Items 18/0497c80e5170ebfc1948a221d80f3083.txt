@@ -1,0 +1,142 @@
+<h2>Mgr Software Engineering - Data Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<div><b>Software Engineering Manager</b></div>
+<div><b>Reston, VA</b></div>
+<div></div>
+<div>Cirium is looking for a Software Engineering Manager based in the Reston, VA office to cultivate and inspire an agile software engineering team. This position reports to the Sr. Director of Software Engineering and serves as the glue between the engineering teams and individuals from functional groups across Cirium including: Engineering, DevOps / SREs, Product Management, Data Science, Support, Sales, Marketing and Finance, and also interfacing with key external partners on data and support issues.</div>
+<br>
+<div></div>
+<div>The Software Engineering Manager provides leadership, direction, vision and management for Data Acquisition, Data Processing and Data Delivery for ticketing data, DOT traffic and financial data, as well as transforming schedules data for input into QSI models and other downstream products. The position collaborates with Product Managers and others to lead the teams through a variety of efforts such as research, design, estimation, implementation, test and delivery, covering all of the teams’ software products, features, fixes and internal tools. The position also works to build bench strength by developing Principal Engineers and future team leaders. Additional responsibilities may include overseeing team budgets, identifying and supporting talent, defining resourcing requirements and allocations, plus recruiting of engineers.</div>
+<br>
+<div></div>
+<div>A valid passport and the ability to travel occasionally within the United States, Canada and the United Kingdom is required.</div>
+<br>
+<div></div>
+<div><b>Qualifications</b></div>
+<ul>
+<li>5+ years of professional Software Development experience.</li>
+<li>
+5+ years of data analytics or business intelligence experience.</li>
+<li>
+2+ years of people management experience.</li>
+<li>
+2+ years of project management experience.</li>
+<li>
+BS Engineering, Computer Science or equivalent experience required; advanced degree preferred. Degrees in Data Science, Economics, Mathematics or Statistics considered with commensurate computer science experience.</li>
+</ul>
+<div></div>
+<div><b>Non-traditional Skills</b></div>
+<ul>
+<li>Positive attitude and the ability to assume best intent in all conversations.</li>
+<li>
+Frequent, open and honest communication, both written and verbal.</li>
+<li>
+Collaborate remotely with global colleagues across time zones.</li>
+<li>
+Embrace and foster a culture of ownership and accountability.</li>
+<li>
+Recognize, learn from and celebrate both successes and failures.</li>
+<li>
+A knack for getting the right people in the same room at the right time.</li>
+<li>
+You value products over projects.</li>
+<li>
+You care about outcomes, not output.</li>
+</ul>
+<br>
+<div></div>
+<div><b>Traditional and Technical Skills</b></div>
+<ul>
+<li>Proven track record in leading technology resources to solve complex business needs.</li>
+<li>
+Ability to leverage technical metrics to drive effective team decisions.</li>
+<li>
+Knowledge of large and complex systems.</li>
+<li>
+Knowledge of architectural and software design principals.</li>
+<li>
+Proven ability to lead test-driven software development and maintenance.</li>
+<li>
+Experience with code reviews and development approaches.</li>
+<li>
+Proven ability to adapt to new roles and responsibilities.</li>
+<li>
+Ability to manage teams through vague requirements, by understanding complex data structures, elements, metrics, algorithms, and user stories.</li>
+<li>
+Experience in software development process using Agile methodologies, particularly Kanban (using Jira as a collaboration and tracking tool).</li>
+<li>
+Excellent skills in setting, communicating, implementing, and achieving business objectives and goals through the direct management of others.</li>
+<li>
+Excellent project planning, time management plus change and risk mitigation skills across multiple functional groups.</li>
+<li>
+Excellent problem-solving experience and identifying, researching and coordinating the resources necessary to effectively troubleshoot/diagnose complex project issues; prior success extracting/translating findings into alternatives/solutions; and identifying risks/impacts and adjustments to facilitate management decision-making.</li>
+<li>
+Strong interpersonal, communication and presentation skills applicable to a wide audience including senior and executive management, customers, etc., including diction/terminology and presenting information in a concise and effective manner to clients, management and various organizations using assorted communication mediums.</li>
+<li>
+Superior collaboration skills and experience.</li>
+</ul>
+<div></div>
+<div><b>Assets</b></div>
+<ul>
+<li>Hands-on experience with some of the software stack, languages and tools currently used by engineering teams in Reston and Portland – namely SQL, R, Python, SAS, Kubernetes, Docker, AWS cloud-based microservice models, Athena, Glue, Spark, S3 data lakes, Git/Bitbucket, Jira, Cloudability, DataDog, ZenDesk, etc.</li>
+<li>
+Professional and/or specialized coding skills.</li>
+<li>
+Strong Excel skills.</li>
+<li>
+Past experience in the aviation and/or travel industries, particularly related to big data and analytics, airline metrics, ticket data, schedules, or traffic/on-boards data.</li>
+</ul>
+<div></div>
+<div><b>Responsibilities</b></div>
+<ul>
+<li>Responsible for leading teams of both internal and external technology resources.</li>
+<li>
+Ensure that contractual KPIs and SLAs are continually tracked and achieved.</li>
+<li>
+Track squad resource usage against budgeted allocations (“bank of days”) for specific clients, and against CapEx and OpEx accounting.</li>
+<li>
+Provide accurate effort and cost estimates for custom deliverables and professional data services, and coordinate with the Financial Analyst and Financial Manager to fully report and invoice custom services.</li>
+<li>
+Meet or exceed operational targets, service-level agreements, estimates, quality and/or cost requirements.</li>
+<li>
+Make short- and long-term decisions in relation to product development strategies.</li>
+<li>
+Lead the development of technical standards and perform reviews to ensure enterprise and architectural standards and processes are followed.</li>
+<li>
+Utilize best practices and understand emerging trends.</li>
+<li>
+Recommend technical strategy and direction across functional areas.</li>
+<li>
+Consult with stakeholders and site reliability engineers to find appropriate work-arounds during system outages.</li>
+<li>
+Work directly with customers and end users.</li>
+<li>
+Design and work with complex data models.</li>
+<li>
+Seek diverse ideas and perspectives from a variety of sources to create better solutions, products and services.</li>
+<li>
+Carry out people management responsibilities in accordance with the organization’s policies, procedures and applicable laws. Responsibilities include interviewing, hiring, and training employees; planning, assigning and directing work; appraising performance; rewarding and disciplining employees; and addressing complaints, mediating disputes and resolving problems.</li>
+<li>
+Ensure all staff is provided with the training and resources needed to perform their jobs to the most outstanding degree possible. Ensure all staff is provided with frequent feedback and coaching, including regular one-on-one sessions, in order to meet and exceed individual and team performance goals consistently.</li>
+<li>
+Manage and encourage new ideas from engineers and others to foster improvements through innovation.</li>
+<li>
+Empower engineers to be accountable and responsible for their own actions and decisions.</li>
+</ul>
+<div></div>
+<div>About the company:</div>
+<div>Cirium provides data services and end-to-end data solutions to customers serving the global travel industry. The company has established a leadership position as a provider of real-time global flight information, serving airlines and airports, travel agencies, developers, consumers, and more. The company is leveraging the platform and domain knowledge it has developed to expand into new data sets and new products that deliver value to the company’s core markets. We work in an interesting field, we have demonstrated success in what we do, and we are well positioned for future growth.</div>
+<br>
+<div></div>
+<div>Our Environment:</div>
+<div>We hire the best talent in the travel and technology industries. To support our talented team, we offer an extraordinary work environment that places trust and respect at the forefront of our company values. These values enable our employees to do their best work by creating an open, supportive environment that promotes creativity. Employees are also provided outstanding benefits that encourages a healthy life/work balance. If that weren't enough, our offices provide lots of natural light and include well-stocked refrigerators and snack bars! We think it's a great place to do great work, and if you like the sound of this as well, we encourage you to consider this opening.</div>
+<br>
+<br>
+</div>
+<br>
+RBI is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. If a qualified individual with a disability or disabled veteran needs a reasonable accommodation to use or access our online system, that individual should please contact 1.877.734.1938 or accommodations@relx.com.</div>
+<div></div>
+</div>

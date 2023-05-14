@@ -1,0 +1,80 @@
+<h2>System Administrator (Solutions Engineer)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>System Administrator (Solutions Engineer)</b><br>
+</p>
+<p>Hello and ahoy! We’re looking for a system administrator with decent scripting skills and experience using our products to join the Solutions team at PDQ.com. If you love solving problems, helping other system administrators, and interacting with people (within reason), then read on.</p>
+<p>
+Oh, and you should also be,</p>
+<ul>
+<li>
+<b>Highly skilled in technical customer support</b>. You’ve been in the trenches for 3 - 5 years, and you’ve used PDQ Deploy and PDQ Inventory long enough to be able to deploy a nested package to a Dynamic Collection based on the OS revision level and logged on user status without Brad from sales ever knowing.</li>
+<li>
+<b>An exceptional solver of problems</b>. It comes with being a system administrator. It’s in your blood, and you fancy dealing with a wide variety of customers and solving their sometimes very complex problems even if it requires extensive research or going far above and beyond what’s normally expected from support. That means you're going to be a better troubleshooter than most of your peers.</li>
+<li>
+<b>Empathetic</b>. You want to make our customers look good and save them time regardless of their level of skill or experience. You’re committed to providing our customers the exceptional level of support <i>you</i> would expect.</li>
+<li>
+<b>Dedicated to details</b>. As much as you ensure your troubleshooting is precise, efficient, and the information you provide is accurate, your communication with the customer makes them delighted to be working with you.</li>
+<li>
+<b>Curious</b>. You're eager to learn, grow, and be part of our team. You're the kind of person that if you don't understand something, you Google it and figure it out. When you don't know something, you learn it.</li>
+<li>
+<b>An excellent writer</b>. Our support is almost entirely written support, and we communicate heavily over Slack. Being an outstanding written communicator in the English language is essential.</li>
+</ul>
+<p><b>Pro</b><b>duc</b><b>t and company</b></p>
+<p>
+Our company goal is to make the lives of system administrators (like you) easier - and make them look good. We have two applications that do that, PDQ Deploy and PDQ Inventory. You should be very familiar with both of these products.</p>
+<p>
+Check out these videos to learn more about our company:</p>
+<ul>
+<li>PDQ.com We're Hiring video (https://youtu.be/TM3WcrYhum4)</li>
+<li>PDQ.com Mockumentary (https://youtu.be/ezZg3ZC_-5g)</li>
+</ul>
+<p>PDQ.com is a great place to work. We're saying that even though HR told us we ought to. Some of our favorite things about our jobs include:</p>
+<ul>
+<li>All the great benefits you'd expect from working at a cool tech company: Choice of your own office or open team areas, catered lunches, quarterly profit sharing, 160 hours of paid time off annually &amp; three days of volunteer time off, an in-office gym, fully-subsidized health benefits (medical/dental/vision), 401K match to 6%, many three-day weekends, and like two more things at least.</li>
+<li>Managers who are supportive and technically experienced (the best kind of experienced).</li>
+<li>Company-supported education, training, and the occasional conference trip.</li>
+<li>Remote work flexibility for when you need to defend your home against porch pirates. (The majority of your time will still be here in the downtown Salt Lake City office).</li>
+<li>Salary is $70 - $77.5K depending on experience.</li>
+</ul>
+<p><b>Information about the role</b></p>
+<p>
+We want your help with our ticket volume; these are not your run of the mill "the printer does not work" tickets. These are the top-shelf kind of tickets where you help other administrators like you with PDQ Deploy and PDQ Inventory.</p>
+<p>
+Thanks to our applications relying heavily on a functional Windows environment, you'll get to experience a wide variety of environments and setups while troubleshooting.</p>
+<p>
+We also need a helping hand maintaining our ever-growing library of ready-to-deploy software packages in the Package Library.</p>
+<p>
+Finally, like every other sysadmin job out there, we need some help maintaining our infrastructure - bonus points if you're a Cisco IOS/NX-OS wizard.</p>
+<p><b>
+Expected job breakdown:</b><br>
+50% - customer support.</p>
+<ul>
+<li>Assist customers with questions and issues via email only. And, again, we'll plug the fact that you'll be working with system administrators, not Karen in AR who routinely forgets to charge her wireless mouse.</li>
+<li>Create and maintain documentation and content, including blog posts, KBs, and sometimes threads on our support forums. If you're comfortable on camera, maybe even contributing to our video library and weekly webcasts.</li>
+</ul>
+<p>30% - maintain and add packages to the Package Library.</p>
+<p>
+20% - internal IT</p>
+<ul>
+<li>Assist with IT task and projects all the way from swapping a keyboard in the studio to setting up an offsite agent testing sandbox.</li>
+<li>Assist with security, architecture, PowerShell Automation, and networking, based on your skills/interests.</li>
+</ul>
+<p><b>Required skills:</b></p>
+<ul>
+<li>You'll need to have a thorough understanding of Windows, Active Directory, DNS, networking, credentials, and GPOs.</li>
+<li>You'll need to have an intermediate to advanced understanding of PowerShell or another scripting language.</li>
+<li>You know PDQ Deploy and PDQ Inventory intimately. You use them both regularly.</li>
+<li>Know how to silently install/deploy Windows applications in a variety of ways outside of using PDQ products.</li>
+<li>Super bonus extra credit: some C# knowledge.</li>
+</ul>
+<p><b>Next Steps</b></p>
+<ul>
+<li>Apply here or at https://pdq.bamboohr.com/jobs/</li>
+<li>Once we receive your application, we'll send you a homework assignment with instructions.</li>
+<li>
+<b>Submission of Homework is required</b>. We are unable to consider your application and resume and move you forward in the recruitment process if you do not submit the homework. We don't even look at your resume until we have the homework in our greedy little hands.</li>
+</ul>
+<p>At PDQ.com, we own ownership, we embrace collaboration and tear down silos, we are honest even if it's embarrassing and we are always learning and improving.</p>
+<p>
+PDQ.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+</div></div>

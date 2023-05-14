@@ -1,0 +1,33 @@
+<h2>Technical Support Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>We’re looking for a motivated, analytical individual to help us ensure our customers’ exceptional product experience. Customer happiness is the driving force of our success, and it takes a lot of thought, care, patience, persistence, and knowledge.</p>
+<p>
+You will interact directly with customers (through Zendesk) to hunt down solutions to their problems, to inform our product roadmap, and to assist with scaling our Support operations for substantial growth. Toward these ends, you will work closely with all of our departments, especially the development team, our account managers and our sales staff.</p>
+<p>
+The ideal candidate will be an excellent communicator and patient problem solver, and will thrive in a fast-paced environment where task-switching is often required. They will also be eager to learn about our complex and ever-changing product offering. If you like getting to the root of a technical problem, this may be the right job for you.</p>
+<h2 class="jobSectionHeader"><b>
+Position Requirements</b></h2>
+<ul>
+<li>Enthusiasm for helping people solve their technology-related problems</li>
+<li>
+Experience working through challenging technical issues</li>
+<li>
+Ability to pick up new technologies quickly &amp; self-starter mentality</li>
+<li>
+Bachelor’s degree</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Plus Factors</b></h2>
+<ul>
+<li>Basic HTML</li>
+<li>
+Any programming experience, especially Ruby and/or JavaScript.</li>
+<li>
+Knowledge of online video platforms, web plugins, and/or captioning technology.</li>
+<li>
+Video production/multimedia experience</li>
+<li>
+Ticket management system experience; e.g., Zendesk, Zendesk Chat, JIRA</li>
+</ul>
+<h2 class="jobSectionHeader"><b>About the Company</b></h2>
+<p>3Play Media is a rapidly growing, profitable technology company with a startup culture making a huge impact on the way people consume online media. We provide premium captioning, transcription, audio description, and translation solutions to over 2,500 higher ed, enterprise, media, and government customers. Our goal is to simplify the workflow through flexible APIs, a secure online account system, and integrations with a multitude of players, platforms, and lecture capture systems. We got our start in 2008 out of MIT Sloan and we are based in Boston, MA.</p>
+</div></div>

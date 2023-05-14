@@ -1,0 +1,72 @@
+<h2>ISE</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Cisco Meraki knows that technology can connect us, empower us, and drive us. By simplifying powerful technology, we can free passionate people to focus on their mission. As the fastest growing cloud-managed networking team in the world, our products and technology architecture are changing the face of enterprise networking and making cloud-managed IT a reality. As part of an entrepreneurial team in this rapidly growing business, you help customize the direction by ensuring our organizational challenges and opportunities are driving towards the best results.</p>
+<h2 class="jobSectionHeader">
+<b>
+WHAT</b><b> </b><b>YOU'LL</b><b> </b><b>DO</b>
+</h2>
+<p>
+As an Inside Systems Engineer based in our San Francisco office, you will team up with a Cisco Meraki Sales team to assist with technical sales activities for new and existing opportunities. You will utilize your in-depth knowledge of Cisco's Cloud Networking solutions to demonstrate bold advantages over industry players to both prospective customers and partners. This position provides career development through the direct daily interaction with customers and partners, opportunities to travel in territory for customer and partner visits.</p>
+<h2 class="jobSectionHeader">
+<b>
+WHO</b><b> </b><b>YOU'LL</b><b> </b><b>WORK</b><b> </b><b>WITH</b>
+</h2>
+<p>
+You will have internal cross function collaboration with the Product Management, Product Development/Engineering, Technical Marketing and Sales teams.</p>
+<h2 class="jobSectionHeader"><b>
+WHO YOU ARE</b></h2>
+<p>
+You act as a technical resource to the Meraki Sales team for all technical pre sales activities and product related inquiries. You will conduct online product demonstrations, answer technical questions, contribute to proposals, analyze clients’ needs, and develop technical solutions in a pre-sales environment.</p>
+<div>
+<p>
+You will become the technical authority on Cisco’s Cloud Networking products, features, functions, and benefits, while being able to share that knowledge with audiences at all levels of clients (from IT Manager to CTO)</p>
+<p>
+You maintain strong interpersonal presentation and troubleshooting skills while evoking passion and confidence with your audience</p>
+<p>
+You work with the Cisco Meraki Sales team on strategic sales initiatives (customer outreach, Channel training, etc.) to grow business in targeted regions</p>
+<p>
+You understand customer and partner requirements to then successfully present and deploy full stack Meraki networking solutions</p>
+<p>
+You will build design/deployment guides for both external and internal audiences</p>
+<p>
+Inside Systems Engineers at Cisco Meraki are a critical component of the sales team and as such, are compensated on the results of the team they support</p>
+<p>
+Be awesome</p>
+</div>
+<h2 class="jobSectionHeader"><b>
+DESIRED SKILLS AND EXPERIENCE</b></h2>
+<div>
+<p>
+Consistent track record of 1-3 years in a sales engineering capacity or 3+ years in an enterprise networking engineering/administration role</p>
+<p>
+Experienced knowledge in full stack networking, wireless site surveys, large campus network design, network security strategies, capacity planning, and common networking deployment challenges</p>
+<p>
+Authoritative knowledge in end-to-end network troubleshooting, including packet level analysis via wireshark/pcap, packet construction, etc.</p>
+<p>
+Familiarity with UTM/security features and functionality (IDS/IPS, dynamic VPN’s, content filtering, packet inspection, NAC, ACL’s, QoS)</p>
+<p>
+Familiarity with WAN design (MPLS, BGP, IP VPN’s)</p>
+<p>
+Familiarity with campus LAN design including building redundant networks, routing protocol design, and high availability strategies (multicast, VLAN’s, RSTP, OSPF, VRRP, DHCP, TCP, UDP, ARP, DSCP, AAA/RADIUS)</p>
+<p>
+Familiarity with wireless networking fundamentals including site survey activities, high density planning/troubleshooting, and roaming (802.11a/b/g/n/ac, WPA2, 802.1x, EAP, 802.11r, PMK, OKC, 802.11e/WMM, BYOD)</p>
+<p>
+Bonus experience/interest: captive portal design, JSON, REST, XML, SAML, SQL</p>
+<p>
+Understanding of technical sales activities, challenges, and enablement strategies preferred</p>
+<p>
+Extraordinary communication skills, both verbal and written</p>
+<p>
+Strong organizational skills with the ability to multi-task and set priorities</p>
+<p>
+CCNA, CWNA, CCNP, CCDP, CCIE are a plus</p>
+<p>
+Bachelor or Master’s degree in Computer Science, Computer Engineering or a related discipline</p>
+<p>
+Need to be authorized to work in the U.S.</p>
+</div>
+<p>
+Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis. Cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.</p>
+<p>
+At Cisco Meraki, we don't just accept difference - it's one of our key values. Everybody In means we listen to each other's opinions. Everybody is accepted and valued here, and we are a team that works as one towards our goals. We recognize that diverse teams make the strongest teams, and we encourage people from all backgrounds to apply.</p>
+</div></div>

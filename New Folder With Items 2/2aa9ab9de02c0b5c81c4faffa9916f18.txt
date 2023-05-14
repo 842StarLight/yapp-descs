@@ -1,0 +1,88 @@
+<h2>Electronics Design Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Closing Date:</b><br>
+28th September 2019
+<br><br>
+<b>Reports To:</b><br>
+Engineering Manager
+<br><br>
+<b>Position Summary:</b><br>
+The Electronics Design Engineer will support New Product Development and Current Product production. This individual will be responsible for concept design, development, testing, product certification, and introduction into production.
+<br><br>
+<b>Location:</b><br>
+USA - Milwaukee
+<br><br>
+<b>Division:</b><br>
+Rotork Controls
+<br><br>
+<b>Rotork Office:</b><br>
+USA - Milwaukee - Rotork Controls Inc.
+<br><br>
+<b>Job Type:</b><br>
+Full Time
+<br><br>
+<b>Area Of Interest:</b><br>
+Engineering
+<br><br>
+<b>Contact:</b><br>
+Amie Beatty
+<br><br>
+<b>Contact Email:</b><br>
+amie.beatty@rotork.com
+<br><br>
+<b>Main Responsibilities:</b><br>
+Assist in the development of product design specifications in conjunction with the sales and marketing functions.
+<br>Produce and evaluate concept designs using outlined design requirements.
+<br>Produce final designs in accordance with the design specification, results of concept development, and project design specification.
+<br><br>
+<b>Ensure the integrity of the design process, through:</b><br>
+Development of design specifications (hardware)
+<br>Technical Design Calculations
+<br>Simulation of design using tools such as Spice
+<br>Nodal Analysis (prototype verification)
+<br>Leading/supporting design review process
+<br><br>
+<b>Produce all necessary production and assembly documentation:</b><br>
+Electronics test plans
+<br>Manufacturing documentation
+<br>Circuit Design
+<br>Analog Design-basic circuit design for specific use (eg filters, isolation amplifiers, I/O circuitry)
+<br>Digital Design-Defensively design systems incorporating safety measures (e.g watchdogs, voltage monitoring)
+<br>Power electronics – Can design and implement basic motor control circuits such as a brushless DC motor and switching power supplies
+<br>Low power design – Is able to implement a battery powered system designed for an industrial environment
+<br>Have working proficiency with schematics capture/PCB layout software. (DX Designer, PADS, Altium preferred).
+<br>Experience with CAD package such as AutoCAD, Solid Edge
+<br>Provide technical support to the sales, service, production, purchasing and quality assurance departments.
+<br>Provide leadership and direction to others on the design team. Project lead, when required, liaising with internal departments and suppliers, whilst supervising and auditing the work of others. This may entail the generation and maintenance of the project plans with details of major milestones, completion dates, costs and resource requirements.
+<br>Participate in design reviews to facilitate the approval of owned projects, while assisting with verification of work undertaken by colleagues.
+<br>Testing &amp; debugging - has practical experience of debugging new and legacy designs
+<br>Design for EMC (and testing) - Experience in pre-compliance testing and resolving EMC issues during/after EMC testing
+<br>Electrical safety – Meet applicable Local, North American and International Standards
+<br>Hardware design reviews – Able to lead a design review of someone else's design
+<br>Industrial network protocols (general) – Is aware of and has used some industrial networks such as MODBUS, Profibus, Foundation Fieldbus, HART, etc..
+<br>Is able to read and understand firmware (written in C) to assist in debugging designs.
+<br>Can write basic C code to prove the hardware operation of a board. More advanced skills a plus.
+<br>Undertake visits to global customers, suppliers, consultants, subsidiaries, licensees and associated companies.
+<br><br>
+<b>Candidate Specification:</b><br>
+Bachelor of Science in Electrical Engineering with 10 years of new product development experience.
+<br>Understand Lean manufacturing principles/philosophies and how they apply to both the design, manufacture, and assembly process.
+<br>Working knowledge of Hazardous approval/Electrical safety requirements for IECEx, ATEX, FM, CSA and CE.
+<br>Experience leading design projects/teams and facilitating the activities of those projects/teams.
+<br>Have good experience in the product design of an electro-mechanical systems, at a level commensurate to the tasks required for this position in the “main responsibilities” section above.
+<br>Possess experience of the full range of the design process, from conceptual design through manufacture.
+<br>Embedded applications –knowledge of C language and experience with ARM Cortex-M and Microchip processors
+<br>Experience with lab equipment, including Oscilloscopes, programmable power supplies, Spectrum analyzers, fast burst transient generators
+<br><br>
+<b>Functional/ Technical Competencies:</b><br>
+Technical expertise
+<br><br>
+Critical thinking
+<br><br>
+To apply for this role, please submit your up to date CV.
+<br><br>
+Apply for this job
+<br><br>
+No Agencies
+<br><br>
+Rotork do not accept speculative CVs from recruitment agencies who are not part of our preferred supplier list and we reserve the right to contact candidates directly without paying agency fees.</div>

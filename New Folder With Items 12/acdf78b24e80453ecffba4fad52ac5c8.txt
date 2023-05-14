@@ -1,0 +1,50 @@
+<h2>UI Software Architect - Public Safety</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Do you want to lead efforts creating software that supports first responder safety and day-to-day operations for Law Enforcement and Fire agencies? The UI Software Architect position suits individuals who thrive in dynamic, collaborative environments that provide significant opportunity for knowledge and career growth. The Public Safety Enterprise Records team is a group of passionate, thought leading technologists who engage with end users regularly to craft best-in-breed Public Safety software. As an UI Software Architect, you would be a senior technologist responsible for collaborating with engineering, product and QA teams to design and implement high quality, scalable front-end architectures for the Enterprise Records platform.</p>
+<p>The UI Software Architect is expected to lead the design and implementation of product release deliverables on time and with a high-level of application quality and performance for a web-based product that spans both on-premise, cloud, and mobile. Output impacts revenue and organizational growth, which in turn supports our Sales and Services organizations. The Enterprise Records team works in a fast-paced environment to support growing business objectives with a high degree of accountability. The UI Software Architect directly contributes to this effort by owning the design, execution and delivery of releases and fostering strong engineering practices. This role works within a larger Product team that includes QA and Product Management functions.</p>
+<br>
+<p></p>
+<p>Work with our integrated solutions that help courts and public safety organizations of all sizes better protect and serve the public. By helping provide solutions that improve efficiency and response time, you can help serve our citizens and make communities safer.
+</p>
+<div>
+<h2 class="jobSectionHeader"><b>Location</b></h2>
+<p>Troy, Michigan</p>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Responsibilities</b></h2>
+<ul>
+<li>Provide business value by solving market problems that support first responder safety and operations for Law Enforcement and Fire agencies.</li>
+<li>Design, develop and maintain responsive web applications providing exceptional user experiences on desktop and mobile devices.</li>
+<li>Work and collaborate with a cross-functional team of product owners, UX designers, architects, developers and QA/automation engineers.</li>
+<li>Be a mentor and inspire</li>
+<li>Assist engineers with refining and packaging up their ideas to communicate with stakeholders highlighting business value</li>
+<li>Embrace learning and take initiative to stay current with industry trends and technology</li>
+<li>Bring new ideas and approaches to the team</li>
+<li>Coordinate effectively across local and remote product teams</li>
+<li>Clearly communicates ideas between Product, Development, QA and Leadership</li>
+</ul>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Qualifications</b></h2>
+<ul>
+<li>Expert level understanding of design principles for building and deploying highly available and scalable enterprise business web applications.</li>
+<li>Strong test automation (unit, integration, performance) perspective and experience</li>
+<li>Knowledge and understanding of up to date forward-looking web standards (e.g. Web Components, Service Workers)</li>
+<li>Experience working with popular JavaScript Frameworks (e.g. Angular, React, etc.). Angular experience is preferred.</li>
+<li>Experience with continuous integration, continuous delivery and build/deploy tooling, webpack experience is a plus.</li>
+<li>Experience working with Agile development frameworks.</li>
+<li>Demonstrated ability to solve problems in a highly complex, matrixed environment.</li>
+<li>Demonstrated ability to manage multiple commitments, maintaining potentially aggressive timelines while ensuring a high level of quality in deliverables.</li>
+<li>Strong planning and organizational skills involving the ability to manage multiple work tasks effectively.</li>
+<li>Ability to provide mentorship/guidance to junior engineers on technologies, architecture, design patterns and best practices.</li>
+<li>Strong interpersonal and communication skills involving communicating technical and non-technical information in writing and verbally; including an occasional presentation.</li>
+<li>Ability to work independently as well as collaborate in a team across functional groups.</li>
+<li>Ability to be effective in a fast-paced environment.</li>
+<li>Bachelor's degree in Computer Science or related field.</li>
+</ul>
+</div>
+</div>
+<p></p>
+</div>

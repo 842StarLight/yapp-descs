@@ -1,0 +1,102 @@
+<h2>Network Technician</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div><div>
+<div>
+<div>2020BR</div>
+</div>
+<div>
+<div>Information Systems</div>
+</div>
+<div>
+<div>Regular</div>
+</div>
+<div>
+<p><b>Job Description</b></p>
+<div>SUMMARY<br>
+This position operates in a fast paced environment for the leading national distributor of foodservice equipment and supplies. Under minimal supervision, the level II Network Support Technician assists in managing assigned portions of a large Novell, Microsoft, or similar computer network or group of networks, typically consisting of approximately eight hundred or more workstations. This position is responsible for performing a variety of maintenance, installation, and training tasks to enable users to maximize productivity.<br>
+<br>
+ESSENTIAL DUTIES<br>
+Creates/manages/troubleshoots while using the correct management tools: User profiles in a Novell and Microsoft environments, Printers and their print queues in a Novell and Microsoft environment, Shared file folders, Anti-Spam<br>
+user profiles. Prepare/configure Microsoft servers as required. Prepare/configure SUSE Linux servers as required.<br>
+Monitor and troubleshoot servers on a Blade/san in a VMWare environment. Manages in anti-spam management Work in direct support of a the Network Supervisor to assist in the successful completion of projects. Reviews nightly backup processes to ensure they were completed. Notifies appropriate personnel of failures and/or remediate the issue.<br>
+Creates documentation to support any new implementations of processes or hardware. Uses in-house technical training material that is available. Proper and accurate completion of Help Desk tickets. Interfaces with vendor support resources to achieve problem resolution. Researches vendor web-sites as a resource to achieve problem resolutions. Identifies,<br>
+prevents and reports any software license violations. Maintains DNS/DHCP systems functionality. Performs<br>
+modifications as required. Remote monitoring of network servers to ensure resource availability. Assists in administering troubleshooting a complex network or group of networks typically consisting of around 800 or more workstations on a Novell or Microsoft based system. Assists in installing, configuring, troubleshooting Cisco, Novell or Microsoft networks, file servers, Ethernet networks, network cabling, and other related equipment. Adds or upgrades and configures modems, disk drives, CD ROM units, printers, and related equipment. Assists in the management of network printers using associated management tools. Performs and/or oversees software and application development, installation, and<br>
+upgrades; and may maintain site licenses for department/organization. Develops and conducts various training and instruction for system users on specific operating systems, and applications in use in the department/organization;<br>
+assists users in maximizing use of networks and computing systems. Provides technical lead and/or supervises system administrators or others of equivalent seniority. Maintains currency of knowledge with respect to relevant state-of-the-art<br>
+technology, equipment, and/or systems. Accepts and maintains Help Desk tickets as assigned. Maintains a high level of security and confidentiality in regards to the data and information available on the Don Network. May be Project Lead for network projects.<br>
+<br>
+Working conditions:<br>
+On-call 24x7 availability for a minimum of 1 to 2 weeks a month or as dictated by the on-call schedule Ability to lift 25 to 50 pounds. Dexterity of hands and fingers to operate other computer components. Occasional inspection of cables in floors and ceilings. Minimal amount of travel to our collocation facilities or to other distribution centers as required.<br>
+Performs other duties as assigned
+</div>
+</div>
+<div>
+<p><b>External Qualifications</b></p>
+<div>QUALIFICATIONS<br>
+Required minimum knowledge, skills, education/training, experience, and physical obligations:<br>
+<ul><li>Bachelor’s degree in Computer Science, Information Technology, or related field plus a minimum of 2 years of related network support experience OR High School Diploma or GED equivalent plus four or more years of related network</li></ul>
+support experience<br>
+<ul>
+<li>Network+ or CCNA Certification is required or must be obtained within 90 days</li>
+<li>Well versed in VMWare 5.0 or higher Well versed in Blade/SAN environment. Preferably IBM.</li>
+<li>Well versed in SUSE Linux</li>
+<li>A working knowledge of Cisco switches and router technology commands and troubleshooting.</li>
+<li>Well versed in backup technologies such as Backup Exec and Tape libraries.</li>
+<li>Ability to communicate technical information to non-technical personnel</li>
+<li>Knowledge of computer and/or network security systems, applications, procedures, and techniques</li>
+<li>Ability to identify and resolve computer system malfunctions and operational problems</li>
+<li>Knowledge of federal copyright laws as they pertain to the use of computer software</li>
+<li>Ability to use the appropriate network operating system management tools to create, modify, and manage various user, printer or server objects</li>
+<li>Ability to effectively communicate both orally and in writing</li>
+<li>Ability to gather, document and forward any information pertinent to produce successful corrective action involving technical issues</li>
+<li>Knowledge of current technological developments/trends in area of expertise</li>
+<li>Ability to maintain and troubleshoot computer hardware, software, and peripherals</li>
+<li>Knowledge of network connections and facilities and computer network infrastructure requirements</li>
+<li>Ability to foster strong, open lines of communication across all levels of the organization</li>
+<li>Ability to adhere to Edward Don &amp; Company’s standards of conduct policy</li>
+<li>Ability to travel infrequently to other offices for hardware roll-outs</li>
+</ul>
+<br>
+Preferred minimum knowledge, skills, education/training, experience,<br>
+and physical obligations:<br>
+<ul>
+<li>Bachelor's degree from an accredited institution in IT, IS, or related field is preferred</li>
+<li>VMWare 5.0 or higher. Blade/SAN environment. Preferably IBM.</li>
+<li>SUSE Linux</li>
+<li>Experience on Novell NOS client side experience is a plus</li>
+<li>VMware Certified Professional, Comptia Server +, Network +, Novell, MCSA Server, MCSE Server Infrastructure Certifications preferred.</li>
+<li>Cisco switch and router concepts. Basic theory and command line knowledge. CCNA track desirable.</li>
+</ul>
+<br>
+</div>
+</div>
+<div>
+<p><b>City</b></p>
+<div>woodridge</div>
+</div>
+<div>
+<p><b>State/Province</b></p>
+<div>Illinois
+</div>
+</div>
+<div>
+<p><b>Zip Code</b></p>
+<div>60517</div>
+</div>
+<div>
+<p><b>FLSA</b></p>
+<div>Exempt</div>
+</div>
+<div>
+<p><b>Company Overview</b></p>
+<div>Owned and operated by the Don family since 1921, Edward Don &amp; Company is the world's leading distributor of foodservice equipment and supplies. Our knowledgeable sales representatives, unmatched product selection, nationwide distribution centers, and integration of new technology make us the chosen supplier to all types of foodservice businesses including independent restaurants, national chains, health care, hospitality, country clubs, schools and universities, government institutions, and foodservice management.<br>
+<br>
+Edward Don &amp; Company offers a comprehensive benefit plan which includes medical, dental and vision benefits; 401(k); paid vacation, personal/sick days and holidays; job training and development; life insurance; employee assistance program; flexible spending accounts; merchandise discounts and much more.<br>
+<br>
+Edward Don &amp; Company is an Equal portunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</div>
+</div>
+</div></div>
+<div></div>
+</div>

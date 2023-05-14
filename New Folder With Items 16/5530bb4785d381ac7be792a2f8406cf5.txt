@@ -1,0 +1,48 @@
+<h2>QA Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Company Overview:</b><br>
+Revel Systems is the POS and platform built to help businesses achieve their goals. Improving day-to-day operations and fueling merchant growth, Revel's streamlined ecosystem pairs an intuitive point of sale with powerful management tools, integrating inventory management, employee management, sales reporting, and more into a single platform.
+<br><br>
+Revel works with businesses from small merchants to global enterprises, that are looking to implement cutting-edge technology that helps increase revenue, improve efficiency, and enhance experiences for employees and customers. Founded in 2010 Revel is a leading member of the Apple Enterprise Mobility Program.
+<br><br>
+The Revel team is focused on its mission to disrupt and modernize the state of commerce by providing businesses of every size the tools necessary to thrive. Come join a smart, motivated team and work at a leading technology company during the next phase of growth.
+<br><br>
+<b>Position Summary:</b><br>
+As an QA Engineer, this role will support Dev and QA Teams. Reporting directly to QA Director. This role is focuses heavily on helping translate business requirements into test plans, implementing and improving quality best practices. You'll be responsible for supporting the continual process, product improvement and ensure product and process integrity leading to customer satisfaction and overall product success.
+<br><br>
+<b>Essential Duties and Responsibilities:</b><br>
+<ul>
+<li>Develop and maintain test scripts and tools to support functional, performance, and scalability testing for all aspects of our platform and SDKs</li>
+<li>Develop, maintain, and execute test plans and test cases</li>
+<li>Provide clear and detailed reports on test execution status</li>
+<li>Interfaces frequently with the manager to understand product and business goals</li>
+<li>Develop, extend, execute, and analyze regression, functional, and performance test plans and automation for our storage/cloud product</li>
+<li>Identify, setup, test, and troubleshoot permutations of software, hardware, and network configurations</li>
+<li>Develop and extend scripts, programs, and other tools to implement test automation.</li>
+<li>Document and track your work and participate in code and design reviews</li>
+<li>Extensive object oriented analysis, design &amp; development experience within QA test automation process</li>
+<li>Experience working with cross-functional teams including engineering, PM's, support and senior management is required</li>
+<li>Assists in the identification and design of automated processes to increase testing efficiency and reliability.</li>
+</ul>
+<b>Qualification:</b><br>
+<ul>
+<li>6+ Years' experience in Testing Cloud Applications with at least 3+ years' experience in iOS product.</li>
+<li>Experience working in an Agile development model</li>
+<li>Experience with Ranorex, JMeter, Docker, Jenkins, GIT, API Automation tools and cloud-based solutions experience a plus</li>
+<li>Experience automating UI, API's, Python and backend systems using open source tools</li>
+<li>Strong experience with CI/CD process and in enabling continuous testing</li>
+<li>Hands on experience with Python and Java a plus</li>
+<li>Ability to work with offsite/distributed team members to ensure QA framework is being leveraged effectively and best practices are followed by all team members</li>
+<li>Should be a good team lead &amp; team player</li>
+<li>Excellent communication skills.</li>
+<li>Good knowledge on eCommerce/Retail domain is an added advantage</li>
+</ul>
+Perks
+<br><br>
+<ul>
+<li>Employee benefits: gym &amp; commuter subsidy, referral bonus, healthcare, wellness programs, and 401K plan</li>
+<li>Office Happy Hours</li>
+<li>Quarterly and annual company outings</li>
+<li>Apple equipment</li>
+</ul>
+</div>

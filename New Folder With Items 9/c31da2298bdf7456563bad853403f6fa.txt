@@ -1,0 +1,172 @@
+<h2>Salesforce Business Analyst (DEVOPS041)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<h1 class="jobSectionHeader"><b><i>Truckstop.com is hiring a Salesforce Business Analyst for our Fox River Grove or Chicago, IL location</i></b></h1>
+<h1 class="jobSectionHeader"><b><i>
+</i></b></h1>
+<p><b>
+About Truckstop.com</b></p>
+<p>
+Truckstop.com is one of the largest online freight matching services in the trucking industry, providing a one-stop connection between carriers and brokers. Founded in 1995 as the first freight-matching marketplace to hit the Web, Truckstop.com has grown to provide load planning, transportation management, route optimization, real-time rates, powerful negotiation tools, and other logistics solutions. Click here to learn more about Truckstop.com’s history.</p>
+<p>
+Truckstop.com is backed by ICONIQ Capital, a privately-held financial advisory and technology growth equity investment firm. ICONIQ is a trusted advisor fostering meaningful strategic relationships across industries to source powerful ideas, magnify global impact and support a new generation of entrepreneurs and companies.</p>
+<h1 class="jobSectionHeader"><b><i><br>
+</i></b></h1>
+<p><b>
+About our Culture</b></p>
+<p>
+Truckstop is a destination where talented individuals can build an epic career. It is a place where talent feels connected, fulfilled and equipped to do what they do best while having fun doing it. We call our employees Partners because we are deeply interdependent upon each other to achieve remarkable things <i>together</i>. We believe that for talent to be their best selves, we must enable them with the freedom to exercise their own judgment, and provide them with the autonomy to experiment, to innovate, and test where they can go, so they can do something they never thought they could. Each of our Partners is unique. <i>Be you</i> is the message we foster. We look for Partners who are aware of, and who are confident in their talents and who are passionate about serving others. We will achieve massive success when you can be yourself.</p>
+<p><b><i>
+E pluribus unum</i></b><b> - Out of many, one</b></p>
+<p>
+We look for Partners who enjoy working in a <i>One Team</i> mindset environment. By combining our unique personalities, experiences, skills and knowledge we can accomplish amazing feats together!</p>
+<h1 class="jobSectionHeader"><b><i>
+Truckstop.com does not utilize third party vendors for recruiting, nor accept unsolicited resumes from recruiters, staffing agencies or employment firms.
+</i></b></h1>
+<h1 class="jobSectionHeader"><b><i>Position Summary:</i></b></h1>
+<p>
+The Business Analyst (BA) is responsible for analyzing the business needs of the product line to support product improvements and innovations, including software development efforts. The BA will work with business departments, stakeholders and product owner to learn, analyze and document current business processes and application functionality as well as elicit and document new requirements. The BA is responsible for writing business requirements and translating them into appropriate technical specifications to be used by the technology teams in new product development and testing, in accordance with Salesforce best practices. A proficient BA will learn and understand the business and advise the business on how to best leverage the capabilities inherent in Salesforce.</p>
+<p>
+The successful BA will be responsible for these activities related to Truckstop's Salesforce Sales and Service Cloud Solution. Experience with Zuora's CPQ product, or other CSQ experience is highly desirable but not required.</p>
+<h1 class="jobSectionHeader"><b><i><br>
+</i></b></h1>
+<h1 class="jobSectionHeader"><b><i>
+Essential Job Functions:</i></b></h1>
+<p>
+The BA acts as a liaison between business departments, technology teams, and quality assurance team to ensure requirements are met and incorporated into system design, deployment and testing. Project assignments often require preliminary discussions with the business to bring clarity to the scope and objectives. The BA coordinates and fosters consensus among multi-component teams in the development of technology projects. The BA articulates the technology available in the Salesforce, and to advise on inherent best practice to leverage that technology.</p>
+<p>
+Follows standard requirements definition methodologies including developing Use Cases, High Level Designs, Wire Frames, Process Flows, User Stories, and other required documents. The BA could be involved in all phases from need identification to implementation. The business could engage the BA once the solution (business requirements and design) are defined and take them to enough detail that the requirements are testable and verifiable.</p>
+<p>
+The successful BA will be responsible for these activities as needed for assigned projects:</p>
+<p>
+Business and Requirements Analysis</p>
+<ul>
+<li>
+Elicit, learn, analyze and document the requirements of the business by utilizing interview techniques, document and process analysis, use case building, user stories and user scenarios.</li>
+<li>
+Serve as functional requirements lead on Salesforce projects with Project manager</li>
+<li>
+Map requirements to out-of-box functionality within Salesforce</li>
+<li>
+Understand the "as is" environment and provide functional expertise and knowledge of the existing business practices</li>
+<li>
+Analyze incoming projects and production support requests from business and work with Salesforce team to adjust Salesforce roadmap as necessary</li>
+<li>
+Develop and enhance relationships with key business stakeholders, actively managing their expectations and monitoring their satisfaction levels</li>
+<li>
+Create technical documents that include use cases, process flows, actor diagrams, business documentation, business rules, validations, and actor descriptions to be used by software development and testing teams to develop new products.</li>
+<li>
+Provide reference by writing documentation (business and technical specifications) using company standards (document templates saved to SharePoint; project details tracked in Jira and other project tracking tools).</li>
+</ul>
+<ul><li>
+Creative thinking - able to review and analyze applications and systems from different perspectives. Flexible - able to adjust to shifting priorities. Comfortable with a fast-paced work environment with good multi-tasking skills. Customer-service-minded. Able to manage own time to meet department goals and deadlines.</li></ul>
+<ul>
+<li>
+Must be or become familiar with company products and navigate the company's programs and systems in a reasonable amount of time. Strong skills in Microsoft Office (Outlook, Excel, Word, PowerPoint, Visio, Internet technologies) and use of office equipment.</li>
+<li>
+Must be able to communicate effectively verbally and in writing, maintain cooperative effective working relationships within the company, and support a team environment.</li>
+<li>
+Identify interactions between systems to identify dependencies and design considerations for the new solution.</li>
+</ul>
+<ul>
+<li>
+Map business needs and processes to pre-built Salesforce features</li>
+<li>
+Define business need by conferring with requestors; evaluating procedures and processes.</li>
+<li>
+Work with technical architect to translate business requirements into appropriate specifications</li>
+<li>
+Propose solution by preparing and evaluating alternative workflow solutions.</li>
+<li>
+Define workflow using use cases, activity diagrams, sequence and process flows.</li>
+<li>
+Work closely with the User Interface/User Experience (UI/UX) team to collaborate on a solution recommendation that meets the needs of the business while accounting for technical considerations.</li>
+<li>
+Control solution by establishing specifications; coordinating production with programmers.</li>
+<li>
+Knowledge of technologies including SQL, relational databases, queries, scripts, web services, APIs, and data interchange is desirable but not required.</li>
+<li>
+Update job knowledge by participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations.</li>
+<li>
+Accomplish information systems and organization mission by completing related activities as needed.</li>
+</ul>
+<p>
+Development, Design, and Operational Design Support</p>
+<ul>
+<li>
+Identify opportunities that can improve efficiency of business processes</li>
+<li>
+Work with operations and support teams to write production support documentation for new and existing systems</li>
+<li>
+Collaborate with developers to test and verify that solutions will meet the business requirements</li>
+<li>
+Prepare communications to the user community.</li>
+<li>
+Facilitate system and application training with business personnel; ensure support team is equipped for ongoing support of the product.</li>
+<li>
+Create training materials in support of development projects.</li>
+</ul>
+<p>
+Quality Assurance</p>
+<ul>
+<li>
+Write detailed test requirements for Quality Assurance (QA) to use as a minimum viable baseline.</li>
+<li>
+Review and validate test cases and scenarios created and executed by QA.</li>
+<li>
+Write and help execute User Acceptance Testing (UAT) plans and test cases to be used by end users to validate product performance and functionality, as well as execute test cases as needed</li>
+<li>
+Interpret and document error reports from customer support and business units.</li>
+<li>
+Assist in troubleshooting software application issues.</li>
+<li>
+Assist with analysis to identify root cause and define potential solutions to system issues and defects.</li>
+</ul>
+<h1 class="jobSectionHeader"><b><i>
+Position Requirements:</i></b></h1>
+<ul>
+<li>
+Salesforce Administrator Certification. Other Salesforce Certifications also highly desirable, especially Salesforce Consultant.</li>
+<li>
+The BA position requires strong business skills to ensure understanding of the business use of systems for which requirements are being defined.</li>
+<li>
+Minimum of 2 years' experience in Salesforce implementation efforts following a standard software development lifecycle approach.</li>
+<li>
+Detail oriented with analytical &amp; problem-solving skills</li>
+<li>
+Strong facilitation, communication, and organization skills</li>
+<li>
+Commitment to the success of the development team at large, and the business.</li>
+<li>
+Become a subject matter expert on the features and capabilities of applications developed.</li>
+<li>
+Ability to set priorities and work to tight deadlines</li>
+<li>
+Demonstrated effectiveness in a fast-paced rapidly changing environment</li>
+<li>
+Knowledge of industry standard development methodologies and technologies.</li>
+<li>
+Patience and sense of humor.</li>
+</ul>
+<h1 class="jobSectionHeader"><b><i>
+</i></b></h1>
+<h1 class="jobSectionHeader"><b><i>
+Physical Demands:</i></b></h1>
+<p>
+Minimum physical exertion. While performing the duties of this position, the employee is frequently required to sit, communicate, reach and manipulate objects, tools or controls. The position requires mobility. Duties involve moving materials weighing up to 5 pounds on a regular basis. Manual dexterity and coordination are required over 75% of the work period while operating equipment such as computer keyboard, mouse, 10-key calculator and copier/fax.</p>
+<p></p>
+<br>
+<h1 class="jobSectionHeader"><b><i>
+Work Environment:</i></b></h1>
+<p>
+Ideal protected indoor office work environment and clean, non-hazardous work area. The noise level in the work environment is typical of most office environments with telephones, personal interruptions, and background noises.</p>
+<p></p>
+<br>
+<p>
+The above description covers the most significant duties performed but does not include other related occasional work that may be assigned or is completed by the employee.</p>
+<p><i>
+Truckstop.com provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</i></p>
+</div>
+<p></p>
+</div>

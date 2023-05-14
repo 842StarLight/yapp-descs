@@ -1,0 +1,49 @@
+<h2>Supply Chain Analyst I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>The Supply Chain Analyst performs fact based, data driven analysis, and modeling on significant amounts of data across all supply chain and customer service functions using advanced analytical/statistical and optimization tools. This position performs optimization of inventory and distribution network utilization using linear programming models, and CPLEX or AMPL software, along with Structured Query Language (SQL). The responsibility also includes development of supply chain processes and systems to optimize customer service levels, inventory investment, capital investment, sales and profitability.
+</p>
+<p></p>
+<p><b>Required Skills
+</b></p>
+<ul>
+<li>Strong quantitative and analytical skills
+</li>
+<li>Manage multiple supply chain projects concurrently
+</li>
+<li>SQL Skills (Writing complex queries to pull large data sets, performing analysis on large data sets using SQL queries, etc.)
+</li>
+<li>Optimization skills (knowledge of AMPL software and/or CPLEX)
+</li>
+<li>Advanced Microsoft Excel (Pivot tables and Formulas) skills
+</li>
+<li>Demonstrates detailed knowledge of technical environments, database platforms, related tools, and utilities.
+</li>
+<li>Some programming knowledge (SQL, C#, C++)
+</li>
+<li>Strong communication skills
+</li>
+<li>Ability to coach and train other employees on data analysis and optimization tasks
+</li>
+<li>Other duties as assigned
+</li>
+</ul>
+<p></p>
+<p><b>Required Experience
+</b></p>
+<ul>
+<li>Data Analysis experience
+</li>
+<li>Knowledge of optimization modeling of Linear and Mixed Integer Programming problems is required
+</li>
+<li>Master’s Degree in Industrial Engineering, Mathematics, Manufacturing/ Production Engineering, Statistics, or Operations Research, and one year of work experience in an analytical position
+</li>
+<li>If candidate does not hold a Master’s degree in the fields above, a Bachelor’s degree and at least 5 years of work experience in an analytical position are required.
+</li>
+</ul>
+<p>Veritiv is an Equal Opportunity/Affirmative Action employer. Individuals seeking employment are considered without regards to race, ethnicity, color, creed, religion, sex, sexual orientation, marital status, age, disability, gender identity or expression, genetic information, national origin, protected veteran status or any other classification protected by law. Additionally, Veritiv will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with Veritiv’s legal duty to furnish information. If you would like more information about your EEO rights as an applicant, please click here: http://www.eeoc.gov/employers/upload/poster_screen_reader_optimized.pdf
+</p>
+<p>http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf</p>
+</div>
+<p></p>
+</div>

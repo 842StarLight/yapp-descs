@@ -1,0 +1,40 @@
+<h2>Senior Programmer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">HPOne, named CT Magazine's 2018 Great Places to Work, is looking for an Account Manager to join our team.
+<br><br>
+The Senior Programmer will prepare detailed specifications from which computer programs will be written. The senior programmer will communicate with users to identify current operating procedures and clarify program objectives.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Design, develop and optimize web applications in a Microsoft based development environment</li>
+<li>Troubleshoot, debug and maintain web and batch applications</li>
+<li>Translate business users' requirements into actionable specifications</li>
+<li>Meet programming standards by following production, productivity, quality, and customer-service standards; identify work process improvements</li>
+<li>Strive to increase operating efficiency or adapt to new and improved systems</li>
+<li>Architect, develop and implement software programs to meet business requirements</li>
+<li>Develop application code and modules for business and technical requirements</li>
+<li>Tune up design for maintainability, scalability and efficiency</li>
+<li>Design and develop systems, sub-systems and programs</li>
+<li>Coordinate and support technical staff and operations</li>
+<li>Resolve and troubleshoot problems and complex issues</li>
+<li>Perform unit tests and fix bugs</li>
+<li>Integrate best qualitative practices in design and development aspects of programs</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Five + years related experience</li>
+<li>Bachelor's degree in Computer Science or related field</li>
+<li>Experience with leading teams for assigned projects</li>
+<li>Familiarity or proficiency in the following areas: Net, Ajax, Analysis, Analyst, ASP, ASP.NET, C#, CSS, Database, Developer, Development, HTML, Javascript, jQuery, Lifecycle, Linux, OOD, Programmer, Project, SQL, SQL Server, UML, Web Developer, Windows, XML</li>
+<li>Work nights/weekends/Holiday as needed</li>
+<li>Understand complex issues and solve problems</li>
+<li>Flexible, responsive and work effectively under pressure</li>
+<li>Self-motivated and creative</li>
+<li>Work well in a team oriented environment, helping others to succeed</li>
+<li>Work well with and communicate with people</li>
+<li>Willing to assist and support others</li>
+</ul>
+<b>About HPOne:</b><br>
+Founded in 2006, HPOne is a leading sales and marketing organization that operates across multiple segments of the Medicare and health insurance marketplaces. Using proprietary technology solutions coupled with deep industry knowledge, the company provides a range of outsourced sales, marketing and contact services for national and regional health plans, operates private exchanges for individual consumers and employer-based group retirees, and manages the largest exclusive Medicare lead generation marketplace in the industry. HPOne's core differentiation is its exclusive focus on the health insurance industry, bringing innovative and performance-based solutions that address the most pressing challenges facing clients. With four state-of-the-art contact centers around the country and a management team with an average of over 15 years in the health insurance industry, HPOne provides its clients with the solutions they need to profitably grow and manage their business. For five consecutive years, HPOne has been named to Deloitte's Technology Fast 500™, a ranking of the 500 fastest growing technology, media, telecommunications, life sciences and energy tech companies in North America, earning a rank of 357 for 2016.
+<br><br>
+<b>HPOne is an Equal Opportunity Employer:</b><br>
+Equal Employment Opportunity (EEO) is a fundamental principle at HPOne, where employment is based upon personal capabilities and qualifications. HPOne does not discriminate because of actual or perceived sex, sexual orientation or preference, gender identity, gender, transgender, race, color, religion, national origin, creed, citizenship status, ancestry, age, marital status, pregnancy, childbirth or related medical conditions, medical conditions including genetic characteristics, mental or physical disability, military and veteran status, or any other protected characteristic as established by law. HPOne requires the necessary drug testing and background checks as part of our pre-employment practices.</div>

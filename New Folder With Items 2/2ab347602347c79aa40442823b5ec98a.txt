@@ -1,0 +1,30 @@
+<h2>AWS Global Accounts Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>7+ year’s design/implementation/consulting experience of large-scale, enterprise applications</li>
+<li>3+ years’ experience working with multi-national automotive customers in support of technology sales either internally or directly to automotive customers</li>
+<li>Technical degree required</li>
+</ul></div>
+<br>
+<p>Amazon Web Services (AWS) is seeking a technical leader for our solution architecture team who will be responsible for the technology strategy and senior level relationships with global Auto enterprise customers.<br>
+<br>
+The Global Accounts Auto Solutions Architect will be responsible for creating and driving the technical strategy with sales in the management of accounts with a complex and multi-faceted relationship with AWS. You will partner with customers and several AWS teams to craft highly scalable, flexible and resilient cloud architectures that provide solutions to solve customer business problems and accelerate the adoption of AWS services. In collaboration with sales, you will drive revenue growth across a defined set of customers.<br>
+<br>
+As a trusted customer advocate, you will have the opportunity to help shape and execute a strategy to build mindshare and broad use of AWS with enterprise customers. You will also need to be adept at interacting, communicating and partnering with other teams within AWS such as services teams, marketing, and professional services, as well as representing your team to executive management.<br>
+<br>
+Must be open to travel at least 50% including international.</p>
+<br>
+<div>
+<ul>
+<li>Master’s degree preferred</li>
+<li>Professional experience architecting/operating solutions built on AWS</li>
+<li>Experience communicating across internal and external organizations</li>
+<li>Experience collaborating with the sales team to drive customer satisfaction, exceed customer expectations, create and execute business plans to accelerate the adoption of AWS and exceed revenue goals</li>
+<li>Demonstrated experience developing enterprise application architectures to meet business requirements in complex environments</li>
+<li>Experience with cloud solutions, virtual platforms, software development experience, and operational management practices and frameworks</li>
+<li>Understanding of security, risk and compliance frameworks, disaster recovery, high availability architectures, hardware, operating systems and networking connectivity</li>
+<li>Large-scale systems integration involving on-premises technology and public cloud platforms</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.</div>
+</div>

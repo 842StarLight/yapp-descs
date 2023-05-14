@@ -1,0 +1,130 @@
+<h2>Cloud Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>We are looking for a highly motivated and passionate Cloud Solution Architect for Cloud Applications and/or Infrastructure solutions to drive high priority customer initiatives on the Microsoft Azure Platform in collaboration with customers and the Microsoft field in the enterprise accounts segment of our business. This is a customer facing role, owning the overall technical relationship between the customer and Microsoft Azure Infrastructure and Applications Development Platform.</div>
+<div></div>
+<br>
+<div>
+You will own the Cloud Infrastructure and/or Azure Applications Development technical customer engagements (State &amp; Local Government) including architectural design sessions, specific implementation projects and/or pilots. The ideal candidate will have experience in customer-facing roles and success leading deep technical architecture discussions with senior customer executives, Enterprise Architects, IT Management and Developers.</div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<div></div>
+<br>
+<div>
+Key responsibilities include:</div>
+<div></div>
+<br>
+<ul>
+<li>
+Understand customers' overall applications portfolio, IT and business priorities and success measures to design implementation architectures and solutions (Microsoft and 3rd party solutions) using PaaS, DevOps &amp; Advanced Application coding</li>
+<li>
+Apply technical knowledge and customer insights to create a modernization roadmap. Architect solutions to meet business and IT needs, ensuring technical viability of new projects and successful deployments, while orchestrating key resources and infusing key Infrastructure technologies (e.g. Windows and Linux IaaS, Security, Networking, etc.), and Application Development and DevOps technologies (e.g. App Service, containers, serverless, cloud native, etc.) as appropriate</li>
+<li>
+Ensure all solutions exhibit high levels of performance, security, scalability, maintainability, and appropriate reusability and reliability upon deployment</li>
+<li>
+Develop deep relationships with key customer IT decision makers, who drive long-term cloud adoption within their company to enable them to be cloud advocate</li>
+<li>
+Be the Voice of the Customer; Share insights and best practices, and connect with Engineering teams to remove key blockers</li>
+<li>
+Assess the Customers' knowledge of Azure platform and overall cloud readiness to support customers through a structured learning plan and ensure its delivery through partners</li>
+<li>
+Collaborate with other Cloud Solution Architects in developing complex end-to-end Enterprise solutions on the Microsoft Azure platform</li>
+<li>
+Maintain technical skills and knowledge of market trends and competitive insights; collaborate and share with the technical community
+</li>
+<li>Be an Azure Platform evangelist with customers, partners and external communities</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<div><b>
+Experiences Required – Education, Key Experiences, Knowledge and Skills:</b></div>
+<div></div>
+<br>
+<div><b>
+Professional:</b></div>
+<div><ul>
+<li>
+<b>
+Experience</b>. 3+ years of success in consultative/complex technical sales and deployment projects, architecture, design, implementation, and/or support of highly distributed applications <b>required</b>
+</li>
+<li>
+<b>
+Relationship Building.</b> Proven track record of building deep technical relationships with senior IT executives in large or highly strategic accounts. Experience in managing various stakeholder relationships to get consensus on solution/projects. <b>required</b>
+</li>
+<li>
+<b>
+Problem Solving.</b> Ability to solve customer problems through cloud technologies <b>required</b>
+</li>
+<li>
+<b>
+Collaboration and Communication. </b>Acknowledged for driving decisions collaboratively, resolving conflicts and ensuring follow through with exceptional verbal and written communication skills. Ability to orchestrate, lead, and influence virtual teams, ensuring successful implementation of customer projects. Presentation skills with a high degree of comfort with both large and small audiences (Senior Executives, IT management, Database administrators and Data Scientist) <b>required</b><b>Technical</b>
+</li>
+<li>
+Enterprise-scale technical experience with cloud and hybrid infrastructures, architecture designs, migrations, and technology management <b>required</b>
+</li>
+<li>
+Experience and understanding of large-scale application portfolios in enterprise-wide environments (including migration of on-premise workloads to the cloud) <b>required</b>
+</li>
+</ul></div>
+<ul><li>
+<b>Subject matter expertise in one or more of the following:
+</b><ul>
+<li>Deep domain expertise of cloud infrastructure solutions (i.e. Windows and Linux IaaS, SAP, BCDR, Security, Management, Storage, Networking, OSS, containers and Infra as a code technologies) required</li>
+<li>
+Deep domain expertise in …<ul>
+<li>
+cloud application development solutions (e.g. PaaS, Serverless, API Management);</li>
+<li>
+container orchestration (e.g. Kubernetes, Cloud Foundry);</li>
+<li>
+continuous integration technologies (e.g. Jenkins, Spinnaker, Azure for DevOps, Chef, Puppet);</li>
+<li>
+web application server technologies, cloud application design, software architecture and practices; (design/development/deployment, Agile, SCRUM, ALM)</li>
+<li>
+one or more of the following programming languages: C++, C#, Java, Node.js, JSON, PHP, Perl, Python, Ruby on Rails, Pig/Hive
+</li>
+</ul>
+</li>
+<li>Experience using integrated development environments (e.g. Visual Studio, Visual Studio Code, Eclipse, XCode, WebSphere) targeting Android, iOS, Linux, Windows, public clouds (i.e. Azure, AWS) required
+</li>
+<li>Experience with scalable architectures using Azure App Service, API management, serverless technologies, container orchestration (e.g. Kubernetes, Cloud Foundry etc.), API management, microservice frameworks etc.
+</li>
+<li>Software development practices like DevOps and CI/CD tool chains (i.e. Jenkins, Spinnaker, Azure DevOps, GitHub). <b>preferred</b>
+</li>
+<li>
+<b>
+Competitive Landscape. </b>Knowledge of cloud development platforms <b>preferred</b>
+</li>
+<li>
+<b>
+Partners. </b>Understanding of partner ecosystems and the ability to leverage partner solutions to solve customer needs <b>preferred</b>
+</li>
+</ul>
+</li></ul>
+<div><b>
+Education:</b></div>
+<ul>
+<li><b>
+Bachelor's degree in Computer Science, Information Technology, Engineer or related field preferred</b></li>
+<li>
+Certification in one of the following technologies <b>preferred</b>: Cloud, mobile, web application development, cloud-native application architecture (i.e. containers, microservices, API management), modern software development techniques like DevOps and CI/CD tool chains (i.e. Jenkins, Spinnaker, Azure developer services, GitHub) and container orchestration systems (i.e. Docker, Kubernetes, Cloud Foundry, Azure Kubernetes Service, GitHub).<br>
+</li>
+</ul>
+<div></div>
+<div><b>Experiences:</b></div>
+<ul>
+<li>
+Prior work experience in Public Sector is <b>highly desired</b>
+</li>
+<li>
+Prior work experience in a Consulting/Architecture position within a software and/or services company such as Amazon, VMware, Google, IBM, Oracle <b>desired</b>
+</li>
+</ul>
+<div></div>
+<br>
+<div>
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.</div>
+<div></div>
+<br>
+<div>
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.</div>
+</div></div>

@@ -1,0 +1,112 @@
+<h2>Senior Database Administrator (EBS)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>Founded in 1866, The Sherwin-Williams Company is a global leader in the manufacture, development, distribution, and sale of paints, coatings and related products to professional, industrial, commercial, and retail customers. The company manufactures products under well-known brands such as Sherwin-Williams®, Valspar®, HGTV HOME® by Sherwin-Williams, Dutch Boy®, Krylon®, Minwax®, Thompson’s® Water Seal®, Cabot® and many more. Sherwin-Williams® branded products are sold exclusively through a chain of more than 4,100 company-operated stores and facilities, while the company’s other brands are sold through leading mass merchandisers, home centers, independent paint dealers, hardware stores, automotive retailers, and industrial distributors. The company supplies a broad range of highly-engineered industrial and OEM coatings for wood and general industrial, coil, packaging, protective and marine, and transportation applications worldwide. Our 60,000 employees are diverse, innovative and passionate. With a variety of rewarding and challenging opportunities, Sherwin-Williams is a great place to find a career that takes you places.</div>
+<br>
+<div></div>
+<div>
+</div>
+<div>The Database Support Services team is responsible for the care and maintenance of database solutions, including IT systems, applications, processes and infrastructure, that have passed through the development cycle and are serving the business needs of our customers. In accordance with the IT strategy, the team maintains current or near current levels of software, patches, features, and configurations for the IT systems. In addition, the team provides support as the IT systems are extended to users in new locations globally.</div>
+<br>
+<div>
+</div>
+<div><b>Essential Functions</b></div>
+<div>
+<br>
+</div>
+<div><b>Strategy &amp; Planning</b></div>
+<ul>
+<li>Partner with business, technical, and vendor contacts to discuss requirements for and review proposals for new IT solutions. Participate in the selection process for new IT solutions.</li>
+<li>Assist in creating quarterly work plan of activities in support of customer/vendor goals and/or strategy. Assist in determining resource requirements needed to support the activities.</li>
+<li>Provide input to creation of rolling maintenance plan of activities 6-12 months in advance.</li>
+</ul>
+<div><b>Acquisition &amp; Deployment</b></div>
+<ul>
+<li>Review project requests describing database user needs to estimate time and cost required to successfully accomplish a project.</li>
+<li>Participate, with responsibility for some major deliverables, in the transition of support for new IT solutions that have been implemented for customer by the Database Technical Services team or other implementation partners.</li>
+</ul>
+<div><b>Operational Management</b></div>
+<ul>
+<li>Establish and maintain working relationship with representatives from the customer/vendor.
+</li>
+<li>Provide regular, clear, and consistent communication (written and oral) on the status of projects, issues, and deliverables to representatives from the customer/vendor.
+</li>
+<li>Develop and maintain understanding of key processes, schedules, cycles, profiles, etc. for the technical systems in use by a customer.
+</li>
+<li>Document key processes, schedules, cycles, profiles, etc. for the technical systems in use by a customer.
+</li>
+<li>Define, implement, and maintain service levels objectives, based on the metrics, for the IT systems and processes in use by a customer/vendor.
+</li>
+<li>Monitor key performance indicators and implement enhancements to improve/maintain performance/productivity at acceptable levels.</li>
+<li>Establish and maintain a 24x7 global support model for all environments (Oracle EBS and Core databases) in support of customer.</li>
+<li>Participate in the planning and execution of the monthly maintenance process, including patches, system configurations, and preventative maintenance activities, across all production environments in support of customer.</li>
+<li>Partner with Developers, System and Network administrators in a multinational environment to support and improve system performance and stability.</li>
+<li>Establish and calculate optimum values for database parameters.</li>
+<li>Work with Oracle Support to facilitate analysis of and resolution to technical issues.</li>
+<li>Participate in rotation for after-hours support of environments.</li>
+<li>Assume primary responsibility during problem resolution. Uses troubleshooting techniques to identify root cause and implements permanent corrective action to resolve issues.
+</li>
+<li>Manage medium projects &amp; change requests, using basic project management techniques. Documents and manages project scope. Documents project plan in terms of work breakdown structure, effort, and schedule. Creates, maintains, and executes project plan. Works with business team to resolve project issues. Assesses and mitigates project risk.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Incidental Functions</b></h2>
+<ul>
+<li>Monitor the database environment to identify and recommend alternatives/enhancements.</li>
+<li>Consult with end users and developers to recommend the most appropriate database solution.
+</li>
+<li>Assist application development with database design considerations.
+</li>
+<li>Assist in the designs of data models.</li>
+<li>Assist in performance tuning, and monitoring of all system tiers.</li>
+<li>Maintain current knowledge of the technology workspace in terms of current state, future possibilities, forthcoming technologies, and their relevance and impact.</li>
+<li>Assist with other projects as may be required to contribute to efficiency and effectiveness of the work.
+</li>
+<li>Participate in hiring activities and fulfilling affirmative action obligations and ensuring compliance with the equal employment opportunity policy.</li>
+<li>Minimal travel is required.</li>
+<li>Work outside the standard office 7.5 hour workday as required.</li>
+</ul>
+<div><b>Position Requirements</b></div>
+<div>
+<br>
+</div>
+<div><b>Formal Education &amp; Certification</b></div>
+<ul>
+<li>Bachelor degree or foreign equivalent in related field or equivalent experience.
+</li>
+<li>Certifications in Oracle 11g/12c Administration, a plus.</li>
+<li>Certifications in Oracle 11g/12c RAC Administration, a plus.</li>
+</ul>
+<div><b>Knowledge &amp; Experience</b></div>
+<ul>
+<li>5+ years IT experience.</li>
+<li>Strong knowledge of the entire Oracle database and Oracle Applications environment and architecture.</li>
+<li>Strong technical expertise and functional exposure to Oracle eBusiness Suite release 12 (12.2 preferred)</li>
+<li>A minimum of 5 years working with customers to build and formulate business requirements.</li>
+<li>At least 5 years developing documentation, white papers and presentations suitable for peers and immediate management.</li>
+<li>Use logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.</li>
+<li>3+ years experience in working with Oracle database technologies.</li>
+<li>3+ years experience of both functional and technical knowledge in supporting Oracle eBusiness Suite in an enterprise setting.</li>
+<li>3+ years experience in supporting some of the following technologies: Oracle SSO, OIM, OBIEE, Data Guard, Oracle RAC, ASM, and Sun Cluster on Linux and Solaris systems.</li>
+<li>Experience with Oracle Value Chain Planning/Demantra preferred.</li>
+<li>Understand and execute the IT processes of Incident Management, Problem Management, Change Management, and Configuration Management.</li>
+</ul>
+<div><b>Personal Attributes</b></div>
+<ul>
+<li>Strong analytical, conceptual, and problem-solving abilities.</li>
+<li>Good written and oral communication skills.</li>
+<li>Good presentation and interpersonal skills.</li>
+<li>Ability to conduct research into database issues, standards, and products.</li>
+<li>Ability to present ideas in user-friendly language.</li>
+<li>Able to prioritize and execute tasks in a high-pressure environment.</li>
+<li>Strong ability to work in a team-oriented, collaborative environment.</li>
+</ul>
+<div><b>
+Must be legally authorized to work in country of employment without sponsorship for employment visa status now or in the future.</b></div>
+<div>
+<br>
+</div>
+</div>
+Equal Opportunity Employer. All qualified candidates will receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information, creed, citizenship status, marital status, or any other consideration prohibited by law or contract. VEVRAA Federal Contractor requesting priority referral of protected veterans.</div>
+<p></p>
+</div>

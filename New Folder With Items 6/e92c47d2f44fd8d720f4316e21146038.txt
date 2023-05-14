@@ -1,0 +1,49 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Senior Software Engineer<br>Location: Boca Raton</p>
+<p>JOB SUMMARY</p>
+<p>Seeking a highly motivated and energetic Senior Software Engineer with 4+ years of experience needed for projects utilizing Microsoft’s leading-edge technologies. Our company is working on a state of the art software platform to be leveraged by our sales, marketing and operations teams to provide the best experience for our partners, clients and consumers. Our IT team is a talented group who enjoys working together to solve complex problems and appreciates innovation and creativity in our approach. You will be part of an enterprise development effort, participating in the architecture, design, implementation and support of our platform, reporting to the Director of Software Development.</p>
+<p>RESPONSIBILITIES</p>
+<p>Design and develop web sites, administrative applications, services and APIs<br>Maintain and support existing web applications and consumer-facing web properties<br>Produce code that meets specifications<br>Database development including creating queries, indexes, views, stored procedures and triggers<br>Report project status to supervisors and project management including regular review of goals<br>Quickly learn new technologies and systems<br>Effectively communicate technical issues to non-technical business users</p>
+<p>REQUIRED SKILLS</p>
+<p>Ability to quickly understand complex business scenarios and provide impactful advice on intelligent solutions<br>Strong skills with MS SQL Server or another SQL based database system<br>Working knowledge of C# and the .NET Framework<br>Working knowledge of web development technologies such jQuery, Angular and CSS<br>Experience with Web Services (REST, MVC WebAPI, and/or WCF)<br>Must have a demonstrated strong attention to detail and quality<br>Must be comfortable working in a highly dynamic and fast-paced environment<br>Must be comfortable with changing roles/responsibilities<br>Must possess strong debugging and analytical skills</p>
+<p>EDUCATION &amp; EXPERIENCE</p>
+<p>Bachelor's degree in Computer Science, Information Systems, Engineering (or another related field) or equivalent experience<br>4+ years of software development experience using an OO language, preferably in .NET web technologies</p>
+<p>ADDITIONAL EXPERIENCE A PLUS</p>
+<p>Experience with the Visual Studio IDE and Team Foundation Server (TFS)<br>Experience with Cloud based (Azure, AWS) development and infrastructure<br>Experience with Salesforce customization and integration<br>Advanced degree</p>
+<p>EQUAL EMPLOYMENT OPPORTUNITY</p>
+<p>EducationDynamics, LLC is an Equal Opportunity Employer. We do not discriminate against applicants based upon any protected status, including but not limited to race, color, creed, religion, gender, national origin, ancestry, age, marital or domestic partner status, military or veteran status, affectional or sexual orientation, physical or mental disability, gender identity or expression.</p>
+<p>EducationDynamics offers reasonable accommodations in the hiring and employment process for individuals with disabilities. If you need assistance in the application or hiring process to accommodate a disability, you may request an accommodation at any time.</p>
+<p>Job Type: Full-time</p>
+<p>Work authorization:</p>
+<ul><li>United States (Preferred)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Vision insurance</li>
+<li>Dental insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Tuition reimbursement</li>
+</ul>
+<p>Relocation Assistance Provided:</p>
+<ul><li>No</li></ul>
+<p>This Company Describes Its Culture as:</p>
+<ul>
+<li>Detail-oriented -- quality and precision-focused</li>
+<li>Team-oriented -- cooperative and collaborative</li>
+<li>People-oriented -- supportive and fairness-focused</li>
+</ul>
+<p>This Job Is:</p>
+<ul>
+<li>A job for which military experienced candidates are encouraged to apply</li>
+<li>Open to applicants under 18 years old, provided it is legally allowed for the job and location</li>
+<li>A job for which all ages, including older job seekers, are encouraged to apply</li>
+<li>Open to applicants who do not have a college diploma</li>
+<li>A job for which people with disabilities are encouraged to apply</li>
+</ul>
+</div>

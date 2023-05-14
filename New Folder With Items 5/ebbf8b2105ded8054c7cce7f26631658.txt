@@ -1,0 +1,31 @@
+<h2>Solution Architect/PreSales Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Moltin is a rapidly growing SaaS company that has created a seamless, headless, “API-first” platform for e-commerce. We are making it easier for companies to take an experience-first approach to commerce, allowing for simple integration into existing platforms (web, mobile, social, content, IoT and more). Our customers have enjoyed higher conversion rates without the burden of complex programming languages or steep learning curves.</p>
+<p><b>Job Requirements: </b></p>
+<ul>
+<li>Five plus years experience leading pre-sales engagements and supporting Senior Sales colleagues in achieving and exceeding territory revenue plans</li>
+<li>Proven ability to influence and command respect from customer senior enterprise architects</li>
+<li>Experience driving discovery with customers to understanding challenges and business needs.</li>
+<li>Developed customized presentations, demonstrations, prototypes, and architecture diagrams to prove a solution's business value to technical and business stakeholders.</li>
+<li>Closing skills - know how to get the technical win</li>
+<li>Ability to estimate projects large and small, including assessing and mitigating risk</li>
+<li>Comfortable managing multiple concurrent opportunities and delivering on time</li>
+<li>Strong problem-solving skills, intelligence, initiative, and the ability to thrive under pressure</li>
+<li>Excellent interpersonal and communication skills (detail oriented)</li>
+<li>Passion for API first commerce and for helping us build a hot and growing start-up</li>
+<li>Experience in digital platform sales mandatory</li>
+</ul>
+<p><b>Technical Skills: </b></p>
+<ul>
+<li>Competent in API-first development with REST based APIs</li>
+<li>Working skills in JavaScript front end development</li>
+<li>Ability to develop solutions with customers to address customer-specific requirements</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Solution Architecture: 3 years (Required)</li>
+<li>SaaS: 2 years (Required)</li>
+<li>in creating sales demo or prototypes: 2 years (Required)</li>
+</ul>
+</div>

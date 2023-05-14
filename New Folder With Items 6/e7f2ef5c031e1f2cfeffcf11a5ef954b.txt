@@ -1,0 +1,181 @@
+<h2>Data Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<b>Job Description:</b><br>
+<p>Encompasses multiple disciplines, including technology architects, solution architects, and enterprise architects. Architects: Are responsible for delivering business value to customers by architecting effective information systems solutions that address the customer’s business problems, needs and opportunities, in a manner consistent with company’s strategic and business goals. Have knowledge of architectural frameworks, methodologies, and tools and understand how to apply this knowledge to successfully deliver customer projects. Establish and maintain a professional working relationship at multiple levels both internally and with the customer by understanding the customer’s business context and their unique situation. Collaborate with both internal and external/industry experts to anticipate customer needs in order to facilitate the definition and development of the solution. Strong supporters of the professional development framework for their profession and use the knowledge and best practice derived from their professional associations to the benefit of their customers. Collaborate with project managers to ensure effective and efficient development, delivery, deployment, operation and support of these IS solutions. Collaborate with the account team to meet or exceed revenue, product, customer satisfaction and market share goals for assigned account(s).</p>
+<p></p>
+<p><b><i>
+Responsibilities:
+</i></b></p>
+<ul>
+<li>Architect custom solutions of project and program or operational scope.</li>
+<li>
+Architect reusable solutions of project or operational scope.</li>
+<li>
+Customize reusable solutions of project and program or operational scope.</li>
+<li>
+Capture and share architectural IP at the project and program level.</li>
+<li>
+Oversee the implementation and governance of architectures of project and program or operational scope.</li>
+<li>
+Contribute to the Architect profession worldwide and across the company businesses.</li>
+<li>
+Develop for client technically feasible long-term IT strategies and plans .</li>
+<li>
+Assess business impact of specific technologies/strategies .</li>
+<li>
+Identify and address technical or operational risks.</li>
+<li>
+Provide review/input on project activities for medium to large business unit level projects .</li>
+<li>
+Collaborates with the project manager to develop detailed project plans and work breakdown structures for medium to large business unit level projects.</li>
+<li>
+Develop and deliver sales presentations at CEO/Executive Staff/CIO levels for medium to large opportunities (R) .</li>
+</ul>
+<p></p>
+<p><b><i>
+Education and Experience Required:</i></b><br>
+Industry experience - 5 years to 10 years Bachelor's degree in computer science or related field, or equivalent experience</p>
+<p></p>
+<p><b><i>
+Knowledge and Skills:</i></b><br>
+Architecting:</p>
+<ul>
+<li>
+Ability to understand the customer's business problem, need, or opportunity and to design an IS solution that appropriately addresses the business problem, need, or opportunity.</li>
+<li>
+Ability to lead a team of two or more consultants in the completion of one or more architecture, requirements, operational, or implementation deliverables.</li>
+<li>
+Ability to lead the architectural design, development, deployment, and technical quality of medium to large business unit level IT based solutions (typically within multiple technology or specialty areas).</li>
+<li>
+Be able to provide architectural direction for multiple medium sized projects concurrently. For larger engagements, a single active project is reasonable.</li>
+<li>
+Understands and applies information system or operational solution related modeling methods and tools.</li>
+<li>
+Can validate/evaluate if an information systems or operational architecture meets technical requirements and specifications .</li>
+<li>
+Familiar with multiple architectural, development and operational methodologies (e.g., Zachman, TOGAF, ITSM, ...) .</li>
+<li>
+Applies appropriate methodologies and SME knowledge to resolve complex business issues.</li>
+</ul>
+<p></p>
+<p><br>
+Business Acumen:</p>
+<p></p>
+<ul>
+<li>
+Identifies risks and challenges the customer should expect to encounter with the solution based on similar efforts done with other customers.</li>
+<li>
+Develops Architecture Specification deliverables that map customer business requirements into specific technology or operational recommendations.</li>
+<li>
+Ability to apply business management and financial concepts, capital investment, financial modeling, and general aspects of business contracts. Use this knowledge to analyze business needs and develop meaningful system or operational recommendations.</li>
+<li>
+Ability to apply knowledge of how the industry uses IT to address business challenges using, for example, technical standards and infrastructure, cross-industry trends that impact IT investment, industry-specific roadmaps, and IT enablers.</li>
+</ul>
+<p></p>
+<p><br>
+Technical:</p>
+<p></p>
+<ul>
+<li>
+Deep IT industry knowledge in specific areas.</li>
+<li>
+Understands future technology or operational trends as they relate to and support customer business requirements ("trusted advisor" role).</li>
+<li>
+Deep knowledge of IT and business standards and best practices in specific areas and how to apply them appropriately in solutions .</li>
+<li>
+Expert or Master level of knowledge of specific technologies, IT operations, or IT disciplines .</li>
+<li>
+Able to design planning for accessibility, scalability, and availability.</li>
+</ul>
+<p></p>
+<p><br>
+Engagement Delivery:</p>
+<p></p>
+<ul>
+<li>
+Ability to write Statements of Work for medium to large business unit level solutions that span multiple technologies or operational areas.</li>
+<li>
+Ability to apply program/project management methods and processes to define, plan, cost, resource, track and ensure the accomplishment of targeted goals for medium to large business unit level projects.</li>
+<li>
+Successfully works on project teams (individual success defined by how the organization works as a team, including resource and skill sharing across the organization).</li>
+</ul>
+<p></p>
+<p><br>
+Opportunity Pursuit :</p>
+<p></p>
+<ul>
+<li>
+Able to play a leadership role in business development activities for medium to large opportunities.</li>
+<li>
+Lead in identifying, qualifying, and closing medium to large opportunities .</li>
+<li>
+Position the company offering against the competition .</li>
+<li>
+Be able to provide the company with voice of the account .</li>
+<li>
+Play key role in preparing proposals and bids for medium to large opportunities.</li>
+<li>
+Manage internal reviews and contribute to Solution Opportunity Approval and Review (SOAR) process for medium to large opportunities .</li>
+<li>
+Build rapport and trust with client .</li>
+<li>
+Demonstrates excellent consultative, solution selling skills.</li>
+</ul>
+<p></p>
+<p><br>
+Leadership</p>
+<p></p>
+<ul>
+<li>
+Collaborates effectively with the project manager to manage regional medium to large projects as necessary. For architectures of project scope may include the technical management of customer staff assigned to implementation team.</li>
+<li>
+Plays a leading role in the Architect profession at the local level.</li>
+<li>
+Makes consistent and ongoing contributions (at least 2 per year) to the company knowledge systems.</li>
+<li>
+Make formal recommendations to customers to improve the level of job satisfaction for other company employees working on the project.</li>
+<li>
+Can contribute in the development of new company services and modifications to the methodology.</li>
+<li>
+Assists in development and delivery of training.</li>
+<li>
+Coaches and mentors Specialist level architects.</li>
+<li>
+Participates in defining the company unit's processes, standards, and policies .</li>
+</ul>
+<p></p>
+<p><br>
+Consulting:</p>
+<p></p>
+<ul>
+<li>
+Build and manage long term strategic relationships at Business Unit leader and CIO, CTO level.</li>
+<li>
+Good customer influence and negotiation skills.</li>
+<li>
+Ability to tactically consider all sides of an issue within the contexts of time, breadth, and range of options.</li>
+<li>
+Ability to systematically gather, assess and apply organizational, technical, operational, and sales/marketing information for business decisions.</li>
+<li>
+Ability to prepare clear, concise, and persuasive communications for multiple audiences, including demonstrating effective writing and presentation skills, listening actively, and projecting a trustable image.</li>
+<li>
+Ability to articulate technical or operational problems or issues into understandable business terms.</li>
+</ul>
+<p></p>
+<p><br>
+Communication:</p>
+<p></p>
+<ul>
+<li>
+Able to design and present high-impact messages to customer's senior level management.</li>
+<li>
+Able to use a wide variety of presentation tools to persuasively communicate complex messages to multiple audience levels, including senior level management.</li>
+<li>
+Ability to use prepared and create complete original materials to communicate with the customer. Communicates a mix of Strategic information and Tactical information.</li>
+<li>
+Excellent speaking and writing skills.</li>
+</ul>
+</div>
+<p></p>
+</div>

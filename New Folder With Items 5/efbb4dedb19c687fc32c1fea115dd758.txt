@@ -1,0 +1,67 @@
+<h2>Senior Firmware Engineer HIL Testing</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>COMET Technologies USA is the headquarters as well as an important sales, distribution and service hub for the COMET Group. From this modern facility, we provide our innovative COMET X-ray and ebeam source technology and portable X-ray systems to leading manufacturers, research labs and government sites within North and South America.<br>
+</p>
+<p></p>
+<p>These is an exciting and challenging role for an experienced embedded firmware engineer where you’ll design, code, and debug complex RTOS-based real-time embedded firmware. In this role, you’ll also get to bring up PCBAs, and troubleshoot the combined hardware/firmware system using debuggers and lab instruments such as oscilloscopes and some other more specialized test equipment. Day-to-day responsibilities include:<br>
+</p>
+<p></p>
+<ul>
+<li>Designing, coding, and debugging new products
+</li>
+<li>Documenting designs and code
+</li>
+<li>Sustaining existing products
+</li>
+<li>Investigate field failures
+</li>
+</ul>
+<p><br>
+<b>Required Skills<br>
+</b></p>
+<p></p>
+<ul>
+<li>Solid programming experience in C, C++,C# Python in windows and Linux environment
+</li>
+<li>Experience with tools chains like IAR, KEIL, GHS,TI
+</li>
+<li>Experience with ARM M4/M7.A8/A9 architecture, ZYNQ SOC, FPGA, DSP
+</li>
+<li>Working with Real Time Operating Systems like VxWorks, freeRTOS, QNX, TI Bios etc.
+</li>
+<li>Experience with multi-threading and thread synchronization mechanisms
+</li>
+<li>Experience working with RF Generators, Matches for semi—conductor processes is preferable
+</li>
+<li>Experience with programming ADC, DAC, data acquisition from sensors, Writing and implementing algorithms
+</li>
+<li>Must have experience with implementation of protocols such as: I2C, SPI, USB, Serial, Ethernet and EtherCAT
+</li>
+<li>Experience with Motion Controllers, PID controllers, Stepper motors, encoders
+</li>
+<li>Ability to work with Oscilloscopes, Network Analyzers, read schematics and perform board bringups
+</li>
+<li>Experience working collaboratively using , JIRA, Confluence, BitBucket/Github/SVN
+</li>
+<li>Familiarity with logic programming and networking protocols
+</li>
+<li>Familiarity with agile development or continuous integration, DEVOPS, CI/CD, Jenkins, Artifact server,
+</li>
+<li>Expert in Code Debugging, software life cycle, documentation, Architecture, SRS, Software design, Sequence diagrams, use cases, unit testing etc.
+</li>
+</ul>
+<p><br>
+<b>Minimum Requirements<br>
+</b></p>
+<p></p>
+<ul>
+<li>BS (MS preferred) in EE/CS
+</li>
+<li>7+ years hands-on firmware development experience on embedded controllers<br>
+</li>
+</ul>
+<p></p>
+<p><b>Data protection and confidentiality
+</b><br>
+We take data protection seriously. “COMET AG” and software partner SAP have taken the necessary organizational and technical measures to ensure the confidentiality of your application. All HR personnel and umantis employees have a duty to maintain confidentiality with respect to personal data as part of their employment contract. Automatic 128-bit encryption ensures that your data is transmitted securely. The processing of your data complies with general data security standards based on the latest technology.</p>
+</div></div>

@@ -1,0 +1,80 @@
+<h2>Senior Data Analyst, Customer Success</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<div><b>WHO WE ARE
+</b></div>
+<div>Looker is on a mission to bring better insights and data-driven decisions to every business. Everything we do is aimed at making sure our customers love every aspect of Looker, from our products and technologies to our ease of doing business and our support. We are looking for curiously brilliant individuals to join our team as we reinvent data analytics. Get data-driven and see yourself at Looker.
+</div>
+<div></div>
+<br>
+<div><b>WHAT WE’VE GOT GOING ON</b></div>
+<div>
+You will be (or become) a Looker expert and support our internal business analytics. The “Data and Analytics” team has been tasked to simplify our analytic infrastructure that will pioneer new techniques and implement best practices which will influence how Looker is used worldwide. We are going from observational analytics to predictive and prescriptive analytics and we need your perspective! We want you to join our team as we enhance our data-driven culture even further. As a team member supported by several analysts, you will lead our Enterprise Programs Analytics.</div>
+<div>
+<br>
+</div>
+<div>
+The Enterprise Programs team is dedicated to building scalable programs and processes to support the growth and longer term health of Looker’s Enterprise customers. The key area of focus for this team is to implement strategic improvements that drive process efficiency throughout the customer lifecycle to ensure scalability of the Enterprise support ecosystem.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>WHAT WE NEED YOU TO DO</b></h3>
+<div><ul>
+<li>
+Your first projects will be to develop customer engagement model that can be used to optimize support processes from pre-sales through long-term customer success.</li>
+<li>
+You should be passionate about business operations and excited to influence the business through offering thoughtful analysis and meaningful insights</li>
+<li>
+You are a highly analytical thinker who has prior experience working in a customer success role and have expanded into the role of using data to optimize processes relating to customer success</li>
+<li>
+You enjoy collaborating with non technical stakeholders to use both data and process analysis to understand the insights and intelligence required to engage, manage and grow Looker’s Enterprise programs</li>
+<li>
+Establish a strong relationship with your primary customer, the Sr. Manager of Enterprise Programs to support our Customer Success framework through business analysis</li>
+<li>
+Be an analyst: You will use data and process to understand, measure, and optimize our enterprise account planning process in partnership with your customers using effective visualizations and dashboards to demonstrate analytical findings</li>
+<li>
+Own Analysis of our Enterprise Account health specifically risk identification</li>
+<li>
+Learn our Modeling Language LookML and coding protocols for Meta maintenance</li>
+<li>
+Trend Analysis &amp; Risk Identification. Example: Where in this Enterprise Support process are we having trouble</li>
+<li>
+Reduce Operational Inefficiencies through report automation and alerting to support process management giving your stakeholders clear next steps</li>
+<li>
+Train your stakeholders to understand and leverage self service analytics</li>
+<li>
+Lead Enterprise Programs data projects with confidence and be able to iterate on work based on the constantly evolving nature of our business</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>WHAT YOU BRING TO LOOKER</b></h3>
+<div><ul>
+<li>
+3+ years of customer support, success, or directly related experience</li>
+<li>
+1+ years experience in SQL - you can write an aggregate query without looking up syntax</li>
+<li>
+1+ years as an Analyst in CS-related role</li>
+<li>
+Experience in one or more BI Tools - Looker, Tableau, Advanced Excel, SiSense, Mode, etc</li>
+<li>
+Advanced skill with spreadsheets</li>
+<li>
+Strong Communication skills, with the ability to turn data into compelling stories and insights, influencing both technical and non-technical audiences</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>NICE TO HAVES</b></h3>
+<div><ul>
+<li>
+You have experience working with customers in a "solving their problems" scenario</li>
+<li>
+Experience using Customer satisfaction measurement to change in improve process</li>
+<li>
+Experience working in customer support in an Enterprise Business to Business (B2B) Context.</li>
+</ul></div>
+</div></div>
+<div><div>#LI-SK1</div></div>
+</div>
+<div></div>
+</div>

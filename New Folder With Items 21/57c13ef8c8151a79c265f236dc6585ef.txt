@@ -1,0 +1,54 @@
+<h2>Professional, Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Job Summary
+</b></h2>
+<p>Join the team that powers the global real estate economy - CoreLogic is an innovative, future focused company whose vision is to deliver unique property-level insights that power the global real estate economy.
+</p>
+<p></p>
+<p>We are a $1.95 billion in sales company with more than 6,000 employees globally serving the financial services and insurance industries. We are evolving at a rapid pace and the clients we serve are challenged from every direction, which means we are growing and innovating to help drive their success. Working together, and differentiated by our superior data, analytics and data-enabled solutions, we empower our clients to make smarter business decisions through data-driven insights. We take initiative, are fully accountable, build respect and trust, make transparency a must—and engage, include and collaborate at every turn.
+</p>
+<p></p>
+<p>We take pride in our work and believe in cultivating a work environment that supports and values our greatest asset: our talented employees.
+</p>
+<p></p>
+<p><b>Job Description:
+</b></p>
+<ul>
+<li>Design, code, test and debug moderately complex software while developing new, and enhancing existing functionality in order to satisfy customer requirements, both internal and external. Works from specifications, or comfortable in an iterative and incremental development environment. May develop detailed specifications from which applications will be written, designed, coded, tested and debugged.
+</li>
+<li>Actively contribute to, participate in, and aim to continuously improve all levels of testing efforts. Defines scope and develop testing methods, collaborating with QA team and other developers. Provides a broad perspective on quality initiatives, offering guidance to team members.
+</li>
+<li>Support, maintain and document software functionality. Act as a resource for less experienced engineers. Makes recommendations on engineering processes and methods.
+</li>
+<li>Provide second level operational support to diagnose and resolve incidents in production systems. Has direct interaction and consultative role with operations team. Able to resolve most issues, but will escalate complex issues to more senior team members as necessary.
+</li>
+<li>Actively participate in general knowledge/technology transfer throughout the team/department. This includes documenting larger scope and moderately complex assignments for knowledge transfer and developing expertise in specific areas. Presents information and mentors other team members on area(s) of expertise. Provide technical assistance on assigned module/project.
+</li>
+<li>Partner with product owners/business partners to define requirements and software design. Participate in discussions, influence outcomes, and make recommendations on feasibility and processes.
+</li>
+</ul>
+<p></p>
+<p><b>Job Qualifications:
+</b></p>
+<ul>
+<li>BS Degree or equivalent work experience in a software engineering discipline
+</li>
+<li>Typically has 3-6 years experience in an applicable software development environment
+</li>
+<li>Proficient/competent to work on most phases of development within assigned technical discipline
+</li>
+<li>Driven to excel in areas of technical expertise.
+</li>
+<li>Willing to assist team members in areas of: manual testing, test automation, build improvements.
+</li>
+<li>Customer oriented: meets individual commitments, works with the team to achieve team commitments, responds to requests in a timely manner, willing to help.
+</li>
+<li>Ability to focus on and solve problems, with a willingness to ask for help when needed.
+</li>
+</ul>
+<p></p>
+<p>CoreLogic offers an empowered work environment that encourages creativity, initiative and professional growth and provides a competitive salary and benefits package. CoreLogic is an Equal Opportunity/Affirmative Action employer committed to attracting and retaining the best-qualified people available, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, disability or status as a veteran of the Armed Forces, or any other basis protected by federal, state or local law. CoreLogic maintains a Drug-Free Workplace. We are fully committed to employing a diverse workforce and creating an inclusive work environment that embraces everyone’s unique contributions, experiences and values. Please apply on our website for consideration.</p>
+</div>
+<p></p>
+</div>

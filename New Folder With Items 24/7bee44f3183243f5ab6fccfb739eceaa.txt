@@ -1,0 +1,22 @@
+<h2>Database Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>The Restaurant Systems Database Administrator (DBA) works directly with clients to collect information pertaining to the next product updates and offerings. They update the regional configurations for complex POS, Kiosk, or Production control databases and then work to QC and release the updates to the field. The DBA communicates to all necessary parties that work is received, completed, and deployed with both internal and external stakeholders.</div>
+<ul>
+<li>
+Collects project requirements from written and verbal communications.</li>
+<li>
+Communicates openly with clients and internal project stakeholders.</li>
+<li>
+Performs database updates by means of graphical software interfaces, spreadsheets (CSV) and MYSQL</li>
+<li>
+Works with large datasets and diligently performs updates to only necessary data.</li>
+<li>
+Capable of understanding complex Point of Sale and other device configurations</li>
+<li>
+Works in a fast paced agile environment where consistency and accuracy are key</li>
+<li>
+Capable of quality assuring your own and other peers work</li>
+<li>
+Works with support in the event that issues are escalated</li>
+</ul>
+</div></div>

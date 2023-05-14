@@ -1,0 +1,44 @@
+<h2>Senior Solutions Engineer (Pre-Sales), Data Intelligence Services</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Sr. Solution Engineer (Pre-Sales), Data Intelligence Services Position Overview:
+<p>erwin’s Solutions Engineering team explains, demonstrates, and proves the value of our technologies to clients. By listening and engaging to understand clients' data strategies and key initiatives, they can identify critical capabilities where our solutions can deliver value. The team works alongside sales executives, channel partners, and service professionals to design the right solution set for clients so that they can realize the maximum value and alignment to their goals.</p>
+<p>
+As a Senior Solutions Engineer, you will be responsible for supporting our Data Governance product and services sales opportunities, business development initiatives, marketing efforts, thorough discovery processes, and development projects defined by Executive Sales Leadership. You will work with large, strategic sales accounts (system-level deals, large dollar value deals, complex deals requiring specific project management duties).</p>
+<p>
+You will have a clear understanding of solutions selling principles, data architecture, data integration, ETL processes, data lineage, data lakes, enterprise services bus, cloud-based technologies, and data governance. You’ll be comfortable discussing organizational goals as they relate to the enterprise deployment of academic and administrative technologies with both standard decision-makers (IT staff, faculty, administration) and C-level decision-makers.</p>
+<br>
+<p></p>
+Essential Duties and Responsibilities:
+<ul><li>Provide expertise and guidance on data strategy and data governance implementation, best practices, automation, solution architecture and design, use case definition, and project/program planning, your efforts will build confidence within our customer organizations and lead to accelerated sales cycles and larger sales deal values</li></ul>
+<ul><li>Effectively position and present the benefits of the erwin data governance and automation products and how the solution will support the customers and or partners technical and functional requirements.
+</li></ul>
+<ul><li>Engage with and build relationships with prospective customers during the pre-sales process to discover, understand, and document their data-related challenges, opportunities, and desired business outcomes</li></ul>
+<ul><li>Act as the trusted advisor during the customer's decision-making process (e.g. during the idea or conceptual stages).</li></ul>
+<ul><li>Seek to understand our customer’s data governance and automation challenges and opportunities</li></ul>
+<ul><li>Understand their business drivers, use cases, roles and personas that need to be addressed during the sale</li></ul>
+<ul><li>Execute complex product integration demonstrations and proofs of concept, customizing the demonstrations as necessary to address the customer's specific needs and environment.
+</li></ul>
+<ul><li>Provide technical support, leadership, and oversight during Proposals, Trials, Proof-of-Concept (POCs), complex demos, etc., as warranted.
+</li></ul>
+<ul><li>Ensure technical requirements for the proposed solution are clearly communicated and understood by the client and meet the client's expectations.
+</li></ul>
+<ul><li>Work collaboratively with erwin’s internal teams by providing feedback based on customer use-cases, functional requirements and product enhancement requests, identify and document proof of value use cases, roles, and personas that need to be addressed during the sales process, and then using this knowledge, guide the customer during the post-sales implementation process</li></ul>
+<br>
+<p></p>
+Minimum Required Qualifications and Experience:
+<ul><li>Bachelor's degree or equivalent in Computer Science, Information Management or a related degree</li></ul>
+<ul><li>Must have 8+ or more years of technical integration, Data Warehousing, Data Intelligence/Data Governance industry related experience working with customers, salespeople and customer service</li></ul>
+<ul><li>Minimum of 5 years’ experience working with an ETL Tool such as Informatica, Talend, IBM DataStage, Microsoft SSIS, Pentaho etc.). Preferred experience on more than one ETL tool.</li></ul>
+<ul><li>The ideal candidate must possess deep expertise in data warehousing, data vault, data lake dimensional modeling, and the ability to bring best practices regarding master data management, ETL, and data governance</li></ul>
+<ul><li>Experience in writing python jobs, javascript or other scripting language</li></ul>
+<ul><li>Experience in the related industry disciplines (i.e. Hadoop, NoSQL, SQL, ORACLE &amp; SAP Data Governance and knowledge around the fundamentals of ETL tools and BI tools
+</li></ul>
+<ul><li>Hands-on Data Governance software experience.</li></ul>
+<ul><li>Experience resolving complex technical issues and integration of multiple product sets.</li></ul>
+<ul><li>Energetic and enthusiastic about Data Governance, Data Modeling, Enterprise Architecture and Business Process, and enjoy working with customers to solve business challenges.</li></ul>
+<ul><li>Experience “selling” concepts, solutions within an organization or formal sales position</li></ul>
+<ul><li>Technical sales experience in software or consulting services role.</li></ul>
+<ul><li>Experience writing statement of work and responding to proposals.</li></ul>
+<ul><li>Proven track record of meeting and exceeding sales quotas</li></ul>
+<br>
+<p></p>
+Travel Requirements: Business travel as required, approximately up to 25% yearly is expected for this position.</div></div>

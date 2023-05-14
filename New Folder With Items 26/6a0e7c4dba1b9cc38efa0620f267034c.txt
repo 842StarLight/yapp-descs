@@ -1,0 +1,107 @@
+<h2>Lead Software Engineer, Full Stack</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><b>Job Overview:</b></div>
+<div></div>
+<div>We are looking for a Lead Software Engineer with a focus on back end technologies to help build our new in-store mobile platform reporting to the Manager, Stores. This person will Lead and collaborate with a larger team of engineers and designers to develop experiences designed to support Macys instore colleague initiatives. The ideal candidate must be able to thrive in an environment where change is constant. This position requires the need to be extremely organized, highly collaborative, and results-driven. Individuals need to take initiative and reach out to other team members when they need assistance. Likewise, the Lead Software Engineer will be responsible for the leadership, development, and support of applications for a specific area, leveraging his/her expertise and knowledge of multiple systems. Perform other duties as assigned.</div>
+<br>
+<div></div>
+<div><b>Essential Functions:</b></div>
+<ul>
+<li>Develop and design the application experiences, ensuring pages are programmed responsively, error-free, cross-browser/cross-device compatible, highly scalable, and optimized for performance.</li>
+<li>
+Follow standards for development of tools and experiences, with focus on performance, scalability, and reusability.</li>
+<li>
+Stay current with the newest online technologies. Perform quality assurance on all new code from inception through integration, staging, and production environments.</li>
+<li>
+Collaborate effectively with team members as well as UX, QE, and release engineering team.</li>
+<li>
+Rapidly execute on solutions when problems or challenges have been identified.</li>
+<li><div>
+Consistently demonstrate ownership and on time delivery.</div></li>
+<li><div>
+Consistently demonstrate regular, dependable attendance and punctuality.</div></li>
+<li>
+Flexibility to work across all functions/levels as part of a dynamic team.</li>
+<li><div>
+Serve as a coach/mentor to less experienced developers.</div></li>
+<li><div>
+ Manages and delegates tasks as appropriate.</div></li>
+</ul>
+<div>
+<b>Qualifications</b><b>:</b>
+</div>
+<div>
+<br>
+</div>
+<div></div>
+<div><b>Education/Experience:
+</b></div>
+<ul>
+<li><div>BA/BS degree in related field and/or equivalent work experience.
+</div></li>
+<li><div>Extensive use and understanding of NodeJS and Sprint Boot.</div></li>
+<li><div>
+3+ years of experience leading the team in Agile environment with hands-on coding.</div></li>
+<li>
+6+ years of professional experience as a web developer with the ability to demonstrate previous work experience.
+</li>
+<li>At least 2 years’ experience with API integrations (REST, SOAP).</li>
+<li>
+At least 2 years’ experience with NoSQL and SQL Databases.</li>
+<li>
+At least 2 years’ experience with markup and layout (HTML5, CSS3).</li>
+<li>
+At least 2 years’ experience with jQuery and other JavaScript libraries.</li>
+<li>
+Experience in working with and incorporating CSS frameworks (Foundation, Bootstrap).</li>
+<li>
+At least 1 year of experience with CSS pre-processing and optimization.</li>
+<li>
+A demonstrable understanding of MVC and MVVM patterns.</li>
+<li>
+At least 2 years’ experience with a Version Control system (Git, Subversion).</li>
+<li>
+Experience with cross-browser design and functional constraints.</li>
+</ul>
+<div><b>Communication Skills:
+</b></div>
+<ul><li><div>Excellent written and verbal communication skills.</div></li></ul>
+<div><b>Mathematical Skills:</b></div>
+<ul><li><div>Basic math functions such as addition, subtraction, multiplication, division, and analytical skills.</div></li></ul>
+<div><b>Reasoning Ability:</b></div>
+<ul>
+<li><div>Must be able to work independently with minimal supervision and make sound decisions.</div></li>
+<li><div>
+Appropriate analytical and logic skills as needed for web development/programming.</div></li>
+</ul>
+<div><b>Physical Demands:</b></div>
+<ul>
+<li><div>This position involves regular ambulating, sitting, hearing, and talking.
+</div></li>
+<li><div>May occasionally involve stooping, kneeling, or crouching.
+</div></li>
+</ul>
+<div><b>Other skills:</b></div>
+<ul>
+<li><div>Be an inspiring leader to a dedicated team.</div></li>
+<li><div>
+SCRUM / Agile experience preferred.</div></li>
+<li><div>
+Experience with Java presentation technologies (JSP, JSTL) a plus.</div></li>
+</ul>
+<b>
+</b><div><b>Work Hours:</b></div>
+<ul><li>
+Ability to work a flexible schedule based on department and company needs.</li></ul>
+<div>
+</div>
+<div><b>Company Profile:</b></div>
+<div></div>
+<div>Macy’s Inc. is one of the nation’s premier retailers. With fiscal 2016 sales of $25.778 billion and approximately 140,000 employees, the company operates more than 700 department stores under the nameplates Macy’s and Bloomingdale’s, and approximately 125 specialty stores that include Bloomingdale’s The Outlet, Bluemercury and Macy’s Backstage. Macy’s, Inc. operates stores in 45 states, the District of Columbia, Guam and Puerto Rico, as well as macys.com, bloomingdales.com and bluemercury.com. Bloomingdale’s stores in Dubai and Kuwait are operated by Al Tayer Group LLC under license agreements. Macy’s, Inc. has corporate offices in Cincinnati, Ohio and New York, New York.</div>
+<br>
+<div></div>
+<div><b>This job description is not all inclusive. Macy’s Inc. reserves the right to amend this job description at any time. Macy's Inc. is an Equal Opportunity Employer, committed to a diverse and inclusive work environment.</b></div>
+</div>
+<div></div>
+</div>

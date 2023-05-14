@@ -1,0 +1,35 @@
+<h2>Manufacturing Planner</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Description:</b><br>
+Overview
+<br>The successful candidate will be responsible for processing customer requirements, Sales Orders, material and resource constraints, and lead times into a coherent and actionable plan, in the form of a job. Additionally, the candidate must be able to collect and report cycle times, job duration, KPIs, and other manufacturing parameters to ensure that planned jobs are accurate and timely, and are being executed successfully.
+<br><br>
+Responsibilities
+<br>Interface with Sales &amp; Marketing to obtain or update customer requirements and delivery demands
+<br>Interface with Purchasing to obtain material and resource constraints and lead times
+<br>Interface with Production to obtain labor and scheduling constraints and lead times
+<br>Develop and update jobs with accurate dates, quantities, duration, and bills-of-material using the above information
+<br>Remove jobs with inaccurate dates, demand, or dependencies from the Epicor ERP system
+<br>Update existing jobs as deadlines, demands, materials, and resource availability change
+<br>Ensure that jobs are coherent and actionable, and can be successfully executed on the production floor
+<br>Collect cycle times, KPIs, and other parameters to ensure that jobs are accurate and realistic
+<br>Interface with Production and Engineering to continuously improve production processes and throughput.
+<br><br>
+<b>Requirements:</b><br>
+Qualifications
+<br>Computer-literate and able to learn new computer programs quickly
+<br>Significant experience with Microsoft Excel
+<br>Experience with Microsoft Word
+<br>Experience with Epicor 10 or other relevant ERP/MRP software
+<br>Interpersonal ability to work with various teams, including non-technical employees
+<br><br>
+Personal Skills
+<br><br>
+<ul>
+<li>Commitment: is dedicated to achieving goals and is loyal to the company and work team. Gets the job done when it needs to be done. Sees even tough assignments through to the end.</li>
+<li>Collaboration: works effectively with others in pursuit of common goals. Gas the ability to establish, nurture and maintain excellent work relationship across organizational boundaries. Works proactively to break down barriers to achieve success.</li>
+<li>Leadership: has the ability to influence, motivate and inspire others. Models openness, honesty, fairness and integrity. Recognizes and rewards good performance. Takes the lead when appropriate.</li>
+<li>Coach-ability: responds well to constructive criticism and coaching. Has an attitude of continually striving to learn from others as to gain the knowledge and skills required to achieve results.</li>
+<li>Communication: uses active listening skills. Uses forms of communication appropriate to the situation. Skilled in technical writing.</li>
+</ul>
+</div>

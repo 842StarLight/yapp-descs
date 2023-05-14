@@ -1,0 +1,156 @@
+<h2>Software Engineer - Treasury Accounting Systems</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>Software Engineer - Treasury Accounting Systems</b><b>-</b><b>829091</b>
+</div>
+<p></p>
+<div>
+<div>
+</div>
+<div>
+At Franklin Templeton, we are dedicated to delivering strong results and exceptional service to clients, team members and business partners. Over 9,000 employees working in 60 offices around the world are dedicated to servicing investment solutions for our clients in more than 150 countries. For over 65 years, our success has been a direct result of the talent, skills and persistence of our people, and we are looking for qualified candidates to join our team.</div>
+<div>
+</div>
+<div>
+<b><i>
+What is the Treasury Accounting Cash Control / Fund Distribution and Performance team responsible for?</i></b><br>
+</div>
+<div>
+<br>
+We work closely with our business teams to understand their business needs and define the technology vision/roadmap. Our partners trust us because we have a shared vision and we deliver on our commitments. We are passionate about what we do and help each other grow to our greatest potential. TACC/Fund Distribution &amp; Performance Team provides quality technology support and solutions for various treasury accounting and cash control related applications like Check Management System, Frontier, Global Payment System, TOAR (Treasury Operational Accounting and Reporting), and publishing the Fund NAV and performance to internal/external clients using Unity.<br>
+</div>
+<div></div>
+<div><b><i>What are the ongoing responsibilities of a Software Engineer?</i></b></div>
+<br>
+<div></div>
+<div>The primary focus of this position is to provide support to the vendor product Unity and other applications, design/development, customization within the products, code reviews/audits and identifying improvement/automation opportunities. The role is also responsible for ensuring adherence to technical standards. The individual will be expected to apply their experience to help in advancing the technical landscape, while closely working with the business users. Successful candidate will be working closely with senior team members to assess the feasibility of technical solutions, and measuring the success of deployments. The candidate will work in a highly diverse, decentralized and global environment. This is a full-time position and will be located in our Rancho Cordova office.</div>
+<br>
+ <div></div>
+<b>Production Support</b>
+<div>Applies understanding of the business domain to triage support issues. Correlates environmental changes to production issues. Schedules and monitors production jobs. Monitors capacity metrics. Collaborates with vendors to resolve issues. Supports Disaster Recovery activities. Configures and supports vendor products.<br>
+</div>
+<div></div>
+<br>
+<div><b>Software Engineering</b></div>
+<div>Develops new code and configuration for complete features. Reviews source code of more junior engineers. Provides oversight for junior engineers work product by incorporating basic business domain knowledge. Develops and maintains automatable test cases. Develops automated build and deployment methods. Self-educates to gain a comprehensive understanding of relevant development languages, runtimes, frameworks, database platforms, and tooling.<br>
+</div>
+<div></div>
+<div>
+<b>Documentation</b><br>
+Analyzes requirements, proposes high level solutions, and documents new code and configurations for complete features. Documents solutions and configurations for vendor products or developed systems. Reviews effort estimates of more junior engineers. Contributes to project plans. Understands vendor product releases. Documents production support issue resolutions, Disaster Recovery steps, and responses to audits. (Required)</div>
+<br>
+<div></div>
+<div><b>Technical Leadership
+</b></div>
+<div>Plans and coordinates cutover and implementation activities. Builds and maintains effective working relationships with other technical teams. (Required)</div>
+</div>
+<p></p>
+<div>
+<div>
+<br>
+</div>
+<div><b><i>What ideal qualifications, skills, and experience would help someone to be successful?</i></b></div>
+<ul>
+<li>
+<div>Bachelor’s Degree or equivalent experience.</div>
+</li>
+<li>
+<div>5-8 years of related experience.</div>
+</li>
+</ul>
+<div><b>Mandatory Technical skills:</b></div>
+<ul>
+<li>
+<div>Extensive knowledge/working experience using technologies Java, Angular JS, Spring</div>
+</li>
+<li>
+<div>Strong experience in MS SQL Server</div>
+</li>
+<li>
+<div>Comprehensive knowledge of physical and logical data modeling, performance tuning.</div>
+</li>
+<li>
+<div>Excellent communication, presentation and interpersonal skills.</div>
+</li>
+</ul>
+<div><b>Other preferred skills:</b></div>
+<ul>
+<li>
+<div>Experience with DevOps Tools.</div>
+</li>
+<li>
+<div>Experience in Agile methodology.</div>
+</li>
+<li>
+<div>Investment Banking domain Knowledge.</div>
+</li>
+<li>
+<div>Experience in Job Schedulers like Control-M</div>
+</li>
+<li>Knowledge on Azure cloud technologies</li>
+</ul>
+<div></div>
+<div>
+<b><i>What makes Franklin Templeton unique?</i></b>
+</div>
+<div></div>
+<div>In addition to the dynamic and professional environment at Franklin Templeton, we strive to ensure that our employees have access to a competitive and valuable set of Total Rewards—the mix of both monetary and non-monetary rewards provided to you in recognition for your time, talents, efforts, and results.
+</div>
+<div></div>
+<div>
+<b>Highlights of our benefits include:</b>
+</div>
+<ul>
+<li>Three weeks paid time off the first year
+</li>
+<li>Medical, dental and vision insurance
+</li>
+<li>401(k) Retirement Plan with 75% company match on your pre-tax and/or Roth contributions, up to the IRS limits
+</li>
+<li>Employee Stock Investment Program
+</li>
+<li>Tuition Assistance Program
+</li>
+<li>Purchase of company funds with no sales charge
+</li>
+<li>Onsite fitness center and recreation center*
+</li>
+<li>Onsite cafeteria*
+</li>
+</ul>
+<ul><li>Only applicable at certain locations
+</li></ul>
+<div></div>
+<div>We believe that being a good corporate citizen is good business. To us, corporate citizenship means being accountable, serving our clients, being an employer of choice, managing our environmental impact, and supporting our communities. An emphasis on corporate citizenship is embedded in our culture and values, and is an important element of how we achieve success.
+</div>
+<div></div>
+<div>We are also committed to your learning and development with resources focused around Experience, Exposure, and Education, to help you achieve your professional development goals. Take some time to, meet some of our people, and see what it means to say, “I AM Franklin Templeton”.</div>
+<div></div>
+<div>Franklin Templeton is an Equal Opportunity Employer. We are committed to equal employment opportunity for all applicants and existing employees and we evaluate qualified applicants without regard to ancestry, age, color, disability, genetic information, gender, gender identity, or gender expression, marital status, medical condition, military or veteran status, national origin, race, religion, sex, sexual orientation, and any other basis protected by federal, state, or local law, ordinance, or regulation. We invite you to visit us at http://www.franklintempletoncareers.com/ to learn more about our company and our career opportunities.
+</div>
+<div></div>
+<br>
+<div>#LI-US</div>
+<div>
+#ASSOCIATE</div>
+</div>
+<p></p>
+<div>
+<b>JOB FUNCTION</b><b>:</b> Information Technology</div>
+<p></p>
+<div>
+<b>
+PRIMARY LOCATION</b><b>:</b> United States-California-Rancho Cordova</div>
+<p></p>
+<div>
+<b>
+OTHER LOCATIONS</b><b>:</b> United States-California-San Mateo</div>
+<p></p>
+<div>
+<b>
+SCHEDULE</b><b>:</b> Full-time</div>
+<p></p>
+<div>
+<b>
+JOB POSTING DATE</b><b>:</b> Aug 27, 2019, 7:23:36 PM</div>
+</div></div>

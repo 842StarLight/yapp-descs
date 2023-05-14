@@ -1,0 +1,78 @@
+<h2>Data Center Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Requisition Number: </b><b>73853</b></p>
+<div>
+As a<b> Data Center Architect </b>you’ll lead discussions with clients around their cloud and data center initiatives. You’ll assist account executives with technical and business guidance on a variety of services and technologies within large enterprise customers. You’ll act as a trusted advisor to customers based on intimate technical knowledge of the customer environment. The DCA has the ability to leverage consulting services, managed services, field services coupled with technology to drive desired business outcomes.</div>
+<div></div>
+<br>
+<div><b>
+What you’ll do at Insight:</b></div>
+<ul>
+<li>
+Build relationships with clients at the manager and director level.</li>
+<li>
+Create and implement a solution roadmap and select the right infrastructure and technology platform or product based on in-depth knowledge of one and broad knowledge of other technologies.</li>
+<li>
+Ability to lead development of the technical solution or offering, in translating the business needs into technical requirements. Identifies gaps, strategic impacts, financial impacts and the risk profile in the technical solution or offering, and provides technical support."</li>
+<li>
+Assist clients with complex projects involved multiple disciples or business units.</li>
+<li>
+Recommend to client appropriate technological alternatives.</li>
+<li>
+Evaluate new technological developments and how they affect evolving client business requirements.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+What you’ll need to join Insight:</b></div>
+<ul>
+<li>
+A Bachelor degree from an accredited institution or a minimum of 10+ years’ experience working in a technical role.</li>
+<li>
+Minimum of 5 industry and/or product certifications required</li>
+<li>
+Excels at leading group client business discussions</li>
+<li>
+Solid experience in consultative / complex sales processes</li>
+<li>
+Strong written and verbal skills and adept at client presentations</li>
+<li>
+Deep knowledge and interest in major public cloud offerings (Microsoft Azure, AWS, OpenStack, DevOps) and related Infrastructure, Platform and Software as a Service capabilities.</li>
+</ul>
+<p></p>
+<br>
+<p>
+The position described above provides a summary of some the job duties required and what it would be like to work at Insight. For a comprehensive list of physical demands and work environment for this position, click here.</p>
+<p>
+Today, every business is a technology business. Insight Enterprises, Inc. empowers organizations of all sizes with Insight Intelligent Technology Solutions™ and services to maximize the business value of IT. As a Fortune 500-ranked global provider of digital innovation, cloud/data center transformation, connected workforce, and supply chain optimization solutions and services, we help clients successfully manage their IT today while transforming for tomorrow. From IT strategy and design to implementation and management, our 6,800 employees help clients innovate and optimize their operations to run smarter. Discover more at insight.com.</p>
+<p></p>
+<br>
+<ul>
+<li>
+Founded in 1988 in Tempe, Arizona</li>
+<li>
+7,400+ teammates in 19 countries providing Intelligent Technology Solutions for organizations across the globe</li>
+<li>
+$7.1 billion in revenue in 2018</li>
+<li>
+Ranked #417 on the 2018 Fortune 500, #12 on the 2018 CRN Solution Provider 500</li>
+<li>
+2018 Dell EMC Server Partner of the Year, 2018 Intel Retail Solution Partner of the Year, 2018 Microsoft Worldwide Artificial Intelligence Partner of the Year</li>
+<li>
+Ranked #23 on the 2019 Fortune 50 Best Workplaces in Technology and #5 on the Phoenix Business Journal 2018 list of Best Places to Work (Extra Large Business)</li>
+<li>
+Signatory of the United Nations (UN) Global Compact and Affiliate Member of the Responsible Business Alliance</li>
+</ul>
+<p></p>
+<br>
+<p>
+Today's talent leads tomorrow's success. Learn about careers at Insight: jobs.insight.com.</p>
+<p></p>
+<br>
+<p>
+Insight is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, sexual orientation or any other characteristic protected by law.</p>
+<p></p>
+<br>
+var _apply = _apply || []; var _applybase = 'https://olivia.paradox.ai/'; _apply.push(['setKey', 'aboshnhfmwfgtxtyorqj']); _apply.push(['start']); (function() { var apply = document.createElement('script'); apply.type = 'text/javascript'; apply.async = true; apply.src = 'https://dokumfe7mps0i.cloudfront.net/static/site/js/widget-client.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(apply, s); })();<p>
+Posting Notes: Boston || Massachusetts (US-MA) || United States (US) || None || None || US - Boston, MA ||</p>
+</div></div>

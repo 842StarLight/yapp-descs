@@ -1,0 +1,97 @@
+<h2>Senior Java Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>What you’ll be doing...</b>
+</p>
+<p>If you are curious about new technology and the possibilities it creates, then this job may be perfect for you. As part of the Information Technology team, you will work on new technologies and find ways to meet our customers’ needs and make it easy for them to do business with us. You will use your expertise to solve complex problems and find unique solutions. The work you’ll do every single day will make people’s lives, work and play better. You will bring creative ideas and energy to a team, take some risks, and challenge our thinking.</p>
+<p>
+We are looking to hire a Lead Java Developer to join the B2B applications development team.</p>
+<ul>
+<li>
+Lead large and complex business initiatives for B2B Sales and operations and delivering best in class customer experience.</li>
+<li>
+Interact daily with business partners in B2B teams.</li>
+<li>
+Quickly understand existing business rules to make enhancements and troubleshoot issues.</li>
+<li>
+Guide IT team members for time boxed delivery of prioritized business functionality incorporating high quality.</li>
+<li>
+Design systems &amp; applications that deliver business functions or architectural components.</li>
+<li>
+Develop system architecture that improve designs &amp; mapping form to function.</li>
+<li>
+Drive end to end application design for complex modules within Contract Management System application.</li>
+<li>
+Drive creative solutions for Product and Service initiatives and deliver robust application design that provides intuitive user interface and easy navigation for the B2B users and customers.</li>
+<li>
+Collaborate with the business partners, business analyst and interfacing team to define user interface, screen navigation and integration with interfacing systems for the system enhancements.</li>
+<li>
+Performance tuning of mission critical applications.</li>
+<li>
+Identify and roll out product enhancements to increase the take rate.</li>
+<li>
+Provide guidance to the junior members, both onshore and offshore, to develop, unit test and integration test the application modules.</li>
+<li>
+Collaborate with interfacing teams, define target dates for unit testing and integration testing and ensure end to end robustness and scalability of code.</li>
+<li>
+Participate in defining coding standards, ensure timely completion of code review and security scans with Fortify and technical debt assessment for the code enhancements and take steps to meet the standards for these elements.</li>
+<li>
+Support integration testing and end to end system testing and UAT.</li>
+<li>
+Partner with system test lead and UAT lead to resolve defects, address application stability and security vulnerabilities and ensure superior user experience for the software modules.</li>
+<li>
+Collaborate with interfacing teams and take action to resolve the defects and roadblocks.</li>
+<li>
+Assess project risk, proactively take remedial action and ensure robust system performance and stability in production.</li>
+<li>
+Adopt Agile, DevOps and other enablers to improve effectiveness of project delivery.</li>
+<li>
+Communicate project progress, status, risks, issues etc. to all levels of Management (Engineering and non-Engineering), up to and including Director and VP level as warranted. This includes providing status on a recurring basis as well as for special circumstances such as production disruptions.</li>
+<li>
+Lead projects and schedule/plan tasks for onsite and offshore team members and track the progress and ensure the deliverables are met.</li>
+<li>
+Willingness to provide off hours/weekend support as needed during product launches, high volume/retail/holiday periods</li>
+</ul>
+<p><b>
+What we’re looking for...</b>
+</p>
+<p><b>You’ll need to have:</b></p>
+<ul>
+<li>
+Bachelor’s degree or four or more years of work experience.</li>
+<li>
+Four or more years of relevant work experience.</li>
+<li>
+Experience in coding with Java, J2EE, JDBC, JPA, Hibernate, JavaScript, HTML5, CSS, ExtJS, Spring and Spring Boot framework.</li>
+</ul>
+<p><b>
+Even better if you have:</b></p>
+<ul>
+<li>
+A Bachelor’s/Master’s Degree in Computer Science.</li>
+<li>
+Experience with React/Angular, Sencha, RESTful API, Git, Gradle, IntelliJ/Eclipse.</li>
+<li>
+Knowledge of Jenkins, CI/CD and DevOps.</li>
+<li>
+Experience with Mobile Development.</li>
+<li>
+Proficiency with cloud-based infrastructure-as-a-service platforms: AWS, Google Compute Engine, Azure, Soft Layer, OpenStack.</li>
+<li>
+Proficiency with orchestration template technologies such as: AWS Cloud Formation.</li>
+<li>
+Proficiency in developing cloud-native applications that adhere to micro services and twelve-factor application principles.</li>
+<li>
+Proficiency with configuration management and automation tools such as: Chef, Puppet, and Ansible.</li>
+</ul>
+<p><b>
+When you join Verizon...</b>
+</p>
+<p>You’ll be doing work that matters alongside other talented people, transforming the way people, businesses and things connect with each other. Beyond powering America’s fastest and most reliable network, we’re leading the way in broadband, cloud and security solutions, Internet of Things and innovating in areas such as, video entertainment. Of course, we will offer you great pay and benefits, but we’re about more than that. Verizon is a place where you can craft your own path to greatness. Whether you think in code, words, pictures or numbers, find your future at Verizon.</p>
+<p><b>
+Equal Employment Opportunity</b>
+</p>
+<p>We're proud to be an equal opportunity employer- and celebrate our employees' differences,including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.</p>
+</div>
+<p></p>
+</div>

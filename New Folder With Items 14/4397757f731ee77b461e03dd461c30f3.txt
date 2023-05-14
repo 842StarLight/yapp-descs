@@ -1,0 +1,52 @@
+<h2>Antenna Engineering Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<h5 class="jobSectionHeader"><b>Share Job</b></h5>
+</div>
+<h1 class="jobSectionHeader"><b>Antenna Engineering Manager</b></h1>
+<div>Locations: Manchester, New Hampshire
+</div>
+<div>Categories: Engineering
+</div>
+<br>
+<div>Apply
+</div>
+<p></p>
+<h4 class="jobSectionHeader"><b>Job Description</b></h4>
+<div></div>
+<div><div><div>
+<p>Laird is seeking an experienced antenna engineer with management background to lead a team in the development of advanced antennas for commercial markets. The ideal candidate must thrive in a fast paced environment, be a team player, and must be able to deliver against deadlines.</p>
+Responsibilities
+<ul>
+<li>Lead a team of engineers in the design and development of antennas from 50 MHz to 10 GHz+ from initial concept stages through production launch.</li>
+<li>Design antennas using computer simulation software HFSS.</li>
+<li>Evaluate antenna performance using network analyzer and antenna chambers.</li>
+<li>Prepare and deliver antenna concept reports and final antenna performance reports internally and to leading OEM customers.</li>
+<li>Work as part of an engineering design team with mechanical engineers, the antenna lab, project managers, product managers and sales managers.</li>
+<li>Research trade publications, patents, technical papers and existing products to determine the “state of the art" of antenna technology.</li>
+</ul>Requirements
+<ul>
+<li>Experience designing multi-polarized antenna elements and arrays from 1.5 GHz through 6.5 GHz for Telecom applications.</li>
+<li>Expert in simulating and optimizing antenna performance in HFSS or CST.</li>
+<li>Experience in design, test, and production launch challenges.</li>
+<li>Experience managing development engineering personnel.</li>
+<li>Experience in designing and testing low PIM antennas.</li>
+<li>Hands on experience in using Network analyzers for evaluating S-Parameters using gating in time domain.</li>
+<li>Fluent in matching techniques and use of the Smith chart.</li>
+<li>Hands on experience in using Anechoic chambers.</li>
+<li>Hands on experience with Matlab.</li>
+<li>Experience in Low cost antenna designs.</li>
+<li>Proven Track record of antennas on the market.</li>
+<li>Ability to complete antenna projects from initial concept to product launch with minimal supervision.</li>
+<li>Works well in a Team environment and guides the team as the “expert”.</li>
+</ul>Education &amp; Experience Requested
+<ul>
+<li>Minimum Bachelor, M.Sc. degree preferred in Electrical Engineering or a related field.</li>
+<li>10 or more years experience.</li>
+</ul>Other
+<p>As an Equal Opportunity/Affirmative Action Employer, Laird does not discriminate in hiring or in the terms and conditions of employment because of an individual's race, color, religion, gender, national origin, age, disability, sexual orientation, marital status, veteran status, gender identity, citizenship or other categories protected by federal, state or local laws. EOE/M/F/Vet/Disability/Sexual Orientation/Gender Identity.</p>
+</div></div></div>
+</div>
+<div></div>
+</div>

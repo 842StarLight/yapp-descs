@@ -1,0 +1,52 @@
+<h2>Solutions Engineer, Technical Integrations</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p>We are immediately hiring a <b>Solutions Engineer</b> for technical integrations to join our growing team in <b>Redwood City</b>.<br>
+<br>
+Solutions Engineers work in a cross-functional environment with Product, Engineering, Customer Success and Sales team to drive the technical integrations with the client. They partner with publishers and understand their advertising strategies, technical implementation and provide solutions to the client utilizing their knowledge of PubMatic ad-decisioning and workflow APIs.<br>
+<br>
+An ideal candidate is entrepreneurial, highly analytical with a blend of technical and business acumen. Someone with a consulting mindset who can dive into writing APIs, building tools for operational efficiency, slicing and dicing data to find optimization opportunities and a strong desire for customer satisfaction will be successful in this role.<br>
+<br>
+<b>About The Team</b><br>
+<br>
+Platform Solutions is a group of individuals catering to multiple business and product needs. We are part of pre-sales, post-sales, technical implementations, strategic partner relationships, optimization strategies or any new initiative taken up by PubMatic. A group of trusted problem solvers with the ability to rally internal resources for achieving customer success while leading from the front. We thrive as a team and believe in empowering others.<br>
+<br>
+<b>Responsibilities</b></p>
+<ul>
+<li>
+Work with customer-facing teams to identify business goals, opportunities, and client's objectives and assure highest level of implementation of the PubMatic platform</li>
+<li>
+Partner with publishers to implement and deploy PubMatic advertising solutions for header bidding, video, mobile app monetization etc</li>
+<li>
+Customize header bidding solutions (javascript) as per client’s requirement and build automation tools (python) for operational efficiency</li>
+<li>
+Contribute to sales effort by delivering technical demonstration of the product, RFP/RFI submissions and developing sales pitch</li>
+<li>
+Partner with the PubMatic engineering and product teams to develop custom solutions and resolve issues during the sales cycle. Influence the product roadmap by bringing in the feedback from the clients</li>
+<li>
+Provide subject matter expertise to PubMatic account teams and customers in terms of best practices and capabilities to ensure balanced revenue strategies</li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+<ul>
+<li>3+ years of experience in a technical consulting role, preferably in AdTech ecosystem with Bachelor’s degree in a quantitative field (Computer Science, Mathematics, Statistics, Economics etc.)</li>
+<li>
+Demonstrated experience with web technologies (HTML, CSS, Javascript), MySQL and the command line environment</li>
+<li>
+Excellent communication skills with an ability to explain technical subjects to non-technical audience</li>
+<li>
+Demonstrated quantitative skills in Excel, R or Python to explore data and find actionable insights</li>
+<li>
+Excellent analytical and troubleshooting skills with high level of grittiness to find the solution. Should be comfortable in dealing with unknowns</li>
+</ul>
+<p>
+#LI-SD1</p>
+<br>
+Additional Information<br>
+<br>
+<p>All your information will be kept confidential according to EEO guidelines.</p>
+</div>
+</div>

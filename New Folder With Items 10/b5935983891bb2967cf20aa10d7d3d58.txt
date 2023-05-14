@@ -1,0 +1,50 @@
+<h2>Lead Software Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>flexEngage (formerly flexReceipts) is an innovative, retail technology startup based in Orlando, Florida. The company is a graduate of the prestigious business accelerator YCombinator and is well funded by strong VC firms, including Point Judith Capital, Synchrony Financial, and venVelo.</p>
+<p>COMPANY BACKGROUND<br>flexEngage helps retailers transform standard transactional communications (receipts, order and ship notifications, packing slips, etc.) into dynamic, personalized engagement channels that drive loyalty and revenue. The company powers the transactional communications for retailers including Michael Kors, Under Armour, Aldo, GNC and Oakley. Rather than sending customers standard transaction information, flexEngage enhances every post-purchase touchpoint with deep personalization enabling a seamless brand experience, improved engagement with shoppers and incremental sales.</p>
+<p>The Lead Software Architect Reports to the VP of Engineering and will be responsible for the following:</p>
+<p>- Evolution of application and infrastructure architecture so that we can continue to meet business needs and scaling (transaction volume) needs<br>- Foster technical innovation - identify technical strategies that will enable us to:<br>* Build products that will make our customers happier<br>* Ship faster<br>* Build products more securely<br>* Have better throughput, prevent system failures, etc.<br>- Build/Prototype new products<br>- Work with VP of Engineering to implement the technical strategy for the team.</p>
+<p>WHAT WE'RE LOOKING FOR:</p>
+<p>- A pure technologist; someone who actively writes code and keeps up to date knowledgeable about most technologies.<br>- Particularly strong background with our current technology stack: Java and Spring Technologies, AWS<br>- Experience building multi-tenant SAAS applications at scale<br>- Strong communication skills (verbal and written)<br>- Passionate about writing quality software that works<br>- Bachelor’s degree in Computer Science/Engineering preferred</p>
+<p>DESIRED CHARACTER TRAITS</p>
+<p>- Self-motivated and Driven - you will be responsible for establishing and meeting your quarterly goals<br>- Effective Communicator - you will need to communicate and sell your technical vision<br>- Listens to others - receptive to feedback and guidance from others<br>- Organized and detail oriented - you will be responsible for important projects and will need these skills to be successful in delivery<br>- Pragmatic - understand that you can’t solve every problem; focus on delivering realistic solutions to our most important challenges<br>- Collaborative - you will need to work with different members of the organization on different initiatives<br>- Advocates for using trusted, proven technologies in the face of popular trends<br>- Offers creative solutions to difficult problems<br>- Able to work in a fast-paced start-up environment</p>
+<p>COMPENSATION</p>
+<p>flexEngage offers a competitive compensation plan in line with the candidate’s experience and ability to drive results at target retailers. Compensation consists of an annual base salary, stock options, 401k, and health benefits.</p>
+<p>WHY YOU’LL LOVE WORKING HERE</p>
+<p>- Passionate founders<br>- Opportunity to create something – be a leader at an early stage startup<br>- Opportunity to make a difference – your work will truly matter<br>- Great personal upside potential – in learning, earnings, and future exit potential<br>- Your voice will matter!</p>
+<p>Skills Required<br>Java, Software Architecture, Spring, AWS</p>
+<p>What We're Building</p>
+<p>What if the end of every sale was the beginning of the next?</p>
+<p>flexEngage helps retailers transform standard transactional communications (digital receipts, order and ship notifications, packing slips, printed offers and more) into dynamic, personalized engagement channels that drive loyalty and revenue.</p>
+<p>Go beyond the sale. Learn more at: flexEngage.com</p>
+<p>11-50 Employees</p>
+<p>Retail Technology</p>
+<p>Job Type: Full-time</p>
+<p>Salary: $100,000.00 to $140,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>Spring: 5 years (Preferred)</li>
+<li>AWS: 5 years (Preferred)</li>
+<li>Java: 5 years (Required)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Flexible schedule</li>
+</ul>
+<p>This Job Is:</p>
+<ul>
+<li>A job for which military experienced candidates are encouraged to apply</li>
+<li>A job for which all ages, including older job seekers, are encouraged to apply</li>
+</ul>
+</div>

@@ -1,0 +1,30 @@
+<h2>Senior Software Engineer, Front End</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">RingDNA is searching for Front End Software Engineer to drive technical design and implementation of RingDNA product initiatives with a focus on the user interface.
+<br><br>
+<b>What You'll Do:</b><br>
+<ul>
+<li>Take ownership of features across the entire development lifecycle;</li>
+<li>Apply industry best practices and tooling to UI development;</li>
+<li>Lead drive to solve UX issues and suggests improvements to reduce support costs;</li>
+<li>Write clean, simple, secure, maintainable code;</li>
+<li>Refactor code as features evolve to increase clarity;</li>
+<li>Balance delivery speed and quality issues with wisdom;</li>
+<li>Build expert-level proficiency with RingDNA partners' products;</li>
+<li>Drive product and process improvements to reduce support costs;</li>
+<li>Contribute pull request reviews and responds to feedback;</li>
+<li>Work with remote/offshore developers as needed;</li>
+<li>Author technical documentation as needed to share knowledge on complex areas;</li>
+<li>Contribute development help as needed/requested;</li>
+<li>Use JIRA to communicate and coordinate progress.</li>
+</ul>
+<b>Who You Are:</b><br>
+<ul>
+<li>5+ years of relevant work experience using JavaScript, CSS, HTML;</li>
+<li>Strong analytical problem solving and debugging skills;</li>
+<li>Understanding of Single Page Application architecture and development principles;</li>
+<li>Experience working with JavaScript frameworks such as React, Angule, Vue;</li>
+<li>Bonus if you have Exposure to Backbone / Marionette, CoffeeScript, and CSS preprocessors (Sass preferred).</li>
+</ul>
+WHY RINGDNA?
+<br><br>
+RingDNA is the leading end-to-end sales engagement platform that combines enterprise-grade telephony with conversation intelligence. RingDNA helps teams engage with prospects and customers in the right way, at the right time, with the right context. Sales, support, and customer success teams use ringDNA to dramatically increase productivity, engage in smarter conversations, gain predictive insights, and coach reps to success faster than ever before. RingDNA was named to the "Hot 100" best privately held software companies by JMP Securities. The company was also named "One of The Best Privately Owned Companies in America" by Entrepreneur magazine. For more information visit www.ringDNA.com.</div>

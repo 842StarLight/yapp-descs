@@ -1,0 +1,126 @@
+<h2>Senior Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>
+<p><b>Position Summary:</b></p>
+<p>
+Orbis Technologies, Inc. provides award-winning products, solutions, and services powering enterprise software for hundreds of clients across four continents and fourteen countries. Orbis software and services support mission critical Enterprise Content Management Software, Solutions, Services, and Analytical Software Solutions. We make semantic technologies perform at a global scale. Every day, thousands of users at our prestigious commercial, military, and federal customers depend on our software and solutions. When other partners miss the mark, Orbis gets the job done.</p>
+<p>
+Orbis is seeking a Senior Solutions Architect, to support the integration of Orbis products into client enterprise architectures. In this role, you will demonstrate technical, functional, and process expertise to deliver effective, enterprise solutions to clients across multiple projects and industry domains as you define functional requirements and translate them into workable software solutions.</p>
+<br>
+<p></p>
+<p><b>
+Essential Duties &amp; Responsibilities:</b></p>
+<br>
+<p></p>
+<ul>
+<li>Lead initiatives to design, develop, and deliver end-to-end, multi-tiered enterprise solutions around Orbis CMS and specialty analytical products.</li>
+<li>Responsible for creation and maintenance of enterprise solution design architecture artifacts (e.g. Logical View, Physical View, etc.).</li>
+<li>Work with clients, internal development teams, and senior management to:
+<ul>
+<li>identify infrastructure and deployment requirements.</li>
+<li>develop approaches to deploy and integrate Orbis products and solutions into client enterprise environments.</li>
+<li>configure complex software implementations with customized criteria tailored to specific customer’s environment.</li>
+<li>develop requirements, technical direction system development, improvements, optimizations, or project support efforts.</li>
+<br>
+</ul>
+</li>
+</ul>
+<p></p>
+<ul>
+<li>Identify technology risks and innovation opportunities when designing practical solutions.</li>
+<li>Identify short-term and long-term target storage architectures and make recommendations.</li>
+<li>Design and document industry-standard interfaces and design solutions with third party software components.</li>
+<li>Implement and contribute to new software design or enhancements to existing software.
+<ul>
+<li>Assesses impact of changes to applications and systems and make recommendations.</li>
+<li>Implement and adhere to coding standards and naming conventions.</li>
+<li>Follow Agile software development Standard Operating Procedures and help write and improve software and process documentation.</li>
+<li>Provide leadership and mentoring to junior staff.</li>
+<li>Be a champion for our solutions internally and externally, through activities such as architecture development, open-source community work and outreach, meet-ups, conferences, and other events.</li>
+<li>Pro-actively make recommendations on how to improve product quality as well as group productivity.</li>
+</ul>
+</li>
+<li>Work with sales team to develop sales documents and presentations to prospective and existing clients.</li>
+</ul>
+<p><i>Please note, this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time, with or without notice.<br>
+</i></p>
+<p></p>
+<p><b>Reporting:</b></p>
+<p>
+ This position reports to the Director of Professional services.</p>
+<br>
+<p></p>
+<p><b>
+Work Hours:</b></p>
+<br>
+<p></p>
+<p>
+This is a full-time, on-site, exempt position with hours of operations from Monday to Friday, between 8:00 am to 5:00 pm</p>
+<br>
+</div>
+<p></p>
+</div>
+<div>
+<h3 class="jobSectionHeader"><b>Experience and Skills</b></h3>
+<div>
+<p><b>Mandatory Requirements &amp; Qualifications</b>:</p>
+<ul>
+<li>U.S. citizenship.</li>
+<li>Results-oriented, practical and creative problem solver.</li>
+<li>Bachelor of science in computer engineering, computer information systems, computer science, engineering, or software engineering.</li>
+<li>10+ years building and designing solutions for large enterprises that include implementations around Open Architecture, failover, replication, security, horizontal scaling and distributed architectures.</li>
+<li>10+ years of relevant software development, systems implementation consulting, across multiple technology platforms.</li>
+<li>Expert in Java, web application development, REST services, XML technologies, Business Process Management, and NoSQL infrastructures.</li>
+<li>Experience with modern build and code management tooling including Jenkins, Artifactory, Gradle, and/or Maven Git.</li>
+<li>Excellent written and verbal communication skills, including the ability to explain complex technical concepts to a non-technical audience.</li>
+<li>ITIL Master or other similar certifications.</li>
+<li>Experience using Sparx Enterprise Architect or equivalent to generate design artifacts.</li>
+<li>Experience working in complex data environments.</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Preferred Skills &amp; Qualifications:</b></p>
+<br>
+<p></p>
+<ul>
+<li>Master’s in computer science or relevant engineering disciplines.</li>
+<li>Experience with or exposure to content management and/or information management principles.</li>
+<li>Experience with SpringBoot</li>
+<li>Experience with Docker/Kubernetes/OpenShift/Other virtualization platforms</li>
+<li>Experience with Activiti or other Enterprise Business process management tools.</li>
+<li>Understanding of release management best practices.</li>
+<li>Experience building and deploying production-grade applications in either physical or virtualized environments such as Amazon Web Services or Azure platforms.</li>
+<li>Excellent time management, task planning, and prioritization skills.</li>
+<li>Ability to obtain DoD security clearance.</li>
+<li>CompTIA Security+</li>
+</ul>
+</div>
+</div>
+<div>
+<h3 class="jobSectionHeader"><b>Job Benefits</b></h3>
+<div>
+<ul>
+<li>30 days flexible PTO including 15 vacation days, 5 sick days, 8 federal holidays and 2 floating holidays.</li>
+<li>Plus, 1-week additional time off awarded for life events such as adoption, childbirth, and marriage.</li>
+<li>Tuition reimbursement</li>
+<li>401(k) with 100% match and immediate vesting up to 4% of contributions</li>
+<li>Free health insurance</li>
+<li>Free dental</li>
+<li>Free vision</li>
+<li>Free life insurance equal to twice your salary</li>
+</ul>
+<p>Free short-term and long-term disability insurance<br>
+And more!</p>
+<p>
+Orbis Technologies, Inc. employs and promotes a highly talented and diverse workforce and environment, without regard to race, color, religion, gender, national origin, or any other protected class.</p>
+<p>
+**3rd Party Recruiters - Please do not contact - There is no interest in using your services for this position.**</p>
+</div>
+</div>
+</div>
+<p></p>
+</div>

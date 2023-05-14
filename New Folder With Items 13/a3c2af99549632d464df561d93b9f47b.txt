@@ -1,0 +1,182 @@
+<h2>Eaton Internship Program: Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>We make what matters work.</b></div>
+<div>
+</div>
+<div>
+At Eaton, we believe that power, whether it’s electrical, hydraulic or mechanical power - is a fundamental part of people’s lives. Technology, transportation, energy and infrastructure—these are things the world relies on every day. That’s why we are dedicated to helping our customers across the world find new ways to manage power more efficiently, safely and sustainably. And we’re committed to improving people’s lives, the communities where we live and work, and the planet our future generations will depend on. Because that’s what really matters–and we’re here to make sure it works.</div>
+<div>
+</div>
+<div>
+While our vision is to improve the quality of life and the environment through the use of power management technologies and services, our culture and what we value can be represented in six essential leadership attributes expected of all Eaton employees.</div>
+<ul>
+<li>
+We’re ethical - we play by the rules and act with integrity.</li>
+<li>
+We’re passionate - we care deeply about what we do. We set high expectations and we perform.</li>
+<li>
+We’re accountable - we seek responsibility and take ownership. We do what we say.</li>
+<li>
+We’re efficient - we value speed and simplicity.</li>
+<li>
+We’re transparent - we say what we think. We make it okay to disagree.</li>
+<li>
+We learn – we are curious, adaptable, and willing to teach what we know.</li>
+</ul>
+<div>
+You want to make an impact in the world. At Eaton, we’re solving some of the toughest challenges on the planet. Our Early Talent Programs ensure that you have a multitude of opportunities to make an impact across a global organization. Participants in our Early Talent Programs work to solve real-world challenges while developing the skills required to lead at the next level. Early Talent assignments hold true significance to our businesses. In turn, participants gain enriching and diverse experiences and work side by side with experienced leaders to power their careers.</div>
+<div>
+</div>
+<div><b>
+What sets our Early Talent Programs apart:
+</b></div>
+<ul>
+<li><div>Each individual’s development experience is customized to help participants reach their potential; no two participants will have the same experience or set of responsibilities.</div></li>
+<li><div>
+Participants receive cross-functional exposure. They have opportunities to build their skills and try on different roles early in their career, ultimately maximizing their potential for consideration for a variety of future roles.
+</div></li>
+<li><div>By keeping our programs small and selective, we are able to make hiring decisions based on each candidate’s unique skill set and high potential.
+</div></li>
+<li><div>The opportunity to learn from senior leaders is a part of the fabric of every experience.</div></li>
+</ul>
+<div>
+Your career matters – and we’re here to make it work. Are you ready?</div>
+<div>
+<br>
+</div>
+<div><b>
+About Eaton:</b></div>
+<div>
+As a power management company with 2018 sales of $21.6 billion, Eaton provides energy-efficient solutions that help our customers effectively manage electrical, hydraulic and mechanical power more efficiently, safely and sustainably. We have approximately 95,000 employees across the world, and sell products to customers in more than 175 countries.</div>
+<div><b>
+Position Overview:</b></div>
+<div>
+The<b> Eaton Internship Program</b> <b>– Software</b> position will provide participants with robust and challenging assignments, designed to prepare them for careers in roles such as Embedded Software Engineer, Software Engineer and other technical roles focused on driving Eaton’s capabilities in critical technologies and trends like Internet of Things (IoT), functional safety, intelligent machines, increased diagnostics and prognostics capabilities. Participants will be located out of several different Eaton facilities, including but not limited to Gaithersburg, MD; Southfield, MI; Galesburg, MI; Eden Prairie, MN; Plymouth, MN; Grand Rapids, MI; Peachtree City, GA; Raleigh, NC; Pittsburgh PA; Menomonee Falls, WI; and Fort Worth, TX.</div>
+<div>
+<br>
+</div>
+<div>
+Example assignments include projects in areas such as enterprise software, PC-Tools development, interfacing sensors, data acquisition and communications for embedded systems to enable IoT, embedded software to enable physical products and data centric information services, creative software-centric solutions to interface and effectively manage in-building systems, and interfacing with enterprise software, mobile, and cloud based applications. Specific assignments include but are not limited to:</div>
+<ul>
+<li><div>
+Our systems are constantly adding new sensing technologies to help make them more intelligent, adaptive and predictive. Some of the work will be developing next generation embedded sensing systems as well as the software that communicates with these systems. As a key member of the team, you will work with lead engineers on design principles such as defining requirements, contributing to the definition of embedded system and algorithm solutions and the external interfaces, define test plans and perform validation testing to confirm that system and functional requirements are met. In this role, you will be responsible for working with team members and your engineering mentor to estimate development effort, resources and timing to achieve the desired results.</div></li>
+<li><div>
+Working with an inter-disciplinary team to define new or improved diagnostics and reporting capabilities of an embedded product. This may be plausibility checks at various levels of the system, involving external and internal data or/and analysis and predictions based on internal logic or historical data logged in the device. It may also include optimizations for increased data storage and information availability.
+</div></li>
+<li><div>Working on defining and implementing methods to ensure embedded data security against un-authorized access over direct or remote connections within a network that includes various other local or cloud-based applications that can connect to the embedded device. Determine use cases for different authentication schemes, research existent methods, make recommendations, and implement method for an embedded device which satisfies a set of the use cases.</div></li>
+<li><div>
+Working on enabling our embedded products to offer selectable features and functionality based on various licensing models.
+</div></li>
+<li><div>As a software intern you will collaborate with our software development, architecture, QA and product management teams in all stages of Software Development Life Cycle such as gathering requirements, developing &amp; executing test cases, developing Proof of Concepts, estimating tasks and developing production level software to acquire valuable knowledge and experience in using the the Agile software development processes, latest technologies and tools to complete your assignments while expand and maintain our market leading product offerings.</div></li>
+<li><div>
+Research, prove and influence other software development professionals on modern software development tools and methods including the latest aspects of Agile software development, improved methods to achieve quality earlier in the development process, automated software build and testing and DevOps.
+</div></li>
+<li><div>For a suite of IoT applications running in Azure, determine use cases for different multi-factor authentication schemes, research MFA capabilities provided by Azure (or 3rd parties integrate with Azure), make recommendations, and develop a POC providing a custom MFA pipeline for a mobile application running on Azure which satisfies a set of the use cases.</div></li>
+<li><div>
+Determine how to effectively gather and store massive amounts of log data from the components of an IoT platform. The components include device/gateway software, data ingress pipeline, REST APIs and Web/Mobile Apps. Once the data is collected in a centralized repository it can be analyzed by querying or by asking right questions. You will be responsible for determining the appropriate tools and methods for gathering, storing, and efficiently querying the assembled data, including the ability to provide real-time alerts on current state/health of the platform.<br>
+</div></li>
+</ul>
+<h4 class="jobSectionHeader"><b>
+Qualifications</b></h4>
+<div><b>
+Basic Qualifications (Including Educational Requirements):</b></div>
+<ul>
+<li><div>
+Actively enrolled in a bachelor’s degree program in computer engineering, computer science, electrical, mechanical, mechatronics, industrial, industrial &amp; systems, aerospace &amp;/or aeronautical, engineering technology, engineering management, operations and/or manufacturing engineering, or computer related field from an accredited institution
+</div></li>
+<li><div>Minimum overall cumulative GPA of 2.8 or higher (please do not round)</div></li>
+<li><div>
+Must be legally authorized to work in the United States without company sponsorship
+</div></li>
+<li><div>Geographical flexibility to relocate within the United States for the duration of the Internship Program
+</div></li>
+</ul>
+<div><b>Preferred Qualifications:</b></div>
+<div><b>
+General Preferred Qualifications</b></div>
+<div><ul>
+<li><div>
+Minimum overall cumulative GPA of 3.0 or higher</div></li>
+<li><div>
+Pursuing a bachelor’s degree in Computer Science, Computer Engineering, or Electrical Engineering from an accredited institution</div></li>
+<li><div>
+Prior internship or co-op experience</div></li>
+<li><div>
+Completion of sophomore year by the start of internship</div></li>
+<li><div>
+Active involvement in leadership activities
+</div></li>
+<li>
+<div>Active involvement in open source development, hackathons, etc.</div>
+<div>
+</div>
+<div><b>
+Preferred Qualifications – embedded software related
+</b></div>
+</li>
+<li><div>Firm grasp on real time embedded software concepts</div></li>
+<li><div>
+Development experience with various microcontrollers, microprocessors and programming in C and C++.
+</div></li>
+<li><div>Experience with industrial communications protocols and networks including Controller Area Networks experience (e.g. SAE-J1939, CANOpen, ARINC protocols, Modbus, Ethernet)</div></li>
+<li><div>
+Communication protocol analysis tools experience (e.g. CANape and CANalyzer)</div></li>
+<li>
+<div>
+Basic understanding of control loop principles (PID controllers, feedback control, feedforward control)
+</div>
+<div></div>
+<div><b>Preferred Qualifications – IOT/Enterprise software related</b></div>
+</li>
+<li><div>
+Firm grasp of algorithms and data structures</div></li>
+<li><div>
+Object oriented design and programming skills experience</div></li>
+<li><div>
+Development experience with Java and/or C# and/or Python and/or Scala</div></li>
+<li><div>
+Development experience with Angular and/or React and/or iOS and/or Android</div></li>
+<li><div>
+Development experience in Microsoft technologies, development experiences with Microsoft Azure a plus</div></li>
+<li><div>
+Demonstrate and document solutions by using flowcharts, diagrams, code comments, code snippets, and performing instruments</div></li>
+<li><div>
+Knowledge of CI/CD concepts, tools, and technologies</div></li>
+<li><div>
+Familiarity with SOLID coding principles and knowledge of design patterns</div></li>
+<li><div>
+Development experience with RESTful APIs and Web based data structures such as JSON</div></li>
+<li><div>
+Knowledge of web services and general services design</div></li>
+<li><div>
+Familiarity with Agile software development process</div></li>
+</ul></div>
+<div>
+</div>
+<div><b>
+Position Criteria:</b></div>
+<ul>
+<li><div>
+Transportation to and from the worksite and for incidental business travel is the responsibility of the intern; however, expenses for required and approved business travel (not including the worksite) will be reimbursed.
+</div></li>
+<li><div>This role may include travel (up to 25%) within a local region as determined by Assignment Manager.</div></li>
+<li><div>
+The summer internship culminates with a formal presentation where students showcase their success stories to leaders of the organization and receive feedback on their performance.*<br>
+</div></li>
+</ul>
+<br>
+<p>We make what matters work. Everywhere you look—from the technology and machinery that surrounds us, to the critical services and infrastructure that we depend on every day—you’ll find one thing in common. It all relies on power. That’s why Eaton is dedicated to improving people’s lives and the environment with power management technologies that are more reliable, efficient, safe and sustainable. Because this is what matters. We are confident we can deliver on this promise because of the attributes that our employees embody. We’re ethical, passionate, accountable, efficient, transparent and we’re committed to learning. These values enable us to tackle some of the toughest challenges on the planet, never losing sight of what matters.</p>
+<p><b>
+Job: Engineering</b><br>
+</p>
+<p><b>
+Region: North America – US/Puerto Rico</b><br>
+<b>Organization: Corporate Sector</b><br>
+</p>
+<p><b>
+Job Level: Entry Level</b><br>
+<b>Schedule: Full-time</b><br>
+<b>Is remote work (i.e. working from home or another Eaton facility) allowed for this position?: No</b><br>
+<b>Does this position offer relocation?: Relocation from within hiring country only</b><br>
+<b>Travel: Yes, 25 % of the Time</b></p>
+</div></div>

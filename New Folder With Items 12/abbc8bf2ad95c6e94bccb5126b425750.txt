@@ -1,0 +1,90 @@
+<h2>Technical Architect - Full Stack</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Technical Architect - Full Stack</b></p>
+<p><b>
+J.C. Penney Company, Inc.</b></p>
+<p><b>
+Plano, Texas</b></p>
+<p>
+We are looking for an experienced <b>Full Stack Technical Architect</b> to join our team. In this role, your main responsibilities will include E2E design &amp; development of new systems/features for Customer Experience - FindMore and Point of Sale teams using agile best practices, leveraging Java and/or Microsoft .NET technologies, Spring Framework and relational databases along with JavaScript Frameworks such as ReactJS, Redux, Node and npm.
+</p>
+<p><b>Primary Responsibilities:</b></p>
+<ul>
+<li>
+Drive the technical architecture of Stores Checkout that includes in Store items as well as .com ordering.
+</li>
+<li>Drive technology roadmap of the Product and be comfortable handling conflicts amicably with Product when it comes to balancing technical backlog versus function features.</li>
+<li>
+Lead the team’s technical direction by exploring and implementing the best in class technologies and advocate the use of best tools, libraries, and processes.</li>
+<li>
+Work directly with other JCPenney IT associates as well as JCPenney business partners to define contracts, dependencies and communicate technical capabilities</li>
+<li>
+Collaborate with Product Managers, Designers, DevOps, Front &amp; Back-end developers to deliver best user experience.</li>
+<li>
+Troubleshoot pre and post-production functional and non-functional issue</li>
+<li>
+Stay up to date on the latest industry technology trends and techniques</li>
+<li>
+Propose new ideas and best practices to improve performance and experience of the site</li>
+<li>
+Continuously test your software to fail-fast and fail-forward to ensure the best user experience.</li>
+<li>
+Communicate effectively with remote and distributed teams.</li>
+<li>
+Take pride in owning what you build, support it in production and continuously monitor and evolve it to improve performance, scalability and ease-of-use.</li>
+</ul>
+<p><b>
+Core Competencies &amp; Accomplishments:</b></p>
+<ul>
+<li>
+Strong development experience in Java and/or .NET technologies, Spring Framework and relation databases (preferably PostgreSQL, Oracle, SQL Server).</li>
+<li>
+Prior experience leading Product/Portfolio level architecture.</li>
+<li>
+Prior experience with DevOps and Automation.</li>
+<li>
+Work experience in Agile Scrum methodologies</li>
+<li>
+Micro service architecture experience and knowledge of GIT for version control.</li>
+<li>
+Experience building applications using Adaptive/Responsive Design Principles and leveraging various applications layers to enhance performance</li>
+<li>
+Familiarity with Data Structures, Algorithms, and general Computer Science Fundamentals</li>
+</ul>
+<p><b>
+Minimum Requirements:</b></p>
+<ul>
+<li>
+Bachelors of Science Degree in Computer Information Systems, or equivalent work experience</li>
+<li>
+10+ years of experience with Java and/or .NET technologies and relation databases.</li>
+<li>
+5 plus years of experience with leading strong engineering teams.</li>
+</ul>
+<p><b>
+Desired Experience:</b></p>
+<ul>
+<li>
+Containers
+</li>
+<li>RESTful API</li>
+<li>
+Cloud/AWS</li>
+</ul>
+<p><b>
+What you get:
+</b></p>
+<p>Our corporate office, located within the exciting new development of Legacy West in Plano, Texas, supports JCPenney stores and supply chain facilities nationwide. We offer a competitive benefits package including medical/dental/vision, term life insurance, paid vacation/holidays, 401(k) Savings Plan with company match, and an associate discount on JCPenney merchandise. On-site campus amenities include health clinic, pharmacy, daycare and preschool, full cafeteria service, a 24-hour fitness center and free garage parking.</p>
+<p><b>
+About JCPenney:</b></p>
+<p>
+At JCPenney, we share a passion for serving customers, supporting our communities and being the best retailer for all families. As a company founded on the Golden Rule, our success is rooted in the belief that we treat everyone the way we would want to be treated. At every touchpoint, customers discover stylish merchandise at incredible value from an extensive portfolio of private, exclusive and national brands. Reinforcing this shopping experience is the customer service and warrior spirit of approximately 98,000 associates across the globe, all driving toward the Company's mission to help customers find what they love for less time, money and effort.</p>
+<p>
+Working at JCPenney means joining a dedicated team of associates who are encouraged to be uniquely themselves in a safe, caring and welcoming environment. It is a place where careers prosper, accomplishments are celebrated and diversity flourishes. It’s a place that’s meant for you.
+</p>
+<p>For more opportunities to join our team please visit our careers page.</p>
+<p>
+Follow us and see what’s new: Instagram Facebook Twitter LinkedIn Pinterest Media Room jcp.com</p>
+<p>
+#LI-SA1</p>
+</div></div>

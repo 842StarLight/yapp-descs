@@ -1,0 +1,121 @@
+<h2>Analytics Consultant 5 - Digital Customer Experience and Capabilities</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<b>Job Description</b><br>
+<p>At Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We’re looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where you’ll feel valued and inspired to contribute your unique skills and experience.</p>
+<p>
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.</p>
+<p>
+The mission of <b>Marketing</b> is to build the best possible brand, experiences, and engagement with our customers and stakeholders that reflect our commitment to our customers and their needs and to driving key business and stakeholder outcomes. In support of this mission, Marketing is responsible for developing integrated marketing strategies across Wells Fargo’s business lines and geographies; leading brand strategy; leveraging deep insights and analytics about consumers and businesses; executing customer messaging across all channels and touchpoints; and building out capabilities that move toward real-time, always-on, personalized and compelling messaging and digital experiences.</p>
+<p>
+I&amp;A is seeking an Analytics Consultant 5 to join the Digital Customer Experience and Capabilities team within Insights &amp; Analytics. The ideal candidate should have a strong technical background in Teradata SQL scripting and Tableau visualization with an in-depth understanding of industry standard web analytics KPIs and digital sales funnel. This candidate should be able to get into the data to execute on ad-hoc insights and analytics requests from our business partners and produce and present the results to them. The candidate should also have hands-on experience deploying, integrating, and/or pulling data and insights from a modern-day enterprise capabilities stack (Google, Oracle, IBM, or Adobe). Lastly, the ideal candidate should have current experience performing analysis with a customer-focused and omnichannel look the customer journey. Ideal candidates currently sit in a Customer Journey and/or Capabilities Team and have a propensity to analyze at the level of Personalization and Customers.</p>
+<p>
+Specific job functions include:</p>
+<ul>
+<li>Partner with our digital marketing consultant and managers, business partners, technology partners, and Offshore team to ensure our monthly updated Tableau Dashboard meets their needs and address any ad-hoc analysis and questions they might have</li>
+<li>Coordinate training sessions with our partners to educate them of the contents and capabilities of the Tableau Dashboard and what our web analytics team can offer them on an ad-hoc basis</li>
+<li>Be the subject matter expert on web analytics and take business ownership of the Tableau Dashboard</li>
+<li>Engage and participate in the discussions of potential integration of new data sources and technology platforms into our Teradata Aster web analytics platform.</li>
+<li>Identify and track project issues and risks, and communicate effectively with business, operations, and technology teams. Participate in end-to-end project management for key strategic and projects.</li>
+<li>Identify, research, and resolve data issues discover by our partners and/or us</li>
+</ul>
+Within the MSCI and DCE support team, the primary engagement model involves:<br>
+<ul>
+<li>Web Analytics: the team is the enterprise center of excellence for web analytics and it is charged with business ownership of Aster as well as development of a long-term road-map for new web analytics reporting and capabilities (e.g. API integration, site performance dashboard, etc.)</li>
+<li>Technical Consultation for Enterprise Capabilities: in addition to web analytics, the team partners with EDA and MM on platforms (MAT/C2T/etc.) and analytical integration of new technologies (Doubleclick tag deployment, DMP, etc.)</li>
+<li>MSCI Leadership: in partnership with Research, Measurement, and Marketing the team leads the I&amp;A socialization for integrated support of MSCI projects</li>
+</ul>
+<br>
+<b>
+Required Qualifications</b><br>
+<p></p>
+<ul>
+<li>
+8+ years of experience in one or a combination of the following: reporting, analytics, or modeling; or a Masters degree or higher in a quantitative field such as applied math, statistics, engineering, physics, accounting, finance, economics, econometrics, computer sciences, or business/social and behavioral sciences with a quantitative emphasis and 5+ years of experience in one or a combination of the following: reporting, analytics, or modeling</li>
+<li>
+6+ years of SQL or SAS experience</li>
+<li>
+6 + years of Tableau Dashboard development experience</li>
+</ul>
+<br>
+<p></p>
+<b>
+Desired Qualifications</b><br>
+<p></p>
+<ul>
+<li>
+Extensive knowledge and understanding of research and analysis</li>
+<li>
+Strong analytical skills with high attention to detail and accuracy</li>
+<li>
+Excellent verbal, written, and interpersonal communication skills</li>
+<li>
+Experience designing and optimizing complex SQL queries involving table joins and correlated sub-queries on large scale data tables</li>
+<li>
+Ability to quickly establish credibility to build and maintain effective working relationships</li>
+</ul>
+<br>
+<p></p>
+<b>
+Other Desired Qualifications</b><br>
+<ul>
+<li>8+ years marketing analytics, data mining, modeling, and consultative business analysis experience</li>
+<li>Bachelor's degree in Computer Engineering, Engineering, Computer Science, Information Technology, or related field of study plus 6-8 years of experience as Systems Analyst, Business Analyst, IT Consultant, or related occupation</li>
+<li>MBA or advanced statistical/economics/business degree</li>
+<li>Digital marketing and paid media experience in the financial services industry</li>
+<li>Understanding of industry standard KPIs in web analytics</li>
+<li>Experience with digital sales funnel (a plus)</li>
+</ul>
+<br>
+<b>
+Job Expectations</b><br>
+<p></p>
+<ul><li>
+Ability to travel up to 10% of the time</li></ul>
+<br>
+<p></p>
+<b>
+Salary Information</b><br>
+<p>The salary range displayed below is based on a Full-time 40 hour a week schedule.<br>
+<br>
+<b>NC-Charlotte: </b>Min: $90,100 Mid: $128,700<br>
+<b>NC-Charlotte: </b>Min: $90,100 Mid: $128,700<br>
+<b>NC-Winston Salem: </b>Min: $90,100 Mid: $128,700<br>
+<b>MN-Minneapolis: </b>Min: $90,100 Mid: $128,700<br>
+<b>IA-West Des Moines: </b>Min: $90,100 Mid: $128,700<br>
+<b>IA-West Des Moines: </b>Min: $90,100 Mid: $128,700<br>
+<b>TX-Austin: </b>Min: $90,100 Mid: $128,700<br>
+<b>TX-Irving: </b>Min: $90,100 Mid: $128,700<br>
+<b>TX-Irving: </b>Min: $90,100 Mid: $128,700<br>
+<b>TX-San Antonio: </b>Min: $90,100 Mid: $128,700<br>
+<b>AZ-Tempe: </b>Min: $90,100 Mid: $128,700<br>
+<b>OR-Portland: </b>Min: $90,100 Mid: $128,700<br>
+<b>MO-Saint Louis: </b>Min: $90,100 Mid: $128,700<br>
+</p>
+<b>
+Street Address</b><br>
+<p><b>NC-Charlotte: </b>1525 W Wt Harris Blvd - Charlotte, NC<br>
+<b>NC-Charlotte: </b>401 S Tryon St - Charlotte, NC<br>
+<b>NC-Winston Salem: </b>809 W 4 1/2 St - Winston Salem, NC<br>
+<b>MN-Minneapolis: </b>255 2nd Ave S - Minneapolis, MN<br>
+<b>IA-West Des Moines: </b>7001 Westown Pkwy - West Des Moines, IA<br>
+<b>IA-West Des Moines: </b>800 S Jordan Creek Pkwy - West Des Moines, IA<br>
+<b>TX-Austin: </b>111 Congress Avenue - Austin, TX<br>
+<b>TX-Irving: </b>2975 Regent Blvd - Irving, TX<br>
+<b>TX-Irving: </b>250 E John Carpenter Freeway - Irving, TX<br>
+<b>TX-San Antonio: </b>4101 Wiseman Blvd - San Antonio, TX<br>
+<b>AZ-Tempe: </b>1150 W Washington St - Tempe, AZ<br>
+<b>OR-Portland: </b>350 Sw Jefferson - Portland, OR<br>
+<b>MO-Saint Louis: </b>1 N Jefferson Ave - Saint Louis, MO<br>
+</p>
+<b>
+Disclaimer</b><br>
+<p><br>
+All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.<br>
+<br>
+Relevant military experience is considered for veterans and transitioning service men and women.<br>
+<br>
+Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.</p>
+</div>
+<br>
+PYMTVIRSOLSINN/PVSI WH</div>

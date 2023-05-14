@@ -1,0 +1,40 @@
+<h2>Software Development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Conversica is the leader in conversational AI for business and the only provider of AI-driven lead engagement software for marketing and sales organizations. The flagship Conversica® AI Sales Assistant helps companies find and secure customers more quickly and efficiently by automatically contacting, engaging, qualifying and following up with leads via natural, multi-channel, two-way conversations.</p>
+<p>
+Used by more than 1,500+ companies worldwide, Conversica’s sales assistants are built on a proven AI platform integrating natural language processing (NLP), natural language generation (NLG), and machine learning (ML) capabilities. Recognized by Gartner as a Cool Vendor, Conversica is a portfolio company of Providence Strategic Growth, Kennet Partners and Toba Capital and is headquartered in Foster City, California.</p>
+<p>
+Software Development Engineer</p>
+<p>
+Conversica has a strong engineering team that is committed to our customers, passionate about technology and motivated to succeed. We are driven, self-starting, resourceful, innovative, collaborative, and get a lot done while having fun. If that sounds like you, then read on!</p>
+<p>
+We are building out the next generation of our artificial intelligence platform. We have the big picture, but there is much design work to be done and lots of code to write. For that, we are looking for a “Software Development Engineer” for our new Seattle office.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>Develop services and applications in various system areas including machine learning, natural language processing and data analytics</li>
+<li>Organize, lead, and participate in design sessions about your services and applications as well as other components from all areas of our system</li>
+<li>Perform code development, both individually and in cooperation with team members, test your code, and ship it to production</li>
+<li>Maintain and debug your services and applications in our production environment</li>
+<li>Work closely with our Product Management and our Customer Success teams</li>
+<li>Have fun, be fun, and get a lot done</li>
+</ul>
+<p>Qualifications:</p>
+<ul>
+<li>10+ years professional hands-on software development experience preferably with high-volume distributed systems experience</li>
+<li>Bachelor’s degree in Computer Science or related technical field</li>
+<li>Strong individual contributor with experience working with teams of 4+ engineers</li>
+<li>Strong architecture, design, and coding skills with an understanding of service-oriented-architecture and micro-service-architecture (MSA) patterns.</li>
+<li>Ability to troubleshoot, performance tune, solve problems and write good unit tests</li>
+<li>Strong demonstrable knowledge of both relational and NoSQL databases, preferably MySQL, and redshift</li>
+<li>Strong software development process background, preferably using Agile methodologies such as Scrum and Kanban</li>
+<li>Exemplary communication skills (both oral and written) with experience producing technical and design documentation of complex systems and processes</li>
+<li>In-depth knowledge of object-oriented methodologies, UML design techniques, event driven architectures, and other design patterns</li>
+<li>Familiarity with open-source libraries/frameworks, preferably in Python, OO programming with Java or PHP</li>
+<li>Understanding and some hands-on experience with JSON and restful Web-services</li>
+<li>Experience with machine learning or artificial intelligence or data sciences frameworks is a plus</li>
+</ul>
+<p>Posting Statement</p>
+<p>
+Conversica is an equal opportunity employer and values diversity at our company. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, veteran status, or disability status. Headhunters and recruitment agencies may not submit resumes/CVs through this Web site or directly to managers. Conversica does not accept unsolicited headhunter and agency resumes. We will not pay fees to any third-party agency or company that does not have a signed agreement with Conversica.</p>
+</div></div>

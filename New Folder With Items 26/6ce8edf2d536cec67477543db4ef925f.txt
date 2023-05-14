@@ -1,0 +1,103 @@
+<h2>Manager, Software Development</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Job Title: Manager, Software Engineering</p>
+<p>
+Location: Denver, CO</p>
+<p>
+Function: Engineering</p>
+<p>
+Position Type: Full-Time</p>
+<p>
+Position Level: Manager</p>
+<p>
+Travel Requirement: Minimal Travel Required</p>
+<br>
+<p>Xactly Corporation was founded to solve an important challenge: how to help people everywhere connect and unleash their human potential through seamless, perfectly aligned Sales Performance Management. Xactly’s comprehensive Sales Performance Management (SPM) suite leverages data from a sales performance AI platform to provide timely insights across the entire SPM value chain, from sales planning to execution, including compensation to optimization. Xactly takes Sales Performance Management from a dark art to a science, providing decision-makers with the data insights they need to tap the motivational power of their incentive compensation. With access to predictive analytics and benchmark data, enterprises can now optimize territories, design the right compensation and incentive plans and accelerate attainment and optimization of sales performance.</p>
+<br>
+<p>THE OPPORTUNITY</p>
+<p>
+This position is in charge of one of our most innovative teams here at Xactly, AlignStar. You will be responsible for managing and supporting the organization as a whole as well as being hands on in the development process. You will partner with other Engineering Managers in the company to lead and drive continuous process improvements and innovation as well as establish trust across the org with Product Managers, Support, Data Center Operations, and peer engineering teams.</p>
+<br>
+<p>As a functional Engineering Manager, you will help engineers to develop their career plans and assign project work tailored to their skill set. You will be a hands on engineer when needed to assist your engineering team to ensure quality code and perfect releases.</p>
+<br>
+<p>THE TEAM</p>
+<p>
+Xactly’s Engineering team is growing rapidly and we need someone who can work closely with recruitment to build out this SalesPlanning team! Covering offices in San Jose, Denver, Bangalore, and Toronto, we have a strong focus on cutting-edge and high-quality code and products. All engineers are encouraged to operate independently with the highly level of accountability, but also have the ability to be a team player and work with multiple teams.</p>
+<p>
+THE SKILL SET</p>
+<ul>
+<li>2+ years of prior relevant technical lead or management experience</li>
+<li>Master’s or Bachelor's plus 5 years experience in web application or platform development and architecture</li>
+<li>Solid hands on experience with Scala and/or Java</li>
+<li>Hands on experience with one or more key-value data store such as CouchBase, MongoDB, Hbase or Cassandra.</li>
+<li>Experienced in mentoring, managing engineers, recruiting and retaining top talent.</li>
+<li>Strong commitment to good engineering discipline and process including code reviews and delivering unit tests in conjunction with feature delivery</li>
+<li>Ability to make decisions and work with minimal direction even under pressure</li>
+<li>Technically deep enough to participate in roadmap prioritization.</li>
+<li>Familiarity and experience with agile (scrum) development process</li>
+<li>Experience establishing and reviewing business metrics with the ability to articulate and provide visibility to the team on various business metrics ensuring every new feature developed meets and is tracked towards those metrics.</li>
+</ul>
+<br>
+<p>WITHIN ONE MONTH, YOU’LL:</p>
+<ul>
+<li>Attend New Hire Training</li>
+<li>Learn the Dev and QE processes</li>
+<li>Gain exposure to Xactly’s product suite</li>
+<li>Learn about Xactly’s tools and technologies</li>
+<li>Get to know your team</li>
+</ul>
+<br>
+<p>WITHIN THREE MONTHS, YOU’LL:</p>
+<ul>
+<li>Discussing and building out product roadmap</li>
+<li>Work with recruitment on hiring for your team</li>
+<li>Participate and lead scrum meetings</li>
+</ul>
+<br>
+<p>WITHIN SIX MONTHS, YOU’LL:</p>
+<ul>
+<li>Train and integrate your team into Xactly and dev processes</li>
+<li>Ensure the best dev practices are being used</li>
+<li>Ensure that we are releasing high quality product
+</li>
+<li>Participate and contribute in maintenance and new product development</li>
+</ul>
+<br>
+<p>WITHIN TWELVE MONTHS, YOU’LL:</p>
+<ul>
+<li>Be an expert on Xactly’s AlignStar product</li>
+<li>Partner and work cross functionally with other dev teams and the QE team</li>
+<li>Take full ownership of features and processes of the product</li>
+<li>Continuously coach and mentor your team to achieve their career goals</li>
+<li>Continuously think about and work on process improvements for an always high-quality product</li>
+</ul>
+<br>
+<p>Benefits and Perks</p>
+<ul>
+<li>Flexible Time Off (FTO)</li>
+<li>Comprehensive Insurance Coverage (including pet insurance!)</li>
+<li>Tuition Reimbursement</li>
+<li>XactlyFit Gym/Fitness Program Reimbursement</li>
+<li>Kitchen Stocked Daily with Tasty Snacks, Fruit, and Drinks</li>
+<li>Access to Corporate Discounts</li>
+<li>Parking &amp; Commuter Benefits</li>
+<li>Up to (3) Days Paid Leave to Participate in Community &amp; Volunteer Opportunities</li>
+<li>End of Month Surprises, Contests, BBQs, Parties &amp; Reward Vacations</li>
+<li>401(k) Retirement Savings Plan &amp; Employer Match</li>
+<br>
+</ul>
+<br>
+<br>
+<p>THE XACTLY STORY:</p>
+<br>
+<p>Xactly is a leading provider of enterprise-class, cloud-based, incentive compensation solutions for employee and sales performance management. We address a critical business need: to incentivize employees and align their behaviors with company goals. Our solutions allow organizations to make better strategic decisions, optimize behaviors, increase sales and employee performance, improve margins, increase operational efficiencies, mitigate risk, design better incentive compensation plans, and reduce error rates in incentive compensation calculations.</p>
+<p>
+We were the first 100% cloud-based, multi-tenant provider focusing solely on the incentive compensation and employee and sales performance management market, and we achieved our leadership position through domain expertise and innovative technology. We deliver our solutions through a Software-as-a-Service (SaaS) business model.</p>
+<p>
+Xactly is proud to be an Equal Opportunity Employer. Xactly provides equal employment opportunities to all employees and applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, pregnancy, sexual orientation, or any other characteristic protected by law.</p>
+<br>
+<p>We do not accept resumes from agencies, headhunters, or other suppliers who have not signed a formal agreement with us.</p>
+</div>
+<div></div>
+</div>

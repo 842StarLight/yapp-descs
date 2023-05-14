@@ -1,0 +1,114 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Kaliburn Inc., a subsidiary of Lincoln Electric, engineers and manufactures plasma cutting systems, plasma torches, plasma consumables and control system units for high-tech cutting applications. Building new products that constantly raise the bar in the industry is possible through a strong foundation of engineering talent such as mechanical, fluid dynamics, heat transfer and software engineers.</p>
+<p>
+The Senior Software Engineer will design, modify, develop, write, and implement software programming applications.<br>
+</p>
+<p></p>
+<p><b>ESSENTIAL FUNCTIONS</b></p>
+<ul>
+<li>
+Complete full life cycle development using structured design methodologies including test driven development, unit testing, code reviews and scrums</li>
+<li>
+Design, develop, test and maintain Windows services and applications</li>
+<li>
+Diagnose, resolve software defects, and write unit tests to validate solution</li>
+<li>
+Work closely with test analysts to develop regression and automated test systems</li>
+<li>
+Complete manager assigned tasks across concurrent projects delivering on team commitments</li>
+<li>
+Validate products in cutting lab and, occasionally, at third party sites</li>
+<li>
+Communicate an accurate state of work to cross functional team
+</li>
+<li>Deliver high quality, reliable, testable, reusable software that aligns to requirements</li>
+<li>
+Effectively communicate risk with full transparency
+</li>
+<li>Work effectively within a cross-functional team to deliver quality products on time</li>
+<li>
+Follow software repository management policy</li>
+<li>
+Estimate task duration based on functional requirements</li>
+<li>
+Participate in design and code reviews</li>
+<li>
+Develop architecture and write well designed, testable, reusable code</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+REQUIRED SKILLS</b></p>
+<ul>
+<li>
+Degree in Computer Science, Mathematics, Physics or an Accredited Bachelors of Science Degree in an engineering program focused on software development</li>
+<li>
+Proven 5+ years’ experience developing commercial software</li>
+<li>
+Ability to plan and estimate task duration</li>
+<li>
+Strong and current commercial programming experience with C# or similar object-oriented language</li>
+<li>
+Object Orientation analysis, design and programming</li>
+<li>
+Strong analytical &amp; reasoning skills with ability to visualize solutions and outcome</li>
+<li>
+Passion for solving problems
+</li>
+<li>Strong knowledge of multi-threaded parallel processing methodologies</li>
+<li>
+Strong understanding of real time systems</li>
+<li>
+Deep understanding of design patterns and software design methodologies</li>
+<li>
+Excellent knowledge of rationale databases, SQL and ORM technologies</li>
+<li>
+Technical, persistent mindset with strong attention to detail<br>
+</li>
+</ul>
+<p><b>
+PREFERRED SKILLS</b></p>
+<ul>
+<li>
+Knowledge and application of graph theory</li>
+<li>
+Interfaces to material management systems</li>
+<li>
+WPF and MVVM design pattern</li>
+<li>
+Entity Framework or similar persistence framework</li>
+<li>
+Experience with modeling tools (Mathematica, MathCad, Maple, MatLab, Simulink, UML)</li>
+<li>
+Ability to read and understand electronic schematics<br>
+<br>
+<b>WORK ENVIRONMENT</b><br>
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may to enable individuals with disabilities to perform the essential functions.<br>
+<br>
+The noise level in the work environment is usually mild.<br>
+<br>
+<b>PHYSICAL DEMANDS</b><br>
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable qualified individuals with disabilities to perform the essential functions.<br>
+<br>
+While performing the duties of this job, the employee is regularly required to stand; walk and sit; use hands to finger, handle or feel objects, tools or controls; reach with hands and arms; talk and hear. The employee occasionally lifts and/or moves up to 20 pounds.<br>
+<br>
+<b>EEO STATEMENT</b><br>
+Lincoln Electric promotes equal employment opportunities and will not discriminate, nor tolerate discrimination, against any applicant or employee because of age; race; color; religion; sex; sexual orientation; gender identity; national origin; citizenship status; disability; veteran status; genetic information; or on the basis of pregnancy, childbirth, or related medical conditions, including, but not limited to, lactation.<br>
+<br>
+<b>OTHER DUTIES</b><br>
+Please note, this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time, with or without notice.</li>
+</ul>
+<p><b>
+Qualified applicants will receive consideration for employment without regard to their </b><b>age; race; color; religion; sex; sexual orientation; gender identity; national origin; citizenship status; disability; veteran status; genetic information; or on the basis of pregnancy, childbirth, or related medical conditions, including, but not limited to, lactation.</b></p>
+<p>
+Lincoln Electric is the world leader in the design, development and manufacture of arc welding products, robotic arc welding systems, plasma and oxy-fuel cutting equipment and has a leading global position in the brazing and soldering alloys market. Headquartered in Cleveland, Ohio, Lincoln Electric has 56 manufacturing locations, including operations and joint ventures in 20 countries and a worldwide network of distributors and sales offices covering more than 160 countries. For more information about Lincoln Electric and its products and services, visit the Company’s website at http://www.lincolnelectric.com.</p>
+<p>
+Lincoln Electric does not accept unsolicited resumes from third-party recruiters. Resumes submitted to any employee(s) of Lincoln Electric without a signed vendor agreement, by the Manager of Recruiting &amp; Training, will become property of Lincoln Electric. Verbal or written commitments from any other member of Lincoln Electric will not be considered binding terms. Lincoln Electric will not pay a fee to any third-party recruiter that has not coordinated their recruiting activity through the Recruiting Department.</p>
+<p><b>
+Employment Status:</b> Salary Full-Time<br>
+<b>Function: </b>Engineering<br>
+<b>Section:</b> Kaliburn, Inc. (US71)</p>
+<p><b>
+EOE</b></p>
+</div></div>

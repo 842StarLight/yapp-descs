@@ -1,0 +1,48 @@
+<h2>Solutions Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<b>The Job:</b><br>
+<ul>
+<li>Become the “know it all” on our ever-evolving product and the use cases relevant to a variety of industries we serve
+</li>
+<li>Demonstrate and show off our product’s features, functions, and marketplace leadership by working closely with the Inbound, Outbound and Account Executive Sales Team
+</li>
+<li>Engage in the consultative selling process, gaining customer acceptance based on the communicated requirements of the software and engagement
+</li>
+<li>Build custom demonstrations showcasing relevant functionality prior to key customer meetings
+</li>
+<li>Scope and build POCs and/or participate in Pilot engagements, helping customers see the product fit in their environment
+</li>
+<li>Respond to technical portions of RFPs, ensuring short-listing of the solution
+</li>
+<li>Communicate tips and workarounds for prospects when the core product doesn’t meet requirements or when the requirements have better alternatives
+</li>
+<li>Work with the Product Management team, helping short-list key field requirements on the product roadmap for increased sales success
+</li>
+<li>Build ongoing relationships with power users and influencers during sales cycles to generate ideas on further product enhancements and improvements
+</li>
+<li>Identify uses of our API where external system integration is necessary and help scope initial Professional Services engagements
+</li>
+</ul>
+<br>
+<b>Your Experience and Skills:</b><br>
+<ul>
+<li>Excellent written and oral communication skills
+</li>
+<li>Participated in major project delivery or consulting, lending a deep understanding of project management tools and processes
+</li>
+<li>Proven leadership in navigating and handling customer objections
+</li>
+<li>Degree in a technical field of study or an equivalent combination of training and experience
+</li>
+<li>Deep understanding of Software as a Service as well as common enterprise IT requirements
+</li>
+</ul>
+<br>
+<b>Ideal, but not necessary:</b><br>
+<ul><li>Knowledge with HTML, CSS, JavaScript, Ruby, Java, and other front and back-end programming languages
+</li></ul>
+<h6 class="jobSectionHeader"><b>Mavenlink is an Equal Opportunity Employer.</b></h6>
+</div>
+</div>

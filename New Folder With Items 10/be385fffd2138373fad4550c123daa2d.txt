@@ -1,0 +1,33 @@
+<h2>Senior Business Systems Analyst (Dynamics AX)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Description:</b><br>
+<b>Job Purpose:</b> Under the guidance of the IS Director, the Sr BSA is responsible for performing IT Business systems -related duties and carries out responsibilities in the following functional areas: Requirements, Design, Testing, Training, Support of Key business applications in Dynamics AX in Financials, Production, Order to Cash, procure to Pay, Inventory, Shipping &amp; EDI. The role requires strong communication, interpersonal and team building skills as well as planning skills to foster collaborative relationships with system users, IT team, vendors and customers.
+<br><br>
+<b>Essential Functions include the following:</b><br>
+<ul>
+<li>Business Analysis, Configurations &amp; testing for Dynamics projects</li>
+<li>Interacts with key users and gains the insights to the requirements, creates functional specs, configures, tests and validates the solution</li>
+<li>Prepares functional specs and provides it to the developers / technical teams</li>
+<li>Creates test data, validates system configurations, works closely with systems consultants</li>
+<li>Prepares test scripts to perform he UAT, Integration tests and Go-live check lists</li>
+<li>Prepares training documents, SOPs, Training the business SMEs &amp; provides go live support</li>
+<li>Business System Reports</li>
+<li>Gathers requirements and creates specs for the reports and works with the developers to test and implement the reports</li>
+<li>Trains the users on these reports</li>
+<li>Process optimization &amp; Support</li>
+<li>Works closely with the users to optimize the process by leveraging the systems to the full extent</li>
+<li>Provides day to day support for the applications and performs root cause analysis analyze and to prevent errors.</li>
+</ul>
+<b>Requirements:</b><br>
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential function.
+<br><br>
+<b>Skills below:</b><br>
+<ul>
+<li>2-3 years of Dynamics Applications project &amp; support experience</li>
+<li>Sales orders, Production orders, procurement, inventory, EDI modules</li>
+<li>1-2 years of EDI applications experience / exposure</li>
+<li>4 years college degree in Computer science or Engineering or 2 years degree with 5+ years relevant industry experience</li>
+<li>Manufacturing and Distribution industry knowledge</li>
+<li>Food industry &amp; CPG experience good to have</li>
+</ul>
+</div>

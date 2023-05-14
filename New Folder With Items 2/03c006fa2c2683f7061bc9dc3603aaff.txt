@@ -1,0 +1,101 @@
+<h2>Service Now Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>What you’ll be doing...</b>
+</p>
+<p>Why Verizon?</p>
+<p>
+At Verizon, we do much more than sell technology. We deliver game changing solutions that enhance the agility, productivity and global reach of businesses.</p>
+<p>
+We lead. Others follow. No-one can match our capability to design, build and operate integrated global networks, cutting-edge information systems and mobile technologies. We use our expertise to create powerful answers to today’s business issues. We’re inspired to solve the toughest challenges. We relish the chance to shape tomorrow’s biggest ideas. Are you ready to enhance a best in class enterprise sales team that thrives on teamwork and collaboration? Can you see yourself delivering technology and innovative solutions that connect people the world over and transform the way communities live, work and play? Do you want to change the way the world works? Welcome to Verizon – a company you can be proud to represent and be a part of.</p>
+<p>
+Along with Verizon’s exceptional benefits package, we are focused on our corporate responsibility and giving back to communities. We encourage our employees to be active supporters and members of society and to partner with us to improve our social conditions.</p>
+<p>
+The future</p>
+<p>
+Ours is a powerful and growing business. Verizon has revenues of $120.6 billion and a workforce in more than 150 countries. We’re a leader in transforming enterprises, including 97% of the Fortune 1000. We’re also a business that invests in its people. Last year Verizon spent more than $275 million on employee training, development and tuition. This enabled us to hone the skills of all our people. So as you contribute to our business, we’ll make sure you grow. And get the rewards you deserve. Competitive salaries are enhanced by plenty of incentive awards for sales performance.</p>
+<p>
+You’ll be doing work that matters alongside other talented people, transforming the way people, businesses and things connect with each other. Beyond powering America’s fastest and most reliable network, we’re leading the way in broadband, cloud and security solutions, Internet of Things and innovating in areas such as video entertainment. Of course, we will offer you great pay and benefits, but we’re about more than that. Verizon is a place where you can craft your own path to greatness. Whether you think in code, words, pictures or numbers, find your future at Verizon.</p>
+<p>
+What You’ll Be Doing</p>
+<p>
+As a Senior ServiceNow Developer you will apply your extensive knowledge of ServiceNow to configure custom workflows and procedures for various internal groups at Verizon to deliver enterprise-wide business processes. The ideal candidate is a master of ServiceNow development and administration. This candidate possesses the skills and essential knowledge necessary to design, build, and customize applications and services. Working across the platform, this role delivers new functionality and innovative solutions, and is a lead contributor in the entire development life cycle.</p>
+<ul>
+<li>
+Provide technical leadership for planning, designing, configuring, testing, implementing, documenting, and maintaining the ServiceNow platform to meet business needs and corporate objectives.</li>
+<li>
+Evaluate current business practices with emerging technology and recommend relevant process enhancements and products that anticipate or complement the strategic corporate direction.</li>
+<li>
+Evaluate ServiceNow platform performance, debug software problems, and make recommendations for problem resolution.</li>
+<li>
+Design and develop new ServiceNow applications, workflows and services.</li>
+<li>
+Provide subject matter expertise to the ServiceNow application, and ability to implement modules and other third-party applications used within the environment to ServiceNow for ITSM and operations management.</li>
+<li>
+Transform business needs from the customer to tangible items within ServiceNow using platform modules or creating new scoped applications.</li>
+<li>
+Implement access controls to ensure an appropriate least privilege approach to solution design.</li>
+<li>
+Work with the Product Management team to create workflows, working demos, and prototypes prior to full deployment within the ServiceNow environment.</li>
+<li>
+Complete detailed documentation for workflows and services implemented within ServiceNow.</li>
+</ul>
+<p><b>
+What we’re looking for...</b>
+</p>
+<p>You'll need to have:</p>
+<ul>
+<li>
+Bachelor’s degree or four or more years of work experience.</li>
+<li>
+Six or more years of relevant work experience.</li>
+<li>
+Two or more years experience as a Service Now Certified Developer.</li>
+<li>
+Valid driver's license.</li>
+<li>
+Willingness to travel.</li>
+</ul>
+<p>
+Even better if you have:</p>
+<ul>
+<li>
+Master's degree in Business or related discipline.</li>
+<li>
+Ten or more years of experience as an analyst or developer.</li>
+<li>
+Three or more years of experience developing large global enterprise ServiceNow instance which includes releases on Kingston or later.</li>
+<li>
+Ability to customize workflows, code Business Rules and UI Scripts using JavaScript to create custom applications and configurations on the ServiceNow platform.</li>
+<li>
+Experience in configuration and customization of the following modules: Service Request Management, Incident, Problem, and Change Management, Performance Analytics and custom reporting, Customer Service Management, Service Portal, Service Catalogue, or Asset management.</li>
+<li>
+Experience working in an Agile/Scrum environment.</li>
+<li>
+Exoerinec in solvingcomplex business problems by engineering existing, and new algorithms.</li>
+<li>
+ITILv3 Foundations certification.</li>
+<li>
+Good communication skills with non-technical staff.</li>
+<li>
+Ability to work independently with minimal direction.</li>
+<li>
+ITILv3 Practitioner.</li>
+<li>
+Experience in the technology or telecommunications industry.</li>
+</ul>
+<p><b>
+When you join Verizon...</b>
+</p>
+<p>You’ll have the power to go beyond – doing the work that’s transforming how people, businesses and things connect with each other. Not only do we provide the fastest and most reliable network for our customers, but we were first to 5G - a quantum leap in connectivity. Our connected solutions are making communities stronger and enabling energy efficiency. Here, you’ll have the ability to make an impact and create positive change. Whether you think in code, words, pictures or numbers, join our team of the best and brightest. We offer great pay, amazing benefits and opportunity to learn and grow in every role. Together we’ll go far.</p>
+<p><b>
+Notice(s)</b>
+</p>
+<p>Verizon will consider qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.</p>
+<p><b>
+Equal Employment Opportunity</b>
+</p>
+<p>We're proud to be an equal opportunity employer- and celebrate our employees' differences,including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.</p>
+</div>
+<p></p>
+</div>

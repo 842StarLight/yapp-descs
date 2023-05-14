@@ -1,0 +1,123 @@
+<h2>Solutions Engineer - Public Sector</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Job Description:
+</b></h2>
+<h3 class="jobSectionHeader"></h3>
+<p><b>We (the Sales &amp; Field Operations team) are currently seeking a customer-facing hands-on technologist with a track record of success to join us in DC Metro area supporting the Public sector team.
+</b></p>
+<p></p>
+<p><b>A Day in the Life
+</b></p>
+<p></p>
+<p><b>You will be the technical representative for Cloudera's products and services in the Enterprise Field Sales organization. This is a hands-on technologist role, you are not just doing slideware, you’re architecting enterprise data solutions for large organizations.
+</b></p>
+<ul><li>
+<p><b>You will...
+</b></p>
+<ul>
+<li><p><b>work with customers, partners, and prospects to understand and propose solutions using Cloudera technologies
+</b></p></li>
+<li><p><b>own the customer reference architectures
+</b></p></li>
+<li><p><b>be a regional technical subject matter expert
+</b></p></li>
+<li><p><b>manage technical sales process for numerous customers day to day
+</b></p></li>
+<li><p><b>map customer requirements to current and future offerings
+</b></p></li>
+<li><p><b>own the technical sales process from introductory meetings (net new sales) through post-sales (customer satisfaction, upselling, and subscription renewals)
+</b></p></li>
+<li><p><b>educate prospects on the business value of Cloudera’s offerings
+</b></p></li>
+<li><p><b>drive progress towards successful sales, in concert with Account Executives
+</b></p></li>
+<li><p><b>focus on customer satisfaction and success
+</b></p></li>
+<li><p><b>continuously learn and update skills in quickly evolving technologies
+</b></p></li>
+</ul>
+</li></ul>
+<ul><li>
+<p><b>You have...
+</b></p>
+<ul>
+<li><p><b>experience seeing the entire lifecycle from conception to design to technology evaluation to pilot program to implementation to maintenance and support
+</b></p></li>
+<li><p><b>ability to switch context quickly throughout the day with numerous competing demands
+</b></p></li>
+<li><p><b>minimum 3 years experience and success working in a customer-facing role
+</b></p></li>
+<li><p><b>hands-on, technical, problem solver personality
+</b></p></li>
+<li><p><b>development experience with Java / OO programming
+</b></p></li>
+<li><p><b>Unix/Linux expertise a must
+</b></p></li>
+<li><p><b>confidence working with customers and public speaking
+</b></p></li>
+<li><p><b>demonstrated experience gathering and understanding customer business requirements
+</b></p></li>
+<li><p><b>experience with data warehousing and relational database architecture
+</b></p></li>
+<li><p><b>knowledge of distributed systems, ETL and ETL workflows
+</b></p></li>
+<li><p><b>Interest in Data Science and understand the difference between Data Engineering and Applied
+</b></p></li>
+<li><p><b>Hold a Clearance
+</b></p></li>
+</ul>
+</li></ul>
+<ul><li>
+<p><b>You might also have…
+</b></p>
+<ul>
+<li><p><b>database, distributed systems, Java programming, data analytics, and previous Hadoop experience
+</b></p></li>
+<li><p><b>streaming experience (Nifi, Kafka, Storm, Spark, etc.)
+</b></p></li>
+<li>
+<p><b>experience with many of the following:
+</b></p>
+<ul>
+<li><p><b>Oracle, MySQL or PostgreSQL
+</b></p></li>
+<li><p><b>SQL development and optimization
+</b></p></li>
+<li><p><b>troubleshooting
+</b></p></li>
+<li><p><b>concurrency and synchronization
+</b></p></li>
+<li><p><b>fallacies of distributed computing
+</b></p></li>
+<li><p><b>common IPC/RPC methods and patterns
+</b></p></li>
+<li><p><b>high availability and business continuity
+</b></p></li>
+<li><p><b>queuing patterns and pipeline design
+</b></p></li>
+<li><p><b>batch operations
+</b></p></li>
+<li><p><b>messaging systems and patterns
+</b></p></li>
+<li><p><b>solid OS / networking fundamentals
+</b></p></li>
+<li><p><b>virtual memory management
+</b></p></li>
+<li><p><b>file system design
+</b></p></li>
+<li><p><b>optimization
+</b></p></li>
+<li><p><b>system administration knowledge
+</b></p></li>
+<li><p><b>network architecture
+</b></p></li>
+</ul>
+</li>
+</ul>
+</li></ul>
+<p></p>
+<p><b>The right person in this role has an opportunity to make a huge impact at Cloudera and add value to our future decisions. If this position has piqued your interest and you have what we described - we invite you apply! An adventure in data awaits.</b></p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,40 @@
+<h2>software development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<ul>
+<li>2+ years of non-internship professional software development experience</li>
+<li>Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design</li>
+<li>1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.</li>
+<li>3+ years of non-internship professional software</li>
+</ul>
+development experience.<br>
+<ul><li>Programming experience with at least one modern</li></ul>
+language such as Java, C++, or C# including object-oriented design.<br>
+<ul><li>1+ years of experience contributing to the architecture</li></ul>
+and design (architecture, design patterns, reliability and scaling)<br>
+of new and current systems.</div>
+<br>
+<p>Amazon is investing heavily in building a world class advertising business and we are responsible for defining and delivering a collection of self-service performance advertising products that drive discovery and sales. Our products are strategically important to our Retail and Marketplace businesses driving long term growth. We deliver billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class products. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.<br>
+<br>
+The Ad Data Management team, based in Seattle, is responsible for providing an analytics platform that enables business insights to our customers. We deal with one of the world’s largest product catalog, handle billions of requests a day with plans to grow it by order of magnitude. We are looking for a highly motivated, top notch engineer to revamp existing systems and build new ones from the ground up. A successful candidate will have demonstrated experience in at least some of the following areas: machine learning, model building and algorithm development, building and scaling very large data processing platforms using distributed computing technologies such as Map/Reduce, transnational systems and data persistence using RDBMS, algorithm development for efficient scheduling, sampling, queuing, classification, etc.<br>
+<br>
+As an experienced member of the team, in this role, you will:<br>
+drive the technical direction of our offerings and solutions, working with many different technologies. You will design and code, troubleshoot and support. What you create is also what you own.<br>
+<br>
+sspajobs</p>
+<br>
+<div>
+<ul>
+<li>Advanced Degree (MS/PhD) in computer science or related discipline or 4+ years of relevant industry experience</li>
+<li>Expertise in Map/Reduce systems such as Hadoop / Hive / Flume</li>
+<li>Experience in Machine learning or web crawling</li>
+<li>Knowledge of HTTP Protocol, REST, XML, J2EE, JavaScript, AJAX a plus</li>
+<li>Familiarity with Pay for performance Ad model and the Internet advertisement industry is a plus</li>
+<li>Experience with UI frameworks such as Spring MVC, GWT, jQuery, Swing, etc. is a plus</li>
+<li>Experience with Amazon Web Services is a plus</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer - Minority/Female/Disability/Veteran/Gender Identity/Sexual Orientation<br>
+<br>
+sspajobs</div>
+</div>

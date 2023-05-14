@@ -1,0 +1,159 @@
+<h2>Director of eCommerce Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>At Ariat, we measure our success in our people. It's their commitment, talent, work ethic, and endless dedication that helps us reach our goals. We're dedicated to creating a motivated and energetic team, and giving them an environment where they can thrive. We don't just sell a lifestyle, we live it. Striving to ride and live outdoors every day.<br>
+</p>
+<p></p>
+<p>ARIAT is seeking a Director of eCommerce Engineering with experience leading teams responsible for the delivery of eCommerce/Omni-Channel platform development and integration.<br>
+</p>
+<p></p>
+<p><b>EXPECTATIONS AND TASKS<br>
+</b></p>
+<p></p>
+<p><b>Overview:<br>
+</b><br>
+</p>
+<p>The Director of eCommerce Engineering will partner with business stakeholders to develop a technology and team strategy roadmap in service of eCommerce and Omni-Channel business goals. This role is responsible for leading a team of BSAs, architects, developers, and QA resources to provide site enhancements and production support to the company’s eCommerce and Omni-Channel businesses.<br>
+</p>
+<p></p>
+<p>Managing these channels requires a diligent, organized, and self-disciplined technical Director that can effectively lead a team to provide on-time delivery of planned site functionality. In this role it is imperative to have a strong ability to build and manage a team tasked with effectively managing incoming incidents and requests from various external teams. It is necessary for this position to work closely with the Enterprise Application and Data Services teams, other application development teams, 3 rd party implementation partners, and a diverse cross section of functional business partners. The Director will be expected to provide analytical dashboards reporting on the progress of initiatives, including ongoing production support levels and strategic initiatives. This role collaborates with diverse business partners to plan feature deliverables as well as analyze and solve complex business problems on an ad-hoc basis.<br>
+</p>
+<p><br>
+<b>Responsibilities:
+</b></p>
+<ul>
+<li>Ensure constant accuracy, availability, and reliability of the Ariat eCommerce websites.
+</li>
+<li>Manage and continue to build the team responsible for development and deployment of functionality on the company’s eCommerce platforms.
+</li>
+<li>Manage and continue to build the team responsible for the overall architecture of the eCommerce landscape.
+</li>
+<li>Manage and continue to build the team responsible for testing and review of the quality of delivered functionality.
+</li>
+<li>Drive continual site performance initiatives.
+</li>
+<li>Manage site health monitoring and resolution.
+</li>
+<li>Allocate resources and supervise direct reports.
+</li>
+<li>Hire, develop, and motivate assigned staff.
+</li>
+<li>Cultivate, disseminate, and enforce departmental policies and procedures (e.g. PMO, Change Management, and Issue Management).
+</li>
+<li>Preach and practice behaviors that ensure quality:
+<ul>
+<li>Partner with business team to deliver quality releases.
+</li>
+<li>Ensure the delivery of high quality development code by building and enforcing guidelines and best practices.
+</li>
+<li>Perform periodic code reviews to ensure standards are being maintained.
+</li>
+<li>Provide leadership, coaching, and mentoring as it relates to all development practices.
+</li>
+</ul>
+</li>
+<li>Know in detail the content and potential impact of future releases, short and long term, across all eCommece and Omni-Channel initiatives.
+</li>
+<li>Review and analyze existing applications and system effectiveness and efficiency, and then develops strategies for improving or leveraging these systems.
+</li>
+<li>Research and make recommendations on software products and services in support of procurement and development efforts.
+</li>
+<li>Assess and cultivate long-term strategic goals for area of responsibility in conjunction with department managers, clients, and other key stakeholders.
+</li>
+<li>Work in business facing roles to contribute throughout the end-to-end delivery lifecycle of complex and large-scale technology solutions.
+</li>
+<li>Lead and manage on-shore, near shore, and off-shore development teams and vendors.
+</li>
+<li>Manage a team of ecommerce developers, balancing demands of daily support with needs of strategic projects.
+</li>
+<li>Establish and maintain relationships with key business stakeholders to ensure the eCommerce and Omni-Channel teams’ projects stay aligned with the needs of the business.
+</li>
+<li>Communicate to upper management in the event of an impact to the business.
+</li>
+</ul>
+<p><br>
+<b>Qualifications:<br>
+</b><br>
+</p>
+<ul>
+<li>Working knowledge of business functional areas:
+<ul>
+<li>eCommerce business process and KPIs
+</li>
+<li>Omni-Channel business processes and KPIs
+</li>
+<li>Site traffic and conversion.
+</li>
+<li>Planning and forecasting.
+</li>
+<li>Customer behavior.
+</li>
+<li>Point of sale.
+</li>
+<li>Direct to consumer.
+</li>
+<li>Merchandise management.
+</li>
+<li>Supply chain and business support systems.
+</li>
+</ul>
+</li>
+<li>Knowledge and capability in relevant technology.
+<ul>
+<li>Extensive experience working with enterprise eCommerce systems (SFCC, DemandWare, Shopify).
+</li>
+<li>Extensive experience implementing enterprise wide Omni-Channel integrations and solution.
+</li>
+<li>Extensive experience in managing a Java based development teams.
+</li>
+<li>Strong working knowledge of HTML5, CSS, JQuery, JavaScript, SQL.
+</li>
+<li>Expertise with OMS and SAP ERP Retail management and AFS systems and processes.
+</li>
+<li>Knowledge with performance tools (i.e. Jmeter, Dynatrace, Load Runner, Load Complete).
+</li>
+</ul>
+</li>
+<li>Professional and administrative skills:
+<ul>
+<li>Time and resource management.
+</li>
+<li>Project management.
+</li>
+<li>Resource planning.
+</li>
+<li>Ad-hoc data analysis and research.
+</li>
+<li>Software Development Life Cycle.
+</li>
+</ul>
+</li>
+<li>Abstract thinking and creative problem solving skills.
+</li>
+<li>Ability to persevere through ambiguity and work independently.
+</li>
+<li>Collaboration and Cross-Functional partnership skills.
+</li>
+<li>Quality and detail oriented.
+</li>
+<li>Excellent written and verbal communication (technical, functional, cross-functional).
+</li>
+<li>Process-oriented approach to analysis and design.
+</li>
+<li>Ability to respond quickly and effectively to changing priorities while working in a varied, fast paced environment.
+</li>
+<li>Bachelor’s degree Computer Science (or other related field) required.
+</li>
+<li>5+ years software development experience required.
+</li>
+<li>5+ years of experience managing teams required.
+</li>
+<li>5+ years of experience of progressive experience in Enterprise ecommerce platforms and tools (SFCC, Demandware, Shopify) is required.
+</li>
+<li>3+ years of experience working within an Agile and Hybrid software development life cycle preferred.
+</li>
+<li>3+ years of experience managing development teams preferred.</li>
+</ul>
+</div>
+</div>

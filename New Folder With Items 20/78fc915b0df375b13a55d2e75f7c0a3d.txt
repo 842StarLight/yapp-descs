@@ -1,0 +1,86 @@
+<h2>Senior Digital Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>Cox Automotive is seeking a <b>Senior Digital Analyst</b> to develop narratives and insights on behalf of automotive manufacturers as it relates to the success of their sponsored advertising products. This person plays a key role in enabling the sales teams to go to market by providing data-driven solutions and thoughtful recommendations to support revenue driving initiatives.</div>
+<div></div>
+<br>
+<div>
+Day to day, the <b>Senior Digital Analyst</b> will:</div>
+<ul>
+<li><div>
+Analyze digital media performance to explore and incorporate new data sources</div></li>
+<li><div>
+Connect insights by bringing client data to life through stories/narratives
+</div></li>
+<li><div>Creates queries and statistical analysis (SQL, R, Studio etc.) for a variety of internal customers and partner</div></li>
+<li><div>
+Develop client-ready presentations, dynamic dashboards, and reports that provide key insights on KPI performance, utilizing visualization and storytelling techniques and best practices</div></li>
+<li><div>
+Present directly to clients and internal stakeholders to highlight optimization opportunities and inform the creation of new client product solutions to meet individual client’s specific goals and measurements</div></li>
+<li><div>
+Manage the development of unique innovative analyses and methodologies</div></li>
+<li><div>
+Leverage the latest state-of-the-art data mining tools and modeling techniques
+</div></li>
+<li><div>Inform sales strategies by proactively providing quantifiable recommendations to drive growth</div></li>
+<li><div>
+Transform analysis into product/industry case studies and best practices to enhance knowledge of internal teams and individuals within the organization
+</div></li>
+<li><div>Lead the development and creation of new KPI’s/Reports/Dashboards by leveraging existing and incorporating the use of new datasets and analytics platforms</div></li>
+<li><div>
+Manage the extraction, analysis and interpretation of site traffic using sophisticated data methods, exploration, analysis, and visualization tools.</div></li>
+<li><div>
+Act as a liaison to Product, Operations, Sales Operations, Analytics, and other internal partners throughout the organization</div></li>
+</ul>
+<h4 class="jobSectionHeader"><b>
+Qualifications:</b></h4>
+<div><b>
+Required:</b></div>
+<ul>
+<li>
+Bachelor's degree or an equivalent combination of education and work-related experience.</li>
+<li>
+5+ years of related analytics experience</li>
+<li>
+Expertise with digital analytics tools and business intelligence systems (e.g. Adobe Analytics Suite, Moat, DFP, Microstrategy, Tableau, Amazon Web Services)</li>
+<li>
+Advanced Excel skills, including custom formula development, functions, pivot tables, and visualization techniques</li>
+<li>
+Proficiency using SQL, Python, or equivalent to capture and manipulate complex datasets</li>
+<li>
+Strong analytical skills, including an understanding of cause and effect and basic statistical methods available to enhance findings</li>
+<li>
+Must be able to understand, analyze data, and synthesize large volumes of data into a coherent narrative or story to answer non-standard/complex questions</li>
+<li>
+Leverage mathematical and statistical principles to inform and validate analyses</li>
+<li>
+Strong communication skills, including experience in clearly and effectively presenting to internal stakeholders</li>
+<li>
+Strong organizational skills and the ability to effectively multi-task and prioritize in a deadline-driven atmosphere</li>
+<li>
+Experience leading moderate to large analytics projects involving cross-functional teams.</li>
+<li>
+Ability to solve problems and deal with a variety of concrete variables in situations where only limited standardization exists.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Preferred:</b></div>
+<ul><li>
+Experience in an automotive, advertising and/or internet environment</li></ul>
+<p></p>
+<br>
+<p>
+#LI-291</p>
+<br>
+<p><b>
+About Cox Automotive</b></p>
+<p>
+Cox Automotive Inc. makes buying, selling and owning cars easier for everyone, while also enabling mobility services. The global company’s 34,000-plus team members and family of brands, including Autotrader®, Clutch Technologies, Dealer.com®, Dealertrack®, Kelley Blue Book®, Manheim®, NextGear Capital®, VinSolutions®, vAuto® and Xtime®, are passionate about helping millions of car shoppers, tens of thousands of auto dealer clients across five continents and many others throughout the automotive industry thrive for generations to come. Cox Automotive is a subsidiary of Cox Enterprises Inc., a privately-owned, Atlanta-based company with revenues exceeding $20 billion. www.coxautoinc.com</p>
+<p>
+Cox is an Equal Employment Opportunity employer - All qualified applicants/employees will receive consideration for employment without regard to that individual’s age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.</p>
+<p>
+Statement to ALL Third-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.</p>
+</div>
+<p></p>
+</div>

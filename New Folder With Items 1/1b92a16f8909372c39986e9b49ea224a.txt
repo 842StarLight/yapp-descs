@@ -1,0 +1,77 @@
+<h2>Customer Support Engineer (Platform Support Engineer)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>The IBM Cognitive Applications team is seeking innovative and enthusiastic software engineering professionals to join our team building the next generation multi-cloud marketplace platform. If you love working with cutting edge technologies, dynamic and high performing teams, then this is the right next step in advancing your career. The team will be challenged to design, develop, and operate cloud applications and services leveraging a wide variety of open source, machine learning, and commercial technologies aimed at dramatically expanding the reach of the IBM Cloud to millions of enterprise developers. Our focus on delivering performance and predictability for our customers' most demanding workloads, at global scale and with leadership, efficiency, resiliency and security is the cornerstone of our development model and will result in maintaining IBM’s leadership position for years to come.<br>
+<br>
+Our team doesn’t stop at the traditional boundaries of product support. We are the single interface to our clients to address all of their support needs. We support our clients in ways they could never have imagined in helping them achieve their goals. In the Customer Support Engineer capacity, the candidate will interface with development SMEs, client care, Sales, Offering Management, and other internal / external teams to resolve client product issues and improve overall Product Quality. We require individuals who wish to be challenged technically and feel comfortable working in an unstructured environment creating resolutions to problems as they arise.<br>
+<br>
+As a Customer Support Engineer on the Platform Support team, your responsibilities will include:<ul>
+<li>
+Document and track customer cases from issue to resolution.</li>
+<li>
+Properly level-set and manage customer expectations through the resolution process, ensuring that technical issues are understood, addressed, and resolved to the customer’s satisfaction.</li>
+<li>
+Interlock with internal and external technical teams, Offering Management, and Development to resolve product defects and improve product quality as well as ease of use / consumability.</li>
+<li>
+Build tools, generate training materials, and create problem resolution articles to assist our clients in expanding their deployment and knowledge base.</li>
+<li>
+Find solutions for a wide range of software issues including answering how-to questions, trouble-shooting defects, analyzing performance issues and collaborating across product areas to resolve problems.</li>
+<li>
+Help troubleshoot software problems utilizing team expertise, knowledge content, in addition to testing and development discussions.</li>
+<li>
+Contribute to knowledge content used by customers and staff by creating and managing documentation.</li>
+<li>
+Innovate new ideas to support products and software, and provide the ultimate support experience.</li>
+</ul>
+<br>
+You will be successful if you have 2+ years of experience in the following:<ul>
+<li>
+Software Customer Support.</li>
+<li>
+Understanding of Open Source technologies.</li>
+<li>
+Experience with Kubernetes and Cloud.</li>
+<li>
+Experience in Linux or UNIX Systems Administration.</li>
+<li>
+Experience with CRMs as well as bug &amp; incident/ticket tracking systems.</li>
+<li>
+Excellent written and verbal communication skills.</li>
+<li>
+Analytical with strong attention to detail and excellent follow-through practices.</li>
+<li>
+Experience working effectively across cultures and geographies.</li>
+<li>
+Ability to participate in an on-call rotation throughout the year.</li>
+<li>
+Experience with cloud-native application development such as JavaScript, HTML, CSS, SQL (MySQL, PostgreSQL or DB2, etc) or NoSQL Databases (MongoDB, Cloudant or Cassandra, etc)</li>
+<li>
+Knowledge of one or more server-side languages (NodeJS, PHP, Java, etc)</li>
+<li>
+Knowledge of micro-services architecture.</li>
+<li>
+Knowledge of DevOps concepts and methodologies.</li>
+<li>
+Experience with Agile methods, iterative development, and continuous integration.</li>
+</ul>
+<br>
+The following technical and professional expertise is preferred and will greatly enhance your success on the team:<ul>
+<li>
+Bachelor’s Degree (Computer Science or related), or equivalent.
+</li>
+<li>Experience with supporting cloud-native applications, such as JavaScript, HTML, CSS, SQL (MySQL, PostgreSQL, or DB2, etc) or NoSQL Databases (MongoDB, Cloudant, or Cassandra, etc).</li>
+<li>
+Knowledge of the IBM Cloud offering and marketplace ecosystem.</li>
+</ul>
+<br>
+At IBM Cognitive Applications, we build open applications that unlock the power of data for clients, partners, and developers. Running on top of IBM's unique Hybrid, Multi-cloud and AI infrastructures, these applications work across horizontal domains and bring our technology to life for end users. Cognitive Applications unit includes: Watson Customer Engagement, Watson IoT, Watson Media and Weather, Talent &amp; Collaboration, Digital Growth &amp; Commerce, and IBM Developer teams.<br>
+<br>
+What matters to you when you’re looking for your next career challenge?<br>
+<br>
+Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities – where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust – where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible.<br>
+<br>
+Impact. Inclusion. Infinite Experiences. Do your best work ever.<br>
+<br>
+IBM’s greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries.<br>
+<br>
+For additional information about location requirements, please discuss with the recruiter following submission of your application.<br>
+<br>
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.</div></div>

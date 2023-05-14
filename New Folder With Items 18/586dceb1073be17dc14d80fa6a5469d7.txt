@@ -1,0 +1,140 @@
+<h2>Senior Cybersecurity Engineer & Trainer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><div><div>
+<p>Dynamic technical position in a small growing company. This position has a steep learning curve, is fast-paced, requires a growth mindset, strong communication skills, a great attitude, and a high technical aptitude. If you are looking for a cog in the wheel type of role, this is not it. In this position, you will have direct influence and impact on the growth and success of the company. Most of the work we do is project-based work, so you will have the opportunity to work on a number of projects, rather than doing the same thing every day.</p>
+<h3 class="jobSectionHeader">
+<b>
+Here's a list of items (not all inclusive) this role would be responsible for</b><b>:</b>
+</h3>
+<ul>
+<li>
+Audit and compliance assistance with guidelines and regulations, such as our Enterprise Security Audit, GDPR, and PCI DSS. This work could vary from leading the audit to functioning as a team member responsible for reviewing the technical controls.</li>
+<li>
+Cybersecurity certification training for courses such as Security+, CISSP, CEH, etc. You will be expected to train 1-2 weeks per month. We will put you through a Train-the-Trainer course. You will be able to sit through courses taught by other instructors.</li>
+<li>
+Penetration testing (phishing, black box, white box, gray box, web app, wireless, etc.). We have various skill categories for penetration testing team members. Your assigned role per engagement will be based on your skill level.</li>
+<li>
+Vulnerability assessments. We run onsite and remote vulnerability assessments for clients using various tools. You will be expected to run these solo or as part of a team.</li>
+<li>
+Cybersecurity consulting. Ad hoc consulting, based on client requirements. Could vary from helping a client implement technical controls for an audit to assessing how sensitive data, such as PHI, flows through an enterprise.</li>
+<li>
+Technical support for sales.</li>
+</ul>
+<h3 class="jobSectionHeader"><b>
+Overall Skills Required (not all inclusive):</b></h3>
+<ul>
+<li>
+Growth mindset</li>
+<li>
+Experience as a trainer, delivering courses</li>
+<li>
+High technical aptitude</li>
+<li>
+Positive attitude</li>
+<li>
+Excellent communicator</li>
+<li>
+Team player</li>
+<li>
+Attention to detail</li>
+<li>
+Adaptability</li>
+<li>
+Ownership of circumstances</li>
+</ul>
+<h3 class="jobSectionHeader"><b>
+Technical Skills Strongly Desired:</b></h3>
+<ul>
+<li>
+Strong networking skills - TCP/IP, ethernet, DNS, ARP, troubleshooting</li>
+<li>
+Network traffic analysis - Wireshark</li>
+<li>
+Scripting - Python, Bash</li>
+<li>
+Vulnerability assessment tools (Nessus, OpenVAS)</li>
+<li>
+Kali Linux</li>
+<li>
+Metasploit Framework</li>
+<li>
+Recon - Passive and Active - Nmap, Discover, GHDB, Shodan</li>
+<li>
+Understanding of web technologies - Java, JavaScript, PHP, ASP, JSON, API, etc.</li>
+<li>
+Web Application Assessment Tools - Burp, OWASP ZAP, etc.</li>
+<li>
+Operating systems: Windows, Linux</li>
+<li>
+Virtualization - VMware, VBox</li>
+</ul>
+<h3 class="jobSectionHeader"><b>
+Preferred Technical Skills:</b></h3>
+<ul>
+<li>
+Programming languages, such as C++, Java, and JavaScript are a huge plus</li>
+<li>
+Wireless Tools - Wifite, Aircraft-ng</li>
+<li>
+Password cracking - Online and Offline - hydra, hashcat, etc.</li>
+<li>
+Phishing - storylines and tools</li>
+</ul>
+<h3 class="jobSectionHeader"><b>
+Certifications Desired:</b></h3>
+<ul>
+<li>
+Security+</li>
+<li>
+CISSP</li>
+<li>
+CEH</li>
+<li>
+ECSA</li>
+<li>
+OSCP</li>
+<li>
+LPT (Master)</li>
+</ul>
+<h3 class="jobSectionHeader"><b>
+Travel:</b></h3>
+<ul><li>
+10-15%, maybe more, if desired</li></ul>
+<h3 class="jobSectionHeader"><b>
+Location:</b></h3>
+<ul><li>
+Greater St. Louis Area</li></ul>
+<h3 class="jobSectionHeader"><b>
+Apply:</b></h3>
+<p>
+Send your resume to careers@alpinesecurity.com. Include in your email why you're a good fit for this position and anything else relevant.</p>
+</div></div></div>
+<div></div>
+<div>
+<h2 class="jobSectionHeader"><b>
+Benefits</b></h2>
+<p>
+We offer an outstanding benefits package. Here are some of the highlights:</p>
+<ul>
+<li>
+Comprehensive Medical, Dental, and Vision Insurance</li>
+<li>
+Flexible Spending Account (FSA)</li>
+<li>
+Basic Life &amp; Accidental Death and Dismemberment (AD&amp;D) Insurance</li>
+<li>
+Supplemental Life Insurance</li>
+<li>
+Group Short-Term and Long-Term Disability Insurance</li>
+<li>
+Supplemental Accidental Death and Dismemberment Insurance</li>
+<li>
+Education and Professional Certification Assistance</li>
+<li>
+401k</li>
+</ul>
+</div>
+</div>
+<p></p>
+</div>

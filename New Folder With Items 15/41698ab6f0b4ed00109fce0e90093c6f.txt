@@ -1,0 +1,62 @@
+<h2>Field Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>We are looking for a Field Engineer is wholly responsible for the QC and commissioning process of assigned integration projects. The FE is charged with working with project managers, design engineers, control system programmers and contract installers to provide a complete, fully functional integrated audio-visual collaborative system that meets all the functional criteria and specifications as documented in the project scope.</p>
+<br>
+<p></p>
+<p>RESPONSIBILITIES:</p>
+<p>Responsibilities include, but are not limited to, the following:</p>
+<ul>
+<li>Communicates and interfaces with project manager and client contacts during the integration process to ensure good communications and expedient problem resolution.</li>
+<li>Works with integration team to submit all redlined documents for “as-built drawings”.</li>
+<li>Works with implementation team, project manager and Client to develop punch lists and updates as items are completed during final walk through or phase completion.</li>
+<li>Provides IP configuration documentation (IP Sheets) for all AV devices residing on the AV network.</li>
+<li>Works with implementation team, or as the primary resource for:</li>
+<ul>
+<li>Configuring audio system setup, DSP and gain structure on all devices in the signal path.</li>
+<li>Manage all versions of DSP and control system compiled code (control) on the project server.</li>
+<li>Provide all configuration of video devices to ensure adherence to any EDID tables as applicable.</li>
+<li>Coordinates with the programmer to ensure that latest code version is stored on the project server.</li>
+<li>Tests and troubleshoot UI as applicable</li>
+<li>Rack build and testing</li>
+<li>Video Codec installation, configuration and testing</li>
+</ul>
+<li>Assists technicians with field questions and clarifications.</li>
+<li>Responsible for completing commissioning QC checklists.</li>
+<li>During the sales cycle, performs technical site surveys to assist Sales, and the Design Engineer, in providing an accurate design/proposal.</li>
+<li>Provide Service (post installation) support as required.</li>
+<li>Provide training on AV systems to Clients as required.</li>
+<li>Performs installation duties as required</li>
+<li>Performs other tasks as requested by Director of Operations</li>
+<li>FE may also be required to travel to other areas covered by dancker as required.</li>
+</ul>
+<p>QUALIFICATIONS:</p>
+<ul>
+<li>A thorough, demonstrable understanding of systems integration and installation techniques.</li>
+<li>Demonstrable understanding of general AV system design and best practices</li>
+<li>Skilled in the programming of audio DSP units from multiple vendors including BiAmp Tesira and Polycom Sound Structure.</li>
+<li>Skilled in commissioning and troubleshooting Crestron, Extron and FSR UI systems.</li>
+<li>Understanding IP networking and device configuration.</li>
+<li>Demonstrable understanding of integration and commissioning of Polycom and Cisco VTC end points. Understanding of software based VTC including Zoom, Skype for Business and Blue Jeans.</li>
+<li>Cabling terminating and testing knowledge</li>
+<li>A current Avixa CTS highly preferred and CTS-I is a plus.</li>
+<li>Able to study towards and obtain CTS-I within 2 years of taking position, if not already obtained.</li>
+<li>Able to work flexible hours as needed. Most work will be done during normal business hours but there may be instances where afterhours and weekend work may be needed.</li>
+<li>Able to travel as required. Most work will be in the New Jersey area, but there may be instances where travel out of the area is required.</li>
+<li>Able to balance multiple tasks at one time and to stay focused on the priorities.</li>
+<li>Must have excellent communication and Client facing skills with a propensity to provide “White Glove” Customer service.</li>
+<li>Comfortable with Microsoft Office Suites. Experience with applications such as AutoCAD, D-tools and PlanGrid a plus.</li>
+<li>Must be able to travel as applicable. Applicable and appropriate travel expenses paid by dancker</li>
+<li>Must have and maintain a clean driving record, since a dancker Van will be provided for transportation from dancker office to the job sites.</li>
+<li>Must have the necessary “hand tools” commonly associated with Audio Video System installation and integration. dancker will provide other tools such as ladders, testing equipment, hammer drills, specialized crimpers, etc.</li>
+</ul>
+<p>ENVIRONMENT:</p>
+<ul>
+<li>In most cases the candidate will be commuting and working at Client job site</li>
+<li>When in the dancker corporate office, candidate should expect to work in the warehouse or integration area. Some work in the main showroom should be expected.</li>
+<li>Candidate must be able to lift a minimum of 50 pounds by him/herself as needed</li>
+<li>Candidate must be able to work in confined spaces (equipment closets, etc.)</li>
+<li>Candidate should be comfortable with working on scaffolding, man lifts or ladders</li>
+<li>Candidate will have a hard hat, high visibility vest, eye protection, and steel toe work shoes and will wear as required based on worksite requirements and conditions</li>
+<li>Work sites may or may not have climate control depending on phase of construction.</li>
+</ul>
+</div></div>

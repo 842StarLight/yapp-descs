@@ -1,0 +1,43 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>ABOUT THE POSITION</b></p>
+<p>Agilis Systems is searching for a talented Software Engineer to join our Internal Products Engineering team. This is an exciting opportunity for someone who wants to be a part of a thriving organization. As a software engineer on the Internal Products Engineering team, you will be responsible for building the applications that power corporate operations at Agilis and ensuring that they scale to meet the needs of our rapid growth.</p>
+<p><b>ESSENTIAL FUNCTIONS – RESPONSIBILITIES</b></p>
+<ul>
+<li>Write full-stack, custom applications to support and enhance internal processes</li>
+<li>Optimize workflows for sales, customer support, and fulfillment to reduce errors and drive cost savings</li>
+<li>Integrate with various third-party and external applications</li>
+<li>Maintain and update applications post-release to ensure continued success</li>
+<li>Write customer-facing web applications for ordering and account management</li>
+<li>Develop tools for deploying applications and monitoring infrastructure</li>
+<li>Enable your co-workers to perform their jobs more efficiently and effectively</li>
+</ul>
+<p><b>QUALIFICATIONS</b></p>
+<ul>
+<li>B.S. in Computer Science or equivalent experience</li>
+<li>2-3+ years of relevant work experience</li>
+<li>Willingness and enthusiasm to learn new skills and techniques</li>
+<li>Ability to work independently on standalone projects or as part of a small team</li>
+<li>Strong Java experience required (experience with other languages is a major plus as evidence of a strong development background)</li>
+<li>SQL experience is required</li>
+<li>Web development experience with HTML and JavaScript is required</li>
+<li>Experience with Scrum or other Agile methodologies is highly preferred</li>
+<li>Hibernate and Spring experience is highly preferred</li>
+<li>Linux experience is highly preferred</li>
+</ul>
+<p><b>WORK ENVIRONMENT</b></p>
+<ul><li>Monday through Friday</li></ul>
+<p><b>COMPENSATION AND BENEFITS</b></p>
+<ul>
+<li>17 PTO Days</li>
+<li>Competitive Salary</li>
+<li>Medical, Dental, Vision, Life, and 401(k) benefits are offered</li>
+</ul>
+<p><b>EEO STATEMENT</b></p>
+<p>Agilis Systems, LLC is an Equal Employment Opportunity Employer and will not discriminate against or harass any applicant or employee on any grounds prohibited under any federal, state or local law, including race, creed, color, religion, sex, national origin, age, disability, sexual orientation, marital status, status with regard to public assistance, veteran status, citizenship or membership in any other legally protected class.</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>Software Development: 2 years (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Preferred)</li></ul>
+</div>

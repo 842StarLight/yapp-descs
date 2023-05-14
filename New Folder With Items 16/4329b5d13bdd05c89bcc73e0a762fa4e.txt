@@ -1,0 +1,78 @@
+<h2>Front End Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>About NRC: </b><br>Next Retail Concepts powers top global brands with virtual immersive branded experiences that engage new audiences, deepen customer engagement, and drive product sales. We are a startup that uses XR technologies to empower innovative experiences.</p>
+<p><b>What are we building: </b><br>Virtual Immersive Branded Experiences. Check out our previous project here : ) immersive.nextretail.com/goop/postpreview</p>
+<p><b>About the Role: </b><br>We are looking to hire a front end developer who relishes the opportunity to play a large role in developing engaging and useful products. You’ll be tasked with prototyping and executing on the creation of multiple different experiences across mobile, web, and mixed reality. As part of our quickly growing team, you will have the opportunity to immediately make a meaningful impact on the development of our products as well as setting high standards for our company!</p>
+<p><b>What You Will Do: </b></p>
+<ul>
+<li>Develop, test, deploy, maintain, and improve frontend applications</li>
+<li>Explore frontend design and development for entirely new mediums</li>
+<li>Create reusable and maintainable frontend systems and abstractions.</li>
+<li>Implement new user interfaces that are beautiful and consistent</li>
+<li>Work on bug fixing and improving application performance</li>
+<li>Make high-level contributions to product strategy</li>
+<li>Collaborate with stakeholders to create user friendly products</li>
+<li>Support standardization of design system utilizing tools such as InVision/Zeplin</li>
+<li>You decide! It's a small team—the definition of the role is somewhat flexible and we would love to see how we can best utilize your strengths : )</li>
+</ul>
+<p><b>Who you are: </b></p>
+<p><b>Qualifications: </b></p>
+<ul>
+<li>Develop in JS, Jquery, Ajax, Typescript, CSS HTML, SASS, NPM, ES6, and A-Frame</li>
+<li>Bachelor’s degree in Computer Science and 3-4 years relevant experience, or an equivalent combination of education and experience</li>
+<li>Experience working with AWS services</li>
+<li>Led front-end development (using CSS and HTML libraries/frameworks - Bootstrap/ A-Frame - PlayCanvas)</li>
+<li>Experience maintaining and documenting application software</li>
+<li>Experience with Project Management tools (Github, Jira) to track issues/completion</li>
+<li>Excellent verbal, written and technical communication skills and interpersonal skills</li>
+<li>A natural self-starter who feels at home in a fast-paced, startup environment</li>
+<li>Interest in AR, VR, MR, XR, and memes /giphy haha</li>
+</ul>
+<p><b>Nice to have: </b></p>
+<ul>
+<li>You've worked on a customer facing technology product in ecommerce</li>
+<li>Experience working in A-Frame, WebXR, or game engines</li>
+<li>Experience working with remote dev teams</li>
+</ul>
+<p><b>Benefits: </b></p>
+<ul>
+<li>Full benefits plan including healthcare, dental, life, and 401k</li>
+<li>Work (and play) with all the latest technologies from Oculus to Magic Leap to whatever comes next</li>
+<li>Be part of a fast-growing team, take on new responsibilities as we build new things</li>
+</ul>
+<ul><li>Shape the direction, workflow, efficiency, and culture of the company</li></ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $95,000.00 to $110,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>relevant: 5 years (Preferred)</li>
+<li>css: 5 years (Preferred)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Location:</p>
+<ul><li>New York, NY (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Preferred)</li></ul>
+<p>Application Question:</p>
+<ul><li>Please send application along with links to portfolio and Github for review.</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Other forms</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Dental insurance</li>
+<li>Health insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+</ul>
+<p>This Company Describes Its Culture as:</p>
+<ul>
+<li>Innovative -- innovative and risk-taking</li>
+<li>Stable -- traditional, stable, strong processes</li>
+<li>Outcome-oriented -- results-focused with strong performance culture</li>
+</ul>
+<p>Schedule::</p>
+<ul><li>Monday to Friday</li></ul>
+</div>

@@ -1,0 +1,47 @@
+<h2>Embedded Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>It’s an exciting time to be at Impinj. We have connected over 25 billion items to the digital world allowing businesses to analyze and use data about those items to improve efficiencies, increase sales, and delight customers. Join Impinj and help us realize our vision to deliver digital life to everyday items such as retail apparel, medical supplies, luggage, automobile parts and more, extending the reach of the Internet by a factor of 1,000.<br>
+<br>
+Our Firmware/Embedded Software team is looking for a mid- to senior-level Embedded Software Engineer. In this role you will develop new features, enhancements and firmware for our next generation of readers. These readers are installed in stores, hospitals, warehouses and other facilities and are used to identify, locate and authentic items tagged with RAIN RFID chips. Our platform of readers/gateways, chips and software allows Impinj to connect billions of items in the physical world to the Internet, thereby enabling the true Internet-of-Things.<br>
+<br>
+<p><b>What you will do:</b></p>
+<ul>
+<li>
+You will develop firmware for RAIN RFID reader and gateway products in C/C++. This could include air interface protocols, algorithms, APIs, hardware device controls, network communication features and other embedded features.</li>
+<li>
+You will partner with other teams to define requirements, functionality, architecture and develop object oriented designs</li>
+<li>
+You will assist in the mentoring and managing of a small team of engineers</li>
+<li>
+Contribute to and benefit from our world-class build system and continuous integration services</li>
+<li>
+Participate in Agile/Scrum iterative design and development process</li>
+</ul>
+<p><b>
+ What you'll need to be successful in this role:</b></p>
+<ul>
+<li>
+You should have a very strong background in the fundamentals of computer science and software engineering. BS or MS in electrical engineering or computer engineering, or computer science is ideal.</li>
+<li>
+You will have a demonstrated track record in successfully shipping multiple products. Ideally you will have at least 5-7 years experience.</li>
+<li>
+A very high degree of proficiency in developing firmware in C/C++ and any scripting language, preferably Python</li>
+<li>
+Experience designing and implementing complex multi-threaded Linux embedded applications or device drivers</li>
+<li>
+Experience with Linux build systems, BSPs and debuggers</li>
+<li>
+You should be committed to a collaborative, respectful, accountable and inquisitive work style and working environment</li>
+</ul>
+<p><b>
+The following skills aren't necessary, but will make you more well-rounded:</b></p>
+<ul>
+<li>
+Experience with test infrastructure and QA tools such as: Jenkins, Bamboo, Artifactory, Jira, GIT, etc.</li>
+<li>
+Understanding of RF concepts and/or experience developing firmware/embedded software for wireless communication products</li>
+</ul>
+<p>
+Impinj is a fantastic place to work. We're small enough to know everyone, but big enough to have room to grow. We have open Q&amp;A with our executive team weekly. We work in beautiful new offices in South Lake Union. We take time to celebrate our accomplishments, and value collaboration and teamwork highly. We have open-ended time off policies and respect the need for good work/life balance. And when we are working, we are surrounded by really, really smart colleagues working passionately on everything from silicon chip design to Ember.js web interfaces. We're on a mission to change the world with technology. Come join us!</p>
+<p>
+We're committed to a diverse workplace and welcome applicants from all backgrounds and walks of life to apply.</p>
+</div></div>

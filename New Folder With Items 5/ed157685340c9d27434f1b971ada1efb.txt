@@ -1,0 +1,61 @@
+<h2>Senior Software Engineer - Java, Platform</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Senior Software Engineer - Java, Platform</p>
+<p><b>
+POSITION SUMMARY</b></p>
+<p>
+We’re looking for a highly-qualified Java developer to join the development team for our core analytics product. Participate in the entire development lifecycle, help to clarify/refine requirements, own the design for your components, and write and test the code to implement important new capabilities. The pace is fast and the opportunity to contribute to company success is high.</p>
+<p><b>
+LOCATION</b></p>
+<p>
+San Francisco, CA</p>
+<p><b>
+REPORT TO</b></p>
+<p>
+Director of Engineering, Platform</p>
+<p><b>
+RESPONSIBILITIES</b></p>
+<ul>
+<li>Collaborate with Product Management to help envision and design new capabilities.</li>
+<li>Work with technical lead(s) to write and review technical specifications and plan development for new features.</li>
+<li>Play the lead technical role for implementing new decision support models/modules for our core analytics product, including:</li>
+</ul>
+<div><ul>
+<li>Generate overall high-level design, including data model changes, key interfaces, and functional decomposition of the new module(s).</li>
+<li>Generate detailed designs and conduct design reviews</li>
+<li>Generate production-quality server-side Java code, conduct code reviews and unit test, manage QA testing and acceptance, and author documentation</li>
+</ul></div>
+<p><b>REQUIRED SKILLS/EXPERIENCES</b></p>
+<ul>
+<li>BS in Computer Science/Software Engineering, Applied Mathematics, or closely-related discipline (MS preferred)</li>
+<li>Substantial experience in coding applications involving applied mathematics, analytics, probability, statistics, numerical optimization.</li>
+<li>5+ years object-oriented software development, with at least 2 years concentration in Java implementing middle-tier and back-end components</li>
+<li>Expertise in using one or more popular IDEs in support of Java development.</li>
+<li>Very strong SQL and relational database design skills.</li>
+<li>Proven ability to deliver complex projects on time, on quality</li>
+<li>Ability to work collaboratively on multiple projects simultaneously, meeting different schedules and aggressive deadlines</li>
+<li>Able to cope with uncertain and changing project requirements</li>
+<li>Excellent verbal and written English communication skills</li>
+</ul>
+<p><b>NICE TO HAVE</b></p>
+<ul>
+<li>Java SE X Programmer Certification, "X" &gt;= 6.</li>
+<li>Applied mathematics/probability, analytics, data mining, numerical optimization.</li>
+<li>MySQL expertise. Experienced in database performance tuning a plus.</li>
+<li>Startup experience.</li>
+<li>Experience with big data platforms (Spark preferred)</li>
+<li>Experience with real-time data streaming (Kafka preferred)</li>
+<li>Experience working under Agile and Continuous Development.</li>
+<li>Prior experience in working with offshore developers and QA function.</li>
+<li>Familiarity with CRMs like Salesforce a plus.</li>
+<li>Other tools/packages: JIRA, Git, BitBucket, Eclipse or IntelliJ, Liquibase, Hibernate, DropWizard</li>
+</ul>
+<p><b>ABOUT AKTANA</b></p>
+<p>
+Committed to customer success and innovation, Aktana is at the forefront of transforming how life sciences companies share information with healthcare providers (HCPs). Our proprietary platform harnesses machine learning algorithms to enable marketing and sales teams to seamlessly coordinate and optimize multichannel engagement with HCPs. Today 10 of the top 20 global biopharmaceutical companies are using Aktana to go to market smarter.</p>
+<p>
+Aktana is growing fast and looking for exceptional talent to join our team. We value hard work, transparency, and collaboration – and we like to have fun too! Headquartered in San Francisco, we have offices around the world, including Philadelphia, New York, London, Barcelona, Tokyo, Osaka, and Shanghai.</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,45 @@
+<h2>Dev Ops Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Liveperson is an expert based culture, built on the drive and passion of smart people! Our business is growing and we are looking for people like you!
+<br><br>
+LivePerson is the global leader in conversational commerce solutions and we aim to make life easier by transforming how people communicate with brands. Our 18,000 customers, including leading brands like Citibank, HSBC, Orange, Virgin Atlantic, RBS and Liberty Global, use our conversational commerce solutions to orchestrate humans and AI, at scale, and create a convenient, deeply personal relationship — a conversational relationship — with their millions of consumers.
+<br><br>
+Over the next three years, our goal is to transform the 268 billion analogue phone calls between a brand and its consumers to digital on the LiveEngage platform. By doing this, we enable consumers to get back time and experience a more connected relationship with the brand in which sales, service, marketing, branches, stores, and contact centre's become a unified experience.
+<br><br>
+The successful candidate has an opportunity to join a highly outstanding team within a fast-paced and successful organisation. We are looking for a Sr. Backend Application Developer with experience in building high-performing, scalable, web services and enterprise-grade applications. You will be part of a talented software team that works on mission-critical applications. Your responsibilities include managing backend application development while providing expertise in the full software development lifecycle, from concept to design to testing to deployment and support.
+<br><br>
+<b>In this role you will:</b><br>
+<ul>
+<li>Develop tools to improve efficiency and quality of system maintenance and operations</li>
+<li>Design and Deploy Automation of Container Applications using Kubernetes and Docker</li>
+<li>Document Deployment Processes, Services and Environments</li>
+<li>Work with Developers/QA to build and validate containerized applications</li>
+<li>Design, develop and implement software that improves the stability, scalability, availability, and latency of the storage platform</li>
+<li>Build effective monitoring systems to keep track of the health of our systems, and alert us to take action before incident situations</li>
+<li>Solve problems occurring with our production systems, and build solutions and automation to prevent them from reoccurring</li>
+<li>Setup application/system monitoring</li>
+</ul>
+<b>You should be an expert in:</b><br>
+<ul>
+<li>Linux Shell Programming is a (Required)</li>
+<li>Docker Containers (Required)</li>
+<li>Java/Python/Go/nodejs language</li>
+<li>Source control and CI/CD tools like Git, maven/gradle,Jenkins/Teamcity</li>
+<li>Package Management Tools like npm</li>
+<li>Automation of applications deployment to On premise/Cloud Environment</li>
+<li>Database (Postgres, Mongodb, Cassandra, Elasticsearch)</li>
+<li>Any Distributed Streaming Platform (Kafka, Spark )</li>
+<li>Automation tools like (salt/puppet/chef/ansible/airflow )</li>
+<li>Kubernetes/Swarm is a plus</li>
+</ul>
+We care about you.
+<br>LivePerson works hard to create a positive employee experience. Your life outside of the office is important to us. We support our teams with competitive benefits and paid time-off that enables our family to take the time they need to recharge.
+<br><br>
+We want you to feel part of our LivePerson family.
+<br>Team events, daily snacks and happy hours on occasion will help you settle quickly into your new workplace.
+<br><br>
+You can read more about LivePerson and Our Principles here - https://www.liveperson.com/company/#guiding-principals ( https://www.liveperson.com/company/#guiding-principals )
+<br><br>
+Our company believes equal opportunities for both genders is something that has been overlooked for too long.
+<br>To shake up the industry, LivePerson CEO Robert Locascio recently launched the Equal AI initiative - established to focus efforts on eradicating gender bias in AI engineering. We are also keen on getting women enthusiastic about software engineering by sponsoring "WomenHack" and "Female's Favor{IT}e Conference" events globally.
+<br><br>
+LivePerson provides equal employment opportunity without regard to an applicant's race, color, age, national origin, religion, sex, gender identity or expression, sexual orientation, veteran status, disability, pregnancy, genetic information, or any other status protected under applicable law.</div>

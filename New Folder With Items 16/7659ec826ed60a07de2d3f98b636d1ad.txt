@@ -1,0 +1,42 @@
+<h2>Lead Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Lattice is pioneering the market for predictive applications for marketing and sales. We apply cutting edge technologies and data science to external buying signals and customers provided data to drive deep insights into companies businesses.</p>
+<p>
+We’re recruiting a top lead or principal engineer to lead our software infrastructure team and scale our Hadoop and AWS micro-services architecture as we process daily, millions of requests and terabytes of data. Our growing list of customers includes powerhouses like Adobe, Dell and Thomson Reuters as well as fast growing companies like Hootsuite and MuleSoft.</p>
+<p>
+We have a talented engineering team mixing experienced engineers and newer graduates with background from top schools (Harvard, MIT, Stanford, Tsinghua, UC Berkeley…) &amp; top software companies such as Amazon, Apple, Google, Salesforce, Twilio etc…</p>
+<div>
+<b>
+Required qualifications:</b><br>
+<br>
+<ul><li>Strong expertise in building enterprise techniques for large scale distributed system design and data processing</li></ul>
+<br>
+<ul><li>Strong understanding of HTTP and webservers, and operating public APIs in MicroServices environment</li></ul>
+<br>
+<ul><li>Strong understanding of system configuration management, container technologies and configuration bootstrapping</li></ul>
+<br>
+<ul><li>Strong analytical and problem solving skills. Ability to hit the ground running and learn/adapt quickly</li></ul>
+<br>
+<ul><li>Excellent written and leadership skills. Team player</li></ul>
+</div>
+<p></p>
+<br>
+<p>
+ <b>Desired qualifications:</b></p>
+<ul>
+<li>Mix of Startup and Big Enterprise experience</li>
+<li>Desired hands-on experience with Docker, Hadoop, AWS, DynamoDB, Redshift, Redis, or similar technologies</li>
+<li>Experience building and operating SaaS solutions, managing multitenant solutions</li>
+<li>Strong Java and Middleware experience with focus on integration and transactional systems</li>
+<li>Strong understanding of information retrieval concepts, machine learning, natural language processing</li>
+<li>Experience working with data and data products</li>
+</ul>
+<br>
+<p>
+About Lattice</p>
+<p>
+Lattice is pioneering the market for predictive applications for marketing and sales. Lattice helps companies win more customers by masking complex data science in a suite of easy to use and secure cloud applications. By combining the industry’s largest source of external buying signals with a company’s internal data and applying proven predictive analytics and machine learning techniques, Lattice increases conversion and win rates by as much as 10 times. Lattice customers include innovative companies of every size and has been quickly adding to its customers’ base. Lattice is backed by Sequoia Capital and NEA with headquarters in San Mateo, CA.</p>
+</div>
+<p></p>
+</div>

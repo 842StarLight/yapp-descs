@@ -1,0 +1,100 @@
+<h2>.NET Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<p><b>Overview:</b></p>
+<p>
+We are looking for a dynamic and highly-motivated individual to work in our IT Product Development team. This position is responsible for .NET application development, with a heavy focus on API development and services integration to support Windstream’s customer facing portals. This position works closely with other development team members and engineering, operations, sales, product, and support to ensure the applications developed satisfy business requirements.</p>
+<p></p>
+<br>
+<p><b>
+Responsibilities:</b></p>
+<div></div>
+<ul>
+<li><div>
+Work in an Agile and SCRUM environment, with constant feedback and iteration on development</div></li>
+<div></div>
+<li><div>
+Developing software with high reliability, scalability, availability and performance</div></li>
+<div></div>
+<li><div>
+Developing and integrating systems including: understanding system design requirements, system design, and programming the features and functions to meet requirements</div></li>
+<div></div>
+<li><div>
+Capable of working independently as well as working in a team approach with other software developers when required</div></li>
+<div></div>
+<li><div>
+This role will have interaction with functional and operational area personnel that are providing requirements and be expected to attend meetings either face-to-face, via audio or video as needed to support the various functional system needs</div></li>
+<div></div>
+<li><div>
+Candidates must have strong communication skills, and the desire to work in a fast-paced environment</div></li>
+<div></div>
+<li><div>
+Work with external third parties when required</div></li>
+</ul>
+<p></p>
+<p><b>
+Qualifications:</b></p>
+<p></p>
+<ul>
+<li><p>
+Minimum of 1-3 years’ experience in application development</p></li>
+<div></div>
+<li><p>
+Bachelor's degree (Computer Science, Engineering, or other technology equivalent preferred)</p></li>
+<div></div>
+<li><p>
+Experienced with cloud principles and utilizing cloud technologies within or as part of development deliveries</p></li>
+<div></div>
+<li><p>
+Good written and verbal communication skills</p></li>
+<div></div>
+<li><p>
+Languages and protocol skills should include the following: C#, ASP.NET MVC, SOAP, REST, JSON, XML, HTML, CSS, JavaScript</p></li>
+<div></div>
+<li><p>
+Frontend development skills utilizing Angular, Node, React a plus but not required</p></li>
+<div></div>
+<li><p>
+Experienced with one or more of the following development packages and tools: Microsoft SQL Server 2016, Microsoft Azure DevOps (ADO/TFS), Microsoft Visual Studio 2017, Oracle Database, Microsoft Platform SDKs, MongoDB.</p></li>
+<div></div>
+<li><p>
+Excellent teamwork skills</p></li>
+<div></div>
+<li><p>
+Ability to work independently with limited supervision from requirements to development delivery</p></li>
+<div></div>
+<li><p>
+Efficiently work under pressures, deadlines, and when necessary stretch extra hours to complete assigned task</p></li>
+<div></div>
+<li><p>
+Experience with the Software Development Life Cycle (SDLC), including both agile and waterfall development.</p></li>
+</ul>
+<div>
+<br>
+</div>
+</div>
+<div>
+<b>
+Qualifications</b><div>
+</div>
+<b>
+Minimum Qualifications:</b><div>
+<br>
+</div>
+<div>
+College degree in a Technical or a related field and 2-4 years professional level experience; or 6+ years professional level related Technical experience; or an equivalent combination of education and professional level related Technical experience required.</div>
+<div>
+<br>
+</div>
+<div>
+<div>
+IND123</div>
+<div>
+#LI-SC1</div>
+</div>
+</div>
+</div>
+<div></div>
+</div>

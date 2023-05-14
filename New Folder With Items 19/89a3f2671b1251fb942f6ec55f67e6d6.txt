@@ -1,0 +1,57 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>About Us: . </b></p>
+<p>CSG Actuarial builds technology to improve how people make healthcare decisions. Today, thousands of our customers take advantage of our resources including popular insurance quoting tools, comprehensive data analysis, and enrollment applications. These customers range from Fortune 500 companies to individual insurance consumers. We believe that improved access to insurance knowledge will allow all of these customers to improve their bottom line and meet their long term goals.</p>
+<p>Our company culture is very open, flat, and transparent. We succeed and grow this business together. We strive to make the workplace an inspiring place to do creative work. We are seeking individuals whose personality, integrity, and passion for our business can make our team better. We have grown profitably over the last 11 years and are looking for new people to push us further.</p>
+<p><b>Job Description</b>:</p>
+<p>CSG Actuarial is looking for a Software Engineer to join our collaborative and growing team. At CSG Actuarial we are a fun environment that values teamwork and as a Software Engineer you not only get to be a part of the development process, but get to see your work in action. We are a fast-paced development team that releases new products and services each week to thousands of customers. If you are a high performer, like to take on new challenges, and build out new features where you feel like you are part of a team and not a cog in a machine, we are looking for you.</p>
+<p>The Engineering Team has a role in building the technology to support our ever-growing client base and as a Software Engineer at CSG Actuarial you will have the opportunity to be a part of the success of the organization. Our Engineering Team produces high impact products and services while working collaboratively with the Product Team, designers, and Sales Team.</p>
+<p>Responsibilities:</p>
+<ul>
+<li>Create scalable web and mobile device applications</li>
+<li>Working with our product and design team to build new features, tools, and functionality to Improve our web services</li>
+<li>Utilize data mining techniques to keep database information current</li>
+</ul>
+<p>Minimum Qualifications:</p>
+<ul>
+<li>Bachelors of Computer Science or at least 3 years of experience</li>
+<li>Solid understanding of HTTP standards and networking in general</li>
+<li>Proficiency with Python and JavaScript</li>
+</ul>
+<p>Preferred Qualifications:</p>
+<ul>
+<li>3 or more years of development experience</li>
+<li>Ability to create and solid understanding of RESTful web services</li>
+<li>Proficiency with Google Cloud, Template Engines, MVC, AJAX</li>
+<li>iOS SDK and Android SDK experience</li>
+<li>Experience collaborating with other developers Git/GitHub</li>
+<li>Proficiency with Bootstrap, Django, and Vue.js</li>
+</ul>
+<p>Additional Benefits of CSG Actuarial:</p>
+<ul>
+<li>Industry Competitive Salary and Bonus Potential</li>
+<li>Flexible Hours</li>
+<li>Reduced Summer Hours</li>
+<li>Casual Work Environment and Dress code</li>
+<li>Excellent PTO, 401k, Health Insurance, LTD, STD, and Voluntary Life Insurance</li>
+<li>Collaborative team environment</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>development: 3 years (Preferred)</li></ul>
+<p>Application Question:</p>
+<ul><li>Are you proficient with Python and JavaScript?</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Flexible schedule</li>
+</ul>
+<p>Relocation Assistance Provided:</p>
+<ul><li>No</li></ul>
+<p>This Company Describes Its Culture as:</p>
+<ul><li>Outcome-oriented -- results-focused with strong performance culture</li></ul>
+</div>

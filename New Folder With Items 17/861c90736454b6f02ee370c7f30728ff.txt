@@ -1,0 +1,49 @@
+<h2>Business Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>SUMMARY</b><br>
+This position will be required to understand complex data and how to best analyze this data to represent information to stakeholders. The use of business intelligence tools and modern data mining solutions will be required to create interactive meaningful dashboards and summary reports to support decision making and provide additional insight and support for the Organization. In addition, this position will be responsible for the creation of business intelligence reports for business partners as needed, in particular reports of a complex nature and will include both operational and financial reports.</p>
+<br>
+<div>
+<b>
+ESSENTIAL DUTIES AND RESPONSIBILITIES</b><br>
+<ul>
+<li>Develop and deliver channel reporting and analysis to include Power BI dashboards, for the organization that tracks performance and supports strategy development decisions.</li>
+<li>Assist Finance in administrating SAFE’s sales, lending, and product manager incentive plans across the organization to ensure accuracy and quality of the incentive payouts.</li>
+<li>Calculate, validate, and maintain incentive data using SAFE’s online incentive website and data warehouse.</li>
+<li>Develop and deliver operational reports, dashboard and data visualization using SQL, SSRS, and Power BI.</li>
+<li>Using a variety of software applications to query, build, analyze, validate and draw conclusions from large amounts of transaction and member data.</li>
+<li>Work closely with product managers, web services, marketing, and IT groups, to develop a channel analytics environment that ensures results are easily accessible and interpreted to satisfy business requirements.</li>
+<li>Work with channel leadership to develop and maintain metrics and value models aimed at evaluating execution of channel initiatives and success of channel strategy.</li>
+<li>Provide analytic support and reporting for enterprise-level business plan initiatives and/or projects.</li>
+<li>Develop, prepare and deliver written and verbal analysis and other relevant documentation, including tables, graphs and dashboards, in an effort to communicate issues, insights, recommended actions and decision points for management and/or other key channel team members.</li>
+<li>Respond to requests from throughout the organization for non-routine analysis.</li>
+<li>Perform other duties as assigned.</li>
+</ul>
+</div>
+<p><b>
+EDUCATION AND/OR EXPERIENCE</b><br>
+Bachelor's degree (B.A.) in Accounting, Finance, IT, Business Management or Math and a minimum of 2 years of related experience.</p>
+<div>
+<b>
+OTHER SKILLS AND ABILITIES</b><br>
+<ul>
+<li>Advanced Excel, PowerPivot, and PowerQuery software skills required.</li>
+<li>Experience with complex SQL joins, groups, views and other relational database concepts.</li>
+<li>Superior analytical skills required.</li>
+<li>Ability to quickly learn financial software applications.</li>
+<li>Microsoft Power BI, ETL, star schema, tabular data modeling experience a plus.</li>
+<li>Intermediate data visualization software skills using a BI tool a plus.</li>
+<li>Query, cleanse, manipulate, and aggregate data from a data warehouse a plus.</li>
+<li>Appropriately handles sensitive and confidential information.</li>
+<li>Comfortable interacting with multiple levels in the organization.</li>
+<li>Ability to act autonomously while being a team player.</li>
+<li>Flexible and adaptable to high paced work environment.</li>
+<li>Self-motivated and positive attitude are a must.</li>
+</ul>
+</div>
+<div>
+<b>
+OTHER QUALIFICATIONS:</b><br>
+<ul><li>Financial institution experience is a plus.</li></ul>
+</div>
+</div></div>

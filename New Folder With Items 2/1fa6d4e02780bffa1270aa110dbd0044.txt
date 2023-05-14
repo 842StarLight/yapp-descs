@@ -1,0 +1,60 @@
+<h2>Product Manager, Data Layer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Do you have a passion for data, and a desire to be in front of what’s happening in the data management industry? StreamSets, a high-growth big data innovator, is seeking a Product Manager to manage our data movement and transformation products.
+<br><br>
+<b>About the Team:</b><br>
+At StreamSets we are building a DataOps platform that enables Data Engineering to deliver rapid, comprehensive, and curated data to their users for modern analytics, AI/ML and real-time applications. We are a group of smart, kind, and empowered individuals who value working together as a team. We are not afraid to embrace the latest and greatest tech to build the next generation of software. You'll be challenged with interesting and first-of-their-kind problems that have a real impact on how organizations achieve their artificial intelligence and machine learning goals.
+<br><br>
+<b>The Role :</b><br>
+In this role you will own the roadmap of all products that constitute our ‘Data Layer’ (Edge, Data Collector and Transformer). These products allow customers to ingest and process data from a variety of sources and destinations.
+<br><br>
+The ‘data’ landscape is large and complex; as a Product Manager for the data layer you are expected to have a deep, yet wide understanding of data platforms, cloud databases and services, analytics platforms, AI/ML platforms and IoT systems amongst others. You are familiar with ETL &amp; Spark.
+<br><br>
+The Product Management team works closely with Engineering to guide products from concept to launch. As a part of this team you will be responsible for understanding customer needs, constantly evaluating the industry/competitive landscape and developing a roadmap to deliver product that customers love. You will guide products through their lifecycle, focusing on analyzing, positioning, defining, packaging, creating demos and educating the sales organization and broader customers on the product.
+<br><br>
+<b>In this role, you will:</b><br>
+<ul>
+<li>Understand customer needs via structured customer feedback sessions.</li>
+<li>Understand markets and competitive landscape in depth.</li>
+<li>Document users, use cases and requirements to ensure clarity across the company, from sales to engineering</li>
+<li>Own the roadmap on all the data movement and transformation products within our platform.</li>
+<li>Have a great depth of technical knowledge about data platforms, connectivity, data ingestion and ETL.</li>
+<li>Work collaboratively with engineers and other departments in the organization.</li>
+<li>Work with Engineering. Marketing, Sales etc to track and develop release milestones.</li>
+<li>Define, measure and report on key metrics of product traction and impact.</li>
+<li>Evangelize product capabilities both inside and outside the company through speaking engagements, demo videos, blog posts, webinars, meetups etc.</li>
+<li>Engage with our community of users and customers to grow the understanding and adoption of the StreamSets platform</li>
+</ul>
+<b>You are a great fit because you are:</b><br>
+<ul>
+<li>A Fast Learner</li>
+<li>A problem solver</li>
+<li>Excited to wear many hats and learn new technologies</li>
+<li>Pragmatic and methodical</li>
+<li>A solid communicator and collaborator</li>
+<li>A great teammate</li>
+<li>Self-motivated and energized by working in a dynamic startup culture.</li>
+</ul>
+<b>And You Have:</b><br>
+<ul>
+<li>BA/BS degree in computer science or related technical field, or equivalent practical experience.</li>
+<li>3+ years experience as a Product Manager</li>
+<li>2+ years experience managing enterprise software products.</li>
+<li>Experience using tools such as ProductBoard, Jira etc.</li>
+<li>Experience communicating and presenting to customers and key stakeholders.</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Experience with big-data, cloud-native and machine learning technologies.</li>
+<li>Experience with ETL and Data Integration technologies.</li>
+</ul>
+<b>Who We Are:</b><br>
+StreamSets built the industry’s first multi-cloud DataOps platform for modern data integration, helping enterprises to continuously flow big, streaming and traditional data to their data science and data analytics applications. The platform uniquely handles data drift, those frequent and unexpected changes to upstream data that break pipelines and damage data integrity. The StreamSets DataOps Platform allows for execution of any-to-any pipelines, ETL processing and machine learning with a cloud-native operations portal for the continuous automation and monitoring of complex multi-pipeline topologies.
+<br><br>
+Founded in 2014, StreamSets is backed by top-tier Silicon Valley venture capital firms, including Battery Ventures, New Enterprise Associates (NEA), and Accel Partners. Our founders have a deep understanding of the market, and our elite engineering team has delivered an award-winning, disruptive technology built from the ground up for the modern multi-cloud, big-data world. Our loyal customers include some of the world’s largest enterprises.
+<br><br>
+<b>Why You Should Join:</b><br>
+We at StreamSets believe that it is the people who make a difference. We value you and everyone that matters to you, so we offer comprehensive medical coverage with premiums paid for you and your family members. We strive to create an extraordinary work environment with great work-life balance by offering an unlimited vacation policy that allows you to spend that much-needed time with your family. We also offer paid maternity and paternity leave and we even do 401(k) matching. We participate in corporate events, host monthly happy hours and offer free lunches and snacks. This is a fun place to work!
+<br><br>
+StreamSets is proud to be an equal opportunity workplace. Individuals seeking employment at StreamSets are considered without regards to age, ancestry, color, gender (including pregnancy, childbirth, or related medical conditions), gender identity or expression, genetic information, marital status, medical condition, mental or physical disability, national origin, protected family care or medical leave status, race, religion (including beliefs and practices or the absence thereof), sexual orientation, military or veteran status, or any other characteristic protected by federal, state, or local laws.
+<br><br>
+Come be a part of our diverse, dynamic team!
+<br><br>
+No Agencies Please</div>

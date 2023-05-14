@@ -1,0 +1,121 @@
+<h2>Data Wrangler</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<p>Job Details</p>
+</div>
+<div></div>
+<div>
+<div>
+<div>Job Code</div>
+<div>
+JPSC-6991</div>
+</div>
+<div></div>
+<div>
+<div>
+<div>
+Posted Date</div>
+<div>
+03/12/18</div>
+</div>
+<div></div>
+<div>
+<div>
+<div>
+Experience</div>
+<div>
+7 Years</div>
+</div>
+<div></div>
+<div>
+<div>
+<div>
+Primary Skills</div>
+<div>
+ETL,Agile,Big Data,WRANGLER</div>
+</div>
+<div></div>
+<div><div>
+<div>
+Required Documents</div>
+<div>
+Resume</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p></p>
+<br><div>
+<div>Overview</div>
+ <div>Position: Data Wrangler<br>
+Duration: 12 Months<br>
+Location: 123 Main Street, White Plains NY (Westchester County), NY<br>
+Work Schedule: Monday through Friday<br>
+7.5 hour work day with .5 hour unpaid lunch<br>
+Paid for time worked only<br>
+Overtime is not permitted unless authorized in advanced.<br>
+<br>
+Project Overview<br>
+New York Energy Manager is partnering with a Cloud vendor to implement Energy Management system for our customers (NYEM 2.0 Program). Client will be responsible for data discovery, cleansing and transformation of various data steams to the vendor's canonical format to support data analytics and reporting.<br>
+<br>
+<br>
+Functions and Responsibilities<br>
+<ul>
+<li>Wrangle data (a.k.a. data engineering) from a wide variety of complex data sets large volumes of data into normalized and enriched data sets.</li>
+<li>Assemble and evaluate data such that new insights, solutions, and visualizations can be derived. This individual will develop a deep understanding of analytical needs in order to enable the Client data assets, big data technologies, keying and linking concepts to analyze Internal and External utility industry data to create insights.</li>
+<li>Perform data discoveries to understand data formats, source systems, file sizes, etc. This will include engaging with internal and external business partners in the discovery process.</li>
+<li>Deliver data acquisition, transformations, normalization, mapping, and loading of data into a</li>
+</ul>
+variety of data models.<br>
+<ul>
+<li>Clear understanding of, and the ability to navigate file structures such as CSV files, Excel spreadsheets, relational data bases, SAP business warehouse cubes to locate and extract data.</li>
+<li>Ability to design and architect method of extracting data from its original source to another location (i.e. a data lake) to make that data consumable for a variety of downstream purposes such as applications, visualizations, analytics and other related data science activities.</li>
+<li>Basic understanding of data science and the ability to support a data science team.</li>
+<li>Ability to transforming and map one "raw" data form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics.</li>
+<li>Interact with all levels of people including Data Stewards, Analytics professionals, IT, Sales and Customers, engineers and power plant personnel.</li>
+<li>Interact with Customer Business Technologists in order to satisfy customer needs.</li>
+<li>Assist in the development of ETL migration plans for all Client Internal and External data assets not currently integrated into a Client data lake, including developing a level of subject matter expertise with each new data asset being loaded.</li>
+<li>Lead and execute activities to support all aspects bringing new data sources into Client's data lake environment, Collaborate extensively with Technology to design data ingestion, data models, and automated operational metrics for consistent high quality data loading into Client Data platform.</li>
+<li>Develop strategies, standards, and best practices in the areas of data wrangling, data visualization, and data integration and lead adoption throughout the Client and the New York Canals Corporation.</li>
+<li>Ensure quality, coverage and accuracy of data. Validate data quality content in conjunction with respective data stewards by developing reports and tools to monitor and visualize data.</li>
+<li>Develop and Collaborate extensively with Data, Analytics, and Technology leads to ensure the seamless consumption of insights generated from Client and the New York Canals Corporation emerging big data analytical platform.</li>
+</ul>
+<br>
+Skills:<br>
+<ul>
+<li>Expert level proficiency in SQL.</li>
+<li>Expert level proficiency in Microsoft Excel</li>
+<li>Experience working independently with minimal guidance</li>
+<li>Strong problem solving and troubleshooting skills with experience exercising mature judgment</li>
+<li>Proficiency in multiple programming languages</li>
+<li>Comfortable working with open-source technologies</li>
+<li>Agile Methodologies, Scrum, XP, particularly with more than one team within an organization</li>
+<li>Iterative project delivery, Scrum experience</li>
+<li>Experience in multiple roles of an Agile team</li>
+<li>Experience of coaching teams</li>
+<li>Experience in workshop facilitation</li>
+<li>Experience in software process improvements</li>
+<li>Knowledge of other Agile methodologies, such as Crystal, DSDM Atern, RUP, is a plus</li>
+<li>Experience in evangelizing Agile, is a plus</li>
+<li>Ability to work directly with highly experienced user community.</li>
+<li>Must have effective collaboration skills</li>
+<li>Exceptional ability to clearly and effectively communicate with IT peers and users at all levels of technical and business acumen.</li>
+<li>Strong time management skills and multi-tasking capabilities</li>
+<li>Ability to understand business rules governing financial and budgeting process</li>
+<li>An understanding of technical concepts, principles and terminology</li>
+<li>Exceptional oral and written communication skills</li>
+<li>Self-motivated, ability to set priorities and meet deadlines</li>
+<li>Ability to handle multiple tasks/assignments/projects simultaneously.</li>
+<li>Strong attention to detail</li>
+<li>Ability to clearly and correctly state and summarize technical information</li>
+<li>Ability to present finds to both technical and non- technical audiences.</li>
+<li>Experience with ETL and/or other Big Data processes.</li>
+</ul>
+<br>
+Education and Certifications:<br>
+BA in Computer Science.</div>
+</div>
+</div>

@@ -1,0 +1,106 @@
+<h2>Python Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>Overview</b><br>
+<br>
+</div>
+<div><b>Who We Are:</b></div>
+<div>
+Spring Venture Group is a leading digital direct-to-consumer sales and marketing company with product offerings focused on the senior market. We specialize in distributing Medicare Supplement, Medicare Advantage, and related products via our family of brands and dedicated team of licensed insurance agents. Powered by our unique technologies that combine sophisticated marketing, comparison shopping, sales execution, and customer engagement – we help thousands of seniors across the country navigate the complex world of Medicare every day.</div>
+<div>
+</div>
+<div><b>
+What We Want:</b></div>
+<div>
+Spring Venture Group is looking for a talented, passionate, and curious Python Developer to help support both the data science and analytics teams. Your primary objective in this role is "data science enablement". The analytics team you will be working with is in charge of optimizing company profits by determining the price we pay for leads, price we pay for ads, and determining which sales agents get which leads and when. This position works will all facets of the IT organization to insure that the data science and analytics team has all the technical requirements met in order to "make use of" their data science models.</div>
+<div>
+</div>
+<div>
+Some of our past projects include: Working on data science shared library, building a visual configuration tool using python, flask, css, setting up a service to stream changes from our third party hiring vendor into a database, and Salesforce records reconciliation.</div>
+<div>
+</div>
+<div>
+Technologies that we use include: Python, Java, Angular, Python machine learning libraries, Pandas, Tableau, Mysql, AWS</div>
+<div>
+<br>
+<b>
+Responsibilities:</b>
+</div>
+<ul>
+<li>
+Build &amp; maintain key front/back end frameworks to support the expansion of research initiatives</li>
+<li>
+Collaborate and support the data science team, “Data Science Enablement”</li>
+<li>
+Provide insight and development expertise into the design/build of new analysis techniques</li>
+<li>
+Design, build, and support data pipelines used by our data science and marketing teams</li>
+<li>
+Build out API integrations to supply data pipelines and populate data warehouses like S3 or MYSQL</li>
+</ul>
+<div>
+<br>
+<b>
+Qualifications:</b>
+</div>
+<ul>
+<li>
+Bachelor’s degree in Computer Science/Math or a related field</li>
+<li>
+4+ years experience Python</li>
+<li>
+Deep learning framework expertise such as TensorFlow, MXNet, PyTorch, Chainer</li>
+<li>
+Experience building complex software systems that have been successfully delivered to customers</li>
+<li>
+Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations</li>
+<li>
+Deep hands-on technical expertise in: large scale systems engineering; building and operating complex distributed systems</li>
+<li>
+Working knowledge of Python production quality REST and streaming web servers like: uWSGI, CherryPy, Flask, Django etc.</li>
+<li>
+Working knowledge of Unix/Linux environments</li>
+</ul>
+<div>
+<br>
+<b>
+Benefits:</b>
+</div>
+<ul>
+<li>
+Medical, Dental and Vision insurance, including free Telemedicine</li>
+<li>
+401K retirement savings plan</li>
+<li>
+Employer paid short term and long term disability</li>
+<li>
+Employer paid Life insurance coverage</li>
+<li>
+Voluntary Life and ADD insurance coverage</li>
+<li>
+15 PTO days</li>
+<li>
+10 company paid Holidays per year</li>
+<li>
+Volunteer Time Off (VTO) up to 8 hours per year</li>
+<li>
+Paid Parental Leave up to 5 days per year</li>
+</ul>
+<div>
+Spring Venture Group is an Equal Opportunity Employer.</div>
+<div>
+Apply for this job online</div>
+<div>
+Refer this job to a friend</div>
+<div>
+<br>
+</div>
+<div>
+Share on your newsfeed</div>
+<br>
+<br>
+<b>About Spring Venture Group</b>
+<br>
+<br>
+<p>Spring Venture Group reimagines the relationship between sales, marketing, and technology to develop forward-thinking business models that get results. And we do it with an awesome team of people dedicated to innovation, creativity, and analytics. We create a customer experience that meets our clients needs while also saving them the most money possible. We believe that comparison shopping for the best rate is the strongest value proposition, and results in our agents having everything they need to close the sale and bring considerable savings to our customers.</p>
+</div></div>

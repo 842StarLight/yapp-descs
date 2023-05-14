@@ -1,0 +1,44 @@
+<h2>Navitaire-DevOps Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Navitaire, a wholly owned Amadeus Company, delivers industry-leading technology services supporting growth, profitability and innovation to airlines and rail clients worldwide, including many of the world’s most successful airlines. Navitaire offers a full suite of proven solutions focused on revenue generation and streamlining costs in the areas of reservations, ancillary sales, loyalty, revenue management, revenue accounting and business intelligence. Each day, more than 500 employees based in five global offices develop, support and operate Navitaire solutions to help our clients continue to move the travel industry forward.
+</b></p>
+<p><b>Position Summary<br>
+</b></p>
+<p><br>
+Assist the DevOps team with managing &amp; supporting the internal environments needed to address the needs of the Development, QA &amp; other non-production teams. Create &amp; maintain tools used for Automation, Performance Engineering &amp; other Dev-Ops processes.<br>
+</p>
+<p></p>
+<p><b>Key Areas Of Responsibility<br>
+</b></p>
+<div>
+<br>
+<ul>
+<li>Be part of the Scrum Team and play the role of a DevOps Engineer with focus on Automation &amp; Performance Engineering.
+</li>
+<li>Help develop or leverage existing 3rd party or open source tools to automate the DevOps process. This includes tools for System Test, Performance Test, and any other Dev Ops processes. Be an advocate for these tools and practices as standards for the Scrum Teams.
+</li>
+<li>Provide direction &amp; guidance to the Manila DevOps Team on the standards for Automation &amp; Performance Engineering. Assist them in implementing these tools on the Manila Scrum Teams<br>
+</li>
+</ul>
+</div>
+<p></p>
+<p><b>Requirements<br>
+</b></p>
+<div>
+<br>
+<ul>
+<li>2 - 3 years in the capactiy of Application or Infrastructure support.
+</li>
+<li>Working Knowledge of a Public Cloud based infrastructure such as Azure or AWS. Strong knowledge of Software Test Automation &amp; Performance Engineering frameworks.
+</li>
+<li>Experience with writing Automation Scripts relating to Infrastructure provisioning and support.
+</li>
+<li>Experience with C# and scripting languages such as Powershell.
+</li>
+<li>Bachelor’s degree in Computer Science, Engineering, or equivalent work experience.<br>
+</li>
+</ul>
+</div>
+<p></p>
+<p><i>The posting of vacancies and the treatment of applications are, in each Amadeus location, subject to national law and possible collective agreements with local staff representation. Internal Mobility policies vary from office to office, please check with your local HR representative the requirements and policy in place. E.g. a minimum time on position or Line Manager approval may be requested.</i></p>
+</div></div>

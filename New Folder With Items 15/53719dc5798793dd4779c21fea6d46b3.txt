@@ -1,0 +1,172 @@
+<h2>IT Business Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>Major Responsibilities</b></p>
+<ul>
+<li>
+SAP<ul>
+<li>
+Update and maintain system security to ensure there are no improper delegations of authority.</li>
+<li>
+Keeping track of all SAP program customizations and customized reports and developing a process to control and maintain them.</li>
+<li>
+Develop simple queries and direct and coordinate the development of more complex queries with our external applications development partner Soft Engine.<ul><li>
+Examples of simple queries would be edit reports, and check balance reports</li></ul>
+</li>
+<li>
+Maintain training guides and procedures.</li>
+<li>
+Coordinate troubleshooting with our external applications development partner (Soft Engine).</li>
+</ul>
+</li>
+<li>
+IT Operations<ul>
+<li>
+Network<ul>
+<li>
+Ensure our external hardware support partner (TMS) is performing as expected. Develop and monitor performance against KPI’s.,<ul><li>
+This will involve regular monitoring of their activities on a monthly basis.</li></ul>
+</li>
+<li>
+Troubleshoot hardware issues and coordinate responses with our external hardware support partner or address easily remedied problems directly.</li>
+</ul>
+</li>
+<li>
+Projects<ul>
+<li>
+Prepare documentation for projects (e.g. documentation for testing)</li>
+<li>
+Possibly provide set up for testing</li>
+</ul>
+</li>
+<li>
+Website support for ecommerce<ul>
+<li>
+Secure Domain names</li>
+<li>
+Secure Mailboxes</li>
+<li>
+Coordinate with 3rd party solutions</li>
+</ul>
+</li>
+<li>
+Training<ul><li>
+Develop and conduct training for various applications with the related user base.</li></ul>
+</li>
+<li>
+Organizational improvement<ul><li>
+Work with Director of IT to identify and evaluate researched and recommended IT solutions</li></ul>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<br>
+<p>
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.</p>
+<p></p>
+<br>
+<p>
+Specific Measures of Job Performance</p>
+<ul>
+<li>
+Ensuring adequate segregation of duties is maintained in the SAP environment</li>
+<li>
+Develop accurate records of all customizations and ensuring the impact of any systems changes and or upgrades results in the timely release of these customizations in the new environment.</li>
+<li>
+Ensuring that all documentation developed is accurate and updated regularly.</li>
+<li>
+Ensuring the userbase is satisfied with their support from TMS</li>
+<li>
+Ensure all items requested to support websites and ecommerce are delivered timely and accurately.</li>
+<li>
+Ensure that users are properly and regularly trained in the applications they use.</li>
+<li>
+Bring solutions to the table which meaningfully improve quality and efficiency of the organization.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Qualifications</b></p>
+<ul>
+<li>
+Consumer products industry experience across multiple companies</li>
+<li>
+Understanding of controls and the need for segregation of duties in an ERP system.</li>
+<li>
+Ability to work in a fast-paced environment</li>
+<li>
+Demonstrated success in multi-tasking on several major initiatives concurrently</li>
+<li>
+Strong written and documentation skills, including writing software user guidelines</li>
+<li>
+Willing to work on a variety of business platforms and solutions</li>
+<li>
+Experience working in $100M to $300M+ sized entrepreneurial company</li>
+<li>
+Exceptional strong work ethic with ability to do what it takes to get the job done</li>
+<li>
+Outstanding communication abilities</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Skill</b> <b>Sets</b></p>
+<ul>
+<li>
+Prior experience working in a consumer goods distribution organization</li>
+<li>
+Broad knowledge of business processes including sales and distribution, supply chain management, procurement, general ledger, inventory management, and accounts payables/accounts receivables.</li>
+<li>
+Experience in implementing and supporting a supply chain management system</li>
+<li>
+Strong familiarity with B2B and B2C and e-commerce systems such as AWS, Shopify, Magento, Channel Advisor</li>
+<li>
+Five (5) years’ experience with SQL programming, preferably with MS SQL Server</li>
+<li>
+Five (5) years’ solid ERP experience, preferably with SAP Business One</li>
+<li>
+Three (3) years of Crystal Reports and/or Business Intelligence experience</li>
+<li>
+Experience with collaboration, productivity, and workflow-based solutions</li>
+<li>
+Exposure to X12 EDI and various service provider portals such as SPS Commerce, True Commerce</li>
+<li>
+Broad knowledge of supporting Windows 10 and Mac OS workstations and laptops and having a sufficient background to troubleshoot common issues</li>
+<li>
+Broad knowledge of connecting and setting up various PC workstations, audio video devices</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Technical/Industry Requirements</b></p>
+<ul>
+<li>
+Requires strong applications experience with ERP systems</li>
+<li>
+Successful implementation of e-commerce systems</li>
+<li>
+Successful in creating interface solutions into ERP, e-commerce, and other business systems</li>
+<li>
+Experience working with and implementing decision support systems</li>
+<li>
+Experience working in a model utilizing outside resources and working in a cloud environment</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Education Requirements</b></p>
+<ul>
+<li>
+BS/BA in computer science, engineering, or relevant field or equivalent</li>
+<li>
+CompTIA A+ PC Technician certification or equivalent</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Work Environment</b><br>
+This job operates in a professional office environment. This role routinely uses standard office equipment such as computers, phones, photocopiers, filing cabinets and fax machines.</p>
+</div>
+</div>

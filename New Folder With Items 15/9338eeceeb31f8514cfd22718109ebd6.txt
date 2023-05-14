@@ -1,0 +1,46 @@
+<h2>Jr. Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Basic Function: </b></p>
+<p>Designs, modifies, develops, writes and implements software programming applications. Supports and/or installs software applications/operating systems. Participates in the testing process through test review and analysis, test witnessing and certification of software. Requires a Bachelor's Degree in a related area and 2-4 years of experience in the field or in a related area. Familiar with standard concepts, practices, and procedures within a particular field. Relies on limited experience and judgment to plan and accomplish goals. Performs a variety of tasks. Works under general supervision; typically reports to a manager. A certain degree of creativity and latitude is required. The ideal candidate will have skill and knowledge of C, C++, Java, .NET, WebSphere, J2EE, ADO, HTML, JSP, JavaScript, Web services, SOAP, XML, EGL, RPG/ILE, JSP, SQL, Oracle, Linux, STL, XSLT, AJAX, J2ME, J2SE programming Mobile devices , Windows, iSeries and Linux based systems. This candidate must have master skills using Eclipse and/or IBM Rational Application Developer tools.</p>
+<p><b>Principal Responsibilities: </b></p>
+<ul>
+<li>Full lifecycle application development.</li>
+<li>Designing, coding and debugging applications in various software languages.</li>
+<li>Software analysis, code analysis, requirements analysis, software review, identification of code metrics, system risk analysis, software reliability analysis.</li>
+<li>Object-oriented Design and Analysis (OOD and OOA).</li>
+<li>Software modeling and simulation.</li>
+<li>Front end graphical user interface design.</li>
+<li>Software testing and quality assurance.</li>
+<li>Support, maintain and document software functionality.</li>
+<li>Integrate software with existing systems.</li>
+<li>Evaluate and identify new technologies for implementation.</li>
+<li>Project Planning and Project Management.</li>
+<li>Maintain standards compliance.</li>
+<li>Implement localization or globalization of software.</li>
+<li>Build and modify Enterprise applications, develop web applications, and client server applications.</li>
+<li>Develop modifications and enhancements to application software as directed by your manager.</li>
+<li>Perform service calls on application software if operations group cannot resolve.</li>
+<li>Follow software development best practices to ensure compliance with MIS standards.</li>
+<li>Develop project plans and meet schedules. Demonstrate working software frequently.</li>
+<li>Generate all documentation required in the software development process, including software requirement specifications, software design descriptions, verification and validation plans, and other items as required.</li>
+<li>Write test plans for each level of software verification, including unit tests, functional tests, integration test, and system tests. Take personal responsibility to ensure that tests are carried out properly.</li>
+<li>Participate in team reviews to communicate and validate decisions.</li>
+</ul>
+<p><b>Personal Skills/Attributes/Qualifications: </b></p>
+<ul>
+<li>Strong interpersonal, oral and written communication skills needed.</li>
+<li>Proficiency in Web Design, JAVA , SQL, Data Modeling, Modern programming Languages and Eclipse/IBM Rational Tools.</li>
+<li>Programming experience in Retail/Wholesale systems environment.</li>
+<li>Ability to exercise independent judgment.</li>
+</ul>
+<p><b>Required Experience And Education: </b></p>
+<ul>
+<li>Bachelor’s Degree required.</li>
+<li>2-4 years hands on software application development.</li>
+<li>Agile Development process experience desired.</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $45,000.00 /year</p>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+</div>

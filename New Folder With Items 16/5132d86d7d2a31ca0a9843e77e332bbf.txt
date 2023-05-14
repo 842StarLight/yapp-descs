@@ -1,0 +1,54 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Vagarois looking for a talented full stack software engineer to join ourCommunication Platform Development Team. You will be involved in buildingsoftware applications that power intelligent chatbots and virtual voiceassistants. Your mission will be to enhance the user experience for Vagaro’sB2B and B2C audiences.</p>
+<p>Thisrole will report directly to Director of Software Engineering and beinstrumental in leading junior engineers towards team success. Cross functional communication skills are amust. The successful candidate will be comfortable working independently andpossess a sound analytical mind along with a strong problem-solving aptitude.</p>
+<p><b>Perks: </b></p>
+<p>· 15 Days PTO</p>
+<p>· 8 Company Holidays.</p>
+<p>· 401 k Retirement plan with matching.</p>
+<p>· Healthcare, Dental &amp; Vision plans forindividuals and families.</p>
+<p>· Discounted tickets.</p>
+<p>· Work/Life &amp; EAP</p>
+<p>· Access to building fitness &amp; amenities hub</p>
+<p>· Snacks (of course)</p>
+<p><b>Responsibilities: </b></p>
+<p>· Map out human-computer interaction scenarios</p>
+<p>· Develop intention classification andrecognition mechanisms</p>
+<p>· Plan and execute project life cycle from requirementto deployment and from production to continuous improvement</p>
+<p>· Design and implement scalable application inmicroservice environment</p>
+<p>· Drive rapid prototyping and iterativedevelopment</p>
+<p><b>Qualifications &amp; Education: </b></p>
+<p>· 5+ years of experience and solid knowledge onMVC and MVP design patterns</p>
+<p>· 5+ years of application development experiencewith JavaScript, popular JS frameworks (React, Angular) and Node.js</p>
+<p>· 5+ years of application development experiencewith C# or Java</p>
+<p>· 3+ years of experience working with relationaland NoSQL databases</p>
+<p>· Experience with HTML5, CSS3, Bootstrap</p>
+<p>· Experience with messaging queue/bus/brokersystem (RabbitMQ, Kafka)</p>
+<p>· Experience with containers (Kubernetes, DockerSwarm)</p>
+<p>· It is a plus to have experience on thefollowing: Twilio platform, Alexa Skills, Redis, MongoDB, Elasticsearch, Druid,NLP, ML, Luis, TensorFlow</p>
+<p>· BS degree in Computer Science, Mathematics, orrelated engineering disciplines, MS or above preferred</p>
+<p><b>About the Team: </b></p>
+<p>TheCommunication Platform Development Team is building next-gen immersive communicationchannels between services and users. Youwill be instrumental in shaping the architecture for this platform as well as growyour technical and inter-personal skills in a collaborative environment. Join us if you are up to the challenge.</p>
+<p><b>About the Company: </b></p>
+<p>Vagaro,Inc. develops all-in-one business management platforms and powerful onlinemarketplaces for the salon, spa and fitness industries. More than 110,000 professionals in the UnitedStates, Canada, the United Kingdom and Australia use Vagaro’s cloud-basedsoftware to manage all aspects of their operations and to market their servicesto local customers. Consumers chooseVagaro to search for and book services in their community at their convenience. Vagaro is easy-to-use and works on anydevice. Learn more by visiting https://www.vagaro.com andhttps://sales.vagaro.com.</p>
+<p>Comejoin Team Vagaro to play a key role in the continued growth of our company!</p>
+<p>Job Type: Full-time</p>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+</ul>
+<p>This Company Describes Its Culture as:</p>
+<ul>
+<li>Detail-oriented -- quality and precision-focused</li>
+<li>People-oriented -- supportive and fairness-focused</li>
+<li>Team-oriented -- cooperative and collaborative</li>
+</ul>
+</div>

@@ -1,0 +1,96 @@
+<h2>Senior Consulting Engineer-Network/Data Center</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>CDW’s vision is to be the best national provider of Advanced Technology Solutions. We will achieve this reputation by continuing to delight our customers and being the employer of choice for Advanced Technology Solutions. Senior Consulting Engineers at CDW are smart, hard-working Engineers who enjoy teaming with other best and brightest Engineers on highly visible, technically challenging projects and offerings. We are looking for high-caliber, well-rounded professionals who are passionate about emerging technology, projects and consulting.<div>
+<br>
+<div>
+Key Areas of Responsibility</div>
+<div><ul>
+<li><div>
+Work with clients to define, develop, and deliver appropriate software / hardware solutions for customer’s data center.</div></li>
+<li><div>
+Follow life-cycle oriented processes and procedures.</div></li>
+<li><div>
+Troubleshoot, maintain, upgrade, and provide solutions to complex hardware/software problems.</div></li>
+<li><div>
+Assist in the management of projects using CDW's project management methodology.
+</div></li>
+<li><div>Ensure a stable performance environment for enterprise computer applications.
+</div></li>
+<li><div>Participate in various IT projects intended to continually improve/upgrade converged network solutions.</div></li>
+<li><div>
+Create and execute test plans to meet project requirements for assigned components.</div></li>
+<li><div>
+Identify and communicate potential opportunities for cross-selling to the sales team.</div></li>
+<li><div>
+Manage time and expense to meet or exceed expectations defined in the Statement of Work.</div></li>
+<li><div>
+Provide high quality content deliverables using the appropriate document templates.</div></li>
+<li><div>
+Ensure solution is implemented as designed to the customer’s satisfaction and approval.</div></li>
+</ul></div>
+</div>
+<p><b>
+Qualifications</b>
+</p>
+<div>Education and/or Experience Qualifications</div>
+<div>
+<ul>
+<li>
+Bachelor degree in business, computer science, a related technical degree or equivalent</li>
+<li>
+Five years’ experience delivering complex technical solutions including planning, development, implementation and support</li>
+</ul>
+Other Required Qualifications<br>
+<ul>
+<li>Minimum of two years consulting experience</li>
+<li>
+Minimum of one year experience in programming or analytical work</li>
+<li>
+Fluent with Design and Implementation of Cisco networking technologies, including ACI, VXLAN, UCS, advanced switching, routing, and firewall technologies</li>
+<li>
+Knowledge of Cisco network equipment including: Cisco Nexus 9000 / 7000 / 5000 / 2000 series of Data Center switches running both NX-OS and ACI code, Cisco Catalyst 9000 / 6500 / 4500 / 3850 / 3750 series of Campus switches, Cisco UCS B and C-Series compute, and ACI APIC Controllers.
+</li>
+<li>Knowledge of network/internet Protocols/Services such as OSPF, EIGRP, BGP, VXLAN, LACP, DNS, TCP/IP, and VPN.</li>
+<li>
+Knowledge of Layer 2 &amp; 3 Switching
+</li>
+<li>Ability to manage and deploy network changes, including firewalls and access lists</li>
+<li>
+Knowledge of VMware solutions including vSphere, vCenter, and NSX a plus</li>
+<li>
+Knowledge of automation and programmability using Ansible and Python a plus.</li>
+<li>
+Knowledge of Storage Area Networking (fiber channel switches) a plus
+</li>
+<li>Knowledge of security issues and implications to network solutions a plus
+</li>
+<li>CCNP or significant progress towards it required</li>
+<li>
+Ability to work weekends and/or off hours as necessary to meet clients' needs
+</li>
+<li>Ability to effectively communicate with clients
+</li>
+<li>Strong written and verbal communication skills with the ability to effectively interact with all stakeholders</li>
+<li>
+Proven ability to maintain and create technical documentation for the enterprise-level customers</li>
+<li>
+Strong analytical skills with the ability to demonstrate solid attention to detail and a penchant for accuracy</li>
+<li>
+History of balancing competing priorities with the ability to adapt to the changing needs of the business while meeting deadlines</li>
+<li>
+Attention to detail on inventory and logistics is important</li>
+<li>
+Physically able to push, pull or lift up to 50 pounds of equipment. The team lift system must be utilized for loads weighing more than 50 pounds</li>
+<li>
+Ability and willingness to travel up to 50% or as needed to other CDW locations or client sites
+</li>
+</ul>Preferred Qualifications<br>
+<ul>
+<li>CCIE Preferred</li>
+<li>
+Hands-on experience in a large Data Center environment is beneficial</li>
+</ul>
+</div>
+</div>
+</div>

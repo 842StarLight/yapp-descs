@@ -1,0 +1,122 @@
+<h2>Technical Specialist, Medical Data - IntelliScript</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>
+<div>Job Details</div>
+</div>
+<div>
+<p>Description</p>
+</div>
+<div>
+<div>
+<p>Milliman, Inc. is recognized as one of the top firms providing professional services to the insurance industry. Milliman IntelliScript is a specialty software-as-a-service (SaaS) practice of Milliman that provides valuable real-time data and underwriting decision support tools, primarily to health and life insurers. With deep understanding and expertise in the life and health insurance markets, IntelliScript offers an innovative suite of products to interpret and deliver electronic medical data (such as prescription histories, diagnoses, treatment data, etc.) to help clients make effective underwriting and risk management decisions. IntelliScript has averaged 30% annual sales growth over the last several years.</p>
+<p>
+As part of Milliman, IntelliScript offers a unique, entrepreneurial, balanced environment, as well as competitive compensation and benefits. We are looking for collaborative people who are ready to be part of our long-term success. Visit our LinkedIn page for a closer look at our company and culture: Milliman IntelliScript on LinkedIn</p>
+<br>
+<p>
+<b>
+Opportunity Highlights</b></p>
+<ul>
+<li>Responsibility for real projects with proven technology</li>
+<li>Innovation and ideas are always welcome at IntelliScript, and success is highly visible</li>
+<li>Enjoy autonomy to work independently with strong trust and communication among the team</li>
+<li>Milliman demonstrates work-life balance through a variety of perks and programs, as well as opportunities for training and networking.</li>
+</ul>
+<p><br>
+<b>Expectations</b></p>
+<p>
+Offering tremendous ROI, the Milliman IntelliScript Irix™ rules engine provides our clients with intelligent analysis of prescription histories and other medical data. Irix enables life and health insurance underwriters to make better decisions by generating comprehensive, customized reports that reduce the time needed for risk analysis.</p>
+<p>
+As part of the Medical Data (Dx) team, the Technical Specialist will be responsible for supporting team processes at macro and micro levels. This is the perfect role for a person who enjoys collaboration as well as opportunity to work autonomously.</p>
+<br>
+<p>
+<b>
+Responsibilities</b></p>
+<ul>
+<li>Implement Medical Data client study documentation
+<ul>
+<li>Create Rule Results spreadsheets with study details and stats</li>
+<li>Enter client decisions / other table changes and validate tables</li>
+<li>Recommend changes to Logic Maps (Visio) based on changes to rules</li>
+<li>Create and maintain documentation of processes and procedures</li>
+</ul>
+</li>
+<li>Research and develop Medical Data specifications for system changes</li>
+<li>Business analysis and documentation to fulfill internal and external requests, i.e. research and answer client questions relating to rules</li>
+<li>Help us to continue to automate whenever possible, such as creating/maintaining macros to automate documentation or other processes</li>
+<li>Use Microsoft SQL</li>
+</ul>
+<p>Create and run reports on rules and applicant decisions</p>
+<ul>
+<li>Analyze rules and impact of changes</li>
+<li>Identify trends in data</li>
+<li>Investigate codes and incidence for future bucketing</li>
+</ul>
+<ul>
+<li>Develop in-depth knowledge of our industry and business
+<ul>
+<li>Understand IntelliScript business (Product demo, study, rules)</li>
+<li>Learn underwriting process and concepts by attending courses and conferences</li>
+<li>Use SQL to answer business questions</li>
+</ul>
+</li>
+<li>Learn how to use InRule (rules engine software), in order to:
+<ul>
+<li>Define and document Medical Data rule changes</li>
+<li>Review changes implemented by others</li>
+<li>Run/write SQL queries to find test cases</li>
+</ul>
+</li>
+<li>Proactively move issues to resolution</li>
+<li>Explore new product opportunities, research relevant technical implementation issues</li>
+<li>Use macros in Excel and Visio to ensure that client-requested changes to rule decisions are consistent and sensible</li>
+</ul>
+<p><b>Professional Qualifications</b></p>
+<ul>
+<li>3 or more years of professional experience</li>
+<li>Completed Associates degree or higher</li>
+<li>Knowledge and experience with using C#, SQL or other programming language(s)</li>
+<li>Familiarity with Excel: using/creating complex formulas, importing/exporting data from various sources, sorting/filtering, macros, Visual Basic, etc.</li>
+</ul>
+<p><br>
+<b>Personal Qualifications</b></p>
+<ul>
+<li>Demonstrated “let’s find a way to do it” attitude – no task is too big or too small</li>
+<li>Self-driven to assess a need, research the situation, then present a resolution</li>
+<li>Ability to understand and communicate with audiences that are both technically and not technically minded</li>
+<li>Detail oriented</li>
+<li>Ability to manage a variety of simultaneous projects/tasks</li>
+<li>Equally comfortable working autonomously, and collaboratively</li>
+<li>Willing to take on new tasks over time</li>
+<li>Loves to learn, takes every opportunity they’re given to develop knowledge and skills</li>
+<li>Adapts to an established process, able to move projects along in a timeframe</li>
+<br>
+</ul>
+<p><b>
+</b></p>
+<p><b>Preferred</b><b> (Not Required)</b></p>
+<ul>
+<li>Continued education, degree, certification(s), and/or professional training in economics, business, math, stats, computer science, information systems experience in software, financial services, actuarial science and/or insurance underwriting industry</li>
+</ul>
+<ul>
+<li>Strong experience in C# and SQL</li>
+<li>Knowledge of or willingness to learn InRule and the InRule SDK, Wrike, and Visio</li>
+<li>Past experience working in a HIPAA/PHI/PCI compliant environment</li>
+</ul>
+<p><br>
+<b>Location</b></p>
+<ul>
+<li>This position will be based out of the Milliman office in Brookfield, WI. Applicants must be willing to work onsite in the Milliman office.</li>
+</ul>
+<p><br>
+Applicants must be presently authorized to work in the United States on a full-time basis. The IntelliScript Practice does not sponsor individuals for the purpose of obtaining or maintaining H-1B, O-1, TN, or other non-immigrant work authorizing status for this position.</p>
+</div>
+<br>
+</div>
+</div>
+<p></p>
+<div><div>
+<p>Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities</p>
+<p>The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.</p>
+</div></div>
+</div></div>

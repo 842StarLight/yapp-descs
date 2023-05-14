@@ -1,0 +1,140 @@
+<h2>CRM Conversion Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>It's fun to work in a company where people truly BELIEVE in what they're doing!
+</p>
+<p></p>
+<p><i>We're committed to bringing passion and customer focus to the business.
+</i></p>
+<p></p>
+<p><b>Job Description Summary:
+</b></p>
+<p></p>Envestnet | Tamarac provides an integrated, web-based suite of portfolio and client management software for independent advisors and wealth managers. Tamarac's technology offering is further complemented by a range of outsourced portfolio accounting services and enabling advisors to spend more time with clients and growing their business. Tamarac, a division of Envestnet, Inc. (NYSE:ENV), is a leading independent provider of technology-enabled investment and practice management solutions for independent financial advisors, as well as small and mid-sized financial advisory firms and larger financial institutions. Tamarac serves over 900 RIA firms, collectively managing more than $1 Trillion in assets. Investment Advisors that use Tamarac's solution range in size from managing less than $10 million in assets to over $10 billion. Tamarac was founded in 2000 and is headquartered in Seattle, WA.
+<p></p>
+<p><b>Job Description:
+</b></p>
+<p></p>
+<p><b>Bird’s eye view of your role – </b>We are looking for an innovative, client-focused, experienced CRM Conversion Consultant to support our growing 365 onboarding and services team. Excellent candidates will be collaborative, continually improving and work well in a rapidly growing, vibrant workplace. Your role will be responsible for ensuring successful data migrations and assisting with PowerApps development.<br>
+</p>
+<p><br>
+<b>What will you bring - </b>You are a team player with minimal supervision, work cross-functionally and closely with services, project management, account management, development, product management and sales to onboard, service and consult with multiple Tamarac CRM clients. You continually seek to improve our processes and train our people. It really helps if you have a deep understanding of SQL. This is an opportunity you do not want to miss! Great team, great company, and a great place to learn and grow.
+<br>
+<br>
+<b>What competencies will you have – </b>Commitment to quality, team success, superb skills, responsiveness and a sense of humor!
+<br>
+<br>
+<b>Your key responsibilities will be –
+</b></p>
+<p><b>Client Engagement
+</b></p>
+<ul>
+<li>Work with clients to create a mapping key for their data conversion; be able to help a client decide where their data should go in Tamarac CRM and effectively communicate best practices and alternate solutions
+</li>
+<li>Create and deliver to all stakeholders all associated documents for each data migration within the project timeframe: Mapping documents, UAT, and Post-Conversion Clean-Up
+</li>
+<li>Provide estimates of project hours for new clients and existing clients
+</li>
+<li>Identify alternate solutions for requests defined as out-of-scope
+</li>
+<li>Build CRM customizations including but not limited to Dynamics processes, entity/object changes and other CRM features as defined in the project plan or statement of work
+</li>
+<li>Participate in online presentations with clients to assist in data mapping and UAT
+</li>
+<li>Document client communication succinctly in the appropriate communication tool
+</li>
+<li>Be able to speak to clients about complex issues and/or solutions in a concise, professional, positive manner
+</li>
+</ul>
+<p><b>Team Engagement
+</b></p>
+<ul>
+<li>Partner with team members, Trivandrum (TRV) Conversion Team, Project Management and Account Management to ensure successful completion of projects; new client implementations and client mergers
+</li>
+<li>Deliver mapping key to TRV team with clear instructions for conversion; help answer questions and act as a liaison between TRV and client
+</li>
+<li>Collaborate with Project Management to manage onboarding and SOW projects with scope, quality and schedule.
+</li>
+<li>Proactively manage risks, assumptions, issues, and dependencies, ensuring that they are identified, mitigated or escalated as necessary.
+</li>
+<li>Proactively manage project scope, identify potential challenges, and devise solutions to keep projects on task and within scope
+</li>
+<li>Be able to write SQL for data conversion to assist the TRV conversion team
+</li>
+<li>Partner with TRV Conversion Team to review and audit data migration projects for accuracy and completion of work prior to delivering sites to clients
+</li>
+<li>Work with CRM Consultant to create and test work processes in Advisor CRM
+</li>
+<li>Effectively communicate expectations to internal and external stakeholders in a timely and clear fashion
+</li>
+<li>Provide guidance and direction to consultants and service team members on CRM related projects and tickets
+</li>
+<li>Collaborate cross functionally to provide responsive support to escalated customer issues.
+</li>
+<li>Establish and maintain a positive and professional relationship with clients and team members.
+</li>
+</ul>
+<p></p>
+<p><b>You will have –
+</b></p>
+<ul>
+<li>2+ years of Microsoft SQL Server Management Studio or Visual Studio experience
+</li>
+<li>1+ years with Microsoft Dynamics CRM including Dynamics 365 for Sales and Microsoft Dynamics CRM 2016
+</li>
+<li>6 months+ of O365 development in PowerApps, Flow, Power BI, Teams or SharePoint Online.
+</li>
+<li>Experience in documenting and creating D365 processes including workflows, business process flows and mobile task flows
+</li>
+<li>Understanding of the Microsoft 365 ecosystem including Office 365, Dynamics 365, PowerApps and Microsoft Flow
+</li>
+<li>Ability to work as part of a team with minimal supervision in a results-oriented, fast-paced dynamic environment
+</li>
+<li>Detail oriented with an ability to support multiple initiatives
+</li>
+<li>Provide creative solutions to solving challenging problems
+</li>
+<li>Bachelor of Science or more advanced degree in Information Management, Business, Finance or similar
+</li>
+<li>Not afraid to question existing processes and provide ideas for improvement
+</li>
+<li>Very good interpersonal skills, critical thinking, written and oral communication skills, and strong technical documentation skills required
+</li>
+<li>Proficiency in Microsoft Office programs required
+</li>
+</ul>
+<p><b>We would love for you to have –
+</b></p>
+<ul>
+<li>Professional experience in financial services sphere, specifically the registered advisory, brokerage or financial services industry
+</li>
+<li>Certification in Microsoft Dynamics 365 for Customization/Configuration, Microsoft Dynamics 365 for Sales and Microsoft Dynamics 365 for Online Deployment
+</li>
+</ul>
+<p></p>
+<p><b>How will your lofty goals be translated into specific actions / short term goals -
+</b></p>
+<p>Within first 30 days, you will quickly get familiarized with systems and current process and tools By the end of the first quarter, you should have mentored others and made an impact in processes.
+</p>
+<p></p>
+<p><b>What’s in it for you? (EVP – Employee Value Proposition) -
+</b></p>
+<ul>
+<li>Learn, explore and contribute towards technologies, organization and self-growth by working with technology experts and architects within the organization
+</li>
+<li>Participate, grow and influence design and feature delivery on various products across the organization
+</li>
+<li>Work on new technologies
+</li>
+<li>Be a member of a leading fintech company, innovators in personal finance management and aggregation space and products innovation company
+</li>
+<li>Earn a competitive compensation package with unique benefits and facilities
+</li>
+</ul>
+<p></p>
+<p><b>NOTE: </b><i>This is intended to describe the general content of and qualifications for the job. It is not intended as an exhaustive statement of all functions, duties, or desired qualifications.
+</i></p>
+<p></p>
+<p><b>Envestnet | Tamarac is an Equal Opportunity Employer
+</b></p>
+<p></p>
+<p><i>If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!</i></p>
+</div></div>

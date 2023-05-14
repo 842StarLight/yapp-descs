@@ -1,0 +1,66 @@
+<h2>Salesforce Developer, Assistant Vice President</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>Do you want your voice heard and your actions to count?<br>
+<br>
+Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), the 5th largest financial group in the world (as ranked by S&amp;P Global, April 2018). In the Americas, we’re 13,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, developing positive relationships built on integrity and respect. It’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. We’re a team that accepts responsibility for the future by asking the tough questions and owning the solutions. Join MUFG and be empowered to make your voice heard and your actions count.<br>
+<br>
+<b>Salesforce Developer, Assistant Vice President</b><br>
+<br>
+<b>Summary:</b><br>
+Develop and maintain existing web applications. Primarily focus on Salesforce solution. Develop enterprise application with the latest web technologies and alignment to Project Life cycle guidelines.<br>
+<br>
+<b>Major Responsibilities:</b><div><ul>
+<li>
+Design and develop enterprise web application using Salesforce as the platform.</li>
+<li>
+Develop integrations and services between legacy systems and Salesforce.</li>
+<li>
+Develop ad-hoc reports as requested by user groups or partners, performs analysis on data as required.</li>
+<li>
+Works within established procedures to develop, test, implement, and maintain application software.</li>
+<li>
+Participate in software development on the Salesforce.com platform using Agile/Scrum methodologies.</li>
+<li>
+Maintain high customer satisfaction through the delivery of high quality, timely and thorough solutions to customer problem</li>
+<li>
+Collect system and design requirements, conduct analysis and establish metrics of success.</li>
+<li>
+Support, maintain and integrate current application with Salesforce projects initiative.</li>
+<li>
+Perform data migration and data analysis activities.</li>
+</ul></div>
+<br>
+<p></p>
+Qualifications:<br>
+<p></p>
+<ul>
+<li>Bachelors in Computer Application or Information Technology or Masters a plus</li>
+<li>
+Experience programming in JavaScript, JQuery, ,HTML,CSS, Visualforce Pages and Apex</li>
+<li>
+3-5 years Deep understanding of Salesforce .com’s SOQL and SOSL, SOAP and REST Web Services, Salesforce .com’s security model Service/Sales Cloud and chatter</li>
+<li>
+Proficiency with Salesforce.com development including creation of standard and custom objects and fields etc.</li>
+<li>
+Salesforce lightning experience is a requirement.</li>
+<li>
+Ability to effectively prioritize and complete multiple development tasks</li>
+<li>
+Ability to work in a dynamic, often-changing environment</li>
+<li>
+Strong analytical skills and attention to detail</li>
+<li>
+Financial Industry experience is nice to have.</li>
+<li>
+Salesforce Certifications required</li>
+<li>
+Salesforce Certified Administrator</li>
+<li>
+Salesforce Certified Advanced Administrator</li>
+<li>
+Salesforce Certified Developer</li>
+</ul>
+<br>
+The above statements are intended to describe the general nature and level of work being performed. They are not intended to be construed as an exhaustive list of all responsibilities duties and skills required of personnel so classified.</div>
+</div>

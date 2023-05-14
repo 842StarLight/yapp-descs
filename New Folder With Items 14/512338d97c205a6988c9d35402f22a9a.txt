@@ -1,0 +1,142 @@
+<h2>Senior Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>At Veeva, we build enterprise cloud technology that powers the biggest names in the pharmaceutical, biotech, consumer goods, chemical &amp; cosmetics industries. Our customers make vaccines, life-saving medicines, and life-enhancing products that make a difference in everyday lives. Our technology has transformed these industries; enabling them to get critical products and services to market faster. Our core values, Do the Right Thing, Customer Success, Employee Success, and Speed, guide us as we make our customers more efficient and effective in everything they do.</div>
+<div>
+<br>
+</div>
+<div><b>
+The Role</b></div>
+<div>
+<br>
+</div>
+<div>
+The Senior Salesforce Developer will be responsible for design, development, testing and delivery in support of full application lifecycle projects, utilizing both commercial and custom-developed software through a partnership with Business and Technology stakeholders throughout the organization.</div>
+<div>
+<br>
+</div>
+<div>
+The Senior Developer must be able to communicate and interface well with peers and user groups who have varying degrees of technical ability. He/she must have the ability to understand documented and verbal user requirements and be able to translate these into a technical reality that is efficient, extendable and maintainable.</div>
+<div>
+<br>
+</div>
+<div>
+To succeed in this role, you must be able to work directly with the Force.com platform, diagnose and resolve technical issues, and implement customized applications. You must be motivated, a self–starter, detail oriented, have excellent problem-solving skills, and take ownership of work. You must thrive on working with complex problems and finding and creating simple solutions that address business needs.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>What You'll Do</b></h3>
+<div><ul>
+<li>
+Serve as a lead technical designer/developer for Sales &amp; Marketing applications, centred around the Salesforce.com platform; understand and communicate functionality, identify risks, manage change and design solutions that are scalable and cost-effective.</li>
+<li>
+Partner with various product owners and stakeholders from Sales, Marketing, Services and Finance to implement and roll out new cloud applications, integrations and platform enhancements.</li>
+<li>
+Collaborate with business teams, members of other IT departments and liaise effectively with external vendor development teams in the achievement of business objectives.</li>
+<li>
+Gather, analyze and document technical requirements for new projects, enhancements to existing solutions and correction of production issues reported by end users.</li>
+<li>
+Perform application configuration and deployment activities in Salesforce.com and other IT-supported platforms.
+</li>
+<li>Work with middleware platforms to design, develop and deploy integration services which operate efficiently and accurately in a global environment. Experience with iPaaS platforms is preferable.</li>
+<li>
+Participate in product/platform selection processes. Recommend build vs. buy when it comes to integrations with internal systems or external services.</li>
+<li>
+Partner with business stakeholders to analyze, understand and improve sales &amp; marketing operations to support employee productivity and customer success.</li>
+<li>
+Design and document system data flows, integration mappings, object models, and other relevant technical aspects of the platform. Develop and maintain system documentation library.</li>
+<li>
+Ability to design scalable enterprise solutions and write technical specifications and non-functional requirements for other team members and/or development partners.</li>
+<li>
+Audit and enforce code development standards, sandbox strategies and implementation best practices. Perform code reviews throughout the development cycle and serve as mentor to junior staff.</li>
+<li>
+Operate effectively using Agile and Scrum application development methodologies and support continuous improvement of technical delivery processes.</li>
+<li>
+Ability to dive deep and research system issues, resolve user problems and escalate as necessary.</li>
+<li>
+Assist in the creation and execution of unit, integration, regression and user acceptance test plans, including business use cases and generation of test data.</li>
+<li>
+Support &amp; execute change control best practices and ongoing management of internal SDLC processes along with promoting changes to production environments per established standards.</li>
+<li>
+Must be flexible to engage on a wide spectrum of projects and exhibit capacity to quickly learn new skills &amp; technologies when necessary.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Requirements</b></h3>
+<div><ul>
+<li>
+Must possess an open mind to embrace new technologies, development techniques and project methodologies.</li>
+<li>
+BS degree in Software Engineering, Information Systems, Computer Science or equivalent work experience.</li>
+<li>
+5+ years of direct work experience in Salesforce/Force.com development, preferably supporting Sales &amp; Marketing solutions, with 3+ years serving in a senior role.</li>
+<li>
+Experience with leading and coordinating development efforts across a hybrid team of both internal and external developers residing in distributed locations.</li>
+<li>
+Demonstrated understanding and proficiency in APEX language, triggers, controllers, components, Visual Force, Force.com SOAP/REST APIs, outbound messaging and JSON.</li>
+<li>
+3+ Years of Experience with client-side scripting (Javascript).</li>
+<li>
+Solid understanding of object-oriented development concepts and design patterns.</li>
+<li>
+Strong functional understanding of Salesforce.com usage within an integrated, full-cycle, lead-to-cash operational environment that is global in scale.
+</li>
+<li>Prior design and development experience with Salesforce community sites and customer self-service portals is beneficial.</li>
+<li>
+Previous experience in integrating Salesforce with Marketing Automation platforms is desirable. Working knowledge of Pardot is a plus.</li>
+<li>
+Proven experience with enterprise-scale integration methodologies, platforms and techniques supporting data exchange to-and-from Salesforce.com. Prior integration development using the Dell Boomi platform is preferred.</li>
+<li>
+Must be comfortable analyzing data, identifying trends and correcting data quality issues</li>
+<li>
+Strong and effective written, verbal and presentation skills with the ability to collaborate with team members and business stakeholders at all levels of the organization.</li>
+<li>
+Must be comfortable with juggling multiple priorities with the ability to manage time effectively.</li>
+<li>
+Excellent problem-solving, analytical and investigative skills.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Nice to Have</b></h3>
+<div><ul>
+<li>
+Achieved or working towards Platform Developer I / II certifications.</li>
+<li>
+Development experience using Salesforce Lightning framework, Einstein Analytics and/or Heroku is beneficial.</li>
+<li>
+Experience creating and executing unit, integration and user acceptance test plans is preferred.</li>
+<li>
+Assist in the definition of business process models using best practice techniques, including current and future state solution design documentation.
+</li>
+<li>Occasionally may be required to assist in the management of projects, including project plans, status meetings, progress reports and initiation/closure activities.</li>
+<li>
+Experience operating within an Agile/Scrum software development methodology.</li>
+<li>
+Prior usage of Agile project tracking tools such as JIRA, Confluence, etc. (or the like) is preferred.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Perks &amp; Benefits</b></h3>
+<div><ul>
+<li>
+Flexible PTO</li>
+<li>
+Allocations for continuous learning &amp; development
+</li>
+<li>Health &amp; wellness programs</li>
+</ul></div>
+</div></div>
+<br>
+<div>
+<div>
+</div>
+<div>
+<br>
+</div>
+<div>Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.</div>
+<div>
+<br>
+</div>
+<div><i>
+Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.</i></div>
+</div>
+</div></div>

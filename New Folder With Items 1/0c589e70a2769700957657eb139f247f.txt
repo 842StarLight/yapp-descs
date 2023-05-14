@@ -1,0 +1,39 @@
+<h2>POS Implementation Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>2 to 3 years’ experience in system implementation or information technology management or hospitality operations</li>
+<li>Be available to travel at least 90% of the year to both domestic and international customer sites with limited advanced notice</li>
+<li>Good understanding of business operations and accounting practices</li>
+<li>Dedication to customer service is a must</li>
+<li>Outstanding interpersonal skills and great team player</li>
+<li>Must be able to work independently with a high degree of self-initiative</li>
+<li>Knowledge of standard MS Office products</li>
+<li>Experience and equal comfort with Linux and Windows command line tools</li>
+<li>Admin experience for Linux-based AND Windows based systems or web servers</li>
+<li>Comfort with tools like tailing logs, managing configs, restarting daemons, ssh, grep, vim</li>
+<li>Experience troubleshooting networking issues at multiple levels – ports, protocols, levels, proxies</li>
+<li>Experience managing firewalls and/or debugging firewall related issues</li>
+<li>Bachelor's degree in related field and /or work experience in the hospitality and / or technology field(s)</li>
+<li>Experience implementing Point of Sale solutions (POS)</li>
+</ul>
+<p>Desired Qualifications</p>
+<ul>
+<li>Programming experience in Java or Python</li>
+<li>Degree or certificate in computer programming or computer science</li>
+<li>Exposure to / use of document database systems</li>
+<li>Exposure to / use of application level virtualization</li>
+<li>Experience with web service delivery in on-premise environments</li>
+<li>Experience in the F&amp;B industry and/or with POS systems</li>
+<li>Knowledge of database platforms</li>
+<li>Multi-lingual</li>
+<li>Industry experience relating to Inventory Procurement, Property Management Systems</li>
+</ul>
+<p>Key words: Software Implementation, POS Implementation</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>Implementing Point of Sale solutions (POS): 3 years (Preferred)</li></ul>
+<p>Location:</p>
+<ul><li>Las Vegas, NV (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Preferred)</li></ul>
+</div>

@@ -1,0 +1,61 @@
+<h2>Senior Customer Analytics Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Description</b><br>
+<br>
+The Sr. Customer Analytics Analyst is a customer data analytics expert for the L Brands Enterprise Analytics Department. The individual must be able to work independently, relying on their knowledge of our business and data to create analyses that give insight and direction to the business. The individual will query, summarize and interpret the customer purchase history, demographic data, model data, etc. to answer business questions critical to executing programs and driving long term brand strategy. This role requires top level, polished communication to not only deliver data, but answer the business problem and give the data/analysis context.<br>
+<br>
+RESPONSIBILITIES:<br>
+<br>
+SQL + SAS or R + EXCEL will be used daily. For a given set of business questions, extract the information from enterprise data-mart using SQL, transform and summarize that information with SQL/SAS or R, export and finalize the analysis within Excel then share and communicate the results via email or in person.<br>
+<br>
+Use statistical techniques such as clustering, regression analysis to build customer segmentation or predictive models to be used in marketing campaigns or relevant analyses.<br>
+<br>
+This role is a senior contributor to a department where high expectations are the norm. Top performers have opportunities to present findings directly to senior leaders across the organization and manage impactful projects driving millions of dollars in incremental sales. Therefore, the candidate must have very strong and confident communication skills where you can present and defend your findings and personal project management skills to stay organized and moving toward final goals. The Sr Analyst is expected to mentor junior members of the team when necessary.<br>
+<br>
+AD HOC ANALYSIS - prior experience in these areas is preferred but not required. We will train and make you an expert in specific areas mentioned.<br>
+<ul>
+<li>Support customer marketing planning and hindsight activities on direct mail, email and special offers.</li>
+<li>Manage a constant stream of varied ad-hoc analysis requests (opt-for bra rate, new customer analysis, basket analysis, long term repurchase rates, reward card and offer scan compliance, holiday hindsighting).</li>
+<li>Support customer analytics requests (who is our customer, how do customers shop promos, how has our customer changed over time etc)</li>
+<li>Develop and run custom dashboards to support cross functional partners that need information on customer</li>
+<li>Identify business growth opportunities based on current customer and market trends</li>
+<li>Make hard decisions and defend them. Comparing nearly identical courses of action, identify potential pro/cons, create a POV on the method going forward, defend your choice to others and build support by bringing others to your side.</li>
+</ul>
+<br>
+IMPORTANT INITIATIVES<br>
+<ul>
+<li>Lead a segment of work to answer a critical business question by applying your expertise of the business and system to (a) determine the set of metrics needed to answer the question, (b) the methods to pull and summarize that information (c) an analysis of the results + context, pulling out the insightful and impactful findings and (d) creation and presentation of your method and findings within a well-developed deck to senior leaders of the organization.</li>
+<li>Manage special projects or serve as a subject matter expert on project teams requiring customer data. Follow special projects through entire project lifecycle with participation in or leadership of planning, executing and closing of these initiatives.</li>
+</ul>
+<br>
+INNOVATION &amp; OUTREACH<br>
+<ul>
+<li>Identification of white-space opportunities within our group and surrounding operations.</li>
+<li>Identify statistical methods and rigor that would incrementally improve our results and analysis.</li>
+<li>Create new processes that can be applied to our current deliverables and add value to the business.</li>
+</ul>
+<br>
+<b>
+Qualifications</b><br>
+<ul>
+<li>Bachelor's degree in analytical field (Such as statistics, economics, mathematics, computer science etc); Advanced degree preferred (Master's or MBA)</li>
+<li>Knowledge of statistical concepts such as clustering, predictive modeling, significance testing etc.</li>
+<li>Capacity to manage multiple and competing demands/projects and deliver against aggressive goals.</li>
+<li>Strong interpersonal and communication skills including influence and leader engagement</li>
+<li>Rigorous attention to detail</li>
+<li>High level of analytical and business curiosity</li>
+<li>Flexible and creative problem solver</li>
+<li>Readily adapts and champion for change</li>
+<li>Personal professionalism and sense of accountability</li>
+</ul>
+<br>
+EXPERIENCE REQUIRED:<br>
+<br>
+<ul>
+<li>3-5 years professional experience in an analytical role, utilizing Excel often</li>
+<li>3+ years relational database analysis experience</li>
+<li>3+ years of high level programming experience (SQL, SAS, R, VBA, Java, Python, C-variant, Perl, others)</li>
+<li>3+ years of marketing and/or retail business experience preferred</li>
+</ul>
+<br>
+An equal opportunity employer, we do not discriminate in hiring or terms and conditions of employment because of an individual's race, color, religion, gender, gender identity, national origin, citizenship, age, disability, sexual orientation, marital status or any other protected category recognized by state, federal or local laws. We only hire individuals authorized for employment in the United States.</div></div>

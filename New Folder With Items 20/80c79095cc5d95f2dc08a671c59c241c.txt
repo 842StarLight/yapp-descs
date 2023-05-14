@@ -1,0 +1,20 @@
+<h2>Sales Agent</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Blank Space Advertising is looking for enthusiastic new sales agents! Blank Space Advertising offers specialized social media management for small to medium sized local businesses, and relies on their Sales Agents to establish contact and relay relevant information during contract set up.<br>Sales Agents are offered 299$ per business contracted, and will receive an additional 20% commission from the monthly fee accrued by each arranged business contract. Training for Sales Agents can be delivered either in person or online, and at least one business is expected to be contacted per week.</p>
+<p>Job Types: Full-time, Part-time</p>
+<p>Salary: $300.00 /week</p>
+<p>Experience:</p>
+<ul><li>Sales: 1 year (Preferred)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Commission</li></ul>
+<p>Physical Requirements:</p>
+<ul>
+<li>Walking</li>
+<li>Standing</li>
+</ul>
+<p>Management:</p>
+<ul>
+<li>Front End Manager</li>
+<li>Team Lead</li>
+</ul>
+</div>

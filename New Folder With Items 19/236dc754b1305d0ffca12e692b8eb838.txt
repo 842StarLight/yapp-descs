@@ -1,0 +1,41 @@
+<h2>Professional Services Engineer/Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Transmit Security is hiring a Professional Services Engineer Superstar to join our rapidly expanding Team. We are seeking an experienced Professional Services Engineer who is responsible for presenting product offerings and architecture in the best light to prospects and customers, to evoke confidence in company's technology infrastructure, and to remove all technical objections in the sales cycle. To accomplish this, the Professional Services Engineer must have a strong desire to leverage their Technical and Sales Skills, including the ability to solicit business requirements, develop technical sales strategies, configure and effectively demonstrate the solutions that address these requirements and provide business value.
+<br><br>
+Professional Services Engineer will be responsible for the following:
+<br><br>
+<ul>
+<li>The well-being of the Customer</li>
+<li>Monitoring &amp; overseeing customers' technical needs (including: Request for Enhancements, Request for Services, and Support Tickets)</li>
+<li>Manage all technical product-related queries and liaise between Resident Engineers, Professional Services, Client Services, and Development Team</li>
+<li>Understand Customer Projects, future strategies and tech road-maps</li>
+<li>Provide technical, product and business knowledge to strengthen customer relationship</li>
+<li>Priorities and manage Professional Services personnel tasks</li>
+<li>Point of contact for customer escalation</li>
+</ul>
+The Professional Services Engineer role is a combination of an Architect and a Project Manager. The goal is to be accountable for the Customer's success within the account (meaning that they will need to help the customer to maximize the value of the solution). The Professional Services Engineer will be responsible for managing the local Resident Engineer and will have access to the Professional Services Architect (including Professional Services Developers) &amp; Client Services resources and should prioritize the customer needs.
+<br><br>
+Qualifications
+<br><br>
+<ul>
+<li>Bachelor Degree in Engineering, Computer Science or related program</li>
+<li>5+ years of mobile and development experience</li>
+<li>5+ years of IAM, network and security experience</li>
+<li>Excellent interpersonal, verbal and written communication skills</li>
+<li>Communicate effectively with both internal staff and external clients</li>
+<li>Ability to work independently as well as part of a team</li>
+<li>Strong overall background in Enterprise architecture and design</li>
+<li>Strong overall mobile development skills. This includes native objective-c, Swift (iOS) and Java (Android) programming languages</li>
+<li>Strong background in development platforms such as Cordova, Ionic3, Phonegap, MobileFirst/Worklight</li>
+<li>Expertise with integrating third party mobile SDKs into both iOS and Android mobile applications</li>
+<li>Strong understanding of best practices and security applied to mobile application development</li>
+<li>Expertise with all aspects of transport as applied to mobile applications (connection handling, push notifications, client-side certificates/SSL, PKI on mobile)</li>
+<li>Expertise with Unix and native mobile operating systems</li>
+</ul>
+Solid understanding of Web applications, Web APIs (REST/JSON), web protocols, (i.e. http/s, JavaScript, SSL, DNS, proxies/caches, firewalls, etc..)
+<br><ul>
+<li>Support sales team on prospect conference calls, virtual meetings and onsite visits by providing product demonstrations expertly responding to technical questions and explaining features in the context of solving customer's business problems.</li>
+<li>Excellent time management, multi-tasking, prioritization skills and ability to manage multiple concurrent projects.</li>
+</ul>
+Transmit Security is committed to fostering, cultivating and preserving a culture of Diversity and Inclusion. Our human capital is the most valuable asset we have. The collective sum of the individual differences, life experiences, knowledge, inventiveness, innovation, self-expression, unique capabilities and talent that our employees invest in their work represents a significant part of not only our Culture, but our Reputation and Achievements as well. We embrace and encourage our employees' differences in age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical ability, political affiliation, race, religion, sexual orientation, socioeconomic status, veteran status, and other any other characteristics that make our employees unique.
+<br><br>
+We require all candidates that receive and accept employment offers complete a background check before being hired.</div>

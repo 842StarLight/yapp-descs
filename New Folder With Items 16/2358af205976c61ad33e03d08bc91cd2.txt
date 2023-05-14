@@ -1,0 +1,84 @@
+<h2>Sr. System Engineer (Server)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div>
+<div><div>
+<b>Job Req ID: 5618</b>
+</div></div>
+<div></div>
+<div>
+<div>
+<b>About Supermicro:</b>
+</div>
+<div><div>Supermicro® is a Top Tier provider of advanced server, storage, and networking solutions for Data Center, Cloud Computing, Enterprise IT, Hadoop/ Big Data, Hyperscale, HPC and IoT/Embedded customers worldwide. We are the #5 fastest growing company among the Silicon Valley Top 50 technology firms. Our unprecedented global expansion has provided us with the opportunity to offer a large number of new positions to the technology community. We seek talented, passionate, and committed engineers, technologists, and business leaders to join us.<br>
+</div></div>
+</div>
+<div>
+<div>
+<b>Job Summary:</b>
+</div>
+<div>
+<div>Supermicro is seeking an experienced system engineer with extensive knowledge of server hardware architecture including but not limited to storage controllers, memory, networking, CPU and GPU chipsets. Candidate must be able to work and communicate effectively with hardware engineers and system lab to perform hardware validations and debug on system level. This role will be based in Supermicro's headquarter, located in San Jose, CA..</div>
+</div>
+</div>
+<div>
+<div>
+<b>
+Essential Duties and Responsibilities:</b>
+</div>
+<div><ul>
+<li>Building, installing and configuring systems for QA testing and debugging</li>
+<li>Perform hardware and software tests to identify issues and work with design engineers to implement solutions and enhance system performance</li>
+<li>Support sales teams with BOM validations and recommendations</li>
+<li>Work with production teams to conduct failure analysis and ensure product quality</li>
+<li>Perform high level customer technical support and provide feedback to engineer and sales teams</li>
+<li>Participate in weekly engineering and sales meetings to promote products and understand company strategy</li>
+<li>Pro-actively engages in learning and researching new product technologies as well as Supermicro's extensive portfolio of hardware and solutions</li>
+</ul></div>
+</div>
+<div>
+<div>
+<b>Qualifications:</b>
+</div>
+<div><ul>
+<li>BA/BS degree in related technical field or equivalent practical experience</li>
+<li>Basic Linux OS and command line knowledge</li>
+<li>Advanced knowledge of enterprise sever/workstation hardware</li>
+<li>Ability to read, analyze and interpret various system logs</li>
+<li>Demonstrated ability to debug and lead issue investigations to closure</li>
+</ul></div>
+</div>
+<div>
+<div>
+<b>Physical Requirements:</b>
+</div>
+<div><div>
+<br>
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job:<br>
+<br>
+<ul><li>Able to sit for long periods of time.</li></ul>
+<br>
+<ul><li>Able to input data into a computer and work with a computer screen for long periods of time.</li></ul>
+<br>
+<ul><li>Occasional bending and standing.</li></ul>
+<br>
+<ul><li>Standing, walking, sitting, talking/listening, crouching or crawling, reaching with hands and arms.</li></ul>
+<br>
+<ul><li>Lift, carry, push and pull up to 15 pounds.</li></ul>
+</div></div>
+</div>
+<div>
+<div>
+<b>Work Environment:</b>
+</div>
+<div><div>
+<br>
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job:<br>
+<br>
+<ul><li>Primarily works indoors in an office setting with controlled climate conditions</li></ul>
+<br>
+<ul><li>May be susceptible to outdoor weather conditions (i.e., cold, heat, rain, and/or wind)</li></ul>
+</div></div>
+</div>
+</div></div>
+<div></div>
+</div>

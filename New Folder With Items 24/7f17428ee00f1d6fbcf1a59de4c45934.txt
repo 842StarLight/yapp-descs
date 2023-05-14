@@ -1,0 +1,79 @@
+<h2>Product Analytics Sr. Data Scientist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Description</b><br>
+</p>
+<div></div>
+<div><b>Product Analytics Sr. Data Scientist</b></div>
+<div>
+<br>
+</div>
+<div>
+Caterpillar is the world's leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. Our products have evolved from simple mechanical workhorses to sophisticated, electronically controlled work-site solutions. This transformation, along with our smart factories and our integrated dealer network, has provided a wealth of Big Data that is mined and analyzed across various segments such as product development, manufacturing, supply chain, marketing, sales and customer support.<br>
+</div>
+<div></div>
+<br>
+<div>Cat Digital is leading Caterpillar and our industry with the utilization of data, analytics, innovation, digital channels and techniques to drive profit, create more efficient revenue growth, unlock new revenue streams, and provide more durable competitive advantages for the business through unexpectedly great experiences for our customers. Come join a world class organization and play a key role in Caterpillar’s digital transformation.</div>
+<div>
+<br>
+</div>
+<p>
+Cat Digital’s Analytics team is looking for a talented and motivated Sr. Data Scientist to develop and deliver analytics models to support product development for the enterprise as well as condition monitoring for customers. As a data scientist, you will use machine learning and other analysis techniques to integrate time-series machine sensor data and physics-based simulation models to improve design validation and on-board condition monitoring for machines operating in every corner of the globe.
+</p>
+<div>Typical problems include but are not limited to: creating reduced order or surrogate models of physics-based simulations to enable design exploration and uncertainty quantification; fusion of telematics data and simulation models to develop digital twins; statistical modeling for calibration and validation; sensitivity analysis and optimization.<br>
+</div>
+<div></div>
+<p><b>
+Qualifications</b><br>
+</p>
+<br>
+<b>Basic Qualifications</b>
+<ul>
+<li>MS degree in Engineering (Mechanical, Electrical, Civil, Aerospace)</li>
+<li>
+<br>
+2 years of significant project experience with Python</li>
+<li>
+<br>
+2 years of experience applying machine learning including deep learning methods
+</li>
+</ul>
+<div>
+<b>Top Candidates Will Also Have</b><br>
+</div>
+<ul>
+<li>
+<br>
+PhD degree in Engineering (Mechanical, Electrical, Civil, Aerospace)</li>
+<li>
+<br>
+Experience in physics-based simulation or validation of off-road machinery</li>
+<li>
+<br>
+Experience with uncertainty quantification, statistical modeling, and optimization</li>
+<li>
+<br>
+Understanding of complex electro-mechanical systems (engines, drivetrain, hydraulics, controls, structures, etc.)</li>
+<li>
+<br>
+Experience using machine sensor telematics data to solve product problems</li>
+<li>
+<br>
+Strong technical and problem-solving skills</li>
+<li>
+<br>
+Self-initiative</li>
+<li>
+<br>
+Works well in team environment<br>
+</li>
+</ul>
+<div></div>
+<br>
+<div>Caterpillar is proud of the role we play in building the world's infrastructure. The work we do drives progress for millions of people around the globe.<br>
+<br>
+All qualified individuals – including minorities, females, veterans and individuals with disabilities – are encouraged to apply.<br>
+</div>
+<div></div>
+<br>
+<div>Caterpillar is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status; however, as a global company, Caterpillar offers many job opportunities outside of the U.S. which can be found through our employment website at www.caterpillar.com/careers.</div>
+</div></div>

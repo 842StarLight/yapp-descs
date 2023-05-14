@@ -1,0 +1,61 @@
+<h2>Director, Enterprise Applications</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Reporting to the CIO, the Director of Enterprise Applications will own the roadmap, architecture, system development and support processes for PrismHR’s business applications. This is a highly hands-on role in which you will manage a small team, provide hands-on innovation and enhancement to our core, cross-departmental enterprise applications, and partner with department administrators on best practice implementation and compliance guidelines for domain specific applications.</p>
+<p>
+You will own the strategy for all of our business applications, partnering cross-functionally with key stakeholders and departmental administrators across Sales, Finance, Customer Support / Success, Marketing and Product Development. Primary focus areas are Salesforce, Intacct and related / integrated financial and analytics systems. You’ll drive the vetting process for new enterprise applications, and provide oversight to all 3rd parties contracted to extend our business systems.</p>
+<br>
+<p></p>
+<p><b>
+SPECIFIC DUTIES and RESPONSIBILITIES:</b></p>
+<ul>
+<li><p>Drive the overall strategy, best practices, and system development for PrismHR’s mission critical enterprise business systems. Create and own the management and delivery of a prioritized roadmap for internal application technology investments, ensuring that it aligns with the overall company strategy and vision, and considers emerging technologies.</p></li>
+<li><p>
+Employ a structured and nimble software (agile) development approach to enterprise application initiatives, both new and maintenance-oriented, with an emphasis on backlog development and grooming, validation, demo’s to stakeholders (internal customers), and iterative delivery.</p></li>
+<li><p>
+Manage our critical cross-enterprise business systems (Salesforce and Intacct); coordinate system upgrade activity, respond to issues and incidents, and when needed, provide day-to-day administration, development and support of those systems.</p></li>
+<li><p>
+Partner with department administrators for alignment on implementation best practices, development standards, and maintenance for department-managed “domain specific” applications. Evangelize and implement industry standard security practices across the organization.</p></li>
+<li><p>
+Ensure adoption, enforcement and auditability of PrismHR’s security compliance programs to all enterprise and internal application development initiatives. Participate in SOC 2 and financial audits.</p></li>
+<li><p>
+Learn the business, in order to most effectively design, scope (functionally and technically), build and test innovative solutions that automate and scale PrismHR’s enterprise applications in a timely, accurate and cost-effective manner. Analyze existing processes and make recommendations to streamline the processes and use of all systems</p></li>
+<li><p>
+Maintain complete and accurate documentation for all enterprise and internal applications.. Develop knowledge base, and evolve to a self-service model for enterprise application helpdesk tickets.</p></li>
+<li><p>
+Evaluate third-party software products and outsourcing providers as appropriate. Proactively manage relationships with vendors.</p></li>
+<li><p>
+Facilitate contract compliance, renewal and successful performance of related managed service providers. Maintain inventory of enterprise and internal application licensing.</p></li>
+<li><p>
+Develop , publish and manage key performance indicators to measure the effectiveness of projects, initiatives, adoption and operational support.</p></li>
+<li><p>
+Ensure internal customers, key stakeholders and management are up-to-date on all roadmap initiatives</p></li>
+<li><p>
+Inspire, lead and grow team members. Foster a learning environment that encourages growth, accountability and positive culture.</p></li>
+</ul>
+<p><b>SKILLS and EXPERIENCE:</b></p>
+<ul><li><p>
+10+ years of experience managing, developing and administering enterprise and internal application systems. Experience should include project management, business process improvement and automation initiatives.</p></li></ul>
+<ul><li><p>
+Senior (or greater) level of development experience with at least one of <b>Salesforce</b> and/or <b>Intacct</b> <i>IS A MUST</i>. Demonstrated experience with the administration and management of at least one of these systems. Experience with both systems is a huge plus.</p></li></ul>
+<ul><li><p>
+Verifiable experience having streamlined key business processes through integration of disparate business applications and automation initiatives.</p></li></ul>
+<ul><li><p>
+Well practiced at employing a structured software development approach, preferably agile, to enterprise system and internal application development initiatives. Ingrained experience documenting / prioritizing system requirements, tracking issues (bugs / enhancements), and producing and reviewing project plans for internal application initiatives.</p></li></ul>
+<ul><li><p>
+Demonstrated experience with at least one security compliance framework (i.e., SOC, ISO, HIPAA, PCI, etc.). Experience participating in technology and financial audits.</p></li></ul>
+<ul><li><p>
+Well experienced as a hands-on manager to a small, technical team, and equally as experienced managing technical resources on peer teams through influence (as opposed to direct report).</p></li></ul>
+<ul><li><p>
+Communicates, negotiates and presents well. Comfortable interfacing across all levels and functions of an organization, and presenting key initiatives and status to executive level management.</p></li></ul>
+<ul><li><p>
+Demonstrated ability to balance multi-tasking and competing priorities while maintaining a high level of customer satisfaction.</p></li></ul>
+<ul><li><p>
+An extremely fast learner and self-starter; highly proactive, positive, creative, flexible, and comfortable working in a dynamic, fast paced work environment. Demonstrated ability in taking ownership and driving results.</p></li></ul>
+<ul><li><p>
+Additional hands-on development or administration with several of the following systems is a plus: FinancialForce, Intacct, Bill.com, Stripe, Plaid, Sisense, Concur, DocuSign, RightSignature, Marketo, Jira, Confluence.</p></li></ul>
+<ul><li><p>
+Bachelor’s or Master’s degree in Computer Science, Computer Engineering, Information Technology, or a closely-related discipline.</p></li></ul>
+<p><b>
+PrismHR is an EO/AA/VEV/Disabled Employer</b><br>
+<b>Diversity Candidates are encouraged to apply</b></p>
+</div></div>

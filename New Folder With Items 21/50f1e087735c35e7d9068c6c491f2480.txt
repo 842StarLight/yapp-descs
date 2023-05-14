@@ -1,0 +1,132 @@
+<h2>Salesforce Business and Technical Design Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><div><div><div>Job Category: Information Technology
+</div></div></div></div>
+<div><div><div><div>Department: IT Solutions Delivery
+</div></div></div></div>
+<div><div><div><div>Location: Los Angeles, CA, US, 90017
+</div></div></div></div>
+<div><div><div><div>Position Type: Full Time
+</div></div></div></div>
+<div><div><div><div>Requisition ID: 4622<br>
+</div></div></div></div>
+<p></p>
+<div><div><div><div>
+<p>Established in 1997, L.A. Care Health Plan is an independent public agency created by the state of California to provide health coverage to low-income Los Angeles County residents. We are the nation’s largest publicly operated health plan. Serving more than 2 million members in five health plans, we make sure our members get the right care at the right place at the right time.<br>
+<br>
+Mission: L.A. Care’s mission is to provide access to quality health care for Los Angeles County's vulnerable and low-income communities and residents and to support the safety net required to achieve that purpose.</p>
+<p></p>
+<div>
+<p>
+Job Summary
+</p>
+<p></p>
+<p>The Salesforce Business and Technical Design Analyst will focus in satisfying business requirements &amp; business process flows while participating in the development and software delivery of Salesforce Customer Relationship Management (CRM) solutions for LA Care.</p>
+<br>
+<p></p>
+<p>The Salesforce Business &amp; Technical Design Analyst participates in full software development life cycle from UI/ UX and technical design to development, testing and deployment of the client solution on Salesforce platform leveraging, fully Salesforce out-of-the-box capabilities. This position may use APEX and Visualforce to create unique customer-based solutions, and participate in the estimation and timeline processes.</p>
+<p></p>
+<p>Duties
+</p>
+<p></p>
+<ul>
+<li>Understand and translate business requirements, business process flows etc. to software oriented solutions based upon Salesforce architecture.</li>
+<li>Analyze the business processes and data requirements to come up with mockups. Documents current baselines, collects new requirements, and writes user stories, storyboards and future state.</li>
+<li>Leverage out-of-the-box Salesforce UI/UX and functions and features.</li>
+<li>Participate in translating business requirements to solutions on the Salesforce platform. Provide thought leadership to influence business logic to improve user experience/ interfaces, navigation, and design.</li>
+<li>Interview, investigate and probe through multiple layers to better understand business drivers and business conditions. Participates in the business process redesign and documentation. Actively participates in the development of detailed design structure after understanding the design requirements.</li>
+<li>Actively participates in the translation of engineering/ technical realities into simple terms for non-technical stakeholders. Provide such translation, adjusting the level of detail depending on the audience. Acts as the interface between the team and the management.</li>
+<li>Act as a technical analyst to evaluate, assess, coordinate and verify development work. Participate in developing APEX and Visualforce code.</li>
+<li>Participate in developing and delivering Web solutions using HTML, JavaScript, CSS.</li>
+<li>Understand technical requirements and implement solutions leveraging Salesforce native functionality based upon in-depth understanding of Salesforce object model and architecture.</li>
+<li>Configure workflows and approvals processes, Create test classes and deployment sets. Work with Quality Assurance Testing team to verify test cases and assist business unit. Work with project teams to ensure that the testing approach is sound and appropriately executed in all SDLC phases and across all Salesforce based apps and systems interfaces. Provides inputs into roadmap planning, system investments and operations performance.</li>
+<li>Participate in creating SOAP/REST web services for integration.</li>
+<li>Perform data integration and/or migration.</li>
+<li>Collaborate with team members to identify processes and raises concerns about dependencies or impacts. Work with SOA Bus (Oracle Bus).</li>
+<li>Work with ETL (Extract, Transform Load) tools such as Informatica</li>
+<li>Perform other duties as assigned.</li>
+</ul>
+<p></p>
+<p>Education
+</p>
+<p></p>
+<p>B.S., Computer Science or related field is required
+</p>
+<p>In lieu of Degree, relevant experience may be considered.
+</p>
+<p></p>
+<p>Experience
+</p>
+<p></p>
+<p><b>Required:</b></p>
+<ul>
+<li>At least 6-8 years of IT experience with 4 years of Salesforce experience.</li>
+<li>Experience in the concepts and methodologies of enterprise and application architecture.</li>
+<li>Experience in back-end development of Salesforce including but not limited to design of data models, a strong knowledge of SOQL, and usage of web technologies.</li>
+<li>Experience with configuration and customization.</li>
+<li>Must have Apex/Visualforce Experience.</li>
+<br>
+</ul>
+<p></p>
+<p><b>Preferred:</b></p>
+<ul>
+<li>Service Cloud experience.</li>
+<br>
+</ul>
+<p></p>
+<p><b>Skills</b></p>
+<p><b>Required:</b></p>
+<ul>
+<li>Knowledge of Information Technologies (Databases, Business Intelligence, Infrastructure, Networks, Web and Integration software).</li>
+<li>Broad understanding of technologies and experience in implementation methodologies, software development life cycle process, and project management.</li>
+<li>Excellent planning and organization, project management and time management skills.</li>
+<li>Exceptional written, verbal and presentation skills for both business and technically oriented communications with the ability to create appropriately high quality documentations to effectively convey goals and initiatives to staff and management.</li>
+<li>Comprehensively understand the roadmap and work with project /program management to prioritize the work.</li>
+<li>Knowledge of the vendor market and possess existing relationships.</li>
+<li>Must have Lightning knowledge.</li>
+<li>Must understand the technical details of the overall project.</li>
+<li>Familiar with enough detail to catch inconsistencies to enable sound decisions</li>
+</ul>
+<p></p>
+<p>Professional Certifications
+</p>
+<p></p>
+<p><b>Required:
+</b></p>
+<ul>
+<li>Salesforce Certified Administrator</li>
+<li>Salesforce Certified Platform Developer I</li>
+<li>Salesforce Certified Platform App Builder</li>
+<br>
+</ul>
+<p></p>
+<p><b>Preferred:</b></p>
+<ul>
+<li>Salesforce Certified Community Cloud Consultant</li>
+<li>Salesforce Certified Service Cloud Consultant</li>
+<li>Salesforce Certified Sales Cloud Consultant</li>
+<li>Salesforce Certified Platform Developer II</li>
+</ul>
+<p></p>
+<p>Additional Information<br>
+</p>
+</div>
+<p></p>
+<p><b>L.A. Care offers a wide range of benefits including</b></p>
+<ul>
+<li>Paid Time Off (PTO)</li>
+<li>Tuition Reimbursement</li>
+<li>Retirement Plans</li>
+<li>Medical, Dental and Vision</li>
+<li>Wellness Program</li>
+<li>Volunteer Time Off (VTO)</li>
+</ul>
+</div></div></div></div>
+<p><br>
+<b>Nearest Major Market: </b>Los Angeles
+<br>
+<b>Job Segment: </b>Medical, Relationship Manager, Healthcare, Customer Service</p>
+</div>
+<div></div>
+</div>

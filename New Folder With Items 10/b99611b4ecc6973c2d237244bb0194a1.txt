@@ -1,0 +1,48 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Job:</b></h2>
+<p>Club OS is seeking a Software Engineer to join our team. Our expanding company is looking for a talented and driven individual that can help us reach our new architectural vision. We are AWS users embarking on a journey of adopting a microservice/serverless backend.</p>
+<h2 class="jobSectionHeader"><b>
+You:</b></h2>
+<p>You’re a problem solver. You develop solutions by effectively using tools and standards. You’re only satisfied when you pursue a high standard of code quality and performance. You know this requires you to learn, push norms, make unsettling decisions, and embrace humility and trust. You know how to measure success and celebrate team achievement. Engineering is both a job and a responsibility to serve others.</p>
+<h2 class="jobSectionHeader"><b>
+Us:</b></h2>
+<p>Club OS is a platform of web-based products built for the health and wellness market. Our products provide sales &amp; marketing automation, customer relationship management, scheduling and payment services for gyms and studios. We are backed by one of the largest private equity firms in the country and are looking for talented, energetic, and motivated people to join our team and help us build an extraordinary company.</p>
+<h2 class="jobSectionHeader"><b>
+Where:</b></h2>
+<p>Club OS is located in Center City Philadelphia. Our collaborative office space is filled with high-energy, talented professionals who are passionate about their work and enjoy each other's company.</p>
+<h2 class="jobSectionHeader"><b>
+Responsibilities:</b></h2>
+<ul>
+<li>Develop, test and maintain microservices that service data for Club OS’s web applications</li>
+<li>Use domain driven design to architect data domains</li>
+<li>Configure and maintain needed cloud infrastructure</li>
+<li>Estimate amounts of development effort</li>
+<li>Maintain and perform code reviews reinforced by development standards and testing protocols</li>
+<li>Improve and streamline development environment</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Requirements:</b></h2>
+<ul>
+<li>5+ years professional engineering experience</li>
+<li>Requires experience with:
+</li>
+<ul>
+<li>Java</li>
+<li>Maven or Gradle</li>
+<li>MySQL or similar
+</li>
+<li>Git</li>
+<li>Unit and Integration testing</li>
+</ul>
+</ul>
+<h2 class="jobSectionHeader"><b>Bonus Qualities:</b></h2>
+<ul>
+<li>AWS (EC2 / ECS / RDS / Lambdas / SQS / Kinesis)</li>
+<li>Docker or Kubernetes
+</li>
+<li>Spring (Spring Boot, Spring REST, etc)</li>
+<li>Continuous Delivery pipelines</li>
+<li>Experience with Agile, Kanban, and/or Lean methodologies</li>
+<li>Working knowledge of lean principles such as eliminating waste, continuously learning, and incorporating user feedback quickly</li>
+</ul>
+</div></div>

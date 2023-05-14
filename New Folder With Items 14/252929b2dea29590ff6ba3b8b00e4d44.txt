@@ -1,0 +1,60 @@
+<h2>Security Research</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Blue Hexagon is a premier VC-backed early stage startup applying real-time advanced machine learning techniques to cybersecurity. We offer competitive equity and pay packages as well as medical, dental, vision, 401k, flex hours, company outings, munchies and amazing teammates. Your teammates have worked at Amazon, Intel, Microsoft, Cisco, Palo Alto Networks, Symantec and Qualcomm and have graduated from Stanford, Princeton, CMU, MIT, Georgia Tech, Purdue and Berkeley.</p>
+<p>We are in our growth phase and need an engineering leader to work with the CTO to execute the company vision utilizing the engineering team to their full potential. The candidate would work to execute on the roadmap, manage agile processes, recruit new hires and manage team performance. The candidate is expected to manage software engineering, QA and automation as well as cloud architects.
+</p>
+<p>Experience helping prior startups scale from ~20-50+ strongly desired.</p>
+<h4 class="jobSectionHeader"><b>Responsibilities</b></h4>
+<ul>
+<li>Execute on company technical vision and shape strategy</li>
+<li>
+Own product implementation, reliability and scalability</li>
+<li>
+Work with Labs team to take AI innovations to production</li>
+<li>
+Work with Sales, Marketing, Customer Success and Product teams to scope and prioritize features</li>
+<li>
+Manage and scale engineering team and manage work of
+</li>
+<li>remote teams</li>
+<li>
+Drive excellence in SDLC processes and move product towards increasing compliance standards</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Qualifications</b></h4>
+<ul>
+<li>BS/MS in Computer Science or related field
+</li>
+<li>10-15+ years experience in Software Engineering</li>
+<li>
+5+ years as a Director or VP of Engineering leading teams of 20 or more
+</li>
+<li>Strong experience with high performance networking appliances (physical and virtual)</li>
+<li>
+Strong experience with CI/CD, DevOps and Release Management</li>
+<li>
+Experience with production machine learning pipelines a plus
+</li>
+<li>Experience with Cloud technologies (AWS or GCP or Azure) and creating multi-tenant SaaS services across these platforms</li>
+<li>
+Experience with server-less computing, containers, orchestration (Lambda, Docker, Kubernetes)</li>
+<li>
+Experience with Infra as Code methodology for scalable service deployment</li>
+<li>
+Strong Leadership and Management skills
+</li>
+<li>Startup experience in the networking, security or AI space</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Seniority Level</b></h4>
+<p>Executive</p>
+<h4 class="jobSectionHeader"><b>Industry</b></h4>
+<p>Computer &amp; Network Security</p>
+<h4 class="jobSectionHeader"><b>Employment Type</b></h4>
+<p>Full-time</p>
+<h4 class="jobSectionHeader"><b>Job Functions</b></h4>
+<p>Engineering<br>
+Information Technology</p>
+</div>
+<div></div>
+</div>

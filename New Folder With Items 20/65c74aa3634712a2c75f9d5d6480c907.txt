@@ -1,0 +1,339 @@
+<h2>NetSuite Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div><div>
+<p>POSITION SPECIFICATIONS
+</p>
+<p>NetSuite Administrator<br>
+24-JUN-2019
+</p>
+<p>Mesa Laboratories, Inc. — 12100 West 6th Avenue, Lakewood, CO 80228 — Phone 303.987.8000<br>
+Mesa Laboratories, Inc. — 625 Zoot Way, Bozeman, MT 59718 — Phone 303.987.8000
+</p>
+</div></div>
+<p></p>
+<div><div>
+<p>ABOUT OUR COMPANY<br>
+Mesa Laboratories, Inc. (Mesa) is a global technology innovator committed to solving some of the most critical
+</p>
+<p>quality control and analytical challenges in the pharmaceutical, healthcare, industrial safety, environmental, food
+</p>
+<p>and beverage industries. Mesa offers products and services through four divisions (Sterilization and Disinfection
+</p>
+<p>Control, Instruments, Cold Chain Monitoring and Cold Chain Packaging), which help our customers ensure product
+</p>
+<p>integrity, increase patient and worker safety, and improve quality of life.
+</p>
+<p></p>
+<p><b><i>Today, each of Mesa’s products and services play a role in ensuring the safety and efficacy of the products we
+</i></b></p>
+<p><b><i>use every day. No matter if it’s the environment, products or people, Mesa is committed to
+</i></b></p>
+<p><b><i>Protecting the VulnerableTM.
+</i></b></p>
+<p></p>
+<p>Founded in 1982, Mesa went public in 1984. After 10 years of more than 15% growth per year, the company now
+</p>
+<p>has revenue approaching $100M and a market cap of approximately $750M. Our growth is attributed to the 350+
+</p>
+<p>dedicated employees who follow our customer-focused, lean-based value system, called <i>The Mesa Way!</i>. The
+</p>
+<p>Mesa Way! is based on four pillars that drive our work every day:
+</p>
+<p></p>
+<p><b>Measure what Matters</b>: We take the customer’s perspective, our “True North”, both to measure what matters
+</p>
+<p>most to customers and to set absolute standards for performance. We manage to leading indicators, which drive
+</p>
+<p>us to proactively avoid problems.
+</p>
+<p></p>
+<p><b>Empower Teams</b>: We move decision making as close to the customer as possible and provide the structure and
+</p>
+<p>real time communication forum to align the whole organization behind surpassing customer expectations.
+</p>
+<p></p>
+<p><b>Steadily Improve</b>: We leverage a common and proven set of lean-based tools to prioritize our biggest
+</p>
+<p>opportunities, address those opportunities at root cause, and quickly implement change.
+</p>
+<p></p>
+<p><b>Always Learn</b>: We ensure that improvements are sustained, enabling us to raise performance expectations and
+</p>
+<p>repeat the cycle of improvement. Equally, this cycle strengthens the Mesa team by providing endless learning
+</p>
+<p>opportunities for our employees and helps us to become an employer of choice in our communities.
+</p>
+<p></p>
+<p>Mesa Labs is located in the Denver area. Learn on what Denver has to offer here.
+</p>
+<p></p>
+<p>Mesa Laboratories, Inc. — 12100 West 6th Avenue, Lakewood, CO 80228 — Phone 303.987.8000<br>
+Mesa Laboratories, Inc. — 625 Zoot Way, Bozeman, MT 59718 — Phone 303.987.8000
+</p>
+</div></div>
+<p></p>
+<div><div>
+<p><b>Position: </b>NETSUITE ADMINISTRATOR<br>
+Posting expires <b>31-JUL-2019</b>.
+</p>
+<p><b>Posting Expiration: </b>Screening of resumes will begin on <b>IMMEDIATELY</b>; to ensure full consideration,<br>
+resumes must be received by <b>5:00 pm MT on 31-JUL-2019</b>.
+</p>
+<p><b>Position and Version #: </b>JOB-BPF-# v#<br>
+<b>Location of Position: </b>Lakewood, CO or Bozeman, MT
+</p>
+<p><b>Reporting Relationship: </b>This position reports to the Vice President of Business Information Services<br>
+<b>Job Classification: </b>Salaried
+</p>
+<p><b>Supervisory</b><br>
+None
+</p>
+<p><b>Responsibilities:</b><br>
+<b>Scope of Position: </b>This position supports and improves Mesa’s NetSuite OneWorld environment and
+</p>
+<p>users, including ERP, CRM, and SCA functionality.<br>
+</p>
+<p><b>Essential Duties </b>Core duties and responsibilities include, but are not limited to, the following:<br>
+• Model personal Lean Philosophy 5S behaviors in creating a continuously improving,
+</p>
+<p>clean, well-organized and self-maintaining work environment. Work closely with<br>
+team members and others to motivate and improve 5S knowledge and<br>
+implementation.
+</p>
+<ul><li>Follow a continuous improvement approach for team accountability for achieving</li></ul>
+high performance SQDCM (Safety, Quality, Delivery, Cost, &amp; Morale) targets<br>
+through a visual work environment.
+<ul><li>Comply with company ethics, code of conduct, policies, and best practices, with a</li></ul>
+commitment to safety in the workplace, valuing of diversity, and promotion of a<br>
+harassment-free environment.
+<ul><li>Maintain and continuously improve NetSuite OneWorld implementation,</li></ul>
+customizations, and associated third party products
+<ul><li>Develop, test and deploy customizations, custom objects, third party</li></ul>
+tools/applications and new NetSuite functionality based on evolving business needs
+<ul><li>Design, implement, and maintain configurations and customizations of NetSuite to</li></ul>
+meet evolving needs
+<ul><li>Design, implement, and maintain 3rd party software connections to NetSuite to</li></ul>
+support various business needs
+<ul><li>Support end user requests for new saved searches, reports, KPI’s, and dashboards,</li></ul>
+and maintain proper system access for user roles
+<ul><li>Provide internal, ongoing system/technical support to NetSuite users, including</li></ul>
+training
+<ul><li>Monitor end-user usage of systems and track performance
+</li></ul>
+<ul><li>Provide front line support with regards to all aspects of NetSuite and data integrity
+</li></ul>
+<ul><li>Develop, document and implement policies, procedures and guidelines to ensure</li></ul>
+data integrity, change protocols, customization, usage etc.
+<ul><li>Identify, evaluate and recommend other key technologies required to support and</li></ul>
+improve the business process centered on the NetSuite platform
+<ul><li>Responsible for the change management and release process of NetSuite
+</li></ul>
+<ul><li>Provide a quality and timely communication regarding system status
+</li></ul>
+<ul><li>Maintain up-to-date knowledge of NetSuite functionality, customization and</li></ul>
+integration
+<ul><li>Perform other duties as assigned by management.<b>
+</b>
+</li></ul>
+<br>
+<p>Mesa Laboratories, Inc. — 12100 West 6th Avenue, Lakewood, CO 80228 — Phone 303.987.8000<br>
+Mesa Laboratories, Inc. — 625 Zoot Way, Bozeman, MT 59718 — Phone 303.987.8000
+</p>
+</div></div>
+<p></p>
+<div><div>
+<p><b>Professional </b>To perform this job successfully, an individual must be able to perform each essential duty
+</p>
+<p><b>Qualifications: </b>satisfactorily. The categories listed below are representative of the knowledge, skill,<br>
+and/or ability required. Reasonable accommodations may be made to enable individuals<br>
+with disabilities to perform the essential functions.<br>
+</p>
+<p><b>Education and/or Experience:
+</b></p>
+<ul><li>Bachelor’s degree in related field preferred
+</li></ul>
+<ul><li>One to three years’ experience with NetSuite administration, including permissions,</li></ul>
+forms, workflows, search, and dashboards
+<ul><li>Experience with SuiteScript desirable
+</li></ul>
+<ul><li>Experience with SCA desirable
+</li></ul>
+<ul><li>Experience in manufacturing, sales, or finance highly desirable
+</li></ul>
+<ul><li>Any equivalent combination of education and experience</li></ul>
+<p><b>Skills, Knowledge and Abilities:
+</b></p>
+<ul><li>Excellent communication skills; written and verbal
+</li></ul>
+<ul><li>SuiteScript 1.0 &amp; 2.0 desirable
+</li></ul>
+<ul><li>Agile development / lean problem solving desirable
+</li></ul>
+<ul><li>Change management</li></ul>
+<b>
+</b><p><b>The Mesa Way! </b>This position is an <b>Individual Leader</b> focused on individual accountability,<br>
+<b>Expectations: </b>teamwork, and cross-functional collaboration. Leadership by example at every
+</p>
+<p>level. Proactive daily management.<br>
+</p>
+<p><b>Pillar #1 – Measure What Matters
+</b></p>
+<ul><li>
+<b><i>Customer Centric &amp; Game Plan</i></b> - Demonstrates a deep understanding of</li></ul>
+customer needs based on first-hand, fact-based information/observation.
+<br>
+Able to clearly articulate how best to address the customers' needs.<br>
+Understands how work impacts customers. Dedicated to exceeding<br>
+customer expectations. Seeks and uses customer information to improve<br>
+products, services, and processes.
+<ul><li>
+<b><i>Critical Few</i></b> – Balance urgency and importance. Adapts to changing needs</li></ul>
+and prioritizes investment of time toward the greatest impact.
+<ul><li>
+<b><i>Clear Direction and Buy</i></b> <b><i>In</i></b> – Simplifies deep domain expertise, enabling</li></ul>
+broader team understanding and ability to contribute/build upon shared<br>
+insights.
+<ul><li>
+<b><i>Stretch Goals That Drive Innovation </i></b>– Sets goals that stretch self and team.
+</li></ul>Balances ability to commitment time/resources with aspirations.
+<p></p>
+<p><b>Pillar #2 – Empower Teams
+</b></p>
+<ul><li>
+<b><i>Ownership at Point of Impact</i></b> – Supports team development. Constantly on</li></ul>
+the lookout for potential talent additions to the Mesa team. Create an<br>
+environment of ownership by the team at the point of impact. Front line<br>
+ownership and accountability both individual and team objectives.<b>
+</b><ul><li>
+<b><i>Coach vs. Direct</i></b> – Understands and subscribes to goals and converts to action</li></ul>
+without step by step direction. Open minded and nimble. Vocalize and learn<br>
+from mistakes as an opportunity for growth and improvement. Demonstrates<br>
+concern for value of others. Listens well and is genuinely interested in win/win<br>
+solutions.<br>
+<p></p>
+<br>
+<p>Mesa Laboratories, Inc. — 12100 West 6th Avenue, Lakewood, CO 80228 — Phone 303.987.8000<br>
+Mesa Laboratories, Inc. — 625 Zoot Way, Bozeman, MT 59718 — Phone 303.987.8000<br>
+</p>
+</div></div>
+<p></p>
+<div><div>
+<p><br>
+<b>The Mesa Way! Pillar #2 – Empower Teams </b>(continued)<b>
+</b></p>
+<p><b>Expectations: </b>• <b><i>Fact Based Decisions</i></b> – Understand personal metrics and how they align with<br>
+overall company performance and strategy. Set the example of prioritization<br>
+according to the decision-making and problem-solving principles.<b>
+</b></p>
+<ul><li>
+<b><i>Proactive and Urgent</i></b> – Relentlessly identifies the critical few and prioritizes</li></ul>
+them. Expeditiously brings complete closure. Turns strategies/opportunities<br>
+into actionable plans. Inquisitive and curious. Effectively manages personal<br>
+time with business priorities.<b><br>
+</b><p><br>
+<b>Pillar #3 – Steadily Improve
+</b></p>
+<ul><li>
+<b><i>Seeks a Better Way</i></b> – Proactively makes recommendations for improvement</li></ul>
+and engages fully in Daily Management. Driven by winning and success! Holds<br>
+themselves accountable for results and celebrate successes Actively and<br>
+effectively participates in Kaizen teams.
+<ul><li>
+<b><i>Problem Solve to Root Cause </i></b>– Balance urgency and importance. Adapts to</li></ul>
+changing needs and prioritizes investment of time toward the greatest impact.
+<br>
+Correctly defines and scopes complex problems. Looks beyond obvious<br>
+symptoms and drives to root cause using discipline and logic. Leverage A3<br>
+Thinking and problem-solving tools as an important team contributor. Be<br>
+methodical and comprehensive, drive to the details for good Gemba analysis.
+<br>
+Willingness to iterate to arrive at root cause. Don't cut corners.
+<ul><li>
+<b><i>Experiment </i></b>– Views current state as experimental; continuously seeks and</li></ul>
+shares areas of improvement. Balances planned execution with ability to<br>
+communicate with valuable market feedback to management.
+<ul><li>
+<b><i>Bias for Action </i></b>– Balances fact-based decision making with learning-by-doing.</li></ul>
+Be proactive! Show comfort with experimentation to validate concepts vs.<br>
+waiting for 100% certainty. Views failures as learning opportunities.<br>
+<p><br>
+<b>Pillar #4 – Always Learn
+</b></p>
+<ul><li>
+<b><i>High Expectations</i></b> – Sets goals that stretch self and team. Balances ability to</li></ul>
+commitment time/resources with aspirations.
+<ul><li>
+<b><i>Transparent Two-Way Communication</i></b> – Direct and honest, presents the truth</li></ul>
+transparently and with respect. Willing to admit mistakes as an opportunity for<br>
+growth and improvement. Viewed as direct, truthful, and genuine.
+<ul><li>
+<b><i>Passion for Teaching and Learning and Continuous Feedback </i></b>– Proactively</li></ul>
+seeks / provides feedback to develop self and support development of others.
+<br>
+Actively pursues new learning opportunities.
+<ul><li>
+<b><i>Humility and Self Awareness </i></b>– Open-minded and seeks to understand. Seeks</li></ul>
+and acts on feedback: both positive and negative. Understand your impact on<br>
+others. Treats others with respect.
+<p></p>
+<p>Mesa Laboratories, Inc. — 12100 West 6th Avenue, Lakewood, CO 80228 — Phone 303.987.8000<br>
+Mesa Laboratories, Inc. — 625 Zoot Way, Bozeman, MT 59718 — Phone 303.987.8000<br>
+</p>
+</div></div>
+<p></p>
+<div><div>
+<p><br>
+<b>Physical Demands: </b>While performing the duties of this job, the employee is regularly required to
+</p>
+<p>stand or sit for extended periods of time. If reasonable, requests regarding<br>
+ergonomic concerns will be considered. For individuals with disabilities,<br>
+accommodations may be made to perform the essential functions. Occasional<br>
+lifting is required.<br>
+</p>
+<p><b>Work Environment: </b>The work environment characteristics described here are representative of those<br>
+an employee encounters while performing the essential functions of this job.<br>
+Reasonable accommodations may be made to enable individuals with disabilities<br>
+to perform the essential functions.<br>
+<br>
+This is a high volume, high energy manufacturing facility that works to meet<br>
+manufacturing deadlines. An enthusiastic, positive attitude is highly encouraged<br>
+and conducive to a productive successful atmosphere. Common sense judgments<br>
+and problem solving is desirable. Must have the ability to handle repetitious and<br>
+tedious job functions.<br>
+<br>
+A typical office environment and biological laboratory environment comprise the<br>
+bulk of the work environment for this position. The noise level in the work<br>
+environment is moderately quiet.<br>
+</p>
+<p><b>Compensation: </b>Salary, incentive bonuses, and equity will be offered commensurate with the<br>
+successful candidate’s experience and qualifications. Benefits include medical,<br>
+dental, vision, life, accidental death and dismemberment, short term and long-term<br>
+disability, Paid Time Office, paid holidays, 401k retirement with company match.<br>
+</p>
+<p><b>Contact: </b>Human Resources | recruiting@mesalabs.com | 303-987-8000<br>
+</p>
+<p><b>How to Apply: </b>Submit current resume/CV to recruiting@mesalabs.com. Include the position title<br>
+in the subject line.<br>
+<br>
+Posting expires <b>31-JUL-2019</b>.
+<br>
+Screening of resumes will begin on <b>IMMEDIATELY</b>; to ensure full consideration,<br>
+resumes must be received by <b>5:00 pm MT on 31-JUL-2019.</b><br>
+</p>
+<p><b><i>Mesa Labs is an Equal Employment Opportunity Employer.</i></b><br>
+<b><i>Mesa Labor prohibits unlawful discrimination and harassment against
+</i></b></p>
+<p><b><i>applicants or employees based on age, race, sex, color, religion, creed, national</i></b><br>
+<b><i>origin or ancestry, disability, military status, sexual orientation, or any other
+</i></b></p>
+<p><b><i>status protected by applicable state or local law.</i></b><br>
+<b><i>
+</i></b></p>
+<p></p>
+<p>Mesa Laboratories, Inc. — 12100 West 6th Avenue, Lakewood, CO 80228 — Phone 303.987.8000<br>
+Mesa Laboratories, Inc. — 625 Zoot Way, Bozeman, MT 59718 — Phone 303.987.8000</p>
+</div></div>
+</div>
+</div>

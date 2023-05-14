@@ -1,0 +1,62 @@
+<h2>Full Stack Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>What if the job you love could make a difference for someone else?
+</b></p>
+<p>At Thirty-One Gifts, we’re in the business of empowerment. For 15 years, we’ve offered fun and fashionable personalized totes, thermals and home organization solutions, but more importantly, we’ve given thousands of women the chance to achieve their goals by running their own small business.
+</p>
+<p>We’re looking for people who share our mission to join our Home Office team in Columbus, Ohio, and support our sales field with the tools, products and motivation they need to succeed.</p>
+<p>As a Thirty-One Gifts employee, you’ll be part of a laid-back, welcoming culture that’s equal parts hard-working and fun-loving, with a generous benefits package and perks like an on-site cafeteria, yoga and fitness classes, employee celebrations, volunteer opportunities and free and discounted products. We’re passionate about making our employees feel celebrated every day, because we know that people thrive when they love where they work!</p>
+<p><b>What you’ll do</b></p>
+<p>Supports the Digital team by assisting with the execution of a wide range of internet-based initiatives, including full stack development (with an emphasis on front-end technologies) and maintenance using HTML, XHTML, DHTML, CSS, C#, MVC/.Net and JavaScript, and final execution of project requirements. As a member of the Information Technology team, works cross-functionally with partners that include: Creative, Communications, PMO, and Marketing to ensure brand-right experience and technically sound deliverables.</p>
+<p><b>Front-End Design and Development (80%)</b></p>
+<ul>
+<li>Designs, builds, and maintains sites according to the project requirements and direction from Web Designers, Marketing strategy, and IT.</li>
+<li>Collaborates with Web Designers and other Developers to execute solutions against the specified technical architecture and visual design.
+</li>
+<li>Documents code in accordance with expectations outlined in the project requirements.
+</li>
+<li>Executes unit test plans and delivers code that is free of bugs and satisfies all communicated project requirements.
+</li>
+<li>Manages quality assurance on all site work against comps and required deliverables.
+</li>
+<li>Maintains on-site category sku lists for accurate display on web.
+</li>
+<li>Follows industry best practices for developing code that is high performance, and works to find ways to improve site performance and stability.</li>
+<li>Partners with third-parties to ensure onsite analytics and SEO tagging is managed properly.</li>
+<li>Sets up and maintains digital catalogs accessed from the site.</li>
+<li>Creates reusable components and libraries for designers and content creators to use for the rapid development of content.</li>
+<li>Builds content templates for the flexible and rapid delivery of content.</li>
+<li>Participates in peer code reviews</li>
+</ul>
+<p><b>Departmental Functions (20%)</b></p>
+<ul>
+<li>Collaborate with other internal IT resources on best practices for web development as well as system limitations.
+</li>
+<li>Conducts internal presentations, as needed.
+</li>
+<li>Tests third party solutions and troubleshoots issues</li>
+<li>Represents IT department in meetings and presents materials to other departments and senior management.</li>
+</ul>
+<p><b>What you’ll need to be successful</b></p>
+<ul>
+<li>Bachelor’s Degree in MIS, CIS, CS, Communications, or related field; or equivalent experience</li>
+<li>3+ years of experience in full stack development with an emphasis in front-end technology.</li>
+<li>Experience with client-side web development and maintenance using HTML, XHTML, DHTML, CSS, LESS, JavaScript, JQuery, .NET/MVC, and Ajax.</li>
+<li>Experience in application development using C#, .NET, MVC.</li>
+<li>Some experience with source code control systems, preferably GIT or TFS.</li>
+<li>Experience accessing data from back-end systems via API calls, JSON, etc.
+</li>
+<li>Experience working in content management systems. Preferably with ecommerce features – Episerver experience a plus</li>
+<li>Familiarity with .NET Core, SQL, and Entity Framework a plus.</li>
+<li>Ability to thrive in a fast-paced, team-oriented, and creative environment</li>
+<li>Excellent organizational skills and ability to manage multiple projects in multiple server environments running concurrently</li>
+<li>Ability to communicate issues and challenges in a timely manner to important cross-functional parties</li>
+<li>A strong eye towards what is next and innovative</li>
+<li>Results-driven team player that can also flex to produce results independently</li>
+<li>Understanding of mobile applications and optimized CSS development (specifically with bootstrap)</li>
+<li>Proficient in C#, HTML, XHTML, DHTML, CSS, LESS, JavaScript, JQuery, .NET/MVC</li>
+<li>Excellent knowledge of internet best practices and user experience, specifically improving site speed and reducing file sizes</li>
+<li>Understanding of use cases and cross browser compliance testing</li>
+<li>Thorough knowledge of APIs, accessing data from back-end systems, and social integration strategies</li>
+</ul>
+</div></div>

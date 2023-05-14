@@ -1,0 +1,83 @@
+<h2>Senior Software Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">** Seeking applicants that reside in Santa Cruz, CA
+<br><br>
+** UNABLE TO PROVIDE RELOCATION OR VISA SUPPORT (sorry).
+<br><br>
+A little about us.
+<br><br>
+Are you inspired by creating solutions to seemingly impossible business problems, using design-led, cloud-based software? Those are the challenges we take on behalf of our clients, crafting custom deliveries when they have no where else to turn.
+<br><br>
+We are a multidisciplinary team of engineers, project managers, designers and strategists who like to think of ourselves as digital artisans. We're passionate and focused on delivering outstanding software solutions for our partners. We crush APIs, back-end systems, web apps, mobile development, strategy, management, code, design, craft beer, music, bikes, surfing and we're a lot of fun to work with. Do you want to work in a place surrounded by great restaurants and shops that's just a mile from the beach? Join us! In the heart of downtown Santa Cruz, CA.
+<br><br>
+What we're looking for.
+<br><br>
+<ul>
+<li>Someone that understands leadership as a behavior, not a title</li>
+<li>Lead from any position</li>
+<li>Lead by being an influencer</li>
+<li>Part of leading is being a good follower</li>
+<li>Someone that is Philosophically Agile</li>
+<li>Keep the client / user engaged</li>
+<li>Someone that is not pedantic or rule oriented</li>
+<li>There is no "right way" there is "what works best for this client and team in this solution"</li>
+</ul>
+Motivated and passionate people who enjoy working in a team-oriented, ego free environment. The most successful candidates value ownership and collaboration and are self-motivated, detail-oriented, problem solvers. We're looking for someone who's been developing software for some time. This means you've got at least a few years of experience as a software architect leading a team on a sizable project. This is an important role in our company and here are some of the things we will consider:
+<br><br>
+<b>Skills profile:</b><br>
+<ul>
+<li>Work collaboratively with our clients' marketing, sales channels, customer support, engineering, and product management to set the technology direction, vision, and strategy to enable technology solutions that will best suit their goals and objectives.</li>
+<li>Gather requirements and develop great design (system and workflow) documents</li>
+<li>Utilize best practices and methodologies to create visual and narrative representation of proposed system functionality and its UI/UX.</li>
+<li>Experience supporting at least one full application system/design in production</li>
+<li>Proficiency as Solutions Architect with strong Amazon Web Services skills.</li>
+<li>Solid understanding of big data technologies and trends</li>
+<li>Solid understanding of UI/UX design concepts</li>
+<li>Solid understanding of software quality assurance principles – building reliable systems</li>
+<li>Hands-on experienced as an architect with small to large-scale software systems with multiple interfaces (web, mobile, IoT)</li>
+<li>Proven foundation in data structures, algorithms, and software design with strong analytical and debugging skills.</li>
+<li>Committed to continual release and demonstration to client throughout development</li>
+<li>Possess both technology and business perspectives including strong analytical skills</li>
+<li>Proven track record of successfully leading projects from conception through completion.</li>
+<li>Demonstrate leadership role in ensuring that new and existing systems are aligned to architectural guidelines.</li>
+<li>After the architecture phase, the Architects actively consult throughout the execution phases, including design, engineering, migration, implementation, and operations. They feed implementation and operational challenges back into architectural opportunities.</li>
+<li>Ability to translate business strategy and vision to a technical architecture that meets the business objectives.</li>
+<li>Ability to assess and recommend cost-effective tools and technologies in accordance with the strategic objectives of the client</li>
+<li>Experience in creating proofs of concept and then moving them to an implementation</li>
+<li>Drive, design, build, and evolve complex software systems</li>
+<li>Define the interfaces needed to integrate across components of a solution, including mobile applications, web applications, backend services, and databases</li>
+<li>Hands-on experience in building a microservices based architecture and platform developed and deployed at scale.</li>
+<li>Experience working in a DevOps environment and leading in selection or development of tools</li>
+<li>Expertise in Test-Driven Development</li>
+</ul>
+<b>An above and beyond candidate would also have:</b><br>
+<ul>
+<li>Great verbal and written communication skills- this role is often client facing</li>
+<li>Desire and ability to mentor less experienced engineers</li>
+<li>Positive attitude and demeanor</li>
+<li>Enthusiastic when embracing new challenges</li>
+<li>Ability to listen patiently and learn from others</li>
+<li>A willingness to teach and help others</li>
+<li>A good sense of humor</li>
+</ul>
+<b>What you will be doing:</b><br>
+<ul>
+<li>Provide technology leadership on one or more projects</li>
+<li>Engage with clients to understand needs, create architecture, estimate resource needs, and lead implementation to successful delivery</li>
+<li>Prioritize development tasks in a manner that optimizes for time to completion and client satisfaction</li>
+<li>Regularly demonstrate operational systems</li>
+<li>Be the go-to resource for multiple development teams supporting various aspects of technology solutions</li>
+<li>Create and manage DevOps tools for deployment and management of solutions</li>
+</ul>
+What we offer.
+<br><br>
+<ul>
+<li>Consistent challenges</li>
+<li>Great teammates to work with</li>
+<li>A competitive salary based on contribution</li>
+<li>Comprehensive benefits including medical, dental, and 401k</li>
+<li>A stocked fridge and kitchen for everything from breakfast and lunch to happy hour</li>
+<li>Free parking (parking passes are hard to come by in downtown Santa Cruz)</li>
+<li>A corporate gym membership at Paradigm Sport</li>
+<li>A complete lack of dull moments</li>
+</ul>
+</div>

@@ -1,0 +1,166 @@
+<h2>Business Intelligence Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Hillphoenix is a leading manufacturer of Display Cases, Specialty Products, Refrigeration Systems, Power Systems and Comprehensive Services. The story of Hillphoenix is built on creativity and customer-centric innovation delivered by people invigorated by a strong sense of responsibility to help our customers win in their marketplaces. The relationships we build with our customers are as important to our success as the products we manufacture. This collaborative environment delivers FRESH THINKING, reassuring our customers that they choose the best when they choose to work with the people of Hillphoenix. Hillphoenix is part of the Refrigeration and Food Equipment segment of the Dover Corporation® (NYSE: DOV). Dover is a diversified global manufacturer with annual revenues in excess of $7 billion.</p>
+<p></p>
+<br>
+<p><b>
+Job Title:</b> <b>Business Intelligence Lead</b></p>
+<p><b>
+FLSA Status:</b> Salaried Exempt/Fulltime</p>
+<p><b>
+Location:</b> Conyers, GA</p>
+<p><b>
+Department:</b> IT</p>
+<p><b>
+Supervisor:</b> Director, Business Technology</p>
+<p></p>
+<br>
+<p><b>
+Position Summary:</b></p>
+<p></p>
+<br>
+<p>
+The Business Intelligence (BI) Lead will primarily be responsible for technical leadership of Business Intelligence functions relating to OBIEE Finance, Sales and other solutions as well as related projects. This person will also collaborate with the IT &amp; business leads, developers and enterprise infrastructure support teams to ensure appropriate delivery of technology solutions (BI, performance tuning, data loading, exception processing and documentation) in accordance with business requirements and objectives; in addition to, ensuring the BI processes and platforms are positioned for compliance with IT policies and standards and agreed upon service levels.</p>
+<p>
+This role will involve working closely with other IT teams to develop end to end Business Intelligence capabilities and collaborating with key customers (Finance, Sales, Procurement, Enterprise Analytics etc.) to ensure their needs are met. This role is a key liaison who is responsible for working directly with business users to translate their needs into useful data that will enable the larger organization to make strategic and informed decisions. The business currently leverages OBIEE for most of its BI reporting needs and, while that will be a major focus of this position, this individual will also play an important role in the design, development, and maintenance of other BI related software and systems, including integrations with databases and multiple ERP systems, as well as helping to define the overall data warehouse architecture (e.g., ETL process, ODS, EDW, Data Marts). Other reporting/BI tools include PowerBI Hyperion, EIS and Tableau.</p>
+<p></p>
+<br>
+<p><b>
+Essential Duties and Responsibilities:</b></p>
+<p></p>
+<br>
+<ul>
+<li>
+Design, implementation and support of the Business Intelligence functions related to the OBIEE environment.</li>
+<li>
+Provide end-to-end Business Intelligence support within the Oracle EBS Financials Suite (GL, FA, AP, PA, Procurement etc.)</li>
+<li>
+Provide Business Intelligence related solutions/designs as well as implement them.</li>
+<li>
+Provide architectural assessments, strategies, and roadmaps for Business Intelligence domains.</li>
+<li>
+Collaborate with Process Leads to understand functional requirements and interact with other cross-functional teams to architect, design, develop, test, and deploy features.</li>
+<li>
+Assist with solution estimation and team structure definition.</li>
+<li>
+Liaise with offshore teams and other IT functions for resolving technical dependencies, issues, and risks.</li>
+<li>
+Perform platform capacity planning and management.</li>
+<li>
+Serve as an escalation point for production and/or platform issues.</li>
+<li>
+Executing change control and promotions activities.</li>
+<li>
+Establishes best practices and guidelines for usage of the Oracle Business Intelligence platform.</li>
+<li>
+Oversee, recommend and implement appropriate solutions and enhancements to ensure an improvement in system reliability and performance.</li>
+<li>
+Conform to system architecture standards and practices and work with outsourced suppliers as required to keep up to date with enabling technologies.</li>
+<li>
+Interface directly with various business units (front-line to Executive level) and IT functional areas as it pertains to the Oracle Business Intelligence platform.</li>
+<li>
+Monitor the overall availability and performance of the Oracle ERP and other ERP integrations and take corrective actions as necessary to ensure peak operational performance.</li>
+<li>
+Work independently with users to define BI concepts, information needs and defining functional requirements, specifications and recommendations related to a proposed solution</li>
+<li>
+Lead and perform complex analysis in an evolving data environment.</li>
+<li>
+Extract and analyze data, patterns, and related trends as needed, with the subsequent ability to synthesize the data into information consumable by organization.</li>
+<li>
+Ensure high levels of Business Intelligence system availability through support functions and in-depth testing.</li>
+<li>
+Responsible for the efficient, compliant, timely, secure acquisition, integration, provision, and exchange of the enterprise data.</li>
+<li>
+Work with external vendors and internal business and technology staff to accurately gather and interpret requirements, specifications, and database models to determine appropriate data warehouse development solutions.</li>
+<li>
+Monitor and administer automated and manual data integration and ETL jobs to verify execution and measure performance; Build reports to audit, monitor &amp; validate data warehouse job</li>
+<li>
+Perform other job-related duties as requested</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Qualifications/Requirements:</b></p>
+<p></p>
+<br>
+<ul>
+<li>
+Bachelor’s Degree focused in Information Technology or Information Management or equivalent education and experience</li>
+<li>
+Minimum of 6 years of experience in implementing Oracle Business Intelligence solutions.</li>
+<li>
+ Minimum of 3-5+ years’ of demonstrable experience working with business stakeholders</li>
+<li>
+ Minimum of 5-8+ years’ of related technical experience:</li>
+<li>
+ 5+ years’ experience with developing programs using SQL</li>
+<li>
+ 5+ years’ experience with the semantic layer of any one Business Intelligence tools OBIEE, Tableau, Cognos, SAP BW, Business Objects etc.</li>
+<li>
+ 5+ years’ experience with the ETL development</li>
+<li>
+ Expertise in any one tool is required. Oracle Data Integrator (ODI), Informatica, Datastage</li>
+<li>
+ 8+ years’ experience in developing data warehousing systems for enterprises</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Additional Knowledge Skills &amp; Abilities:</b></p>
+<p></p>
+<br>
+<ul>
+<li>
+Preferred Tableau development skills and/or PowerBI in addition to Oracle BI suite of products</li>
+<li>
+Experience in developing Business Intelligence environment based on OLAP and OTLP frameworks</li>
+<li>
+Previous experience with design and development of Business Intelligence functions related to the Oracle Financials ERP solution</li>
+<li>
+Business Intelligence expert with 4 years’ experience in working with Technologies such as OTBI, OBIEE Answers, BI Composer, SmartView, BI Publisher, OACS, Visual Analyzer and ODI</li>
+<li>
+Experience with ERP/MRP systems including Oracle EBS</li>
+<li>
+ Experience with integration of Oracle EBS with third party applications</li>
+<li>
+Strong analytical, communication, teamwork, and interpersonal skills</li>
+<li>
+Previous experience as a Business Intelligence lead for Oracle OBIEE</li>
+<li>
+Previous relational database experience.</li>
+<li>
+Previous experience providing technical leadership to vendor teams in an onsite/offshore delivery model</li>
+<li>
+Hands-on experience in implementing Business Intelligence for one large-scale Oracle ERP implementation</li>
+<li>
+Previous experience developing detailed technical documentation.</li>
+<li>
+Excellent user/customer service skills.</li>
+<li>
+Have interpersonal skills to deal effectively with all business contacts.</li>
+<li>
+Professional appearance and demeanor.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+The Ideal Candidate:</b></p>
+<p></p>
+<br>
+<p>
+This role is an opportunity to be more than a behind-the-scenes developer or simply a reporting partner to business stakeholders. It’s a chance to do both at the same time, in a unique hybrid position that will allow you to leverage your hard technical skills in database management and business intelligence platforms, and combine that with your softer skills in communication and business partnering to make positive impacts across the organization.</p>
+<p>
+The team is looking for someone who brings that fundamental technical background but, perhaps more importantly, has the ability and confidence to build meaningful relationships with cross functional leaders and be an active part of designing solutions. This is the kind of position that takes someone with curiosity and initiative, as it will come with direction but also an expectation that you’re capable of working with autonomy. The manager is looking for someone who wants to lead.</p>
+<p></p>
+<br>
+<p>
+#LI-FG1</p>
+<p>
+All qualified applicants will receive consideration for employment without discrimination on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, genetic information, or any other factors prohibited by law.</p>
+<p>
+This position may be located in: Americas : United States : Georgia : Conyers</p>
+<p>
+Sub Division : Corporate</p>
+<p>
+Job Requisition ID : 29304</p>
+</div></div>

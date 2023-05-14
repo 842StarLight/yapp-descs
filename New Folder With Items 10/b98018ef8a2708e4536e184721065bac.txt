@@ -1,0 +1,150 @@
+<h2>Service Engineer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Interplay </b>is a hands-on, service-driven IT management firm in Seattle and we've been in business since 2001. We provide complete IT outsourcing services for clients which range from 20 to 200 users in size. We're lean but capable, which has attracted some demanding (but very cool!) clients.</p>
+<p>We use a fixed-fee approach to IT management which includes support, monitoring, administration, security management and "Virtual CIO" for a flat monthly rate. Our clients see us a natural extension of their business. They trust us to advise them on and implement solutions that will make them more efficient and profitable. And we firmly believe in a less is more approach-we actively remove unnecessary complexity from our clients' IT landscapes.</p>
+<p>Right now we're in a growth phase and are looking for the right person to join our team for the long haul. We pay competitive wages, provide excellent health+vision+dental, pay for training and offer an uncommonly relaxed office environment.</p>
+<p>As a team member, you'll have a lot of creative control over how you do your work and what subjects you want to train on. If you can prove yourself you won't be micromanaged, and your ideas won't be dismissed or ignored. And as the company grows you will be rewarded.</p>
+<p>Position:
+<br>
+<b><i>SERVICE ENGINEER II</i></b></p>
+<p>We're looking for a candidate to fill our mid-level engineering position, SERVICE ENGINEER II.</p>
+<p>The ideal candidate is strong in all the most common and popular networking technologies. In addition to strong technical aptitude, backed by at least 2 years of in-the-trenches experience, this person is a good communicator and a person who can manage well when the client is in a pickle and really needs strong guidance. The pace and demands in this environment are usually much greater than an "in-house" position. This person should be prompt and/or know the importance of communicating ETAs to clients. This person should be skillful at pre-project/work-briefings with each client on each project. This person should then be able to execute with a high degree of success in integrating and/or solving problems in environments rich in Windows Server, Exchange, IIS, Terminal Services, VPN's, firewalls, backup systems, cloud services and more.</p>
+<p>The right fit for our team will demonstrate a strong work ethic, exemplary problem-solving skills, outstanding people skills and a passion for her/his work.</p>
+<p><b>Benefits:</b></p>
+<ul>
+<li>Extensive Health+Dental+Vision benefits</li>
+<li>We pay for your training</li>
+<li>Office is very conveniently located in Southcenter.</li>
+<li>20 minutes to downtown Seattle.</li>
+<li>Very relaxed work environment</li>
+<li>Casual dress is fine (unless you're visiting a client then it's Business Casual)</li>
+<li>All the coffee you can drink</li>
+<li>Other energy drinks and sodas provided</li>
+<li>We'll buy you lunch at least once a week</li>
+<li>On-site exercise facility and showers</li>
+<li>2 blocks to LA Fitness (we'll buy you a gym membership!)</li>
+<li>4 blocks to Southcenter mall</li>
+<li>We generally go home at 5pm most nights</li>
+<li>Beautiful, quiet, lushly landscaped campus with free and plentiful parking</li>
+</ul>
+<p><b>Job duties for this position include, but are not limited to:</b></p>
+<ul>
+<li>
+<p>Daily time entry accounting</p>
+</li>
+<li>
+<p>Remote and onsite work as needed for clients around the Puget Sound region</p>
+</li>
+<li>
+<p>Completing small projects with minimal supervision</p>
+</li>
+<li>
+<p>Assisting Sr. Engineers on larger projects</p>
+</li>
+<li>
+<p>Configuring standard Exchange &amp; Outlook</p>
+</li>
+<li>
+<p>Taking ownership of tasks and following through to ensure complete resolution.</p>
+</li>
+<li>
+<p>Installing, configuring, troubleshooting and customizing Microsoft Office and Office365 applications per customer's preference.</p>
+</li>
+<li>
+<p>Installation, configuring and testing of workstation hardware including video cards, NICs, sound cards, hard drives, and mobile devices</p>
+</li>
+<li>
+<p>Administration of enterprise e-mail applications, including adding/removing users and groups, configuring folder permissions if applicable, forwarding mail to other accounts, checking event logs, configuring and restoring from backup</p>
+</li>
+<li>
+<p>Maintaining documentation of client networks</p>
+</li>
+<li>
+<p>Assisting Sr. Engineers on larger projects</p>
+</li>
+<li>
+<p>Remote and onsite work as needed for clients around the Puget Sound region</p>
+</li>
+<li>
+<p>Taking a personal interest in, and responsibility for, quality of work they perform or are associated with</p>
+</li>
+<li>
+<p>Ability to pay close attention to detail while performing technically intensive tasks</p>
+</li>
+<li>
+<p>Ability to deal effectively with stressful situations &amp; interrupt-driven environments</p>
+</li>
+<li>
+<p>Ability and willingness to recognize when it is necessary to ask for technical expertise from others without unnecessarily burdening other team members</p>
+</li>
+<li>
+<p>Ability to provide accurate time estimates for how long a task will take</p>
+</li>
+<li>
+<p>Understanding that the success of individuals is measured by the success of their teams</p>
+</li>
+<li>
+<p>Ability to quickly learn new technologies through the use of self-study materials and intuition</p>
+</li>
+<li>
+<p>Ability to articulate technical information clearly and simply to non-technical people</p>
+</li>
+<li>
+<p>Enjoys helping people to the extent that no problem is considered mundane, no matter how simple the solution</p>
+</li>
+<li>
+<p>Solid dependable engineer, follows directions and maximizes billing opportunities</p>
+</li>
+<li>
+<p>Consistently receives good client feedback</p>
+</li>
+<li>
+<p>Enjoys sharing information, supporting others, and working on a team to achieve team goals</p>
+</li>
+</ul>
+<p><b>Skills &amp; Abilities:</b></p>
+<ul>
+<li>Strong communication skills</li>
+<li>Drive to help others to the extent that no problem is considered mundane, no matter how simple the solution</li>
+<li>Ability to pay close attention to details while performing technically intensive tasks</li>
+<li>A team player with the ability and willingness to recognize when it is necessary to ask for technical expertise from others in order to learn.</li>
+<li>Is self-motivated and can be self-directed when necessary</li>
+</ul>
+<p><b>Preferred Knowledge:</b></p>
+<ul>
+<li>Windows desktop operating systems</li>
+<li>TCP/IP and troubleshooting Internet connectivity</li>
+<li>Experience with routers and firewalls</li>
+<li>Experience with Terminal Services</li>
+<li>Experience with Office365</li>
+<li>Understanding of relationship between switches, hubs, patch panels and connecting nodes to a network</li>
+<li>Understanding of DNS services</li>
+<li>Working knowledge of firewall technologies from Cisco, Cisco Meraki, SonicWALL</li>
+<li>Working knowledge of wireless technologies</li>
+<li>Understanding of and ability to install, configure and test workstation hardware including video cards, NICs, sound cards, hard drives, and mobile devices</li>
+<li>Experience installing, configuring and troubleshooting Windows Server 2008/2012 including file, print and remote access services</li>
+<li>Experience with basic network administration, including adding/removing users and groups, configuring file permissions, checking event logs, configuring and restoring from backup</li>
+<li>Experience with basic administration of enterprise e-mail applications, including adding/removing users and groups, configuring folder permissions if applicable, forwarding mail to other accounts, and adding aliases</li>
+<li>Switches, hubs, patch panels and connecting nodes to a network DNS services</li>
+</ul>
+<p><b>Additional Requirements:</b></p>
+<ul>
+<li>Reliable transportation</li>
+<li>Two to four years' experience in a professional IT support setting</li>
+<li>At least one certification: MCSE, CCNA/CCDA, Project+, Network+, A+ or similar</li>
+<li>Professional work ethic, appearance, and communication style on the telephone, via email and in-person.</li>
+<li>Past sales experience of any kind also highly desirable</li>
+<li>Cheerful, positive disposition, clear speaking voice, clear writing style, strong typing skills, good organizational skills, punctuality</li>
+</ul>
+<p><b>Applying for this position requires a cover letter. In your cover letter:</b></p>
+<ul>
+<li>You should be able to demonstrate a work history that includes similar professional experience supporting Windows-based network environments.</li>
+<li>You will need to show that you are a true IT Generalist: you have some knowledge of all mainstream hardware &amp; software platforms commonly used in business environments.</li>
+<li>You should show that the IT field is/was a deliberate choice on your part-because you *want* to be in this field. You should be passionate about the power of technology in helping people to reach their goals.</li>
+<li>You should be able to demonstrate that you possess that elusive trait - the ability to summarize, speak and write technical issues in a way that a non-technical audience can understand.</li>
+<li>And since IT is a tough field and working for a small company can be intense at times, showing your sense of humor certainly does not hurt. ;)</li>
+</ul>
+<p>SUBMISSIONS WITHOUT A COVER LETTER WILL BE DELETED.</p>
+<p>
+P13WMQAoX6</p>
+</div></div>

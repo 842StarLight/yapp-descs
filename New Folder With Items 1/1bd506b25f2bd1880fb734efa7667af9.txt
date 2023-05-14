@@ -1,0 +1,60 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Bold Group is looking for a Product Manager to execute product delivery. As a Product Manager, you will be involved in every aspect of the product development process. You will work cross functionally with other departments to ensure that the product is engaging, easy-to-use, intuitive, and meets the needs of our customer base. You will own specific areas of the product roadmap and be responsible for developing feature sets, cultivating ideas, and managing priorities. We’re looking for someone to join our product manager team and immediately start contributing. In a nutshell, you’ll be taking ideas and concepts, turning them into specs/wire frames/stories.</p>
+<p><b>
+You:</b><br>
+You're knowledgeable and passionate about technology and creating easy-to-use and intuitive products. You thrive working in an Agile environment and you love to take big concepts and ideas and turn them into specs, wireframes, and user stories so they can become incredibly useful software tools. Proficient at bringing the big picture into focus and seeing how the details fit.</p>
+<p><b>
+Us:</b><br>
+Bold Group is a leading provider of central station, alarm monitoring, and PSIM software, operating in the security industry. Bold Technologies recently merged with Perennial Software, provider of scalable, state-of-the-art business management and financial applications for the security industry. As a result, Bold Group will be bringing Perennials’ line of products under its umbrella. With corporate offices in Colorado Springs, Canton, Michigan, and Chagrin Falls, Ohio, our dedicated team offers industry-leading software solutions that provides businesses the competitive advantage necessary to succeed in today’s marketplace. We are backed by one of the largest private equity firms in the country, and are looking for talented, energetic, and motivated people to join our team to build an extraordinary company. The Bold Technologies Development team is responsible for designing, implementing, releasing, and maintaining enterprise grade security central station monitoring automation solutions. We currently integrate with a multitude of different technologies including alarm receivers, home automation systems, video monitoring systems, GPS systems and many more. These are part of a large multi-process system running primarily on Windows Server based systems. Interested candidates must adhere to the Bold Technologies Core Values:</p>
+<p>
+Our team protects the Bold Group reputation by always maintaining a high level of integrity.</p>
+<ul>
+<li>We hire team players that have a positive attitude, and are invested in the success of both their peers and the company.</li>
+<li>We encourage innovation and welcome creative and forward-thinking problem-solvers.</li>
+<li>We consider the Bold team a family; we maintain a culture of respect, offer a family-oriented environment, and give back to our community.</li>
+</ul>
+<p><b>Where:</b><br>
+Colorado Springs, CO</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>Gather business requirements and develop use cases.</li>
+<li>Write detailed product specifications and roadmaps.</li>
+<li>Execute against the roadmap by owning the backlog and developing detailed user stories.</li>
+<li>Collaborate with the marketing team to define metrics and go-to-market plan.</li>
+<li>Analyze and report on product performance.</li>
+<li>Keep up with industry trends and competitive landscape to inform product strategy and development priorities.</li>
+<li>Develop a deep understanding of the customer advocate for the user experiences of our customers.</li>
+<li>Know our customers, their challenges, and how they deal with those challenges today.</li>
+<li>Manage products through various launch phases and follow-on releases.</li>
+<li>Create and deliver product training &amp; documentation to enable sales and support teams.</li>
+</ul>
+<p><b>Required Experience:</b></p>
+<ul>
+<li>BA/BS in a technical or quantitative field.</li>
+<li>2 years' experience in SaaS or the software industry.</li>
+<li>Proven track record for taking ideas from start to finish.</li>
+<li>A passion for creating highly engaging web and mobile products.</li>
+<li>Comfort with an iterative design and development process that includes accepting and managing feedback and constructive criticism.</li>
+<li>Strong Team Player</li>
+<li>Extreme attention to detail and a self-starter.</li>
+</ul>
+<p><b>Highly desired background:</b></p>
+<ul>
+<li>Proven record building and optimizing features for server/client products.</li>
+<li>Experience with APIs and third-party integrations.</li>
+<li>Deep understanding of the software development lifecycle and Agile / Scrum methodologies.</li>
+<li>Intimate knowledge of the inner workings of service-based businesses.</li>
+<li>Security industry background</li>
+<li>Ability to derive and succinctly communicate the essence of complex challenges and systems.</li>
+</ul>
+<p><b>Benefits &amp; Perks:</b></p>
+<ul>
+<li>Competitive salary</li>
+<li>Robust medical benefits &amp; 401(k)</li>
+<li>Gym stipend</li>
+<li>Start with 17 vacation days plus your birthday off</li>
+<li>Snacks, lunches, and happy hours</li>
+</ul>
+</div></div>

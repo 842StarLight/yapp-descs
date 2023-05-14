@@ -1,0 +1,55 @@
+<h2>Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Position Title:
+</b></p>
+<p>Solutions Architect</p>
+<p><b>Who we are:</b></p>
+<p>Makpar is a small business specializing in Information Technology and Cybersecurity. Makpar is a team of innovators and consultants deploying cutting edge technologies for the federal government. We help our clients achieve their business and operational goals by solving complex problems through experience and intellect and build sustainable solutions that last. Makpar is an 8a certified, Women Owned Small Business and HUBZone company.<b> </b>If you are driven and looking to tackle complex and critical client challenges, Makpar can provide a dynamic, mission focused, and rewarding environment for your professional growth.</p>
+<p><b>The Position:</b></p>
+<p>Makpar has an exciting opportunity for a Solutions Architect to join our growing team.</p>
+<p><b>Role Specific Duties:</b></p>
+<ul>
+<li>Work as part of cross-functional Agile and SDLC project teams</li>
+<li>Oversee technical scoping and design through the entire project life-cycle from pre-sales through implementation and go-live</li>
+<li>Translate Customer requirements into comprehensive and clear technical design documents and build a corresponding solution architecture and project implementation documents</li>
+<li>Participate in research/design of new systems</li>
+<li>Participate in activities related to solution architecture, Sprint planning, and backlog grooming that are part of the Agile process as it relates to SCRUM team activities</li>
+<li>Serve as the conduit between the customer community (internal and external) and the software development team through which requirements flow</li>
+<li>Implement proposed solutions using your development experience and integrations knowledge</li>
+<li>Collaborate with developers, leadership and other architects to bring strategic technical vision into reality</li>
+<li>Facilitate/oversees the analysis and design of technology solutions to ensure business needs are met</li>
+<li>Effectively lead the elicitation and documentation of system requirements and solutions into work products</li>
+<li>Analyze and verifies requirements for completeness, consistency, comprehensibility, feasibility, and conformity to standard</li>
+<li>Create detailed functional design documents for interfaces</li>
+<li>Influence project scope to deliver effective and efficient solutions in a timely manner</li>
+<li>Coordinate with IT development teams to manage the development process and resolve issues</li>
+<li>Be a self-starter needing minimal supervision on medium to large scale projects</li>
+<li>Contribute to the creation of standardized processes and best practices</li>
+<br>
+</ul>
+<p></p>
+<p><b>Required Qualifications</b></p>
+<ul>
+<li>12+ years of relevant work experience to include business/system requirements and technical analysis</li>
+<li>Bachelor's Degree in related field of study</li>
+<li>BS in Computer Science or related area, or relevant work experience</li>
+<li>JAVA programming experience a must</li>
+<li>Knowledge of NIST 800-63-rev 2</li>
+<li>Knowledge of Revision 3 Digital Identity Guidelines</li>
+<li>Operational knowledge of Identity Management product suites like Layer 7 Siteminder (CA Single Sign-on)</li>
+<li>Understanding and application of Agile concepts such as Scrum/SAFe, Agile workflow methodologies</li>
+<li>Deep understanding of business and technology processes as well as software integration and implementation</li>
+<li>Strong oral and written communication skills; including process documentation</li>
+<li>Advanced understanding of system architecture and knowledge of software development concepts</li>
+<li>Advanced knowledge of modeling techniques (e.g., UML) and use case development as well as experience with one or more software development frameworks</li>
+<li>Possess a deep understanding of the business processes behind the applications</li>
+<li>Strong analytical, problem-solving, negotiation, task and project management, and organizational skills</li>
+<li>Experience working with agile teams on complex projects</li>
+<li>Ability to prioritize, escalate and lead efforts on complex customer requests</li>
+<br>
+</ul>
+<p></p>
+<p><b>Benefits</b></p>
+<p>At Makpar Corporation we understand that we all need to balance work and life – that is why we have a great benefits package, excellent training and career development opportunities, flexible work schedules along with a generous compensation package. At Makpar, we believe in keeping our employees happy, healthy and engaged. We pride ourselves in providing outstanding benefits, creating environments where employees are encouraged to be themselves, collaborate, and be inquisitive in order to achieve goals.</p>
+<p>Start your career today and be a part of something meaningful!</p>
+</div></div>

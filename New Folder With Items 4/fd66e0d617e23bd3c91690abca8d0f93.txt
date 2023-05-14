@@ -1,0 +1,49 @@
+<h2>Software Design Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<p>Responsible for understanding and implementing market-driven requirements to produce well-designed and robust rich media software applications. Software development using Object Oriented Analysis and Design and Object-Oriented Technology supported by Agile Processes.</p>
+</div>
+<h3 class="jobSectionHeader"><b>Responsibilities</b></h3>
+<div>
+<ul>
+<li>Design, develop, debug and test applications using Visual Studio</li>
+<li>
+Develop and document SDKs. Develop samples and applications that use the SDKs</li>
+<li>
+Implement standard design patterns and techniques where applicable</li>
+<li>
+Develop custom software to integrate with existing systems</li>
+<li>
+Performance tuning, improvement, and implementation for high availability</li>
+<li>
+Assist Sales Engineers, Tech Support and Hosting Administrators as needed</li>
+</ul>
+</div>
+<h3 class="jobSectionHeader"><b>Experience &amp; Qualifications</b></h3>
+<div><ul>
+<li>Excellent programming abilities in C# on Microsoft platform using Visual Studio</li>
+<li>
+Excellent programming abilities in Javascript with popular web application frameworks and libraries</li>
+<li>
+Experience with user experience design</li>
+<li>
+Experience with Node.js</li>
+<li>
+Experience working with a source code control system</li>
+<li>
+Knowledge of SQL Server or similar enterprise relational database</li>
+<li>
+Knowledge of with Entity Framework or similar ORM framework</li>
+<li>
+Web development experience with ASP.NET/ASP.NET MVC, JavaScript frameworks, and AJAX</li>
+<li>
+Familiarity with using IIS as a web server</li>
+<li>
+Approximately 2-5 years of experience</li>
+<li>
+Bachelor's degree in a related field necessary</li>
+</ul></div>
+</div>
+<div></div>
+</div>

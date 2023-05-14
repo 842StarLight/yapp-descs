@@ -1,0 +1,92 @@
+<h2>Senior SQL Server Database Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Market America a Global Product Brokerage and Internet Marketing company that specializes in One-to-One Marketing, is seeking a strongly experienced Senior SQL Server Database Engineer for our IT environment.
+<br><br>
+Position Summary
+<br><br>
+The Sr. SQL Server Database Engineer will work on development, implementation, delivery and maintenance of Microsoft SQL Server and other related SQL based technology systems for Market America and SHOP.COM Worldwide. This includes responsibility for SQL database development and administration for extensive custom applications supporting business operations, and for operational reporting and data warehouse analytics. The Engineer will ensure the smooth and effective operation and 24/7 availability of the systems.
+<br><br>
+Essential Duties and Responsibilities
+<br><br>
+The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+<br><br>
+The Sr. SQL Server Database Engineer is primarily responsible for:
+<br><br>
+Manage SQL Server database systems and development to deliver technology solutions in support of business strategy and growth
+<br><br>
+Leverage understanding of technical architectures, capacity planning, performance analysis, tools requirements, automation, and product implementation plans
+<br><br>
+Perform all tasks of SQL Server Database administration including database monitoring, performance tuning, migration, upgrade, installation and configuration
+<br><br>
+Produce and maintain capacity, HA and DR plans, to ensure Business Continuity
+<br><br>
+Research new tools and technologies for use within the team
+<br><br>
+Perform Data Warehouse Analysis, Design and Development.
+<br><br>
+Development of new and maintenance of existing SSIS packages and process, SSRS/tableau reports/dashboards and SSAS databases.
+<br><br>
+Development and maintenance of TSQL Queries and stored procedures.
+<br><br>
+Build, testing and deployment of MSBI components across multiple environments.
+<br><br>
+Performance tuning of TSQL Queries, stored procedures, SSIS packages and SSRS reports
+<br><br>
+Implement and manage technical architectures, capacity planning, performance analysis, tools requirements, automation, and product implementation plans
+<br><br>
+Work with different teams in Business to understand the requirements and deliver reports with accurate data based on requirements in defined timeline
+<br><br>
+Provide relational database design expertise in a fast paced, ecommerce application development environment
+<br><br>
+Education and Experience
+<br><br>
+<b>Education:</b> BS/BA Degree in Computer Science, Business or related field
+<br><br>
+7+ years of direct hands on Microsoft SQL Server including database , application design, administration and development of MSBI stack (SSIS, SSAS, SSRS/tableau).
+<br><br>
+Strong understanding on High availability setup, maintenance and management
+<br><br>
+Strong understanding on database replication setup and troubleshooting
+<br><br>
+Experience on database migration and management on AWS Cloud
+<br><br>
+Understanding of data warehousing and business intelligence architecture.
+<br><br>
+Understanding of Microsoft SQL Server database development and administration tasks
+<br><br>
+T-SQL development skills, including development of automation scripts.
+<br><br>
+Experience with Performance Tuning, including performance problem identification, remediation concepts, and interpretation of performance reports.
+<br><br>
+<b>Passionate:</b> Can bring energy and enthusiasm to the job and organization
+<br><br>
+<b>Entrepreneurial:</b> Flexible, resourceful, figure-it-out-and-get-it-done mentality
+<br><br>
+<b>Communicator:</b> Excellent listener; proven collaborator with superiors, peers and staff
+<br><br>
+<b>Achiever:</b> Consistently attains/exceeds individual and team goals
+<br><br>
+<b>Curious:</b> Inquisitive individual that likes to learn about existing code-bases/infrastructure, business processes &amp; emerging technologies
+<br><br>
+Extensive experience of managing multiple, large enterprise-class Microsoft SQL servers for High Availability, Business Continuity, Disaster Recovery and Security
+<br><br>
+<b>Experience with advanced SQL Server management functionality:</b> Replication, Log Shipping, Change Data Capture, Clustering and Always on Availability groups
+<br><br>
+Practical experience in monitoring and tuning high throughput SQL Servers to provide a high performance and high availability service
+<br><br>
+Strong knowledge of database modelling and programming techniques for both OLTP and OLAP environments; including T-SQL, stored procedures, and SSIS or other ETL applications
+<br><br>
+<b>Platform Expertise:</b> Experience with modern application architectures such as Microservices, Event Streaming, Stream Analytics, and Hybrid Cloud, as well as multiple data storage technologies (MS SQL, MySQL, NoSQL, Couchbase, UniVerse, Data Lakes, Column Store, etc.) will all be a big plus.
+<br><br>
+Market America offers competitive salary and generous benefits, including health, dental, vision, life, short and long-term disability insurance, a 401(k) retirement plan with company match, and an on-site health clinic.
+<br><br>
+Qualified candidates should apply online. This position is based in Greensboro NC. Not a telecommuting position. Relocation assistance is available.
+<br><br>
+Market America is proud to be an equal opportunity employer.
+<br><br>
+Market America | SHOP.COM is changing the way people shop and changing the economic paradigm so anyone can become financially independent by creating their own economy and converting their spending into earning with the Shopping Annuity®.
+<br><br>
+ABOUT MARKET AMERICA, INC. &amp; SHOP.COM
+<br><br>
+Currently in its 27th year, Market America, Inc. is a global product brokerage and Internet marketing company that specializes in one-to-one marketing and is the creator of The Shopping Annuity. Its mission is to provide a robust business system for entrepreneurs, while providing consumers a better way to shop. Headquartered in Greensboro, NC, the company was founded in 1992 by Chairman and CEO JR Ridinger and has generated over $8.5 billion in accumulated sales. Market America employs approximately 1,000 people globally with operations in the United States, Canada, the United Kingdom, Taiwan, Hong Kong, Singapore, Australia and Malaysia. Through the company’s primary shopping website, SHOP.COM, consumers have access to approximately 60 million products, including Market America exclusive brands and thousands of top retail brands. Market America’s revolutionary Shopping Annuity program, which helps shoppers convert their existing everyday spending into earning, is an extraordinary and financially meaningful benefit of the business. Internet Retailer has ranked SHOP.COM #65 in the 2018 Internet Retailer Top 1000, the #36 largest global online marketplace in the 2019 Internet Retailer Top 100 Online Marketplaces Database, #96 in the Internet Retailer Asia 500 and the 18th fastest growing Internet Mobile Retailer. The company is also a two-time winner of the Better Business Bureau’s Torch Award for Marketplace Ethics, was ranked 8th in the 2018 Grant Thornton North Carolina Top 100® (NC100) and received 2018’s Triad Business Journal’s “Fast 50” award as one of the top privately-held companies for sustained growth, driving the area’s economy. By combining Market America’s entrepreneurial business model with SHOP.COM’s powerful comparison shopping engine, Cashback program, Hot Deals, SHOPBuddy™, Express Pay check out, social shopping integration and countless other features, the company has become the ultimate online shopping destination.
+<br><br>
+For more information, please visit https://www.lumieredevie.com, http://www.marketamerica.com or http://www.SHOP.COM.</div>

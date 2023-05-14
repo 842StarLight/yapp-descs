@@ -1,0 +1,57 @@
+<h2>Intern Software Engineer, UI</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Founded by engineers, ExtraHop is an enterprise technology company located in downtown Seattle that helps modern businesses keep their growing infrastructures running at light speed and secure.
+</p>
+<p>We've built a network monitoring appliance capable of processing 100 Gbps of data. Our remote analysis service processes over one terabyte per hour. The solutions we build at ExtraHop are transforming the IT industry. From retail websites and point-of-sale systems to financial services and the healthcare industry.</p>
+<p>
+We're hiring interns who want to solve problems and have the skills and attention to detail to back up their ideas. We move quickly and have a drive for building elegant solutions.</p>
+<h2 class="jobSectionHeader"><b>
+Duties &amp; Responsibilities</b></h2>
+<ul>
+<li>
+Help build simple, fast, resilient, and scalable solutions using TypeScript, React and Redux</li>
+<li>
+Work with other members of our Engineering staff to help design, develop, test, and launch our product line</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<h3 class="jobSectionHeader"><b>
+Required Education &amp; Experience</b></h3>
+<ul>
+<li>
+Current student in Computer Science or related</li>
+<li>
+Strong analytical and problem solving skills</li>
+<li>
+Solid knowledge of data structures and algorithms</li>
+<li>
+Experience or aptitude for implementing scalable software</li>
+</ul>
+<h3 class="jobSectionHeader"><b>
+Desired Skills &amp; Experience</b></h3>
+<ul>
+<li>
+Previous relevant work experience or internship(s)</li>
+<li>
+Good understanding of computer networking</li>
+<li>
+Experience with Linux and CLI (Linux command line)</li>
+<li>
+Programming experience in one or more of these technologies: TypeScript, JavaScript, React, Redux</li>
+<li>
+HTML and CSS</li>
+<li>
+Active member in an IT-related organization, club, or association</li>
+</ul>
+<p><b>
+ABOUT EXTRAHOP</b></p>
+<p><b>
+ExtraHop is an enterprise cyber analytics and performance monitoring company</b> helping the world’s leading organizations understand and secure their entire environment from core to edge to cloud. Our breakthrough approach to <b>analytics and machine learning</b> helps our customers investigate threats, ensure the delivery of critical applications, and secure their investment in the cloud, resulting in 95% faster threat detection and reducing unplanned downtime by 86% while providing the best possible <b>customer experience</b>.</p>
+<p><b>
+ExtraHop</b><b> </b>is recognized by leading organizations for both its <b>innovation in the market</b> and its <b>commitment to building a world-class team</b>. We’ve been named to Wealthfront’s Career-Launching Companies list for the last four years, and JMP Securities put ExtraHop on its 2018 Super 70 List as one of the most strategically positioned private companies in the cybersecurity industry. Credit Suisse recognized ExtraHop as a member of its inaugural Disruptive Technology Recognition Program, and SC Media named ExtraHop a 2019 Industry Innovator for enterprise network traffic analysis.</p>
+<p>
+With well over <b>$100 million in bookings in 2018</b>, and <b>10x growth in security</b>, the opportunity with ExtraHop has never been greater. Are you ready to rise above the noise?</p>
+<p><i>
+ExtraHop is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, disability, military status, or national origin or any other characteristic protected under federal, state, or applicable local law.</i><br>
+<i>#LI-DNP</i></p>
+</div></div>

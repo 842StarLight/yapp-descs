@@ -1,0 +1,80 @@
+<h2>Front End Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Epiq Solutions is seeking a Front End Developer for a full time position in Schaumburg, IL. The primary responsibility of this position is to work with the Epiq software team developing and supporting single page web apps focused on cybersecurity and wireless sensing for the commercial and government market.</p>
+<p><b>SPECIFIC JOB TASKS INCLUDE THE FOLLOWING: </b></p>
+<ul>
+<li>Work with the software team to develop and release new features for single page web apps</li>
+<li>Participate in code reviews and product testing</li>
+<li>Provide support for customers, applications engineers, and the sales team</li>
+<li>Contribute to the product road map and planning processes</li>
+</ul>
+<p><b>REQUIRED SKILLS</b></p>
+<ul>
+<li>Javascript</li>
+<li>Javascript frameworks like React, Vue, Angular</li>
+<li>Java server programming - especially concurrent design</li>
+<li>Python</li>
+<li>Web development with a highly asynchronous UI + server</li>
+<li>Single Page Web Apps</li>
+<li>Websockets</li>
+<li>Design of concurrent software</li>
+</ul>
+<p><b>ADDITIONAL JOB REQUIREMENTS</b></p>
+<ul>
+<li>Bachelor's degree or equivalent experience in software development</li>
+<li>Willingness / ability to obtain a Top Secret/SCI security clearance, which requires U.S. Citizenship</li>
+</ul>
+<p><b>DESIRED SKILLS</b></p>
+<ul>
+<li>Linear Algebra</li>
+<li>Mathematics with higher dimension arrays (tensors)</li>
+<li>Mapping and Latitude / Longitude conversions</li>
+<li>Basic understanding of RF and radio transceivers</li>
+<li>Self-motivated personality and ability to work independently as well as on a team</li>
+<li>Ability to multitask between multiple projects</li>
+<li>Must be able to interact directly with a wide variety of customers, from users to engineers</li>
+</ul>
+<p><b>BENEFITS</b></p>
+<ul>
+<li>Flexible work hours and telecommuting options</li>
+<li>Generous vacation policy</li>
+<li>Health insurance</li>
+<li>401(k) matching and profit sharing</li>
+<li>Life and long term disability insurance</li>
+<li>Paid five week sabbatical every five years</li>
+<li>Competitive salary commensurate with experience and performance</li>
+<li>Fun, laid-back culture and rewarding work!</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>UI Design: 3 years (Required)</li></ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Flexible schedule</li>
+<li>Parental leave</li>
+<li>Relocation assistance</li>
+<li>Professional development assistance</li>
+<li>Tuition reimbursement</li>
+</ul>
+<p>This Company Describes Its Culture as:</p>
+<ul>
+<li>Detail-oriented -- quality and precision-focused</li>
+<li>Innovative -- innovative and risk-taking</li>
+<li>Team-oriented -- cooperative and collaborative</li>
+</ul>
+<p>Schedule::</p>
+<ul><li>Monday to Friday</li></ul>
+</div>

@@ -1,0 +1,85 @@
+<h2>IT Business System Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<ul>
+<li>Overall 12-15 plus yrs. experience</li>
+<li>
+Current ADM-201 or 211 and DEV 401 certifications a plus</li>
+<li>
+6 or more years’ experience in an admin, developer or Business Systems Analyst role supporting business units globally in sales/legal</li>
+</ul>
+<p></p>
+</div>
+<div>
+<p>Minimum Experience: 12 Yrs</p>
+<p>Functional Area:
+</p>
+<ul>
+<li>Strong analytical skills in analyzing complex problems, processes, and systems to propose solutions</li>
+<li>
+Deep understanding of Lead, Opportunity, Account Management, contracts management process</li>
+<li>
+Good understanding of related business processes like contract management, quoting, and the order/fulfilment cycle in order to support impact analysis and design for proposed solutions</li>
+<li>
+Design and implementation experience with SalesForce.com, Partner Communities and Apttus</li>
+<li>
+Experience with Sales Cloud, Salesforce Lightning and Service Cloud</li>
+<li>
+Experience with utilizing visualforce, process builder, workflow rules, Apex, SOQL, SAQL, JSON within Salesforce platform.</li>
+<li>
+Exposure to Salesforce platform integrations (inbound/outbound) using the REST/SOAP APIs, Web Services, Data Loader</li>
+<li>
+Knowledge of salesforce third party apps like Apttus would be a plus</li>
+<li>
+Ability to document interfaces and data flows</li>
+<li>
+Excellent written/verbal communication skills</li>
+<li>
+Ability to effectively manage confidentiality of information</li>
+<li>
+Ability to quickly learn new systems, processes, and technology</li>
+</ul>
+<p></p>
+<p><b>Roles &amp; Responsibilities:
+</b></p>
+<ul>
+<li>Build productive relationships with a global IT team, including BSAs, developers &amp; DBAs</li>
+<li>
+Support the evaluation, design and architecture of the Sales and Legal Technology Stack</li>
+<li>
+Understand the full Sales cycle, and design solutions that interface with SFDC, Siebel, Apttus, and Partner applications (e.g. Salesforce Communities)</li>
+<li>
+Drive a cross-functional and integrated approach to Sales and Legal solutions</li>
+<li>
+Translate business requirements into system solutions</li>
+<li>
+Analyze and determine application and interface solutions</li>
+<li>
+Design and develop complex reports as needed</li>
+<li>
+Drive and execute functional design, testing, change management and end user acceptance for projects and enhancements as needed</li>
+<li>
+Interface with relevant teams to support day-to-day systems and interfaces issues related to existing application solutions</li>
+<li>
+Suggest best practices and opportunities for improvement through automation or simplification</li>
+<li>
+Perform hands-on Salesforce system setup and configuration</li>
+<li>
+Analyze requirements to determine appropriate solution designs considering capabilities, limitations, and design trade-offs</li>
+<li>
+Document implementation considerations (Triggers, Visualforce pages, components, validation rules, and workflow rules)</li>
+<li>
+Work with consultants and/or offshore resources in support of Salesforce development work</li>
+<li>
+May perform other duties as assigned</li>
+</ul>
+<p></p>
+<p><b>Education:
+</b></p>
+<ul><li>Bachelor’s Degree in Information Systems or equivalent.</li></ul>
+</div>
+</div>
+<p></p>
+</div>

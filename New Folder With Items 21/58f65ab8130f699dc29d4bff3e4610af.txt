@@ -1,0 +1,54 @@
+<h2>Level 3 SQL DBA</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>SQL Server Database Administrator 3</b></div>
+<p><b>
+PRIMARY RESPONSIBILITY:</b></p>
+<p>
+The DBA 3 will perform database engineering and administration activities including design, planning, configuration, monitoring, automation, self-serviceability, alerting, and space management, database backup and recovery. Plan computerized databases, including base definition, structure, documentation, long-range requirements, operational guidelines and protection.</p>
+<p>
+ <b>KNOWLEDGE/SKILLS/ABILITY:</b></p>
+<ul>
+<li>
+Advanced working knowledge of SQL Server/ TSQL.</li>
+<li>
+Advanced knowledge in DR strategies including Database Mirroring, Log Shipping, SQL Replication, and AlwaysOn.</li>
+<li>
+Strong analytical and problem solving skills-you will be working on trouble tickets from client/internal sources</li>
+<li>
+ Proficient in SQL database engine administration, setup and maintenance of user and group security.</li>
+<li>
+Strong written and verbal communication skills. Ability to communicate technical info and ideas so others will understand. Ability to apply varying leadership skills and traits that create solutions and results to unexpected situations.</li>
+</ul>
+<p>
+ <b>JOB COMPLEXITY:</b></p>
+<ul>
+<li>
+Formulate and monitor policies, procedures and standards relating to database management. Provide design standards and guidance for projects and technical roadmaps.</li>
+<li>
+Evaluate the analysis of the short and long-term capacity needs for database systems.</li>
+<li>
+Read and interpret monitoring stats and tune database systems and applications for optimal performance.</li>
+<li>
+Resolve locking conflicts/blocking and resource utilization. Build tools for customers and internal teams by creating scripts or using software to automate administration tasks and DBA processes.</li>
+<li>
+Consult with customers on SQL Server including best practices and SQL Server Disaster Recovery setups.</li>
+<li>
+Participate in sales implementations vendor calls to provide advanced knowledge in the purchase of software, hardware or services that can be used to improve the performance of the database server.</li>
+<li>
+Carry out disaster recovery planning and execution including, log shipping, mirroring, replication, and AlwaysOn. Works with the product organization to assist in the roll out of new products.</li>
+<li>
+Participate in 24X7 production support for SQL Server infrastructure along with senior members of the other database services teams. Executes large sized, complex database projects. Ensures projects are properly documented.</li>
+</ul>
+<p>
+ <b>SUPERVISION</b>: Little instruction on daily work, general instruction on new assignments.</p>
+<p><b>
+ EXPERIENCE/EDUCATION:</b></p>
+<ul>
+<li>
+Bachelor’s degree in Computer Science, Computer Information Systems, Management Information Systems, or a directly related field</li>
+<li>
+5 years’ SPECIFIC EXPERIENCE AS AN MS SQL DBA IS REQUIRED.</li>
+<li>
+Appropriate certifications in MS SQL are needed.</li>
+</ul>
+#LI-BW1</div></div>

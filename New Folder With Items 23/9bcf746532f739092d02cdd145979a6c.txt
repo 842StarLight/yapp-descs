@@ -1,0 +1,31 @@
+<h2>Senior Analyst, Marketing</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">We're not your traditional tech company and we don't aim to be. Going against the grain is in our DNA. Building a revolutionary product begins with revolutionary thinking. That's why we value diversity of thought, background and experience. Together, we empower restaurants of all sizes to build great teams, increase revenue, improve operations, and delight their guests. We pair our deep understanding of the restaurant industry with powerful cloud based software and restaurant-grade hardware to deliver an intuitive all-in-one platform. Join us on our mission to empower the restaurant community to delight guests, do what they love, and thrive.
+<br><br>
+The Senior Analyst, Marketing will play a key role in the data-driven growth of marketing's contribution to Toast's growth as a member of the Marketing Operations team. By looking across Toast's data sources, the Senior growth analyst will be responsible for driving insight from the activity across all marketing channels. This role will be responsible for developing insights, drive decisions with data, and build capabilities that allow us to deliver the right marketing messages and insights to restaurants.
+<br><br>
+The Marketing Operations team plays a key role in Toast's Go-to-Market Strategy. By conceptualizing and executing operational strategies and plays, the team supports the full range of Marketing functions. The team is a resource to team members and thought partners in developing strategy and technology investments.
+<br><br>
+<b>What you will do:</b><br>
+<ul>
+<li>Develop data-driven frameworks and insights that further our understanding of how our marketing programs and channels drive lead creation and contribute to the customer journey and retention.</li>
+<li>Develop key metrics and tools that inform the segmentation, demand generation and go-to-market strategies,</li>
+<li>Build out reports and dashboards for both leadership and working teams using Salesforce, Looker, Snowflake data warehouse, Google Analytics and other tools and data sources</li>
+<li>Own the data strategy for the marketing team.</li>
+<li>Own the project to move marketing and sales attribution from first-touch to Multi-touch attribution using Bizible.</li>
+<li>Identify opportunities and develop methodologies to improve our demand generation and customer journey data collection. Drive relevancy with standardized audience segmentation, campaign targeting, and personalized data in the message content</li>
+<li>Contribute to the centralized data platform that moves data between our CRM tools and the Snowflake data warehouse to connect various touch points</li>
+<li>Seek out ways to make data more useful, accessible, and actionable for the rest of the organization</li>
+</ul>
+Do you have the right ingredients?
+<br><br>
+<ul>
+<li>Undergraduate degree in Economics, Math, Statistics, Physics or similar quantitative field; advanced degrees a plus</li>
+<li>3+ years of digital marketing, email, or CRM analytics experience</li>
+<li>Excellent SQL and Excel skills; experience with Python, r, sas, stata, etc. a plus</li>
+<li>Experience in statistical analysis (e.g., hypothesis testing and regression analysis)</li>
+<li>Experience with Tableau, Looker, or other reporting and visualization tool</li>
+<li>Strong experience with Multi-Touch attribution models and Bizible a plus</li>
+<li>Strong communication and prioritization skills, attention to detail, and ability to manage multiple projects and stakeholders in a fast-paced environment</li>
+<li>Experience with strategic thinking, turning high-level requirements to KPIs or data-driven framework to influence business decision-making</li>
+</ul>
+</div>

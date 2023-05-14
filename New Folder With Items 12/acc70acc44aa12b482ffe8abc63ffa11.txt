@@ -1,0 +1,85 @@
+<h2>SALESFORCE SOFTWARE DEVELOPER II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About CenturyLink</b><br>
+<br>
+CenturyLink (NYSE: CTL) is the second largest U.S. communications provider to global enterprise customers. With customers in more than 60 countries and an intense focus on the customer experience, CenturyLink strives to be the world’s best networking company by solving customers’ increased demand for reliable and secure connections. The company also serves as its customers’ trusted partner, helping them manage increased network and IT complexity and providing managed network and cyber security solutions that help protect their business.</p>
+<p></p>
+<br>
+<div>
+<div>
+<div>
+<b>
+Job Description</b>
+</div>
+<div><ul>
+<li>Partner in a team to design and develop solutions primarily on the Force.com platform using Apex and Visualforce.
+</li>
+<li>Develop software solutions using, Salesforce.com API framework and 3rd party APIs.
+</li>
+<li>Requirements gathering, designing, coding, debugging, performance analysis, packaging and deployment to the customer’s real-life business application on the Force.com platform.
+</li>
+<li>Work directly with customers to define requirements.
+</li>
+<li>Work as a member of a project team developing Apex, Visualforce new functionality and enhancing existing functionality.</li>
+<li>
+Design and deploy high quality, scalable code with automated testing and deployment systems, such as Jenkins and GitLab.
+</li>
+<li>Design and develop integrations between our applications and other systems as may be required by customers.
+</li>
+<li>Ensure that documentation of Apex code, as well as application use and flow, is accurate and well written.
+</li>
+<li>Troubleshoot and resolve problems.
+</li>
+</ul></div>
+</div>
+<div>
+<div>
+<b>Qualifications</b>
+</div>
+<div><ul>
+<li>Bachelor’s degree in computer science or engineering. 3 -5 years experience.</li>
+<li><div>
+ 2+ years of experience programming in Java, JavaScript.
+</div></li>
+<li>1+ years of experience with SFDC toolkit (Visual force, Apex, Triggers, Apex Data Loader, etc.).
+</li>
+<li>Experience in developing SFDC custom objects, workflow rules, approval process. Data Migration experience. Excellent understanding of Salesforce.com’s SOQL, Web Services and security model.
+</li>
+<li>Good understanding of Salesforce.com’s Sales Cloud, Service Cloud and Force.com product offerings.</li>
+<li>
+Experience with Lightning and the transition to Lightning. Experience with database concepts and data modeling capabilities. Experience developing in an Agile software development environment.</li>
+<li>
+Integrating Salesforce.com software with 3rd party solutions.
+</li>
+<li>Strong object oriented design skills and experience using design patterns.</li>
+<li>
+Solid understanding of the Software Development Life Cycle (SDLC).
+</li>
+<li>Ability to apply principles, theories and concepts and use methodologies, tools, documentation processes and test procedures to complete projects related to moderately complex software. Agile Scrum experience, working on feature based teams with product owners, using JIRA/CA Agile as the workflow engine to create and implement working software.
+ </li>
+<li>Demonstrated experience leading development teams with an ability to define quality improvement objectives.
+</li>
+</ul></div>
+</div>
+<div>
+<div>
+<b>Education</b>
+</div>
+<div><div>Bachelors or Equivalent</div></div>
+</div>
+</div>
+<p><b>
+Alternate Location:</b> US-Colorado-Broomfield</p>
+<p><b>
+Requisition #</b><b>:</b> 214393
+</p>
+<p>This job may require successful completion of an online assessment. A brief description of the assessments can be viewed on our website at http://find.centurylink.jobs/testguides/</p>
+<p><b>
+EEO Statement</b></p>
+<p>
+We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training.</p>
+<p><b>
+Disclaimer</b></p>
+<p>
+The above job definition information has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job. Job duties and responsibilities are subject to change based on changing business needs and conditions.</p>
+</div></div>

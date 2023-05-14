@@ -1,0 +1,43 @@
+<h2>Software Development Engineer |</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<ul><li></ul>
+Bachelor’s degree in Computer Science or related field, minimum of 4 years software development experience<br>
+<ul>
+<li>Alternatively (no degree) minimum of 7 years of professional software development experience</li>
+<li>Proficiency in design and analysis of algorithms and data structures</li>
+</ul>
+</div>
+<br>
+<div>Want to work on the coolest technology while growing your career, in a group that cares about people just as much as products?<br>
+<br>
+The Amazon Pay team is looking for Software Development Engineers (SDEs) to help drive the development of new features, functionality, and capabilities.<br>
+<br>
+If you’re an engineer who is looking to grow, come on board, we have 1 Principal Engineer and 4 SDE3s at the top end of a team of about 25 engineers - and they are all eager to mentor and grow you! And look up our ticket load; we passionately believe in keeping our Sev 2 load low, slowing down feature development if needed in order to address problems in our ever-growing fleet.<br>
+<br>
+Over the past 20 years Amazon has earned the trust of over 300 Million active customers by providing unprecedented convenience, selection and value on Amazon.com. Now, this same purchase experience can be made available anywhere you shop. Merchants who enable Amazon Pay make it easy for millions of the web’s most valuable consumers to safely purchase from them in just a few clicks or taps using the information already stored in their Amazon account. This helps merchants quickly turn visitors into high-value customers, lower acquisition costs, improve conversion rates, and rapidly boost sales revenue. Amazon Pay is now offered in countries in North America, Europe, and Asia, and continues to grow.<br>
+<br>
+Amazon Pay is the means by which Amazon extends its relationship with customers beyond its sites. Amazon Pay exports the convenience, trust, and preference for Amazon across the web, apps, and other connected devices. Our goal is to become the method that every customer chooses to pay a merchant, worldwide. Amazon is bringing together its unrivaled customer data, world-class personalization technologies and unique positioning within the ecommerce value chain to enable other retailers and partners to create unique commerce and purchase experiences that benefit buyers and merchants globally. With a relentless obsession for our customers – both merchants and buyers – we are growing rapidly and offer a unique opportunity to join a small, high-visibility organization that has the potential to contribute to a sizeable part of Amazon’s overall growth.<br>
+<br>
+We have challenging problems to solve in payments domain including connected payments experiences across various devices, voice first and performance engineering. We intend to be the world's best and fastest payments, built by an excellent team, all while having fun.<br>
+<br>
+It is day 1. Join us to become the founding member of a new initiative that involves Amazon Pay, and Internet of Things. Not only do we deliver high-impact customer facing applications, we also focus on learning, sharing, innovating and having fun at work. Here is a list of things we do differently:<br>
+<ul>
+<li>We have significant influence on overall strategy.</li>
+<li>We have a lot of diversity in the technologies we use.</li>
+<li>We are fast paced—like really fast.</li>
+<li>We support and encourage learning and sharing new technologies and skills.</li>
+<li>We have almost zero operational overhead.</li>
+</ul>
+</div>
+<br>
+<ul>
+<li>Proficiency developing in at least one if the following programming languages: C, C++, Java, C# or Python</li>
+<li>Linux / UNIX system experience</li>
+<li>Knowledge of database system internals</li>
+<li>Proficiency in object-oriented design</li>
+<li>Hands-on experience with AWS APIs and services</li>
+<li>Effective verbal and written communication skills</li>
+<li>Master's or Ph.D. degree in Computer Science</li>
+</ul>
+</div>

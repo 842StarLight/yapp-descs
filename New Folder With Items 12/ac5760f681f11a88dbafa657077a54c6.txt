@@ -1,0 +1,31 @@
+<h2>Senior Net Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>The Senior .NET Developer fills a unique role, working with business operations to develop and/or integrate technology solutions, and manage the ongoing technical design and development of the organization’s SaaS product. This role will report to the President and work in a cross-functional capacity with operations, product management, customer support, and sales, while also working as the technical lead of a virtual team of developers on a mature cloud-based platform in an Agile environment.</p>
+<p>
+The ideal candidate thinks mobile-first, cloud-based, high-quality, and long-term maintainability of all work products. This role is expected to have an expert knowledge of modern software development principles and patterns and how to apply those to solutions using Microsoft .NET and Microsoft technologies. The role is expected to spend approximately 25% of time working cross-functionally within the organization, 25% of time leading the engineering team, and the remainder in hands-on development of the SaaS product and business operations solutions.</p>
+<p><b>
+Job Requirements:</b></p>
+<ul><li>Work with product owners and project management to establish and manage development backlogs, aid in establishing development timelines, and align development work to appropriate resources</li></ul>
+<ul><li>Drive and mentor the engineering team through management and direct contribution to produce high-quality work products through unit testing, automated QA testing (working with QA resources), and work retrospectives</li></ul>
+<ul><li>Review and assess code quality (via pull requests)</li></ul>
+<ul><li>Communicate routinely, clearly both written and verbally effectively with senior management</li></ul>
+<ul><li>Design and develop technical solutions that enhance the SaaS product</li></ul>
+<ul><li>Design, develop, and integrate 3rd party solutions as necessary to improve and support business operations</li></ul>
+<ul><li>Present staff planning recommendations for in-house, onshore and offshore engineering resources and provide technical screening and testing of new engineering candidates</li></ul>
+<p><b>
+Qualifications:</b></p>
+<ul><li>Bachelor’s degree in computer engineering, or related field</li></ul>
+<ul><li>8+ years back-end C# and SQL Server development, expert level</li></ul>
+<ul><li>2+ years cloud development experience, either Azure or AWS, with specific experience in platform features</li></ul>
+<ul><li>Proven ability to lead teams to improve performance.</li></ul>
+<ul><li>Strong understanding and use of DevOps as part of the development process</li></ul>
+<ul><li>Experience working for a SaaS based company developing a cloud-based solution</li></ul>
+<ul><li>Deep understanding of mobile platforms, specifically IOS and Android</li></ul>
+<ul><li>Experience working with compliance requirements, specifically PCI-DSS, a plus</li></ul>
+<p><b>
+Benefits and Perks include:</b></p>
+<ul><li>Medical and Dental insurance</li></ul>
+<ul><li>401 (k)</li></ul>
+<ul><li>Paid holidays</li></ul>
+<ul><li>Accrued paid time off, beginning your first pay period</li></ul>
+</div></div>

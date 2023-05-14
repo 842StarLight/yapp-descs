@@ -1,0 +1,33 @@
+<h2>Software Engineer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>We are EA:</b><br>
+And we make games – how cool is that? In fact, we entertain millions of people across the globe with the most amazing and immersive interactive software in the industry. But making games is hard work. That’s why we employ the most creative, passionate people in the industry.
+<br><br>
+<b>The Challenge Ahead:</b><br>
+The EA Digital Platform Data Group is responsible for developing a new unified Big Data pipeline across all franchises at Electronic Arts. This platform will incorporate data collection, ingestion, processing, access and visualization all built on a modern, cloud based tech stack with best-in-class tools. The Data Group will provide the tools and platform which powers the future state of game development, marketing, sales, accounting and customer experience.
+<br><br>
+We are looking for seasoned developers who are interested in working on a large scale distributed data system from the ground up for one of the most creative, innovative companies in technology.
+<br><br>
+<b>Responsibilities:</b><br>
+Help define and build a unified data platform across EA, spanning 20+ game studios as data sources
+<br>Develop infrastructure software that slice and dice data, using Hadoop and Map/Reduce
+<br>Design and Develop reporting systems that inform on key metrics, detect anomalies, and forecast future results
+<br>Develop complex queries to solve data mining problems
+<br>Write reliable and efficient programs scaling to massive (petabyte) datasets and large clusters of machines
+<br>Flexibility to work with both SQL and NoSQL solutions
+<br>Work closely with data modelers, business data analysts, and BI developers to understand requirements, develop ETL processes, validate results, and deliver to production
+<br>Analyze and improve efficiency, scalability, and stability of data collection, extraction, and storage processes
+<br><br>
+<b>Required Skills:</b><br>
+Significant experience working with large-scale systems and data platforms/warehouses
+<br>A solid foundation in computer science, with strong competencies in algorithms, data structures, and software design
+<br>Several years of software development experience, writing clean re-useable code, test-driven development, and continuous integration
+<br>Extensive experience with MapReduce, Hadoop, Hive, or other NoSQL stacks a strong plus
+<br>Fluency with an Object Oriented language including Java AND/OR C++, and SQL, Perl/Python
+<br>Fast prototyping skills, familiarity with scripting languages such as bash, perl, awk, python
+<br>Experience working with columnar analytics databases or relational databases is a plus
+<br>Experience with data modeling and BI tools is a plus
+<br>Self-directed and capable of working effectively in a highly dynamic fast-paced environment
+<br>Great communication, time-management, and teamwork skills
+<br><br>
+Must have an advanced Computer Science degree</div>

@@ -1,0 +1,43 @@
+<h2>Developer Tools Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Yesware helps our users spread the adoption of new ideas, person to person. We build innovative software that follows salespeople through their day, enhancing their productivity, helping them be more authentic, and delivering data-driven recommendations that help them win business. We are building out a Developer Tools function to enhance our talented development org.
+<br><br>
+As a Developer Tools Engineer at Yesware, you will be accelerating product development by making our engineers more productive. You will utilize a data-driven approach to measure and improve our developer throughput. You will create a development environment that engineers love to use because it is easy to work with and gives developers confidence. You will reduce test cycle time, make it easy to add new tests, improve our sandbox and staging environments, and help engineers design for testability. This role provides ample opportunity to apply previous experience, develop new skills, and be a part of a growing company.
+<br><br>
+Yesware has a feature-rich backend architecture and data platform, along with apps for Gmail, Outlook, and the web, which collectively serve over 100K users worldwide. We run a Javascript and Ruby on Rails stack hosted on the Heroku PaaS. Our systems are disconnected macro- and microservices communicating via REST APIs and asynchronous message queues. We use PostgreSQL, MongoDB, Redis, RabbitMQ, and Snowflake to store and communicate customer data at scale.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Challenge us to find more efficient ways to develop, test, and deploy</li>
+<li>Anticipate and proactively address blockers before they become widespread</li>
+<li>Improve engineering productivity using a metric-driven approach -- we’re looking to you to establish metrics, monitor, and iterate</li>
+<li>Extend or replace existing development and deployment tools</li>
+<li>Develop, enhance, and review test automation tools, frameworks, and infrastructure</li>
+<li>Automate as much as possible</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Experience implementing development tools such as version control systems, build or test systems, deployment utilities, etc.</li>
+<li>Experience in Ruby, Python, Java, or similar environments</li>
+<li>Experience with software development in a Unix-based environment and writing/maintaining shell scripts, preferably in Bash</li>
+<li>Excellent software development habits (object-oriented design, unit testing, integration testing, data structures, etc.)</li>
+<li>Excellent oral and written communication skills</li>
+<li>Emotional maturity and adaptability</li>
+</ul>
+<b>Nice-to-Haves:</b><br>
+<ul>
+<li>Experience working with a large, high-scale web application (well-designed APIs, high volume data pipelines, efficient algorithms, etc.)</li>
+<li>Experience with developer technologies such as TeamCity, GitHub, Docker, Homebrew, Ansible</li>
+<li>Experience working with SQL and/or NoSQL databases at scale</li>
+<li>Experience supporting cloud-hosted SaaS applications in a DevOps capacity</li>
+<li>Experience developing SaaS offerings</li>
+</ul>
+<b>About the Company:</b><br>
+Yesware is a team of smart, ambitious, kind people working together to empower each other and our customers. We build, market, and sell a one-of-a-kind sales platform that helps salespeople sell smarter, right from their inbox.
+<br><br>
+You can find us on the top floor of our building, conveniently located in downtown Boston. We offer competitive compensation comprised of salary, equity and bonuses. We also offer a growing list of benefits: health, dental, 401(k), life insurance, unlimited vacation days, flexible spending account, as well as gym and public transportation reimbursement. Additional perks include weekly yoga and meditation classes, a fully stocked kitchen, free daily catered lunch, and a ride home with Lyft when you need it.
+<br><br>
+We are proud to be venture-backed by investors including the Foundry Group, Battery Ventures, and Google Ventures. Our customers range from young startups of all sizes, to some of the biggest names in business, like Yelp, Acquia, Groupon, Zendesk, and many more. We live out our core values every single day in a mission to serve our customers and to make Yesware the best place we’ve ever worked.
+<br><br>
+Yesware is committed to developing a culture that embraces diversity and fosters inclusivity. We do this because it makes us stronger as individuals, as a business and it is simply the right thing to do. We know that diversity comes in many forms, so we welcome employees from all walks of life to bring their differing experiences and perspectives to Yesware. Together, we can build an environment where every member of our team can bring their authentic self to work, be heard, and work toward achieving their professional potential.
+<br><br>
+Read more about us at www.yesware.com/company [http://www.yesware.com/company]</div>

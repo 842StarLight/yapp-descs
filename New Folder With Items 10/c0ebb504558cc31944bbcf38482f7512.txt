@@ -1,0 +1,65 @@
+<h2>VP of Global SaaS Operations</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>VP of Global SaaS Operations</b></p>
+<p><b>
+POSITION SUMMARY</b></p>
+<p>
+As Vice President of Global SaaS Operations, you will manage Aktana’s global production environment with services ranging in requirements from 3 nines to 4 nines. Aktana’s solutions are an integral part of global sales and marketing strategy execution and optimization for life science industries. You will manage the operating team as well as our infrastructure. At AKtana we embrace an infrastructure-as-code approach to system engineering. Our system must be self-healing and self-scaling. The ideal candidate is driven to operate a highly scalable, fault-tolerant, and easy to administer SaaS infrastructure for deploying, configuring, monitoring, maintaining, and troubleshooting Aktana services. You are pro-active and organized, diligent about documentation, can’t sleep unless Nagios has everything covered, and don’t feel a job is done until it’s automated for the next time. This is an opportunity to grow our global operations team, the process, and the way our overall infrastructure is run.</p>
+<p><b>
+LOCATION</b></p>
+<p>
+San Francisco, CA</p>
+<p><b>
+REPORT TO</b></p>
+<p>
+CTO</p>
+<p><b>
+RESPONSIBILITIES</b></p>
+<ul>
+<li>Manage, motivate, lead, and retain a global team of systems operators to manage our global infrastructure.</li>
+<li>Work with platform and application teams to define standards for applications to be hosted in our environment. Collaboratively design an operating environment and application architecture which can deliver four nines or more of production reliability.</li>
+<li>Ensure all applications have appropriate monitoring and remediation for all foreseeable systems issues.</li>
+<li>Design and maintain an incident response regime for all applications. Oversee a routine drilling plan and chaos monkey approach to ensure the team s and system s readiness to deal appropriately with any incident.</li>
+<li>Complete the migration of all services to infrastructure-as-code approach.</li>
+<li>Working with your team and systems, deliver operating results of the specified uptime and performance characteristics for each application.</li>
+<li>Participate as a member of the engineering leadership team to foster an environment of high trust, high collaboration, and shared accomplishment on the team.</li>
+</ul>
+<ul>
+<li>Establishing operational objectives, strategies and work plans to improve current operations as well as planning for future products and customer requirements.</li>
+</ul>
+<ul>
+<li>Establishing and assuring adherence to budgets, schedules, work plans and performance requirements.</li>
+<li>This role involves infrastructure implementation and cross-functional collaboration with Customer Success and R&amp;D to meet our business goals in a fast-pace environment.</li>
+</ul>
+<p><b>REQUIRED SKILLS/EXPERIENCES</b></p>
+<ul>
+<li>Excellent troubleshooting, debugging, and problem solving skills.</li>
+<li>Experience in managing Global SaaS Operations and Infrastructure is a must.</li>
+</ul>
+<ul>
+<li>Infrastructure Engineering: Proven experience capacity planning, performance tuning, and infrastructure architecture. Understanding of scaling horizontally and vertically web, application and data systems.</li>
+<li>You have managed CapEx planning, contract/vendor relations, and asset inventory management.</li>
+<li>Minimum two years of supervisory or managerial experience with proven ability to engage, motivate, evaluate and mentor team members for delivering high quality SaaS offerings.</li>
+</ul>
+<ul>
+<li>Must be able to work a flexible work schedule that may include nights, weekends, and holidays</li>
+</ul>
+<ul>
+<li>At least 10 years prior experience managing very high reliability SaaS Operating environments and distributed global operations team with proven ability to engage, motivate, evaluate and mentor team members for delivering high quality SaaS offerings.</li>
+</ul>
+<ul>
+<li>Demonsrated history of managing teams of operations in a 24/7/365 mission critical environment, including managing around-the-clock global operating teams</li>
+</ul>
+<ul>
+<li>Experience designing and operating systems in IaaS envrionments</li>
+</ul>
+<p><b>EDUCATION</b></p>
+<ul>
+<li>BS/MS degree in Computer Science or related fields and/or equivalent work experience.</li>
+</ul>
+<p><b>ABOUT AKTANA</b></p>
+<p>
+Committed to customer success and innovation, Aktana is at the forefront of transforming how life sciences companies share information with healthcare providers (HCPs). Our proprietary platform harnesses machine learning algorithms to enable marketing and sales teams to seamlessly coordinate and optimize multichannel engagement with HCPs. Today 10 of the top 20 global biopharmaceutical companies are using Aktana to go to market smarter.</p>
+<p>
+Aktana is growing fast and looking for exceptional talent to join our team. We value hard work, transparency, and collaboration – and we like to have fun too! Headquartered in San Francisco, we have offices around the world, including Philadelphia, New York, London, Sydney, Sao Paolo, Barcelona, Tokyo, Osaka, and Shanghai.</p>
+</div></div>

@@ -1,0 +1,145 @@
+<h2>Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>The goal of a Solutions Architect is to solve challenging problems for some of the biggest brands in the digital economy. You will work with customers like LinkedIn, Amadeus, Concur and other high profile organizations, as well as with some of the newest database technologies to deploy solutions that benefit millions of users use every day.</div>
+<div>
+<br>
+</div>
+<div>
+Solutions Architects are not your typical consultants – In this role, you will be responsible for making our most strategic customers successful. This team solves real world problems, using brand new technology which bundles indexing, key value access, nickel, N1QL and full text search.</div>
+<div>
+<br>
+</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Responsibilities</b></h3>
+<div><ul>
+<li>
+Lead short / medium term engagements at the client location focusing on getting the product up and running, conducting architecture and use case reviews, sizing &amp; tuning Couchbase and recommending deployment topologies.
+</li>
+<li>Help our customers succeed by solving their challenging technical problems, all the way from design through to production operations. This means working on hands-on customer issues, and escalating problems as needed</li>
+<li>
+Assist with all phases of Couchbase implementations, starting with installation, architecture design and review, deployment topology planning, tuning and providing best practices</li>
+<li>
+Contribute to internal technical projects, which can include software development, benchmarking, troubleshooting</li>
+<li>
+Work closely with the sales team and presales team on technical escalations and help grow opportunities in existing accounts</li>
+<li>
+Assist with customer PoC/Pilots through effective management of acceptance criteria and issue escalation/resolution</li>
+<li>
+Work with all technical levels from managers, to architects and developers and explain the Couchbase Server technology and architecture</li>
+<li>
+Be the technical product expert for customers and stay up-to-date on the NoSQL competitive landscape</li>
+<li>
+Identify and write internal and external technical collateral, like typical deployment architectures or best practices</li>
+<div></div>
+<br>
+<div>
+</div>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Preferred Qualifications</b></h3>
+<div><ul>
+<li>
+At least 5+ years experience in consulting for enterprise back-end software, ideally database technologies</li>
+<li>
+3+ years experience with traditional RDBMS including schema modeling, performance tuning and configuration</li>
+<li>
+Strong background Application design and development, Systems administration, Database administration, Data architecture and design, Performance tuning and benchmarking</li>
+<li>
+Experience engaging with developers and programming experience in at least two of Java/.NET/C/C++/Node.js</li>
+<li>
+Hands-on administration and troubleshooting experience with x86 operating systems (Linux, Windows, Mac OS), networking and storage architectures</li>
+<li>
+Familiarity with NoSQL databases or other distributed high-performance systems</li>
+<li>
+Prior experience in a fast-paced startup environment</li>
+<div>
+<br>
+</div>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Minimum Qualifications</b></h3>
+<div><ul>
+<li>
+Strong diagnostic/ troubleshooting process, with significant experience troubleshooting real, end-to-end technical issues</li>
+<li>
+Excellent communication and presentation skills with an ability to present technical solutions concisely from small to large audience</li>
+<li>
+Demonstrated critical thinking and advanced troubleshooting skills and qualities</li>
+<li>
+BS in Computer Science, Engineering or equivalent experience in software and/or a technologically relevant field</li>
+<li>
+Ability to travel at least 50% of the time is required.</li>
+<div>
+<br>
+</div>
+</ul></div>
+</div></div>
+<div>
+<div><b>About Couchbase</b></div>
+<div>
+<br>
+</div>
+<div>
+Unlike other NoSQL databases, Couchbase provides an enterprise-class, multicloud to edge database that offers the robust capabilities required for business-critical applications on a highly scalable and available platform. Couchbase is built on open standards, combining the best of NoSQL with the power and familiarity of SQL, to simplify the transition from mainframe and relational databases.</div>
+<div>
+<br>
+</div>
+<div>
+Couchbase’s HQ is conveniently located in Santa Clara, CA with additional offices throughout the globe. We’re committed to a work environment where you can be happy and thrive, in and out of the office.</div>
+<div>
+<br>
+</div>
+<div>
+At Couchbase, you’ll get:</div>
+<ul>
+<li>A fantastic culture</li>
+<li>A focused, energetic team with aligned goals</li>
+<li>True collaboration with everyone playing their positions</li>
+<li>Great market opportunity and growth potential</li>
+<li>Time off when you need it.
+</li>
+<li>Regular team lunches and fully-stocked kitchens.</li>
+<li>Open, collaborative spaces.
+</li>
+<li>Competitive benefits and pre-tax commuter perks</li>
+</ul>
+<div>
+<br>
+</div>
+<div>
+Whether you’re a new grad or a proven expert, you’ll have the opportunity to learn new skills, grow your career, and work with the smartest, most passionate people in the industry.</div>
+<div>
+<br>
+</div>
+<div>
+Revolutionizing an industry requires a top-notch team. Become a part of ours today. Bring your big ideas and we'll take on the next great challenge together.</div>
+<div>
+<br>
+</div>
+<div>
+Check out some recent industry recognition:</div>
+<ul>
+<li>Couchbase Named a Leader: Forrester Wave Big Data NoSQL Report</li>
+<li>Wealth Front Career-Launching Companies List 2018</li>
+<li>2018 Deloitte Fast 500</li>
+<li>Forbes Next Billion-Dollar Startup 2018</li>
+<li>2018 DBTA Readers’ Choice Award for Best In-Memory Solutions</li>
+<li>Big Data 100: 35 Coolest Data Management And Integration Vendors</li>
+<li>No. 17 on Forbes’ list of Best Big Data Companies to Work For in 2017</li>
+</ul>
+<div>
+<br>
+</div>
+<div>
+Want to learn more? Check out our blog: https://blog.couchbase.com/</div>
+<div>
+<br>
+</div>
+<div>
+Couchbase is proud to be an equal opportunity workplace and is dedicated to pursuing, hiring and developing a diverse workforce. Individuals seeking employment at Couchbase are considered without regards to age, ancestry, color, gender (including pregnancy, childbirth, or related medical conditions), gender identity or expression, genetic information, marital status, medical condition, mental or physical disability, national origin, protected family care or medical leave status, race, religion (including beliefs and practices or the absence thereof), sexual orientation, military or veteran status, or any other characteristic protected by federal, state, or local laws.</div>
+</div>
+</div></div>

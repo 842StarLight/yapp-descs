@@ -1,0 +1,91 @@
+<h2>Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>What you’ll be doing...</b>
+</p>
+<p>Exciting opportunities exist within the Verizon Global Presales Engineering organization. As a Solutions Architect, you will be an integral part of a talented team collaborating with our clients’ on their Digital Transformation. The Custom Bid Support Teamprovides insight, guidance, and ownership for pre-sales activities including the end to end technical and service management solutions, transition and transformation strategies, and partner identification and selection for high complexity deals across all established Enterprise verticals and the Public Sector. The team will provide architectural ownership and solution management across all solution towers while focusing on innovative approaches to optimizing the pre-sales process and addressing critical business challenges. Solutions Architects will support solving customer business problems in the large global enterprise space, leveraging and customizing Verizon assists and capabilities to win the largest deals within Verizon Business Group.</p>
+<p>
+You will seek to build deep, consultative technical relationships with your customers, effectively becoming a trusted adviser. An SA is ideally positioned to understand the customer's high-level objectives and match these to Verizon solutions in order to satisfy business and technical requirements.
+</p>
+<ul>
+<li>Integral part of a team to identify and qualify business opportunities and develop the strategy to resolve technical matters.</li>
+<li>
+Recommend integration strategies, enterprise architectures, platforms and application infrastructure required to successfully implement a complete solution using best practices.</li>
+<li>
+Support the technical relationship with Verizon customers, including managing product and solution briefings, proof-of-concept work, and the coordination of additional technical resources. Work directly with customers to create solutions and use cases that leverage Verizon product integrations that generate business value.</li>
+<li>
+Articulate the Verizon Enterprise vision on technologies and solutions towards the Client; positions Verizon Enterprise as thought leader on key technological developments.</li>
+<li>
+Lead prioritization of Customer solution / technical requirements and champions resolution of solution / product gaps internally (also towards Product Groups).</li>
+<li>
+Develop individual skill set and expand product knowledge to maximize value and to deliver quality services to our clients. This includes attaining designated certification requirements and attending product-specific training, reviewing technical literature, and obtaining hands-on experience.</li>
+<li>
+Lead optimization and automation of Deal Lifecycle Management and complex pre-sales processes to address inefficiencies and resolve challenges.</li>
+<li>
+Help develop a knowledge base of technical responses to maximize response times and deliver consistent, quality solutions to our customers.</li>
+</ul>
+<p><b>
+What we’re looking for...</b>
+</p>
+<ul>
+<li>4+ years of relevant experience in the tech industry with experience in pre-sales, customer-facing consulting or other relevant technical experience.</li>
+<li>
+BA/BS degree, specialized or equivalent experience.</li>
+<li>
+Strong professional communications abilities, both oral and written, with a strong ability to present solutions and value propositions.</li>
+<li>
+Strong behavioral competencies around emotional intelligence, collaboration, active listening and conflict management.</li>
+<li>
+Experience architecting and developing software or infrastructure for large, complex systems across multiple technologies.</li>
+<li>
+Experience consulting customers in Digital Transformation efforts that involve significant organization, process, and technology change.</li>
+<li>
+Experience architecting and developing LAN/WAN or large infrastructure and network solutions for enterprise customers.</li>
+<li>
+Experience with networking concepts including: software defined networking, routing, VPNs, load balancers, and firewalls. (Can be customized by technology and experience)</li>
+<li>
+Experience in and understanding of data and information security - especially as it relates to issues within businesses.</li>
+<li>
+Experience around wireless technologies (4G/5G/WiFi) and IoT platforms.</li>
+<li>
+Experience with ITSM and managed service models.</li>
+<li>
+Ability to quickly learn, understand, and work with new emerging technologies, methodologies and solutions in the cloud/IT technology space (DevOps, Network Function Virtualization, AI/Machine Learning/Natural Language Processing, etc.)</li>
+<li>
+Gathered industry knowledge and experience in two or more of the following areas: Software Defined Networking (SDN), IT infrastructure and systems security, cloud or network systems management, and business continuity.</li>
+</ul>
+<p><b>
+Even better if you have...</b></p>
+<ul>
+<li>
+MA/MS degree in engineering or computer science.</li>
+<li>
+Run multiple projects or deals under tight timelines.</li>
+<li>
+Security, architecture, and industry certifications such as AWS Solution Architect, Certificate of Cloud Security Knowledge (CCSK), CompTIA Security+, Cisco Certified Design or Network Associate, ITIL Foundations, or similar.</li>
+<li>
+Hands on experience. It could be implementing or designing two or more of the following: Data and IP Services Managed Operations; Security Services; Call Center Technologies and or IT Applications Management
+</li>
+</ul>
+<p><b>Why Verizon?</b><br>
+<br>
+At Verizon, we do much more than sell technology. We deliver game changing solutions that enhance the agility, productivity and global reach of businesses.
+</p>
+<p>We lead. Others follow. No-one can match our capability to design, build and operate integrated global networks, cutting-edge information systems and mobile technologies. We use our expertise to create powerful answers to today’s business issues. We’re inspired to solve the toughest challenges. We relish the chance to shape tomorrow’s biggest ideas. Are you ready to enhance a best in class enterprise sales team that thrives on teamwork and collaboration? Can you see yourself delivering technology and innovative solutions that connect people the world over and transform the way communities live, work and play? Do you want to change the way the world works? Welcome to Verizon – a company you can be proud to represent and be a part of.</p>
+<p>
+Along with Verizon’s exceptional benefits package, we are focused on our corporate responsibility and giving back to communities. We encourage our employees to be active supporters and members of society and to partner with us to improve our social conditions.
+</p>
+<p><b>The future</b><br>
+<br>
+Ours is a powerful and growing business. Verizon has revenues of $120.6 billion and a workforce in more than 150 countries. We’re a leader in transforming enterprises, including 97% of the Fortune 1000. We’re also a business that invests in its people. Last year Verizon spent more than $275 million on employee training, development and tuition. This enabled us to hone the skills of all our people. So as you contribute to our business, we’ll make sure you grow. And get the rewards you deserve. Competitive salaries are enhanced by plenty of incentive awards for sales performance.</p>
+<p><b>
+When you join Verizon...</b>
+</p>
+<p>You’ll be doing work that matters alongside other talented people, transforming the way people, businesses and things connect with each other. Beyond powering America’s fastest and most reliable network, we’re leading the way in broadband, cloud and security solutions, Internet of Things and innovating in areas such as, video entertainment. Of course, we will offer you great pay and benefits, but we’re about more than that. Verizon is a place where you can craft your own path to greatness. Whether you think in code, words, pictures or numbers, find your future at Verizon.</p>
+<p><b>
+Equal Employment Opportunity</b>
+</p>
+<p>We're proud to be an equal opportunity employer- and celebrate our employees' differences,including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.</p>
+</div>
+<p></p>
+</div>

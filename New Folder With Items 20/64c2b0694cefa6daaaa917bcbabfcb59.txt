@@ -1,0 +1,89 @@
+<h2>Cloud Provisioning Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Software Resources has an immediate long term contract job opportunity for a Cloud Provisioning Engineer with a major corporation in Lake Buena Vista, FL.</b>
+<br>
+<br>
+<b>Required</b>:
+<ul>
+<li>Strong AWS experience. Design experience in an enterprise environment. Experience in a system engineer/devops role.</li>
+<li>Experience/Familiarity with some technologies used by our teams: Angular.js, Node.js, Spring/Java</li>
+<li>You should have a general understanding of how the internet works</li>
+<li>Experience with architecting highly scalable and highly available systems</li>
+<li>Experience with web and mobile</li>
+<li>Excellent communication and relationship skills, especially the ability to articulate advanced technical topics to both technical and non-technical staff; ability to articulate business issues/concerns with staff, peers, superiors, and outside parties</li>
+<li>Strong presentation skills.</li>
+<li>Demonstrates expertise in research, often going outside of their area of individual experience.</li>
+<li>Deep technical experience in consumer and employee facing enterprise systems</li>
+<li>Required knowledge and understanding of technical architecture, application systems design and integration in a large heterogeneous enterprise environment with hands on experience in</li>
+<li>Exposure to cloud development and migration an added plus</li>
+<li>Desire and ability to adapt to an ever changing technology landscape by exploring new languages and techniques for software delivery.</li>
+<li>Passion for learning new things but tempering it with adding value to the company.</li>
+<li>Demonstrable analytical and problem solving skills</li>
+<li>Ability to contribute to, and balance delivery against, multiple projects/demands simultaneously.</li>
+</ul>
+<b>Basic Qualifications:</b>
+<br>
+Cloud engineer with a minimum 2 plus years of Amazon. They will be responsible for releasing automating system to do the provisioning and engineering the design and programming on systems tasks. If they have worked with Amazon launched and provisioned Terraform and provision rather than get on the UI and do it by hand.
+<br>
+<br>
+<b>PROVISIONING</b>:
+<ul>
+<li>Above average Linux knowledge, especially with regard to running process, storage admin and command line tools to triage issues</li>
+<li>Good understanding of networks, including routing, DNS, and sub-nets</li>
+<li>Cloud admin experience (defining/configuring resources via a scripting tool, not just using the UI)</li>
+<li>AWS exposure preferred, but Azure or Google is okay too.</li>
+<li>Scripting (e.g., bash, korn shell, etc.) for automating rote tasks on a *nix platform</li>
+<li>Docker, Containerizing</li>
+</ul>
+<b>ENGINEERING:</b>
+<ul>
+<li>All of the provisioner skills, at an advanced level
+<ul>
+<li>Expert level ability in a programming language other than bash/korn shell for something other than simple scripts</li>
+<li>e.g., Ruby, Perl, Python, JavaScript.</li>
+</ul>
+</li>
+<li>Used with a programming editor/IDE, not just vi or simple editor</li>
+<li>Understands, and writes test as a deliverable part of any programming effort</li>
+<li>Has used source control apps, understands branching</li>
+<li>Understands and has used (or better yet designed/implemented) a CI-CD process</li>
+<li>Understands containerization, has administered/configured Docker</li>
+<li>Understands and can create requirements/documentation suitable for use by other techs, including diagrams</li>
+<li>Understands system/network security</li>
+<li>ACLs, IP tables</li>
+<li>SSL/certs</li>
+<li>Firewalls</li>
+<li>Docker, Containerizing</li>
+<li>Has developed/worked using agile methodology</li>
+<li>Has worked as an app developer, created/deployed distributed services for a commercial concern</li>
+<li>Has a basic understanding of databases, DDL, etc. and/or has worked with an RDBMS (Oracle, MySQL)</li>
+<li>Has exposure to any of the following tools/products:
+<ul>
+<li>Terraform</li>
+<li>Chef</li>
+<li>Consul Vault</li>
+<li>Akamai</li>
+<li>Rundeck</li>
+</ul>
+</li>
+</ul>
+<b>Required Education:</b>
+<br>
+Bachelors or Equiv. Exp.
+<br>
+<br>
+<b>Don't delay. Join the Software Resources team today!</b>
+<br>
+Software Resources specializes in connecting talented IT professionals with challenging job opportunities that transform jobs into careers.
+<br>
+To meet our clients hiring needs, we continuously source talented IT Professionals with all levels of expertise and in all disciplines. We offer world class major medical, dental and vision benefits, 401(k) with match, short term disability, Life Insurance and AD&amp;D. You, our future employees, can make a tremendous difference to our company and our clients. Please apply to this job and experience the Software Resources difference. You can view all of our jobs at https://www.softwareresources.com/careers/
+<br>
+<br>
+<b><i>Company Overview</i></b>
+<br>
+Software Resources is a national staffing and recruitment firm delivering the best candidates to our clients and the best jobs to our candidates since 1992.
+<br>
+We are a certified woman owned business in business to place contract, contract-to-hire, and direct-hire talent in Technology (IT, creative, marketing), finance, accounting, and executive-level positions. We serve many vertical markets including Entertainment/Media, Cruise Industry/Leisure travel, Hospitality, Government, Personal Care, Professional Services, Energy/Utilities, Security, and Financial Services.
+<br>
+<br>
+Headquartered in Lake Mary, FL in the Orlando metro area, we have branches and sales professionals across the US. Wherever you're located and whatever the need, count on Software Resources to provide exceptional candidates who are fully vetted and ready to go. Call (800) 774-8036 or visit us online at https://www.softwareresources.com/ and leave the recruiting to us!</div></div>

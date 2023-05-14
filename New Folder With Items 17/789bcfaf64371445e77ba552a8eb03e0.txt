@@ -1,0 +1,50 @@
+<h2>VP Software Development</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>RESPONSIBILITIES</b></p>
+<ul>
+<li>Provide leadership and direction to all IT teams: Software Development, Quality Assurance, System Administration, and Security</li>
+<li>Partner with Sr VP of Product to ensure timely and complete delivery of new features and enhancements</li>
+<li>Collaborate with product management, marketing, sales, accounting, and legal to<br>
+ensure products are innovative, deliver value, and comply with appropriate regulations<br>
+and policies.</li>
+<li>Oversee technology infrastructure and security at multiple data centers and the<br>
+corporate office to ensure 100% availability</li>
+<li>Manage talent acquisition process for IT department and facilitate performance<br>
+management reviews.</li>
+<li>Ensure department managers are providing development of training materials along<br>
+with training coaching and mentoring for their team members</li>
+<li>Maintain awareness and knowledge of latest security threats, technologies, and best<br>
+practices through formal continuous education</li>
+<li>Stay abreast of the latest technology trends and practices and recommend relevant<br>
+solutions to senior management</li>
+<li>Strive for continuous improvement of IT department processes</li>
+</ul>
+<p><b>REQUIRED</b></p>
+<ul>
+<li>Bachelor’s degree, in Computer Science or related field, required</li>
+<li>Master’s degree in Computer Science, Business Administration, or related field desired</li>
+<li>15+ years of software development experience</li>
+<li>5+ years leading or managing a team of developers</li>
+<li>10+ years’ hands-on experience with Java, PHP, and SQL in a Linux environment</li>
+<li>CISSP, CISM, or other related information security certification</li>
+</ul>
+<p><b>SKILLS</b></p>
+<ul>
+<li>Ability to communicate proactively on identified issues, updating status, and analyzing and reporting on alternative design solutions.</li>
+<li>Excellent written and verbal communication skills with the ability to present complex technical information in a clear and concise manner to a variety of audiences.</li>
+<li>Good interpersonal skills with the ability to work well in a team environment</li>
+<li>Highly motivated and independent worker who is not shy at tackling tasks they do not immediately understand with the ongoing sense of curiosity and desire to learn something new.</li>
+<li>Exhibits relentless quality standards</li>
+<li>Demonstrated ability to build teams, develop talent, lead by example and have passion and discipline on operational excellence</li>
+</ul>
+</div>
+<br><p></p>
+<div>
+<h3 class="jobSectionHeader"><b>Benefits</b></h3>
+<p><b>Health, Wellness &amp; Compensation:</b> IDology offers competitive compensation packages as well as flexible spending accounts and a 401(k) plan. We also offer several health insurance options so that you can choose a plan that best meets your needs.</p>
+<p><b>
+Philanthropy:</b> Giving back to the community is a vital part of the IDology culture. Our goal is to promote a culture of caring and to help our employees give back in meaningful ways. In addition to company-wide philanthropic initiatives, IDology employees are entitled to paid time off for volunteer projects of their choice.</p>
+</div>
+<p></p>
+</div>

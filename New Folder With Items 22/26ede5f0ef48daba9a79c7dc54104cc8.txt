@@ -1,0 +1,54 @@
+<h2>Engineering Intern</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>DealerPolicy is a leader in the emerging Insurtech sector. With its seamless integration into the car buying process, the company’s innovative solution enables car-buying customers the opportunity to purchase insurance by connecting them with licensed insurance agents while simultaneously completing the purchase of their new car. The company delivers these benefits through an industry-first combination of partnerships with car dealers, a growing insurance carrier network, and team of licensed insurance advocates.</p>
+<p><b>
+Job Overview</b></p>
+<p>
+Experience life at a rapidly growing team of engineering professionals that are out to disrupt and transform the insurance sales process. Successful candidates should be self-starters, as well as effective communicators and collaborators. Preferred candidates will have successfully demonstrated their qualifications in their school-work, extra-curricular, and side projects.</p>
+<p><b>
+Responsibilities</b></p>
+<ul>
+<li>Contribute to and test DealerPolicy core products supporting dealerships and agency operations
+</li>
+<li>Engineer DealerPolicy software in JS, HTML, CSS, and using React libraries
+</li>
+<li>Maintain DealerPolicy products built in PHP/LAMP
+</li>
+<li>Meticulously style professional user interfaces that work on a variety of devices and platforms
+</li>
+<li>Participate in and contribute to code reviews and pair programming
+</li>
+<li>Unit test services and features
+</li>
+<li>QA and regression test core products and services
+</li>
+<li>Write ad-hoc SQL queries for reporting purposes
+</li>
+<li>Build and visualize reports and dashboards in BI technologies
+</li>
+<li>Build and manipulate reports in Excel</li>
+</ul>
+<p><b>Skills and Qualifications</b></p>
+<ul>
+<li>Working from our Williston, VT office is required</li>
+<li>Actively working towards a bachelor’s degree with concentrations in Computer Science or equivalent
+</li>
+<li>Enjoys designing and styling web applications based on mock-ups and wire-frames
+</li>
+<li>Strong engineering aptitude and ability to learn new tools and technologies
+</li>
+<li>Experience building client-software using JS frameworks
+</li>
+<li>Comfortable working with unstructured and non-relational data
+</li>
+<li>Strong technical aptitude, analysis, and problem-solving skills</li>
+</ul>
+<p><b>DealerPolicy offers a comprehensive Benefits Package, which include</b></p>
+<ul>
+<li>Medical &amp; dental insurance</li>
+<li>401k plan</li>
+<li>Paid time off</li>
+<li>Discounted EDGE Sports &amp; Fitness Membership</li>
+<li>Wide variety of local discounts</li>
+</ul>
+</div></div>

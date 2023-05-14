@@ -1,0 +1,118 @@
+<h2>Solution Developer-Salesforce</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<h1 class="jobSectionHeader"><b>Solution Developer – Salesforce</b></h1>
+<div></div>
+<br>
+<p><b>
+Job Summary:</b></p>
+<p>
+The Salesforce Developer position will be responsible for the overall design, implementation and support of solutions in the Salesforce.com platform. This requires the ability to develop and support applications using Sales Cloud, Service Cloud, Community Cloud, Pardot, and the Force.com platform using Apex, SOSL, SOQL, SOAP and other programming technologies. The Salesforce Developer develops, configures, codes, tests, and debugs complex software, enhancements to existing proprietary software or purchased software packages. Developer may also be tasked with administrative duties such as configuration of Visual Flows, Process Builders, modifying Workflow rules, Page Layouts, and Instance Management.</p>
+<p></p>
+<br>
+<p><b>
+What can Cree Lighting do for you?</b></p>
+<ul>
+<li>
+Provide a high-visibility role as part of transformational projects and programs</li>
+<li>
+Showcase your skills at the global enterprise level</li>
+<li>
+Opportunities for continued growth as a member of a thought-leading IT organization</li>
+<li>
+Encourage you to think innovatively in a dynamic environment</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+What can you do for Cree Lighting?</b></p>
+<ul>
+<li>
+Grow and enhance the existing Salesforce Sales, Service Cloud, Communities, and Pardot platform.</li>
+<li>
+Gain understanding of company products, functions, marketing and/or service policies and procedures.</li>
+<li>
+Assist in defining business processes and recommend solutions to help streamline those processes.</li>
+<li>
+Maintain and develop workflows, triggers, and utilize process builder to meet user/ system requirements.</li>
+<li>
+Participate in the software development lifecycle using Agile methodologies.</li>
+<li>
+Design, code, configure, test solutions.</li>
+<li>
+Translate simple to complex user requirements into functional and actionable software.</li>
+<li>
+Work with other developers to design integrations between systems across the enterprise.</li>
+<li>
+Follow and contribute to technical processes, coding standards, and guidelines.</li>
+<li>
+Support application testing and deployment as part of the full release cycle.</li>
+<li>
+Create and verify execution of software test plans, including integration, capacity and performance testing.</li>
+<li>
+Participate in code reviews, adherence to SFDC design standards, and code management.</li>
+<li>
+Demonstrate Salesforce capabilities to solve business problems and recommend best practices.</li>
+<li>
+Execute code deployment, configurations, and activities supporting sandbox environment creation and preparation.</li>
+<li>
+Work with Salesforce Support to troubleshoot issues and maintain smooth operation and performance of the platform.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+What you need for success?</b></p>
+<p>
+In addition to whether a person has the knowledge and experience required to be successful in the job, one must have specific behaviors to perform the job successfully. The competencies listed below are representative of the behaviors required.</p>
+<ul>
+<li>
+Technical/Professional Knowledge</li>
+<li>
+Quality of Work</li>
+<li>
+Self-Starter</li>
+<li>
+Clear Communication</li>
+<li>
+Adaptability</li>
+<li>
+Contributing to Team Success</li>
+<li>
+Customer Focus</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Skills and Certifications:</b></p>
+<ul>
+<li>
+3+ years of overall IT experience and a record of success supporting a fast-paced business organization, providing technical expertise while applying best practices and leveraging core force.com platform capabilities.</li>
+<li>
+Developer, working as a team member or individually to complete tasks thoroughly and accurately with minimal supervision. Experience must include working knowledge of Salesforce DX and ability to code APEX (classes, triggers and web services), Visual Force, Salesforce APIs, SOQL, SOSL, Outbound Messaging, Force.com platform as well as integration technologies (Web Services, XML, REST, SOAP).</li>
+<li>
+Knowledge of Salesforce application including configuration, Triggers, Visual Flows, Process Builders, Workflows, Visualforce, Apex, Custom Objects, batch processes and, database design required.</li>
+<li>
+Understanding of relational databases (Microsoft SQL or Oracle) required.</li>
+<li>
+Understanding of Java programming language required.</li>
+<li>
+Understanding of .NET programming is preferred.</li>
+<li>
+Understanding of Web technologies (HTML 5, JavaScript, CSS 3, XML, SOAP, and REST) required.</li>
+<li>
+Salesforce Certified Platform Developer I (previously DEV 450/ DEV 401) required.</li>
+<li>
+Salesforce Certified Developer II or App Builder preferred.</li>
+<li>
+Salesforce Certified Administrator certification is preferred (past or current).</li>
+<li>
+Experience working as a member of an Agile Scrum team preferred.</li>
+<li>
+Experience with Continuous Integration and GIT repository/ source code management preferred.</li>
+<li>
+Bachelor’s degree in computer science or related field required.</li>
+</ul>
+</div></div></div>
+</div></div>

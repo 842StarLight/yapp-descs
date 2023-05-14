@@ -1,0 +1,122 @@
+<h2>Federal - Fiori/SAP UI5 Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><b>Organization: Accenture Federal Services</b></div>
+<div><b>
+Location: Mechanicsburg, PA</b></div>
+<br>
+<div>
+</div>
+<div>Accenture Federal Services, a wholly owned subsidiary of Accenture LLP, is a U.S. company with offices in Arlington, Virginia. Accenture's federal business has served every cabinet-level department and 30 of the largest federal organizations. Accenture Federal Services transforms bold ideas into breakthrough outcomes for clients at defense, intelligence, public safety, civilian and military health organizations.</div>
+<br>
+<div>
+</div>
+<div>We believe that great outcomes are everything. It’s what drives us to turn bold ideas into breakthrough solutions. By combining digital technologies with what works across the world’s leading businesses, we use agile approaches to help clients solve their toughest problems fast—the first time. So you can deliver what matters most.</div>
+<br>
+<div>
+</div>
+Count on us to help you embrace new ways of working, building for change and put customers at the core. A wholly owned subsidiary of Accenture, we bring over 30 years of experience serving the federal government, including every cabinet-level department. Our 7,200 dedicated colleagues and change makers work with our clients at the heart of the nation’s priorities in defense, intel, public safety, health and civilian to help you make a difference for the people you employ, serve and protect.<br>
+<div></div>
+<br>
+<div>As the <b>Fiori/SAP UI5 Architect</b>, you will be responsible the management and supervision of the RICE Support Team tasked with the analysis, design, and testing of components of SAP ERP Central Component (ECC), Public Sector Supplier Relationship Management (SRM), Business Warehouse (BW) reporting, and SAP front-end technologies (Fiori/SAPUI5). You will have a range of skills and knowledge of the technologies used and applications supported by Client Service Teams. You will be required to participate in pager/on-call support and reports to your Accenture Supervisor and Client Service Counterpart.</div>
+<div>
+<br>
+</div>
+<div>
+<b>Key Responsibilities:</b><br>
+</div>
+<div><ul>
+<li>Implement SAP front-end (Fiori/SAP UI5) and Back-end (SAP Business Suite/NetWeaver Gateway, S/4) integration on SAP HANA Cloud Platform</li>
+<li>Design mobile technical solutions for standard and custom SAP Fiori applications</li>
+<li>Implement and adopt Agile delivery methodology for UI/UX solutions utilizing Continuous Integration and Continuous Deployment technology (DevOps)</li>
+<li>Manage analysis, design, code, configure, and testing lifecycle within emerging SAP technologies such as Suite on HANA, S/4 HANA, front-end Fiori Design/SAP UI5, SAP NetWeaver Gateway/OData, Personas, and associated technical tooling.</li>
+<li>Review, Disposition, Assign, Prioritize, and Approve Tickets, Defects, Issues, Risks, Remedial Action Plans, and Process and Solution Improvements.</li>
+<li>Coordinate Work-Items with Impacts Sub-Team, Module, and Function Counterparts.</li>
+<li>Support Functional and Application Mentoring/Knowledge Transfer.</li>
+<li>Support Configuration and Integration Management Mentoring/Knowledge Transfer.</li>
+<li>Work with Client, Accenture, and Teaming Partners on and across their assigned Sustainment Support Team.</li>
+<li>Plan and execute all required process steps as defined in Accenture Methodologies.</li>
+<li>Provide and own SAP application support in assigned areas.</li>
+<li>Anticipate, identify, track and resolve issues and risks affecting the SAP applications.</li>
+<li>Provide primary support toward installation of application releases into production as directed.</li>
+<li>Coordinate and participate in structured peer reviews / walkthroughs.</li>
+<li>Meet service commitments for assigned deliverables and proactively provide work status.</li>
+<li>Continuously develop industry knowledge and associated skills.</li>
+<li>Program-level priority analysis and planning.</li>
+<li>Delivery status and SLA reporting to Client Leadership.</li>
+</ul></div>
+</div>
+<br>
+<div>
+<div><b>Basic Qualifications:</b></div>
+<ul>
+<li>US Citizenship required (dual citizenship not eligible for consideration)</li>
+<li>Bachelor of Science (BS) OR Bachelor of Arts (BA) Degree OR 4 years relevant SAP/Web Design experience in lieu of degree</li>
+<li>8+ years of front-end Web design/technical architecture experience</li>
+<li>8+ years of system development life cycle experience, covering all project phases</li>
+<li>3+ years of Leading/Managing SAP OR Web development teams (8 to 10 FTEs)</li>
+<li>3+ years of proven client relationship development skills/experience</li>
+<li>Must be local to Mechanicsburg, PA area OR willing to travel at least 50% - 75%<br>
+</li>
+</ul>
+<div><b>Preferred Qualifications:</b></div>
+<ul>
+<li>US Federal Government IT experience</li>
+<li>Exposure to Systems Lifecycle Methodology (Waterfall/Agile)</li>
+<li>Prior IT Production Support experience</li>
+<li>Strong oral and written communication skills; Good communication and interpersonal skills</li>
+<li>Strong facilitation skills</li>
+<li>Strong technical background/experience</li>
+<li>Prior SAP front-end (Fiori/SAP UI5) and Back-end (SAP Business Suite/NetWeaver Gateway, S/4) integration on SAP HANA Cloud experience</li>
+<li>Prior experience with adopting Agile delivery methodology to implement SAP UI/UX front-end solutions</li>
+<li>Prior experience with DevOps tooling supporting Continuous Integration/Continuous Deployment</li>
+<li>Prior experience with Enterprise Warehouse Management Standard Fiori or S/4 solutions</li>
+<li>Management experience covering multiple client engagements (Federal and/or Non-Federal)</li>
+<li>Extensive SAP ABAP development experience in one or more of the following SAP modules:</li>
+<ul>
+<li>Funds Management (FM)</li>
+<li>Financial Accounting (FI)</li>
+<li>Controlling (CO)</li>
+<li>Asset Management (AM)</li>
+<li>Project Management (PS)</li>
+<li>Supply Chain Management (SCM)</li>
+<li>Sales and Distribution (SD)</li>
+<li>Materials Management (MM)</li>
+<li>Production Planning (PP)</li>
+<li>Inventory Management (IM) (highly preferred)</li>
+<li>Warehouse Management (WM) (highly preferred)</li>
+<li>Human Resources (HR)</li>
+<li>Time and Attendance (TA)</li>
+<li>Workflow (WF)</li>
+<li>Business Warehouse (BW)</li>
+</ul>
+</ul>
+<div>
+<div><i>An active security clearance or the ability to obtain one may be required for this role.</i></div>
+<br>
+<div></div>
+<div><i>
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.</i></div>
+<br>
+<div></div>
+<div><i>
+Applicants for employment in the U.S. must possess work authorization which does not require now or in the future sponsorship by the employer for a visa.</i></div>
+<div><i>
+Accenture is a federal contractor, an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.</i></div>
+<br>
+<div></div>
+<div><i>
+Equal Employment Opportunity</i></div>
+<div><i>
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.</i></div>
+<br>
+<div></div>
+<div><i>
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.</i></div>
+<br>
+<div></div>
+<i>
+Accenture is committed to providing veteran employment opportunities to our service men and women.</i>
+</div>
+</div>
+</div>

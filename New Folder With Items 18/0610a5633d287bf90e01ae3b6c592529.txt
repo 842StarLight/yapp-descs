@@ -1,0 +1,55 @@
+<h2>Data Engineer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Position Objective:
+</b></p>
+<p>The Data Engineer II will be responsible for partnering with internal and external teams to track key performance indicators, derive business insights, and create reports in support of Protective’s life and annuity demand generation activities. This position will be responsible for assisting in the creation and review of targeted campaign lists for marketing activities and recommending data collection approaches to support targeted marketing. Under the guidance of leadership, the Data Engineer II will identify data collection activities and use tools for the collection and reporting of marketing key performance indicators. Using data from a variety of internal and external sources, the engineer will assist with the development of regular reporting deliverables and ad-hoc analysis through the sourcing and aggregation of data. The data engineer will also work with other team members to enforce the integrity of data sets used for analysis and assist with the execution of routine reporting to provide stakeholders with insights for driving sales. This position will work closely with other marketing team members to compile data and provide high quality data sets as inputs to regularly scheduled reports and ad-hoc requests. This includes the ability to comfortably manage data in various formats, including files and relational databases and to partner with other team members to ensure a high-quality and repeatable reporting process. Other support tasks such as ad-hoc data collection and reporting under the guidance of senior team members may be required.</p>
+<br>
+<p>
+<b>
+Responsibilities:</b></p>
+<ul>
+<li>Assists with the creation of targeted campaign lists from a variety of data sources based on marketing specifications and recommendations.</li>
+<li>Compiles data from internal and external sources as directed for use in analysis.</li>
+<li>Performs data quality checks to ensure data is accurate and useful as an input to analysis.</li>
+<li>Creates data sources for use in analysis and performance tracking.</li>
+<li>Assists with the development and implementation of data collection and measurement plans to track marketing key performance indicators.</li>
+<li>With direction, participates in project activities to assist with revenue growth and customer engagement, including cohort analysis and retention analysis.</li>
+</ul>
+<ul>
+<li>Participates in agile marketing activities including stand-up meetings and support meetings to foster an environment of collaboration, continuous learning, and incremental improvement.</li>
+<li>Effectively communicates &amp; translates key issues to the Management Team.</li>
+<li>Develop recommendations for data stores in order to support targeted marketing and analytic functions.</li>
+<li>Identifies data sources, designs data stores, and implements processes to support campaigns and reporting.</li>
+<li>Assists marketing partners with data enrichment activities, including merging first-party and third-party data sources for improved business insights.</li>
+<li>Builds and maintains strong internal client relationships across business functions.</li>
+<li>Performs other duties as assigned.</li>
+<li>Strives to develop and drive initiatives that align with key corporate values:
+<ul>
+<li>Do the Right Thing</li>
+<li>Serve People</li>
+<li>Build Trust</li>
+<li>Simplify Everything</li>
+<br>
+</ul>
+</li>
+</ul>
+<p></p>
+<p><b>Qualifications:</b></p>
+<ul>
+<li>Bachelors or Master’s degree required in information technology, computer science, or other related field.</li>
+<li>3-5 years of experience actively using Microsoft SQL Server and other database platforms</li>
+<li>Practical marketing experience in banking, insurance or financial services required (business intelligence or data science experience preferred)</li>
+<li>Significant experience using SQL and database platforms, along with experience using ETL tools such as Microsoft SSIS or Talend Data Integration.</li>
+<li>Demonstrated business experience running reports in business intelligence tools such as Power BI and Tableau</li>
+<li>Advanced skills in SQL for data manipulation and transformation. Experience in data modeling, relational database design, and data warehouse design, along with practical experience extracting, transforming, and outputting data from a variety of sources.</li>
+<li>Experience using Excel for compiling and manipulating data. Understanding of different file formats (text, CSV, etc.) and accessing data in relational database platforms required.</li>
+<li>Some experience with marketing automation platforms and/or email platforms (Salesforce Marketing Cloud, Adobe Campaign, etc.) will be helpful, but not required</li>
+<li>Ability to derive business insights from data and prepare visualizations in order to communicate findings.</li>
+<li>Anticipates customer needs and responds quickly in a professional manner.</li>
+<li>Basic understanding of project management concepts and some knowledge of lean principles such as agile and Kanban helpful. Ability to adjust easily to changing priorities and deadlines.</li>
+<li>Exceptional attention to detail; high level organizational, planning, and time management skills</li>
+<li>Strong interpersonal, written and oral communication skills</li>
+<li>Ability to collaborate effectively with all levels and functions, offering ideas and/or solutions to projects</li>
+<li>Ability to work in a deadline driven, team environment</li>
+</ul>
+</div></div>

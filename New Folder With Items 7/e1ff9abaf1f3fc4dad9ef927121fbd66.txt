@@ -1,0 +1,116 @@
+<h2>Senior Product Manager, Java Ecosystem</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>New Relic</b><br>
+<b>Senior Product Manager, Application Data Collection - Java</b><br>
+<b>Portland, OR</b></p>
+<br>
+<p><b>
+Your Opportunity
+</b></p>
+<p>Are you passionate about helping organizations build high performance applications and services? Do you want to give New Relic customers unprecedented visibility into how their services are performing? Do you want to deeply understand and serve the needs of the Java community and ecosystem?</p>
+<p>
+New Relic is looking for an experienced, customer-facing product manager to own the strategy for our Java/JVM community. New Relic’s agent monitors services written in Java, Scala, Kotlin, and others so that our customers understand how their services are performing and pinpoint the source of latency, errors, and other problems.</p>
+<p>
+Our customers rely on our application data collection software to give them complete visibility into their application and services. New Relic’s agent runs inside customers’ services, which means we have a relentless focus on reliability, efficiency, and stability. At the same time, we strive to provide customers with complete control and customization of what and how they monitor in their services.</p>
+<p>
+We seek product managers who have strong opinions, loosely held, and have a constant thirst to learn. On the Application Data Collection team, you will collaborate closely with and learn from your peers that oversee other programming language communities.</p>
+<p>
+You will be a core leader in the team responsible for driving product strategy and vision, relations with customers and our partner ecosystem, working with Engineering and User Experience to deliver breakthrough products, and growing the business in partnership with Marketing, Sales, and Customer Success teams. To connect well across these different functions and distributed teams, and to meet with customers, a few days of monthly travel will be expected.</p>
+<b>
+This position sits in our Portland, Oregon office.
+</b><br>
+<br>
+<p><b>What You’ll Do</b></p>
+<ul>
+<li>
+<b>
+Product strategy:</b> Define a Java product strategy informed by customer and market insights, competitive landscape, internal competences and assets, and company direction. Collaborate with Sales Management, Marketing, Finance, and other relevant teams to piece together the market context and key drivers that feed the revenue forecast, longer-term outlook, and total addressable market. Define how to make New Relic’s Java offering complete, compelling, and extendible.</li>
+<li>
+<b>
+Internal leadership:</b> Use that product strategy to align, energize, and lead not only Engineering, but also key stakeholders and cross-functional teams across the company. Communicate a clear set of business priorities and customer imperatives and actively work with the extended team to drive key trade-off decisions. Lead internal and external product promotion, customer education and support, and sales strategies. Actively engage and solve for business limiters within your control, and passionately pursue accelerants.</li>
+<li>
+<b>
+Planning:</b> In collaboration with Engineering and based on your product strategy, define a rolling 4-quarter product roadmap. Prioritize feature work based on the most critical use cases. Make data-driven and strategy-driven updates to the roadmap as the market or business changes. Triage feedback to create and prioritize product work so as to meet time-to-market requirements, achieve customer satisfaction, and continue forward toward your bigger product and business vision.</li>
+<li>
+<b>
+Customer interactions: </b>Proactively reach out to prospects and customers to learn more about the problems they are trying to solve, build good relationships, and inform product direction.</li>
+<li>
+<b>
+Positioning: </b>Highlight the distinct competences and propose messaging as part of product positioning. Stay up-to-date on the competitive strengths, weaknesses, opportunities, and threats. Deeply engage other parts of the team in this process.</li>
+<li>
+<b>
+Metrics and research:</b> Establish business metrics and key customer/market research questions and work with market research (or build your own process) to gather key customer insights to inform optimization or new product development.</li>
+<li>
+<b>
+User experience:</b> Meticulously think through every aspect of the overall customer experience, putting users' needs first in the definition of requirements. Continuously seek improvements to the customer experience working with User Experience, Engineering, and customer contacts to better drive the business and/or key metrics.</li>
+<li>
+<b>
+Product champion:</b> Serve as key spokesperson for the business, delivering clear, compelling communications up and across New Relic and outside the company to position your product for success and garner any support required to successfully execute the business. Actively support Go to Market and ongoing marketing activities in partnership with Product Marketing and the Sales team.</li>
+</ul>
+<br>
+<p><b>
+Your Qualifications</b></p>
+<p>
+Must-have:</p>
+<ul>
+<li>
+4+ years as a product manager and 4+ years in an engineering, sales engineering, or similar role</li>
+<li>
+Customer-facing product management experience at a company delivering business-to-business SaaS software products</li>
+<li>
+A track record for making data-driven decisions</li>
+<li>
+Key decision maker for a product, with decisions based on cultivation of data from a variety of sources, including but extending beyond internal stakeholders</li>
+<li>
+Communication of decisions that influence executive-level buy-in</li>
+<li>
+Ability to lead via influence, patience, and determination</li>
+<li>
+Excellent analytical/problem-solving skills, including data analysis</li>
+<li>
+Participation in all stages of the software development lifecycle</li>
+<li>
+Ability to move easily between the longer-term goals and the day-to-day engagement (with Engineering, Sales, Marketing, etc.) necessary to keep relevant teams focused on what’s most important to do right now</li>
+<li>
+Sharing and coordination with other product managers in the organization to leverage and build on ideas and knowledge</li>
+<li>
+Independent thinking and internal drive to figure out the next most important thing to do for New Relic and for New Relic’s Java community</li>
+<li>
+Nice to have: BA/BS in Computer Science or a related field</li>
+<li>
+Nice to have: product management training and certification</li>
+</ul>
+<br>
+<p>
+Please note that visa sponsorship is not available for this position.</p>
+<br>
+<p><b>
+Our Office</b></p>
+<p>
+Our office is in the center of downtown Portland, situated in a thriving tech community in the Pacific Northwest. We enjoy easy commute access and a plethora of good eats and great coffee. We provide competitive compensation including equity and big-company benefits (medical, dental, etc.)—all while maintaining the energy, agility and fun of a start-up.</p>
+<br>
+<p><b>
+About Us</b></p>
+<p>
+New Relic (NYSE: NEWR) is the industry’s largest and most comprehensive cloud-based instrumentation platform built to create more perfect software. The world’s best software and DevOps teams rely on New Relic to move faster, make better decisions and create best-in-class digital experiences. If you run software, you need to run New Relic. We’re proudly trusted by more than 50% of the Fortune 100.</p>
+<p>
+Founded in 2008, we’re a global company focused on building a culture where all employees feel a deep sense of belonging, where every ‘Relic’ can bring their whole self to work and feel supported and empowered to thrive. We’re consistently recognized as a distinguished employer and are committed to building world-class products and an award winning culture. For more information, visit newrelic.com.</p>
+<br>
+<p><b>
+Our Hiring Process</b></p>
+<p>
+In compliance with applicable law, all persons hired will be required to verify identity and eligibility to work and to complete employment eligibility verification.</p>
+<p>
+We will consider qualified applicants with arrest and conviction records based on individual circumstances and in accordance with applicable law including, but not limited to, the San Francisco Fair Chance Ordinance.</p>
+<p>
+Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. New Relic does not accept unsolicited headhunter and agency resumes, and will not pay fees to any third-party agency or company that does not have a signed agreement with New Relic.</p>
+<div>
+<i>
+New Relic is most decidedly an equal opportunity employer. We eagerly seek applicants of diverse background and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities (or disability), age, sexual orientation, veteran status, or any other characteristic protected by law.</i><br>
+<br>
+</div>
+<div>
+<i>Interested in the details of our privacy policy? Read more here: </i><i>https://newrelic.com/termsandconditions/applicant-privacy-policy</i>
+</div>
+<br>
+#LI-NS1</div></div>

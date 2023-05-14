@@ -1,0 +1,104 @@
+<h2>Electrical Design Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div><div><div><div>
+<ul>
+<li>Imagine a working environment where people trust each other to achieve exceptional things.</li>
+<li>Imagine a business that employs over ten thousand engineers and technologists but still has a small company feel.</li>
+<li>Imagine an enterprise where a belief in personal accountability continues to drive innovation and global growth.</li>
+<li>This is the reality of Moog – and you can be part of it.</li>
+<br>
+</ul>
+<div>
+<br>
+</div>
+<div>In 1951 when Bill Moog founded Moog Inc., he had one product and a vision of company culture so strong that it became the foundation of the company we are today. We operate within a culture of trust and mutual respect, allowing our engineers to collaborate and produce cutting edge technology, as well as aiding our business in the ability to share goals and achieve them together. Today Moog is the premier provider of performance motion control technology.</div>
+<div></div>
+<br>
+<div>
+As an Electrical Design Engineer you'll be responsible for the development of circuity for high reliability motor drives and control electronics that will become the new Moog products for the defense sector of the Space and Defense Group. The designs will typically be less than 50V and will include the development of circuitry that interfaces between the motor and the FPGA such as resolvers, current sensors, bus voltage monitors, hall effect transistors, etc.. Leveraging your experience you'll act as the lead or a team lead in the design of the electronic drives for missiles, autonomous underwater vehicles and numerous ground vehicles.</div>
+<div></div>
+<br>
+<div>
+This opportunity will allow the engineer to be a leader and to be solely in charge of the design, development and test of control actuation system electronics drives.</div>
+<div></div>
+<br>
+<div>
+In the defense sector of Space and Defense, designs move rapidly from inception to fielding. Typical programs may last less than a year, thus opportunity exists to continuously work on new projects with different design needs, to learn new areas in electrical packaging design and to collaborate with some of Moog’s best engineers.</div>
+<div></div>
+<br>
+<div>
+<b>In this position you’ll be expected to:</b>
+</div>
+<div></div>
+<br>
+<div>
+Working alone or as part of a team, you will be a primary contributor to the analysis, conceptual design, development, and testing of complex hardware. The products of Moog generally are unique for each customer. Therefore, most new applications require a special, tailored design, even though adaptation of existing designs should be considered where appropriate. You will generally operate as part of a design/development team, which includes other department engineers (electrical and systems engineers). You must effectively help in coordinating the work of drafters and others who assist in specific assignments.</div>
+<div></div>
+<br>
+<div>
+In the early stages of a new program, the project team will consult with the customer, establish the problem statement, conceive of potential hardware solutions to the problem, often through extensive trade studies, and then create a successful technical proposal. This phase is critical in that it establishes the basis for future design, and for contract negotiations. Under the technical direction of the Engineering Manager, Section Head or the team's lead engineer, you'll then guide the evolution of the conceptual design, technical project planning, detail design, and development testing. This requires some travel and the participation in presentations to customers.</div>
+<div>
+<br>
+</div>
+<div><b>
+Here is an idea of what you'll be accountable for:</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+Lead the development of new electrical products requirements through consulting with customers and sales personnel.</li>
+<li><div>
+Validate conceptual problem solutions by performing trade studies and analyses.</div></li>
+<li><div>
+Be the primary contributor in the preparation of successful proposal designs, cost estimates, and technical volume write ups.</div></li>
+<li><div>
+Operate as a participant in a team of creative, independent and cross-functional individuals.</div></li>
+<li><div>
+Represent Moog in a manner consistent with its technical reputation.</div></li>
+<li><div>
+Create reliable designs through a comprehensive experimental development test program.</div></li>
+<li><p>
+Document designs, analyses, and test results with accurate and concise reports.</p></li>
+</ul>
+<div>
+<br>
+<br>
+</div>
+<div><b>In addition to the above experience you’ll need:</b></div>
+<div>
+<br>
+</div>
+<ul>
+<li><div>
+To be considered for the position of Electronic Design Engineer, a candidate should have a minimum of a BS Degree in Electrical Engineering plus five years of design/development engineering experience.
+</div></li>
+<li><div>Minimum of 5 years of experience with Hi-Rel EEE Component Selection/Design/Screening requirements.</div></li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Preferred experience:</b></div>
+<div>
+<br>
+</div>
+<ul>
+<li><div>
+Working knowledge of designing EMI/EMC for MIL-STD-461
+</div></li>
+<li><div>To fulfill the demands of design and development of new products you must have self-starting instincts and strong analytical skills.</div></li>
+</ul>
+<div></div>
+<br>
+<p>
+</p>
+<div></div>
+<br>
+<p>EOE/AA/Minority/Female/Sexual Orientation/Gender Identity/Disability/Veteran</p>
+<p></p>
+<br>
+<div>
+ #LI-DJ1</div>
+</div></div></div></div></div>
+<p></p>
+</div>

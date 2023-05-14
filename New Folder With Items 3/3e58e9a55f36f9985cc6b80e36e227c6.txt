@@ -1,0 +1,85 @@
+<h2>IT Salesforce Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>Position Location:</b> Baltimore, Maryland/Washington, D.C.</p>
+<br>
+<p><br>
+<b>Job Class:</b> Non-Union</p>
+<br>
+<p><br>
+<b>Travel: </b>Moderate</p>
+<br>
+<p><br>
+<b>FLSA Status:</b> Non-Exempt</p>
+<br>
+<p></p>
+<p><br>
+<b>SUMMARY:</b><br>
+<br>
+Founded in 1909, the NAACP is the nation's oldest and largest civil rights organization. The NAACP Empowerment Programs, Inc. (“NAACP EPI”), the 501c(3) programs arm of the National Association for the Advancement of Colored People (“NAACP”), a nonprofit, membership-based, civil rights advocacy organization, seeks an experienced Salesforce Administrator.</p>
+<br>
+<p><br>
+<b>SUMMARY OF DUTIES:</b></p>
+<br>
+<div>
+<br>
+Reporting to the IT Director, Enterprise Systems, the duties of the Salesforce Administrator will include:<br>
+<br>
+<ul>
+<li>Serve as a primary System Administrator for the Salesforce Sales Cloud NPSP environment</li>
+<li>Manage the Salesforce implementation, launching, and maintenance of multiple Salesforce Clouds (Sales, Marketing, and Community Clouds) simultaneously</li>
+<li>Work closely with Salesforce architects, technical teams, and functional analysts to deliver project scope on time, on budget, and with high-quality deliverables</li>
+<li>Handle all basic administrative functions including user account maintenance, reports and dashboards, workflows, permissions/role management, and other routine tasks</li>
+<li>Complete regular internal system audits and prepare for upgrades</li>
+<li>Manage Salesforce data feeds and other integrations</li>
+<li>Coordinate the evaluation, scope, and completion of new development requests</li>
+<li>Work with IT and the management team to establish suitable processes to support administrative, development, and change management activities</li>
+<li>Assist in training of new users and grow Salesforce skill sets across the Association</li>
+<li>Effectively act as the liaison between users, vendors, and the application development teams</li>
+<li>Work independently with members of the user community to define and document development requirements for iterative releases</li>
+<li>Communicate effectively with key stakeholders regarding the Salesforce project, technology, and functionality</li>
+<li>Assist with the configuration and maintenance of multiple Salesforce cloud instances and application tools</li>
+<li>Resolve errors and refine changes to the Salesforce, Marketing, and Community Cloud platforms</li>
+<li>Monitor designated applications and take corrective action to prevent or minimize system downtime</li>
+<li>Ensure all functions of Sales, Marketing, and Community Clouds effectively work with all other applications, integrations, and operating systems</li>
+<li>Work with key NAACP staff to help train and build the support infrastructure for their Salesforce migration and deployment</li>
+</ul>
+<br>
+<b>
+QUALIFICATIONS:</b>
+</div>
+<br>
+<div>
+<br>
+The ideal candidate for this position will possess many, if not all, of the following professional qualifications, competencies and personal qualities:<br>
+<br>
+<ul>
+<li>Bachelor’s degree in Computer Science, Engineering from a 4-year accredited college or -institution, or another related technical discipline preferred</li>
+<li>5+ years of experience developing Salesforce applications using Apex, Triggers, Journey Builders, and web services</li>
+<li>Salesforce Certified Administrator, Developer, Marketing Cloud, and Community Cloud certifications required</li>
+<li>Sales Cloud, Service Cloud, and Advanced certifications preferred</li>
+<li>Proven ability to design and implement new processes and facilitate user adoption</li>
+<li>Strong understanding of the platform with the ability to build custom apps and objects, formula fields, workflows, custom views, and other content of intermediate complexity</li>
+<li>Strong understanding of Salesforce best practices and functionality</li>
+<li>Strong data management abilities</li>
+<li>A documented history of successfully driving projects to completion</li>
+<li>Advanced Salesforce development background (i.e., Sales, Community, and Marketing Clouds)</li>
+<li>Experience customizing Salesforce to integrate with enterprise systems such as NetSuite, Sage, or ADP.</li>
+<li>Proficiency with Apex, PowerBI, Tableau, Conga, Pardot, and EveryAction is a plus.</li>
+<li>Ability to achieve objectives in dynamic, high-pressure organizations</li>
+<li>Experience and success with building Custom Applications, Lightning Experience, FSL Mobile App Extensions, Dashboards, Page layouts, Reports, Visual Flows, Process Builders, and SLAs/Entitlement Processes within Salesforce</li>
+<li>Understand Release Management, Application Lifecycle Management, Development Lifecycle and Deployment Best Practices, and Governance</li>
+<li>Ability to maintain the confidentiality of proprietary data</li>
+<li>Proven history of self-direction and ability to carry out assignments in a timely manner</li>
+<li>Ability to support and lead direct reports through mentoring and technical leadership</li>
+<li>Personal commitment to NAACP’s mission and goals</li>
+</ul>
+<br>
+<b>
+Be advised that a Technical Skills assessment and/or testing is required for this position.</b><br>
+<br>
+<b>Nondiscrimination</b>: It is the continuing policy of the NAACP to take affirmative action to ensure equal opportunity for all current and prospective employees without regard to race, color, national origin, ancestry, age, gender, gender identity or expression, sexual orientation, personal appearance, marital status, familial status, family responsibility, pregnancy or other pregnancy-related conditions, childbirth, disability, military/veteran status, citizenship status, religion or political affiliation, past convictions or incarceration, prior psychiatric treatment, or any other status protected by federal or state law, local ordinance or Executive Orders. The NAACP is an Equal Opportunity Employer.</div>
+</div>
+<p></p>
+</div>

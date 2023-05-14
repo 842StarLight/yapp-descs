@@ -1,0 +1,109 @@
+<h2>End User Computing Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h3 class="jobSectionHeader"><b>End User Computing Consultant</b></h3>
+<p><b>
+Who We Are
+</b></p>
+<p>Burwood Group is not your average technology consulting firm. We are an innovative, culture-driven, industry leader and we are growing our team by leaps and bounds. Founded in 1997 in Chicago (and still headquartered here), we've grown to be a 200+ employee firm with people and offices spread from Southern California to NYC. Our specialty is closing the gap between business strategy and technology solutions. Our clients view Burwood as a trusted advisor and partner who can help them select the best technology for the job, manage and execute a first-rate implementation, and measure project success by the business outcomes achieved.</p>
+<p></p>
+<br>
+<h4 class="jobSectionHeader"><b>
+What You’ll Do</b></h4>
+<p>
+As an End User Computing Consultant, you will work in the Service Delivery group as part of a multi-disciplinary consulting practice that delivers solutions using a wide variety of IT Automation technologies and solutions, including: application and desktop virtualization, application delivery controllers, management and orchestration platforms, and cloud solutions.</p>
+<p></p>
+<br>
+<ul>
+<li>
+Develop and deliver technology solutions for customers, with an exceptionally high focus on quality</li>
+<li>
+Work closely together with other Burwood Group project team members</li>
+<li>
+Provide pre-sales engineering activities, such as building bills of material and developing statements of work</li>
+</ul>
+<ul><li>
+Build strong and continuous relationship with our clients, becoming their go-to advisor</li></ul>
+<ul>
+<li>
+Provide training and knowledge transfer to clients to ensure they are able to successfully maintain solutions post-implementation</li>
+<li>
+Act as a mentor and provide technical guidance to peers</li>
+</ul>
+<h4 class="jobSectionHeader"><b>
+Who You Are</b></h4>
+<ul>
+<li>
+You have a passion for technology and always want to learn something new.</li>
+<li>
+You have the expertise and professionalism to interact with any level of an organization.</li>
+<li>
+You don’t mind responsibility, you’re accountable for your work and dedicated to a job well done.</li>
+<li>
+You have excellent communications skills whether that be in-person, over-the-phone or e-mail.</li>
+<li>
+You’re willing to travel, predominately within the region.</li>
+</ul>
+<h4 class="jobSectionHeader"><b>
+The Tech Stuff</b></h4>
+<ul><li>
+Networking: Citrix NetScaler ADC, Netscaler Gateway, Netscaler SD-WAN</li></ul>
+<ul>
+<li>
+Desktop and application virtualization: Citrix XenApp/XenDesktop, VMware Horizon Suite, Microsoft RDS, Amazon Workspaces</li>
+<li>
+Conditional access and SSO: Citrix NetScaler, VMware UAG, F5</li>
+<li>
+Enterprise mobility management: Citrix XenMobile, VMware AirWatch, Microsoft Intune</li>
+<li>
+Data center virtualization: VMware vSphere/vCenter, Nutanix Prism/Acropolis, Citrix XenServer</li>
+<li>
+HCI: Nutanix. Cisco Hyperflex (preferred)</li>
+<li>
+Public Cloud: Microsoft Azure, GCP (preferred)</li>
+<li>
+Unified identity management: Microsoft AD/AAD/ADFS, Okta, Ping</li>
+<li>
+Unified endpoint management: Microsoft SCCM, Microsoft Windows, iGEL, RES</li>
+</ul>
+<p>
+As part of a multi-disciplinary team, previous experience and interest in one or more of the following technologies are beneficial:</p>
+<ul>
+<li>
+Hyper Converged Infrastructure</li>
+<li>
+Converged Infrastructure</li>
+<li>
+Management and Orchestration Platforms</li>
+<li>
+Cloud Services</li>
+</ul>
+<h4 class="jobSectionHeader"><b>
+The Perks
+</b></h4>
+<p>If you ask any of our employees here at Burwood “what we love”, the top answer is always the same: our culture. Our employees are driven, innovative, fun-loving, and always willing to help. In addition to that, Burwood also offers some fantastic benefits:</p>
+<ul>
+<li>
+401(k) and Roth 401(k) savings plan, complete with a company match</li>
+<li>
+Generous vacation policy</li>
+<li>
+Health, dental and vision insurance</li>
+<li>
+Life and accident insurance</li>
+<li>
+Short and Long Term Disability coverage</li>
+<li>
+Flexible work-from-home policy</li>
+<li>
+Flexible spending accounts for pre-tax healthcare and transit/parking expenses</li>
+<li>
+Access to financial planning expertise</li>
+</ul>
+<br>
+<h4 class="jobSectionHeader"><b>
+Our Commitment to Diversity and Inclusion</b></h4>
+<p><i>
+We are not intent on being the largest company; but rather, the best. These are the words we live by. This means we welcome all of the best talent - regardless of gender, race, ethnicity, sexual orientation, disability, religion and age.</i></p>
+<p><i>
+Being open to all cultural backgrounds, life experiences, thoughts and ideas not only strengthens company culture but also encourages different-in-kind thinking and promotes economic success.</i></p>
+</div></div>

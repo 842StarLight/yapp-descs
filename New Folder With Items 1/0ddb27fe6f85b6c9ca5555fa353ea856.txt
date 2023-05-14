@@ -1,0 +1,26 @@
+<h2>Front End Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>Bachelor’s and/or Master's Degree in Computer Science or related degree, or equivalent experience</li>
+<li>5 plus years of professional experience in software development</li>
+<li>Strong architectural and system design skills in Java, Python, C#, Scala, or other high-scale programming language</li>
+<li>Experienced driving ambiguous problem areas in existing or new software initiatives</li>
+<li>Proven experience solving complex architecture and business problems with solutions that are extensible, simple, or optimal.</li>
+</ul>
+<br>
+<p>Increasingly, our customers want knowledge about the products they purchase: that they were produced responsibly, and that the people in our supply chains, fulfillment centers, and transportation networks were treated fairly. Amazon’s Social Responsibility Technology Team applies Amazon’s technical breadth and depth to solve this problem. Our team builds software that gives a voice to our workers – from area managers in our fulfillment centers, to software developers in our South Lake Union headquarters, to the workers in our supply chain producing the Amazon brands for sale on Amazon.com. We’re reinventing Social Responsibility at Amazon scale, and it’s still day one!<br>
+<br>
+As a Software Engineer on the Transparency and Trust team, you’ll architect software that ensures the people in our supply chains, fulfillment centers, and transportation networks are treated fairly, as well as making Amazon’s sustainability decisions more transparent to our customers. You’ll build novel solutions that give Amazon insight into our supply chain through a uniquely altruistic lens. You'll invent novel ways of collecting, analyzing and enabling discovery of supplier data from a variety of real-time sources. You'll innovate and influence the direction of the latest Amazon technologies. And, with Amazon’s breadth, your work will transform how Social Responsibility is approached at Amazon, and in turn influence the entire industry.<br>
+<br>
+A successful candidate will thrive in and help lead fast-paced environments that leverage agile planning techniques, encourage and reward creative design and intelligent risk taking, and find innovative ways to leverage cutting edge technology. And of course, a demonstrated passion for sustainability doesn’t hurt!</p>
+<br>
+<ul>
+<li>Design experience with multi-tenant, role-based architectures with granular permissions models.</li>
+<li>Experience taking a leading role in building complex software systems that have been successfully delivered to customers with other engineers working under your guidance</li>
+<li>Expertise in one or more AWS products/service</li>
+<li>Front-end development experience (HTML / CSS / Javascript)</li>
+<li>Experience influencing software engineering best practices within your team, including coding standards, code reviews, source control management, build processes, testing, and operations</li>
+<li>Experience mentoring junior software engineers to improve their skills, and making them more effective software engineers</li>
+<li>Experience in communicating with users, other technical teams, and senior management to collect requirements, describe software product features, technical designs, and product strategy</li>
+</ul>
+</div>

@@ -1,0 +1,116 @@
+<h2>Backend Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>PriceWaiter is looking to expand our development team in order to bring features to market more quickly and iterate on customer feedback. PriceWaiter brings a unique approach to online shopping, creating marketplaces with a better experience for both buyers and retailers. As part of a small team, your ideas will have an impact on product direction and your experiments and iterations will be quickly tested in the real world.</p>
+<p><b>
+The Position:</b></p>
+<p>
+As a Backend Developer you will create GraphQL and REST APIs, batch processing jobs, and data storage solutions to meet the needs of our frontend applications. A strong candidate for this job can balance stable, performant solutions with the ability to adapt to shifting requirements as our team responds to customer and market fit needs. We are looking to fill this position immediately.</p>
+<p>
+While not requiring a formal Computer Science background or specific number of years of experience with particular web technologies, applicants should take into consideration that this is NOT an entry-level position. We need someone who can take on complex projects independently from day one.</p>
+<p><b>
+Required Skills:</b></p>
+<ul>
+<li>
+Significant professional experience in programming web applications</li>
+<li>
+Ability to use modern JavaScript (ES2017+), NodeJS, Apollo and Express (or similar technologies) to write web APIs</li>
+<li>
+Solid understanding of SQL, ORMs, database schema design and query optimization</li>
+<li>
+Knowledge of design patterns, data structures, algorithms, performance analysis</li>
+<li>
+Designing for testability; writing effective unit and integration tests</li>
+<li>
+Evaluation of open-source packages for feature match, security, maintenance status</li>
+<li>
+Understanding of git and the core concepts of working in a team of developers</li>
+</ul>
+<p><b>
+Bonus Skills:</b></p>
+<ul>
+<li>
+Elasticsearch or similar search appliance usage</li>
+<li>
+Understanding of payment processing, shopping carts, ecommerce product data</li>
+<li>
+Experience designing long-term data storage solutions</li>
+<li>
+Using and improving DevOps tools in the deployment pipeline</li>
+<li>
+Experience with our stack-find a list of some of our core technologies below</li>
+</ul>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Contribute to brainstorming and design of new features to meet the needs of customers</li>
+<li>
+Collaborate with frontend developers to design and deliver APIs used by React client applications</li>
+<li>
+Participate in architecting projects and solutions to meet customer requests and add new features to the product</li>
+<li>
+Take responsibility for all facets of a feature, including database schema, API design, code implementation and testing</li>
+<li>
+Manage your own workflow to meet the deadlines set within your team</li>
+<li>
+Clearly communicate any bottlenecks, suggestions, improvements, ideas</li>
+<li>
+Deliver clean, modern, testable, well-documented code</li>
+<li>
+Manage code in your projects with git and participate in reviewing team members’ projects and PRs</li>
+</ul>
+<p>
+In addition to competitive compensation, we provide:</p>
+<ul>
+<li>
+health, dental, and vision insurance
+</li>
+<li>401(k) plan with employer matching</li>
+<li>
+parental leave</li>
+<li>
+paid vacation days</li>
+<li>
+potential to earn company equity</li>
+</ul>
+<p><b>
+Technologies used at PriceWaiter:</b></p>
+<ul>
+<li>
+React, Typescript, ES6+</li>
+<li>
+Webpack, Rollup, SASS, postcss</li>
+<li>
+NodeJS, GraphQL, REST</li>
+<li>
+Mysql/MariaDB, AWS DynamoDB, Elasticsearch</li>
+<li>
+Job queues, Redis, AWS SQS</li>
+<li>
+Docker containers, AWS ECS containers</li>
+<li>
+Team communication via Slack</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+About PriceWaiter</b></h2>
+<p>
+Company Size: 10 people</p>
+<p>
+Location: Downtown Bellingham, WA (Technical Team) and Chattanooga, TN (Sales/Marketing/Exec Teams)</p>
+<p>
+PriceWaiter’s mission is to make buying and selling better by making negotiation fast, simple, private - and ultimately ubiquitous. Negotiation is the oldest idea in commerce because it works, but it needs an upgrade. PriceWaiter is that upgrade.</p>
+<p>
+We are an equal opportunity employer and value diversity at our company.</p>
+<h2 class="jobSectionHeader"><b>
+How to apply</b></h2>
+<p>
+Email jobs@pricewaiter.com the following three items to be considered for this position:</p>
+<ul>
+<li>
+Resume</li>
+<li>
+Cover Letter</li>
+<li>
+Describe a website, app or software project which you find inspiring and tell us why</li>
+</ul>
+</div></div>

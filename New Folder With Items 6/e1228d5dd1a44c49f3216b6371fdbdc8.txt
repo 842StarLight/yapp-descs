@@ -1,0 +1,127 @@
+<h2>Senior Salesforce Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>What you’ll be doing...</b>
+</p>
+<p>Verizon Business is a strategic business unit which provides communications and networking technology needs of U.S. based small and medium businesses, as well as the state and local government bodies. The organization is focused on enabling an eco-system that hones in on customer experience through technology with a Cloud-first and Mobile-first tenet, backed by analytics to enable new products, directional product bundles, and third-party solutions – all to enable new or strengthen existing revenue streams.</p>
+<p>
+As a Senior Salesforce Manager you will be responsible to manage Salesforce teams in architecture, design, development and delivery using industry standard processes and tools. You will work with a cross-functional group of leaders both from the products and other business units to work on solutions that span the customer lifecycle across product lines. The leaders will provide for governance &amp; leadership over the entire platform, building it from ground up, and will lead and plan for future growth.</p>
+<p>
+By leveraging your technology expertise, product and platform knowledge and enterprise level software development experience, you’ll ensure project delivery success and overall stakeholder satisfaction. You will be a leader that shapes the organization from building, coaching and growing the team, and will also shape the future of the organization.</p>
+<ul>
+<li>
+Build, train and develop depth and skill of technology staff to improve the overall delivery stream and quality of the application portfolio.</li>
+<li>
+Build a best in class technical organization with engineering expertise and innovation.</li>
+<li>
+Define roadmaps, build governance, work with the engagement teams, and communicate status to senior technology and business sponsors.</li>
+<li>
+Ensure launch readiness, and coordinate testing, rollout, and post-launch monitoring for the Digital platform.</li>
+<li>
+Work closely with business owners, product teams, UX and cross-functional partners to drive the product roadmap, and define requirements, scope, schedule, resourcing and milestones/tasks.</li>
+<li>
+Facilitate team discussions for solutioning, drive issues to resolution, and help identify risk mitigations.</li>
+<li>
+Enable program planning and iterative development by promoting Agile methodologies.</li>
+<li>
+Focus on the security of the platform, deliver secure architecture, and ensure that the platform is secured through providing tools, people and processes to keep the platform secure.</li>
+<li>
+Provide direction on solutions that provide for end-to-end architecture team and Salesforce cloud development team.</li>
+<li>
+Provide leadership to a cross functional team of architects from multiple vendors and internal end to end architects.</li>
+<li>
+Work with vendor and implementation teams to ensure that the product feature set is architected to ensure a complete digital experience.</li>
+<li>
+Negotiate features for the roadmap for Salesforce that reduce costs with customization by participating in the advisory boards for Salesforce.</li>
+<li>
+Provide direction to both Sales and Service teams to help build out processes that solve for a fully digital experience.</li>
+<li>
+Provide direction to optimize business processes on the sales and service side, and work with business leaders to influence their processes to work with industry standard guidelines and products.</li>
+<li>
+Provide direction to the Marketing and Sales teams to help build out the online self-service experience to provide for digital first, best in class customer experience.</li>
+<li>
+Work with the architecture team to identity management solutions for both the customer and employees working with solutions architects that work with the Salesforce platform.</li>
+<li>
+Provide direction and collaborate with the solution architecture team for the data analytics and Einstein platforms, both discovery and wave, and provide direction for both the business and technical teams to develop a solution.</li>
+<li>
+Be a visionary partnering with architects, technical leads and key individuals within our functional organization and recommend SFDC Platform improvements.</li>
+<li>
+Ensure business systems security and compliance with regulatory and audit requirements.</li>
+<li>
+Bring in best practices based on your Salesforce knowledge, and work cross functionally, while evangelizing Salesforce and discovering business needs.</li>
+<li>
+Provide leadership to develop innovative solutions through bringing industry leading technology and solutions.</li>
+<li>
+Provide guidance to business leaders to gain buy in and negotiate feature functions that are viable solutions to them.</li>
+<li>
+Deliver executive presentations to CIO and Business Unit leaders on technology capabilities and enabling business value.</li>
+<li>
+Participate, contribute and collect best practices through industry level participation.</li>
+<li>
+Perform product evaluations for build versus buy decisions as needed.</li>
+</ul>
+<p><b>
+What we’re looking for...</b>
+</p>
+<p>You’ll need to have:</p>
+<ul>
+<li>
+Bachelor’s degree or four or more years of work experience.</li>
+<li>
+Six or more years of relevant work experience.</li>
+<li>
+Experience of leading complex programs in the product space</li>
+<li>
+Development experience usingVisualForce, APEX, triggers, Classes, Java Script, Lightning API and knowledge of key SFDC architectural concepts.
+</li>
+</ul>
+<p>Even better if you have:</p>
+<ul>
+<li>
+A degree.</li>
+<li>
+Experience building teams from scratch and managing a 30+ member matrix and diverse team.</li>
+<li>
+Experience with project and people management.</li>
+<li>
+Experience of leading complex programs in the product space.</li>
+<li>
+Ability to work with multiple stakeholders across onshore and offshore teams and set and drive organization priorities and goals.</li>
+<li>
+Experience with Verizon’s strategic products, such as Enterprise Cloud, and technical knowledge of Salesforce Cloud and Cloud Storage.</li>
+<li>
+Strong technical knowledge of Cloud Infrastructure (Network, Compute, and Storage) and Common Services covering managed services.</li>
+<li>
+Strong technical knowledge of building Cloud Native Applications and building applications using serverless architecture.</li>
+<li>
+Service and Sales Cloud implementation experience using Live Agent, Omni Channel, CTI Adapters.</li>
+<li>
+Development experience using VisualForce, APEX, triggers, Classes, Java Script, Lightning API.</li>
+<li>
+Strategic thinking skills with extensive experience working on Solutions Architecture in Digital, and Omnichannel areas.</li>
+<li>
+Knowledge of Customer Journey Experience and Analytics.</li>
+<li>
+Experience with Devops Pipeline using Jenkins and strong knowledge of Agile development principles.</li>
+<li>
+Experienceworking directly with Operations and Implementation teams along with commercial customers supporting product launch and post support.</li>
+<li>
+Managed in real-time or knowledge of the Operations team operating model with sound experience in Tiered Availability, Incident Management, Problem, Release and Change Management.</li>
+<li>
+ITIL foundation certification (Service Operation).</li>
+<li>
+Informatica Power Centre certification for implementing the Salesforce product catalog.</li>
+<li>
+Experience applying best practices, managing stakeholder expectations, collaborating on solution approaches, and positioning implementations for ongoing success.</li>
+</ul>
+<p><b>
+When you join Verizon...</b>
+</p>
+<p>You’ll have the power to go beyond – doing the work that’s transforming how people, businesses and things connect with each other. Not only do we provide the fastest and most reliable network for our customers, but we were first to 5G - a quantum leap in connectivity. Our connected solutions are making communities stronger and enabling energy efficiency. Here, you’ll have the ability to make an impact and create positive change. Whether you think in code, words, pictures or numbers, join our team of the best and brightest. We offer great pay, amazing benefits and opportunity to learn and grow in every role. Together we’ll go far.</p>
+<p><b>
+Equal Employment Opportunity</b>
+</p>
+<p>We're proud to be an equal opportunity employer - and celebrate our employees' differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,55 @@
+<h2>Product Operations Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Responsible for maintaining seamless operations that benefit our customers and keep our products running smoothly.</p>
+<p><b>Position Duties:</b></p>
+<ul>
+<li>Enterprise Administration
+<ul>
+<li>Assist in the execution of enterprise implementation plans in conjunction with product management and national account directors including software configurations, data aggregation across recordkeepers and custodians, user setup, training programs and other related items.</li>
+<li>Coordinate enterprise client’s transition from legacy products such as Toolkit for Advisors, FiRM and IPS AdvisorPro into to our new software solutions.</li>
+<li>Serve as primary support for any enterprise points of contact regarding implementation, integration setup, adding/removing users or the software in general.</li>
+<li>Monitor enterprise activity and routinely summarize the data for discussion with product management and national account directors so that growth strategies can be formulated.</li>
+</ul>
+</li>
+<li>Data Integrations
+<ul>
+<li>Coordinate, distribute and monitor firm-level approval letters across our integration providers.</li>
+<li>Assist with the establishment, maintenance and advisor mapping associated with integration providers.</li>
+<li>Serve as primary support for any production environment integration issues including working directly with development/QA staff and integration provider POCs when necessary.</li>
+<li>Monitor ongoing integration provider feeds (especially at month end) and resolve any missing or incorrect feeds working with the provider and/or our development/QA team.</li>
+</ul>
+</li>
+<li>Investment data
+<ul>
+<li>Distribute Fiduciary Score data license files while serving as POC for any client questions on them.</li>
+<li>Maintain recordkeeper fund availability lists in FiRM and Toolkit.</li>
+<li>Assist with Stable Value data collection from providers.</li>
+<li>Assist with Morningstar data loads and ongoing questions from client support.</li>
+</ul>
+</li>
+<li>Other
+<ul>
+<li>Assist with the collection and analysis of product metrics and usage data.</li>
+<li>Assist Fi360 Client Engagement team members on escalated end-user support issues.</li>
+<li>Attend enterprise conferences/events representing Fi360 as a product expert.</li>
+<li>Performs additional duties as assigned.</li>
+</ul>
+</li>
+</ul>
+<p><b>Position Requirements:</b></p>
+<ul>
+<li>You're a process-savvy “people” person who learns fast and thinks on your feet. Your colleagues believe in your commitment to continuous operational improvements.</li>
+<li>You love working with customers, listening to them and solving problems.</li>
+<li>You're thorough, organized, and process-oriented to the extreme. You’re an expert at prioritizing and executing multiple projects simultaneously.</li>
+<li>You have a bachelor’s degree.</li>
+<li>You have a strong working knowledge of Excel, Word, PowerPoint</li>
+<li>You have 2+ years of experience in an operational, support or sales role.</li>
+</ul>
+<p><b>Bonus Points:</b></p>
+<ul>
+<li>Working knowledge of Fi360 products, specifically our software</li>
+<li>SQL experience</li>
+<li>Experience in or knowledge off the 401k marketplace; such as with recordkeepers, plan providers or custodians.</li>
+</ul>
+<p><b>Reports to:</b> V.P. of Product Management</p>
+</div></div>

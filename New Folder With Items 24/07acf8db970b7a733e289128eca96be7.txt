@@ -1,0 +1,39 @@
+<h2>Lead Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Overview
+<br><br>
+When was the last time you were satisfied with a support call to a business? When was the last time a member or a sales team sat back and listened to your needs? At ringDNA we provide customers including Hewlett Packard Enterprise, Twilio, Amazon, Lyft and many more the conversational tools to engage with their prospects and customers to not only increase revenue but also brand recognition and satisfaction. We're revolutionizing how companies sell products by developing an end-to-end engagement platform that salespeople love. RingDNA gives a new meaning to the phrase "you're only as good as your tools," ensuring that customer usage data and feedback is at the beating heart of all our product development. The result is a set of powerful productivity and engagement tools that result in nearly 100% user adoption.
+<br><br>
+As a Lead Salesforce Developer at ringDNA, you'll lead the development of high-quality products built natively on the Salesforce platform.
+<br><br>
+<b>What You'll Do:</b><br>
+<ul>
+<li>Take ownership of features across the entire development lifecycle</li>
+<li>Apply Salesforce best practices for writing scalable, secure, testable, deployable code</li>
+<li>Stay current on developments in the Salesforce platform ecosystem</li>
+<li>Write clean, simple, secure, maintainable code for our product lines</li>
+<li>Refactor code as features evolve to increase clarity</li>
+<li>Lead and mentors remote/offshore developers as necessary</li>
+<li>Participate in customer escalations and maintenance coding tasks</li>
+<li>Balance delivery speed and quality issues with wisdom</li>
+<li>Drive product and process improvements to reduce support costs</li>
+<li>Contribute pull request reviews and responds to feedback</li>
+<li>Author technical documentation as needed to share knowledge on complex areas</li>
+<li>Use JIRA to communicate and coordinate progress</li>
+</ul>
+<b>Who You Are:</b><br>
+<ul>
+<li>5+ years working as a Salesforce Developer, preferably at an ISV or a consultancy specializing in ISVs</li>
+<li>BS or MS in computer science, electrical engineering or similar field OR equivalent industry experience</li>
+<li>Demonstrated ability to lead and build solutions on the Salesforce platform and work cross-functionally in a highly collaborative environment</li>
+<li>Deep experience with Apex, Visualforce, Triggers, Batch Processing, Workflow, Lightning Components</li>
+<li>Working knowledge of Sales and Marketing Clouds, Reports and Dashboards</li>
+<li>High comfort level with Salesforce ISV concerns (Packages, AppExchange reviews)</li>
+<li>Strong analytical problem solving and debugging skills</li>
+<li>Solid spoken and written communication skills</li>
+<li>Experience working with offshore/remote teams preferred</li>
+</ul>
+Who We Are
+<br><br>
+RingDNA is the leading end-to-end sales engagement platform that combines enterprise-grade telephony with conversation intelligence. RingDNA helps teams engage with prospects and customers in the right way, at the right time, with the right context. Sales, support, and customer success teams use ringDNA to dramatically increase productivity, engage in smarter conversations, gain predictive insights, and coach reps to success faster than ever before.
+<br><br>
+RingDNA was named to the "Hot 100" best privately held software companies by JMP Securities. The company was also named "One of The Best Privately Owned Companies in America" by Entrepreneur magazine. We are proudly backed by Goldman Sachs who lead our Series B round in 2018.</div>

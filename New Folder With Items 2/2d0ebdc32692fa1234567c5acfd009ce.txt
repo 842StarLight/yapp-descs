@@ -1,0 +1,39 @@
+<h2>Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Raytheon Intelligence, Information and Services (IIS) is seeking a Software Developer in support of the Sensors Test, Analysis, Requirements, and Simulation (STARS) Product Office. The successful candidate will support the current and evolving Strategic Systems Engineering Services (SSES) efforts for the Systems, Simulation, Software, and Integration (S3I) Directorate customer. S3I, within the US Army Aviation and Missile Research, Development and Engineering Center (AMRDEC) has development and support responsibilities for many weapon systems, related support systems, and associated enhancements. The Strategic Systems domain includes activities for Combatant Commanders (COCOMs), Agencies, and Foreign Military Sales (FMS) efforts. The candidate will conduct daily duties at the S3I Directorate, Redstone Arsenal, AL.<br>
+<br>
+The mid-level candidate participates as a member of the software development team – planning, scheduling, designing, implementing, integrating, and testing requisite software. The candidate creates and maintains the development and continuous integration environments for the software; develops software design documentation; participates in design reviews and code inspections; creates and maintains schedules for the implementation of software defect fixes and directed enhancements; and develops and presents technical briefings to leadership.<br>
+<br>
+Required Qualifications:<br>
+<ul>
+<li>Understanding of radar signal and data processing</li>
+<li>Real-time mathematical algorithmic programming experience</li>
+<li>Algorithm development, analysis, and testing experience / expertise</li>
+<li>Strong C++ software development</li>
+<li>Agile process implementation using tools such as Jira and Confluence</li>
+<li>Strong PERL script knowledge and experience</li>
+<li>Proficiency with UNIX or Linux operating systems</li>
+<li>Understanding of systems engineering and test engineering</li>
+<li>Able to work well in a team environment</li>
+<li>Secret clearance</li>
+</ul>
+<br>
+Desired Qualifications:<br>
+<ul>
+<li>Ada software development knowledge and experience</li>
+<li>MATLAB knowledge and experience</li>
+<li>Experience with radar digital signal injectors</li>
+<li>Familiarity with AN/TPY-2 and/or SBX</li>
+<li>Knowledge of systems engineering requirements, test, and verification processes</li>
+<li>Strong Microsoft Office skills</li>
+<li>Strong interpersonal skills and reporting practices</li>
+<li>Strong verbal and written communication skills</li>
+</ul>
+<br>
+Required Education:<br>
+Applicants must have a minimum of a BS in Software Engineering, Computer Science, Computer Engineering, or similar degree field, and minimum of 6 years relevant experience<br>
+<br>
+<b><i>This position requires a U.S. Person</i></b><br>
+<br>
+<b><i>SSESPROGRAM</i></b> 144391<br>
+<p>Raytheon is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, age, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.</p>
+</div></div>

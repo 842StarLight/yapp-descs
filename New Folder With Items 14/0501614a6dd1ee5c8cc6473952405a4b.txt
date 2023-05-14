@@ -1,0 +1,74 @@
+<h2>Digital Marketing Technologist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>JOB SUMMARY:</b></p>
+<p>
+The Primary responsibilities of this role will be to manage the technology operations of MW Industries’ digital marketing ecosystems with an emphasis on managing assets within our cloud environment. This is inclusive of supporting the current architecture as well as developing optimized and cost-effective architecture for both our AWS and hosted web environments in a growing and changing landscape. This role will serve as the primary liaison between our outsourced platform providers, outsourced user experience providers, and internal digital marketing and IT departments to deliver a secure and optimal end user experience.</p>
+<p><b>
+REPORTING TO:</b><br>
+VP of Information Technology - Strong indirect relation to VP of marketing and sales</p>
+<p><b>
+ESSENTIAL JOB FUNCTIONS:</b></p>
+<ul>
+<li>
+Develop and maintain cloud infrastructure to support current and future digital marketing requirements</li>
+<li>
+Assist with aligning marketing technology to business goals, helping to create an end-to-end integrated marketing stack</li>
+<li>
+Work closely with internal Marketing and IT departments, along with outsourced providers to develop and maintain an optimized user experience on all web platforms</li>
+<li>
+Own and maintain all domains, inclusive of certificate renewal and the like</li>
+<li>
+Manage Linux operating environment</li>
+<li>
+Maintain website backups to ensure disaster recovery requirements are met</li>
+<li>
+Work with outsourced and internal IT to ensure application and server security is maintained and monitored</li>
+<li>
+Develop, test, and support functionality for digital marketing applications</li>
+</ul>
+<p><b>
+SKILLS and ABILITIES:</b></p>
+<ul>
+<li>
+Demonstrated ability to manage web application servers in an AWS or Azure environment and Linux operating system</li>
+<li>
+Strong grasp of Apache and understanding of NGINX for load balancing</li>
+<li>
+Working knowledge of SQL, specifically MySQL database; with a Familiarity with Amazon Aurora</li>
+<li>
+Proficiency with CSS, HTML/HTML5, JavaScript, AJAX, jQuery, PHP</li>
+<li>
+Familiarity with API integration</li>
+<li>
+Strong knowledge of web application security and remediation best practices</li>
+<li>
+WordPress and/or WooCommerce experience a plus</li>
+<li>
+Excellent communication and problem-solving skills</li>
+<li>
+Ability to manage multiple projects simultaneously</li>
+<li>
+Self-starter with attention to detail</li>
+</ul>
+<p><b>
+EDUCATION and EXPERIENCE:</b></p>
+<ul>
+<li>
+BA/BS degree required</li>
+<li>
+Minimum 8-10 years of progressive experience in digital marketing ecosystems</li>
+<li>
+Experience with SEM, SEO and management of digital marketing KPIs</li>
+<li>
+Prior experience with version control and change management procedures</li>
+</ul>
+<p><b>
+EEOC Statement:</b><br>
+MW Industries, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</p>
+<p>
+Visit us at www.mw-ind.com for more information about MW Industries, Inc. and our affiliate companies.</p>
+</div>
+<p></p>
+</div>

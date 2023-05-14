@@ -1,0 +1,54 @@
+<h2>Systems Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>It’s an exciting time to be at Impinj. We have connected over 25 billion items to the digital world allowing businesses to analyze and use data about those items to improve efficiencies, increase sales, and delight customers. Join Impinj and help us realize our vision to deliver digital life to everyday items such as <b>retail apparel</b>, <b>medical supplies</b>, <b>luggage</b>, automobile parts and more, extending the reach of the Internet by a factor of 1,000.</p>
+<p>
+The Impinj Corporate Infrastructure team is seeking an enthusiastic Systems Administrator focused on continually improving key IT systems and services with a focus on Windows desktop in collaboration with our Dev Infrastructure and Business Applications teams. This is an excellent opportunity for an experienced generalist passionate about growing their skills in a highly technical environment.</p>
+<p><b>
+What you will do:</b></p>
+<p>
+Deliver projects, maintain systems, and drive continuous improvement in areas including:</p>
+<ul>
+<li>
+Windows Desktop Servicing</li>
+<li>
+Backups and Disaster Recovery</li>
+<li>
+Information Security</li>
+<li>
+Windows Servers</li>
+</ul>
+<p><b>
+What you will need to be successful in this role:</b></p>
+<p>
+3+ years of relevant IT experience</p>
+<ul>
+<li>
+Experience managing Windows 10 deployment and configuration using a modern toolset. Intune, Autopilot, and/or SCCM experience a plus.</li>
+<li>
+Demonstrated scripting abilities. PowerShell experience a plus.</li>
+<li>
+Strong understanding of Active Directory services.</li>
+<li>
+Experience working in a mixed environment of Windows, macOS, and Linux workstations.</li>
+<li>
+Proven ability to deliver and model excellent customer service in-person, on the phone or via email</li>
+<li>
+Exceptional documentation skills, strong self-sufficiency, strong interpersonal skills, attention to detail and initiative.</li>
+<li>
+Efficiency - great organization, ability to prioritize, automating repetitive tasks, consistently improving and maturing process</li>
+<li>
+Experience delivering IT services to software or hardware engineering teams while supporting SDLC, SaaS, Agile, and DevOps methodology</li>
+<li>
+Understanding of ITIL and IT Service Management activities and systems</li>
+<li>
+Bachelor's degree in a technical field strongly preferred, IT certifications a plus (MSCE, MCSA: Windows 10, RHCE, CCNA or equivalent)</li>
+<li>
+You should be committed to a collaborative, respectful, accountable and inquisitive work style and working environment</li>
+</ul>
+<p>
+ Please note that relocation assistance is not available for this role.</p>
+<p>
+Impinj is a fantastic place to work. We're small enough to know everyone, but big enough to have room to grow. We work in a beautiful office in South Lake Union. We have open-ended time off policies, and respect the need for good work/life balance. And when we are working, we are surrounded by really, really smart colleagues passionate about what they do. We're on a mission to change the world with technology. Come join us.</p>
+<p>
+We're committed to a diverse and inclusive workplace and welcome applicants from all backgrounds and walks of life to apply.</p>
+</div></div>

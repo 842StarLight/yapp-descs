@@ -1,0 +1,60 @@
+<h2>Information Security Compliance Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><div>
+<h2 class="jobSectionHeader"><b>Job Description</b></h2>
+<div>
+<p>Interface Security Systems seeks a hands-on<b> Information Security Compliance Manager</b> to perform day-to-day monitoring, auditing and other tasks as needed to maintain adherence to Payment Cardholder Industry standards and to prepare for successful, annual, third party accreditation of a customer facing Managed Network Service (“the Service”) to secure listing on the Visa Global Registry of Managed Service Providers. The Information Security Compliance Manager acts as an independent, internal auditor for groups of design, operations and sales engineers who deliver the Service collectively as the Managed Network Engineering team (MNE). The Information Security Compliance Manager gathers technical and procedural information, deploys audit tools, analyzes information, assesses information security risk, and presents results to groups including MNE, other internal stakeholders, corporate leadership and external auditors.</p>
+ <p><b>THIS IS A REMOTE POSITION THAT CAN BE LOCATED ANYWHERE IN THE UNITED STATES.</b></p>
+<p><b>RESPONSIBILITIES OF THE INFORMATION SECURITY COMPLIANCE MANAGER:
+</b></p>
+<ul>
+<li>Investigate relevant information regarding the secure managed broadband environment via interviews and information analysis.</li>
+<li>Understand processes and controls with respect to information security.</li>
+<li>Manage third party relationships relating to security services as required (e.g., penetration testing, etc.)</li>
+<li>Develop security risk metrics wherever possible and identify issues that possibly put ISS SMB at risk.</li>
+<li>Document results of security risk analyses and present as necessary.</li>
+<li>Communicate key metrics and findings to executive management.</li>
+<li>Understand current PCI regulatory environment and related implication to security management compliance.</li>
+<li>Provide oversight for PCI compliance throughout SMB core network.</li>
+<li>Liaison to external PCI auditor and lead the PCI on-site audit.</li>
+<li>Supervise and advise staff in the information security program.</li>
+<li>Conduct annual reviews, task/project assignment, performance improvement, etc. for the Information Security team.</li>
+<li>Contribute to the development, documentation, and maintenance of information security policies, procedures, and standards for the secure managed broadband network.</li>
+<li>Initiate, facilitate, and promote activities to create information security awareness throughout SMB core users.</li>
+<li>Monitor and routinely evaluate compliance to all security procedures and policies and ensure consistency of internal controls.</li>
+<li>Responsible for and owner of security event log collection, monitoring, intrusion detection and information security incident response.</li>
+<li>Ensure team and self-maintains technical security knowledge and awareness of new and emerging threats and mitigation techniques to maintain proficiency.</li>
+<li>Serve as the responsible internal subject matter expert on security risk.</li>
+</ul>
+</div>
+</div></div>
+<div><div>
+<h2 class="jobSectionHeader"><b>Job Requirements</b></h2>
+<p><b>QUALIFICATIONS FOR THE INFORMATION SECURITY COMPLIANCE MANAGER:</b></p>
+<ul>
+<li>Security+ Certification</li>
+<li>CISSP Preferred</li>
+<li>3+ years of Information Security experience</li>
+<li>Bachelor’s degree in technologically relevant field or equivalent experience</li>
+<li>Linux hands on experience</li>
+<li>Experience with log management, event monitoring and reporting</li>
+<li>Familiarity with PCI standards</li>
+<li>Juniper experience is a plus</li>
+<li>Basic firewall concepts</li>
+<li>Experience with a config management framework such as Ansible, Chef, or Puppet is a plus</li>
+<li>Demonstrated written and verbal communication skills and a willingness to work in a service-based organization</li>
+<li>Strong analytical skills</li>
+</ul>
+<p><b>At Interface, it’s the human equation that drives us.</b></p>
+<p>Headquartered in St. Louis, Missouri, Interface is uniquely qualified to be the one source for safeguarding customer data, people, and assets. As the leading national provider of cloud-based managed network services and security systems for retail, commercial and small business customers, we provide the industry’s most comprehensive bundle of integrated solutions that connect and protect some of America’s best-known companies.</p>
+<p>Our service offerings include PCI-compliant private secure managed broadband, managed digital voice, alarm/event monitoring, interactive video surveillance, managed access control and fire/life safety systems. Multiple UL-Approved 5-Diamond CSAA Certified Secure Operations Centers monitor, manage and support their system, backed by a nationwide service delivery infrastructure.</p>
+<p>Interface believes in the philosophy of listening to our customers and addressing their needs. We are guided by integrity as well as an all-consuming desire to exceed expectations and foster long-term partnerships. Our goal is nothing less than complete customer satisfaction. And we strive to achieve it by providing responsive, accommodating service to each and every one of our valued clients.</p>
+<p><i>Interface offers a competitive compensation package based on education and experience plus excellent benefits that include medical, dental, vision, 401(k), paid time off, the opportunity for growth and much more. Please submit a resume, cover letter, and compensation requirements.</i></p>
+<p><i>Interface Security Systems will not discriminate against any employee or applicant for employment because of race, color, religion, sex, sexual orientation, gender identity, or national origin. The contractor will take affirmative action to ensure that applicants are employed and that employees are treated during employment, without regard to their race, color, religion, sex, age, sexual orientation, gender identity, national origin, status as a protected veteran, or individual with a disability. Such action shall include, but not be limited to the following: Employment, upgrading, demotion, or transfer, recruitment or recruitment advertising; layoff or termination; for rates of pay or other forms of compensation; and selection for training, including apprenticeship.
+</i></p>
+<p><i>Interface Security Systems will, in all solicitations or advertisements for employees placed by or on behalf of the Interface Security Systems, state that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, sexual orientation, gender identity, national origin, status as a protected veteran, or individual with a disability.</i></p>
+</div></div>
+</div>
+<p></p>
+</div>

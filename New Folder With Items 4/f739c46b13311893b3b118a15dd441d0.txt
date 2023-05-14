@@ -1,0 +1,79 @@
+<h2>Senior Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>Senior Developer,</div>
+<div>Looking for Salesforce and MuleSoft experience</div>
+<div></div>
+<div>As a senior developer you will work on develop new sales application project work. Specifically with MuleSoft integration and transitioning these projects from to Jostens.</div>
+<div></div>
+<ul>
+<li>
+<div>This person will also be expected to mentor current integration dev on MuleSoft</div>
+</li>
+<li>
+<div>Solve complex problems by conferring with systems analysts, engineers, programmers and others to design system and to obtain information on project limitations and capabilities, performance requirements and interfaces.</div>
+</li>
+<li>
+<div>Develop and direct software system testing and validation procedures, programming, and documentation.</div>
+</li>
+<li>
+<div>Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.</div>
+</li>
+<li>
+<div>Deliver and maintain frameworks, tools and standards to enable consistency in the environment, re-use and time to market of business functions.</div>
+</li>
+<li>
+<div>Incumbents are expected to manage deliverables and provide technical leadership on any team.</div>
+</li>
+<li>
+<div>Develop requirements, architecture, design, and test plan documentation.</div>
+</li>
+<li>
+<div>Assist BA in regression and system test plan.</div>
+</li>
+<li>
+<div>Provide leadership and mentoring for other developers and contractors.</div>
+</li>
+<li>
+<div>Analyze and revise system logic difficulties and prepare necessary documentation to assure accuracy and efficiency</div>
+</li>
+<li>
+<div>Design, develop or modify, test and debug complex programs based within system scope and objectives. Meet documentation requirements per current project methodology.</div>
+</li>
+<li>
+<div>Perform systems testing of programs and prepare necessary program documentation to ensure accuracy and efficiency</div>
+</li>
+<li>
+<div>Prepare test data including the creation of test files and diagnoses; resolve complex problems with existing applications systems, and evaluate and recommend purchase of new software to improve productivity.</div>
+<br>
+</li>
+</ul>
+<div></div>
+<div><b>Required:</b></div>
+<div>2+ years MuleSoft experience &amp; Salesforce.</div>
+<div>BA/BS degree with an analytical discipline or 5+ years of experience directly related to professional software development</div>
+<div>Expert knowledge of systems analysis/design, computer programming and job control languages</div>
+<div>Strong analytical ability to perform full range of system design and programming responsibilities utilizing state of the art concepts, techniques and languages</div>
+<div>Knowledge of business management concepts, techniques and functions</div>
+<div>Knowledge of project management techniques and ability to lead small to medium sized projects or development efforts</div>
+<div>Ability to accurately estimate deliverables requirements into development hours</div>
+<div>Excellent written and oral communication skills with demonstrated ability to read, analyze and interpret business periodicals, professional journals, and instructional manuals</div>
+<div>Ability to write reports and other varied business correspondence and present information effectively both written and oral</div>
+<div>Ability to define problems, collects data, establish facts and draw valid conclusions and effectively adapt to rapidly changing technology</div>
+<div>Strong leadership capabilities, self-motivated, pleasantly aggressive and realistically ambitious with high personal ethics</div>
+<div></div>
+<div><b>Ideal candidate</b></div>
+<div>Required Certification: Certified Salesforce Platform Developer 1</div>
+<div>5+ Salesforce developer experience, 3+ years’ experience with MuleSoft development</div>
+<br>
+<div></div>
+<div></div>
+<div>
+<div>Celebrating over 120 years of business, Jostens has been a part of local communities, working with K-12 schools, colleges and universities, teams and affiliation groups. Representatives from Jostens touch thousands of schools and groups every day, working to make a difference with products and services that recognize accomplishments and help people tell their stories. These products, along with resources for educators, yearbook curriculum and services to help motivate and inspire like Jostens Renaissance® and Commitment to Graduate (C2G) are all designed to contribute to a positive and rewarding school experience. As a household name and leading brand in our market, we are passionate about being the most trusted partner in celebrating moments that matter. We are a mid-size company with a small company feel, allowing us to move fast and explore innovative ideas.</div>
+<br>
+<div></div>
+<div>Jostens is an Equal Opportunity Employers and comply with applicable employment laws. EOE/M/F/Vet/Disabled are encouraged to apply.</div>
+</div>
+</div>
+<div></div>
+</div>

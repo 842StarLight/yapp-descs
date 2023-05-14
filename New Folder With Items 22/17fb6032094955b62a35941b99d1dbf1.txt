@@ -1,0 +1,78 @@
+<h2>Managing Director - Data Science</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Your Opportunity
+</b></h2>
+<div><div><div>
+<div>The Charles Schwab Corporation (NYSE: SCHW) is a leading provider of financial services, with more than 360 offices and 11.8 million active brokerage accounts, 1.7 million corporate retirement plan participants, 1.3 million banking accounts, and $3.59 trillion in client assets as of March 31, 2019. Through its operating subsidiaries, the company provides a full range of wealth management, securities brokerage, banking, asset management, custody, and financial advisory services to individual investors and independent investment advisors. Its broker-dealer subsidiary, Charles Schwab &amp; Co., Inc. (member SIPC,http://www.sipc.org), and affiliates offer a complete range of investment services and products including an extensive selection of mutual funds; financial planning and investment advice; retirement plan and equity compensation plan services; referrals to independent fee-based investment advisors; and custodial, operational and trading support for independent, fee-based investment advisors through Schwab Advisor Services. Its banking subsidiary, Charles Schwab Bank (member FDIC and an Equal Housing Lender), provides banking and lending services and products. More information is available atwww.schwab.com and www.aboutschwab.com.</div>
+<div></div>
+<br>
+<div>
+The Analytics &amp; Business Insight (ABI) organization supports multiple business units across Schwab through quantitative-based decision support. Our mission is to help Schwab better understand the needs and behaviors of our prospects and clients through statistical analysis, predictive modeling, market research, and business intelligence.</div>
+<div>
+Our analytical teams within ABI provide the organization with advanced quantitative analyses and insights that help guide development of new product/service offerings, better target prospects and clients through informed marketing efforts, increase acquisition of desired prospects, understand the ROI of advertising and marketing promotions, measure and assess the impact of business strategies, and identify strategies to grow client engagement, retention, and loyalty. Our analytical services are in heavy demand as our team is a critical component in Schwab’s commitment to being a leading data-driven organization.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>What you’re good at
+</b></h2>
+<div><div><div>
+<div>The Managing Director, Data Science will leverage statistical algorithms to provide decision makers across Schwab with insights and solutions to important business projects. This position will use a wide range of modeling techniques including but not limited to machine learning, deep learning, Bayesian modeling, time series and econometric modeling, design of experiments, marketing mix modeling, and other approaches. In addition, the position will also work on exploring most recent innovations in modeling techniques and applying those to structured and unstructured data across various business use cases.</div>
+<div>
+There will be a diverse set of business applications and project areas that this position will be responsible for. This includes areas such as:</div>
+<ul>
+<li>
+Recommendation systems across different product, content and user levels</li>
+<li>
+NLP/NLU/NLG based Conversational assistants and other relevant use cases</li>
+<li>
+Anomaly detection for cybersecurity and other relevant use cases</li>
+<li>
+Predictive modeling for acquisition, retention and asset consolidation</li>
+<li>
+Business impact analyses to help the firm determine the ROI on strategic investments</li>
+<li>
+Customer lifetime value modeling</li>
+<li>
+Provide data science vision and leadership on using modeling and algorithms to uncover new insights that drive decisions to impact the business</li>
+<li>
+Support multiple business units and use cases on a wide range of advanced modeling projects</li>
+<li>
+Consult with business partners to understand and define their needs in terms of clear data science project deliverables</li>
+<li>
+Fully scope modeling projects including defining clear business value, determining modeling approach in discussion with data scientists, identifying right resources needed, development of execution plan and realizing business impact</li>
+<li>
+Work independently or collaboratively throughout the complete project lifecycle across a range of cross-functional teams including product managers, data engineers, architects, and other business plus engineering teams</li>
+<li>
+Clearly communicate methodologies and results to increase our business partners’ understanding and confidence in Advanced modeling capabilities and recommendations</li>
+<li>
+Work with UI/UX/market researchers, various business partners, engineering teams and other analytical teams to align and integrate modeling efforts in various end user applications</li>
+<li>
+Provide education and consultation to various cross-functional teams and decision makers to understand impact of AI to frame and solve complex business problems.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>What you have
+</b></h2>
+<div><div><div><ul>
+<li>MS/PhD in Machine Learning, Computer Science or other quantitative disciplines highly preferred</li>
+<li>
+10 years or more work experience in an advanced modeling role (working with external clients and/or internal business partners)</li>
+<li>
+Strong Python/R and SQL programming and data mining experience.</li>
+<li>
+Solid understanding of machine learning algorithms and their appropriate use for wide variety of use cases across marketing, product, sales, service and risk</li>
+<li>
+Experience with Hadoop ecosystem including experience in data mining using Hive, Sqoop, Drill, plus other query languages</li>
+<li>
+Ability to work with large transactional databases across multiple platforms (Teradata, Oracle, HDFS, SAS)</li>
+<li>
+Proven ability to execute complex modeling projects end to end for a large Fortune 500 company</li>
+<li>
+Outstanding oral and written communication and interpersonal skills; skill &amp; interest in communicating with senior levels of management.</li>
+<li>
+Must be able to clearly understand and articulate the linkage between business objectives/ decisions and analytical approaches &amp; findings.</li>
+<li>
+Must possess strong interview/consulting skills to probe deep into questions, the broad analytic skill set to ensure they are solved appropriately and the narrative skills to recommend action steps.</li>
+<li>
+Must possess a love for problem solving and genuinely enjoy helping our business partners succeed.</li>
+<li>
+Financial services experience preferred.</li>
+</ul></div></div></div>
+</div></div>

@@ -1,0 +1,40 @@
+<h2>Software Development Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>This is 75-80% hands-on and 20-25% leadership</p>
+<p>Summary</p>
+<p>The Development Manager will be a player/coach who will lead a group of developers as well as be a tactical contributor to the team. The position requires an individual with exacting standards and great attention to detail. Responsibilities will involve maintenance on the various databases already developed, new development, report generation and data analytics development which will vastly speed up and improve business intelligence enabling increased sales, improved inventory accuracy, and steam-lined delivery and customer service. You must thrive in a fast-paced, creative and collaborative environment.</p>
+<p>Essential Functions</p>
+<ul>
+<li>Lead and work with the team to develop new project plans and changes/enhancements to existing systems within tight timeframes.</li>
+<li>Must be able to design physical databases using MS-Access and SQL.</li>
+<li>Ability to debug/code complex programs using VBA.</li>
+<li>Ability to work with complex data that is not normalized.</li>
+<li>Assist team and generate complex analytical reports (SSRS).</li>
+<li>Strong data mining ability.</li>
+<li>Must possess problem solving skills and be proactive in researching solutions</li>
+<li>Work with internal customers as necessary.</li>
+</ul>
+<p>Nonessential Functions</p>
+<p>The Development Manager may occasionally partner with functional business owners to gain an understanding for how they can best impact that area.</p>
+<p>Schedule Expectations</p>
+<p>The Manager is scheduled to work a minimum of 40 hours per week. Regular punctual attendance is an essential function of the job.</p>
+<p>Education &amp; Experience Requirements</p>
+<ul>
+<li>Bachelor’s Degree in Computer Science, 5-10 years related experience or equivalent combination of education and experience.</li>
+<li>5-7 years solid experience with Microsoft Access, developing code, creating queries, coding function and designing reports.</li>
+<li>3-5 years tactically working on BI (Business Intelligence) tools.</li>
+<li>Experience with DB analytics &amp; SSRS.</li>
+<li>Experience with STORIS is a plus, but not required.</li>
+<li>Excellent skills in technical trouble shooting, debugging and developing innovative solutions to complex problems.</li>
+<li>Experience with relational database design, analysis and implementation.</li>
+<li>Must have excellent verbal and written communications skills with the ability to interact with all levels of staff, management and customers.</li>
+<li>Highly competent with Microsoft office products including Word, Excel, and Access.</li>
+<li>Solid inter-personal skills with a customer service focus, ability to resolve conflict and a willingness to listen and learn.</li>
+<li>Must be focused, detail oriented, quality minded and have excellent problem-solving skills.</li>
+<li>Participate fully as a member of the team and contribute to a positive, ethical and respectful working environment and communicate openly with others.</li>
+<li>Demonstrate accountability in all assignments.</li>
+<li>Complete all project related tasks and ensure on time delivery of all project deliverables.</li>
+<li>Experience with SharePoint Designer and MS Dynamics is a plus.</li>
+</ul>
+<p>Job Type: Full-time</p>
+</div>

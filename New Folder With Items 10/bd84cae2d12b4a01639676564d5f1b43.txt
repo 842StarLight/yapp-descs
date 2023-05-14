@@ -1,0 +1,71 @@
+<h2>Senior Software Development Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>What you’ll be doing...</b>
+</p>
+<p>Our Point of Sale (POS) applications enable us to sell to customers through a huge variety of channels. You’ll be part of our POS IT team, responsible for telesales, MSO &amp; FiOS integration and touch points, high-volume preorder/backorder portal, web services development, and backend programming. In addition, you’ll be part of the core team that’s developing and promoting DevOps and cloud adoption across various sales and web service applications. We’re pushing ourselves to be more nimble and efficient as we redefine the retail landscape—and you’ll play a critical role.</p>
+<ul>
+<li>
+Leading a team of engineers and managers, planning and reviewing their work, plus removing barriers and solving problems to help them be optimally productive and deliver work on time.</li>
+<li>
+Creating the software vision for assigned sales channels and web services.</li>
+<li>
+Developing highly-available applications and service stacks in production environment.</li>
+<li>
+Providing architectural oversight for systems and services.</li>
+<li>
+Promoting, implementing, and educating about Agile software development.</li>
+</ul>
+<p><b>
+What we’re looking for...</b>
+</p>
+<p>You have the ability to define a vision and your entrepreneurial mindset drives you to generate highly innovative ideas and take calculated risks. You develop strong relationships and win-win solutions, which makes you a productive collaborator. Customers appreciate that you take personal responsibility for their satisfaction, and team members know they can count on your commitment.</p>
+<p>
+You’ll need to have:</p>
+<ul>
+<li>
+Bachelor’s degree or four or more years of work experience.</li>
+<li>
+Six or more years of relevant work experience.</li>
+</ul>
+<p>
+Even better if you have:</p>
+<ul>
+<li>
+A degree in computer science or computer engineering.</li>
+<li>
+Master’s degree.</li>
+<li>
+Software development experience in a diverse set of areas including scalable web applications, iOS platform app development, web services, message queues, Scalable C programming.</li>
+<li>
+Experience in project management including waterfall and agile methodologies.</li>
+<li>
+Proven experience in leading/managing Software projects/development teams.</li>
+<li>
+Experience triaging/handling high pressure customer end user/requests.</li>
+<li>
+Experience with performance tuning, scalability and availability.</li>
+<li>
+Significant experience in software development cycle.</li>
+<li>
+Hands on experience in Java/J2EE application development including experience leading a technical team in such web technologies.</li>
+<li>
+Experience in a DevOps software development environment.</li>
+<li>
+Experience migrating web applications to Cloud (AWS, Oracle Cloud or Cloud Foundry etc.)</li>
+<li>
+Knowledge and experience of Docker/Container technologies.</li>
+<li>
+Experience with Sales and Supply chain systems, logistics, Customer Engagement &amp; CRM systems.</li>
+</ul>
+<p><b>
+When you join Verizon...</b>
+</p>
+<p>You’ll be doing work that matters alongside other talented people, transforming the way people, businesses and things connect with each other. Beyond powering America’s fastest and most reliable network, we’re leading the way in broadband, cloud and security solutions, Internet of Things and innovating in areas such as, video entertainment. Of course, we will offer you great pay and benefits, but we’re about more than that. Verizon is a place where you can craft your own path to greatness. Whether you think in code, words, pictures or numbers, find your future at Verizon.</p>
+<p><b>
+Equal Employment Opportunity</b>
+</p>
+<p>We're proud to be an equal opportunity employer- and celebrate our employees' differences,including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.</p>
+</div>
+<p></p>
+</div>

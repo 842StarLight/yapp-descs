@@ -1,0 +1,33 @@
+<h2>Website Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h1 class="jobSectionHeader"><b>Website Developer Job Description</b></h1>
+<p>We are looking for an outstanding contractor to act as our Web Developer to be responsible for the coding, innovative design and layout of our website. We have a large volume of collateral ready to go on the site, with design functionality decisions already made.</p>
+<h2 class="jobSectionHeader"><b>
+Job Duties</b></h2>
+<p>Web developer responsibilities include re-building our website from concept all the way to completion from the bottom up, fashioning everything from the home page to site layout and function. Part of the responsibility is to develop an admin console so that the marketing team can manage content with ease.</p>
+<h2 class="jobSectionHeader"><b>
+Competencies</b></h2>
+<ul>
+<li>Write well designed, testable, efficient code by using best software development practices including ASP.NET and MVC a must have.</li>
+<li>Create website layout/user interface by using standard HTML/CSS practices.</li>
+<li>Integrate data from various back-end services and databases.</li>
+<li>Ability to translate provided specifications and requirements based on technical needs.</li>
+<li>Create and maintain software documentation.</li>
+<li>Be responsible for maintaining, expanding, and scaling our site including integration with sales and marketing applications.</li>
+<li>Stay plugged into emerging technologies/industry trends and apply them into operations and activities.</li>
+<li>Cooperate with web manager to match our visual design intent and meet our needs with user interactions and usability.</li>
+<li>Experience with Apple IOS a plus.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Responsibilities</b></h2>
+<ul>
+<li>Proven working experience in web programming.</li>
+<li>Top-notch programming skills and in-depth knowledge of modern HTML/CSS.</li>
+<li>Familiarity with the following programming languages: ASP.NET MVC</li>
+<li>A solid understanding of how web applications work including security, session management, and best development practices.</li>
+<li>Adequate knowledge of relational database systems, Object Oriented Programming and web application development.</li>
+<li>Hands-on experience with basic network diagnostics, basic network analytics tool knowledge.</li>
+<li>Basic knowledge of Search Engine Optimization process.</li>
+<li>Aggressive problem diagnosis and creative problem solving skills.</li>
+<li>Strong organizational skills to juggle multiple tasks within the constraints of timelines and budgets with business acumen.</li>
+</ul>
+</div></div>

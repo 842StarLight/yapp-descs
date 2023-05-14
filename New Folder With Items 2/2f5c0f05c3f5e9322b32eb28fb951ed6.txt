@@ -1,0 +1,86 @@
+<h2>Senior Front Office Quant Developer (</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Senior Front Office Quant Developer (#134454)</div>
+<div>
+<div>
+United States-NY-New York</div> <div>|</div>
+<div></div> <div>Full-time (FT)</div> <div>|</div> <div>Corporate Functions</div> <div>|</div> <div>Job ID</div> <p>134454</p>
+</div>
+<div>
+<p>
+Credit Suisse is a leading global wealth manager with strong investment banking capabilities. Headquartered in Zurich, Switzerland, we have a global reach with operations in about 50 countries and employ more than 45,000 people from over 150 different nations. Embodying entrepreneurial spirit, Credit Suisse delivers holistic financial solutions to our clients, including innovative products and specially tailored advice. Striving for quality and excellence in our work, we recognize and reward extraordinary performance among our employees, provide wide-ranging training and development opportunities, and benefit from a diverse range of perspectives to create value for our clients, shareholders and communities. We are Credit Suisse.</p>
+<b>
+We Offer</b><p></p>
+<br>
+<div>
+<p>
+This role is in the Pricing Services team within Quantitative Strategies Technology (QST). Our team develops and supports client-side and middle-tier software in .NET (F# and C#), which delivers trade pricing and risk analytics to the front office – sales and trading - in both Fixed Income and Equities businesses.</p>
+<br>
+<p></p>
+<p>Role Description</p>
+<p></p>
+<ul>
+<li><p>
+You will develop trading software end to end, from collecting requirements, design, and coding, to testing, deployment, and production rollout.</p></li>
+<p></p>
+<li><div>
+You will collaborate with a word-class group of quants and technologists.</div></li>
+<p></p>
+<li><div>
+You will be working on a trading floor, integrated with and responding to your end users.</div></li>
+<p></p>
+<li><p>
+You will be exposed to range of asset classes.</p></li>
+</ul>
+<br>
+<p></p>
+<p></p>
+<p></p>
+<p>Credit Suisse maintains a Working Flexibility Policy, subject to the terms as set forth in the Credit Suisse United States Employment Handbook.</p>
+</div>
+</div>
+<div></div>
+<div>
+<b>
+You Offer</b><div>
+</div>
+<div>
+<p>
+We look to you to bring</p>
+<ul>
+<li><div>
+1-3 years of relevant work experience</div></li>
+<li><div>
+Detailed hands-on knowledge of the .NET platform, C# or F# languages, &amp; related design patterns/paradigms.</div></li>
+<li><div>
+Practical knowledge of good software practices – automated tests, continuous integration, agile methodologies.</div></li>
+<li><div>
+Undergraduate degree with honors in a quantitative field such as Mathematics, Computer Science, Engineering or Physics, or equivalent level commercial experience.</div></li>
+<li><div>
+Strong communication skills; able to discuss technology with non-technical people and to learn financial and quantitative concepts on the fly.</div></li>
+<li><div>
+Interest in the interplay between technology and finance.</div></li>
+<li><div>
+Readiness to work in a demanding, front office setting, with rapidly changing requirements.</div></li>
+<li><div>
+Detail oriented, analytical, and comfortable operating with only light supervision.</div></li>
+<li><div>
+Experience with any of these is a plus: functional programming, WPF, microservices, web development, financial products.</div></li>
+</ul>
+<p>
+What will you learn?</p>
+<ul>
+<li><div>
+Learn to tailor technology solutions to short and long term business needs.</div></li>
+<li><div>
+Formal and informal training from experts functional programming, financial products, and quantitative finance.</div></li>
+<li><div>
+Contribute both to mature, industry-leading systems and to cutting-edge, greenfield developments.</div></li>
+<li><div>
+Discover what it takes to write, review, test, and release high-demand software as part of a collaborative, global team.</div></li>
+</ul>
+</div>
+</div>
+<p>
+Credit Suisse is an equal opportunity employer. Welcoming diversity gives us a competitive advantage in the global marketplace and drives our success. Credit Suisse complies with applicable federal, state, and local laws prohibiting discrimination in employment in every jurisdiction in which it maintains facilities. Subject to applicable law and regulatory requirements, Credit Suisse complies with state and local laws regarding considering for employment qualified individuals with criminal histories.</p>
+</div></div>

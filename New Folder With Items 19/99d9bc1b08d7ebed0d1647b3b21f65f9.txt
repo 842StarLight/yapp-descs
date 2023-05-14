@@ -1,0 +1,113 @@
+<h2>IT Cloud Advisory Architect- Eden Prairie, MN</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Optum is looking for a Cloud Advisory Architect who is passionate about helping customer teams accelerate their journey to the cloud. Our architects are experienced technical professionals with the depth and breadth needed to help a variety of teams, regardless of their current cloud maturity. As a Cloud Advisory Architect, you will primarily work directly with customers, helping them to expedite their journey to the cloud and reducing the amount of time it might otherwise take them to recognize value from it.</div>
+<div></div>
+<br>
+<div>
+To find success in this role, you will need to partner with other architects, operations &amp; information security teams, as well as cloud engineering teams to craft the proper solutions and roadmaps for our customers as we evolve our cloud maturity. The ideal candidate will have production cloud experience, as well as past success working across the enterprise to accelerate cloud adoption, as well as experience leading deep architecture discussions and building technology roadmaps. They must be self-motivated with a demonstrated ability to think strategically about business, products, and technical challenges. Cloud Advisory Architects should have a passion for educating, training, and designing solutions for customers.</div>
+<div></div>
+<div>
+<br>
+Responsibilities<br>
+</div>
+<div></div>
+<ul>
+<li>
+Guide customers through internal processes on cloud adoption and enablement</li>
+<li>
+Partner with technical training teams on curating offerings available to customers and evangelize the offerings within the enterprise</li>
+<li>
+Build and/or deliver technical workshops for customers with varying levels of cloud platform experience</li>
+<li>
+Create content for, and engage with, the development community in the form of blog entries, forum posts, hackathons, office hours &amp; other mediums in order to raise interest, evaluation, and adoption of cloud</li>
+<li>
+Provide advisory services to customers based on a Statement of Work (SOW) that may include (but are not limited to):<br>
+<div><ul>
+<li>Cost estimation guidance</li>
+<li>
+Creation of architectures to exceed the needs of the customer, based on discovery that you will conduct and that adhere to internal policies</li>
+<li>
+Review of existing architecture(s) to determine gaps in best practices and adherence to internal policies</li>
+<li>
+Application modernization patterns</li>
+<li>
+Migration planning/guidance from non-cloud platforms to cloud platforms</li>
+<li>
+DevOps best practices including CI/CD, application &amp; infrastructure pipelines, Infrastructure as Code, etc.</li>
+<li>
+Engage with partners/vendors as needed to facilitate additional hands-on support for customers<br>
+</li>
+</ul></div>
+</li>
+</ul>
+<br>
+<div>Basic Qualifications<br>
+</div>
+<div></div>
+<ul>
+<li><div>
+Presentation skills that include a high level of comfort engaging with various levels of business owners</div></li>
+<li><div>
+Strong hands-on experience with technology patterns such as containers, infrastructure as code, CI/CD, immutable infrastructure, cloud native design, application modernization, and serverless</div></li>
+<li><div>
+Strong design/implementation/consulting experience with microservices and/or distributed applications</div></li>
+<li><div>
+Relevant experience in technology/software sales, pre-sales, developer relations, or technical consulting</div></li>
+<li><div>
+Relevant experience in infrastructure, database and networking architectures</div></li>
+<li><div>
+Hands-on experience with building and managing release systems, automation, and CI/CD workflows and tools</div></li>
+<li><div>
+Experience working with and delivering outcomes using Agile practices</div></li>
+<li><div>
+Ability to travel to customer locations to deliver advisory services as needed (25%)</div></li>
+</ul>
+<div>
+Preferred Qualifications<br>
+</div>
+<ul>
+<li>
+<div>
+Hands-on experience working with one or more of the following cloud platforms:<br>
+</div>
+<div></div>
+<div><ul>
+<li>
+Amazon Web Services</li>
+<li>
+Microsoft Azure</li>
+<li>
+Google Cloud Platform</li>
+<li>
+Red Hat OpenShift</li>
+<li>
+Kubernetes (not specific to any one cloud service provider)</li>
+</ul></div>
+</li>
+<li>
+Experience with the following DevOps/CI/CD realm tools in production environments, such as:<div><ul>
+<li>
+Terraform</li>
+<li>
+Jenkins</li>
+<li>
+Git (GitHub Enterprise)<br>
+</li>
+</ul></div>
+</li>
+<li>Experience with monitoring and logging frameworks &amp; tools like AWS CloudWatch, Azure Monitor, Splunk, ELK/EKK stack, etc.</li>
+<li>
+Experience migrating and/or transforming legacy (non-cloud based) solutions to the cloud</li>
+<li>
+Strong hands-on experience with mainline programming and/or scripting languages such as Python, Ruby, Go, NodeJS, Java, Shell, or C# (and the ability to write tests in your language of choice)<br>
+</li>
+</ul>
+<div>
+<b>Technology Careers with Optum.</b> Information and technology have amazing power to transform the health care industry and improve people's lives. This is where it's happening. This is where you'll help solve the problems that have never been solved. We're freeing information so it can be used safely and securely wherever it's needed. We're creating the very best ideas that can most easily be put into action to help our clients improve the quality of care and lower costs for millions. This is where the best and the brightest work together to make positive change a reality. This is the place to do <b>your life's best work.</b><b>SM</b><br>
+</div>
+<div>
+Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.<br>
+</div>
+<div>
+UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.</div>
+</div></div>

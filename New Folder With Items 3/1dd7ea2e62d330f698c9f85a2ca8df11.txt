@@ -1,0 +1,91 @@
+<h2>Senior UI Engineer - AngularJS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Job Title: Senior UI Engineer</p>
+<p>
+Location: Denver, CO</p>
+<p>
+Function: Engineering</p>
+<p>
+Position Type: Full-time</p>
+<p>
+Position Level: Mid-Level</p>
+<br>
+<p></p>
+<p>
+Xactly Corporation was founded to solve an important challenge: how to help people everywhere connect and unleash their human potential through seamless, perfectly aligned Sales Performance Management. Xactly’s comprehensive Sales Performance Management (SPM) suite leverages data from a sales performance AI platform to provide timely insights across the entire SPM value chain, from sales planning to execution, including compensation to optimization. Xactly takes Sales Performance Management from a dark art to a science, providing decision-makers with the data insights they need to tap the motivational power of their incentive compensation. With access to predictive analytics and benchmark data, enterprises can now optimize territories, design the right compensation and incentive plans and accelerate attainment and optimization of sales performance.</p>
+<br>
+<p>THE OPPORTUNITY</p>
+<p>
+As a UI Engineer at Xactly, you’ll be an essential member of a fast moving agile development team building Xactly's newest SalesPlanning product. You will contribute to all aspects from design and development to deployment and support working alongside product management and customer support. You’ll be responsible for taking personal ownership in both your code and others, this includes ensuring proper tests, documentation and communication around development.</p>
+<br>
+<p>THE TEAM</p>
+<p>
+Here at Xactly, we pride ourselves in building teams with diversity of opinions in order to build the best software possible. We understand that not everyone works the same way and strive to create a flexible open environment to allow you to create the work/life balance that works best for you.</p>
+<br>
+<p>THE SKILL SET</p>
+<ul>
+<li>5+ years of experience in web application development and architecture.</li>
+<li>Extensive experience using open source software libraries</li>
+<li>Strong experience in at least one MVC architecture or application of the pattern</li>
+<li>Solid hands on experience with Javascript and knowledge of modern frameworks and libraries (We use AngularJS for this team)</li>
+<li>Experience in an agile (Scrum) development process</li>
+<li>Bachelors degree in Computer Science or other relevant technical degree or equivalent experience preferred</li>
+</ul>
+<br>
+<p>WITHIN ONE MONTH, YOU’LL</p>
+<ul>
+<li>Become familiar with the code base, development processes, and deployments.</li>
+<li>Become familiar with the product as customers will use it.</li>
+<li>You may even have your first PR approved and in production.</li>
+</ul>
+<br>
+<p>WITHIN THREE MONTHS, YOU’LL</p>
+<ul>
+<li>Become a contributor to the overall code base.</li>
+<li>Have PRs approved and deployed to production</li>
+<li>Contribute to design</li>
+</ul>
+<br>
+<p>WITHIN SIX MONTHS, YOU’LL</p>
+<ul>
+<li>Working more autonomously and closer with product</li>
+<li>Helping troubleshoot issues</li>
+<li>Contribute new ideas to the product and development</li>
+</ul>
+<br>
+<p>WITHIN TWELVE MONTHS, YOU’LL</p>
+<ul>
+<li>Become a team leader</li>
+<li>A goto person for Javascript at Xactly.</li>
+<li>Mentor other developers</li>
+</ul>
+<br>
+<p>BENEFITS &amp; PERKS</p>
+<ul>
+<li>Flexible Time Off (FTO)</li>
+<li>Comprehensive Insurance Coverage (including pet insurance!)</li>
+<li>Tuition Reimbursement</li>
+<li>XactlyFit Gym/Fitness Program Reimbursement</li>
+<li>Kitchen Stocked Daily with Tasty Snacks, Fruit, and Drinks</li>
+<li>Access to Corporate Discounts</li>
+<li>Parking &amp; Commuter Benefits</li>
+<li>Up to (3) Days Paid Leave to Participate in Community &amp; Volunteer Opportunities</li>
+<li>End of Month Surprises, Contests, BBQs, Parties &amp; Reward Vacations</li>
+<li>401(k) Retirement Savings Plan &amp; Employer Match</li>
+<br>
+</ul>
+<br>
+<br>
+<p>THE XACTLY STORY</p>
+<br>
+<p>Xactly is a leading provider of enterprise-class, cloud-based, incentive compensation solutions for employee and sales performance management. We achieve this by following our vision: Unleashing human potential to maximize company performance. We address a critical business need: to incentivize employees and align their behaviors with company goals. Our solutions allow organizations to make better strategic decisions, optimize behaviors, increase sales and employee performance, improve margins, increase operational efficiencies, mitigate risk, design better incentive compensation plans, and reduce error rates in incentive compensation calculations. Our core values of Customer Focus | Accountability | Respect | Excellence are key to our success, and each day we’re committed to upholding them by delivering the best we can to our customers.</p>
+<p>
+We were the first 100% cloud-based, multi-tenant provider focusing solely on the incentive compensation and employee and sales performance management market, and we achieved our leadership position through domain expertise and innovative technology. We deliver our solutions through a Software-as-a-Service (SaaS) business model.</p>
+<p>
+Xactly is proud to be an Equal Opportunity Employer. Xactly provides equal employment opportunities to all employees and applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, pregnancy, sexual orientation, or any other characteristic protected by law.</p>
+<br>
+<p>We do not accept resumes from agencies, headhunters, or other suppliers who have not signed a formal agreement with us.</p>
+</div>
+<div></div>
+</div>

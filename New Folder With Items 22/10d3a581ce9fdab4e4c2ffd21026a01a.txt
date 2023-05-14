@@ -1,0 +1,41 @@
+<h2>Senior Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">OpenTable is looking for a process and detail-oriented Senior Salesforce Developer for our Salesforce Engineering Team. In this role, you will be a technical liaison in a cross-functional team that addresses strategic business issues involving CRM and internal engineering systems. You will design and build solutions leveraging the Force.com platform and/or other technologies and programming languages to satisfy unique business requirements.
+<br><br>
+This role provides interesting, varied work that will deliver a significant impact on many internal teams throughout OpenTable such as Global Sales, Customer Support, Marketing, IT, and Operations. Successful execution will require effective communication and designing solutions in a fast-paced, high-growth environment.
+<br><br>
+<b>Job Responsibilities:</b><br>
+<ul>
+<li>Translate business requirements into detailed technical specifications that result in effective, scalable and reliable code</li>
+<li>Leverage the Salesforce platform and/or other technologies and programming languages to develop solutions and satisfy unique business requirements</li>
+<li>Manage multiple projects concurrently while maintaining the accuracy of technical specifications</li>
+<li>Lead projects through design, coding, and deployment</li>
+<li>Foster a team dynamic with business users, project managers, and other engineers</li>
+<li>Communicate how solutions map effectively to original business requirements and provide product demonstration of developed solutions</li>
+</ul>
+<b>Required Technical Experience:</b><br>
+<ul>
+<li>6+ years overall experience developing custom solutions on the Salesforce platform using Apex Classes, Apex Triggers, Visualforce Pages, and Lightning Components</li>
+<li>2+ years of experience developing APIs, Integrations, and microservices using a high-level language such as Java or C#</li>
+<li>1+ years experience developing Lightning Components / Lightning Web Components</li>
+<li>Experience working with and writing intermediate to advanced queries in relational databases (SOQL, SQL, Postgres, Oracle, etc)</li>
+<li>Experience working with Salesforce APIs and Web Services (REST, SOAP)</li>
+<li>Knowledgeable of all levels of the SDLC and all testing phases</li>
+</ul>
+<b>Desired Experience:</b><br>
+<ul>
+<li>Experience with Salesforce page layouts, profiles, permissions, workflows, and approval processes</li>
+<li>Familiar with EDA (Event Driven Architecture) design paradigm, Salesforce Streaming API, Salesforce Platform Events, Change Data Capture, and Kafka messaging</li>
+<li>Experience with data migration, system integration techniques, and ETL tools</li>
+<li>Experience with Agile software development</li>
+<li>Bachelor's Degree in Computer Science or equivalent</li>
+<li>Salesforce Platform Developer certification(s)</li>
+</ul>
+About OpenTable
+<br><br>
+<b>OpenTable, part of Booking Holdings Inc. (NASDAQ:</b> BKNG), is the world's leading provider of online restaurant reservations, seating more than 25 million diners per month via online bookings across approximately 45,000 restaurants.
+<br><br>
+Since its inception in 1998, OpenTable has seated more than 1.5 billion diners in over 20 countries. The Company is headquartered in San Francisco, California, and the OpenTable service is available throughout the United States, as well as in Canada, Germany, Japan, Mexico, the UK and may more locations.
+<br><br>
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+<br><br>
+#IND-ENG</div>

@@ -1,0 +1,83 @@
+<h2>Software Development Team Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>***PLEASE READ - Please apply to this role using the following link:<br>
+<br>
+https://simplelegal.applytojob.com/apply/UyQCYmaWpl/Software-Engineering-Lead-Python?source=GLSSP<br>
+<br>
+Location - Austin, TX 78759<br>
+</p>
+<p>We are looking for startup-minded software engineers to be the foundational members of our rapidly growing Engineering organization. Our engineers play a key role in product development, from concept to launch, so your ideas have impact. Our list of over 200 customers includes a range of companies from AirBnB, Sequoia Capital, MGM, Reddi and Github.</p>
+<p>
+Our culture is focused on ownership, transparency, and community.
+</p>
+<p><b>The Role</b></p>
+<p>
+As a <b>Software Engineering Lead, </b>you will get the opportunity to:</p>
+<ul>
+<li>Ship quality product
+<ul>
+<li>Produce great, performant code while minimizing debt</li>
+<li>Drive technical roadmap and definition</li>
+<li>Participate in support of the product</li>
+</ul>
+</li>
+<li>Impact the engineers around you
+<ul>
+<li>Identify gaps in knowledge, tools, and processes and address them</li>
+<li>Incorporate best practices and build tooling to help enforce them</li>
+<li>Have ownership within our platform</li>
+<li>Ensure software quality through code reviews and knowledge sharing</li>
+</ul>
+</li>
+<li>Build a great team
+<ul>
+<li>Partner with Human Resources to recruit Sr. Engineers to help build out the team</li>
+<li>Mentor and coach Junior Software Engineers</li>
+</ul>
+</li>
+</ul>
+<p><b>Specifically, you will:</b></p>
+<ul>
+<li>Participate in SimpleLegal’s API-first strategy, building out the fundamentals for our platform</li>
+<li>Identify and incorporate libraries and technologies that will ease and accelerate development</li>
+<li>Explore and build out new products such as:
+<ul>
+<li>a generic rules engine that allows customers to programmatically create customized workflows</li>
+<li>a flexible reporting system that safely allows users to execute arbitrary queries on authorized data</li>
+<li>a permissioning system to give users flexible roles and data access</li>
+</ul>
+</li>
+<li>Build a SimpleLegal brand in the Houston market
+<ul>
+<li>Be the founding member of a new SimpleLegal Engineering team</li>
+<li>Contribute to culture, team and recruiting.</li>
+<li>Attend/host meetups, visit universities, contribute to blog, open source community</li>
+</ul>
+</li>
+</ul>
+<p><b>QUALIFICATIONS:</b></p>
+<ul>
+<li><b>7+ years of delivering customer facing web products using Python/Django with production experience</b></li>
+<li>Experience building and supporting enterprise SaaS systems</li>
+<li>Agile process experience, ability to work in small teams; startup experience</li>
+<li>Enjoy mentoring and leading other engineers</li>
+</ul>
+<p><b>BONUS POINTS:</b></p>
+<p>
+Extra credit for experience with any of the following Python libraries: NumPy, SciPy, Pandas, Matplotlib, Seaborn, Bokh, Plotly, SciKit-Learn, Theano, TensorFlow, Keras, NLTK, Gensim, Scrapy, Scapy, nose, iPython, wxPython, Pillow, Stasmodels, Pipenv, PyTorch, Caffe2, Pendulum, Dash, PyFlux, Fire, Imbalanced-learn, Flashtext</p>
+<p><b>
+OUR TECH STACK:</b></p>
+<p>
+Our apps are built primarily using Django + Postgres on Heroku. Our users typically interact with SimpleLegal directly through the UI but we do have an API implemented using Django REST Framework for integrations with other legal-tech and fin-tech applications. The front-end is primarily Bootstrap with JavaScript + jQuery.</p>
+<p><b>
+About SimpleLegal</b></p>
+<p>
+SimpleLegal is a legal tech enterprise SaaS startup run by experienced founders, based in Mountain View, CA. We’ve created a software platform to run in-house legal operations. As a well-funded startup with a diversified customer base and meaningful revenue, we are bringing corporate legal teams into the modern age. Sales has Salesforce, Marketing has HubSpot, Legal has SimpleLegal. In May of 2019, SimpleLegal joined the Onit family as of an expansion to offer solutions to the leading companies around the world.
+</p>
+<p>About SimpleLegal SimpleLegal is a legal tech enterprise SaaS startup run by experienced founders, based in Mountain View, CA. We’ve created a software platform to run in-house legal operations. As a well-funded startup with a diversified customer base and meaningful revenue, we are bringing corporate legal teams into the modern age. Sales has Salesforce, Marketing has HubSpot, Legal has SimpleLegal. In May of 2019, SimpleLegal joined the Onit family as of an expansion to offer solutions to the leading companies around the world.</p>
+<p>
+SimpleLegal recently combined with Onit to disrupt the legal operations landscape, with offices in Mountain View, Houston, and Austin. We’re here to build a world-class product that our customers love, that has the best support of any software product they use, in an environment that celebrates company and personal success. We believe that opportunity exists in the legal industry to build that company. We believe that we can build the next great enterprise platform faster and better than anyone else. We offer competitive compensation and benefits in a fun working environment. Dental, medical, catered lunches, game nights to get to know your coworkers, and more.</p>
+</div>
+<p></p>
+</div>

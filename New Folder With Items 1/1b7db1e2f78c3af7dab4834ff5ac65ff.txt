@@ -1,0 +1,80 @@
+<h2>Digital Service Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Job Description</b><br>
+<p><b>The position</b></p>
+<p></p>
+<p>
+Due to our growth in Life Sciences, we are looking for an experienced Digital Service Engineer to be added to our SSD team (Sales and Services Division) to take care of IT and infrastructure related matters.</p>
+<p></p>
+<p>
+In this new position in the SSD, you will work close together with the Sales and Support organization to ensure a smooth introduction, delivery and support of our digital solutions and services. In this position, you will have a direct interface with the customer and interact with the implementation and support teams. It is your responsibility to provide all the necessary information to manage the full landscape of the deployment of the IT solution including the integration with the customers infrastructure, and enable the remote support capabilities.</p>
+<p><br>
+Specific deliverables associated with this position include:</p>
+<ul>
+<li>
+Engage with sales during pre-sales phase as a consultant to design the integration of the IT solution with the local infrastructure and answer all IT related questions.</li>
+<li>
+Ensure systems are setup for remote diagnostics and health monitoring.</li>
+<li>
+Engage with the development and operations organization to provide input to manuals, training, and customer facing material.</li>
+<li>
+Perform automated deployments through the use of configuration management technology.</li>
+<li>
+Provide support to the installations within the SLA as agreed with the customer utilizing our processes.</li>
+<li>
+Conduct detailed troubleshooting and analysis of system or SW and infrastructure problems that affect reliability, performance, etc. of our delivered systems.</li>
+<li>
+Support factory and development teams with first deployments, installs and upgrades of newly introduced systems and modules to ensure proper working order.</li>
+</ul>
+<p></p>
+<p><b>
+SSD – Life Science</b></p>
+<p><br>
+The Sales and Service Division (SSD) of Thermo Fisher Scientific is charged with selling and servicing Electron Microscopy products in geographical territories worldwide. The SSD Organization serves as the primary Thermo Fisher Scientific contact to both potential customers and current customers alike, providing a range of value-added products and services and maintaining the highest levels of customer satisfaction.</p>
+<p></p>
+<ul>
+<li>Corporate organization https://www.youtube.com/watch?v=ABSxT6Y099I</li>
+<li>Inside the Titan Transmission Electron Microscope https://www.youtube.com/watch?v=2wEmsDh_l_A</li>
+<li>How to make a microscope https://www.youtube.com/watch?v=9W6J_f4yVVg</li>
+<li>The installation of a Talos System at the University of Chicago https://www.youtube.com/watch?v=40rTgRq7iD0</li>
+</ul>
+<p></p>
+<p><b>
+The Requirements</b><br>
+<br>
+The successful candidate will possess the following combination of education and experience:</p>
+<p></p>
+<ul>
+<li>
+Typically requires a Bachelor or Master degree in ICT Computer Science or a technical / SW discipline or equivalent combination of education and experience</li>
+<li>
+Experience in IT application management</li>
+<li>
+Experience with data storage and (remote) software installations, support and trouble shooting</li>
+<li>
+Thorough comprehension of fundamental networking protocols, including TCP, STP, ARP, Ethernet, OSPF, etc.</li>
+<li>
+Fundamental understanding and hands-on experience with network technologies including firewalls, content filters, routing/switching, VLANs, 802.11a/b/g/n/ac wireless networks</li>
+<li>
+Knowledge, or experience with: Monitoring tools, Linux, VMWare, Automation and Scripting, Kubernetes and Docker</li>
+<li>
+Proven customer facing skills and team player</li>
+<li>
+Motivated to work in a fast changing and highly technical environment</li>
+<li>
+Must have ability to obtain a valid passport and travel regionally and internationally as required (up to 20% of the time; mostly domestic)</li>
+</ul>
+<p></p>
+<p>
+At Thermo Fisher Scientific, each one of our 70,000 extraordinary minds has a unique story to tell. Join us and contribute to our singular mission—enabling our customers to make the world healthier, cleaner and safer.</p>
+<p></p>
+<p><i>
+Thermo Fisher Scientific is an EEO/Affirmative Action Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.<br>
+</i></p>
+<br>
+<br>
+<br>
+<p></p>If you are an individual with a disability who requires reasonable accommodation to complete any part of our application process, click here for further assistance.
+<p></p>
+<p>Thermo Fisher Scientific is an EEO/Affirmative Action Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.</p>
+</div></div>

@@ -1,0 +1,159 @@
+<h2>Technical Systems Administrator I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<h2 class="jobSectionHeader"><b>Job Brief</b></h2>
+<p>Assists computer users in the proper use of related company general software, PCs, and printers and in monitoring and controlling computer operations, maintaining system back-up.</p>
+<br>
+</div>
+<div>
+</div>
+<p></p>
+<br>
+<div><div>
+<div>
+<div>Job Code:</div>
+<div><b>OP043</b></div>
+</div>
+<div>
+<div>Route Information:</div>
+<div><b>N/A</b></div>
+</div>
+<div>
+<div>Sales Division:</div>
+<div><b>N/A</b></div>
+</div>
+<div>
+<div>Sales Channel:</div>
+<div><b>Not Applicable</b></div>
+</div>
+<div>
+<div>Specific Scope:</div>
+<div><b>Not Applicable</b></div>
+</div>
+<div>
+<div>Shift:</div>
+<div><b>Day</b></div>
+</div>
+<div>
+<div>Pay Type:</div>
+<div><b>Salary</b></div>
+</div>
+<div>
+<div>Employment Type:</div>
+<div><b>Full time</b></div>
+</div>
+<div>
+<div>City:</div>
+<div><b>Ashland</b></div>
+</div>
+<div>
+<div>Relocation Benefits:</div>
+<div><b>No Relocation Assistance Provided</b></div>
+</div>
+</div></div>
+<p><b>Essential Duties and Responsibilities (Other duties may be assigned.)</b></p>
+<ul>
+<li>Maintain and administer computer networks and related computing environments including computer hardware, systems software, applications software, and all configurations.</li>
+<li>Perform data backups and disaster recovery operations.</li>
+<li>Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.</li>
+<li>Plan, coordinate, and implement network security measures to protect data, software, and hardware.</li>
+<li>Configure, monitor, and maintain email applications or virus protection software.</li>
+<li>Operate master consoles to monitor the performance of computer systems and networks, and to coordinate computer network access and use.</li>
+<li>Load computer tapes and disks, and install software and printer paper or forms.</li>
+<li>Design, configure, and test computer hardware, networking software and operating system software.</li>
+<li>Monitor network performance to determine whether adjustments need to be made, and to determine where changes will need to be made in the future.</li>
+<li>Confer with network users about how to solve existing system problems.</li>
+<li>Research new technologies by attending seminars, reading trade articles, or taking classes, and implement or recommend the implementation of new technologies.</li>
+<li>Analyze equipment performance records to determine the need for repair or replacement.</li>
+<li>Implement and provide technical support for voice services and equipment, such as private branch exchange, voice mail system, and telecom system.</li>
+<li>Maintain an inventory of parts for emergency repairs.</li>
+<li>Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.</li>
+<li>Gather data pertaining to customer needs, and use the information to identify, predict, interpret, and evaluate system and network requirements.</li>
+<li>Train people in computer system use.</li>
+<li>Coordinate with vendors and with company personnel to facilitate purchases.</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Qualifications: </b>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p>
+<br>
+<p></p>
+<p><b>
+Education and/or Experience:</b> Bachelor's degree (B. A.) from four-year college or university preferred, or Technical degree 3-5 years’ experience in designing, creating and maintaining Access databases required and 3 years’ experience and/or training in general IS preferred; or equivalent combination of education and experience required. General knowledge of LAN/WAN, Cisco routers and switches, TCP/IP, AS400, Windows NT, Window/DOS operating systems, Citrix Metaframe, MS Office, EDI and general telecom technologies. Requires excellent interpersonal skills, tact, and judgment in dealing with co-workers, customers, and supplier.</p>
+<br>
+<p></p>
+<p><b>
+Computer Skills</b>: To perform this job successfully, an individual should have knowledge of:</p>
+<p><b>
+Networking:</b></p>
+<ul>
+<li>TCP/IP knowledge, ie. Subnets, Routing, IP address schemes, VLANs and basic routing.</li>
+<li>Hardware: Gateways, Switch, Router, firewall.</li>
+<li>Networking command prompt commands, ie. Ping, tracert, netstat, ipconfig /all etc.</li>
+<li>WINS, DCHP, DNS understanding, implementation</li>
+<li>Ethernet adapter management, Wifi understanding, in order to be able to test and troubleshoot network connection problems.</li>
+<li>Wireless Connection troubleshooting and configurations to hot spots. Wireless configurations for security, IE WEP 64 bit 128 bit or Mac address.</li>
+<li>Being able to create Network Topology of existing network through understanding the layout, or creating a Network Diagram for a new network or addition to a network, via subnetting or supernetting.</li>
+<li>Understanding the difference between routable and non-routable IP address.</li>
+<li>Understanding the basics of fiber optics. Recognizing fiber cables vs. ethernet (Cat5) cables.</li>
+<li>Recognizing fiber receiver/transmitter hardware. Understanding and knowing difference between both physical medias.</li>
+<li>Knowledge of cabling, adapters and converters.</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Operating Systems:</b></p>
+<ul>
+<li>Windows 2003, XP, 7, 2000 Server, 2003 Server</li>
+<li>Understanding how the registry works and registry security</li>
+<li>Removal of spyware and viruses, understanding removal procedures</li>
+<li>To be able to work on a PC and fix most issues without formatting, therefore preserving user data and configurations.</li>
+<li>Update and Patches maintenance</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Software/Hardware:</b></p>
+<ul>
+<li>Knowledge of major software, i.e. Adobe products, Office suites, Internet explorer, Exchange Client and Server SW, Antivirus and security software, Ghost and other imaging software</li>
+<li>Specific knowledge of Outlook/Exchange use/policies</li>
+<li>The Ability to understand Tape Backup schematics and their software solutions</li>
+<li>Quickly acquire knowledge and understanding of new and proprietary software</li>
+<li>Knowledge of Emulation software (ie. Tera Term, ProComm) and procedures to connect to Mainframes.</li>
+<li>Knowledge of Cell Phones and Bluetooth capable devices.</li>
+<li>Blackberry device setup and troubleshooting</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>System Administration:</b></p>
+<ul>
+<li>Understanding internal Data Flow, i.e. Data collection at Mainframe, download to Roadnet, upload to Mainframe, download to Warehouse logistic systems, etc.</li>
+<li>Will be responsible for supporting remote users</li>
+<li>Maintaining a clean work environment – using company conventions, ie. PC naming conventions, E-mail address setup, User account setup, etc, maintaining well organized and clean Patch panel, office layouts, port layouts, etc.</li>
+<li>Maintaining well organized and up-to-date licensing records and hardware inventories</li>
+<li>Preserving/Backing up any data when rebuilding systems. High consciousness for failover procedures</li>
+<li>The ability to troubleshoot via all resources available. Ability to utilize any and all resources available in order to successful complete the trouble shooting process independently</li>
+<li>Optional but desirable: Understanding of Warehouse logistic systems, data flow, mechanical workings and interfacing software.</li>
+<li>Understanding Battery backup systems</li>
+<li>Utilizing industry procedures, conventions and standards</li>
+<li>Understanding of Print and file servers, implementing both</li>
+<li>The basics of active directory and knowledge of security permissions for PC and Server OS’s.</li>
+<li>Understanding Remote Access, VPN tunnels, PCAnywhere, and VNC.</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Certificates, Licenses, Registrations:</b> Not Applicable</p>
+<br>
+<p></p>
+<p><b>
+Physical Demands: </b>The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the employee is regularly required to sit; use hands to finger, handle, or feel; reach with hands and arms and talk or hear. The employee is frequently required to stoop, kneel, crouch, or crawl. The employee is occasionally required to stand; walk and climb or balance. Specific vision abilities required by this job include ability to adjust focus.</p>
+<br>
+<p></p>
+<p><b>
+Work Environment: </b>The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The noise level in the work environment is usually moderate.</p>
+</div>
+<p></p>
+</div>

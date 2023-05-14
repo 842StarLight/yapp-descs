@@ -1,0 +1,44 @@
+<h2>Site Reliability Engineer (SRE)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">We are the world’s fastest-growing integration vendor ever, and we’re looking for talented, creative problem solvers who are driven and passionate to join our rapidly expanding team! Headquartered in Denver, minutes from the beautiful Rocky Mountains!
+<br><br>
+We are seeking an enthusiastic Site Reliability Engineer to join our team!
+<br><br>
+Life is great at Cloud Elements and we are growing our team! This is a challenging and dynamic opportunity, where you can use your creative problem solving, resourcefulness, and developer/operations experience to help us maintain and enhance a robust platform environment for our internal users and customers.
+<br><br>
+We are developing the Site Reliability Engineering discipline within our Engineering organization, and we need your help building the team.
+<br><br>
+<b>What you will be doing:</b><br>
+<ul>
+<li>Develop solutions to scalability, performance, and reliability challenges within the Cloud Elements platform</li>
+<li>Collaborate with internal teams to identify business goals, technical requirements, and implement solutions</li>
+<li>Continue automation of the Cloud Elements infrastructure and application deployment processes</li>
+<li>Tackle challenges of multi-cloud, hybrid-cloud, and on-premise deployments of the Cloud Elements product</li>
+<li>Identify areas of improvement in operations, solutions, sales, and customer success, and work with Product Management to address such issues</li>
+<li>Serve as part of an on-call rotation to manage incidents and resolve platform issues</li>
+</ul>
+<b>What we would like you to have:</b><br>
+<ul>
+<li>You have 1+ years of professional experience leveraging public cloud solutions, with an emphasis on AWS</li>
+<li>You have 1+ years of professional experience in systems and operations</li>
+<li>You have 2+ years experience developing software with a modern programming language</li>
+<li>You have a test-driven, infrastructure-as-code, and automation mindset</li>
+<li>You have strong verbal and written communication skills</li>
+</ul>
+<b>Bonus points for:</b><br>
+<ul>
+<li>Experience with Kubernetes</li>
+<li>Experience with Terraform and Ansible for IaC</li>
+<li>Language experience in Java, Javascript, Python, or Golang</li>
+<li>You have experience with containerization and orchestration</li>
+<li>You have strong security and networking skills</li>
+<li>You have experience infrastructure-as-code tooling and approaches</li>
+</ul>
+<b>What we can offer you:</b><br>
+<ul>
+<li>Challenging work with leading edge technology</li>
+<li>Career growth</li>
+<li>Benefits - Equity, Medical, dental, 401k, flex time off</li>
+<li>Education and training opportunities, team referral bonuses, catered lunch, powder day, summer hikes, the list goes on!</li>
+<li>Office locations: We have offices in Denver, Dallas, and Hyderabad, India. You may also work occasionally from your home office!</li>
+</ul>
+We'd love to hear from you! Please upload your resume and share with us why you think you'd be the perfect fit for our team! Cloud Elements celebrates diversity, we are an equal opportunity employer!</div>

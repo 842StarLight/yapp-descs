@@ -1,0 +1,42 @@
+<h2>Senior Scada Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div>
+<p><b>Join ABB and work in a team that is dedicated to creating a future where innovative digital technologies allow greater access to cleaner energy.
+</b></p>
+<p>ABB Power Grids Grid Automation business serves utility, industrial, and commercial customers with products and services to help distribute electricity efficiently and reliably, maintain power quality, and control and manage electrical networks. Our North American division headquartered in Raleigh, NC seeks an experienced Senior Scada Engineer to join our Systems Engineering group.<br>
+<br>
+Systems Engineering consists of the design, development and introduction of systems to effectively utilize state-of-the-art developments encompassing various engineering related fields and associated products. The Senior Scada Engineer ensures a consistent, coordinated and cohesive project engineering approach to Automation, SCADA, and Communication systems.
+</p>
+<h2 class="jobSectionHeader"><b>Your responsibilities</b></h2>
+<ul>
+<li>Typical duties/responsibilities may include, but are not limited to, the following:
+</li>
+<li>1. Technical contribution: Coordinates engineering discipline across several projects. Provides technical support for testing, installation and commissioning activities. Designs and conducts experiments, analyzes and interprets data. Prepares complete project documents in one’s area of responsibility. Serves as a specialist in application of advanced concepts and methods.
+</li>
+<li>2. Sales support: Assists in preparing proposal/presentation of engineering projects/programs (provision of bills of materials, estimated engineering hours, etc).
+</li>
+<li>3. Contract management: Supports issuing claims (new/change in scope of work, cost impact, time impact, risk quantifications etc.). Provides cost effective quality solutions as per customer requirement and delivers within budget and contract. Ensures adherence to safety standards and mitigation of potential risks.
+</li>
+<li>4. Planning and control: Creates work plans and cost estimates in one’s area of responsibility. Reviews and approves scope, budget and schedule for assignments and ensures quality deliverables on time and within targeted cost. Improves effectiveness of work plan in collaboration with other functions.
+</li>
+<li>5. Risk and opportunity management: Completes risk and opportunity assessments and ensures implementation of resulting actions in one’s area of responsibility. Reports any contract / quality / program / cost issues to management along with recommendations for resolution.
+</li>
+<li>6. Customer: Interacts with customers, officials, contractors and others. Attends project meetings and presents specific aspects of engineering assignments.</li>
+<li>7. Supply chain management: Collaborates with the Supply Chain function to ensure that technical requirements for equipment or services are communicated and agreed to with potential suppliers. Provides technical evaluation of supplier proposals and accepts as fit for purpose supplied equipment or services.
+</li>
+<li>8. Technical leadership and knowledge sharing: Maintains network of engineering professionals and shares engineering best practice across different projects and disciplines.
+</li>
+<li>9. Processes and tools: Develops, selects and applies standard techniques, procedures and tools. Ensures that engineering activities comply with required safety regulations and contractual requirements. Reports processes and tools inefficiencies and suggests ideas for improvements.
+</li>
+<li>10. People leadership and development: Coaches, provides support and technical advice to colleagues. Assigns tasks for and directs engineers, technicians and administrative staff. May functionally lead a small team.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Your background</b></h2>
+<ul>
+<li>Basic Qualifications:</li>
+<ul><li>Bachelor's Degree in engineering, computer science, or related field and 8+ years of experience</li></ul>
+<li>**Candidates must already have a work authorization that would permit them to work for ABB in the United States</li>
+<li>Preferred Qualifications:</li>
+<ul><li>Knowledge of industry standard protocols such as IEC (61850, 60870-5), non-IEC (DNP3, Modbus), and related cyber security (IEC 62351, NERC CIP).</li></ul>
+<ul><li>Working knowledge of modern control systems (SCADA, RTUs, PLCs) and experience with ABB products such as MicroSCADA, Relion product family, RTU 500 series, and grid automation software tools ITT600, IET600, and SDM600.</li></ul>
+<ul><li>Knowledge of programming languages including VBA, SCIL, C, C++ and C#.</li></ul>
+</ul>
+</div></div></div>

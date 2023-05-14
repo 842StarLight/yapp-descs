@@ -1,0 +1,61 @@
+<h2>Senior Software Engineer- Web Development</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<p><b>Key Technologies</b><b> C#, .NET, MVC, SQL Server, REST</b></p>
+<p><b>
+Experience level</b><b> </b><b>Mid-Level, Senior</b></p>
+<p>
+CenterEdge Software has been redefining the successful operation of family entertainment centers, trampoline parks, water parks, museums, roller skating rinks, and large-scale amusement parks across the country since 2004. We deliver real-world solutions to meet the everyday needs of facility owners and managers. The CenterEdge product suites offer solutions for point of sale, online sales and reservations, labor management, capacity scheduling, food and beverage sales, attractions management and mobile transactions.</p>
+<p>
+As an innovator in the operation of family entertainment centers, we are looking for experienced full-stack developers who would love to create cloud-based apps and APIs to power our software systems of the future.
+</p>
+<p>In this role, you will design and develop solutions as part of a ground-up re-engineering of our software applications using the latest .Net and Web technologies...allowing you the freedom to let your technical capabilities shine.</p>
+<p><b>
+Requirements &amp; Skills</b></p>
+<ul>
+<li>
+Experience with C#, ASP.NET MVC, and JSON.</li>
+<li>Experience consuming RESTful Web API</li>
+<li>Experience with client-side technologies such as JQuery, AngularJs, Knockout, React, JavaScript, TypeScript, HTML5, and CSS/SASS.</li>
+<li>Experience with unit testing frameworks, in particular, xUnit and MochaJS</li>
+<li>Experience with Agile development processes, methodologies, and tools.</li>
+<li>Experience using source control, preferably Git.</li>
+<li>Bonus: prior experience developing with .NET Core.</li>
+<li>Bonus: prior experience developing with Angular.</li>
+<li>Bonus: prior experience using NoSQL databases - Couchbase, Mongo, etc.</li>
+<li>Bonus: prior experience with CI/CD tools - Jenkins, Bamboo, Spinnaker, etc.</li>
+<li>Bonus: prior experience developing applications for the Cloud environment - AWS, Azure, etc.</li>
+<li>Bonus: prior experience with Docker and Kubernetes</li>
+</ul>
+<p><b>Qualifications</b></p>
+<ul>
+<li>
+Sound knowledge of modern web development trends, technologies, and design patterns.</li>
+<li>Minimum of 5years' experience designing and implementing web-based software systems, with 8 to 10 years of experience being ideal.</li>
+<li>Authorized to work in the U.S. without a visa or other sponsorship.</li>
+</ul>
+<p><b>Cultural Fit</b></p>
+<ul>
+<li>
+You have a passion for writing great code with the desire to achieve and exceed goals.</li>
+<li>You are personally accountable for your work and love creating value for your users.</li>
+<li>You have a desire for the team to succeed above personal preferences.</li>
+<li>You are extremely technical, but also have a passion to constantly learn and develop new skills.</li>
+</ul>
+<p>This position offers the opportunity to work remotely up to 80% of the time, but candidates MUST reside within a reasonable drive of our business location in Roxboro, NC.</p>
+<br>
+<p></p>
+<p><b>
+Important</b></p>
+<ul>
+<li>
+Applicants may be interviewed and hired prior to the closing date of this ad.</li>
+<li>Must be authorized to work in the United States; candidates requiring Visa sponsorship WILL NOT be considered.</li>
+<li>Must be willing to undergo a pre-employment background check and drug screen, in accordance with local law/regulations.</li>
+<li>CenterEdge is proud to be an Equal Opportunity Employer</li>
+<li>Apply today at: https://centeredgesoftware.applicantpro.com/jobs//</li>
+</ul>
+</div>CenterEdge Software https://centeredgesoftware.applicantpro.com</div>
+</div>

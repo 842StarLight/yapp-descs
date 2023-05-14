@@ -1,0 +1,130 @@
+<h2>Microsoft Senior Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>About us:</p>
+<p>
+Founded in 1994, ATSG is a tech-enabled IT Services and Solution Provider that delivers Digital Innovation providing tangible business value and exceptional Client experiences through ITIL Managed Services and the sale and delivery of Technology Solutions as a Service (TSaaS).</p>
+<div>
+Headquartered in Westchester County, NY and with offices throughout the Tri-State Area, we serve Clientele in multiple industries throughout the United States. We offer these services with an array of commercial and technological choices for our Clients, ranging from traditional project-based and support services, through complete consumption-based managed services models, inclusive of Private, Public and/or Hybrid cloud-based alternatives</div>
+<div></div>
+<br>
+<div>
+<b>
+ATSG</b> is currently seeking a talented <b>Microsoft Senior Systems Engineer</b> for our growing Microsoft practice, with a high-level focus on the following;</div>
+<div></div>
+<br>
+<ul>
+<li>
+<b>
+Modern Management</b> inclusive of Autopilot, SCCM, CMG, Intune, Windows Migration/Servicing Rings &amp; Deployment Strategies</li>
+<li><b>
+Microsoft Security E3/E5</b></li>
+<li>
+<b>
+Microsoft Exchange/Office 365</b><ul><li>
+SharePoint Onlineà OneDrive for BusinessàTeams</li></ul>
+</li>
+</ul>
+<div>
+The chosen candidate will have a deep technical foundation and real-world experience working with enterprise and mid-market clients. This is a great opportunity to deliver "best-in-class" and cutting-edge technology solutions while integrating with a team of passionate and knowledgeable engineers.<br>
+</div>
+<div></div>
+<div><b>Responsibilities:</b></div>
+<ul>
+<li>
+Achievement of high client satisfaction through outstanding communication skills, technical expertise and successful project delivery</li>
+<li>
+Implement solutions that align with the client's business needs and technical requirements</li>
+<li>
+Work in partnership with Project Management Office to successfully deliver projects on time and within budget</li>
+<li>
+Follow project methodology and generate best-practices documentation as required</li>
+<li>
+Partner with clients to understand their business goals, strategies and make recommendations for solutions</li>
+<li>
+Assess existing environments and document deployment plans
+</li>
+<li>Evangelize about new or emerging technologies</li>
+<li>
+Assist with proposal generation, bills of materials, scopes of work, presentations, RFPs, etc.</li>
+<li>
+Mentor junior engineers, provide guidance, offer insight and assist with career development</li>
+<li>
+Participate in the design process with engineers &amp; architects</li>
+<li>
+Accurately record time and completed tasks via ATSG's time tracking system</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Qualifications:</b></div>
+<ul>
+<li>
+Expert knowledge with designing, architecting and leading Windows Migrations<ul>
+<li>
+Autopilot</li>
+<li>
+Implement changes to SCCM for cloud services integration and CMG deployment</li>
+<li>
+Azure AD Connect</li>
+<li>
+Zero Touch/Lite Touch OS Deployment with SCCM/Task Sequences</li>
+<li>
+Imaging Process/Best Practices</li>
+<li>
+WSS 1E Nomad Experience <b><i>highly preferred</i></b>
+</li>
+</ul>
+</li>
+<li>
+Expert knowledge with Microsoft SCCM and Windows Deployment/Management<ul><li>
+SCCM Upgrades/Migrations</li></ul>
+</li>
+<li>
+Experience with Microsoft Azure and Enterprise Mobility + Security Suite (EMS)
+<ul><li>Heavy focus on Mobility Intune</li></ul>
+</li>
+<li>
+Experience with Microsoft Security Capabilities<ul>
+<li>
+Office 365 DLP</li>
+<li>
+Office 365 ATP</li>
+</ul>
+</li>
+</ul>
+<div><div><ul>
+<li>
+Azure Advanced Threat Protection</li>
+<li>
+Defender ATT</li>
+</ul></div></div>
+<ul>
+<li>
+Strong knowledge of Microsoft Exchange Server and Office 365 Exchange Online (messaging focus)
+<ul>
+<li>Migration of Distribution Lists to Office 365 Groups</li>
+<li>
+Mailbox Migrations</li>
+</ul>
+</li>
+<li>
+Strong knowledge of <i>SharePoint Design</i> &amp; Data Migration
+</li>
+<li>
+<i>OneDrive Migration,</i> Planning and Deployment Knowledge</li>
+</ul>
+<ul>
+<li>
+PowerShell scripting is highly desired</li>
+<li>
+Microsoft certifications such as MCSE are highly preferred
+</li>
+<li>Excellent communications, documentation and writing skills required</li>
+</ul>
+<p>
+We offer a competitive benefits package with Med/Dental/FSA/401(k)/Generous PTO.</p>
+<div></div>
+<br>
+<p>
+dftYyV3PLw</p>
+</div></div>

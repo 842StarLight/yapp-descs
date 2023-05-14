@@ -1,0 +1,76 @@
+<h2>National Solutions Architect : Enterprise</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h3 class="jobSectionHeader"><b>Language Required</b></h3>
+<div><ul>
+<li>English</li>
+</ul></div>
+<h3 class="jobSectionHeader"><b>Responsibilities</b></h3>
+<div>
+<p><b>The Solutions Architect advises customers, partners and channel partners how to build and implement strategic solutions on a complex scale. Additionally, the Solutions Architect acts as a conduit between the field systems engineering team and Veeam cross-functional product groups. This senior technical role is heavily involved in application virtualization, storage, and multi-cloud infrastructures. The position has a focus on designing availability solutions, including data protection and monitoring using Veeam products. The Solutions Architect also serves as an escalation point for partner solutions as well as the Pre-Sales Organization.</b></p>
+<p><b>
+The National Solutions Architect – Enterprise Applications position will be responsible for thoroughly understanding the unique challenges of the largest organizations and be able to position and successfully architect appropriate Veeam solutions in these complex / demanding environments. The person seeking this job needs to be self-driven. This is a senior level position within the systems engineering group with expectations that given the framework of responsibility, the architect will be able to drive demand for their inclusion in sales opportunities as well as widespread integration into cross functional groups (Product Management, Alliances, Channel, etc) at Veeam.</b></p>
+<ul>
+<li>
+Serve as the technical subject matter expert (SME) across field engineering including deep knowledge of Veeam products and strategy. Formulate Veeam strategies to integrate product into complex customer / partner environments.</li>
+<li><p>
+Perform work as both an SME around protecting databases, enterprise and commercial ERP applications etc. and also function as a general Veeam Solution Architect. This involves helping to size and design large scale or complex environments as an overlay to the systems engineering organizations</p></li>
+<li>
+Present deep technical subject matters to a wide range of audience types.</li>
+<li>
+Work with GEO technical leadership to train field resources on approved architectures of both new and existing products.</li>
+<li>
+Work with product and alliance management for any customer and/or partner specific feature enhancements to Veeam products.</li>
+<li>
+Funnel customer and partner product enhancement requests to product management.</li>
+<li>
+Work closely with cross-functional product groups to communicate feedback from the field.</li>
+<li>
+Serve as the ultimate technical escalation point for field systems engineering.</li>
+<li>
+Enable the global field (primarily field SAs and SEs) by providing on-going consultation, knowledge transfer, and best practices.</li>
+<li>
+Author reference architecture and artifacts, whitepapers and blog posts</li>
+<li>
+Up to 75% travel.</li>
+</ul>
+</div>
+<h3 class="jobSectionHeader"><b>Qualifications</b></h3>
+<div>
+<ul>
+<li>Proven and consistent experience in an engineering, solution architecture, or equivalent role. <b>Extensive Veeam experience is required for this role.</b>
+</li>
+<li>Demonstrated experience working with cloud and/or virtualization infrastructure technologies directly</li>
+<li>Experience in product or infrastructure design work</li>
+<li>Prior experience with Veeam products preferred, VMCE highly beneficial</li>
+<li>Technical architecture knowledge of virtualization and related storage technologies</li>
+<li>Hands on knowledge of data protection &amp; disaster recovery technologies</li>
+<li>Advanced skills in Enterprise Datacenter Infrastructure designs and technologies (storage, virtualization, networking)</li>
+<li>Relevant industry certifications highly desired</li>
+<li>Technical expertise with virtualization including specific expertise of integration APIs, hypervisor storage and data protection APIs</li>
+</ul>
+<ul>
+<li>
+Experience or knowledge of one or more of the public hyperscale cloud providers (e.g. AWS, Azure, Google)</li>
+<li>
+Must have experience with protecting database (Oracle, SQL, etc) workloads</li>
+<li>
+Previous pre-sales or other experience interacting with technology partners or strategic customers</li>
+<li>
+Deployment of software solutions into complex environments</li>
+<li>
+Deep level understanding of Veeam and/or similar technologies</li>
+<li>
+Industry relevant professional certifications is desirable</li>
+<li>
+Technical architecture knowledge of virtualization and related storage technologies</li>
+<li>
+Hands on knowledge of data protection &amp; disaster recovery technologies</li>
+<li>
+Proven communication and presentation skills including white boarding</li>
+<li>
+Business writing, including reference architecture and RFx responses</li>
+</ul>
+</div>
+<h3 class="jobSectionHeader"><b>We offer</b></h3>
+<div><p>All your information will be kept confidential according to EEO guidelines.</p></div>
+</div></div>

@@ -1,0 +1,93 @@
+<h2>Product Manager - Next Generation Platforms</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Come work at a place where innovation and teamwork come together to support the most exciting missions in the world!
+</p>
+<p></p>
+<p>As a member of the hardware systems product management team you will be responsible for helping to drive the product strategy and requirements for both current and next-generation platforms. You will be the market expert listening to customer and prospect needs, analyzing market dynamics, and setting product direction.
+</p>
+<p>A PM manages the complete product lifecycle from definition and introduction to end-of-life. We work collaboratively, driving strategic alignment within the organization, and have communicate effectively to both internal and external audiences. A PM develops requirements using a balance of future vision, near term opportunities, customer requirements, business insight, and management of day-to-day product issues. The PM will engage with executives, channel, end users, and business partners. The position is dynamic and the individual must be comfortable with frequent multi-tasking among technical, business, strategic, marketing and planning activities.
+</p>
+<h2 class="jobSectionHeader"><b>Primary Responsibilities
+</b></h2>
+<ul>
+<li>Ability to manage innovative products integrating hardware, software, and multi-cloud platforms.
+</li>
+<li>Working knowledge of containers and modern deployment architectures. Proven ability to learn new technologies quickly is a plus.
+</li>
+<li>Prioritize features and define requirements for successful delivery in an agile environment. Provide epics and detailed information for the product development team to fully grasp the scope of functionality and business drivers.
+</li>
+<li>Engage with customers to understand their business objections, operational constraints, and specific needs / pain points.
+</li>
+<li>Define overall vision and strategy for a product / solution, including target customer persona, customer value proposition, and business goals
+</li>
+<li>Own Product Lifecycle Management (PLM), including product planning / concept definition, Minimum Viable Product (MVP) definition (when is an offering good enough for launch?), ongoing release strategy, and ultimately product retirement. Work with program management to drive the logistics of the PLM.
+</li>
+<li>Own creating and delivering against the business goals for the product / solution
+</li>
+<li>Define capabilities and requirements for product / solution to align with overall vision and strategy; build and maintain a Market Requirement Documents (MRD) or equivalent, including a plan of Record (POR)/Roadmap
+</li>
+<li>Conduct market analyses and financial ROI analyses to inform product / solution roadmap and prioritize product backlog
+</li>
+<li>In collaboration with Sales, Marketing, Legal, Agile Product Owners, and many others, drive decisions on backlog prioritization (e.g., customer expectations vs. engineering realities)
+</li>
+<li>Develop and deliver compelling product positioning with clear competitive differentiation and ROI to all audiences include executives, customers, partners and analysts.
+</li>
+<li>Working with Product Marketing, Sales, Corporate Marketing, Partners, and Customers, develop overall go-to-market strategy and plan, including packaging, pricing, and positioning
+</li>
+<li>Craft dashboards and metrics to monitor the performance of product / solution, based on pipeline, bookings, customers, etc.
+</li>
+<li>Build excitement for the overall F5 product strategy and portfolio and specific product / solution with customers, market analysts, and internal partners with great communications, customer events and external presentations.
+</li>
+<li>Very high customer and partner engagement to receive feedback and handle escalations
+</li>
+<li>Overall accountability for the success of the product and business, building internal visibility and business analysis for QBR’s and business reviews.
+</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Knowledge, Skills and Abilities
+</b></h2>
+<ul>
+<li>Previous experience with a networking company (e.g. Cisco, Juniper,VMware, etc) or hands-on experience with networking technology is highly desirable. Previous experience or knowledge of F5 products would be helpful.
+</li>
+<li>Ability to craft a vision and mobilize the appropriate people to execute against it.
+</li>
+<li>Effective decision-making skills; ability to negotiate and balance decisions and priorities across diverse needs of multiple constituencies. Makes timely decisions in the face of risk and uncertainty.
+</li>
+<li>Understanding of a variety of container deployments, virtual machines, microservices, multi-tenancy, PaaS, AWS, Azure and other multi-cloud networking architectures.
+</li>
+<li>Strong customer orientation with the ability to listen, organize and nurture key initiatives and projects for product development
+</li>
+<li>Strong written and oral communication skills, with ability to articulate complex technology clearly
+</li>
+<li>Flexible, ambitious, team player
+</li>
+<li>Ability to work independently or lead others on projects
+</li>
+<li>Excellent leadership, negotiation &amp; persuasion skills
+</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<ul>
+<li>BA/BS degree in an appropriate field required, MBA a plus
+</li>
+<li>8+ years of experience in technical product management or equivalent
+</li>
+<li>3+ years industry experience (enterprise networking, security, cloud services/products, IT operations
+</li>
+<li>2+ years analyzing products, customers, and market dynamics a plus
+</li>
+</ul>
+<p>F5 Networks, Inc. is an equal opportunity employer and we embrace diversity
+</p>
+<p></p>
+<p>The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.
+</p>
+<p></p>
+<p><b>Equal Employment Opportunity
+</b></p>
+<p></p>
+<p>It is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination. Reasonable accommodation is available for qualified individuals with disabilities, upon request.</p>
+</div>
+<p></p>
+</div>

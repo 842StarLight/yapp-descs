@@ -1,0 +1,32 @@
+<h2>Automation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<b>Description</b><br>
+<p></p>
+<p>PCC Airfoils, LLC, headquartered in Greater Cleveland, Ohio, is a world leader in the fast-paced, high-tech industry of investment casting. Each of the sixteen (16) Airfoils’ locations play an integral part in the manufacture of blades, vanes and components for use in gas turbine engines. PCC’s parts are found on virtually all commercial &amp; military aircraft, as well as, industrial gas turbine applications in the free world. Our product plays a significant role in the evolution of the light-weight, fuel-efficient engines of the next generation.</p>
+<p>The Airfoils Division is a wholly-owned subsidiary of Precision Castparts Corp. and was acquired by Berkshire Hathaway in February 2016. The company currently has an overall sales volume of over $10 Billion, employing in excess of 30,000 individuals throughout 150 locations in the U.S. and worldwide. PCC is seeking individuals with high personal and professional standards who will thrive in a fast-paced, goal oriented work environment.</p>
+<p>The SMP Operations segment of PCC Airfoils consists of two manufacturing locations - Wickliffe and Eastlake, Ohio. SMP manufactures investment castings utilizing proprietary technology for use in aerospace and industrial gas turbine engines. Products and systems manufactured in these operations must meet extremely close tolerance limits and adhere to customer specifications. The operations are expanding due to sales volume increase and this provides unique opportunities for career growth and development:</p>
+<p>RESPONSIBILITIES:</p>
+<ul>
+<li>Plan, implement, and enhance Automated Manufacturing Systems.</li>
+<li>Assume responsibility to integrate, maintain, program and debug HMI, robot, computer systems and programs used in assigned automation projects.</li>
+<li>Interface with Process Control, Product Engineering and manufacturing personnel on all assigned automation projects.</li>
+<li>Author, edit or compile all Technical Procedures pertaining to operation of new or updated software systems. Assist &amp; instruct others on use of new or updated automation software systems.</li>
+<li>Ability to apply computer science skills in developing manufacturing real-time data acquisition and control systems.</li>
+<li>Able to recognize variable cost opportunity and implement solutions accordingly.</li>
+<li>Be available for off-shift support for all automated software systems where designated as systems manager.</li>
+<li>Other duties assigned by Supervision.</li>
+</ul>
+<p>QUALIFICATIONS</p>
+<ul>
+<li>B. S. in Computer Science, Mechanical Engineering, Mechatronics, Computer Engineering, Electrical Engineeringor or related field and or experience</li>
+<li>Experience with Allen Bradley PLC’s, PC Human-Machine Interface packages, Visual Basic, Microsoft .NET, and Microsoft SQL</li>
+<li>Able to prioritize according to business needs, in a fast-paced manufacturing environment.</li>
+<li>Fanuc, ABB, or Kuka Robotic programming and setup experience.</li>
+<li>Experience with other industrial control packages a plus.</li>
+<li>Must be able to work in a team environment.</li>
+<li>Must be a U.S. Citizen or Permanent Resident (Green Card Holder).</li>
+</ul>
+</div>
+<p></p>
+</div>

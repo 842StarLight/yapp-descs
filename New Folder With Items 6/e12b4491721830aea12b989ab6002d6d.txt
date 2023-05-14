@@ -1,0 +1,12 @@
+<h2>ETL Developer with Data Warehousing</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Ø Role - ETL Developer- ETL/DWH- Technical<br>Ø Location-San Jose CA<br>Ø Experience: 5-8 years</p>
+<p>Responsibilities<br>Lead / participate in data warehouse projects, including gathering &amp; documenting requirements, performing analysis, creating/reviewing design, and delivering solution.<br>Work with internal business teams to gain rich understanding of business process, analytical &amp; reporting needs and gaps<br>Work independently or with team members in producing functional solution proposal and reviewing technical design<br>Perform data analysis to support user requests and project internal needs by using SQL &amp; Google Sheets efficiently<br>Create presentations including project overview and status updates using Google Slides<br>Manage time efficiently to progress on multiple work streams in parallel<br>Manage project and create SDLC artifacts as needed in order to meet deliverable commitments<br>Ensure quality of deliverables through testing and ongoing production quality assurance</p>
+<p>Qualifications / Skills<br>Experience in delivering Data Warehousing, Business Intelligence and Reporting solutions, preferably covering multiple aspects of Data Warehousing, including Data Integration, Data Security, Metadata Management, Data Governance and Data quality<br>Strong SQL skills in data manipulation a must<br>Broad general functional knowledge of enterprise operations. E.g. Finance, HR, Supply Chain, Sales &amp; Marketing.<br>Detailed operational &amp; data knowledge of one or more domains above.<br>Knowledge of Oracle or SAP ERP a plus</p>
+<p>Job Type: Contract</p>
+<p>Experience:</p>
+<ul>
+<li>relevant: 1 year (Preferred)</li>
+<li>ETL: 1 year (Preferred)</li>
+</ul>
+</div>

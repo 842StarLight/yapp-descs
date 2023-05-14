@@ -1,0 +1,56 @@
+<h2>Technical Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Come join the SentryOne team and help accelerate the growth of the hottest software company in Charlotte. We’re the one that makes SQL databases run faster and better with our suite of software programs. SQL is the default choice for any company running data analysis. Because the amount of data is growing at a rate of 100% every two years, this market is massive and ripe with opportunity. SentryOne has been growing at high double-digit rates for many years with a goal to exceed $100M in sales within the next three years.</div>
+<br>
+<div></div>
+<div>We take pride in our inclusive and collaborative team atmosphere that encourages constant learning and growth while empowering our employees to use their unique strengths and perspectives to make the biggest impact possible. And if we can have some fun and continue our track record as of one of Charlotte’s best places to work along the way, even better. If you’re looking for a diverse, creative, hard-working team to challenge you and advance your career - look no further than SentryOne!</div>
+<br>
+</div>
+<div></div>
+<div><b>JOB SUMMARY:</b></div>
+<div></div>
+<div>The Technical Specialist, under general direction, provides first and second level support to end-users for premier software products that optimize the performance of Microsoft SQL Server environments. May interact with network services, software systems engineering, and/or applications development to restore service and/or identify and correct core problems. Simulates or recreates user problems to resolve operating difficulties. Recommends systems modifications to reduce user problems.</div>
+<div>
+<br>
+<b>WHAT YOU'LL DO:</b>
+</div>
+<ul>
+<li>Serves as the first point of contact for incidents involving software and services customers</li>
+<li>Uses existing content from user guides, forums, knowledge base, or previous communications to address common user issues</li>
+<li>Resolves as many user reported problems as expertise permits using available tools and procedures for handling support case</li>
+<li>Logs issues as defects or feature requests and manage exceptions submitted by users through an integrated exception reporting system</li>
+<li>Communicates with developers and/or project managers to ascertain priority and resolution plans for software defects</li>
+<li>Acts as a liaison between customers and internal support staff to assure accurate problem interpretation. Maintain communications with customers during the problem resolution process</li>
+<li>Advises/educates customers within procedural guidelines to ensure a complete solution to their technical or service questions</li>
+<li>Troubleshoot performance issues on database servers running Identifies and provides input on unique or recurring customer problems</li>
+<li>Posts common issues and resolutions to the knowledge base and forums</li>
+<li>Escalates problems as appropriate following internal procedures</li>
+<li>Utilizes superior customer service skills and advanced trouble shooting skills</li>
+</ul>
+<div></div>
+<div><b>COMPETENCIES</b></div>
+<div></div>
+<div>
+<b>Ability to Multi Task</b>: Proven ability to manage multiple issues and/or projects successfully bringing them all to resolution in a timely manner.</div>
+<div>
+<b>Problem Solving: </b>Anticipates problems, recognizes and accurately evaluates the signs of a problems and analyzes current procedures for possible improvements.</div>
+<div>
+<b>Customer Service</b>: Listens and responds effectively to customer questions; resolves customer problems to the customer’s satisfaction. Respects all internal and external customers and uses a team approach when dealing with customers in order to exceeding customer expectations.</div>
+<div>
+<b>Detail Orientation</b>: Thoroughness in accomplishing a task through concern for all the areas involved, no matter how small. Monitors and checks work or information and plans and organizes time and resources efficiently.</div>
+<h6 class="jobSectionHeader"><b>QUALIFICATIONS</b></h6>
+<ul>
+<li>Associate’s Degree in Computer Science with 1-2 years’ experience and/or work towards a Bachelor’s Degree in Computer Science with 1-2 years’ experience</li>
+<li>Experience with SQL Server including installation, configuration, TSQL coding, performance monitoring and tuning, SSRS management and development, SSAS, SSIS, SQL Server 2012+ Always-On technologies</li>
+<li>Experience with Windows Server including domain security, WMI and DCOM configuration, storage management, and batch process scripting</li>
+<li>Familiarity with IIS 7.0, 7.5, computer hardware including the ability to carry on an intelligible conversation concerning server and storage hardware, virtual environments (VMWare/Hyper-V), C#, ASP.NET, JavaScript, JQuery, ASP.NET MVC, debugging tools (WinDBG, ProcDump, etc.)</li>
+<li>A commitment to customer service</li>
+</ul>
+<div><b>PREFERRED LICENSES/CERTIFICATIONS:</b></div>
+<ul>
+<li>Microsoft Certifications Preferred - MCSE, MCITP, MCDBA, MCSD, MCPD,</li>
+</ul>
+<div></div>
+<div><i>SentryOne is an Equal Opportunity Employer</i></div>
+</div></div>

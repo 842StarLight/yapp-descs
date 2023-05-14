@@ -1,0 +1,64 @@
+<h2>Salesforce Sr. Business Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Company Overview</b></h2>
+<p>Eagle Creek is investing in the rapid expansion of our Salesforce practice and as such, we are looking to add the best Salesforce talent to our growing practice. For more information on everything Eagle Creek, please visit www.eaglecrk.com.</p>
+<p><b>
+Job Overview:</b></p>
+<p>
+Eagle creek is seeking a Salesforce.com Business Analyst to support sales and delivery teams on the Sales Cloud, Service Cloud, Marketing Cloud and force.com platforms. The ideal candidate will have a background in identifying application requirements, functional design, configuration and testing.</p>
+<p><b>
+Duties</b></p>
+<ul>
+<li>Gather and refine requirements for the creation of functional and technical design.</li>
+<li>Conduct and lead requirements and solution design workshops.</li>
+<li>Drive discovery conversations with our clients’ IT staff and business stakeholders.</li>
+<li>Author design and configuration specifications based on client business and technical requirements.</li>
+<li>Define process, create, and maintain workflow and related documentation</li>
+<li>Evaluate client processes and technologies for the purpose of innovation and improvement.</li>
+<li>Develop and maintain requirements documentation including RTM.</li>
+<li>Provide configuration expertise for validation and testing.</li>
+<li>Work with client user groups to identify and set priorities for future innovation.</li>
+<li>Advise and guide clients towards best practices in Salesforce.com configuration, workflow, customization and data validation.</li>
+<li>Participate in pre-sales efforts and strategic project planning as required.</li>
+<li>Mentor and train, formally and informally, lesser experienced resources.</li>
+<li>Develop project-specific training material.</li>
+<li>Create and execute Functional Test Scripts</li>
+<li>Conduct training sessions.</li>
+<br>
+</ul>
+<br>
+Required Skills<br>
+<p><b>Required Skills</b></p>
+<ul>
+<li>5+ years in dedicated BA role on CRM consulting and implementation engagements.</li>
+<li>2+ year dedicated Salesforce.com BA experience</li>
+<li>Deep understanding of Salesforce.com technical requirements, system configuration, user requirements and all related policies and procedures.</li>
+<li>Salesforce.com Service Cloud implementation experience.</li>
+<li>Knowledge of APEX and VisualForce development.</li>
+<li>Experience with Software Development Life Cycle methodologies and best practices</li>
+<li>Experience in web technologies like HTML, XML, CSS, JSP, JavaScript, WSDL, and SOAP</li>
+<li>Experience in working with relational databases such as Oracle or SQL Server</li>
+<li>Experience in working with data management tools</li>
+<li>Strong documentation, prioritization and training skills.</li>
+<li>Excellent customer interface, analytical and problem solving skills.</li>
+<li>Excellent communication and inter-personal skills, accustomed to working in both large and small team environments.</li>
+<li>Strong experience working on Agile projects.</li>
+<li>Knowledge of database design and data migrations.</li>
+<li>Strong knowledge of SDLC methodologies and processes.</li>
+<li>Excellent communication, presentation, and interpersonal skills.</li>
+<li>Solid understanding of SaaS and CRM development processes and methodologies.</li>
+<li>Bachelor's degree in computer science, related field, or equivalent.</li>
+<li>Salesforce Certified Administrator (201)</li>
+</ul>
+<p><br>
+<b>Desired Skills</b></p>
+<ul>
+<li>Experience with Marketo.</li>
+<li>Experience with Birst.</li>
+<li>Knowledge of Siebel applications.</li>
+<li>Salesforce Certified Advanced Administrator (211)</li>
+<li>Salesforce Certified Sales Cloud Consultant or Salesforce Certified Service Cloud Consultant</li>
+<br>
+</ul>
+<br>
+Required Experience</div></div>

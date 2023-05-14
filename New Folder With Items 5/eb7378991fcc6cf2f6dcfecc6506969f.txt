@@ -1,0 +1,197 @@
+<h2>Website Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>About Us</div>
+<div>
+<div>
+Beckman Coulter develops, manufactures and markets products that simplify, automate and innovate complex biomedical testing. Our diagnostic systems, found in hospitals and other critical care settings around the world, produce information used by physicians to diagnose disease, make treatment decisions and monitor patients. Scientists use our life science research instruments to study complex biological problems including causes of disease and potential new therapies or drugs. More than 275,000 Beckman Coulter systems operate in both diagnostics and life sciences laboratories on all seven continents. For 80 years, our products have been making a difference in peoples’ lives by improving the productivity of medical professionals and scientists, supplying critical information for improving patient health and reducing the cost of care.</div>
+<div>
+Beckman Coulter offers a broad array of comprehensive, competitive benefit programs that add value to associates' and their families' lives. Whether it's a health care program or paid time off, our programs contribute to life beyond the job. Check out our benefits. We think you'll like what you see.</div>
+<div>
+If you believe your education and experience are in line with the position description and qualifications referred to above, and are motivated, energetic, and looking for a new and exciting opportunity, please submit your resume online at the URL below or at www.beckmancoulter.com.</div>
+<div>
+Beckman Coulter is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, national origin, religion, gender, age, marital status, disability, veteran status, sexual orientation, gender identity, or any other characteristic protected by law.</div>
+<p>
+</p>
+</div>
+<div>
+Description</div>
+<div>
+<ul>
+<li>
+Work closely with Sr. Manager, Digital Strategy and Global Marketing leadership to manage the overall website as a product, including feature development, roadmap, backlog of feature requests and implementation plan</li>
+<li>
+Managing a product through the entire product lifecycle and develop action plans to address technology issues hindering marketing strategy and objectives</li>
+<li>
+Lead web project estimation and integration sessions; report to marketing leadership regularly site development to show progress toward and impact on projects or goals</li>
+<li>
+Drive day-to-day project prioritization and sprint planning/grooming with the website development team</li>
+<li>
+Proactively identify, prioritize and drive resolution for project issues</li>
+<li>
+Actively address ambiguity and change in the product backlog</li>
+<li>
+Ensure website layout/user interface implements standard HTML/CSS best practices</li>
+<li>
+Oversee integration of datasets from various back-end services and databases</li>
+<li>
+Gather and refine specifications and requirements based on business and/or technical needs</li>
+<li>
+Manage the implementation of website projects with internal teams and third-party vendors to ensure successful completion within appropriate budget guidelines and project timeline</li>
+<li>
+Work closely with stakeholders across the company to align strategies, roadmaps, dependencies, and releases with business priorities for maximum impact</li>
+<li>
+Collaborate with Design, Engineering, Sales, Product, Legal, and Customer Support to rapidly conceptualize, prototype, market validate, and launch new product ideas and innovations.</li>
+<li>
+Create business cases to be prioritized on the roadmap and collaborate with the engineering, design, marketing, and sales teams to build business cases, requirements/services, and determine the best technical implementation method and schedule. Making thoughtful tradeoffs to balance quality, customer value, and schedule.</li>
+<li>
+Effectively create user stories, UX/front-end requirements, back-end/functionality requirements, and testing acceptance criteria for project Confluence &amp; JIRA documentation</li>
+<li>
+Ensure requests, website feedback, and leadership prioritization are integrated into the product planning and development processes as well as vetted through (where applicable) VoC, User Experience and User Research Teams</li>
+<li>
+Use data and analytics to identify opportunities to improve user experience, service quality, efficiency, and effectiveness for the site</li>
+<li>
+Define measurable goals and KPIs, set priorities and manage a backlog of features and functionality; work with engineering, design, and QA to meet those requirements.</li>
+<li>
+Drive planning and vision refinement sessions with business, design and engineering teams; gain support for your product vision through influence and collaboration with peers, partners, and business stakeholders</li>
+<li>
+Performs user acceptance testing for code deployments and helps to document issues across the website; perform testing in DEV and UAT environments ahead of release to ensure feature enhancements and bug fixes are being delivered to spec</li>
+<li>
+Monitor network conditions and assist with IT teams to troubleshoot service disruptions for the website.</li>
+<li>
+Maintain a strong understanding of the industry and enterprise-wide trends, staying up to date on Sitecore, emerging technologies and apply to daily work</li>
+<li>
+Create and maintain software documentation for ongoing website management/maintenance.</li>
+<li>
+Direct the work of outside agencies or contractors to supplement internal development</li>
+<li>
+Train and mentor web developers and web operational support</li>
+<li>
+Develop and communicate with product and development teams, and Sr. Leadership the business cases, product roadmaps, vision, and strategy.</li>
+<li>
+Reporting on key performance indicators (KPIs) for code deployments and project roadmaps</li>
+<li>
+Identify customer needs and use the information to define user personas, user stories, use cases, and product requirements for product features.</li>
+<li>
+Design and conduct product discovery and optimization experiments using quantitative (A/B tests) and qualitative techniques.</li>
+</ul>
+<p>
+</p>
+</div>
+<div></div>
+<div>
+Qualifications</div>
+<div>
+<div>
+<div>
+<br>
+</div>
+<div>
+<ul>
+<li><div><div>
+Experience delivering websites and marketing applications with responsive design</div></div></li>
+<li><div><div>
+5+ years of managing CMS development experience.</div></div></li>
+<li><div><div>
+Experience creating Content Editor focused, flexible and useful Sitecore Layouts, Renderings, Templates and Components</div></div></li>
+<li><div><div>
+3+ years of managing scalable global Content Management and Delivery</div></div></li>
+<li><div><div>
+5+ years working with project management tools, preference with JIRA and Confluence</div></div></li>
+<li><div><div>
+Demonstrated ability to prioritize multiple projects with great attention to detail</div></div></li>
+<li><div><div>
+Demonstrated ability to work independently and autonomously while also being highly collaborative with an affinity for building relationships across teams including business partners, external agencies, and vendors</div></div></li>
+<li><div><div>
+Experience working with multiple stakeholders to prioritize effectively while managing the diverse needs of a growing business</div></div></li>
+<li><div><div>
+Experience interfacing with creative agencies/vendors</div></div></li>
+<li><div><div>
+Experience of working in an AGILE environment</div></div></li>
+<li><div><div>
+Strong attention to detail, analytical acumen, and resilience under pressure</div></div></li>
+<li><div><div>
+Experience with Sitecore or enterprise-level CMS (Adobe Experience Manager, Umbraco, Episerver, etc.)</div></div></li>
+<li><div><div>
+Familiar with integrating CMS with third-party systems and customizing out-of-the-box APIs</div></div></li>
+<li><div><div>
+Experience with commerce engines, preference with Oracle, Magento, or BigCommerce</div></div></li>
+<li><div><div>
+Experience with Networking (DNS, TCP/IP)</div></div></li>
+<li><div><div>
+Experience with AWS a plus</div></div></li>
+<li><div><div>
+Working knowledge of Microsoft Office programs</div></div></li>
+<li><div><div>
+Working comprehension of databases (SQL SERVER, Mongo DB, PIM) a plus</div></div></li>
+<li><div><div>
+Experience with Salesforce CRM or Pardot a plus</div></div></li>
+<li><div><div>
+Experience with Google Analytics or Adobe/SiteCatalyst a plus</div></div></li>
+</ul>
+<br>
+Qualifications<br>
+<ul>
+<li><div><div>Bachelor’s degree in a field with 10+ years exp. OR Master’s degree in a field with 7+ years exp. OR Doctoral degree in a field with 6+ years exp.</div></div></li>
+<li><div><div>
+Degree in Communications, Marketing, Information Science / Information Technology, Computer Science with relevant work experience</div></div></li>
+<li><div><div>
+Worked with corporate IT infrastructure to resolve integration issues</div></div></li>
+<li><div><div>
+Ideal experience includes working previously for a manufacturer or distributor in a web developer or solutions architect role</div></div></li>
+<li><div><div>
+Agile project management skills</div></div></li>
+<li><div><div>
+Self-motivated, performance and results-driven</div></div></li>
+<li><div><div>
+Relies on extensive experience and judgment to plan and accomplish goals.</div></div></li>
+<li><div><div>
+Ability to lead through ambiguity and is a creative problem solver</div></div></li>
+<li><div><div>
+Flexible, versatile and copes well under pressure</div></div></li>
+<li><div><div>
+A team player with high energy</div></div></li>
+<li><div><div>
+Good time management skills</div></div></li>
+<li><div><div>
+Strong quantitative, analytic, and problem-solving skills</div></div></li>
+<li><div><div>
+Strong, professional written and verbal communication skills</div></div></li>
+<li><div><div>
+Experience in high-tech products/services</div></div></li>
+<li><div><div>
+Willing to Mentor, Teach and help others interested in learning more about Sitecore</div></div></li>
+</ul>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div><b>
+Diversity &amp; Inclusion</b></div>
+<div>
+At Danaher, we are dedicated to building and sustaining a truly diverse and inclusive culture. These are not just words on a page—Diversity and Inclusion is a top priority for the company, and it ties deeply to each of our core values. Danaher Corporation and all Danaher Companies are equal opportunity employers that evaluate applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law.</div>
+</div>
+<p>
+</p>
+</div>
+<div>
+Danaher Corporation Overview</div>
+<div>
+<div>Danaher is a global science &amp; technology innovator committed to helping our customers solve complex challenges and improve quality of life worldwide. Our world class brands are leaders in some of the most demanding and attractive industries, including life sciences, medical diagnostics, environmental and applied solutions. Our globally diverse team of 71,000 associates is united by a common culture and operating system, the Danaher Business System, which serves as our competitive advantage. We generated $19.9B in revenue last year. We are ranked #162 on the Fortune 500 and our stock has outperformed the S&amp;P 500 by more than 5,200% over 25 years.</div>
+<div>At Danaher, you can build a career in a way no other company can duplicate. Our brands allow us to offer dynamic careers across multiple industries. We're innovative, fast-paced, results-oriented, and we win. We need talented people to keep winning. Here you'll learn how DBS is used to shape strategy, focus execution, align our people, and create value for customers and shareholders. Come join our winning team.</div>
+<div>Danaher is committed to competitive compensation that typically has key components including base salary, variable annual incentive compensation based on personal and company performance, and long-term incentive.</div>
+</div>
+<p></p>
+<div>
+Organization: Beckman Coulter - Life Sciences</div>
+<div>
+Job Function: Information Technology</div>
+<div>
+Primary Location: North America-North America-United States-IN-Indianapolis</div>
+<div>
+Schedule: Full-time</div>
+</div>
+</div>

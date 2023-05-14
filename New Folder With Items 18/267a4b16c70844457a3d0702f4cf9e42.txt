@@ -1,0 +1,33 @@
+<h2>Marketing Data & Analytics Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Provides data-driven insights to the marketing team through operational reporting dashboards. The Marketing Data &amp; Analytics Specialist leverages data from marketing automation, customer relationship management (CRM) software and other business intelligence tools. Works with key partners in other departments, such as IT and sales to help the company improve processes and meet business goals. Maintains marketing database health and creates custom reports using Business Intelligence software. Report to the Vice President of Marketing.</p>
+<br>
+<p></p>
+<p><b>Responsibilities include:</b></p>
+<ul>
+<li>Maintaining Salesforce database health</li>
+<li>Maintaining email address records using tools like Zoominfo and Webbula</li>
+<li>Deduping Salesforce records</li>
+<li>Salesforce and HubSpot list imports using PeopleImport, DemandTools and other tools</li>
+<li>Updating/cleaning bounce email address records in Salesforce and HubSpot</li>
+<li>Custom reporting across systems like Salesforce, HubSpot, Google Analytics, ListenLoop, LinkedIn Campaign Manager, etc. using tools like Google Data Studio, Tableau, etc.</li>
+<li>Maintaining proper data syncing between HubSpot and Salesforce</li>
+<br>
+</ul>
+<p></p>
+<p><b>Required skills:</b></p>
+<ul>
+<li>Tableau or similar Business Intelligence software</li>
+<li>Salesforce</li>
+<li>Google Analytics</li>
+<li>Advanced Excel</li>
+<br>
+</ul>
+<p></p>
+<p><b>Preferred skills:</b></p>
+<ul>
+<li>HubSpot</li>
+<li>Google Data Studio</li>
+<li>PeopleImport/DemandTools</li>
+</ul>
+</div></div>

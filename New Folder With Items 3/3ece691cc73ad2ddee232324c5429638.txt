@@ -1,0 +1,58 @@
+<h2>Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>POSITION CAN BE LOCATED ANYWHERE IN THE U.S.</div>
+<div></div>
+<br>
+<div>
+The Juniper Networks Professional Services team provides consulting services to Juniper customers, and the role of the Principle Architect is to combine network architecture vision with subject matter expertise on Juniper products/solutions and strong network design skills in both traditional and software defined networking to provide integrated solutions to meet the stringent requirements of the world’s most sophisticated network technology consumers. This includes business aligned strategic network architecture guidance, network design expertise from the conceptual level to the configuration of each device, and leveraging operational experience to customize implementation and migration plans to the needs of the customer’s environment. The Principle Architect role requires deep technical knowledge, proven experience and an innovative spirit, as well as excellent customer interface skills, including both written and verbal communications. Consulting engagements are typically project based and this position would include responsibilities as the architect or technical lead driving large projects to completion and consulting with the customer on a long term basis, as well as working within a team or directly with customers individually at all levels and any phase of projects ranging from very large to very small.</div>
+<div></div>
+<br>
+<div>
+Responsibilities
+</div>
+<ul>
+<li>Engage with key Juniper customers in a consultative capacity, developing new opportunities and cultivating and maintaining a trusted advisor relationship.</li>
+<li>Help customers define their strategic technical goals in terms of impact to their business.</li>
+<li>Make business outcome focused recommendations to customers for next steps they can take to progress these goals. Aligning with Juniper solutions, and scoping and positioning proposed PS services to action these recommendations.</li>
+<li>Work with Juniper account teams on the account plan and recommend proactive insertion of pre-sales services to help overcome hurtles.</li>
+<li>Lead the technical consulting team in the delivery of post-sale PS engagements. Take part in delivery activities, bring in specific technical expertise as needed, and leveraging the engagement for learning opportunities, reusable content, and market data.</li>
+<li>Work closely with the Juniper cross-functional teams to understand customer roadblocks to craft and implement solution designs to meet their requirements.</li>
+<li>Capture and Document outcomes, and build services best-practices which can be used to drive successful engagements.</li>
+<li>Help drive the quality of Juniper products and solution by contributing to relevant technical documents, certification programs and best practices guides.</li>
+<li>Take ownership of high-priority escalations and drive them to resolution in a timely manner in cooperation with relevant internal and external stakeholders</li>
+</ul>
+<p>
+ Desired Experience and Qualifications</p>
+<ul>
+<li>Minimum 10 years of relevant industry experience in systems engineering and networking technologies, with architecture, design, implementation, and operations in advanced medium to large scale service provider or enterprise networks.</li>
+<li>Ability to rationalize business requirements with technical solutions to create network architecture strategic plans, and align recommended actions across the immediate and longer term.</li>
+<li>Strong presentation skills and ability to articulate complex and nuanced material to audiences ranging from executive to technical and operational at all levels.</li>
+<li>Hands-on configuration, operational and troubleshooting experience with JunOS and Juniper Networks routing and switching products, one or more other major network vendor products, and typical elements of SDN overlay solutions.</li>
+<li>Ability to work independently, prioritizing and managing multiple projects simultaneously.</li>
+</ul>
+<div></div>
+<br>
+<div>
+Skills and Competencies</div>
+<p>
+Technical expertise in the configuration and operation of routers and switches in data center, core, access, campus, and general network environments, including:</p>
+<ul>
+<li>Network operating systems including JunOS, Cisco IOS and/or other major network operating systems.</li>
+<li>IP Networking essentials including addressing/schemes, IP protocol types and typical application usage, traffic patterns and behaviors.</li>
+<li>IP routing protocol expertise (OSPF, IS-IS, BGP), typical routing schemes and network topologies, and IP Multicast routing protocols (PIM, MSDP) and typical schemes.</li>
+<li>Ethernet Networking expertise including VLAN and other L2 encapsulations like VXLAN, various protocols including STP, LACP as well as DCB and FCoE for storage applications.</li>
+<li>Data Center Fabric Technologies such as Juniper VCF, Junos Fusion, MC-LAG, IP-Clos, etc.</li>
+<li>MPLS Networking expertise especially services applications including L3VPN, EVPN, NG-MVPN, etc.</li>
+<li>Class of Service and Queueing schemes and configurations</li>
+<li>Network based security schemes and a working knowledge of typical state-full firewalling implementations and network based services including NAT, DHCP, and Caching.</li>
+<li>Working knowledge of network supporting services like DNS, AAA, Logging, SNMP, flow data collection, etc.</li>
+<li>Extensive experience in fault isolation and troubleshooting logic and techniques.</li>
+<li>Operation of network management protocols, tools and software.</li>
+<li>Use of network analyzers, traffic generators, simulators and testing and troubleshooting tools.</li>
+<li>Working knowledge of UNIX systems, Hypervisors and various system virtualization software and schemes, and Orchestration stacks such as Openstack.</li>
+<li>Knowledge of programming or scripting in languages such as Python, and automation frameworks typically used operational automation such as Ansible, etc.</li>
+</ul>
+</div>
+<p></p>
+</div>

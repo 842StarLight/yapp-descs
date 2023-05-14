@@ -1,0 +1,61 @@
+<h2>Technical Support Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>JOB SUMMARY: </b>Heidelberg Engineering, Inc. develops, manufactures, sells and services high end laser diagnostic imaging systems for eye healthcare. The Technical Support Specialist provides help-desk technical phone support to our customers, company staff members and contractors to handle the troubleshooting and repair of hardware and software issues for our product lines.</p>
+<p><b>ESSENTIAL DUTIES AND RESPONSIBILITIES:</b></p>
+<ul>
+<li>Provide mid and high level telephone technical support for our product lines to customers, field based sales and clinical support teams.</li>
+<li>Analyze customer issues and complaints to determine if issue is product or customer process related and take necessary steps to resolve any and all problems.</li>
+<li>Perform remote analysis, troubleshooting and repair using Bomgar.</li>
+<li>Enter and/or update relevant Case Ticketing information into Salesforce.com.</li>
+<li>Guide customers and field-based Sales and Clinical Support teams through data storage and workflow requirements.</li>
+<li>Troubleshoot and diagnose customer product issues. Determine if solution can be corrected via the phone and, if not, formulate a repair plan, determining most cost effective repair/resolution to minimize customer downtime.</li>
+<li>Provide customer and manager with proposed repair procedures and improvements.</li>
+<li>Provide relevant customer feedback to our Management and Product Management teams.</li>
+<li>Work with other team members and/or departments to triage and resolve escalated technical issues.</li>
+<li>Perform remote HE Application software installation and configuration.</li>
+<li>Work with customers and third party vendors to provide recommended software interface solutions.</li>
+<li>Maintain an up-to-date knowledge of company products and services.</li>
+<li>Document technical knowledge in the form of notes and manuals.</li>
+</ul>
+</div>
+<br>
+<div>
+<p><b>KNOWLEDGE/SKILLS/ABILITIES REQUIRED:</b></p>
+<ul>
+<li>Four or more years of hands-on experience in a technical phone support role.</li>
+<li>Associates degree and education and/or training in a technical field (IT a plus).</li>
+<li>Experience in IT hardware (PC, servers, laptops, printers, accessories).</li>
+<li>Experience and/or working knowledge of network technologies and troubleshooting techniques (TCP/IP, VPN, Remote Desktop, etc.).</li>
+<li>Knowledge and experience with MS Windows 7, 8, 10, Windows Server 2008, 2012 and 2016.</li>
+<li>Basic understanding of medical imaging technology, DICOM, HL7 and Relational Database technology.</li>
+<li>Excellent communication skills and the ability to interact effectively with specialized technical personnel and customers.</li>
+<li>Must be a self-starter, have strong interpersonal and organizational skills, and be flexible in a dynamic team environment.</li>
+<li>Should have a high degree of technical proficiency, excellent problem solving skills, and analytical abilities.</li>
+<li>Experience using Salesforce.com as a Case ticketing system a plus.</li>
+<li>Must be able to multi-task in a constantly busy work environment while maintaining an attention to detail.</li>
+</ul>
+<p>
+</p>
+<p><b>PHYSICAL DEMANDS:</b></p>
+<ul>
+<li>While performing the duties the employee is:
+<ul>
+<li>constantly required to reach to use computers and other office equipment</li>
+<li>constantly required to view objects at close and distant ranges</li>
+<li>frequently required to communicate with others</li>
+<li>frequently required to sit and stand</li>
+<li>Requires fine manipulation and simple grasping in order to utilize the computer and other standard office equipment such as telephone, fax machines, copiers, etc.</li>
+<li>Required occasional lifting and transporting of items weighing up to 50 lbs.</li>
+</ul>
+</li>
+</ul>
+<ul><li>Equipment typically used: Computers, Heidelberg devices, USB devices, tools used to work on computers.</li></ul>
+<p>
+Note: For the purpose of this summary, occasionally is used to represent up to 1/3 of the time given to the work day, frequently represents 1/3 to 2/3 of the time and constantly represents 2/3 or more of the time.</p>
+<p><b>
+WORK ENVIRONMENT:</b></p>
+<p>
+Employee frequently works in a professional office environment with a lot of computer equipment. There is moderate amounts of noise and activity. Employee may occasionally be required to travel and must be available after hours. The work environment is fast-paced and demanding. Off-shift, weekend and overtime duties may be required as assigned by manager.</p>
+</div>
+</div>

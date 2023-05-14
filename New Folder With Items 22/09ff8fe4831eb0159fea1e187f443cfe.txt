@@ -1,0 +1,100 @@
+<h2>Infrastructure Support Engineer – Lowe’s Innovation Labs</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Lowe’s Innovation Labs is what’s next for home improvement retail. With a focus on emerging technologies – ranging from 3D visualization to mixed reality to robotics to things we can’t talk about right now – our team accelerates the experiences that customers expect today and develops the capabilities that power tomorrow.</div>
+<div></div>
+<div>
+<br>
+The Infrastructure Support Engineer will be responsible for cloud management, network engineering and troubleshooting, project management, data cabling, and systems administration in a variety of software and hardware environments.</div>
+<div></div>
+<div>
+<br>
+<b>
+WHAT YOU WILL DO</b>
+</div>
+<div></div>
+<ul>
+<li>
+Install, manage and troubleshoot on-Prem Linux &amp; Window servers</li>
+<li>
+Monitoring system performance and troubleshooting issues</li>
+<li>
+Manage cloud services and resources (GCP &amp; Azure)</li>
+<li>
+Automate deployment and resource provisioning (e.g: Ansible, Terraform)</li>
+<li>
+Implement automation tools and frameworks (CI/CD pipelines)</li>
+<li>
+Collaborate with team members to improve engineering tools, systems and security.
+</li>
+<li>Develop and maintain design and troubleshooting documentation.
+</li>
+<li>Setup, configure and monitor system and application alerts and health</li>
+<li>
+Mobile device management in a Hybrid corporate and BYOD environment</li>
+<li>
+Analyze issues &amp; create solutions for hardware &amp; software problems</li>
+<li>
+Travel and on-call support as needed</li>
+<li>
+The Infrastructure Support Engineer must have an excellent understanding of computers (both hardware and software) and a willingness to learn and apply new technology</li>
+<li>
+Must possess superior technical aptitude and the ability to deal effectively with people in a wide variety of situations. Additionally, they must possess strong analytical skills with demonstrated problem solving ability. Previous experience exercising high levels of initiative, judgment, and diplomacy required</li>
+</ul>
+<div>
+<br>
+<b>
+BASIC QUALIFICATIONS</b>
+</div>
+<div></div>
+<ul>
+<li>
+Bachelor’s Degree, CS, CIS, or related field</li>
+<li>
+8+ years of experience in an IT support environment with technical experience in distributed technologies and systems development</li>
+<li>
+3+ years of experience in a leadership role with or without direct reports</li>
+<li>
+2+ years of infrastructure engineering experience working across multiple domains, platforms, or specialty areas</li>
+<li>
+Experience using Mobile Device Manager solutions for tablets, iOS and Android device management</li>
+<li>
+Extensive knowledge and experience with Microsoft Windows 10, Mac OSX, iOS administration, and troubleshooting</li>
+</ul>
+<div></div>
+<div>
+<br>
+<b>
+Preferred Qualifications</b>
+</div>
+<div></div>
+<ul>
+<li>
+Familiar with Perforce version control administration, GIT, and VSTS</li>
+<li>
+Experienced with cloud services such as Azure, Google Cloud platform, or AWS</li>
+<li>
+Automation framework such as Ansible, Terraform, and Chef.
+</li>
+<li>Excellent oral and written communication skills</li>
+<li>
+Experience with video collaboration tools and conference room technology support; Skype and MS Teams experience a plus</li>
+<li>
+This position requires domestic travel quarterly</li>
+</ul>
+<div></div>
+<div>
+<br>
+<b>
+ABOUT LOWE'S</b>
+</div>
+<div></div>
+<div>
+<br>
+Lowe’s Companies, Inc. (NYSE: LOW) is a FORTUNE® 50 home improvement company serving more than 18 million customers a week in the United States, Canada and Mexico. With fiscal year 2018 sales of $71.3 billion, Lowe’s and its related businesses operate or service more than 2,200 home improvement and hardware stores and employ approximately 300,000 associates.<br>
+<br>
+Founded in 1946 and based in Mooresville, N.C., Lowe’s supports its hometown Charlotte region and all communities it serves through programs focused on safe, affordable housing and careers in the skilled trades. For more information, visit Lowes.com.<br>
+<br>
+Lowe’s is an equal opportunity affirmative action employer and administers all personnel practices without regard to race, color, religion, sex, age, national origin, disability, sexual orientation, gender identity or expression, marital status, veteran status, genetics or any other category protected under applicable law.<br>
+<br>
+#Dice</div>
+</div></div>

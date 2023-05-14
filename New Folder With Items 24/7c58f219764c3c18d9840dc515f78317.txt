@@ -1,0 +1,79 @@
+<h2>Application & Mobile Security Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>Job Overview:</b></div>
+<div></div>
+<div>The Application and Mobile Security Architect will be responsible for strategy, architecture and security technology evaluations/recommendations to the business and to Enterprise Security leadership. The appropriate candidate will have a “hands-on” role working closely with engineering teams to solve real problems in ways that meet our security requirements. This will include having deep experience defining best practices, as well as work collaboratively and effectively with engineers, architects and senior management to standardize application security strategies appropriate for Macy’s application development teams. Responsibilities include consulting on S-SDLC (Secure Software Development Life Cycle), evaluating potential security solution vendors, and recommending appropriate strategies for keeping our applications secure. The successful candidate will be responsible for using technologies ranging from mainframe development to web and mobile applications. Curiosity, openness to new ideas and a willingness to learn and adapt are essential for success in this role.
+</div>
+<div></div>
+<div>The candidate will also be responsible for evaluation, planning, and development of an enterprise security technology roadmap mainly related to application and mobile security. This candidate will deliver architectural guidance, lead proof-of-concept projects, and conduct regular security consultancies for the business to include writing policy/standards and driving adoption of new architectural designs. Perform other duties as assigned.
+</div>
+<div></div>
+<div><b>Essential Functions:</b></div>
+<div></div>
+<ul><li>Work as the lead to design, implement and govern the overall security architecture within the software engineering environment
+</li></ul>
+<ul><li>Perform threat modeling, design reviews and code reviews as part of the development lifecycle.</li></ul>
+<ul><li>Design and deploy state-of-art technology to meet the business needs and interface with business units regarding technical planning and application security topics.</li></ul>
+<ul><li>Provide guidance in the development and interpretation of Security Software Development Lifecycle (S-SDLC) as well as governance of security standards with business partners.</li></ul>
+<ul><li>Evaluate and deploy application security tools in a DevOps environment.</li></ul>
+<ul><li>Perform proof-of-concept and proof-of-technology testing for integrating new 3rd party security products into the development and deployment processes.</li></ul>
+<ul><li>Lead the integration of security engineering automation tools into the CI/CD pipeline.</li></ul>
+<ul><li>Build application security in cloud-based and virtualized environments.
+</li></ul>
+<ul><li>Consult with development and architecture teams on Secure Development methodologies and best practices, including incident response and architecture, PCI certification and other audit and review processes.</li></ul>
+<ul><li>Advise internal customers and evangelize threat modeling, secure design reviews, static code analysis and vulnerability remediation.</li></ul>
+<ul><li>Applying security controls (PCI-DSS, SOX, HIPAA, ISO) as well as web application security topics such as OWASP Top 10, CWE Top 25, and authentication infrastructure (SAML, OAuth).</li></ul>
+<ul><li>Design systems/applications with high level of complexity (e.g. many interfaces, multiple packages, platforms).</li></ul>
+<ul><li>Evaluate the applicability of leading edge technologies and uses this information to significantly influence future business strategies.</li></ul>
+<ul><li>Regular, dependable attendance and punctuality.</li></ul>
+<br>
+<b>
+Qualifications:</b>
+<div>
+<div></div>
+<div><b>Education/Experience:</b></div>
+<div></div>
+<ul><li>Bachelor's or Master's Degree preferred and/or an equivalent combination of education and experience.</li></ul>
+<ul><li>Experience in IT security, compliance and risk management in a technical SME and leadership capacity.</li></ul>
+<ul><li>Experience building security reference architecture for enterprise application deployments in cloud, on-prem and hybrid scenario.</li></ul>
+<ul><li>Experience building security reference architecture solutions for mobile enterprise security control systems (MDMs) and mobile application development and deployment. 5+ years of hands-on experience with Java Enterprise, Java application servers (Websphere, or Weblogic, or JBOSS), relational databases (Oracle, DB2 or SQL Server) and NoSQL data stores (Cassandra, Elastic Search) with a demonstrated understanding of core secure coding concepts.</li></ul>
+<ul><li>Experience with security testing tools for SAST, DAST, IAST, RASP and Pen Testing a plus.</li></ul>
+<ul><li>Experience working in a continuous delivery or DevOps team is a plus.</li></ul>
+<ul><li>Demonstrated software engineering experience in programming languages such as Java, JavaScript, C, C++, C#, PHP, Objective C.
+</li></ul>
+<ul><li>Experience with Mainframes and COBOL a plus.</li></ul>
+<ul><li>Security certifications are a plus e.g. CISSP, CSSLP, CEH etc.</li></ul>
+<ul><li>Certification in information systems security, or willingness to obtain certifications.</li></ul>
+<div></div>
+<div><b>Communication Skills:</b></div>
+<div></div>
+<ul><li>Excellent written and verbal communication skills.</li></ul>
+<ul><li>Must be able to effectively discuss security-related topics with technical and non-technical audiences.</li></ul>
+<div></div>
+<div><b>Reasoning Ability:</b></div>
+<div></div>
+<ul><li>Must be able to work independently with minimal supervision.</li></ul>
+<ul><li>Must be comfortable working in a fast evolving field; this position requires the ability to quickly absorb new information and concepts, and develop a working understanding of new technologies on a regular and ongoing basis.</li></ul>
+<div></div>
+<div><b>Other Skills:</b></div>
+<div></div>
+<ul><li>Evaluate the applicability of leading edge technologies and uses this information to significantly influence future business strategies.</li></ul>
+<ul><li>Expertise with security solutions for data and web services.</li></ul>
+<ul><li>Familiarity with agile development principles sufficient to integrate security. controls without unnecessarily impeding overall project velocity.</li></ul>
+<ul><li>Familiarity with federated identity and SSO technologies and Unix security features.</li></ul>
+<ul><li>Demonstrated ability to establish and maintain strong partner relationships.</li></ul>
+<ul><li>Design systems/applications with high level of complexity (e.g. many interfaces, multiple packages, platforms).</li></ul>
+<div></div>
+<div><b>Work Hours:</b></div>
+<div></div>
+<ul><li>Ability to work a flexible schedule based on department and store/company needs.</li></ul>
+</div>
+<div></div>
+<div><b>Company Profile:</b></div>
+<div></div>
+<div>Macy’s Inc. is one of the nation’s premier retailers. With fiscal 2016 sales of $25.778 billion and approximately 140,000 employees, the company operates more than 700 department stores under the nameplates Macy’s and Bloomingdale’s, and approximately 125 specialty stores that include Bloomingdale’s The Outlet, Bluemercury and Macy’s Backstage. Macy’s, Inc. operates stores in 45 states, the District of Columbia, Guam and Puerto Rico, as well as macys.com, bloomingdales.com and bluemercury.com. Bloomingdale’s stores in Dubai and Kuwait are operated by Al Tayer Group LLC under license agreements. Macy’s, Inc. has corporate offices in Cincinnati, Ohio and New York, New York.</div>
+<br>
+<div></div>
+<div></div>
+<div><b>This job description is not all inclusive. Macy’s Inc. reserves the right to amend this job description at any time. Macy's Inc. is an Equal Opportunity Employer, committed to a diverse and inclusive work environment.</b></div>
+</div></div>

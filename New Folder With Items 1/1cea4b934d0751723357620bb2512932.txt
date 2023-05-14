@@ -1,0 +1,42 @@
+<h2>CRM Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><p><b>Let’s do great things, together</b><br>
+<br>
+Founded in Oregon in 1955, Moda is proud to be a company of real people committed to quality. Today, like then, we’re focused on building a better future for healthcare. That starts by offering outstanding coverage to our members, compassionate support to our community and comprehensive benefits to our employees. It keeps going by connecting with neighbors to create healthy spaces and places, together.<br>
+<br>
+We are seeking a CRM Administrator for our Sales &amp; Account Services Department. The CRM Administrator is responsible for technical support, strategic planning, and implementation of our CRM enterprise solution. The CRM Administrator is responsible for moving business processes onto Salesforce to increase efficiency, improve the reliability of the system data, increase reporting capabilities, integrate sales campaigns and improve overall usability and adoption. Responsibilities will include all technical aspects of CRM administration. The position will work closely with the Sales and Account Services, IT department, and outside vendors to integrate Salesforce with other business systems when necessary.<br>
+<br>
+<b>Primary Functions</b><b>:</b><br>
+01. Function as a technical expert, architect, and system administrator for the CRM system and utilizers<br>
+02. Maintain a holistic view of business processes and make recommendations to enhance efficiency, productivity and adoption<br>
+03. Understand the company’s policies, products, data and information to ensure the Salesforce is optimally configured<br>
+04. Develop and maintain comprehensive understanding of Salesforce.com administration tasks including creating profiles, roles, users, page layouts, email alerts and communications, data management, approvals, workflows, reports, dashboards, tasks and events<br>
+05. Act as the primary point of contact for our Salesforce-related relationships, acting as the project manager for Salesforce development projects completed through external vendors<br>
+06. Create and manage custom objects, fields, formulas, analytics snapshots and reports, including development of custom reports and dashboards. Will require development of validation rules and custom workflow and approval processes<br>
+07. Ensure Salesforce data integrity, working to consistently clean data through audit processes and issue resolution<br>
+08. Develop primary data analysis tools and reporting vehicles to support business strategy planning and tactical programs development<br>
+09. Recommend, implement, test, deploy, and train end users on configuration improvements<br>
+10. Collaborate with users to identify best practices and opportunities to streamline procedures; execute those ideas from start to finish<br>
+11. Develop and maintain training materials and documentation for users, as well as train new users and assure adoption of best practices by existing users. Continuously work to increase adoption rates and establish consistency across users<br>
+12. Special projects and duties as assigned.<br>
+<br>
+<br>
+<b>Are you ready to be a betterist?</b><br>
+<br>
+If you’re ready to make a difference that matters, we want to hear from you. Because it’s time to discover what’s possible.<br>
+<br>
+Together, we can be more. We can be better.<br>
+<br>
+Moda Health seeks to allow equal employment opportunities for all qualified persons without regard to race, religion, color, age, sex, sexual orientation, national origin, marital status, disability, veteran status or any other status protected by law.</p></div>
+<br>
+1.	Bachelor’s degree in Computer Science or related field preferred or equivalent experience
+2.	Minimum of three or more years managing CRM technology projects (gathering business requirements, designing and configuring forms, developing workflows, troubleshooting application bugs, handling reports and dashboards). Salesforce.com or comparable CRM experience required
+3.	Strong project management skills and ability to prioritize and communicate across multiple levels of business
+4.	Computer skills, including intermediate MS Office Suite applications with advanced Excel skills
+5.	Demonstrated ability to gather and organize technical or project requirements for implementation of large projects
+6.	Demonstrated track record of gaining trust and respect by consistently demonstrating sound critical thinking skills
+7.	Strong customer service orientation
+8.	Strong interpersonal, written, and oral communication skills
+9.	Effective analytical and problem-solving capability
+10.	Self-motivated and directed; able to take initiative with projects
+11.	Highly organized with a keen sense of attention to detail</div>

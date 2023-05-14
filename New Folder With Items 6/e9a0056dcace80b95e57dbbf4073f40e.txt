@@ -1,0 +1,115 @@
+<h2>Senior Power Electronics Lead Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><ul>
+<h2 class="jobSectionHeader"><b>Role Summary:</b></h2>
+This Senior Power Electronics Lead Engineer will join a world-class engineering team and will provide technical oversight for internally-funded research and development programs working closely with business development on bids &amp; proposals and assist the technical sales teams to define requirements. You will be translating customer's long term needs into viable products. You will work on designing new converters/inverters, support existing designs and execute from prototype to production.<br>
+<h2 class="jobSectionHeader"><b>Essential Responsibilities:</b></h2>
+<br>
+<li>
+Work with business development team to translate customer requests into a set of requirements for programs<br>
+</li>
+<li>Implement high level customer requirements into prototypes to be tested in house and given to the customers for their evaluation<br>
+</li>
+<li>Lead and manage new projects in area of power electronics<br>
+</li>
+<li>Be responsible for team deliverables, assign tasks, monitor progress and support of project(s) execution<br>
+</li>
+<li>Support project schedule development with sub-system and component task definition<br>
+</li>
+<li>Meet project schedule commitments (schedule &amp; cost)<br>
+</li>
+<li>Develop component, subsystem and system level transient models in order to enhance the team’s ability to accelerate design, development and testing activities<br>
+</li>
+<li>Innovate new technologies into product architectures<br>
+</li>
+<li>Design, analyze and document new / existing converters and inverters<br>
+</li>
+<li>Design and analyze analog circuitry, digital signals, PWMs, SiC Devices, and GaN devices<br>
+</li>
+<li>Design power stages including estimation of losses and efficiency<br>
+</li>
+<li>Gate drive architectures and circuit design for Si IGBT, GaN and SiC devices<br>
+</li>
+<li>Design and analyze high frequency magnetics<br>
+</li>
+<li>EMI Filters design, analysis / simulation, and test at both sub-system and component levels<br>
+</li>
+<li>Maintain documentation of all designs<br>
+</li>
+<li>Develop schematics and supervise board layouts<br>
+</li>
+<li>Collaborate with engineers to perform functional tasks such as control, testing, layout, etc.<br>
+</li>
+<li>Troubleshoot new / existing converters and inverters<br>
+</li>
+<li>Work directly with Engineering Program Managers to ensure program commitments are met<br>
+</li>
+<li>Support Cleanroom development activities<br>
+</li>
+<li>Provide sufficient documentation to enable conversion to production<br>
+<h2 class="jobSectionHeader"><b>Qualifications/Requirements:</b></h2>
+</li>
+<li>
+Bachelor’s Degree in Electrical Engineering from an accredited university or college<br>
+</li>
+<li>Minimum of 10 years of experience in an Engineering Development environment {Including Experience in power electronics related design and development, (including familiarity with motor drives, gate drivers, analog circuitry, and magnetics, bus bars, cooling technologies and thermal management solutions, embedded systems, EMC, and gate drives); Experience in designing power supplies, inverters and converters; Experience with power modules}<br>
+<br>
+<p></p>
+<div><b>ELIGIBILITY REQUIREMENT(S):
+</b></div>
+<br>
+</li>
+<li>This role requires use of technical data subject to U.S. Government contract restrictions and this posting is only for U.S. Citizens. GE will require proof of status prior to employment<br>
+</li>
+<li>Ability and willingness to work in a high-voltage / high-power lab environment<br>
+</li>
+<br>
+<p></p>
+<h2 class="jobSectionHeader"><b>Desired Characteristics:</b></h2>
+<li>
+Master’s Degree or PhD in Electrical Engineering from an accredited University or college<br>
+</li>
+<li>Minimum of 5 years of experience in an Engineering Development environment (with PhD)<br>
+</li>
+<li>Minimum of 15 years of experience in the design of analog / digital power electronic circuits<br>
+</li>
+<li>10 years of experience working with FETs and associated modules<br>
+</li>
+<li>Significant experience in power electronics and motor drives with power levels up to 250kW and DC link voltages to 1200V<br>
+</li>
+<li>Considerable Experience with EMI / EMC design, test and troubleshooting<br>
+</li>
+<li>Complete product-life cycle experience<br>
+</li>
+<li>Experience in NPI processes<br>
+</li>
+<li>Experience with Ansys / Maxwell simulation tool or similar FEA analysis tool<br>
+</li>
+<li>Experience with power electronics control strategy / algorithms such as vector control, flux weakening, and torque / speed control as applied to electrical machines design<br>
+</li>
+<li>Experience in solving noise problems in high and ultra-high switching frequency converters layouts and ability to design EMI / EMC filters to comply with the appropriate Mil &amp; DO standards<br>
+</li>
+<li>Experience with certification standards such as RTCA / DO (Aerospace) and applicable Mil-STDs applicable in the design and manufacturing of electrical machine design<br>
+</li>
+<li>Experience with System Engineering processes from design through test verification / validation and qualification<br>
+</li>
+<li>Experience in a technical leadership role<br>
+</li>
+<li>Ability to work with software and firmware-controlled power converters and power systems<br>
+</li>
+<li>Familiar with design and analysis of power conversion topologies such as AC-DC (PFC), isolated DC/DC and DC/AC<br>
+</li>
+<li>Familiar with power semiconductors: MOSFETs, IGBTs, SiC, GaN, etc.<br>
+</li>
+<li>Familiar with MATLAB / Simulink, PSPICE, various Ansys Software, Mathcad<br>
+<br>
+<p><b>GE Aviation - Electrical Power, Pompano Beach is a recognized leader in the design and manufacturer of custom-engineered power conversion. Our site is predominately a US Military supplier providing equipment for a wide variety of land based, shipboard, missile and aircraft applications including air transport, rotorcraft and military fixed wing. We occupy a 22,000 square foot facility, designed specifically to provide vertical integration of the broad range of capabilities required to provide us with control over all aspects of the design, development, prototype build and qualification of products. We are a complete engineering design center utilizing digital, analog and creative packaging technologies to develop and qualify new products. Many of these new products support advanced power conversion requirements for a wide range of applications that include state of the art radar and laser systems. Pompano is a more recently developed community located just outside of Ft. Lauderdale, offering beautiful southern Florida weather all year round! </b><b>Learn more about our community!</b><br>
+</p>
+<h2 class="jobSectionHeader"><b>
+About Us:</b></h2>
+At GE Aviation, we are imagination at work. Whether we’re manufacturing components for our GEnx engines or driving innovation in fuel and noise reduction, the GE Aviation teams are dedicated to turning imaginative ideas into advances in aviation that solve some of the world’s toughest problems. Join us and you’ll find yourself in a dynamic environment where our ongoing, substantial investment in research and development keeps us moving forward and looking ahead. At GE, developing people is embedded in our culture and integral to our growth. Here you’ll work collaboratively and across functions with the highest caliber talent, utilizing cutting-edge technology and processes. Whether it’s the next generation of ecomagination products or the future of aircraft engines, we’ve got the state-of-the-art resources to make those innovations a reality. If you’re passionate about aviation and looking for a career rich with challenges and unlimited opportunities for growth and advancement, then join GE in reengineering the sky through aviation innovations that will impact the globe for generations to come.<br>
+GE offers a great work environment, professional development, challenging careers, and competitive compensation. GE is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, gender (including pregnancy), sexual orientation, gender identity or expression, age, disability, veteran status or any other characteristics protected by law.<br>
+<h2 class="jobSectionHeader"><b>Additional Eligibility Qualifications:</b></h2>
+GE will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable). This role is restricted to U.S. persons (i.e., U.S. citizens, permanent residents, and other protected individuals under the Immigration and Naturalization Act, 8 U.S.C. 1324b(a)(3)) due to access to export-controlled technology. GE will require proof of status prior to employment.<h2 class="jobSectionHeader"><b>
+Additional Locations:</b></h2>
+United States;Florida;Pompano Beach;</li>
+</ul></div>

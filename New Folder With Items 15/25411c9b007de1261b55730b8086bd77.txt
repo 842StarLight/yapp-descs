@@ -1,0 +1,41 @@
+<h2>VP Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Our team has created the most advanced geometric intelligence engine in manufacturing. Using this software, we built a platform to solve some of the hardest challenges facing this technologically nascent industry. We provide custom part manufacturers and supply chain logisticians with cutting edge tools that are simple to use, save time, and increase profitability. Made up of over 100,000 companies that account for $300B of custom parts in the US alone, the manufacturing sector presents one of the greatest opportunities available today to make a positive impact through innovation. This push to transform the future of manufacturing is called Industry 4.0, and Paperless Parts is on the leading edge.</p>
+<p>
+Based in Boston, Paperless Parts was founded by technology entrepreneurs Jason Ray and Scott Sawyer, and is backed by manufacturing industry experts and private investors. We value intentionality in everything we do, grit in the pursuit of excellence, and curiosity with a bias for action, to deliver simple solutions.</p>
+<p><b>
+Mission Statement</b></p>
+<p>
+Your mission as VP Engineering at Paperless Parts is to lead and expand a team of brilliant, hard-working engineers building the future of manufacturing. Leading by example, you promote a culture of engineering excellence while balancing resources and priorities across product, technology, and sales. You work very close with our product team to thoroughly scope and estimate user stories before any code gets written. You know what it takes to deliver an amazing user experience, and you’re comfortable whiteboarding scalable architecture for a challenging new feature. You draw on years of technical and leadership experience to set challenging but achievable standards and deadlines, and you rally the team around meeting them. For at least the next six months, you will spend roughly half of your time coding. You’ll grow the team by refining and executing our hiring process, sourcing candidates at local events, and mentoring the team.</p>
+<p><b>
+Outcomes</b></p>
+<p>
+If you and Paperless Parts are a great fit, together we’ll achieve these outcomes in your first 30 days:</p>
+<ul>
+<li>Prove you are gritty - Commit code on your first day</li>
+<li>Show your curiosity - Visit your first local manufacturing shop to begin learning about this industry</li>
+<li>Be intentional - Fully scope a feature with the product team and break down and estimate the development effort</li>
+<li>Have a bias towards action - Learn our development process, tech stack, and deployment architecture; make a plan to fix whatever needs to be improved</li>
+<li>Deliver a simple solution - Ship a feature that positively impacts our customers</li>
+<li>For our current major development initiatives, refine or create a schedule and cost estimate</li>
+<li>Help grow the team by attending recruiting events, interviewing candidates, and mentoring teammates</li>
+<li>Have coffee or go for a walk individually with every person on the team</li>
+</ul>
+<p><b>Preferred Qualifications</b></p>
+<ul>
+<li>Bachelor’s degree in Computer Science or other technical field</li>
+<li>Technical Master’s degree or MBA preferred</li>
+<li>8+ years professional software engineering experience</li>
+<li>Experience leading teams developing web applications with rich user experience</li>
+<li>Experience working with 3D graphics or data</li>
+<li>Familiarity with manufacturing, prototyping, machining, and/or 3D printing</li>
+<li>Passion for changing an old-school industry by inventing the tools and systems of the future</li>
+</ul>
+<p><b>Additional Details</b></p>
+<ul>
+<li>Compensation – Competitive pay with benefits and stock options – we want people who understand the value of equity and want to own a piece of what they are helping build</li>
+<li>Hours – We work hard – it’s a start-up – but we are building amazing solutions that drastically enhance one of the world’s largest industries</li>
+<li>Vacation – We don’t have a formal vacation policy. Smart people need rest to operate at the highest level, so we expect you will take vacation when you need it and when it makes sense for your ongoing projects.</li>
+</ul>
+<p><i>Paperless Parts is an Equal Opportunity-Affirmative Action Employer – Female/Minority/Disability/Vet.</i></p>
+</div></div>

@@ -1,0 +1,56 @@
+<h2>Solution Architect, Life Science Commercial</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h1 class="jobSectionHeader"><b>Job Description</b></h1>
+<ul>
+<li>
+Looking for a Product Owner cum Solutions Architect to lead the G&amp;A Tower under Managed Services. He/she should be well versed technically &amp; functionally on the below modules of OBIA and have experience working with Oracle ERP Applications.<ul>
+<li>
+Oracle Financial Analytics (AP, AR, GL),
+</li>
+<li>Oracle Procurement &amp; Spend Analytics,
+</li>
+<li>Oracle Supply chain &amp; Order Management Analytics,</li>
+<li>
+Oracle Sales Analytics,</li>
+<li>
+Oracle Project Analytics</li>
+</ul>
+</li>
+<li>
+ETL experience with data warehousing, data modeling, and enterprise BI ETL development using Informatica</li>
+<li>
+Detailed understanding of Informatica Data Quality standards, guidelines and best practices</li>
+<li>
+Data analyst experience performing data profiling, data mapping, data validation, data manipulation, data analysis, use case, test cases, etc.</li>
+<li>
+Understand reusability, parameterization, and workflow design</li>
+<li>
+Experience working on BI tools like OBIEE, Tableau, Spotfire etc.</li>
+<li>
+Capable of working within the team or as an individual
+</li>
+<li>Experience to create technical documentation.</li>
+<li>
+Should be able to provide expert guidance to client teams by thinking above &amp; beyond the given requirement and provide details on why a change can be done or cannot be done or needn’t be done or not feasible. Etc.</li>
+</ul>
+<p></p>
+<br>
+<h1 class="jobSectionHeader"><b>
+Preferred Skillset</b></h1>
+<ul>
+<li>
+15+ years of experience in LS Finance, Manufacturing domain.</li>
+<li>
+Experience with ETL &amp; BI tools</li>
+<li>
+Experience with accessing ERP applications individually.
+</li>
+<li>Good Experience on Unix systems</li>
+<li>
+Good Exposure to Databases
+</li>
+<li>Good communication and documentation skills</li>
+<li>
+Strong analytical, problem- solving and synthesizing skills</li>
+</ul>
+#LI-RAJ</div></div>

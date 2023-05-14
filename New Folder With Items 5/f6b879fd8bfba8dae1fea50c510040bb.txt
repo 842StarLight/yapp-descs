@@ -1,0 +1,156 @@
+<h2>Strategic Student Program Software Development Co-op (ME/AE, SISW-PLM)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Siemens Digital Industries Software</b></p>
+<p><b>
+Strategic Student Program (SSP)</b><br>
+<br>
+</p>
+<p>Discover your career with us at Siemens Digital Industries Software!<br>
+<br>
+</p>
+<p>We are a leading global software company dedicated to the world of computer aided design, 3D modeling and simulation— helping innovative global manufacturers design better products, faster! With the resources of a large company, and the energy of a software start-up, we have fun together while creating a world class software portfolio. Our culture encourages creativity, welcomes fresh thinking and focuses on growth, so our people, our business, and our customers can achieve their full potential.<br>
+</p>
+<p><br>
+We’re currently recruiting co-ops for our Spring 2020 Strategic Student Program. Our co-op positions will allow you to find a career path that most inspires you. Here, you will apply your education to solve real-world problems, and turn theory into practice. At Siemens, our goal is to empower our students to become the next leaders of our company.<br>
+</p>
+<p></p>
+<p>We have positions available in software development, user experience, data management, technical marketing, engineering consulting, and research &amp; design innovation. More information on our specific roles are included in this document.<br>
+<br>
+</p>
+<p>Baseline Requirements:</p>
+<ul><li> Currently enrolled as a University of Cincinnati student</li></ul>
+<ul>
+<li>Minimum 3.0 GPA
+</li>
+<li>Authorized to work in the United State without the need for current or future sponsorship by the company</li>
+<li>Preferred sophomore or pre-junior status</li>
+</ul>
+<ul>
+<li>Perks:</li>
+<li>
+Victorious daily ping pong tournaments
+</li>
+<li>Paid volunteer time off</li>
+<li>
+Employee discounts at our top customer sites</li>
+<li>
+Networking with our global leaders</li>
+<li>
+Mentorship from senior engineers</li>
+<li>
+Individual career development planning
+</li>
+<li>Professional and technical workshops</li>
+<li>
+Leadership opportunities</li>
+<li>
+Potential for full time offers after university graduation and completion of the program</li>
+</ul>
+<ul><li>
+Below are our different teams hiring students from a Mechanical or Aerospce engineering background:</li></ul>
+<br>
+<p>
+<b>Product Engineering Software</b></p>
+<p>
+As a Co-op in Product Engineering Software (PES), you will dive into developing our premiere NX CAD software. Projects in this organization will build off each other. Each successive co-op rotation in PES will expand on a new area of the software development lifecycle. You may work on business critical projects in quality assurance, business analytics, prototypes for new releases, automated tests, test results analysis, etc. You will have the opportunity to partner with senior engineers and push the limits on our project teams to:</p>
+<ul><li> Learn our software needs and functionality</li></ul>
+<ul>
+<li>
+Draft design and coding documentation for future development expansion</li>
+<li>
+Create parts and assemblies</li>
+<li>
+Design and implement new test cases</li>
+<li>
+Interactively test NX through scheduled automated suites</li>
+<li>
+Analyze test results and provide insights on detected problems</li>
+</ul>
+<p>
+Organization Requirements:</p>
+<p></p>
+<ul>
+<li><p>
+Prior experience with CAD software is required</p></li>
+<li><p>
+Studying Mechanical Engineering</p></li>
+<li><p>
+ Knowledgeable in object oriented concepts is preferred but not required</p></li>
+<li><p>
+Experience with computer-aided design or engineering software</p></li>
+<li><p>
+Passion for design, engineering, and programming</p></li>
+<li><p>
+Inspire collaboration</p></li>
+<li><p>
+Exceptional communication skills</p></li>
+</ul>
+<p></p>
+<br>
+<p>
+<b>Engineering Consulting Services</b></p>
+<p>
+Engineering and Consulting Services (ECS) is an organization within Siemens Digital Industries Software that helps to lead our customers through business transformation, digitalizing their business with engineering and manufacturing solutions. The ECS organization provides a platform for integrating process-oriented solutions that bring value to our customers by tying together our portfolio of software products. The ECS team has responsibilities to develop commercial software, provide specialized engineering services, lead internal strategic programs and deliver high value consulting services.</p>
+<p>
+As part of our Spring 2020 Strategic Student Program, the ECS Trending Solution team is recruiting a graduate co-op. The candidate will work to define best practices for Systems Modeling, leveraging Arcadia and SysML methodologies. Tasks include modeling customer needs, expressed as capability needs, system development processes and engineering information; with Siemens DI SW integrated products offerings.</p>
+<ul>
+<li>Leverage your System Modeling skills</li>
+<li>Leverage and gain stronger understanding of industry system development practices with emphasis on co-engineering best practices between system, safety, electrical and software engineering.</li>
+</ul>
+<ul>
+<li>Currently enrolled in a university pursuing a master’s degree in Mechanical Engineering, Electrical Engineering, Computer Engineering, System Engineering or a related field.</li>
+<li>General awareness and understanding of Systems Engineering, Model Based System Engineering (MBSE) theory and practice.</li>
+<li>Awareness on the role of Product Lifecycle Management (PLM)</li>
+<li>Practice in using an Engineering tool such as Simulation, Electrical, CAD in previous Co-Op engagements, internships or university projects.
+</li>
+<li>Ability to communicate effectively both verbally and written</li>
+<li>Good problem-solving and decision-making skills</li>
+<li>Capable of independent work as well as collaborative development</li>
+<li>Commanding grasp of Microsoft office</li>
+</ul>
+<p></p>
+<p><b>
+Sales and Services</b></p>
+<p>
+<b>Presales</b><b> – Simulation-Test-Services (STS)</b></p>
+<p>
+As part of the STS presales team, you will work closely with Solution Consultants, Solution Architects, Application Engineers in the alignment and deployment of the STS application suite to a broad customer based across multiple industries. Industries include but not limited to – Aerospace, Automotive, Heavy Equipment, Emerging Markets, High Tech Electronics and Consumer products. Student will be exposed to various aspects of the sales process and customer support including benchmarking, proof of concept solution validation, marketing.
+</p>
+<p>Your responsibilities will include:</p>
+<ul>
+<li>Support the creation and solution of 3D Finite Element Simulation Models</li>
+<li>Play a key supporting role in creation and validation of Simcenter proof of concepts for customers</li>
+<li>Play a key supporting role in creation and validation of Simcenter benchmarks for customers and prospects</li>
+<li>Support the creation of standard industry specific demonstration material across the suite of Simcenter tools</li>
+<li>Support the gathering of analysis requirements from current and prospective customers</li>
+</ul>
+<ul>
+<li>Currently enrolled as a University of Cincinnati undergraduate student majoring in Mechanical Engineering, Electrical Engineering, Aerospace Engineering, Structural Engineering or a related field</li>
+<li>Exposure to Javascript or Python is beneficial</li>
+<li>NX CAD experience a plus</li>
+<li>Strong mechanical aptitude is preferred</li>
+<li>Good communication skills and ability to provide status updates on a regular basis</li>
+<li>A self-starter with strong communication skills</li>
+</ul>
+<br>
+<p><b>
+Job ID:</b> 180520</p>
+<p><b>
+Organization:</b> Digital Industries</p>
+<p><b>
+Company:</b> Siemens Product Lifecycle Management Software Inc.</p>
+<p><b>
+Experience Level:</b> Student (Not Yet Graduated)</p>
+<p><b>
+Job Type:</b> Full-Time temporary</p>
+<br>
+<p><b>
+Equal Employment Opportunity Statement</b><br>
+Siemens is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, protected veteran or military status, and other categories protected by federal, state or local law.<br>
+<br>
+<b>EEO is the Law</b><br>
+Applicants and employees are protected under Federal law from discrimination. To learn more, Click here.<br>
+<br>
+<b>Pay Transparency Non-Discrimination Provision</b><br>
+Siemens follows Executive Order 11246, including the Pay Transparency Nondiscrimination Provision. To learn more, Click here.</p>
+</div></div>

@@ -1,0 +1,73 @@
+<h2>Senior Full Stack Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>The PaySimple engineering team is looking for great engineers to join us in building a SaaS platform that provides eCommerce, payments, and invoicing solutions for small businesses.</p>
+<p><b>
+</b><b>You</b></p>
+<p>
+You love to build great products, and view software as just one of the tools in your toolbox. You also can put the customer’s hat on to see your product through their eyes. You have a bag of tricks for SaaS development, and you prefer to run your own code instead of throwing it over the wall. You have used relational databases and NoSQL (so do we), and are comfortable with both.</p>
+<p><b>
+</b><b>Us</b></p>
+<p>
+PaySimple is an early-stage growth company building a top-flight engineering team. We are technology agnostic and believe in using the best tool for the job. We use Agile to both deliver quality code and to continually improve how we do things. We believe in working at a sustainable pace – you’ll typically code hard for 8 hours each day, but then you’re off work to relax, recharge, and refocus.</p>
+<p><b>
+</b><b>Where</b></p>
+<p>
+PaySimple is located in Denver’s LoDo district. Our collaborative, open-plan office space is filled with high-energy, talented people who enjoy our weekly lunches, bubble hockey, and hanging out with their co-workers.</p>
+<p><b>
+</b><b>Experience and Skills</b></p>
+<p><b>
+</b><b>Must haves:</b></p>
+<ul>
+<li>5+ years of software development experience in a web-based environment</li>
+<li>Excellent coding experience in C# and JavaScript</li>
+<li>Bachelor’s degree in Computer Science or related field</li>
+<li>Working knowledge of:</li>
+</ul> <ul>
+<li>Front-end platforms such as AngularJS</li>
+<li>HTTP and RESTful services</li>
+<li>Services-Oriented Architecture</li>
+<li>AWS or similar public cloud platform</li>
+</ul>
+<br>
+<p></p>
+<ul>
+<li>Ability to learn quickly</li>
+<li>Comfortable working at a small dynamic company</li>
+<li>Ability to translate business goals into own work assignments and succeed with little management direction</li>
+<li>Use best practices to document and write quality software. Focus on testing is extremely important</li>
+<li>Encourages and accepts personal feedback</li>
+<li>Can use judgment to solve problems where protocol might not exist</li>
+</ul>
+<p><b>Nice to haves:</b></p>
+<ul>
+<li>Background in eCommerce applications</li>
+<li>Working knowledge of .NET and database development using SQL Server</li>
+<li>Working knowledge of NoSQL data stores, such as MongoDB, CouchDB, HBase, Redis</li>
+<li>Experience with ElasticSearch or Solr</li>
+<li>Experience with data warehousing and business intelligence platforms</li>
+<li>Familiarity with best practices for DevOps and SaaS deployment</li>
+<li>Experience with techniques for unit test, such as mocks and fakes</li>
+<li>Commitment to Test-driven Development, continuous integration, and test automation</li>
+<li>Experience working in an Agile development environment</li>
+<li>Desire to debate and explore new technologies</li>
+</ul>
+<p><b>Responsibilities:</b></p>
+<ul>
+<li>Work with a team of payment industry experts to design and develop sophisticated software for a state-of-the-art SaaS application</li>
+<li>Write APIs to integrate our services with a diverse set of platforms and technologies (mobile apps, data providers, third-party applications)</li>
+<li>Design and develop comprehensive automated unit and regression tests</li>
+</ul>
+<p><b>Benefits and Perks:</b></p>
+<ul>
+<li>Competitive salary</li>
+<li>Robust medical benefits &amp; 401k</li>
+<li>Public Transportation reimbursement</li>
+<li>Gym stipend</li>
+<li>Start with 17 days of PTO and your birthday off</li>
+<li>Snacks, lunches, and happy hours</li>
+<li>Monthly sessions with a career/leadership coach</li>
+</ul>
+<p>PaySimple is the leading provider of Service Commerce solutions for SMBs. Its SaaS platform provides payment acceptance, billing automation, client management, ecommerce, mobile, and point-of-sale solutions tailored to the needs of service-based businesses. We are building an extraordinary company and looking for talented, energetic, and motivated people to join our unique environment.</p>
+<p>
+Visit PaySimple.com/Rockstars to learn more about the PaySimple PATHS to extraordinary returns. If you are looking for a company that is truly focused on empowering small businesses with superior technology, come join a company that rewards authenticity and supports energy with a passion.</p>
+</div></div>

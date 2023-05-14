@@ -1,0 +1,82 @@
+<h2>Sr. Technical Services Developer (PHP)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>The Developers responsible for the following:</p>
+<ul>
+<li>
+Developing, testing, and delivering integrations and customizations with the Sage Intacct Platform</li>
+<li>
+Providing technical expertise on complex implementation projects</li>
+<li>
+Understanding customer business requirements and defining best practice technical solutions on the Sage Intacct Platform</li>
+<li>
+Working directly with Project Managers, Business Analysts, QA or Sage Intacct Partners to ensure implementation success for Intacct customers</li>
+<li>
+Working independently on client projects and also leveraging his/her experience and skills to provide leadership to less experienced Technical Services resources</li>
+<li>
+Providing pre-sales support to identify customer requirements, define scope and provide estimates for various engagements.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Engage with Sage Intacct Consulting project teams to design, develop, and test advanced customizations or integrations related to Intacct.</li>
+<li>
+Assist in resolving support requests and bugs related to existing customizations and integrations.</li>
+<li>
+Follow development best practices and coding guidelines. Ensuring the safety and security of sensitive customer information.</li>
+<li>
+Participate in meetings to understand business requirements and development objectives.</li>
+<li>
+Provide guidance to the customer and project team with respect to technical feasibility, complexity, and level of effort required to deliver a custom solution.</li>
+<li>
+Assist Implementation Consultants and Project Managers with incorporating development project plans into a master implementation project plan.</li>
+<li>
+Ensure that the customization is designed and developed in accordance with the agreed upon customization work plan.</li>
+<li>
+Execute specific tasks on the project work plan, including but not limited to customization design, customization development, customization testing, customization installation and documentation of customizations.</li>
+<li>
+Create and deliver weekly status reports of customization progress to the Project Manager and Technical Services Director.</li>
+<li>
+Provide leadership to less experienced Technical Services resources.</li>
+<li>
+Deliver project task responsibilities on-schedule with integrity and the highest degree of client satisfaction.</li>
+<li>
+Ability to successfully multi-task across projects, customers, and internal activities.</li>
+<li>
+This position could require minimal travel</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Requirements:</b></p>
+<ul>
+<li>
+Bachelor's degree (computer science, engineering, or math) or equivalent.</li>
+<li>
+Four years experience with business information systems integration or custom business application design and development in a professional technology consulting or software development environment</li>
+<li>
+Experience in assessing client requirements across a broad array of business processes including accounting, inventory, order entry and project management</li>
+<li>
+Fluency in PHP and REST APIs are a must; additional experience in one or more of the following technologies is a plus:<ul>
+<li>
+XML Related: XML, XSL, XSLT:FO, XQUERY, etc.</li>
+<li>
+Programming languages: Java, Javascript, Python or C#</li>
+<li>
+HTML</li>
+<li>
+Amazon Web Services</li>
+</ul>
+</li>
+<li>
+Ability to work effectively and professionally with employees at all levels of a customer’s organization</li>
+<li>
+Excellent written and verbal communication skills</li>
+<li>
+Effective interpersonal skills and ability to work in a team environment</li>
+<li>
+Enthusiastic, customer focused, service oriented, self-starter</li>
+</ul>
+</div></div>

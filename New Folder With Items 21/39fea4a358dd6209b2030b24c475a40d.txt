@@ -1,0 +1,79 @@
+<h2>Systems Engineer- SLED NY State</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Our Mission</b></p>
+<p>
+At Palo Alto Networks® everything starts and ends with our mission:</p>
+<p>
+Being the cybersecurity partner of choice, protecting our digital way of life.</p>
+<p>
+We have the vision of a world where each day is safer and more secure than the one before. These aren’t easy goals to accomplish – but we’re not here for easy. We’re here for better. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.</p>
+<p><b>
+Your Career</b></p>
+<p>
+You will work with your sales partner to establish relationships with customers with the goal of helping them detect and prevent advanced cyberattacks and breaches by advising them on what applications to deploy from the Palo Alto Networks platform. Our systems engineers have a deep technical understanding of cybersecurity products, integrations, and the critical cyberthreats facing our potential customer’s environments.</p>
+<p>
+We need these technical experts to work with our sales teams, providing training and technical support. You build trust with our clients and teams, establishing strong rapport as a trusted advisor, and build an environment where our clients feel (and are) secure. Additionally, you'll be called upon to offer feedback to our product management team on new feature requests and product improvements based on what you learn from your customer base.</p>
+<p><b>
+Your Impact</b></p>
+<ul>
+<li>
+Establish yourself as a trusted advisor to prospects and customers working with your Account Manager and the local partners within your territory</li>
+<li>
+Identify and document specific problems with prospective and current customers which can be solved through the deployment of integrated solutions</li>
+<li>
+Architect and propose validated solutions which address the identified cybersecurity problems in each unique environment</li>
+<li>
+Ensure ongoing customer happiness, support, and adoption</li>
+<li>
+Continuous self-improvement and learning to maintain technical leadership of applicable technologies (data center, SDN, public cloud, security, networking, etc.)</li>
+<li>
+Understand and effectively differentiate against our top competitors</li>
+<li>
+Act as the customer advocate for any issues that require technical assistance and follow up with the customer until the issue is resolved</li>
+</ul>
+<p><b>
+Your Experience</b></p>
+<ul>
+<li>
+4+ years of experience as a successful pre-sales SE, systems integrator, or equivalent experience</li>
+<li>
+BS in Computer Science or equivalent</li>
+<li>
+Working knowledge of Palo Alto Networks products, with a focus on Next-Generation Firewall and some comparative technologies; Continuous technical development</li>
+<li>
+Experience with systems installation, configuration, and administration of routers/switches, UNIX/Linux, and Windows-based systems</li>
+<li>
+Experience that emphasizes L2-L4 Networks (L2 Switching architectures including Spanning Tree, IP routing that includes OSPF and BGP, and L4 Load balancing)</li>
+<li>
+Understand and effectively present our security platform to technical and non-technical audiences</li>
+<li>
+Strong analytical skills to evaluate complex multivariate problems and find a systematic approach to gain a quick resolution, often under duress</li>
+<li>
+Mature and effective time-management skills</li>
+<li>
+Prior experience selling network infrastructure-based security appliances, including but not limited to: Firewalls, SSL/IPSec VPNs, Security Proxies and Caches</li>
+<li>
+Familiarity working with Channel partners and understanding of a channel-centric market approach</li>
+<li>
+Previous work in the enterprise networking security space</li>
+<li>
+Experience and knowledge of modern network threats and malware, network forensics, automation tools and technologies, and endpoint security technologies</li>
+<li>
+Significant industry certifications (SANS, CISSP, CCIE, etc)</li>
+</ul>
+<p><b>
+The Team</b></p>
+<p>
+As part of our Systems Engineering team, you’ll support the sales team with technical expertise and guidance when establishing trust with key clients. You won’t find someone at Palo Alto Networks that isn’t committed to your success – with everyone pitching in to assist when it comes to solutions selling, learning, and development. As a member of our systems engineering team, you are motivated by a solutions-focused sales environment and find fulfillment in working with clients to resolve incredible complex cyberthreats.</p>
+<p><b>
+Our Commitment</b></p>
+<p>
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.</p>
+<p>
+We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.</p>
+<p>
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.</p>
+</div>
+<p></p>
+</div>

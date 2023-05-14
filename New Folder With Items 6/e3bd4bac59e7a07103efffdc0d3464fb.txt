@@ -1,0 +1,69 @@
+<h2>Salesforce Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>SUMMARY</b></div>
+<div>The Solution Architect will join the Commercial applications development team that creates state of art CRM and web applications with Salesforce Clouds, Salesforce Community Cloud, and web development tools. These applications are used by ANSYS sales, marketing and business operations to manage over $1.2B in revenue. They are also used by our customers worldwide to interact with ANSYS, use our software, and obtain support.</div>
+<div>The Solution Architect owns the architecture part of a customer-oriented solution. This requires developing a good knowledge of business goals and product planning, owned by Product Owners, then to apply a technical expertise to identify and recommend options that integrate business and technical considerations.
+</div>
+<div></div>
+<br>
+<div>The Solution Architect also works closely with product owners to recommend innovative solutions and guide through the intricacies of the Salesforce eco-system. She/he provides technical expertise to guide the development teams, drive design choices and resolve technical challenges. The Solution Architecture also makes sure the solution built are scalable and fit well into the Enterprise Architecture.
+</div>
+<div></div>
+<br>
+<div><b>RESPONSIBILITIES</b></div>
+<ul>
+<li>Collaborate with product owners as a Salesforce expert, present options and help to build full solutions to meet business needs</li>
+<li>Drives technical architecture and design choices ahead of the product build in sprints. This includes functional analysis with product owners and technical analysis across different technologies (Salesforce, Marketing applications, Account based Marketing solution, Web site, E-commerce solutions, Identity and Access Management)</li>
+<li>Provide overall guidance in the Salesforce ecosystem environment to propose solutions, anticipate on new releases, drive the build vs buy decisions and influence product planning</li>
+<li>Guarantee consistency with the Enterprise Architecture guidelines (Identity and Access Management, Master Data Management)</li>
+<li>Document design decisions, process and data flows for the development team</li>
+<li>Participate to sprint planning sessions to anticipate design work or issues, and to Agile daily standup to help resolve blockers and make technical decisions.</li>
+<li>Write and maintain non-functional user stories for technical architecture, data migrations and data flows</li>
+<li>Provide expertise to the application development team to help resolving technical challenges (APEX, Visualforce, applications from the AppExchange and API with other systems)</li>
+</ul>
+<div></div>
+<br>
+<div><b>MINIMUM QUALIFICATIONS</b></div>
+<ul>
+<li>Bachelor's degree in computer science, scientific, numerical or related field</li>
+<li>A minimum of 7 years’ experience in key Salesforce.com capabilities, including Sales Cloud, Service Cloud, Marketing Cloud, Communities, or the equivalent experience of web application development solutions in particular CMS systems, Java, .Net application development, e-commerce, Sitecore</li>
+<li>5-7 years of experience with systems architecture, integration and data and content migration;</li>
+<li>3-5 years of experience with data modeling concepts and tools.</li>
+<li>2-3 years’ experience with Identity Management (SSO/IAM), Middleware (SOA, Informatica) or API management systems.</li>
+</ul>
+<div></div>
+<br>
+<div><b>PREFERRED QUALIFICATIONS</b></div>
+<ul>
+<li>MIS or MBA preferred</li>
+<li>Ability to present technical information in a business-oriented way</li>
+<li>Ability to handle multiple complex projects in parallel</li>
+<li>Knowledge of Enterprise Architectures frameworks such as TOGAF ..</li>
+<li>Knowledge of SaaS development (security, governance, performance, volumes)
+</li>
+<li>Experience in integration with ERP systems (Oracle)</li>
+</ul>
+<div></div>
+<br>
+<div><b>CULTURE AND VALUES</b></div>
+<div>Culture and values are incredibly important to ANSYS. They inform us of who we are, of how we act. Values aren't posters hanging on a wall or about trite or glib slogans. They aren't about rules and regulations. They can't just be handed down the organization. They are shared beliefs – guideposts that we all follow when we're facing a challenge or a decision. Our values tell us how we live our lives; how we approach our jobs. Our values are crucial for fostering a culture of winning for our company:</div>
+<ul>
+<li>Customer focus</li>
+<li>Results and Accountability</li>
+<li>Innovation</li>
+<li>Transparency and Integrity</li>
+<li>Mastery</li>
+<li>Inclusiveness</li>
+<li>Sense of urgency</li>
+<li>Collaboration and Teamwork</li>
+</ul>
+<div></div>
+<br>
+<div>ANSYS is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other protected characteristics.</div>
+<div></div>
+<br>
+<div>ANSYS does not accept unsolicited referrals for vacancies, and any unsolicited referral will become the property of ANSYS. Upon hire, no fee will be owed to the agency, person, or entity.</div>
+<div></div>
+<br>
+<div>#SP</div>
+</div></div>

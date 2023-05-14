@@ -1,0 +1,106 @@
+<h2>IS Functional Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Why Join Altec?</b>
+</p>
+<p>If you're considering a career with Altec, Inc., there's never been a better time to join us! Our Company was founded based upon values that place the customer first, and view people as our greatest strength. Altec has continued to grow, utilizing the same basic values, and over the years, those values have helped us to earn the trust and confidence of our customers worldwide. We remain committed to total customer satisfaction in everything we do. That's why today, Altec is an innovative, financially sound company that is setting the standard of excellence in design, manufacturing and service; and that's why you can rely on us to provide you with the stability of a well managed company.<br>
+<br>
+Our Company:<br>
+<br>
+Altec Inc., founded in 1929, is a privately held company headquartered in Birmingham, Alabama.<br>
+<br>
+Altec specializes in the manufacture, sale and service of aerial devices, digger derricks, cranes and specialty equipment for the electric utility, telecommunications, tree care, construction, and light and sign maintenance industries in more than 120 countries.</p>
+<p><b>
+Responsibilities</b>
+</p>
+<p>PURPOSE OF POSITION:</p>
+<p><i>
+Responsible for implementing and testing system enhancements and support for the business area they serve.<br>
+</i></p>
+<br>
+<p>MAJOR RESPONSIBILITIES:</p>
+<ul>
+<li>
+<b><i>Quality Assurance:</i></b>
+<ul>
+<li><i>Prepare, maintain and execute manual and automated functional test scripts for changes and enhancements made to application modules, including upgrades.</i></li>
+<li><i>Perform all levels of testing (functional, regression, post-release “smoke testing”), ensuring quality in all layers of the application from front- to back-end)</i></li>
+<li><i>Use test automation software to develop reusable functional test scripts</i></li>
+<li><i>Interact with users and functional associates to understand software specifications</i></li>
+<li><i>Write technical documentation and document information specific to QA testing such as testing accounts, platforms tested, etc.</i></li>
+<li><i>Help develop and maintain test plans/scripts for UAT</i></li>
+<li><i>Monitor and maintain bugs in the backlog and close those no longer needed</i></li>
+<li><i>Communicate issues with software quality to developers and management and validate resolution
+</i></li>
+<li><i>Work with cross-functional teams to ensure quality throughout the software development lifecycle</i></li>
+</ul>
+</li>
+<li>
+<b><i>Support:</i></b>
+<ul>
+<li><i>Support of users, which includes diagnosing and resolving issues related to application modules.
+</i></li>
+<li><i>Provide user support for Altec associates via phone, email and in person</i></li>
+<li><i>Track and maintain constant communication with the customer from the beginning to the end of any established case, issue, or concern</i></li>
+<li><i>Proactively identify areas of support that could be mitigated or eliminated with training, process change or system enhancement.</i></li>
+<li><i>Assist with rollout of new systems to business</i></li>
+<li><i>Initiate and support Oracle Service Requests
+</i></li>
+</ul>
+</li>
+<li>
+<b><i>Other:</i></b>
+<ul>
+<li><i>Help prepare training, user manuals and system documentation, as needed.</i></li>
+<li><i>Lead and attend Rapid Continuous Improvement (RCI) events, as needed</i></li>
+<li><i>Read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements</i></li>
+<li><i>Participate in Agile ceremonies</i></li>
+<li><i>Remain highly adaptable - Due to the turbulent nature of priorities in supporting customers, this role requires high adaptability to changing demands, deadlines and priorities</i></li>
+<li><i>All other duties as assigned</i></li>
+<br>
+</ul>
+</li>
+</ul>
+<br>
+<p></p>
+<p>OTHER POSITION SPECIFICATIONS:</p>
+<ul>
+<li><i>High School Diploma or GED Required</i></li>
+<li><i>Bachelor’s Degree in related discipline strongly preferred, but consideration may be given to exceptional candidates with 10 years relevant work experience.</i></li>
+<li><i>Minimum of four years direct business experience in an Altec facility or a minimum of three years of systems experience.</i></li>
+<li><i>Current valid Driver’s License</i></li>
+</ul>
+<ul>
+<li><i>Demonstrated record of responsibility</i></li>
+<li><i>Extremely detail oriented</i></li>
+<li><i>Customer Service Oriented</i></li>
+<li><i>Motivated, goal oriented and persistent</i></li>
+<li><i>Maintain Company confidentiality
+</i></li>
+<li><i>Must handle stress and deadlines well</i></li>
+<li><i>Ability to problem solve</i></li>
+<li><i>Business Analyst experience is preferred</i></li>
+<li><i>Software Quality Assurance experience is preferred</i></li>
+<li><i>Experience with test automation software preferred</i></li>
+<li><i>Experience working in a team environment</i></li>
+<li><i>Experience with Oracle EBS is preferred</i></li>
+<li><i>Experience in Agile is preferred</i></li>
+</ul>
+<p><b>
+Benefits</b>
+</p>
+<div>Altec offers a competitive salary that rewards performance and dedication, along with a comprehensive benefits package that includes:<br>
+<ul>
+<li>Medical, Dental and Prescription Drug Program</li>
+<li>Retirement 401(k) Program</li>
+<li>Vacation and Holidays</li>
+<li>Flexible Spending Accounts</li>
+<li>Tuition Assistance Program</li>
+<li>Employee Assistance and Mental Health/Substance Abuse Program</li>
+<li>Life Insurance, Accidental Death and Dismemberment Insurance</li>
+</ul>
+</div>
+<p><b>
+EEO Statement</b>
+</p>
+<p>Altec Industries, Inc. and its affiliates are equal opportunity employers and maintain affirmative action plans to recruit, retain, develop, and promote qualified individuals without unlawful consideration of race, gender, color, religion, sexual orientation, gender identity, national origin, age, disability, citizenship status, veteran status, or any other characteristic protected by federal, state or local law. Altec strives to maintain a work environment free from unlawful discrimination and harassment, where associates are treated with respect and dignity.</p>
+</div></div>

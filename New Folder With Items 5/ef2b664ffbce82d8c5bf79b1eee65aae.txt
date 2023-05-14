@@ -1,0 +1,36 @@
+<h2>.Net Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>We are looking for experienced Microsoft developers with a strong understanding of Web and SQL technologies. We have 2 openings for developers who can build scalable, high quality, and high-performance Web applications.<p></p>
+<div>Responsibilities<br>
+<ul>
+<li>Take an active role in both client-side and server-side programming</li>
+<li>Develop Enterprise Web applications using Angular</li>
+<li>Develop Enterprise Web applications using ASP.NET MVC</li>
+<li>Develop REST Web Services using ASP.NET Web API</li>
+<li>Develop WCF Web Services</li>
+<li>Develop SQL queries using Entity Framework</li>
+</ul>
+</div>
+<div>
+<b>
+Requirements/Skills</b><br>
+<ul>
+<li>7+ years of experience as a .NET software engineer</li>
+<li>Strong Angular and Typescripts development experience</li>
+<li>Strong understanding of C# and Object-Oriented Programming</li>
+<li>Good understanding of ASP.NET MVC</li>
+<li>Strong understanding of Web Services using Web API and WCF</li>
+<li>Strong understanding of Entity Framework and SQL</li>
+<li>Experience with JavaScript, jQuery, Bootstrap</li>
+<li>Expert troubleshooting skills and research abilities</li>
+<li>Familiarity with Agile</li>
+<li>Bachelor’s degree in CS or Engineering</li>
+</ul>
+</div>
+<p><b>
+Are you a Brightstar?</b><br>
+At Brightstar, we handle every stage of a mobile device’s lifecycle for our customers-from the moment it’s manufactured to trade in and re-sale, and everything in between.</p>
+<p>
+This industry moves fast. But so do we. What’s innovative today might become outdated tomorrow, so we have to be able to see the big picture and sweat the small details. Doing that successfully takes trust, teamwork and a knack for making the complicated simple.</p>
+<p>
+We’re looking for creative, quick and relentless talent to join the team. Are you one of us?</p>
+</div></div>

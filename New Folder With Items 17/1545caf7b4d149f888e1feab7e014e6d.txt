@@ -1,0 +1,98 @@
+<h2>Software Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>The <b>Software Architect</b> is accountable for being intimately involved with all technical activities, and for providing architectural direction and leadership on assigned project teams.</p>
+<p>
+Job duties include, but are not limited to, developing and documenting high-level solution architectures, scoping, approach, estimation, research, tool evaluation, documenting patterns and standards, defining technology strategy, technology evaluation and recommendation, mentoring through hands-on assistance as well as formal/informal training, and some technical development all while adhering to NetJets technology standards and best practices. Architects must be able to take high level direction, formulate a plan to achieve the goals and execute the plan. Additionally, Architects must be able to work across project teams, Product Owners, and Enterprise Architects and will be expected to work on multiple tasks and initiatives concurrently.</p>
+<p>
+50%: Be intimately involved with all technical activities and provide architectural direction and leadership on assigned project teams. Additionally, remaining current with regards to architecture and technology trends and help drive change based upon emerging opportunities.</p>
+<p>
+20%: Drive the scoping, estimation, and the development/documenting of high-level solution architectures for new projects.</p>
+<p>
+15%: Effectively interact/communicate with business users regarding requirements, design reviews, prototype presentations, etc.</p>
+<p>
+15%: Provide technical and process coaching/mentoring of project team members regarding the understanding of technologies and processes, which may include leading a Center of Excellence.</p>
+</div>
+<br><div>
+<p>Education Level: Bachelor's Degree</p>
+<p>
+Course of Study/Major: CS, CE, CIS, IS, MIS, or similar</p>
+<p>
+Related Work Experience: 6+ years</p>
+<p><b>
+Essential Qualifications:</b></p>
+<ul>
+<li>6+ years architecture experience providing technical leadership/guidance/mentorship.</li>
+<li>Experience with conceptual and logical data modeling.</li>
+<li>Experience in designing and developing distributed enterprise applications.</li>
+<li>Experience with web applications and relational database architectures.</li>
+<li>In-depth knowledge working with and managing Git (Bitbucket, Github, CodeCommit).</li>
+<li>Experience developing secure applications, including familiarity with security standards like SAML, OAuth, and OpenID Connect.</li>
+<li>Experience designing and building reusable APIs using OpenAPI, GraphQL or ODATA.</li>
+<li>Experience with integration tools and best practices.</li>
+<li>Knowledge/experience with Docker, Kubernetes, Amazon ECS.</li>
+<li>Experience with Nexus/PyPi/NPM.</li>
+<li>Experience with CI/CD concepts and practices.</li>
+<li>Experience facilitating meetings with project teams, business stakeholders, Product Owners, etc., including building consensus and mediating compromises when necessary.</li>
+<li>Excellent communication skills, both verbal and written.</li>
+<li>Experience providing technical direction and leadership for multiple projects simultaneously.</li>
+<li>NetJets is a 24x7x365 operation and the job will require evening/weekend work to meet expectations.</li>
+</ul>
+<ul>
+<li>Experience with enterprise integration patterns and best practices.</li>
+<li>Experience in designing fault-tolerant systems and disaster recovery best practices.</li>
+<li>Familiarity with Cloud platforms, AWS, Salesforce, SAP.</li>
+</ul>
+<ul>
+<li>Knowledge of NoSQL and GraphDB concepts.</li>
+</ul>
+<ul>
+<li>Experience with Agile software development processes.</li>
+</ul>
+<ul>
+<li>Exhibit high degree of self-management.</li>
+<li>Excellent troubleshooting and problem-solving skills.</li>
+</ul> <p>Additionally, Software Architects are expected to be an expert in one or more of the following:</p>
+<p><b>
+Backend service qualifications:
+</b></p>
+<ul>
+<li>Java, Node, Groovy</li>
+<li>Serverless Technologies such as AWS Lambda</li>
+<li>OpenAPI, RAML, Json Schema</li>
+<li>API Gateway concepts</li>
+<li>MicroService concepts</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Frontend web qualifications:
+</b></p>
+<ul>
+<li>Designing and building Single-Page JavaScript-based Web Applications</li>
+<li>ES6, HTML5, CSS3 and Sass</li>
+<li>React and Redux</li>
+<li>Webpack</li>
+<li>Node</li>
+<li>AngularJS</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Salesforce.com/Apttus:
+</b></p>
+<ul>
+<li>Sales cloud</li>
+<li>Service cloud</li>
+<li>Marketing cloud</li>
+<li>Apttus</li>
+</ul>
+<p><b>AWS:</b></p>
+<ul>
+<li>Lambdas, Step functions</li>
+<li>API Gateway</li>
+<li>S3, DynamoDB, RDS</li>
+<li>CloudFormation</li>
+</ul>
+</div>
+</div>

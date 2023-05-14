@@ -1,0 +1,78 @@
+<h2>Software Engineer - Analytics</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>JOB INFORMATION</b><br>
+<br>
+<p>Our Single-Family Analytics team located in DC and Herndon, VA is looking for a Software Engineer that will be part of developing on some of our most critical applications. You will be a member of a development team inside of the Analytics department and will be solving highly quantitative challenges to solve some of our largest problems.<br>
+</p>
+<p></p>
+<p>You will be responsible for working on new custom development projects using Java/JEE and be part of moving our entire platforms to AWS. You will also be interfacing with our analytics, business and technology teams to transform and automate the way that the work gets done.</p>
+<br>
+<b>
+KEY JOB FUNCTIONS</b><div><ul>
+<li>
+Implement models/algorithms/calculations by using Java.</li>
+<li>
+Build internally facing web applications.</li>
+<li>
+Work with analysts, economists and the business to design web solutions to challenging problems.</li>
+<li>
+Confer with product managers, marketing staff, capital market staff, or business unit management to determine analytical or product-related needs regarding product, investment instrument, market activity, or complex transaction to be analyzed.</li>
+<li>
+Use one or more analytical tools from a suite of mathematical/application tools to perform appropriate analysis on specified product, transaction, market activity, or investment vehicle that has multiple variables affecting potential outcomes.
+</li>
+<li>Report in quantitative manner on parameters of proposed purchase, sale, marketing action, structure of transaction or market activity, or risk factors and the degree to which they could affect outcomes.
+</li>
+<li>Participate with product management, treasury, or capital markets staff in exercises to value derivatives or other complex products, or to revise models used to perform these valuations.
+</li>
+<li>Perform ad hoc analyses as needed and assist managers of specific product lines with analytical, valuation, or pricing projects. Collaborate with teams planning or structuring transactions to assist in credit analysis and pricing.
+</li>
+<li>Perform loss forecast analysis and reporting; perform ongoing ad hoc model development and analysis for specific clients needing high level quantitative analysis of credit risk, product valuation, asset analysis, and the like.
+</li>
+<li>Propose new risk indicators for senior staff/management approval and implementation. Assist with consulting with the business owners, designing and implementing an interface to record key indicators, research industry best practices of analyzing and reporting key performance indicators.
+</li>
+<li>Design basic to moderately complex test cases and test applications for systems used for a variety of analytical, pricing, risk management or credit pricing to ensure the business needs are met and analytics are correctly implemented.</li>
+</ul></div>
+<div></div>
+<div><b>EDUCATION</b></div>
+<ul>
+<li>Bachelor's Degree or equivalent required</li>
+<li>
+Degree in either Computer Science, Physics, Mathematics/Statistics, or Engineering, would be highly preferred</li>
+</ul>
+<div><b>MINIMUM EXPERIENCE</b></div>
+<ul><li>2+ years of related experience
+</li></ul>
+<div><b>SPECIALIZED KNOWLEDGE &amp; SKILLS</b></div>
+<div>
+Required Skills</div>
+<div>
+<ul>
+<li>Experience with the implementation and creation of various models and algorithms including regression models, AI or machine learning techniques</li>
+<li>2+ years of experience of full-stack development using Java and J2EE and the Spring Stack (Spring Boot and Spring Core)</li>
+<li>Experience with web service applications on the server side using RESTful APIs, JSON/SOAP, XML, Apache, Tomcat, Maven, Eclipse/STS, GIT, etc.</li>
+<li>Familiarity with modeling and statistical concepts</li>
+</ul>
+<div>
+Preferred Skills</div>
+<ul>
+<li>
+Experience developing SPA's using Angular6, ReactJS, or other JavaScript based frameworks would be a plus</li>
+<li>
+Experience using a variety of open source technologies and cloud services such as R, MATLAB, Python, Scala, etc.</li>
+<li>
+Familiarity with AWS data solutions such as S3 and Redshift</li>
+<li>
+Experience with Agile development methodology</li>
+</ul>
+<b>
+EMPLOYMENT</b>
+</div>
+<div>
+<br>
+As a condition of employment with Fannie Mae, any successful job applicant will be required to successfully complete a background investigation.</div>
+<div></div>
+<div><i>Fannie Mae is an Equal Opportunity Employer.</i></div>
+<br>
+<div></div>
+<b>
+Req ID: </b>56185</div></div>

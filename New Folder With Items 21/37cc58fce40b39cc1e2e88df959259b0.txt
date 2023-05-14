@@ -1,0 +1,79 @@
+<h2>Hardware Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p><b> </b>Providing local development support for existing and newly nominated business</p>
+<p>
+ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other duties may be assigned.</p>
+<ul>
+<li>
+Provide support in development of electrical HW, application and testing for customer projects</li>
+<li>
+Understand, interpret and negotiate HW related customer requirements with the OEM.</li>
+<li>
+These requirements concern electrical circuits, EMC and/or electrical motor and other associated components.</li>
+<li>
+Plan, specify and implement HW related changes to a platform ECU in order to fulfill specific requirements of the customer.</li>
+<li>
+Mediate between central hardware development in Germany and customer.</li>
+<li>
+Communicate customer project HW information and requirements internally with various groups such as purchasing, sales, engineering, etc.</li>
+<li>
+Responsible for maintaining an Open Issues List for the assigned project/s and attend regular meetings with the project core team to review the project Open Issues List.</li>
+<li>
+Lead problem solving resolution, root-cause analysis, and drive continuous improvement efforts for engineering as well as support continuous improvement for safety and quality during the program</li>
+<li>
+Provide support for the manufacturing facility</li>
+<li>
+Assure compliance with automotive quality standards such as TS16949 and other internal/external policies and procedures</li>
+<li>
+Manage/support testing and validation according to customer milestones and document required results in accordance with internal and customer requirements.</li>
+<li><b>
+Other:</b></li>
+<li>
+Occasional travel to Germany will be necessary depending on project demand.</li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+<p>Required:</p>
+<ul>
+<li>
+BS in Electrical engineering or mechatronics required, master’s degree (technical) is a plus</li>
+<li>
+3+years experience in engineering field, with automotive experience preferred.</li>
+</ul>
+<p>
+Preferred:</p>
+<ul>
+<li>
+Extensive knowledge of electrical HW development, specifically circuit design and validation preferred</li>
+<li>
+Must have a high level of interpersonal skills to work independently and with other team members.</li>
+<li>
+Good oral and written communication skills in English and preferable in German.</li>
+<li>
+Proficient with computers and related software, i.e. MS-Word, MS-Excel, MS-Project, etc.</li>
+<li>
+Must be to adapt to learning other software packages (e.g. CANalyser, proprietary Test Software).</li>
+<li>
+Proficient with statistical analysis, DOE analysis, product reliability analysis, etc.</li>
+</ul>
+<p><b>
+Qualifications/Competency: </b>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed are representative of the knowledge, skill, and/or ability required. Reasonable accommodation may be made to enable individuals with disabilities to perform the essential functions.</p>
+<p></p>
+<br>
+Additional Information<br>
+<br>
+<p><i>By choice, we are committed to a diverse workforce - EOE/Protected Veteran/Disabled.</i></p>
+<p>
+BOSCH is a proud supporter of STEM (Science, Technology, Engineering &amp; Mathematics) Initiatives</p>
+<ul>
+<li>FIRST Robotics (For Inspiration and Recognition of Science and Technology)</li>
+<li>AWIM (A World In Motion)</li>
+</ul>
+<p>
+Indefinite U.S. work authorized individuals only. Future sponsorship for work authorization unavailable.</p>
+</div>
+</div>

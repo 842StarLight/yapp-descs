@@ -1,0 +1,61 @@
+<h2>Lead Software Developer, Test Engineering (1 of 2)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Johnson &amp; Johnson is recruiting for a Lead Software Developer, Test Engineering. This position is located in Raritan, NJ.<br>
+<br>
+Caring for the world, one person at a time has inspired and united the people of Johnson &amp; Johnson for over 130 years. We embrace research and science - bringing innovative ideas, products and services to advance the health and well-being of people.<br>
+<br>
+With $81.6 billion in 2018 sales, Johnson &amp; Johnson is the world's most comprehensive and broadly-based manufacturer of health care products, as well as a provider of related services, for the consumer, pharmaceutical, and medical devices markets. There are more than 250 Johnson &amp; Johnson operating companies employing over 125,000 people and with products touching the lives of over a billion people every single day, throughout the world. If you have the talent and desire to touch the world, Johnson &amp; Johnson has the career opportunities to help make it happen.<br>
+<br>
+Johnson &amp; Johnson Technology's Software Engineering and Emerging Technology (SWEET) Team is recruiting for a Lead Software Developer, Test Engineering who is passionate about developing test frameworks and tools to improve product testing and innovation.<br>
+<br>
+<b>Key Responsibilities:</b><br>
+<ul>
+<li>Exercise your engineering expertise and real passion for quality to design and author automation test cases and execute test strategy</li>
+<li>
+Improve and develop testing processes, in-production telemetry, tools and frameworks for visualizing app performance characteristics, in our continuous integration environment</li>
+<li>
+Champion Software Testability across projects</li>
+<li>
+Drive quality engineering practices across teams</li>
+<li>
+Collaborate closely with your feature developer teammates to craft and ship creative new experiences</li>
+<li>
+Champion test stability and reliability</li>
+<li>
+Tackle testing issues that may be attributable to Client (Web, iOS, and Android) quirks, backend services, and everything in between.</li>
+</ul>
+<br>
+<b>
+Qualifications</b><br>
+<ul>
+<li>A minimum of a Bachelor's in Computer Science or equivalent is required.</li>
+<li>
+A minimum of 5 years of experience in Software Testing is required.
+</li>
+<li>Java programming experience with proven TDD and BDD experience in a Continuous Delivery context is required.</li>
+<li>
+Experience building and testing iOS, Android, and Web applications is required.</li>
+<li>
+Experience testing REST APIs is required.</li>
+<li>
+Experience in building and integrating test libraries into BDD Test Frameworks is preferred.
+</li>
+<li>Demonstrable experience in Performance Testing is preferred.</li>
+<li>
+Strong knowledge of Scrum theory, rules and practices is required.</li>
+<li>
+Experience with training and mentoring junior members is required.</li>
+<li>
+This position is located in Raritan, NJ and may require up to 10% travel.
+</li>
+</ul>
+<br>
+Johnson &amp; Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.<br>
+<br>
+<b>Primary Location</b><br>
+United States-New Jersey-Raritan-<br>
+<b>Organization</b><br>
+Johnson &amp; Johnson Services Inc. (6090)<br>
+<b>Job Function</b><br>
+Info Technology<br>
+<b>Requisition ID</b><br>
+1584190813</div></div>

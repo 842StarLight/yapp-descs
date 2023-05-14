@@ -1,0 +1,105 @@
+<h2>Senior NOC Engineer - Champaign, IL</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<b>Senior NOC Engineer Leadership:</b>
+<ul>
+<li>Engineer plan, design and set standard practices for NOC implementation.</li>
+<li>Configure network hardware (Cisco, HP, D-Link and Wireless Access Points).</li>
+<li>Install and maintain Video Head End and customer premise equipment.</li>
+<li>Perform Move / Add / Changes on Cable and Satellite (Dish Network, DirecTV).</li>
+<li>Understand monitoring and alerts for corrective action.</li>
+<li>Work within a ticketing and work order system.</li>
+<li>Resolve issues to meet SLA requirements and escalate if necessary.</li>
+<li>Work with Telcos to turn up circuits (T1, DS3, Metro-E).</li>
+<li>Phone support with field technicians, escalated residents and property staff to resolve issues.</li>
+<li>Communicate changes, outages to appropriate contacts and customers.</li>
+<li>Produce and update documentation to process, drawings and monitoring system.</li>
+<li>Field questions from Field Technicians, NOC Technicians and Tier1 agents.</li>
+<li>Work with resources to fix any issues the NOC Technicians and Tier1 agents may encounter.</li>
+<li>Motivate others by leading by example in a team environment.
+</li>
+<li>Coach, share information, and provide feedback on a consistent basis.</li>
+<li>Review processes and recommend changes to improve the overall effectiveness / efficiencies. Maintain departmental knowledge resources.</li>
+<li>Provide weekly / monthly reporting on cases and services calls if requested.</li>
+<li>Maintain familiarity with all products and services offered and properties supported.</li>
+<li>Help agents develop an understanding of competitor products and services and effectively describe key differences.</li>
+<li>Take the lead on special projects and perform additional duties as needed.</li>
+<li>Demonstrate an understanding of effective troubleshooting skills and the ability to use them.</li>
+<li>Assist customers and agents in support of services.
+</li>
+<li>Adhere to defined quality guidelines for customer communication.
+</li>
+<li>Maintain a customer focus to ensure customer satisfaction and retention.</li>
+<li>Identify and escalate any issues with products and services that impact customer acceptance, satisfaction or retention.
+</li>
+<li>Assist with upkeep on training materials and process information for NOC agents.</li>
+</ul>
+<br>
+<b>Customer Support:</b>
+<ul>
+<li>Provide direction in procedure and product support guidance to our customers, Tier1 agents, and NOC Technicians and create call logs and update all cases within the established timeframe.</li>
+<li>Accept escalated customer issues that may come from other NOC agents.</li>
+<li>Resolve or escalate customer issues or questions within the established and acceptable timeframe. Monitor NOC work queues for volume/accuracy.</li>
+<li>Respond to telephone calls, emails and faxes within the established response standard.</li>
+<li>Maintain ownership of issues and follow through on all customer issues until those issues are properly closed. Assist other NOC agents in doing the same.</li>
+<li>Enter services and procedural information into the dedicated NOC shared resources for use by other Pavlov Media employees.</li>
+<li>Keep technically abreast of all Pavlov Media products and services, bug fixes, software releases, and troubleshooting methods.</li>
+<li>Provide additional shift coverage when required.</li>
+<li>Assist with training sessions for customers and employees; mentor other Pavlov Media employees whenever possible.</li>
+<li>Assist in call quality and scoring for both NOC and Tier1 agents to help continually improve our customer support and service.</li>
+<li>Communicate with Property Staff providing outage updates, requesting power confirmations, providing office support and working with them on escalated resident issues.</li>
+</ul>
+<br>
+<b>Communication/Other:</b>
+<ul>
+<li>Work site/device down issues and escalate to appropriate functional groups when needed.</li>
+<li>Escalate competitive or service related issues to inside sales team or management when appropriate.</li>
+<li>Communicate changes and outages to appropriate stakeholders.</li>
+<li>Ensure efficiency and conformity in operation through effective communication with all Pavlov Media staff.</li>
+<li>Participate in Corporate continuous improvement initiatives to enhance client service, efficiency, and profitability.</li>
+<li>Participate in selected corporate meetings, conferences, conference calls, and planning.</li>
+<li>Lead selected corporate meetings, conferences, conference calls, and planning as required.</li>
+<li>Perform other duties as assigned.</li>
+<br>
+<h2 class="jobSectionHeader"><b>Requirements and Minimum Education Level:</b></h2>
+<b>Educational Requirements and Desired Experience:</b>
+<ul>
+<li>1-2 years of experience of LAN configurations (Cisco, HP, D-Link, AP’s)</li>
+<li>1-2 years of experience in troubleshooting of QAM, LBand, SMATV</li>
+<li>One or more years of support or leadership experience desired.</li>
+<li>Experienced knowledge of LAN and WAN networks, TCPIP networking, DNS, DHCP and HTTP.</li>
+<li>Understanding of Television Products, including cable television, satellite television and IPTV is desired.
+</li>
+<li>Familiarity with VOIP Telephony is desired.
+</li>
+<li>Proficiency with Microsoft Windows (XP, Vista or Windows 7/8), Macintosh, Adobe Acrobat. PC hardware and Microsoft Office Suite applications.
+</li>
+<li>Periodic overnight travel may be required.</li>
+<li>Shifts are subject to change based on business needs, and employee standings in regards to shift bids. Seniority for shift bids is based on employee’s work performance then date of hire with the company. Working some weekends and holidays required.</li>
+<li>Minimum 1 Year experience as NOC Engineer</li>
+</ul>
+<br>
+<b>Certifications Required:</b>
+<li>A+</li>
+<li>CompTIA Network+</li>
+<li>Mikrotik Intro Networking, Mikrotik Security, Mikrotik Routing, Mikrotik VPN</li>
+<li>Ruckus Training (Internal)</li>
+<li>Ruckus Solutions Engineer (WiSE)</li>
+<li>Switch Training (Internal)</li>
+<li>CCNA</li>
+<li>GPON</li>
+<li>MTCWE</li>
+<li>CWNA,CWDP</li>
+<li>RHCSA</li>
+<li>ICCR</li>
+<li>LPIC-1, LPIC-2</li>
+<li>CCNP</li>
+<li>MTCWE</li>
+<li>RHCSA</li>
+<li>CWNE</li>
+<li>CCDE</li>
+<li>CCIE</li>
+</ul>
+</div>
+</div>

@@ -1,0 +1,86 @@
+<h2>Cloud Developer/onsulting Technical Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>Cloud Developer/onsulting Technical Manager-190019VX<div></div>
+<br>
+<div>
+</div>
+No Visa Sponsorship is available for this position.<div>
+</div>
+</div>
+<div>
+<b>
+Preferred Qualifications</b><div>
+</div>
+Candidate will be primarily responsible for designing and developing custom, bolt-on applications and extensions to capabilities of Oracle ERP and HCM cloud. Candidates responsibilities include:<br>
+<ul>
+<li>Translate user requirements into software and system designs</li>
+<li>Design, Develop and maintain software applications</li>
+<li>Debug and test developed software</li>
+<li>Follow software development life cycle, depending on project needs</li>
+<li>Prepare diagrams to illustrate application functionalities</li>
+<li>Develop and implement operating procedures</li>
+<li>Communicate effectively with product management, project management and business owners</li>
+<li>Mentor/train other developers</li>
+<li>Conduct training for developers and stakeholders</li>
+<li>Provide technical leadership</li>
+</ul>
+Requirements<br>
+<ul>
+<li>Java Developer with experience working with Java &amp; J2EE technologies.</li>
+<li>Must have demonstrated ability to develop mission critical, large-scale J2EE based web applications using MVC and MVVM architectural design patterns.</li>
+<li>Must have mastery of object design, common core Java design patterns, and designing relational database schemas for web-based applications.</li>
+<li>Must have experience with development and maintenance of Java 8 J2EE systems and common frameworks including Java Spring, Hibernate/JDO, and AngularJS</li>
+<li>Must have experience working with (Deployment, performance tuning and configuration, debugging) Oracle Weblogic server, Oracle database</li>
+<li>Must have a deep understanding and experience with CIDC based development and delivery methodologies</li>
+<li>Must be proficient in the following architectures: SOA, Microservices, Pipes and Filter, Asynchronous event driven, SOAP and REST Webservices,</li>
+<li>Should be well versed in document design patterns, use-cases, and technical designs using UML as a language</li>
+<li>Proficient in parsing and composition of messaging payloads that include XML, JAXP, JAXB, JAX-WS, AXIS, JERSEY, JSON, CXF, REST and SOAP</li>
+<li>Strong XML processing experience such as XSD, XPath, XSL, XSLT, etc</li>
+<li>Experience with scripting technologies such as Groovy, JavaScript, TypeScript, JQuery, Ajax, HTML5, CSS3, and Bootstrap.</li>
+<li>Hands-on experience with various frameworks such as JSF/ADF, AngularJS, jQuery, ReactJS, and node.js.</li>
+</ul>
+<br>
+Good to have Experience<br>
+<ul>
+<li>Prior experience with one or more of the following modules: EBS Financials, EBS SCM, EBS Manufacturing EBS HR and Payroll and/or PSFT HR and Payroll, ERP/HCM/CX CLOUD</li>
+<li>Experience in extending and integrating with oracle ERP or HCM Cloud</li>
+<li>Experienced in project implementation and delivery methodologies, e.g. OUM</li>
+</ul>
+Technical Skills<br>
+<ul>
+<li>Understanding of Cloud Architecture and Service Models</li>
+<li>Understanding of Cloud Integration Architecture and Strategies</li>
+<li>Deep understanding of SOA concepts and development methodologies</li>
+<li>Hands on experience in SOA development using Oracle SOA Suite</li>
+<li>Development experience in BIP</li>
+</ul>
+<br>
+Other Job requirements<br>
+<ul>
+<li>Excellent communication, presentation and interpersonal skills</li>
+<li>Strong consulting skills</li>
+<li>Technical Lead experience in one or more projects</li>
+<li>Experienced working with a geographically diverse team</li>
+<li>Experience in leading and working with Offshore and managing developers</li>
+<li>Ability to travel 100% US Nationwide - Candidates can live anywhere in the US but must be able and willing to travel US Nationwide Mon – Thurs/Fri</li>
+</ul>
+<br>
+<div>
+</div>
+</div>
+<div>
+<b>
+Detailed Description and Job Requirements</b><div>
+</div>
+As a recognized authority and leading contributor within their practice, this senior-level consulting position provides consistent high quality and innovative solution leadership to a project team. Leads the solution design and implementation aspects of engagement(s) ensuring high quality, integrated software solutions within constraints of time and budget.<br>
+<br>
+Analyzes business needs to help ensure Oracle solution meets the customer’s objectives by combining industry best practices, product knowledge, and business acumen. Exercises judgment and business acumen in selecting methods and techniques to deliver functional and technical solutions on non-routine and very complex aspects of applications and technology installations. Provides direction and mentoring to project teams, and effectively influences customer leadership on key decisions. Supports the business development efforts by pursuing new opportunities and extensions. Collaborates with the consulting sales team by providing domain expertise. Resolves complex customer issues by recommending and implementing solutions. Demonstrates expertise in multiple business processes across two or more product families or ability to architect and design technology solutions encompassing multiple products and make decisions based on impact across the stack.<br>
+<br>
+8-10 years of experience relevant to this position including 4 years of consulting experience. Prior team leadership or management experience preferred. Undergraduate degree or equivalent experience preferred. Product or technical expertise relevant to practice focus. Ability to communicate effectively. Ability to build rapport with team members and clients. Strong influencing and negotiation skills. Ability to travel as needed.<br>
+<br>
+<b>Oracle is an Affirmative Action-Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, protected veterans status, age, or any other characteristic protected by law.</b>
+</div>
+</div>
+<p></p>
+</div>

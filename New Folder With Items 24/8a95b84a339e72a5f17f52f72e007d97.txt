@@ -1,0 +1,39 @@
+<h2>Software Development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design</li>
+<li>2+ years industry experience in designing software architecture, leading software development groups, and operating scalable software systems</li>
+<li>Experience in Information Retrieval, NLP or Machine Learning</li>
+<li>Metrics, analysis, and software profiling</li>
+<li>Strong object-oriented design skills with understanding of common design paradigms</li>
+<li>Experience with distributed (multi-tiered) systems, algorithms, and relational databases</li>
+<li>Experience writing unit and system level tests using dependency injection frameworks and object mocking</li>
+<li>Experience in optimization mathematics (linear programming, nonlinear optimization)</li>
+<li>Oral and written communication skills (ability to produce runbooks, technical, and non-technical documentation)</li>
+<li>Bachelor's degree in computer science, computer engineering or related technical discipline</li>
+</ul>
+<br>
+<p>Amazon is investing heavily in building a world class advertising business and we are responsible for defining and delivering a collection of self-service performance advertising products that drive discovery and sales. Our products are strategically important to our Retail and Marketplace businesses driving long term growth. We deliver billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class products. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.<br>
+<br>
+You will build services to handle billions of requests per day, while maintaining response latencies in the milliseconds and meeting strict SLA requirements. Our systems and algorithms operate on one of the world's largest product catalogs and it is quite routine for our systems to operate on massive datasets using distributed frameworks. We consistently strive to improve the customer search and browse experience. You will not merely go through the full software development cycle but more importantly drive appropriate technology choices for the business, lead the way for continuous innovation, and shape the future of e-commerce. You will develop distributed solutions with service oriented architecture to build high performance platforms to service world's largest selection to millions of customers.<br>
+<br>
+We are a highly motivated, collaborative and fun-loving team building a high growth business. We are entrepreneurial and have a bias for action with a broad mandate to experiment and innovate. This is an opportunity to make a significant impact on the future of the Amazon vision.<br>
+<br>
+You will be working with Java in a web services based environment. Knowledge about databases and SQL is a definite plus!<br>
+<br>
+As a Software Development Engineer at Amazon, you will drive the technical direction of our offerings and solutions, working with many different technologies. You will design and code, troubleshoot and support. What you create is also what you own.<br>
+<br>
+A successful candidate will have the satisfaction of seeing their work on the Amazon.com website and numerous other websites, where it will be viewed by tens of millions of customers and will drive quantifiable revenue impact, broaden their technical skills and work in an environment that thrives on creativity, experimentation, and product innovation.</p>
+<br>
+<div>
+<ul>
+<li>Knowledge of Python, Perl, or other scripting languages a plus</li>
+<li>Experience working with driving product vision to deliver long term customer and advertiser value</li>
+<li>Willingness to own all stages of development process: requirements, design, implementation, testing, and operational support</li>
+<li>Excellent interpersonal communication with strong verbal / written English skills</li>
+<li>Graduate degree a plus</li>
+<li>Previous experience in computational advertising</li>
+</ul>
+<br>
+#sspajobs</div>
+</div>

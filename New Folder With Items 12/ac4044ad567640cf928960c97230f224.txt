@@ -1,0 +1,57 @@
+<h2>Systems Engineer (Entry Level)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<div>
+<b>OPENTEXT - THE INFORMATION COMPANY</b><br>
+<br>
+As the Information Company, our mission at OpenText is to create software solutions and deliver services that redefine the future of digital. Be part of a winning team that leads the way in Enterprise Information Management. #LI-POST</div>
+</div>
+<div>
+<p><b>The opportunity:</b>
+</p>
+<p>The role Systems Reliability Engineer is to build solutions to enhance availability, performance and stability of OpenText services as well as automating away repetitive work.<br>
+<br>
+You'll be working on non-production and production environments, monitoring, data collection and configuration management, as well as disaster recovery planning, capacity engineering, reliability improvement initiatives and platform automation.<br>
+<br>
+Your mission will be to use cutting edge technology for monitoring and maintaining the day to day operations of the entire production infrastructure for OpenText Discovery on our AWS platform.</p>
+<p><b>You are great at:
+</b></p>
+<p>Provide attention to incidents according to Service Level Agreements.<br>
+<br>
+Take ownership and accountability for the incident resolution process.<br>
+<br>
+Act as a technical liaison with other teams to evaluate and report bugs.<br>
+<br>
+Establish and maintain a good relationship with team members, Product Development, Customer Service and Sales.<br>
+<br>
+Act as backup for other team members when necessary.<br>
+<br>
+May requires rotating shift work.<br>
+<br>
+On-call rotation is required, as 7x24x365 support is required.</p>
+<p><b>What it takes:
+</b></p>
+<p>The ability to understand and maintain Scripting software<br>
+<br>
+Deep understanding of Windows systems<br>
+<br>
+Good working knowledge of Linux<br>
+<br>
+Hands on experience with cloud infrastructure; AWS a plus - Min 4 years<br>
+<br>
+Experience with AWS Web Services EC2, RDS, VPC, IAM, Route53, S3, and other AWS Services<br>
+<br>
+Strong working knowledge of Cloud operational best practices.<br>
+<br>
+Experience with installing and configuring Apache and Tomcat.<br>
+<br>
+Deep expertise in Monitoring distributed systems application architectures<br>
+<br>
+Exposure to &amp; maintenance of configuration management tools at scale</p>
+</div>
+<div></div>
+<div><p>At OpenText we understand and value diversity in our employees and are proud to be an Equal Opportunity Employer. We hire the best talent regardless of race, creed, color, national origin, ancestry, disability, marital status, sex, age, veteran status or sexual orientation. If you require accommodation at any time during the recruitment process please email accommodationrequests@opentext.com. Applicants have rights under Federal Employment Laws including but not limited to: Family and Medical Leave Act (FLMA), Equal Employment Opportunity and Employee Polygraph Protection Act</p></div>
+</div>
+</div>

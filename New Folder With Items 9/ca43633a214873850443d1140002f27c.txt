@@ -1,0 +1,37 @@
+<h2>Functional SharePoint Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<p>WTA Consulting is currently hiring a SharePoint Consultant to add to our rapidly growing SharePoint Practice. The selected candidate will provide technical and team leadership to multiple exciting projects. Projects include new SharePoint implementations, upgrades from previous versions, governance and platform strategy as well as a custom solution delivery provided by development or Out of the Box tools. The candidate will also be engaged early with prospective customers in the sales cycle to provide technical demonstrations and help support the overall sales effort.</p>
+<p>
+If your job skills and experience meet the below criteria, please email your current resume and references to hr@wtainc.com.
+</p>
+<h3 class="jobSectionHeader"><b>Required Skills</b></h3>
+<ul>
+<li>Expert level SharePoint Experience with SharePoint 2007, SharePoint 2010, or SharePoint 2013 in mid to large enterprise deployments using best practices.</li>
+<li>Excellent understanding of Out of the Box (OOTB) SharePoint Web Parts and Apps. Experience using InfoPath, Nintex, and / or Quest SharePoint tools.</li>
+<li>Ability to lead client engagements, negotiate and maintain project scope. Ability to successfully deploy client solutions from end to end (sales, requirements gathering, design, implementation and support).</li>
+<li>Applicant should be comfortable and able to present ideas to both technical and business stakeholders, and facilitate strategic discussions.</li>
+<li>Ability to support pre-sales engagements by identifying and communicating potential solutions that meet our customers’ needs within their constraints.</li>
+<li>Ability to examine current content and organization of content from a variety of sources to best determine the appropriate layout in SharePoint.</li>
+<li>Establish and maintain end-user access policy and permissions. This may include delegating permissions authority to other end users/site owners.</li>
+<li>Establish versioning, utilize content types, review security compliance, and manage meta data for all content.</li>
+<li>Support the creation, development and management of content for client SharePoint Sites.</li>
+<li>Prepare training documentation and training formats (classroom / videos / webinars) to both end users and power users / admins.</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Job Requirements</b></h3>
+<ul>
+<li>Bachelor’s, Computer Science, and / or Information Technology or equivalent experience.</li>
+<li>Minimum of Four (4) years of advanced experience with SharePoint Server.</li>
+<li>Experience utilizing SharePoint Designer to assist with site customizations.</li>
+<li>Strong written and verbal communication skills.</li>
+<li>MS/SQL experience preferred but not required.</li>
+<li>Self-motivated and directed, with attention to detail, dependable, and punctual.</li>
+<li>Management and / or project management experience.</li>
+</ul>
+</div>
+<div>
+<h3 class="jobSectionHeader"><b>
+Benefits</b></h3>
+<p>WTA Inc. is an equal opportunity employer. In addition to excellent compensation packages, WTA Inc. also provides medical and dental plans, paid vacation and holidays, 401k Retirement plans, and flexible schedules.</p>
+</div>
+</div></div>

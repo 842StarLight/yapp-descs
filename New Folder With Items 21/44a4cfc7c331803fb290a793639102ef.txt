@@ -1,0 +1,147 @@
+<h2>IT Security Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Job Summary
+</b></h2>
+<div><div><div>
+<p><b>Job Title: Information Technology Security Manager</b></p>
+<p>
+The IT Security Manager performs two core functions for Festival Foods. The first is overseeing the operations of the company’s security solutions through management of the organization’s security. The second is establishing an enterprise security stance through policy, architecture and training processes. Additional tasks will include the selection of appropriate security solutions, and oversight of any vulnerability audits and assessments. The IT Security Manager is expected to interface with peers in the Systems and Network departments as well as with the leaders of the business units to both share the corporate security vision with those individuals and to solicit their involvement in achieving higher levels of enterprise security through information sharing and co-operation. Maintains positive working relationships with external technical support and vendors. Must be able to mentor associates with own extensive experience in the technology industry.</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Job Description
+</b></h2>
+<div><div><div>
+<p><b>ESSENTIAL DUTIES AND RESPONSIBILITIES</b></p>
+<ul>
+<li>
+Create, and maintain the enterprise’s IT security awareness training program.</li>
+<li>
+Participate in PCI control and control monitoring activities in support of Corporate Compliance to ensure a sufficient passing of the Level 1 ROC.</li>
+<li>
+Lead the design and execution of vulnerability assessments, penetration tests and security audits.</li>
+<li>
+Serve as the IT Security subject matter expert (SME) in the planning, design, and implementation of enterprise security architecture for technical, operational, and administrative activities.</li>
+<li>
+Ensure security configuration compliance with PCI standards and perform periodic user access reviews for Information Technology General Computer Controls.</li>
+<li>
+Participate on IT Security Incident Response Team (IT-SIRT) in the identification, containment, eradication, and resolution of security issues.</li>
+<li>
+Lead the creation of enterprise IT security documents (policies, standards, baselines, guidelines and procedures)
+</li>
+<li>Develop and lead IT Security roadmap.</li>
+<li>
+Lead planning and design of an enterprise Business Continuity Plan and Disaster Recovery Plan, under the direction of leadership team</li>
+<li>
+Maintain detailed knowledge of the IT security industry including awareness of new or revised security solutions, improved security processes and the identification and resolution of vulnerabilities and threat vectors.</li>
+<li>
+Provide recommendations for additional security solutions or enhancements to existing controls, to improve overall security and “defense in depth” strategy.</li>
+<li>
+Perform the deployment, integration and initial configuration of all new security solutions as well as enhancements to existing security solutions in accordance with standards and best practices.
+</li>
+<li>Maintain baselines for the secure configuration and operations of global devices, whether they are under direct control (i.e., security tools) or indirect control (i.e., workstations, servers, network devices, etc.).</li>
+<li>
+Maintain operational configurations of all IT security solutions as per any established baselines.</li>
+<li>
+Monitor all security solutions for efficient and appropriate operations.</li>
+<li>
+Review logs and reports of all devices, whether they are under direct control (i.e., security tools) or indirect control (i.e., workstations, servers, network devices, etc.). Interpret the implications of that activity and devise plans for appropriate resolution.</li>
+<li>
+Ensure the confidentiality, integrity and availability of the data residing on or transmitted to/from/through enterprise workstations, servers and other systems and in databases and other data repositories.</li>
+<li>
+Supervise all investigations into problematic activity and provide on-going communication with senior management.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+QUALIFICATIONS
+</b></p>
+<ul>
+<li>Bachelors or Master’s degree in the field of computer science required</li>
+<li>
+Experience of 5-7 years in IT related roles; IT Security and Management experience required.</li>
+<li>
+Experience with managing security controls and compliance (PCI Level 1, HIPAA, etc.) required.</li>
+<li>
+Extensive experience in enterprise IT security architecture design and documents creation required.</li>
+<li>
+Experience in PCI Level 1 ROC assessments required</li>
+<li>
+Familiarity with system monitoring, assessment and reporting tools</li>
+<li>
+Familiarity with enterprise management of Anti-virus and encryption tools
+</li>
+<li>Proficiency in Active Directory Management and IT network security</li>
+<li>
+Ability to work in independent environments and under aggressive timelines</li>
+<li>
+Ability to develop and maintain working relationships in a global environment</li>
+<li>
+Prior project management experience in a leadership role
+</li>
+<li>Experience in designing and delivering employee security awareness training.</li>
+<li>
+Experience in developing Business Continuity Plans and Disaster Recovery Plans.</li>
+<li>
+Strong understanding of IP, TCP/IP, and other network administration protocols.</li>
+<li>
+Extensive experience in securing Windows Operating Systems, including Point of Sale versions.</li>
+<li>
+Familiarity with Visio, Microsoft Project, VMWare, and other end-user applications.<br>
+</li>
+</ul>
+<p></p>
+<p><b>PREFERRED QUALIFICATIONS
+</b></p>
+<ul>
+<li>Understanding of security standards, such as COSO, NIST, ISO 27000, ITIL</li>
+<li>
+Industry credentials such as CISSP, CISM, CEH, GIAC or other IT security related certification</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+PHYSICAL DEMANDS AND WORK ENVIRONMENT</b></p>
+<ul>
+<li>
+Sitting or standing at a computer 50% of the time</li>
+<li>
+Bending, stretching, and occasional lifting of up to 50 lbs. is required</li>
+<li>
+Professional presence and proper phone etiquette is required</li>
+<li>
+Some travel is required</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+PERSONAL ATTRIBUTES</b></p>
+<div><ul>
+<li>
+Energy, tact, conviction, flexibility, and excellent communication skills plus the other intangible attributes necessary to succeed in a complex, fast-moving, world-class retail environment.</li>
+<li>
+Proven analytical and problem-solving abilities.</li>
+<li>
+Ability to effectively prioritize and execute tasks in a high-pressure environment.</li>
+<li>
+Good written, oral, and interpersonal communication skills.</li>
+<li>
+Ability to conduct research into IT security issues and products as required.</li>
+<li>
+Ability to present ideas in business-friendly and user-friendly language.</li>
+<li>
+Highly self-motivated and directed.</li>
+<li>
+Keen attention to detail.</li>
+</ul></div>
+<div></div>
+<br>
+<div><b>
+WORK SCHEDULE</b></div>
+<p>
+The Information Technology Security Manager is a full-time salaried position. The work schedule will mostly be between 7:30-5:00, Monday-Friday with occasional nights and weekends. The IT Security Manager will be part of a weekly on call rotation.</p>
+<p><i>
+Festival Foods serves guests in over 30 full-service, state-of-the-art supermarkets throughout Wisconsin. At Festival Foods, we're not simply selling groceries; we're on a mission! Every business decision we make is based on our "Boomerang Principle"-empowering our associates to make decisions and take actions that will "Bring the Customer Back". We are proud to be a family and employee-owned company.</i></p>
+</div></div></div>
+</div>
+<div></div>
+</div>

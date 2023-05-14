@@ -1,0 +1,83 @@
+<h2>Cloud Native GCP/AWS Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><b>The team</b></div>
+<div>Cloud Engineering</div>
+<div>Our Cloud Engineering team focuses on enabling our client’s end-to-end journey from On-Premise to Cloud, with opportunities in the areas of: Cloud Strategy, Op Model Transformation, Cloud Development, Cloud Integration &amp; APIs, Cloud Migration, Cloud Infrastructure &amp; Engineering, and Cloud Managed Services. We help our clients see the transformational capabilities of Cloud as an opportunity for business enablement and competitive advantage.
+</div>
+<div></div>
+<div>Cloud Engineering supports our clients as they improve agility and resilience, and identifies opportunities to reduce IT operations spend through automation by enabling Cloud. We accelerate our clients towards a technology-driven future, leveraging vendor solutions and Deloitte-developed software products, tools, and accelerators.</div>
+<div></div>
+<div>Deloitte is an industry leader in our clients’ Digital transformations. We recognize that the backbone enabling our clients’ highest aspirations for analytics and cognitive solutions is next-gen Cloud infrastructure. From cloud consulting, to implementation, and ongoing managed services we offer a full scope of Cloud services and solutions. We want talent who is ready to innovate cloud services and empower our clients to leap frog forward in their technical capabilities. Building your career at Deloitte offers the opportunity to work with cutting-edge Cloud technologies to deliver next-Gen Cloud solutions. We embrace the tech pioneer mindset and always enable our talent to keep their skills evolving at the speed at which the technology marketplace is evolving.<br>
+<br>
+Cloud has transformed the way technology enables the business. It represents a radical shift in how IT services are obtained, used, and managed. Companies are navigating through the various cloud options and deciding between private, public, or a combination across different and dynamic provider ecosystems. Our employees are empowered to think outside of the box and provide innovative solutions to our customers.<br>
+<br>
+Work you’ll do<br>
+In partnership with other leaders in the firm, you will focus on selling and delivering cloud solutions using AWS, Azure and Google Cloud and as a key member of Architecture group, ensure success in building and migrating applications, software and services on public cloud.<br>
+<ul>
+<li>Promote public cloud internally to sales and delivery teams to drive growth.</li>
+<li>Educate customers of all sizes on the value proposition of Public Cloud and participate in deep architectural discussions to ensure solutions are designed for successful deployment in the cloud</li>
+<li>Capture and share best-practice knowledge amongst the public cloud solutions architect community</li>
+<li>Author or otherwise contribute to public cloud customer-facing publications such as whitepapers</li>
+<li>Build deep relationships with senior technical individuals within customers to enable them to be cloud advocates</li>
+<li>Act as a technical liaison between customers, delivery teams and support.</li>
+</ul>
+</div>
+<div></div>
+<div></div>
+<br>
+<div><b>Qualifications</b></div>
+<div>Required</div>
+<ul>
+<li>Self-starter with an in-depth hands-on work experience with large-scale implementations of Google Cloud Platform (GCP) and/or with AWS or Azure.</li>
+<li>Knowledge of J2EE, .NET, and cloud technologies development languages and tools, to continue with development</li>
+<li>Direct experience migrating applications from the enterprise to public cloud providers (e.g. Amazon, Google, or Microsoft)</li>
+<li>Experience helping development teams build and deploy micro services based applications in public cloud Experience with Continuous Integration &amp; Continuous Deployment tools and processes</li>
+<li>Understanding of emerging technologies and end-user needs.</li>
+<li>Strong analytical skills with the ability to learn new information quickly</li>
+</ul>
+<b>
+</b><br>
+<b>Preferred:</b><br>
+<ul>
+<li>10+ years of overall experience, to include a minimum of 5 years of enterprise, full-life cycle in Architecture in the professional IT/Software Development services industry.</li>
+<li>10+ years of experience with Java / J2EE technologies and Architecting solutions using Web technologies</li>
+<li>3+ years project experience migrating and deploying cloud based solutions (GCP, Azure or AWS)</li>
+<li>3+ years architecting, implementing and supporting Microsoft Azure or Amazon Web Services infrastructure and topologies</li>
+<li>Bachelor’s Degree in Computer Science, Electrical Engineering or equivalent work experience. MBA preferred.</li>
+<li>Google Certified Professional – Cloud Architect or Azure, AWS equivalent preferred.</li>
+<li>Understanding of Infrastructure as a Service, Infrastructure as Code and related concepts on public cloud.</li>
+<li>Proven experience as a successful senior engineer and/or cloud engineer highly desirable</li>
+<li>Container experience with Docker and Kubernetes or other container orchestration platforms</li>
+<li>Understanding of Agile, SCRUM and Continuous Delivery</li>
+<li>Demonstrated skills in leadership, communication, coaching, analysis, problem solving and short term and long term planning.</li>
+<li>Experienced, persuasive and effective presenter, both written and verbal.</li>
+<li>Knowledge of standard selling disciplines, specifically Solution Selling and RFP management.</li>
+<li>Experience leading high performance, results driven teams with a focus on client satisfaction.</li>
+<li>Excellent interpersonal and organizational skills, ability to handle diverse situations, multiple initiatives and rapidly changing priorities.</li>
+<li>Must be a self-starter who requires minimal supervision.</li>
+<li>Ability to travel up to 75-100%</li>
+</ul>
+<br>
+<div></div>
+<div><b>How you’ll grow</b></div>
+<div>At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there’s always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs at Deloitte University, our professionals have a variety of opportunities to continue to grow throughout their career. Explore Deloitte University, The Leadership Center.</div>
+<br>
+<div></div>
+<div><b>Benefits</b></div>
+<div>At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits. Learn more about what working at Deloitte can mean for you.<br>
+</div>
+<div></div>
+<div><b>Deloitte’s culture</b></div>
+<div>Our positive and supportive culture encourages our people to do their best work every day. We celebrate individuals by recognizing their uniqueness and offering them the flexibility to make daily choices that can help them to be healthy, centered, confident, and aware. We offer well-being programs and are continuously looking for new ways to maintain a culture where our people excel and lead healthy, happy lives. Learn more about Life at Deloitte.</div>
+<br>
+<div></div>
+<div><b>Corporate citizenship</b></div>
+<div>Deloitte is led by a purpose: to make an impact that matters. This purpose defines who we are and extends to relationships with our clients, our people and our communities. We believe that business has the power to inspire and transform. We focus on education, giving, skill-based volunteerism, and leadership to help drive positive social impact in our communities. Learn more about Deloitte’s impact on the world.</div>
+<br>
+<div></div>
+<div><b>Recruiter tips</b></div>
+<div>We want job seekers exploring opportunities at Deloitte to feel prepared and confident. To help you with your interview, we suggest that you do your research: know some background about the organization and the business area you’re applying to. Check out recruiting tips from Deloitte professionals.</div>
+</div>
+<div></div>
+</div>

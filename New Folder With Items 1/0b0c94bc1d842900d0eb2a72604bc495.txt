@@ -1,0 +1,48 @@
+<h2>MP Web Application Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>The Web Application Developer position is responsible for maintaining, enhancing, and growing out web sites developed by Konica Minolta's Solutions Engineering Center (SEC). Candidate will work on everything from front-end HTML, CSS, and JavaScript to the server side code and database. We are looking for people who want to work with the latest technologies on customer facing web sites. As a member of a small team, the successful candidate will be able to play an important role in the evolution of the Konica Minolta MarketPlace.</b></p>
+<p></p>
+<p><b>What we expect to see:</b></p>
+<ul>
+<li><b>
+Bachelor’s degree in Computer Science, Software Engineering, or a related degree concentration &amp; 3+ years of proven experience developing desktop and web based applications.</b></li>
+<li><b>
+Proficient in modern HTML, CSS, JavaScript, PHP, and SQL.</b></li>
+<li><b>
+Fluent with various web browsers (Chrome, Firefox, Edge, Safari).</b></li>
+<li><b>
+Strong written and verbal communication skills.</b></li>
+<li><b>
+Self-motivating and self-learning</b></li>
+</ul>
+<p></p>
+<p><b>What we like to see:</b></p>
+<ul>
+<li><b>
+Personal or Professional experience in Node.js, Python, React, SASS, PostCSS.</b></li>
+<li><b>
+Proficient on Linux/Unix operating systems from a terminal.</b></li>
+<li><b>
+Experience with Git, Docker, and Virtual Machines.</b></li>
+<li><b>
+Experience developing for multiple browsers and devices.</b></li>
+<li><b>
+Open source code you are proud of.</b></li>
+</ul>
+<br>
+<p></p>
+<p><b>
+Konica Minolta Offers:
+</b></p>
+<ul><li>Outstanding benefits package (including medical, dental, vision, company-provided disability and life insurance)</li></ul>
+<ul><li>401(k) plan with matching company contribution</li></ul>
+<ul><li>Generous holiday and paid time off schedules</li></ul>
+<ul><li>Tuition Assistance Program</li></ul>
+<ul><li>Employee Referral Bonus Program</li></ul>
+<ul><li>Ongoing professional development training</li></ul>
+<ul><li>Visible, exciting work supporting sales of cutting-edge technology and workflow solutions.</li></ul>
+<ul><li>Relocation assistance for very strong candidates</li></ul>
+</div>
+</div>

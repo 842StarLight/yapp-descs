@@ -1,0 +1,83 @@
+<h2>Client Technology Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Position Summary</p>
+<p>A Client Technology Manager (CTM) is responsible for technical oversight, guidance and consultative services to the Eze Castle customer base. CTM’s act as a “Virtual CTO” for clients, providing strategy aligned with industry best practices. This includes proactive management of client technology, resolving high priority escalations and contributing standards and procedures to the global technology community. The candidate will interact with executive level resources and should operate with the highest level of presentation, communication and professionalism. CTM’s are expected to provide guidance, leadership and mentorship, to all levels of ECI service staff. Along with Customer Success Managers (CSM), CTM’s will be an integral part of technical translation in the process of business development and sales opportunities within the existing client base.</p>
+<p><b>
+Position Requirements</b></p>
+<ul>
+<li>College diploma or University degree in the field of Computer Science or equivalent field</li>
+<li>5-10 years of experience in IT management/leadership</li>
+<li>Exceptional written and oral communication skills</li>
+<li>Exceptional interpersonal skills, with a focus on rapport-building, listening, and questioning skills</li>
+<li>Motivated to pursue technical certifications and further education</li>
+<li>Highly self-motivated and directed, in a fast-paced team environment</li>
+<li>Ability to delegate tasks and manage to completion</li>
+<li>Sharp attention to detail with proven analytical and problem-solving abilities.</li>
+<li>Effective time management in working on internal tasks as well as with external vendors</li>
+<li>Able to design, lead and execute project plans</li>
+<li>Capable of working cross-departmentally to achieve service delivery</li>
+<li>Can interpret customer needs and translate to technical deliverables</li>
+<li>Able to articulate technical needs and requirements to non-technical audiences</li>
+<li>Capable of providing strategic guidance on technical budgets</li>
+<li>Experience with team management and career development</li>
+<li>Competent in industry oriented regulatory and cyber-security standards</li>
+<li>Able to independently conduct quarterly Technical Business Reviews (TBR) with clients</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Technical Requirements</b></p>
+<ul>
+<li>Advanced understanding of networking concepts: TCP/IP, LAN/WAN, DHCP, DNS, Routing, Switching and Firewalls</li>
+<li>Deployment and troubleshooting of operating systems and applications</li>
+<li>Microsoft Server and Desktop Operating Systems</li>
+<li>Able to design and deploy secure mobility solutions</li>
+<li>Advanced experience with public cloud technologies with an emphasis on Office 365</li>
+<li>Advanced understanding of cyber-security concepts (2FA, Next-gen Security design, Conditional access, DLP, Cloud Hardening, Identity Management)</li>
+<li>Experience with data continuity and recovery strategies</li>
+<li>Ability to maintain and operate network management and troubleshooting applications (patch management, SNMP utilities, monitoring solutions)</li>
+<li>Advanced knowledge of communication concepts (E-Mail, Unified Communications, Dynamic Chat)</li>
+<li>Knowledge of cross-platform data and mail migrations.</li>
+<li>Management of third-party vendors and collaboration on proprietary client systems</li>
+<li>Experience with virtualization software such as VMWare vSphere or Hyper-V</li>
+<li>Understanding of IaaS, VDI and SaaS</li>
+<li>Understanding of network troubleshooting (switching and routing, security ACL)</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Nice to Have</b></p>
+<ul>
+<li>Financial industry experience</li>
+<li>General understanding of market functionality</li>
+<li>Experience with Managed Service Providers</li>
+<li>Experience with Market Data vendors like Bloomberg, Reuters, Factset</li>
+<li>Interest in continuous professional development with a focus on leadership</li>
+<li>Advanced understanding of high-level infrastructure design</li>
+<li>Ability to identify flaws in technology and promote business opportunities</li>
+<li>Technical certifications preferred</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Working Conditions</b></p>
+<ul>
+<li>Ability to work in an independent environment with moderate supervision</li>
+<li>Ability to work under a moderate noise level (i.e. working on an open floor with printers, telephones, and computers)</li>
+<li>Overtime may be required to meet project deadlines (including late nights and weekends)</li>
+<li>Ability to travel for business and work beyond normal business hours when necessary</li>
+<li>Ability to be flexible and successfully respond to multiple work pressures</li>
+<li>Sitting for extended periods of time</li>
+<li>Dexterity of hands and fingers to operate a computer keyboard, mouse, power tools, and to handle other computer components</li>
+<li>Lifting and transporting of moderately heavy objects, such as computers and peripherals<br>
+<br>
+</li>
+</ul>
+<p><b>About ECI</b></p>
+<p>
+ECI is a leading provider in the financial industry of cloud and technical solutions. With over 25 years in business, ECI has upheld a reputation of developing top-tier industry technologists by allowing them to work in fast-paced and dynamic environments. Focusing on a “promote from within” culture allows our team to grow both personally and professionally.</p>
+<p>
+We offer competitive salaries and our generous benefits package includes health and dental insurance at great employee rates, life insurance, short/long term disability, paid time off and holidays, a 401K plan and performance incentives. Come work for the leader in cutting edge technology and see for yourself how we value our clients and employees alike.</p>
+<p>
+ECI is an equal opportunity employer. In accordance with anti-discrimination laws, ECI prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law. ECI conforms to the spirit as well as to the letter of all applicable laws and regulations.</p>
+</div></div>

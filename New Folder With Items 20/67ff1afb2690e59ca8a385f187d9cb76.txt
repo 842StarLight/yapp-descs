@@ -1,0 +1,56 @@
+<h2>Specialist Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><div><div>
+<div>At Red Hat, we connect an innovative community of customers, partners, and contributors to deliver an open source stack of trusted, high-performing solutions. We offer cloud, Linux, middleware, storage, and virtualization technologies, together with award-winning global customer support, consulting, and implementation services. Red Hat is a rapidly growing company supporting more than 90% of Fortune 500 companies.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Job summary
+</b></h2>
+<div><div><div>
+<div>Serve as an application-focused presales expert who creates possibilities, solves problems, and establishes strategic relationships with customers. The Red Hat Sales team is looking for a Specialist Solutions Architect to join us in Chicago, IL. In this role, you'll support customers in the Central United States. You'll need to have a balance of technical expertise in Java, passion for modern application development, and an understanding of challenges faced by enterprise application developers. You will help customers overcome these challenges by using Red Hat's technologies, including Red Hat OpenShift and Red Hat Middleware, and adopting modern development practices like DevOps, microservices, and continuous integration (CI) and continuous delivery (CD). As a Specialist Solutions Architect, you'll also need to have excellent communication and people skills because you'll be a key part of the first impression that our customers have with Red Hat.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Primary job responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Discover and analyze customer business and technical problems and connect them with the appropriate Red Hat's solution that aligns to customer-specific needs</li>
+<li>
+Create enterprise solutions that increase business value, using Red Hat OpenShift and the Red Hat Middleware portfolio</li>
+<li>
+Develop and conduct live demonstrations and educate prospective customers on the capabilities of Red Hat's solutions</li>
+<li>
+Guide and assist with proofs of concepts, workshops, and seminars</li>
+<li>
+Collaborate with Product, Product Engineering, Professional Services, and Sales teams to ensure excellent customer experience with our offerings and solutions</li>
+<li>
+Demonstrate expertise by speaking to user groups and at select conferences; share knowledge with your team members in order to allow them to learn from your work</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Required skills
+</b></h2>
+<div><div><div>
+<ul>
+<li>5+ years of experience with enterprise application architecture and development; experience in the sales field is a plus</li>
+<li>
+Previous Container-as-a-Service (CaaS) and Platform-as-a-Service (PaaS) experience using Red Hat OpenShift, Pivotal Cloud Foundry (PCF), Docker EE, Mesosphere, IBM Bluemix, or similar technology</li>
+<li>
+Practical experience with Java development technologies like Spring Boot, WildFly Swarm, or JEE technologies like Red Hat JBoss Enterprise Application Platform (EAP), Oracle WebLogic Server, or IBM WebSphere</li>
+<li>
+Familiarity with Java development frameworks like Spring, Netflix OSS, Eclipse Vert.x, or Play and additional technologies like Node.js, Ruby, PHP, Go, or .NET development</li>
+<li>
+Experience with application build automation tools like Apache Maven, Jenkins, and Git</li>
+<li>
+Excellent communication and presentation skills and a record of developing relationships at technical, management, and executive levels</li>
+<li>
+Willingness to travel up to 50%</li>
+</ul>
+<div></div>
+<br>
+<p>
+Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.</p>
+<p><br>
+Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.</p>
+</div></div></div>
+</div>
+<div></div>
+</div>

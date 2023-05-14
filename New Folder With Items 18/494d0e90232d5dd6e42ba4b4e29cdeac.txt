@@ -1,0 +1,49 @@
+<h2>Sales Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Sectigo </b>is currently seeking a <b>Sales Engineer </b>to join our team in our <b>Roseland, NJ</b> office.</p>
+<p>The <b>Sales Engineer (SE</b>) is the technical bridge between our Sales Representatives, our channel partner network and pre-sales customers. The SE will take ownership of the prime technical relationship with our pre-sales customers and channel partners to help close deals by proactively managing and delivering technical information to our customers and channel partners either onsite, online, and via email/telephone.</p>
+<p><b>Duties &amp; Responsibilities </b></p>
+<ul>
+<li>Provide Proof of Concept service to pre-sales customers and help clients with planning and implementation of Sectigo solutions</li>
+<li>Provide support and training to the channel partner network and respond to technical requests from channel partners</li>
+<li>Work in a fast-pace environment under minimal supervision</li>
+<li>Will provide software and network troubleshooting in complex customer environments</li>
+<li>Maintain and expand working knowledge of current and future products</li>
+<li>Share best practices with other SEs to enhance quality of service and efficiency</li>
+<li>Provide product training and mentoring when required</li>
+<li>Contribute to building the SE Readiness Program and develop subject matter expertise in assigned products and solutions</li>
+<li>Willing to travel regionally for customers facing activities, as well as marketing and user group events</li>
+<li>Channel feature requests to Product Management to enhance Sectigo products</li>
+<li>Participate in alliance projects including building vendors’ and customers’ relationships</li>
+</ul>
+<p><b>Qualifications/Requirements </b></p>
+<ul>
+<li>BS degree in computer science, engineering or equivalent.</li>
+<li>Sales Engineering and/or professional services experience preferred</li>
+<li>Experience working with various Microsoft software and systems, specifically Active Directory, windows and Linux platforms, servers and stations,</li>
+<li>Experience with Public Key Infrastructure (PKI), SSL , X509 is preferred</li>
+<li>Experience with IIS, Tomcat, Apache, F5 is preferred</li>
+<li>Solid multi-tasking, troubleshooting and problem resolution abilities</li>
+<li>Self-starter and quick learner with desire to continually learn new tools and technologies</li>
+<li>Strong verbal and written communication, customer service, account management and negotiation skills, with the ability to interface with a diverse set of clients including administrators and C-level executives.</li>
+</ul>
+<p><b>Desired Skills and Experience: </b></p>
+<ul>
+<li>Software as a Service (SaaS) solutions</li>
+<li>Knowledge of MS Windows and Active Directory, and Certificate Services is a plus</li>
+<li>Knowledge of MS Exchange, IIS and SQL is a plus</li>
+<li>Previous Experience and /Or Knowledge of PKI, SSL, X509 is a plus</li>
+<li>Experience with VMware vCenter, VDI, AWS, and or Azure</li>
+<li>Network infrastructure experience</li>
+</ul>
+<p><b>One or more of below certifications or training is desired: </b></p>
+<ul>
+<li>VCP – VMware Certified Professional</li>
+<li>CISSP – Certified Information Systems Security Professional</li>
+<li>MCP – Microsoft Certified Professional</li>
+<li>MCSE – Microsoft Certified Solutions Expert</li>
+<li>Linux/Solaris/UNIX System Administration</li>
+<li>AWS/Cloud Certification</li>
+</ul>
+<p>Job Type: Full-time</p>
+</div>

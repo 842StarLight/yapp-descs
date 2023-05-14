@@ -1,0 +1,56 @@
+<h2>Applications Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Position Summary</b></p>
+<br>
+<p></p>
+<ul><li> <b>Title</b> Applications Developer</li></ul>
+<ul><li> <b>Department</b> Information Technology</li></ul>
+<ul><li> <b>Reports to</b> Director of IT</li></ul>
+<ul><li> <b>FLSA</b> Exempt / Salary</li></ul>
+<br>
+<br>
+<p>Outdoor Cap has been servicing the needs of the headwear industry for 40 years. Established in 1977, we have established ourselves as one of the largest and most respected headwear suppliers in the United States by combining work ethic and integrity with innovative resources and processes. We service 14,000 customers across multiple channels in the Team, Promotional Products, Hunting/Fishing, and Retail markets. Outdoor Cap also has been feverishly developing direct to consumer business that currently focuses on the headband market. Spawning from the CrossFit arena and now a popular consumer brand, www.junkbrands.com is an exciting component of Outdoor Cap where eCommerce is its primary channel of business.</p>
+<p>This position will be user facing and primarily support JUNK Brands with their recent migration to Netsuite ERP. This engagement includes maintaining and developing NetSuite custom scripting within the ERP, WMS, and Advanced Management modules. In addition, the position is responsible for owning technology transformation initiatives from concept to deployment. This person will have the right blend of interpersonal, project management, and technical skills to execute initiatives that are part of the Digital transformation occurring within the company. This includes initiatives in areas such as eCommerce, operations, marketing, fulfillment, finance, product development, HR, sales, and customer service.</p>
+<p><b>Essential Duties and Responsibilities</b></p>
+<ul><li> Execute initiatives of the Digital Transformation plan to help strategically grow the organization’s future B2B and B2C businesses.</li></ul>
+<ul><li> Primary technical resource to finalize business and technical requirements necessary to design, implement, and support solutions on the Netsuite platform.</li></ul>
+<ul><li> Evaluate business requirements, functional requirements, and advise on how to leverage out of the box Netsuite solutions, as well as when to customize.</li></ul>
+<ul><li> Primary point on contact for JUNK Brands and their IT related projects and system needs.</li></ul>
+<ul><li> Meet with decision makers, stakeholders, customers, and end users to define business requirements and overall system goals</li></ul>
+<ul><li> Work closely with a team of engineers, product managers, user experience experts and performance engineers to build applications customers will love, adopt, and use while keeping the platform stable and scalable</li></ul>
+<ul><li> Develop test strategies, design automation frameworks, write unit/ functional tests to drive up code coverage and automation metrics</li></ul>
+<ul><li> Present your own designs to internal/ external groups and review designs of others</li></ul>
+<ul><li> Document user, system, and data flows associated with new initiatives</li></ul>
+<ul><li> Adopt, embrace, and promote agile practices</li></ul>
+<ul><li> Mentor others in development technologies, tools, and processes</li></ul>
+<br>
+<p></p>
+<p><b>Skills and Competencies</b></p>
+<ul><li> 4 years (minimum) experience with Software Development Life Cycle (SDLC) or relevant framework. Agile certification a plus</li></ul>
+<ul><li> Skilled in ERP systems such as Simparel, Netsuite, Dynamics, SAP, Oracle</li></ul>
+<ul><li> Skilled in Cloud platforms such as Shopify, Salesforce, etc.</li></ul>
+<ul><li> Skilled in latest coding platforms, methodologies, and technologies</li></ul>
+<ul><li> Skilled in PHP, JavaScript, HTML, and CSS. In particular, Netsuite Javascript API experience.</li></ul>
+<ul><li> Skilled in Microsoft SQL and Microsoft (or equivalent Java) development technologies</li></ul>
+<ul><li> Experienced in Netsuite Suitecloud Development Framework implementation and support</li></ul>
+<ul><li> Experienced in middleware design, implementation, and usage</li></ul>
+<ul><li> Experienced in version control systems (e.g. Git)</li></ul>
+<ul><li> Expert in general computer skills and knowledge of Microsoft Office</li></ul>
+<ul><li> Demonstrable business acumen and excellent interpersonal, communication, organizational, and business focused skills</li></ul>
+<ul><li> The ability to work in a changing environment under pressure and within challenging timescales</li></ul>
+<p><b>Education and Qualifications</b></p>
+<ul><li> Bachelor’s degree in Computer Science, Business Information Systems, or related field; or 3-7 years related experience and/or training; or equivalent combination of education and experience</li></ul>
+<ul><li> Netsuite SuiteCloud Developer or ERP Consultant certification is a plus</li></ul>
+<ul><li> High sense of urgency</li></ul>
+<ul><li> Positive, can do attitude</li></ul>
+<p><b>Physical Requirements</b></p>
+<ul><li> Regularly required to sit, stand, reach, bend and move about the office</li></ul>
+<ul><li> Required to have close visual acuity to perform computer tasks, and expansive analysis and reading.</li></ul>
+<ul><li> Ability to lift up to 25 pounds infrequently</li></ul>
+<br>
+<p></p>
+<p>Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time.</p>
+</div>
+<p></p>
+</div>

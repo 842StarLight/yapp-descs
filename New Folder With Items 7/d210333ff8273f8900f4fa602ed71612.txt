@@ -1,0 +1,31 @@
+<h2>Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>The Systems Engineer plays an essential role in the process of understanding customer needs, translating them into requirements and formulating affordable solutions. The Systems Engineer's activity is directed to the customer by the Marketing and Sales organizations. The Systems Engineer works closely with the customer and the Business Office and Engineering staff to create the solution with the best value for the customer. The Systems Engineer needs to have capabilities across technical, marketing and business areas.</p>
+<p>
+The successful candidate will be required to coordinate multi-disciplined teams of engineers in a consolidated effort to successfully deliver systems for microwave measurement of various test items such as antennas and radomes used in radar, communications, satellite data transfer and other applications.</p>
+</div>
+<br>
+<div>
+<ul>
+<li>Ability to merge diverse specifications in RF/Microwave measurements with a detailed understanding of mechanical design processes to deliver complex system solutions</li>
+<li>Strong analytical skills to understand complex technical systems and problem solve.</li>
+<li>Significant experience with proposals, customer interaction and systems design and analysis.</li>
+<li>Strong background in microwave antenna design is preferred.</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Must be able to team with many departments to develop solutions for the customer consistent with MI's business goals.</li>
+</ul>
+<p>
+</p>
+<p><b>Desirable Skills:</b></p>
+<ul>
+<li>RF system design, specification development and interpretation, microwave communications</li>
+<li>Hands-on experience with a variety of antenna test ranges and knowledge of mechanical positioning systems</li>
+<li>Familiarity with MATLAB, GRASP, HFSS and other industry analytical tools</li>
+</ul>
+<p>
+</p>
+<p><b>Experience Level:</b> 5 years of directly applicable industry experience</p>
+</div>
+<p></p>
+</div>

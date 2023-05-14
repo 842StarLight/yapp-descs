@@ -1,0 +1,103 @@
+<h2>Senior Manager - Data Analytics</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>FreeWheel, A Comcast Company, comprised of FreeWheel Publishers, FreeWheel Markets, and FreeWheel Advertisers – empowers all segments of The New TV Ecosystem. We are structured to provide the full breadth of solutions the advertising industry needs to achieve their goals. We power the technology, data enablement, and convergent marketplaces required to ensure buyers and sellers can transact across all screens, across all data types, and all sales channels, in order to ensure the ultimate goal – results for marketers. With offices in New York, San Francisco, Chicago, London, Paris, Beijing, and across the globe, FreeWheel, A Comcast Company, stands to advocate for the entire industry through the FreeWheel Council for Premium Video.</p>
+<p></p>
+<br>
+<br>
+<br>
+<div><div>
+<p><b>Senior Manager – Data Analytics</b></p>
+<p></p>
+<br>
+<p><b>
+Location: </b>Philadelphia<br>
+</p>
+<p></p>
+<p><b>Role Description</b></p>
+<ul>
+<li>
+Hands-on position that is accountable for the design, development, implementation, and support of the Big Data Analytics solutions on cloud in collaboration with Engineering and Data Operations team.</li>
+<li>
+Collaborate with business owners and teammates to solve business problems, which may include standard tool or custom algorithm development leveraging big data.</li>
+<li>
+Dive into large, noisy, and complex real-world customer TV and Digital Ad viewing data to do Marketing campaigns performance measurement using Big data Platform (DataBricks, Pyspark).</li>
+<li>
+Responsible for integrating data from multiple data sources (On-Premise &amp; Cloud) and create aggregated data sets for analytics.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Qualifications</b></p>
+<p></p>
+<br>
+<p><b>
+Functional Competencies:</b></p>
+<ul>
+<li>
+Strong understanding of database structures, query languages (e.g. SQL), fundamentals of mathematics, distributed systems (Hadoop), data science, and statistical concepts.</li>
+<li>
+Experience consolidating and integrating data from multiple sources (On-Premise &amp; Cloud).</li>
+<li>
+Ability to analyze, transform and aggregate large data sets (Big Data) using BI tools (Hive QL, Pyspark, Notebooks, AWS Athena, AWS Glue).</li>
+<li>
+Ability to covert Hive jobs to Spark Jobs using Pyspark and fine tune spark jobs for performance.</li>
+<li>
+Ability to Architect and Design Big Data Analytics solutions on cloud (AWS).</li>
+<li>
+Ability to build predictive models using historical data.</li>
+<li>
+Knowledge of Media/Advertising industry.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Interpersonal Competencies:</b></p>
+<ul>
+<li>
+Experience sharing insights and recommendations to audiences with varying levels of analytic understanding</li>
+<li>
+Ability to communicate complex concepts in easy-to-understand terminology</li>
+<li>
+Team player with a “can-do” attitude</li>
+<li>
+“Lean forward” bias to find opportunities and drive results
+</li>
+<li>Ability to work effectively across functions, disciplines, and levels</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Preferred Educational Level:</b></p>
+<ul>
+<li>
+BS or MS degree in Mathematics, Computer Science, Statistics, Operations Research, or related field of study</li>
+<li>
+Advanced degree (PhD) in a quantitative field (i.e., Statistics, Engineering, Machine Learning, Physics, Econometrics, etc.) is a bonus.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Experience:</b></p>
+<ul>
+<li>
+7+ years of experience in Big Data Analytics geared towards business intelligence and insights.</li>
+<li>
+4+ years of experience in Big Data Analytics solution architecture and design.</li>
+<li>
+1+ years of experience working with DataBricks, Pyspark and Azkaban</li>
+<li>
+Strong knowledge of SQL, Python and relational databases.</li>
+<li>
+Knowledge of AWS services such as Glue, Athena, Lambda, EC2, IAM, CloudWatch, EMR, S3 and Big data Query engines like Hive, Presto, Spark.</li>
+<li>
+Hands-on experience working with Big Data and building Data Analytics solutions on Cloud (AWS).</li>
+<li>
+Experience with, and knowledge of Tableau/Looker to conduct analysis of large data sets to derive business insights.</li>
+</ul>
+</div></div>
+<br>
+<br>
+<br>
+<p></p>
+<p>Comcast is an EOE/Veterans/Disabled/LGBT employer</p>
+</div></div>

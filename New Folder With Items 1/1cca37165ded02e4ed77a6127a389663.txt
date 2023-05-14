@@ -1,0 +1,86 @@
+<h2>Sr. Technical Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div><div>
+<div>
+<div>Fandango is looking for a highly motivated and detail-oriented Sr. Technical Product Manager to join our Fandango Commerce team. Our Commerce team manages the checkout experience across multiple platforms for Fandango’s suite of e-commerce sites. As Sr. Technical Product Manager, you will define and deliver innovative systems and services, collaborate with various stakeholders, both business and technical, and define product requirements to build and maintain a best in class commerce experience for the Fandango audience. If you live and breathe entertainment and have significant e-commerce product experience, this could be the perfect job for you. This position reports to the Director of Product, Commerce.<br>
+<div>
+Responsibilities:</div>
+<ul>
+<li> Define epics and user stories for multiple commerce systems and services, prioritizing backlog according to documented product strategy and business goals</li>
+<li> Write detailed and thorough technical requirements for developers and QA to build world class services</li>
+<li> Clearly articulate point of view on complex technical topics related to platform and technology in area of product responsibility. Align both technical and non-technical stakeholders on this common vision.</li>
+<li> Partner with cross-functional teams including Engineering, PMO, Quality Assurance, Business Intelligence, Finance/Accounting, Exhibitor Relations, Customer Service, Fraud, Ad Sales, Business Development and Product leads to unite towards a common goal</li>
+<li> Guide projects through launch and post-launch with hyper-care</li>
+<li> Identify customer needs, tech trends and market opportunities and deliver actionable solutions</li>
+<li> Define KPIs and analyze metrics to inform the success of products</li>
+<li> Provide product support on issues and incidents escalated into our delivery teams</li>
+</ul>
+</div>
+</div>
+<div>
+<p><b>Qualifications/Requirements</b></p>
+<div>Basic Qualifications:<br>
+<ul>
+<li>Bachelor’s degree, preferably in Computer Science, Computer Engineering or equivalent practical experience</li>
+<li>5+ years of Product experience, preferably in a technical product role</li>
+<li>Professional experience as a software engineer working in a back-end or full-stack capacity is a strong plus</li>
+<li>A strong understanding and passion for systems and services in digital commerce</li>
+</ul>
+<br>
+Eligibility Requirements<br>
+<ul>
+<li>Interested candidate must submit a resume/CV through https://www.fandango.com/careers to be considered</li>
+<li>Must be willing to work in Los Angeles, CA</li>
+<li>Must have unrestricted work authorization to work in the United States</li>
+<li>Must be 18 years or older</li>
+<li>It is the policy of NBCUniversal and NBCUniversal’s affiliated businesses to consider all qualified applicants for employment without regard to race, color, religion, national origin, sex (including pregnancy) sexual orientation, age, disability, veteran status or other characteristics protected by law.</li>
+</ul>
+</div>
+</div>
+<div>
+<p><b>Desired Characteristics</b></p>
+<ul>
+<li>Ability to conceptualize products, manage and optimize them throughout their lifecycle</li>
+<li>An understanding of current software design patterns and principles</li>
+<li>Strong working knowledge of RESTful APIs, microservices, and service dependency management</li>
+<li>Familiar with software build, release, deployment and monitoring tools and practices</li>
+<li>Familiarity with test driven and behavioral driven development practices</li>
+<li>Familiar with distributed systems design and architecture</li>
+<li>Familiar with stream processing and event driven architectures</li>
+<li>General familiarity with common networking, infrastructure, and security fundamentals</li>
+<li>Experience with payment processing, credit cards and alternative payment methods such as Apple Pay, PayPal, Google Pay and more</li>
+<li>Effectively communicate with technical and non-technical audiences, including executive leadership</li>
+<li>The ability to work well in a team environment and maintain a positive and professional tone across departments, SCRUM and JIRA experience a plus</li>
+<li>Excellent problem solving and analytical skills with the ability to evolve the product based on research data and industry trends</li>
+<li>Willingness to take ownership and drive initiatives to completion</li>
+</ul>
+</div>
+<div>
+<p><b>Sub-Business</b></p>
+<div>Fandango
+</div>
+</div>
+<div>
+<p><b>Career Level</b></p>
+<div>Experienced</div>
+</div>
+<div>
+<p><b>City</b></p>
+<div>Beverly Hills</div>
+</div>
+<div>
+<p><b>State/Province</b></p>
+<div>California</div>
+</div>
+<div>
+<p><b>Country</b></p>
+<div>United States
+</div>
+</div>
+<div>
+<p><b>About Us</b></p>
+<div>At Fandango, we love movies. From showtimes and ticketing, to engaging content and innovations in movie going- we strive to deliver the perfect movie going experience—anytime, anywhere. And to be the go-to destination for moviegoers, we think it’s all about collaboration. Anyone can build a website or app, but it takes a special group across many disciplines to create an experience that can live across multiple platforms and connected devices. Thanks to an exceptional team, we’re working hard to make Fandango a little bit better every day. Our 30 million (and growing!) online and mobile monthly visitors can now buy movie tickets at over 25,000 screens nationwide and stay for exclusive trailers, our award-winning original video series, movie reviews, celebrity interviews and more. So, if you’re looking to inspire, be inspired and work at the intersection of entertainment and technology look no further than Fandango. Visit Fandango.com/careers for a behind-the-scenes look at Fandango and follow us on LinkedIn for the latest news and updates. Fandango is an NBCUniversal Company.</div>
+</div>
+</div></div></div>
+<div></div>
+</div>

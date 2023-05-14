@@ -1,0 +1,39 @@
+<h2>Marketing Business Configuration Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>The Marketing Business Configuration Manager, will be responsible for establishing current and target state process and design to configure systems for the Marketing Transformation Team. The Marketing Business Configuration Manager will be required to assess the current state business and technical capabilities, design and configure desired future capabilities, manage to a target state, and provide a path to transition from the current to the target process based on business drivers and business objectives.<br>
+</div>
+<div></div>
+<br>
+<div>As a Pega Application Configuration Manager, this person will design, develop, test and implement workflow application in Pega 7 platform. The role will require rapid application prototyping with direct user interaction.
+</div>
+<div><b>Key responsibilities:</b></div>
+<ul>
+<li> Hands on development on Pega PRPC platform</li>
+<li> Identify opportunities for process and tool improvements; drive them from concept to implementation</li>
+<li> Adhere to Development standard throughout design, development and testing and incorporate Corporate Architectural Standards into application design specifications.</li>
+<li> Work with product owner and stakeholders on agreeing on refining business requirements and acceptance criteria.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+This role requires a wide variety of strengths and capabilities, including:</b></div>
+<ul><li> BS/BA degree or equivalent experience</li></ul>
+<ul><li> Strong Interpersonal and Collaborative Skill set and Acumen</li></ul>
+<ul><li> Strong JAVA development experience; Otherwise solid experience in other Object oriented language</li></ul>
+<ul><li> 5+ years of engineering experience within a large-scale or global enterprise, with core competency with Pega PRPC platform</li></ul>
+<ul><li> Minimum of 5 years hands on experience with Pega PRPC platform (7.2 and higher)- Preferred CSSA certified</li></ul>
+<ul><li> Experience designing and developing process based solutions or BPM (business process management)</li></ul>
+<ul><li> Experience working in a multi-functional matrix structured organization</li></ul>
+<ul><li> Experience delivering solutions to large scale Marketing and/or Sales organizations a strong plus.</li></ul>
+<ul><li> Experience in working on various rules and features like Flows, Activities, User Interface, Flow Actions, Agents, SLA, Correspondence, Security, Reports, Listeners (File, MQ), Connectors etc</li></ul>
+<ul><li> Experience in full PRPC implementation cycle including enterprise Class Structure design and Rulesets design</li></ul>
+<ul><li> Participate in an Agile / Scrum methodology to deliver high-quality software releases</li></ul>
+<ul><li> Good understanding of doing integration with third party APIs (Webservices, JSON, REST, XML etc.)
+</li></ul>
+<ul><li> Understanding of web concepts such as HTTP, SSL/TLS, HTML, CSS and JavaScript.</li></ul>
+<ul><li> Oracle/SQL and Scripting knowledge is highly desirable</li></ul>
+<ul><li> Understanding of software skills such as business analysis, development, maintenance and software improvement
+</li></ul>
+<ul><li> Knowledge of application, data and infrastructure architecture disciplines</li></ul>
+<ul><li> Ability to work collaboratively in teams and develop meaningful relationships to achieve common goals</li></ul>
+</div></div>

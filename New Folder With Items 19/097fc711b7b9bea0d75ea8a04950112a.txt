@@ -1,0 +1,70 @@
+<h2>Software Quality Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About NCR
+</b><br>
+NCR Corporation (NYSE: NCR) is the global leader in consumer transaction technologies, turning everyday interactions with businesses into exceptional experiences. With its software, hardware, and portfolio of services, NCR enables nearly 700 million transactions daily across retail, financial, travel, hospitality, telecom and technology, and small business. NCR solutions run the everyday transactions that make your life easier. NCR is headquartered in Atlanta, Georgia, with nearly 30,000 employees and does business in 180 countries.
+</p>
+<p></p>
+<p>As a Quality Engineer, you will be responsible for writing and executing test cases. You will be responsible to validate resolved defects and run regression scripts on scheduled releases. You will interact daily with other team members to ensure that a quality product is delivered in a timely manner. Strong customer dedication, drive for results, teamwork and problem-solving competencies are expected.
+</p>
+<p></p>
+<p><b>Key Requirements:
+</b></p>
+<p>Develops, executes, tracks and documents results for manual test cases for assigned projects and features using Jira and Zephyr
+</p>
+<p>Investigates product and effectively identifies where breakage may occur
+</p>
+<p>Review functional specifications, participate in design and provide input into test plans for assigned projects
+</p>
+<p>Provide input to existing software development cycle to improve/refine its impacts to the product release
+</p>
+<p>Contributes to status reports and summarizes testing progress in departmental and project team meetings
+</p>
+<p>Alerts more senior personnel and escalates when necessary if timetables and milestones are in danger of not being met
+</p>
+<p>Develops tests for future regression of projects/features
+</p>
+<p></p>
+<p><b>Basic Qualifications:
+</b></p>
+<p>Bachelor’s Degree in Computer Science or equivalent experience
+</p>
+<p>2+ Years related experience
+</p>
+<p>Experience with MS Office tools such as Excel, Word, and PowerPoint
+</p>
+<p>Excellent communication skills; Ability to effectively communicate and present across multiple business functions
+</p>
+<p>Experience working directly with customers and end users
+</p>
+<p>Practical experience with Quality Assurance processes, procedures and standards
+</p>
+<p>Basic knowledge of SQL and/or XML
+</p>
+<p>Understanding technical and usability aspects as they relate to quality
+</p>
+<p>Great attention to detail and analytical skills
+</p>
+<p></p>
+<p><b>Preferred Qualifications:
+</b></p>
+<p>Retail industry and/or Point-of-Sale product knowledge
+</p>
+<p>Experience working in a project team model
+</p>
+<p>Knowledge of QA roles within different SDLC models (e.g. Waterfall, Agile, RUP)
+</p>
+<p>Experience with a commercially available test management tool (e.g. Microsoft Test Manager, Zephyr, Quality Center)
+</p>
+<p>Experience with defect tracking tools including query/report creation
+</p>
+<p></p>
+<p><b>EEO Statement
+</b><br>
+Integrated into our shared values is NCR’s commitment to diversity. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. NCR does not discriminate in employment based on sex, age, race, color, creed, religion, national origin, disability, sexual orientation, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.
+<br>
+<br>
+<b>Statement to Third Party Agencies
+</b><br>
+To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.</p>
+</div></div>

@@ -1,0 +1,121 @@
+<h2>Software Engineering Team Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>Matrix Solutions</b> makes media happen by helping media companies to better monetize their content. Its flagship product, Monarch, is the only global ad sales platform built for media – transforming chaotic data into actionable sales information that delivers the insights necessary for prospecting, managing, evaluating and closing business. The company manages more than $13 billion in media ad revenue, offering its best-in-class analytics, sales intelligence, media-specific CRM, buy-side aggregation and sales tools to more than 10,000 media sellers to more efficiently manage their workflow.</div>
+<div></div>
+<br>
+<div>
+Based in Pittsburgh, PA, Matrix has a proven technology platform and an outstanding team with wide-ranging media expertise. The company is customer-focused through the capabilities it offers, and how the platform is implemented, delivered, and supported. This holistic approach to customer success is why we boast a near 100% renewal rate from existing customers. The success of Matrix comes as a direct result of hard work across our customers' experience and a steadfast focus on media sales.</div>
+<div></div>
+<br>
+<div>
+As Software Engineer Team Lead on the Matrix Solutions team, you will create and deliver solutions that represent broadcast television and digital workflows, leveraging industry developments including the TIP initiative, digital sales standards and emerging sales business models. A successful candidate will have the ability to work with multiple Development and Product Teams to solve customer business problems. As a key stakeholder, the Software Engineer Team Lead will guide, instruct, and collaborate with members on the Agile Product Development team through developing effective applications and mentoring others.</div>
+<div></div>
+<br>
+<div><b>
+Core Responsibilities and Focus</b></div>
+<div></div>
+<br>
+<div><b>
+Lead</b></div>
+<ul>
+<li>
+Lead a team of software engineers and testers through every aspect of delivering a SaaS product.</li>
+<li>
+Be comfortable wearing many hats, getting deep into the details, and contributing where necessary</li>
+<li>
+Focus on results, not just getting work done. Set goals and go for them.</li>
+<li>
+Promote processes and practices that allow the team to sustainably deliver high-quality software at a rapid pace. Make it easy for others to succeed.</li>
+<li>
+Create an environment of trust, optimism, and positivity that allows your team to blossom.</li>
+<li>
+Communicate well and frequently, keeping senior management and teammates informed of status, risks, and opportunities.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Create</b></div>
+<ul>
+<li>
+Build enterprise web applications using a variety of tools and languages, including AngularJS, C#/ ASP.NET Core, SQL, and Azure Functions.</li>
+<li>
+In collaboration with Product Management, ensure the needs of the customer or business is understood by the Software Team so that our solutions satisfy those needs effectively.</li>
+<li>
+Build an effective product.</li>
+<li>
+Lead design discussions and ensure designs align with the Matrix architecture vision.</li>
+<li>
+Influence the architecture vision by exposing risk areas, identifying technical debt, and identifying opportunities. Help move the capabilities of the platform forward.</li>
+<li>
+Understand best modern practices; a good eye for UI design is an asset.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Learn</b></div>
+<ul>
+<li>
+Help build a culture of learning and continuous improvement.</li>
+<li>
+Reduce waste in the development process by identifying and removing friction.</li>
+<li>
+Grow your teammates by providing feedback, guidance and mentoring.</li>
+<li>
+Be eager to learn and unafraid to do things you've never done before.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Essential Skillset and Experience</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+Web development experience with C#, ASP.NET Core, and JavaScript. The ability to code at a high-level is a must.</li>
+<li>
+Working knowledge of SQL and relational database design.</li>
+<li>
+Experience developing applications on Microsoft Azure or other cloud platforms, including serverless architecture approaches.</li>
+<li>
+The ability to see the big picture and ensure that each step drives towards a long-term vision.</li>
+<li>
+Have a good balanced understanding of coding, testing, infrastructure, and general software delivery.</li>
+<li>
+Experience building and delivering SaaS products in collaboration with Product Management.</li>
+<li>
+Excellent communication and team-building skills.</li>
+<li>
+A strong desire to solve problems and provide creative solutions.</li>
+<li>
+An interest in networking with other technical and business peers outside the walls of Matrix Solutions.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Bonus Points</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+Experience managing people or in a technical leadership role is a plus.</li>
+<li>
+Familiarity or interest in functional programming, particularly a working knowledge of F#.</li>
+<li>
+Solid software architecture skills, including an understanding of message or event-driven architectures.</li>
+<li>
+An understanding of Agile or XP-influenced methods.</li>
+<li>
+A strong understanding of product management best practices.</li>
+<li>
+Have experience coding analytic or reporting applications, particularly against large datasets.</li>
+<li>
+Experience guiding AI initiatives.</li>
+<li>
+Experience with automated testing and an understanding of automated testing best practices.</li>
+<li>
+Familiarity with startup culture, or experience working within other SaaS companies.</li>
+</ul>
+<p>
+SikDRkmrrO</p>
+</div></div>

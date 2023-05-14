@@ -1,0 +1,82 @@
+<h2>Salesforce Integration Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About Us</b></p>
+<p>
+Appirio, a Wipro Company helps customers create next-generation Worker and Customer Experiences using the latest cloud technologies. Our free-thinking consultants deliver unmatched customer value by creating actionable strategies, delivering results quickly, and helping organizations adapt to a new experience-driven era. We do this by harnessing the power of one of the world’s largest crowdsourcing communities and thousands of pre-built solution accelerators. Appirio is a trusted partner to some of the world’s largest brands, including YP, Cardinal Health, Coca-Cola, eBay, Facebook, Home Depot, Sony PlayStation, Moen, and IBM.</p>
+<p><b>
+Brief Summary of Role</b></p>
+<p>
+The Integration Architect will work with customers to analyze their requirements, architect and design solutions, and implement cloud to cloud and cloud to on-premise integration solutions.</p>
+<p><b>
+Responsibilities</b></p>
+<ul>
+<li>
+Participate in pre-sales calls to conduct feasibility assessment and provide creative solutions and level-of-effort estimates for customer requests and requirements.</li>
+<li>
+Evaluate middleware solutions and make customer-specific recommendations</li>
+<li>
+Define system architecture for data integration and data management</li>
+<li>
+Clearly articulate integration best practices, design patterns, best practices, and recommendations to customer IT teams and also business sponsors.</li>
+<li>
+Provide solution and integration development with cloud and on-premise software including requirements, functional specs and integration design.</li>
+<li>
+Lead the integration of business processes across disparate systems.
+</li>
+<li>Drive the integration workstream including definition, design, implementation and go live activities.
+</li>
+<li>Work on multiple customer projects concurrently</li>
+<li>
+Review, monitor project teams adherence to coding standards &amp; implementation framework.</li>
+<li>
+Document project <i>best practices, learning and</i> share with the consulting team.</li>
+<li>
+Mentor consultants &amp; onboard new consultants to Salesforce Integration.</li>
+</ul>
+<p><b>
+Education and Required Experience (Requirements)</b></p>
+<ul>
+<li>
+B.S. degree in Computer Science, Software Engineering, MIS or equivalent combination of education and experience</li>
+<li>
+Excellent written and verbal communication skills</li>
+<li>
+10+ years of experience with technical implementations of customer projects</li>
+<li>
+5+ years of experience as an Enterprise Architect</li>
+<li>
+Salesforce certifications like System or Application architect.</li>
+<li>
+Expertise with technology standards – BPM, SOA, B2B,EAI</li>
+<li>
+Experience with technology frameworks - TOGAF, ITIL, CMMI</li>
+<li>
+Expertise with data management, SQL and RDBMS technologies, SOA design principles</li>
+<li>
+Expertise with SOAP/REST-based services, SQL, Apex, SOQL, XML, JavaScript,JSON, OData.</li>
+<li>
+Application development experience with Javascript, XML, HTTP, Java, C++, ASP, SQL</li>
+<li>
+Deep knowledge of project management principles</li>
+<li>
+Enthusiastic, ultra-professional, and confident personality, with a focus on customer success</li>
+<li>
+Excellent listening skills to fully understand the customer requirements and pain points</li>
+<li>
+Ability to translate customer requirements into implementation plans</li>
+<li>
+Technical acumen to convert plans into real solutions that work</li>
+<li>
+Prior experience in consulting is a plus</li>
+<li>
+Strong analytical and structured problem solving skills</li>
+<li>
+Driven by customer success with a team player attitude</li>
+<li>
+Located and able to work in the U.S. and able to travel up to 40-60%</li>
+<li>
+For US only, Not eligible for Visa Sponsorship</li>
+</ul>
+<p><i>
+We are an Equal Opportunity, Affirmative Action employer. Minorities, women, veterans and individuals with disabilities are encouraged to apply.</i></p>
+</div></div>

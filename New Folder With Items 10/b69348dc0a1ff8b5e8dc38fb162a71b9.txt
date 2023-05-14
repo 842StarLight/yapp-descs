@@ -1,0 +1,73 @@
+<h2>AppD Senior Sales Engineer - San Francisco</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>About Us</b><br>
+<div>AppDynamics is the Application Intelligence company. With AppDynamics, enterprises have real-time insights into application performance, user performance and business performance so they can move faster in an increasingly sophisticated, software-driven world. Our integrated suite of products is built on our innovative, enterprise-grade App iQ Platform that enables our customers to make faster decisions that enhance customer engagement and improve operational and business performance. AppDynamics is uniquely positioned to enable enterprises to accelerate their digital transformations by actively monitoring, analyzing, and optimizing complex application environments at scale which has led to proven success and trust with the Global 2000.
+<br>
+<br>
+<b>About You</b>
+<br>
+<br>
+To be a successful Sales Engineer at AppDynamics, you need to have experience in a sales engineer or customer-facing role, and be passionate about technical sales and working with customers. Ideally, you are ambitious and self-motivated, and have experience with application performance management technologies and techniques and Cloud and Big Data technologies. Other qualifications we are looking for include:
+<ul>
+<li>3-5 years experience working with at least one of the following languages: Java, .NET, PHP, JavaScript</li>
+<li>
+Experience and competence working at OS command lines including Unix, Linux and Window command prompts.</li>
+<li>
+Experience with Unix/Linux/Windows shell scripting</li>
+<li>
+Knowledge of basic networking components and concepts. Ability to troubleshoot basic networking issues that may prevent communication between hosts</li>
+<li>
+Experience with web servers and common relational databases used in today’s application architectures. Ability to understand SQL.</li>
+<li>
+Excellent communication and presentation skills</li>
+<li>
+Passionate about technical sales and working with customers</li>
+<li>
+Ambitious and self-motivated with a high emotional IQ</li>
+<li>
+Ability to work on multiple opportunities &amp; POCs concurrently</li>
+<li>
+Highly coachable with a strong desire to improve and grow as a professional</li>
+<li>
+Travel up to 50%</li>
+</ul>
+<b>Desired Experience &amp; Skills</b>
+<ul>
+<li>Experience with application performance management technologies and techniques</li>
+<li>
+Experience with Cloud and Big Data technologies</li>
+<li>
+Experience with common .NET web application architecture frameworks, distribution mechanisms and messaging components such as ASP.NET, ASMX, WCF, MSMQ, etc.</li>
+<li>
+Experience with common Java web application architecture frameworks, distribution mechanisms and messaging components such as servlets, struts, Spring, EJB, web services, RMI, JMS, MQ-Series, etc.</li>
+</ul>
+<b>About the Role</b>
+<br>
+<br>
+As a Sales Engineer at AppDynamics, you will be responsible for providing world class pre-sales technical support to the sales team. Working directly with customers you will be the subject matter expert on application performance management and AppDynamics. You will be responsible for delivering product demonstrations that directly address customer pain and emphasize AppDynamics’ industry leading APM solutions. During the sales cycle, you will lead the proof of concepts, demonstrating AppDynamics’ ability to meet and exceed customer requirements, often in the customer’s production environment. Finally, you will have the opportunity to work directly with our Product Management, Engineering, Customer Success, and Marketing teams to share your knowledge and experiences to ultimately improve our business and our customers’ success.
+<br>
+<br>
+<b>Perks</b><br>
+<br>
+We know that the award winning culture at AppDynamics is something to brag about, but here are more reasons that make you excited to get out of bed to come in the morning, like:
+<ul>
+<li>Medical, dental, vision coverage</li>
+<li>
+401k match (4.5%)</li>
+<li>
+Wellness perks (gym, hobbies, education, store discounts, personal finance)</li>
+<li>
+4 weeks PTO, 5 days VTO, 14 holidays (including 1 birthday PTO and 1 floating holiday)</li>
+<li>
+Mandatory company shut down between Christmas and New Years</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Just a Note</b></h2>
+<br>
+Note to Recruiters and Placement Agencies: AppDynamics does not accept unsolicited agency resumes. Please do not forward unsolicited agency resumes to our website or to any AppDynamics employee. AppDynamics will not pay fees to any third party agency or firm and will not be responsible for any agency fees associated with unsolicited resumes. Unsolicited resumes received will be considered property of AppDynamics.
+<br>
+<br>
+AppDynamics is an equal opportunity employer and considers all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, protected veteran status, or any other unlawful factor. AppDynamics complies with all applicable laws, including those regarding consideration of qualified applicants with criminal histories (such as the San Francisco Fair Chance Ordinance). If your disability makes it difficult for you to use this site, please contact talent@appdynamics.com. AppDynamics participates in E-Verify.
+<br>
+<br>
+#appd_jobs</div>
+</div></div>

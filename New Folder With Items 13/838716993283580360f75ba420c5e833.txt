@@ -1,0 +1,80 @@
+<h2>Front End Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">We are searching for front-end JavaScript engineers to join our expanding team. In this role you will be responsible for building and supporting client-side functionality for JPMorgan’s eXecute platform.
+<br><br>
+J.P. Morgan Markets eXecute is our award winning Single Dealer Platform for pricing, execution, and post trade management of forex, options, emerging markets, commodities, and rates products.
+<br><br>
+https://www.jpmorgan.com/global/cib/markets-investor-services/execute-app
+<br><br>
+<b>Our business vision is simple:</b><br>
+Maintain and extend #1 industry leadership.
+<br><br>
+Implement low latency and high availability infrastructure.
+<br><br>
+Best-in-class cross-asset client platform and operational capabilities.
+<br><br>
+JPMM eXecute has a global development team of 25+ focused on providing technology solutions to solve our clients’ needs. The team partners with the global Markets Execution, Sales and Trading businesses and has responsibility for client-facing technology deliveries providing thousands of users with capabilities covering electronic trading, pre-trade analytics and post trade operations.
+<br><br>
+<b>Responsibility for:</b><br>
+Building and supporting client-side functionality for JPMorgan’s eXecute platform.
+<br><br>
+Working with BAs and UX to perform technical analysis of client requirements.
+<br><br>
+Contributing to clean, scalable, modular, well structured, and testable code.
+<br><br>
+<b>Opportunity to:</b><br>
+Use the latest tools, languages and frameworks.
+<br><br>
+Work with a large and friendly team who have a wealth of experience
+<br><br>
+Learn about financial markets from experienced colleagues and extensive training resources.
+<br><br>
+Influence application architecture, development processes and contribute to internal frameworks and libraries.
+<br><br>
+See direct impact of your contributions on the trading floor and from client feedback from around the globe.
+<br><br>
+Be highly motivated with a track record of success.
+<br><br>
+Have experience in building high-performance front-end applications.
+<br><br>
+Have a clear understanding of messaging technologies and back-end services.
+<br><br>
+Have in-depth knowledge of JavaScript and its idiosyncrasies.
+<br><br>
+Have strong computer science foundations.
+<br><br>
+Have a clear understanding of OO and functional programming paradigms.
+<br><br>
+Have experience in full software development lifecycle with agile methodologies.
+<br><br>
+Have experience in test driven development using modern source control and continuous integration.
+<br><br>
+Have experience leveraging modern frameworks, libraries, tools and languages.
+<br><br>
+<b>Ideally, you would also:</b><br>
+Have experience in Investment Banking, FinTech, or Financial Markets
+<br><br>
+Have experience with the following tools &amp; technologies
+<br><br>
+TypeScript
+<br><br>
+React
+<br><br>
+Redux
+<br><br>
+Immutable.js
+<br><br>
+RXJS
+<br><br>
+Webpack, Grunt and NPM
+<br><br>
+Electron, web workers and multi-process architecture
+<br><br>
+Automation and TDD with Karma and Jasmine
+<br><br>
+Our Corporate &amp; Investment Bank relies on innovators like you to build and maintain the technology that helps us safely service the world’s important corporations, governments and institutions. You’ll develop solutions for a bank entrusted with holding $18 trillion of assets and $393 billion in deposits. CIB provides strategic advice, raises capital, manages risk, and extends liquidity in markets spanning over 100 countries around the world.
+<br><br>
+When you work at JPMorgan Chase &amp; Co., you’re not just working at a global financial institution. You’re an integral part of one of the world’s biggest tech companies. In 14 technology hubs worldwide, our team of 40,000+ technologists design, build and deploy everything from enterprise technology initiatives to big data and mobile solutions, as well as innovations in electronic payments, cybersecurity, machine learning, and cloud development. Our $9.5B+ annual investment in technology enables us to hire people to create innovative solutions that will not only transform the financial services industry, but also change the world.
+<br><br>
+At JPMorgan Chase &amp; Co. we value the unique skills of every employee, and we’re building a technology organization that thrives on diversity. We encourage professional growth and career development, and offer competitive benefits and compensation. If you’re looking to build your career as part of a global technology team tackling big challenges that impact the lives of people and companies all around the world, we want to meet you.
+<br><br>
+@2019 JPMorgan Chase &amp; Co. JPMorgan Chase is an equal opportunity and affirmative action employer Disability/Veteran.</div>

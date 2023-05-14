@@ -1,0 +1,112 @@
+<h2>Senior Oracle Applications Technical Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>Founded in 1866, The Sherwin-Williams Company is a global leader in the manufacture, development, distribution, and sale of paints, coatings and related products to professional, industrial, commercial, and retail customers. The company manufactures products under well-known brands such as Sherwin-Williams®, Valspar®, HGTV HOME® by Sherwin-Williams, Dutch Boy®, Krylon®, Minwax®, Thompson’s® Water Seal®, Cabot® and many more. Sherwin-Williams® branded products are sold exclusively through a chain of more than 4,100 company-operated stores and facilities, while the company’s other brands are sold through leading mass merchandisers, home centers, independent paint dealers, hardware stores, automotive retailers, and industrial distributors. The company supplies a broad range of highly-engineered industrial and OEM coatings for wood and general industrial, coil, packaging, protective and marine, and transportation applications worldwide. Our 60,000 employees are diverse, innovative and passionate. With a variety of rewarding and challenging opportunities, Sherwin-Williams is a great place to find a career that takes you places.<br>
+</div>
+<div>
+<br>
+</div>
+<div>The Senior Oracle Applications Technical Analyst role will assist with developing, maintaining and facilitating the framework and standards for the Oracle EBS Application and Tech Stack with a focus on Disaster Recovery and Tech Stack / Application upgrades. They will help to establish a Center of Excellence for these and other Oracle and Non-Oracle applications and tools. They will assist with the revision of Development Standards. They will use their technical experience to help with evaluation, acquisition, adoption and usage of tools that promote application and resource efficiencies within Global Supply Chain IT. They will partner with business and IT personnel in support of these efforts. They will utilize their technical knowledge and skills wherever possible in support of these and other projects.<br>
+<br>
+<b>Essential Functions</b><br>
+<br>
+<b>Strategy &amp; Planning</b><br>
+<ul>
+<li>Assist the Manager of Tools and Framework in establishing and maintaining standards and framework for Disaster Recovery and Application Patching.</li>
+<li>Analyze, plan and facilitate projects that exercise these frameworks in order to keep the Oracle EBS Application, Tech Stack and related technologies current and highly available.</li>
+<li>Assist in the development of a five year plan for Oracle EBS instance and capacity planning.</li>
+<li>Collaborate with fellow analysts and developers to assess, establish and continuously improve existing development standards.</li>
+</ul>
+<br>
+<b>
+Acquisition &amp; Deployment</b><br>
+<ul>
+<li>Identify, evaluate, support and proliferate tools to enhance efficiencies within the Oracle EBS “Ecosystem”, it’s integrations and those resources that support them.</li>
+<li>Acquire and develop an understanding of existing tools and recommend best practice changes to how those are deployed for use by our IT teams.</li>
+<li>Gather requirements and recommend industry best practices.</li>
+</ul>
+<br>
+<b>
+Operational Management</b><br>
+<ul>
+<li>Proliferate knowledge, standards and training for our tools to IT teams to allow them to develop or make use of these tools for their own purposes.</li>
+<li>Provide support of the tools and standards managed by the team.</li>
+<li>Create process flows along with detailed functional and technical design documentation.</li>
+<li>Assist with targeting, identifying and scheduling Oracle Application and Tech Stack upgrade versions to keep application release levels current.</li>
+<li>Assist with Oracle EBS Instance and Capacity Planning activities across all Global environments.</li>
+<li>Proactively create and work through service requests with vendor support as needed.</li>
+<li>Coordinate work efforts with the DBA and middleware teams throughout application change control processes.</li>
+<li>Document and recommend best practices relating to Oracle custom responsibilities, security profiles, menus, and user account provisioning.</li>
+</ul>
+<br>
+<b>
+Incidental Functions</b><br>
+<ul>
+<li>Assist with large scale projects may be required to contribute to efficiency, effectiveness and success of the work.</li>
+<li>Conduct research into new technologies, tools, components, and frameworks.</li>
+<li>Make presentations to management, clients, and peer groups as requested.</li>
+<li>Train and share knowledge with development teams.</li>
+<li>Participate in hiring activities and fulfilling affirmative action obligations and ensuring compliance with the equal employment opportunity policy.</li>
+</ul>
+</div>
+<ul>
+<li>May occasionally travel (domestic and international).</li>
+<li>Work outside the standard office 8 hour work day may be required.</li>
+</ul>
+<br>
+<b>
+Position Requirements</b><br>
+<br>
+<b>Formal Education &amp; Certification</b><br>
+<ul><li>Bachelor degree or foreign equivalent in a related field or equivalent experience.</li></ul>
+<br>
+<b>
+Required Knowledge &amp; Experience</b><br>
+<ul>
+<li>5+ years IT experience.</li>
+<li>5+ years Oracle EBS application development and tech stack (Apps Server, Forms Server and Database) experience.</li>
+<li>Experience with Oracle Applications and Tech Stack Patching.</li>
+<li>Proven Oracle EBS development expertise and experience with Oracle Databases, including skills in Oracle SQL and Oracle PL/SQL.</li>
+<li>Knowledge and familiarity with the following: Linux/Unix Shell Scripting, Oracle Workflow Builder, Oracle Approvals Management (AME), Oracle Forms (or other equivalent), Oracle Reports/Oracle BI Publisher (or other equivalent), Oracle Alerts, Oracle Application Framework, Oracle Application Development Framework (ADF), Oracle Application Express (APEX), Java.</li>
+<li>Must be well versed with creating and understanding data models and data flow diagrams.</li>
+<li>Knowledge and experience with seeded and custom APIs for applicable Oracle EBS modules.</li>
+</ul>
+<br>
+<b>
+Preferred Qualifications and Skills</b><br>
+<ul>
+<li>Reporting and Business Intelligence experience with Oracle Discoverer and Oracle Business Intelligence Enterprise Edition.</li>
+<li>Experience with event-driven enterprise architecture with Oracle SOA Suite and Oracle Application Integration Architecture (AIA).</li>
+<li>Experience with ETL/ELT development with Oracle Data Integrator (ODI) or other packages.</li>
+<li>Expertise with database integrated development environments such as Quest TOAD, Oracle SQL Developer and PL/SQL Developer.</li>
+<li>Experience in Java development.</li>
+<li>Experience in Enterprise Scheduling with BMC Control-M.</li>
+<li>Experience in working with version control and software configuration management tools including Subversion, CVS, HP Project and Portfolio Management (PPM).</li>
+<li>Oracle Certification.</li>
+</ul>
+<br>
+<b>
+Personal Attributes</b><br>
+<ul>
+<li>Strong written and oral communications skills.</li>
+<li>Proven ability and initiative to learn and research new concepts, ideas, and technologies quickly.</li>
+<li>Strong systems/process orientation with demonstrated analytical thinking, organization skills and problem solving skills.</li>
+<li>Ability to work in a team-oriented, collaborative environment.</li>
+<li>Ability to quickly pick up new tools and technologies.</li>
+<li>Willingness and ability to train and teach others.</li>
+<li>Ability to facilitate meetings and follow up with resulting action items.</li>
+<li>Ability to prioritize and execute tasks in a high-pressure environment.</li>
+<li>Strong presentation and interpersonal skills.</li>
+<li>Ability to work effectively in a globally focused multi-cultural environment, and to lead and influence cross-organizationally with and without direct authority.</li>
+<li>Ability to effectively move forward on tasks even with ambiguous or changing requirements.</li>
+</ul>
+<div></div>
+<br>
+<div>
+</div>
+<div>
+Equal Opportunity Employer. All qualified candidates will receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information, creed, citizenship status, marital status, or any other consideration prohibited by law or contract. VEVRAA Federal Contractor requesting priority referral of protected veterans.</div>
+</div>
+<p></p>
+</div>

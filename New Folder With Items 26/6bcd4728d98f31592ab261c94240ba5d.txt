@@ -1,0 +1,77 @@
+<h2>Salesforce Solution Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div>
+<div>We are hiring a Salesforce Solution Developer to join our Business Systems team. You will work with our business analysts and solution developers, design and develop solutions, as well as implement 3rd party applications to extend the capabilities of our current environment. Our Salesforce environment is integrated to many other applications. You may be using ETL, APIs, 3rd party tools, and Web Services to achieve needed integrations.</div>
+<div>
+</div>
+<div>
+This role reports to the Director, Business Systems and requires a high degree of collaboration with technical and business team members. Technical acumen combined with business process knowledge and an ability to deliver effective solutions within the overall strategy will be your key to success.</div>
+<p></p>
+<h2 class="jobSectionHeader"><b>Responsibilities</b></h2>
+<ul>
+<li>Provide Salesforce subject expertise related to application architecture, data, integration, security, technology, mobile, and analytics.</li>
+<li>
+Collaborate with business owners and technical team to understand business requirements, design, and document solutions.</li>
+<li>
+Assess solution and design options and provide them along with work effort estimates.</li>
+<li>
+Participate in peer solution and code review processes.</li>
+<li>
+Recommend platform, third party, and technologies to solve complicated business requirements, utilizing best practices.</li>
+<li>
+Design, develop, test and document solutions across salesforce platform; Force.com, Sales Cloud, Community, Managed packages (e.g.- Salesforce CPQ, Financial Force), Einstein, Heroku etc. in accordance with application lifecycle development standards, and with data quality as a primary focus.</li>
+<li>
+Design and develop integrations between applications and other systems, utilizing middleware (Dell Boomi).</li>
+<li>
+Ensure that documentation is accurate and well written.</li>
+<li>
+Participate in agile application development process; sprint planning, story estimation, solution and technical documentation, release planning and execution.</li>
+<li>
+Ensure all changes have successfully passed regimented testing process.</li>
+<li>
+Document solution release step details (change controls, data migrations, and step by step order of operations) required to enable delivery manager to release changes to production.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Qualifications</b></h2>
+<ul>
+<li>A minimum of 7 years of technical experience with Salesforce.com.</li>
+<li>
+Extensive development experience with Salesforce development technologies, process builder, flow, workflow, API, SOSL, SOQL,web services, Apex, App builder.</li>
+<li>
+Prior experience providing technical solutions with Salesforce CPQ.</li>
+<li>
+Strong problem-solving skills with the ability to work on multiple assignments in a fast-paced and rapidly changing work environment.</li>
+<li>
+Experience with bi-directional integrations between Salesforce and other business applications using middleware, such as Dell Boomi.</li>
+<li>
+Proven ability to design and optimize solutions focused on data quality.</li>
+<li>
+Active Salesforce certifications desired.</li>
+<li>
+Proven track record of successful project execution with agile methodology.
+</li>
+<li>Working knowledge of Jira and Confluence.</li>
+<li>
+Excellent verbal and written communication skills. Ability to communicate complex issues in a concise easy to follow manner is essential.</li>
+<li>
+Proven track record working in a fast-paced and agile team, focused on strong execution.</li>
+<li>
+Knowledge of the lead to cash lifecycle in a subscription-based SaaS business.</li>
+<li>
+Quick learner with ability to figure things out with minimal supervision and adjust to changing priorities on the fly.</li>
+</ul>
+<p></p>
+<div>Dynatrace provides software intelligence to simplify enterprise cloud complexity and accelerate digital transformation. With AI and complete automation, our all-in-one platform provides answers, not just data, about the performance of applications, the underlying infrastructure and the experience of all users. That’s why many of the world’s largest enterprises trust Dynatrace to modernize and automate enterprise cloud operations, release better software faster, and deliver unrivaled digital experiences.</div>
+<div>
+</div>
+<div>
+We offer competitive compensation, company-sponsored premium benefits, medical, dental, vacation/holidays, company matching 401(k) Plan, etc. Dynatrace is an equal opportunity employer and VEVRAA Federal Contractor. We consider all qualified applicants of diverse background and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities, age, sexual orientation, veteran status, or any other characteristic protected by law. If your disability makes it difficult for you to use this site, please contact recruiting@dynatrace.com. Dynatrace participates in E-Verify, participant information in English and Spanish. Right to work information in English and Spanish. EEO is the Law/EEO is the Law Supplement.</div>
+<div>
+<br>
+</div>
+<div>
+Note to Recruiters and Placement Agencies: Dynatrace LLC (Dynatrace) does not accept unsolicited agency resumes. Please do not forward unsolicited agency resumes to our website or to any Dynatrace employee. Dynatrace will not pay fees to any third party agency or firm and will not be responsible for any agency fees associated with unsolicited resumes. Unsolicited resumes received will be considered property of Dynatrace.</div>
+<p></p>
+<p> All positions</p>
+</div></div>
+</div>

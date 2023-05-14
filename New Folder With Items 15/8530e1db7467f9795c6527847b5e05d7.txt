@@ -1,0 +1,31 @@
+<h2>Data Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div>Over 5-8 years of experience in Information Technology<br>
+<ul>
+<li>3+ years of experience in Salesforce and Data Analysis</li>
+<li>Develop applications on the Salesforce platform.</li>
+<li>Strong experience in Agile/Scrum methodologies</li>
+<li>Strong in SQL, pl/sql including stored procedures, functions, triggers, and views.</li>
+<li>Experience with DST Systems for investor, investment, advisor/intermediary, and asset</li>
+</ul>
+distribution for direct and intermediary sales of mutual funds, alternative investments,<br>
+securities , brokerage accounts, and retirement plans.<br>
+<ul>
+<li>Develop comprehensive E2E test cases at the application and multi-application levels.</li>
+<li>Determine and document user requirements for business processes and abide by those requirements for future projects.</li>
+<li>Integrate application plug-ins to using web services and APIs</li>
+<li>Experience with Apex, Triggers, Visualforce, Java, JavaScript, REST, and SOAP</li>
+<li>Experience integrating SalesForce with other enterprise applications and 3rd party applications</li>
+<li>Demonstrate technical analysis, technical solution design, software engineering support,</li>
+</ul>
+and product function expertise to the business, implementing Salesforce solutions<br>
+<ul>
+<li>Develop lightning apps/components, page layouts, data fields, sharing rules, list views</li>
+<li>Develop ad hoc and customized reports and dashboards</li>
+<li>Technical competency to quickly learn new Salesforce features and major launches</li>
+<li>Provide technical guidance to the team and mentor them.</li>
+<li>Experience with Data Loader, Flow, Process Builder and other automated actions</li>
+<li>Proven knowledge and practical application of Visualforce, Lightning, APEX programming,</li>
+</ul>
+APIs, and Web Services.<br>
+<ul><li>Good to have knowledge in Salesforce</li></ul>
+</div></div></div>

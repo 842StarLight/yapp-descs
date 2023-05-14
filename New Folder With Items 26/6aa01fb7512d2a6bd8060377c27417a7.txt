@@ -1,0 +1,49 @@
+<h2>Senior Product Security Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Mavenlink seeks a thoughtful, enthusiastic Senior Product Security Engineer to join us on our San Francisco R&amp;D team. The role primarily consists of full stack development to improve the security of our software stack, as well as opportunities to shape the future of product security at Mavenlink.<br>
+<br>
+Mavenlink is a mature SaaS platform helping service organizations to manage their businesses. Substantial customer growth is bringing interesting security challenges that we’d like your help with.<br>
+<br>
+Our team culture emphasizes collaboration, communication, and enthusiasm for helping each other. We use agile values to evolve our practices. You will work next to our DevOps, Tooling and Architecture teams and influence the way our entire R&amp;D team builds and delivers secure software.<br>
+<br>
+What You'll Do:<br>
+<ul>
+<li>Be an evangelist for secure coding and secure software design to the team
+</li>
+<li>Establish patterns and tooling around secure development practices
+</li>
+<li>Work directly with R&amp;D Leadership to establish and achieve quarterly product and infrastructure security goals
+</li>
+<li>Act as a point of triage and escalation for inbound security reports (we use HackerOne)
+</li>
+<li>Work to maintain and improve the overall security of customer-facing infrastructure, including production infrastructure and our software development lifecycle
+</li>
+<li>Contribute positively to team culture
+</li>
+</ul>Your opinion, voice and experience will be valued, and you’ll have our support in pursuing your ideas.<br>
+<br>
+This is a senior individual contributor role reporting directly to the VP of Platform and Security, and there are opportunities to grow into a leadership role in security, if desired.<br>
+<br>
+What We're Looking For:<br>
+<ul>
+<li>Commitment to contributing to an inclusive workplace
+</li>
+<li>Experience contributing to complex application development efforts
+</li>
+<li>Proficient with web application security
+</li>
+<li>Experience with security by design and defense in depth for cloud-based applications
+</li>
+<li>Experience with penetration testing
+</li>
+<li>Knowledge of security best practices for public clouds (AWS or GCP preferred)
+</li>
+<li>Experience with Ruby on Rails, React &amp; Redux is a plus • Appreciation for agile/XP approaches to software development
+</li>
+</ul>
+<div>
+<h3 class="jobSectionHeader"><b>About Mavenlink</b></h3>
+<p>Mavenlink is a Software as a Service platform for running professional services businesses. Our customers include companies like design agencies, architecture firms, and IT consultancies—any company that bills their clients for their time. We help these businesses plan project staffing, deliver projects, manage budgets, and understand company performance.</p>
+<p>Founded in 2008, we’re now over 250 employees with strong sales growth. We have a mature, productive startup culture combined with company stability and reliability. Our recent $39M investment round led by Goldman Sachs validated our progress and positioned us for continued success.</p>
+</div>
+<h6 class="jobSectionHeader"><b>Mavenlink is an Equal Opportunity Employer.</b></h6>
+</div></div>

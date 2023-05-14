@@ -1,0 +1,99 @@
+<h2>Design Engineer - Motors</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div>
+<p>JOB DESCRIPTION</p>
+<br>
+<p></p>
+<p><b>ORGANIZATIONAL STRUCTURE</b></p>
+<p>BUSINESS: A&amp;D</p>
+<p>LOCATION: Corona, CA</p>
+<p>DIRECT REPORTING: Engineering Manager</p>
+<br>
+<p></p>
+<p>CIRCOR | Aerospace Product Brands (<b>Aerodyne Controls</b>, <b>Circle Seal Controls</b>, <b>Bodet</b>, <b>Industria</b>,<b> Motors</b>, <b>Loud Engineering</b>, <b>U.S. Para Plate</b>) are manufactured in Corona, California, Hauppauge, New York; Paris, France; Uxbridge, UK; and Tangier, Morocco. CIRCOR Aerospace is headquartered in Corona, California.</p>
+<p>Focused on the design, development, and manufacture of specialty fluid and motion control products for demanding aerospace and defense applications. CIRCOR Aerospace products are flying on most commercial and military aircraft, including single and twin aisle air transport, business and regional jets, military transports and fighters, and commercial and military rotorcraft. Other markets include unmanned aircraft, shipboard applications, and military ground vehicles.</p>
+<p><b>Corona A&amp;D HQ</b></p>
+<br>
+<p></p>
+<p>CIRCOR Aerospace Inc. (CAI) was created in 2008, merging legacy brands Circle Seal Controls, Loud Engineering and Manufacturing and Aerodyne Controls. Legacy brand Motor Technology has also recently merged under CIRCOR Aerospace. CAI California is focused on the design and manufacturing of specialty fluidic control, actuation, and aircraft landing gear systems for demanding aerospace and defense applications. CIRCOR Aerospace products are found on nearly every aircraft, military vessel, and space vehicle in operation today.</p>
+<br>
+<p></p>
+<p><b>KEY PRODUCTS/ APPLICATIONS
+</b></p>
+<ul>
+<li>Motor-operated valves</li>
+<li>Hydraulic and fuel manifolds</li>
+<li>Check and relief valves</li>
+<li>Sampling and bleed valves</li>
+<li>Float and shutoff valves</li>
+<li>Pressure gauges and regulators</li>
+<li>Cryogenic valves</li>
+<li>Automatic drain valves</li>
+<br>
+</ul>
+<p></p>
+<p><b>BRANDS</b></p>
+<ul>
+<li>Circle Seal Controls</li>
+<li>CIRCOR Aerospace</li>
+<li>CIRCOR Motors</li>
+<li>LOUD Engineering</li>
+<li>S. Para Plate</li>
+<br>
+</ul>
+<p></p>
+<p><b>POSITION DETAILS</b></p>
+<p><b><i>Position Summary</i></b></p>
+<p>The Motor Design Engineer supports the design effort of motors and electro-mechanical actuation devices and works under technical supervision of a Sr. Principal Engineer or Engineering Manager.</p>
+<p>This position requires interactions with other engineering associates, suppliers, and applicable departmental assignees (production, sales, quality, program management, etc.) in Concurrent Engineering environment to develop producible and economical design solutions.</p>
+<p>Hands-on participation in the test laboratory and related design validation, prototype development, as well as product preparation activities.</p>
+<p><b><i>Principal Activities</i></b></p>
+<ul>
+<li>Performs DC Brushed and Brushless Motor Design (Mechanical and Electrical), with types such as Frameless, Gear-motor and Brake-motor.</li>
+<li>Reviews customer motor RFQ and specifications, develops preliminary design concepts and prepares technical proposals for new business opportunities</li>
+<li>Prepares Design 3D models, 2D drawings, Bills of Materials (BOMs), and all design related documentation or reports.</li>
+<li>Performs tolerance stack-ups, fits and clearances, and stress, strain and flow calculations as required.</li>
+<li>Performs analytical and/or experimental testing as necessary to demonstrate soundness of the design.</li>
+<li>As defined in the CIRCOR New Product Introduction procedures, the Design Engineer works with Sr. level Engineers, Manufacturing Engineering, Quality Engineering, Procurement, Operations and Program Management to ensure designs are efficient to manufacture and inspect, and within cost targets.</li>
+<li>Investigates production problems when called upon and searches for solutions; advises and assists other department members on design issues.</li>
+<li>Completes forms and relevant documentation within the Engineering department for change management, procurement, fabrication and testing.</li>
+<li>Generates applicable test and assembly procedures and reports for design verification and manufacturing.</li>
+<li>Initiates requests and supports fabrication of prototypes and order special materials when required, as well as any fixtures and tooling needed.</li>
+</ul>
+</div></div>
+<p></p>
+<br><div><div>
+<p>JOB REQUIREMENTS</p>
+<p><b><i>Knowledge, Skills &amp; Abilities</i></b></p>
+<p><b>Experience:</b></p>
+<ul>
+<li>3+ years applicable experience in development, installation, testing and certification of DC brushed, DC brushless motors and electro-mechanical actuation devices. Motor fabrication experience preferred.</li>
+<li>SolidWorks (preferred)</li>
+<li>MathCAD, Simulink or Equivalent Engineering Software Tools</li>
+<li>Motor Design Software such as Magsoft, Infolytica, Flux2D, Flux3D, SPEED, MotorSolve</li>
+<li>LabView experience is a plus</li>
+<li>MS Office</li>
+<li>ASME Y14.5</li>
+<li>Stress Analysis – Linear. FEA experience is a plus.</li>
+<li>Seal Design</li>
+<li>Structural Mechanics - Fastening Methods, Torque Design, Material Selection</li>
+<li>Machine Elements in Mechanical Design - Strength of Materials, Processing, Finish, etc.</li>
+<li>Heat Transfer</li>
+<li>Tolerance Analysis</li>
+<li>Technical Writing – Technical Proposals, Assembly and Test Procedures Reports, Failure Analysis</li>
+<li>Compatibility - Lubricants, Service Media, Materials</li>
+<li>Knowledge of electronics and EMI</li>
+ </ul>
+<p><b><i>Education<br>
+</i></b></p>
+<p></p>
+<ul>
+<li>Minimum of Bachelor's degree (B.S.) in Mechanical Engineering or Aerospace Engineering from a four-year college or university.</li>
+<br>
+</ul>
+<p></p>
+<p><br>
+<br>
+<b>CIRCOR is an EEO Employer of Females / Minorities / Veterans / Individuals with Disabilities</b></p>
+</div></div>
+</div>

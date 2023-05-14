@@ -1,0 +1,40 @@
+<h2>Big Data and Analytics Cloud Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Note: By applying to this position your application is automatically submitted to the following locations: <b>New York, NY, USA; Cambridge, MA, USA</b><p>
+Minimum qualifications:</p>
+<ul>
+<li>
+Bachelor's degree in a Technical or Engineering field or equivalent practical experience.</li>
+<li>5 years of experience designing and deploying distributed data processing systems with one or more technologies (MySQL, Cassandra, MongoDB, Hadoop, Spark).</li>
+<li>Experience architecting, developing and/or maintaining production-grade cloud solutions in virtualized environments.</li>
+<li>Ability to travel 40% of the time.</li>
+</ul>
+<br>
+<p>Preferred qualifications:</p>
+<ul>
+<li>
+5 years of experience reading software code in one or more programming languages (Java, JavaScript, Python, etc.).</li>
+<li>Experience in systems design, with the ability to architect or explain complex systems interactions including data flows, common interfaces, APIs and methods available.</li>
+<li>Ability to work well with a cross-functional, geographically dispersed team and customer base.</li>
+<li>Effective cross-functional project management and stakeholder management skills.</li>
+<li>Excellent presentation and communication skills, with a focus on translating business requirements into technology solutions.</li>
+</ul>
+<div>
+<h2 class="jobSectionHeader"><b>About the job</b></h2>
+<p>
+As a Big Data and Analytics Cloud Consultant, you will work directly with Google’s most strategic customers on critical projects to help them transform their businesses. You will provide management, consulting and technical expertise to customer engagements while working with client executives and key technical leaders to deploy solutions via Google’s Cloud Platform. You will also work closely with key Google partners currently servicing key accounts to manage programs, deliver consulting services, provide technical guidance and best practice expertise.<br>
+<br>
+You possess a diverse background with cloud solutions in areas such as architecture design, infrastructure migration, and deployment strategies. To be successful, you know how to navigate ambiguity, have extensive experience working with cloud technologies, have technical depth and enjoy working with client executives. You also possess excellent communication and project management skills.</p>
+<p>
+Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what’s next for their business — all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers and developers see the benefits of our technology come to life.</p>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<ul>
+<li>Interact with sales/partner leads and technical stakeholders to translate complex customer requirements into recommendations for appropriate solution architectures and consulting services.</li>
+<li>Provide a point of escalation for customer inquiries and serve as the first point of contact to Google for consulting services.</li>
+<li>Work with customer technical leads, client executives, and partners to manage and deliver successful migrations to cloud solutions.</li>
+<li>Work closely with practice areas, Product and Engineering to package best practices and lessons learned into thought leadership, methodologies, and published assets.</li>
+<li>Understand customer needs and help shape Google’s long-term product strategy. Be an advocate for Google’s product innovation story.</li>
+</ul>
+</div>At Google, we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.</div></div>

@@ -1,0 +1,42 @@
+<h2>Oracle CPQ Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b><i>Zyston is looking for an accomplished Oracle CPQ Developer Consultant.</i></b><br>
+<b><i>
+</i></b><br>
+<b><i>BML experience is a </i></b><b><i>necessity </i></b><b><i>for this role.</i></b></p>
+<p><b><i>C# development is a strong bonus.</i></b></p>
+<br>
+<p></p>
+<p><b>Your responsibilities</b></p>
+<p>Oracle CPQ Systems Engineer to develop and maintain all Configure, Price and Quote (CPQ) solutions for the Sales Technology area of IT. This position is responsible for understating the overall architecture direction and provide solutions for the CPQ Cloud Applications.</p>
+<ul>
+<li>Engage sales leaders to engineer CPQ technology solutions that drive and support the sales quoting process</li>
+<li>Interact with business stakeholders, client enterprise architects, vendor technical representatives, and the CPQ program, design, development, test, and product teams</li>
+<li>Coordinate with the CPQ Platform Architecture and development team to document and ensure product solutions support business needs, follow strong architectural principles, use system resources efficiently, and integrate cleanly with the CPQ application and technical architecture</li>
+<li>Provide overall guidance regarding strategies and techniques for the CPQ product solutions</li>
+<li>Collaborate with onshore and offshore developers as necessary to deliver product enhancements and product definitions in an agile delivery mode</li>
+<li>Responsible for the architecture, functional specification, technical design documentation, implementation and support of CPQ processes and with emphasis on Oracle CPQ (Big Machines) solutions</li>
+<li>Design, configure, and develop custom code/objects using the Oracle CPQ (Big Machines) BML and developer toolkit</li>
+<li>Develop integrations with other systems including CRM and ERP systems</li>
+<li>Manage product proprietary and confidential product pricing and configuration information</li>
+<li>Maintain best practices around CPQ solutions including product configuration, administration, proposal development, and related elements</li>
+<br>
+</ul>
+<p></p>
+<p><b>Your profile</b></p>
+<ul>
+<li>5-10 years' experience with off-the-shelf applications for configure, price, and quote solutions (expert level)</li>
+<li>A minimum bachelor’s degree in computer science, engineering, directly related field or experience.</li>
+<li>Experience with the full software development life cycle using Agile methodologies</li>
+<li>Experience working with external vendors</li>
+<li>Experience with coordinating work and providing guidance to less-experienced CPQ developers</li>
+<li>Strong technical, analytical and problem-solving skills to quickly troubleshoot and solve production issues</li>
+<li>Previous experience with working in a large global company environment</li>
+<li>Ability to evaluate requirements and provide accurate work estimates</li>
+<li>Strong communication skills and the ability to work well with others at all levels of the organization</li>
+<li>Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions</li>
+</ul>
+</div>
+<p></p>
+</div>

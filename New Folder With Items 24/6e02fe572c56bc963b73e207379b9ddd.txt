@@ -1,0 +1,60 @@
+<h2>.NET Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>About the Opportunity: </b></p>
+<p>We are looking for .NET developer with experience developing for enterprise-class Web content management systems, preferably SDL Tridion Sites and/or SDL Docs. Sitecore experience is a plus. This position will be based in Washington, D.C. or Richmond, VA and be part of a smart team of consultants providing services for some of the world’s biggest brands.</p>
+<p><b>What you’ll be doing: </b></p>
+<ul>
+<li>Develop software solutions for SDL Tridion Sites and Tridion Docs platforms</li>
+<li>Work as part of a team developing applications and services using Agile development methods</li>
+<li>Contribute to team and organizational improvements in process</li>
+<li>Object oriented design and relational data modeling</li>
+<li>Optimization of the application for maximum speed and scalability</li>
+<li>Implementation of security and data protection</li>
+<li>Implementing automated testing platforms and unit tests</li>
+<li>Establish best practices for CMS solution development</li>
+<li>Support Business/Sales Initiatives</li>
+<li>Stay current with development, tools, and technologies</li>
+<li>Work directly with clients and vendors</li>
+<li>Work as an individual or part of a team</li>
+<li>Some travel may be required (less than 25%)</li>
+</ul>
+<p><b>Qualifications: </b></p>
+<ul><li>Bachelor’s degree, preferably in a Computer Science, Business, or IT field</li></ul>
+<p>Expertise ( &gt;=2 years) in .NET CMS systems, preferably Tridion or Sitecore</p>
+<ul>
+<li>Familiar with RESTful APIs and Headless CMS Best Practices</li>
+<li>Familiar with Current Development Tools</li>
+<li>Familiar with Micro-Services</li>
+<li>Familiar with SQL and NoSQL database technologies</li>
+<li>Familiar with CI/CD process</li>
+<li>Self-directed and motivated technical team member capable of delivering reliable and maintainable solutions</li>
+<li>Basic understanding of front-end technologies and platforms, such as JavaScript, HTML5, and CSS3</li>
+<li>Strong Communications Skills</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $65,000.00 to $85,000.00 /year</p>
+<p>Job Type: Full-time</p>
+<p>Salary: $65,000.00 to $85,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>.NET: 2 years (Preferred)</li>
+<li>relevant: 1 year (Preferred)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Location:</p>
+<ul><li>Richmond, VA (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Preferred)</li></ul>
+<p>Required travel:</p>
+<ul><li>25% (Preferred)</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Paid time off</li>
+</ul>
+<p>Schedule:</p>
+<ul><li>Monday to Friday</li></ul>
+</div>

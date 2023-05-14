@@ -1,0 +1,122 @@
+<h2>SMTS IT Proj Manager - Salesforce & Einstein Analytics</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>What you’ll be doing...</b>
+</p>
+<p>You will help create and deliver system enhancements and dashboards for Einstein, Salesforce CRM, and related integrations including aligning to our mobile first strategy. Overseeing Einstein project work in JIRA to create user stories and managing projects through the agile system development lifecycle (SDLC) process, review deliverables from IT, and host calls with various teams to receive feedback and gain alignment on Einstein strategy and then work to execute that roadmap.</p>
+<p>
+This role will also be leading large projects and enhancements and will be responsible for engaging Finance, Compliance, Legal, Training, Go-To-Market (GTM), and others to ensure successful delivery and utilization in the field. You will help us quantify competitive business segments, evaluate potential operational changes, and design new approaches and methodologies. Working across the company, you’ll use your analytical expertise to identify trends, issues and opportunities, all with the goal of improving the customer experience and finding ways to make our business even better.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Performing statistical, data mining, and machine learning analysis on complex business problems.</li>
+<li>
+Building reporting capabilities for detailed analysis.</li>
+<li>
+Analyzing historical operations data and market information to predict future outcomes, working at times with large and disparate data sets.</li>
+<li>
+Identifying areas for improvement, incorporating best-in-class and cutting-edge techniques, and designing new approaches and methodologies.</li>
+<li>
+Creating results presentations for senior management that provide key business insights.</li>
+<li>
+Designing, implementing and maintaining Salesforce Einstein Analytics dashboards.</li>
+<li>
+Salesforce Administration responsibilities.</li>
+<li>
+Drive innovation &amp; optimization strategy for sales prospecting and enablement.</li>
+<li>
+Daily use and proficiency with JIRA/Confluence for all system projects.</li>
+<li>
+Perform analysis and research in support of requirements definition.</li>
+<li>
+Write and groom Einstein/Salesforce user stories using agile practices.</li>
+<li>
+Host value team and Daily Touch Point (DTP) calls for all projects.</li>
+<li>
+Prepare documents such as: solution diagram, use case list, process flows, functional design, wireframes.</li>
+<li>
+Finalize designs and confirm system requirements with all partners.</li>
+<li>
+Recommend process and system improvements.</li>
+</ul>
+<p><b>
+What we’re looking for...</b>
+</p>
+<p>We are looking for someone that has an in depth knowledge of agile software development methodologies as well as Einstein/Salesforce and related components in the Salesforce ecosystem. This person should be a self-starter who requires little supervision, has an eye for detail and strong analytical skills. A successful candidate will be expected to work on complex problems, propose creative solutions, and push for the right solution not the convenient one. This process includes contributing to building the business case and measures that prove out the ROI/business value of the enhancements.</p>
+<p>
+You are also good with numbers and you love to dig into data to find the story. Designing reports and spreadsheets is a fun afternoon for you. You are detail-oriented and know how to focus on what really matters. You understand the importance of accuracy in data analytics and reporting. You are a self-starter and a multitasker who can work independently under tight timelines. You want to make an impact by providing the data that will help improve the experience of our customers.</p>
+<p>
+You’ll need to have:</p>
+<ul>
+<li>
+Bachelor’s degreeorfour or more years of relevant work experience.</li>
+<li>
+Six ore more years of relevant work experience</li>
+<li>
+Knowledge and experience with SAQL, SOQL, JSON languages.</li>
+<li>
+Knowledge and experience with agile methodologies and other common SDLC methods.</li>
+<li>
+Experience delivering Einstein or Salesforce projects using agile methodology.</li>
+<li>
+Strong knowledge of Einstein/Salesforce components and how they interact.</li>
+<li>
+Strong communication and presentation skills along with the ability to thrive in a dynamic environment and handle multiple priorities.</li>
+<li>
+Willingness to travel.</li>
+</ul>
+<p></p>
+<p>
+Even better if you have:</p>
+<ul>
+<li>
+Bachelor’s degree in Business, IT</li>
+<li>
+Strong PowerPoint, Excel, Paint/Photoshop, Visio/Lucidchart experience</li>
+<li>
+Knowledge of and experience in Business Intelligence Tools such as Salesforce Einstein, Teradata, Tableau.</li>
+<li>
+Experience with SQL &amp; Hadoop.</li>
+<li>
+Experience building models using SAS, Python, or R.</li>
+<li>
+Analyzed data, built reports and presentations, and made recommendations.</li>
+<li>
+Certifications in Salesforce Einstein Analytics.</li>
+<li>
+Experience gaining insights from data and relating findings to business partners and executives.</li>
+<li>
+Experience creating and executing against a planned roadmap.</li>
+<li>
+Strong partnership skills to work with external agencies and multiple internal stakeholders.</li>
+<li>
+Strong negotiation skills and experience with external vendors.</li>
+<li>
+Understanding of Business solutions, customers, products and services.</li>
+<li>
+Desire and ability to quickly learn and adapt to new technologies.</li>
+<li>
+Experience with Lightning, Einstein Analytics (WAVE), Marketo, Lattice.</li>
+<li>
+Salesforce vendor relationship management and AppExchange partner integrations.</li>
+<li>
+Salesforce Certifications.</li>
+<li>
+Previous experience working with a Salesforce implementation Partner.</li>
+<li>
+Experience with Business Sales in multiple sales channels.</li>
+<li>
+Proven history of gaining alignment from multiple organizations to adopt a consistent strategy.</li>
+</ul>
+<p><b>
+When you join Verizon...</b>
+</p>
+<p>You’ll have the power to go beyond – doing the work that’s transforming how people, businesses and things connect with each other. Not only do we provide the fastest and most reliable network for our customers, but we were first to 5G - a quantum leap in connectivity. Our connected solutions are making communities stronger and enabling energy efficiency. Here, you’ll have the ability to make an impact and create positive change. Whether you think in code, words, pictures or numbers, join our team of the best and brightest. We offer great pay, amazing benefits and opportunity to learn and grow in every role. Together we’ll go far.</p>
+<p><b>
+Equal Employment Opportunity</b>
+</p>
+<p>We're proud to be an equal opportunity employer- and celebrate our employees' differences,including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.</p>
+</div>
+<p></p>
+</div>

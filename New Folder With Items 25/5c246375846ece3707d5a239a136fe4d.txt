@@ -1,0 +1,114 @@
+<h2>Sr. Software Engineer - SAP Basis Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div><div>
+<div>
+<div>The SAP BASIS administrator will be a part of the Moody’s Shared Services team and will have several key responsibilities:<ul>
+<li>
+Implement SAP application installations, upgrades, enhancements, patches as needed and coordinate with technical, functional teams and business users.</li>
+<li>
+Participate in design sessions to understand business needs and functional / non-functional requirements and apply appropriate patterns and practices.</li>
+<li>
+Facilitate infrastructure architecture working sessions with network and operations teams.</li>
+<li>
+Implement appropriate level of monitoring and automation for proactive support of the SAP S/4 environment</li>
+<li>
+Proactively analyze SAP environment to detect deficiencies, recommend and implement solutions for improvement.</li>
+<li>
+Tune SAP environments to ensure integrity, stability, and optimal performance</li>
+<li>
+Demonstrates the ability to translate business needs into technical architecture requirements and understands the long-term and short-term perspectives of an IT investment situation</li>
+<li>
+Support and promote integration relationships between IT and business functions</li>
+</ul>
+</div>
+</div>
+<div>
+<p><b>Qualifications</b></p>
+<div>Candidates are expected to demonstrate experience in each of the above responsibilities and focus areas, with the following specific qualifications:<br>
+<ul>
+<li>
+BS in Computer Science, Mathematics, Business, Statistics or related technical field required.</li>
+<li>
+5+ years related work experience in infrastructure architecture in specific product stack that includes S/4 HANA, SAP SuccessFactors, S/4 BW, SAP Solution Manager, SAP BODS, SAP Fiori.</li>
+<li>
+Extensive experience in ABAP development, with both custom development and customizations to existing processes, including use of IDOCs, RFC, BAPI, BADI, ALV, LSMW, ABAP Workbench, Reports, SAP Scripts</li>
+<li>
+Deep knowledge of SAP Architecture with Hands-on experience with system installations and administration in both on-perm and cloud.</li>
+<li>
+Strong technical skills designing, developing, implementing applications through agile and waterfall SDLCs.</li>
+<li>
+Experience building and supporting mission-critical applications, running in a highly distributed manner</li>
+<li>
+Knowledge of business process technology implementation with regards to SaaS products for Sales, Customer Management, Product Management, Contract Management, Procurement, Billing, Finance, HR, and Financial Planning &amp; Forecasting.</li>
+<li>
+Knowledge of leading Business Intelligence/Reporting tools or reporting database design is preferred (Tableau, Microsoft BI, SAP Analytics Cloud)</li>
+<li>
+Experience with application security technologies and approaches</li>
+<li>
+Strong experience in developing services using SOAP, REST and messaging platforms</li>
+<li>
+Knowledge of SOA application development using ESB such as MuleSoft</li>
+<li>
+RDBMS experience developing and designing databases and SQL a plus</li>
+<li>
+Experience developing reactive distributed applications, real time data pipelines &amp; streaming applications, large-scale data processing applications, and Microservices</li>
+</ul>
+</div>
+</div>
+<div>
+<p><b>LOB/Department</b></p>
+<div>SAP CoE</div>
+</div>
+<div>
+<p><b>Job Req ID</b></p>
+<div>16368BR</div>
+</div>
+<div>
+<p><b>Entity</b></p>
+<div>Moody's Shared Services (MSS)</div>
+</div>
+<div>
+<p><b>Line of Business</b></p>
+<div>Moody's Information Technology (MIT)</div>
+</div>
+<div>
+<p><b>Regular/Temporary</b></p>
+<div>Regular</div>
+</div>
+<div>
+<p><b>City</b></p>
+<div>Charlotte</div>
+</div>
+<div>
+<p><b>Job Category</b></p>
+<div>Engineering &amp; Technology</div>
+</div>
+<div>
+<p><b>Job Sub Category</b></p>
+<div>Software Engineering</div>
+</div>
+<div>
+<p><b>Experience Level</b></p>
+<div>Experienced Hire</div>
+</div>
+<div>
+<p><b>Working at Moody's</b></p>
+<div>Moody's is an essential component of the global capital markets, providing credit ratings, research, tools and analysis that contribute to transparent and integrated financial markets. Moody's Corporation (NYSE: MCO) is the parent company of Moody's Investors Service, which provides credit ratings and research covering debt instruments and securities, and Moody's Analytics, which offers leading-edge software, advisory services and research for credit and economic analysis and financial risk management. The Corporation, which reported revenue of $4.4 billion in 2018, employs approximately 13,100 people worldwide and maintains a presence in 42 countries. Further information is available at www.moodys.com.</div>
+</div>
+<div>
+<p><b>Entity</b></p>
+<div>Moody’s Shared Services are the front line professionals including Finance, Technology, Legal, Compliance and Human Resources, that operationally support our business units. Exceptional Shared Services teams are vital to the international success of our business.</div>
+</div>
+<div>
+<p><b>EEO Policy</b></p>
+<div>Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, gender, age, religion, national origin, citizen status, marital status, physical or mental disability, military or veteran status, sexual orientation, gender identity, gender expression, genetic information, or any other characteristic protected by law. Moody’s also provides reasonable accommodation to qualified individuals with disabilities in accordance with applicable laws. If you need to inquire about a reasonable accommodation, or need assistance with completing the application process, please email accommodations@moodys.com.. This contact information is for accommodation requests only, and cannot be used to inquire about the status of applications.<br>
+<br>
+For San Francisco positions, qualified applicants with criminal histories will be considered for employment consistent with the requirements of the San Francisco Fair Chance Ordinance. For New York City positions, qualified applicants with criminal histories will be considered for employment consistent with the requirements of the New York City Fair Chance Act. For all other applicants, qualified applicants with criminal histories will be considered for employment consistent with the requirements of applicable law.
+<br>
+<br>
+Click here to view our full EEO policy statement. Click here for more information on your EEO rights under the law.</div>
+</div>
+<div>
+<p><b>Securities Trading Policy (STP)</b></p>
+<div>Candidates for Moody's Corporation may be asked to disclose securities holdings pursuant to Moody’s Policy for Securities Trading and the requirements of the position. Employment is contingent upon compliance with the Policy, including remediation of positions in those holdings as necessary.</div>
+</div>
+</div></div></div></div>

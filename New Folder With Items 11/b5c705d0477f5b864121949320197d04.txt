@@ -1,0 +1,84 @@
+<h2>Quality Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">-----------
+<br><br>
+<b>Who we are:</b><br>
+-----------
+<br><br>
+Our Company was founded on the idea that there are patterns in people's behavior that, with the right logic, can be used to predict future outcomes. We are a small but rapidly growing organization that works in partnership with our customers to create solutions that are simply not found anywhere else. We work in groups rather than in structured corporate hierarchies; our culture is creative and entrepreneurial where everyone contributes to company goals in very real way. We are a hardworking group, but we have a lot of fun with what we do and are looking for new people with a similar mindset to join the organization.
+<br><br>
+-----------
+<br><br>
+<b>What we do:</b><br>
+-----------
+<br><br>
+Our proprietary software-as-a-service helps automotive dealerships and sales teams better understand and predict exactly which customers are ready to buy, the reasons why, and the key offers and incentives most likely to close the sale. Its micro-marketing engine then delivers the right message at the right time to those customers, ensuring higher conversion rates and a stronger ROI.
+<br><br>
+As aM continues to expand its engineering community and mature in its Agile approach, the infrastructure required to rapidly build, test, and deliver assets will become increasingly complex.
+<br><br>
+-----------------
+<br><br>
+<b>What you will do:</b><br>
+-----------------
+<br><br>
+<ul>
+<li>Participate in and improve the whole lifecycle of services—from inception and design, through</li>
+</ul>
+deployment, operation, and refinement.
+<br><ul>
+<li>Participate in the release planning process to review functional specifications and create release plans.</li>
+<li>Collaborate with software engineers to design verification test plans.</li>
+<li>Design regression test suites and review with engineering, applications and the field organization.</li>
+<li>Produce regular reports on the status and quality of software releases and be prepared to speak to findings in an informative way to all levels of audience.</li>
+<li>Assess the quality, usability and functionality of each release.</li>
+<li>Develop and organize QA Processes for assigned projects to align with overall QA goals</li>
+<li>Lead and train a dynamically changing team of colleagues who participate in testing processes</li>
+<li>Exhibit expertise in handling large scale programs/projects that involve multiple stakeholders (Product, Dev, DevOps)</li>
+<li>Maintain a leading edge understanding of QA as related to interactive technologies best practices</li>
+<li>Design and implement test automation strategy for multiple product development teams at the onset of the project.</li>
+<li>Lead efforts for related automation projects, design and code reviews.</li>
+<li>Work closely with leadership and IT to provide input into the design and implementation of the automation framework.</li>
+<li>Work with Architecture, Engineering, Quality Engineering, IT, and Product Operations leaders to create and implement processes that accelerate the delivery of new features and products with high quality and at scale.</li>
+<li>Develop and contribute to a culture of high performance, transparency and continuous improvement as it relates to the infrastructure services and streamlining of the development pipeline.</li>
+<li>Participate in a diverse team of talented engineers globally, providing guidance, support and clear priorities.</li>
+</ul>
+------------
+<br><br>
+<b>Who you are:</b><br>
+------------
+<br><br>
+<ul>
+<li>Minimum of 2-4 years of Quality Engineering experience,</li>
+<li>Hands on experience with at least 2 or more of testing tools/framework like Selenium, Cypress, Test NG, Jmeter or Protractor</li>
+<li>Strong analytical skills and ability to solve complex technical problems,</li>
+<li>API testing - must have understanding of RESTful design / best practices. Hands on experience testing APIs and test tools</li>
+<li>Experience with load / stress / performance testing and tools,</li>
+<li>Experience with Azure DevOps (or other similar issue/bug tracking systems) is required,</li>
+<li>Ability to think abstract – to ensure ability to not conform to the norm. Norms do not find bugs quickly,</li>
+<li>Experience working in an Agile software development organization,</li>
+<li>Experience supporting development and product teams</li>
+<li>Excellent verbal, written, and interpersonal communication skills; ability to interact with all levels of an organization</li>
+<li>Ability to work in an advisory capacity to identify key technical and business problems, develop and evaluate alternative solutions and make recommendations</li>
+</ul>
+-------------
+<br><br>
+<b>Nice to have:</b><br>
+-------------
+<br><br>
+<ul>
+<li>Experience with Mobile automation - must have experience writing automated ui tests for iOS or Android</li>
+</ul>
+-----------------------
+<br><br>
+<b>Expected Hours of Work:</b><br>
+-----------------------
+<br><br>
+This is a full-time position. Generally, work is performed Monday through Friday, though holidays and weekends may be required.
+<br><br>
+---------------------------------------------
+<br><br>
+<b>We believe in equal employment opportunities:</b><br>
+---------------------------------------------
+<br><br>
+The company provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, the company complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+<br><br>
+The company expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of the company's employees to perform their job duties may result in disciplinary actions up to and including discharge.</div>

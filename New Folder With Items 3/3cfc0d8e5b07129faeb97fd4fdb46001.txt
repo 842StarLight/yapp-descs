@@ -1,0 +1,34 @@
+<h2>Data Warehouse Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Data Warehouse Developer</b></p>
+<p></p>
+<p>Spotify is looking for a Financial Data Warehouse developer to join our team of talented engineers and help contribute to our business intelligence and data visualization platform. You’d be joining a team that is responsible for developing data warehouse solutions that span multiple revenue streams at Spotify and provide for a data-driven decision making environment. Our data products support sales teams, financial forecasting, product insights, analyst reporting, performance management and much more.</p>
+<p>
+You will belong to a team that is primarily based in Stockholm, but has product representation in New York. You will additionally partner with business and engineering teams to prioritize requests and consistently deliver value against time-sensitive priorities. If you have a desire to exhibit and grow your technical skills, and are motivated by working directly with stakeholders, product managers and engineers, then this is a great opportunity to join the band.</p>
+<br>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+What you’ll do</b></h2>
+<ul>
+<li>Work in a Microsoft SQL Server stack together with the Google Cloud Platform technologies</li>
+<li>Get hands-on experience with Google Cloud Platform and technology/languages such as BigQuery, QlikSense, Tableau, Scala, and Scio.</li>
+<li>Work in an agile environment, with coordination between New York and Stockholm teams.</li>
+<li>Work closely with the product manager, end-users and stakeholders to understand, document, troubleshoot and analyze requirements for complex data solutions.</li>
+<li>Innovate our data products to create a single coherent platform with sources of truth that serve a plethora of product and data stakeholders.</li>
+<li>Research what fuels many of Spotify’s critical financial systems and product features such as advertising, engagement and consumption metrics.</li>
+<li>Gain technical expertise in building a data platform at scale to solve business, product, and technical use cases.</li>
+<li>Cross-departmental exposure and flexibility to engage with many teams in the company – both in Stockholm and New York.</li>
+<li>Communicate insights and recommendations to key stakeholders, engineering, data science and product partners.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>Who you are</b></h2>
+<ul>
+<li>You have 4+ years of experience in the development of high-quality database solutions.</li>
+<li>Well versed with SQL as a language and relational databases. MS SQL server experience is a requirement.</li>
+<li>Experience with and working knowledge of Google Cloud Platform products such as Big Query and GCS.</li>
+<li>Familiarity with data visualization tools such as Qlik Sense, Tableau or Google Data Studio is a plus.</li>
+<li>You have demonstrable critical thinking ability in order to analyze large data sets, and troubleshoot customer inquiries and data discrepancies.</li>
+<li>You have experience working with source control (GIT preferred)</li>
+<li>You have a Bachelors or Masters Degree in Physics, Math, Statistics, Computer Science or equivalent.</li>
+<li>You are self-motivated individual contributor and great teammate with the ability to multitask, prioritize and communicate progress in a rapidly changing environment</li>
+</ul>
+</div></div>

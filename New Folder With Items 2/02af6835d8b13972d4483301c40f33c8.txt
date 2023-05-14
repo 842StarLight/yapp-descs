@@ -1,0 +1,52 @@
+<h2>Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Email resume and cover letter to jobs@crawfishsystems.com</p>
+<p>
+As a Crawfish Systems Engineer you will be responsible for providing technical services and support to our customers and Crawfish sales team in pre-and post- sales engagements. Your Professional Services will include on-site support and remote services. The Systems Engineer must be a responsible, highly motivated, minimally managed individual capable of working in dynamic high-security environments.</p>
+<p></p>
+<h4 class="jobSectionHeader"><b>
+Key Responsibilities</b></h4>
+<p></p>
+<ul>
+<li>Assists sales team as required in areas including solution design, problem resolution, and client presentations.</li>
+<li>Performs onsite professional services including installations, upgrades, troubleshooting, data migrations, and assessments.</li>
+<li>Generates detailed documentation, presentations, and technical drawings.</li>
+<li>Maintains technical expertise in a broad range of related technologies.</li>
+<li>The candidate handles hardware and software issues related to storage systems.</li>
+<li>Reports directly to Crawfish Systems management.</li>
+</ul>
+<p></p>
+<h4 class="jobSectionHeader"><b>Job Requirements</b></h4>
+<p></p>
+<ul>
+<li>Demonstrated ability to have completed multiple, complex technical projects.</li>
+<li>Must have strong troubleshooting and analysis abilities; possess strong customer service and technical problem solving skills; and be someone who embraces challenges.</li>
+<li>A minimum of 8 years of industry experience in storage/system software and/or engineering product support role is required.</li>
+<li>Bachelor of Science in Engineering or Information Technology or equivalent related experience is required.</li>
+<li>In-depth Technical Knowledge In the Following Areas:<br>
+<br>
+<ul>
+<li>Storage technologies including RAID, SAN, NAS, Fibre Channel, iSCSI, Deduplication, Storage virtualization.</li>
+<li>Storage systems &amp; components including NetApp, Hitachi, EMC, 3Par, Brocade, Cisco, Qlogic, Emulex.</li>
+<li>Backup, Archival and file system solutions and technologies including NetBackup, BackupExec, Commvault, Legato, NDMP, Quantum DXi, DataDomain, VTL, Stornext, Enterprise vault.</li>
+<li>Disaster Recovery and High availability design and implementation.</li>
+<li>System Virtualization solutions including VMware Vsphere, Microsoft , and Citrix.</li>
+<li>Operating systems including Microsoft Windows Server platforms and various Linux offerings.</li>
+</ul>
+<br>
+</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Provide Subject-Matter Expert-level consultations.</li>
+<li>Ability to provide off-hours support.</li>
+</ul>
+<p></p>
+<h4 class="jobSectionHeader"><b>Clearance</b></h4>
+<p></p>
+<ul>
+<li>Secret or higher.</li>
+</ul>
+<p></p>
+<h4 class="jobSectionHeader"><b>Travel</b></h4>
+<p></p>
+<ul><li>Up to 70%.</li></ul>
+</div></div>

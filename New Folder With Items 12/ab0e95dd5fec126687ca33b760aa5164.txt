@@ -1,0 +1,66 @@
+<h2>Optical Network Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<h2 class="jobSectionHeader"><b>Job Brief</b></h2>
+<p>As a member of the Core Network Engineering team at Wave, you will be a key part of the team for designing, planning, implementing and maintaining the Wave optical, switching and routing network.</p>
+<br>
+</div>
+<div>
+<div></div>
+<div>
+<br>
+<div>
+<div>Description:</div>
+<div>
+<p>As an Optical Network Engineer, your responsibilities will include capacity planning, network design, network device maintenance and implementation, as well as serving as an escalation point for network events. Your skills will be called to review and create test scenarios prior to implementing changes to the network. You will act as an escalation point for network issues, combining superior troubleshooting, communication, and network management skills, to expedite problem resolution and act as a key point of contact between internal groups, vendors, and network peers. You will learn quickly and adapt to changes. You will maintain a high sense of urgency while staying cool under pressure. This position requires up to 30% travel.</p>
+<p>
+As a member of the Core Network Engineering team at Wave, you will be a key part of the team for designing, planning, implementing and maintaining the Wave optical, switching and routing network. Focusing on DWDM; deployments, testing, troubleshooting and maintenance.</p>
+<p><b>
+Responsibilities include:</b></p>
+<ul>
+<li>Managing core network capacity in co-operation with Engineering and internal customers.</li>
+<li>Design/ QC core network solution in cooperation with Engineering Architecture.</li>
+<li>Handle escalated trouble calls and work closely with the NOC, engineering, field technicians, and telecommunications carriers to resolve service issues.</li>
+<li>Act as an externally facing point of contact to facilitate handling of problem reports and maintain relations with customers, network peers and vendors.</li>
+<li>Act as an internally facing point of contact to escalate technical issues and communicate network status. Oversee and execute planned network maintenance work, minimizing impact to services.</li>
+<li>Assist IP Engineering with the deployments of core border and aggregation router configurations and switches.</li>
+<li>Manage and implement optical DWDM network components using NMS and devices specific interfaces (CLI/GUI.)</li>
+<li>Provisioning of complex customer services in accordance with product catalog and service orders.</li>
+<li>Work with Sales Engineering to design implementation solutions for customer requirements.</li>
+<li>Take directions and execute as needed. List of responsibilities is not all encompassing.</li>
+<li>This position reports out of Kirkland, WA and service areas include Western Washington and Oregon. Occasional out of state travel may be requested.</li>
+</ul>
+<p><b>Required Qualifications:</b></p>
+<ul>
+<li>5+ years of experience with an Internet service provider or enterprise-level network engineering.</li>
+<li>DWDM &amp; optical transport and transceiver knowledge.</li>
+<li>Ability to read and understand designs.</li>
+<li>System engineering, test and link analysis skills with vendor-specific tools (OSA, OTDR, Bert- 10/100g, Power meter.)</li>
+<li>Knowledge of industry standards, fiber/fiber management, electronics, AC-DC Wiring.</li>
+<li>Ability to use Visio, Excel, Power point, MS-Office.</li>
+<li>Experience with as-built documentation.</li>
+<li>Bachelor's Degree in related field; or equivalent combination of education and experience.</li>
+<li>Meticulous and detail oriented, works well with minimal supervision, ability to troubleshoot problems under pressure and provide analysis to senior management. Ability to train and mentor lower tier technicians.</li>
+<li>Work with vendors for quotes, service restoration and equipment returns.</li>
+<li>Work well with minimal supervision.</li>
+</ul>
+<p><b>Preferred Qualifications:</b></p>
+<ul>
+<li>DWDM Management; turnkey-conception to TTU.</li>
+<li>Familiarity with ADVA and MRV, Cisco, Juniper.</li>
+<li>High proficiency with network routing protocol troubleshooting skills in all of BGP, OSPF, ISIS, and MPLS and knowledge of TCP/IP, IPv6, Multicast, VRRP, HSRP, and SNMP protocols.</li>
+<li>Cisco certification CCNP, or higher preferred.</li>
+<li>BA or BS in EE/CS/CE or a similar field. In lieu of degree, relevant skills or equivalent experience.</li>
+<li>Experience with 100/200g coherent networks.</li>
+<li>Strong English-language written and oral communications skills with the ability to influence others with network engineering solutions.</li>
+</ul>
+<p><b>Diverse Workforce / EEO:</b><br>
+WaveDivision Holdings (WDH) recognizes and strongly supports the benefits of a diverse workforce, and strives to provide a culture that recognizes the unique contributions of each of our employees. WDH requires a drug test, background check, employment, and education verification as conditions of employment. WDH is an equal opportunity employer and will consider all qualified candidates regardless of race, color, religion, national origin, gender, age, marital status, veteran status, and the presence of a non-job related handicap or disability, or any other legally protected status.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div></div>
+</div>

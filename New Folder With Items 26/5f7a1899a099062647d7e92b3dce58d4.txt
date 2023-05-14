@@ -1,0 +1,52 @@
+<h2>Industrial IoT Application Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div>
+<p><b>Job Description:</b><br>
+Industrial Networking Solutions (INS) is seeking a highly motivated and accountable associate for an IoT Application Engineer position within our services group. INS Services provides our customers with the confidence that their IoT and Data Integration Systems are manageable, expandable, reliable and secure. We accomplish this with well-trained resources, world-class products and years of application experience. INS Services designs, deploys and supports open-architecture solutions for the manufacturing floor, process control systems and municipal control markets. Our approach delivers investment protection, operational efficiency and significantly reduces total cost of ownership.</p>
+<p>
+This position is responsible for engineering technical solutions for the customer’s edge computing, networking and hosted data strategy in the industrial networking market. In this role, the candidate will be involved with deploying edge PC technologies for remote IO and data monitoring, and then moving this data corporate data centers and/or cloud hosted applications for dashboarding, visualization and historization.</p>
+<p>
+This position is responsible for the technical support, technical solution and development for systems that promote the customer’s ruggedized networking strategy. INS engineered solutions will be in support of our customer’s culture of high quality, affordable, reliable and secure products. This position will frequently collaborate with customer leadership for best solution, and interface directly with operational and IT leaders.
+</p>
+<p><b>Qualifications</b></p>
+<ul>
+<li>Technical, Engineering or Computer Science degree or equivalent educational background.</li>
+<li>
+Experience with SCADA software systems and industrial protocols (Inductive Automation Preferred)</li>
+<li>
+Experience with edge computer operating systems such as Linux and Windows IoT.</li>
+<li>
+Experience with data transport technologies such as HTTP and MQTT.</li>
+<li>
+Experience with Microsoft technologies including Windows Server and SQL Server.</li>
+<li>
+Experience with development languages (python scripting, java, C#).</li>
+<li>
+Experience with cloud hosted technologies for Amazon Web Service and Microsoft Azure.</li>
+<li>
+Understanding of cellular networking applications including GSM, EDVO, HSPA, HSUPA and LTE.</li>
+<li>
+Excellent communication and collaboration with other associates.</li>
+<li>
+Proven technical writing skills on engineered solutions.</li>
+<li>
+Work duties will require frequent travel.</li>
+</ul>
+<p><b>Teamwork</b><br>
+This position requires a technical collaboration, and often requires a quick understanding of emerging technologies for unique solutions. This position requires an understanding and appreciation of multiple job roles, and frequently requires a team effort with sales, operations, management, IT and other engineering disciplines. This position must provide effective and positive feedback to INS team members on difficult solutions, and must be able to describe technical requirements to other team members for a successful solution.</p>
+<p><b>
+INS Benefits</b><br>
+We offer a comprehensive benefits package, including health and dental insurance, as well as a 401(k) program. We are proud to be an EEO employer. We maintain a drug‐free workplace and perform pre‐employment substance abuse testing and criminal background check.</p>
+<p><b>
+About Industrial Networking Solutions</b><br>
+Founded in 1998, INS is a value-added distributor of Internet of Things (IoT) and Industrial Internet of Things (IIoT) wired and wireless networking technology products, based in Richardson, Texas. In addition, INS provides engineering services to customers across many industries to help automate and transform their processes. While our industry-leading products and unrivaled engineering services are in great demand, we believe the success in INS’s 20+ years of growth is largely due to the quality of our personnel. We invest in technology training and on-the-job mentoring to help our team members grow to become knowledgeable professionals. INS believes in rewarding ambitious employees with wide-ranging career growth opportunities within our rapidly growing company. We invite those who are qualified and hard-working to apply and possibly start their career with us in the burgeoning IoT market. INS values its diverse and inclusive workplace and is an equal opportunity employer.
+</p>
+<p><b>Contact:</b> Dave Brewington<br>
+<b>HR Email:</b> hr@industrialnetworking.com<br>
+<b>E-Fax:</b> 972-865-8296<br>
+<b>Date Available:</b> Immediate<br>
+<b>Location:</b> Houston, TX<br>
+<b>Reference Code:</b> HR-Services</p>
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+</div>

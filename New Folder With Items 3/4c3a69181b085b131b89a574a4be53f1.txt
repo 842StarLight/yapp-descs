@@ -1,0 +1,56 @@
+<h2>Senior Business Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>This Senior Business Analyst is responsible for leading a project or leading major parts of a project in the design and implement of solutions in support of NFI customers. Key responsibilities include leading and supporting system design, configuring the system, aligning resources and assigning project tasks, testing the solution, developing and maintaining documentation, resolving issues, and providing support to users in Operations. This position reports to a Manager level role.</p>
+<p>Essential Duties &amp; Responsibilities:</p>
+<ul>
+<li>Lead or provide senior level support to the project lead on customer startup projects to deploy solutions for NFI customers. Insure that solutions adhere to the original design parameters of the project and support the solution through go live and the transition to the support team. Facilitate development activities to include; execution, testing, and quality assurance.</li>
+<li>Responsible for adhering to timelines, insuring the highest quality, moving the project team forward with urgency, and delivering frequent, timely, crisp communication to all stakeholders.</li>
+<li>Lead or participate as directed in the development of solution designs and design sessions with the Customer, Operations, Engineering and Sales for new customer startups and existing customers. This includes documentation, preparation, presentation, review and signoff.</li>
+<li>Responsible for leading the project team in all aspects of WMS configuration, including data integration specs, reporting and documentation.</li>
+<li>Lead solution testing efforts both internal and external with the customer to include; unit testing, integration testing, end to end testing, and coordination and support of user-acceptance.</li>
+<li>Facilitate agreement and sign-offs of solution designs from project stakeholders; Operations, Engineering, Sales, and Customer.</li>
+<li>Act as a liaison amongst the Customer, Operations, Engineering, and Sales during the start-up process. Work with the team to address customer issues quickly to keep projects on track.</li>
+<li>Track and manage project updates on all assigned projects in collaboration with the assigned PMO resource.</li>
+<li>Provide guidance and direction to develop Business Analysts II and Business Analysts I staff.</li>
+<li>Provide feedback to the Manager of Implementation Service for performance reviews and goal setting for Business Analyst II and Business Analyst I positions.</li>
+<li>Work with the other departments in IT to allocate resources to projects based on project plans and timelines.</li>
+<li>Facilitate the transition of customers to the Ongoing Demand and Support Services Teams upon completion of start-up requirements.</li>
+<li>Maintain and update documentation in alignment with the common framework.</li>
+<li>Identify and resolve system issues including root cause analysis.</li>
+<li>Provide train the trainers and end-user training as required.</li>
+<li>Develop advanced knowledge of the WMS applications.</li>
+<li>Utilize project management methodologies consistent with the common framework.</li>
+<li>Continuously find ways to improve processes, execution, and delivery.</li>
+</ul>
+<p>Competencies:</p>
+<ul>
+<li>Ability to work seamlessly as part of a team, demonstrate a strong Team commitment</li>
+<li>Outstanding problem solving abilities</li>
+<li>Effective communication skills</li>
+<li>Basic coaching and mentoring skills to assist in the development of Business Analysts and others on the project team</li>
+<li>Outstanding decision making skills and ability to take measured risks</li>
+<li>Ability lead and champion change</li>
+<li>Strong negotiation and collaboration skills</li>
+<li>Self-motivated with the ability to be a proactive problem solver</li>
+<li>Ability to learn new systems, processes and tools quickly and thoroughly</li>
+</ul>
+<p>Requirements:</p>
+<ul>
+<li>Degree - BA / BS in Supply Chain Management, Computer Science, Computer Engineering or a related field</li>
+<li>3+ years distribution/warehousing industry experience preferred</li>
+<li>Advanced experience with WMS configuration and testing</li>
+<li>Strong MS Office – Excel, Word, PowerPoint, Visio, Project, Access</li>
+<li>Basic relational database knowledge and SQL query experience for data mining.</li>
+<li>Strong interpersonal skills.</li>
+<li>Outstanding communication skills with the ability to communicate with all levels of the organization and with external customers, both written and oral.</li>
+<li>3+ years software solution design and implementation</li>
+<li>3+ years project management</li>
+<li>3+ years production support experience (level 3)</li>
+<li>Outstanding writing skills for both business and technical documentation.</li>
+<li>Ability to manage issues through completion.</li>
+<li>Knowledge of data integration formats (e.g. EDI, HTML, XML, SAP iDocs, MA txml, delimited files, and positional data files).</li>
+<li>Experience I designing and writing data integration maps.</li>
+<li>Travel 25% - 50%</li>
+</ul>
+<p>Job Type: Full-time</p>
+</div>

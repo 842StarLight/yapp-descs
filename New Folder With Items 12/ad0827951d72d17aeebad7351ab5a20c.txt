@@ -1,0 +1,53 @@
+<h2>SOC Operator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Job Overview
+<br><br>
+Act as the front-line in triaging, escalating, and communicating incidents that originate from production systems. Proactively monitor incident and ticket trends to feed into a Problem Management program to improve the stability of our systems. Work with Ops Engineering, Development, and Business Teams to solve issues that occur within these 24x7 environments.
+<br><br>
+Job Impact
+<br><br>
+This is one of the most important technical roles at Marchex – ensuring the stability, reliability, and
+<br><br>
+operational health of all our Production Systems. This role is vital in ensuring customer satisfaction through technical knowledge and expertise in IT practices that result in excellent time to detect, low time to engage, efficient communication, and ultimately prevent incidents in the ecosystem.
+<br><br>
+Team
+<br><br>
+The product and engineering teams at Marchex work on some of the hardest problems at the intersection of business and technology: we work with our customers across many service industries to better use digital analytics of phone calls to map out intent and drive data analysis from first contact to a closing sale.
+<br><br>
+The engineering teams develop, deploy, and maintain all of the software and systems that make these innovative solutions possible.
+<br><br>
+Outline of Duties and Responsibilities
+<br><br>
+<ul>
+<li>Monitor an event console for real-time incident events.</li>
+<li>Track incidents using a ticketing system and document all steps taken for future review.</li>
+<li>Manage customer impacting outage events, while maintaining communication to all key stakeholders and providing accurate timeline management.</li>
+<li>Manage a high-volume centralized email inbox</li>
+<li>Follow clearly documented resolution procedures for incidents and requests.</li>
+<li>Maintain Service Level Agreement (SLA) compliance for Time to Engage, Time to Escalate, and Time to Fix within the Service Operations Center.</li>
+<li>When unable to resolve issues at the Tier 1 level, escalate incidents to on-call engineers following clearly defined standard operating procedures (SOP).</li>
+<li>Provide clear and detailed verbal/written communications to both internal and external parties.</li>
+<li>Assist in maintaining systems and product documentation to ensure the highest level of knowledge within the SOC.</li>
+</ul>
+Experience, Skills and Qualifications
+<br><br>
+<ul>
+<li>Experienced Linux server based environments.</li>
+<li>Ability to communicate effectively at all organization levels and at different levels of technical knowledge.</li>
+<li>Proven ability to work effectively both independently or as a team member with peers and/or senior technical staff.</li>
+<li>BS degree or Military technology experience or equivalent experience is a plus.</li>
+<li>One or more of the following certifications highly desired: LPI, MCITP, Server+, Network+, CCENT, CCNA, ITIL.</li>
+<li>1+ years working within a 24x7x365 service/network operations center role is a plus.</li>
+<li>Experience with the ITIL or MOF based guidelines for service operations is a plus.</li>
+<li>Familiarity with fundamental networking/distributed computing environment concepts such as DNS, IP networking, routing, etc is a plus.</li>
+<li>Familiarity with fundamental concepts of relational database systems and corresponding query languages is a plus.</li>
+<li>Experience with shell scripting and automating tasks is a plus.</li>
+</ul>
+Working Conditions
+<br><br>
+The job conditions for this position are in a standard office setting. Employees in this
+<br><br>
+position use PC and phone on an on-going basis throughout the day. Limited corporate
+<br><br>
+travel may be required to remote offices or other business meetings and events. Must be able to rack and cable a 2U server (~40 pounds)
+<br><br>
+unassisted in a data center environment.</div>

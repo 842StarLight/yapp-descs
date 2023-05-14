@@ -1,0 +1,27 @@
+<h2>Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Arista Networks is seeking a candidate to provide pre-sales technical support and technical expertise to our customers and partners.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>Perform hands-on work with customers during product evaluations and post-sales</li>
+<li>Perform hands-on tests to validate customer proof-of-concept setups, network designs, and network deployments using new products and features</li>
+<li>Put together design guidelines and recommend improvements to customers for the networks they support</li>
+<li>Provide feedback to Product Management and Engineering</li>
+<li>Keep up-to-date on competitive solutions, products, and services</li>
+<li>Author white papers on technology and products</li>
+</ul>
+<p>Requirements:</p>
+<ul>
+<li>BSCS/CE</li>
+<li>Expert knowledge in the following areas: Ethernet, RSTP/ MSTP, VLANs, IP Routing, TCP/IP, OSPF, BGP, Multicast, QoS</li>
+<li>Expertise in at least one area of related technologies - storage, financial trading, Web2.0 applications, HPC or load balancing</li>
+<li>Expert level knowledge of industry-standard CLI</li>
+<li>Knowledge of competitive products, solutions, and services</li>
+<li>Ability to write white papers a plus</li>
+<li>CCIE certification a plus</li>
+</ul>
+</div>
+</div>

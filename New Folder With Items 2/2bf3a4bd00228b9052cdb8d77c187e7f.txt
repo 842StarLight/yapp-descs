@@ -1,0 +1,30 @@
+<h2>Software Engineer in Support</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>We are looking for a Software Engineer to fill an advanced technical support role that interacts with external software developers and systems integrators. You will resolve and provide solution advice for problems in the areas of application code, system configuration and advanced use cases. You will also contribute to bug resolution with our SW development teams.</p>
+<p>
+You will be the primary advanced technical support role for RealWear’s groundbreaking product and our community of external software developers and system integrators. They are used by front line workers in many industrial verticals worldwide where productivity cannot come at the expense of worker safety. This role supports the developers in their creation of solutions that use the RealWear platform.</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>Customer facing technical liaison to the development community, systems integrators and global Fortune 100 customers.</li>
+<li>Design and develop quick prototype applications and solution demonstrations for our wearable computing products</li>
+<li>Train and become an expert at using our hands-free voice control tools, WearML and Android intents.</li>
+<li>Evaluate third party Android applications designed for touch screen Android devices. Provide technical consulting to those third-party development teams as they work through the process of hands-free enablement for the RealWear platform.</li>
+<li>Coordinate with product engineering teams on new software requirements that result from your technical customer relationships with third party developers and system integrators.</li>
+<li>Collaborate with our software development teams on bug resolution.</li>
+</ul>
+<p><b>Requirements:</b></p>
+<ul>
+<li>0-3 years of experience in SW development</li>
+<li>Working knowledge of agile software development methodologies, e.g. Agile, SCRUM, XP</li>
+<li>Working knowledge of Android, HTML5 and Java. Ability to write and deploy an Android application using ADB</li>
+<li>Ability to talk to customers and partners to understand technical problems and relate back to engineering, product management, sales and customer success teams</li>
+<li>Willingness to travel domestically and internationally (up to 20% time)</li>
+</ul>
+<p><b>Additional Skills desired:</b></p>
+<ul>
+<li>Experience with Android, preferably on a mobile product platform</li>
+<li>Experience with APIs, and SDK application development support for developers</li>
+<li>Experience with Android Studio, Web Technologies, Java</li>
+</ul>
+</div></div>

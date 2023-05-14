@@ -1,0 +1,19 @@
+<h2>Junior Designer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Description:</b><br>
+The Tharp Custom Cabinetry compensation plan includes competitive wages and company supported medical and dental plans. Experience in CAD Design is a must, kitchen and bath design experience preferred.
+<br><br>
+<b>Job tasks:</b><br>
+<ul>
+<li>Prepare take offs from architectural drawings.</li>
+<li>Master Cabinet Vision cabinet design software.</li>
+<li>Provide Cad Design and pricing support for Tharp sales team.</li>
+</ul>
+<b>Requirements:</b><br>
+<b>Job requirements:</b><br>
+<ul>
+<li>Proficiency with Microsoft Office.</li>
+<li>Ability to comprehend and scale construction blueprints.</li>
+<li>Knowledge of construction industry terminology.</li>
+</ul>
+</div>

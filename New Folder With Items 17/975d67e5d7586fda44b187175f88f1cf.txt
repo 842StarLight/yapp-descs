@@ -1,0 +1,28 @@
+<h2>Sales Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b><i>Out the gate, the ideal candidate has –</i></b></p>
+<ul>
+<li>Proven track record of successful business development</li>
+<li>Outstanding customer service skills and exemplary ability to collaborate internally and externally to ensure proposed sales solutions are best-in-class</li>
+<li>Core values that align with Compudyne; Integrity, Self-Sufficiency, Passion, Executive, Team-Player and Commitment</li>
+<li>Vast experience in opportunity development and optimizing lead generation strategies</li>
+<li>Ability to build a robust pipeline and progress all activities that result in a focused, goal-driven sales effort</li>
+<li>Manage product and service mix to ensure pricing and margins are within sales goals</li>
+<li>Demonstrates technical selling skills and solution knowledge about our products and services</li>
+<li>Experience using CRM tools to enter and manage critical account information</li>
+</ul>
+<p><b><i>Qualifications that will get you the job –</i></b></p>
+<ul>
+<li>5+ years of extensive sales experience within the technology industry</li>
+<li>Knowledge of Cloud, Networking, Managed, Professional and Security offerings</li>
+<li>Associate degree in Business or Information Technology, or equitable experience</li>
+<li>Hunger and drive to meet and exceed aggressive goals</li>
+<li>Strong attention to detail. Well versed in creating proposals, quotes, sales documentation and change management</li>
+<br>
+</ul>
+<p></p>
+<p>All your information will be kept confidential according to EEO guidelines.</p>
+</div>
+</div>

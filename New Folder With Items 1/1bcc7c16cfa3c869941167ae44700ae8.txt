@@ -1,0 +1,127 @@
+<h2>Java Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>About MasterControl</b></p>
+<p>
+MasterControl Inc. is a leading provider of cloud-based quality and compliance software for life sciences and other regulated industries. Our mission is the same as that of our customers to bring life-changing products to more people sooner. The MasterControl Platform helps organizations digitize, automate and connect quality and compliance processes across the regulated product development life cycle. Over 1,000 companies worldwide rely on MasterControl solutions to achieve new levels of operational excellence across product development, clinical trials, regulatory affairs, quality management, supply chain, manufacturing and postmarket surveillance. For more information, visit www.mastercontrol.com.</p>
+<p><b>
+SUMMARY</b></p>
+<p>
+The Enterprise Triage &amp; Development team is responsible for all MasterControl software after release. We manage all Triage and Escalation projects, along with customer and production defects. We are the lifeline between our customers and our software.
+</p>
+<p>The ETD Software Engineer is integral to and active throughout the entire software lifecycle. They actively communicate with any and all affected parties product managers, product owners, scrum masters, developers, sales, services, managers, and customers to assure that the software is being built correctly, and that the right solution is being created for the customer. They design, develop, test, debug, troubleshoot and maintain MasterControl software applications, applying principles and techniques of computer science, engineering and mathematical analysis. Normally receives minimal instruction on routine work, general instructions on new assignments. Considered skilled and proficient in discipline. Works under minimal supervision with wide latitude for independent judgment. Work is generally independent and collaborative in nature. Creative minds and superb organization are important traits for ETD Software Engineers to possess. They should be analytical and methodical individuals who enjoy problem solving and challenges. The candidate will need to understand business and technical requirements and translate this into reporting designs and deliverables. The position also requires supporting the SDLC process in terms of testing, deployment, and post production support.</p>
+<p><b>
+RESPONSIBILITIES</b></p>
+<ul>
+<li>
+Follow development process documents for software creation and maintenance</li>
+<li>
+Implementation and testing of software</li>
+<li>
+Responsible for varied assignments, requiring a broad knowledge and the effect the work has upon other areas</li>
+<li>
+Support of software at locations offsite, possibly offshore platform visits</li>
+<li>
+Performs independent studies, analyses, interprets and draws own conclusions</li>
+<li>
+Monitoring trends and new products in the marketplace which could benefit the company and recommending same to manager</li>
+<li>
+Work with deployment team in the code migration across the SDLC environments</li>
+<li>
+Triage Production issues and work on the code fixes</li>
+<li>
+Design test processes and procedures used to ensure that software operates within defined requirements</li>
+<li>
+Implement test plans, automation, and validation strategies</li>
+<li>
+Identify and investigate issues found during testing</li>
+<li>
+Work within an agile environment to resolve issues</li>
+<li>
+Develop and maintain automated test scripts to reduce repetitive manual testing</li>
+</ul>
+<p><b>
+KNOWLEDGE AND SKILLS</b></p>
+<ul>
+<li>
+MasterControl experience desired</li>
+<li>
+BSCIS degree or equivalent experience</li>
+<li>
+4+ years work related experience</li>
+<li>
+Proficent in Java</li>
+<li>
+Other programming knowledge/experience ColdFusion, Angular, Spring, Ruby, etc.</li>
+<li>
+Software/Web automation scripting experience</li>
+<li>
+Ability to work in an agile team environment and adapt to constructive criticism</li>
+<li>
+Experience troubleshooting and testing software required</li>
+<li>
+Experience with other development tools such as IntellaJ, SQL Server Management Studio, GIT</li>
+<li>
+Experience interfacing with databases such as Oracle and SQL Server</li>
+<li>
+Software Development Lifecycle experience preferred</li>
+<li>
+Excellent interpersonal, collaborative, trust-building, conflict-resolution, and writing skills</li>
+<li>
+Passionate about creatively solving business problems</li>
+<li>
+Effectively prioritize and execute tasks in a high-pressure environment</li>
+</ul>
+<p><b>
+PHYSICAL DEMANDS AND WORKING CONDITIONS</b></p>
+<ul>
+<li>
+Operate a computer and work at a desk for extended periods of time</li>
+<li>
+Ability to communicate effectively in writing, in person, over the telephone and in e-mail</li>
+<li>
+Ability to successfully operate a laptop computer, MS Office Suite products and develop effective reports when called upon</li>
+<li>
+Ability to communicate effectively in writing, in person, over the telephone and in e-mail</li>
+</ul>
+<p>
+Why Work Here?</p>
+<p>
+#WhyWorkAnywhereElse</p>
+<p>
+#ExceptionalTeamCulture</p>
+<p>
+MasterControl is a place where Exceptional Teams come together to do their best work. Hiring Exceptional Teams, including the best talent in our industry, is a core value of ours. MasterControl employees are surrounded by intelligent, motivated individuals every day. We like to call it #TheBestTeamOnThePlanet.</p>
+<p>
+We value every employee and their contribution to what makes MasterControl successful. We give right back to the employee through a generous benefits package, great flexibility, and continuous opportunities for advancement.</p>
+<p>
+Not only do we hire Exceptional Teams, but we work hard to keep them here by developing and challenging their skillsets, encouraging professional development and growth, and offering a culture that can't be found elsewhere. Which is why we say - #WhyWorkAnywhereElse?</p>
+<p>
+To put it simply, working at MasterControl is fun, challenging, and rewarding. From our Fitness Clubs to our awards programs, from our company parties to our competitive benefits, you can't really go wrong. MasterControl could be your next and last career move!</p>
+<p>
+We are growing quickly and always looking for talented individuals to add to #TheBestTeamOnThePlanet!</p>
+<p>
+Here are some of the benefits MasterControl employees enjoy:</p>
+<ul>
+<li>
+Generous PTO package of three weeks, increasing after just three years of employment</li>
+<li>
+Competitive compensation with annual merit increase reviews</li>
+<li>
+100% medical premium coverage yes, you read that right!</li>
+<li>
+Dental/Vision Plans</li>
+<li>
+401k Plan</li>
+<li>
+Employer Paid Life Insurance Policy $50K</li>
+<li>
+Great Flexibility</li>
+<li>
+Wellness Programs every employee gets a Fitbit!</li>
+</ul>
+<p>
+Applicants must be currently authorized to work in the United states on a full-time basis.</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,196 @@
+<h2>SalesForce Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>SalesForce Administrator</b> <b>-</b> <b>(</b><b>004486</b><b>)</b>
+</div>
+<div>
+<b>
+Description</b><div></div>
+<br>
+<div>
+<div><b>
+SalesForce Administrator – Sensient Technologies Inc.</b></div>
+<div>
+<br>
+Sensient Technologies is a global organization with locations in North America, EU, Latin America and APAC. Sensient has a global customer base with a sales force in all continents.</div>
+<div>
+<br>
+The Salesforce Administrator will work under direction from the Salesforce Program Manager as part of the team dedicated to maximizing efficiency and capitalizing on the full features and benefits of the system based on the various user group needs. We are seeking someone with excellent technical and communication skills who can interface directly with internal stakeholders to understand their needs in order to administer and enhance the system accordingly. This person will work with the Salesforce Program Leader and serve as a "go to" for users, promote adoption, keep current on new releases and AppExchange solutions, provide training, and more. Additionally, the Administrator will perform basic updates, such as add/delete users, and adding basic custom fields.</div>
+<div></div>
+<br>
+<div><b>
+RESPONSIBILITIES:</b></div>
+<div><b>
+Create and Manage Changes to the System</b></div>
+<ul>
+<li>
+Manage the change control process and “Change Control Board” if appropriate.</li>
+<li>
+Manage all processes that impact / relate to Salesforce.com.</li>
+<li>
+Manage new releases of SFDC and efficiently roll out new features.</li>
+<li>
+Create and maintain fields, views, reports, dashboards, campaigns and other salesforce.com objects and functions.</li>
+<li>
+Create custom objects when necessary.</li>
+<li>
+Maintain, enhance and create workflows, functions and configurations within the Salesforce.com environment.</li>
+<li>
+Create new reporting capabilities and respond to ad hoc reporting requests as needed.</li>
+<li>
+Provide support functions as needed.</li>
+</ul>
+<div><b>
+Maintain System, Security and Integrity</b></div>
+<ul>
+<li>
+Map salesforce.com hierarchy and territories in response to personnel changes.</li>
+<li>
+Reassign Accounts, Contacts, and Opportunities in response to personnel changes.</li>
+<li>
+Grant/ remove and maintain user licenses.</li>
+<li>
+Maintain security including sharing rules and security levels.</li>
+<li>
+Design, Create and maintain user roles, profiles and hierarchies.</li>
+<li>
+Monitor application storage usage and archive data as needed.</li>
+</ul>
+<div><b>
+User Assistance, Training, Adoption and Satisfaction</b></div>
+<ul>
+<li>
+Create and administer training to existing or new users/groups.</li>
+<li>
+Provide one to one training to end users on an on‐going basis.</li>
+<li>
+Expand use of Salesforce.com – attend planning meetings, assist with determining if /how salesforce.com can be used in new ways.</li>
+<li>
+Communicate regularly with user base regarding new features, enhancements and changes to the system.</li>
+<li>
+Monitor usage and mentor users/groups needing assistance.</li>
+<li>
+Continually seek ways to further enhance the end‐user experience.</li>
+</ul>
+<div><b>
+Process Creation, Documentation and Maintenance</b></div>
+<ul>
+<li>
+Document company processes and workflows.</li>
+<li>
+Develop process documentation and field maps.</li>
+<li>
+Create new processes and associated reporting.</li>
+</ul>
+<div>
+<br>
+<b>
+Data Quality, Migration and Maintenance</b>
+</div>
+<ul>
+<li>
+Monitor neglected Leads, Opportunities, Accounts, and Contacts as appropriate.</li>
+<li>
+Import data as appropriate.</li>
+<li>
+Monitor and manage exception logs for back end system integration with SFDC.</li>
+<li>
+Manage duplicate records.</li>
+<li>
+Monitor and improve data quality.</li>
+</ul>
+<div><b>
+Report and Dashboard Creation and Maintenance</b></div>
+<ul>
+<li>
+Create and maintain dashboards.</li>
+<li>
+Create and maintain reports including folder maintenance.</li>
+<li>
+Develop complex, macro driven reports to summarize system information for Senior Management.</li>
+<li>
+Build and manage report folders for reps to improve sales efficiency.</li>
+</ul>
+<div>
+<br>
+<b>
+ESSENTIAL REQUIREMENTS:</b>
+</div>
+<div>
+A system administrator needs a solid understanding of the Sensient’s business. He/she must have solid salesforce.com skills and ideally, understand the general concepts of Customer Relationship Management (CRM). Most importantly they should be proactive, organized and logical.</div>
+<div></div>
+<br>
+<div><b>
+QUALIFICATIONS:</b></div>
+<ul>
+<li>
+3 to 4 years of Salesforce administration experience.</li>
+<li>
+Experience with Salesforce Lightning and upgrade from Classic</li>
+<li>
+In‐depth knowledge of the standard capabilities of SFDC and have successfully expanded on those capabilities through the use of custom code (Apex, s‐controls) and/or integration with external systems</li>
+<li>
+Strong reporting background using standard reporting tools including standard salesforce.com reporting functionality</li>
+<li>
+Previous re‐engineering experience updating an existing Salesforce.com configuration to provide solutions for reporting, workflows and enhanced functions</li>
+<li>
+Salesforce.com Administrator certification is preferred</li>
+<li>
+Detail oriented and self‐starter with strong written and interpersonal skills</li>
+<li>
+Ability to work independently, as well as part of a team</li>
+<li>
+Proven ability to utilize Salesforce.com as a sales analysis tool</li>
+<li>
+Minimum expectation of a Bachelor’s degree OR equivalent education/experience</li>
+<li>
+Team player with positive “Can‐do” attitude</li>
+<li>
+Great communication skills with enthusiastic personality</li>
+<li>
+Strong problem solving skills, data and software applications</li>
+</ul>
+<div><b>
+About Sensient Technologies Corporation:</b></div>
+<div>
+Sensient Technologies Corporation is a leading global manufacturer and marketer of colors, flavors, and fragrances. Sensient employs advanced technologies at facilities around the world to develop specialty food and beverage systems, cosmetic and pharmaceutical systems, inkjet and specialty inks and colors, and other specialty and fine chemicals. The Company's customers include major international manufacturers representing most of the world's best-known brands. Sensient is headquartered in Milwaukee, Wisconsin.</div>
+<div></div>
+<br>
+<div>
+As a dynamic and diversified global leader, we offer an excellent salary and comprehensive benefits package. For more information, visit our website at http://www.sensient.com</div>
+<div></div>
+<br>
+Equal Opportunity Employer<br>
+</div>
+<div></div>
+<div>
+</div>
+</div>
+<div>
+<b>
+Primary Location</b><b>:</b> North America-United States-Illinois-Hoffman Estates</div>
+<div>
+<b>
+Work Locations</b><b>:</b> Hoffman Estates - Group Office 2800 Higgins Road Suite 900 Hoffman Estates 60169</div>
+<div>
+<b>
+Job</b><b>:</b> Information Technologies</div>
+<div>
+<b>
+Organization</b><b>:</b> Corporate</div>
+<div>
+<b>
+Schedule</b><b>:</b> Full-time</div>
+<div>
+<b>
+Shift</b><b>:</b> Day/Shift 1</div>
+<div>
+<b>
+Employee Status</b><b>:</b> Regular</div>
+<div>
+<b>
+Job Type</b><b>:</b> Standard</div>
+<div>
+<b>
+Job Posting</b><b>:</b> Sep 12, 2019, 2:07:58 PM</div>
+</div></div>

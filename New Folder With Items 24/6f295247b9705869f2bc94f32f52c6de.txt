@@ -1,0 +1,50 @@
+<h2>Salesforce Technical Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Appirio, a Wipro Company helps customers improve Worker &amp; Customer experiences with outcome-oriented consultants who bring the latest digital thinking and unmatched cloud experience. We create actionable strategies that deliver results quickly, and help organizations adapt to a new experience-driven era. We do this by harnessing the power of one of the world’s largest crowdsourcing communities and thousands of pre-built solution accelerators. Appirio is a trusted partner to some of the world’s largest brands, including YP, Cardinal Health, Coca-Cola, eBay, Facebook, Home Depot, Sony PlayStation, Moen, and IBM.</p>
+<p></p>
+<p><b>
+A Technical Lead designs and implements the key technical components of the solution and helps direct Appirio technical resources to develop and deliver the project deliverables. The Technical Lead reduces the overall project technical risk by uncovering design issues early in the project life-cycle, shares implementation best practices, and recommends solution alternatives. Additionally, the Technical Lead partners with the Technical Architect to conduct design/code reviews during major project milestones. This is a hands-on role that requires technical experience and abilities with Salesforce.com and related cloud technologies.</b></p>
+<p></p>
+<p><b>
+Responsibilities</b></p>
+<p></p>
+<ul>
+<li><p><b>
+Hands-on design and development of custom solutions on the Force.com platform including declarative customization, Apex, Visualforce, Lightning Components, data modeling, integration, and data migration.</b></p></li>
+<li><p><b>
+Judge the feasibility and tradeoff of different technologies and make choices that fit the constraints of the project.</b></p></li>
+<li><p><b>
+Develop business requirements, specifications, process flows, application design, application configuration, test processes and release management.</b></p></li>
+<li><p><b>
+Delegates to, guides, and follows up with other Appirio resources to implement any of the above solutions, as necessary.</b></p></li>
+</ul>
+<ul><li><p><b>
+Accurately estimates the time required for yourself or others to complete particular assignments.</b></p></li></ul>
+<ul><li><p><b>
+Works directly with clients and the Appirio team to lead projects, facilitates business process analysis sessions, develops and delivers key components of technology solution.</b></p></li></ul>
+<p></p>
+<p><b>
+Education and Required Experience</b></p>
+<p></p>
+<ul>
+<li><p><b>
+Bachelor's degree in Computer Science, Engineering, Business or equivalent combination of education and experience</b></p></li>
+<li><p><b>
+4+ years of experience in a hands-on technical leadership position</b></p></li>
+<li><p><b>
+3+ years of software development, Salesforce development experience preferred</b></p></li>
+</ul>
+<ul><li><p><b>
+Familiarity with Salesforce technologies or comparable experience in HTML, JavaScript, Java, relational databases, SQL, ETL tools, etc.</b></p></li></ul>
+<ul>
+<li><p><b>
+Located and able to work in the U.S. from a home office and able to travel up to 40-60%</b></p></li>
+<li><p><b>
+One or more current Salesforce certifications (Platform Developer 1 or 2, App Builder, Administrator/Advanced Administrator, Sales/Service Cloud) preferred</b></p></li>
+<li><p><b>
+Not eligible for Visa sponsorship</b></p></li>
+</ul>
+<p></p>
+<p><b>
+We are an Equal Opportunity, Affirmative Action employer. Minorities, women, veterans and individuals with disabilities are encouraged to apply.</b></p>
+</div></div>

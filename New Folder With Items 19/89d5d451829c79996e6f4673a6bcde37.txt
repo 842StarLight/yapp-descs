@@ -1,0 +1,86 @@
+<h2>Model Based Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Requisition ID: 34509
+</b></p>
+<p>Whirlpool Corporation is consistently recognized by Fortune Magazine as one of the World’s Most Admired Companies. Our values are the driving force behind everything we do. Respect, integrity, diversity and inclusion, teamwork and the spirit of winning propel our teams to excellence. Get to know us and see what it's like to be part of the world's leading major home appliance company.</p>
+<p></p>
+<br>
+<p><b>
+FUNCTION OVERVIEW:</b></p>
+<p>
+The Model Based Systems Engineer is responsible for the end to end accountability from requirements to final delivery of plant models and simulation infrastructure, following Model Based Systems Engineering (MBSE) organization guidelines and tool-chain.</p>
+<p></p>
+<br>
+<p><b>
+JOB RESPONSIBILITIES:</b></p>
+<ul>
+<li>
+Create, verify and validate new plant models (modelica language)</li>
+<li>
+Integration of plant models for different applications: model-in-loop (MIL), software-in-loop (SIL), processor-in-loop (PIL), hardware-in-loop (HIL) and System Level simulation</li>
+<li>
+Create and use simulation-based design methods to drive system optimization, improve module/component design and enhance product reliability</li>
+<li>
+Use planned experimentation tools and methods to support the physics-based approach to modeling and simulation
+</li>
+<li>Simulation architectures for different applications (control system simulation &amp; system performance models)
+</li>
+<li>Accountable for the creation of libraries, capture and reuse of knowledge through models</li>
+<li>
+Reuse (leverage) of models, simulations and tools across platforms and regions</li>
+<li>
+Development and use of Rapid Prototyping Tools (ex. DSpace, National Instruments, etc.);
+</li>
+<li>Collaboration across geographic boundaries to leverage global knowledge and delivery of winning solutions</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+MINIMUM REQUIREMENTS:</b></p>
+<ul>
+<li>
+Master’s Degree in Engineering with specialization on modeling of physical systems (for instance thermals, HVAC, mechanics, electrical)</li>
+<li>
+1 plus years’ experience with analytical / 1D modeling of physical systems</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+PREFERRED REQUIREMENTS:</b></p>
+<ul>
+<li>
+PhD in the area of modeling of physical systems (preferably thermal / fluid systems)</li>
+<li>
+Ability to work cross functionally and globally</li>
+<li>
+Experience on plant modeling with system level tools (for instance Dymola, OpenModelica, Maplesim, Simulink, SimulationX, Simscape, Amesim, GT-Suite, etc..)</li>
+<li>
+Familiarity with System Engineering principles and tools (Requirements, SysML, V&amp;V methods)</li>
+<li>
+High fidelity physical modeling (ex. FEA, CFD)</li>
+<li>
+Experience with Matlab / Simulink applied to Controls Design and/or Simulation</li>
+<li>
+Experience with optimization methods and tools</li>
+<li>
+Knowledge in Controls &amp; Algorithm Design</li>
+<li>
+Experience with Rapid Prototyping Tools (ex. DSpace, National instruments, etc..)</li>
+<li>
+Experience with experimental testing, data gathering and analysis</li>
+</ul>
+<div></div>
+<br>
+<div>
+RSRWH</div>
+<div>
+Whirlpool Corporation (NYSE: WHR) is the world’s leading major home appliance company, with approximately $21 billion in annual sales, 92,000 employees and 70 manufacturing and technology research centers in 2017. The company markets Whirlpool, KitchenAid, Maytag, Consul, Brastemp, Amana, Bauknecht, Jenn-Air, Indesit and other major brand names in nearly every country throughout the world.</div>
+<div></div>
+<br>
+<div>
+At Whirlpool Corporation, we believe that all people matter. Celebrating diversity and including thousands of perspectives empower us to create products that blend into every concept of home. Whirlpool Corporation is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</div>
+<div></div>
+<br>
+<div>
+Additional information about the company can be found on Twitter at @WhirlpoolCorp.</div>
+</div></div>

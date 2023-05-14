@@ -1,0 +1,129 @@
+<h2>Sr Field Engineer - Cloud native Applications</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Senior Field Engineer - Cloud Native Applications
+</b></p>
+<p><b>Our Company
+</b></p>
+<p>VMware is the leader in cloud infrastructure, business mobility and virtualization software. A pioneer in the use of virtualization and automation technologies, VMware simplifies IT complexity across the entire data center to the virtual workplace, empowering customers with solutions in the software-defined data center to hybrid cloud computing and the mobile workspace.
+</p>
+<p>With 2018 revenues of $8.97 billion, VMware has more than 500,000 customers, 75,000 partners, and 23,000 employees in 120+ locations around the world. At the core of what we do are our employees who deeply value execution, passion, integrity, customers, and community. Want to be part of a compassionate community that thrives on architecting what’s next in IT? Learn more at vmware.com/careers.
+</p>
+<p><b>Job Description: Senior Field Engineer </b><b>– </b><b>Cloud Native Applications
+</b></p>
+<p>At VMware we believe that Kubernetes, and by extension Cloud Native, will transform the next generation of enterprise infrastructure and applications the way Virtualization and Java have in the past. Customers will look to containers to avoid lock in with public clouds and the industry has aligned around Kubernetes as the orchestration engine for these containers. VMware is investing in building a modern stack that focuses on this next generation of enterprise computing incorporating both traditional workloads and cloud applications with our core platform. For these reasons, we believe no one is better positioned than VMware to win in the multi-cloud era.
+</p>
+<p>To that end, VMware is investing in a new strategic function to activate recent investments in container orchestration, cloud workload mobility and cloud native application development. This team will be responsible for realizing our strategic direction and accelerating customer adoption of emerging technologies and our cloud native platforms. This function will be the link between engineering and professional services and will serve as a center of gravity for an ecosystem of customers, developers and partners focused on driving the VMware technology agenda.
+</p>
+<p>Senior Field Engineers are responsible for:
+</p>
+<ul>
+<li><p>Delighting our customers by ensuring successful outcomes to their projects.
+</p></li>
+<li>
+<p>Hands on deployment and optimization of complex architectures, and advancing customer thinking and
+</p>
+<p>awareness within the Cloud Native space
+</p>
+</li>
+<li>
+<p>The ideal candidate is action-oriented, collaborative, a continuous learner, has strong customer presence and
+</p>
+<p>must have a desire to contribute to VMware’s intent to capture modern application workloads. Principal Duties and Responsibilities:
+</p>
+</li>
+</ul>
+<ul>
+<li><p>Execute on customer engagements both as a member of a team for complex engagements and solo for simpler engagements
+</p></li>
+<li><p>Install and optimizing Kubernetes clusters and dependencies
+</p></li>
+<li><p>Write reference programs, perform research on new technologies and architectures
+</p></li>
+<li><p>Supports a written culture and contributes to our technical content library
+</p></li>
+<li><p>Gives and takes guidance to/from customers, teammates and leadership where needed
+</p></li>
+</ul>
+<p>For more information on this search please contact: VMware
+</p>
+<p>Position Profile
+</p>
+<ul>
+<li><p>Drives high quality output of both self and team for customers and internal initiatives
+</p></li>
+<li><p>Helps with pre-sales, conferences and general Kubernetes evangelism as time permits
+</p></li>
+<li><p>Fosters a sense of collaboration through activity and presence
+</p></li>
+<li><p>Reports and manages time with minimal oversight
+</p></li>
+<li><p>Works effectively with a remote and distributed team
+</p></li>
+<li><p>Can help set and execute on technical vision
+</p></li>
+<li>
+<p>Assists all team members when they are stuck, and helps others level up their skills by providing kind and direct
+</p>
+<p>feedback Desired Skills:
+</p>
+</li>
+</ul>
+<ul>
+<li><p>Domain expertise in infrastructure or programming concepts
+</p></li>
+<li><p>Robust proficiency in Linux &amp; CLI, several years of experience in infrastructure
+</p></li>
+<li><p>Ideal candidates will have familiarity with programming concepts and general SDLC practices
+</p></li>
+<li><p>Knowledge of tools required to drive solution relevance and scale.
+</p></li>
+<li><p>Familiarity with application developer challenges, interests and deployment patterns for Cloud Native
+</p></li>
+<li><p>Hands on experience with distributed systems and concepts in a real-world environment
+</p></li>
+<li><p>Some specific technical competencies desired:
+</p></li>
+</ul>
+<p>o <b>Kubernetes, OpenShift, Docker &amp; Cloud Native Application development platforms.</b><br>
+o <b>Linux </b>- As the de facto base operating system for all public cloud providers and Cloud Native
+</p>
+<p>technologies effective skills working with Linux on the CLI are required.<br>
+o <b>Networking &amp; Security </b>- Some of the more complex scenarios which occur with Cloud Native projects
+</p>
+<p>and technologies involve both east / west and ingress /egress networking and security considerations. As
+</p>
+<p>such we highly value expertise and experience in these areas.<br>
+o <b>Reliability Engineering </b>- A drive towards constant iteration and improvement of technologies and
+</p>
+<p>processes is a fundamental part of being successful with Cloud Native projects and technologies.<br>
+o <b>Go &amp; Programming </b>- Some of our projects require building and extending tooling and projects. GO is
+</p>
+<div>preferred, but any modern language is acceptable as a starting point.<br>
+<ul><li>Hands on experience with open source and commercial container tooling including Docker, Mesosphere, Red Hat
+</li></ul>
+</div>
+<p>OpenShift Container Platform and Rancher Other Requirements
+</p>
+<ul>
+<li><p>Bachelor’s degree in relevant field or alternative education such as bootcamp graduate or relevant professional experience
+</p></li>
+<li><p>7+ years of experience in a technical presales, support, or consulting role
+</p></li>
+<li><p>Knowledge of and operational experience with methodologies related to agile and DevOps
+</p></li>
+<li><p>Ability to travel up to 50% of the time
+</p></li>
+<li>
+<p>Locations: Remote, Seattle, Atlanta, San Francisco, Austin, New York City, Chicago, Washington DC, Los
+</p>
+<p>Angeles
+</p>
+</li>
+</ul>
+<p></p>
+<p>This job opportunity is not eligible for employment-based immigration sponsorship by VMware.</p>
+<br>
+<b>
+VMware Company Overview: </b>VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.<br>
+<br>
+<b>Equal Employment Opportunity Statement:</b> VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</div></div>

@@ -1,0 +1,26 @@
+<h2>Switch Firmware Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Who We Are</b></p>
+<p>Ubiquiti Networks, Inc. currently focuses on 3 main technologies: high-capacity distributed Internet access, unified information technology, and next-gen consumer electronics for home and personal use. The majority of the company's resources consist of entrepreneurial and de-centralized R&amp;D teams. Ubiquiti does not employ a traditional direct sales force, but instead drives brand awareness largely through the company's user community where customers can interface directly with R&amp;D, marketing, and support. With over 70 million devices shipped in over 200 countries and territories in the world, Ubiquiti aims to connect everyone to everything, everywhere. Ubiquiti was founded by former Apple engineer Robert Pera in 2005. More insight about the company management can be found at www.rjpblog.com.</p>
+<p><b>Responsibilities</b></p>
+<p>Candidate will work in cooperation with other engineers to develop firmware for UniFi Switch and related products. The candidate must possess expert knowledge of embedded Linux processes and have experience developing FASTPATH-based switches.</p>
+<p><b>Must Have Requirements</b></p>
+<ul>
+<li>Proficient in software development tools, knowledge of git revision control</li>
+<li>Strong programming skills</li>
+<li>Knowledgeable in C development</li>
+<li>Switch development and debugging experience</li>
+<li> Ability to adapt and quickly pick up new technologies</li>
+<li> Ability to work productively and autonomously, whether on a small team or solo, including the ability to give and receive constructive criticism to team members</li>
+<li>Excellent analytical and problem-solving skills</li>
+<li>Experience that is a Major Plus</li>
+<li>Experience developing FASTPATH-based switches.</li>
+</ul>
+<p>Ubiquiti offers full benefits, a flexible schedule, and many other perks for success-driven individuals.</p>
+<p><b>How to Apply</b></p>
+<p>Submit your resume together with a cover letter including link to a project you worked on (e.g. your GitHub account, link to commit in an Open Source project, etc.) to show your proficiency in embedded systems and Linux.</p>
+<br>
+<p></p>
+<p>
+99M8Kk</p>
+</div></div>

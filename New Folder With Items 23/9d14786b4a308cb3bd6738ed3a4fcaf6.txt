@@ -1,0 +1,84 @@
+<h2>Solutions Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Nauto is an AI technology company that's improving the safety of commercial fleets today and the autonomous fleets of tomorrow. Nauto's intelligent driver safety system assesses how drivers interact with the vehicle and the road ahead to reduce distracted driving and prevent collisions. With this knowledge, Nauto is powering the development of self-driving technology that brings the best of human driving to autonomy. Are you ready to help with this mission?
+<br><br>
+<b>We're aiming for greater safety and knowledge:</b> Our approach to re-thinking road safety is two-fold: deepen our understanding of real-world drivers to learn how they interact with the vehicle and the road, with the goal of reducing distracted driving and preventing collisions before they occur. Second, apply these insights to the development of safe, effective autonomous vehicles that fit into existing traffic patterns and human driving behavior.
+<br><br>
+<b>We're taking a driver-centric approach:</b> We surface the safety insights that matter most while protecting the privacy of drivers. By using artificial intelligence on the device, we're able to detect distractions and immediately warn drivers in real-time. Only a fraction of driving time—such as distractions or other high-risk events—is uploaded to the cloud, where it's automatically visible to fleet managers via a secure web application so they can then better coach drivers.
+<br><br>
+Nauto is backed by SoftBank Vision FundGroup Corp., Greylock Partners, BMW iVentures, General Motors Ventures, Toyota AI Ventures, Allianz Group, Playground Global and DNX Ventures.
+<br><br>
+Nauto is looking for a Solutions Engineer to join our Solutions team and help bring our technology to market. This role includes travel and will work with our headquarters team in Palo Alto as well as in-region alongside our Sales Team, owning technical pre-sales for our largest and most strategic prospective customers. Attributes of a strong fit include:
+<br><br>
+<ul>
+<li>Passion for the sales process</li>
+<li>Data-driven decision making with strong analytical skills</li>
+<li>Strong customer advocate</li>
+<li>Solid project management skills</li>
+<li>Excellent communication and influence skills</li>
+<li>Ability to create Value Proposition and ROI insights</li>
+<li>Excitement for technology and innovation</li>
+</ul>
+Responsibilities
+<br>----------------------
+<br><br>
+<ul>
+<li>Partner with sales executives to plan, prepare and execute on strategic deals in complex sales cycles – focused on the technical close, including:</li>
+<li>Successfully match customer pain points and requirements to Nauto solution capabilities; address technical fit and appropriate use of pilots in the sales process</li>
+<li>Orchestrate and drive the pilot</li>
+<li>Develop and optimize a compelling set of demo best practices</li>
+<li>Identify, qualify, and overcome technical hurdles and blockers</li>
+<li>Champion and evangelize best practices with the product</li>
+<li>Coordinate and manage key work-streams internal to Nauto to execute the above</li>
+<li>Coordinate with Sales and Product to address product shortcomings, customer asks and provide feedback on product-related challenges in the Sales Lifecycle</li>
+<li>Provide leadership and coordination with Nauto technical resources to support the pre-sales process</li>
+<li>Lead and develop additional Solution Engineers to support the organization</li>
+<li>Working in multiple levels of the technology stack to support:</li>
+<li>Hardware deployment and installation (for POCs)</li>
+<li>Monitoring POC performance and collecting KPI's for establishing value and ROI in the sales process</li>
+<li>Custom reporting and integrations via our API</li>
+</ul>
+Experiences and Skills
+<br>----------------------------
+<br><br>
+<ul>
+<li>Minimum 4+ years experience in Technical Sales or Field Sales experience (Sales Engineering or Consulting experience advantageous), Project Management, or Operations experience.</li>
+<li>Proven ability to adapt presentations to the technical level of the audience, along with professional prowess in presenting technical materials to large groups.</li>
+<li>Experience with Enterprise sales cycles</li>
+<li>Previous hands-on experience with customer evaluations and deployments</li>
+<li>Consistent track record selling complex solutions</li>
+<li>Experience with APIs, Analytics and/or scripting desired</li>
+<li>Tinkering with hardware gadgets, sensors, or vehicles is a plus</li>
+</ul>
+Education
+<br>---------------------
+<br><br>
+<ul>
+<li>Technical bachelor's degree underpinned by a proven track record in the industry preferred, or equivalent work experience.</li>
+</ul>
+--------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+Benefits
+<br><br>
+<ul>
+<li>Coverage for (health, dental, vision) including qualified dependents</li>
+<li>Healthcare spending accounts (FSA, HSA)</li>
+<li>401K</li>
+<li>Stock options</li>
+<li>Commuter assistance</li>
+<li>Up to 20 weeks of parental leave</li>
+<li>Flexible PTO</li>
+</ul>
+Perks
+<br><br>
+<ul>
+<li>Ground floor opportunity with smart, motivated coworkers and team to shape the strategic direction of the company</li>
+<li>Fully catered lunch and dinner</li>
+<li>Frequent employee events and gatherings sponsored by the company</li>
+<li>An opportunity for you, your friends, and your family to dogfood the Nauto device</li>
+<li>Learning and development opportunities from a highly diverse and talented peer group including experts in a wide range of fields such as Artificial Intelligence &amp; Computer Vision, Systems &amp; Device Engineering, and Support &amp; Operations</li>
+</ul>
+Come revolutionize transportation safety and do your best work here at Nauto!
+<br><br>
+Nauto is committed to being a diverse and inclusive environment that fosters learning from each other. We celebrate people of diverse backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer and we are committed to providing a work environment free of harassment and discrimination.
+<br><br>
+<b>To all recruitment agencies:</b> Nauto does not accept agency resumes. Please do not forward resumes to our jobs alias, Nauto employees or any other company location. Nauto is not responsible for any fees related to unsolicited resumes.</div>

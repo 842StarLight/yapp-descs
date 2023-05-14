@@ -1,0 +1,64 @@
+<h2>Business Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview</b></h2>
+<div>
+Are you passionate about data? Do you enjoy working with other smart people to find trends and patterns in the data? Do you want to work in a data-driven environment where your effort impacts the success of the customers? We are looking for a savvy Data Analyst to join our close knit team of data professionals. You look to expand your knowledge and experience in data extraction, visualization, and story-telling. You must be courageous but not a bully, strong but not rude and humble but not timid. In a couple words, emotionally intelligent.</div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<p><b>
+Partner</b></p>
+<ul>
+<li>
+Consult and provide data driven recommendations on key business decisions and initiatives</li>
+<li>
+Proactively monitor and communicate opportunities on key performance indicators and metrics</li>
+<li>
+Build cross-functional relationships with business units to ensure long-term partnership success</li>
+<li>
+Support our Product Managers, Sales Leaders, Software Developers, Data Engineers, Data Scientists and key business partners on business initiatives and ensure successful partnerships with each team</li>
+<li>
+Partner with the data warehouse team in gathering requirements, designing, testing, and supporting the ongoing development of the data warehouse</li>
+<li>
+Drive a data fluent culture by educating and mentoring others in the field of data analysis</li>
+</ul>
+<p><b>
+Build</b></p>
+<ul>
+<li>
+Manage and track a variety of tasks and projects at one time</li>
+<li>
+Engage with Agile framework / Scrums / Sprints / JIRA</li>
+<li>
+Develop and maintain reports / dashboards / analysis using Periscope Data, Tableau, and other BI development tools</li>
+<li>
+Document and adhere to standard analytics and reporting processes</li>
+<li>
+Communicate findings clearly to stakeholders through intelligent visualizations, interpretation and story-telling</li>
+<li>
+Participate in the development process through the lense of data availability, consistency and completeness</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<ul>
+<li>
+Excellent analytical and problem-solving skills</li>
+<li>
+Experienced with writing SQL</li>
+<li>
+Experienced with BI and analytics tools (Tableau, Power BI, Periscope Data, Excel, etc.)</li>
+<li>
+Proficient with Excel pivot tables, v-lookups, and functions</li>
+<li>
+Ability to process requests, implement recommended solutions, and complete requests in a timely fashion</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Be self-directed and able to function both independently and as part of a team</li>
+<li>
+Must be highly organized with a strong attention to detail</li>
+<li>
+Ability to handle multiple projects and meet deadlines</li>
+<li>
+Knowledgeable with data warehouse concepts (Kimball)</li>
+</ul>
+</div></div>

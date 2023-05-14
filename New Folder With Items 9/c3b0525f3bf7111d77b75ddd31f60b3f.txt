@@ -1,0 +1,65 @@
+<h2>Application Engineer II, Fluids</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>SUMMARY</b></div>
+<div>The Application Engineer II is responsible for leveraging advanced-level engineering knowledge and relationships to support regional accounts with significant impact on software revenue, as well as for helping customers to solve complex engineering problems using ANSYS software products. This role provides technical pre-sales support throughout the entire sales process.</div>
+<div></div>
+<br>
+<div><b>RESPONSIBILITIES</b></div>
+<ul><li>Lead/Assist in coordinating and executing all technical activities throughout the sales opportunity such as customer meetings and product presentations, demonstrations and evaluations
+</li></ul>
+<ul><li>Analyze technical needs, requirements, and state of a customers’ current infrastructure, operations, and engineering workflows
+</li></ul>
+<ul><li>Create and demonstrate simulation solutions to streamline customer workflows, in support of the software sales process</li></ul>
+<ul><li>Participate in internal corporate initiatives to further enhance the solution suites, presales/sales enablement and professional growth</li></ul>
+<ul><li>Responsible for articulating ANSYS’ value proposition, which may encompass its entire suite of products.</li></ul>
+<ul><li>Instruct introductory and/or intermediate training classes on the usage of ANSYS products</li></ul>
+<ul><li>Create elegant and useful solutions to solve complex business problems by working across various teams and understanding the needs of our customers</li></ul>
+<div></div>
+<br>
+<div><b>MINIMUM QUALIFICATIONS</b></div>
+<ul><li>Bachelor’s degree in Aerospace/Mechanical/Chemical engineering or other technical discipline
+</li></ul>
+<ul><li>A minimum of 3 years of experience in an engineering software environment</li></ul>
+<ul><li>Demonstrated use of relevant ANSYS software or knowledge of other commercial CAE, CAD, EDA software packages</li></ul>
+<ul><li>Strong interpersonal and communication skills, with the ability to facilitate and conduct webinars and presentations to customers
+</li></ul>
+<ul><li>Demonstrated skills in writing and presenting in fluent English</li></ul>
+<ul><li>Logical problem-solving approach and the ability to clearly communicate the situation and proposed solution to the customer</li></ul>
+<ul><li>Projects a professional image and strong business acumen during customer interactions</li></ul>
+<ul><li>Possesses a sense of urgency, strong organizational and follow up skills</li></ul>
+<ul><li>3 years of experience using a commercial Computational Fluid Dynamics (CFD) software package such as ANSYS FLUENT or ANSYS CFX</li></ul>
+<ul><li>3 years of experience with modeling and simulation of external aerodynamics and aeroacoustics</li></ul>
+<ul><li>3 years of experience in CFD preprocessing complex CAD models (geometry clean up and mesh generation)</li></ul>
+<div></div>
+<br>
+<div><b>PREFERRED QUALIFICATIONS</b></div>
+<ul><li>MS or PhD degree a plus</li></ul>
+<ul><li>A minimum of 4 years of experience in an engineering software environment is a plus</li></ul>
+<ul><li>Must have passion and drive for personal technical excellence and high performance</li></ul>
+<ul><li>Must have customer service aptitude and maintain customer focus</li></ul>
+<ul><li>Ability to travel up to 25%</li></ul>
+<ul><li>Experience in design and modeling of drag, lift, underhood cooling &amp; aeroacoustics in automotive applications.
+</li></ul>
+<ul><li>Experience with modeling fluid-structure interaction is a plus</li></ul>
+<ul><li>Experience customizing ANSYS Fluent simulation software using User Defined Functions (UDFs) using C++ is a plus</li></ul>
+<ul><li>Experience with 1D-3D code coupling simulations is a plus</li></ul>
+<ul><li>Experience using ANSYS Fluent, ANSYS CFX is a plus</li></ul>
+<div></div>
+<br>
+<div><b>CULTURE AND VALUES</b></div>
+<div>Culture and values are incredibly important to ANSYS. They inform us of who we are, of how we act. Values aren't posters hanging on a wall or about trite or glib slogans. They aren't about rules and regulations. They can't just be handed down the organization. They are shared beliefs – guideposts that we all follow when we're facing a challenge or a decision. Our values tell us how we live our lives; how we approach our jobs. Our values are crucial for fostering a culture of winning for our company:</div>
+<ul><li>Customer focus</li></ul>
+<ul><li>Results and Accountability</li></ul>
+<ul><li>Innovation</li></ul>
+<ul><li>Transparency and Integrity</li></ul>
+<ul><li>Mastery</li></ul>
+<ul><li>Inclusiveness</li></ul>
+<ul><li>Sense of urgency</li></ul>
+<ul><li>Collaboration and Teamwork</li></ul>
+<div></div>
+<br>
+<div>ANSYS is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other protected characteristics.</div>
+<div></div>
+<br>
+<div>ANSYS does not accept unsolicited referrals for vacancies, and any unsolicited referral will become the property of ANSYS. Upon hire, no fee will be owed to the agency, person, or entity.</div>
+</div></div>

@@ -1,0 +1,69 @@
+<h2>Application Developer - Active Top Secret Clearance</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div><div>
+<div>At Red Hat, we connect an innovative community of customers, partners, and contributors to deliver an open source stack of trusted, high-performing solutions. We offer cloud, Linux, middleware, storage, and virtualization technologies, together with award-winning global customer support, consulting, and implementation services. Red Hat is a rapidly growing company supporting more than 90% of Fortune 500 companies.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Job summary
+</b></h2>
+<div><div><div>
+<div>The Red Hat North America (NA) Public Sector team is looking for an Application Developer for our application development consulting engagements. In this role, you will work with customers to develop enterprise-level production applications focused on Java development, API and integration, process-driven and rules-based, and container-native applications using our open source offerings and frameworks. You won't be expected to know everything on day one, but your ability to learn new technologies quickly will be essential. Most Fortune 500 companies in the airlines, telcos, healthcare and commercial banks rely on Red Hat. As an Application Developer, you will help us build applications that scale to the demands of the modern digital marketplace, so that many of these organizations keep turning to our consultants regarding their strategic needs in API integration and process-driven and cloud-native development. This is a remote position with potential weekly travel to customer sites which can be located anywhere in the U.S. within close proximity to an airport. Successful applicants must reside in a state where Red Hat is registered to do business.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Primary job responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Be part of a fast-growing Consulting team that is supportive of its members, collaborates on solutions, and is receptive to new ideas to facilitate the best use of our offerings and open source technologies</li>
+<li>
+Participate in practical enablement sessions to be quickly brought up to speed on delivering mission critical applications to our customers using containers, microservices, integration, and process-driven solutions</li>
+<li>
+Design, develop, test, and deploy open source software solutions, including Java development, API and integration, process-driven and rules-based, and container-native applications</li>
+<li>
+Contribute to application development and application modernization efforts through agile project delivery</li>
+<li>
+Use critical thinking skills to tackle tough problems in an innovative way</li>
+<li>
+Constantly learn about new technologies and apply these concepts to customer needs</li>
+<li>
+Become a trusted advisor to our customers, helping them achieve business success in an ever-changing technology landscape
+</li>
+<li>Work closely with product business, product engineering, support, and sales teams to ensure excellent customer experience with Red Hat's offerings</li>
+<li>
+Contribute to the development of repeatable methodologies and tools designed to scale Red Hat's services capabilities, promote repeatable customer engagements, and lower delivery risk</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Required skills
+</b></h2>
+<div><div><div>
+<ul>
+<li>3-10 years of Java development experience; experience with the design, development, testing and deployment of a large, distributed, object-oriented application</li>
+<li>
+Demonstrated experience communicating value, progress, and metrics of key projects to required stakeholders and diverse audiences</li>
+<li>
+Solid written and verbal communication and presentation skills</li>
+<li>
+Exceptional analytical, problem-solving, project management, and planning skills</li>
+<li>
+Willingness to travel 4 days per week for up to 30-40 weeks per year to customer sites throughout NA</li>
+<li>
+Active Top Secret clearance</li>
+</ul>
+<div></div>
+<br>
+<div>
+The following are considered a plus:</div>
+<div></div>
+<br>
+<ul>
+<li>
+Experience in agile development environments practicing test-driven development (TDD), pair programming, and open source or code sharing models</li>
+<li>
+Experience working in a consulting or a similar customer-facing role</li>
+<li>
+Bachelor's or master's degree in computer science or a similar field</li>
+</ul>
+<p><br>
+Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, uniformed services, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.</p>
+<p><br>
+Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.</p>
+</div></div></div>
+</div></div>

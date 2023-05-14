@@ -1,0 +1,40 @@
+<h2>Software Development Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Degree in computer science, engineering, math, or equivalent work experience desired.<br>
+<ul>
+<li>5+ years Experience coaching and managing at all levels, including people management, to deliver high quality software and lead effective teams</li>
+<li>3+ years’ experience planning, designing, and developing software, building roadmap, overseeing scrum and team processes, for highly scalable systems and experience with service-oriented architecture</li>
+<li>4+ years’ experience managing a team in a software development organization that delivered commercial software or software-based services</li>
+<li>Expertise in Web development, Javascript, and Java.</li>
+<li>Proven leadership skills and teamwork skills. You have experience guiding and mentoring software development engineers</li>
+<li>Proven ability to work and deliver effectively in a customer-focused, cross-functional team</li>
+<li>Excellent verbal and written communication skills</li>
+</ul>
+</div>
+<br>
+<p>Amazon.com strives to be Earth's most customer-centric company where people can find and discover virtually anything they want to buy online. By giving customers more of what they want - low prices, vast selection, and convenience - Amazon.com continues to grow and evolve as a world-class e-commerce platform. Amazon's evolution from Web site to e-commerce partner to development platform is driven by the spirit of innovation that is part of the company's DNA. The world's brightest minds come to Amazon.com to research and develop technology that improves the lives of shoppers and sellers around the world. Amazon’s vision is to offer the earth’s largest selection and lowest prices to our customers.<br>
+<br>
+Over 2MM Sellers in 10 countries (and growing) list their products for sale on the Amazon.com Marketplace. Sellers are a critical part of Amazon’s ecosystem to deliver on our vision of offering the earth’s largest selection and lowest prices. Our business currently represents 40% of Amazon units sold, and is growing all the time.<br>
+The Marketplace organization drives the Selling on Amazon business and develops solutions that enable millions of sellers around the world to sell to more than 200MM customers (and growing). These solutions include the software platform and applications that drive demand generation, customer acquisition, seller integration, customer relationship management, business analytics, and the inventory and order management functions necessary for sellers to manage their business online at Amazon.com.<br>
+<br>
+Our team is made up of people like you. People who are:<br>
+Entrepreneurial –We build solutions for all sellers, regardless of size. In fact, many of us are sellers ourselves.<br>
+<br>
+Innovative – Our problem space evolves every day due to scale, new categories and new geographies. There is no playbook for a Marketplace of this size, so innovation and creativity are a must.<br>
+Passionate – We are passionate about our customers, both sellers and buyers. Everyone’s an owner at Amazon, and our team is no exception. Our business is growing fast and the pace is even faster.<br>
+<br>
+Leaders – We recognize the desire for people to lead, whether it is the development of a new feature or ownership of a new category. We invest in our team members, providing challenging roles with significant responsibility. Coaching and mentoring is taken seriously to ensure we continue to build a company we can be extremely proud of.<br>
+<br>
+The Listings Platform teams build and operate the core platforms and services that support our sellers via interactive applications, feed processing systems, reporting frameworks and Web service APIs. Sellers use these systems to manage their products and inventory levels on Amazon websites and they are mission-critical to our sellers’ businesses. The Listings Platform team mission is to provide the most innovative, scalable, and reliable systems in the world to ensure our sellers’ success.<br>
+As a manager, you will be responsible for leading a team building distributed systems that rise to challenges like intelligently scaling to explosive growth and getting ahead of requirements from brand new selling businesses. Every year, we raise the bar on efficiency, features and growth and use innovation and ingenuity to meet the new standards.<br>
+<br>
+Join us to work with brilliant Software Development Engineers, partner with other teams on the Listings Platform, and help grow Earth's Biggest Selection.</p>
+<br>
+<div><ul>
+<li>Strong user-focused technical collaborator</li>
+<li>Hands-on expertise with disparate technologies from distributed systems to Javascript and everything in between</li>
+<li>Excellent writing skills</li>
+<li>Verbal communication skills with the ability to present complex technical information in a clear and concise manner to a variety of technical and non-technical audiences</li>
+<li>Hands-on experience with Agile methodologies and experience managing multiple competing priorities in a fast-paced Agile environment</li>
+</ul></div>
+</div>

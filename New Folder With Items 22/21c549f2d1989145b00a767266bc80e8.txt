@@ -1,0 +1,90 @@
+<h2>On-Premises Implementation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p><b>About Pluralsight Flow, powered by GitPrime</b></p>
+<p>
+GitPrime is now a Pluralsight company, an entire functional department of our new parent company. We are pioneering data-driven engineering. We report on the work patterns and the people-side of software development so engineering leaders can advocate for resources and demonstrate that they're driving business value based on objective data. We have strong product-market fit with hundreds of happy customers and we are growing rapidly.</p>
+<p><b>
+Working at Pluralsight</b></p>
+<p>
+Founded in 2004 and trusted by Fortune 500 companies, Pluralsight is the technology learning platform organizations and individuals in 150+ countries count on to innovate faster and create progress for the world.</p>
+<p>
+At Pluralsight, we believe everyone should have the opportunity to create progress through technology. That everyone should have access to the skills of tomorrow. That technology can make the world a better place. Through the work we do everyday, we empower the people who power our world.</p>
+<p>
+And we don’t let fear, egos or drama distract us from our mission. We’re adults, and we treat each other that way. We have the autonomy to do our jobs, transparency to eliminate office politics and trust each other to do the right thing. We thrive in an environment with creativity around every corner, challenges that keep us on our toes, and peers who inspire us to be the best we can be. We bring different viewpoints, backgrounds and experiences, and united by our mission, we are one.</p>
+<p><b>
+The Opportunity</b></p>
+<p>
+We are looking for a On-Premises Implementation Engineer who will be responsible for the technical success of our customers and enhancing the GitPrime experience. The ideal candidate will work directly with our customer's technical team leadership to help realize the full potential of GitPrime. They not only need to be able to talk to, and upsell the service offerings, but own the implementation when a customer makes the decision to buy or add features. They will work with the Sr. Implementations Consultant to deliver on the integration and reporting/analytics service pillars of the Professional Services offerings.</p>
+<p><b>
+Who you are:</b></p>
+<ul>
+<li><p>
+You demonstrate passion for Pluralsight’s aim and culture; a hands-on worker with integrity and a desire to work in a dynamic environment.</p></li>
+<li><p>
+You are capable of scheduled and unscheduled travel to potential domestic and international customers with a current passport/visa without restrictions to various states or countries.</p></li>
+<li><p>
+You are a customer-focused service engineer with experience working on a distributed team.</p></li>
+<li><p>
+You are a skilled communicator, especially when helping customers through technically challenging processes.</p></li>
+<li><p>
+You possess strong analytical, critical reasoning, and creative problem-solving skills, as well as experience developing and implementing strategic and tactical solutions.</p></li>
+<li><p>
+You are energized by seeing your customers succeed and will go the extra mile to make it happen.</p></li>
+<li><p>
+You are a self-starter who can effectively manage your time, prioritize, produce with autonomy, and provide visibility to key initiatives.</p></li>
+<li><p>
+You have a collaborative and flexible style, with a bias towards action.</p></li>
+<li><p>
+You also have a background in Linux system administration.</p></li>
+<li><p>
+You also have a background in installing and maintaining enterprise-level software.</p></li>
+</ul>
+<p><b>
+What you’ll own:</b></p>
+<ul>
+<li><p>
+All business and priority escalations for all requests living in the integration &amp; reporting/analytics services pillar.</p></li>
+<li><p>
+Being the voice of the customer in aggregating feedback to deliver to Product Management teams for future roadmap enhancements.</p></li>
+<li><p>
+Driving continuous improvement into our processes and products.</p></li>
+<li><p>
+Guiding both new and existing customers through high level questions with technical expertise.</p></li>
+<li><p>
+Work closely and collaborate with other technical leaders across the organization.</p></li>
+<li><p>
+Become an expert resource and cultivate a high level of expertise on the Pluralsight libraries, related topics, and associated products.</p></li>
+</ul>
+<p><b>
+Experience you’ll need:</b></p>
+<ul>
+<li><p>
+Experience as a Managed Service Engineer, preferably at a managed cloud computing firm.</p></li>
+<li><p>
+2+ years using analytics services and tools including BI systems (Tableau, Domo, Qlick) and technology stacks (SQL, Bash, Python).</p></li>
+<li><p>
+You should know the following terms without looking them up: git, repo, branch, merge, continuous integration, ticket, sprint, story point, build, stage, and release.</p></li>
+<li><p>
+Strong experience utilizing and presenting data to both technical and non-technical audiences, especially in the customer-facing arena.</p></li>
+<li><p>
+2+ years in a SaaS Professional Services or sales environment working directly with services offerings.</p></li>
+<li><p>
+Experience working with SQL database, with Docker, and also have Linux system administration skills.</p></li>
+<li><p>
+Experience and skills around system administration and installing and maintaining enterprise-level software products like JIRA, GitLab, and others.</p></li>
+<li><p><b>
+Experience with Replicated strongly preferred.</b></p></li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+null<br>
+<br>
+Additional Information<br>
+<br>
+<p>Be Yourself. Pluralsight is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</p>
+</div>
+</div>

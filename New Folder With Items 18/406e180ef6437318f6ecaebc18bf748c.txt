@@ -1,0 +1,45 @@
+<h2>Software Engineer - Kernel/Embedded</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Job description</b></h2>
+<p>Radian is seeking an expert level Software engineer to work on the company’s core technology and primary products for advanced memory storage.</p>
+<p>
+Will design, develop and debug complex software and firmware in C in embedded System-on-Chip and on x86 host platforms. Will develop device drivers, kernel modules, and low level software interfaces at the hardware register level for products targeting advanced storage systems.</p>
+<p>
+Be part of a high growth, dynamic post revenue startup. Work with an expert technical team addressing one of the industry’s most demanding applications.</p>
+<p><b>
+Required Skills</b></p>
+<p>
+8+ years experience with expert level proficiency in the following:</p>
+<ul>
+<li>Complex C programming on embedded or x86 platforms with Linux</li>
+<li>Proficient working at intersection of software/hardware</li>
+<li>Device Drivers for embedded or x86 platforms</li>
+<li>Proficient at writing high performance code with minimal memory utilization</li>
+<li>Diagnostic code development and unit testing</li>
+</ul>
+<p><b>Desired Skills:</b></p>
+<ul>
+<li>Unix/Linux kernel internals</li>
+<li>System-on-Chip (SoC) processors</li>
+<li>Multi-core architectures</li>
+<li>Parallel processing with pipelined operations</li>
+<li>Heavy multi-threading, synchronization and high concurrency</li>
+<li>Complex and tightly integrated code bases</li>
+<li>Linux storage stack (block layer, kernel memory management, block device drivers)</li>
+<li>Capable of utilizing hardware analyzers or emulators, digital scopes and debug tools</li>
+<li>Flash-Translation-Layers (FTLs)</li>
+<li>Storage interfaces and protocols (fibre channel, SCSI, SAS, SATA, PCIe, NVMe)</li>
+<li>ACID principles</li>
+<li>Diagnostic code development and unit testing</li>
+<li>Familiarity with test tools and frameworks (e.g., jenkins) or scripting (e.g., python)</li>
+</ul>
+<p>Radian offers the best of both worlds… getting involved with a startup, early stage stock options, and an incredible team working on cutting edge technologies, but with the stability of a post revenue company that is achieving $ millions in YoY sales growth.</p>
+<p><b>
+Position is located in Calabasas, Ca.</b></p>
+<p>
+Excellent salary, company stock options, and premium health insurance.</p>
+<p>
+Email resumes to info@radianmemory.com</p>
+<p>
+Radian Memory Systems does not use Employment Service agencies or accept third party submissions. Radian Memory Systems is an Equal Opportunity Employer.</p>
+</div></div>

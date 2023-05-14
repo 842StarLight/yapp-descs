@@ -1,0 +1,76 @@
+<h2>Salesforce Administrator, Jr. Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About the Role
+</b></p>
+<p>The goTenna Business Operations team is seeking a Salesforce specialist to support and implement growth initiatives across the company. The successful candidate will love optimizing workflows and building new ones by translating business requirements into technical/system requirements. In a cross functional capacity, the role will work daily with sales, marketing, customer experience, operational fulfillment and finance teams.
+</p>
+<p><b>Key Activities</b></p>
+<ul>
+<li>Performing Salesforce administrative functions, such as creating and configuring users and permission/profile sets as well as defining user roles, profiles, groups and security settings.</li>
+<li>
+Maintaining fields and mapping for both existing and custom objects.</li>
+<li>
+Debugging technical issues, by delivering timely fixes but also working on scalable longer-term solutions.</li>
+<li>
+Uphold defined business processes and implement new standards that continually enforce a high level of data integrity.</li>
+<li>
+Identify quick wins and implement best practices.</li>
+<li>
+Use of the Salesforce API to build read and write connections to third party applications.</li>
+<li>
+Install, configure, and administer Salesforce application extensions or third party tools/applications that integrate with Salesforce.</li>
+</ul>
+<p><b>Required Qualifications</b></p>
+<ul>
+<li>At least 1 year of experience in a Salesforce Administration role</li>
+<li>
+Current Salesforce Administrator Certification (or demonstrated experience equivalent)</li>
+<li>
+A solid understanding of Salesforce functionality and an interest in staying up to date with new features and developments</li>
+<li>
+Strong written and verbal communication skills
+</li>
+<li>Demonstrated proficiency with Salesforce objects, fields, page layouts, workflows, process builder, validation rules, permissions, roles, reports, dashboards, and logical formulas</li>
+<li>
+Experience automating business processes using the process builder, flows, triggers and validation rules, enforcing data integrity.</li>
+<li>
+Experience using a sandbox environment to build and test new features.</li>
+<li>
+Developing custom pages and functionality using Visualforce or Lightning web components</li>
+<li>
+Curious about the development of Salesforce and how it can be impactful across the company to different teams.</li>
+</ul>
+<p><b>Attributes</b></p>
+<ul>
+<li>Curious about the development of Salesforce and how it can be impactful across the company to different teams.</li>
+<li>
+Highly conscious about how Salesforce data is created and how it relates to future business intelligence.</li>
+<li>
+Genuine problem solver that puts themselves in the position of the user and optimizes overall workflow between teams.</li>
+<li>
+Asks relevant questions to learn and strengthen understanding.</li>
+<li>
+Adaptable to a changing working environment and can develop solutions for both the short and long term.</li>
+<li>
+Experience working with different Salesforce user types and coaching users of different experience levels</li>
+</ul>
+<p><b>It would be awesome if you had</b></p>
+<ul>
+<li>Salesforce Advanced Certification</li>
+<li>
+Experience with a company that delivers both hardware and software.</li>
+<li>
+Basic web development experience (HTML/CSS)</li>
+<li>
+Familiarity executing SOQL queries
+</li>
+<li>Experience writing Apex code and test classes</li>
+<li>
+Experience working with large data sets.</li>
+</ul>
+<p><b>About goTenna:</b></p>
+<p>
+goTenna is building the world’s most intelligent and scalable mobile mesh networks. Our protocols and devices are designed to enable off-grid connectivity and augment traditional communications networks. goTenna mesh networking turns everything in the world around us into programmable mobile infrastructure to decentralize connectivity and unlock society’s last-mile.</p>
+<p>
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+</div></div>

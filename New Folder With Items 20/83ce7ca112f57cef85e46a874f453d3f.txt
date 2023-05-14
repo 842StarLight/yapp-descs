@@ -1,0 +1,63 @@
+<h2>Sr. Managing Data/BI Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Washington DC, NYC or Boston</p>
+<p>We are looking for a Consulting Managing Data Architect &amp; Big Data with practical, hands-on knowledge of modern data architectures and tools such as data warehousing, ETL/ELT, analytics, and the Microsoft Azure cloud platform. You should be driven to provide quality solutions to challenging problems. You will work closely with client stakeholders and an award-winning team of engineers, architects and thought leaders to design, build and implement next-generation solutions in advanced analytics, Big Data, BI and the cloud. As a Managing Architect you will be responsible for industry research &amp; development, rapid prototyping, and outreach to the technology community. You will collaborate with sales and marketing, and delivery in the creation of Insight Digital Innovation offerings, providing pre-sales collateral in the form of whitepapers, presentations, blog articles, demos and videos.</p>
+<p>What you’ll do at Insight:</p>
+<ul>
+<li>Design and build enterprise-grade data solutions for a variety of external clients</li>
+<li>Design and code solutions to tough data challenges and provide feedback on others’ work</li>
+<li>Work directly with client stakeholders to develop technical solutions for business cases</li>
+<li>Aggressively grow your skillset and expertise to meet the emerging needs of our clients</li>
+<li>Drive business decisions and press customers for requirements and to challenge current technology concepts</li>
+<li>Lead teams of developers and be familiar with standard project management processes (scrum, Kanban, etc.) including forecasting of effort and project financials</li>
+<li>Manage and mentor Data Engineers and Data Architects</li>
+<li>Participate in pre-sales activities – scoping and estimating projects, and authoring of SOWs and Change Orders</li>
+</ul>
+<p>What you’ll need to join Insight:</p>
+<ul>
+<li>10+ years of hands-on experience working with data tools within the Microsoft data platform with an demonstrated understanding of most of the following technologies:</li>
+<li>SQL Server</li>
+<li>Analysis Services and DAX</li>
+<li>Reporting Services</li>
+<li>Integration Services</li>
+<li>2+ years of experience in three or more of the following technologies:</li>
+<li>Self-Service BI Tools: Power BI, Tableau, Qlik</li>
+<li>Azure: Azure SQL Database, Azure Data Warehouse and Azure Data Factory</li>
+<li>Azure Big Data Technologies: Azure Data Lake and Azure Data Lake Analytics</li>
+<li>Big Data Technologies: Hadoop or HDInsight, Hive, Pig, Python, Spark, Oozie, or any of the other tools with the Hadoop ecosystem</li>
+<li>Predictive Analytics: R, Azure Machine Learning</li>
+<li>Scripting: PowerShell, Azure Automation</li>
+<li>Development Languages: .NET, Java, Python, Scala</li>
+<li>Experience designing, building, and evolving enterprise grade software</li>
+<li>Passion and experience managing and mentoring employees with a proven track record of growing talent from within an organization</li>
+<li>Knowledge of cloud and hybrid-cloud implementations including IaaS, PaaS and SaaS</li>
+<li>Strong analytical and reasoning skills that result in clear technical execution</li>
+<li>Skill at translating requirements into clean, efficient and quality code</li>
+<li>Proven ability to prioritize, self-direct and execute at velocity</li>
+<li>Passion to deliver craftsman-quality work both individually and as part of a team</li>
+<li>Solid communication skills with both technical and non-technical stakeholders</li>
+<li>Desire to learn new skills and grow competencies</li>
+<li>Bachelor’s degree in Computer Science or related discipline</li>
+</ul>
+<p>Insight is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, sexual orientation or any other characteristic protected by law.</p>
+<p>The position (or opportunity) described above provides a summary of some the job duties required and what it would be like to work at Insight. For a comprehensive list of physical demands and work environment for this position, read below link:</p>
+<p>http://www.insight.com/en_US/help/physical-demands-and-work-environment.html</p>
+<p>Do you know someone who would make a great Insight teammate?</p>
+<p>Referrals are the best way to build quality teams – and a great way for you to earn a little extra cash. Please visit the Teammate Referral Policy page on Inside.Insight to find out how you can refer someone to this job at Insight.</p>
+<p>The position described above provides a summary of some the job duties required and what it would be like to work at Insight. For a comprehensive list of physical demands and work environment for this position, click here.</p>
+<p>Today, every business is a technology business. Insight Enterprises, Inc. empowers organizations of all sizes with Insight Intelligent Technology Solutions™ and services to maximize the business value of IT. As a Fortune 500-ranked global provider of digital innovation, cloud/data center transformation, connected workforce, and supply chain optimization solutions and services, we help clients successfully manage their IT today while transforming for tomorrow. From IT strategy and design to implementation and management, our 6,800 employees help clients innovate and optimize their operations to run smarter. Discover more at insight.com.</p>
+<ul>
+<li>Founded in 1988 in Tempe, Arizona</li>
+<li>7,400+ teammates in 19 countries providing Intelligent Technology Solutions for organizations across the globe</li>
+<li>$7.1 billion in revenue in 2018</li>
+<li>Ranked #417 on the 2018 Fortune 500, #12 on the 2018 CRN Solution Provider 500</li>
+<li>2018 Dell EMC Server Partner of the Year, 2018 Intel Retail Solution Partner of the Year, 2018 Microsoft Worldwide Artificial Intelligence Partner of the Year</li>
+<li>Ranked #23 on the 2019 Fortune 50 Best Workplaces in Technology and #5 on the Phoenix Business Journal 2018 list of Best Places to Work (Extra Large Business)</li>
+<li>Signatory of the United Nations (UN) Global Compact and Affiliate Member of the Responsible Business Alliance</li>
+</ul>
+<p>Today's talent leads tomorrow's success. Learn about careers at Insight: jobs.insight.com.</p>
+<p>Insight is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, sexual orientation or any other characteristic protected by law.</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>relevant: 1 year (Preferred)</li></ul>
+</div>

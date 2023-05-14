@@ -1,0 +1,115 @@
+<h2>Web Designer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Job Title:</b></h2>
+Web Designer<h2 class="jobSectionHeader">
+<br>
+<b>
+Location:
+</b>
+</h2>US, Texas, Plano<p></p>
+<h2 class="jobSectionHeader"><b>
+Role Overview:</b></h2>
+<p>
+Are you an html jockey that wants to fly in the global e-commerce environment? Do you want to be part of a team that builds great things? Do you like tweaking a content management system (CMS) to get it to dance?<br>
+<br>
+If so, read on…</p>
+<p><br>
+<b><i>
+Company Overview</i></b></p>
+<p>
+From device to cloud, McAfee provides market-leading cybersecurity solutions for both business and consumers. McAfee helps businesses orchestrate cyber environments that are truly integrated, where protection, detection, and correction of security threats happen simultaneously and collaboratively. For consumers, McAfee secures your devices against viruses, malware, and other threats at home and away. With the mission of capturing the biggest market share in the area of cyber security, network security, endpoint security, threat research, malware research, cloud security, we work together for a common goal of shaping the company’s future by designing and building best in class cyber security solutions.<br>
+</p>
+<p><b><i>
+About The Role:
+</i></b></p>
+<ul>
+<li>This role requires content authoring experience with a Content Management System (Adobe experience Manager is preferred) and experience with html, CSS and JavaScript (Vue, Angular etc.)</li>
+<li>
+Handle incoming requests for web pages to be launched from stakeholders around the world: Japan, US, Brazil, Australia, and Europe.</li>
+<li>
+Sit with User Experience, Product Management, Sales, and Marketing to brainstorm things to test</li>
+<li>
+Build out page using components and templates inside of Adobe Experience Manager</li>
+<li>
+Manage content in the product catalog to reflect changes in feature, price, images, and system requirements</li>
+<li>
+Maintain knowledge of product website structure, taxonomy, and templates</li>
+<li>
+Works closely with members of other areas and technology teams to identify CMS-related issues</li>
+<li>
+Testing and QA checks to make sure content, analytics, and pricing are “spot on”</li>
+</ul>
+<p></p>
+<p><b><i>
+About You:</i></b></p>
+<ul>
+<li>
+We are a small team in a large corporation</li>
+<li>
+You have solid authoring experience with Adobe Experience Manager (AEM) to build the next gen web pages</li>
+<li>
+Experience with ecommerce CART and Launch CART page testing flows in AEM will be very helpful.</li>
+<li>
+You have a “good eye” for a properly laid out web page</li>
+<li>
+You like solving puzzles and problem solving</li>
+<li>
+You have worked in a consumer e-commerce environment, and are familiar with Acquisition, Conversion, and Retention as a framework</li>
+<li>
+You have working knowledge on Javascript and can work with Vue.</li>
+<li>
+You speak HTML, CSS, and can validate parameters passed on a web page using Charles, Fiddler, or web browser dev tools</li>
+<li>
+You thrive in collaborating with User Experience, Product Management, Engineering, Sales, and Marketing to achieve great web experiences</li>
+<li>
+You relish the challenge of working in a global environment that will publish pages in over 30 languages</li>
+<li>
+You love e-commerce and dream about how to optimize cart conversion flows</li>
+<li>
+You have worked with Adobe Experience Manager, Adobe Target, Adobe Analytics, hotjar, etc.</li>
+<li>
+You have worked in a subscription software business</li>
+</ul>
+<p></p>
+<br>
+<p><b><i>
+Company Benefits and Perks:</i></b></p>
+<p>
+Our corporate culture and values are central to McAfee’s philosophy. Every day we embrace a more diverse workforce and inclusive environment. We are encouraged to bring our true selves to work. Our wide range of social communities &amp; programs, flexible work hours and family-friendly benefits, all allow our employees to feel valued as people, while enjoying positive and challenging work.</p>
+<p>
+Check out more: Careers &amp; Life at McAfee.</p>
+<p></p>
+<p>
+Perks may include:</p>
+<ul>
+<li><p>
+Pension / Retirement Programs</p></li>
+<li><p>
+Medical, Dental and Vision Coverage Programs</p></li>
+<li><p>
+Paid Time Off</p></li>
+<li><p>
+Support for Community Involvement</p></li>
+</ul>
+<p><i>
+Unleash your Power</i> … <i>Join our Talent Network: </i>http://careers.mcafee.com/</p>
+<p></p>
+<p><b>
+Posting Statement:</b></p>
+<p></p>
+<p>
+McAfee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.</p>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+Job Type:</b></h2>
+<p>
+Experienced Hire</p>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+Primary Location:</b></h2>
+US, Texas, Plano<h2 class="jobSectionHeader">
+<br>
+<b>
+Additional Locations:</b>
+</h2>
+</div></div>

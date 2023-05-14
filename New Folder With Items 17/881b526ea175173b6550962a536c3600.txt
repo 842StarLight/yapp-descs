@@ -1,0 +1,51 @@
+<h2>QA Automation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Who Are We?
+<br><br>
+Merchant e-Solutions is an innovative, technology-focused company providing a full-service platform to support the payment processing needs for merchants of all sizes, including small business retail shops, B2B wholesalers, and global eCommerce enterprises. We partner with financial institutions, software developers, independent sales organizations, and agents to bring our solutions to market.
+<br><br>
+Why Join Us?
+<br><br>
+We're growing and we're looking for collaborative, innovative, and hard-working individuals to grow with us! We offer a modern and inspiring work environment (including a game room and free snacks!) where your ideas and contributions are valued. Come experience, first-hand, the impact of your contributions.
+<br><br>
+<b>The Opportunity:</b><br>
+As a Quality Assurance Engineer you will fill an integral role in the development, test, and deployment of complex solutions that process millions of transactions per day worldwide. We are looking for an experienced candidate to be responsible for the quality of code and large-scale technology initiatives. Design, create/implement, and maintain test automation frameworks to increase productivity and efficiency in the QA department and collaborate with multiple Development teams to enhance and improve automated test coverage. Specify, design, and implement automation tests for features, customizations, reports and/or product fixes that involve Java back end, XML APIs and databases. Analyze existing automation infrastructure, identify problems, and develop solutions.
+<br><br>
+<b>Your Responsibilities will require you to:</b><br>
+<ul>
+<li>Develop End to End, System/Integration, and User-focused test plans and strategies using product requirements and design documents.</li>
+<li>Build and execute test-cases in the following areas: functional, integration, security, stability, performance, stress.</li>
+<li>Write, execute and refactor automated test cases.</li>
+<li>Plan, design and enhance automation frameworks and tools using Selenium, Jmeter or other open-source tools.</li>
+<li>Investigate failures, perform root cause analysis and use internal defect tracking tool to create detailed, high quality error reports.</li>
+<li>Build and drive comprehensive test strategies (manual/automated) that covers all systems.</li>
+<li>Work with cross-team product owners, developers and quality engineers to support QA processes.</li>
+<li>Use of Agile methodology in all phases of the iterative software development lifecycle.</li>
+<li>Experience Testing API</li>
+<li>Experience working with database Oracle.</li>
+<li>Communicate status frequently in daily Scrum.</li>
+<li>Document process, designs, test results, and analysis.</li>
+<li>Review requirements; execute functional and non-functional test cases.</li>
+<li>Strong written and verbal communication skills, interpersonal and negotiation skills.</li>
+<li>Strong analytical skills and the ability to learn quickly. Understanding of Software Development Life Cycle (SDLC), Agile Methodology.</li>
+<li>Be proactive in following release cycle schedule by planning, estimating and executing of tests for existing and new projects.</li>
+</ul>
+<b>Qualified Candidate Profile:</b><br>
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed are representative of the knowledge, skill, and/or ability required:
+<br><br>
+<ul>
+<li>Education and work experience:</li>
+<li>Must have Bachelor's degree in Engineering, Business or related field or equivalent work experience.</li>
+<li>Minimum 5+ years working experience as QA Engineer in the epayment space.</li>
+<li>Understanding of the Software Development Lifecycle including Agile methodology</li>
+<li>Experience working with database – Oracle or otherwise.</li>
+<li>Able to understand and write simple SQL queries.</li>
+<li>Experience working with Java or other languages</li>
+<li>Understanding of web technologies (web server, application server, load balancer, database, browser, http and https protocols, etc.)</li>
+<li>Familiar with automated tools</li>
+<li>Excellent interpersonal and communication (both verbal and written) skills.</li>
+<li>Self-starter, motivator, and a team player.</li>
+</ul>
+Additional information
+<br>----------------------
+<br><br>
+Merchant e-Solutions is an Equal Opportunity Employer committed to a diverse workforce.</div>

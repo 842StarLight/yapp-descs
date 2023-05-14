@@ -1,0 +1,80 @@
+<h2>Systems Engineer - Majors East - Prisma Access</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Our Mission</b></p>
+<p>
+At Palo Alto Networks® everything starts and ends with our mission:</p>
+<p>
+Being the cybersecurity partner of choice, protecting our digital way of life.</p>
+<p>
+We have the vision of a world where each day is safer and more secure than the one before. These aren’t easy goals to accomplish – but we’re not here for easy. We’re here for better. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.</p>
+<p><b>
+Your Career</b></p>
+<p>
+You will work with your sales partner to establish relationships with customers with the goal of helping them detect and prevent advanced cyber attacks and breaches by advising them on what applications to deploy from the Palo Alto Networks platform. Our systems engineers have a deep technical understanding of cybersecurity products, integrations, and critical cyber threats facing our potential customer’s environments.</p>
+<p>
+We need these technical guides to work with our sales teams, providing training and technical support. You build trust with our clients and teams, establishing strong rapport as a trusted advisor, and build an environment where our clients feel (and are) secure. Additionally, you'll be called upon to offer feedback to our product management team on new feature requests and product improvements based on what you learn from your customer base.</p>
+<p><b>
+Your Impact</b></p>
+<ul>
+<li>
+Establish yourself as a trusted advisor to prospects and customers working with your Account Manager and the local partners within your territory</li>
+<li>
+Identify and document specific problems with prospective and current customers which can be solved through the deployment of integrated solutions</li>
+<li>
+Architect and propose validated solutions which address the identified cybersecurity problems in each individual environment</li>
+<li>
+Ensure ongoing customer happiness, support, and adoption</li>
+<li>
+Continuous self-improvement and learning to maintain technical leadership of applicable technologies (data center, SDN, public cloud, security, networking, etc.)</li>
+<li>
+Understand and effectively differentiate against our top competitors</li>
+<li>
+Act as the customer advocate for any issues that require technical assistance and follow up with the customer until the issue is resolved</li>
+</ul>
+<p><b>
+Your Experience</b></p>
+<ul>
+<li>
+BS technical degree or equivalent</li>
+<li>
+4+ years of remote user access technologies</li>
+<li>
+SD-WAN Architectures and providers</li>
+<li>
+Tunneling protocols such as SSL/TLS, IPSec, GRE</li>
+<li>
+Authentication methodologies, including 2FA, RADIUS, LDAP, AD</li>
+<li>
+IP Routing: BGP, Static, Network Address Translation</li>
+<li>
+Certificate Management</li>
+<li>
+Next Generation Firewall capabilities, configuration, and deployment</li>
+<li>
+PANOS knowledge</li>
+<li>
+Ability to work within small creative teams as well as cross-functional teams</li>
+<li>
+Strong communication (written and verbal)</li>
+<li>
+Strong presentation skills both internally and externally</li>
+<li>
+Ambitious attitude</li>
+<li>
+Willing to travel up to 50% of the time</li>
+</ul>
+<p><b>
+The Team</b></p>
+<p>
+We have brought a technology to market that is reshaping the network security landscape. Our ability to protect enterprises is only limited by our ability to build positive relationships with our potential customers and help them understand how we can help. This is where our systems engineer team come in. Our systems engineering team members work hand-in-hand with the sales team to help provide technical support and educate customers on our products and solutions during the purchase making process.</p>
+<p>
+You will identify complex security challenges in your potential customers’ networks and drive solutions using our market-leading security products and services. We need individuals who are capable of forming relationships with clients built on trust, education, and partnership.</p>
+<p><b>
+Our Commitment</b></p>
+<p>
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together. To learn more about our dedication to inclusion and innovation, visit our Life at Palo Alto Networks page and our diversity website.</p>
+<p>
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.</p>
+<p>
+Additionally, we are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.</p>
+</div></div>

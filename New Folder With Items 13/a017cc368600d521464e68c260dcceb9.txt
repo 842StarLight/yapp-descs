@@ -1,0 +1,38 @@
+<h2>Senior Product Manager - Iris Investigate API & Integrations</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">DomainTools is expanding its product management team and is looking for a superstar Senior Product Manager to join the team. This person will be responsible for driving product strategy for our Iris Investigate API, our high-impact SOAR/TIP/investigative integrations, and working with third party product teams who use our Iris Investigate API. The ideal candidate is technical, detail oriented, and passionate about building great security products. If you want to make a big impact in a fun, established company with a start-up like environment, and have strong product management skills, DomainTools is the place to be!
+<br><br>
+Key Responsibilities
+<br><ul>
+<li>Product strategy – Drive strategy and feature set for the Iris Investigate API, and our integrations with popular SOAR/TIP/investigation platforms including Phantom, Demisto, Resilient, Anomali, MISP, Maltego, and more. The Iris Investigate API is a purpose-built API designed for human-scale (not high speed) lookups of domains to get our rich contextual data and risk scores we offer for nearly all domains on the internet. Our SOAR, TIP, and investigative integrations give customers deep contextual awareness using our data integrated directly into those platforms, helping inform analysts and speed up their investigation or incident response processes.</li>
+<li>Requirements gathering – Meet with customers to understand their needs, how and where our data can be best utilized, and develop innovative ways how DomainTools can integrate with SOARs, TIPs, investigation platforms and other solutions to best meet our customers’ unmet and latent needs.</li>
+<li>Integration partner engagement – Foster strong relationships and high-impact integrations with our integration partners using the Iris Investigate API. Be their technical point of contact, share best practices on how to use our Iris Investigate API, and partner with them throughout the entire product lifecycle of integrations they develop to ensure the best outcomes.</li>
+<li>Market intelligence – Understand trends in the security market, key solutions we should develop integrations with, and key competitors.</li>
+<li>Product champion – Become a SOAR, TIP, and investigations expert, evangelize the Iris Investigate API and the integrations you own, partner with marketing on launches, training events, customer outreach, and other events.</li>
+<li>Team player – Partner closely with others on the product management team, engineering, marketing, sales, account management, and other organizations. Collaborate with the product team to ensure consistency across solutions wherever possible.</li>
+</ul>
+Basic Qualifications
+<br><ul>
+<li>Passionate about driving product management for powerful security products that delight our customers</li>
+<li>Minimum of 3 years of product management experience working on security or SIEM-based products</li>
+<li>Experience working with or managing API-based products</li>
+<li>Agile development method experience as Product Owner</li>
+<li>Ability to think strategically, and craft and convey a compelling product vision</li>
+<li>Experience working with engineering, product marketing, sales, support, and customer success teams</li>
+<li>Excellent people and management skills to interact with colleagues, cross-functional teams, and third party organizations</li>
+<li>Excellent writing and presentation skills</li>
+<li>Willing to travel 20% (US and international travel)</li>
+</ul>
+Preferred Qualifications
+<br><ul>
+<li>Bachelors of Science, Computer Science or equivalent experience</li>
+<li>MBA or equivalent job experience</li>
+<li>Experience working with security products, threat intelligence products, SOAR platforms, TIP platforms, investigation platforms, Whois data, DNS data, SSL certificate data, web crawl data, and related technologies/data sets</li>
+<li>Experience with enterprise-grade, big data scale platforms/products</li>
+<li>Experience with data-oriented products or services</li>
+<li>Solid understanding of applications and IT infrastructure</li>
+</ul>
+Company Overview
+<br><br>
+DomainTools helps security analysts turn threat data into threat intelligence. We take indicators from your network, including domains and IPs, and connect them with nearly every active domain on the Internet. Those connections inform risk assessments, help profile attackers, guide online fraud investigations, and map cyber activity to attacker infrastructure. Fortune 1000 companies, global government agencies, and leading security solution vendors use the DomainTools platform as a critical ingredient in their threat investigation and mitigation work.
+<br><br>
+DomainTools is an Equal Opportunity Employer.</div>

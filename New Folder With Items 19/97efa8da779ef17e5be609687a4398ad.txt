@@ -1,0 +1,66 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">At WorkSpan we believe in providing our customers with the best possible product and experience. We spread user love - and you will play a crucial role in that process. As an Engineering team member, you will work closely with Product Architects, Product Managers and Engineering teams to solution and develop features for our users. You will develop new software, APIs and data models, create flexible, reusable software components that help us build functionality quickly and easily. If you are looking for a place where you are encouraged to provide feedback, challenged to do your best work and have an amazing team to support you - WorkSpan is the place to be. Our leadership team is dedicated to mentoring and helping you achieve your goals, so you can span all borders on delivering awesomeness.
+<br><br>
+Join our growing team of Engineering experts today!
+<br><br>
+Depending on your preference, you can become a Backend or Frontend Engineer at WorkSpan.
+<br><br>
+<b>As our Backend Engineer you will:</b><br>
+<ul>
+<li>Build efficient, scalable, reusable back-end services and RESTful APIs to power our Web and Mobile applications</li>
+<li>Develop and maintain code quality standards and best practices.</li>
+<li>Enforce standards through regular code reviews.</li>
+<li>Write and maintain internal tools to help increase developer efficiency and effectiveness.</li>
+<li>Analyse and improve performance by utilising data to oversee product and user engagement (e.g. volumes and activity, key demographics &amp; trends, etc.) and bring to light areas for improvement.</li>
+<li>Prepare and declare recommendations, reports, and findings from experimental data all the way up to the executive level.</li>
+<li>Deliver Awesomeness : )</li>
+</ul>
+<b>As our Frontend Engineer you will:</b><br>
+<ul>
+<li>Deliver clean and performant AngularJS component</li>
+<li>Ensure high performance of the application</li>
+<li>Write tested, idiomatic, and documented JavaScript</li>
+<li>Synchronise with our backend and HTML / CSS team</li>
+<li>Refactor existing code</li>
+<li>Analyse and improve performance by utilising data to monitor product, user engagement (e.g. volumes and activity, key demographics &amp; trends, etc.), and uncover areas for improvement</li>
+<li>Develop and maintain code quality standards and standard methodologies</li>
+<li>Deliver Awesomeness : )</li>
+</ul>
+<b>Skills and Qualifications we are looking for:</b><br>
+<ul>
+<li>Deep knowledge in web application development (i.e., prior experience in building large scale web applications)</li>
+<li>Expertise in web application performance tuning</li>
+<li>High level of proficiency in web security (XSS, CSRF, etc)</li>
+<li>Experience maintaining large and growing code bases in a fast-paced environment is a plus.</li>
+<li>Interest in being up-to-date with the latest and evolving cloud technologies.</li>
+<li>For Backend role: Deep understanding of server side programming languages such as Python / Java / C#.</li>
+<li>For Frontend role: In-depth knowledge of Javascript and/or TypeScript and AngularJS or Angular.</li>
+<li>5+ years of engineering experience</li>
+<li>Bachelor or Master's degree in Computer Science</li>
+</ul>
+<b>What We Do and Value:</b><br>
+<ul>
+<li>WorkSpan is the only Go-To-Market Network for Alliances to automate &amp; report on joint sales, marketing &amp; solution initiatives. Translation? We help companies partner up to offer awesome joint products &amp; services—with the ability to engage, manage &amp; measure at scale.</li>
+<li>Working atmosphere at WorkSpan is positive and collaborative.</li>
+<li>We share information openly and broadly, because we believe the best way to empower each other is to actively build trust with transparent, honest, and free-flowing communication.</li>
+<li>We are flexible in our opinions and always open to new ideas.</li>
+<li>We innovate continuously, with a focus on long-term success.</li>
+<li>WorkSpan is an equal opportunity employer. We know it takes people with different ideas, strengths, backgrounds, cultures, weaknesses, opinions, and interests to make our company succeed. We celebrate our differences and are lucky to have teammates all over the world.</li>
+</ul>
+<b>Perks to make you perky:</b><br>
+We love to show our teammates that we care deeply about them and their well-being. In addition to our amazing culture, as our teammate you will also enjoy some phenomenal perks and benefits:
+<br><br>
+<ul>
+<li>Fun, growing, casual and inclusive work environment</li>
+<li>Unlimited vacation - because work-life balance is important</li>
+<li>Research days - get carried away and spend one working day in a month doing research on anything that fascinates you</li>
+<li>Career growth opportunity in a fast growing company - we want you to evolve towards your best self</li>
+<li>Unlimited snacks and catered lunch - every day</li>
+<li>Gym access - to burn some of those calories : )</li>
+<li>401K (no matching)</li>
+<li>Commuter Benefit</li>
+<li>Not feeling like coming to the office today - no problem, see you on Slack</li>
+<li>Medical, Dental, and Vision benefits for you and dependents - we’ve got you covered</li>
+<li>Game nights and Thirsty Thursdays, Birthday celebrations, Trivia days - we do a ton of fun things together</li>
+</ul>
+</div>

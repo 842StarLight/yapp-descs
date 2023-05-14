@@ -1,0 +1,72 @@
+<h2>Senior Cloud Network Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>About Clover:</b><br>
+-------------------
+<br><br>
+Every day, Clover devices handle the core credit card and point-of-sale processing for hundreds of thousands of merchants. Behind the scenes, we operate a cloud platform providing processing, storage and collaboration for merchants, application developers, service providers and our merchants' customers. Our devices and platform form the backbone of millions of payment interactions between merchants and their customers daily.
+<br><br>
+------
+<br><br>
+<b>About the role:</b><br>
+---------------
+<br><br>
+As Clover's Senior Cloud Network Engineer, you will collaborate with technology architects in the design and selection of new technologies in support of business and network engineering initiatives and priorities. You will work on highest-priority business-critical network projects/tasks. You'll work on the network tasks, projects or support issues that involve the highest level of risk, or impact corporate-wide performance. You'll provide support, and you'll be regarded as the highest-level technical expert in multiple network disciplines.
+<br><br>
+------
+<br><br>
+<b>Responsibilities:</b><br>
+-----------------
+<br><br>
+Participate in work stream planning process a including inception, technical design, development, testing and delivery of network solutions
+<br><br>
+<ul>
+<li>Lead and/or implement the design and development of network solutions including firewalls, switches and routers</li>
+<li>Responds to interruptions &amp; outages to manage and restore normal service operation as quickly as possible and minimize the impact on business operations</li>
+<li>Troubleshoot, diagnose and resolve high severity issues or problems; collaborate with or guide internal or external teams during the problem resolution process as needed</li>
+<li>Create business continuity &amp; disaster recovery requirements, methods and procedures based on established policies</li>
+<li>Participate in discussions with teams around standards and practices</li>
+<li>Provide technical leadership to network team members and recommend training programs targeting specific areas of improvement</li>
+<li>Gather research data on vendor products and services</li>
+<li>Create and review network schematics, diagrams, and other program documentation to assist with development and preparation of cost estimates, and review vendor proposals</li>
+<li>Assist in the development of disaster recovery plans with service providers and network carriers</li>
+<li>Implement contingency plans, including reliable network backup and restore procedures as needed</li>
+<li>Analyze network activity and network problems to discover and prevent systematic errors; recommend enhancements to improve systems availability and performance</li>
+<li>Develop capacity planning models and load-balancing/redundancy solutions</li>
+<li>Maintain enterprise IT standards across the network; analyze and report on key metrics and KPIs</li>
+<li>Collaborate in the overall implementation of cloud networking solutions</li>
+<li>Configure, install and test various network devices and services (e;g;, routers, switches, firewalls, load balancers, DNS and DHCP, remote access / VPN)</li>
+<li>Monitor network activity and log problems</li>
+<li>Provide responsive support for problems found during normal working hours and outside normal working hours</li>
+<li>Communicate status and document problems and resolutions for future reference</li>
+<li>Notify management when contract requirements are not being met</li>
+<li>Determine requirements impact on existing architecture, work processes, and systems</li>
+<li>Assess network performance to ensure that it meets Clover's present and future needs; analyze facility bandwidth requirements and system interdependencies</li>
+</ul>
+<b>What you bring:</b><br>
+---------------
+<br><br>
+<ul>
+<li>Bachelor's degree in Computer Science with 7 years of experience, or 10 years of relevant networking work experience</li>
+<li>Min 3 years of the total experience must include migrating and/or extending on-premises networks to the cloud</li>
+<li>Min 3 yrs experience with Google Cloud Platform, and software defined networks</li>
+</ul>
+<b>Technical Requirements:</b><br>
+-----------------------
+<br><br>
+<ul>
+<li>Knowledge of work stream planning processes including inception, technical design, development, testing and delivery of network solutions</li>
+<li>Experience with vulnerabilities and mitigation strategies in business continuity and disaster recovery</li>
+<li>Strong knowledge of cloud VPC &amp; VPN configurations</li>
+<li>Deep knowledge of network security concepts, firewalls, and load balancers</li>
+<li>Strong knowledge of OpenVPN</li>
+<li>Deep understanding of Routing protocols (EIGRP, OSPF, VRF, BGP, MP-BGP, Multicast, AnyCast, DSCP/QoS, MPLS)</li>
+<li>Strong knowledge of Wireless standards and protocols (WPA/WPA2, 802.1x, 802.11, X.509, CAPWAP, RMM, WMM, Guest Access, Profiling, Posturing, DACLs, PACLs).</li>
+<li>Proven experience securing DB services for SQL and noSQL environments (MySQL, Cassandra, Kibana, and SnowFlake).</li>
+<li>Strong knowledge on LDAP structure, with proven experience in LDAP admin/config.</li>
+<li>Familiarity with Security Appliances and features (ASA, SRX, PAN FW, RBNA).</li>
+<li>Experience working with data exchange formats such as XML, JSON, STIX, and TAXI.</li>
+<li>Experience with threat vulnerability assessment tools.</li>
+<li>Excellent verbal and written communication skills.</li>
+<li>Security certifications such CISSP or GIAC a plus.</li>
+</ul>
+</div>

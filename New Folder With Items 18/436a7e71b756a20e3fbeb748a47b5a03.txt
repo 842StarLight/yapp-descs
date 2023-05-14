@@ -1,0 +1,42 @@
+<h2>Software Development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>Experience in all aspects of software development, including technical expertise, project management, and personnel management.</li>
+<li>Demonstrated experience delivering innovative, customer-centric products</li>
+<li>Entrepreneurial spirit combined with strong program and product management skills</li>
+<li>Deeply technical with track record of successful delivery as individual contributor and leader</li>
+<li>Experience with building robust, scalable, distributed systems solutions for complex business problems</li>
+<li>Execution experience in fast-paced environments and performance driven culture</li>
+<li>Proven track record building, motivating and growing teams of star players</li>
+<li>Excellent verbal and written communication skills and ability to work cross-functionally at all levels</li>
+<li>A minimum 8+ years of industry experience</li>
+<li>A minimum of a Bachelors of Science degree in Computer Science or equivalent</li>
+</ul>
+<br>
+<p>Want to work with brilliant engineers who are changing the world? Want to solve technical problems at scale on the largest Elasticsearch cluster at Amazon? We're looking for passionate Software Development Engineers (SDEs) like you who are entrepreneurial and ready to tackle your next career challenge!<br>
+<br>
+Amazon.com strives to be Earth's most customer-centric company where people can find and discover virtually anything they want to buy online. By giving customers more of what they want - low prices, vast selection, and convenience - Amazon.com continues to grow and evolve as a world-class e-commerce platform. Amazon's evolution from Web site to e-commerce partner to development platform is driven by the spirit of innovation that is part of the company's DNA. The world's brightest minds come to Amazon.com to research and develop technology that improves the lives of shoppers and sellers around the world. Amazon’s vision is to offer the earth’s largest selection and lowest prices to our customers.<br>
+<br>
+Over 5MM Sellers in 12 countries (and growing) list their products for sale on the Amazon.com Marketplace. Sellers are a critical part of Amazon’s ecosystem to deliver on our vision of offering the earth’s largest selection and lowest prices. Our business currently represents more than 50% of Amazon units sold, and is growing all the time.<br>
+<br>
+The Marketplace organization drives the Selling on Amazon business and develops solutions that enable millions of sellers around the world to sell to more than 200MM customers (and growing). These solutions include the software platform and applications that drive demand generation, customer acquisition, seller integration, customer relationship management, business analytics, and the inventory and order management functions necessary for sellers to manage their business online at Amazon.com.<br>
+<br>
+Our team is made up of people like you. People who are:<br>
+Entrepreneurial –We build solutions for all sellers, regardless of size. In fact, many of us are sellers ourselves.<br>
+Innovative – Our problem space evolves every day due to scale, new categories and new geographies. There is no playbook for a Marketplace of this size, so innovation and creativity are a must.<br>
+Passionate – We are passionate about our customers, both sellers and buyers. Everyone’s an owner at Amazon, and our team is no exception. Our business is growing fast and the pace is even faster.<br>
+Leaders – We recognize the desire for people to lead, whether it is the development of a new feature or ownership of a new category. We invest in our team members, providing challenging roles with significant responsibility. Coaching and mentoring is taken seriously to ensure we continue to build a company we can be extremely proud of.<br>
+<br>
+The Listing Services teams build and operate the core platforms and services that support our sellers via interactive applications, feed processing systems, reporting frameworks and Web service APIs. Sellers use these systems to manage their products and inventory levels on Amazon websites and they are mission-critical to our sellers’ businesses. The Listing Services team mission is to provide the most innovative, scalable, and reliable systems in the world to ensure our sellers’ success.</p>
+<br>
+<ul>
+<li>Deep knowledge of Java EE technologies</li>
+<li>
+<li>Experience with agile development methodologies</li>
+<li>
+<li>Extensive writing experience in both business and technical environments</li>
+<li>
+<li>Excellent analytical skills with a focus on system performance metrics</li>
+<li>Experience with system architecture/design</li>
+</ul>
+</div>

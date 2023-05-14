@@ -1,0 +1,78 @@
+<h2>Associate Data Scientist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About Us:</b></p>
+<p>
+Located in beautiful Santa Barbara, HG Insights is a growing data services company, delivering key insights to sales and marketing departments. We're powered by a group of highly intelligent developers and data scientists with a mandate of having the largest technology install database in the world.</p>
+<p>
+We offer a casual yet professional environment. Get your sweat on at one of our fitness classes or go for a run along the beach which is two blocks away. You can find employees riding bikes to lunch in the funk zone or hanging out in one of our collaboration spaces. We are passionate about our jobs with a get-it-done attitude, yet we don't take ourselves too seriously.</p>
+<p><b>
+What You'll Do:</b>
+</p>
+<p>We are looking for a data scientist with software development background. We are a rapidly growing company with small focused engineering teams that deliver innovative features to a fast growing market. We build big-data systems utilizing cutting edge technologies and solutions that allow for our engineers to continuously learn and develop while shipping amazing products.</p>
+<p><b>
+Qualities/ Experience:</b></p>
+<ul>
+<li>
+Self-learner, hacker, technology advocate who can work on anything</li>
+<li>
+Amazing engineering skills, you're on your way to being the one of the best engineers you know</li>
+<li>
+You can architect, design, code, test, and mentor others</li>
+<li>
+Experience working with interesting and successful projects</li>
+<li>
+Thrive in a fast growing environment</li>
+<li>
+Excellent written and spoken English communication</li>
+<li>
+An interest in Machine Learning and Natural Language Processing</li>
+</ul>
+<p><b>
+What You'll Be Responsible For:</b>
+</p>
+<ul>
+<li>Build solutions for text classification, entity linking, and entity extraction and other related projects</li>
+<li>
+You will collaborate with Product Development Teams to build the most effective solutions</li>
+<li>
+You will develop features in our databases, backend apps, front end UI, and Data as a Service (DAAS) product</li>
+<li>
+You will help architect and design large scale enterprise big-data systems</li>
+<li>
+You will work on ideas from different team members as well as your own</li>
+<li>
+Fix bugs rapidly</li>
+<li>
+Attend daily stand-up meetings, planning sessions, encourage others, and collaborate at a rapid pace</li>
+</ul>
+<p><b>
+What You'll Need:</b>
+</p>
+<ul>
+<li>BS, MS, or Ph.D. in Computer Science or related technical discipline</li>
+<li>
+Experience Natural Language Processing, preferably in a commercial setting. Machine Learning a plus.</li>
+<li>
+Proficient in Java (3+ years experience recommended)</li>
+<li>
+MySQL, ElasticSearch, ESB, Hadoop, Spark, or other related data processing/database technologies</li>
+<li>
+Experience with Amazon Web Services (EC2, S3, RDS, EMR, ELB, etc.)</li>
+<li>
+Experience with web services using REST in Java</li>
+<li>
+Actual coding experience in large distributed environments with multiple endpoints and complex interactions</li>
+<li>
+Comfortable in an agile development environment</li>
+<li>
+Understanding and have real world experience using design patterns</li>
+<li>
+Comfortable programming on a Mac with Intellij and other tools</li>
+</ul>
+<p><i>
+HG Insights Company is an Equal Opportunity Employer</i></p>
+<p><i>
+Please note that HG Insights does not accept unsolicited resumes from recruiters or employment agencies. In the event of a recruiter or agency submitting a resume or candidate without a signed agreement being in place, we explicitly reserve the right to pursue and hire such candidates without any financial obligation to the recruiter or agency. Any unsolicited resumes, including those submitted directly to hiring managers, are deemed to be the property of HG Insights</i></p>
+<p>
+GjLy4qOEnF</p>
+</div></div>

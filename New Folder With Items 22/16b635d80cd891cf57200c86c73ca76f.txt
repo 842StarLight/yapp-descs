@@ -1,0 +1,145 @@
+<h2>Senior Software Engineer - Imaging Solutions</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>About Us
+</div>
+<div>
+<div>Leica Biosystems is a global leader in workflow solutions and automation. As the only company to own the workflow from biopsy to diagnosis, we are uniquely positioned to break down the barriers between each of these steps. Our mission of “Advancing Cancer Diagnostics, Improving Lives” is at the heart of our corporate culture. Our easy-to-use and consistently reliable offerings help improve workflow efficiency and diagnostic confidence. The company is represented in over 100 countries. It has manufacturing facilities in 9 countries, sales and service organizations in 19 countries, and an international network of dealers. The company is headquartered in Nussloch, Germany. Visit LeicaBiosystems.com for more information.
+</div>
+<div></div>
+<br>
+<div>
+<div>Leica Biosystems Imaging, Inc. is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, national origin, religion, gender, age, marital status, disability, veteran status, sexual orientation, gender identity, or any other characteristic protected by law.
+</div>
+<div></div>
+<div>All employment offers are contingent upon successful completion of our pre-employment drug screening and background/criminal check.
+</div>
+<div></div>
+<br>
+<div>Be sure to follow Leica Biosystems on LinkedIn!
+</div>
+</div>
+</div>
+<div><h2 class="jobSectionHeader"><b>Description
+</b></h2></div>
+<div>The Leica Biosystems Imaging business is excited to be growing our R&amp;D capability in our Vista, CA office, just outside of San Diego! On our journey to Vision 24, enabling clinicians to efficiently provide patients a highly confident diagnosis within 24-hours from biopsy, the LBS Imaging business plays a critical part in the scanning, image management and image analysis parts of the overall integrated solutions we offer.
+<div></div>
+<br>
+<div>As a Software Engineer, Imaging Solutions, you will be responsible for design, develop, and unit test image viewing, data workflow in support of the image analysis application. Components could be web, thick-client applications or micro-services. Collaborates with product managers and other developers to design and deliver needed functionality.
+<div>
+<br>
+Major Responsibilities
+</div>
+<div>
+<br>
+<ul>
+<li>Collaborate with Product Managers and other Software engineers developing image viewing and analysis applications.
+</li>
+<li>Collaborate, present and defend design with broader development team.
+</li>
+<li>Develop software under Leica Biosystems development procedures.
+</li>
+<li>Document software specifications based on marketing requirements in accordance with Leica Biosystems quality process. These would include but not limited to SRS, SDS, SDD, FMEA.
+</li>
+<li>Unit test software prior to turnover to QA engineers.
+</li>
+<li>Member of team of engineers developing devices and platform.
+</li>
+<li>Provide third-level support for customer installations. This would include participation in CDT&amp;R activities
+</li>
+<li>Learn and apply DBS (Danaher Business Systems) tools and processes for problem solving, lean product development, inspection of code &amp; design review and ultimately for driving customer happiness.<br>
+</li>
+</ul>
+<br>
+</div>
+</div>
+</div>
+<p></p>
+<div><h2 class="jobSectionHeader"><b>Qualifications
+</b></h2></div>
+<div>
+<ul>
+<li>Bachelor's degree in CS, Engineering or related field
+</li>
+<li>5+ years C++ or C# Windows development.
+</li>
+<li>2+ years’ experience with scripting language, preferably with JavaScript/PHP and related Web 2.0 technologies (CSS, AJAX, etc.)
+</li>
+<li>Experience developing multi-threaded applications.
+</li>
+<li>Experience developing Database applications including queries, views triggers using SQL
+</li>
+<li>Experience in estimating requirements and writing design documents
+</li>
+<li>Experience with client/server application architecture.
+</li>
+<li>Experience deploying and supporting software applications.
+</li>
+</ul>
+<br>
+Preferred Qualifications
+<div>
+<br>
+<ul>
+<li>Experience working with SCRUM in an Agile team environment.
+</li>
+<li>Experience with Visual Studio and other Microsoft development tools.
+</li>
+<li>Familiarity with GUI design for non-technical users, especially for image viewing applications.
+</li>
+<li>Familiarity with image file formats (JPEG, TIFF, GIF) and with compression techniques (JPEG, LZW).
+</li>
+<li>Familiarity with COM.
+</li>
+<li>Familiarity with medical imaging applications, such as in Pathology or Radiology.
+</li>
+<li>Experience with TCP/IP socket programming.
+</li>
+</ul>
+<br>
+<b>Diversity &amp; Inclusion
+</b><br>
+At Danaher, we are dedicated to building and sustaining a truly diverse and inclusive culture. These are not just words on a page—Diversity and Inclusion is a top priority for the company, and it ties deeply to each of our core values. Danaher Corporation and all Danaher Companies are equal opportunity employers that evaluate applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law.
+</div>
+<div></div>
+<br>
+<div>#LI-SM1<br>
+<br>
+</div>
+</div>
+<div></div>
+<br>
+<div>Danaher Corporation Overview
+</div>
+<div>
+<div>Danaher is a global science &amp; technology innovator committed to helping our customers solve complex challenges and improve quality of life worldwide. Our world class brands are leaders in some of the most demanding and attractive industries, including life sciences, medical diagnostics, dental, environmental and applied solutions. Our globally diverse team of 71,000 associates is united by a common culture and operating system, the Danaher Business System, which serves as our competitive advantage. We generated $19.9B in revenue last year. We are ranked #162 on the Fortune 500 and our stock has outperformed the S&amp;P 500 by more than 5,200% over 25 years.
+</div>
+<div></div>
+<br>
+<div>At Danaher, you can build a career in a way no other company can duplicate. Our brands allow us to offer dynamic careers across multiple industries. We're innovative, fast-paced, results-oriented, and we win. We need talented people to keep winning. Here you'll learn how DBS is used to shape strategy, focus execution, align our people, and create value for customers and shareholders. Come join our winning team.
+</div>
+<div></div>
+<br>
+<div>Danaher is committed to competitive compensation that typically has key components including base salary, variable annual incentive compensation based on personal and company performance, and long-term incentive.<br>
+</div>
+</div>
+<div></div>
+<br>
+<div>
+<h2 class="jobSectionHeader"><b>Organization
+</b></h2>: Leica Biosystems
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Job Function
+</b></h2>: Engineering
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Primary Location
+</b></h2>: North America-North America-United States-CA-Vista
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Schedule
+</b></h2>: Full-time</div>
+</div>
+</div>

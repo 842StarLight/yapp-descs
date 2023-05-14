@@ -1,0 +1,57 @@
+<h2>Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>We are currently seeking Pre-Sales and/or Post Sales, Solutions Architects whose primary job function will be to recommend, design, install, and maintain the suite of total information technology services and solutions that Network Access offers.</p>
+<p>*Strong expertise and experience in ANY of the following technology areas can be your key to building a successful career with Network Access.<br>*</p>
+<ul>
+<li>IT Security</li>
+<li>Server and Storage Technologies</li>
+<li>Virtualization</li>
+<li>Cloud Computing</li>
+<li>Disaster Recovery and Business Continuity</li>
+<li>Messaging and Directory Services</li>
+<li>Network Infrastructure (routing, switching, wireless and remote access)</li>
+</ul>
+<p>This position requires the successful candidate to work both on-site with clients and work closely with internal teams to design systems to suit our clients’ strategic needs.</p>
+<p><b>Examples of specialized skills and/or certifications desired include: </b></p>
+<ul>
+<li>SAN and NAS experience (EMC / Other)</li>
+<li>Virtual server environments (VMWare, Citrix and Microsoft)</li>
+<li>Physical-to-Virtual (P2V) Migrations</li>
+<li>Cisco switching and routing</li>
+<li>Microsoft Active Directory migration and management</li>
+<li>Microsoft Exchange migration and management</li>
+<li>Other Microsoft services (DNS, DHCP, IIS, WSUS, Terminal Services, etc)</li>
+<li>MCITP certification a plus</li>
+<li>Linux experience a plus</li>
+<li>Project Management experience a plus</li>
+</ul>
+<p><b>Solutions Architect responsibilities: </b></p>
+<ul>
+<li>Provide pre and/or post sales consulting, design, implementation and on-going support services for clients.</li>
+<li>Manage and monitor remote client servers and systems</li>
+<li>Support sales team members as a technical resource and assist with proposal/SOW development</li>
+<li>Candidate will be working on mission critical business applications operating in 24/7 data center environments</li>
+<li>Provide support to current and potential customers in a friendly and professional manner.</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>relevant: 3 years (Preferred)</li></ul>
+<p>Location:</p>
+<ul><li>Pittsburgh, PA (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+</ul>
+<p>This Company Describes Its Culture as:</p>
+<ul><li>Team-oriented -- cooperative and collaborative</li></ul>
+</div>

@@ -1,0 +1,78 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>LeaseQuery is growing and looking to add a <b>Software Engineer </b>to our team to help us continue dominating the Lease Accounting and Management Market. If you are a smart, motivated Engineer and consider yourself a problem solver then this position might be for you. LeaseQuery needs someone who is a self-starter and enjoys writing clean, efficient and scalable code.</p>
+<p>
+LeaseQuery is a FinTech lease accounting software that helps companies easily comply with new lease accounting guidelines. We provide the unique ability to work at a company who has the best-reviewed product in the market and a company culture that has awarded us one of the best places to work. We are fanatical about culture as shown in our 15+ perfect 5-star reviews on Glassdoor.</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+This person will interact with business analysts and other developers to enhance the functionality of the software</li>
+<li>
+This person will be developing software for LeaseQuery applications in order to enhance the product with new features and bug fixes.</li>
+<li>
+They must be able to work in a team environment using the Agile methodology.</li>
+<li>
+The goals of this person will be to finish all tasks assigned to them on a quarterly basis.</li>
+<li>
+The person will be expected to fix and close all bugs assigned to them each sprint.</li>
+<li>
+This person will be required to set deadlines for themselves and adhere to meeting the deadlines.</li>
+</ul>
+<p><b>
+Requirements:</b></p>
+<ul>
+<li>
+3+ years experience in ASP.NET MVC/ C#</li>
+<li>
+2+ years experience in JavaScript/HTML/CSS</li>
+<li>
+1+ years experience with SQL Server</li>
+<li>
+1+ years experience with the Agile methodologies</li>
+</ul>
+<p><b>
+Nice To Haves:</b></p>
+<ul>
+<li>
+Strong unit test skills</li>
+<li>
+Strong refactoring skills</li>
+<li>
+ElasticSearch</li>
+<li>
+AWS</li>
+<li>
+BootStrap</li>
+<li>
+jQuery</li>
+<li>
+ReactJS</li>
+<li>
+Git/GitHub</li>
+</ul>
+<p><b>
+Benefits:</b></p>
+<ul>
+<li>
+Casual dress environment when in office</li>
+<li>
+Quarterly company celebrations</li>
+<li>
+Annual reward trips that include everyone, not just sales, for hitting revenue goals</li>
+<li>
+No vacation tracking</li>
+<li>
+Advancement opportunities based on results, not politics</li>
+<li>
+Terrific company culture of inclusiveness and valuing everyone's contributions</li>
+<li>
+Health benefits offered with a company contribution towards premiums</li>
+<li>
+401K matching</li>
+<li>
+Weekly catered lunches along with all the ramen you can eat, anytime (ask about this funny inside joke)</li>
+</ul>
+<p>
+3DOfsDa61E</p>
+</div></div>

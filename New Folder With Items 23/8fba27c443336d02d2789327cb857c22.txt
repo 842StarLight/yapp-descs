@@ -1,0 +1,45 @@
+<h2>Salesforce Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Job Description:</p>
+<ul>
+<li>Higly experienced and a hands on Salesforce technical architect in large CRM platform transformations and integrations.</li>
+<li>Extensive experience in Service, Sales and Communities cloud platforms.</li>
+<li>Should have at least 3 years of experience in architecting and leading large Lightning transformation initiatives.</li>
+<li>Supports the implementation of customized SFDC solutions that include Lightning components. Includes developing a thorough understanding of the client’s requirements then applying industry best practices and detailed knowledge of the software to design and build an optimal solution that supports the business process and meets or exceeds functional requirements.</li>
+<li>The architect will be responsible for the detailed design of technical solutions, and will document the technical design and manage developers throughout the development, testing and support phases.</li>
+<li>Collaborate with external teams on integration and Establish integration standards for complex integrations.</li>
+<li>Builds a trusting relationship with major project stakeholders and leads them to adoption of the best solution.</li>
+<li>Works closely with the Software Implementation Technical Architects to ensure the solution is technically feasibility and to identify areas to reduce implementation efforts.</li>
+</ul>
+<p>Skills required:</p>
+<ul>
+<li>Solution, Design and implementation experience with SFDC especially with Salesforce communities.</li>
+<li>Should be able to clearly articulate Business functionality how it can be mapped to SFDC out of the box and potential places for customization</li>
+<li>8-12 years of experience in SalesForce.com project implementation, good track record in enterprise level project and regional rollout</li>
+<li>Full life cycle implementation and support, hands on technical knowledge and architecture solution required</li>
+<li>SalesForce.com certification and good knowledge of Force.com platform (i.e. Visual force, Apex, Salesforce Lightning, Integration etc.)</li>
+<li>Able to work well in a cross functional environment, effective communication with business users in understanding requirements and providing solutions Provide overall salesforce architecture guidance to align with enterprise Architecture</li>
+<li>Able to articulate well and fluency in English is a must.</li>
+<li>Highly experienced in REST, SOAP API.</li>
+<li>Experienced in middleware platform integrations (Mulesoft, DellBhoomi, etc..)</li>
+</ul>
+<p>Job Types: Full-time, Contract</p>
+<p>Salary: $80.00 to $100.00 /hour</p>
+<p>Experience:</p>
+<ul>
+<li>Salesforce architect: 3 years (Preferred)</li>
+<li>Salesforce: 10 years (Required)</li>
+<li>Salesforce Lightning: 5 years (Preferred)</li>
+<li>Salesforce cpq: 3 years (Preferred)</li>
+</ul>
+<p>License:</p>
+<ul><li>A valid Federated Enterprise Architecture Certification. (Preferred)</li></ul>
+<p>Contract Length:</p>
+<ul>
+<li>More than 1 year</li>
+<li>Varies</li>
+<li>1 year</li>
+</ul>
+<p>Full Time Opportunity:</p>
+<ul><li>Yes</li></ul>
+</div>

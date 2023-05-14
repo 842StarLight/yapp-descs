@@ -1,0 +1,17 @@
+<h2>Apprentice Engineer - Software Co-op</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About DENSO</b></p>
+<p>
+DENSO is one of the largest global automotive suppliers of advanced technology, systems and components in the areas of thermal, powertrain control, electronics and information and safety. From automated driving to hybrid and electric vehicle components, we’re crafting the core technologies of modern mobility. We draw on the strengths of individual inventors who are joining together to become an unstoppable force for global good. With our North American headquarters located in Michigan, DENSO employs more than 24,000 people at 28 consolidated subsidiaries and 4 affiliates across the North American region. Worldwide, the company has more than 200 subsidiaries and affiliates in 38 countries and regions and employs more than 170,000 people. Consolidated global sales for the fiscal year ending March 31, 2018, totaled US$48.1 billion.</p>
+<p>
+Selected candidate will assist DENSO's body components and systems 4 group with such responsibilities as:</p>
+<br>
+<p>
+Assisting in software development for Instrument Cluster panels in OEM vehicles.<br>
+Coordinating software implementation with senior level engineers.<br>
+Writing C code for instrument cluster panels.<br>
+Validating and debugging software.<br>
+Running technical reports and taking test notes.<br>
+Working alongside hardware engineers to ensure software is compliant with overall design goal. Writing C code for instrument cluster panels.<br>
+<br>
+</p>Student must be pursuing a bachelor's degree in computer engineering from an accredited four year university. Sophomore or Junior status students preferred. Position requires experience in writing code in C/C ; also must have had completed courses working with algorithms and data structures, and have the ability to demonstrate a sound understanding.</div></div>

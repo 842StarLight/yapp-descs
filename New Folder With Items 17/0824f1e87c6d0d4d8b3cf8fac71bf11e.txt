@@ -1,0 +1,52 @@
+<h2>Pre-Sales Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Dubbed an "open-source unicorn" by Forbes, Confluent is the fastest-growing enterprise subscription company our investors have ever seen. And how are we growing so fast? By pioneering a new technology category with an event streaming platform, which enables companies to leverage their data as a continually updating stream of events, not as static snapshots. This innovation has led Sequoia Capital, Benchmark, and Index Ventures to recently invest a combined $125 million in our Series D financing. Our product has been adopted by Fortune 100 customers across all industries, and we’re being led by the best in the space—our founders were the original creators of Apache Kafka®. We’re looking for talented and amazing team players who want to accelerate our growth, while doing some of the best work of their careers. Join us as we build the next transformative technology platform!</div>
+<div>
+<br>
+</div>
+<div>
+Confluent Pre-Sales Engineers drive the technical evaluation stage of the overall sales process, making them critical drivers of customer success as realtime data streams become more and more important in the modern enterprise. In this role you will be the key technical advisor to the sales team, work very closely with the product management and engineering teams, and serve as a vital product advocate in front of prospects, customers, and the wider Kafka and Big Data communities.
+</div>
+<div></div>
+<br>
+<div>You will be a key technical advisor to Confluent customers as they undertake technical design and development of their end-to-end solution, be conversant with the current state and future roadmap of Kafka in open source, and be able to identify known issues and inform them of upcoming fixes or workarounds. You’ll also be responsible for clear articulation of Confluent’s technical and product positioning to a wide variety of business and technical stakeholders, and for forging strong relationships with them throughout the sales cycle and beyond.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>What we're looking for:</b></h3>
+<div><ul>
+<li>
+Experience with technical sales of distributed systems, infrastructure software like databases, message queues, SaaS, or Big Data products</li>
+<li>
+Exceptional presentation and communications capabilities. Confidence presenting to a highly skilled and experienced audience, including enterprise architects and C-level executives</li>
+<li>
+Clear, consistent demonstration of self-starter behavior and a desire to tackle hard technical problems</li>
+<li>
+Bachelor’s level degree in Computer Science or relevant experience</li>
+<li>
+Proficiency in Java or Python with experience developing ETL applications</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>What gives you an edge:</b></h3>
+<div><ul>
+<li>
+Previous experience building solutions with Apache Kafka</li>
+<li>
+Understanding of systems operations concepts (disk, network, operating systems, etc)</li>
+<li>
+Experience building and operating large-scale systems</li>
+</ul></div>
+</div></div>
+<br>
+<div>
+<div>
+</div>
+<div>
+<br>
+</div>
+<div><b>Come as you are</b></div>
+<div>
+At Confluent, equality is a core tenant of our culture. We are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and broader our impact.</div>
+</div>
+</div></div>

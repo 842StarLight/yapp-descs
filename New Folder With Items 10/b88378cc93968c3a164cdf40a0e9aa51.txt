@@ -1,0 +1,59 @@
+<h2>Salesforce Admin</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Position:</b> Salesforce Admin
+<br><b>Location:</b> New York, United States
+<br><b>Remuneration:</b> $ 110000.00 - $ 130000.00 per annum
+<br>Who is hiring?
+<br>Third Republic has formed an association with a leading software company in a niche segment and it is a dominant player in that segment. Their software is extremely among businesses. They help marketers manage and grow events across the globe. Their client names include the most prestigious names such as Forbes, NBC, Hubspot and Wall Street Journal. They seek to hire a Salesforce Admin to join their team.
+<br>What will you be doing?
+<br>Key Responsibilities
+<br><ul>
+<li>Act as a project manager to ensure Salesforce builds are executed with</li>
+</ul>
+high quality within deadline
+<br><ul>
+<li>Serve as primary system administrator of our SFDC instance</li>
+<li>Taking entire responsibility of Salesforce automation workflows using</li>
+</ul>
+declarative tools
+<br><ul>
+<li>Own Salesforce notifications and review notification structure</li>
+<li>Own data exports and imports through data loader</li>
+<li>Enforce data integrity and cleanliness through validation and process</li>
+</ul>
+improvement
+<br><ul>
+<li>Handling Data governance should be a top priority</li>
+<li>Act as a project manager for new Salesforce development requests</li>
+<li>Revise account hierarchies and territories in response to personnel</li>
+</ul>
+change
+<br>Requirements
+<br><ul>
+<li>Knowledge of LeanData admin</li>
+<li>Comfortable in both Salesforce Classic and LEX environments</li>
+<li>Experience to build scalable solutions on the Salesforce platform</li>
+<li>Knowledge of Salesforce Administrator and Advanced Administrator</li>
+</ul>
+Certifications
+<br><ul>
+<li>More than 2 years of Salesforce experience</li>
+<li>Over 2 years of experience maintaining a Salesforce instance</li>
+<li>Experience maintaining Apex and VisualForce</li>
+<li>Great written communication skills</li>
+<li>Understanding SaaS business structure and metrics</li>
+<li>Knowledge of SQL or relational databases</li>
+<li>In-depth understanding of marketing automation platforms</li>
+<li>Knowledge of debug logs</li>
+</ul>
+Why you shouldn’t miss this opportunity?
+<br>Why You Should Not Miss This Opportunities
+<br><ul>
+<li>Attractive salary</li>
+<li>Other benefits and perks</li>
+</ul>
+Third Republic is a new breed of agency helping people skilled in advanced technologies to further their careers. We have a plethora of unique job opportunities for people skilled in Salesforce, Workday, MuleSoft, DevOps, AWS, Google Cloud, Azure, Architecture and Software Sales.
+<br><br>
+Please contact us on 646 979 0247 if you would like to find out more about current market trends and other services, we offer such as CloudCareers, our talent management service helping people access the hidden job market.
+<br><br>
+SalesForce(Salesforce Administrator), Salesforce</div>

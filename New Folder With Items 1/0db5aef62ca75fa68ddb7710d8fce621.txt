@@ -1,0 +1,104 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div><div><div><div>
+<div><div>
+<div><div><div><div>
+<div>
+<div>
+<b>Job Type:</b> </div>
+<div>Full Time</div>
+</div>
+<br>
+<div>
+<div>
+<b>Location:</b> </div>
+<div>Arlington, VA</div>
+</div>
+<br>
+<div>
+<div>
+<b>Department:</b> </div>
+<div>Product Development</div>
+</div>
+<br>
+<div><div>
+<b>Address:</b>
+</div></div>
+<br>
+<div></div>
+<div>
+<div>
+<b>City, State Zip:</b> </div>
+<div>Arlington, VA 22209</div>
+<br>
+</div>
+<br>
+</div></div></div></div>
+<br>
+</div></div>
+<p></p>
+<div><div>
+<br>
+<br>
+<br>
+<div><div>
+<div>
+<br>
+<b>Software Engineer</b>
+</div>
+<br>
+<b>About the Job</b><br>
+As a Software Engineer at Knowland, you’ll join the lean, highly-motivated development team that’s designing and implementing our current and next-generation SaaS products in the AWS cloud. You'll be coming to Knowland at a transformational moment, working on our newest property and enterprise level data analysis and visualization products that are a major growth engine for the company. This is a terrific opportunity for a mid-to-senior level developer eager to be a key contributor on a product suite that leverages state-of-the-art web technologies (Angular, Node, Express, Elasticsearch, GraphQL, and Docker) as well as advanced data visualization (OpenText).<br>
+<br>
+<div><i>Key Responsibilities:</i></div>
+<ul>
+<li>Develop and maintain software as part of an Agile scrum team, completing features and testing on-time as part of our monthly platform/software releases.</li>
+<li>Work with Customer Success to understand and fix software/platform defects.</li>
+<li>Work with Product Management, Sales, and Professional Services to understand customer requirements and refine a short-term and long-term technical vision for our products.</li>
+<li>Provide information, support, data, and tools to internal stakeholders as necessary to enable all business units to function as efficiently as possible.</li>
+<li>Other responsibilities as assigned</li>
+</ul>
+<div>
+<br>
+<i>Minimum Qualifications:</i>
+</div>
+<ul>
+<li>Bachelor’s degree in computer science or equivalent</li>
+<li>Minimum 2 years of web application software development experience</li>
+<li>Minimum 1 year of experience developing production Node/Express applications.</li>
+<li>Minimum 1 year of experience developing production Angular applications.</li>
+<li>Solid fundamental knowledge of modern software design principles (object-oriented design, algorithms, MVC, patterns, etc.)</li>
+<li>Experience with an agile SDLC (Scrum)</li>
+<li>Experience with databases, including knowledge of SQL and stored procedures (preferably MS SQL Server)</li>
+<li>Consummate team player: considerately accepting and providing honest input and feedback with respect.</li>
+<li>Ability to interact seamlessly with both technical and business team members</li>
+</ul>
+<div>
+<br>
+<i>Desired Qualifications:</i>
+</div>
+<ul>
+<li>Experience leveraging web services and service oriented architecture</li>
+<li>Experience developing data analytics solutions, using OpenText/BIRT for dashboard design and data visualization, and the OpenText Javascript API.</li>
+<li>Exposure to GraphQL</li>
+<li>Expertise with either .NET or Java stack (Comfortable learning and working with either platform)</li>
+<li>Experience with the Scala programming language</li>
+<li>Comfortable with version control systems (svn &amp; git)</li>
+</ul>
+<br>
+<b>About Us</b><br>
+We believe that there is a better way to sell group business. Our suite of hospitality solutions harnesses the power of data and analytics to help our customers <i>know</i> their buyers and win in the group and meetings marketplace. With the industry's largest historical database of actualized events, we deliver insights that win more share, optimize revenue strategies, and accelerate sales cycles. That’s the Knowland Advantage. See why thousands of customers trust Knowland to sell smarter and maximize their revenue. Knowland operates globally and is headquartered in Rosslyn, VA.<br>
+<br>
+<b>Benefits</b><br>
+Besides the opportunity to work with smart, fun, hard-working Knowland employees, you will have uncapped growth potential, a work/life balance, and a competitive suite of benefits. Benefits include health, dental and vision insurance, 401K with company contribution, short and long-term disability insurance, life insurance, gym reimbursement, tuition reimbursement, dependent care contribution, paid holidays and paid time-off. We also offer SmartBenefits for our HQ employees. Pay, benefits and incentives are all highly competitive.<br>
+<br>
+<br>
+<b>Location/Work Environment</b><br>
+Our Rosslyn, VA office is minutes from the metro and hosts an energetic, hard-working team that dresses casually, attends weekly happy hours, and works together in a supportive, friendly and encouraging environment. Our CEO is transforming the way we work, putting in place a team that takes to heart our company-wide values, setting the stage for Knowland to reach new heights.<br>
+<br>
+Knowland is an equal opportunity employer and seeks qualified candidates regardless of race, religion, gender, sexual orientation, disability, national origin or age.</div></div>
+</div></div>
+</div></div></div></div>
+<p></p>
+</div>

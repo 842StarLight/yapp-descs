@@ -1,0 +1,58 @@
+<h2>JavaScript Engineer - Gliffy</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Position Title: JavaScript Engineer</div>
+<div>Location: Alameda, CA<br>
+Reports to: Director, Gliffy Development</div>
+<ul>
+<li>The heart of a startup.</li>
+<li>The stability of an established company.</li>
+<li>Software that accelerates innovation at the world’s leading companies.</li>
+</ul>
+<div>Apply to Perforce today if this sounds interesting to you! We’re a leading global software company looking for smart, fun, talented team members. At Perforce, you’ll enjoy competitive benefits while working with and learning from some of the best and brightest in business. Before you know it, you’ll be in the middle of a rewarding career at a company headed in one direction: upward.</div>
+<div></div>
+<div>We are looking for a JavaScript Engineer to join our Gliffy line of business.</div>
+<div></div>
+<div><b>Position Summary</b></div>
+<ul>
+<li>Contribute to the development of the #1 selling third-party add-on in the Atlassian Marketplace</li>
+<li>Continually improve technical processes (tools, builds, etc.) to promote operational effectiveness</li>
+<li>Work with Product Management to decide when and where features from Gliffy products apply in the Atlassian ecosystem</li>
+<li>Work with product teams and engineers to design or refine solutions throughout a product lifecycle from concept to launch</li>
+<li>Efficiently and intelligently iterate development, adjusting to technical requirements, and incorporating findings from testing</li>
+<li>Develop user interfaces based on user interface design specifications and directions</li>
+<li>Efficiently and intelligently iterate development, adjusting to technical requirements, and incorporating usability findings into the designs</li>
+</ul>
+<div><b>Required Education, Experience and Skills</b></div>
+<ul>
+<li>5+ years experience developing with JavaScript</li>
+<li>3+ years experience developing with NodeJS</li>
+<li>3+ years experience developing web clients with a JavaScript MVC framework</li>
+<li>3+ years programmatically interacting with REST APIs</li>
+<li>Experience using browser based graphics technologies: scene graphs, vector based graphics, HTML5 Canvas, SVG, etc</li>
+<li>Proven command of advanced CSS transformations</li>
+<li>Experience working within a Scrum/Agile environment</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Bachelor’s Degree in Computer Science or related field</li>
+<li>Comfortable working remote while collaborating with global remote product teams</li>
+<li>Exceptional attention to detail and ability to manage multiple projects</li>
+</ul>
+<div><b>Preferences</b></div>
+<ul>
+<li>Working knowledge of EmberJS</li>
+<li>Experience with Express web application framework within Node</li>
+<li>Experience with WebGL development</li>
+<li>Experience using Atlassian JavaScript API</li>
+<li>Experience related to the Confluence integration patterns for persistence and messaging</li>
+<li>Experience working with Real-time Collaboration, SAML, SCIM, or OpenID</li>
+<li>Experience working with current AWS technologies</li>
+<li>Experience building scalable web applications</li>
+<li>Experience with microservice orchestration</li>
+<li>Production deployment with Docker</li>
+</ul>
+<div>
+<b>About Perforce</b><br>
+Enterprises across the globe rely on Perforce to build and deliver digital products faster and with higher quality. Perforce offers complete developer collaboration and agile project management tools to accelerate delivery cycles — from agile planning tools to requirements, issues and test management, which then link to all source code, binary assets and artifacts for full build and release tracking and visibility. The company’s version control solutions are well known for securely managing change across all digital content — source code, art files, video files, images, libraries — while supporting the developer and build tools your teams need to be productive, such as Git, Visual Studio, Jenkins, Adobe, Maya and many others. Perforce is trusted by the world’s most innovative brands, including NVIDIA, Pixar, Scania, Ubisoft, and VMware. The company has offices in Minneapolis, MN, Alameda, CA, Mason, OH, the United Kingdom, Finland, Sweden, Germany, and Australia, and sales partners around the globe. For more information, please visit www.perforce.com.<br>
+<br>
+<b>Perforce is an Equal Opportunity Employer: Minorities, Women, Veterans, Disabilities</b>
+</div>
+</div></div>

@@ -1,0 +1,53 @@
+<h2>Senior Solutions Architect - AWS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Smartronix, Inc., is an information technology and engineering solutions provider specializing in Cloud Computing, Cyber Security, Health IT, Network Operations, and Mission-Focused Engineering.</p>
+<p>
+Smartronix Inc., a Premier Amazon Web Services Consulting Partner and Microsoft Gold partner, is currently seeking an experienced and motivated Senior AWS Solutions Architect to join our expanding Cloud Services business unit and work with some of the best Cloud Architects and Cloud Engineers in the market. A successful candidate will bring depth of experience with AWS services, leading professional services delivery engagements, hands-on experience developing AWS centric architectures, and a willingness to contribute to the overall team. The Sr. AWS Solution Architect must be able to work directly with customers and management, lead project engagements, and be a trusted advisor and consultant to the customer. A Sr. Solution Architect at Smartronix takes on any task or project - big or small - to efficiently and effectively get the job done and support the Smartronix customer service and delivery missions.</p>
+<br>
+Required Skills<br>
+<p><b>The Senior Solutions Architect Job Responsibilities and Duties include:</b></p>
+<ul>
+<li>
+<ul>
+<li>Strong ability to translate customer requirements into industry-recognized design patterns and recommendations</li>
+<li>Hands-on experience and confidence with architecting, designing and implementing cloud-based and/or cloud-native solutions</li>
+<li>Firm understanding of cloud platform security controls, network boundary controls and related toolsets</li>
+<li>Firm understanding of cloud governance, cost management and AWS account management best practices</li>
+<li>Depth of knowledge around the deployment of common infrastructure roles and tools (e.g.: DNS, NTP, Group Policy, Active Directory/ADFS, Web Application Firewalls, logging services, web proxies)</li>
+<li>Hands-on experience deploying and configuring both Windows and Linux system stacks</li>
+<li>Hands-on experience with the development of automation scripts, container services or serverless compute highly preferred</li>
+<li>Hands-on experience with infrastructure as code concepts and related software highly preferred (e.g.: Chef, Puppet, Terraform)</li>
+<li>Strong written and verbal communication skills</li>
+<li>Strong analytic, organization, presentation, customer service and facilitation skills</li>
+<li>Willingness and ability to collaborate across internal practices and with other team members</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Core Responsibilities</b></p>
+<ul>
+<li>Support the full project lifecycle - consulting, discovery, analysis, architecture, design, documentation, building, migration, automation and production-readiness</li>
+<li>Produce high-quality technical design, build and procedure documentation</li>
+<li>Support project engagements, work collaboratively with other team members, communicate effectively, and foster team success</li>
+<li>Lead technical discussions both internally and with customer teams</li>
+<li>Provide transparent and regular status updates to Smartronix Project and Account Management team members</li>
+<li>Support Project Manager with SOW ingestion and executing planning activities</li>
+<li>Provide quality checks on customer deliverables</li>
+<li>Actively contribute to internal Smartronix practice development efforts</li>
+<li>Support after-hours incident escalations and/or maintenance windows as needed</li>
+<li>Achieve and maintain AWS certification levels</li>
+<li>Support pre-sales efforts when requested</li>
+<br>
+</ul>
+</li>
+</ul>
+<br>
+<br>
+Required Experience<br>
+<ul>
+<li>5+ years working or consulting directly on customer-facing project engagements</li>
+<li>5+ years leveraging AWS platform services in a hands-on capacity</li>
+<li>AWS Solution Architect Associate, Professional or specialty-track certifications desired</li>
+<li>Bachelor's Degree or additional 3+ years of relevant Information Technology experience in lieu of degree</li>
+</ul>
+</div></div>

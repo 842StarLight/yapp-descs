@@ -1,0 +1,80 @@
+<h2>Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Infoblox is seeking a Solution Architect to join our IT Infrastructure team in our Tacoma or Santa Clara offices or working remotely in the US. This position will be responsible for the development of software solution architectures as Infoblox executes its vision of becoming a SaaS/cloud-based enterprise. This is a key position in the CIO organization with very high visibility at the executive and company levels. The Solution Architect will report to the Director of IT Infrastructure, Platforms &amp; Architecture who is located in Santa Clara, CA.</p>
+<p>
+The IT Solution Architect will drive IT initiatives, working with R&amp;D, Sales, Marketing, Customer Support, and HR. We’re building a new SaaS offering at Infoblox, and you will have the opportunity to join on the ground floor. The successful candidate will play a key role in working to define the service from the IT point-of-view and to ensure that we delight our customers with that experience.</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Design and architect SaaS/Cloud-based solutions that integrate IT’s CRM (Salesforce) and ERP (Oracle Fusion) systems with Infoblox’s SaaS-based product platform</li>
+<li>
+Work with IT Product Managers and Product Development Solution Architects to identify core initiatives in SaaS/Cloud and help define and vet business requirements</li>
+<li>
+Provide IT architectural leadership for key business processes such as Lead to Cash, Procure to Pay and Issue to Resolution</li>
+<li>
+Work with Engineers to design CRM/ERP solutions to meet business requirements</li>
+<li>
+Work collaboratively across multi-disciplinary teams throughout the company as a subject matter expert in CRM/ERP with a solution and implementation focus</li>
+<li>
+Communicate effectively with Executives across different LOBs</li>
+<li>
+Drive and manage highly visible IT projects</li>
+</ul>
+<p><b>
+Requirements:</b></p>
+<ul>
+<li>
+10+ years’ experience in large scale IT applications architecture</li>
+<li>
+5+ years working with SaaS/Cloud products and technologies</li>
+<li>
+5+ years’ experience gathering and recording business requirements and documenting them in user stories in systems like VersionOne or Rally</li>
+<li>
+5+ years’ experience in ERP like Oracle and CRM like Salesforce SalesCloud, CPQ, and ServiceCloud</li>
+<li>
+3+ years of software development experience</li>
+<li>
+2+ years’ experience generating architectural diagrams using Visio, Confluence or Lucidcharts</li>
+<li>
+Cloud-based Data Lake experience, preferably AWS</li>
+<li>
+Experience with Amazon Web Services (EC2, VPC, ELB, S3, CloudFormation, etc.)</li>
+<li>
+Understanding of distributed systems and clustering architectures – massive-scale performance with reliability</li>
+<li>
+A strong technical foundation in information systems and databases</li>
+<li>
+Full software development life-cycle experience, with a proven track record of successfully shipping products</li>
+<li>
+Results-oriented, solid work ethic with excellent attention to detail and quality</li>
+<li>
+This is a hands-on position: You <b>must</b> be able to write architectures individually or as part of a team</li>
+<li>
+Excellent verbal and written communication skills</li>
+</ul>
+<p><i>
+The ideal candidate will possess…</i></p>
+<ul>
+<li>
+SaaS-based application security background, including testing methods</li>
+<li>
+Experience with Linux Containers and/or Docker</li>
+<li>
+Experience with Boomi or MuleSoft application gateways</li>
+<li>
+Experience with The Open Group Architecture Framework (TOGAF) helpful</li>
+</ul>
+<p><i>
+ </i><b>Education:</b></p>
+<ul>
+<li>
+BS. in CS, CE or EE is required</li>
+<li>
+Masters in CS, CE, or EE is preferred</li>
+</ul>
+<p>
+It’s an exciting time to be at Infoblox. We are the market leader in technology for network control. Our success depends on bright, energetic, talented people who share a passion for excellence in building the next generation of networking technologies—and having fun along the way. Infoblox offers a fast-paced, action-oriented environment. We promote a culture that embraces innovation, change, teamwork, and strong partnerships. Join the winning Infoblox team—our future looks bright, and so will yours. To check out what it’s like to be a Bloxer click <b>here</b><b>.</b><br>
+<br>
+<b>#LI-RC1</b></p>
+</div></div>

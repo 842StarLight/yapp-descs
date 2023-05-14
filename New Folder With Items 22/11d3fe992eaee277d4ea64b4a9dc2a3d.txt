@@ -1,0 +1,75 @@
+<h2>Full Stack Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Software Engineer (Full Stack)</b><br>
+<br>
+<b>SKILL LEVEL:</b> 3+ years of experience<br>
+<br>
+<b>JOB DESCRIPTION</b><br>
+<br>
+Are you a motivated and highly talented software engineer with a passion for building amazing products and the drive to quickly learn new technologies? Do you love to solve real world problems and make customers happy? Do you want to be a key contributor in creating an awesome solution for a growing market? We need your help!<br>
+<br>
+We are looking for a talented and eager mid to senior level full stack software engineer with great skills in Java and Javascript (especially Angular) as well as solid experience with relational databases. You will join our product engineering team to help us build new features, fix defects, and help make our product the all around best offering in the pest control industry.<br>
+<br>
+Our office is located in Lehi, UT. We are only considering local candidates at this time.<br>
+<br>
+<b>RESPONSIBILITIES</b><br>
+<br>
+As a senior software engineer at Briostack, you will be responsible for the following:
+<ul>
+<li>Collaborate with other team members and architects to design and develop new product features</li>
+<li>Research and quickly learn new technologies</li>
+<li>Debug and fix issues with existing code</li>
+<li>Address customer issues quickly, thoroughly, and professionally</li>
+<li>Work as part of an agile development team</li>
+<li>Create clean, well designed, testable, and efficient code</li>
+<li>Write unit and integration tests for new and existing code to ensure quality and stability</li>
+<li>Create new code or enhance existing code, working through the entire stack, to implement features and address bugs</li>
+<li>Work closely with stakeholders to understand and design requirements and maintainable architectures for new features</li>
+<li>Mentor, train, and guide junior engineers to help the entire team be successful</li>
+<li>Occasionally interact with 3rd parties to understand and develop integrations, troubleshoot issues, and coordinate deliverables *</li>
+</ul>
+<b>SKILLS &amp; COMPETENCIES</b>
+<ul>
+<li>BS Degree in Computer Science or a related field</li>
+<li>Experience and understanding of object oriented design</li>
+<li>Great analytical and problem solving skills</li>
+<li>3+ years experience with Java, HTML, JavaScript, and database technologies</li>
+<li>Experience with Angular 2+</li>
+<li>Advanced SQL/relational database skills</li>
+<li>High level of attention to detail</li>
+<li>Experience working with Git</li>
+<li>Ability to write high quality, maintainable, and scalable software with little to no supervision</li>
+<li>Ability to dive into a new problem, understand it, and quickly create solutions*</li>
+</ul>
+<b>BONUS SKILLS</b>
+<ul>
+<li>MySQL database query optimization experience</li>
+<li>Experience with UI/UX design and implementation</li>
+<li>Experience with the AWS stack</li>
+<li>Experience handling increasing scale in a SaaS environment*</li>
+</ul>
+<b>OUR SOFTWARE STACK</b>
+<ul>
+<li>Amazon Web Services</li>
+<li>Aurora RDBMS</li>
+<li>Java web application backend</li>
+<li>HTML/JavaScript clients based on Angular and other JavaScript frameworks*</li>
+</ul>
+<b>ABOUT US</b><br>
+<br>
+Briostack is a small but quickly growing software as a service company. We have a software suite targeted at the major business needs of pest control companies. Our goal is to build software so good that no one can offer a close substitute, and we are building a world-class engineering team to help us achieve it.<br>
+<br>
+Our product offering is named Brio, and there are a number of major parts to what it does:
+<ul>
+<li>Sales Support</li>
+<li>Customer Relationship Management</li>
+<li>Appointment Scheduling</li>
+<li>Route Optimization</li>
+<li>End to End Paperless Documentation</li>
+<li>Billing and Transaction Processing</li>
+<li>Automated Notifications</li>
+<li>Marketing and Promotion*</li>
+</ul>
+<b>WHAT WE OFFER</b><br>
+<br>
+This is a great opportunity to help make something small become something big. Our software is growing quickly and we need great people to help us maintain our growth. We offer competitive compensation and benefits in a flexible, fast-paced work environment with great colleagues.</div></div>

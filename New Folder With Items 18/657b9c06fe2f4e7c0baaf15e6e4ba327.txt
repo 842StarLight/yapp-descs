@@ -1,0 +1,41 @@
+<h2>Sr. Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>The Opportunity:</b><br>
+We seek an experienced developer to join our award-winning team! If you love the idea of working with a super-talented group passionate about building products that make meetings better for everyone, please keep reading: Mersive Solstice helps teams collaborate much more effectively by allowing anyone to bring their own devices and apps to meetings and share content concurrently. We're looking for an experienced software engineer with a passion for developing highly reliable, performant software.
+<br><br>
+The primary focus will be to implement key components of a network-intensive A/V content sharing system and interoperate with existing components written in C++. You may be responsible for implementing type-safe bridges between Rust and C++ code, rewriting legacy C++ code in Rust, and implementing new features from scratch. In addition, you'll have opportunities to contribute to projects ranging from kernel-level device drivers on Android to Rust-based microservices within our cloud-based management and analytics platform.
+<br><br>
+<b>Who we are:</b><br>
+Headquartered in Denver, Mersive Technologies is well-known as a market disruptor in the collaboration software space that has had 3 straight years of profitable operations and double-digit sales growth. This combination of innovation, rapid growth, and profitability make us a unique technology company. Our wireless collaboration products make the world's meetings better by a more productive and engaging experience. Among our customers are over 30 Fortune 100 companies and Ivy League universities who use Mersive Solstice to make their workplace meaningful, connected and more enjoyable for everyone. Since launching Solstice in 2014 it has been deployed in over 100,000 meeting spaces through our worldwide sales and integrator partner network.
+<br><br>
+But who are we? We are a diverse team of over 160 talented people who genuinely care about our work, customers and each other. We promote a culture of innovation, trust and accountability. We believe that each team member brings a unique perspective and has the ability to genuinely make an impact here. We value transparency, intellectual honesty, hard work and community. Mersive is growing quickly, and we are looking for folks who like a challenge and aren't afraid to break new ground in either technology or business models.
+<br><br>
+<b>Required qualifications/experience:</b><br>
+<ul>
+<li>Minimum Bachelor of Science in Computer Science, Computer Engineering or equivalent experience in software development</li>
+<li>At least 5 years of programming experience with C++ or a comparable systems language in one or more of the following environments: Windows, MacOS, Android or iOS</li>
+<li>Experience with Rust and an appetite to learn more</li>
+<li>Demonstrated excellence in delivering well-designed, high-quality code on schedule</li>
+<li>Strong knowledge of software engineering principles</li>
+<li>Excellent debugging and profiling skills</li>
+<li>Excellent verbal and written communication skills</li>
+</ul>
+<b>Desired qualifications/experience:</b><br>
+<ul>
+<li>High-performance network programming, including asynchronous I/O</li>
+<li>Cryptographic authentication and encryption</li>
+<li>Concurrent and parallel programming</li>
+<li>Functional programming using a statically-typed language</li>
+<li>Audio/Video streaming protocols and codecs</li>
+<li>OpenGL and/or DirectX</li>
+<li>Qt/QML</li>
+</ul>
+<b>Why Mersive:</b><br>
+<ul>
+<li>Competitive compensation and benefits program</li>
+<li>Work/Life Balance, including a generous PTO plan.</li>
+<li>Dogs welcome!</li>
+<li>Culture of collaboration, integrity, authenticity and innovation.</li>
+<li>High growth and endless opportunity</li>
+</ul>
+</div>

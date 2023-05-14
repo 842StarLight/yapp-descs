@@ -1,0 +1,30 @@
+<h2>Implementations Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Overview
+<br><br>
+Join Notable and help us improve health care efficiency and effectiveness with our AI-powered tool for physicians. Notable's mission is to enrich every clinician-patient interaction by delivering a standardized, structured understanding of every encounter clinicians have with their patients. We use this structured understanding to drastically improve health care by automating hours of daily busy-work for clinicians, reduce the cost of health care by eliminating excess overhead, and improve patient outcomes by delivering data-driven insights to doctors and patients.
+<br><br>
+We're looking for an Implementations Engineer to work closely with Notable's customers, sales representatives, customer success managers, and engineers to deliver solutions that exceed expectations. You will be the primary technical contact through the entire pre-sales cycle - ensuring our customers have the best possible first touch with Notable.
+<br><br>
+Responsibilities
+<br><ul>
+<li>Manage and provide software and systems integration support during the sales process by designing and implementing applications</li>
+<li>Collaborate with Product and Engineering teams to share customer requirements, influence product priorities and further enhance Notable's core product features</li>
+<li>Recommend process improvements to ensure system scalability and reliability</li>
+<li>Assist in developing and implementation of deployment plan</li>
+<li>Plan and execute integration testing and user acceptance testing of customer implementations</li>
+<li>Assist in new system development and enhancements</li>
+<li>Analyze and troubleshoot deployment issues in a timely manner</li>
+<li>Act as primary customer contact for deployment-related inquiries and issues</li>
+<li>Document the end-to-end technical process, contributing to an internal knowledge base for other teams to replicate cloud migrations</li>
+</ul>
+Requirements
+<br><br>
+<ul>
+<li>2+ years experience with providing Systems or Software Support to End-Users</li>
+<li>Experience with Python on Ruby scripting</li>
+<li>Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools</li>
+<li>Ability to work effectively in teams of technical and non-technical individuals</li>
+<li>Skill and comfort working in a rapidly changing environment with dynamic objectives and iteration with users</li>
+<li>Willingness and interest to travel as needed</li>
+</ul>
+</div>

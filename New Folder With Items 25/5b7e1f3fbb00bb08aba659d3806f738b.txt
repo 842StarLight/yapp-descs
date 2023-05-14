@@ -1,0 +1,80 @@
+<h2>Senior Software Developer (Search Experience)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>Redfin is revolutionizing the $75 billion real estate industry. We use data, beautiful software, and innovative design to put customers first at every step in the home-buying and selling process. Get ready to dive headfirst into our award-winning website and mobile apps, solving complex business problems in a highly visible, customer-centric way. If you value doing great work in a collaborative environment, join our team!</div>
+<div></div>
+<div>
+The Search Experience team takes an incredibly complicated home search process and brings it online into an addictive, empowering, and delightful map-based experience. The map is the core of Redfin’s search experience: our users love it and tell us time and time again that it helps them in their home searching journey. The team owns user experience that shows data about hundreds of homes in a performant way, and creates search APIs that are used by all of Redfin Engineering. We want to go further—drive user growth via word of mouth, SEO, and SEM; improve performance; find ways to differentiate and personalize our home search experience in ways no other real estate site can, and much more.</div>
+<div></div>
+<div>
+As Senior Software Engineer for the Search Experience Team, you will get to use your judgment and guide the team on when to reuse existing Redfin technologies and when to champion the adoption of new ones. You’ll need to balance advocacy for our ambitious long-term technical vision with delivering results amidst our ever-evolving business needs.</div>
+<div></div>
+<div>
+The Role</div>
+<div></div>
+<ul>
+<li><div>
+Lead complex multi-person technical projects from initial design to national launch, identifying pitfalls and coaching colleagues along the way</div></li>
+<li><div>
+You are a very hands-on coder and lead by example to demonstrate what software craftsmanship is all about.</div></li>
+<li><div>
+Better those around you by driving team efficiency improvements, mentoring teammates to strengthen individual skills and share your learning for building simple and effective user interfaces and API’s</div></li>
+<li><div>
+When you disagree, you disagree constructively, with respect for everyone else's opinions and ideas.</div></li>
+<li><div>
+More than anything, you share a passion for our mission to radically change the way people make one of the biggest decisions of their lives.</div></li>
+</ul>
+<div></div>
+<div>
+Skills &amp; Experience</div>
+<ul>
+<li><div>
+5+ years of industry experience in the area of full-stack development and technical lead</div></li>
+<li><div>
+Experience working with Java, JavaScript, React, HTML, CSS, Relational Database and SQL</div></li>
+<li><div>
+Experience working with complex web applications and backend service</div></li>
+<li><div>
+Experience working on web and backend service performance</div></li>
+<li><div>
+Experience with architectural patterns, API design and building large-scale applications</div></li>
+<li><div>
+The ability to handle ambiguity, communicate well with partner teams, and empathize with customers</div></li>
+</ul>
+<div></div>
+<div>
+What We Offer</div>
+<ul>
+<li><div>
+Support and resources to continue learning, a brilliant team with which to collaborate, and a commitment to your career so you can grow with the company under a management team that has experience building startups into profitable, publicly traded companies.</div></li>
+<li><div>
+You'll get far more responsibility than at a big company, while at the same time far less stress than you will find in a 2-person garage startup.</div></li>
+<li><div>
+You'll see the fruits of your labor shipped every day and you'll share in our joy as we hear back from customers, bloggers, and national media.</div></li>
+<li><div>
+Competitive compensation packages with a salary, bonuses, and restricted stock grants</div></li>
+</ul>
+<div></div>
+<div>
+Redfin is an equal opportunity employer committed to hiring a diverse workforce.</div>
+<div></div>
+<div><b>
+Redfin facts:</b></div>
+<div></div>
+<ul>
+<li><div>
+Total closed home sales as of 2018: $85 billion+</div></li>
+<li><div>
+Lead Real Estate Agents: 1,300+</div></li>
+<li><div>
+Homes bought and sold with Redfin as of 2018: 170,000+</div></li>
+<li><div>
+Monthly website/mobile traffic: 27 million+ unique visitor</div></li>
+<li><div>
+Metro area served: 85+ markets</div></li>
+<li><div>
+States served: 42 plus Washington, D.C.</div></li>
+</ul>
+</div>
+<div></div>
+</div>

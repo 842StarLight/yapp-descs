@@ -1,0 +1,36 @@
+<h2>Network Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div>
+<h1 class="jobSectionHeader"><b>Professional Services | Lexington, MA</b></h1>
+<p></p>
+<div><div><div><div><div>
+<div>
+<p>As part of our Professional Services Team, you will be responsible for continuing the development of Daymark's evolving networking and security practice. Key responsibilities will include pre-sales architecture and post-sales implementation of networking and security solutions. Critical to the success of engagements will be educating and supporting customers during implementations and maintaining effective communication and project management. There will be times when you are working as part of a team of Daymark architects on large projects as well as times when you will work independently. Daymark has a great culture and team where you can collaborate, learn a lot of new technologies and solve complex problems for our customers.</p>
+<p>
+You will be involved in all aspects of the solution sale and implementation including; customer presentations, seminars, project plan development, implementation methodology, hardware integration, software installation and customization, solution documentation, client training and knowledge transfer.</p>
+<p>
+An additional focus will be development of cloud networking strategies to enable customers to leverage hybrid cloud solutions and integrate cloud solutions with their existing network infrastructure.</p>
+<p>
+Candidate will be required to maintain product and vendor certifications and must be willing to travel within the New England region. Daymark works hard to maintain strong technical capabilities by providing team members access to training, passes to technical conferences and a well rounded lab environment in our main office.</p>
+</div>
+</div></div></div></div></div>
+<p><b>Requirements:</b></p>
+<ul>
+<li>Three to five years experience in Network Infrastructure architecture and implementation</li>
+<li>Strong core network fundamentals. datacenter networking, switching and routing, wireless, campus networks</li>
+<li>Current Cisco certifications is a plus - CCNA, CCDA, CCNP, CCIE, or others</li>
+<li>Experience that emphasizes L2-L7 Networking (switching architectures including Spanning Tree, IP routing, OSPF, BGP, L4-L7 load balancing)</li>
+<li>Experience designing highly available and redundant core switching and datacenter networks</li>
+<li>Experience with WAN acceleration, remote access, and site to site VPN</li>
+<li>Ability to work as a part of a team and independently</li>
+<li>Ability to quickly learn new technologies at a rapid pace</li>
+<li>Excellent documentation skills</li>
+<li>Strong Project Management experience</li>
+<li>Excellent verbal and written communication skills</li>
+</ul>
+<p><b>Additional Desired Skills:</b></p>
+<ul>
+<li>Experience with the networking capabilities of Microsoft Azure and/or Amazon AWS including ExpressRoute and/or Direct Connect</li>
+<li>Experience with next generation firewalls including Cisco Fire Power, Palo Alto Networks, Check Point and F5 is a plus</li>
+<li>Experience with network security solutions is a plus</li>
+</ul>
+</div></div></div>

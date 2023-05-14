@@ -1,0 +1,108 @@
+<h2>Manager, Software Development (.Net)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Comcast Technology Solutions' purpose is to be the most valued partner to those leading the future of media and technology. Leveraging the most complete portfolio of capabilities, unmatched expertise and Comcast's unrivaled infrastructure, we help customers thrive in a rapidly evolving multi-platform world by powering extraordinary experiences to every screen. If you share a passion for contributing your talents to empowered teams, possess an entrepreneurial spirit and are driven by imagination and possibilities, we want to develop and grow your career at Comcast Technology Solutions.</p>
+<br>
+<br>
+<br>
+<p>The Comcast Technology Solutions’ The Ad Platform group is looking for a .NET software developer/software manager player/coach. In terms of development, the candidate must have current or recent experience with modern .NET based development. In terms of management, the candidate must have current or recent experience as a manager, technical lead, or project lead within software development.</p>
+<p></p>
+<br>
+<p>
+This is the perfect position for a first time manager coming from a development background as the Denver team is small and the remote India development team has a co-located experienced manager. This position has high visibility to engineering management, product management, and executive management as all of these functions are in Denver.</p>
+<p></p>
+<br>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>
+Oversees the planning and designing of software and web applications, including new programs, enhancements, and modifications.</li>
+<li>
+Provides guidance to Software Engineering team and other departments in identifying product and technical requirements.<ul><li>
+Serves as primary point of contact and liaison between Software Engineering and other teams.</li></ul>
+</li>
+<li>
+Directs implementation initiatives for new software products and applications.<ul>
+<li>
+Organizes software update process for existing applications and coordinates the roll-out of software releases.</li>
+<li>
+Manages all the deliverables to ensure adherence to deadlines, specifications, and budgets. I</li>
+<li>
+mplements performance metrics and prepares periodic reports.</li>
+<li>
+Monitors and tracks project progress and reports findings to leadership team.</li>
+</ul>
+</li>
+<li>
+Ensures all engineers keep current with technological developments within the industry.<ul><li>
+Monitors and evaluates competitive applications and products.</li></ul>
+</li>
+<li>
+Develops proposals, hardware/software changes and other capital expenditure projects.</li>
+<li>
+Manages professional and non-exempt employees, conducting work performance reviews and ensures work performance is adhering to Company standards.<ul><li>
+Mentors, trains and develops staff.</li></ul>
+</li>
+<li>
+Consistent exercise of independent judgment and discretion in matters of significance.</li>
+<li>
+Regular, consistent and punctual attendance. Must be able to work nights and weekends, variable schedule(s) as necessary.</li>
+<li>
+Other duties and responsibilities as assigned.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Requirements:</b></p>
+<ul>
+<li>
+Strong understanding of Object Oriented principles.</li>
+<li>
+Extensive experience as a .NET developer (ASP.NET,C#,VB.NET,etc.). UI/Full stack experience is a plus (MVC,Javascript,AJAX,Jquery,etc.).</li>
+<li>
+Experience as a manager, technical lead, or project lead within software development.</li>
+<li>
+Experience managing or working with off-shore development teams (India specifically).</li>
+<li>
+Experience defining RESTful APIs and developing RESTful Web Services.</li>
+<li>
+Knowledge of UI frameworks (e.g. Angular, React) is a plus.</li>
+<li>
+Knowledge of Node.js is a plus.</li>
+<li>
+Practical experience with relational database technologies preferably MSSQL.</li>
+<li>
+Working knowledge of utilizing Software Configuration Management (SCM) tools for software development (e.g. Git, Subversion).</li>
+<li>
+Experience with one of more cloud based platforms (e.g. AWS, Azure, VMWare, Google Cloud, OpenStack) especially in regards to migration of a traditional architecture to a cloud based platform.<ul><li>
+AWS experience is a major plus especially experience beyond the common services (e.g. EC2, S3).</li></ul>
+</li>
+<li>
+Experience building applications based on Microservices Architecture is a plus.</li>
+<li>
+Experience with Docker, Kubernetes, AWS ECS, Azure AKS, AWS EKS are all plusses.</li>
+<li>
+Experience in the digital advertising space (Demand Side, Supply Side, Ad Serving) is a major plus. Experience with Google DFP and Freewheel APIs are plusses.</li>
+<li>
+Knowledge of Windows.</li>
+<li>
+Experienced with the Agile/Scrum development model using Agile tools (e.g. Jira, Rally).</li>
+<li>
+Team player. Ability to communicate clearly and concisely with team members.</li>
+<li>
+B.S. degree or equivalent work experience.</li>
+<li>
+6-9 years related work experience.</li>
+</ul>
+<p></p>
+<br>
+<p>
+Comcast Technology Solutions’ The Ad Platform development and engineering teams are responsible for all technical aspects of multiple cloud-based products for management and delivery of ads for traditional linear video, VOD Dynamic Ad Insertion, IP video, and linear radio. The platform delivers spots in support of Comcast Marketing (the largest advertiser in the U.S.), Comcast Spotlight (the ad-sales division of Comcast), NBC and Telemundo and the Olympics, as well as for a commercial business for delivery of spots from advertisers and agencies of all sizes to all broadcast and cable networks, cable MSOs, and broadcast call-letter stations in North America. In 2018 the platform delivered over 6M spots to over 19k destinations.</p>
+<p></p>
+<br>
+<p>
+Comcast Technology Solutions offers media, communications, advertising and technology businesses access to the latest in networking, content delivery, subscriber</p>
+<br>
+<br>
+<br>
+<p>Comcast is an EOE/Veterans/Disabled/LGBT employer</p>
+</div></div>

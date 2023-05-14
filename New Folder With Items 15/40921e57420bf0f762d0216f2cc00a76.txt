@@ -1,0 +1,57 @@
+<h2>BI Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Pushpay exists to bring people together by strengthening community, connection, and belonging. As the leading provider of mobile apps and giving technology to churches, schools, and nonprofits, Pushpay helps organizations and their communities stay connected anytime, anywhere.
+<br><br>
+Engagement is the key to community. In today's world, "online" or "digital" is no longer cutting edge. Phones have evolved into smartphones, and these personal devices are linking people everywhere to the outside world on their own terms. Now you can harness this cultural shift to connect people with your organization, driving engagement and participation. If you're interested in learning more about career opportunities, visit pushpay.com ( http://pushpay.com/ ).
+<br><br>
+<b>About the Team:</b><br>
+Operations is comprised of teams that support all other departments within Pushpay. This includes IT, System Administrators, Business Intelligence, Quality Assurance, and Training and Support. Members of this department tend to come from technical backgrounds, and have experience implementing and supporting world-class solutions for other companies. We are dedicated to excellence, and support the business and each other by leveraging the best innovations available currently.
+<br><br>
+<b>About the Position:</b><br>
+The BI Analyst uncover meaningful insights from the data created by our software systems; most notably our CRM, Salesforce. This role requires a high level of curiosity, and will be responsible for obtaining, analyzing, and reporting on data ranging from quota attainments in sales, to average ticket response time in customer success. There are opportunities to work with marketing, sales, customer success, finance, and payment processing teams. The BI Team also partners with PMs in the Operations department to support tactical and strategic projects. Data analysts research the information to connect the dots across systems and identify gaps where data does not support the hypothesis.
+<br><br>
+We are looking for an analyst to transform raw data into meaningful and insightful stories for our go-to-market teams. A strong attention to detail will ensure the integrity of analysis, and empower the business to trust summarized outputs. You will help us understand trends and review the options ahead so we better understand the impact of the systems and processes that the Operations department supports. This role reports to the BI Team Lead. This position is located in Redmond, WA
+<br><br>
+Applicants must be legally authorized to work in the USA without sponsorship/ transfers for employment visa status (e.g., H1B status)
+<br><br>
+When evaluating a Business Intelligence Analyst, we are looking for some key traits that will make them successful in our environment:
+<br><br>
+<ul>
+<li>Curiosity – You don't settle to answer the questions given to you. Being uniquely positioned close to the data, your expertise is trusted to know the next questions to ask and identify the root of an issue. Although you may be interested in a topic, you need to have the curiosity to dig deeper into data to ensure that the narrative holds true at all levels. You don't wait for someone to ask you why. Exploring "what if" scenarios are something you might do just in case there is something further worth exploring.</li>
+<li>Skeptical – You don't necessarily accept the first answer to a question as the truth. You uncover secondary layers before proving or invalidating assumptions. You're aware that data is never at rest, and cautious to proclaim an outcome without proving it in multiple ways. Because you accept that data collection is not a flawless process, you are always able to step back from your own work and question the outcome to ensure it stands up.</li>
+<li>Methodical – You apply the scientific method to a hypothesis, and follows a structured approach to validating conclusions. You pride yourself in taking others on the journey to reach the conclusion so they can validate and share the same view. You hold your work to the highest standards and are not afraid to identify the constraints or edge cases where the model cannot give reasonable insights.</li>
+<li>Analytical - Given a statement, you are able to decompose it into the sum of its parts, and provide alternate views of the data. The fact of 78% repeat customers to you is an opportunity to learn more about what makes up that number - possible cohorts, contributing and diverging factors.</li>
+</ul>
+<b>Key Responsibilities:</b><br>
+<ul>
+<li>Interpret data that will guide operational planning decisions</li>
+<li>Create standardized reports and visualizations to serve the business</li>
+<li>Present findings to a range of stakeholders from subject matter experts to business leaders</li>
+<li>Document methods to ensure consistent analysis over time</li>
+<li>Recommend improvements to data capture and reporting structures to serve the business in a more seamless manner</li>
+</ul>
+<b>Preferred Qualifications:</b><br>
+<ul>
+<li>1-3 years in a similar role; preferably in a sales organization.</li>
+<li>Bachelor's degree or equivalent</li>
+<li>Knowledge of the following tools is advantageous:</li>
+<li>Salesforce.com</li>
+<li>G Suite</li>
+<li>Atlassian (JIRA, Confluence)</li>
+<li>Marketo</li>
+<li>PostgreSQL</li>
+</ul>
+<b>Preferred Skills:</b><br>
+<ul>
+<li>An experienced analyst with a background in statistics, mathematics, and/or information technology</li>
+<li>An understanding of how behaviors, processes, and systems feed into each other, and ultimately into the data analysis.</li>
+<li>Passion for quantitative analysis and modeling across diverse data sets</li>
+<li>A structured thinker who can find a starting point and desired outcome, and then apply a methodical approach to move from one to the other</li>
+<li>A guide that enjoys taking people on the journey from data point to conclusion, and back again</li>
+<li>Ability to work with modern data collection, modeling, analysis, reporting, and visualization tooling</li>
+<li>Capable of working closely with operations and inter-departmental management teams to help drive system and process improvements</li>
+<li>Advanced knowledge and experience with CRMs (Salesforce is our primary system of record)</li>
+<li>Strong analytical skills</li>
+<li>Thorough understanding of business needs to translate them into operational insight &amp; intelligence</li>
+<li>Process-driven analysis skills</li>
+</ul>
+</div>

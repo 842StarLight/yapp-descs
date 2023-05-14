@@ -1,0 +1,159 @@
+<h2>Big Data Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview</b></h2>
+<br>
+<div></div>
+<div><div><div>
+<div>At Perficient you’ll deliver mission-critical technology and business solutions to Fortune 500 companies and some of the most recognized brands on the planet. And you’ll do it with cutting-edge technologies, thanks to our close partnerships with the world’s biggest vendors. Our network of offices across North America, as well as locations in India and China, will give you the opportunity to spread your wings, too.</div>
+<div></div>
+<br>
+<div>
+We’re proud to be publicly recognized as a “Top Workplace” year after year. This is due, in no small part, to our entrepreneurial attitude and collaborative spirit that sets us apart and keeps our colleagues impassioned, driven, and fulfilled.</div>
+<div></div>
+<br>
+<div>
+Perficient currently has a career opportunity for a <b>Big Data Architect</b> in our Data Solutions practice. This is a national position that can be located in any well-connected city.<b> </b>Perficient is on a mission to help enterprises take advantage of modern data and analytics architectures, tools, patterns to improve the business operations and better engage customers. Perficient’s Data Solutions practice has won dozens of industry awards for our state-a-the-art and innovative solutions that we provide our customers. This is an excellent opportunity for the right individual to assist Perficient and its customers to grow the capabilities necessary to improve care through better use of data and information, and in the process take their career to the next level.</div>
+<div></div>
+<br>
+<div><b>
+Job Overview:</b></div>
+<div>
+A Senior Solutions Architect is expected to be functionally knowledgeable in multiple Big Data and NoSQL Technology areas and hands-on in either data management or open-source programming. As a leader in our Data Solutions practice, you will provide best-fit architectural solutions for one or more projects; assist in defining scope and sizing of work; and anchor Proof of Concept developments. You will provide solution architecture for the business problem, platform integration with third party services, designing and developing complex features for clients' business needs. You will collaborate with some of the best talent in the industry to create and implement innovative high quality solutions, participate in Sales and various pursuits focused on our clients' business needs.<br>
+</div>
+<div></div>
+<div>You will also contribute in a variety of roles in thought leadership, mentorship, systems analysis, architecture, design, configuration, testing, debugging, and documentation. You will challenge your leading edge solutions, consultative and business skills through the diversity of work in multiple industry domains. This role is considered part of the Business Unit Senior Leadership team and may mentor junior architects and other delivery team members.<br>
+</div>
+</div></div></div>
+<div></div>
+<h2 class="jobSectionHeader">
+<b>Responsibilities</b><b>
+</b>
+</h2>
+<div><div><div>
+<ul>
+<li>Own and aggressively drive forward specific areas of Big Data technology architecture. This includes data management architectures involving batch, micro-batch, and real-time streaming of data in both cloud and on-premise solutions</li>
+<li>
+Provide data architectural solutions/designs to project execution teams for implementation.</li>
+<li>
+Provide architectural assessments, strategies, and roadmaps for data management.</li>
+<li>
+Lead projects within architecture. Work with Product Owner/Business Analysts to understand functional requirements and interact with other cross-functional teams to architect, design, develop, test, and release features.</li>
+<li>
+Project and solution estimation and team structure definition</li>
+<li>
+Develop Proof-of-Concept projects to validate new architectures and solutions.</li>
+<li>
+Support multiple Agile Scrum teams with planning, scoping and creation of technical solutions for the new product capabilities, through to continuous delivery to production.</li>
+<li>
+Liaise with offshore team and clients for resolving technical dependencies, issues, and risks.</li>
+<li>
+Mentor and provide architectural guidance to multiple teams building innovative applications.</li>
+<li>
+Drive common vision, practices and capabilities across teams.</li>
+<li>
+Engage with business stakeholders to understand required capabilities, integrating business knowledge with technical solutions</li>
+<li>
+Engage with Technical Architects and technical staff to determine the most appropriate technical strategy and designs to meet business needs</li>
+<li>
+Demonstrate broad solutions technical leadership, impacting significant technical direction, exerting influence outside of the immediate team and driving change</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader">
+<b>Qualifications</b><b>
+</b>
+</h2>
+<div><div><div>
+<ul>
+<li>Minimum 10-15 years of professional experience with Data Management technologies and a minimum of 5 years of Hadoop, NoSQL, and Open-Source data management technologies.</li>
+<li>
+Leadership and team management experience with ability to provide strategic planning and oversight.</li>
+<li>
+At least 5 YearsHadoop/NoSQL project implementations that exploit the full capabilities (discover, design, implement and optimize) – is a MUST.</li>
+<li>
+Experience with cloud Big Data Solutions from AWS is required.</li>
+<li>
+Excellent Python and Spark skills.</li>
+<li>
+At least 5 Years of designing and architecting Big Data Pipelines supporting Data Science Use Cases.</li>
+<li>
+Solid functional understanding of the Open-Source Big Data Technologies incuding major Hadoop projects, Kafka, NoSQL Databases.</li>
+<li>
+Have a solid understanding of delivery methodology and lead teams in the implementation of the solution according to the design/architecture.</li>
+<li>
+Experience in project and solution estimation and team structure definition.</li>
+<li>
+Fluent and current on architecture trends with an eye on market/technical conditions and future direction.</li>
+<li>
+Experience in defining new architectures and ability to drive an independent project from an architectural stand point.</li>
+<li>
+Experience leading customer workshop sessions to educate customers on the latest technology trends and best practices.</li>
+<li>
+Proven track record of leadership roles delivering solutions within defined timeframes.</li>
+<li>
+Demonstrated success in performing work and managing complex and/or large consulting projects.</li>
+<li>
+Proficient in authoring, editing and presenting technical documents.</li>
+<li>
+Ability to elicit requirements and communicate clearly with non-technical individuals, development teams, and other ancillary project members.</li>
+<li>
+Excellent written and oral communication skills; Ability to communicate effectively with technical and non-technical staff.</li>
+<li>
+Experience working with a globally distributed team and managing off-shore teams.</li>
+<li>
+Desire to mentor younger team members and develop their skills.</li>
+<li>
+Experience working on multiple concurrent projects.</li>
+<li>
+Experience leading internal initiatives.</li>
+<li>
+Excellent problem-solving skills.</li>
+<li>
+Be independent and self-driven.</li>
+<li>
+Bachelor’s degree in Computer Science or related field.</li>
+<li>
+Must be open to travel.</li>
+</ul>
+<div>
+<b>
+Preferred Skills</b><b> and Education:
+</b>
+</div>
+<ul>
+<li>Master’s degree in Computer Science or related field</li>
+<li>
+Candidates hands on experience with Hadoop technologies.</li>
+<li>
+Ability to lead data strategy assessments and technically lead implemention projects.</li>
+<li>
+Certifications on Hadoop technologies is preferred.</li>
+</ul>
+<p>
+Perficient full-time employees receive complete and competitive benefits. We offer a collaborative work environment, competitive compensation, generous work/life opportunities and an outstanding benefits package that includes paid time off plus holidays. In addition, all colleagues are eligible for a number of rewards and recognition programs including billable bonus opportunities. Encouraging a healthy work/life balance and providing our colleagues great benefits are just part of what makes Perficient a great place to work.</p>
+<p></p>
+<br>
+<div>
+<b>
+More About Perficient</b><b><br>
+</b>
+</div>
+<div></div>
+<div>Perficient is the leading digital transformation consulting firm serving Global 2000 and enterprise customers throughout North America. With unparalleled information technology, management consulting and creative capabilities, Perficient and its Perficient Digital agency deliver vision, execution and value with outstanding digital experience, business optimization and industry solutions.</div>
+<div></div>
+<br>
+<div>
+Our work enables clients to improve productivity and competitiveness; grow and strengthen relationships with customers, suppliers and partners; and reduce costs. Perficient's professionals serve clients from a network of offices across North America and offshore locations in India and China. Traded on the Nasdaq Global Select Market, Perficient is a member of the Russell 2000 index and the S&amp;P SmallCap 600 index.</div>
+<div></div>
+<br>
+<div><i>
+Perficient is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national, origin, disability status, protected veteran status, or any other characteristic protected by law.</i></div>
+<div></div>
+<br>
+<p><b><i>
+Disclaimer:</i></b><i> The above statements are not intended to be a complete statement of job content, rather to act as a guide to the essential functions performed by the employee assigned to this classification. Management retains the discretion to add or change the duties of the position at any time.</i></p>
+<div></div>
+<br>
+<div>
+#LI-PS1</div>
+</div></div></div>
+</div></div>

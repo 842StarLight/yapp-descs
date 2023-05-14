@@ -1,0 +1,115 @@
+<h2>Senior Wireless Network Engineer, Managed Services</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Seeking an experienced network engineer who is passionate about cutting-edge wireless and security technologies such as 802.11ac and is ready to take the next step in their career. You will join a growing technical team as a Sr. Wireless Network Engineer (Wireless Network Engineer II). In this role you will touch all aspects of the network (LAN, WLAN, WAN and security) as you help to realize successful execution and total customer satisfaction with our managed services customers to satisfy real business needs for today and tomorrow.<br>
+<br>
+To succeed in this role you will have a proven track record of independently and jointly delivering results on-time and within budget to the delight of your customers across a variety of networking projects (WiFi network design, heatmap creation and development, core switch cutovers, and security best practices). You will have experience working for Managed Services Providers in an engineering role. You will have, at minimum, an active CCNP Wireless certification with a concrete plan to acquire your next level certification. You will have no fear of discovering and surveying unknown network environments and producing detailed remediation plans, as well as delegating tasks to other engineers as appropriate.<br>
+<br>
+You must be self-disciplined, work well on individual tasks in a team environment, and be able to work well and communicate clearly with both technical and non-technical personnel in high-stress situations.<br>
+<ul>
+<li>The opportunity to learn and collaborate with a strong team of Solutions Architects, Sales Engineers, expert-level Network Engineers and ClearPass Experts</li>
+<li>
+Daily opportunities to architect and engineer cutting-edge, dynamic solutions including products from Cisco, Aruba, HPE and other leading vendors</li>
+<li>
+A clear professional development path and continuing certification assistance</li>
+<li>
+Build credibility and strengthen relationships with manufacturer partner teams such as Cisco, Aruba, and HPE</li>
+<li>
+Gain insights into industry, technology, and customer trends</li>
+<li>
+Spend most of your time at client sites or in a lab; not an office</li>
+<li>
+Generous health benefits package</li>
+<li>
+Generous bonus program for delivering projects within strict margin requirements</li>
+<li>
+We offer the opportunity advance within the Wireless Network Engineer role to become a subject matter expert across multiple vendors, and/or, if desired, take on leadership roles and responsibilities within a fast-growing organization</li>
+</ul>
+<br>
+<b>Responsibilities:</b>
+<ul>
+<li>Meet with C-level executives to discuss the wireless concerns and problem-solving strategies of high-visibility initiatives</li>
+<li>
+Lead wired and wireless networking and network security projects, developing detailed project plans and working directly with clients and other engineers to execute</li>
+<li>
+Create and maintain detailed network documents and diagrams including all associated links</li>
+<li>
+Serve as a trusted consultant to clients looking for solutions to their enterprise-level networking and security challenges</li>
+<li>
+Manage, planning and designing enterprise wireless network solutions</li>
+<li>
+Gather and update necessary information (projects and incidents) and communicate to appropriate parties/stakeholders</li>
+<li>
+Work cross functionally and interacts with internal and external peers and managers to exchange complex information and formulate plans related to areas of specialization</li>
+<li>
+Research emerging technologies in communication and collaboration, and maintain up-to-date knowledge on vendors and their product lines</li>
+<li>
+Formulate and establish best practices and standards for enterprise wireless network environments</li>
+<li>
+Utilize experience, technical knowledge and skills to identify and optimize capacity and performance issues for highest service availability and integrity</li>
+<li>
+Assess risks and impacts arising from a business disruption and make decisions and determine actions independently and expediently to eliminate those risks and ensure continuity of business</li>
+<li>
+Manage and facilitate elimination of problems and roadblocks before they occur</li>
+<li>
+As a primary or secondary support staff participate in the 24x7 on-call rotation and associated incident/problem resolution, periodic communication update, RCA, remediation plans, tickets closure, etc.</li>
+<li>
+Other duties as assigned</li>
+</ul>
+<br>
+<b>Requirements:</b>
+<ul>
+<li>Bachelor? s degree in computer science, information systems or a related field, or equivalent corporate or military training</li>
+<li>
+Networking Experience:
+<ul>
+<li>3+ years in wireless network engineering, specifically with Cisco (and optionally Aruba) autonomous, controller-based, and mesh APs, including indoor/outdoor deployments and wireless bridges and a strong grasp of IEEE 802.11a/b/g/n/ac Wi-Fi standards and related components</li>
+<li>
+5+ years in wired network engineering, specifically in L2/L3 switching and routing and different platforms of Cisco IOS and HPE/Aruba switches and routers</li>
+<li>
+Thorough understanding of 802.1x authentication and TACACS/TACACS+</li>
+<li>
+Troubleshooting wireless networking issues</li>
+<li>
+Experience delivering detailed design diagrams, complete technical documentation, and develop change scripts, using various tools such as MS Excel, MS Power Point, and MS Visio</li>
+</ul>
+</li>
+<li>Certificates:
+<ul><li>Active Cisco Certified Network Professional (CCNP) Wireless certificate (or higher)</li></ul>
+</li>
+<li>Work Ethic:
+<ul>
+<li>Ability and eagerness to step outside your comfort zone to learn and apply new technologies</li>
+<li>
+Ability to confidently and accurately guide high-level and detailed discussions with C-level executives on a regular cadence</li>
+<li>
+Must be productive in a fast-paced team environment</li>
+<li>
+Must be able to lead other Network Engineers</li>
+<li>
+Ability to follow a detailed workflow process and comply with all change management procedures and policy</li>
+<li>
+Available for after-hours project implementations, hardware installations, and configuration changes</li>
+</ul>
+</li>
+<li>Must be willing to travel up to 50%</li>
+<li>
+Must meet all requirements to obtain a Federal Transportation Workers Identification Card (TWIC)</li>
+</ul>
+<b>Desired requirements:</b>
+<ul>
+<li>Active CCIE Wireless certification</li>
+<li>
+Aruba Certified ClearPass Associate v6.5 (ACCA) or better</li>
+<li>
+Aruba Certified Mobility Associate (ACMA) or higher</li>
+<li>
+Functional experience with Fortinet firewalls, switches and APs highly preferred</li>
+<li>
+Vendor-agnostic wireless certifications (e.g. CWNA, CWNP) desirable</li>
+<li>
+Functional experience with different OS and server technologies preferred</li>
+<li>
+Functional experience with Palo Alto firewalls preferred</li>
+<li>
+Functional experience implementing firewalls, VPN, IDS, IPS, Internet Proxy, etc.</li>
+</ul>
+</div></div>

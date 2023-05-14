@@ -1,0 +1,69 @@
+<h2>Senior Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>At Jabil, <b>we empower the brands who empower the world </b>– it’s our reason for being and the guiding force that’s driving us to become the <b>most technologically advanced manufacturing solutions provider on the planet. </b>Whether we’re serving one of the world’s biggest and best known brands or the coolest tech startups, our resolve never wavers. We share common desires with these brands: to make the world a better, safer and cleaner place.
+</p>
+<p></p>
+<p><b>JOB SUMMARY
+</b></p>
+<p>Jabil is a product solutions company providing comprehensive design, manufacturing, supply chain and product management services. Operating from over 100 facilities in 29 countries, Jabil delivers innovative, integrated and tailored solutions to customers across a broad range of industries and end-markets, such as automotive, consumer lifestyle and wearable tech, defense and aerospace, connected home and building, industrial and energy, enterprise and infrastructure, healthcare, mobility, packaging and printing.
+</p>
+<p></p>
+<p>Jabil is seeking a Senior Systems Engineer who will directly contribute to the transformative growth within our Enterprise and Infrastructure division by applying unique and innovative approaches to solving problems of server solutions for our customers. You will be responsible for contributing to the end-to-end definition, development and POC validation of server and rack level solutions spanning multiple customers and manufacturing regions. You will also be responsible for interfacing with customers, sales, marketing, CTO, and product engineering teams to ensure your deliverables meet the creative solutioning and optimal performance expected of our customers.<br>
+</p>
+<div>
+<br>
+<b>ESSENTIAL DUTIES AND RESPONSIBILITIES
+</b><br>
+<ul><li></ul>
+</div>
+<ul>
+<li>Subject matter expert in various server applications, workloads and industry standard performance benchmarking tools.
+</li>
+<li>Conducts application level performance evaluation and characterization studies to provide the optimal technical and cost-efficient solution for a customer’s workload.
+</li>
+<li>Exercises independent judgment and contributes to the development of innovative and advanced system-level solutions for a given class of applications and markets.
+</li>
+<li>Responsible for server and rack-level solution development including but not limited to power/performance optimization, end-to-end storage to application performance sizing.
+</li>
+<li>Participates in future product definition and makes recommendations based on extensive knowledge of customer workloads and performance requirements around storage subsystems and devices.
+</li>
+<li>Constantly researching new technology or development tools to identify innovative techniques and processes for application to complex design projects.
+</li>
+<li>Serves as a trusted advisor to our sales team and customers regarding server and rack solutions with a particular emphasis on application, storage and networking performance.<br>
+</li>
+</ul>
+<p><br>
+<br>
+<b>JOB QUALIFICATIONS
+</b><br>
+<b>KNOWLEDGE REQUIREMENTS
+</b></p>
+<ul>
+<li>Deep expertise into all aspects of server and storage system performance, including raw, synthetic and application proxy workloads, performance critical analysis, debug and optimization from the device to the application level.
+</li>
+<li>Expertise with Linux operating systems, related applications and script development.
+</li>
+<li>Experience in architecting, developing and maintaining performance automation frameworks.
+</li>
+<li>Facilitation of test results databases and visualization technologies to enable rapid decision making and conclusions.
+</li>
+<li>Experience with the architecture, design and configuration and deployment of server, storage and networking systems.
+</li>
+<li>Working knowledge of server products including embedded remote management standards, interfaces and applications.
+</li>
+<li>Prior experience with code versioning tools (Git preferred).
+</li>
+<li>BSEE, BSCS or equivalent
+</li>
+<li>10+ years of related engineering experience, 4-6+ with Masters Degree or an equivalent combination of education, training or experience.
+</li>
+<li>Excellent verbal and written communication skills.
+</li>
+<li>Experience working in a multi-site and multi-cultural environments.
+</li>
+<li>Proven ability to work within a fast-paced and ambiguous business environment.
+</li>
+</ul>
+<p></p>
+<p><b>Jabil, including its subsidiaries, is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identify, age, disability, genetic information, veteran status, or any other characteristic protected by law.</b></p>
+</div></div>

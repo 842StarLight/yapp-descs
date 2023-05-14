@@ -1,0 +1,63 @@
+<h2>Business Systems Analyst II- Salesforce</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Business Systems Analyst ll- Salesforce - (19000051)</b></p>
+<p><b>Who We Are and What We Are All About: </b></p>
+<p>Help build a cleaner, safer and more connected world through a career with Rogers Corporation. At Rogers, our innovative materials technologies enable breakthroughs in clean technology, internet connectivity, mass transit and more -- but it’s our people that set us apart. Integrity and respect are at the heart of how we work. We excel at building enduring relationships that foster trust with our colleagues and business partners. We work creatively and cross-functionally a rewarding work environment. For a brighter tomorrow, explore Rogers today across the globe to deliver unique solutions to our customers in the United States, Europe and Asia.</p>
+<p><b>Summary/Objective: </b></p>
+<p>Rogers Corporation is currently seeking a talented individual to join the Enterprise Applications team at its site in Chandler, AZ. This position reports to the Director of Enterprise Applications. The hired individual will assist with defining and driving the direction of Salesforce.com use within Rogers. The individual will be responsible for the design, development, modification, implementation and documentation of business processes using Salesforce.com enterprise applications to meet customer and strategic goals. This position will also be responsible for providing insight and guidance to ensure that Salesforce.com use is optimal and follows industry best practices.</p>
+<p><b>Essential Functions: </b></p>
+<ul><li>Advise management on industry best practices, capability of the application, and assist with setting strategy for the optimal use of Salesforce.com.</li></ul>
+<ul><li>Design, develop, modify, implement and document business processes in a Salesforce.com Enterprise Application environment. (Apex coding, Visual Force, Lightning)</li></ul>
+<ul><li>Support the data integration between Salesforce.com and other systems.</li></ul>
+<ul><li>Develop reports and analytics using standard Salesforce.com reporting functionality.</li></ul>
+<ul><li>Translate functional requirements into technical solutions and function as the primary interface to the technical team.</li></ul>
+<ul><li>Work with business process owners and customers to analyze and solve business problems. Works on complex and high impact issues. Understands business objectives and problems, identifies alternative solutions, performs feasibility studies, cost/benefit analysis and suggests the best course of action.</li></ul>
+<ul><li>Contribute to cross functional project teams that address customer initiatives or IT infrastructure needs. May develop and disseminate training in areas of focused responsibility to IT staff and customers.</li></ul>
+<ul><li>Provide problem resolution of customer issues reported via the IT Service Desk System in compliance with applicable SLA. (Service Level Agreement). Provide support to junior staff members who cannot find resolutions to open issues.</li></ul>
+<ul><li>Follow an iterative software development methodology and contribute to all phases of the software development lifecycle and support processes.</li></ul>
+<ul><li>Maintain professional training and certification requirements</li></ul>
+<p><b>Required Education and Experience: </b></p>
+<ul><li>4 years bachelor’s degree in a related field.</li></ul>
+<ul><li>5+ years’ experience as a developer/business function using Salesforce.com.</li></ul>
+<ul><li>Experience in Lightning, Sales Cloud and Pardot.</li></ul>
+<ul><li>Salesforce 401 Developer Certification.</li></ul>
+<ul><li>Experience developing reports and analytics using standard Salesforce.com functionality.</li></ul>
+<ul><li>Experience in integrating Salesforce.com with other systems.</li></ul>
+<ul><li>Proven leadership and project management skills and experience</li></ul>
+<p><b>Required Skills and Abilities: </b></p>
+<ul><li>Formal problem solving training and application to IT issues.</li></ul>
+<ul><li>Excellent verbal and written communication skills.</li></ul>
+<ul><li>Strong analytical, creative and critical thinking skills.</li></ul>
+<ul><li>Time management demonstrating effective multi-tasking</li></ul>
+<ul><li>Negotiating with customers</li></ul>
+<p><b>Preferred Education and Experience: </b></p>
+<ul><li>Master’s degree in a related field is a plus.</li></ul>
+<ul><li>Salesforce 501 Advanced Developer Certification and 201 Admin Certification.</li></ul>
+<ul><li>Experience in Service Cloud, Conga Composer, Conga CLM and Einstein Analytics.</li></ul>
+<ul><li>Experience in Salesforce.com modules in a global manufacturing environment.</li></ul>
+<p><b>Preferred Skills and Abilities: </b></p>
+<ul><li>Technical skills around Salesforce.com integration with other systems.</li></ul>
+<ul><li>Influencing others (without authority).</li></ul>
+<p><b>Rogers Corporation provides equal employment opportunities to minorities, females, veterans, and disabled individuals, as well as other protected groups.</b></p>
+<p><b>How You Can Apply for this Position: </b></p>
+<p>Visit us at: www.rogerscorp.com/careersto apply!</p>
+<p>With an outstanding work environment, vast developmental opportunities, and a top- notch benefit package, it is no wonder a large majority of our employees have been with us longer than 10 years. Come join a winning team!</p>
+<p><b>In addition to a competitive salary package, we offer: </b></p>
+<ul>
+<li>Comprehensive health plans that include medical, dental, vision, and access to complementary and alternative medicine coverage</li>
+<li>Wellness program, including fitness membership reimbursements</li>
+<li>401(k) with company match</li>
+<li>Participation in discretionary bonus plan</li>
+<li>Employee stock ownership plan</li>
+<li>Generous vacation plan</li>
+<li>Life Insurance</li>
+<li>Strong work/family and employee assistance programs</li>
+<li>Tuition reimbursement program</li>
+<li>Employee discount program</li>
+<li>Excellent training and development opportunities</li>
+<li>Rogers Employees Federal Credit Union</li>
+</ul>
+<p><b>About Rogers Corporation</b>:</p>
+<p>Rogers Corporation (NYSE: ROG) is a global leader in engineered materials to power, protect and connect our world. With more than 180 years of materials science and engineering experience, Rogers delivers high performance solutions that enable clean energy, internet connectivity, and safety and protection applications, as well as other technologies where reliability is critical. Rogers delivers Power Electronics Solutions for energy-efficient motor drives, vehicle electrification and alternative energy; Elastomeric Materials Solutions for sealing, vibration management, and impact protection in mobile devices, transportation interiors, industrial equipment and performance apparel; and Advanced Connectivity Solutions for wireless infrastructure, automotive safety and radar systems. Headquartered in Arizona(USA), Rogers operates manufacturing facilities in the United States, China, Germany, Belgium, Hungary, and South Korea, with joint ventures and sales offices worldwide. For more information, visitwww.rogerscorp.com.</p>
+<p>Job Type: Full-time</p>
+</div>

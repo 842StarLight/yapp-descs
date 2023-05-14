@@ -1,0 +1,64 @@
+<h2>Sr IT Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>*Must be a local candidate to the Twin Cities area*</p>
+<p>This is a full-time opportunity where candidates are responsible for the daily analysis, design, and implementation of a variety of networking and technology initiatives for our clients. Typical daily responsibilities for this position will include; managing and maintaining Microsoft Windows Server and Windows desktop environments, managing on premise and cloud based Office365 Microsoft Exchange, SharePoint, and MS SQL Servers. Setup/configuration of server/storage virtualization deployments.</p>
+<p>A successful candidate for this position will be able to demonstrate excellent networking and technical skills, proficiency with the design, implementation and support of Microsoft solutions, and exhibit strong project management and communication skills.</p>
+<p>This position will require the applicant to possess, attain &amp; maintain industry relevant certifications. A certification roadmap will be created post hiring with a mutually agreeable timeline. The applicant will also partake as an active member on our IT Steering Committee. This will require time and effort devoted to the successful launch of new services and completion of internal IT projects. Applicants must effectively communicate and interact with clients on a daily basis. They will routinely convey the status of projects both to the client and the Management Team thru our PSA software, documentation and voice/email communications.</p>
+<p>Applicants will regularly communicate with third party vendors to expedite problem resolution for software and hardware issues.</p>
+<p><b>Responsibilities</b></p>
+<ul>
+<li>Act as a technical escalation point and take lead on sensitive client issues that require immediate escalation and attention.</li>
+<li>Assist with day-to-day operations of service department thru interactive daily communications with all company team members.</li>
+<li>Design, implement and recommend technology solutions including directory, messaging, database, systems management, LOB, server virtualization, network storage and security to clients</li>
+<li>Create recurring revenue as an engagement manager by providing high quality technical solutions and exemplary customer service (including strong verbal and written communications and follow-up skills)</li>
+<li>Assist sales team in identifying and closing opportunities through customer discovery meetings and presentations.</li>
+<li>Provide skilled independent help-desk capabilities by phone, remote or face-to-face with our clients.</li>
+<li>Ability to independently debug complex problems.</li>
+<li>Independently install and upgrade server, desktop and networking software and hardware as needed.</li>
+<li>Maintain detailed awareness and understanding regarding current software and technical procedures.</li>
+<li>Ability to independently perform complex network functions.</li>
+<li>Input and manage tickets and daily time entry thru our PSA Professional Services Automation) system.</li>
+<li>Interface with third party vendors to assist with problem resolution.</li>
+<li>Support clients with our Remote Monitoring and Management solution.</li>
+<li>Adhere to all company internal policies and procedures.</li>
+<li>Work the required hours to complete assigned tasks.</li>
+</ul>
+<p><b>Education/Experience/Skills Requirements</b></p>
+<ul>
+<li>Bachelor's Degree in Computer Science or a related field from an accredited university</li>
+<li>10-15 years of technical experience with increasing responsibility</li>
+<li>Microsoft Exchange and Active Directory design, implementation and administration skills are required</li>
+<li>Backup &amp; Disaster Recovery planning and implementation skills are required</li>
+<li>Strong background in networking (Firewalls, Cisco routers/switches, network protocols, VPN. . .) is required</li>
+<li>Network storage (SAN, NAS, Backup) experience required</li>
+<li>HyperV/VMware/XenServer Server Virtualization experience a plus</li>
+<li>Scripting, Powershell, and coding skills are a plus</li>
+<li>Senior Level Industry Certifications</li>
+<li>Microsoft</li>
+<li>VMware</li>
+<li>Cisco</li>
+<li>Experience working in an outsourced IT consulting environment is a plus</li>
+<li>Must have excellent organizational and project management skills</li>
+<li>Must have strong written and verbal communication skills</li>
+<li>Must be adaptable and capable of learning new software quickly.</li>
+<li>Must have reliable transportation and clean driving record</li>
+</ul>
+<p><b>Benefits</b></p>
+<p>This is a salary based position that includes service efficiency, productivity and sales commission incentives. We also offer our full-time employees a comprehensive benefits package including medical, dental, certification training programs, paid vacations and holidays, a company cell phone and notebook computer for business use.</p>
+<p><b>About Our Company</b></p>
+<p>Our mission is to make IT, Security, and Compliance easily available and affordable for local small and mid-sized businesses. Our IT services are engineered to mitigate security and compliance risk, reduce IT expenditures, and improve operating efficiencies.</p>
+<p>Our company is in the business of providing first class customer service to our clients. Our service programs offers a complete line of managed services designed to provide affordable and proactive support. Our managed services program offers a complete line of hosted, managed and cloud-based services designed to provide affordable and proactive support while meeting the regulatory requirements required of our clients. Our services are designed to simplify IT management, help meet compliance requirements, reduce costs, streamline systems management and align IT strategy to match our client's business objectives.</p>
+<p>We're seeking a talented, motivated and driven individual to help grow our team. If you're looking for a challenging and rewarding growth focused career than this position is for you!</p>
+<p>Job Type: Full-time</p>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>Multiple locations</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+</ul>
+</div>

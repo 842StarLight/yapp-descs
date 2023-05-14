@@ -1,0 +1,60 @@
+<h2>Application Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>Summary:
+</b></p>
+<p>The IT Integration Developer will be responsible for designing, developing and implementing integration solutions for cloud, on-premise and hybrid scenarios. This requires an intimate knowledge of data integration platforms and ERP systems, in particular SSIS, Dell Boomi, Magic Software, JD Edwards EnterpriseOne and Salesforce. The ideal candidate will have strong analysis, data modelling, programming, ETL development, integration testing and troubleshooting skills.<br>
+</p>
+<p></p>
+<p><b>Essential Duties and Responsibilities:
+</b></p>
+<ul>
+<li>Develop/Implement Data Integration between JD Edwards EnterpriseOne, Salesforce, HR systems and other 3rd systems using appropriate tools with ability to integrate large data sets. Integrate the organization’s ERP data to Salesforce and other 3rd party system on premise or on cloud
+</li>
+<li>Develop ETL processes between JD Edwards and Microsoft SQL Server to process high volume and complex data sets
+</li>
+<li>Support and Develop scripts for EDM tool ImageNow(using javaScript) to recognize business opportunities, support sales and collections. Develop integration processes in ImageNow to link JDE and EDI Integration Software Extoll
+</li>
+<li>Implement Web Services to Integrate Data flow from HR Ultipro. Create libraries to process Ultipro’s data in to handle high-volume information and large data sets
+</li>
+<li>Analyze and build EDI process using XML for outgoing Invoices
+</li>
+<li>Strong interpersonal, communication and problem-solving skills
+</li>
+<li>Project deliverables including, but not limited to, business process flow charts, configuration documentation, test scripts, and training materials, delivered on time
+</li>
+<li>Perform unit tests, automation and code reviews to improve code quality
+</li>
+<li>Participate in solution design with original ideas, then translate that into a pragmatic and effective technical solution
+</li>
+<li>Support currently implemented integration solutions in production, troubleshoot issues, identify/fix errors to ensure optimal performance for customers<br>
+</li>
+</ul>
+<p></p>
+<p><b>Requirements:
+</b></p>
+<ul>
+<li>Bachelor’s Degree in Computer Science or Information Systems
+</li>
+<li>Solid experience designing and developing solutions with data integration platforms including Magic Software and Dell Boomi
+</li>
+<li>Demonstrated ability in multiple programming languages including Java, C#, SQL, .Net and data access methods including databases, flat files (delimited, XML, JSON) and webservices (SOAP, REST)
+</li>
+<li>Thorough knowledge and experience with Microsoft SQL Server Integration Services (SSIS)
+</li>
+<li>Extensive use of cloud-based data integration and acquisition tools including PowerApps, SharePoint, Flow and Forms
+</li>
+<li>Experience with cloud-based integrations with applications including Salesforce, Concur, Ultimate Software and SuccessFactors
+</li>
+<li>Experience with ERP integrations, specifically JD Edwards EnterpriseOne and its Object Management Workbench, Universal Batch Engine and Business Functions
+</li>
+<li>Curious and excited by new idea and new technologies
+</li>
+<li>Comfortable working as part of a connected team, but self-motivated
+</li>
+<li>Thorough, diligent and energized by a fast-paced environment</li>
+</ul>
+</div>
+<p></p>
+</div>

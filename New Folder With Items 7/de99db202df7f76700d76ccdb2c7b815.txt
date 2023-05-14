@@ -1,0 +1,82 @@
+<h2>Senior Technician</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Senior Technician - (00053895)</div>
+<div>
+Description<div>
+</div>
+<div>
+The Aerial Layer R&amp;D<b> </b>(ALR&amp;D) lab's mission is to experiment, mature, and apply leading edge aerial networking technologies to solve system integration and operational issues and influence concepts and capabilities for the next generation tactical data networks, including A2/AD. Our facility includes both unclassified and classified lab spaces and radio rooms. We offer a collaborative environment with network connections to other MITRE, government, and vendor labs. The lab is equipped with tactical data terminals (Link 16, SADL), IP-based terminals (TTNT, Mini CDL, PRC-117G), and several models of UHF/VHF radios (PRC-117F, PRC-152, URC-200) capable of a variety of tactical waveforms. The lab also maintains several tactical data link gateways, modeling and simulation tools (MATLAB, STK, OPNET, AFSIM), and networking and radio test equipment. A fleet of mobile systems (trailer and truck-based shelters) provide a scaled down version of the lab for field experimentation and demonstration.<br>
+</div>
+<div></div>
+<br>
+<div>The ALR&amp;D Lab has been at the forefront of the evolution of aerial networking and tactical data networking technologies. Prototype systems, such as the Multi-Link Translation and Display System, have influenced the current TDN products on the marketplace today. Current research is defining future aerial networking capabilities and assessing the technologies needed to operate in contested environments. Work is ongoing in critical sponsor program areas such as Common Data Link (CDL), Tactical Air Control Party TACP, and Foreign Military Sales (FMS). Technology research in areas such as RF cosite, nulling antennas, and aerial networking coverage provide sponsors with in-depth technical information to support critical acquisition decisions.<br>
+</div>
+<div></div>
+<br>
+<div>We are seeking technical project assistance in managing this lab, which includes the following responsibilities:<br>
+</div>
+<p></p>
+<ul>
+<li>Manage, maintain, operate, tech refresh, and upgrade Aerial Layer Research and Development Lab infrastructure (computers, networks, radios/terminals, software, analysis tools, facilities, etc.) as required to ensure viability to support project research, proof-of-concept/prototype development, integration, analysis, characterization and test initiation.</li>
+<li>
+Establish an operating knowledge/skillset across the spectrum of lab infrastructure (physical and virtual computer systems, software and diagnostic tools, radio/terminal operation and integration, COMSEC including HAIPE devices and key loading and management systems, IP and TDL networks, timing, GPS, etc.)<br>
+</li>
+</ul>
+</div>
+<div></div>
+<div>Qualifications<div>
+</div>
+<ul>
+<li>
+<p>
+ Required Qualifications:</p>
+<div>
+<br>
+</div>
+<div>Ability to obtain and maintain a SECRET DoD security clearance</div>
+<div>
+<br>
+</div>
+<div>Previous experience with RF communications equipment</div>
+<div>
+<br>
+</div>
+<div>Previous experience with leading small teams through dynamic tasking<br>
+</div>
+</li>
+<p></p>
+<li>
+<p>Desired Qualifications:</p>
+<div>
+<br>
+</div>
+<div>Experience with managing COMSEC equipment</div>
+<div>
+<br>
+</div>
+<div>Background in Aerial-layer military communications</div>
+<div>
+<br>
+</div>
+<div>Familiarity with RF test equipment</div>
+<div>
+<br>
+</div>
+<div>Familiarity with computing and classified infrastructure</div>
+<div>
+<br>
+</div>
+</li>
+</ul>
+</div>
+<p></p>
+<div>Primary Location: United States-Massachusetts-Bedford</div>
+<div>
+Job: Technical Project Assistance</div>
+<div>
+This requisition requires a clearance of: Secret</div>
+<div>
+Travel: Yes, 10 % of the Time</div>
+<div>
+Job Posting: Jul 24, 2019, 9:57:22 AM</div>
+</div></div>

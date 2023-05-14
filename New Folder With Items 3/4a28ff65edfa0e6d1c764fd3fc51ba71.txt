@@ -1,0 +1,145 @@
+<h2>Senior Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>Cox Automotive is hiring an experienced <b>Senior Product Manager</b> in <b>SAAS/PAAS</b> for our Core Domain team in <b>Austin, TX</b>.</div>
+<div></div>
+<br>
+<h4 class="jobSectionHeader"><b>
+Our vision</b></h4>
+<br>
+<div>
+</div>
+<div>The Core Retail Services - Core Domain product team provides shared services products that enable an integrated and consistent foundation for all Cox Automotive solutions, including AutoTrader, Dealer.com, Dealertrack, HomeNet, Kelley Blue Book, vAuto, VinSolutions, and Xtime.<br>
+</div>
+<div></div>
+<h4 class="jobSectionHeader"><b>Our Initiatives/products that drive our vision are as follows:</b></h4>
+<div></div>
+<br>
+<ul>
+<li><div>
+Common User: a central facility for creating and managing a user that will be shared across all Cox Auto applications</div></li>
+<li><div>
+Common Dealer: a central repository representing the organizational structure of our customers that will be shared across all Cox Auto applications</div></li>
+<li><div>
+Access Control: a central facility for managing what a user is allowed to do and where they are allowed to do it.</div></li>
+</ul>
+<br>
+<div></div>
+<h4 class="jobSectionHeader"><b>
+Why should you work for Cox?</b></h4>
+<br>
+<div>
+</div>
+<div>Work with an industry leader: https://www.youtube.com/watch?v=DOCvFnzrOys</div>
+<div>It’s all about our culture: https://www.youtube.com/watch?v=qOrgaLV2Meg</div>
+<div>Transforming the Auto Industry: https://www.youtube.com/watch?v=ktiMKTWd0HY</div>
+<div>A great place to work: https://www.youtube.com/watch?v=dczN3E7coak</div>
+<br>
+<div></div>
+<h4 class="jobSectionHeader"><b>What is interesting about this role and the team?</b></h4>
+<div></div>
+<br>
+<ul>
+<li><div>
+Common Retail Services is a team that serves as a framework for all of Cox’s Retail business units and brands, giving an enterprise-wide exposure to its team members.</div></li>
+<li><div>
+In this role you will have the unique opportunity to interface with leaders from various business units across Cox Automotive, as opposed to being siloed into one application or brand.</div></li>
+<li><div>
+The Core Domain team is the center building best-of-breed services that all Cox Auto products need. This lowers duplicative development and enables customers to use more Cox Auto products as a coherent suite, and as a product leader you will be directly instrumental in levering up our across-the-board footprint in the industry.</div></li>
+</ul>
+<br>
+<div></div>
+<h4 class="jobSectionHeader"><b>
+As a Senior Product Manager, you will…</b></h4>
+<div></div>
+<br>
+<ul>
+<li><div>
+Along with Director of Product Management, define product vision and objective measures of success and work closely with Architects and Software Engineering to oversee and approve product designs, enhancements, and quality.</div></li>
+<li><div>
+Track market trends and competitive offerings.</div></li>
+<li><div>
+Interact directly with customers and others to drive product direction and ensure capabilities meet market needs and customer goals.</div></li>
+<li><div>
+Collaborate with multiple Agile product development / software engineering teams responsible for developing and launching platform application and components.</div></li>
+<li><div>
+Lead the full product lifecycle from research and design through development and launch.</div></li>
+<li><div>
+Work closely with internal and external customers, stakeholders, and other Product Managers to build a collectively understood and prioritized product roadmap and backlog at the epic and feature level.</div></li>
+<li><div>
+Collaborate with other Product Managers to align backlogs and roadmaps across teams, departments, business units, and release trains.</div></li>
+<li><div>
+Triage and prioritize customer-reported bugs and customer-requested features and enhancements.</div></li>
+<li><div>
+Act as subject matter expert on assigned products, services, and capabilities, as well as in general areas of authentication security and permissions controls.</div></li>
+<li><div>
+Collaborate with Architects and Software Engineering to ensure products and services are secure, performant, and highly available.</div></li>
+<li><div>
+Collaborate with Operations to ensure appropriate monitoring, alerting, incident management, and problem resolution for products and services.</div></li>
+<li><div>
+Participate in product team iteration planning, release planning, and coordination of dependencies.</div></li>
+<li><div>
+Coordinate go-to-market activities with Sales, Marketing, Legal, Operations, Support, and other departments as needed.</div></li>
+<li><div>
+Lead and participate in various Agile ceremonies, including sprint reviews, stakeholder meetings, backlog grooming, and retrospectives.</div></li>
+</ul>
+<div></div>
+<br>
+<h4 class="jobSectionHeader"><b>
+Qualifications:</b></h4>
+<div></div>
+<ul>
+<li>
+Bachelor’s degree in computer science, information systems, or related field required.
+</li>
+<li>5+ years of relevant product manager/product owner experience in a software development organization required.
+</li>
+<li>Experience with Agile methodologies (e.g., Scrum, Kanban) required, including working competency with Agile tracking tools like Rally or Jira.
+</li>
+<li>Strong oral, written and presentation communication skills required.</li>
+<li>
+Demonstrated usage of data to inform product management decisions and prioritization.</li>
+<li>
+Ability to work under pressure with time constraints.</li>
+</ul>
+<br>
+<div></div>
+<div></div>
+<br>
+<h4 class="jobSectionHeader"><b>Special things that would make you stand out from others…</b></h4>
+<div></div>
+<br>
+<div></div>
+<ul>
+<li>
+An advanced degree in a quantitative field</li>
+<li>
+Working knowledge of SaaS web technologies and modern, cloud-based software architectures and components</li>
+<li>
+Experience with single sign-on (SSO), identity &amp; access management (IDM, IAM), authentication and authorization</li>
+<li>
+Experience with application programming interfaces (APIs)</li>
+<li>
+Experience partnering with design teams and guiding UX</li>
+<li>
+SAFe experience and/or Agile certifications (e.g., CSM, CSPO)</li>
+<li>
+Pragmatic Marketing certifications</li>
+<li>
+Experience with standards compliance requirements, such as security, accessibility, and/or mobile responsive design</li>
+<li>
+Automotive industry experience</li>
+</ul>
+<br>
+<div></div>
+<p><b>
+About Cox Automotive</b></p>
+<p>
+Cox Automotive Inc. makes buying, selling and owning cars easier for everyone, while also enabling mobility services. The global company’s 34,000-plus team members and family of brands, including Autotrader®, Clutch Technologies, Dealer.com®, Dealertrack®, Kelley Blue Book®, Manheim®, NextGear Capital®, VinSolutions®, vAuto® and Xtime®, are passionate about helping millions of car shoppers, tens of thousands of auto dealer clients across five continents and many others throughout the automotive industry thrive for generations to come. Cox Automotive is a subsidiary of Cox Enterprises Inc., a privately-owned, Atlanta-based company with revenues exceeding $20 billion. www.coxautoinc.com</p>
+<p>
+Cox is an Equal Employment Opportunity employer - All qualified applicants/employees will receive consideration for employment without regard to that individual’s age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.</p>
+<p>
+Statement to ALL Third-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,46 @@
+<h2>Electrical Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div>
+<p>The Electrical Engineer is responsible for design and development of new products as well as provide engineering supporting for existing products. They will be involved with all aspects of designing, developing, testing, and maintaining electrical systems for new and existing equipment. Electrical Engineer will work with various teams throughout the organization including Product Management, Operations, Sourcing, Service, and Sales.</p>
+<br>
+<br>
+<br>
+<b>Responsibilities</b><br>
+<br>
+<ul>
+<li>Develop new electronic hardware for products</li>
+<li>Design and test new circuit boards and software architecture.</li>
+<li>Develop firmware for both the development of products as well as supporting existing products.</li>
+<li>Redesign circuit boards or replace parts to support existing products.</li>
+<li>Generate program code for product and test and debug code.</li>
+<li>Develop solutions for products when parts are being obsoleted.</li>
+<li>Prepare software tools and fixtures used by manufacturing, write work instruction sheets and test procedures.</li>
+<li>Write and review product manuals, engineering change orders, technical bulletins, and firmware release notes.</li>
+<li>Conduct functional testing of product.</li>
+<li>Test and/or verify new equipment and firmware function.</li>
+<li>Design and test to meet CE and UL Safety including EMC/EMI/ESD requirements.</li>
+<li>Recommend and implement new product improvements.</li>
+<li>Assist internal departments with technical issues and customer requirements.</li>
+<li>Evaluate customer requests for new features as to feasibility, time required to implement, and risk (how likely it is that it will introduce new bugs into the system).</li>
+<li>Maintain documentation changes made to products; communicate changes to internal and external teams.</li>
+<li>Provide new product training for Service and Application Engineering.</li>
+<li>Maintains focus on continuous improvement by applying 80/20, PLS, and USa principles/techniques and makes process improvement recommendations to management.</li>
+</ul>
+</div></div>
+<br><div><div>
+<h2 class="jobSectionHeader"><b>Job Requirements</b></h2>
+<p><b>Education: </b>Bachelor’s degree in Electrical Engineering or related field required.</p>
+<p><b>Experience/Skills:</b></p>
+<ul>
+<li>Minimum five (5) years previous work experience required.</li>
+<li>Electrical design of equipment and circuit boards.</li>
+<li>Proficiency in Embedded Programming (C, C++, C#), Schematic Capture, and Layout</li>
+<li>Excellent problem solving, attention to detail and decision-making skills</li>
+<li>Ability to collaborate in the development process with a cross functional team</li>
+<li>Analysis skills to aid in defining continuous improvement</li>
+<li>Self-Starter and self-motivated with ability to engage with little guidance</li>
+<li>Technical writing and process documentation skills required (MS Office)</li>
+</ul>
+<p>As an Equal Opportunity/Affirmative Action Employer, ITW Marking &amp; Coding does not discriminate in hiring or in the terms and conditions of employment because of an individual's race, color, religion, gender, national origin, age, disability, sexual orientation, marital status, veteran status, arrest record, citizenship or other categories protected by federal, state or local laws. EOE/M/F/Vet/Disability</p>
+</div></div>
+</div>

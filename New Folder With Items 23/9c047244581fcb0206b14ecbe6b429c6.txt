@@ -1,0 +1,30 @@
+<h2>Tech Support</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div><div>
+<p>We are looking for someone to join our support team – this person must be a team player with an outgoing personality. Our support people deal with both internal clients as well as external clients. Our support people work with our engineering team on new product development, testing, upgrades, and troubleshooting as well as our sales team in both a pre and post sales support role - so the following skills are required.</p>
+<p>People skills – out going personality with a passion for technology<br>
+PC Hardware experience<br>
+In-depth understanding of IP networking<br>
+Linux Networking – (we will train someone on Linux if you have a strong Windows Networking – DOS experience)<br>
+Windows Networking<br>
+Understanding of IP addressing and subnetting<br>
+Troubleshooting experience – real world working support, remote troubleshooting skills.</p>
+<h4 class="jobSectionHeader">
+<b>Requirements</b><b> - If you have the following skills – it's a big plus!</b>
+</h4>
+<p>Experience in a busy phone/tech support environment<br>
+Cisco routers experience – or the following certificates: CCNA, CCNP, CCDA, or CCDP Microsoft MCSE, MCP
+</p>
+<ul>
+<li>Test new products and updates using defined test procedures.</li>
+<li>Aid with modifying and designing new test plans.</li>
+<li>Manage the tracking and resolution of technical issues at both feature and project levels.</li>
+<li>Participate in the documentation process for new and updated products</li>
+<li>Manage distribution of hardware products to the field</li>
+<li>Provide networking support for the internal engineering departments</li>
+<li>Troubleshoot product quality issues.</li>
+<li>Spanish speaking.</li>
+</ul>
+</div></div></div>
+<p></p>
+</div>

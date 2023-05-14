@@ -1,0 +1,77 @@
+<h2>Senior Full Stack Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>Senior Full Stack Developer# 130340</div>
+<div>
+<div>
+United States-NY-New York</div> <div>|</div>
+<div></div> <div>Full-time (FT)</div> <div>|</div> <div>Technology [IT]</div> <div>|</div> <div>Job ID</div> <p>130340</p>
+</div>
+<div>
+<p>
+Credit Suisse is a leading global wealth manager with strong investment banking capabilities. Headquartered in Zurich, Switzerland, we have a global reach with operations in about 50 countries and employ more than 45,000 people from over 150 different nations. Embodying entrepreneurial spirit, Credit Suisse delivers holistic financial solutions to our clients, including innovative products and specially tailored advice. Striving for quality and excellence in our work, we recognize and reward extraordinary performance among our employees, provide wide-ranging training and development opportunities, and benefit from a diverse range of perspectives to create value for our clients, shareholders and communities. We are Credit Suisse.</p>
+<b>
+We Offer</b><div></div>
+<br>
+<div>
+<div>
+The Equity Derivatives business is in growth mode. The technology organization requires a senior application developer to work directly with US sales, structurers, and other developers to build out the next generation global structured notes sales platform (SpHere). This is a great opportunity for an experienced senior technical developer who wants to be a hands-on contributor on a high profile buildout with business focus.</div>
+<br>
+<div></div>
+<div>
+As a Senior Full Stack Front Office Developer you will be working in an Agile and TDD development team and you will work closely with front office users to provide quality systems that: improve productivity, decrease operational risk, enable the business to expand and make users smile.</div>
+<br>
+<div></div>
+<div>
+Responsibilities include:</div>
+<ul>
+<li><div>Develop, test, design, manage and support of the SpHere structured notes application platform using Agile methodologies, TDD and DevOps.</div></li>
+<li><div>Design and architecture of platform for scalability, robustness and with a strong focus on quality.</div></li>
+<li><div>Close partnership with service providers to build-out strategic services.</div></li>
+<li><div>Remain open and alert to new technology opportunities.</div></li>
+</ul>
+<br>
+<div></div>
+<div>
+Credit Suisse maintains a Working Flexibility Policy, subject to the terms as set forth in the Credit Suisse United States Employment Handbook.</div>
+</div>
+</div>
+<div></div>
+<div>
+<b>
+You Offer</b><div></div>
+<br>
+<div>
+<div>
+We have a preference for the following knowledge and experience:</div>
+<ul>
+<li><div>Languages and Frameworks: Clojure/ClojureScript, Java/Groovy/Scala/Kotlin, JavaScript (Node.js, React, Redux, HTML5), Rust, Ruby, Python.</div></li>
+<li><div>Testing: Cucumber, SpecFlow, Spock, NUnit, JUnit.</div></li>
+<li><div>Data: MongoDB or other NoSQL databases, Redis, Hadoop, Spark, Cassandra as well as Oracle/Sybase or other RDMS databases.</div></li>
+<li><div>Design: SOLID, HTTP and (REST) API design, Micro Services.</div></li>
+<li><div>DevOps: Docker, Openshift, Kubernetes, Ansible, TeamCity, AWS.</div></li>
+</ul>
+<div>We expect these qualifications and work experience:</div>
+<ul>
+<li><div>You have a passion for technology and 5+ years of commercial experience developing software using modern technologies and a willingness to constantly seek out the best of breed in new technology.</div></li>
+<li><div>You have the ability to develop intuitive and robust user interfaces which improves the user experience.</div></li>
+<li><div>Your Degree in Computer Science, Mathematics, Computer Engineering or related discipline is preferred but not required.</div></li>
+<li><div>You have theoretical foundations as well as practical experience designing and implementing distributed systems.</div></li>
+<li><div>You should have a real passion for and experience of Agile working practices like Scrum, with a strong desire to work with baked-in quality disciplines such as TDD, BDD, test automation and DevOps principles.</div></li>
+<li><div>You have attested ability to work well in delivering complex systems in a fast paced and changing environment.</div></li>
+<li><div>Experience in Banking and Equity Derivatives is not required, but it is desirable .</div></li>
+</ul>
+<div>We value these characteristics:</div>
+<ul>
+<li><div>Pragmatism. You have a thorough understanding of, and are highly informed by, the purist approaches. You also have an understanding of what it takes to deliver working software.</div></li>
+<li><div>Completion. Delivery. Shipping working software with high usability to our customers is what matters most. Your biggest thrill from a big new idea comes when you see it working in the real world.</div></li>
+<li><div>Collaboration. Building software is primarily a social activity so you will play well with others. Figuring out the right thing for the team to do is not about winning a debate at all costs.</div></li>
+<li><div>Diversity. You value everyone's ideas, background, thoughts, and culture.</div></li>
+<li><div>Curiosity. You like to learn. You continually, and deliberately, learn.</div></li>
+<li><div>Passion. You are passionate about software. You live and breathe software. It is not just a job; it is a way of life.</div></li>
+</ul>
+</div>
+</div>
+</div>
+<p></p>
+</div>

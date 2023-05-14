@@ -1,0 +1,93 @@
+<h2>PCB Designer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<p><b>Department:</b> Engineering</p>
+<p><b>
+Location:</b> Yorba Linda, CA</p>
+<p><b>
+Reports To:</b> Director of Engineering</p>
+<p><b>
+FLSA Status:</b> Except</p>
+<p><b>
+Travel:</b> &lt;10%</p>
+<p>
+Summary:</p>
+<p>
+A PCB Designer II is a professional with 3-5+ years of experience in PCB layout. In this role, the individual will work directly with IXI Technology staff to design, develop, and validate printed circuit boards and computer systems. This individual will perform design, layout, Gerber translation, schematic synchronization, footprint creation, parts library checking and merging, fabrication drawings and verification of complex multi-layer (14 layer+) printed circuit boards. They will create BOM and documentation used in the manufacturing assembly process and will work closely with electrical and mechanical engineers. This individual may be responsible for forming project teams when projects become large or are beyond their skill set, experience, or abilities. Excellent writing and verbal skills, the ability to multi-task and prioritize, work in a team environment and be self-directed is a must. HS Diploma or higher required.</p>
+<p>
+Essential Duties and Responsibilities:</p>
+<ul>
+<li>Perform detail parts placement, layout, analysis, verification, simulation, and related work on new and existing printed circuit boards and complex assemblies.</li>
+<li>Create and verify footprints for merging into shared parts libraries.</li>
+<li>Participate in all phases of design activities.</li>
+<li>Create prototypes, test plans and procedures where necessary and participate in test</li>
+<li>Provide support to the design, development, prototype fabrication, and design verification activities.</li>
+<li>Support technical proposal generation.</li>
+<li>Generate all necessary design and assembly documentation and parts lists in accordance with established procedures and methods in a timely fashion.</li>
+<li>Work closely and share innovative ideas with engineering, sales, and manufacturing.</li>
+<li>Work with Contract Manufacturers to integrate feedback from DFM/DFA checks and production builds.</li>
+<li>Update PCB design process and checklists with improvements.</li>
+</ul>
+<p>Required Qualifications:</p>
+<ul>
+<li>In-depth experience with PADS Layout, ORCAD Capture CIS, and AutoCAD 2D.</li>
+<li>Working knowledge of matched impedance, differential pairing, routing techniques and EMF control.</li>
+<li>Complete understanding of PCB design rules, fabrication specifications and processes.</li>
+<li>Working knowledge of high-speed design and techniques.</li>
+<li>Knowledge of a variety of PCB board form factors and specifications including PCI, PCIe, PMC, VME, Power Supplies, CPUs, etc.</li>
+<li>Computer literate using the Windows operating system and MS Excel, MS Word, Adobe Acrobat, and email applications.</li>
+<li>Working knowledge of ANSI Y14.5M-1994 drafting and tolerance standards.</li>
+<li>Working knowledge of IPC-2221, IPC-7351, IPC-A-600 and IPC-A-610 standards.</li>
+<li>In-depth experience in the design and construction of complex electro-mechanical systems.</li>
+<li>Demonstrated ability to work within a small technical development team.</li>
+<li>The ability to work with and without direct supervision.</li>
+<li>The ability to interpret a variety of instructions furnished in written, oral, diagrammatic and other forms, and move projects to completion.</li>
+<li>Excellent communication and interpersonal skills.</li>
+</ul>
+<p>Desired Qualifications</p>
+<ul>
+<li>IPC CID certification.</li>
+<li>Working knowledge of mechanical design and SolidWorks.</li>
+<li>Experience working with defense contracts and contractors.</li>
+<li>Understanding of military specifications and requirements.</li>
+<li>Military background is a plus.</li>
+</ul>
+<p>Language Skills:</p>
+<p>
+The individual must have the ability to read, write, and understand spoken English; the ability to read and understand product requirements, parts lists, data sheets; be familiar with schematics, assembly drawings, test procedures, engineering drawings, technical procedures, and governmental regulations. The individual must have excellent communication skills.</p>
+<p>
+Physical Demands:</p>
+<p>
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the employee is occasionally required to stand, walk, and sit. Specific vision abilities required by this job include color vision and the ability to adjust focus.</p>
+<p>
+Work Environment:</p>
+<p>
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals to perform the essential functions. The noise level in the work environment is generally quiet.</p>
+</div>
+<div>
+<p>
+All candidates will be subject to a background check and drug screening. IXI offers a competitive salary and a full range of comprehensive benefits, including medical, dental, life insurance, and 401(k) plan with company matching. As an Equal Opportunity Employer, we are committed to promoting and sustaining the development of the strengths that diversity brings to our workforce.</p>
+<p>
+We also offer:</p>
+<ul>
+<li>Exceptional leadership and a diverse, talented team</li>
+<li>The opportunity to make a difference</li>
+<li>Work in a team environment</li>
+<li>The opportunity to excel and grow</li>
+<li>Support of your ability to work creatively and efficiently by making regular investments in equipment, software, process controls and professional training</li>
+<li>An environment that welcomes people with diverse cultural and professional backgrounds</li>
+<li>Skills, drive and experience</li>
+</ul>
+<p>Currently, IXI is seeking professionals for the open positions listed below at our Yorba Linda, CA corporate headquarters. Only the most qualified, talented and committed individuals seeking to benefit from producing exceptional work are successful in our work environment. If you are certain about your ability to convince us that you are the individual most qualified to join our team for one of our open positions, please submit a resume along with cover letter referencing the position title via one of the following methods:</p>
+<p>
+Email: careers@ixitech.com</p>
+<p>
+Fax: 714.221.5990</p>
+<p>
+Mail:<br>
+IXI<br>
+Attn: Human Resources<br>
+22705 Savi Ranch Parkway Suite 200<br>
+Yorba Linda, CA 92887</p>
+</div>
+</div></div>

@@ -1,0 +1,85 @@
+<h2>Datacap - Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>Systems / Sr. Systems Engineer - Datacap</b></div>
+<div><b>Enterprise Content Management (ECM) Services</b></div>
+<div>
+<b>Metro Detroit, MI</b><br>
+</div>
+<div><b><i>Who We’re Looking For:</i></b></div>
+<div>Pyramid Solutions is looking for a Datacap Specialist to join our growing ECM Professional Services Practice, to provide best-in-class scanning, classification and indexing technology services to our enterprise customers. Pyramid Solutions uses leading edge ECM technologies from IBM Datacap to FileNet P8 to deliver intelligent client solutions. The Datacap Specialist will join an integrated team that’s passionate about delivering high quality solutions that provide measurable customer value. They will be motivated to create innovative solutions and learn how to deliver these solutions to business clients. Pyramid Solutions encourages life-long learning by offering employees opportunities to learn and promote new technologies within the team to help drive innovation.</div>
+<div></div>
+<div><b>Requirements:</b></div>
+<ul>
+<li>Proven ability to provide successful Datacap and/or other capture solution development projects</li>
+<li>A minimum of 2 years’ experience in developing robust software solutions</li>
+<li>At least 1 year of experience with IBM Datacap is required. Experience with other capture products (e.g. Kofax) is a plus</li>
+<li>Current Datacap 8.x. and/or 9.x certification is a plus</li>
+<li>Experience developing web services, user interfaces and database connections using .NET, C#, Java or JavaScript and ODBC/JDBC technologies is a plus</li>
+<li>Experience with the IBM ECM (FileNet P8) product suite and/or other ECM products is desirable</li>
+<li>Experience working on IT projects in State or Municipal government agencies and/or the Financial Services, Banking and Insurance industries is a plus</li>
+<li>Familiarity with various Systems Development Lifecycle Methodologies (i.e. Agile, Waterfall) is a plus</li>
+</ul>
+<div><b>Education:</b></div>
+<ul>
+<li>Bachelor of Science degree in Computer Science, Software Engineering or related area</li>
+</ul>
+<div></div>
+<div><b><i>What You’ll Do:</i></b></div>
+<div><b>Accountable For:</b></div>
+<ul>
+<li>Solution Design</li>
+<li>Development</li>
+<li>Testing</li>
+<li>Solution Support</li>
+<li>Sales Support</li>
+</ul>
+<div>
+<b>Responsibilities</b>:</div>
+<ul>
+<li>Working within a project team, design and develop IBM Datacap solutions for external clients</li>
+<li>Install and configure Datacap software that meets design specifications using specified programming methodologies and coding standards for external client projects</li>
+<li>Contribute to all areas of the System Life Cycle, including analysis, design, code &amp; unit test, debug and system test</li>
+<li>Coordinates activities under the guidance of the assigned Project Manager</li>
+<li>Utilize appropriate debugging and troubleshooting techniques and tools</li>
+<li>Execute test procedures to ensure product quality</li>
+<li>Develop technical specifications as required by projects</li>
+<li>Participate in code, design reviews and assist in conducting code reviews</li>
+<li>Provide written project status to internal and external client management</li>
+<li>Identify task overruns to management</li>
+<li>Obtain and define technical requirements and scope for client projects and/or solution proposals</li>
+<li>Provide estimates for task completion within a project or for technical proposals to potential clients</li>
+<li>Produce software documentation including requirements gathering, design specifications, test plans and user documentation</li>
+</ul>
+<div><b><i>The Logistics:</i></b></div>
+<div>
+<b>Location: </b>Pyramid Solutions is located in Bingham Farms, MI yet we welcome qualified applicants to apply even if they are seeking remote employment</div>
+<div></div>
+<div>
+<b>Travel: </b>The typical amount of travel on an annualized basis is up to 25%</div>
+<div></div>
+<div>
+<b>Compensation: </b>We offer a competitive salary (commensurate with experience) and benefit package, including medical/dental, 401(k), training programs and more</div>
+<div></div>
+<div>
+<div>
+<b><i>Who We Are:</i></b><br>
+<b>Company Culture</b><br>
+Pyramid Solutions is a boutique technology company based in Southeast Michigan. We value teamwork, innovative problem solving and passion, so we look for candidates who demonstrate those qualities along with a growth-oriented, customer-focused, getting-it-done mindset. Creating a fun and positive office atmosphere and company culture is important to us, so we have a variety of events, opportunities and office quirks to do that.</div>
+<ul>
+<li>Annual meeting and annual holiday party</li>
+<li>Recognition for career anniversaries and demonstrating our Core Values via lunch celebrations, annual awards and “shout outs” in the monthly newsletter</li>
+<li>Bi-monthly company-wide events like bowling, golfing, whirly ball and Detroit Tigers outings</li>
+<li>Quarterly fundraising events that give back to local and national charities</li>
+<li>Flexible work schedule and the opportunity to work from home</li>
+<li>Spontaneous Nerf gun wars</li>
+<li>NCAA March Madness bracket competition</li>
+<li>Career development opportunities through blogging, training, certifications and conference</li>
+</ul>
+<div>We recognize that we would not be here without the support of our families and community, so we make it a priority to give back. Every quarter we donate money to a a local nonprofit of an employee’s choosing and we participate in volunteer events.<br>
+<br>
+<b>Company Description</b><br>
+Pyramid Solutions develops products and innovative solutions for organizations in a wide range of industries – from financial institutions to insurance providers to automotive suppliers and industrial automation companies. Our experts specialize in three core practices – Enterprise Content Management, Intelligent Manufacturing and Network Connectivity. For over 25 years we continue to develop visionary solutions that yield exceptional results. For additional information about Pyramid Solutions, visit pyramidsolutions.com.</div>
+</div>
+<div></div>
+<div><b><i>We are an equal employment opportunity employer. Women, minorities, veterans and individuals with disabilities are encouraged to apply.</i></b></div>
+</div></div>

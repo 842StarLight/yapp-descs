@@ -1,0 +1,134 @@
+<h2>Integration Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Description
+</b></p>
+<p><b>Position Summary
+</b></p>
+<p>We are looking for an Integration Manager who will work on building and improving vital integration platform solutions that support our mobile, cloud-based and enterprise applications in support of key business objectives and mission critical functional areas such as supply chain, fulfillment, sales, ecommerce, customer service, and accounting/finance. This role will not only be responsible for architecting integration solutions, but will also be responsible for providing technical leadership, development, and operational support of the solutions. We realize the space is new and no candidates resume may be a perfect fit, so we are willing to invest in someone with the right background &amp; experience on some of these exciting new technologies. The IT Integration Manager will be a member of Enterprise Integration Services team and will work closely with internal stakeholders, external vendors, and service providers.
+</p>
+<p></p>
+<p><b>Responsibilities
+</b></p>
+<ul>
+<li>Manage Integration Specialist, Leads and Developers (CBI &amp; External)
+</li>
+<li>Support Estimation &amp; Budget Planning
+</li>
+<li>Support Modernize &amp; Transform Integration Workforce/Skillsets
+</li>
+<li>Mentor integration resources
+</li>
+<li>Ensure business and technical architecture for Integrations aligns with the customer’s functional and non-functional requirements
+</li>
+<li>Support or Advice architectural strategies and best practice approaches
+</li>
+<li>Build, maintain, and manage a world-class API &amp; cloud Integration platform
+</li>
+<li>Be the owner of the build automation process and tools and deployment process
+</li>
+<li>Utilize Waterfall or Agile Methodology &amp; tools for Delivery (Integration/API User Stories &amp; Downstream Dependencies)
+</li>
+<li>Responsible for the integration platform configuration, stability/performance, security &amp; maintenance
+</li>
+<li>Design, Develop and Implement, Unit Test Integrations &amp; APIs
+</li>
+<li>Design Microservices Concepts (Containerization, etc.)
+</li>
+<li>Drive, Manage &amp; Build micro-services based APIs
+</li>
+<li>Support design process to service enable applications/systems
+</li>
+<li>Validate Integration/APIs by developing and executing plans and scenarios including data design, tool design, data extract/transform, networks, and hardware
+</li>
+<li>Drive build-out of Enterprise Registry/Repository services/API Catalog (includes reusable components)
+</li>
+<li>Post implementation support (DevOps Approach)
+</li>
+<li>Provide regular updates of project progress and outstanding issues
+</li>
+<li>Co-ordinate &amp; Manage Audit &amp; SOX Compliance Activities for Integrations
+</li>
+</ul>
+<p></p>
+<p><b>Minimum Qualifications
+</b></p>
+<ul>
+<li>10+ Years of experience in Information Technology
+</li>
+<li>2+ Years of experience in managing people
+</li>
+<li>Bachelor’s Degree in Computer Science or related field
+</li>
+<li>5+ years of experience in developing and maintaining integrations in a large-scale, complex systems environment
+</li>
+<li>5+ years performing data mapping, extraction, transformation and loading between a variety of enterprise platforms
+</li>
+<li>3+ years’ experience developing integrations on one or more of the following platforms: MuleSoft, BPEL/SOA, SAP PO/PI, SAP Cloud Integration
+</li>
+<li>Experience with HTTP REST concepts and web services (SOAP), APIs, JSON, JSON schema, JSON REST specification, RAML, XML, and web scripting languages.
+</li>
+<li>3+ years’ experience with basic SQL (joins, views, triggers, stored procedures, indexing, statistics), using Oracle, PostgreSQL or similar leading relational database
+</li>
+<li>Experience using a source control repository such as GitHub
+</li>
+<li>Experience with frontend web development (HTML, JavaScript, CSS) is preferred
+</li>
+<li>Experience with standard IT processes, including Agile, SDLC, DevOps, and Change Control
+</li>
+<li>Desire to continuously learn and stay current with industry developments and trends
+</li>
+<li>Strong cross-functional collaboration skills and the proven ability to work effectively with numerous stakeholders and contributors, both internally and externally
+</li>
+<li>Excellent written and verbal communication skills across both business and technical audiences
+</li>
+<li>Exceptional time management and organizational skills
+</li>
+<li>Astute attention to detail and accuracy
+</li>
+<li>Strong problem solving, analytical and critical thinking skills, with an ability to mitigate risk, communicate effectively, and facilitate problem resolution
+</li>
+<li>Ability to self-manage and motivate, to work well under pressure and manage multiple projects at the same time, using sound judgment
+</li>
+</ul>
+<p></p>
+<p><b>Preferred Qualifications
+</b></p>
+<ul>
+<li>Design and Development of Mule ESB applications, MuleSoft API platform and Cloud hub, Experience in developing mule flows in Anypoint studio, with strong REST and SOAP web services, RAML in Mule, and use of different mule connectors (File connector, Http/Https, etc.)
+</li>
+<li>Design and development of Mule APIs
+</li>
+<li>Working knowledge of MuleSoft Anypoint platform, API management
+</li>
+<li>Ability to work in a diverse/multiple stakeholder environment
+</li>
+<li>Design and Development of Workday Integrations
+</li>
+<li>Programming language experience with JavaScript, Python, Java
+</li>
+<li>Experience in one or more of the ESB Tools like Oracle Fusion Middleware, OpenText (Bizlink)
+</li>
+<li>Experience with modern Agile SDLC concepts and tools, especially Rally, Confluence, Git/GitHub, Circle CI
+</li>
+<li>Knowledge and experience with AWS and/or Heroku
+</li>
+<li>Experience designing and developing integrations leveraging a microservices architecture
+</li>
+</ul>
+<p></p>
+<p><b>Location
+</b></p>Victor, New York
+<p></p>
+<p><b>Additional Locations
+</b></p>
+<p></p>
+<p><b>Job Type
+</b></p>Full time
+<p></p>
+<p><b>Job Area
+</b></p>Information Technology
+<p></p>
+<p><b>Equal Opportunity
+</b></p>
+<p>Constellation Brands is committed to a continuing program of equal employment opportunity. All persons have equal employment opportunities with Constellation Brands, regardless of their sex, race, color, age, religion, creed, sexual orientation, national origin or citizenship, ancestry, physical or mental disability, medical condition (cancer or genetic characteristics), marital status, gender (including gender identity or gender expression), familial status, military or veteran status, genetic information, pregnancy, childbirth, breastfeeding, or related conditions (or any other group or category within the framework of the applicable discrimination laws and regulations).</p>
+</div></div>

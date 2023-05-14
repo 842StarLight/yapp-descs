@@ -1,0 +1,54 @@
+<h2>Professional, Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Job Summary
+</b></h2>
+<p>Join the team that powers the global real estate economy - CoreLogic is an innovative, future focused company whose vision is to deliver unique property-level insights that power the global real estate economy.
+</p>
+<p></p>
+<p>We are a $1.95 billion in sales company with more than 6,000 employees globally serving the financial services and insurance industries. We are evolving at a rapid pace and the clients we serve are challenged from every direction, which means we are growing and innovating to help drive their success. Working together, and differentiated by our superior data, analytics and data-enabled solutions, we empower our clients to make smarter business decisions through data-driven insights. We take initiative, are fully accountable, build respect and trust, make transparency a must—and engage, include and collaborate at every turn.
+</p>
+<p></p>
+<p>We take pride in our work and believe in cultivating a work environment that supports and values our greatest asset: our talented employees.
+</p>
+<p></p>
+<p><b>Job Description:
+</b></p>
+<p>You’ll build products that hundreds of thousands of real estate pros rely on. In fact, what you do here absolutely matters – we don’t write code that never sees the light of day or get caught up in big company bureaucracy. Our developers are at the heart of our company. And the dedicated team is full of highly seasoned senior developers that have been promoted from within. So, if you’re looking for a long-term career with a highly-profitable company, join us. We’re looking for full-stack web developers. What that means to us is that you are a well-rounded professional developer who is fluent in each of the technologies that make up our core product engine. You’re completely at home in Visual Studio writing solid C# .Net MVC code. You may not be a DBA, but you have no problem navigating a database structure in Management Studio and writing SQL queries and stored procedures. You're experienced in both consuming and developing RESTful web services. You may not be a designer or specialized front end developer, but you have strong knowledge and skills with HTML and CSS. You have a solid understanding of client-side development and are very comfortable writing JavaScript. Software development isn’t just a job for you. You’re passionate about technology and are constantly polishing your skills, learning new techniques, patterns, frameworks, etc.
+</p>
+<p></p>
+<p><b>Job Qualifications:
+</b></p>
+<ul>
+<li>3+ years direct experience with the following: Building large-scale web applications utilizing MVC and .NET Framework 4.0+ Fluent with C#
+</li>
+<li>Database-backed applications using MS-SQL Server / T-SQL Version control system such as Git (Git preferred).
+</li>
+<li>Building clean standards compliant HTML.
+</li>
+<li>Implementing front-end UI experiences using JavaScript, jQuery, and AJAX techniques, along with CSS, Typescript, Less and/or Sass, and Bootstrap.
+</li>
+<li>Experienced in writing unit and integration tests
+</li>
+</ul>
+<p><b><i>Preferred Skills:
+</i></b></p>
+<ul>
+<li>Real estate appraisal related knowledge and experienceTypescript experience in .ASP.NET applications
+</li>
+<li>Developing REST web services using Web API Pair programming or TDD experience
+</li>
+<li>PostgreSQL experience in a production environment
+</li>
+<li>JavaScript frameworks such as React, Angular, or VueGoogle Maps API or similar technologies.
+</li>
+<li>Implementing responsive web interfaces using the Bootstrap framework.
+</li>
+<li>An understanding of Continuous Integration Systems such as TeamCity.
+</li>
+</ul>
+<p></p>
+<p>CoreLogic offers an empowered work environment that encourages creativity, initiative and professional growth and provides a competitive salary and benefits package. CoreLogic is an Equal Opportunity/Affirmative Action employer committed to attracting and retaining the best-qualified people available, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, disability or status as a veteran of the Armed Forces, or any other basis protected by federal, state or local law. CoreLogic maintains a Drug-Free Workplace. We are fully committed to employing a diverse workforce and creating an inclusive work environment that embraces everyone’s unique contributions, experiences and values. Please apply on our website for consideration.</p>
+</div>
+<p></p>
+</div>

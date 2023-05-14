@@ -1,0 +1,48 @@
+<h2>Cloud Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>The Company</b><br>
+<br>
+Hitachi Vantara, a wholly owned subsidiary of Hitachi, Ltd., helps data-driven leaders use the value in their data to innovate intelligently and reach outcomes that matter for business and society – what we call a double bottom line. Only Hitachi Vantara combines 100+ years of experience in operational technology (OT) and 60+ years in IT to unlock the power of data from your business, your people and your machines. We help enterprises store, enrich, activate and monetize data for better customer experiences, new revenue streams and lower business costs.<br>
+<br>
+<b>The Role</b><br>
+<br>
+We are seeking strong Cloud Solutions Architects to join our talented team. Hitachi Vantara / REAN Cloud works with enterprise level organizations on some of the world’s largest automation and cloud deployment projects, and get to work with the coolest technologies throughout the process!<br>
+<br>
+<b>Responsibilities
+</b></p>
+<ul>
+<li>Partner with the sales team to design solutions for customers, drive private &amp; public cloud adoption and revenue.</li>
+<li>Be a public cloud (Amazon Web Services, Microsoft Azure, Google Cloud Platform) evangelist.</li>
+<li>Understand and incorporate Hitachi private / hybrid cloud offerings into customer cloud computing scenarios.</li>
+<li>Educate customers of all sizes on the value proposition of cloud computing.</li>
+<li>Establish credibility &amp; build deep relationships with senior technical individuals within customers to enable them to be cloud advocates.</li>
+<li>Participate in deep architectural discussions to build confidence and ensure customer success when building new and migrating existing applications, software and services to public cloud platforms.</li>
+<li>Conduct deep-dive hands-on education/training sessions to transfer knowledge to customers considering or already using public cloud services.</li>
+<li>Capture and share best-practice knowledge amongst the SA community.</li>
+<li>Author or contribute to customer-facing publications such as whitepapers, tutorials, etc.</li>
+<li>Present sessions at industry conferences.</li>
+<li>Act as a technical liaison between customers, service engineering &amp; support teams.</li>
+<li>Become technically proficient with the REAN Accelerator Platform and demonstrate capabilities to customers</li>
+<li>Partner with the REAN Platform development team to share customer requirements and enhancement requests</li>
+</ul>
+<p><b>Required Qualifications</b></p>
+<ul>
+<li>5+ years design &amp; implementation experience with distributed applications and systems</li>
+<li>5+ years experience in information technology (networking, infrastructure, database)</li>
+<li>Working knowledge of software development and automation tools and methodologies (Jenkins, Git, Terraform, Chef, Python, etc.)</li>
+<li>3+ years software/technology customer facing experience - comfortable presenting complex topics to IT executives and leadership</li>
+</ul>
+<p><b>Additional Qualifications</b></p>
+<ul>
+<li>Technical degree preferred; Computer Science or Math background desired</li>
+<li>Experience with on-premise to cloud migrations or IT transformations</li>
+<li>Experience architecting/operating solutions build on AWS, Azure, or GCP</li>
+<li>Excellent communication skills with an ability to right-level conversations</li>
+<li>Demonstrated ability to adapt to new technologies and learn quickly</li>
+<li>Cloud platform certifications (AWS associate / professional, Azure cloud)</li>
+<li>Security certification or relevant IT security experience (CISSP, CCSP)</li>
+</ul>
+<p>We are an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.</p>
+<p>
+#LI-MG1</p>
+</div></div>

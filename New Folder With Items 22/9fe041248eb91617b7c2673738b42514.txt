@@ -1,0 +1,63 @@
+<h2>Data Scientist (Churn)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Bigger challenges. Bolder ideas. Global impact. At Viasat, we’re on a mission to deliver connections with the capacity to change the world. We’re the company behind the world’s fastest satellite internet service, with technology that’s helping to bridge the digital divide and improve life for our customers around the globe. By providing powerful new ways for people to connect with one another, gain greater access to education, entertainment, medical research, commerce, and much more, our team is empowering millions of customers worldwide.
+</p>
+<p>Our Team</p>
+<p>
+We employ the latest technologies (Spark, Kafka, Impala, Hadoop) to analyze the Petabytes of data our operational systems produce. We employ developers, data scientists, and engineers to gain insight; solving both business and technical problems. Our innovative solutions are a result of the diversity of our team.</p>
+<p></p>
+<p><b><br>
+Your Opportunity</b></p>
+<p>
+As a team member, you'll build a breadth of knowledge including distributed systems, predictive analytics, and machine learning. You will design, develop, and deploy analytic pipelines to answer questions across multiple business areas and disciplines.</p>
+<p></p>
+<p><b><br>
+Our Ideal Candidate</b></p>
+<p>
+We encourage learning through immersion, collaboration and action. We value adaptability and curiosity. Our ideal candidate is someone focused on solving tough problems using data and loves doing so.</p>
+<p></p>
+<p><br>
+As a Data Scientist, you will contribute with:</p>
+<p>
+Analysis: Architect, design, and build data analysis pipelines working with large and complex data sets. Monitor churn and revenue trends. Develop customer analysis advanced metrics and visuals, by collecting and integrating data from various sources, including market research data and internal databases.</p>
+<ul>
+<li>
+Partner with internal teams to address complex business questions and provide insightful analysis and strategic recommendations through strong storytelling capabilities to both technical and non-technical stakeholders.</li>
+<li>
+Provide ongoing tracking and analysis of industry trends, channel trends, segment trends, purchase drivers, satisfaction/gap analysis, and customer/segment demographic and behavioral profiles.</li>
+<li>
+Visualizations – Create visualizations to effectively convey the information discovered through analysis.</li>
+</ul>
+<ul>
+<li>Other analytical techniques – Performance of scenario-based outcomes and predictions i.e. device price elasticity, predicted impact of a credit deposit change, predicted impact of device price change.</li>
+</ul>
+<p></p>
+<p>Algorithms &amp; Inference: Executes parts of the modeling process (requirements, design, delivery and measurement (accuracy rate and ROI) of predicted models, forecasts and other statistical techniques. These outputs can be leveraged in a variety of ways.</p>
+<ul>
+<li>Data Mining Models – Prediction of customer behavior i.e. voluntary churn, likelihood of payment, response to an outbound campaign, fraudulent behavior.</li>
+<li>Segmentation Models – customer/geographic segmentation identification i.e. target segments, market segments.</li>
+<li>Forecasts – Prediction of enterprise metrics i.e. defects, gross ads, customer base, calls to care, device sales and bad debt expense.</li>
+</ul>
+<ul><li> Design experiments, build dashboards, and evaluate &amp; define metrics to improve business performance.</li></ul>
+<p></p>
+<p><b><br>
+Requirements:</b></p>
+<ul>
+<li>Able to develop complex solutions independently.</li>
+<li>Extensive experience with data analysis tools such as Python and R</li>
+<li>Excellent understanding of several statistical and machine learning models</li>
+<li>Ability creating and operationalizing models and other advanced analytics</li>
+<li>Familiarity with Big Data technologies such as Spark, Impala, Hadoop</li>
+<li>Proven ability to meet tight timelines, estimate level of effort, multi-task and prioritize workload</li>
+<li>Bachelors + 5 yrs relevant experience required in Statistics, Math, Finance or another quantitative field</li>
+</ul>
+<p><b>Preferences:</b></p>
+<ul>
+<li>Experience in the customer retention and loyalty areas</li>
+<li>MS/PhD in a data related field such as mathematics, economics, statistics, or similar</li>
+</ul>
+</div>
+<p></p>
+</div>

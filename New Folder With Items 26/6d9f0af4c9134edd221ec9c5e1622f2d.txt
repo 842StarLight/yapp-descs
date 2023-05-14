@@ -1,0 +1,70 @@
+<h2>Customer Support Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Description</b></p>
+<p>
+A Customer Support Manager will manage the interface with DriveScale customers to deliver and maintain DriveScale products. The initial focus will be to establish automated support for DriveScale’s latest software downloadable products, which includes setup and maintenance of support tools such as customer self-help knowledge base, public community forums, and online ticketing system. This hands-on player-coach role will be the leader of customer support and be responsible for growing the team as the company grows.</p>
+<p><b>
+Key Responsibilities</b></p>
+<ul>
+<li>Customer Engagement
+<ul>
+<li>Maintain 100% DriveScale customer satisfaction</li>
+<li>Timely communication with customers concerning status of open support issues, agreeing priority based on customer business impact, setting clear expectations about next steps and timeframes. Responsible for delivering against commitments.</li>
+<li>Ensuring that customer issues are resolved in a timely manner and to their satisfaction as measured by SLAs and customer satisfaction surveys.</li>
+<li>Thoroughly documenting all communication, troubleshooting, and activity on issues reported by customers in Salesforce Service Cloud.
+</li>
+<li>Troubleshooting issues related to DriveScale products and 3rd party software or hardware.</li>
+<li>Customer Training on DriveScale product, feature, and issue resolution procedures.</li>
+</ul>
+</li>
+<li>Customer Support Systems
+<ul>
+<li>Interface with R&amp;D Engineering / QA to become a DriveScale product expert.</li>
+<li>Working collaboratively with other team members and members of other DriveScale teams such as R&amp;D Engineering, QA, Product Mgmt, and Sales.</li>
+<li>Maintain customer support tools and environments, such as
+<ul>
+<li>DriveScale product download site</li>
+<li>DriveScale knowledge base and communities (Salesforce Service Cloud)</li>
+<li>DriveScale ticket system</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Customer Support Management
+<ul>
+<li>Maintain customer satisfaction support metrics (issues, tickets open/closed, etc)</li>
+<li>On location customer business reviews (quarterly, yearly)</li>
+<li>Hire and Lead a team of CSEs</li>
+</ul>
+</li>
+</ul>
+<p><b>Ideal Candidate will have the following skills and experience:</b></p>
+<ul>
+<li>8+ years of software support experience, preferably in a high tech startup.</li>
+<li>Considerable experience leading a customer support team and establishing customer support processes and tools.</li>
+<li>Ability to multi-task and work through problems independently.</li>
+<li>Strong Communications skills (written &amp; verbal).</li>
+<li>4-year technical degree or equivalent experience, BS Computer Science preferred.</li>
+<li>Highly organized and self-starting.</li>
+<li>Strong priority management skills and proven problem-solving skills.</li>
+<li>Experience with the following technologies:
+<ul>
+<li>Datacenter Server Installations</li>
+<li>Linux/Windows System Administration</li>
+<li>Network Administration (Ethernet/IP)</li>
+<li>Salesforce Service Cloud, JIRA</li>
+<li>Storage Administration experience is a plus (e.g. NAS, SAN, HCI, RAID).</li>
+<li>SQL, MySQL, Cassandra database administration and troubleshooting is a plus</li>
+</ul>
+</li>
+</ul>
+<p><b>Location: Sunnyvale, CA</b></p>
+<p><b>
+Position Type: Full Time</b></p>
+<p><b>
+Salary: Salary open based on background, (plus goal achievement bonuses, benefits, and equity options)</b></p>
+<p><b>
+Email: </b><b>careers@drivescale.com</b></p>
+<p><b>
+Contact: </b><b>careers@drivescale.com</b></p>
+</div></div>

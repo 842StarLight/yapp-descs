@@ -1,0 +1,75 @@
+<h2>Network Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>JOB TITLE:</b> Network Systems Engineer</p>
+<p><b>STATUS:</b> Non-Exempt</p>
+<p><b>DEPARTMENT:</b> Network Engineering</p>
+<p><b>REPORTS TO:</b> Director of Network Engineering</p>
+<p><b>FULL/PART-TIME:</b> Full-Time</p>
+<br>
+<p></p>
+<p><b>JOB SUMMARY:</b></p>
+<p>The Network Systems Engineer manages and develops our network and system infrastructure to ensure reliable and efficient services. This position works with multiple departments within the company to put us in the best position to develop, sell, install and support our products.</p>
+<br>
+<p></p>
+<p><b>NETWORK SYSTEMS ENGINEER RESPONSIBILITIES:</b></p>
+<br>
+<p></p>
+<ul>
+<li>Maintain expertise in the technical operation of all Northland products and services</li>
+<li>Lead or participate in projects that create new products or features</li>
+<li>Assist with establishing and updating standard operating procedures in line with network and product changes</li>
+<li>Participate in the planning and execution of quarterly maintenance activities</li>
+<li>Maintain Network Monitoring Systems</li>
+<li>Maintain and implement best practices to ensure security of all Northland assets</li>
+<li>Assist with the sales, quoting and provisioning of advanced services including colocation, SD-WAN, web hosting and MPLS</li>
+<li>Maintain hardware and software systems that provide services such as including DNS, Radius, Mail servers, Web hosting, Microsoft Exchange, Microsoft Active Directory and Microsoft SQL</li>
+<li>Maintain network hardware infrastructure including Cisco, Calix and Metaswitch.</li>
+<li>Perform regular network capacity planning and recommend solutions in advance</li>
+<li>Implement systems, changes and recommendations that ensure 100% network core uptime</li>
+<li>Provide technical support to other departments or customers as needed</li>
+<li>Maintain and implement best practices that ensure we have a network that can be supported in the most efficient manner possible</li>
+<li>On call rotation responsibilities with other team members.</li>
+</ul>
+<p><b>MINIMUM JOB QUALIFICATIONS:</b></p>
+<br>
+<p></p>
+<ul>
+<li>BS/BA degree or 5 or more years of relevant experience.</li>
+<li>Proven customer service and problem solving skills, working over the phone and on-site with customers and employees.</li>
+<li>Ability to communicate effectively both written and orally, including the ability to flex based on other communication styles</li>
+<li>Exceptional troubleshooting skills.</li>
+<li>Ability to develop rapport with people within and outside the company, and engage with people in a manner that provides a positive experience</li>
+<li>Experience and expertise in Linux, Microsoft Windows Server products 2008 and 2012, Exchange 2010 and 2013, and related technologies such as DNS, DHCP, backup systems, email systems, virus protection, desktop operating systems, etc.</li>
+<li>Detailed theoretical and practical knowledge of IP protocols, firewalls, and routers.</li>
+<li>Experience configuring, installing, and troubleshooting centralized network infrastructure such as routers, hubs, switches, etc.</li>
+<li>VMware, MCSE, SonicWALL, CCNA, CCNP, Linux experience or certifications.</li>
+<li>Basic power and electronics concepts.</li>
+<li>Basic programming and scripting (sh, php, perl)</li>
+<li>Ability to explain and document complex technical subjects with concise and simple terms</li>
+<li>Ability to understand business operations and finances</li>
+<li>Ability to be think objectively and independently and be self-motivated when considering efficient and creative ways to accomplish tasks</li>
+<li>Ability to follow-through with meeting time-frames and associated deadlines, including the ability to move past obstacles using internal/external resources to achieve results</li>
+<li>Ability to be self-directed with organizing, planning, and prioritizing workload, which includes the ability to make decisions when adjustments need to be made based on achieving deadlines</li>
+</ul>
+<p><b>EQUIPMENT AND MACHINES USED:</b></p>
+<ul>
+<li>Ability to use voicemail, telephone, calculator, computer, printer and photocopier</li>
+</ul>
+<p><b>LICENSES/CERTIFICATIONS:</b></p>
+<ul>
+<li>A valid driver's license or ability to access transportation to attend work group and organization meetings and events is necessary</li>
+</ul>
+<p><b>EMPLOYER'S DISCLAIMER:</b></p>
+<br>
+<p></p>
+<ul>
+<li>All requirements are subject to possible modification to reasonably accommodate individuals with disabilities.</li>
+<li>All offers of employment are contingent on successful results from a background check. If results are not acceptable to the company, the company reserves the right to rescind its conditional offer of employment.</li>
+<li>This job description in no way states or implies that these are the only duties to be performed by the employee holding this position. Employees will be required to follow any other job-related instructions and to perform any other job-related duties required by their office.</li>
+<li>This document does not create an employment contract, implied or otherwise, other than an at will employment relationship.</li>
+<li>We are an equal opportunity employer. We consider applicants for all positions without regard to race, color, religion, creed, gender, national origin, age, disability, marital or veteran status, sexual orientation, or any other legally protected status.</li>
+</ul>
+</div>
+</div>

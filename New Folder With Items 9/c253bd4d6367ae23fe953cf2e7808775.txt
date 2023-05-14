@@ -1,0 +1,73 @@
+<h2>Principal Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>IDEMIA is the global leader in identity and security. Our mission is to create a safe and simple future where identity verification is indisputable, and only you can assert your identity. We are a distributed company leveraging the latest technologies to deliver world-class products in the private and public sectors of finance, telecom, identity, security, retail, sports entertainment, commercial, government, and IoT. We use a variety of technologies and approaches to deliver quality product and services to government agencies and technology companies. IDEMIA is a made up of a group of 14,000 diverse people from different nationalities, speaking over 20 different languages. Together, our solutions impact the everyday lives of citizens and nations. In this ever-changing world, protecting your identity is paramount. Join the team that is ensuring one person- one identity.</p>
+<br>
+<p></p>
+<p>
+Oversees pre-sale and post-sale support of company product/systems/solutions used for biometric identification services. Provide technical support in sales and product demonstrations. Provides answers to customer inquiries. Implements complex system requirements for customers and/or prepares studies and analyzes existing systems. Determines system specifications, input/output processes and working parameters for hardware and software compatibility. Coordinates installation of subsystems and integration of total system. Provides technical support during preparation, installation and maintenance of the solution. Identifies, analyzes and resolves program support deficiencies. Develops and recommends corrective actions.</p>
+<br>
+<p></p>
+<p><b>
+Essential Job Functions (includes but is not limited to):</b></p>
+<br>
+<p></p>
+<ul>
+<li>Resolves escalated customer problems. Analyzes functional issues and facilitates implementation of actions required to restore customer environment to working condition, utilizing both internal and external resources.</li>
+<li>Works with the Engineering team to strategically amend, upgrade, and streamline company systems to resolve software issues, design new applications, and integrate company systems with the diversified customer computer systems and networks.</li>
+<li>Monitors and tracks on-going product failures for root cause analysis. Produces report to assist company in understanding product failure and recommends possible root cause correction to increase performance and reliability of the assigned product.</li>
+<li>Reviews and authors service manuals and/or other installation and service-related documentation as needed. Maintain troubleshooting information in company knowledge base and other virtual locations.</li>
+<li>As directed, troubleshoots and modifies operating system and customizations to meet customers’ requirements, documenting such changes.</li>
+<li>Performs alpha and beta testing on new customizations and products prior to customer deployment and documents results for reporting to responsible engineering groups for action.</li>
+<li>Required to be on on-call rotation for 24/7 coverage.</li>
+<li>Represents Idemia in a credible and positive manner, ensuring customer expectations are managed appropriately.</li>
+<li>Estimates time for projects; plans, sets priorities, and estimate resources.</li>
+<li>Develops technical solutions that require original and creative approaches</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Travel Requirement, Working Conditions and Physical Demands:</b></p>
+<br>
+<p></p>
+<ul>
+<li>Ability to travel occasionally as needed for customer support or training.</li>
+<li>Office environment where the employee may sit comfortably to do the work.</li>
+</ul>
+<ul>
+<li>Some walking, standing, bending, reaching, and carrying of light items such as papers, books, small parts; driving an automobile, etc.</li>
+<li>Requires eye-hand coordination and manual dexterity sufficient to operate a keyboard, photocopier, telephone, and other office equipment.</li>
+<br>
+</ul>
+<br>
+Required Skills<br>
+<ul>
+<li>Advanced knowledge in Linux and Windows setup and support (RHEL, Oracle Linux, CentOS, Windows Server 2012 / 2016)</li>
+<li>Analytical skills as applied to Problem solving, System diagnostics, and Statistical measurements and analysis of systems.</li>
+<li>Strong communication skills, both verbal and written.</li>
+<li>Intermediate knowledge of face recognition technology or other biometrics a plus.</li>
+<li>Knowledge of solutions for high availability/fault tolerant environments.</li>
+<li>Troubleshooting and analysis abilities required.</li>
+<li>Interpersonal and Customer service skills required.</li>
+<li>Ability to work in a business-critical 24/7/365 environment.</li>
+<li>Ability to work with minimal supervision.</li>
+<li>Ability to pass FBI and State personal background check and/or clearance as required by customers</li>
+<br>
+</ul>
+<br>
+Required Experience<br>
+<ul>
+<li>BS degree in computer related field, and minimum 10 years experience in a customer facing position, or a combination education and work experience that would enable performance of the full scope of the position.</li>
+<li>Experience in providing technical support in an engineering capacity.</li>
+<li>Relevant experience or knowledge in biometrics field is a plus.</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Must be United States citizen (dual citizenship is not allowed)</b><br>
+IDEMIA is an equal opportunity employer.<br>
+We evaluate qualified applicants without regard to race, color, religion, sex,<br>
+sexual orientation, gender identity, national origin, disability, veteran status, and other protected characteristics.</p>
+</div>
+<p></p>
+</div>

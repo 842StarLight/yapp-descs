@@ -1,0 +1,86 @@
+<h2>Solutions Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div>
+<div>
+<div>We believe shopping should be simple and exciting and empower people to see the best version of themselves. We have started off with the eyewear industry and are changing an old-school, overwhelming, clinical, boring experience into a delightful one where customers feel great about themselves and their purchase.</div>
+<div>
+<br>
+</div>
+<div>
+Computer vision and machine learning power our industry-leading augmented reality virtual try-on, facial analysis, and frame recommendation engine. We license this technology platform to eyewear retailers who embed it into their web, mobile and in-store experiences to fundamentally shift how they sell eyewear. We have a great foundation. Our technology is being used by over 6M users a month around the world, and we have strong partnerships with some of the world’s top eyewear retailers.</div>
+<div>
+<br>
+</div>
+<div>
+As an Implementation Engineer at DITTO, you’ll be a part of the Client Success team, owning the integration of DITTO’s technology into client websites and in-store apps and kiosks. You will work with clients, providing technical training to implementation teams, troubleshooting issues and discussing the benefits of the DITTO technology. This position will work closely with Client Success, Engineering, &amp; Product and is ultimately the main person responsible for technical conversations with customers.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>
+What you'll be doing:</b></h3>
+<div><ul>
+<li>
+Spearhead technical conversations with clients on integrations of API’s in partnership with the success team throughout the post-sales cycle</li>
+<li>
+Communicate DITTO’s infrastructure and technology to customers</li>
+<li>
+Perform Level 1 support and triage of client technical issues and create detailed engineering tickets outlining reported problems</li>
+<li>
+Oversee the planning, tracking, and completion of the customer implementation process for technical configuration</li>
+<li>
+Identify and understand implementation and configuration risks, coordinate with respective teams as applicable to mitigate and resolve</li>
+<li>
+Be the technical escalation point of contact for the team and technical subject matter expert</li>
+<li>
+Deeply understand client business goals and key performance indicators</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>
+About you:</b></h3>
+<div><ul>
+<li>
+2+ experience in a customer-facing technical role</li>
+<li>
+1+ years of experience in development/sales engineering/integration engineering, SaaS/cloud-hosted solutions preferred</li>
+<li>
+Excellent troubleshooting skills</li>
+<li>
+Excellent presentation and interpersonal skills</li>
+<li>
+Proven track record of managing technical projects</li>
+<li>
+Experience with programming languages such as HTML, CSS, Python, and Javascript</li>
+<li>
+Experience with cloud computing services including AWS</li>
+<li>
+Highly motivated self-starter who does not need day-to-day management</li>
+</ul></div>
+</div></div>
+<div>
+<div><b>
+About us:</b></div>
+<div>
+<br>
+</div>
+<div>
+DITTO is a post-Series C, venture-backed technology company based in the Bay Area with 50 wonderful full-time employees. We provide a unique opportunity to work alongside a talented team of software engineers, business leaders, creatives, physicists and researchers to bring state of the art computer vision/machine learning technologies to market at scale.</div>
+<div>
+<br>
+</div>
+<div>
+We value citizenship where each teammate is committed to doing their part for the greater good while showing care and respect for each other. We love passionate people with a zest for life and a positive attitude. We have high expectations for hard-work and give a lot of flexibility to take time for the other things that are important to you.</div>
+<div>
+<br>
+</div>
+<div>
+We have all the perks you would expect from a great start-up: competitive salary, meaningful equity as an early employee, medical, dental, unlimited PTO, a 401K and a flexible work from home policy. We care a lot about doing the little things well and also offer endless snacks, Philz coffee, and fun monthly team events ranging from trips to Napa, hiking Angel Island, an afternoon at MOMA to arcade game competitions. We have an amazing office space right at the 19th Street BART stop in Oakland.</div>
+<div>
+<br>
+</div>
+<div>
+#LI-DNI</div>
+</div>
+</div></div>
+<p></p>
+</div>

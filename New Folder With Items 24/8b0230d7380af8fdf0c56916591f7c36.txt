@@ -1,0 +1,84 @@
+<h2>IT Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>Detailed Description:</b></p>
+<p>
+The role of Business Intelligence Consultant will work with project teams to identify, specify, and deliver business intelligence solutions for clients. These clients are primarily in the water and wastewater industry and the consultant will use a variety of tools and process to collect, organize, and display visual information originating from a variety of source systems. Deep understanding of databases, data structures, SQL programming, and specific tools (especially Microsoft’s PowerBI) are important to successfully performing in this role.</p>
+<p>
+In addition to the technical skills described, consultants at BC are also expected to work effectively in a team-based project delivery environment, and maintain interpersonal skills suitable to working with clients. While not a primary objective of this position, the ability to support teams in developing and delivering proposals and other marketing and sales materials projects with BI components is a strong plus.</p>
+<p>
+The successful candidate will serve as a member of the Solutions Delivery Enterprise group based in one of the offices listed above. This is an exciting opportunity to work in a growth-oriented professional consulting team mentored by nationally recognized, senior technical staff on various projects within our Business Consulting Practice. Typical projects could involve:</p>
+<ul>
+<li>
+Deployment of field data collection tools and management of large field datasets</li>
+<li>
+Development of BI dashboards to visualize project data for analysis and presentation</li>
+<li>
+Supporting the generation of reports and technical memoranda</li>
+<li>
+Supporting efforts in the storage, reformatting, extraction and consolidation of large amounts of data</li>
+<li>
+Development of different prototypes for Smart Utility use cases</li>
+<li>
+Development of prototypes for visualizing information on GIS and other BI platforms for Smart Utility use cases</li>
+<li>
+Manipulation and analysis of data using spreadsheets and GIS</li>
+<li>
+Travel to project sites for data collection, solution configuration and client meetings</li>
+<li>
+Participate in client development activities</li>
+<li>
+Assisting in the collaboration with other company subject matter experts and technology vendors on new field technology in flow, pressure and water quality measurement including Internet-of-Things smart sensors, data loggers and systems to support storage and display of this data.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+Required Skills and Experience:</b></p>
+<ul>
+<li>
+Experience automating tasks using scripting and machine learning tools (e.g., Python, R)</li>
+<li>
+Experience with accessing data in an RDBMS (SQL Server, Oracle) via SQL</li>
+<li>
+Integration of data from business systems (e.g., GIS, CMMS, hydraulic modeling, condition assessment) using ETL tools (e.g., SSIS, Power BI, SQL manipulation)</li>
+<li>
+Strong aptitude for researching and solving technical problems</li>
+<li>
+Technical writing expertise preferred</li>
+</ul>
+<p><b>
+Additional Desired Skills and Experience:</b></p>
+<ul>
+<li>
+Experience in data management and relational database fundamentals required</li>
+<li>
+Experience in data presentation and analytics using Microsoft PowerBI and/or Tableau</li>
+<li>
+Experience in deploying Microsoft SQL server is a plus</li>
+<li>
+Experience in deploying Microsoft SharePoint is a plus</li>
+<li>
+Experience with developing data dashboards/visualizations, especially with Microsoft’s Power BI.</li>
+<li>
+Experience with geospatial data collection and data management using Esri ArcGIS software</li>
+<li>
+Experience with deploying field data collection processes and tools for water/sewer infrastructure inventory &amp; condition assessment.</li>
+<li>
+Basic working knowledge of water, wastewater and stormwater infrastructure hydraulics and operation</li>
+</ul>
+<p>
+Headquartered in Walnut Creek, Calif., Brown and Caldwell is a full-service environmental engineering and construction firm with 54 offices and 1,700+ professionals across North America and the Pacific. For more than 70 years, we have created leading-edge environmental solutions for municipalities, private industry, and government agencies. We strive to be the company of choice—to our clients, who benefit from our passion for delivering exceptional quality, and to our employees, present and future, who share our commitment to client service, collaboration, and innovation. Join us, and you will find a home where you can do your best work, reach new levels of expertise, and enjoy exceptional development opportunities. For more information, visit www.brownandcaldwell.com</p>
+<p>
+This position is subject to a pre-employment background check and a pre-employment drug test.</p>
+<p>
+Notice to Third Party Agencies: Brown and Caldwell does not accept unsolicited resumes from recruiters or employment agencies. In the event a recruiter or agency submits a resume or candidate without a previously signed agreement and approved engagement request with Brown and Caldwell, Brown and Caldwell reserves the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency.</p>
+<p>
+Brown and Caldwell is proud to be an EEO/AAP Employer. Minorities/Women/Disabled and Protected Veterans are encouraged to apply. Brown and Caldwell ensures nondiscrimination in all programs and activities in accordance with Title VI of the Civil Rights Act of 1964.</p>
+<p></p>
+<p>
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities</p>
+<p>
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.</p>
+</div>
+</div>

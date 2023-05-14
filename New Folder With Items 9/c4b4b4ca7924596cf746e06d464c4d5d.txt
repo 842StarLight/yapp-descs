@@ -1,0 +1,100 @@
+<h2>Senior Modeling & Forecasting Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Job Description</b><br>
+<div>
+<b>ENERGY FOR WHAT’S AHEAD</b>
+</div>
+<div>Are you looking to make a difference in your career? We’re working on smarter grids, cleaner energy and tools to help people manage energy more efficiently.</div>
+<div></div>
+<div><b>About Customer &amp; Operational Services</b></div>
+<div>Southern California Edison’s (SCE’s) Customer Service Organizational Unit (CS) shares the responsibility to safely deliver reliable, affordable electricity to our customers. We support this effort by working to meet customer expectations. Customer Service is dedicated to operational excellence and innovative thinking through our workforce in our call center, field operations, billing and payment center, outage and demand-side management and other service offerings.
+</div>
+<div></div>
+<div>You are inspired to work in a company that is forward facing. You want to play a big part in making meaningful decisions. You thrive when using your organizational planning skills, and keen sense of vision, transform and lead a world-class team, whose work directly impacts our customers. At the end of the day, you desire to build real change—for the better for everyone. Does this sound like you?
+</div>
+<div></div>
+<div><b>The job …</b></div>
+<div>The Customer Service analytics team leads quantitative statistical analysis, predictive modeling, and data-driven research for Edison’s programs, offerings, and rates. In addition to leading analytic initiatives, our team provides data expertise, performing advanced data pulls and producing complex data mashups from multiple enterprise systems for Customer Service, as well as the CPUC and other regulatory agencies, universities, consulting firms, marketing partners, and other 3rd party stakeholders.</div>
+<br>
+<div></div>
+<div>Our team is embarking on an Advanced Analytics journey, applying the tools and methods of data science to customers’ interactions and experiences. We are pioneering the use of Microsoft Azure as well as Google Analytics at SCE.<br>
+</div>
+<div></div>
+<div>As a Senior Advisor- Modeling &amp; Forecasting, you will provide thought leadership on quantitative analytics Customer Satisfaction (CSAT) projects; build, tune, and evaluate predictive models of customer behavior; measure and quantify impacts of programs and offerings; provide experimental design and evaluation of results for Operational interactions as they relate to CSAT and TOU lead the data track and analysis work streams for SCE customer initiatives. You will lead analytics initiatives such as:</div>
+<ul>
+<li>Design and implementation of the new corporate goal measuring customer satisfaction; quantifying Edison’s operations and customer interactions such as Outage, Billing and Payment.
+</li>
+<li>Analysis and tracking regarding the territory-wide implementation of new energy rates.
+</li>
+<li>Experimental design and assessing of pilot programs.</li>
+</ul>
+<div>In this role you will utilize advanced analytics tools such as SAS, Microsoft Azure Machine Learning Studio and Google Analytics to build forecasting and predictive models.</div>
+<br>
+<div></div>
+<div><b>The day to day…..</b></div>
+<ul>
+<li>Collecting, compiling, and mining data from various enterprise systems; including hourly energy usage, program participation history, customer and account status, site characteristics and building properties, survey response, demographic &amp; psychographic information.
+</li>
+<li>Establishing goals and targets for the new corporate CSAT measurement; developing framework to analyze root cause of satisfaction movement and predict the CSAT impact of future programs and regulatory changes.
+</li>
+<li>Consulting across Organizational Units for operational improvements that impact CSAT scores.
+</li>
+</ul>
+<b>Qualifications</b><br>
+<div><b>Qualifications you need …</b></div>
+<ul>
+<li>Bachelor’s degree or higher in Statistics, Mathematics, Econometric or related field.
+</li>
+<li>Ten (10) or more years of experience designing, building, and analyzing advanced quantitative models.
+</li>
+<li>Five (5) or more years of experience working with large and diverse data sets, writing SQL queries, data cleansing, and outlier analysis.
+</li>
+<li>Expertise in SAS or other analytic software.
+</li>
+<li>Experience with Data visualization, presentation of findings and providing recommendations directing business decisions.
+</li>
+<li>Must have led three advanced analytics projects from inception to implementation.</li>
+</ul>
+<div><b>Other details that will set you up for success …
+</b></div>
+<ul>
+<li>PhD of Science in Statistics, Mathematics, Econometric or related field.
+</li>
+<li>Working knowledge of R and Python.
+</li>
+<li>Worked in the Utility industry.
+</li>
+<li>Cloud Analytics Platforms: Google Analytics, Microsoft Azure, or Oracle Analytics Cloud.
+</li>
+<li>Implementation of a Prescriptive and Robotics solution.
+</li>
+<li>Visualization tools such as PowerBI, R Shiny, Tableau.
+</li>
+<li>Operational Reporting for commercial operations such as call centers, marketing and sales organizations.
+</li>
+<li>Data Science Certifications.
+</li>
+<li>Deliver technical presentations to cross-functional non-technical groups.
+</li>
+<li>Data warehousing and ETL process.</li>
+</ul>
+<div><b>You should know …
+</b></div>
+<ul>
+<li>Relocation is available for this position, and who wouldn’t want to live in beautiful Southern California?
+</li>
+<li>You are legally authorized to work directly as employee for any employer in the United States without visa sponsorship.
+</li>
+<li>We offer a fantastic Total Rewards Package that includes things like a wide selection of health plans, preventative health reimbursement, 401(k) savings plan with company match and automatic company contributions, tuition reimbursement, professional development, volunteer programs, employee assistance program, electric service discount, and many more perks.
+</li>
+</ul>
+<div><b>Why Edison?</b></div>
+<div>The people here at Edison don't just keep the lights on. Our mission is so much bigger. We are fueling the kind of innovation that is changing an entire industry, and quite possibly the planet. You’ll have a chance to grow your career and make a difference in the world.</div>
+<div>
+<br>
+SCE serves a population of approximately 15 million via 5 million customer accounts in a 50,000-square-mile service area within Central, Coastal and Southern California. As a company, we have big dreams and we know nothing big is ever accomplished alone. Join one of the nation’s leading electric utilities in making sure California, and all of us who live here, shine bright.</div>
+<div></div>
+<div>At SCE we celebrate our differences. We are a proud Equal Opportunity Employer and will not discriminate based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status or any other protected status.</div>
+<div></div>
+<div>#LI-MM1</div>
+</div></div>

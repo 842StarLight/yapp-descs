@@ -1,0 +1,43 @@
+<h2>Vice President, Database & Systems Development</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Overview</b></p>
+<p>Alliant operates on the forward edge of innovation in data-driven marketing, helping brands target consumer audiences effectively in digital and traditional advertising channels. This is a highly visible leadership position that will be responsible for ongoing platform design and development efforts. The ideal candidate will have 10+ years’ experience leading development teams in a fast-paced flexible environment with the ability to innovate new methodologies building on existing intellectual capital. This is a great opportunity to join a growing company with boundless opportunities and interesting challenges.</p>
+<p><b>Principal Responsibilities: </b></p>
+<ul>
+<li>Partner with SVP, Database Development and Technology to provide strategic technical direction</li>
+<li>Oversee end-to-end systems architecture and technical design for large-scale data management and audience delivery platforms</li>
+<li>Lead the development team responsible for end-user driven audience creation and delivery systems, API-based insight delivery, data visualization and reporting</li>
+<li>Work effectively in a matrix organization structure with significant emphasis on collaboration and team work</li>
+<li>Hire, train and mentor top talent, while fostering a culture of curiosity where initiative and performance are rewarded</li>
+<li>Oversee and prioritize concurrent projects, assign appropriate associate(s), establish and manage reasonable timelines and provide strategic direction</li>
+<li>Communicate effectively with both technical, marketing and sales professionals using appropriately focused reporting to illustrate data discussion points</li>
+<li>Maintain best practices for source code, release management and documentation as required</li>
+<li>Monitor the marketplace and adopt new technologies and processes</li>
+</ul>
+<p><b>Required Qualifications &amp; Skills: </b></p>
+<ul>
+<li>Minimum 10+ years’ experience in data and application development roles with progressive leadership responsibilities</li>
+<li>MS in Computer Science or related field, or equivalent years of business experience</li>
+<li>Proven success in design and delivery of complex, scalable business solutions based on modern big data platforms</li>
+<li>Full SDLC experience required, with hands-on expertise operating within a test-driven, agile development environment</li>
+<li>Experience in designing and implementing data management, data quality and metadata management systems</li>
+<li>Experience designing and building scalable and supportable API’s</li>
+<li>Strong understanding of best practices in digital and data products including cloud applications and hosting (AWS, Azure). Experience with JavaScript, React, Angular or other front-end frameworks a plus.</li>
+<li>Development experience in a variety of environments and platforms, including Hadoop, Spark, NOSQL and web-based applications</li>
+<li>Direct experience in building MarTech and data management solutions for digital commerce, multi-channel direct marketing, or credit scoring industries a plus</li>
+<li>Must be professional and client-oriented with excellent interpersonal communication skills and an aptitude for problem-solving</li>
+<li>Motivated self-starter, able to work independently or as part of a team</li>
+<li>Must be flexible, team-oriented and committed to having a good time while doing a great job</li>
+</ul>
+<p><b>About Alliant</b></p>
+<p>Relevant consumer insight drives marketing success. Alliant captures transaction-driven response information from over 500 brand offers to fuel purchase and behavior profiles on over 300 million consumers. Alliant’s data-driven solutions improve marketing profitability by targeting the most profitable prospects, increasing conversion and loyalty rates, and improving the efficiency of retention and reactivation efforts. The right data matters. In a multichannel marketing environment, Alliant takes clients to the places where consumer response lives. For more information, visit: alliantinsight.com</p>
+<p>Alliant has a strong corporate culture of innovation and transparency and is committed to excellence in everything we do. We offer a competitive compensation and benefits package with great career optionality for professional growth.</p>
+<p>The position is based in Alliant’s offices in northern Westchester County, New York. Alliant is an equal opportunity employer.</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>data: 10 years (Required)</li></ul>
+<p>Education:</p>
+<ul><li>Master's (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+</div>

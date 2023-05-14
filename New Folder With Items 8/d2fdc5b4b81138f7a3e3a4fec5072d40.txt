@@ -1,0 +1,109 @@
+<h2>Director of Information Security</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>WHO WE ARE:</div>
+<div>
+Tealium is the leader in real-time customer data orchestration solutions. We help brands seamlessly integrate their siloed data and applications, and drive more profitable interactions across online and offline customer touchpoints. Tealium’s Universal Data Hub (UDH) enables digital, data and analytics, and IT organizations to manage, govern, enrich, activate, and own their overarching customer data strategy, reducing chaos and delivering better customer experiences.
+</div>
+<div></div>
+<br>
+<div>Founded in 2008, Tealium’s award-winning solutions are used by hundreds of global enterprises, including Ancestry.com, T-Mobile, HP, Uber, Facebook, Expedia, Kimberly Clark, LDS Church, Hyatt, Sportsbet, American Airlines, The Gap, Univision, Orange, Sony, and many others.</div>
+<div>
+<br>
+</div>
+<div>
+This role provides strategic direction and operational management of Tealium’s Information Security Team, systems, policies, processes and posture. The Director of Information Security leads and inspires Tealium’s InfoSec team to drive our security architecture, design, planning, assessment, and implementation. This is a critical role that directs our overall design and implementation of our Information Security policies and plans across the enterprise for <i>all</i> activities concerning application, network and cloud security, as well as the Data Security and Privacy for Tealium and <i>its customers</i>. This role is a visionary that is responsible for implementing, designing, managing and allocating industry leading best security practices within our organization as well as being a security thought leader as a liaison with the various disciplines within the company.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>YOUR DAY TO DAY
+</b></h3>
+<div><ul>
+<li>Leads the development and implementation of the Information Security architecture and strategy</li>
+<li>
+Defines and prioritizes the Information Security project roadmap and drives shared vision across the enterprise regarding security project, and remediation prioritization</li>
+<li>
+Leads and Team is seasoned subject matter experts who function as the lead internal security gurus, and provide cross functional views of security for all teams</li>
+<li>
+Ensures the availability and resource capacity of SME’s who provide guidance to Customer Success and Sales prospects to understand the functional capabilities and security features and limitations of Tealium’s globally distributed, cloud-based SAAS architecture</li>
+<li>
+Key role in ensuring that Tealium and its technology stack are in compliance with security policies and other industry standards (i.e. PCI, SOC2, SOX, HIPAA, ISO27001, ISO27018 and HITRUST)</li>
+<li>
+Serve as an active member of the incident response team by acting as a technical consultant on information security incident investigations and forensic technical analysis</li>
+<li>
+Provide proactive security operations center services to include 24x7x365 monitoring and response of the technology environment to detect, analyze, track and mitigate all threats that could impact the organization or its customers</li>
+<li>
+Set strategic roadmap and tactical goals driving the evolution of the Incident Response, Security Monitoring, Threat Intelligence, and Hunting functions</li>
+<li>
+Manage and provide technical leadership for all information security incidents to include stakeholder engagement with the Incident Response Team.</li>
+<li>
+Oversee and lead the incident response process to include documentation of findings and recommendations
+</li>
+<li>Develop mitigation/response strategies and guide the acquisition and development of countermeasures to keep the business safe</li>
+<li>
+Manage all aspects of the InfoSec teams activities
+</li>
+<li>Ensure policies, procedures and protocols are being executed</li>
+<li>
+Liaise with external partners, law enforcement, advisory bodies and industry and peer working groups as necessary, to ensure that the organization</li>
+<li>
+Maintain a strong security posture meeting legal, regulatory, compliance and contractual obligation</li>
+<li>
+Support cyber preparedness in the development of tabletop exercises as guided by expertise in the latest attack techniques to ensure our company is prepared for the latest threats</li>
+<li>
+Manage requests from governing bodies, internal and external auditors</li>
+<li>
+Build and report the InfoSec metrics that enable executive leadership to effectively assess performance of security program, controls, risk management, risk mitigation and justify technology investments</li>
+<li>
+Ensure that all required information security trainings are taken by the necessary employees
+</li>
+<li>Develop and maintain a Security Incident Response Plan, test the effectiveness of the program and coordinate incident response across Tealium</li>
+<li>
+Oversee vendor due diligence and compliance with our InfoSec standards</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>WHY YOU ARE THE PERFECT FIT
+</b></h3>
+<div><ul>
+<li>10+ years of experience in network, web, corporate, application and mobile security</li>
+<li>
+Strong analytical skills as well as the ability to inspire the InfoSec team to the highest degree of operation excellence</li>
+<li>
+Excellent problem solving and analytical skills; outstanding oral and written communication skills</li>
+<li>
+Excellent business, organizational, decision making and leadership ability</li>
+<li>
+Bachelor's degree in an Information Technology related field of study or equivalent experience; relevant, industry recognized security certification such as, CISM, CISSP or CISA</li>
+<li>
+Expert knowledge of information security principles, networks, operating systems, web applications and a level of familiarity with malicious code and common techniques used by hackers</li>
+<li>
+Knowledge of high traffic and other cloud-based infrastructures and how they affect security needs (i.e. messaging infrastructure, AWS infrastructure, etc)</li>
+<li>
+Understanding of TCP/IP, networking concepts, and services such as DNS, SMTP, HTTP, HTTPS</li>
+<li>
+Demonstrated operational experience with security technologies such as IDS/IPS, NGFW, UTM, FIM, SIEM, WAF, DLP</li>
+<li>
+Experience with vulnerability assessment tools</li>
+<li>
+Substantial people-centered leadership experience in a high growth company</li>
+<li>
+Cloud-based security knowledge, thought-leadership &amp; delivery experience</li>
+<li>
+Experience with audits such as PCI-DSS, HIPAA, SOC 2, ISO27001/27018 and HITRUST</li>
+<li>
+Knowledge of compliance frameworks (NIST, COBIT, ISO, etc.)</li>
+<li>
+Knowledge and understanding of relevant legal and regulatory requirements, such as Payment Card Industry/Data Security Standard (PCI-DSS), General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), Knowledge of global requirements required.</li>
+</ul></div>
+</div></div>
+<div>
+<div>WHY YOU WANT TO WORK HERE:</div>
+<div>
+The highly relevant and differentiated positioning of Tealium and our Universal Data Hub (UDH) make this a unique career opportunity that could be once in a lifetime. Organizations from small businesses to large global enterprises are standardizing on Tealium to drive improvements in their overall data and digital efforts, and we are a foundational platform to the smartest organizations and their strategy moving forward. There are over 750 global enterprises now using Tealium and we have &gt;92% renewal rates, which is best in class. Our corporate headquarters is located in Sunny San Diego! Our office space in Torrey Pines is just minutes from the beach and surrounded by beautiful hiking trails. Our beautiful location is just one of the many perks we offer! At Tealium we dress casual (but professional), enjoy the perks of a competitive paid time off policy, rich benefit plans, company holidays, 401(K) match, and Employee Stock Options - just to name a few. Not to mention we get to surround ourselves with amazing colleagues we enjoy working with daily.</div>
+<div>
+<br>
+</div>
+<div><i>
+TEAL celebrates diversity and is an equal opportunity employer. It is our continuing policy to recruit and employ the best qualified individuals without regard to race, color, sex, religion, national origin, disability, age, sexual orientation, gender identity, and/or any other protected characteristic. TEAL does not tolerate unlawful discrimination of any kind and strives to be an inclusive and respectful workplace.</i></div>
+</div>
+</div></div>

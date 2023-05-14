@@ -1,0 +1,102 @@
+<h2>Cloud Native DevOps Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><b>Cloud Engineering</b></div>
+<div></div>
+<div>Our Cloud Engineering team focuses on enabling our client’s end to end journey from On-Premise to Cloud, with opportunities in the areas of: Cloud Strategy, Op Model Transformation, Cloud Development, Cloud Integration &amp; APIs, Cloud migration, Cloud Infrastructure &amp; Engineering, and Cloud Managed Services. We help our clients see the transformational capabilities of Cloud as an opportunity for business enablement and competitive advantage.</div>
+<div></div>
+<div>Cloud Engineering supports our clients as they improve agility and resilience, and identifies opportunities to reduce IT operations spend through automation by enabling Cloud. We accelerate our clients towards a technology-driven future, leveraging vendor solutions and Deloitte-developed<br>
+</div>
+<div>DevOps and Cloud Native Migration is an exciting new field within IT based on intense collaboration between application development and IT operations. The Deloitte Agile and DevOps Transformation Practice is a specialized practice that is founded on the mission to help clients transform their business and technology end-to-end to push new product innovation through scaling and accelerating technology delivery at startup speed. Cloud Native DevOps is a specialized capability that we are growing in this practice to help IT organizations unlock greater automation and collaboration across their technology stack by applying leading-edge cloud native and devops automation practices. Our goal is to enable continuous delivery for organizations of all sizes and we are looking for passionate software engineers that can consult and hack through code and people change to bring positive change for our clients.</div>
+<div></div>
+<div>Our approach brings together the technical, organizational, cultural elements that must be considered when helping our clients embrace the DevOps mindset. A mindset based on continuous improvement, best in class engineering, and constant customer value. Each of our professionals is a strategic thinker and technical engineer with a passion for helping organizations innovate on the way they work. Our measure of success is our ability to ask our clients tough questions, challenge them towards making real sustainable change, and mentor them to embrace a working model designed to address the challenges in an environment of constant change.</div>
+<div></div>
+<div>Currently, our team, based in New York is internationally recognized as a market leader in the Lean/Agile/DevOps/Cloud Engineering Transformation space. Our key clients span across banking, insurance, life sciences and health care segments. We are a fast-growing practice that operates like a start-up within a global professional services firm that offers both an intrapreneurship and large-scale management consultancy culture. We are looking for candidates who consider themselves a consultant and engineer and from the software development world with a passion for modernizing legacy applications and technologies into cloud native devops engineered applications from the ground up. If this sounds like you, we would love to consider you for our team.</div>
+<div></div>
+<div><b>Key Role &amp; Responsibilities:</b></div>
+<ul>
+<li><div>Structure Cloud Native Re-engineering project work streams within a larger Agile, DevOps and Cloud Transformation engagement and work directly with senior technology clients to make Cloud Native DevOps work for them</div></li>
+<li><div>Lead a cross-functional set of cloud native engineers, devops engineers and cloud infrastructure engineers to modernize and migrate legacy applications into cloud native devops engineered technology solutions</div></li>
+<li><div>Design and implement cloud native architectures, leveraging micro services, public cloud services, and container/PaaS based development platforms</div></li>
+<li><div>Ability to roll up your sleeves to build working prototypes with clients by refactoring/rewriting legacy applications towards 12 factor and micro service principles with containerization and frictionless deployment</div></li>
+<li><div>Ability to rapidly learn new technologies, open source frameworks, and commercial package platforms (e.g. Mulesoft, Dell Boomi)</div></li>
+<li><div>Collaborate and contribute to our DevOps Platform Engineers to enhance the Deloitte DevOps Platform for cloud native use cases and optimizations</div></li>
+<li><div>Develop proposals and participate in sales/business development efforts within the Technology Consulting practice.</div></li>
+<li><div>Continually expand your knowledge beyond your defined area of competence to gain a complete, holistic view of a client technology organization.<br>
+<br>
+<b>Qualifications:</b>
+</div></li>
+</ul>
+<ul>
+<li><div>You are battle tested, you can demonstrate your ability to blend the skills of a customer oriented consultant and customer facing analyst with a hands-on technology architect, combining a hacker’s mindset along with the technical expertise required to design, build, and manage a cloud native re-engineering capability (6-8 years; experience modern software development and architecture, 3-4 DevOps related experience)</div></li>
+<li><div>You bring both in-depth depth knowledge and years of hands-on design and coding experience in the application of structured analysis, refactoring techniques, cloud native modernization patterns to migrate application code into microservices and public cloud services (S3, Serverless, etc.)</div></li>
+<li><div>Have experience in designing and coding cloud native applications with modern frameworks such as React, AngularJS, NodeJS, Restful Services, NoSQL Persistence, Spring Boot / Drop Wizard, etc.</div></li>
+<li><div>Understanding of cloud infrastructure and operations to ensure the scalability and maintainability of cloud native applications in public cloud environments (AWS, GCP, Azure)</div></li>
+<li><div>Versed and able to develop across Java, .NET and leading scripting languages with minimal ramp-up time</div></li>
+<li><div>Experience in agile tooling (Jira, etc.), distributed code management (Git, Mercurial, etc.), and deployment strategies that support both iterative &amp; continuous development</div></li>
+<li><div>Application of agile engineering practices such as clean code, secure code, structured refactoring, test driven development, domain driven design, continuous integration and delivery</div></li>
+<li>
+<div>Advanced knowledge/experience with Microsoft Professional Suite (Word, Excel, &amp; PowerPoint) and Microsoft Project required.<br>
+</div>
+<div>
+<b>Other Required Attributes:</b><br>
+</div>
+</li>
+<li><div>Strong problem-solving skills - ability to take a process perspective in solving problems.</div></li>
+<li><div>Solid understanding of IT organizations and specific challenges and issues.</div></li>
+<li><div>Willingness and ability for travel 100% of the time</div></li>
+<li>
+<div>Soft skills – speaking with and presenting to clients, putting together presentation decks, willingness to build and support training courses for our clients</div>
+</li>
+</ul>
+<div></div>
+<div>
+<b>Join Deloitte and bring back that loving feeling. And love the company you keep.</b><br>
+<br>
+At Deloitte we are redefining what it means to be a professional services firm. We know that business as usual just won’t cut it. Our culture is built on the collaboration, flexibility and innovation needed to perform at the highest levels and exceed expectations.<br>
+<br>
+We offer a unique Talent Experience that empowers our people with opportunities to do meaningful work and to grow, learn, and lead at every point in their career.<br>
+<br>
+<b>Lead yourself. Lead a team. Lead the firm. It’s all possible at Deloitte.</b><br>
+<br>
+Deloitte is an inclusive employer dedicated to building a diverse workforce. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective provincial human rights codes throughout all stages of the recruitment and selection process. Please advise the Recruiter to ensure your accessibility needs are accommodated throughout this process. Information received relating to accommodation will be addressed confidentially.<br>
+<br>
+We thank all applicants in advance for their interest; however, only those candidates selected for an interview will be contacted.</div>
+<br>
+<div></div>
+<div><b>
+How you’ll grow</b></div>
+<div>
+At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there’s always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs at Deloitte University, our professionals have a variety of opportunities to continue to grow throughout their career. Explore Deloitte University, The Leadership Center.</div>
+<br>
+<div></div>
+<div><b>
+Benefits</b></div>
+<div>
+At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits. Learn more about what working at Deloitte can mean for you.<br>
+</div>
+<div></div>
+<div><b>Deloitte’s culture</b></div>
+<div>
+Our positive and supportive culture encourages our people to do their best work every day. We celebrate individuals by recognizing their uniqueness and offering them the flexibility to make daily choices that can help them to be healthy, centered, confident, and aware. We offer well-being programs and are continuously looking for new ways to maintain a culture where our people excel and lead healthy, happy lives. Learn more about Life at Deloitte.</div>
+<br>
+<div></div>
+<div><b>
+Corporate citizenship</b></div>
+<div>
+Deloitte is led by a purpose: to make an impact that matters. This purpose defines who we are and extends to relationships with our clients, our people and our communities. We believe that business has the power to inspire and transform. We focus on education, giving, skill-based volunteerism, and leadership to help drive positive social impact in our communities. Learn more about Deloitte’s impact on the world.</div>
+<br>
+<div></div>
+<div><b>
+Recruiter tips</b></div>
+<div>
+We want job seekers exploring opportunities at Deloitte to feel prepared and confident. To help you with your interview, we suggest that you do your research: know some background about the organization and the business area you’re applying to. Check out recruiting tips from Deloitte professionals.</div>
+<p></p>
+<br>
+<div>
+</div>
+<p>
+#IND:PT</p>
+</div>
+<div></div>
+</div>

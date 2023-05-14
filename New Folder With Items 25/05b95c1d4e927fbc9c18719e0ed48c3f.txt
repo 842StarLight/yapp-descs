@@ -1,0 +1,60 @@
+<h2>Front End Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>AppointmentPlus is an established yet still rapidly growing online appointment scheduling software company.</p>
+<p>What does that mean? It means we provide the software that lets you book your massage, pet groomer, flu shot and other appointments online. How cool is that? Well, how about this? We also work with a significant number of prominent global organizations who use our software for very complex appointment scheduling. In fact, we count over 50 of the Fortune 100 as customers and we have customers in 18 countries.</p>
+<p>Our company culture is friendly and collaborative and was founded on a sense of entrepreneurship and teamwork. We are looking to take AppointmentPlus to the next level and we need your help!</p>
+<p>We are actively looking for smart, talented, success-driven people to join our growing sales team. Interested? If this sounds like you then keep on reading!</p>
+<p><b>Top Skills Needed</b></p>
+<ul>
+<li>Ability to work in a fast-paced environment and effectively manage multiple projects and competing priorities</li>
+<li>2+ years of relevant experience using Angular building single page web applications</li>
+<li>Expert level skills in HTML5, CSS3, and responsive UI design; experience with LESS and SASS is a plus</li>
+<li>Experience using Protractor, Jasmine, Karma or other test automation tools</li>
+<li>Self-motivated and able to work collaboratively in a team</li>
+<li>Experience in backend scripting languages like PHP is a plus</li>
+</ul>
+<p><b>What You’ll Do</b></p>
+<ul>
+<li>Work on a next-generation enterprise SaaS solution, in a dynamic Agile software development environment.</li>
+<li>Develop and implement client-facing UI components in a complex web application using cutting-edge technology.</li>
+<li>Turn UI/UX designs into client-side code delivering fast, easy-to-use applications serving high volume production applications.</li>
+<li>Optimize code for maximum scalability and stability.</li>
+<li>Research emerging technologies and keep up to date on industry best practices.</li>
+<li>Participate in product demos and contribute to documentation.</li>
+</ul>
+<p><b>Education, Training, Experience</b></p>
+<ul>
+<li>High school diploma</li>
+<li>Minimum 2 years of experience using Angular, React, Vue or similar frameworks</li>
+<li>Minimum 2 years of experience using Typescript and ES6</li>
+</ul>
+<p><b>Benefits</b></p>
+<p>We offer a vast array of diverse benefits but here are some of the highlights:</p>
+<ul>
+<li>Health Insurance - 100% of employee premium is covered by AppointmentPlus</li>
+<li>Access to Group Rates for Dental, Vision and other Supplemental Plans</li>
+<li>15 days paid time off per year</li>
+<li>Paid holidays</li>
+<li>401K with up to 4% match</li>
+<li>Up to $150 reimbursement for health club membership</li>
+<li>Fun environment that encourages a healthy work-life-family balance</li>
+</ul>
+<p>We are an EEO-employer company dedicated to a culturally-diverse and drug-free workplace with a commitment of respect and well-being for each staff member.</p>
+<p>Must be eligible to work in the U.S. without sponsorship.</p>
+<p>Job Type: Full-time</p>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits offered:</p>
+<ul>
+<li>Paid time off</li>
+<li>Parental leave</li>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Healthcare spending or reimbursement accounts such as HSAs or FSAs</li>
+<li>Other types of insurance</li>
+<li>Retirement benefits or accounts</li>
+<li>Gym memberships or discounts</li>
+<li>Flexible schedules</li>
+<li>Workplace perks such as food/coffee and flexible work schedules</li>
+</ul>
+</div>

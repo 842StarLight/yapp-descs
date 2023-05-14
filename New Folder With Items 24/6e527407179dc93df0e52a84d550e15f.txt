@@ -1,0 +1,52 @@
+<h2>Commodity Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div>At Infinite Energy our Electricity Analysts maintain forecasting models and methodologies used to predict the electrical load of Infinite Energy’s retail business. Our Electricity Analysts track market fundamentals by gathering, examining and interpreting industry information to generate ongoing reports about the electricity market. Electricity Analysts also support our Sales and Marketing teams by maintaining pricing models and related data.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Applies complex statistical and mathematical techniques to forecast retail load</li>
+<li>
+Conducts detailed analysis of historical load patterns to identify trends in weather and other factors</li>
+<li>
+Creates, maintains and verifies reports on load forecasting accuracy. Communicates model efficacy to shareholders</li>
+<li>
+Evaluates retail pricing models used for both residential and commercial customers</li>
+<li>
+Maintains extensive and complex database</li>
+<li>
+Performs complex database queries</li>
+<li>
+Performs data mining and generates reports for subsequent analysis</li>
+<li>
+Performs other duties as assigned by supervisor</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<div>Education Requirements</div>
+<ul><li>
+Bachelors in engineering, economics, statistics, and/or mathematics preferred</li></ul>
+<div>
+Experience Requirements</div>
+<ul><li>
+0-3 Years Analytical Preferred</li></ul>
+<div>
+Skills and Abilities</div>
+<ul>
+<li>
+Solid knowledge of databases and query writing skills, particularly Microsoft SQL</li>
+<li>
+Demonstrates application of statistics and mathematics</li>
+<li>
+Ability to manipulate data and build models involving interrelated factors and market movement</li>
+<li>
+Ability to conduct independent research and analysis to gain a detailed insight of electric trends</li>
+</ul>
+</div></div></div>
+</div></div>

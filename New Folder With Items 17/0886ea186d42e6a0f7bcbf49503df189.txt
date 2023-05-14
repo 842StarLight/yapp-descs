@@ -1,0 +1,94 @@
+<h2>Technical Architect - Network</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Technical Architect – Network</b></h2>
+<h3 class="jobSectionHeader"><b>
+Who We Are
+</b></h3>
+<p>Burwood Group is not your average technology consulting firm. We are an innovative, culture-driven, industry leader and we are growing our team by leaps and bounds. Founded in 1997 in Chicago (and still headquartered here), we've grown to be a 200+ employee firm with people and offices spread from Southern California to NYC. Our specialty is closing the gap between business strategy and technology solutions. Our clients view Burwood as a trusted advisor and partner who can help them select the best technology for the job, manage and execute a first-rate implementation, and measure project success by the business outcomes achieved.</p>
+<p><br>
+<br>
+<b>What You’ll Do</b></p>
+<p>
+The Technical Architect (TA) is a consultative sales, technology, and solution focused specialist who creates client intimacy with their technical proficiency. The TA provides pre-sales technical support and expertise in identifying client requirements, while analyzing the client’s current network and system capabilities, to ensure the technical solutions proposed meet the client’s objectives. In addition to being viewed as a trusted advisor to the client, the Technical Architect also has responsibility for solution design, statement of work development and delivery, and the transition of projects from pre-sales to delivery.</p>
+<p>
+ In addition to core responsibilities, you will be:</p>
+<ul>
+<li>
+Working alongside our Account Executive to achieve financial goals, pursue appropriate opportunities and provide top notch solutions for our customers’ biggest problems.</li>
+<li>
+Maintaining strong multi-vendor relationship to ensure an understanding of each vendor’s products, business initiatives, and technology positioning</li>
+<li>
+Recognizing other opportunities to contribute to client success and development</li>
+</ul>
+<h4 class="jobSectionHeader"><b>
+Who You Are</b></h4>
+<ul>
+<li>
+You have a strong technology background that includes consulting and pre-sales experience.</li>
+<li>
+You love having analytical and consultative conversations, and you're adept at identifying and soliving problems.</li>
+<li>
+You can map technical solutions to business challenges and objectives.</li>
+<li>
+You have a passion for technology and keep informed of market trends, solution insights, and new vendors and methods.</li>
+<li>
+You enjoy mentoring more junior members of sales and consulting teams.</li>
+<li>
+You have the expertise and professionalism to interact with any level of an organization.</li>
+</ul>
+<b>
+The Tech Stuff</b><br>
+<br>
+<b>Network Knowledge:</b><br>
+<ul>
+<li>Highly available enterprise WAN, campus LAN, datacenter networks, and wireless networks</li>
+<li>
+Design best practices for layer 2 and layer 3 enterprise networks and wireless mobility</li>
+<li>
+Data center interconnect architectures including VPLS, EoMPLS, OTV, and long distance VMotion</li>
+<li>
+Cisco network routing and switching platforms including Nexus, Catalyst, ISR, and ASR</li>
+<li>
+Arista network products and technologies desirable</li>
+<li>
+Cisco and Aruba wireless products and technologies</li>
+<li>
+Cisco and Aruba network access control platforms desirable</li>
+<li>
+CCIE R&amp;S certification is highly desirable</li>
+<li>
+Prior deployment experience with SDN platforms such as Cisco ACI or VMware NSX is highly desirable</li>
+</ul>
+<p></p>
+<h3 class="jobSectionHeader"><b>
+The Perks
+</b></h3>
+<p>If you ask any of our employees here at Burwood “what we love”, the top answer is always the same: our culture. Our employees are driven, innovative, fun-loving, and always willing to help. In addition to that, Burwood also offers some fantastic benefits:</p>
+<ul>
+<li>
+401(k) and Roth 401(k) savings plan, complete with a company match</li>
+<li>
+Generous vacation policy</li>
+<li>
+Health, dental and vision insurance</li>
+<li>
+Life and accident insurance</li>
+<li>
+Short and Long Term Disability coverage</li>
+<li>
+Flexible work-from-home policy</li>
+<li>
+Flexible spending accounts for pre-tax healthcare and transit/parking expenses</li>
+<li>
+Access to financial planning expertise</li>
+</ul>
+<h3 class="jobSectionHeader">
+<br>
+<b>
+Our Commitment to Diversity and Inclusion</b>
+</h3>
+<p><i>
+We are not intent on being the largest company; but rather, the best. These are the words we live by. This means we welcome </i><b><i>all of the best</i></b><i> talent - regardless of gender, race, ethnicity, sexual orientation, disability, religion and age.</i></p>
+<p><i>
+Being open to all cultural backgrounds, life experiences, thoughts and ideas not only strengthens company culture but also encourages different-in-kind thinking and promotes economic success.</i></p>
+</div></div>

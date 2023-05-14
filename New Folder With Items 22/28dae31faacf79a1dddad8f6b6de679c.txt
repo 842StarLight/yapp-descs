@@ -1,0 +1,37 @@
+<h2>Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Phishingbox is a growing cybersecurity company in downtown Lexington, KY that’s looking for a talented developer for our development team, who will be responsible for pushing bug fixes and updates requested by clients. We are a growing yet closely-knit group made of individuals who are constantly generating creative solutions for our clients. They are therefore expected to have both programming knowledge as well as communication skills. We’ve created a fun but high-paced environment in which multiple projects run in parallel, and team members are readily available to assist one another as necessary.</p>
+<p>The position is expected to work with the team to architect and build on the platform, primarily in PHP, and writing legible, reusable code. They are also required to interact with clients and sales staff.</p>
+<p>PhishingBox is a proud Equal Opportunity Employer.</p>
+<p><b>Requirements: </b></p>
+<ul>
+<li>2 years’ experience developing web applications using server-side languages (preferably PHP).</li>
+<li>Experience with SQL Database interaction such as MySQL or MariaDB.</li>
+<li>Knowledge of development tools including GIT and Composer.</li>
+<li>Understanding of messaging and authentication protocols such as JSON, cURL, SOAP, REST, and OAuth.</li>
+<li>Some front-end development skills including HTML, CSS, and Javascript.</li>
+</ul>
+<p><b>Bonus: </b></p>
+<ul>
+<li>Experience working with APIs</li>
+<li>Knowledge of Doctrine or other ORM frameworks</li>
+<li>AWS/Beanstalk - EC2 Management</li>
+<li>Cybersecurity experience</li>
+<li>ZenDesk Experience</li>
+<li>JIRA</li>
+</ul>
+<p><b>Benefits at PhishingBox: </b></p>
+<ul>
+<li>Paid vacation</li>
+<li>Paid sick days</li>
+<li>Relaxed dress code</li>
+<li>Friday staff lunch</li>
+<li>Great healthcare benefits</li>
+<li>Medical</li>
+<li>Dental</li>
+<li>Vision</li>
+<li>401K offered with Employer Match</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $35,000.00 to $50,000.00 /year</p>
+</div>

@@ -1,0 +1,82 @@
+<h2>Platform Configuration Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>About Conduent
+</b></h2>
+<div><div><div>
+<div>Conduent is the world's largest provider of diversified business process services with leading capabilities in transaction processing, automation, analytics and constituent experience. We work with both government and commercial customers in assisting them to deliver quality services to the people they serve.<br>
+<br>
+We manage interactions with patients and the insured for a significant portion of the U.S. healthcare industry. We are the customer interface for large segments of the technology industry and the operational and processing partner of choice for public transportation systems around the world.<br>
+<br>
+Whether it's digital payments, claims processing, benefit administration, automated tolling, customer care or distributed learning - Conduent manages and modernizes these interactions to create value for both our clients and their constituents. Learn more at www.conduent.com.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Job Description
+</b></h2>
+<div><div><div>
+<div>
+<b>Title:</b> Platform Configuration Engineer / App Dev &amp; Support Engineer II<br>
+</div>
+<div></div>
+<div><b>Position Overview:</b></div>
+<ul>
+<li>The Platform Configuration Engineer will manage the deployment and release process of StrataWare to production and pre-production environments. Position will serve as a technical expert in deployment and support of StrataWare environments across all platforms.</li>
+<li>Responsibility also includes identification of StrataWare application interdependencies, configuration of staging/QA/DR environments, risk mitigation, application server configuration, and configuration documentation. The successful candidate will also work to minimize platform discrepancies between multiple environments to ensure successful and repeatable deployments.
+</li>
+<li>The candidate will be required to be on call and will work on some nights and weekends in accordance to StrataWare deployment and release schedules.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Main Duties/ Responsibilities:</b></div>
+<ul>
+<li>Responsible for all configuration changes of the StrataWare platform in production, DR, staging, and pre-production environments.</li>
+<li>Deploy StrataWare suite of products in accordance to our established Service Level Agreements and committed schedules.</li>
+<li>Adhere to the company established guidelines for Incidents, Problems, and Change Management processes (ITIL), and meet all compliance requirements (SAS-70).
+</li>
+<li>Performs all StrataWare deployments including PSWI’s, Patches, MSR’s, and Majors.</li>
+<li>Responsible for working closely with Development in order to produce and formalize the StrataWare deployment plan for production, DR, staging, and pre-production environments.</li>
+<li>Prepare, coordinate, and implement deployment outage schedules with other departments in order to minimize the impact of critical business services.</li>
+<li>Seek improvement opportunities by analyzing the current deployment model and methodologies and collaborates with other department leaders to improve and streamline the StrataWare deployment process.</li>
+<li>Act as a senior to Platform Configuration Administrators.</li>
+<li>Recommends capacity change and optimization of the StrataWare platform based on careful observation and analysis.</li>
+<li>Participate in discussions regarding implementation of complex deployment scenarios as well as their backup and roll back procedures.</li>
+<li>Responsible for application servers uniformity; ensuring that application servers within any clusters in preview, DR, and production environments meet configuration requirements listed in build documentation.</li>
+<li>Act as the center channel for deployment upgrade notifications, ETA, discovered problems, and post mortems.</li>
+<li>Interfacing with the development team for quick resolution of defects.</li>
+<li>Work nights and weekends when deployments are typically scheduled. Provide 24/7 support.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Preferred Qualifications:</b></div>
+<ul>
+<li>BS or BA degree preferred but not required and three or more years of work experience in a Technical/Deployment/Configuration role at a software company, preferably SaaS (Software as a Service).</li>
+<li>Superior technical aptitude, written and oral communications skills and the ability to deal effectively with people.</li>
+<li>Strong analytical skills with demonstrated problem solving ability.</li>
+<li>Proven ability to work under pressure and make difficult decisions under a wide set of deployment conditions.</li>
+<li>Understanding of the Software Development Life Cycle, Change Management, and ITIL processes.
+</li>
+<li>Hands on experience and working knowledge of distributed systems and environments.</li>
+<li>Proficient with Stored Procedures, T-SQL, and scripting.</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Working experience with Windows Server Operating Systems, IIS, and Microsoft SQL server.</li>
+<li>Working understanding of high availability concepts such as load balancing, clustering, and cloud computing.</li>
+<li>Blade Logic experience highly desirable.</li>
+<li>Informatica experience highly desirable.</li>
+<li>Service-Now/Sales Force applications.</li>
+<li>Experience with EDI and FTP.</li>
+<li>Ability to query and run application reports off of MSSQL.</li>
+</ul>
+<p>
+Release Engineer, Deployment Engineer, Application Delivery Engineer, Configuration En</p>
+<p>
+Ke</p>
+<p>
+Keywords-SaaS, T-SQL, MSSQL, ITIL, Sales Force, Change Management</p>
+<p>
+gineer</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Closing</b></h2>
+</div>
+<div></div>
+</div>

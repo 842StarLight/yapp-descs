@@ -1,0 +1,28 @@
+<h2>Technical Content Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div>
+<h4 class="jobSectionHeader"><b>About Metricly</b></h4>
+<p>Metricly provides tools and coaching to users throughout their cloud journey to safely and easily control their public cloud spending. The Metricly platform provides tools addressing the 6 major disciplines of cloud cost management: Administration, Billing Analysis, Idle Resources, Right Sizing, Reservations, and Capacity Monitoring. Our tools leverage real-time capacity metrics and deep learning analytics to identify opportunities for optimizing cloud resources and reducing AWS spend—without the typical hassles or consulting fees.</p>
+<p>We are headquartered in Reston VA (Washington D.C. area) with remote employees in multiple US states and countries. The company is growing rapidly and funded by leading venture capital investment firms that specialize in financing Software as a Service (SaaS) providers.</p>
+<h4 class="jobSectionHeader"><b>About The Job</b></h4>
+<p>This is an opportunity to join a high-growth technology company that offers a software as a service product founded on a unique technology resulting from a decade of R&amp;D. Our success with converting our efforts in online marketing into paying subscribers has justified increasing our investments in this area and creating an exciting opportunity for a new professional to join our team.</p>
+<h4 class="jobSectionHeader"><b>Primary Responsibilities Include</b></h4>
+<ul>
+<li>Produce high-quality, code-ready technical content to support our platform, including: help documentation, release notes, FAQs, demos, tutorials, webinars, and technical blogs</li>
+<li>Conduct in-depth interviews with subject matter experts to gain a fundamental understanding of the features and functionality being documented, and articulate them eloquently</li>
+<li>Coordinate with Development, Marketing, Sales, and Support teams to identify content gaps and areas for improvement and be a key cross-departmental link for developing new materials</li>
+<li>Monitor and report on content KPIs, identify areas for improvement, and proactively implement solutions to maximize engagement and facilitate conversions</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Qualifications &amp; Abilities</b></h4>
+<ul>
+<li>At least three (3) years work experience as a technical writer for a SaaS-based solution</li>
+<li>Experience with Cloud Technology, Containers, Linux, and Open-Source Projects is a must</li>
+<li>Proficiency with MS Office, JIRA, and Confluence, and have experience using screen capture software such as SnagIt or Camtasia</li>
+<li>Ability to quickly grasp complex technical concepts and make them easily understandable</li>
+<li>Clear and demonstrable understanding of SEO fundamentals a plus</li>
+<li>Google Analytics certification a plus</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Compensation</b></h4>
+<p>Metricly values talent and offers a competitive salary, stock options, and a benefits package commensurate with qualification and experience. Fresh graduates as well as seasoned professionals are encouraged to apply.</p>
+<h4 class="jobSectionHeader"><b>Ready to Apply?</b></h4>
+<p>Email your resume to our team at careers@metricly.com.</p>
+</div></div></div>

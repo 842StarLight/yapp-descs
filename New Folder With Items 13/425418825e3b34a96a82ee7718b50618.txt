@@ -1,0 +1,87 @@
+<h2>Cloud Platform Solutions Architect & Technology Strategist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>What you’ll be doing...</b>
+</p>
+<p>You’ll be leading the activities of cross-functional teams for our key premiere platforms: Wireless, video, broadband and global IP. You’ll act as a key contributor and facilitator in finding ways we can leverage existing technology to solve our most pressing business challenges. You’ll also help drive our strategic direction by bringing important trends and issues to light. We’ve got some of the world’s most advanced technology at our disposal-you’ll help ensure we make the most of it.</p>
+<ul>
+<li>
+Provide subject matter expertise to Wire line, Wireless and Enterprise Solution teams to assess and approve requirements from the company's hosted SDN &amp; VNF deployments on Verizon Cloud Platform (VCP), taking into profound consideration the resource needs in contrast with the available operational capacity of the multi-tenancy platform.</li>
+<li>
+Discover patterns and practices for transforming pNFs to vNFs, architect long range plans to evolve the platform and cloud services, while improving performance of the current deployments by suggesting new designs for vNFs in design process or during onboarding.</li>
+<li>
+Discover repeat infrastructure, platform, or application dependencies for process and product improvements.</li>
+<li>
+Drive rapid deployments of SDNs &amp; VNFs in VCP to increase profits and new revenue, and reduce cost or time-to-market delays.</li>
+<li>
+Advise on any major shortfalls or near future business plan constraints based on regular operational results executive reporting, and be responsible for Cloud platform capacity management.</li>
+<li>
+Demonstrate a willingness to enhance the team learning environment by providing and encouraging mentorship and technical leadership.</li>
+<li>
+Provide industry leading expertise, participate as a technical expert in industry events that Verizon is represented at, and build team technical capabilities.</li>
+<li>
+Managing technology forums to drive key initiatives forward.</li>
+<li>
+Providing support to forum sub-teams and conducting technology forum briefings to provide status on action plans.</li>
+<li>
+Making recommendations based on internal and external trends and data-driven insights.</li>
+</ul>
+<p><b>
+What we’re looking for...</b>
+</p>
+<p>You’re an organized, detail-oriented project leader that can engage and motivate a team. As a conceptual thinker who sees the big picture, you can knit ideas together to create compelling and cohesive stories. You’ve got a set of sophisticated influence strategies that allow you to elevate key trends and issues within the business. You’ve got valuable insights, and you know how to bring them to life.</p>
+<p>
+You’ll need to have:</p>
+<ul>
+<li>
+Bachelor’s degree or four or more years of work experience.</li>
+<li>
+Six or more years of relevant work experience.</li>
+<li>
+Planning, architecture, product development, or program management experience.</li>
+<li>
+Willingness to travel.</li>
+</ul>
+<p>
+Even better if you have:</p>
+<ul>
+<li>
+Master's degree in business administration or related discipline.</li>
+<li>
+Experience with multiple/ hybrid cloud environments - Open stack or AWS, as a user, practitioner or administrator.</li>
+<li>
+Experience with Linux in a virtualized environment.</li>
+<li>
+Experience with Software sales/ pre-sales pipeline support.</li>
+<li>
+Experience with hosted Virtual Network Services sales/ pre-sales pipeline support.</li>
+<li>
+Knowledge of IP networking, VPN's, DNS, load balancing and fire walls.</li>
+<li>
+Five or more years of experience with multiple/ hybrid cloud environments - Open stack or AWS, as a user, practitioner or administrator.</li>
+<li>
+Software development lifecycle concepts.</li>
+<li>
+Experience with zero-touch, fully orchestrated, work-order fulfillment and deployment builds across multiple environments.</li>
+<li>
+Experience with data analysis of key cloud capacity usage patterns, trends, and projections.</li>
+<li>
+Experience with System Monitoring tools and Synthetic Monitoring tools.</li>
+<li>
+Contributed to open-source projects and/or publications.</li>
+<li>
+Experience with IMS core network elements including IP transport within the core network up to the radio access network.</li>
+<li>
+Experience with wireless and wire line technologies like software defined networks, cloud, Internet of Things (IoT), big data, security, API platforms, or 5G.</li>
+</ul>
+<p><b>
+When you join Verizon...</b>
+</p>
+<p>You’ll be doing work that matters alongside other talented people, transforming the way people, businesses and things connect with each other. Beyond powering America’s fastest and most reliable network, we’re leading the way in broadband, cloud and security solutions, Internet of Things and innovating in areas such as, video entertainment. Of course, we will offer you great pay and benefits, but we’re about more than that. Verizon is a place where you can craft your own path to greatness. Whether you think in code, words, pictures or numbers, find your future at Verizon.</p>
+<p><b>
+Equal Employment Opportunity</b>
+</p>
+<p>We're proud to be an equal opportunity employer- and celebrate our employees' differences,including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.</p>
+</div>
+<p></p>
+</div>

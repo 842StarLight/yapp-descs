@@ -1,0 +1,30 @@
+<h2>Senior Software Development Engineer (Back-End)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">As more companies adopt public cloud infrastructure and the increased sophistication and harm caused by cyber attacks, the ability to safeguard companies from these threats have never been more urgent.
+<br><br>
+Lacework's novel approach to security fundamentally converts cyber security into a big data problem. We are a startup based in Silicon Valley that applies large scale data mining and machine learning to public cloud security. Within a cloud environment (AWS, GCP, Azure), our technology captures all communication between processes/users/external machines and uses advanced data analytics and machine learning techniques to detect anomalies that indicate potential security threats and vulnerabilities.
+<br><br>
+The company is led by an experienced team who have built large scale systems at Google, Paraccel (Amazon Redshift), Pure Storage, Oracle, and Juniper networks. Lacework is well funded by a tier one VC firm and is based in Mountain View, CA.
+<br><br>
+We are looking for talented engineers who are interested in working in the field of big data, data analytics, machine learning, statistics, microservices, and interactive UI/data visualization.
+<br><br>
+Responsibilities
+<br><br>
+<ul>
+<li>Build state of the art threat detection systems</li>
+<li>Work with PMs, customers, and sales to design and develop new security products/features</li>
+<li>Write scalable, maintainable, and testable code</li>
+<li>Design and implement systems/algorithms to process large amounts of data to detect threats and anomalies</li>
+</ul>
+Qualifications
+<br><br>
+<ul>
+<li>10+ years building customer facing product features</li>
+<li>Experience developing with Java or GoLang</li>
+<li>Experience with Kubernetes and building microservices a plus</li>
+<li>Good technical communication skills and experience leading substantial projects</li>
+<li>Experience with AWS, GCP, Azure a plus</li>
+<li>Bachelor's degree in Computer Science or equivalent degree (MS, PhD a plus)</li>
+</ul>
+Lacework supports Green Card and H-1B sponsorship. We also have an office in Vancouver and sponsor Canadian work permits.
+<br><br>
+Lacework is an Equal Opportunity Employer. It is the policy of Lacework to provide equal employment opportunity to all persons, regardless of age, race, religion, color, national origin, sex, political affiliations, marital status, non-disqualifying physical or mental disability, age, sexual orientation, membership or non-membership in an employee organization, or on the basis of personal favoritism or other non-merit factors, except where otherwise provided by law.</div>

@@ -1,0 +1,45 @@
+<h2>Business Systems Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Job Description
+<br><br>
+<b>Job Title:</b> Business Systems Analyst
+<br><br>
+<b>Reports To:</b> Business Systems Manager
+<br><br>
+<b>Department:</b> Customer Experience – Business Systems 7017000000
+<br><br>
+<b>Primary Location:</b> Tucson TSC
+<br><br>
+<b>Effective Date:</b> December 2019
+<br><br>
+<b>Job Summary and Scope of Responsibility:</b><br>
+The Business Systems Analyst is responsible for the system administration of Service Cloud for customer care, technical support and distribution teams by supporting the administration and enhancements of the Salesforce Service Cloud platform and SAP. This position identifies, owns and manages Customer Experience (CE) improvement projects related to these systems, delivering high-quality solutions without user interruption. The Analyst will be a designated SAP super user and oversee super user activity within the CE functions, including systems testing.Working with IT partners, he/she will refine requirements and design value-added functionality and reporting solutions for both SAP and within Salesforce Service Cloud as well as other internal tools to meet internal customer needs for information, process improvement and decision support. This position recommends and prioritizes projects based upon in-depth analysis and demonstrated ability to identify root cause, driving benefits to the CE users.
+<br><br>
+<b>Essential Functions:</b><br>
+1. Maintain professional and technical knowledge by attending educational workshops, professional publications, and participating in professional societies.
+<br>2. Protect Chamberlain’s reputation by keeping information confidential.
+<br><br>
+<b>Minimum Qualifications:</b><br>
+<ul>
+<li>Bachelor Degree or Associates degree or equivalent combination of education and directly related field</li>
+<li>Salesforce Administrator Certification 201 or commitment and ability to obtain certification within one year of employment.</li>
+<li>1+ years’ experience working with Salesforce in an administrator and/or contact center environment.</li>
+<li>Working knowledge of SAP Lead to Cash transactions.</li>
+<li>Proficient in Microsoft Office Suite</li>
+<li>Strong written and verbal communication skills.</li>
+<li>Ability to coordinate a variety of projects with multiple departments</li>
+<li>Strong organizational skills</li>
+<li>Ability to learn new software tools and processes</li>
+<li>Statistical accuracy</li>
+</ul>
+<b>Preferred Qualifications:</b><br>
+<ul>
+<li>Salesforce Sales, Marketing and Analytics Clouds Administrator experience.</li>
+</ul>
+*
+<br><br>
+<ul>
+<li>Proven ability to influence people and drive positive change across organizational levels</li>
+<li>Ability to manage the migration of change sets from development and testing environments to production</li>
+<li>Ability to coordinate multiple projects and tasks, ensuring timely and quality completion</li>
+</ul>
+*</div>

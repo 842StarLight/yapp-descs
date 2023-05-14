@@ -1,0 +1,32 @@
+<h2>Salesforce Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Responsibilities</p>
+<ul>
+<li>Lead the administration and implementation of Salesforce.com</li>
+<li>Create processes and automations to assist with global sales operations including account, opportunity, lead and contract management</li>
+<li>Partner with internal business groups to understand their business processes, challenges, strategic objectives and translate their stories to produce requirements and design processes on the Salesforce platform that addresses their needs</li>
+<li>Lead the discovery of data from various internal sources and the creation of reports and dashboards</li>
+<li>Lead the integration of internal applications and systems to Salesforce</li>
+<li>Train and support end users on new or existing internal and third-party software systems and processes</li>
+<li>Conduct appropriate analysis of existing Salesforce data to help identify patterns and aid in data quality improvements</li>
+</ul>
+<ul>
+<li>Research and recommend third-party applications to enhance the operational efficiency of business users on the salesforce platform</li>
+</ul>
+<p>Qualifications</p>
+<ul>
+<li>BS or MS in Business Administration, Computer Science or Information Technology, Salesforce certification a plus.</li>
+</ul>
+<ul>
+<li>2+ years’ experience in Salesforce administration, business analysis and sales operations</li>
+<li>Experience in re-engineering or updating an existing Salesforce org and implementing complex Salesforce Apps</li>
+</ul>
+<ul>
+<li>Salesforce experience supporting global sales teams, customer support teams, marketing teams and product development teams</li>
+<li>Strong analytical skills and ability to make independent decisions and develop creative solutions to support business strategies</li>
+<li>Strong problem-solving skills with proven ability to gather and decipher information from business users</li>
+<li>Good data science skills with proficiency Microsoft PowerBi or similar BI tool to build reports and dashboards for business users</li>
+<li>Experience preparing and delivering training to staff</li>
+<li>Excellent written and oral communication skills</li>
+</ul>
+</div></div>

@@ -1,0 +1,54 @@
+<h2>Business Systems Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>We are searching for a Business Systems Analyst (BSA) with a primary focus on translating our marketing (plan website), enrollment, contact management (call center), and electronic document management requirements/processes into technology solutions. The BSA will be working collaboratively with our marketing, sales, enrollment, customer service, other department stakeholders, systems, and chosen vendors for the design, configuration, training, maintenance, and ongoing support of these solutions.</b></p>
+<p><b>*** This position requires to be on-site at the corporate office. ***</b></p>
+<p>Role Summary/Purpose</p>
+<p>As BSA, this person will become the systems process expert on aforementioned solutions and services. The BSA will be responsible for collecting, consolidating, and hashing through business/operational, compliance, and integration (data/system) requirements that are defined and owned by various department subject-matter-experts (SMEs) and/or stakeholders. The BSA will be able to ensure that our work plans and approaches are thorough, appropriate, and compliant to standards and regulations that govern our business. The BSA is expected to have project management and coordination responsibilities due to the highly collaborative nature of our work processes. This includes task management (self and team members) to ensure that plans are in place and executing to completion, record-keeping of action items and issues lists, facilitation of status meetings, etc.</p>
+<p>Essential Responsibilities</p>
+<ul>
+<li>Become the systems process expert to include implementation, configuration, integration, testing, rollout, and ongoing production support</li>
+<li>Become knowledgeable in the flow of data and/or documents through the pertinent AAH solutions to be able to understand the inter-connectivity of the applications and systems</li>
+<li>Become knowledgeable of the dependencies for health plan markets (current and new) and process/system dependencies</li>
+<li>Develop and/or modify requirements documentation, wireframes/mock-ups, templates, etc.</li>
+<li>Review, evaluate, validate deliverables against established incremental goals and cycles</li>
+<li>Facilitate user acceptance testing (UAT) phases, including training for UAT</li>
+<li>Develop or participate in the development of cutover/rollout plan</li>
+<li>Conduct end-user training support as needed</li>
+<li>Provide end-user support during production operations</li>
+<li>Establish task list, action lists and issues/risk logs for assigned projects and track them on a timely basis</li>
+<li>Adhere to standards to ensure discipline and controlled changes to applications and systems</li>
+<li>Facilitate periodic status meetings with the project team (including sub-contractors) to track progress of the projects, track action items to completion, and manage risks and issues</li>
+<li>Participate in client status meetings, managing the agenda and notes from the meeting and tracking action items, issues and risks</li>
+<li>Help ensure AAH has a consistent track record of timely and quality project launches</li>
+</ul>
+<p>Qualifications/Requirements</p>
+<ul>
+<li>Bachelor’s Degree</li>
+<li>Preferred knowledge of Healthcare Information Systems dealing with plans, providers, members</li>
+<li>Proficiency in computer skills in Microsoft Office Suite products, especially Microsoft Excel, preferably including Microsoft Project</li>
+<li>Preferred 5+ years of demonstrated successful experience in the healthcare industry</li>
+<li>Personally-driven and able to work in a fluid environment with general direction</li>
+<li>Strong interpersonal skills, with demonstrated ability to work independently as well as with a team</li>
+<li>Ability to energize, develop, and build rapport at all levels within an organization</li>
+<li>Demonstrated ability to analyze complex customer situations and present solutions that are viable, executable and meet the requirements of the customer (internal and external)</li>
+<li>Basic SQL knowledge or ability to extract data or metadata for trends, metrics, test execution and analysis</li>
+<li>Required experience in design, development, configuration, integration, implementation of, in at least one domain area: websites (use of WordPress preferred), enrollment applications, contact management systems (such as Nice or Avaya), electronic document management systems</li>
+<li>Preferred experience in Microsoft product suite, Microsoft framework</li>
+<li>Proven customer (internal and external) acumen and relationship building skills in a healthcare environment</li>
+<li>Willingness to travel with occasional overnight stays depending on business needs as necessary</li>
+<li>Strong written and verbal communication and clear-thinking skills with the ability to synthesize complex issues into simple messages</li>
+<li>Preferred knowledge of Healthcare industry and market place trends, specifically related to managed Medicare, managed Medicaid, dual eligible members and insurance products</li>
+<li>Demonstrated successful experience tracking projects implementing both systems and processes</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Microsoft Office: 5 years (Required)</li>
+<li>website/enrollment/customer service/document mgt systems: 5 years (Required)</li>
+<li>Healthcare IT: 5 years (Preferred)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+</div>

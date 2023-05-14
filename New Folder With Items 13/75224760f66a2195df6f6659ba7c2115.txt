@@ -1,0 +1,35 @@
+<h2>BI Engineer, AWS Analytics</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>Bachelor’s degree or higher in an engineering or technical field such as Computer Science, Mathematics, Statistics, Engineering or similar, or equivalent professional experience</li>
+<li>Advanced knowledge of SQL</li>
+<li>Experience managing competing priorities simultaneously and driving projects to completion</li>
+<li>Strong interpersonal skills and the ability to work effectively across teams</li>
+<li>A self-starter who loves data and who enjoys spotting trends in it</li>
+</ul></div>
+<br>
+<div>Join the Amazon Web Services (AWS) Business Development and Specialized Sales (BD/SS) Analytics team! AWS is one of Amazon’s fastest growing businesses, serving millions of customers in more than 190 countries. We are reshaping the way global enterprises use information technology and we are powering the next generation of global business leaders. We are looking for entrepreneurial, analytical, creative, flexible leaders to help us redefine the information technology industry. If you want to join a fast-paced, innovative team that is making history, this is the place for you.<br>
+<br>
+The AWS BD/SS Analytics team builds Business Intelligence technology platforms for AWS’s global sales business. We build, deliver, and operate data resources that provide the AWS sales organization with insights into all areas of business performance.<br>
+<br>
+The successful candidate will be an expert with SQL, ETL (and general data wrangling), and have exemplary communication skills. The candidate will need to be comfortable with ambiguity in a fast-paced and ever-changing environment, and able to think big while paying careful attention to detail. The candidate will know and love working with business intelligence tools, can model multidimensional datasets, and can partner with customers to answer key business questions.<br>
+<br>
+KEY RESPONSIBILITIES<br>
+<ul>
+<li>Work with business customers to gather requirements and deliver complete data reporting and analytical solutions</li>
+<li>Learn why customers are asking for data and what their underlying questions and business goals are</li>
+<li>Own the design, development, and maintenance of ongoing metrics, reports, and analyses used to drive key business decisions</li>
+<li>Recognize and adopt best practices in reporting and analysis, including data integrity, accuracy, and reliability, as well as documentation</li>
+<li>Drive data democratization throughout the organization, enabling others to self-serve their data needs</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Extensive knowledge of BI and Visualization platforms such as Tableau and AWS QuickSight</li>
+<li>Willingness to learn and open to new ideas, but aware of when to stop and reach a decision</li>
+<li>Great communication skills – can provide information to technical and non-technical stakeholders alike</li>
+</ul>
+<br>
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation / Age</div>
+</div>

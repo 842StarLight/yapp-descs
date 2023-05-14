@@ -1,0 +1,42 @@
+<h2>Senior Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Juniper Networks has an immediate opening for a team-oriented, highly effective and motivated individual to be part of Juniper Federal Civilian Government Pre-Sales Team. Your primary responsibility is to assist the account managers and our partners with the technical sales activities in new and existing opportunities. You should possess a strong technical aptitude, the ability to learn quickly, strong interpersonal skills, strong presentation skills, and troubleshooting skills. We work in a very dynamic environment. This position does require travel for 20-35% of the time.<b> The position is open in metro DC area and requires a US citizenship.</b></p>
+<ul>
+<li>Provide technical sales support for Federal Government Named Accounts.</li>
+<li>Build and maintain strong professional relationships with IT decision makers within assigned named accounts.</li>
+<li>Perform technical presentations for customers, partners and prospects. Communicate highly technical concepts to a variety of audiences, including executive level technical decision-makers.</li>
+<li>Design and provide Next Gen Network Architectures for our customers.</li>
+<li>Set up demonstrations and explain features and benefits to our customers.</li>
+<li>Ability and experience to conduct proof of concepts to meet customer requirements
+</li>
+<li>Develop compelling, secure and saleable Juniper network designs (including detailed bills of materials and network diagrams) to meet specific customer needs.</li>
+<li>Stay current on relevant competitive solutions, products and services.</li>
+<li>Assist with the development of formal sales plans and proposals for assigned opportunities.</li>
+</ul>
+<p><b>
+EXPERIENCE</b></p>
+<ul>
+<li>A minimum of 3 years of experience as a pre-sales SE for a network vendor or 8 plus years network engineering experience.</li>
+<li>Strong hands-on experience with Juniper solutions or equivalent</li>
+<li>Experience designing/building large scale data centers and global WANs.</li>
+<li>JNCIE or CCIE highly desirable.</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+REQUIRED SKILLS – NETWORKING FUNDAMENTALS</b></p>
+<ul>
+<li>BGP, OSPF and MPLS</li>
+<li>Understanding of related network security technologies – NGFW, VPN, and IPSEC</li>
+</ul>
+<p><b>
+DESIRED SKILLS – AUTOMATION AND VIRTUALIZATION</b></p>
+<ul>
+<li>Python, Ansible, OpenStack, VMware/NSX, Contrail, and Automation
+</li>
+<li>Understanding of EVPN and VXLAN</li>
+</ul>
+</div>
+<p></p>
+</div>

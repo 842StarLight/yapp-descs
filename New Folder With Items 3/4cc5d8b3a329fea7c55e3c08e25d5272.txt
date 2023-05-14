@@ -1,0 +1,68 @@
+<h2>Director, Systems Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<div><b>Director, Systems Engineering</b></div>
+<div></div>
+<div><b>Key Responsibilities:</b></div>
+<ul>
+<li>In-depth knowledge of wireless communication systems with previous WiFi experience a plus
+</li>
+<li>Excellent ability to plan and coordinate projects with teams globally and execute projects independently</li>
+<li>
+Excellent track record of designing differentiating algorithms and delivering high performance communication products</li>
+<li>
+Expected to have detailed knowledge and substantial experience in one or more of the following area:
+</li>
+<li>Advanced wireless communication techniques, OFDM system design, Advanced MIMO decoders such as ML and sphere decoders, MU-MIMO precoding, digital beamforming</li>
+<li>
+Carrier and timing synchronization, advanced error correction techniques such as LDPC, advanced linearization techniques including ET, DPD and PAPR</li>
+<li>
+Advanced cross layer algorithms, network level simulation and, MAC level design, modeling and optimization</li>
+<li>
+RF system design and analysis and simulation, understanding of RF calibration techniques, ability to write detailed system and block level RFIC specification and requirements</li>
+<li>
+Precious experience in standardization process and contribution and participation in <b>802.11</b>, WFA, 3GPP, etc. a plus</li>
+<li>
+Able to explore new technologies and ideas and develop IP in key areas such as Massive MIMO, Coordinated Multipoint (CoMP), simultaneous transmit/receiver, etc.</li>
+<li>
+Must be able to conduct system simulation, performance optimization and architectural trade-off for hardware and software implementation</li>
+</ul>
+<br>
+</div>
+<div></div>
+<br>
+<br>
+<div>
+<b>Qualifications</b><div>
+</div>
+<div><b>
+Requirements:</b></div>
+<ul>
+<li>Must have strong competency in simulating complex communication and signal processing algorithms in MATLAB and C</li>
+<li>
+Knowledge of ASIC and DSP software implementation, fixed point operation and lab equipment a plus</li>
+<li>
+Must have a MS or PhD with course work in communication and signal processing with 10+ years of related work experience</li>
+</ul>
+ON Semiconductor (Nasdaq: ON) is driving energy efficient innovations, empowering customers to reduce global energy use. The company is a leading supplier of semiconductor-based solutions, offering a comprehensive portfolio of energy efficient power and signal management, logic, standard and custom devices. The company’s products help engineers solve their unique design challenges in <b>automotive, communications, computing, consumer, industrial, medical and military/aerospace applications. </b>ON Semiconductor operates a responsive, reliable, world-class supply chain and quality program, and a network of manufacturing facilities, sales offices and design centers in key markets throughout North America, Europe and the Asia Pacific regions.<br>
+<br>
+</div>
+<div></div>
+<div>
+<b>Primary Location</b><b>:</b> US-CA-San Jose</div>
+<div>
+<b>
+Work Locations</b><b>:</b> USCA43 ON SEMI CONN SOL 1704 Automation Pkwy San Jose 95131</div>
+<div>
+<b>
+Job</b><b>:</b> Engineering</div>
+<div>
+<b>
+Travel</b><b>:</b> Yes, 10 % of the Time</div>
+<div>
+<b>
+Job Posting</b><b>:</b> Jul 11, 2019, 4:46:59 PM</div>
+</div>
+</div>

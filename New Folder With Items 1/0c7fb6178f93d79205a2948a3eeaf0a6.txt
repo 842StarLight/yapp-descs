@@ -1,0 +1,46 @@
+<h2>North America GSI Partner Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>7+ years of hands on implementation or consulting experience</li>
+<li>3+ years in a customer and /or partner facing technical consulting roles.</li>
+<li>Experience working across internal and external organizations.</li>
+<li>Knowledge of Cloud Services (IaaS, SaaS etc ) and software development lifecycle</li>
+<li>BA/BS degree or equivalent required</li>
+</ul></div>
+<br>
+<div>This is an ideal role for someone who has experience working for or with a global systems integrator, technology consulting firm, or a Fortune 1000 company. If you are a problem solver with broad technical skills, and have the ability to drive technical conversations you will enjoy this role.<br>
+<br>
+Working with partners is a team effort that will require influence and coordination with many stakeholders. You should be just as comfortable talking storage and networking with the VP of Infrastructure or continuous deployment with the DevOps team, TCO with the CFO, and cloud strategy with the CIO. The ideal candidate should also have a demonstrated ability to think strategically about business, product, and technical challenges.<br>
+<br>
+As a strategic member of the NA Partner Solution Architect team, you will act as a trusted advisor to our managed global systems integrators. This includes:<br>
+<ul>
+<li>Provide the architectural guidance and recommendations necessary to promote successful partner engagements worldwide.</li>
+<li>Work closely with Partner Sales Managers, AWS Professional Services and other Solutions Architects throughout the lifecycle of customer engagements.</li>
+<li>Assist partners define the approach, tools, and target architecture as they migrate customers or build cloud native solutions on Amazon Web Services</li>
+<li>Validate Partner architectures, deliverables, SOW’s, Project plans, and other assets required to successfully deliver partner lead customer engagements.</li>
+<li>Assist solution providers with the definition of technical strategies that will enable them to sell more of their offering on the AWS platform.</li>
+<li>Capture and share best-practice knowledge with our broader Solution Architect community.</li>
+<li>Share partner and customer feedback to internal product management and engineering teams to help drive the future of AWS.</li>
+</ul>
+<br>
+Up to 30% travel is required.<br>
+This role can be based in either Dallas or Chicago.</div>
+<br>
+<div>
+<ul>
+<li>Experience working with/for system integrator or technology consulting companies and understand the business dynamics</li>
+<li>Pre-Sales and delivery experience with enterprise customers and partners</li>
+<li>Experience migrating or transforming legacy customer applications and solutions to the cloud</li>
+<li>Professional experience architecting/operating solutions built on AWS</li>
+<li>Strong verbal and written communication skills.</li>
+<li>Cloud and/or AWS experience; AWS Certified Solutions Architect – Associate/Professional Level</li>
+<li>Broad technology experience including: cloud architecture, applications development, relational databases, NoSQL databases, analytics, machine learning, networking, security, storage, DevOps, containers, serverless, CI/CD, management and monitoring, cloud migrations, IT transformation</li>
+<li>Demonstrate in-depth knowledge of concepts, design and implementation patterns of at least one technology area</li>
+<li>Visible IT Industry thought leadership on relevant topics related to enterprise IT infrastructure.</li>
+<li>Experience working with end user or developer communities.</li>
+<li>Meets/exceeds Amazon’s leadership principles requirements for this role.</li>
+<li>Meets/exceeds Amazon’s functional/technical depth and complexity for this role.</li>
+</ul>
+<br>
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>
+</div>

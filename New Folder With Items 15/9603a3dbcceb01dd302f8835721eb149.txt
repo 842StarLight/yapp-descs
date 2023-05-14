@@ -1,0 +1,70 @@
+<h2>Customer Success Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">COMPANY
+<br><br>
+Rubrik delivers a single platform to manage and protect data in the cloud, at the edge, and on-premises. Enterprises choose Rubrik's Cloud Data Management software to simplify backup and recovery, accelerate cloud adoption, and enable automation at scale. Rubrik's run-anywhere, scale-out architecture is built to empower IT departments today, and in the future, reducing total cost of ownership while enabling infrastructure flexibility for a multi-cloud world.
+<br><br>
+OVERVIEW
+<br><br>
+Rubrik is one of the fastest growing companies in the Silicon Valley, revolutionizing data protection and management in the emerging multi-cloud world. We are the leader in cloud data management, delivering a single platform to manage and protect data in the cloud, at the edge, and on-premises. Enterprises choose Rubrik to simplify backup and recovery, accelerate cloud adoption, enable automation at scale, and secure against cyberthreats. Rubrik has raised over $553 million in venture funding, most recently at a valuation of $3.3 billion. We've been recognized as a Forbes Cloud 100 Company two years in a row and as a LinkedIn Top 10 startup.
+<br><br>
+Rubrik is currently looking for Customer Success Engineers to provide enterprise level technical support to our customers via phone, web, email, chat and other support channels as required.
+<br><br>
+<b>Essential Functions:</b><br>
+Customer Success Engineers at Rubrik will provide enterprise level technical support to our customers via phone, web, email, chat, onsite visits and other support channels as required. TSEs are responsible for delivering effective solutions to backup, recovery, replicate, archive, index and search data across Rubrik clusters and the cloud. TSEs will spend the majority of their time dealing with both technical and non-technical administrators and end users, with the remainder of the time spent with partners and other 3rd party vendors on interoperability issues. Specific duties include the following:
+<br><br>
+<ul>
+<li>Independently diagnose and resolve problems in the Rubrik products, as well as in the customer environment (e.g physical Linux and Windows system, VMWare virtual machines)</li>
+<li>Troubleshoot networking connectivity and performance issues between Rubrik appliances and the cloud (e.g. AWS, Microsoft Azure), using Wireshark and other packet tracking and analysis tools. Assist customers and partners in administrating and configuring network, router, switch (e.g. Juniper and Cisco), firewall and spam settings.</li>
+<li>Author knowledge-base articles for customers and internal consumption, detailing the symptoms, cause, workaround and solutions of common and/or known issues.</li>
+<li>Participate in weekend and holiday on-call/shift rotations.</li>
+<li>Attend onsite meetings and demos with Rubrik Sales Engineers during Proof of Concept (POC). Troubleshoot hardware issues and replace components on the Rubrik physical appliances at customers' datacenters.</li>
+<li>Work with Rubrik's Engineering and QA teams to recreate customers' issues in the lab. Review documentations (e.g. Release Notes, User Guide) on upcoming new software releases.</li>
+<li>Develop and enhance tools for analyzing logs, stats and performance data collected within the Rubrik appliances.</li>
+<li>Contribute to the effective and efficient handling of all levels of technical support cases from basic user questions to issues requiring more in-depth technical and problem-solving skills</li>
+<li>Independently diagnose and resolve problems within our sphere of the customer environment</li>
+<li>Follow standard procedures for proper escalation of unresolved issues to the appropriate internal teams</li>
+<li>Work with 3rd parties on interop issues.</li>
+<li>Provide prompt and accurate feedback to customers.</li>
+<li>Ensure proper recording and closure of all issues</li>
+<li>Design, define and document support processes, training and knowledge-base articles for customer and internal consumption.</li>
+<li>Participate in weekend and holiday on-call/shift rotation.</li>
+</ul>
+<b>Desired Skills and Experience:</b><br>
+<ul>
+<li>5+ years doing enterprise technical support in storage or backup verticals, including advanced issues such as snapshots, replication, data recovery, networking, and VMware administration.</li>
+<li>Must have good technical knowledge of VMware, backup methodologies, Linux and networking.</li>
+<li>Experience with scripting languages (bash, Python, Perl)</li>
+<li>Bachelors Degree Degree in Computer Science, Engineering or related field</li>
+<li>Experience with Microsoft Exchange and SQL, Oracle, Cassandra and MongoDB. Hands-on experience with installation, deployment, troubleshooting, configuration and tuning.</li>
+<li>Experience with AWS, Azure and other cloud platforms</li>
+<li>Strong written and oral communication skills; able to author and present root-cause analysis documents.</li>
+</ul>
+WHY RUBRIK?
+<br><br>
+https://www.rubrik.com/product/why-rubrik/ ( https://www.rubrik.com/product/why-rubrik/ )
+<br><br>
+Bloomberg TV, John Chambers Says Rubrik Will be One of the Hot Stocks of the Next Decade ( https://www.bloomberg.com/news/videos/2018-08-23/john-chambers-says-rubrik-will-be-one-of-the-hot-stocks-of-the-next-decade-video )
+<br><br>
+Forbes, How This Founder Went from $0 to $300M In Just Four Years ( https://www.forbes.com/sites/tomtaulli/2018/07/21/how-this-founder-went-from-0-to-300m-in-just-four-years/#6bb333ee5c03 )
+<br><br>
+Fortune, These Are LinkedIn's 'Most-Wanted' Startups For 2018 ( http://fortune.com/2018/09/06/linkedin-most-wanted-startups-for-2018/ )
+<br><br>
+Wall Street Journal, How One Silicon Valley CEO Practices 'Radical Transparency' ( https://www.wsj.com/articles/why-one-company-invites-all-employees-to-board-meetings-1509028866 )
+<br><br>
+<b>John Thompson:</b> https://www.youtube.com/watch?v=gPJZ3N4DB6E&amp;t=21s ( https://www.youtube.com/watch?v=gPJZ3N4DB6E&amp;t=21s )
+<br><br>
+<b>Frank Slootman:</b> https://www.youtube.com/watch?v=BLerCyryTmY ( https://www.youtube.com/watch?v=BLerCyryTmY )
+<br><br>
+INDUSTRY AWARDS
+<br><br>
+Fastest Growing Enterprise Company in the Billion Dollar League
+<br><br>
+https://www.rubrik.com/company/about/ ( https://www.rubrik.com/company/about/ )
+<br><br>
+BENEFITS OVERVIEW
+<br><br>
+https://www.rubrik.com/wp-content/uploads/2019/01/Rubrik-Benefits-Overview-2019.pdf ( https://www.rubrik.com/wp-content/uploads/2019/01/Rubrik-Benefits-Overview-2019.pdf )
+<br><br>
+Rubrik provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Rubrik complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+<br><br>
+#LI-JB1</div>

@@ -1,0 +1,118 @@
+<h2>Analytics Associate</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<h2 class="jobSectionHeader"><b>Overview</b></h2>
+<div><b>Job Function/purpose:<br>
+</b></div>
+<div></div>
+<div>Analytics Associate is an advanced analytics position that serves as an analytical modeling resource to Advanced Analytics department, while developing the incumbent’s expertise and business knowledge of the broader HBI Sales, Marketing, and Supply Chain functions. This position works under direct supervision to project assignments that include designing, engineering, developing, documenting, and reporting analytic efforts. The incumbent acts as an engaged team member by providing information, analysis, and recommendations in support of department efforts to translate complex data into actionable information for data driven business decisions while leveraging existing automated analytical tools and capabilities developed by the Advanced Analytics department to support broader corporate initiatives.</div>
+<div>
+Incumbent works both independently and collaboratively to prepare comprehensive analysis and business cases using both advanced analytical software and techniques that may include: big data posturing, descriptive and predictive modeling, time series modeling, pattern identification, segmentation, regression analysis, and prescriptive machine learning techniques. Incumbent will assist with the development of business cases that credibly communicate analytical results to many levels of the organization, across all functional areas. Applications of incumbent’s work will support actions to grow sales, reduce costs across the supply chain, and target the increase of free cash flow.</div>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Responsibilities</b></h2>
+<div><b>Primary Responsibilities/ Accountabilities:</b></div>
+<div></div>
+<br>
+<div>
+Analytical Reporting and Modeling:</div>
+<ul>
+<li>
+Accurately develops analytic models to describe, classify, quantify, or predict business metrics for the purpose of supporting data driven decision making.</li>
+<li>
+Provides ad-hoc data analysis, reporting, and special projects in support of requests from both internal and external stakeholders of the team.</li>
+<li>
+Interprets business requirements and translates to analytical objectives pertaining to active initiatives.</li>
+<li>
+Defines and establishes required data sources and data posturing needs to meet analytical objectives.</li>
+<li>
+Sufficiently explores data structures and processes to ensure analytic quality.</li>
+<li>
+Follows up with Information Technology counterparts on any data quality issues.</li>
+<li>
+Creates and thoroughly tests essential reports and data visualizations prior to publishing.</li>
+<li>
+Provides report automation and delivery.</li>
+<li>
+Ensures the availability of optimal decision making tools for management and the HbI user community.</li>
+<li>
+Under direction, aides in the identification of analytic opportunities and then drives supporting actions to realize the opportunity.</li>
+<li>
+Performs other analysis as required.</li>
+</ul>
+<div>
+Business Engagement</div>
+<ul>
+<li>
+Performs root cause analysis on business problems while providing recommendations in a timely manner.</li>
+<li>
+Delivers actionable insights within deadlines through the use of analytic tools and methods.</li>
+<li>
+Clearly documents analytic work and results through preparation of statistics, charts, reports, and presentations.</li>
+<li>
+Effectively communicates results with evidence of cause and effect as it relates to business requirements.</li>
+<li>
+Credibly communicates with business stakeholders various levels of the organization.</li>
+<li>
+Interfaces with HBI functional areas (stakeholders) on technical issues associated with analytic model credibility requirements.
+</li>
+<li>Under direction, periodically engages directly with senior leadership and their teams to deploy analytical solutions.</li>
+<li>
+On a periodic basis, will serve as an expert resource to business leaders in analytical best practice thinking.</li>
+<li>
+Work is checked through consultation and agreement with stakeholders and in conjunction with formal review by Advanced Analytics management.</li>
+</ul>
+<div></div>
+<br>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>Qualifications</b></h2>
+<div>Experience/Skills/Education Requirements:</div>
+<div></div>
+<br>
+<div>
+Required Qualifications</div>
+<ul>
+<li>
+Bachelor’s degree from an accredited college or university in Analytics, Engineering, Statistics, Management Science, Applied Mathematics, Economics, or related field</li>
+<li>
+2-5 years of experience in relevant analytic modeling or data science</li>
+<li>
+Demonstrated use of some of the following tools: Base SAS, SAS/STAT, SAS/ETS, R, Python, KNIME, SAS Enterprise Guide, SAS Enterprise Miner, Oracle Crystal Ball</li>
+<li>
+Mastery of MS Office tools is required</li>
+<li>
+Knowledge of statistical analysis methodologies</li>
+<li>
+Demonstrated knowledge of some or all of the following: multivariate regression, time series (forecasting), pattern identification, segmentation, logistic regression, decision trees, optimization, Monte Carlo or discrete-event simulation, unstructured data analysis, and predictive or prescriptive modeling techniques</li>
+<li>
+Demonstrated working knowledge of advanced visualization best practices</li>
+<li>
+Excellent verbal and written communication skills are essential</li>
+</ul>
+<div>
+ Desired Qualifications</div>
+<ul>
+<li>
+Knowledge of manipulating, cleansing, aggregating, and compiling analytic data</li>
+<li>
+Knowledge of relational databases including ability to write SQL</li>
+<li>
+Knowledge of Lean/6 Sigma</li>
+<li>
+Basic Foreign Language Skills</li>
+</ul>
+<div>
+To qualify, applicants must be legally authorized to work in the United States and should not require now, or in the future, sponsorship for employment visa status</div>
+<div></div>
+<br>
+<div>
+EOE/AA: Minorities/Females/Veterans/Disabled</div>
+<div>
+Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly:</div>
+<div>
+Telephone: 877.999.5553</div>
+<div>
+Email: HBI_TA@hanes.com</div>
+</div>
+</div></div>

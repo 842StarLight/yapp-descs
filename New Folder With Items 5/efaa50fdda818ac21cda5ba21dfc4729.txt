@@ -1,0 +1,55 @@
+<h2>Director Product Management</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Job Summary</b><br>**Our close-knit product management team guides the building of new products at Acceldata. We work with our customers, sales teams, designers and engineers to develop products that delight our customers and advance our strategic goals. We lead as problem-solvers and build a deeply technological dataops product with some of the world’s best technical and creative people to solve our customers’ toughest dataops challenges.<br><b>Responsibilities and Duties</b><br>**You’ll nurture a piece of our product portfolio and be part of our team that is fostering its growth. As a Director of Product Management, Your role will be to understand the needs of our enterprise customers and guide and coordinate a team of designers and engineers to deliver a product that has a transformative impact for those customers. You will have the opportunity – and the challenge – to think deeply about the direction of our product, and to work with a team to see it come alive. In this role, you will</p>
+<ul>
+<li>Own and guide the product strategy for our product infrastructure including our on-prem and Cloud strategy.</li>
+<li>Manage a team of PM’s and partner closely with technical architects, engineers, ops, and more on designing and developing the foundation of our product infrastructure</li>
+<li>Develop empathy for our customers and field teams so that you understand our customers and their needs. You will articulate those needs within Acceldata and lead product initiatives that build solutions tailored to meet those needs as they evolve</li>
+<li>Ability to work in collaboration with Eng, Ops, Architects, UX, Pricing, Marketing, and more in a team environment</li>
+<li>Achieve a balance between the various demands of the organization and its customers as you prioritize your backlog</li>
+<li>Educate internal groups and customers about your roadmap in order to communicate direction and gather feedback</li>
+</ul>
+<p><b>Qualifications and Skills</b></p>
+<ul>
+<li>Strong grasp of operational issues that can arise in these complex data pipelines such as migration, performance management and cost management.</li>
+<li>10+years experience evolving products consultatively in markets across regions with internal and external sales partners.</li>
+<li>Expertise in audience targeting technologies and current identity solutions and graphs</li>
+<li>Entrepreneurial approach with deep industry expertise, capable of identifying key areas of growth and delivering significant business results while reinforcing customer experience.</li>
+<li>Experience taking new data products to market across Americas, APAC and EMEA</li>
+<li>Understanding of buy and sell side ad delivery platforms and associated dataops across programmatic and direct display, mobile, and video</li>
+<li>Experience executing effectively in a global environment</li>
+<li>Strong communicator, relationship builder, and trusted advisor capable of effectively liaising with internal and external stakeholders, clients, and partners alike</li>
+<li>Proven track record of fostering strategic partnerships that have ROI impact at scale</li>
+</ul>
+<p><b>Required Education and Experience</b></p>
+<ul>
+<li>Bachelor’s or Master’s degree.</li>
+<li>10+years experience leading cross-functional technology teams to deliver or support scalable, high-performance enterprise solutions.</li>
+<li>5+years in a management position leading a large staff of employees.</li>
+</ul>
+<p><b>Preferred Qualifications</b></p>
+<ul>
+<li>Previous experience in enterprise s/w development is a great advantage.</li>
+<li>Develop/run demos and webinar/workshops for customers and partners</li>
+<li>Experience developing complementary products for big data technologies (Spark, Kafka, Hadoop, Redshift, BigQuery, etc), or/and Experience developing highly scalable performance management products.</li>
+</ul>
+<p><b>Benefits</b></p>
+<ul>
+<li>Healthcare</li>
+<li>Dental &amp; Vision Care</li>
+<li>Excellent Stock Benefits.</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>relevant: 3 years (Preferred)</li>
+<li>Product Management: 5 years (Preferred)</li>
+</ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+</ul>
+</div>

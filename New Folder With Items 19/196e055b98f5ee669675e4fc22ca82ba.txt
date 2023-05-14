@@ -1,0 +1,95 @@
+<h2>Network Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>ComTec Solutions is a Business Technology Services company specializing in IT Managed Services with a niche market in Enterprise Resource Planning (ERP) system sales, implementation, and support.</p>
+<p>A Democrat and Chronicle Top Workplace and Rochester Chamber Top 100 Fastest Growing Company, we are expanding and hiring a Network Engineer - a highly skilled technical resource that provides onsite and remote support for customers on deployed technologies as well as being the lead technical resource on projects. The Network Engineer is responsible for providing proactive and reactive services to new and existing customers in support of their IT infrastructure.</p>
+<p>Duties:</p>
+<ul>
+<li>Lead complex projects such as infrastructure installation and upgrades</li>
+<li>Coordinate and execute Managed Services implementations for new and existing customers</li>
+<li>Provide network and security assessments, identifying opportunities for system improvements and efficiencies</li>
+<li>Respond to customer inquiries in a courteous and professional manner</li>
+<li>Deliver technical customer support over the phone and in person, understands support processes</li>
+<li>Create, document, and escalate issues and problems according to ticketing standards and SLAs</li>
+<li>Monitor assigned tickets and tasks and provide service or escalation as necessary</li>
+<li>Provide support for escalated service desk tickets following established protocols</li>
+<li>Provide desktop, server and network support (including administering and maintaining end user accounts, password resets/unlocks, and email setup and support)</li>
+<li>Perform remote and onsite scheduled maintenance</li>
+<li>Accurately enter and maintain case information including notes and resolution</li>
+<li>Adhere to departmental policies for reporting and managing requests and change control</li>
+<li>Participate in emergency on call rotation schedule</li>
+<li>Internal IT Support as needed</li>
+<li>Identify sales opportunities and pass the information to correct team members</li>
+<li>Submit timesheets accurately and timely</li>
+<li>Other duties as required</li>
+</ul>
+<p>Supervision Exercised:</p>
+<p>None</p>
+<p>Supervision Received:</p>
+<p>Reports to Manager, IT Services</p>
+<p>Work Environment/Physical Demands:</p>
+<p>· Use of computer and office equipment.</p>
+<p>· Ability to remain calm in stressful situations</p>
+<p>· Performs all administrative functions expected at this level.</p>
+<p>Minimum Qualifications:</p>
+<p>Technical Skills</p>
+<ul>
+<li>Strong understanding of available tools to assist in daily tasks</li>
+<li>Ability to troubleshoot server based software issues with:</li>
+<li>Microsoft Windows Server 2003/2008/2012</li>
+<li>Microsoft Windows Active Directory Infrastructure</li>
+<li>On Premise Microsoft Exchange 2007/2010/2013, coexistence Microsoft Exchange 2007/2010 / Microsoft Office 365, and hosted Microsoft Office 365</li>
+<li>Microsoft SQL 2005/2008/2014 Server</li>
+<li>Microsoft Remote Desktop Services 2008/2012</li>
+<li>Microsoft Hyper-V and VMWare</li>
+<li>Major Anti-Virus solutions</li>
+<li>Enterprise class backup solutions</li>
+<li>Very knowledgeable of various server/workstation peripherals such as NAS/SAN solutions.</li>
+<li>In depth knowledge of workstation/server hardware and software troubleshooting abilities</li>
+<li>Working knowledge of HP and Dell equipment; general understanding of storage solutions</li>
+<li>Extremely knowledgeable in troubleshooting and resolving workstation based software issues with:</li>
+<li>Microsoft operating systems</li>
+<li>Microsoft Office 2007 / 2010 / 2013</li>
+<li>Microsoft Online Services (Office 365)</li>
+<li>Domain and workgroup environments</li>
+<li>Knowledge and understanding of AD, DNS, the Internet and mail flow</li>
+</ul>
+<p>Soft Skills</p>
+<ul>
+<li>Strong written and verbal communication skills</li>
+<li>Pleasant and professional demeanor in all client and internal communications</li>
+<li>Ability to multi task</li>
+<li>Intellectually resourceful with sound judgment and effective decision-making abilities</li>
+<li>Independent worker and able to work effectively on daily tasks without direct supervision</li>
+<li>Strong organization skills and ability to operate efficiently throughout daily tasks</li>
+<li>In general owns issues through resolution although understands when to escalate a problem to another team member and whom to escalate to; accepts escalated issues; and mentors when appropriate</li>
+<li>Demonstrates empathy with users and professionalism at all times</li>
+<li>Work well with clients at all levels, from executive to IT to end user</li>
+<li>Operates with client satisfaction in mind</li>
+<li>Energy, enthusiasm and results-oriented</li>
+</ul>
+<p>Education and Experience</p>
+<ul>
+<li>Bachelor’s degree preferred</li>
+<li>One or more certifications, such as MCP/MCSA/MCSE/MCTS/MCITP (or equivalent work experience)</li>
+<li>CompTIA A+ and Network+ preferred</li>
+<li>5+ years of relevant experience in supporting complex networks and/or providing technical support</li>
+</ul>
+<p>Additional Requirements</p>
+<ul>
+<li>Ability to schedule for evening or weekend work occasionally</li>
+<li>Valid driver’s license in your state of residence and reliable personal vehicle</li>
+</ul>
+<p><b>Benefits: </b></p>
+<p>We offer a competitive compensation and vacation package in addition to the following:</p>
+<ul>
+<li>Health Insurance</li>
+<li>Dental Insurance</li>
+<li>401(k) plan w/ 4% match</li>
+<li>Company paid Life Insurance</li>
+<li>Company paid LTD</li>
+<li>Casual work environment</li>
+</ul>
+<p><b>ComTec Solutions, LLC. is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.</b></p>
+<p><b>ComTec Solutions, LLC. must comply with the International Traffic in Arms Regulations (ITAR) issued by the United States Department of State, Department of Defense Trade Controls. Because of ITAR, the company must limit employment opportunities to US citizens or lawful permanent residents of the United States, or those admitted as a refugee or granted asylum.</b></p>
+<p>Job Type: Full-time</p>
+</div>

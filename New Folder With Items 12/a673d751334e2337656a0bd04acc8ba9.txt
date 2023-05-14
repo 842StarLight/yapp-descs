@@ -1,0 +1,32 @@
+<h2>Quality Assurance Engineer - Manual</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<h3 class="jobSectionHeader"><b>The kind of person we're looking for:</b></h3>
+<p>We are looking for someone who is comfortable working with a small team of experienced engineers supporting a web-based solution that provides gift and loyalty card processing, and email marketing for retail merchants. The development and testing is done in various platforms – Windows, Linux and Mac OS X - using a variety of commercial and Open Source tools. You will be responsible for running various test cases against the code in the QA lab and ensuring the quality of the product.</p>
+<h3 class="jobSectionHeader"><b>
+The kind of stuff you'll be doing:</b></h3>
+<ul> <li>Participating in system requirements and design meetings. Our process requires detailed documentation and review of requirements and design with the team</li>
+<li> Working with developers to write test plans for new features</li>
+<li> Running the test plans and work with the development resources to successfully complete software releases</li>
+<li> Running manual tests against various POS (Point Of Sale) systems like Micros, Aloha, POSitouch, xPient, VeriFone, etc…</li>
+<li> Running manual and automated tests against the web-based server</li>
+<li> Testing our mobile solution in iPhone and Android platforms</li>
+<li> Working with our powerful suite of python-based Automated Test (AT) scripts. You will work with the existing AT scripts to run them, make changes as needed and add more scripts to the AT suite</li>
+</ul>
+<h3 class="jobSectionHeader"><b>The kind of experience you'll need:</b></h3>
+<ul> <li>Excellent oral communication skills. We are a small team and talk between individuals happens daily. The person should be able to handle questions, meetings and other interruptions.</li>
+<li> Ablility to effectively work and communicate with other teams within the company.</li>
+<li> Excellent written communication skills. The job requires that test plans are well documented to prove the quality of the test cases</li>
+<li> Attention to details. It is required that any details of the product be tested and verified</li>
+<li> Good command of popular cross-team documentation tools like: excel, word, wiki pages, email</li>
+<li> 4+ years of experience with Windows systems</li>
+</ul>
+<h3 class="jobSectionHeader"><b>The extra stuff that would be nice:</b></h3>
+<ul> <li>Knowledge of Automated Testing tools</li>
+<li> Knowledge of Open Source Testing tools and platforms</li>
+<li> Any programming experience</li>
+<li> Database access and management experience, in particular, Microsoft SQL Server</li>
+</ul>
+</div>
+</div>

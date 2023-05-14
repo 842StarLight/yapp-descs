@@ -1,0 +1,51 @@
+<h2>Sr. Salesforce Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>Bachelor’s degree, high standard of education, or equivalent work experience.</li>
+<li>5+ years Salesforce.com Admin experience and configuration of 100+ users.</li>
+<li>Certified Salesforce.com Salesforce Administrator, Sales Cloud Consultant, and Platform App Builder or other equivalent qualification.</li>
+</ul>
+<br>
+<div>Ring is looking to hire an experienced Sr. Salesforce Administrator to join our Neighbors team. The Neighbors team is revolutionizing public safety by utilizing innovative Ring technology. This leader will partner with sales, account management, business development, sales enablement, finance, product, marketing, and business intelligence teams to design and deliver solutions that automate and drive productivity of our sales and account management teams.<br>
+<br>
+This candidate will define, design and deliver sales processes and accompanying reporting for new initiatives, markets and segments the business pursues and will provide ongoing support and continuous improvements. The successful candidate must have a strong Salesforce technical skillset, prioritize multiple work streams, communicate with partners, execute in a fast-paced environment, and be eager to learn.<br>
+<br>
+Responsibilities<br>
+<ul>
+<li>Define and deliver sales operations and Salesforce.com strategic roadmap. Budget and resource the efforts accordingly. Drive consensus with stakeholders on the roadmap and deliverables.</li>
+<li>Hands-on configuration of all new and existing Salesforce.com features including user management, security, custom objects, page layouts, validations, workflows, flows, process builders, Einstein Analytics, and other 3rd party applications.</li>
+<li>Manage Salesforce.com CRM application including support requests and escalated administrative needs of users by providing prompt and complete resolution to technical challenges and business support issues.</li>
+<li>Partner and consult with the business to identify and define business requirements and initiate and prioritize enhancement, gap analysis, and prepare user stories.</li>
+<li>Partner with business stakeholders to proactively identify, drive, and build improvements, enhancements, and system customization that solve business needs.</li>
+<li>Own and deliver new process updates and projects, including ideation, requirement gathering, build, support, maintenance, and success tracking.</li>
+<li>Identify, procure and manage technology tools required to drive efficiency and productivity on marketing, sales, and account management teams; partner with legal and information security to execute contracts and ensure compliance with security policies.</li>
+<li>Educate sales and marketing teams about process changes and opportunities to self-serve in Salesforce.com by leading in-person and online trainings</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Solid understanding of and detailed experience working with enterprise level Salesforce.com instance.</li>
+<li>In-depth understanding of the capabilities and constraints of the Salesforce.com CRM application coupled with good understanding of standard business processes (Sales, Marketing, Operations, etc.).</li>
+<li>Strong business analysis and functional understanding, including requirements gathering, creating/deploying solutions to end users.</li>
+<li>Strong problem-solving skills and ability to assess a problem and determine an effective course of action with sustainable solution.</li>
+<li>Excellent verbal/written communication skills, including an ability to effectively communicate with both business and technical teams.</li>
+<li>Excellent customer service skills, including strong ability to determine customer needs and provide appropriate solutions.</li>
+<li>Previous experience implementing and configuring Service Cloud, Health Cloud, Pardot, Marketing Cloud, and/or other customer support tools.</li>
+<li>Experience with Apex/Visualforce, JavaScript, HTML, CSS, etc.</li>
+<li>Strong understanding of Agile based development practices and Sprint planning strategies.</li>
+<li>Highly organized, detail oriented, and ability to work independently.</li>
+<li>Ability to handle competing priorities in a fast paced, deadline driven environment.</li>
+<li>Project management and/or business process management certification.</li>
+<li>Experience managing and triaging user submitted issues via ticketing system(s).</li>
+<li>Experience using Salesforce data tools (Data Loader, DemandTools, Eclipse Force.com IDE).</li>
+<li>Advanced Excel skills (Macro, Pivot Tables, VLookups).</li>
+<li>Experience working on iterative projects, and with deployment strategies/processes (staging environment vs. production).</li>
+</ul>
+<br>
+About Ring<br>
+<br>
+Ring's mission is to make neighborhoods safer by creating a Ring of Security around homes and communities with its suite of home security products and services. The Ring product line, along with the Ring Neighbors app, enable Ring to offer affordable, complete, proactive home and neighborhood security in a way no other company has before. In fact, two Newark, NJ neighborhoods saw an over 50 percent decrease in home break-ins after Ring Video Doorbells and Spotlight Cams were installed on 11% of homes in the communities from April-July 2018 when compared to the same time period in 2017. Ring is an Amazon company. For more information, visit www.ring.com. With Ring, you’re always home.<br>
+<br>
+Ring LLC is proud to be an equal opportunity employer and provides equal employment opportunities (EEO) to all employees and applicants without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity or genetics.</div>
+</div>

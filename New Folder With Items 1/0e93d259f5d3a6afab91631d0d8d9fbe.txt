@@ -1,0 +1,28 @@
+<h2>ARCHITECT</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Architects are talented and creative individuals who will play a leadership role in solution design and systems architecture. You will also be involved in understanding customer requirements and work with the team to design the most efficient solution. You will be actively engaged in a collaborative environment to develop fast iterative solutions. You will work in an open environment where you can freely express your ideas and work with an incredibly talented team. You will have an opportunity to refine your technical skills, get training on SAS solutions and add certifications to your personal portfolio.</b></p>
+<h3 class="jobSectionHeader"><b>
+WHAT YOU’LL DO</b></h3>
+<ul>
+<li>Lead systems integration and solution architecture.</li>
+<li>Provide guidance for data preparation, integration and resolve system performance issues.</li>
+<li>Conduct requirements gathering and develop systems architecture around the proposed solution.</li>
+<li>Participate in Pre-sales preparation</li>
+<li>Participate in project implementation services.</li>
+<li>Conduct technical requirements gathering and documentation.</li>
+<li>Develop advanced custom code to augment SAS software for client specific needs</li>
+</ul>
+<h3 class="jobSectionHeader"><b>WHAT YOU’VE DONE (DOES THIS DESCRIBE YOU?)</b></h3>
+<ul>
+<li>You have an Undergraduate and a Master’s degree in computer science or other quantitative field with computer science coursework/experience</li>
+<li>You have 5 to 8 years of experience including platform administration.</li>
+<li>You have high degree of literacy in the following areas: programming, data transformation and ability to manipulate large quantities of complex data</li>
+<li>You can work across multiple platforms (PC, UNIX, mainframe, etc.)</li>
+<li>You have familiarity with SAS, Access, VBA, HTML, etc.</li>
+<li>You have technical competence in at least one programming language using embedded SQL querying language</li>
+<li>You are enthusiastic about working collaboratively with internal and client teams</li>
+<li>You have excellent communication (written and verbal) skills and are comfortable talking through your ideas and work flow</li>
+<li>You can prioritize and handle multiple tasks with varying deadlines</li>
+<li>You have enthusiasm for learning new tools and solutions</li>
+</ul>
+</div></div>

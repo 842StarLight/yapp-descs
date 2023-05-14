@@ -1,0 +1,36 @@
+<h2>Salesforce Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Slalom is a modern consulting firm focused on strategy, technology, and business transformation. In 27 cities across the US, UK, and Canada, Slalom's teams have autonomy to move fast and do what's right. They're backed by seven regional innovation hubs, a global culture of collaboration, and partnerships with the world's top technology providers. Founded in 2001 and headquartered in Seattle, Slalom has organically grown to over 6,500 employees. Slalom was named one of Fortune's 100 Best Companies to Work For in 2016, 2017, 2018 and 2019 and is regularly recognized by employees as a best place to work.</p>
+<p>
+Job Title: Salesforce Solution Architect</p>
+<p>
+Responsibilities:</p>
+<ul><li>Translate business requirements into well-architected solutions that best leverage the Salesforce platform</li></ul>
+<ul><li>Lead design sessions; architect and document solutions that are aligned with client business objectives</li></ul>
+<ul><li>Oversee the delivery of custom development, integrations, and data migration elements of a Salesforce implementation</li></ul>
+<ul><li>Coordinate custom solutions and interfaces leveraging the Salesforce platform</li></ul>
+<ul><li>Manage technical scopes and client expectations</li></ul>
+<ul><li>QA and manage the execution of test plans to ensure a quality solution is delivered</li></ul>
+<ul><li>Demonstrate platform thought leadership</li></ul>
+<ul><li>Be a credible subject matter expert to clients and partners on sales cycles and marketing events</li></ul>
+<ul><li>Provide detailed estimates</li></ul>
+<ul><li>Coach and mentor junior resources; support configuration and development resources on Salesforce projects</li></ul>
+<p>
+Qualifications:</p>
+<ul><li>5+ years of Salesforce experience</li></ul>
+<ul><li>Proven ability to design and optimize business processes and integrate business processes across disparate systems</li></ul>
+<ul><li>Expert understanding of the Salesforce product suite including Sales Cloud, Service Cloud, and Community Cloud as well as commonly used AppExchange products</li></ul>
+<ul><li>Configuration experience using the Salesforce point-and-click developer interface</li></ul>
+<ul><li>Conversational about programmatic solutions on the Salesforce platform including Apex, Visualforce, and Lightning Components</li></ul>
+<ul><li>Experienced with data migration tools, e.g. Data Loader, and deployment tools, e.g. change sets, Copado, Gearset, et al.</li></ul>
+<ul><li>Strong background in design and development of enterprise systems as part of a complete software product lifecycle</li></ul>
+<ul><li>Familiarity with agile software delivery methodologies such as Scrum</li></ul>
+<ul><li>Functional and technical understanding of SaaS, PaaS, IaaS and other Cloud Computing Services is preferred</li></ul>
+<ul><li>Knowledge of integration architecture as well as third-party integration tools, e.g. Mulesoft, and ETL tools (e.g. Informatica, Jitterbit) with Salesforce</li></ul>
+<ul><li>Bachelor’s degree in a technical discipline, or an equivalent amount of work experience</li></ul>
+<p>
+Slalom is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
+</div>
+<div></div>
+</div>

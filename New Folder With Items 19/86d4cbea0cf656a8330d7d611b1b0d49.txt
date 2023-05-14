@@ -1,0 +1,100 @@
+<h2>Principal Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>You possess a deep understanding of platform design and implementation details and will successfully balance innovative and proven approaches to deliver on platform objectives. Your technical expertise and teamwork will position you as a key contributor and driver of the platform. You want to help define the future today using the latest in cloud technologies, graph databases, and IoT.</div>
+<div>
+<br>
+</div>
+<div>
+The future is being built today, and Johnson Controls is making that future more productive, more secure and more sustainable. We are harnessing the power of cloud, data analytics, the Internet of Things, and user design thinking to deliver on the promise of intelligent buildings and smart cities that connect communities in ways that make people’s lives – and the world – better.</div>
+<div>
+<br>
+</div>
+<div><b>
+What is Johnson Controls Digital Vault?</b></div>
+<div>
+<br>
+</div>
+<div>
+The Johnson Controls Digital Vault is a flexible, scalable, cloud-based platform that securely gathers, stores, and standardizes information for smart buildings. It uses state-of-the-art Artificial Intelligence (AI) and Machine Learning (ML) techniques to generate real-time actions that increase comfort and productivity of the occupants while reducing energy wastage in buildings.</div>
+<div>
+To learn more about Digital Vault, please visit the following links:</div>
+<div>
+https://www.johnsoncontrols.com/media-center/news/press-releases/2019/04/23/middle-east-sustainability-pioneer-bee-ah-selects-johnson-controls-microsoft-for-office-of-future</div>
+<div>
+<br>
+</div>
+<div>
+https://www.johnsoncontrols.com/-/media/jci/be/united-states/campaigns/digitalvault/bts_brochure_digitalvault.pdf</div>
+<div>
+<br>
+</div>
+<div><b>
+What you will do</b></div>
+<div>
+Johnson Controls Digital Vault is looking for a senior software engineer with a deep background in computer science, service-oriented architecture, and delivering consumer-facing offerings, software and features. As a senior engineer for the Digital Vault, you will collaborate with architecture, product management, and DevOps teams to design and deliver the best solutions with efficient use of resources and technologies. You will be a leader in development across our digital twin solutions, graph database, timeseries, and event platform.</div>
+<div>
+<br>
+</div>
+<div><b>
+How you will do it</b></div>
+<ul>
+<li> Plan, Develop, Test, and Document software for connecting devices and other software products to the JCI Cloud and Data Platform</li>
+<li> Enhance and assist with the operations of the JCI Cloud and Data Platform</li>
+<li> Work with other software developers to embed protocols and libraries in JCI products, and with our partner’s products</li>
+<li> Work with Product Management to define product features, and with our organization to communicate features to our sales channels, support organizations, and our customers</li>
+<li> Occasional travel will be required</li>
+</ul>
+</div>
+<p></p>
+<div>
+<b>
+Qualifications</b><div>
+</div>
+<div><b>
+What we look for</b></div>
+<ul>
+<li> BS in Computer Science/Electrical or Computer Engineer, or has a degree and demonstrated technical abilities in similar areas.</li>
+<li> Has strong written skills and the ability to effective communicate technical analyses and results to business management</li>
+<li> Strong Programming skills in C# or Java, and at least one additional language such as Python, Perl, R, Ruby, Scala, or server-side Javascript.</li>
+<li> Deep experience with SQL and multiple Relational Database Management Systems with non-trivial databases.</li>
+<li> Experience with graph store, document store and heterogeneous data indexing</li>
+<li> Demonstrable knowledge and skills with network programming and distributed systems</li>
+<li> Demonstrable knowledge and skills with security, authentication, and authorization in distributed systems and the web</li>
+<li> Experience with systems programming on Linux/Unix or Windows</li>
+<li> Hands-on experience with public clouds such as Microsoft Azure, Amazon Web Services, or the Google Cloud Platform.</li>
+<li> Experience with Big Data management systems such as Hadoop or Spark</li>
+<li> RESTful API Design</li>
+<li> Experience with Machine Learning/NLP/Data Science packages, and data toolkits such as Numpy/Pandas in Python or R</li>
+<li> Familiarity with front-end web development and single-page HTML5 applications</li>
+<li> Experience with HVAC or Industrial Controls systems</li>
+<li> Software development for embedded systems</li>
+</ul>
+<div>
+<br>
+</div>
+<div>
+Johnson Controls is a global diversified technology and multi industrial leader serving a wide range of customers in more than 150 countries. Our commitment to sustainability dates back to our roots in 1885, with the invention of the first electric room thermostat. We are committed to helping our customers win everywhere, every day and creating greater value for all of our stakeholders through our strategic focus on buildings.</div>
+<div>
+<br>
+</div>
+<div>
+Johnson Controls is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law. If you are an individual with a disability and you require an accommodation during the application process, please visit www.johnsoncontrols.com/tomorrowneedsyou</div>
+<div>
+<br>
+</div>
+</div>
+<p></p>
+<p><b>
+Job</b> Engineering</p>
+<p><b>
+Primary Location</b>US-WI-Milwaukee</p>
+<p><b>
+Organization</b> Bldg Technologies &amp; Solutions</p>
+<p><b>
+Overtime Status</b><b>-</b>Exempt</p>
+</div>
+<p></p>
+</div>

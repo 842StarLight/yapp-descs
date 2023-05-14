@@ -1,0 +1,80 @@
+<h2>Engineer I (L7)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div>Engineer I (L7)</div></div>
+<div>
+Description<div>
+</div>
+<div>
+When you join Daimler, you become an agent of change within our global community of people working to create a cleaner, safer, and more efficient world for today and tomorrow. Through innovation at all levels, our teams ensure our world-changing brands continue to increase the quality of life and the business success of our customers, their customers, and the world around them. The Daimler Trucks North America (DTNA) brand portfolio is second to none, and includes Freightliner Trucks, Western Star Trucks, Detroit engines and components, Thomas Built Buses and Freightliner Custom Chassis.<br>
+<br>
+We are the undisputed leader in the commercial vehicle market and the industry’s technology trendsetter. Empowered by purpose, DTNA employees drive a Technology Revolution through innovative products and a customer-centric culture. Our dedication to our customers and society does not end once our products hit the road. That’s because we believe that business success and social responsibility go hand in hand. We immerse ourselves in our customer’s experience, and support the environmental responsibilities of our sites to ensure our products are the reliable, sustainable and the desired tools of the future.<br>
+<br>
+Job Overview<br>
+<br>
+Mechatronics combines mechanical and controls engineering, software design, electronics hardware, sensors, and electrical harnesses to ensure the safest most technically advanced trucks on the roads. Within Mechatronics, members of the architecture team are true commercial vehicle engineers, owners of mechatronics technical roadmap, liaisons between feature owners and the trucking industry to ensure seamless feature integration, homogenously across vehicle platforms</div>
+<div>
+<br>
+Responsibilities</div>
+<ul>
+<li><div>
+The creation and maintenance of the Vehicle Messaging Matrix (VMM) through the use and administration of X-tools.<br>
+</div></li>
+<li><div>Active member of the global VMM networking group and participation within SAE’s networking committee.<br>
+</div></li>
+<li><div>Owner of one of the following CAN (controller area network) Buses; J1939 500k, J1939 250k, Diagnostic, Cabin, HMI CAN, Exterior CAN, or Chassis CAN.<br>
+</div></li>
+<li><div>Ownership entails the development of specification for the CAN, creation and release of physical wiring, charts and bills for all product lines.<br>
+</div></li>
+<li><div>Hardware in the loop (HIL) and product validation engineering (PVE) interface for major projects including; Technical liaison between integration testing/vehicle build-up, component owner and feature owner.<br>
+</div></li>
+<li><div>Sales/Marketing/Engineering platform management interface for major projects to define scope and dictate architecture for a given project.<br>
+</div></li>
+<li><div>Major task include: Review Product Definition, develop feature impact list by PAR, software maturity plan, and feature partitioning.<br>
+</div></li>
+<li><div>Global member of the next generation electrical architecture team.<br>
+</div></li>
+<li><div>Team member will be responsible for introducing both Ethernet and CAN FD into our vehicle platforms, ECU placements within a Domain, and the creation of an ethernet test bench.</div></li>
+<li><div>
+Contributor with the introduction of DOORs NG and our feature specification process</div></li>
+</ul>
+<div>
+</div>
+</div>
+<div>
+Qualifications<div>
+</div>
+<ul>
+<li><div>Bachelor’s Degree from an accredited university/college required</div></li>
+<li><div>
+Successful experience overseeing projects that interface with multiple engineering disciplines required<br>
+</div></li>
+<li><div>Ability to understand, analyze, and troubleshoot vehicle electrical systems required<br>
+</div></li>
+<li><div>Excellent verbal, written, and presentation skills required<br>
+</div></li>
+<li><div>CAN Protocols and Tools required<br>
+</div></li>
+<li><div>Mathlab, Feature Modeling, and rapid prototyping hardware to ensure features specification are well documented and accurate preferred</div></li>
+<li><div>An attached resume is required</div></li>
+</ul>
+<div>Additional Information</div>
+<ul>
+<li><div>Applicants must be legally authorized to work permanently in the U.S. at the time of application</div></li>
+<li><div>Final candidate must successfully complete a pre-employment drug screen and criminal background check</div></li>
+<li><div>EEO/Minorities/Females/Disabled/Veterans</div></li>
+</ul>
+<br>
+<div></div>
+<div>
+For an accommodation or special assistance with applying for a posted position, please contact our Human Resources department at 503-745-8982 or toll free 800-206-3369. For TTY/TDD enabled call 503-745-2137 or toll free 866-355-6935.</div>
+<div>
+<br>
+</div>
+</div>
+<div>
+Organization : Daimler Trucks North America LLC<div>
+</div>
+Primary Location : United States of America-Oregon-Portland<div>
+</div>
+Work Locations : 4555 North Channel Ave 4555 North Channel Ave Portland 97217</div>
+</div></div>

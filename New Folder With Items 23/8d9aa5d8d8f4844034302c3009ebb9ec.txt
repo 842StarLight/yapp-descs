@@ -1,0 +1,38 @@
+<h2>Technical Writer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Platform Technical Writer Job Description:</p>
+<p>We are launching an internal enterprise customer service, sales and marketing platform across all Prudential business units. The platform is a reusable, customizable, API and template driven enterprise platform solution integrated on top of Salesforce. Prudential business units, will extend and customize the core platform offering, with BU specific agent screens, workflows and permissions using, configuration, APIs, SDKs and templates. We are looking for a Technical Writer to produce high-quality developer and API documentation, integration guides, tutorials, training videos and sample projects hosted on a platform portal. You will work collaboratively with developers, quality engineers, product managers, and the usability team on designing the overall information architecture, document types and content for easy-to-use and effective platform documentation.</p>
+<p>Responsibilities:</p>
+<p>Work with internal teams to obtain an in-depth understanding of the product and the documentation requirements..</p>
+<p>Write detailed developer and configuration guides, sample codes, and API reference docs.</p>
+<p>Produce high-quality documentation that is appropriate for its intended audience.</p>
+<p>Create tutorials to help end-users use a variety of applications.</p>
+<p>Analyze existing and potential content, focusing on reuse and single-sourcing opportunities.</p>
+<p>Create and maintain the platform training content information architecture.</p>
+<p>Requirements:</p>
+<p>Proven working experience in writing API, SDK and Developer guides, product documentation and online publishing.</p>
+<p>Ability to deliver high quality documentation paying attention to detail.</p>
+<p>Ability to quickly grasp complex technical concepts and make them easily understandable in text and pictures and online assets..</p>
+<p>Excellent written skills in English.</p>
+<p>High degree of initiative to seek out information for the documents.</p>
+<p>Ability to manage multiple competing priorities in a fast-paced, agile environment.</p>
+<p>Web Development background is desirable.</p>
+<p>Confluence and SharePoint experience is required.</p>
+<p>Familiarity with Salesforce and CRM systems is desired.</p>
+<p>Strong familiarity of SDLCs and agile software development.</p>
+<p>University degree in Computer Science, Engineering or equivalent preferred.</p>
+<p>Job Types: Full-time, Contract</p>
+<p>Experience:</p>
+<ul>
+<li>relevant: 8 years (Required)</li>
+<li>Technical Writing: 8 years (Required)</li>
+</ul>
+<p>Full Time Opportunity:</p>
+<ul><li>Yes</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul><li>Health insurance</li></ul>
+<p>Schedule::</p>
+<ul><li>Monday to Friday</li></ul>
+</div>

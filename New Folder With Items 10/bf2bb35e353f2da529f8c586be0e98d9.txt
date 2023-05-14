@@ -1,0 +1,105 @@
+<h2>SFDC Administrator/ Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Job Description</b><br>
+<p><b>How will you make an impact?</b><br>
+<br>
+This role is designed to provide the technical expertise to drive CRM solutions aligned with Thermo Fisher Scientifics strategic objectives. This position will see you involved in all aspects of the instance from addressing urgent issues to being involved in the realization of enhancements and large scale projects using your in depth technical knowledge to deliver scalable solutions within the agreed SLA’s. You will be comfortable reviewing requirements and clarifying them with your business partners providing guidance where necessary.</p>
+<p></p>
+<p><b>
+What will you </b><b>do?</b><br>
+<br>
+Business partner / advisor within MOB Technical support for large global SFDC instance. Work with Business and technical teams. S/he will be responsible to provide accurate solutions and recommendations to the user community regarding urgent requests, enterprise wide and mid-level projects. S/he will be responsible for maintaining the functional areas of data integrity and object management; troubleshooting daily requests/issues of the system along with training colleagues end users globally on all processes.<br>
+<br>
+<b>How will you get here?</b><br>
+<b>Education</b></p>
+<ul>
+<li>
+Bachelors Degree in Computer science, Engineering or related field of study</li>
+<li>
+Salesforce Architect, Developer and/or Advanced Developer certification preferred</li>
+</ul>
+<p></p>
+<p><b>
+Experience</b></p>
+<p></p>
+<p>
+An experienced SFDC developer with hands-on experience in design, development and implementation of solutions. Ability to work with cross-functional teams to document requirements, design solutions and develop integrations is required. Candidate should be familiar with SDLC methodologies including version control, unit testing, integration testing and codebase promotion across environments. Candidate should be able to work with teams that are spread across multiple timezones in a fast-paced organization.</p>
+<p></p>
+<p>
+Overall SFDC experience.</p>
+<ul>
+<li>
+Business Analyst experience preferred.</li>
+<li>
+Excellent communication skills, both written and oral, and the ability to work effectively across global teams and multiple functions</li>
+<li>
+Understanding of databases and customer relationship management tools required.</li>
+<li>
+Time management, ability to multitask, and propensity to handle urgent interruptions with poise and professionalism.</li>
+<li>
+Excellent analytical, process design and problem solving skills</li>
+<li>
+General knowledge of sales principles and/or experience dealing with a remote sales force a plus; training experience a plus.</li>
+<li>
+Comfortable navigating ambiguity and demonstrate the ability to manage multiple initiatives effectively</li>
+<li>
+Hands on experience and understanding with Visualforce, Apex, Java, HTML, XML, SQL, CSS, and REST-based web services</li>
+</ul>
+<p></p>
+<p><b>
+Knowledge, Skills, Abilities</b></p>
+<ul>
+<li>
+Solve problems, solve challenging problems, and solve challenging problems that no one else can</li>
+<li>
+Learn and evaluate the full breadth of available Salesforce and complementary technologies</li>
+<li>
+Leading customer discussions recommending technologies and approaches for the benefit of our clients</li>
+<li>
+Design and develop solutions on the Salesforce.com platform, using Apex programming language</li>
+<li>
+Build out Salesforce platform to ensure productivity and enhance customer experience</li>
+<li>
+Identify complex problems and create solutions to resolve them</li>
+<li>
+Full lifecycle implementation experience</li>
+<li>
+Technically inclined with Service Cloud, Sales Cloud, and Community Cloud</li>
+<li>
+Proven experience with Lightning</li>
+<li>
+Support the maintenance of the CRM structure in Salesforce.com:<ul>
+<li>
+User roles</li>
+<li>
+Security</li>
+<li>
+Permission profiles and Territory Alignment</li>
+<li>
+Workflow rules</li>
+<li>
+Process/dialogs</li>
+<li>
+Troubleshooting</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+Serve as resource for ensuring data integrity and ongoing facilitation of data cleansing as needed via various means, including but not limited to utilizing native CRM tools such as merges and de-duplication tools, as well as creating views/reports as needed for staff review</li>
+<li>
+Perform systematic CRM updates as needed including bulk edits using DataLoader, record reassignments, back-end updates, etc. to ensure CRM information is kept current.</li>
+<li>
+Maintain training and knowledge of new product features, as they are launched with SFDC new product releases.</li>
+<li>
+Maintain system metrics to track trends in usage and data integrity</li>
+<li>
+Deliver rapid resolution to business challenges and technical issues; identify and implement application solutions, enhancements and system integrations</li>
+<li>
+Coach and mentor more junior developers</li>
+</ul>
+<br>
+If you are an individual with a disability who requires reasonable accommodation to complete any part of our application process, click here for further assistance.
+<p></p>
+<p>Thermo Fisher Scientific is an EEO/Affirmative Action Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.</p>
+</div></div>

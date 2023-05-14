@@ -1,0 +1,82 @@
+<h2>Senior Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div>
+<div><div><div><div><div><div><div><div><h1 class="jobSectionHeader">
+<b>Careers</b><b>
+</b>
+</h1></div></div></div></div></div></div></div></div>
+<div><div><div><div>
+<div><div>
+<div><div><h3 class="jobSectionHeader">
+<b>Senior Salesforce Developer</b><b>
+</b>
+</h3></div></div>
+<p></p>
+<div><div><div><p>The ideal candidate will have a deep knowledge of Salesforce administration (accounts, contacts, leads, opportunities etc.) and custom objects, and have a background in a mortgage/finance company.
+</p></div></div></div>
+</div></div>
+<p></p>
+<div><div><div><div>
+<p>Velocity seeks a Senior Salesforce Developer who will be responsible for configuring and maintaining the company’s Salesforce.com support functions, customization, integration with other systems and performing additional administrative tasks related to overall reporting and business intelligence.</p>
+<p>
+This position requires a well-qualified and experienced Salesforce.com Architect/Developer, who is good at developing ideas and strategies and turning them into tactics and actions. The Senior Salesforce Developer must be able to communicate new technologies and processes and help develop and implement designs to solve business problems.</p>
+<p>
+The ideal candidate will have a deep knowledge of Salesforce administration (accounts, contacts, leads, opportunities etc.) and custom objects. Experience with nCino, or Mortgage/Finance background a plus.</p>
+<p>
+This position is a full-time, salaried position based in our Westlake Village headquarters.</p>
+<h4 class="jobSectionHeader"><b>
+Duties and Responsibilities</b></h4>
+<ul>
+<li>Responsible for overall application system analysis, design and development</li>
+<li>Responsible for end to end system updates for SF, nCino and other managed packages including but not limited to sandbox installation, extensive testing, production deployment, test class and support</li>
+<li>Write Apex code, JavaScript code, and Lightning components for the Salesforce platform</li>
+<li>Implement changes with applications; test those changes to ensure accuracy; and work with the sales and operations departments to accept, deploy and communicate new solutions</li>
+<li>Analyze business requirements, procedures, and problems and then apply sound technological concepts and provide logical solutions to each (i.e. identify, recommend and resolve)</li>
+<li>Strategize and implement new and evolving IT solutions for the company’s future requirements</li>
+<li>Knowledge of Salesforce managed packages is a plus</li>
+<li>Experience in delivering IT applications through software development life cycles</li>
+<li>Drive architecture discussions and prepare the architecture including all SFDC integration components</li>
+<li>Maintain the highest quality data in Salesforce.com</li>
+<li>Manage relationships and projects to support revenue growth, process efficiencies and CRM best practices</li>
+<li>Deliver rapid resolution to business challenges and technical issues; identify and implement Salesforce.com enhancements as needed</li>
+<li>Provide day-to-day support of the CRM application to all levels of the organization</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Required Skills and Experience</b></h4>
+<ul>
+<li>3+ years of professional Force.com platform experience</li>
+<li>Platform: APEX programming, Lightning Components, VisualForce pages, Classes, Controllers, Triggers, Data Loader, AppExchange, Web Services, Components, Custom Objects, Workflows &amp; Approvals, Dashboards, Reports, Analytic Snapshots, etc.</li>
+<li>Process Builder and Flows experience</li>
+<li>Proficient in Lightning Experience and Component Building</li>
+<li>Salesforce architecture and integrations with 3rd party applications</li>
+<li>5+ years’ of relevant IT experience in system analysis, design and development.</li>
+<li>3+ years professional experience in application/software development. Familiarity with C#, Java, JS in particular is a plus. Any front-end web framework experience like angular is a plus.</li>
+<li>Ability and experience integrating with outside platforms via REST APIs</li>
+<li>Proficient knowledge of Governor limits and experience in optimization of existing code in accordance to the governor limits</li>
+<li>Knowledge of Force.com development best practices and design patterns</li>
+<li>Ability to identify and triage task importance and prioritize accordingly, while communicating resource allocation and constraints</li>
+<li>A fast learner with excellent project management skills who is confident, responsible, and likes new challenges</li>
+<li>Highly organized, flexible in a changing environment, deadline driven and able to handle multiple tasks effectively</li>
+<li>Experienced in handling data migration using data loader in SFDC environments</li>
+<li>Knowledge of testing tools and techniques to write scripts and set up test environment for development and Integration environments</li>
+<li>Ability to work independently to meet project requirements with minimal supervision</li>
+<li>Ability to present ideas and information in group settings</li>
+<li>Able to function effectively within a creative, somewhat chaotic, fun and hard-working environment</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Education Requirements</b></h4>
+<ul>
+<li>Bachelor’s degree in Computer Science, Business or a related field</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Certificates and Licenses</b></h4>
+<ul>
+<li>Salesforce Certification</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Perks</b></h4>
+<p>Our benefits package includes medical, dental and vision insurance without having to wait 90 days. Benefits kick in on the first day of the month following 30 days of employment. We offer 401K match and multiple paid holidays.</p>
+<h4 class="jobSectionHeader"><b>
+Bonus Perks</b></h4>
+<p>Stand up desks, stocked café with endless coffee and tea available, as well as healthy snacks and cold drinks.</p>
+</div></div></div></div>
+</div></div></div></div>
+</div></div>
+<p></p>
+</div>

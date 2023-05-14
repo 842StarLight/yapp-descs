@@ -1,0 +1,218 @@
+<h2>WMS Manager - System Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div><div>Are you looking to make a difference in a patient’s life? At AmerisourceBergen, you will find an innovative culture that is patient focused and dedicated to making a difference. As an organization, we are united in our responsibility to create healthier futures.<br>
+</div></div>
+<div></div>
+<div>What you will be doing<div>
+Under the general direction of the Warehouse Systems/Operations (WSO) Director assists with the implementation of the Warehouse Systems/Operations software manages the post-implementation operation of the software in an assigned divisional territory and assists with other territories as needed. (Note WSO applications includes but is not limited to: PkMS (WM) Slot Optimization (SO) WorkInfo (LM) Supply Chain Intelligence (SCI) Extended Enterprise Management (EEM) Jira and Confluence).</div>
+<div></div>
+<br>
+<div><b>
+Implement:</b></div>
+<ul>
+<li>Assists in the development and coordination of various schedules and ensures DC participation in required project tasks.</li>
+<li>Manages performs and coordinates DC tasks related to go-live preparation including but not limited to: site prep configuration testing training cut-over planning and go-live support.</li>
+<li>Projects could include the initial deployment of the WSO software upgrades or significant new functionality being deployed such as Track and Trace manifesting PMA reports/dashboards and SlotInfo/LM integration.</li>
+<li>Acts as primary facilitator between the DC and the corporate implementation team for operational process meetings functional gap analysis and configuration requirements.</li>
+</ul>
+<div><b>
+Manage:</b></div>
+<ul>
+<li>Responsible for the consistent utilization and performance of the WSO applications to adhere to AmerisourceBergen principles and practices or local business requirements.</li>
+<li>Ensures that supervisory and system activities are getting completed in a timely manner; includes but not limited to: a) work tasks completed using standard processes b) system process or data exceptions are identified and resolved and c) routine data or configuration maintenance.</li>
+<li>Responsible for set-up and utilization of system enhancements functionality reports/queries and processes.</li>
+<li>Provides on-going leadership and training to DC management on proper work processes and functionality.</li>
+<li>Develops contingency plans for the divisions in the event of WSO application issues or outages to mitigate operational disruption.</li>
+<li>Manages the Change Control log and SOX compliance for the WSO application operation.</li>
+<li>Creates management tools to best manage the WSO applications and shares such tools with other WSO Managers.</li>
+<li>Responsible for systems management of all WSO software applications.</li>
+</ul>
+<div><b>
+Monitor:</b></div>
+<ul>
+<li>Identifies and communicates issues which impact cost configuration schedule and operation of WSO applications.</li>
+<li>Monitors key metrics and performs periodic audits of system configuration and operational processes; develops and implements action plans for improving any unsatisfactory results.</li>
+<li>Monitors inventory sync reports and investigates discrepancies for root causes.
+</li>
+<li>Ensures that PkMS configurations support desired WorkInfo engineered standards Standard Operating Procedures Slot Optimization requirements and SCI/reporting requirements.</li>
+<li>Provides issue/status reporting as appropriately assigned by the WSO Director.</li>
+</ul>
+<div><b>
+Support:</b></div>
+<ul>
+<li>Provides ongoing functional and system support acting as first level support for DC Supervisors and Management; including but not limited to periodic after-hours support routine on-site visits to other sites within primary territory (minimum of 4 days ever 2 months) and periodic on-site visits to sites outside primary territory for activities such as go-live physical inventory and emergency support.</li>
+<li>Executes the necessary WSO application configurations and functionality to manage physical inventories in the local territory working with the division management as required.</li>
+<li>Assumes leadership and ownership of assigned issues and tasks through completion.</li>
+<li>Conducts WSO system enhancement and business scenario testing as required.</li>
+<li>Identifies investigates and resolves WSO application/technical issues.</li>
+<li>Interacts with operational users to answer questions and to ensure that they understand how to use the system to complete their job functions.</li>
+<li>Acts as liaison between distribution center management and other parties involved in WSO applications including IT/IBM and other AmerisourceBergen teams.</li>
+<li>Supports implementation of new WSO application releases and modifications.</li>
+<li>Supports WSO application implementations at other ABC locations as needed.</li>
+<li>On a weekly rotating basis with other WSO Managers provides on-call support for the ABDC distribution centers running the WSO applications (inside and outside the local territory).</li>
+</ul>
+<div><b>
+Improve:</b></div>
+<ul>
+<li>Identifies opportunities for system or process improvement.</li>
+<li>Provides input concerning needed/desired system functionality processes interfaces and enhancements.</li>
+<li>Defines requirements for system or operational process improvements.</li>
+<li>Collaborates with other WSO Managers to compare and develop best practices functionality and metrics.</li>
+</ul>
+<div><b>
+Slot Optimization Specific Duties:</b></div>
+<ul>
+<li>Responsible for ensuring product is stored and arranged in locations that optimize total production efficiencies to include order fulfillment put away and replenishment tasks; location types include but are not limited to static shelving carton flow rack A-Frames and case pick-to-belt modules.</li>
+<li>Ensures that put away and picking rules are in sync with the desired slotting profile.</li>
+<li>Utilizing the “Slot Optimization” software tool and other user-created queries/tools define requirements for existing or projected storage configurations and provides item placement/move reports to facilitate product movement.</li>
+<li>Working with applicable warehouse departments creates business goals objectives and constraints to configure the Slot Optimization tool to drive optimal and obtainable slotting results.</li>
+<li>Comprehends the Slot Optimization software tool reports and PkMS reports in order to make sound operational storage decisions and facility rework decisions as necessary.</li>
+<li>Executes PkMS functionality in order to update and retrieve data within the Slot Optimization software.</li>
+<li>Plans coordinates and schedules the various slotting inventory moves to maximize operational results and minimize operational cost and disruption.</li>
+<li>Develops and implements new processes and procedures when necessary; develops recommended changes to PkMS rules to optimize warehouse performance.</li>
+</ul>
+<div><b>
+Other:</b></div>
+<ul>
+<li>Manages repository of information.</li>
+<li>Owner of site specific documentation such as operations guide system configuration issue tracking and change control.</li>
+<li>Complies with all appropriate policies procedures safety rules and regulations.</li>
+<li>Interacts directly with divisional management resources such as the Operations Manager Inventory Control Manager and Vice President / Distribution Center Manager.</li>
+<li>Interacts directly with other AmerisourceBergen management.</li>
+<li>Must be able to work overtime when necessary.</li>
+<li>Performs related duties as assigned.</li>
+</ul>
+<div><b>
+If in a Lead WSO Manager role performs the additional duties and responsibilities:</b></div>
+<div><b>
+Manages WSO Managers:</b></div>
+<ul>
+<li>Ensures that WSO Managers are sufficiently supporting their assigned divisions.</li>
+<li>Ensures that WSO Managers are recording tracking and addressing division WSO issues and needs in a timely manner. Resolve gaps and/or escalate gaps to higher management as necessary.</li>
+<li>Ensures that WSO Managers are conducting site visits to their assigned remote sites in an acceptable periodic time schedule.</li>
+<li>Ensures that WSO Managers are deploying new WSO functionality as it becomes available and in a timely manner.</li>
+<li>Tracks and manages the overall WSO Manager weekly schedule of business-as-usual and special projects.</li>
+<li>Communicates with VPDCMs on a periodic basis to obtain their feedback about the WSO Manager process and performance.</li>
+<li>Conducts annual performance reviews and performance plans with WSO Managers.</li>
+<li>Ensures that division physical inventories are sufficiently supported.</li>
+</ul>
+<div><b>
+Proactive management of multiple WSO Territories:</b></div>
+<ul><li>Collaborates with other Lead WSO Managers to share and address standardization processes best practices iss</li></ul>
+<div></div>
+<br>
+<div><b>
+#LI-AW1</b></div>
+<div>
+<br>
+</div>
+</div>
+<div>
+What your background should look like (minimum qualifications)<div>
+Requires broad training in fields such as business administration accountancy sales marketing computer sciences or similar vocations generally obtained through completion of a four year bachelor’s degree program or equivalent combination of experience and education; normally requires a minimum of four (4) years directly related and progressively responsible experience; previous exposure to PkMS or other WMS package(s) required; experience in warehouse operations preferred.</div>
+<ul>
+<li>
+Detailed understanding of PkMS or equivalent WMS configuration and functionality within a complex and/or automated environment</li>
+<li>
+Demonstrated strong aptitude for PkMS or equivalent WMS configuration and application functionality</li>
+<li>
+Demonstrated understanding of how complex integrated systems interact to impact business results</li>
+<li>
+Demonstrated excellent analytical and problem solving skills including root cause analysis; ability to prove root cause through factual data analysis</li>
+<li>
+Familiarity with AS400 or equivalent environment such as Command line usage such as wrkjob wrksplf workoutq Work-query QM-Query and SQL; ODBC FTP transfer to/from AS400</li>
+<li>
+Familiarity with reporting tools such as Cognos or Business Objects</li>
+<li>
+Working knowledge of the following Manhattan Associate's software preferred: Warehouse Management Slotting Optimization Labor Management Supply Chain Intelligence Extended Enterprise Management</li>
+<li>
+Strong organizational skills; attention to detail</li>
+<li>
+Ability to resolve issues effectively and efficiently and prevent reoccurrence</li>
+<li>
+Strong written verbal and interpersonal communication skills</li>
+<li>
+Ability to articulate technical concepts to operational associates in simplified terms</li>
+<li>
+Demonstrated ability to plan and manage projects</li>
+<li>
+Ability to work independently with minimal direct supervision</li>
+<li>
+Strong decision making skills</li>
+<li>
+Strong proficiency with MS Office suite of products especially Excel or Access</li>
+<li>
+Ability to plan and conduct effective meetings</li>
+<li>
+Ability to train motivate and direct the work of others from both an on-site and remote capacity</li>
+<li>
+Working knowledge of AmerisourceBergen business processes preferred</li>
+<li>
+Experience with de-bugging RPGLE programs preferred</li>
+<li>
+Experience in warehouse operations preferred</li>
+<li>
+Knowledge of RF equipment and WMS printers and PC servers and MS-SQL server preferred</li>
+<li>
+Knowledge of Team Site web server beneficial</li>
+<li>
+Lean or Six-Sigma skills preferred</li>
+<li>
+Willing to travel up to 33% of the time</li>
+</ul>
+<div>
+</div>
+</div>
+<div>
+What AmerisourceBergen offers<div>
+We offer competitive total rewards compensation. Our commitment to our associates includes benefit programs that are comprehensive, diverse and designed to meet the various needs across our associate population.
+</div>
+<ul>
+<li>Healthcare for associates and eligible dependents, same-sex and domestic partners</li>
+<li>Paid time off, including vacations and holidays</li>
+<li>Paid volunteer time off</li>
+<li>Life insurance and disability protection</li>
+<li>Pet insurance</li>
+<li>Employee Stock Purchase Program</li>
+<li>Retirement benefits and more…</li>
+</ul>
+<div>
+<div>Throughout our global footprint and various business units, we take a balanced approach to the benefits we offer. Many benefits are company-paid, while others are available through associate contributions. Specific benefit offerings may vary by location, position and/or business unit.<br>
+</div>
+</div>
+</div>
+<div></div>
+<div>About AmerisourceBergen<div>
+AmerisourceBergen is a publicly traded Fortune 10 global healthcare solutions company and is one of the world's largest pharmaceutical services companies. Powered by our associates around the world, we provide pharmaceutical products and business solutions that improve access to care. We operate the backbone of the healthcare supply chain. We drive the future of local care delivery. We guide medical innovations to market. We create healthier futures.<br>
+</div>
+</div>
+<div></div>
+<div>Primary LocationUnited States-Illinois-Romeoville<div>
+</div>
+</div>
+<div>
+W Taylor 1001 W Taylor Rd Romeoville 60446<div>
+</div>
+</div>
+<div>
+Other LocationsUnited States-Colorado-Denver, United States-Minnesota-Shakopee, United States-Indiana-Whitestown<div>
+</div>
+</div>
+<div>
+OrganizationDrug Corporate Operations<div>
+</div>
+</div>
+<div>
+JobOperations Jobs<div>
+</div>
+</div>
+<div>
+ScheduleFull-time<div>
+</div>
+</div>
+<div>
+Equal Opportunity Employer/Minority/Female/Disability/Veteran</div>
+</div>
+</div>

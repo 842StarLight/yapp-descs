@@ -1,0 +1,87 @@
+<h2>Senior Principal Engineer, Solutions Architecture</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Senior Principal Engineer, Solutions Architecture</p>
+<p>
+Location: Remote California (LA COunty Area)</p>
+<p>
+Dell provides the technology that transforms the way we all work and live. But we are more than a technology company — we are a people company. We inspire, challenge and respect every one of our over 100,000 employees. We also provide them with unparalleled growth and development opportunities.</p>
+<p>
+Dell is a collective of customer-obsessed, industry-leading visionaries. At our core is a commitment to diversity, sustainability and our communities. We believe in working together to build a brighter future, celebrating the entrepreneurial spirit that lives inside us all, and marrying innovation with action. Dell is proud to offer unparalleled growth and development opportunities for our team members. We believe that technology is essential for driving human progress, and we’re committed to providing that technology to people and organizations everywhere, so they can transform the way they work and live.<br>
+</p>
+<p>
+Summary of Duties:</p>
+<ul>
+<li>
+The Senior Principal Engineer, Solutions Architecture is a lead technical expert responsible for the delivery of the technical architectural design, strategies and implementation design plans that will be delivered in the engagement and works with internal team and customers to develop the Implementation plan.</li>
+<li>
+Responsible for participating in the vetting of proposals that address current and evolving client requirements. Assists presales engineers in the development of solutions based on a customer's strategic business or technical requirements.</li>
+<li>
+Supports the design and development of the technical content defined in the Statement of Work. Designs the Dell technologies solution and supports the installation, customization and integration of the solution. Integrates multiple technologies and applications within a specific customer solution.</li>
+<li>
+Leads requirements gathering for project engagements. May supervise staff on project engagements in large projects where many technical people may be involved. Provides technical leadership during the implementation of an engagement. Participates in the installation, customization, and integration of a Dell technologies solution.</li>
+<li>
+Leads project quality assurance activities, including performing technical QA reviews on components for a team and performing QA reviews of code documentation.</li>
+<li>
+Helps to identify and leverage Dell EMC and Partner Resources in order to satisfy the technical needs and objectives of the implementation.</li>
+<li>
+Assists the Dell EMC Project Manager in the planning of the engagement and provide oversight to ensure all required subject matter experts and required solutions architects are engaged and participating in the solution delivery and that there are no gaps in the overall solution. Takes a holistic view of the project or program and examines dependencies between various business units to ensure all parties are collaborating on the solution delivery.</li>
+<li>
+Experience with communicating and building key relationships with stakeholders, up to and including Manager and Director Levels.</li>
+<li>
+May be responsible for implementation of the technical designs in areas of expertise including virtualization (VMware), network and software defined storage in Converged or Hyperconverged products. Expert level knowledge in one domain, with deep knowledge in multiple domains is required</li>
+<li>
+Maintains awareness of existing or potential customer software/hardware situations. Proactively alerts project management and sales team of potential problems and solutions</li>
+<li>
+Stays current on technical specifications for hardware/software requirements of Dell technologies and industry products through professional associations, trade journals, networking and associated training and seminars. Responsible for sharing information and best practices with others. Continuing education as it relates to existing and forthcoming Dell EMC products and solutions is a must.</li>
+<li>
+Develops and cultivates strong customer relationships ensuring a 'customer for life' relationship. Holds responsibility for achieving the Dell technologies Bar of Excellence as the highest level of Customer Satisfaction for every customer. Develops strategies, policies and best practices for the customer</li>
+<li>
+Regularly serves as a post- sales support specialist through the development of materials and by presenting simple solutions to prospective clients as a subject matter expert</li>
+<li>
+Is expected to identify additional opportunities within current customer relationships</li>
+<li>
+Consult with external customers and implement new Dell EMC Converged and Hyperconverged systems and/or replace existing systems</li>
+<li>
+Operate independently (minimal to no supervision) and is self-motivated in developing technical designs within Dell EMC CI/HCI platforms division</li>
+</ul>
+<p>
+Required Technical Skills:</p>
+<ul>
+<li>
+Minimum of 8-10 years of professional experience as a Systems Engineer or related role and a Bachelor’s degree in information technology or Computer Science</li>
+<li>
+Hands on experience with DELL EMC and/or Vendor storage and host-based technologies</li>
+<li>
+Experience with: Cisco UCS; REST API; Ansible; Python; PowerShell; VMware; General Networking Layer 2; Converged Platform; and Hyperconverged Platform. VxRail, VxRack Flex 1000, VxBlock 1000, VMware vSphere, VMware Cloud Foundations on VxRail, and VMware Validated Designs on VxRail platform</li>
+<li>
+Demonstrated knowledge of LAN/WAN technologies including SNMP, IP, Layer-3, as well as, Enterprise Class Storage Area Networking experience (FiberChannel Directors and Switches, zoning, multipathing, etc.)</li>
+<li>
+Knowledge of Linux, and/or UNIX system administration concepts including network administration (NTFS/CIFS/NFS)</li>
+<li>
+Experience communicating to, and building key relationships with stakeholders, up to and including Manager and Director Levels, as well as, leading and driving collaboration between multiple operational teams and project teams to produce desired outcomes</li>
+<li>
+Prior experience with implementation/support of IT projects related to infrastructure solutions with experiences in technical architecture, research, design and implementation</li>
+<li>
+Comfortable with travel. Travel requirements for this job could be up to 50%</li>
+</ul>
+<p>
+Preferred Skills and Experience:</p>
+<ul>
+<li>
+Master’s degree in information technology or computer science</li>
+<li>
+Demonstrated VMware vRealize Suite experience is a plus</li>
+<li>
+Pre-sales / consultancy experience</li>
+</ul>
+<p>
+Benefits:</p>
+<p>
+We offer highly competitive salaries, bonus programs, world-class benefits, and unparalleled growth and development opportunities — all to create a compelling and rewarding work environment.<br>
+<br>
+If you share our passion for data and you’re keen to play a key role in driving progress, this is your opportunity to develop with Dell.<br>
+<br>
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Learn more about Diversity and Inclusion at Dell here.</p>
+<div>Job Family: Engineering Services Professional-Services</div>
+<div>Job ID: R040933</div>
+</div></div>

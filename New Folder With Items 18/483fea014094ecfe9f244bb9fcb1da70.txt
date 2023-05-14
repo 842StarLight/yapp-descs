@@ -1,0 +1,65 @@
+<h2>Sr. Data & Analytics Customer Delivery Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>Bachelor’s degree, or equivalent experience, in Computer Science, Engineering, Mathematics or a related field</li>
+<li>Experience leading a team of Data Engineers/Data Architect consultants</li>
+<li>Experience delivering business value to customers with Data Analytics solutions</li>
+<li>5+ years Hands-on experience leading the design, development and deployment of business software at scale or current hands on Data Analytics or Machine Learning solutions</li>
+<li>Knowledge of data landscape including the DWH/Spark/Hadoop Ecosystem</li>
+<li>Experience leading enterprise data strategies including data lake delivery</li>
+<li>Familiarity with on premise transactional database environments such as Oracle, SQL Server, MySQL and/or Postgres, as well as MPP databases (Teradata, Netezza, Vertica and Greenplum)</li>
+<li>Knowledge of optimal design of database environments, analyzing complex distributed production deployments, and making recommendations to optimize performance</li>
+<li>Familiarity with TCO, ROI and Value Models to help Customers understand the cost/benefit equation associated with Data Analytic Cloud solutions</li>
+<li>Identify, lead and contribute to the creation of best practices, packaged offering, white papers, workshops, etc.</li>
+<li>Consulting sales experience and ability to sell $1M+ professional services engagements</li>
+<li>Ability to travel to client locations to deliver professional services, as needed</li>
+</ul>
+<br>
+<div>“Alexa, help me transform and optimize my business leveraging AWS from a people, process AND platform perspective!” AWS is known for its unwavering customer obsession. Our Professional Services teams are on the front line of helping customers succeed using AWS data and analytics services that align with the new ways of managing people and re-architecting critical processes to complement the new cloud paradigm.<br>
+<br>
+AWS Professional Services team members leverage their deep knowledge of AWS technologies in collaboration with our sales and partner teams to propose, architect, and implement transformational data and analytics solutions for customers. Helping make customer success a reality using AWS cloud as an enabler and seeing the impact in real-time drives our teams to explore new frontiers in leveraging AWS for our customers.<br>
+<br>
+The Sr. Data &amp; Analytics CDA is a new growth role within the Professional Services umbrella, and is principally oriented around a qualify-deliver-manage model. The individual is responsible for partnering with a Professional Services leaders to dive deep into a customer’s business challenge, to collaboratively propose and pre-qualify a particular set of outcomes that would result from a formal data and analytics Professional Services engagement. Thereafter, the individual remains meaningfully engaged with that customer, Amazon team and project/program to ensure high-value, predictable, and successful delivery.<br>
+<br>
+This is not a pure consultant role, nor is it a pure selling role. It is an individual with a unique data and analytics expertise, hands-on building, coupled with cross-industry business acumen, including a heavy dose of passion for continued knowledge acquisition and growth, obsession for customers, and their success using AWS that will align well with the desired outcomes to be produced.<br>
+<br>
+Do you have what it takes to bring yourself, your customers, and your team to the next level?<br>
+<br>
+ROLE AND RESPONSIBILITIES<br>
+<ul>
+<li>As a key member of the Account and Professional Services Go-To-Market teams, ensure success in designing, building, optimizing, transforming or migrating, data and analytics solutions to AWS platform</li>
+<li>Educate customers on the value proposition of AWS</li>
+<li>Participate in deep architectural discussions and design exercises to create world-class data and analytics solutions built on AWS while ensuring such solutions are designed for successful deployment in the cloud and drive business outcomes</li>
+<li>Author or otherwise contribute to AWS customer-facing publications such as whitepapers and proof of concepts</li>
+<li>In partnership with the ProServe leadership and account team, formulate and execute a strategy to accelerate customer outcomes through the adoption of AWS in conjunction with Professional Services engagements</li>
+<li>Build deep relationships with senior technical individuals within customers to enable them to be cloud advocates</li>
+<li>Capture and share best-practice knowledge, sales and delivery content amongst the AWS Professional Services community</li>
+</ul>
+<br>
+This is a customer facing role. You be required to travel to client locations to deliver professional services when needed.</div>
+<br>
+<div>
+<ul>
+<li>Masters or PhD in Computer Science or Business Administration</li>
+<li>One of the AWS Associate level certifications or AWS Certified Cloud Practitioner.</li>
+<li>AWS Certified Big Data Specialty is a plus</li>
+</ul>
+Team leadership of team sizes &gt; 30<br>
+<ul>
+<li>Industry leadership in the fields of database, data warehousing or data sciences</li>
+<li>Extensive hands on experience in leading large-scale full-cycle data lake projects</li>
+<li>Extensive hands on experience in leading large-scale full-cycle MPP enterprise data warehousing (EDW) projects</li>
+<li>Prior hands on experience in data warehousing design, tuning and ETL/ELT process development</li>
+<li>Experience with SQL and scripting (bash, perl or python) ability</li>
+<li>Implementing AWS services in a variety of distributed computing, enterprise environments</li>
+<li>Understanding of database and analytical technologies in the industry including MPP databases, NoSQL storage, Data Warehouse design, BI reporting and Dashboard development</li>
+<li>Knowledge of Cloud Computing, AWS services such as EC2, S3, VPC and Redshift</li>
+<li>Enjoy working in a highly collaborative environment fast paced environment</li>
+<li>Ability to communicate complex topics to an audience with various functional knowledge</li>
+<li>Strong organizational and project management skills with an ability to manage numerous, competing demands from internal and external stakeholders and Customers</li>
+<li>Ability to think strategically about business, product, and technical challenges of Data Analytics in an enterprise environment.</li>
+<li>Ability to develop innovative solutions to complex business and technology problems</li>
+<li>Ability to collaborate with Global and Enterprise account teams and sales leadership to drive adoption of Data Analytic Solutions into top accounts</li>
+</ul>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation/ Age</div>
+</div>

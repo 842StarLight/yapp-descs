@@ -1,0 +1,41 @@
+<h2>Full Stack Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>The Company</b><br>
+<br>
+Hitachi Vantara, a wholly owned subsidiary of Hitachi, Ltd., helps data-driven leaders use the value in their data to innovate intelligently and reach outcomes that matter for business and society – what we call a double bottom line. Only Hitachi Vantara combines 100+ years of experience in operational technology (OT) and 60+ years in IT to unlock the power of data from your business, your people and your machines. We help enterprises store, enrich, activate and monetize data for better customer experiences, new revenue streams and lower business costs</p>
+<p><b>
+The Role</b></p>
+<p>
+We are looking for a software engineer with excellent design, development and debugging experience in a Linux/Cloud environment to be part of a team designed to implement new modern storage technologies in areas such as management, hybrid/cloud storage and advanced filesystems. This role requires the ability to develop storage management software, including User Interface, database integration, storage management logic/caching to manage various types of storage including block. file and object systems. The position is broad and allows for expanding your horizons in current exciting technology directions.<br>
+<br>
+<b>Responsibilities</b></p>
+<ul>
+<li>Develop new products on modern platforms for storage products, using frameworks such as react, or angular in a cloud environment.</li>
+<li>Develop management infrastructure using databases and business logic to implement complex file system management. Noting the role is slanted more towards backend coding and storage system interaction but includes some front end activity.</li>
+<li>Work closely with various teams including other storage development teams, support, sales and product management to implement and demonstrate new technology and communicate architecture concepts to enable taking the new concepts to production</li>
+<li>Design and develop automated unit tests</li>
+<li>Work within an Agile environment on teams spanning multiple offices</li>
+<li>Provide clear concise documentation to enable other teams to continue to support your work as you move on to new projects</li>
+</ul>
+<br>
+<b>
+Qualifications</b>
+<ul>
+<li>5+ or more years industry experience in software development for designing and supporting Storage management applications for storage, networking or similar appliances and/or production systems</li>
+<li>Experience creating management applications including front end and backend infrastructure as well as development/use of APIs for HW interaction or integration of data sources</li>
+<li>Experience with full stack technologies including react or angular. Experience with database use and integration.</li>
+<li>Basic understanding of storage concepts including both block and file</li>
+<li>Excellent analytical &amp; debugging skills</li>
+<li>Strong communication skills (visual, written and verbal)</li>
+<li>Strong Java or Go coding skills</li>
+<li>Experience with applications running in cloud environments</li>
+</ul>
+<br>
+<b>
+Education</b>
+<ul><li>Bachelor of Science in Computer Science or equivalent.</li></ul>
+<p><i>
+We are an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.</i></p>
+<p>
+#LI-DNI</p>
+</div></div>

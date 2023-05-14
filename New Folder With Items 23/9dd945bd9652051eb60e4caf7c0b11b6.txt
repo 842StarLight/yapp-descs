@@ -1,0 +1,50 @@
+<h2>T2 Technical Support POS Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Essential Functions/Responsibilities: </b></p>
+<p>Candidate should have experience troubleshooting and providing technical store support in the area of POS terminal, hand held scanners/terminals, desktop computers, printers/scanners and equipment used in the retail environment by end users.</p>
+<p><b>Essential Technical Skills: </b></p>
+<ul><li>Proficient in networking Skills</li></ul>
+<ul>
+<li>IP addressing</li>
+<li>Static versus dynamic IP assignment</li>
+<li>Troubleshooting routers operating on primary and backup networks</li>
+<li>Troubleshooting managed and unmanaged switches</li>
+<li>Troubleshooting wired and wireless networks</li>
+<li>Satellite internet devices including In Door Units (IDU), cabling, and outside hardware</li>
+<li>Operating systems like Windows 8 and Linux support</li>
+<li>Mobile device support * Remote support of Linux based cash registers with IBM cash register hardware support including installation of registers and all attached devices that includes pin pads and scanners</li>
+</ul>
+<ul>
+<li>Use of SSH and SFTP</li>
+<li>Linux OS file structure navigation and analysis via command line</li>
+<li>PXE based reimaging support * Understanding of POS application support on Linux and office PC support on Windows including:</li>
+</ul>
+<ul>
+<li>Reading and interpretation of application log files</li>
+<li>Checking and updating application software versions</li>
+<li>Sending and retrieving application data files</li>
+<li>Interpretation of application data file content</li>
+<li>Application data file support to various upstream systems generating application data</li>
+<li>Triage of issues requiring support from an application development team * Knowledge and experience supporting retail store procedures like:</li>
+</ul>
+<ul>
+<li>Start and end of day filing</li>
+<li>Purchase and return of merchandise and non-merchandise such as prepaid debit and phone cards</li>
+<li>Payment and refund of debit, credit, EBT, and cash</li>
+<li>Cashier balancing, cash audit, and sales audit</li>
+<li>Hardware replacement procedures for equipment issues not resolve by phone * Knowledge of SQL queries for application support</li>
+</ul>
+<p><b>Preferred Soft Skills: </b></p>
+<ul>
+<li>Excellent written and verbal communication skills in English.</li>
+<li>Ability to handle difficult callers with minimal escalation</li>
+<li>Able to quickly understand and apply support documentation</li>
+<li>Perform independent and effective technical self-study on work related tasks</li>
+<li>Learn and apply skills from higher level escalation groups (Level 3 support teams, application developers, client supervisors, managers) via chat and email</li>
+<li>Ability to analyze groups of tickets for issue classification and root cause analysis</li>
+<li>Ability to develop documentation for Tier 1 and Tier 2 support groups</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>POS helpdesk support: 1 year (Required)</li></ul>
+</div>

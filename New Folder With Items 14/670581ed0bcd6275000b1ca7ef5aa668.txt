@@ -1,0 +1,36 @@
+<h2>Project Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Sr. Project Manager
+</b></p>
+<p>We are seeking an experienced project manager to lead a data integration and transformation project within an established PMO.</p>
+<p>
+The project this will relate to integrating standardized P&amp;C policy and claim data feeds into a single common platform with a shared set of processes and data validation. This will also enable integration of our partner data. This position will report into the PMO.</p>
+<p>
+A typical day will involve issue management, team meetings, schedule maintenance and proactive monitoring of work packages/tasks. Communication to various stakeholders will also occur daily and working with leadership to determine any additional project needs. Time and attention will need to be spent firming up and managing a reliable project schedule.</p>
+<p><b>
+Job Qualifications:</b></p>
+<p>
+Required Technical Skills (software, hardware, programming, discipline)</p>
+<p>
+1. Experience with SDLC and IT delivery</p>
+<p>
+2. MS Project for project tracking</p>
+<p>
+3. Vendor Management</p>
+<p><b>
+Preferred Skills
+</b></p>
+<p>1. P&amp;C Insurance experience</p>
+<p>
+2. PMP preferred</p>
+<p>
+3. Experience with Data integration and/or movement of data across vendors a plus</p>
+<p><b>
+What will be 3 areas of focus
+</b></p>
+<p>1. Data Integration needs for transition/business sale</p>
+<p>
+2. Vendor management</p>
+<p>
+3. Assessing many avenues of data movement under transition service agreements</p>
+</div></div>

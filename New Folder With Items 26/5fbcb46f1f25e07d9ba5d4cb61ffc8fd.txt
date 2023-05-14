@@ -1,0 +1,89 @@
+<h2>Sr. Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">NAVIS is looking for a creative, motivated, full stack Senior Software Developer to join us as a critical member of our Engineering Team! This position can be located either at our headquarters offices in Bend, Oregon, or at our new, shared office space situated in the heart of downtown Portland.
+<br><br>
+This developer will design, develop, optimize, and test on-premise, AWS hosted applications and microservices in an Agile setting based on both Open Source and .NET technologies. As part of the Engineering Team, you will collaborate closely with Software Development teams and Product Team members to design exceptional software / product solutions to meet customer needs.
+<br><br>
+<b>TECHNOLOGY STACK:</b><br>
+<b>Our tech stack is as follows:</b> Java, React/Redux, Postgres, Microservices, Containers, Python, Spark, CI/CD, IaC, AWS
+<br><br>
+Click here for a peek inside our Engineering Team ( https://thenavisway.wistia.com/medias/ce96ssiv8o )
+<br><br>
+<b>RESPONSIBILITIES:</b><br>
+The primary focus of this position is coding creative, operational software that enhances our products. The Engineering Team has multiple projects that often start at the concept stage and develops new products and/or product features from scratch. Our products are constantly evolving with our client needs – we are not simply maintaining existing products.
+<br><br>
+This is a full SDLC development position. The Software Developer must be willing to take on all aspects of the development process, and be ready to support applications in production environments. He/she will be asked to test code sets, document software, and implement products and related solutions. Expert knowledge of design patterns and software development best practices must be shown at all times.
+<br><br>
+The Software Developer will be tasked with analyzing, identifying, and solving highly-complex issues related to software development and related technologies. As needed, this person may be involved in the mentoring of more junior-level developers on the technical aspects of our products, technology, and related software tools. This developer needs to have a willingness to do whatever it takes to make the products and the company successful.
+<br><br>
+Check out this video to learn more about the Tech scene in Bend, Oregon ( https://www.youtube.com/watch?v=mbKByBpXqaw&amp;t=1s )
+<br><br>
+<b>QUALIFICATIONS:</b><br>
+<ul>
+<li>Although we operate in a hybrid environment, our ideal profile is someone with a strength in JAVA back-end development with some Amazon Web Services (AWS) Cloud Computing experience</li>
+<li>React with Redux (or another modern JavaScript framework such as Angular2), at least one relational database (MS-SQL, Postgres, MySQL), Service-oriented architectures (SOA)</li>
+<li>BS in Computer Science or equivalent experience, MS degree highly preferred</li>
+<li>At least three (3) years of web software design &amp; development experience on highly scalable web properties supporting multiple browsers</li>
+<li>At least three (3) years of experience developing on multiple server-side frameworks, including Open Source and C#/.NET</li>
+<li>Expert experience level with Design Patterns</li>
+<li>Database application design and development experience, preferably in a multi-tenant database environment.</li>
+<li>Solid understanding of the SDLC</li>
+<li>Strong verbal, written and interpersonal communication skills</li>
+<li>A high degree of creativity and motivation is required of the successful candidate, who is expected to operate with limited direct supervision.</li>
+<li>Demonstrated expertise in Object-Oriented Analysis and Design, with a focus on high-quality, timely, and supportable and maintainable code delivery</li>
+<li>Experience with iterative development with quick release cycles (Agile Methodologies)</li>
+<li>Experience with modern testing practices (TDD, UI/API/Component test automation)</li>
+<li>Experience working on highly motivated cross-functional teams.</li>
+<li>Experience working with peers and Software Architects on highly complex technical issues</li>
+<li>Experience mentoring junior-level developers is preferred</li>
+</ul>
+The following technical experience is DESIRED, but not required:
+<br><br>
+<ul>
+<li>CI / CD experience with Chef</li>
+<li>Open ID experience</li>
+<li>Linux experience</li>
+<li>Designing and developing databases, particularly with Postgres</li>
+<li>Git experience</li>
+<li>Docker</li>
+<li>VOIP</li>
+<li>VB.NET</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Experience with internationalization</li>
+</ul>
+<b>POSITION LOCATION:</b><br>
+<ul>
+<li>BEND: The position can be based at our headquarters offices in Bend, Oregon (relocation assistance package available)</li>
+<li>PORTLAND: Located in the heart of downtown Portland near Pioneer Square, our office on the 11th floor at 811 SW 6th Avenue is nestled between a farmer's market and several of Portland's hot spots. Our work space offers a birds-eye view of the city, along with best-in-class services and amenities. We are open to 4 days per week in the office, with 1 day per week flexibility to work remotely.</li>
+</ul>
+<b>NAVIS OFFERS:</b><br>
+<ul>
+<li>An inclusive, fun, values-driven company culture – we've won awards for it</li>
+<li>A growing tech company in Bend, Oregon</li>
+<li>Work / Life balance - what a concept!</li>
+<li>Excellent benefits package with a Medical Expense Reimbursement Program that helps keep our medical deductibles LOW for our Team Members</li>
+<li>401(k) with generous matching component</li>
+<li>Generous time off plus a VTO day to use working at your favorite charity</li>
+<li>Competitive pay + annual bonus program</li>
+<li>FREE TURKEYS (or pies) for every Team Member for Thanksgiving (hey, it's a tradition around here)</li>
+<li>Your work makes a difference here, and we make a huge impact to our clients' profits</li>
+<li>Transparency – regular All-Team meetings, so you can stay in-the-know with what's going on in all areas our business</li>
+</ul>
+<b>ABOUT NAVIS:</b><br>
+NAVIS is the only Unified CRM solution for hotels and vacation rental management companies that brings their data and their reservations sales, marketing, and revenue teams together to drive more direct bookings and revenue. Because we believe technology should make you money, not cost you money, we developed our game-changing Revenue Performance Platform™ to transform teams into revenue makers, enabling them to drive, capture and convert more direct bookings. We deliver actionable guest insights so departments can seamlessly sell and market together. The result is always a dramatic increase in direct sales and profit. We guarantee it.
+<br><br>
+Founded in 1987, NAVIS is a privately held company with headquarters in Bend, Oregon, and growing locations in Orlando, Florida and Reno, Nevada.
+<br><br>
+We have been named on "Top Workplaces" lists for EIGHT years running!
+<br><br>
+NAVIS has been recognized as a "Top Workplace" by The Oregonian for several years, a "Top 10 Workplace" by the Orlando Sentinel in 2018, and a "Best Place to Work" by the Northern Nevada Human Resources Association in 2018.
+<br><br>
+<b>At NAVIS, our Core Values are:</b><br>
+<ul>
+<li>Golden Rule: I treat others as I want to be treated</li>
+<li>Integrity: I am a person of my word and highly trusted</li>
+<li>Innovation: I create solutions for difficult business problems</li>
+<li>Performance: I am part of an ambitious team and my results matter</li>
+<li>Attitude: I am a positive influence, I love my team and the work we do</li>
+</ul>
+NAVIS is an Equal Opportunity Employer (EOE).</div>

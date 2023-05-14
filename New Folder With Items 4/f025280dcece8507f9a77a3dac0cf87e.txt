@@ -1,0 +1,79 @@
+<h2>Product Manager, Analytics (Solar)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>WHO WE ARE</b></p>
+<p>
+We are Power Factors, developer of the world’s leading cloud platform for renewable energy companies. Our SaaS platform, DRIVE, is used to manage over 25 Gigawatts of renewable energy across the planet (enough to power approximately 1.5 million homes). By driving down the operations costs of wind and solar power plants, we’re tackling one of the world’s most important challenges: making renewable energy the world’s leading source of power. Our company is going through accelerated growth, fueled by the unprecedented transition to clean, renewable energy.</p>
+<p>
+The DRIVE platform continues to gain traction throughout the renewable energy market. Our platform collects millions of IIoT and other data points, cleans up the data, detects issues, identifies leading indicators to predict future issues, and adds full advanced analytic capabilities on top of this rich, high value dataset. In addition to issue detection and analytics, DRIVE provides the tools needed to turn analytic insight into action, such as case management and work order management.</p>
+<p>
+To our clients, we deliver excellent customer service and an exceptional system of engagement that provides the results they are looking for: lower operations costs and higher output from their renewable energy power plants. We are an agile development company – big enough to make an impact, but small enough to move quickly and execute in a growing industry, taking advantage of rapidly evolving technologies. To our employees, we provide a culture that values respect, teamwork, transparency, and achievement.</p>
+<p><b>
+THE ROLE</b></p>
+<p>
+Power Factors is growing rapidly and we are looking for a driven candidate to own the IoT analytics capabilities for our Drive platform. The successful will have a mix of Product Management or Product Owner experience with understanding of Data Science. As the Product Manager, Analytics you are the glue between customer performance engineering teams, internal analytics data scientists, and the software development team by turning market needs into products that pleases our users.</p>
+<p>
+Your role will add value for customers and end users by creating a product backlog that reflects the company’s overall product strategy and long-term roadmap. You will be focused on your product’s adoption and the successful realization of product features that solve customers’ problems. More precisely, your mandate consist in analyzing multiple sources of information, owning key features from development to release, and creating organizational transparency into a product’s prioritization and engineering efforts.</p>
+<p>
+The successful candidate has relevant experience with enterprise software in the field of Cloud/SaaS, Big Data Analytics, or Industrial IoT along with technical knowledge of Solar/Wind assets in the Renewables industry.</p>
+<br>
+<p></p>
+<p><b>
+RESPONSIBILITIES</b></p>
+<br>
+<p></p>
+<ul>
+<li>Responsible for Analytics product lifecycle and product line success;</li>
+<li>Help align and prioritize features to ensure adherence to the roadmap;</li>
+<li>Manage product feature requirements and enhancement request backlog;</li>
+<li>Provide input to feature implementation decisions and development reviews;</li>
+<li>Scale and productize new advanced analytics algorithms leveraging big data technologies;</li>
+<li>Ensure a consistent and cohesive approach across wind and solar analytics;</li>
+<li>Define and groom technical requirements in Jira to align with the release plan and product roadmap;</li>
+<li>Collaborate with the Data Science team members to identify common problems and areas for automation and standardization;</li>
+<li>Collaborate with the Development team to manage complex features in Jira to deliver maximum business value;</li>
+<li>Drive quality of analytics product and data visualization user experience to best-in-class through test &amp; validation;</li>
+<li>Contribute to internal &amp; external documentation of Analytics-specific solution functionality;</li>
+<li>Support Proof of Concept programs and customer engagement tasks;</li>
+<li>Act as the trusted voice of the user for product needs within Power Factors;</li>
+<li>Communicate results to clients then incorporate their feedback into future projects;</li>
+<li>Communicate product status to internal stakeholders by managing reporting processes and tools;</li>
+<li>Work cross-functionally across data science, development, marketing, sales, implementation, and customer success to execute on the product strategy;</li>
+<li>Provide sales tools to support the typical buying process;</li>
+<li>Limited domestic or global travel required as necessary.</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>QUALIFICATIONS</b></p>
+<br>
+<p></p>
+<ul>
+<li>Engineering or Computer Science degree;</li>
+<li>Minimum 3 years of experience working as an Agile Product Owner in a high-tech company, writing user stories and epics, and following development process through user story acceptance;</li>
+<li>Minimum 3 years of experience in Renewables, Enterprise Software, Data Analytics, Industrial IoT;</li>
+<li>Data science or experience in quantitative field preferred;</li>
+<li>Solid experience of data analysis applied to Solar and Wind power plant asset performance;</li>
+<li>Demonstrated experience of analytics development tools such as MATLAB or Python;</li>
+<li>Technical background or strong aptitude for OT/IT technology;</li>
+<li>Proficient in Agile project management tools such as Jira or Rally;</li>
+<li>Can-do attitude and hunger. You’re eager to jump in and get things done but don’t get flustered in a dynamic startup environment;</li>
+<li>Ability to grasp and clearly communicate complex ideas to different audiences;</li>
+<li>Proven ability to work cross-functionally with business and development teams by balancing multiple input streams to drive decision-making and prioritization activities;</li>
+<li>Effective ability to prioritize and manage multiple tasks independently and simultaneously and adapt to changing priorities and timelines;</li>
+<li>Desire to learn and understand new concepts or technologies quickly;</li>
+<li>Available to travel approximately 25% of the time.<br>
+</li>
+</ul>
+<p><b>WHAT WE OFFER</b></p>
+<ul>
+<li>Flexible core hours adn working from home;</li>
+<li>Incentive pay and employee referral bonus programs;</li>
+<li>Employee recognition programs;</li>
+<li>Benefits coverage for you and your dependents.</li>
+<br>
+</ul>
+<p></p>
+<p>
+</p>
+<p>IND123</p>
+</div></div>

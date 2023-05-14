@@ -1,0 +1,38 @@
+<h2>ERP Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Description:</b><br>
+Assists with the development and maintenance of the Enterprise Resource Planning (ERP) system. Responsible for database administration, data consolidation, data analysis and management reporting. Utilizes software to generate metrics and develop actionable recommendations. Customizes and configures workflow to allow the integration of client/server applications. Evaluates ERP systems to ensure the system is meeting corporate needs. Knowledge of standard concepts, practices, and procedures within a particular field. Plan and accomplish goals with minimal experience. Performs a variety of tasks as needed by management. A certain degree of creativity and latitude is required. Provide support to business areas by collecting, analyzing data and reporting results. Collaborate with various teams such as marketing, research, IT, and sales to achieve business results.</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>Support end user reporting and analysis requirements, for the sales, operations, and executive management teams</li>
+<li>Implement and support data warehousing.</li>
+<li>Define user interfaces and functional specifications.</li>
+<li>Verify accuracy of data, and the maintenance and support of the data warehouse.</li>
+<li>Design structure of data in ERP System(s) [FACTS]</li>
+<li>Generate and verify accuracy of reports using tools such as FACTS, Power Play or Impromptu</li>
+<li>Maintain ERP DB; data and administration</li>
+<li>Work with business areas and information systems staff to provide database and reporting needs in a Windows desktop and laptop environment.</li>
+<li>Work as a team member on department projects to include planning, implementation, and support roles.</li>
+<li>Set up and maintain Electronic Data Interchange (EDI) trading partners per customer requests</li>
+<li>Design and develop problem resolution procedures for the EDI system</li>
+<li>Design and develop trading partner barcode shipping labels as per specifications</li>
+<li>Document instructions for all trading partner documents and barcode labels</li>
+<li>Train EDI specialist to receive and transmit documents</li>
+</ul>
+<p><b>Education &amp; Experience:</b><br>
+<i>Requirements:</i></p>
+<ul>
+<li>Bachelors Degree preferred or equivalent combination of education and experience with a minimum of 2 years of experience in database report writing or related field.</li>
+<li>Strong hands-on Data Base Management experience</li>
+<li>Experience with MS Office products (Word, PowerPoint, Access and Excel), e-mail systems, specifically Lotus Notes.</li>
+<li>Experience with EDI, FACTS, Cognos, Powerplay, and Inpromptu a plus.</li>
+<li>Project planning to include cost, resource, time and implementation estimates and tracking.</li>
+<li>Experience with multiple project deadlines with minimal guidance</li>
+<li>Understanding of root cause analysis and corrective action means and can inform and update on topic</li>
+<li>Has the ability to port data between applications and platforms</li>
+<li>Can provide client project support for various corporate projects</li>
+<li>The ability to troubleshoot highly technical problems as they relate to database structures, reporting tools, and analysis of data</li>
+<li>Excellent oral and written communication skills</li>
+</ul>
+</div></div>

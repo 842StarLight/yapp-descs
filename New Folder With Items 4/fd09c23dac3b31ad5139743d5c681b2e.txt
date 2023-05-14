@@ -1,0 +1,90 @@
+<h2>Linux HPC Systems Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Linux HPC Systems Analyst<br>
+<br>
+Who is Cray?<br>
+<br>
+Our business is supercomputing. Our primary aim is understanding the problems our customers are trying to solve and developing the technologies that enable them to make the discoveries that better our world. Cray combines computation and creativity so visionaries can keep asking questions that challenge the limits of possibility. Drawing on more than 45 years of experience, Cray develops the world’s most advanced supercomputers, pushing the boundaries of performance, efficiency and scalability. Cray continues to innovate today at the convergence of data and discovery, offering a comprehensive portfolio of supercomputers, high-performance storage, data analytics and artificial intelligence solutions.<br>
+<br>
+We are proud to be an Equal Opportunity Employer including women, minorities, protected veterans, and individuals with disabilities. CRAY Inc. is an Affirmative Action, Equal Opportunity Employer.
+<br>
+<br>
+Who We Need<br>
+<br>
+For those who ask what if, Cray is a partner that merges computation and creativity to extend the boundaries of what you can discover. Our greatest achievements are realized when we face what seems impossible, and that’s why we invite those who believe anything is possible to join us and to keep asking what if, why not, and what’s next.<br>
+<br>
+At Cray we’re always looking way down the road … years, even decades into the future. We’re not developing products for next quarter. We’re developing products for questions our customers might not even know they have yet. That’s how high-performance computing works. So as you can imagine, we pay very close attention to what’s coming … and that includes the next generation of computer scientists and engineers. These individuals are going to be the ones shouldering an awesome responsibility in the coming decades as big data gets bigger, artificial intelligence flexes its muscles more and more, and problems grow in complexity.
+<br>
+<br>
+Cray Inc. is looking for an experienced Systems Analyst to provide site leadership and customer support at the ERDC DSRC in Houston /Spring, Texas. The Systems Analyst will provide highly visible on-site customer support through the assistance of on-site installation, administration, support, and maintenance of complex Cray High Performance Computing systems and related products.
+<br>
+<br>
+Primary Duties and Responsibilities:<br>
+<ul>
+<li>Provide technical and operational leadership and guidance to the other team members
+</li>
+<li>Serve as the primary POC for new installs, customer escalations and other significant site events
+</li>
+<li>Serve as liaison between the District Service Manager, Sales, the customer and site staff
+</li>
+<li>Provide weekly activity/progress reports for issue tracking, event planning, recent events and updates to new or ongoing customer concerns
+</li>
+<li>Lead regularly scheduled customer meetings to keep the customer informed of significant or ongoing issues, upgrade/maintenance planning, system availability and general system or site staff news
+</li>
+<li>Provide a full range of pre- and post-sale support of Cray products and services
+</li>
+<li>Answer customer inquiries concerning system software versions, product lifecycles, new releases and third-party applications
+</li>
+<li>Overall management and maintenance of system configuration databases, site spares inventory, part returns and other logistics requirements
+</li>
+<li>Oversee maintenance and updates to site/system SOPs, system diagrams and other configuration or support documents
+</li>
+<li>Provide expert technical support of Cray products including but not limited to:
+</li>
+<li>Maintain system software and firmware revisions, including patches, updates, and OS upgrades
+</li>
+<li>Provide software technical support for product installations and maintenance to ensure that the system is functioning according to specifications
+</li>
+</ul>Analyze system hardware, software and third-party software issues, provide detailed and thoughtful analysis of problem and solution
+<ul>
+<li>Gather data, perform analysis, and escalate problems to higher-level product support groups and appropriate management when necessary to ensure timely resolution of system or customer issues
+</li>
+<li>Determine solutions and implement repair or workarounds when possible, fully document steps taken when required
+</li>
+<li>Document and share troubleshooting techniques, new ideas, and utilities to help develop and grow organizational knowledge
+</li>
+<li>Manage software issues for both the system and user applications, submitting and tracking bugs as required
+</li>
+<li>Perform preventative and corrective maintenance as required for both hardware and software issues</li>
+</ul>
+</div>
+<br><div>Background and Skills:<br>
+<ul>
+<li>Bachelor’s degree in Computer Science, Engineering or equivalent experience</li>
+<li>Extensive knowledge and experience of Linux/Unix operating systems, networking and security
+</li>
+<li>2+ years of HPC-related experience, ideally with large-scale HPC and parallel file system administration and support</li>
+<li>Ability to lead and work effectively in a team environment to investigate and resolve complex problems
+</li>
+<li>Direct experience and demonstrated proficiency with multiple programming and scripting languages (e.g. Perl, Python, C, Fortran, etc.)
+</li>
+<li>Ability to maintain system software through installation of upgrades and patches as needed
+</li>
+<li>Possess the organizational and analytical skills needed to effectively isolate both hardware and software problems and drive solutions through to conclusion
+</li>
+<li>Excellent interpersonal, customer relations and problem management skills, with the ability to stay calm and professional under pressure while working to strict deadlines
+</li>
+<li>Very good communication skills, both verbal and written</li>
+<li>Experience with project planning and management, process management and team or project leadership
+</li>
+<li>Ability to clearly document processes and procedures with a focus on mentoring and sharing knowledge
+</li>
+<li>Occasional travel for training or to help support remote systems is required</li>
+<li>Rotation of on-call duties with other staff to provide 24x7 coverage</li>
+<li>Ability to routinely lift and carry 30 pound hardware components</li>
+</ul>
+<br>
+<ul><li>Please note that Cray does not use Google Hangouts for any interviews.</li></ul>
+<br>
+As part of our standard hiring process for new employees, employment with CRAY will be contingent upon successful completion of a comprehensive background check.</div>
+</div>

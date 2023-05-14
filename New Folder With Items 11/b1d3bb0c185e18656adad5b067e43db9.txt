@@ -1,0 +1,77 @@
+<h2>Entry-Level Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Our Associate Solution Architects use their technical knowledge/expertise to support, maintain and enhance software tools, applications for our insurance software products and services. Emphasis is on designing solutions on existing products/services as well as involvement with phases of new product development under the mentorship of our senior architects.</p>
+<p><b>
+Responsibilities include:
+</b></p>
+<ul>
+<li>
+<p>Support/maintenance of internal tools by troubleshooting/debugging issues and proposing development solutions; testing/executing performance analysis; creating/maintaining technical documentation; suggesting solutions for process improvement.</p>
+</li>
+<li>
+<p>Project work related to the implementation of existing internal tools and new development/architecture which includes: Scope analyzation, requirements determination and estimate preparation; designing/architecting solutions, writing/implementing development specifications, etc.</p>
+</li>
+<li>
+<p>Provide technical subject matter expertise for complex issues, lead and mentor others with reviewing designs</p>
+</li>
+<li>
+<p>Provide technical support for sales</p>
+<br>
+<p></p>
+<p><b>
+Knowledge, Skills/Abilities, Experience and Education Required for the Job:</b></p>
+<br>
+</li>
+</ul>
+<p></p>
+<p>
+</p>
+<ul>
+<li>
+<p>Strong knowledge of Software Development Life Cycle</p>
+</li>
+<li>
+<p>Strong knowledge of the following Microsoft technologies:</p>
+<ul>
+<li> <p>.Net framework</p>
+</li>
+<li>
+<p>C# programming language</p>
+</li>
+<li>
+<p>Visual Studio</p>
+</li>
+<li>
+<p>SQL Server database</p>
+<br>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Excellent troubleshooting, problem solving and overall critical thinking skills</p>
+</li>
+<li>
+<p>Good verbal and written communication skills</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Ability to work collaboratively in a team setting</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Demonstrates initiative, motivation and self-direction</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>10+ years software development experience</p>
+</li>
+<li><p>Bachelor’s degree in Computer Science, Software engineering or related degree</p></li>
+</ul>
+</div>
+<p></p>
+</div>

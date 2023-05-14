@@ -1,0 +1,17 @@
+<h2>Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>We can sponsor the candidates for this role if interested.</b><br>**<br><b>Job Summary</b><br>Role: Salesforce Developer<br>Location: Dallas TX<br>Longterm contract<br>Qualifications<br>Bachelor’s degree in computer science, Information Technology, Engineering, or related technical degree <br>1-3 years of experience with technical implementation, day-to-day operations, and long-term maintenance of Salesforce.com<br>Certified Salesforce.com Developer or Equivalent experience<br>Strong knowledge of Apex, Visualforce and Lightning<br>Experience with Lightning Design System and creating components<br>Experience with SOAP / REST APIs<br>Process knowledge of Sales, Service Cloud, Salesforce CPQ and ETL with Salesforce<br>Ability to work in fast-paced and Changing environment</p>
+<p>Job Types: Full-time, Contract</p>
+<p>Experience:</p>
+<ul>
+<li>relevant: 1 year (Preferred)</li>
+<li>Salesforce: 1 year (Preferred)</li>
+</ul>
+<p>Contract Length:</p>
+<ul>
+<li>1 year</li>
+<li>More than 1 year</li>
+</ul>
+<p>Benefits:</p>
+<ul><li>Health insurance</li></ul>
+</div>

@@ -1,0 +1,90 @@
+<h2>Salesforce Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>About RelationEdge, a Rackspace Company</b></p>
+<p>
+As a Platinum Salesforce Implementation Partner, RelationEdge is focused on implementing technology solutions that are simple to use and provide powerful information that drives our clients’ business. Our methodology is based on business process engineering and optimization, employing a <i>Process First, Technology Second</i>® approach to solving business problems. RelationEdge’s passion for helping clients better market, sell, and service their customers is essential and what has distinguished us from competitors.</p>
+<p><b>
+Position Summary</b></p>
+<p>
+RelationEdge is seeking a Salesforce Engineer to join our team in a client-facing role that combines technical responsibilities and traditional consulting elements. The Salesforce Engineer will be involved in the post-sales, implementation stage of RelationEdge’s services and solutions, and act as the technical adviser in the pre-sales/discovery process.</p>
+<p><b>
+Responsibilities</b></p>
+<p>
+The Salesforce Engineer will deliver Salesforce solution definition, implementation, customization, integration, and managed services for clients which will include, but isn’t limited to the following:</p>
+<ul>
+<li>
+Participate in solution design, documentation and delivery efforts in concert with the Project Manager</li>
+<li>
+Complete and co/implement a configuration workbook</li>
+<li>
+Collaborate with a team of Salesforce Architects, Developers, and Engineers to determine the most appropriate technical strategy and designs to meet business needs</li>
+<li>
+Participate in internal projects as required</li>
+<li>
+Provide current best practice and 3rd Party solution alternatives as part of the functional design document</li>
+<li>
+Share best practices and be consultative to clients throughout the duration of the project and act as a trusted partner</li>
+<li>
+Establish and build a rapport with clients throughout the project lifecycle to identify areas of future business</li>
+<li>
+Participate and lead, when needed, project meetings with the customer</li>
+<li>
+Create, communicate and execute deployment plan</li>
+<li>
+Manage client expectations and maintain communication throughout the course of the project.</li>
+<li>
+Engage with customers on additional requirements and business needs</li>
+<li>
+Manage task-level budget/scope to ensure client success and project profitability; tactfully work with clients to address out of scope requests and use client account manager to re-align expectations or seek additional scope/budget</li>
+<li>
+Maintain current Salesforce.com certifications, such as the Salesforce Administrator certification.</li>
+<li>
+Serve as a subject matter expert on Salesforce technology, and common AppExchange tools</li>
+<li>
+Lead the UAT efforts</li>
+<li>
+Map and load standard object data into Salesforce</li>
+<li>
+Build and manage dashboards, views, and reports</li>
+<li>
+Design and develop workflows and assignment rules to automate manual processes</li>
+<li>
+Create and maintain system-related documentation, such as business requirements, process flows, data maps, configuration worksheets, etc.</li>
+</ul>
+<p><b>
+Required Skills &amp; Experience</b></p>
+<ul><li>
+First and foremost, a passion for Salesforce and helping businesses/clients succeed!</li></ul>
+<ul>
+<li>
+Strong grasp of Salesforce essentials e.g. products, opportunities, leads, reporting, security/sharing, automation (workflow rules, process builder), and importing data (typically from spreadsheets)</li>
+<li>
+Prior consulting experience is preferred; 2-3 years of experience</li>
+<li>
+Must have a minimum of Salesforce Administrator certification</li>
+<li>
+Strong presentation and communication skills</li>
+<li>
+Ability to balance multiple projects simultaneously; workload will be a blend of small, medium, and large implementation projects</li>
+<li>
+Must maintain professional knowledge of and relationships within the Salesforce.com ecosystem</li>
+<li>
+Ability to work autonomously, manage your time, and make judgements that are in the best interest of the client and RelationEdge</li>
+<li>
+BS in Computer Science, Software Engineering, Information Management or equivalent field</li>
+<li>
+Must be able to perform the basic functions of the job</li>
+<li>
+Candidate must have the unrestricted right to work in the US without requiring sponsorship</li>
+</ul>
+<p></p>
+<p>About Rackspace<br>
+We accelerate the value of the cloud during every phase of digital transformation. By managing apps, data, security and multiple clouds, we are the best choice to help customers get to the cloud, innovate with new technologies and maximize their IT investments. We have been honored by Fortune, Forbes, Glassdoor and others as one of the best places to work. Join us on our mission to build the world’s best technology services company.
+</p>
+<p>More on Rackspace<br>
+Rackers aren’t all alike. We look different. We think uniquely. We are from many places and our beliefs &amp; backgrounds vary. But, being a Racker — a valued member of a winning team on an inspiring mission – is what connects us all. Rackers are encouraged to bring their whole self to work every day, as we know that unique perspectives fuel innovation and enable us to best serve our customers &amp; communities around the globe. We welcome you to apply today and want you to know that we are committed to offering equal employment opportunity without regard to age, color, disability, gender, gender reassignment or identity or expression, genetic information, marital or civil partner status, pregnancy or maternity status, military or veteran status, nationality, ethnic or national origin, race, religion or belief, sexual orientation, or any legally protected characteristic. If you have a disability or special need that requires accommodation, please let us know.</p>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,70 @@
+<h2>Sales Engineer – US West</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<div>Are you interested in joining a group of highly talented engineers working on a open source project that is solving challenging problems across big data analytics, machine learning and artificial intelligence? As customers continuously push the envelope for ways to extract value from data, Alluxio is driving innovation in data access and management for large scale distributed systems. Alluxio (a.k.a Tachyon Nexus) a project from AMPLab like Apache Spark and Mesos is charging full steam to help customers navigate the digital transformation. . The Alluxio team includes leaders, innovators, explorers, and risk-takers with extensive industry experience from top tech companies including Google, Palantir and VMWare and alumni from top computer science programs including CMU, Stanford and UC Berkeley. The company is backed by Andreessen-Horowitz and has been named as top 10 hot startups for 2018</div>
+<div></div>
+<div>
+Alluxio is seeking an ambitious Solution Engineer to join the Enterprise Field Sales Team representing Alluxio products and services. In this role, in addition to enabling sales opportunities for Alluxio you will be playing the role of hands-on technologist. You will be designing enterprise data solutions with bleeding edge technology and helping customers use these solutions effectively. This relationship continues through the product lifecycle starting from pilot program to customer success after our solution is deployed. You will also play a key role in helping us build the company with building repeatable scalable processes. For the right candidate this role has huge potential for leadership of a team.</div>
+</div>
+<div>
+<h4 class="jobSectionHeader"><b>
+Responsibilites</b></h4>
+<ul>
+<li>
+Lead technical sales process for numerous customers day to day, from introductory meetings (net new sales) through post-sales (customer satisfaction, up-selling, and subscription renewals)</li>
+<li>
+Drive PoC processes in multi technology environments and have the ability to influence and get buying decisions on new technology solutions</li>
+<li>
+Map your customer requirements to current and future offerings</li>
+<li>
+Educate your prospects on the business value of Alluxio offerings</li>
+<li>
+Drive progress towards successful sales, in concert with Regional Sales Directors</li>
+<li>
+Transform customer feedback into actionable product roadmap items</li>
+<li>
+Continuously learn and update your skills in quickly evolving technologies</li>
+<li>
+Document learnings so Alluxio can create a repeatable, scalable Sales Engineer organization. That includes discovery calls, PoC Scoping, Business Value Assessment, Business Value Realization as well as driving mutual activity plans with prospects.</li>
+</ul>
+<h4 class="jobSectionHeader"><b>
+Qualifications</b></h4>
+<ul>
+<li>
+Minimum 5-10 years experience in a leading software organization as a Solution Engineer with documented results and a strong track record with happy growing customers</li>
+<li>
+Deal with changing requirements and context switching but have the ability to keep projects and track</li>
+<li>
+Unix/Linux/Networking/Storage expertise required</li>
+<li>
+Hands-on of distributed systems Hadoop, Spark, Presto is a huge advantage</li>
+<li>
+Hands-on Knowledge of Orchestration frameworks like Mesos, Kubernetes</li>
+<li>
+Triaging and Troubleshooting complex system problems</li>
+</ul>
+<h4 class="jobSectionHeader"><b>
+Preferred qualifications</b></h4>
+<ul>
+<li>
+Programming in Java/Go/Python</li>
+<li>
+Background in Data Pipelining, Wrangling and Data Analytics</li>
+<li>
+Concurrency and synchronization</li>
+<li>
+High availability and business continuity</li>
+<li>
+Experience with modern stack (Nifi, Kafka, Storm, Spark, Solr, Presto etc.)</li>
+<li>
+Cloud deployment of Big-data solutions e.g. AWS, HDI, Google Cloud</li>
+<li>
+Engineering degree desirable</li>
+<li>
+Leadership experience is advantageous</li>
+</ul>
+</div>
+</div>
+<div></div>
+</div>

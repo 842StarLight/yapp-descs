@@ -1,0 +1,84 @@
+<h2>Quality Assurance (QA) Engineer (Temporary)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>The <b>Quality Assurance Engineer</b> works as part of the project team to release products that have been quality approved, are usable, and meet or exceed customer expectations. Is responsible for promoting quality standards, methods and practices; this includes providing input to quality planning, test case and test script creation and management, providing input for evaluations of scalable quality processes and procedures relating to the development of Web-based solutions. Able to create &amp; maintain automated testing scripts/suites leveraging either Java-based Selenium WebDriver, or JavaScripting-based Cypress.io.</p>
+<p><b><i>
+What you do:</i></b><br>
+<br>
+<b>SQA Methodologies, Practices and Processes
+</b></p>
+<p>Works with QA Director/QA Lead in project scoping and estimating project work by providing assessment of efforts needed to successfully execute a quality process</p>
+<ul>
+<li>
+Works with QA Director/QA Lead to establish and develop strategy, approach and planning on account projects; executes the strategy</li>
+<li>
+Participates in requirements and use case reviews, code walk-throughs and internal design reviews to assure artifacts and deliverables meet requirements and are within defined scope</li>
+<li>
+Reviews requirements for clarity and testability; assure consistency with defined scope</li>
+<li>
+Maintains integrity of test repository – including automated scripts/suites.</li>
+</ul>
+<b>
+Risk Identification, Assessment and Mitigation</b><br>
+<ul>
+<li>Meets regularly with QA Director/QA Lead to identify and assess project risks and identify mitigation strategies; executes the strategies</li>
+<li>
+Completes thorough analysis of relevant project artifacts for clarity and testability; assure consistency with defined scope</li>
+<li>
+Prioritizes testing activities and based on risk analysis</li>
+<li>
+Maintains defect tracking tool and generate defect status reports</li>
+<li>
+Assist QA Director/QA Lead and Quality Assurance Manager in defining improvement processes and procedures</li>
+<li>
+Collaborates with other project team leads to develop and implement project risk mitigation strategies</li>
+<li>
+Reviews defect reports for completeness; identifies and communicates possible trends and patterns</li>
+<li>
+Creates and maintains test plans and test scripts</li>
+</ul>
+<p><b>
+ </b><b>Oral and Written Communication
+</b></p>
+<ul>
+<li>Regularly attends and participates in account, project, and practice team meetings</li>
+<li>
+Sets up QA Strategy/Test Plans and other artifacts as needed</li>
+<li>
+Schedules and leads project defect meetings</li>
+<li>
+Develops training materials, sales collateral and white papers</li>
+<li>
+Educates organization about QA standards, best practices and emerging trends</li>
+</ul>
+<p><b>
+Client Relationship Management</b></p>
+<ul>
+<li>
+Collaborates successfully with client QA Team, as necessary</li>
+<li>
+Communicates test results to client team, as necessary</li>
+</ul>
+<p><b>
+ </b><b><i>What you need:</i></b></p>
+<ul>
+<li>
+Experience using Selenium WebDriver and/or ability to write Java-based scripts for test automation</li>
+<li>
+2+ years Web-based quality assurance experience; test management and evaluation</li>
+<li>
+Proven ability to adhere to QA methodologies, standards and software testing practices in development and implementation to ensure compliance with business requirements</li>
+<li>
+Demonstrated leadership ability, including strong interpersonal and teamwork skills</li>
+<li>
+Understanding of and experience with Web technologies, including Content Management Systems.</li>
+<li>
+Marketing, Advertising, or Sales experience a plus</li>
+<li>
+Proofreading skills a plus</li>
+<li>
+BA/BS or advanced degree a plus</li>
+</ul>
+<b>
+This position is currently a temporary need. We anticipate work for this role to go through the end of March 2020 and possibly beyond that time frame.</b><br>
+<p>We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
+</div></div>

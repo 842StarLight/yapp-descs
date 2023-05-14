@@ -1,0 +1,20 @@
+<h2>Solutions Engineer - Conversational AI</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>Mid-level Pre-sales experience — 3-4 years of enterprise deals</li>
+<li>Bachelors/Master’s in computer science or related fields (statistics, applied math, computational neuroscience)</li>
+<li>In-the-trenches understanding of deploying Chatbots, ML, and AI projects, including insights into unsupervised and supervised learning methods.</li>
+<li>Present to CXOs, VPs, Directors, and Architects in multiple business functions</li>
+<li>Handle technology strategy questions, architecture questions</li>
+<li>Ability to suss out business use cases and present solutions</li>
+<li>Present key value propositions and handle objections</li>
+<li>Respond swiftly and efficiently to AI RFPs</li>
+<li>Become a trusted advisor to the customer and help craft RFPs</li>
+<li>Good grasp and understanding of business applications and their APIs, middleware and integration</li>
+<li>Experience creating production systems or demos in Node.js and Java.</li>
+<li>Familiarity with HTML, CSS, JavaScript</li>
+<li>Demo technology platforms in a compelling manner</li>
+<li>Create PoC bots</li>
+<li>Create “art-of-the-possible” demos</li>
+</ul>
+</div>

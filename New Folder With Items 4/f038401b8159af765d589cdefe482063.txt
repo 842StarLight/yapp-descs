@@ -1,0 +1,92 @@
+<h2>Systems Engineer - Storage/Virtualization</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p>We have some of the most experienced, creative and smart IT people on the planet, and we’re looking to add to our team. We’re seeking a Senior level Systems Engineer in Chicago who is passionate about helping clients use technology to improve and expand their organizations. Our Advanced Solutions Group has access to hardware and software in a lab environment in order to stay on top of the latest technologies.</p>
+<p>
+We have fun, too. We love working with people who embrace their passions. Whether it’s coding apps, perfecting your golf swing, or conquering the mythical town of IronForge, we support and celebrate your hobbies.</p>
+<p>
+The ideal candidate has a passion for recognizing potential problems and taking appropriate preventative action, strong end-user interaction and communication skills, and the ability to support a wide variety of users through phone, email and personal interactions.</p>
+<p><b>
+Primary Accountabilities</b></p>
+<ul>
+<li>
+Work out of our Addison, IL and Chicago, IL office(s) to configure, design and implement networked storage topologies and virtualization projects; i.e., SAN, NAS, iSCSI from leading manufacturers.</li>
+<li>
+3 to 4 years of experience with VMware technologies.</li>
+<li>
+Installation, configuration, and troubleshooting storage and backup virtualization.</li>
+<li>
+Perform customer system assessments to determine best course of action.</li>
+<li>
+Confer with management, define the bounds and aims of system implementations, create project plans, and provide management with status and progress reports.</li>
+<li>
+Analyze business requirements and consult with clients on IT planning cycles. Establish customer standards that enable business improvements by implementing forward-looking, scalable technology solutions.</li>
+<li>
+Create and document all actions, practices, procedures and processes.</li>
+<li>
+Assists in pre-sales efforts by attending meetings, and helping to prepare design and scope of work documents.</li>
+<li>
+Mentor team members.</li>
+<li>
+Other reasonable System Engineer services associated with the planning, deployment, installation, administration, and management.</li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+<p></p>
+<ul>
+<li>Bachelor’s degree in Computer Science or a related field preferred</li>
+<li>
+Microsoft Certified IT Professional (MCITP) 2008 Enterprise Admin or Server Admin or 3 years virtualization experience</li>
+<li>
+Eventually design enterprise wide storage solutions, modification to existing storage configurations, and evaluating new storage technologies.</li>
+<li>
+Must have knowledge of Data Networks (WAN, LAN, IP, Routing and Switching, DNS and DHCP and VPN).</li>
+<li>
+Working knowledge of Storage Technologies such as SAN, NAS, Performance monitoring and tuning.</li>
+<li>
+Experience with virtualization solutions VMWare</li>
+<li>
+Experience with security and system hardening.</li>
+<li>
+Ability to multitask in a fast moving environment</li>
+<li>
+Great communication skills, in-person and virtually</li>
+<li>
+Superior organizational skills</li>
+</ul>
+<p><b>
+Preferred</b></p>
+<ul>
+<li>
+Windows 2003/2008/2012 server</li>
+<li>
+Active Directory/DNS/DHCP</li>
+<li>
+MS Exchange 2007/2010/2013</li>
+<li>
+VMware 5/6</li>
+<li>
+VMware View</li>
+<li>
+VMware SRM</li>
+<li>
+HyperV Experience</li>
+</ul>
+<br>
+<p></p>
+Additional Information<br>
+<br>
+<p><b>Check out all the benefits you get when working for ITsavvy!</b></p>
+<ul><li><p>
+https://www.itsavvy.com/careers/benefits-and-perks/</p></li></ul>
+<p><b>
+See where we're trending:</b></p>
+<ul><li><p>
+https://www.itsavvy.com/about/awards-and-certifications/</p></li></ul>
+<p>
+ITsavvy is an Equal Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. ITsavvy will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants.</p>
+</div>
+</div>

@@ -1,0 +1,75 @@
+<h2>Cloud DevOps Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Why PCI?</b></p>
+<p>At PCI, our mission is to provide certainty in an uncertain world – enabling our employees and clients alike to sleep better at night.</p>
+<p>100+ organizations and their 20,000+ employees nationwide rely on PCI to deliver business-critical IT solutions. With PCI, organizations can leverage IT and industry expertise within cloud computing, IT-as-a-Service, IT security and service desk.</p>
+<p>We are a collection of self-starting, self-motivated individuals who excel at working in teams to create, develop and implement solutions for our clients. At PCI, we are committed to taking charge of any and all challenges that are presented to us with the desire to leave things in better shape than when we found them.</p>
+<p>See for yourself why our employees and clients love being part of the PCI family!</p>
+<p><b>About the team</b></p>
+<p>As a Cloud DevOps Engineer, you will significantly contribute to identifying best-fit architectural solutions for one or more projects; develop design of solutions, provide regular support/guidance to project teams on complex cloud technologies, issue resolution and execution.</p>
+<p>You will collaborate with and lead some of the best talent in the region to create and implement innovative high-quality solutions, participate in Sales and various pursuits focused on our clients' business needs.</p>
+<p><b>How you will be successful</b></p>
+<ul>
+<li>Design, Develop and Implement cloud solutions on AWS / Azure</li>
+<li>Accountable for the quality development of enabling automation, application development, infrastructure development and overall IT service improvement</li>
+<li>Manage CI CD tools and pipeline as a partner to development teams</li>
+<li>Assess, deploy, and manage numerous infrastructure management tools including infrastructure optimization and orchestration solutions</li>
+<li>Build integrations with cloud monitoring / alerting systems and processes</li>
+<li>Produce technical specifications for custom development and systems integration requirements</li>
+<li>Take a lead, design, develop and implement Proof-of-Concepts for automation and CICD technologies to support the cloud infrastructure including server, storage, network, and security.</li>
+<li>Providing guidance and direction in regard to Cloud implementation, DevOps processes and technical pipeline standards</li>
+</ul>
+<p><b>What Experience you will need</b></p>
+<p>Basic:</p>
+<ul>
+<li>At least 7 years of experience with Information Technology.</li>
+<li>At least 3 years of experience with DevOps in Cloud Technologies.</li>
+</ul>
+<p><b>Preferred: </b></p>
+<ul>
+<li>Thorough knowledge and understanding of current Cloud Computing technologies, strategies, solutions, assessment methodologies, planning techniques, technologies, and methods</li>
+<li>Experience with programming and infrastructure automation and Infrastructure as Code (IaC) (e.g., Terraform, Cloud Formation, Azure Resource Templates)</li>
+<li>Experience with automation in dynamic environments such as IaaS and PaaS (on premises, hosted and hybrid)</li>
+<li>Strong Experience with CICD tools</li>
+<li>Experience with container-based applications and tools (e.g. Docker, Kubernetes)</li>
+<li>Experience with configuration management tools (e.g Ansible, Chef)</li>
+<li>Practical experience developing software or meeting operational needs with code and script (JavaScript, Python, Java and PowerShell)</li>
+<li>Understanding of common failure patterns in cloud distributed systems</li>
+<li>· Effective relationship building and leadership skills across divisional and departmental organizational structures to accomplish enterprise wide goals</li>
+<li>Minimum 3 years of hands-on experience implementing DevOps CICD cloud solutions</li>
+<li>Mandatory Hands on experience implementing solutions with MS Azure and Amazon AWS, e.g. VMs, Applications (ServerlessWeb apps), VPCVNet, Networking, Security, Monitoring</li>
+<li>Mandatory Hands on experience with Terraform and Infrastructure as Code</li>
+<li>Mandatory Hands on experience with CICD tools</li>
+<li>Preferred Skills Qualifications Azure Certified Professional AWS Certification highly preferred</li>
+</ul>
+<p><b>What differentiates PCI from other companies</b></p>
+<ul>
+<li>At PCI you have direct access to ownership – we’re transparent, open to new ideas, quick to make smart decisions and always available to talk.</li>
+<li>Work / Life success is very important to us – we have frequent office events, team outings and family gatherings.</li>
+<li>Constant curiosity – we encourage and enable an environment of sensible forward-thinking.</li>
+<li>We’ve been around the block – the stability and experience that comes with 40 years in business is shared, ensuring certainty for our employees.</li>
+<li>We believe in sharing PCI’s success, which is part of the compensation for all employees.</li>
+</ul>
+<p><b>Relocation to Buffalo, NY required </b></p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Information Technology: 7 years (Preferred)</li>
+<li>DevOps in Cloud Technologies: 3 years (Preferred)</li>
+</ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Paid time off</li>
+<li>Parental leave</li>
+<li>Professional development assistance</li>
+</ul>
+<p>This Company Describes Its Culture as:</p>
+<ul>
+<li>Detail-oriented -- quality and precision-focused</li>
+<li>Outcome-oriented -- results-focused with strong performance culture</li>
+<li>Stable -- traditional, stable, strong processes</li>
+</ul>
+</div>

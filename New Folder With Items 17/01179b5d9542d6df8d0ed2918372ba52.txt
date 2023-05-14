@@ -1,0 +1,37 @@
+<h2>Principal Solutions Architect - Strategic Accounts</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>12+ years design &amp; implementation experience with large distributed applications</li>
+<li>12+ years of experience in core disciplines (E.g. compute, networking, storage, security, database architecture)</li>
+<li>Working knowledge of software development tools and methodologies</li>
+<li>Technical degree required; Computer Science, Engineering or equivalent</li>
+<li>Working knowledge of cloud technologies</li>
+<li>Experience presenting to both large and small audiences (Executives, IT Management, and Developers)</li>
+<li>Experience communicating across internal and external organizations</li>
+</ul>
+<br>
+<p>Do you like helping customers implement innovative computing solutions and solving technical problems? Would you like to do this using the latest cloud computing technologies? Do you have a knack for helping groups understand distributed application architectures and integration best practices and the consultative and leadership skills to lead a project to success? Are you ready to bring your unique combination of technical skills, business acumen and a do-whatever-it-takes attitude to help your customers successfully leverage the Amazon Web Services platform to transform their business?<br>
+<br>
+Amazon Web Services is looking for a highly motivated Solutions Architect to help accelerate the use of our growing platform within the Strategic Accounts segment of our business. This is an excellent opportunity to join Amazon’s world class technical teams, work with some of the best and brightest engineers and technical managers while also developing your skills and furthering your career within one of the most innovative and progressive technology companies.<br>
+<br>
+As a Solutions Architect within AWS, you will have the opportunity to help shape the strategy and enable a broad use of Amazon's utility computing web services by directly working with our key customers. Your responsibilities will include owning the technical engagement and ultimate successful production deployment of specific projects; defining implementation architectures, developing a deep expertise in the AWS technologies as well as a broad know-how about how applications and services are constructed using the AWS platform; and being a subject matter expert in selected solution areas (e.g. AI/ML, Security, Big Data).<br>
+<br>
+As a Solutions Architect within the Strategic segment, you will provide thought leadership and exceptional technical design capabilities to your customers. You will lead efforts to capture and share best-practices knowledge within the AWS solution architect community as well as with our customers. You will also gain the opportunity to learn from and collaborate with some of the brightest technical minds in the industry across the breadth of enterprise computing architecture.<br>
+<br>
+You will be part of a culture of innovation where you’ll use AWS services to help our customers rapidly get their products and services to market through continuous delivery of modern solutions that are highly scalable, resilient, and elastic. You will have the opportunity to design large-scale web and mobile applications using micro-services based architectures to deliver services globally and enable data-driven decision making through big data / artificial intelligence-powered analytics.</p>
+<br>
+<div>
+<ul>
+<li>Graduate degree in Computer Science, Technology, Engineering or Math.</li>
+<li>Experience architecting, operating cloud-based solutions.</li>
+<li>AWS Solution Architecture certification or relevant cloud expertise.</li>
+<li>Experience migrating or transforming legacy customer solutions to the cloud.</li>
+<li>Working knowledge of software development tools and methodologies.</li>
+<li>Demonstrated ability to adapt to new technologies and learn quickly.</li>
+<li>Presentation skills with a high degree of comfort speaking with executives, IT Management, and developers</li>
+<li>Experience in technology/software sales or pre-sales consulting.</li>
+<li>Experience with a programming or scripting language.</li>
+<li>Excellent written and verbal communication skills.</li>
+</ul>
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.</div>
+</div>

@@ -1,0 +1,81 @@
+<h2>Senior Specialist Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div><div>
+<div>At Red Hat, we connect an innovative community of customers, partners, and contributors to deliver an open source stack of trusted, high-performing solutions. We offer cloud, Linux, middleware, storage, and virtualization technologies, together with award-winning global customer support, consulting, and implementation services. Red Hat is a rapidly growing company supporting more than 90% of Fortune 500 companies.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Job summary
+</b></h2>
+<div><div><div>
+<div>Promote the adoption of Red Hat's solutions. The Red Hat Sales team is looking for a Senior Specialist Solutions Architect to join our Regional Technology Office in Atlanta, GA. In this role, you will work closely with sales teams in pursuit of new customers, helping prospective customers solve real problems. You'll need to gain understanding of customer business needs, aligning these needs with our capabilities. As a Senior Specialist Solutions Architect, you will work with Red Hat's management solutions, including Red Hat CloudForms, Red Hat Satellite, and Red Hat Ansible Automation. This role can be located remotely anywhere in the Southeastern U.S. Successful applicants must reside in a state where Red Hat is registered to do business.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Primary job responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Scope evaluations and guide prospective customers through successful technical evaluations and proofs of concepts</li>
+<li>
+Build working demo environments and complete demo use cases to be used to demonstrate how Red Hat management solutions meet customer requirements</li>
+<li>
+Develop custom solutions for customers with advanced or edge-case requirements</li>
+<li>
+Work closely with internal product, product engineering, professional services, support, and sales teams to ensure a great customer experience</li>
+<li>
+Develop and maintain content that enables Red Hat to sell and support Red Hat management solutions at scale</li>
+<li>
+Contribute to building best practices, repeatable methodologies, and tools in sales and engineering</li>
+<li>
+Demonstrate leadership in IT management by producing whitepapers, webinars, and conference speeches</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Required skills
+</b></h2>
+<div><div><div>
+<ul>
+<li>5+ years of experience working in a technical presales, enterprise architecture, support, or consulting role with a focus on IT management or cloud computing</li>
+<li>
+Bachelor's degree in computer science, computer engineering, or equivalent experience</li>
+<li>
+Excellent presentation and public speaking skills</li>
+<li>
+Solid Linux system administration skills</li>
+<li>
+Extensive technical experience with Red Hat Ansible Automation</li>
+<li>
+Practical experience with virtualization, especially Red Hat Virtualization, VMware vSphere, Microsoft Hyper-V, and Citrix XenServer</li>
+<li>
+Experience with cloud technologies, especially Red Hat OpenStack Platform, Amazon Web Services (AWS), Microsoft Azure, and Google Compute Platform (GCP)</li>
+<li>
+Solid debugging, troubleshooting, and general problem-solving skills</li>
+<li>
+Great customer service skills</li>
+<li>
+Excellent written and verbal communication skills; ability to work as part of a team</li>
+<li>
+Willingness to travel up to 75%</li>
+</ul>
+<div></div>
+<br>
+<div>
+The following are considered a plus:</div>
+<div></div>
+<br>
+<ul>
+<li>
+Experience with network management, especially working with physical networking devices, e.g., Cisco, Juniper, or Arista</li>
+<li>
+Working experience with Red Hat CloudForms, or alternatives like VMware vCloud Automation Center</li>
+<li>
+Certifications like Cisco Certified Network Associate (CCNA), VMware Certified Professional (VCP), or equivalent</li>
+<li>
+Experience with datacenter automation tools and processes</li>
+<li>
+System administration or datacenter architecture experience</li>
+<li>
+Experience programming with Ruby, Python, or PowerShell</li>
+</ul>
+<p><br>
+Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, uniformed services, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.</p>
+<p><br>
+Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.</p>
+</div></div></div>
+</div></div>

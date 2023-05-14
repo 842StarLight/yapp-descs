@@ -1,0 +1,42 @@
+<h2>Customer Solutions Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Note: By applying to this position your application is automatically submitted to the following locations: <b>New York, NY, USA; Mountain View, CA, USA</b><p>
+Minimum qualifications:</p>
+<ul>
+<li>
+Bachelor's degree in Computer Science or equivalent practical experience.</li>
+<li>Experience working with web technologies including, but not limited to: HTML, CSS, JavaScript and HTTP.</li>
+<li>Experience with systems design and/or coding in a general purpose programming language (e.g. Java, C/C++, Python).</li>
+</ul>
+<br>
+<p>Preferred qualifications:</p>
+<ul>
+<li>
+Experience in the online advertising industry working with big data platforms and large volume data analytics.</li>
+<li>Demonstrated knowledge of SQL/MySQL, and Unix/Linux operating systems and commands.</li>
+<li>Customer-facing experience translating technical concepts and solutions to non-technical and executive audiences.</li>
+<li>Ability to collaborate, build consensus, deliver, and drive technical decisions with various sized customer stakeholder groups.</li>
+<li>Excellent technical leadership, project management, analytical problem solving, and troubleshooting skills.</li>
+</ul>
+<div>
+<h2 class="jobSectionHeader"><b>About the job</b></h2>
+<p>
+gTech’s Professional Services team takes a creative, collaborative, and customer-centric approach to provide foundational services and forward-looking business solutions to top advertiser and publisher customers. Through technical implementation, optimization, and key solutions, gTech Professional Services helps customers attain their business goals while building long-term capabilities.</p>
+<p>
+The Global Client and Agency Solutions Customer Solutions Engineering team is responsible for developing innovative, cutting-edge solutions to the business problems faced by advertisers. Your solutions will take many forms, from prototypes and demos to education - all with the technology resources of Google to back it up.</p>
+<p>In this role, you'll be responsible for identifying and prioritizing your own projects. You will see the unique business challenges faced by our largest advertisers, and you will be given the opportunity to develop solutions no one else has. Working across the entire organization, you will have the chance to leverage your wide-ranging experience and skill-set to find the best solution for the problems at hand.</p>
+<p>
+Google creates products and services that make the world a better place, and gTech’s role is to help bring them to life. Our teams of trusted advisors support customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers’ complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.<br>
+<br>
+To learn more about gTech, check out our video.</p>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<ul>
+<li>Manage technical relationships with a select client portfolio, including managing multiple projects simultaneously.</li>
+<li>Work with Sales to identify business opportunities leveraging both display and performance solutions supported by the team.</li>
+<li>Collect requirements, provide guidance and best practices to apply ad products and technologies to achieve advertisers' business goals.</li>
+<li>Design and implement complex, cross-product customized solutions with the client.</li>
+<li>Be responsible for end-to-end implementations and escalations handled by other Google teams for named accounts.</li>
+</ul>
+</div>At Google, we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.</div></div>

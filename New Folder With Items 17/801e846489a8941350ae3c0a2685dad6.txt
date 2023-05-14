@@ -1,0 +1,36 @@
+<h2>Software Engineer in Test, IT Systems (Senior/Staff)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Position Description:</b><br>
+We are looking for an experienced, senior level Software Engineer in Test (SET) that is passionate about testing large-scale, mission-critical software in a fast-paced agile environment. The ideal candidate will be partnered with talented engineers, program managers and business analysts that share our passion and great pride in the simple elegance and usability of our solution. Okta IT strongly believes in automated testing, UX design and an iterative process to build high-quality next generation business systems.
+<br><br>
+The SET is responsible for supporting the planning, design and execution of system testing on simple to complex implementations. This person must be able to work with project and application managers to define test plans and create test scripts based on business requirements and application software designs. The position is also responsible for designing and building scalable test frameworks and test automation. They will work collaboratively with developers to execute tests as a team, and to log, track and validate test results. This position requires effective communication of the QA plan to all stakeholders for a given IT program or initiative.
+<br><br>
+This is a great opportunity to join an awesome market leading company and talented IT team and to help push technology and quality forward.
+<br><br>
+<b>Job Duties and Responsibilities:</b><br>
+<ul>
+<li>Develop test plans and automation for high-performance, scalable software components and APIs</li>
+<li>Perform testing on various software and reporting systems</li>
+<li>Review and refine requirements with business stakeholders</li>
+<li>Work with engineering, program management and business analysts to scope and plan engineering efforts</li>
+<li>Be the voice for quality and drive quality initiatives</li>
+</ul>
+<b>Minimum REQUIRED Knowledge, Skills, and Abilities:</b><br>
+<ul>
+<li>3+ years of software test experience for highly-reliable, mission-critical software</li>
+<li>Experience building and testing cross-platform client software</li>
+<li>Ability to develop clear, structured test plans that are aligned with team goals</li>
+<li>Experience developing test automation utilizing various industry tools and programming languages such as Salesforce Apex, Java, Javascript, Selenium, Test Café, etc.</li>
+<li>Strong understanding of the Software Development Life Cycle</li>
+<li>Understanding of business process knowledge in sales, education and/or finance applications like Salesforce, Cornerstone and Coupa platforms, etc.</li>
+<li>Effective communicator (verbal, written, listening)</li>
+<li>Work under minimal supervision and/or direction</li>
+</ul>
+<b>Education and Training:</b><br>
+<ul>
+<li>BS in Computer Science, Management Information Systems or Information Technology</li>
+<li>Specialized training in: Software Development Lifecycle, Testing Integrated Business Systems</li>
+</ul>
+Okta is an Equal Opportunity Employer
+<br><br>
+#LI-LH1</div>

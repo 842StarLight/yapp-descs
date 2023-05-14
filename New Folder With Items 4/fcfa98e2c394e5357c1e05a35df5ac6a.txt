@@ -1,0 +1,42 @@
+<h2>PeopleSoft Technical Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>PEOPLESOFT Solutions Engineer </b><br><b>Department: Engineering -- Data Integrations</b><br><b>Permanent</b><br><b>Salary based on experience and expertise.</b></p>
+<p><b>Skillset: PeopleSoft architectural, Application Designer, Application Engineer, Database queries</b><br><b>data integrations, configuration, testing, and deployment</b></p>
+<p><b>Summary</b><br>The PeopleSoft Solutions Engineer (PSSE) will be responsible for providing oversight for all areas within the PeopleSoft Campus Solutions stack, including Curriculum Management, Program Management, Section Management, and Schedule Management. The PSSE evaluates client’s needs and requests, gathers the necessary data points from the client’s Student Information System (SIS), and integrates PeopleSoft using clients application programming interface (API). Additionally, the PSSE resolves operational API issues, troubleshoots integration issues, researches and supports customizations and interfaces between new and existing systems—both internal and external to clients. The PSSE must have the technical and communication skills, as well as the business savvy to provide exceptional consulting services to clients, helping them gain the optimum benefit from integration experience.</p>
+<p><b>Responsibilities: </b></p>
+<p>In-depth knowledge of the PeopleSoft architectural environment:<br>PeopleSoft Tools: Application Designer, Application Engine, and Application Packages<br>Debugging and tracing sessions<br>Integration Broker, REST and SOAP</p>
+<p>Ability to read, write, explain and contrast the following: Java,JSON, Python, Database queries<br>Gather data points from the client’s customized environment<br>Partner with cross functional teams to drive integration success for the client<br>Differentiate between PeopleSoft and custom data dictionary elements to build the API<br>Create an adaptable/common PeopleSoft data structure and incorporate data hygiene<br>Partner with the team Product Owner to advocate for codebase improvements and reducing technical debt<br>Act as communication point person for issue status, causes and resolutions with affected departments<br>Communicate problems and solutions directly and effectively to Manager</p>
+<p>Plan and manage API for the client’s customized environment<br>Mentor team members where skill gaps exist</p>
+<p>Handle all aspects of supporting APIs (e.g. client issues, performance, data integrity, integration with related applications)<br>Become the primary conduit for communications with Engineering, Sales, and Tier 2 Client Care team and assist in their issue resolution<br>Communicate solution measures with affected departments (e.g. Engineering, Sales, Support, Systems, other products, etc.)</p>
+<p><b>Competencies: </b><br>Extensive experience with data integrations, configuration, testing, and deployment required<br>Excellent interpersonal and partnering skills to facilitate effective working relationships<br>Committed to being part of a team and thrives in a highly collaborative work environment<br>Strong ability to prioritize and resolve functional/technical issues and focus on project scope<br>Strong skills in analyzing functional business processes and documentation<br>Strong collaboration skills while working with engineering, product owners, sales, senior leaders, and business users/ stakeholders to drive business analysis/user requirements<br>Ability to deal and manage workload that is subject to changing priorities, applies problem solving skills to transform problems into solutions<br>Ability to share knowledge, coach, and train other Software Engineers who specialize in non-PSFT SISs<br>Experience in the Higher Education domain</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>client care: 1 year (Preferred)</li>
+<li>PeopleSoft architecture: 1 year (Preferred)</li>
+<li>data integrations: 1 year (Preferred)</li>
+<li>complex web-based applications: 1 year (Preferred)</li>
+<li>PeopleSoft: 1 year (Preferred)</li>
+<li>configuration, testing, and deployment: 1 year (Preferred)</li>
+<li>Application Designer: 1 year (Preferred)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Location:</p>
+<ul><li>Lakeland, FL (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Application Question:</p>
+<ul><li>Can you please elaborate your experience on peoplesoft campus?</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Signing bonus</li>
+<li>Flexible schedule</li>
+<li>Relocation assistance</li>
+</ul>
+</div>

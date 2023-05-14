@@ -1,0 +1,83 @@
+<h2>Senior Defense Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Company Description
+<p>Govini is a data analytics firm dedicated to transforming the business of national security through data science and machine learning. Through its analytical platform, Govini delivers objective, decision-grade information at scale to the U.S. national security enterprise, so that leaders can better direct investments to innovation and modernization. Govini has offices in Arlington, Virginia, San Francisco, California, and Pittsburgh, Pennsylvania.</p>
+Job Description
+<p>We are seeking accomplished Senior Analysts to join our Advisory Services team in leading Govini’s analytic work on a range of national security challenges, such as aligning Defense Department resources with its strategic aims, identifying investments that drive performance outcomes, isolating inefficiencies in business operations, and safeguarding the integrity of the nation’s centers of innovation. Senior Analysts are responsible for designing and executing creative and rigorous analytic studies. They also ensure data-driven insights are effectively presented as decision-grade information to senior executives. At the forefront of how the U.S. national security community applies data to problem-solving, Senior Analysts also develop and refine innovative data science and analysis tools and methodologies.
+</p>
+<p>Scope of Responsibilities</p>
+<ul>
+<li>
+<p>Work with national security professionals on their critical business questions and how they can be answered.</p>
+</li>
+<li>
+<p>Lead quantitative and qualitative analysis to establish objective and accurate views of business operations and recommendations to improve performance.</p>
+</li>
+<li><p>Perform data abstraction and data manipulation with large sets of semi-structured data.
+</p></li>
+<li>
+<p>Demonstrate subject matter expertise in key knowledge areas, such as national security strategy, federal budgeting and procurement processes, and government contracting.</p>
+</li>
+<li>
+<p>Support cross-office initiatives in sales and client success as a Govini product expert.</p>
+</li>
+<li>
+<p>Recommend improvements to datasets and SaaS platform based on client interactions and subject matter expertise.</p>
+</li>
+<li>
+<p>Present findings in concise and compelling manner to executives.</p>
+</li>
+<li>
+<p>Surface new problems to solve as a means to expand accounts or land new business.</p>
+</li>
+</ul>Qualifications
+<p>This is a position for people who care deeply about logic. You want to make a contribution to national security by exploring a set of new questions not yet tackled, or applying a novel methodology to chronic problems with elusive answers. You like the big, meaty questions, and think about them constantly. You read analytic studies for fun. You step outside your current position to see the big picture, and consider relationships between tactical issues and national strategy. You accept that the nation is confronted with difficult decisions, want to frame real choices, and pro/con hard tradeoffs. You geek out on assumptions, talk shop with technocratic experts, and then translate quant to English for senior executives. You hold the line on what’s methodologically correct and call findings as you see them-be they good or bad news. You wonder why some still make decisions based on anecdotes or cherry-picked historical cases. Most of all, you pride yourself in being a keeper of the flame of logical, data-driven analysis.</p>
+<p>
+Required Skills</p>
+<ul>
+<li>
+<p>5-7 years of research analysis using quantitative methods or relative management consulting experience</p>
+</li>
+<li>
+<p>MBA or advanced degree in statistics or data science from a top-tier institution</p>
+</li>
+<li><p>Experience as a government analyst (DoD, OMB, DHS, Capitol Hill, CIA, DIA, or other)
+</p></li>
+<li>
+<p>Deep knowledge of the defense industry, with specialized expertise in Supply Chain (particularly risk management), Operations Research, or the PPBE process</p>
+</li>
+<li>
+<p>Strong business acumen, excellent professional demeanor with a willingness to work outside of your comfort zone without hesitation</p>
+</li>
+<li>
+<p>Referenceable history of exceptional performance conducting high-quality analysis</p>
+</li>
+<li>
+<p>Outstanding listening, verbal, and written communication skills</p>
+</li>
+<li>
+<p>Ability to manage multiple work-streams and projects from start to finish, to learn quickly, and to work independently with little supervision</p>
+</li>
+<li>
+<p>Advanced proficiency with one or more of the following; Microsoft Excel, Tableau, Qlik, SAS/SPSS/STATA, SQL, Python and/or R or technical equivalent</p>
+</li>
+</ul>
+<p>Desired Skills</p>
+<ul>
+<li>
+<p>Current possession of a U.S. security clearance or the ability to obtain one</p>
+</li>
+<li>
+<p>Experience with the nuances of a startup environment</p>
+</li>
+</ul>
+<p>We firmly believe that past performance is the best indicator of future performance. If you believe you are an inquisitive problem-solver with experience that meets the qualifications above, and you're prepared to perform intricate, mentally rigorous work, we're eager to hear from you.<br>
+</p>
+Press
+<p>"Some of the biggest government contractors are looking to Silicon Valley for help winning new contracts. Big data analytics company Govini is promising companies better analytics geared toward identifying new opportunities to win work." - Washington Post</p>
+<p>
+"Govini is all set to disrupt the market for professional services in government contracting in much the same way Google disrupted the market for advertising - by automating processes that were once handled in a one-off, non-repeatable basis." - FCW</p>
+<p>
+"There are many professional services firms that just help manage processes around revenue capture. They, by hand, pull data and run metrics and shove stuff into Excel and in databases and come out with answers. In Govini, you can get the same answers in three clicks." - Federal Times</p>
+<p><b>
+Govini is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.</b></p>
+</div></div>

@@ -1,0 +1,147 @@
+<h2>Senior AX Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h3 class="jobSectionHeader"><b>Eurofins Panlabs is searching for a Senior AX Developer to work in St. Charles, MO.</b></h3>
+<h3 class="jobSectionHeader">
+<b>Senior AX Developer responsibilities include, but are not limited to, the following</b><b>:</b>
+</h3>
+<ul>
+<li>
+<h3 class="jobSectionHeader"><b>Write, document, review, improve, and troubleshoot code</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Work closely with the functional team and the Solution Architect to understand and groom the user requirements, and design solutions based on AX and software engineer best practices</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Prepare technical specifications, flow charts, software diagrams, and other technical documentation</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Perform merge, build and deployment activities to promote the code to higher environments</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Perform unit testing of all the customizations before promoting the code to higher environments and handing over to the quality assurance team</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Support or execute data migration activities using the Microsoft Data Migration Framework or other technologies</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Perform AX Help Desk support, normally via Key Users, Business and Functional Analysts and coordination of related work across the different IT members</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Diagnose problems, recommend solutions, and determine whether program requirements have been met and/or must be improved</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Contributes to the definition, improvement and strictly follow the best practices and procedures defined to ensure full compliance to the Eurofins and industry best practices</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Assist in the training and development of technical support staff</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Demonstrate and promote the company vision</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Regular attendance and punctuality</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Apply GMP/GLP in all areas of responsibility, as appropriate</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Conduct all activities in a safe and efficient manner</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Perform other duties as assigned</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Own the accountability and responsibility of delivering to client needs and timeliness</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Provide cross-functional support to other departments as required</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Adjust work hours as needed to meet client deadlines</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Adhere to site environmental health and safety (EHS) requirements</b></h3>
+</li>
+</ul>
+<h3 class="jobSectionHeader">
+<b>The ideal candidate would possess</b><b>:</b>
+</h3>
+<ul>
+<li>
+<h3 class="jobSectionHeader"><b>Very high proficiency in Dynamics AX development and customization aspects, including X++ programing and AIF</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Extended knowledge of Object-Oriented programming technologies, including X++ and C#</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Solid knowledge of Dynamics AX Architecture (layers, models, tiers, etc.)</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Deep understanding of RESTFul services, web services, WCF/AIF and service-oriented-architecture</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Ability to troubleshoot existing and create new reports using SSRS</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Good understanding of Microsoft Dynamics AX 2012 data structures</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Understanding of Team Foundation System, proper code control, and branching of code</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Customer-service oriented with a problem-solving attitude</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Strong attention to detail and accuracy is essential</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Entrepreneurial thinking and flexibility to change</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Structured and clear writing skills</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Proven ability to solve complex business problems using analytical reasoning</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Demonstrated positive attitude, self-motivated, team player</b></h3>
+</li>
+</ul>
+<h3 class="jobSectionHeader">
+<b>Basic Minimum Qualifications</b><b>:</b>
+</h3>
+<ul>
+<li>
+<h3 class="jobSectionHeader"><b>Bachelor’s or Master’s Degree in Computer Science, Engineering, or equivalent degree</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Minimum 5 years prior experience with software development, configuration and system support with Dynamics AX 2012</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Relevant active technical participation in projects using Microsoft Dynamics AX 2012 R3 modules like General Ledger, Accounts Receivable, Accounts Payable, Sales &amp; Marketing, Procurement &amp; Sourcing</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Minimum 3 years of experience in developing reports using SSRS</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Exposure to .NET programming in the scope of interfaces</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Installation and configuration of Dynamics AX 2012 R3 and its related components, or</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Equivalent combination of education, experience, and training</b></h3>
+</li>
+<li>
+<h3 class="jobSectionHeader"><b>Authorization to work in the United States indefinitely without restriction or sponsorship</b></h3>
+</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Position is full-time, Monday-Friday, 8 a.m.-5 p.m., with overtime as needed. Candidates currently living within a commutable distance of St. Charles, MO. are encouraged to apply.</b></h3>
+<h3 class="jobSectionHeader"><b>As a Eurofins employee, you will become part of a company that has received national recognition as a great place to work. We offer excellent full-time benefits including comprehensive medical coverage, life and disability insurance, 401(k) with company match, paid holidays and vacation, personal days, and dental and vision options.</b></h3>
+<h3 class="jobSectionHeader">
+<b>To learn more about Eurofins, please explore our website </b><b>www.eurofinsus.com</b><b>.</b>
+</h3>
+<h3 class="jobSectionHeader"><b>Eurofins is a M/F, Disabled, and Veteran Equal Employment Opportunity and Affirmative Action employer.</b></h3>
+<div>Back Share
+<div></div>Apply Now</div>
+</div></div>

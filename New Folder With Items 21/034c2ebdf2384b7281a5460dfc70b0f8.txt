@@ -1,0 +1,35 @@
+<h2>Data Engineer- Irvine - CA</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Auction.com is the nation’s leading online real estate marketplace focused exclusively on the sale of residential bank-owned and foreclosure properties via online auctions and live trustee sale events. By offering access to exclusive properties and technology designed to seamlessly connect buyers and sellers, Auction.com empowers residential real estate investors and financial institutions to achieve optimal, mutually beneficial results – to go beyond the bid.
+<br><br>
+At Auction.com, our data engineers get the opportunity to learn and grow within the organization as we evolve. Our culture is a collaborative and employee centric environment with cool perks. This can be the start of something really great for your career and have the opportunity to learn with brilliant people.
+<br><br>
+This role encompasses the below tasks;
+<br><br>
+<ul>
+<li>Responsible for design, implementation, and ongoing support of the Big Data platforms (Hadoop, HBase, HIVE, Spark), ensure high availability and reliability</li>
+<li>Migrating large data sets between data centers and the cloud (such as AWS SQL server and Hadoop)</li>
+<li>Design, test and implement cloud BI / DW infrastructure</li>
+<li>Understand and support AWS native big data / analytics system</li>
+<li>Use Streaming, Spark &amp; Big Data technologies to enrich and transform data for real time ingestion and build low latency feeds.</li>
+</ul>
+Requirements to be successful are as follows;
+<br><ul>
+<li>Demonstrated experience with AWS Data Lakes/AWS EMR is required</li>
+<li>Thorough understanding of Hadoop ecosystem (HDFS, YARN, Hive, Pig, MapReduce, Spark, Spark2, Sqoop, Solr, kafka, oozie)</li>
+<li>Strong experience in setting up, configuraing, upgrading and managing security for Hadoop clusters, setting up Ranger policies for HDFS and Hive</li>
+<li>Experience in managing Hadoop cluster with Ambari and developing custom tools/scripts to monitor the Hadoop Cluster health</li>
+<li>Strong knowledge and hands on experience related to mission critical backup and recovery</li>
+<li>Strong experience with load balancing and high volume, high availability environments</li>
+<li>Able to automate administrative tasks using scripting languages (Python, Shell, Ansible)</li>
+<li>Strong working experiences of implementing Big Data processing using MapReduce algorithms and Hadoop/Spark APIs</li>
+<li>Experience building workflow to perform predictive analysis, muilti-dimensional analysis, data enrichment etc</li>
+<li>Understanding of software development methodologies and coding standards.</li>
+<li>A burning desire to master new technologies and apply them to real world challenges</li>
+</ul>
+If you have this experience it would be awesome;
+<br><ul>
+<li>Relational design, understand business requirements and perform data design reviews</li>
+<li>Data migration ETL concepts, open source ETL tools</li>
+<li>Working experience at a web or internet start-up experience</li>
+</ul>
+<b>To all recruitment agencies:</b> Auction.com does not accept agency resumes unless you are part of our preferred partner network. Please do not forward resumes to our jobs alias, Auction.com employees or any other company location. Auction.com is not responsible for any fees related to unsolicited resumes.</div>

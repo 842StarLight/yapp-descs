@@ -1,0 +1,34 @@
+<h2>Technical Writer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">ZoomInfo is looking for a principal technical writer to join our Product Team and play a critical role in designing and developing comprehensive, technical documentation for complex cloud-based software. In this role, you will be responsible for working with Engineers, Product Managers, development leads, UX designers, and quality assurance engineers to understand the features our development team is building, and for working with support teams and end-users to understand what information they will need in order to be successful. You will research and test new functionality, design and develop new documentation, update existing documentation, conduct documentation reviews, and evaluate the effectiveness of our documentation set.
+<br><br>
+<b>As a principal technical writer, you will:</b><br>
+<ul>
+<li>Work with Engineering, product managers, UX designers, and software developers to plan technical documentation content for new product features.</li>
+<li>Develop documentation information architecture and integrate input from stakeholders.</li>
+<li>Develop high-quality documentation content to ensure internal team and end-user success.</li>
+<li>Engage subject matter experts and organize content review and revision.</li>
+<li>Track and communicate product changes as part of a cross-functional product/engineering team.</li>
+<li>Collaborate in evaluating documentation effectiveness and developing improvement plans.</li>
+</ul>
+<b>If you are someone who:</b><br>
+<ul>
+<li>Wants to work on systems that are critical to customer success.</li>
+<li>Sees documentation as a form of user advocacy.</li>
+<li>Enjoys designing and developing information solutions to solve complex business problems.</li>
+<li>Loves the challenge of writing minimalist technical documentation.</li>
+<li>Builds consensus around team writing style and contributes to style guide development.</li>
+<li>Works cross-functionally to build effective software development organizations.</li>
+<li>Enjoys building documentation processes and infrastructure at a growing company.</li>
+</ul>
+<b>You will be responsible for:</b><br>
+<ul>
+<li>Writing API and related developer documentation</li>
+<li>Producing end-user documentation including in-product guidance, online help, release notes</li>
+<li>Authoring technical blogs</li>
+<li>Overseeing the documentation needs for the suite of software-as-a-service (SaaS) products</li>
+<li>Documentation for integrations with 3rd party products such as CRM and Marketing automation tools</li>
+</ul>
+<b>About us:</b><br>
+Built over 20 years ago, ZoomInfo Powered by DiscoverOrg has become the go-to-market standard for over 13,500 companies worldwide. Designed to be the single source of truth, the ZoomInfo platform offers best-in-class technology paired with unrivaled data coverage, accuracy, and depth of contacts, companies, and opportunities essential to empower sales, marketing and recruiting professionals to hit their numbers. Deeply embedded into business workflows and technology stacks-- including integrations with the leading CRM, Sales Engagement, Marketing Automation, and Talent Management applications - ZoomInfo is capable of delivering more predictable, accelerated, and sustainable growth than any stand-alone solution. ZoomInfo's investors include TA Associates, The Carlyle Group and 22C Capital.
+<br><br>
+All qualified applicants will receive consideration for employment without regard to race, color, ethnicity, religion, gender, national origin, disability and protected veterans status or any other personal characteristic protected by law.</div>

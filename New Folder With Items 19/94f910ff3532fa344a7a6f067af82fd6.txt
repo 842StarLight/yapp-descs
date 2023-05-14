@@ -1,0 +1,59 @@
+<h2>Applications Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Position Summary</b></p>
+<p>The Application Engineer will work as a bridge between Operations, Sales and Engineering teams through the development and improvement of application software. The Application Engineer will use company input and sales information to design or redesign, develop, test and implement complex software programs and applications. The Application Engineer will also provide technical support and expertise to the organization, testing applications, responding to company feedback, installations, and maintenance.</p>
+<p><b>Job Duties/Responsibilities </b></p>
+<ul>
+<li>Assist with review of the infrastructure and operational environment of the company and provide guidance on technological advances that align with company strategic goals.</li>
+<li>Compile and present for review records to determine department productivity, quality of output and cost of service.</li>
+<li>Assist with ensuring the quality of third party applications by communicating with all levels of systems users and offering direction and assistance as needed.</li>
+<li>Lead all efforts in providing support and development as needed for all third party production application software. Provide plans and status updates on all development and support functions performed including transition plans for software replacement.</li>
+<li>Participates in the research and evaluation of third party application software packages.</li>
+<li>Lead or participate in the implementation of new modules, enhancements, and software releases of third party packages, including identifying business issues,such as timing of the implementation, data conversion, training of personnel, identifying critical path, monitoring and reporting status, and adjusting the plan to meet targets.</li>
+<li>Develop project plans related to the third party application development initiatives from project planning and design through testing, implementation and maintenance.</li>
+</ul>
+<p><b>Qualification Requirements </b></p>
+<ul>
+<li>Bachelor’s degree in Computer Science or Computer Information Systems or equivalent specialized training and/or years of experience.</li>
+<li>Considerable understanding of current and emerging IT products, services, processes, and methodologies, along with a continuing understanding of the business function and process.</li>
+<li>1 to 3 or more years of experience in computer systems design.</li>
+<li>Experience in configuring third party application for business operations.</li>
+<li>Experience in integrating different applications using APIs.</li>
+<li>Experience in the design and maintenance of relational databases.</li>
+<li>Ability to translate abstract ideas into automated or non-automated solutions.</li>
+<li>Strong customer service orientation.</li>
+<li>Ability to work independently and as a member of a team.</li>
+<li>Proven analytical and problem-solving abilities.</li>
+</ul>
+<p><b>Physical demands and abilities</b></p>
+<ul>
+<li>Regularly spend long hours sitting and using office equipment and computers</li>
+<li>Regularly move from sitting to standing positions effortlessly</li>
+<li>Regularly see details of objects that are less than a few feet away</li>
+<li>Regularly speak clearly so listeners can understand</li>
+<li>Regularly understand the speech of another person</li>
+<li>Frequently work on projects that require deadlines</li>
+<li>Occasionally lift 5-10 pounds</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $50,000.00 to $80,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>Salesforce: 1 year (Preferred)</li>
+<li>API: 1 year (Preferred)</li>
+<li>Computer System Design: 1 year (Preferred)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Preferred)</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Paid time off</li>
+</ul>
+</div>

@@ -1,0 +1,54 @@
+<h2>Senior Systems Engineer- Pre-Sales</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Senior Systems Engineer
+</p>
+<div><div><div><div>
+<b>Job Description</b><br>
+Software AG Government Solutions is seeking a <b>Senior Systems Engineer- Pre-Sales </b>to provide pre-sales consulting services with a primary focus on webMethods to our customers in State &amp; local Government communities.<br>
+<br>
+We are a software company that addresses mission critical challenges with best-in-class software solutions for enterprise integration, Service-Oriented Architecture, Business Process Management, Fast Big Data, Complex Event Processing, in-memory computing and much more. Our core products are webMethods, Apama, Aris, and Alfabet. We are an agile, growth oriented, subsidiary of our billion-dollar parent organization – Software AG. We are exclusively focused on supporting the needs of the U.S. State and Local governments.<br>
+<br>
+Our webMethods software suite is the global leader in addressing integration challenges across complex extended enterprises at massive scale. The highly differentiated platform is used by some of the largest corporations and government entities in the world to complete billions of transactions every day. We specialize in tackling the most difficult requirements for our customers leveraging a highly effective “<i>Prove IT First and Prove IT Fast”</i> approach. This approach has been proven to minimize risks while building trusting relationships with our customers.<br>
+<br>
+<b>Primary Job Responsibilities</b>
+<ul>
+<li>Provide pre-sales consulting services to help our customers solve complex business problems using the Software AG portfolio of software which will require working closely with the sales and consulting teams</li>
+<li>Lead or participate in a collaborative team environment and demonstrate the ability to work independently with appropriate direction to provide high-quality deliverables and recommendations using relevant best practices.</li>
+<li>Identify additional product sales and professional services opportunities, assist in proposal development, respond to customer requests for information, and participate in relevant business capture initiatives.</li>
+<li>Create and implement successful and innovative solutions that run, manage and optimize clients’ key business processes</li>
+</ul> <b>Requirements and Experience</b>
+<ul>
+<li>BS in Computer Science, Engineering or another computer related degree with 5+ years of related work experience</li>
+<li>Demonstrated success in a pre-sales, system engineering or professional services consulting capacity in a leadership or individual contributor role</li>
+<li>Deep experience in Enterprise Integration, Micro-Services, Business Process Management (BPM), SOA Governance and Process Automation or E-commerce solutions including webMethods, TIBCO, Oracle Fusion Middleware, Appian, Mulesoft, IBM Websphere, Metastorm or other integration tools</li>
+<li>Additional relevant experience in one or more of the following technologies is a plus:
+<ul>
+<li>Business Process Management (BPM), Business Process Analysis &amp; Reengineering, Governance, Risk &amp; Compliance (GRC), enterprise application design and system architecture using Business Process Modeling and Enterprise Architecture modeling tools including Aris, System Architect, Troux, MEGA, PowerDesigner, or other similar tools</li>
+<li>IT Transformation, IT Portfolio Management, and Enterprise Architecture Management using IT planning tools including Alfabet, Planview, CA Technologies PPM, EOS Software PPM, or other similar software packages</li>
+<li>Fast Big Data, In-Memory Computing technologies, Streaming Data, Complex Event Processing, Real-time Analytics, Universal Messaging and Java caching concepts using Ehcache, Terracotta, TimesTen, GridGain, Hazelcast or other Fast Big Data solutions.</li>
+<li>Real-time Analytics &amp; Data Visualization tools including Mashzone NextGen, Presto or other similar tools</li>
+<li>Data Management solutions including traditional and in-memory databases including Oracle, SQL Server Sybase, Informix, DB2, Adabas</li>
+<li>Experience developing enterprise and web applications in the latest development tools and programming languages including Java, C/C++, .NET or other object oriented programming languages ; a plus would be some experience with COBOL, Natural or other legacy languages</li>
+<li>Familiarity with ERP tools like PeopleSoft, SAP, Oracle Applications or CRM tools like Siebel, Clarify, and Vantive</li>
+<li>Mainframe Modernization, Mainframe Integration, and Mainframe Offloading using Software AG solutions or other similar tools</li>
+<li>Transaction Processing Platforms including ADABAS or Natural</li>
+</ul>
+</li>
+<li>Experience in the latest enterprise operating systems including Linux, Unix or Windows including the ability to administer, configure, tune and troubleshoot complex environments</li>
+<li>Demonstrate excellent customer service, effective communication, strong problem solving ability, organizational abilities, and polished presentation skills</li>
+<li>Ability to master a broad range of expertise ranging from understanding the business process to collecting and analyzing business and technical requirements.</li>
+<li>Willingness to travel to customer sites regionally or nationally as necessary</li>
+<li>U.S. Citizenship preferred</li>
+<li>Preferred location is Midwest or West Coast based</li>
+</ul> <b>About</b><br>
+Software AG Government Solutions is headquartered in a new facility located in the Worldgate area of Herndon, Virginia. We are within walking distance to many restaurant options and a large fitness facility, with corporate membership rates. We offer a flexible work/life balance, a generous benefits package, and the opportunity to earn above average compensation.<br>
+<br>
+© 2019 Software AG. All rights reserved. Software AG and all Software AG products are either trademarks or registered trademarks of Software AG. Other product and company names mentioned herein may be the trademarks of their respective owners.<br>
+<br>
+<i>Software AG Government Solutions is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration without regard to race, age, religion, color, marital status, national origin, gender, gender identity or expression, sexual orientation, disability, or veteran status. Click on the link to view the full EEO statement</i><br>
+<i>
+</i><br>
+<i>http://www.softwareag.com/corporate/images/EEO_Statement_tcm16-130491.pdf</i>
+</div></div></div></div>
+<div></div>
+</div>

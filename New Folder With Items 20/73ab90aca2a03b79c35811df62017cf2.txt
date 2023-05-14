@@ -1,0 +1,86 @@
+<h2>Application Analyst II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Summary: The Application Analyst II collaborates with others in the creation or modification of business IT applications. This role requires working with all departments in order to understand business needs and create functional specification documents.<br>
+<br>
+Essential Duties and Responsibilities include the following. Other duties may be assigned.<br>
+<ul>
+<li>Accurately track and estimate costs in terms of time and materials for medium sized IT projects</li>
+<li>Build/obtain training materials for support staff</li>
+<li>Comply with all legislative/statutory obligations and company policies (PCI, ADA, PII, and Sarbanes Oxley, etc.)</li>
+<li>Conduct and/or coordinate end-user training sessions</li>
+<li>Consult with management teams to ensure agreement on system design principles</li>
+<li>Create and maintain application documentation including, but not limited to, technical (flow charts and process diagrams), end-user, FAQ, change/configuration management, disaster recovery, and functional requirements</li>
+<li>Design and develop custom reports, and configuration of third-party interfaces</li>
+<li>Determine what computer software or hardware components are needed to set up or alter a new or existing system</li>
+<li>Develop understanding of the varied and complex current and future support needs of the current systems. Provides ideas and recommendations regarding the support of the systems</li>
+<li>Maintains processes required to receive, review, balance and deliver theatre and corporate data</li>
+<li>May liaison with IT and/or outside vendors as assigned in support of the systems</li>
+<li>Monitor and manage open ticket status for both internal and vendor supplied solutions</li>
+<li>Participate in all corporate application disaster recovery activities</li>
+<li>Provide users with assistance solving system problems such as application and data processing malfunctions</li>
+<li>Provides day-to-day user support</li>
+<li>Responds to questions regarding current and potential system inputs, processes, and outputs. Conducts research and analysis into system problems</li>
+<li>Responsible for 1st/2nd level support for assigned systems including software applications and data processing functions necessary to support business needs. Occasional off-hours on-call support is required to support mission critical systems.</li>
+<li>Responsible for internally developed software maintenance, system configuration, testing, and deployment to respond to new business needs or improve work flow</li>
+<li>Responsible for the maintenance of purchased applications</li>
+<li>Supports processes required to receive, review, balance and deliver theatre and corporate data</li>
+<li>System Administration including user administration, security, application configuration and participates in compliance audits.</li>
+<li>Test, install, maintain, and monitor computer applications and systems</li>
+<li>Through formal and informal training, continue development of personal and professional skills. Establish and participate in industry and other professional networks to ensure awareness of social, economic and other trends that may affect the business or direction of the Company’s initiatives, policies and programs</li>
+<li>Use of relational databases and object-oriented programming languages along with client/server application development processes and Internet technologies to solve business problems</li>
+<li>Use techniques such as structured analysis, data modeling, information engineering, mathematical modeling, and standard accounting principles to ensure plans are efficient and complete</li>
+<li>Works with various Business Units, Systems Analyst and Business Analysts to develop and understand business processes</li>
+<li>Perform other duties as assigned</li>
+<li>Regular and consistent attendance</li>
+</ul>
+</div>
+<br><div>Qualifications:<br>
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br>
+<br>
+Professional Skills:<br>
+<ul>
+<li>Ability to converse with individuals within various business units, and understand business concepts.</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Ability to work as part of a team</li>
+<li>Ability to effectively prioritize and handle multiple work assignments.</li>
+</ul>
+<br>
+Education/Experience:<br>
+<ul>
+<li>College degree preferred</li>
+<li>Minimum of 4 years’ experience in an IT systems development and support role.</li>
+<li>Experience supporting ASP.Net Web API REST and SOAP based web services and other service oriented technologies.</li>
+<li>Experience supporting thin-client internet/intranet applications using IIS, Azure, and ASP.NET MVC technologies; Apache Tomcat experience is a plus.
+</li>
+<li>Experience supporting enterprise class systems such as Accounting, Payroll, Timekeeping, ERP, and Point-of-Sale is desired. Experience in theatre IT is preferred.</li>
+</ul>
+<br>
+Certificates, Licenses, Registrations:<br>
+None<br>
+<br>
+Language Ability:<br>
+Ability to read, analyze, and interpret general business periodicals, professional journals, technical procedures, or governmental regulations. Ability to write complex reports, business correspondence, and procedure manuals. Ability to effectively present information and respond to questions from groups of managers, clients, customers, and the general public.<br>
+<br>
+<br>
+Math Ability:<br>
+Ability to add, subtract, multiply, and divide in all units of measure, using whole numbers, common fractions, and decimals. Ability to compute rate, ratio, and percent, and to develop and interpret charts.<br>
+<br>
+Reasoning Ability:<br>
+Perform under pressure and/or opposition at times relying on your own independent judgment and knowledge to decide the best directions and solutions.<br>
+Ability to define problems, collect data, establish facts, and draw valid conclusions. Ability to interpret an extensive variety of technical instructions in mathematical or diagram form and deal with several abstract and concrete variables
+<br>
+<br>
+Computer Skills:<br>
+Microsoft Outlook, Word, Excel, database software<br>
+<br>
+Supervisory Responsibilities:<br>
+This position has no direct supervisory responsibilities.<br>
+<br>
+Work Environment:<br>
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br>
+The noise level in the environment is moderate.<br>
+<br>
+Physical Demands:<br>
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br>
+While performing the duties of this job the employee is frequently required to stand; walk; sit and use hands to finger, handle, or feel; reach with hands and arms; climb or balance; stoop, kneel, crouch, or crawl and talk or hear. The vision requirements include: close vision, distance vision, peripheral vision, depth perception and ability to adjust focus. The employee is occasionally required to lift up to 50 pounds.</div>
+</div>

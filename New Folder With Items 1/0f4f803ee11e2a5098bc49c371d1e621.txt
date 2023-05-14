@@ -1,0 +1,50 @@
+<h2>SAP SD and Convergent Invoicing Systems Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Magic Leap's mission is to harmonize people and technology to create a better, more unified world. Magic Leap is a team of creatives and technologists building a personal, spatial computing platform that seamlessly blends the digital and physical worlds. Magic Leap's Enterprise Integration Office (EIO) is looking for an experienced SAP SD &amp; Convergent Invoicing Systems Analyst to guide the design, development, delivery and support of features and functionality of our sales, billing and invoicing, and payment capture processes including Paymetric, Paypal and Financing options.
+<br><br>
+<b>Job Description:</b><br>
+The SAP Sales and Distribution Systems Analyst will be responsible for the design, configuration, delivery and support of solutions using the following tools: SAP S/4 HANA SD Modules integrated with, Hybris Billing - Convergent Invoicing, Paymetric and other payment capture and processing applications. The role will be responsible for continuously improving the processes related to Order to Cash and integration of payment options for physical, digital and subscription sales. The incumbent will interact cross functionally with: Sales, Finance, Cloud and Software teams.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Elicit and document business and technical requirements;</li>
+<li>Architect solutions that drive system transaction processes of customer creation, sales, billing, payment and settlement processing for digital goods, physical goods and services;</li>
+<li>Lead the design and configuration of functionality in S/4 for end to end order to cash process</li>
+<li>Solution design and configuration for billing, invoicing and settlement for payment processing using PayPal, Paymetric and other solutions.</li>
+<li>Lead blueprinting and requirement gathering phases;</li>
+<li>Troubleshoot technical issues in S/4</li>
+<li>Continuous review of existing systems and processes to identify opportunities for improvement and automation;</li>
+<li>Engage business partners in evaluating opportunities for both process and system improvements.</li>
+<li>Collaborate with team members to build solutions improving the O2C processes in accordance with business requirements;</li>
+<li>Work closely with architects/analysts to ensure process consistency across processes and systems;</li>
+<li>Serve as subject matter expert (SME) for SAP enhancements and planning related to O2C and Royalty processes;</li>
+<li>Serve as SME lead in creation of test scripts, functional testing, and documentation of test results;</li>
+<li>Provide training to business users as needed to enable self sufficiency;</li>
+<li>Work with internal &amp; external audit team as needed;</li>
+<li>Identify reporting needs and design reports using standard functionality and enhancements with SAP and other reporting tools.</li>
+</ul>
+<b>Qualifications:</b><br>
+<ul>
+<li>7+ years of SAP SD (including S4 experience) experience with 3+ years of integration with credit card payment processing</li>
+<li>Experience in solution design and configuration of SAP in SD;</li>
+<li>Experience with pricing, discounts, charge-backs, rebates, commissions and royalties</li>
+<li>Experience with Subscription Billing business processes for digital goods and services</li>
+<li>Technical experience in BITs Configuration and Billing Integration</li>
+<li>MS Excel advanced level proficiency;</li>
+<li>Semiconductor/Telecom industry knowledge is a plus;</li>
+<li>Capable of managing multiple priorities and meeting closely-spaced, ambitious timelines;</li>
+<li>Outstanding written and verbal communication skills;</li>
+<li>Ability to lead a team of analysts and developers in various geographies;</li>
+<li>Knowledge of security role design in SD/Billing;</li>
+<li>Knowledge of month-end, quarter-end and year-end close processes</li>
+<li>Expert level experience in Billing and SD business processes</li>
+<li>Experience with SAP intercompany processing and Third Party Shipping processing.</li>
+<li>Experience with EDI, IDOC, and PI</li>
+<li>Experience using LSMW, SAP Query</li>
+</ul>
+<b>Education:</b><br>
+<ul>
+<li>Bachelor's degree (B.A.) from four-year college or university in Business Administration, Finance, Accounting, Engineering, Science or a related field</li>
+</ul>
+Additional Information
+<br><br>
+All your information will be kept confidential according to Equal Employment Opportunities guidelines.</div>

@@ -1,0 +1,100 @@
+<h2>Sr. Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<p><b>Description</b></p>
+<p>
+Looking for a new opportunity? As the leading sports apparel and headwear retailer, LIDS is looking for an experienced software developer to help us grow our 1,000 plus strong store base. You’ll have a hands-on, vital role in ensuring that millions of products get to the right place at the right time. LIDS is a Scaled Agile Framework (SAFe) development shop and follows a DevOps practice. If you’re up for a serious but fun challenge, come join our Indianapolis based development team!</p>
+<p><b>
+Job Overview</b></p>
+<p>
+LIDS is seeking a senior level developer to join our IT team. The team is responsible for developing solutions and integrations for our Warehouse management, Merchandising, and EDI systems. Strong candidates will have experience with database development with products such as Oracle or Microsoft SQL Server. Candidates will also have experience developing integrations between in-house and third-party systems.</p>
+<p><b>
+Principle Duties and Responsibilities:</b></p>
+<ul>
+<li>
+Participate in the Agile SAFe DevOps design, development, testing, and release of new capabilities and features with a focus on release and post-production support.</li>
+<li>
+Work with Product Owners, Product Managers and other department leaders to translate business requirements into data models, develop/schedule ETLs, build data cubes, filter, and validate results.</li>
+<li>
+Active involvement in daily stand up meetings.</li>
+<li>
+Working with Database Administrator(s) and Architecture group to plan, design, configure, install, and deploying databases.</li>
+<li>
+Collaborate with related IT teams to build, test, and implement system changes.</li>
+<li>
+Design and develop using appropriate software design patterns, tiered architecture, and testing practices to attain high re-usability and maintainability.</li>
+<li>
+Ability to solve complex problems by applying best practices.</li>
+<li>
+Lead process improvements and design enhancements to automation and continuously improve all environments.</li>
+<li>
+Design and develop database objects within Oracle or SQL environments.</li>
+<li>
+Develop and maintain ETL packages for the importing and transforming data in Oracle or SQL Server.</li>
+<li>
+Participate in code reviews to enforce standards and best practices.</li>
+<li>
+Troubleshoot problems and coordinate with other team members to drive resolution of issues with a focus on minimizing impact to the business.</li>
+<li>
+Ability to provide direction and mentor less experienced teammates.</li>
+<li>
+Excellent communication, problem solving, and analytical skills is a must.</li>
+<li>
+Flexibility to balance multiple assignments in a fast-paced environment.</li>
+<li>
+Serve on a flexible rotating on-call support team for issues.</li>
+<li>
+Create and maintain documentation such as operational information, troubleshooting techniques, and knowledge-based information.</li>
+</ul>
+</div>
+<div>
+<div>
+<h2 class="jobSectionHeader"><b>Minimum Requirements</b></h2>
+</div>
+<div>
+<p><b>Minimum Requirements</b></p>
+<p><b>
+Job Required Knowledge, Skills and Education</b></p>
+<p>
+1. Bachelor’s degree in Information Technology, Computer Science, or equivalent.</p>
+<p>
+2. 5+ years developing in relational database environments such as Oracle or SQL Server with strong T-SQL and/or PL/SQL programming skills.</p>
+<p>
+3. 5+ years of experience with application development languages.</p>
+<p>
+4. 2+ years of creating database integrations leveraging tools such as Microsoft SSIS or Data factory tools.</p>
+<p>
+5. Strong grasp of job automation, task scheduling software, and performance monitoring tools.</p>
+<p>
+6. Experience with agile development methods including: core values, guiding principles, and key agile practices.</p>
+<p>
+7. Tend to take strong ownership, urgency, and drive to launch new services, set new standards, and implement automation at a large scale.</p>
+<p>
+8. Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in technology communities, and mentor other developers.</p>
+<p>
+9. Can be flexible, agile, dependable, and responsive even when there are a lot of moving parts and prefer that over following rigid processes and guidelines.</p>
+<p><b>
+Desired Skills:</b></p>
+<p>
+1. 2+ years creating APIs including SOAP, REST (JSON, XML, and plain text).</p>
+<p>
+2. 2+ years working with scripting languages such as PowerShell.</p>
+<p>
+3. 1+ year(s) developing in a cloud environment such as Microsoft Azure.</p>
+<p>
+4. Experience using Microsoft Azure DevOps tools.</p>
+<p>
+5. Preference toward a strong working knowledge of the retail and distribution industry and its functions including the following areas: Finance, Retail Sales, Manufacturing, Purchase Order Entry, Supply Chain Management, Inventory Management, and Merchandising.</p>
+<p><b>
+Physical/ Travel Requirements:</b></p>
+<p>
+1. In order to perform the essential functions of this job, an employee must be able to meet the following physical demands: While performing the duties of this job, the employee is frequently required to sit; talk; or hear. The employee is occasionally required to use hands to finger; handle; or feel; reach with hands and arms; Specific vision abilities required by this job include close vision, distance vision and depth perception<br>
+</p>
+<p>
+This position requires less than 10% travel</p>
+</div>
+</div>
+</div>
+<p></p>
+</div>

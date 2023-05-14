@@ -1,0 +1,33 @@
+<h2>Software Engineering Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>WHAT WE'RE LOOKING FOR:</b><br>
+The retail systems team develops the robust technology that enables our 30M members to complete their magical on line shopping experience starting with the shopping cart and managing their precious order to shipping and returns. We're looking for a collaborative, innovative, decisive, Hands-On Software Engineering Manager who is comfortable directing a team of engineers in an agile environment on our retail systems integration and development efforts for an eCommerce company that processes thousands of sales daily and hundreds of millions of dollars in revenue per year.
+<br><br>
+This person is a Hands-On Manager who will provide coaching and mentoring to developers; collaborate with a platform architect; work with leadership as well as stakeholders outside of technology to agree on goals, support and expectation.
+<br><br>
+<b>WHAT YOU'LL ACCOMPLISH:</b><br>
+You'll contribute to authoring the direction of the team while eliminating any obstacles to success.
+<br><br>
+<b>WHAT WE GIVE AND WHAT YOU'LL GET:</b><br>
+You'll work in a collaborative culture of innovators who make decisions promptly backed by data in a modern development environment. You'll have the support of a team of highly talented developers and stakeholders on the same mission: to help Rue Gilt remain a global leader in our industry while being exposed to the latest cloud technologies.
+<br><br>
+Rue Gilt Groupe encourages continuous learning for all of our associates in all of our offices through unlimited Udemy classes. Rue offers competitive salary, comprehensive benefits, 25% discount on our site, casual dress, bagel Fridays, summer Fridays, 401k, free shuttles to Boston train stations and more.
+<br><br>
+<b>WHAT YOU HAVE:</b><br>
+<b>The ideal candidate will possess the following:</b><br>
+<ul>
+<li>Solid management skills and the latest Java technology experience</li>
+<li>A working knowledge of Agile/Scrum, C# experience in a production environment</li>
+<li>Python is a preferred skill or mastery of another dynamic language</li>
+<li>This person should be comfortable leading sprints</li>
+</ul>
+<b>FOR BONUS POINTS:</b><br>
+If you've got everything going on above, you're already a strong fit. If you have worked on modern technologies like Golang, Spring Cloud, Docker and microservices, you earn some extra credit from us.
+<br><br>
+<b>ABOUT THE TEAM:</b><br>
+Our retail team is super impactful working in a collaborative iterative agile environment. We believe in providing the best possible experience we can with a technology focused culture that not only tries to lift the bar on features every sprint, but also stability and performance.
+<br><br>
+<b>ABOUT RUE GILT GROUPE:</b><br>
+Rue Gilt Groupe combines world-class merchandising, technology and marketing to create the most engaging and satisfying online shopping experience available. Each day, 30+ million loyal Members turn to Rue La La and Gilt Groupe for everything from women, men and children's apparel and accessories to home décor and exclusive experiences. Our approach to retail brings excitement to online shopping in a way that not only strategically supports our brand partners, but also inspires our Members daily.
+<br><br>
+This Company is an equal opportunity employer, and selects individuals best matched for the job based upon job-related qualifications regardless of race, religion, color, creed, sex, sexual orientation, age, ancestry, national origin, gender identity, genetic information, disability, pregnancy, veteran or military status or any other status or characteristic protected by law.</div>

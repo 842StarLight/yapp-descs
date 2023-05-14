@@ -1,0 +1,47 @@
+<h2>Full Stack - Software Engineer I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Datto, the world's leading provider of IT solutions delivered through managed service providers, is looking for a Software Engineer to join a growing team. Datto is a creative company at its core and is an exciting and dynamic workplace. We're 100% focused on our managed service provider partners and believe that with the right technology, managed service providers can change how businesses around the world operate. Datto provides data protection, business continuity, networking, business management, and file backup and sync products that empower and protect the clients of our 14,000+ partners. We're headquartered in Norwalk, Connecticut and have 22 offices worldwide.
+<br><br>
+About the Datto Software Engineering team…
+<br><br>
+Our engineering teams work directly with stakeholders in our product, sales, and technical support departments to build the right solutions, the right way, so we can continuously deliver reliable, high-quality products to our MSP partners. We speak many languages like Scala, PHP, Java, C#, Ruby, English, French, Spanish, Korean and Mandarin to name a few, but what's most important is technical excellence agnostic of language. We embrace Agile principles and bring those values to how we work. Collaboration, teamwork, open communication, and transparency are vital to our success. Our team embodies these values as we work together to solve complex challenges. Trust and accountability are the pillars of our company, and having a can-do attitude is central to being a team member.
+<br><br>
+<b>About You:</b><br>
+<ul>
+<li>Independent, driven, creative, flexible, and enjoys taking ownership</li>
+<li>Comfortable communicating with a wide variety of stakeholders to understand and execute on technology roadmaps</li>
+<li>Passionate technologist looking to teach and learn from the best in software development</li>
+<li>3+ years of experience in an object-oriented language (e.g. Java, PHP, C++, Scala)</li>
+<li>Experience with modern front-end technology stacks including HTML, CSS, JavaScript, TypeScript and client-side, component-oriented libraries</li>
+<li>Strong computer science fundamentals: data structures, design patterns, and algorithms</li>
+<li>Experience with relational databases (e.g. MySQL)</li>
+<li>Experience with distributed version control software (e.g. Git, Subversion, etc.)</li>
+<li>Experience developing in a Linux environment</li>
+<li>Experience with API development (e.g. RESTful, JSON-RPC, SOAP)</li>
+<li>Familiarity with development frameworks (e.g. Akka, Zend, Spring, Symfony, .NET)</li>
+<li>Bachelors in Computer Science, Software Engineering, or equivalent experience</li>
+<li>Experience designing, building and deploying scalable, highly available systems</li>
+<li>Familiar with continuous integration, unit/automated testing, and quality delivery</li>
+<li>Familiar with agile development</li>
+</ul>
+What's in it for you?
+<br><br>
+In addition to joining an amazingly talented international team we have a great benefits package including…
+<br><br>
+<ul>
+<li>Competitive salary + healthcare</li>
+<li>Free lunch every Friday</li>
+<li>Flexible working hours and flexible paid time off</li>
+<li>Free food, drinks, and fresh organic fruit</li>
+<li>Fitness reimbursement</li>
+<li>Charity matching</li>
+<li>Transit subsidy</li>
+<li>Education reimbursement</li>
+<li>And more!</li>
+</ul>
+Relocation assistance and/or remote work opportunities may also be available, depending on team and location.
+<br><br>
+<b>Note:</b> We are looking only for candidates willing to join us directly as W2 employees (No 3rd party candidates)
+<br><br>
+By submitting an application, you acknowledge we will process your data in order to consider you for the position you apply for and for other open positions within our company for which you may be suited. We collect and store your data in accordance with our Recruiting Privacy Practices.
+<br><br>
+Datto is an equal opportunity employer.</div>

@@ -1,0 +1,47 @@
+<h2>Operational Integration Consultant - Oil & Gas</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Basic Qualifications:<br>
+<ul>
+<li>5+ years of experience building sophisticated and automated operational management platforms in a Cloud or On-Premises environment, particularly building service integration capabilities between multiple platforms</li>
+<li>At least 5 of years of experience delivering technology solutions to Oil &amp; Gas global customers to enable technologies and cloud services.</li>
+<li>Qualified in ITIL, TOGAF or similar ITSM frameworks, particularly focused on Service Operations or Service Transition</li>
+<li>Highly technical and analytical, possessing significant IT implementation and operations experience</li>
+<li>Deep hands-on experience working on the design, development and deployment of an enterprise supporting systems at a global scale</li>
+</ul>
+</div>
+<br>
+<div>At Amazon Web Services (AWS), we’re hiring highly technical and experience cloud computing Operations consultants to collaborate with our customers and partners on key engagements. Our experienced consultants specializing in Operational Integration will help our enterprise customers understand, plan and implement best practices around managing and operating their AWS cloud environments. Our consultants will deliver proof-of-concept projects, re-usable artifacts, reference architectures, and lead implementation projects to assist some of the world’s leading enterprises in the integration of new, or their existing, operational toolsets with the AWS platform. Professional Services engagements will focus on key customer solutions in large enterprises, assisting in enabling their integration with existing enterprise operational systems and processes.<br>
+<br>
+Professional Services engage in a wide variety of projects for customers and partners, providing collective experience from across the AWS customer base and are obsessed about strong success for the Customer. Our team collaborates across the entire AWS organization to bring access to product and service teams, to get the right solution delivered and drive feature innovation based upon customer needs.<br>
+<br>
+Responsibilities include:<br>
+<ul>
+<li>Expertise - Collaborate with AWS field sales, pre-sales, training and support teams to help partners and customers learn how to leverage their existing investment in operational capability and tooling.</li>
+<li>Solutions - Define and deliver on-site technical engagements with partners and customers. This includes participating in pre-sales on-site visits, understanding customer requirements, proposing and delivering packaged offerings, and delivering custom solution engagements, specifically focused on ITSM tooling and integration.</li>
+<li>Delivery - Engagements include short on-site projects proving the use of AWS services to support new distributed computing solutions that often span private cloud and public cloud services. Engagements will include integration and adaption of existing enterprise operations monitoring, and orchestration systems to extend an enterprise’s capabilities into AWS cloud services.</li>
+<li>Insights - Work with AWS engineering and support teams to convey partner and customer needs and feedback as input to technology roadmaps. Share real world implementation challenges and recommend new capabilities that would simplify adoption and drive greater value from use of AWS cloud services. Contribute to best practice in the form of whitepapers and playbooks.</li>
+<li>Partnering – Work with new vendors to help them become MSPs and enable and upskill existing partners.</li>
+</ul>
+<br>
+** Extended travel to customer locations may be required to sell and deliver professional services as needed</div>
+<br>
+<div>Preferred qualifications:<br>
+<ul>
+<li>AWS Experience</li>
+<li>Strong verbal and written communication skills, with the ability to work effectively across internal and external organizations.</li>
+<li>BS degree in Computer Science or Engineering background preferred; Masters degree desired</li>
+<li>Integration of AWS cloud management services (e.g. CloudWatch, CloudTrail, IAM) with on-premise technologies from Microsoft, IBM, Oracle, HP, SAP etc</li>
+<li>Strong practical Linux and Windows-based systems administration skills in a Cloud and on-premises environment</li>
+<li>Building and maintaining run-book style automation or orchestration platforms in global, distributed Enterprise IT environments</li>
+<li>Deploying and managing operations and monitoring tools such as MS System Center, HP OpenView, BMC, Tivoli, Nagios, SiteScope, etc.</li>
+<li>Previous experience working with CMDB and change management solutions such as Remedy, Atrium, ServiceNow, CA etc</li>
+<li>Previous experience assessing, optimizing, managing, automating enterprise IT service management processes</li>
+<li>Previous experience implementing and managing Enterprise SIEMs and/or Operational Data Warehouse systems where logs, alerts, event info etc are forwarded to, processed and stored</li>
+<li>Experience implementing and managing revision control source code repositories (Git, SVN, Team Foundation Server, Perforce etc.)</li>
+<li>Management of continuous integration and continuous deployment (CI/CD) servers such as Jenkins, Atlassian Dev Tools and TeamCity</li>
+<li>Implementation of showback and chargeback systems in large enterprise IT environments, including on-going cost optimization corrective actions</li>
+<li>Integration and federation of identity and access management systems such as Active Directory, including management (IAM) and administration of role based, fine grained resource controls</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.</div>
+</div>

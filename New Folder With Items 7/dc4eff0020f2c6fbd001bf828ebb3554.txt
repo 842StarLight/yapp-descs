@@ -1,0 +1,119 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>Job Overview:</b></div>
+<div></div>
+<br>
+<div>
+This Senior Software Engineer will join the Macy’s Technology Fulfillment technology team, where we strategically plan, analyze and produce results that drive the efficiency of Macy’s Supply chain. Members of the team are exceptional engineers who have the passion to develop build new robust software with cutting edge technologies and data techniques to discover solutions and build knowledge from the ground up while driving results that produce tangible impact and sustainable change. We create a wide array of solutions for problems in order optimization, pick path optimization, work scheduling and assignment and optimized bin packing algorithms.</div>
+<div>
+<br>
+A successful candidate must have the expertise to translate business requirements into well-engineered cloud application systems on Google Cloud, Azure or AWS. Interface with internal customers to determine the most efficient and cost-effective approach to meet business requirements and design, develop, test, install, and deploy the required software applications. Develop solutions utilizing a variety of software technologies, including new code construction, modifications to existing modules, configuration and/or package implementation.<br>
+</div>
+<div>
+<br>
+This position will be responsible for the development, deployment automation, and support of applications for a specific area, leveraging his/her expertise and knowledge of multiple systems. This position will work closely with Software Engineers, Technical Leads, and Management in a highly collaborative environment. Perform other duties as assigned.</div>
+<div>
+<br>
+<b>
+Essential Functions:</b>
+</div>
+<ul>
+<li><div>
+Perform coding/configuration, testing, implementation and documentation on solutions developed including design specifications.</div></li>
+<li><div>
+Perform applications programming activities, to include code, test, debug, document, maintain, and modify applications programs.</div></li>
+<li><div>
+Ability to extract, analyze, and report the data.</div></li>
+<li><div>
+Strong attention to detail when identifying data relationships, trends, and anomalies.</div></li>
+<li><div>
+Monitor the application for operating efficiency and performance stability in order to provide (or arrange) proactive maintenance.</div></li>
+<li><div>
+Lead and proposed a solution to complex application issues.</div></li>
+<li><div>
+Serve as a coach and mentor to less experience developers and delegate tasks as appropriate.</div></li>
+<li><div>
+Commit to overall deliverables with customers and/or management.</div></li>
+<li><div>
+Flexibility to work across all functions/levels as part of a dynamic team.</div></li>
+<li><div>
+Support the evaluation and recommendation of new technical directions and approaches to management.</div></li>
+<li><div>
+Regular, dependable attendance and punctuality.</div></li>
+</ul>
+<div><b>
+Qualifications:</b></div>
+<div>
+<br>
+<b>
+Education/Experience:</b>
+</div>
+<ul>
+<li><div>Bachelor’s Degree in Computer Science/Engineering and 4+ years of related experience or an equivalent combination of education and experience.</div></li>
+<li><div>
+3+ years’ experience of software designing and developing web and enterprise applications.</div></li>
+<li><div>
+Deep technical understanding of Java/J2EE, Spring, REST, Hibernate, JAXB and JMS.</div></li>
+<li><div>
+Experience with database technologies and creating SQL queries.</div></li>
+<li><div>
+Experience leading a small project or a part of a larger project.</div></li>
+</ul>
+<div>
+<b>
+Communication Skills:</b>
+</div>
+<ul>
+<li><div>Demonstrated ability to effectively share technical information and train and mentor less experienced or knowledgeable team members.</div></li>
+<li><div>
+Advanced presentation (written and verbal) communication skills. Ability to effectively communicate technical issues and solutions to all levels of Product Engineering and Product Management.</div></li>
+</ul>
+<div><b>
+Mathematical Skills:</b></div>
+<ul><li><div>
+Basic math functions such as addition, subtraction, multiplication, division, and analytical skills.</div></li></ul>
+<div><b>
+Reasoning Ability:</b></div>
+<ul><li><div>
+Strong analytical and problem-solving skills.</div></li></ul>
+<div><b>
+Physical Demands:</b></div>
+<ul>
+<li><div>
+This position involves regular walking, standing, sitting for extended periods of time, hearing, and talking.
+</div></li>
+<li><div>May occasionally involve stooping, kneeling, or crouching.
+</div></li>
+<li><div>May involve close vision, color vision, depth perception, focus adjustment, and viewing computer monitor for extended periods of time.</div></li>
+<li><div>
+Involves manual dexterity for using keyboard, mouse, and other office equipment.</div></li>
+<li><div>
+May involve moving or lifting items under 10 pounds.</div></li>
+</ul>
+<div><b>
+Other Skills:</b></div>
+<ul>
+<li><div>
+Understanding of full life cycle software development with Agile and Lean Startup methodologies.</div></li>
+<li><div>
+Knowledge of Unit Testing best practices and Continuous Integration processes.</div></li>
+<li><div>
+Ability to effectively learn and use new programming concepts, tools and methodology to support the needs of the business.</div></li>
+</ul>
+<div><b>
+Work Hours:</b></div>
+<ul><li><div>
+Ability to work a flexible schedule based on department and company needs.</div></li></ul>
+<div>
+<b>
+Company Profile:</b><br>
+</div>
+<div>
+<br>
+Macy’s Inc. is one of the nation’s premier retailers. With fiscal 2016 sales of $25.778 billion and approximately 140,000 employees, the company operates more than 700 department stores under the nameplates Macy’s and Bloomingdale’s, and approximately 125 specialty stores that include Bloomingdale’s The Outlet, Bluemercury and Macy’s Backstage. Macy’s, Inc. operates stores in 45 states, the District of Columbia, Guam and Puerto Rico, as well as macys.com, bloomingdales.com and bluemercury.com. Bloomingdale’s stores in Dubai and Kuwait are operated by Al Tayer Group LLC under license agreements. Macy’s, Inc. has corporate offices in Cincinnati, Ohio and New York, New York.<br>
+</div>
+<div>
+<br>
+<b>This job description is not all inclusive. Macy’s Inc. reserves the right to amend this job description at any time. Macy's Inc. is an Equal Opportunity Employer, committed to a diverse and inclusive work environment.</b>
+</div>
+</div></div>

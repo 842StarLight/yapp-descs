@@ -1,0 +1,53 @@
+<h2>Senior Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Ziosk</b> is revolutionizing the experience and economics of the $472 billion restaurant industry.</p>
+<p>
+Ziosk places interactive touchscreen devices on each and every table in the restaurant that enables guests to order food &amp; drinks, play games, and pay on demand. Today there are over 180,000 Ziosk tablets deployed nationwide at 3,000+ restaurants including Chili’s, Olive Garden, Red Robin, Outback, TGI Friday’s, Friendly’s, Yard House, and more handling over $12 Billion in transactions in the next year.</p>
+<p>
+Ziosk is the pioneer and industry leader in tabletop technology and has been covered in the national media including the WSJ, NYT, Washington Post, CNBC, and Nation’s Restaurant News. Our rapid growth has created a number of new opportunities for people to join our team, including a <b>Senior Systems Engineer</b>.</p>
+<p><b>
+Summary</b></p>
+<p>
+Ziosk is looking for a customer focused, <b>Senior Systems Engineer</b> to join our growing IT organization. This role will manage and support our internal IT systems and servers deployed in customer environments. A successful candidate must be dependable, self-motivated, possess a can-do attitude, and understand the rigors of working in a high paced environment. Must be highly organized and willing to work with the team to achieve a great outcome for our internal and external customers.</p>
+<p><b>
+Responsibilities</b></p>
+<ul>
+<li>Manage and administer all aspects of the all Ziosk corporate, test and PoC Labs, and customer systems and software environments</li>
+<li>Architect, design, and deploy solutions to support internal and external customer environments</li>
+<li>Troubleshoot complex customer and corporate issues and propose long term preventive measures</li>
+<li>Interact with other teams to provide escalation support during outages and customer issues, including driving resolution for issues outside the department</li>
+<li>Facilitates cross team problem management for timely resolution</li>
+<li>Collaborate with Ziosk Engineering teams for new features, problem management, and new initiatives</li>
+<li>Determine operational weaknesses within the existing infrastructure and present execution plans to overcoming those concerns in a timely fashion</li>
+<li>Review current technology suite and evaluate solutions and alternatives to either improve efficiencies, management, or cost savings</li>
+<li>Evaluate various 3rd party tools and systems to determine the most cost-effective solution</li>
+<li>Actively monitor and react to real-time network conditions and make recommendations on improving monitoring and reporting</li>
+<li>Manage team project milestones, ticket queue, and report status and delays</li>
+<li>Review current processes and propose steps that will improve efficiency</li>
+<li>Participate in capacity reviews, metric reporting and budgeting</li>
+<li>Documents IT activities such as downtime, problems, standards, and device configurations</li>
+<li>Create and update detailed architecture or environment diagrams and knowledge base articles</li>
+<li>Guides and mentors other engineers to allow them to expand their capabilities</li>
+<li>All other duties as assigned</li>
+<li>Must participate in an 24X7X365 on call rotation</li>
+</ul>
+<p><b>Qualifications</b></p>
+<ul>
+<li>8+ Years experience working as a server IT / Support engineer</li>
+<li>5+ Years working with Windows Server, Hyper V (or VMware), AD and other server-side technologies</li>
+<li>3+ Experience administering MS Exchange</li>
+<li>Strong knowledge of Windows Server / domain management systems and monitoring tools</li>
+<li>Knowledge of Powershell and Windows scripting</li>
+<li>Strong general knowledge of networking technologies</li>
+<li>Strong troubleshooting skills</li>
+<li>Must be a strong problem solver</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Knowledge of Visio and experience creating architecture diagrams</li>
+<li>Must be willing to document work effort on an ongoing basis</li>
+<li>Must be willing to learn how to setup Ziosk systems with many different types of POS (Point of Sale) systems</li>
+<li>Linux knowledge is not required but is a plus</li>
+<li>Knowledge of Docker or other technologies is a plus</li>
+<li>Familiarity with Payment Card Industry standards a plus</li>
+</ul>
+<p><b>Ziosk</b> is an Equal Opportunity employer offering competitive benefits and compensation. Candidates must be eligible to work in the U.S. and be able to commute daily to office. <b>No agencies or third party recruiters, please</b>.</p>
+</div></div>

@@ -1,0 +1,45 @@
+<h2>Software Development Engineer, Ads Partner Network</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<ul>
+<li>2+ years of non-internship professional software development experience</li>
+<li>Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design</li>
+<li>1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.</li>
+<li>Bachelor's degree in Computer Science, Applications or related field</li>
+<li>Computer Science fundamentals in object-oriented design</li>
+<li>Computer Science fundamentals in data structures</li>
+<li>Computer Science fundamentals in algorithm design, problem solving, and complexity analysis</li>
+</ul>
+<br>
+<div>Amazon Advertising is dedicated to driving measurable outcomes for brand advertisers, agencies, authors, and entrepreneurs. Our ad solutions—including sponsored, display, video, and custom ads—leverage Amazon’s innovations and insights to find, attract, and engage intended audiences throughout their daily journeys. With a range of flexible pricing and buying models, including self-service, managed service, and programmatic ad buying, these solutions help businesses build brand awareness, increase product sales, and more.<br>
+<br>
+As a Software Development Engineer on our team, you will lead the development of the Amazon Advertising Partner Network to bring new features to market. You will design and build high-throughput distributed systems for ad serving, develop engineering and operational best practices, and collaborate with product, engineering and science leaders to deliver value for Amazon's customers and advertisers.<br>
+<br>
+A successful engineer in this role is:<br>
+<ul>
+<li>Highly analytical: You solve problems in ways that can be backed up with verifiable data. You focus on driving processes, tools, and statistical methods which support rational decision-making.</li>
+<li>Technically fearless: You aren't satisfied by performing 'as expected' and push the limits past conventional boundaries. Your dial goes to '11'.</li>
+<li>Team obsessed: You help grow your team members to achieve outstanding results. You foster the creative atmosphere to let engineers innovate, while holding them accountable for making smart decisions and delivering results.</li>
+<li>Humbitious: You’re ambitious, yet humble. You recognize that there’s always opportunity for improvement and use introspection and feedback from teammates and peers to raise the bar for your team.</li>
+<li>Engaged by ambiguity: You're able to explore new problem spaces with unique constraints and thus non-obvious solutions; you’re quick to identify any gaps in the team and the right person to fill them to best deliver value to customers.</li>
+</ul>
+<br>
+Your responsibilities in this role will include:<br>
+<ul>
+<li>Owning technical vision and direction: You identify problems and develop solutions; you embrace performance metrics and measurement techniques because they help you assess how well system-related services are running.</li>
+<li>Working seamlessly with your team: You'll be a key contributor on an engineering team that delivers results. This means you'll wear a lot of hats - from software design, implementation, project management, operations, working with business partners, and so on. You'll be an example of Amazon's leadership principles and work to grow more leaders within your group.</li>
+<li>Collaborating on product direction: You’ll build and maintain strong relationships between engineering and partner disciplines (Product, User Experience) to ensure that we're focused on delivering the right product for customers.</li>
+<li>Leading beyond your team: You will be a key part of a small but growing community of engineering leaders who support their teams and contribute to the overall growth of our product development organization. You'll share your experience and technical acumen in order to drive technology decisions across our organization.</li>
+<li>Designing and building systems from scratch.</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Experience in Online Advertising</li>
+<li>Experience with distributed (multi-tiered) systems, algorithms, and relational databases</li>
+<li>Strong object-oriented design skills with understanding of common design paradigms</li>
+<li>Willingness to own all stages of development process: requirements, design, implementation, testing, and operational support</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>
+</div>

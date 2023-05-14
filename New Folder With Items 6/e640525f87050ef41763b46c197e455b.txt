@@ -1,0 +1,49 @@
+<h2>Software Engineer Spanish Speaking</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>We're looking for Spanish Speaking and experienced software engineers with a few years of full-stack experience who enjoy a fast-paced environment and are excited to face new challenges every week at our San Francisco, CA office (no remote work).</p>
+<br>
+<p></p>
+<p>
+Showcase your innovation as you collaborate with business users and IT professionals to develop solutions. Partner with in-house developers to plan, prepare, and execute strategic solutions for online SaaS/PaaS Customers.</p>
+<br>
+<p></p>
+<p>
+Odoo’s developers are responsible for reviewing and writing a solution for customer/partners within the implementations of customized client databases on a stable release of Odoo.</p>
+<br>
+<p></p>
+<p><b>
+About Odoo:</b><br>
+Odoo is the world's top open-source ERP, which is a fully comprehensive business management platform with full-featured apps such as CRM, Accounting, Inventory, Manufacturing, eCommerce, Point-of-Sale, and many more. Within our open source community, developers have created over 16,000 applications based upon Odoo technology. This high degree of customization, flexibility, affordable pricing, and an international reach makes Odoo the democratizing force in the ERP/CRM movement, and we’re successfully bringing our technology to every corner of the globe.</p>
+<br>
+<p></p>
+<p><b>
+This role works directly and only from our San Francisco, California office and requires Spanish fluency to work with clients in North and South America.</b></p>
+<br>
+<p></p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>Modify Odoo's existing software to meet the needs of our clients</li>
+<li>Constantly work on new projects and have new challenges</li>
+<li>Provide Odoo clients with technical analysis and they map clients’ business processes to the Odoo system.</li>
+<li>Use advanced data modeling to anticipate problems in business workflows and devise potential solutions.</li>
+<li>Support and maintain specific databases/instances to ensure continued functionality and improvement.</li>
+<li>Tailor Odoo’s SaaS/PaaS offerings to conform to clients’ workflows.</li>
+<li>Support and train Odoo’s partners and clients on new and modified systems.</li>
+<li>Develop and maintain standard operating procedures for product design, implementation, and QA testing.</li>
+</ul>
+<p><b>Must-Have</b></p>
+<ul>
+<li>1+ year of professional experience operating in a full-stack environment, great university projects can also count towards this!</li>
+<li>Skilled in Python, CSS (SASS, LESS), HTML, and JavaScript</li>
+<li>Graduated from a 4-year university preferably with an emphasis on Computer Science or a related field</li>
+<li>Object-oriented programming, object modeling, and relational database knowledge and ability to learn and evolve quickly</li>
+<li>Fluent in Spanish and English, great written and verbal communication skills</li>
+</ul>
+<p><b>What Odoo Offers</b></p>
+<ul>
+<li>Generous compensation</li>
+<li>Flexible hours, snacks, coffee, fruit, company events, and more</li>
+<li>Healthcare, dental, and vision insurance</li>
+</ul>
+</div></div>

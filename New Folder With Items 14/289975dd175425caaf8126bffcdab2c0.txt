@@ -1,0 +1,83 @@
+<h2>IT Project Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>IT ProjectEngineer</b></p>
+<p><b>PositionSummary: </b></p>
+<p>Provides IT projectexecution and delivery, project managementand consultation. Offers occasional escalation support to technical team members.</p>
+<p><b>Essential Responsibilities: </b></p>
+<ul>
+<li>Designs, configures and deploys all scoped and un-scoped projects</li>
+<li>Assists Sales with scoping</li>
+<li>Provides project management services to clients</li>
+<li>Self manages projects and reports to service manager/account manager on regular keystone intervals.</li>
+<li>Utilizes Gantt chart, Visio, and calendars to effectively manage milestones and vendors on projects.</li>
+<li>Documents and prepares completed projects for transition to helpdesk team for post-project support</li>
+<li>Is available for weekend/evening work, when required for project execution</li>
+<li>Serves as the first point of contact for all technical project responsibilities</li>
+<li>Provides strong knowledge of IT/IS technology in a production environment to clients</li>
+<li>Supports clients in all areas of IT support, as outlined in client contract</li>
+<li>Travels between office and client sites, reporting to all sites on time while always being prepared and available to and from client sites</li>
+<li>Performs client audits and creates summary reports of findings</li>
+<li>All other duties, as assigned</li>
+</ul>
+<p><b>Key Skills/Experience/Education/Competencies </b><i>(_</i>Thissection describes minimum attributes to perform the role._)</p>
+<p><b>Skills: </b></p>
+<ul>
+<li>Gantt Chart and Visio experience for project management.</li>
+<li>Strong experience with LAN, WAN, and WLAN technologies</li>
+<li>Strong knowledge in Windows Server family; configuration, support, deployment, migration and optimization.</li>
+<li>Strong practical experience with Virtualization; VMWare, Hyper-V, etc.</li>
+<li>Experience with enterprise cloud environments, Azure, AWS, Google etc.</li>
+<li>Strong knowledge in implementation and troubleshooting SonicWALL, Sophos, Cisco and other SMB level networking equipment and edge devices and Working knowledge of other enterprise class switches (L2/L3), routers, load balancers and firewalls</li>
+<li>Technical expertise in network, storage, virtualization, and computing across multiple vendors</li>
+<li>Self-starter/self-motivated and driven for success</li>
+<li>Maintains a high level of professionalism and a courteous demeanor</li>
+<li>Solid knowledge and proficiency with Microsoft Office &amp; 365 products</li>
+<li>Demonstrated positive and professional interpersonal skills and written and verbal communications skills with a keen sense of verbal and non-verbal cues to engage potential and existing clients in person, by phone or through other means to assess and respond to users’ needs</li>
+<li>Exceptional client relations skills to engage and service clients effectively</li>
+<li>Effective critical thinking, analytical, and problem-solving skills to obtain business solutions, such as to detect changes in circumstances or events</li>
+<li>Strong organizational, multi-tasking, detail-oriented, and time management skills</li>
+<li>Ability to concisely describe orsummarize a problem and steps taken to diagnose and resolve it, in writing andin person</li>
+<li>Strong documentation skills</li>
+<li>Adaptability to changing priorities, as needed</li>
+<li>Positive teamwork skills</li>
+<li>Maintains a high level of confidentiality</li>
+</ul>
+<p><b>Experience: </b></p>
+<ul><li>Minimum of 12 documented successfully executed projects of the following type(s):</li></ul>
+<ul>
+<li>Server migrations/installations in a Microsoft Domain based environment</li>
+<li>P2V migration of servers to Hyper-V or VMware based environments</li>
+<li>Migrations to o365 from Exchange and IMAP based environments</li>
+<li>Minimum of 4 years’ experience proving computer/technical support in an MSP style environment.</li>
+<li>Minimum of 4 years’ experience in a customer-facing service industry</li>
+<li>Minimum of 2 years’ experience performing project management duties and executing (directly or assisting) the deployment of scoped and un-scoped technical projects.</li>
+<li>Strong hands-on/practical experience with the Windows desktop environment (XP/7/8.1/10), Linux/Mac experience a plus but not required.</li>
+<li>Strong working knowledge of Microsoft server and workstation environments (Certification(s) in Server 2016 or newer preferred)</li>
+</ul>
+<p><b>Education: </b></p>
+<ul>
+<li>CompTIA A+/N+/S+ or similar foundational certifications completed.</li>
+<li>CCNA/CCNP, VCA, VCP, MCSE etc. preferred, existing skills/experience can be substituted.</li>
+<li>PMP or similar certification a plus</li>
+<li>Degree from a four-year college/university in a related field, preferred (not required)</li>
+</ul>
+<p><b>Other</b></p>
+<ul>
+<li>Valid driver’s license and access to transportation</li>
+<li>Candidates should be prepared to fully discuss in detail technical execution of projects during interview.</li>
+<li>A sense of humor</li>
+</ul>
+<p><b>Benefits &amp; Values: </b></p>
+<ul>
+<li>Base salary plusbonuses on certifications and work performed</li>
+<li>Certification trainingand tests provided by company</li>
+<li>Health and Dentalcoverage provided</li>
+<li>Matching 401k plan</li>
+<li>Cellphone Allowance</li>
+<li>Travel Allowance</li>
+<li>Nerf Battles</li>
+<li>Company Core Values ofFun, Healthy Relationships, Growth, and Teamwork.</li>
+<li>Job Type: Full-time</li>
+</ul>
+<p>Job Type: Full-time</p>
+</div>

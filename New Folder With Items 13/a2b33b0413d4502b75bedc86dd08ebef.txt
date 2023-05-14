@@ -1,0 +1,64 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Basic Function</b></p>
+<p>The Software Engineeris a subject matter expert at Smooth Logics focused on the design and implementation of enterprise software tools for manufacturing fields. Ideal candidates for this position will possess skills in object-oriented design and database design with entity framework. Candidates will implement scalable, maintainable, and test-driven applications while writing repeatable unit and integration tests to verify product code and enjoy documenting and discussing software design in a collaborative environment. In return, we offer a great working environment, talented team members, and the opportunity to deliver innovative projects and solutions on a daily basis.</p>
+<p><b>Essential Functions</b></p>
+<ul>
+<li>Promote a positive attitude, understand and promote company mission and values. Must be able to work independently and accept accountability.</li>
+<li>Must have excellent, effective verbal and written communication skills, share information with others prior to decisions and after decisions in a timely manner.</li>
+<li>Listen effectively and accept constructive criticism.</li>
+<li>Ability to take independent action solving problems, seek out new responsibilities, act on opportunities, generate new ideas and manage risk of new ideas, work to promote self-development.</li>
+<li>Must have a common sense/practical approach, ability to make thoughtful and timely decisions, get clarity of issue or objective by getting input in the decision-making process and show consideration for the impact of the decisions.</li>
+<li>Show openness to new ideas, ability to adapt to change and assume new responsibilities. Must be able to handle pressure and uncertainty, adjust work plans to meet changing company and customer needs.</li>
+</ul>
+<p><b>Responsibilities</b></p>
+<ul>
+<li>Analyzing user requirements</li>
+<li>Researching, designing and writing new software solutions</li>
+<li>Testing solutions and fault finding</li>
+<li>Evaluating the software and systems relationships</li>
+<li>Improve existing programs by analyzing and identifying areas for modification</li>
+<li>Integrating existing software products and 3rd party platforms to work together;</li>
+<li>Creating technical specifications and test plans</li>
+<li>Writing and testing code and then refining and rewriting as necessary</li>
+<li>Writing operational documentation with technical authors</li>
+<li>Maintaining systems by monitoring and correcting software defects</li>
+<li>Working closely with other staff, such as project managers, architects, designers, developers, and QA analysts</li>
+<li>Consulting clients and colleagues concerning the maintenance and performance of software systems and with a view to writing or modifying current operating systems</li>
+<li>Investigating new technologies</li>
+<li>Continually updating technical knowledge and skills by attending in-house and/or external courses and conferences, reading manuals and accessing new applications.</li>
+</ul>
+<p><b>Relationships</b></p>
+<ul>
+<li>Internal Contacts – Development engineers, sales technicians, and all Smooth Logics employees</li>
+<li>External Contacts – Limited contact with customers</li>
+</ul>
+<p><b>Technical and Business-Related Knowledge, Skills and Abilities</b></p>
+<ul>
+<li>Experience with .NET C# and WPF,MVVM, Entity Framework</li>
+<li>Experience in database development using Microsoft SQL Server (MS SQL)</li>
+<li>Experience working in Visual Studio 2012</li>
+<li>Experience with unit testing and integration testing</li>
+<li>Experience with application architecture</li>
+<li>Experience integrating with 3rd party API’s</li>
+<li>Experience with web services and WCF</li>
+<li>Knowledge of the custom manufacturing industry</li>
+</ul>
+<p><b>Educational Background or Professional Designation Required</b></p>
+<p>Bachelor's degree in computer science or related degree AND 2 + years of work experience OR at least 5 years of experience in the field or in a related area.</p>
+<p><b>Disclaimer</b></p>
+<p>The above statements are intended to describe the general nature and level of work being performed by employees assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.</p>
+<p>Benefits include- Medical, dental, vision, life insurance, short term &amp; long term disability, 401k, and paid time off!</p>
+<p><b><i>Indeed Hire and Wynalda Packaging are working together to find the best candidate for this job. </i></b></p>
+<p><b><i>By applying, you agree to be contacted by our agent, Indeed Hire, and receive updates via text and phone about your application.</i></b></p>
+<p>Job Type: Full-time</p>
+<p>Salary: $18.00 to $28.00 /hour</p>
+<p>Experience:</p>
+<ul><li>Software Engineer: 2 years (Required)</li></ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Job distance:</p>
+<ul><li>Holland, MI: Between 21 and 30 miles (Required)</li></ul>
+</div>

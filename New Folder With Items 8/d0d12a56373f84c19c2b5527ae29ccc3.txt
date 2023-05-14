@@ -1,0 +1,27 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>ExOne, a publicly traded manufacturing technology company, provides 3D printing machines, 3D printed products and related services to industrial customers in the pump, automotive, aerospace, heavy equipment and energy markets. The ExOne® process utilizes binder jetting Additive Manufacturing technology with industrial materials such as sand, metal, and ceramics. The Software Engineer position will support enhancements to existing products and new machine design projects for metal and ceramic based printing machine systems, and will join an innovative team working on one of the most cutting edge 3D Printing machine technologies in the world.</p>
+<p><b>Duties and Responsibilities: </b></p>
+<p>Design, develop, implement, and modify software applications for binder jetting 3D printing systems. Work with all functional aspects of applications including operator interface, 3D model manipulation and visualization, file I/O, and hardware communication. Test and debug source code on target systems and manufacturing equipment. Work with other programmers, engineers and external resources to generate specifications for new projects as well as analysis and improvements to existing software. Provide technical support for project team members, service group, sales / marketing, and external customers. Develop, implement, maintain, and follow version control and documentation practices.</p>
+<p>Attend and participate in any training or education required by company. Follow all company policies and procedures including all aspects of the quality process. Perform work in a safe and efficient manner including maintaining a neat, clean work area. Protect company assets including technical and trade proprietary information. Accept additional assignments and responsibilities as may be requested.</p>
+<p><b>Minimum Requirements: </b></p>
+<p>Bachelor’s Degree in Software Engineering, Computer Engineering, Computer Science, Electrical Engineering or other comparable technical degree. Minimum 2 years of experience in developing code in C++ for Windows based systems using object-oriented programing methods. Excellent written and verbal communication skills. Available to travel for trips of short duration.</p>
+<p><b>Physical Requirements: </b></p>
+<p>Able to move within a manufacturing environment and sit for extended periods of time. Capable of travelling unassisted. Manual dexterity and manipulation to operate a computer and other peripheral equipment. Visual acuity to read computer displays, printouts and other drawings.</p>
+<p>It is the policy of The ExOne Company to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression.</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>Developing code in C++: 2 years (Preferred)</li></ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Benefits offered:</p>
+<ul>
+<li>Paid time off</li>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Healthcare spending or reimbursement accounts such as HSAs or FSAs</li>
+<li>Other types of insurance</li>
+<li>Retirement benefits or accounts</li>
+<li>Education assistance or tuition reimbursement</li>
+</ul>
+</div>

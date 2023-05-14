@@ -1,0 +1,58 @@
+<h2>Senior Systems Analyst - Salesforce Administration</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview:</b></h2>
+<div>
+In your role as the Salesforce Administrator you lead the ongoing development of salesforce.com deployment for Adtalem's Financial Services group. You have a record of success in improving processes and adoption using the Force.com platform. You work closely with functional leaders, organizational units, and subject matter experts to identify, develop and deploy new business processes including: Fundraising, Marketing, Outreach and our core program business processes. Your role is part technical project manager, part administrator and part Salesforce analyst. You are responsible for the executing on the day-to-day configuration, support, maintenance and improvement of our CRM platform.</div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities:</b></h2>
+<ul>
+<li>
+Serve as primary system administrator for the Salesforce.com environment with 700+ users.</li>
+<li>
+Handle all basic administrative functions including user account maintenance, reports and dashboards, workflows and other routine tasks.</li>
+<li>
+Complete regular internal system audits and prepare for upgrades.</li>
+<li>
+Manage Salesforce.com data feeds and other integrations.</li>
+<li>
+Coordinate the evaluation, scope and completion of new development requests.</li>
+<li>
+Work with our institutional management team to establish suitable processes to support administrative, development, and change management activities.</li>
+<li>
+Assist in training of new users, and grow the Salesforce.com skill set across the organization.</li>
+<li>
+Effectively act as the liaison between our users, vendors and the application development teams.</li>
+<li>
+Work independently with members of the user community to define and document development requirements.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Qualifications:</b></h2>
+<ul>
+<li>
+Minimum 3 years of experience as a Salesforce.com administrator, with a strong understanding of the platform and the ability to build custom apps and objects, formula fields, workflows, custom views, and other content of intermediate complexity.</li>
+<li>
+Saleforce.com Admin (ADM201 and ADM211) certifications required, and Sales Cloud, Service Cloud and Developer certifications preferred.
+</li>
+<li>Experience with Commerce Cloud (B2B Commerce/Cloud Craze) is highly desired.
+</li>
+<li>Proven ability to design and implement new processes and facilitate user adoption.</li>
+<li>
+Possess data management capabilities.</li>
+<li>
+Possess and can demonstrate the ability to understand and articulate complex requirements.</li>
+<li>
+Experience with nonprofit processes is desired.</li>
+<li>
+Excellent project management skills with previous experience working in a SCRUM or agile environment preferred and a documented history of successfully driving projects to completion.</li>
+<li>
+Ability to critically evaluate information gathered from multiple sources, reconcile conflicts, decompose high-level information into details, abstract up from low-level information to a general understanding, and distinguish user requests from the underlying true needs.</li>
+<li>
+Ability to assess the impact of new requirements on Salesforce.com and all upstream and downstream applications, systems and processes.</li>
+<li>
+Demonstrated ability to meet deadlines, handle and prioritize simultaneous requests, and manage laterally and upwards.</li>
+<li>
+Creative and analytical thinker with strong problem-solving skills.</li>
+<li>
+Must demonstrate exceptional verbal and written communication skills, with the ability to communicate effectively at all levels of the organization.</li>
+</ul>
+</div></div>

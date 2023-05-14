@@ -1,0 +1,49 @@
+<h2>Salesforce Admin</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About Upper Hand
+<br>Upper Hand is a growing software company serving the sport and fitness industry. Used by fitness clubs and studios, sports facilities, sports trainers, and other active lifestyle businesses, the Upper Hand software is designed to help manage operational workflows and escape the administrative vortex so they can focus on developing clients. From the front desk to the back office, we’re delivering the tools needed to provide an industry leading experience to clients of sports organizations, like online scheduling and registration, billing solutions, contact management, staff and facility management tools, hardware and point of sale systems, marketing tools, and more.
+<br><br>
+About the Position
+<br>Upper Hand is seeking a Salesforce Admin/Operations to join our team. As the Salesforce Admin you will be the bridge between business and technology by working alongside management and power users to streamline processes and champion productivity. You will be a CRM Rockstar by maintaining and optimizing our Salesforce ecosystem
+<br><br>
+The Salesforce Admin should be a thought leader, driving innovation and be a trusted contributor on our team as we continue our focus on delivering value through technology in the sports and fitness industry.
+<br><br>
+<b>Location:</b> Indianapolis, Indiana
+<br><br>
+Role and Responsibilities
+<br><ul>
+<li>Manage security and user roles, profiles, permission sets, visibility, sharing rules, and groups.</li>
+<li>Work closely with department heads to optimize their teams processes and workflows</li>
+<li>Manage custom reports, dashboards, visibility, workflows</li>
+<li>Point of contact for any users within the company who have questions or need to be trained on Salesforce products</li>
+<li>Develop documentation and training materials for new and existing users</li>
+<li>Detect current inefficiencies and implement new workflows</li>
+<li>Learn about Salesforce’s newest features and make sure every employee is up to speed</li>
+<li>Manage current integrations and implement new integrations as needed.</li>
+</ul>
+Requirements and Skills
+<br><ul>
+<li>2 to 5 years experience in Salesforce Admin role</li>
+<li>Ability to work on your own and with a team</li>
+<li>Deep understanding of Lightning</li>
+<li>Experience with Sales Cloud, Service Cloud, and Community Cloud</li>
+<li>Experience with Process Builder and custom objects</li>
+<li>Ability to translate desired business workflows into Salesforce processes,</li>
+<li>Strong communication, problem solving, and critical thinking skills</li>
+<li>Have experience in writing documentation</li>
+<li>Passion for quality and attention to detail</li>
+<li>Diagnosing and optimizing performance problems</li>
+<li>Interacting with web services and other integration platforms</li>
+<li>Experience with Partner Communities is a strong plus but not required.</li>
+<li>Experience with Apex, Java, HTML/CSS/JavaScript, Visualforce, and/or C# is a plus but not required</li>
+</ul>
+Perks And Benefits
+<br><br>
+<ul>
+<li>Medical insurance (health, dental, and vision)</li>
+<li>Flexible leave policy</li>
+<li>Company outings</li>
+<li>Employee Stock Options</li>
+<li>Complimentary snacks and coffee</li>
+<li>Ergonomic electronic sitting and standing desk</li>
+</ul>
+</div>

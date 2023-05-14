@@ -1,0 +1,85 @@
+<h2>Data Analyst 2</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Job Description<br>
+<br>
+<p>As a Data Analyst you will support the demand planning group with automation and data analysis as it relates to demand planning, supply-demand matching, inventory management, and procurement. In this role you will take key responsibility for developing and maintaining scripts in SQL, BigQuery, and JavaScript and coming up with complex modeling techniques to support the demand planning team. You will work closely with customers, supply chain managers, engineering, technical program leads, and supplier partners to implement processes and systems that directly support our clients rapidly growing hardware infrastructure.</p>
+<p><b>
+Your Role and Responsibilities:</b></p>
+<ul>
+<li>
+Design and generate consensus and statistical demand forecast reports and continuously improve forecasting techniques, method, and approach</li>
+<li>
+Design and generate automation scripts and models to improve the efficiency of the demand planning team Evolve and maintain documentation and standard operating procedures for demand planning processes and systems</li>
+<li>
+Perform data analysis and modeling to establish correlations and market trends</li>
+<li>
+Exploratory Data Analysis (EDA) to identify improvements/automation opportunities, and to provide reports to senior management for Monthly briefings</li>
+<li>
+Support in very large scale projects covering all geographic regions</li>
+</ul>
+</div>
+<br>
+<div>Qualifications<br>
+<br>
+<ul>
+<li>BS/BA degree in Business Administration, Economics, Computer Science or Operations Research</li>
+<li>
+Advanced knowledge of SQL a must. Python an added bonus</li>
+<li>
+Comfortable to Intermediate knowledge scripting in Google AppScript or JavaScript, or inclination to learn it quickly</li>
+<li>
+Advanced Google Sheets or Excel knowledge a must</li>
+<li>
+3-5 years relevant work experience, including experience in demand planning, sales and operations planning and supply chain operations/manufacturing</li>
+<li>
+Excellent analytical skills, tenacious problem solver with strong verbal/written communication and facilitation skills</li>
+</ul>
+<p><br>
+<b>
+Preferred Qualifications:</b></p>
+<ul>
+<li>
+Ability to successfully work across multiple levels of an organization with experience leading cross-functional process improvements</li>
+<li>
+Proven track record of achieving objectives on schedule and within budget</li>
+<li>
+Experience working with Big Data to provide EDA to senior team leads</li>
+<li>
+Extensive knowledge translating technical requirements into end user documentation</li>
+</ul>
+<br>
+Additional Information<br>
+<br>
+<p><b>What can Astreya offer you?</b></p>
+<ul>
+<li>
+Working with some of the biggest firms in the world as part of the Astreya delivery network</li>
+<li>
+Employment in the fast growing IT space providing you with brilliant career options for years to come</li>
+<li>
+Introduction to the new ways of working and awesome technologies</li>
+<li>
+Career paths to help you establish where you want to go</li>
+<li>
+A company-wide mentoring program to advise you along the way</li>
+<li>
+Online training courses through CBT-nuggets to upskill you</li>
+<li>
+Performance management system to provide you with meaningful, actionable feedback</li>
+<li>
+Dedicated management to provide you with a point of leadership and care</li>
+<li>
+Internal promotion focus</li>
+<li>
+We love to build people from within.</li>
+<li>
+Numerous on-the-job perks</li>
+<li>
+Peer Recognition</li>
+<li>
+Market competitive rates and benefits</li>
+</ul>
+<p>
+Astreya Partners is an equal employment and affirmative action employer. We evaluate qualified applicants on merit and business needs and not on race, color, religion, creed, gender, sexual orientation, national origin, ancestry, age, disability, genetic information, marital status, veteran status or any other factor protected by law.</p>
+</div>
+</div>

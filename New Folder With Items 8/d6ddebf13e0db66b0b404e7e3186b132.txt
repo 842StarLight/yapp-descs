@@ -1,0 +1,137 @@
+<h2>Software QA Engineer- Manual & Automation</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div>
+<b>FOUNDED in 2003,</b> Carrington has evolved from a mortgage credit asset manager into a vertically-integrated financial services company that covers virtually every aspect of the single family residential real estate transaction, including investment in U.S. real estate and mortgage markets, loan origination and servicing, asset management and property preservation, real estate sales and rental and title and escrow services.<br>
+</div>
+<div></div>
+<div>This position is located in our Aliso Viejo office.</div>
+<div></div>
+<br>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities<br>
+</b></h2>
+<div></div>
+<div><div><div>
+<div><b>JOB SUMMARY:</b></div>
+<div></div>
+<br>
+<div>
+Develops, executes, and maintains manual and automated test cases that assess software functionality and performance. Job Duties: Reviews software requirements and specifications to develop manual test cases and an automated testing strategy for a product or release. Codes reusable test functions or components. Executes manual and automated tests using multiple systems, platforms, environments, or browsers. Logs and track defects, report technical issues to development or product management teams, and verifies fixes. Requires an understanding of the software development life cycle. Experience and Education: Performs work under minimal supervision. Handles complex issues and problems, and refers only the most complex issues to higher-level staff. Possesses comprehensive knowledge of the subject matter. Provides leadership, coaching, and/or mentoring to a subordinate group. May act as a lead or first-level supervisor. Typically requires a bachelor's degree and 4 to 6 years of experience. Reports to: Typically reports to a department head or manager. Competencies: Ability to work as part of a team. Ability to build collaborative relationships. Problem-solving skills. Analytical thinking skills. Debugging skills. Computer skills. Detail-oriented. Ability to meet deadlines.</div>
+<div>
+Perform all duties per the company’s policies and procedures, all US state and federal laws and regulations, wherein the company operates.<br>
+</div>
+<div></div>
+<div><b>ESSENTIAL DUTIES AND RESPONSIBILITIES:</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+Design, implement and execute manual and automated tests for web sites, APIs, and Mobile App</li>
+<li>
+Perform black box and white box testing of custom web applications and reports.</li>
+<li>
+Analyze formal test results to discover, log, and report any defects, bugs, errors, configuration issues, and interoperability flaws.</li>
+<li>
+Analyze documentation and technical specifications of any new application under deployment or consideration to determine its intended functionality.</li>
+<li>
+Conduct internal audits to measure and assure adherence to established QA standards for software development, application integration, and information system performance, and corresponding documentation.</li>
+<li>
+Create and execute test plans and scripts that will determine optimal application performance according to specifications.</li>
+<li>
+Verify and revise quality assurance standards as needed.</li>
+<li>
+Ensure that testing activities allow applications to meet business requirements and systems goals, fulfill end-user requirements, and identify existing or potential issues.</li>
+<li>
+Collaborate with software/systems personnel in application testing, such as system, unit, regression, load, and acceptance testing methods.</li>
+<li>
+Make recommendations for improvement of applications to programmers and software developers or engineers.</li>
+<li>
+Test any new software to ensure integration into company systems meets functional requirements, system compliance, and technical specifications.</li>
+<li>
+Assist in the development of change control processes, practices, and guidelines for new and existing technologies.</li>
+<li>
+Participate in developing, distributing, and coordinating in-depth end-user reviews for modified and new systems or applications.</li>
+</ul>
+<p></p>
+<br>
+<ul><li>
+</li></ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications<br>
+</b></h2>
+<div></div>
+<div><div><div>
+<div><b>ESSENTIAL KNOWLEDGE, SKILLS, ABILITIES, AND COMPETENCIES:</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+Strong knowledge of system testing best practices and methodologies</li>
+<li>
+Strong knowledge of one or more automation testing tools such as Selenium, UFT, TestComplete, SoapUI, Postman</li>
+<li>
+Knowledge of programming languages such as C# or JAVA, and JavaScript</li>
+<li>
+Comfortable using JIRA</li>
+<li>
+Strong understanding of relational databases</li>
+<li>
+Working knowledge of Transact-SQL</li>
+<li>
+Extensive practical knowledge in importing data for use in report software, spreadsheets, graphs, and flow charts</li>
+<li>
+Working knowledge of Team Foundation Server</li>
+<li>
+Knowledge of applicable data privacy practices and laws</li>
+<li>
+Proficient in Microsoft Office and Structured Query Language (SQL) Server Management Studio</li>
+<li>
+Proven data analysis, data verification, and problem-solving skills</li>
+<li>
+Excellent PC skills</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Excellent written and oral communication skills</li>
+<li>
+Excellent listening, presentation, and interpersonal skills</li>
+<li>
+Outstanding attention to detail and organizational skills</li>
+<li>
+Ability to communicate ideas in both technical and user-friendly language</li>
+<li>
+Able to prioritize and execute tasks in a high-pressure environment</li>
+<li>
+Experience working in a team-oriented, collaborative environment</li>
+<li>
+Ability to work occasional evening and weekend work to meet deadlines</li>
+<li>
+Ability to align with the organization’s goals and objectives</li>
+<li>
+Ability to understand complex problems and to collaborate and explore alternative solutions</li>
+<li>
+Ability to organize and prioritize own work schedule on a short-term basis (longer than one month)</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+EDUCATION, EXPERIENCE, AND/OR LICENSES:</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+Bachelor’s Degree in software engineering, computer science, or business administration or equivalent work experience.</li>
+<li>
+Five (5) or more years’ experience in the design, development, and implementation of quality assurance standards for software testing.</li>
+<li>
+Extensive experience with core software applications, including Microsoft web and client/server applications.</li>
+<li>
+Direct hands-on experience with ad hoc query programs (Microsoft SQL Server required), automated testing tools, and reporting software.</li>
+<li>
+Experience with statistical reporting and analysis.</li>
+</ul>
+</div></div></div>
+</div></div>

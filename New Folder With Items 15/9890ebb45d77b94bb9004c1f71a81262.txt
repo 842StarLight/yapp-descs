@@ -1,0 +1,73 @@
+<h2>Implementation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>DataBank</b> is a leading serviceprovider of enterprise class services aimed at providing 100% uptime andavailability of customer data, applications, and equipment. DataBank’s manageddata center services are built around its world-class facilities, multi-homedInternet access hub, and multi-terabyte storage area network. We provide aredundant managed colocation environment for companies wishing to outsourcetheir entire computer room infrastructure. This environment consists of space,power and network transport services.</p>
+<p>Asa member of the professional services team, you will collaborate with otherhighly skilled technical staff, across DataBank, who are responsible for theengineering of the cloud compute, disaster recovery, storage, backup, OS andapplication layers of DataBank’s overall product stack and internal systems.This is a hands-on technical role that will require daily interaction withcloud compute platforms and their related systems. This position’s primary responsibilitieswill be to design and implement custom solutions to meet and exceed requirementsof the customer, our products and the company.</p>
+<p>Thisrole will require daily interactions with technical and non-technical customersand decision makers via phone, video conferencing, email, chat and occasionalin-person meetings. Effective written, verbal and expressive communications area vital component to this position’s success. Effective customer serviceskills, a personable demeanor, follow through, and effective organizational,problem solving, and time management skills are imperatives.</p>
+<p><b>Responsibilities</b></p>
+<ul>
+<li>Design solutions – Work with our Sales team,customers and internal stakeholders to ensure that what comes through the pipelinematches what’s in your head. Scoperobust server environments (web/db/app) for mission critical businesses tothrive on.</li>
+<li>Stage and Migrate systems – Assist customersin getting their web apps and databases moved over to your newly stagedenvironment for testing and troubleshooting. Help them plan a successful cutover to ensure a smooth and painlesstransition between the old and new environment.</li>
+<li>Work with the Project Management team onlarger implementations and project</li>
+<li>manage smaller projects directly.</li>
+<li>Create well written and concise documentationfor all deployed platforms</li>
+<li>Research and development of products based onmarket and technology needs</li>
+<li>Research and development of new processes,procedures, and technologies that</li>
+<li>impact DataBank business operations and efficiencies</li>
+<li>Meet project deadlines and manage andprioritize multiple simultaneous</li>
+<li>projects while adhering to a time allocation model.</li>
+<li>Effectively communicate at all levels of theorganization.</li>
+<li>Manage through conflict and challengingsituations with positive outcomes for</li>
+<li>the clients and company.</li>
+<li>Make decisions and judgments based on standardprocedures.</li>
+<li>Ability to multi-task, prioritize, manage workload and adapt to changingbusiness</li>
+<li>conditions.</li>
+<li>Proactive, upbeat and collaborativecommunication style, with the ability to be</li>
+<li>direct, tactful, and transparent.</li>
+<li>Provide continuous improvement with regard tothe quality and efficiency of</li>
+<li>delivered services.</li>
+<li>Demonstrate critical thinking and problemsolving skills</li>
+</ul>
+<p><b>Organizational Considerations</b></p>
+<p>Candidatesmust have the ability to prioritize projects and/or tasks. This position<br>requires regular scheduled and occasional unscheduled work to be performedafter<br>business hours. In the case of outages / critical incidents, the candidate mustbe able to<br>work alone or within a team environment until the problem is resolved.</p>
+<p><b>Qualifications</b><br>3-5 years of Experience in multiple webtechnologies:</p>
+<ul>
+<li>Database Servers (MSSQL, MySQL, MongoDB)</li>
+<li>Web Based Programming Languages (.NET, PHP,ColdFusion, Javascript)</li>
+<li>RDS Farms, exchange servers, Terminal Services</li>
+<li>Virtualization (VMWare)</li>
+<li>Firewalls/VPN (Cisco)</li>
+<li>Basic knowledge of protocols and servicesincluding: TCP/IP, DNS, SMTP, POP3, FTP, telnet, ping, SSH, and HTTP/HTTPS.</li>
+<li>Previous coding experience in at least 1 ofthe following languages (HTML, ASP, Microsoft .Net, ColdFusion, JavaScript,PHP, Perl). You don’t need to be anexpert, but you do need to understand how to read customer code whentroubleshooting.</li>
+<li>Scripting in Ansible, powershell, bash forautomation purposes</li>
+<li>Bachelor’s Degree in Information Technology orComputer Science preferred.</li>
+<li>Equivalent work experience can be substitutedfor college education.</li>
+<li>Two (2) plus years of experience designing,building, supporting and resolving</li>
+<li>complex issues in an enterprise-class VMware cloud architecture,mission-critical</li>
+<li>environment.</li>
+</ul>
+<p><b>Benefits</b></p>
+<ul>
+<li>Health, Dental, Vision packages</li>
+<li>Short-Term and Long-Term Disability Insurance</li>
+<li>Life Insurance</li>
+<li>401k with company match</li>
+<li>3 weeks Paid Time Off and Paid Holidays</li>
+<li>Paid Parking</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>We Serves (IIS, Apache, NGINX): 3 years (Required)</li>
+<li>Database Servers (MSSQL, MySQL, MongoDB): 3 years (Required)</li>
+<li>Web Technologies: 3 years (Required)</li>
+</ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Paid time off</li>
+</ul>
+<p>Schedule:</p>
+<ul><li>Monday to Friday</li></ul>
+</div>

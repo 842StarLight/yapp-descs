@@ -1,0 +1,119 @@
+<h2>Salesforce Administrator - School Solutions</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>As stewards of Salesforce, our Customer Relationship Management system, the Client Services team’s primary focus is to make the Heartland School Solutions instance of Salesforce the sole source for all customer information needed by users from various areas of the business, in order to successfully accomplish their work. Integrity of district information, continuous improvement, and ease of use for our employees and customers are top priorities.
+<br>
+<br>
+The Salesforce Business Analyst / Administrator works closely with cross-functional team members. The Salesforce Business Analyst / Administrator is responsible for helping us manage the Heartland School Solutions instance of Salesforce by understanding the needs of our organization, partnering with all departments to help them think strategically about their use of Salesforce as a business tool to streamline business processes and functions, detailing business requirements, and effectively translating and implementing those in Salesforce. The Salesforce Business Analyst / Administrator will possess both strategic and tactical Salesforce skills to understand how changes may impact entire user universe and then develop, test and deploy solutions, applying best practices.
+<p></p>
+<p><b>Job Details:
+</b></p>
+<p><b>General Requirements:
+</b></p>
+<ul>
+<li><p>Knowledge of the organizational structure, business processes, and culture to help build relationships with key groups
+</p></li>
+<li><p>Ability to propose solution options to business colleagues and make decisions around user management
+</p></li>
+<li><p>Ability to be the voice of the user in communicating with all levels of the organization
+</p></li>
+<li><p>Ability to critically evaluate information gathered from multiple sources, reconcile conflicts, decompose high-level information into details, abstract up from low-level information to a general understanding, and distinguish user reque sts from the underlying true needs<br>
+</p></li>
+</ul>
+<p></p>
+<p><b>Responsibilities:
+ </b></p>
+<ul>
+<li><p>Support users across multiple organizations (Sales, Sales Operations, Marketing, Client Services, Finance and Professional Services).
+</p></li>
+<li><p>Collaborate with business users to identify opportunities to further utilize Salesforce.com/ AppExchange to achieve business goals.
+</p></li>
+<li><p>Collaborate with business users and units on the features they want to see developed and implemented to better improve their Salesforce.com user experience.
+</p></li>
+<li><p>Lead requirements gathering and development applying technology to satisfy business needs.
+</p></li>
+<li><p>Create and maintain workflows, approval processes, and validation rules based on internal stakeholder requirements.
+</p></li>
+<li><p>Participate in the design of data integration to connect Salesforce.com and other systems.
+</p></li>
+<li><p>Interface with vendor partners and design optimal solutions for integration with Salesforce.com.
+</p></li>
+<li><p>Manage Salesforce integrations with products such as HubSpot, DocuSign, Clicktools, Time Trade, Oracle, TaskRay, Butcher + Suter CloudBlu Phone System and case routing, GearSet and Ambition.
+</p></li>
+<li><p>Monitor Scribe integration dashboard for errors. Fix or direct to team that can fix.
+</p></li>
+<li><p>Develop, maintain and perform processes to continuously monitor data quality and integrity in platform applications.
+</p></li>
+<li><p>Document changes to the design and implementation of Salesforce.com.
+</p></li>
+<li><p>Research new releases of Salesforce.com and understand how they impact our organization.
+</p></li>
+<li><p>Implement the latest Salesforce features to ensure we are taking full advantage of offerings.
+</p></li>
+<li><p>Determine plan and timeline for implementation of approved Change Management cases. Develop, test and deploy approved solutions, applying best practices.
+</p></li>
+<li><p>Lead meetings to revisit application success factors and ensure the incorporation of additional user requirements.
+</p></li>
+<li><p>Use root cause analysis and troubleshooting skills to resolve functional and technical issues.
+</p></li>
+<li><p>Develop, run, update and export Salesforce.com reports, analytics and dashboards to support and monitor daily activity and key performance measures.
+</p></li>
+<li><p>Data manipulation and import and export data using Data Loader.
+</p></li>
+<li><p>Use APEX/Visualforce when needed for Salesforce system enhancements.
+</p></li>
+<li><p>Manage ongoing support requests and Salesforce administrative needs.
+</p></li>
+<li><p>Other responsibilities or projects assigned by manager.
+</p></li>
+</ul>
+<p></p>
+<p><b>Position Requirements:
+</b></p>
+<ul>
+<li><p>Bachelor's Degree in Information Systems, Computer Science or a related field, or equivalent relevant work experience
+</p></li>
+<li><p>Minimum 3-4 years of experience working with Salesforce.com as an administrator
+</p></li>
+<li><p>Certified Salesforce.com Administrator (ADM-201) with at least 150 users
+</p></li>
+<li><p>Salesforce Certifications in CPQ, Platform App Building, Cloud/Consultant preferred
+</p></li>
+<li><p>Familiar with waterfall and agile/iterative methodologies.
+</p></li>
+<li><p>Expertise in Salesforce.com best practices and governance standards
+</p></li>
+<li><p>Salesforce.com integration experience between different business systems as well as working with integration tools
+</p></li>
+<li><p>Strong technical understanding of functional and technical system architecture
+</p></li>
+<li><p>Thorough understanding of Salesforce.com platform out-of-the-box functionality and configuration
+</p></li>
+<li><p>Working knowledge of APEX (classes and web services), Visual Force, Salesforce APIs, SOQL, Force.com platform
+</p></li>
+<li><p>Familiar with ChatBot, LiveAgent, Omni-Channel, Communities, and Lightning record pages and apps
+</p></li>
+<li><p>Understand and write triggers, workflows, and processes
+</p></li>
+<li><p>Solid understanding of business and information technology processes
+</p></li>
+<li><p>Excellent project management and organizational skills
+</p></li>
+<li><p>Excellent communication skills including written and verbal
+</p></li>
+<li><p>Must be capable of establishing influential and collaborative relationships with team members and leadership
+</p></li>
+<li><p>Highly motivated, excels in a team environment, innovative individual able to work independently with minimal supervision
+</p></li>
+<li><p>Results-oriented, timeliness, attention to detail and accuracy
+</p></li>
+</ul>
+<p></p>
+<p>#LI-RG1
+</p>
+<p></p>
+<p>Global Payments Inc. is an equal opportunity employer.
+</p>
+<p>Global Payments provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex (including pregnancy), national origin, ancestry, age, marital status, sexual orientation, gender identity or expression, disability, veteran status, genetic information or any other basis protected by law. Those applicants requiring reasonable accommodation to the application and/or interview process should notify a representative of the Human Resources Department.</p>
+</div>
+</div>

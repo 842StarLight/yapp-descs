@@ -1,0 +1,81 @@
+<h2>Application Development Architect - CoE</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div><div>
+<div>At Red Hat, we connect an innovative community of customers, partners, and contributors to deliver an open source stack of trusted, high-performing solutions. We offer cloud, Linux, middleware, storage, and virtualization technologies, together with award-winning global customer support, consulting, and implementation services. Red Hat is a rapidly growing company supporting more than 90% of Fortune 500 companies.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Job summary
+</b></h2>
+<div><div><div>
+<div>The Red Hat Consulting team is looking for an Application Development Architect to join our new Application Development Center of Excellence (CoE) team in Raleigh, NC. In this role, you will lead the design and development of applications that scale to the demands of the modern digital marketplace. You'll represent Red Hat as the industry leader in cloud and container technologies, automation, and modern application development techniques. By collaborating with customers in small teams, you will build, test, and iterate over innovative applications that decrease time to value. You will contribute toward customer success on project-based engagements, establishing Red Hat as the defining technology company of the 21st century built on open source principles. As an Application Development Architect, you won't be expected to know everything on day one, but your ability to learn new technology quickly and having access to all of Red Hat's training courses will allow you to quickly develop your skills. This position will require frequent travel to customer sites when not on-site in the Raleigh Tower.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Primary job responsibilities
+</b></h2>
+<div><div><div>
+<div>At the 3 month mark, be prepared to join a project team by acquiring the following:</div>
+<div></div>
+<br>
+<ul>
+<li>
+Acquire deep knowledge of Red Hat’s technologies by taking Red Hat’s enablement and completing learning paths across at least one of four tracks (container-native applications, application migration and modernization, business automation, or enterprise integration)</li>
+<li>
+Apply Red Hat expertise and modern application development skills to successfully deliver consulting engagements with our customers</li>
+</ul>
+<div></div>
+<br>
+<div>
+Within 6 months, be ready to lead an application development-focused project through the following:</div>
+<div></div>
+<br>
+<ul>
+<li>
+Lead the design and implementation of applications, using modern Java application development practices and open source emerging technologies including microservices, integration, cloud-native architectures, and automation</li>
+<li>
+Understand advanced features of our offerings and solutions and apply them effectively on a customer engagement</li>
+<li>
+Work closely with product business, product engineering, support, and sales teams to ensure excellent customer experience with Red Hat's solutions</li>
+</ul>
+<div></div>
+<br>
+<div>
+Within 12 months, be contributing to the solutions by accomplishing the following:</div>
+<div></div>
+<br>
+<ul>
+<li>
+Communicate comprehensive strategic vision for solutions to application teams and customers</li>
+<li>
+Contribute lessons learned, best practices, and how-tos to our internal and external communities of practice</li>
+<li>
+Develop standard frameworks and methodologies to allow for repeatable Red Hat application development projects</li>
+<li>
+Provide leadership and content toward application development center of excellence (CoE) and promoted standards</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Required skills
+</b></h2>
+<div><div><div>
+<ul>
+<li>Associate’s or bachelor's degree or higher in computer science or a technical discipline</li>
+<li>
+Experience leading successful modern software development consulting engagements</li>
+<li>
+Significant development and delivery experience with multiple programming languages including Java</li>
+<li>
+Solid object-oriented skills and applied knowledge of software design patterns</li>
+<li>
+Experience facilitating software design and ideation sessions</li>
+<li>
+Applied knowledge and experience working in agile, scrum, and DevOps teams</li>
+<li>
+Applied knowledge of modern software delivery methods like TDD, BDD, continuous integration (CI), and continuous delivery (CD)</li>
+<li>
+Excellent written and verbal communication and presentation skills</li>
+<li>
+Willingness to travel to customer locations about 30-40 weeks per year on average throughout North America</li>
+</ul>
+<p><br>
+Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, uniformed services, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.</p>
+<p><br>
+Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.</p>
+</div></div></div>
+</div></div>

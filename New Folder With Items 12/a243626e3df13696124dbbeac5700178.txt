@@ -1,0 +1,87 @@
+<h2>Senior Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Job Location
+<br>Scottsdale, AZ
+<br><br>
+Company Overview
+<br>InfoArmor provides industry-leading employee identity protection and advanced threat intelligence that enable its clients to combat an ever-changing cyber threat landscape. Our headquarters is in Scottsdale, Arizona. We are passionate about our culture and offer team members rewarding opportunities in a fast-growing, dynamic environment.
+<br><br>
+Job Summary/Objective
+<br>InfoArmor is one of the leading providers of cyber threat intelligence solutions. Our priority is to maintain the security of our participants. We are looking for a results-oriented software Developer who demonstrates the ability to develop and refine APIâ€™s into the ATI data sets and repository for purposes of client engagement. This candidate must be a self-starter, a strong team player with at least 5+ years in increasingly challenging assignments and be capable of filling the role lead API Developer. Background should include design and development experience in high-volume, highly scalable, and high-availability environments.
+<br><br>
+As a Senior Developer, you will be responsible to build and maintain our products, automate processes and build and foster a culture of trust, accountability and innovation. You will be working with gritty, entrepreneurial team members that truly care about what they are working on and love the autonomy and the creativity of a lean, dynamic environment. Our teams work remotely and use the latest tools and technologies to collaborate on execution.
+<br><br>
+Essential Functions
+<br>Â· Work with a small team of engineers &amp; developers, to ensure product delivery and best coding practices.
+<br>Â· Regularly assess current API and data integration strategies and suggest improvements and new ways to engage with data.
+<br>Â· Lead and engage in architectural reviews and peer feedback on design and code artifacts.
+<br>Â· Show high ownership and responsibility over individual deliverables as well as team deliverables.
+<br>Â· Code follows established design patterns and contains few bugs when committed.
+<br>Â· Designs new solutions or redesigns systems based on broader requirements.
+<br>Â· Empowered to resolve and design solutions around blockers and sign off on blocker resolutions.
+<br>Â· Continuously engage with adept tools, Agile methodologies, and communication channels to ensure successful, sustainable delivery.
+<br>Â· Mentor junior developers and ensure high grade delivery among junior developers.
+<br>Â· Customize and adapt to engineering best practices tools and applications like JIRA, Confluence, Eclipse etc.
+<br>Â· Be available to provide high-level response insight in to customer issues and customer integration strategies to Sales Engineering and other direct customer facing team members.
+<br>Â· Adhere to quantitative benchmarks to assess individual contribution.
+<br>Â· Contribute to technical design documents and communication of the architectural impact across functional areas, from customer facing product, to internal only facing processes/tools.
+<br>Â· Develop code, contribute to refactoring activities, provide guidance regarding efficiency opportunities.
+<br>Â· Comply with coding standards and assist junior team members on compliance.
+<br><br>
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+<br><br>
+Competencies
+<br>Â· Business Acumen
+<br>Â· Communication
+<br>Â· Consultation
+<br>Â· Critical Evaluation
+<br>Â· Ethical Practice
+<br>Â· Global &amp; Cultural Awareness
+<br>Â· Technical Capacity
+<br>Â· Relationship Management
+<br><br>
+Supervisory Responsibility
+<br>This position does not necessarily have direct reports but will require strong teamwork and may require support or management of external off-shore/third party teams.
+<br><br>
+Work Environment
+<br>This job operates in a professional office environment. This role routinely uses standard office equipment such as laptop computers and smartphones.
+<br><br>
+Position Type/Expected Hours of Work
+<br>This is a full-time position. Days and hours of work are Monday through Friday, 8:30 a.m. to 5 p.m. Remote work from home.
+<br><br>
+Travel
+<br>Travel is primarily local during the business day, although some out-of-area and overnight travel may be expected.
+<br><br>
+Required Education, Experience, and Skills
+<br>Â· BS, MS or Ph.D. in Computer Science or Engineering
+<br>Â· 5+ years of experience as a developer
+<br>Â· Strong analytical, problem solving skills, excellent verbal and written communication skills
+<br>Â· Self-starter with excellent interpersonal, motivational, and facilitation skills
+<br>Â· Bachelorâ€™s Degree in Computer Science or other technical field; equivalent experience will be considered
+<br>Â· Strong, proven problem-solving skills with the ability to quickly analyze the most expedient method to recover business operations
+<br>Â· Must be committed to a culture of continuous improvement
+<br>Â· Exceptional customer service skills, in addition to extensive experience working in a team-oriented, collaborative environment.
+<br>Â· Must be able to communicate effectively with users, executives and senior leaders at all levels
+<br>Â· Ability to effectively prioritize and execute tasks
+<br>Â· Passionate about technology.
+<br>Â· Ability to lead by example.
+<br>Â· Able to develop and maintain effective working relationships with individuals with both technical and non-technical staff.
+<br>Â· Excellent skills in critical thinking and analysis, meeting facilitation, verbal and written communications, and interpersonal interactions (e.g., partnering, conflict management, mediation, etc.).
+<br>Â· Excellent communication skills, both verbal and written. Loves to explain the technology and has a gift for concisely explaining complex topics.
+<br>Â· Familiarity with JSON, Python, Java and other programming languages is required. Familiarity with Elastic Search, network architecture, Kibana, and other analysis tools will be strongly considered. Familiarity with Jira/Atlassian tool kit is required.
+<br>Â· 5+ years experience with MySQL / MariaDB
+<br>Â· REST API development experience
+<br>Â· Strong GIT version control skills
+<br>Â· Strong Linux, Bash, Automation skills
+<br>Â· Familiarity with Test Driven Development practices
+<br>Â· Strong written and verbal communication skills
+<br>Â· Experience working with and refactoring existing code
+<br>Â· Solid understanding of application vulnerabilities and security
+<br>Â· Experience working in a team utilizing an agile approach
+<br><br>
+AAP/EEO Statement
+<br>InfoArmor is an Equal Opportunity Employer
+<br><br>
+Other Duties
+<br>Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.
+<br><br>
+Req#296</div>

@@ -1,0 +1,65 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">An Audacious Mission
+<br>--------------------
+<br><br>
+Today, coordinating business travel is complex because of competing interests, opaque industry practices, convoluted systems, and bad software.
+<br><br>
+But we believe that travel is a force-multiplier for growth.
+<br><br>
+Travel connects teams to new and existing co-workers, partners, and customers. It enables new opportunities, produces unexpected collaboration, and shifts perspectives. That's why we focus daily on making travel more about why you're going and less about how you'll get there.
+<br><br>
+Our mission is to make in-person collaboration effortless.
+<br><br>
+------
+<br><br>
+The Role
+<br>--------
+<br><br>
+We have an opportunity for a talented web engineer to develop the future of our suite of web products. As we're an early-stage company, our engineers have the unique opportunity to touch all parts of our product lifecycle.
+<br><br>
+As a full-stack javascript engineer, you will play an essential role in evolving our product, making a large impact on the entire company, from product to marketing to sales.
+<br><br>
+You will contribute to our web interface that thousands of customers use to book travel daily, and contribute to our online concierge dashboard—the tool that enables our travel team to message and take care of customers. You will also have the opportunity to help implement our marketing website, making it possible to message our product to potential customers.
+<br><br>
+While your primary role will be to architect, code, test, and ship web technology, you will also be involved in brainstorming, designing, and prototyping evolutions of the product. You will get a chance to understand the core problems that we're solving at Pana, allowing you to better serve the user in your execution of our product strategy.
+<br><br>
+Finally, as a senior member of our engineering team, you'll also be expected to demonstrate leadership in a key area of expertise and skill. In collaboration with others, you'll set strategy and vision in your ownership area, and you'll manage execution to deliver effective results.
+<br><br>
+In return, we offer full benefits, unlimited vacation time, a competitive salary, stock options, and a chance to change the face of travel.
+<br><br>
+------
+<br><br>
+Responsibilities
+<br>----------------
+<br><br>
+<ul>
+<li>Ship well-tested, secure, reliable, and maintainable code within committed timelines that delights product users</li>
+<li>Support fellow engineers through peer code reviews and constructive discussions that concern architecture, data model, and feature implementation decisions.</li>
+<li>Understand the reasoning behind key product and design decisions and contribute good solutions to implementation and architecture discussions.</li>
+<li>Be a great agile team member</li>
+<li>Lead key initiatives to improve our product and team</li>
+</ul>
+The Typical Day
+<br>---------------
+<br><br>
+<ul>
+<li>Writing code!</li>
+<li>White-boarding the benefits and disadvantages of various approaches to an architecture decision.</li>
+<li>Testing initial prototypes with the product team to solicit feedback and iterate on the next version.</li>
+<li>Reviewing your code, architecture, and style decisions with other engineers.</li>
+</ul>
+------
+<br><br>
+Requirements
+<br>------------
+<br><br>
+<ul>
+<li>At least 8 years of experience in an engineering role at a software company.</li>
+<li>An extensive background in one or more of the following: front-end web development, back-end development, API development, software engineering, product design, and product management.</li>
+<li>Strong competency in one or more of the following: JavaScript, HTML, CSS, Backbone, Marionette or comparable JavaScript MVC framework.</li>
+<li>Expert grasp on SQL or similar data query language.</li>
+<li>Comfortability with developing against and contributing to a Node/Express.js backend.</li>
+<li>BA/BS (or MA/MS) from a top university or equivalent experience.</li>
+<li>Ability to work in-person at our office in Denver (we're in RiNo!).</li>
+</ul>
+<b>Note:</b> An offer of employment at Pana is contingent upon passing a background check. This does not include a credit check. All background investigations will be conducted in accordance with the Fair Credit in Reporting Act and other applicable state/local regulations.</div>

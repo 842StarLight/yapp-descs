@@ -1,0 +1,137 @@
+<h2>MES Senior Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>MAVERICK Technologies is seeking a talented Sr. Developer to join our team.
+</p>
+<p>If you have an interest in helping manufacturers run more efficient by utilizing your software skills, then this is the opportunity for you!<br>
+</p>
+<br>
+<p>We are flexible on location. Will require about 30% travel.
+</p>
+<p><b>Preferred Criteria:
+</b></p>
+<ul>
+<li>Bachelor of Science degree in Computer Science, Computer Engineering or equivalent experience
+</li>
+<li>8 or more years of experience in software project delivery in manufacturing environments
+</li>
+<li>Experience working on development teams using a technology stack like .NET, Java, J2EE, web services, ASP, SQL Server
+</li>
+<li>A minimum of 3 years of domain experience working with manufacturing execution (MES), manufacturing operations management (MOM), SCADA, or material resource/enterprise resource planning (MRP/ERP) systems or applications
+</li>
+<li><p>Experience with RA Products hardware and software product suites (ControlLogix, Logix 5000, FT View, FTBatch, FT Historian and FT VantagePoint.) is a plus
+</p></li>
+</ul>
+<p><b>Technical Responsibilities:
+</b></p>
+<ul>
+<li>Demonstrates a detailed knowledge and experience of software development techniques and principles along with ability to accurately estimate effort required to deliver software to meet design specifications
+</li>
+<li>Strong technical and functional experience in using and developing an “enterprise-wide” business application on a platform like MES, ERP, etc. (i.e. SAP, Apriso, CAMstar, Wonderware, FactoryTalk Production Centre, etc.)
+</li>
+<li><p>Analyzes customer's requirements to determine the optimal information solution and determines applicable configuration/architecture.
+</p></li>
+<li><p>Ability to interface information systems to the factory automation layer through data historians, OPC servers, or other mechanisms.
+</p></li>
+<li><p>Make recommendations for improvements and assist Project Manager to propose these to the customer.
+</p></li>
+<li><p>Plan, schedule, coordinate and monitor resources for projects including setting and managing time-scales and budgets.
+</p></li>
+<li>Experience in working closely with customers in defining the requirements and of key information solutions using a similar platform to one as listed above.
+</li>
+<li>Experience working on development teams in creating and managing XML and XSD structure for data transfer. (Knowledge of B2MML a plus)
+</li>
+<li>Knowledge of pertinent industry concepts and standards as they pertain to MES (i.e. MESA, ISA 95, etc.)
+</li>
+<li>Experience in creating software development templates and libraries to facilitate team development speed and progress in all above technology areas.
+</li>
+<li>Implementation experience on a minimum of 2 multi-site MES (or enterprise-wide) software projects utilizing a full software development lifecycle (Use Cases &gt; Design &gt; Development &gt; Testing &gt; Go-Live &gt; Support) preferred.
+</li>
+<li>Experience in interfacing MES systems to ERP and other “peer” external systems a plus.
+</li>
+<li>Experience in interfacing MES systems to the SCADA or Automation layer through Data Historians, OPC servers, or other mechanisms.
+</li>
+<li>Demonstrates a high level of knowledge and consistent performance in conversion of software design to effective implementation in multiple commercial software products including following MAVERICK's Project Complete® Methodology.
+</li>
+<li>Demonstrates team leadership through ownership of technical project deliverables and enhancement of sales support tools through case study development for assigned project work scopes.
+</li>
+<li>Performs and or directs the technical work scope for projects, and provides accurate status reporting of same to project management.
+</li>
+<li>Responsible for maintaining and enhancing personal technical skills as well as development of same for less experienced team members.
+</li>
+</ul>
+<p><b>Critical Competencies:
+</b></p>
+<ul>
+<li>Demonstrates a proactive commitment to safety by taking the time to understand risks and completing all required safety training.
+</li>
+<li>Complies with safety requirements by following all safety procedures and by reporting/documenting safety incidences and near misses.
+</li>
+<li>Demonstrates personal accountability to learning and development of oneself as well as assisting with development of new employees and peers.
+</li>
+<li>Willingly accepts coaching and mentoring from more experienced resources and provides the same when working with entry level resources.
+</li>
+<li>Promotes teamwork by participating as a team player while also demonstrating effective communication skills with the team, management and the customer.
+</li>
+<li>Proactively works to build good relationships with peers, leaders and customers while also demonstrating the ability to meet customer expectations.
+</li>
+<li>Seeks out new responsibilities and stretch opportunities while demonstrating creativity in identifying better means of accomplishing a job.
+</li>
+<li>Displays ambition for learning new processes, platforms or other new offerings at MAVERICK.
+</li>
+<li>Displays leadership abilities including honesty, integrity and professionalism across all aspects of the business.
+</li>
+<li>Demonstrates a willing, can-do attitude by actively participating in teams.
+</li>
+<li>Exhibits proficiency and personal accountability for project performance and meeting customer needs.
+</li>
+<li>Demonstrates a business acumen that allows for effective utilization of tools and standards to ensure project deliverables are met.
+</li>
+</ul>
+<p><b>Awards:
+</b></p>
+<p>Check out some of our Awards below, and then visit our website at www.mavtechglobal.com to learn more about MAVERICK Technologies. We look forward to your application and always welcome referrals!
+</p>
+<ul>
+<li>International Society of Automation’s Premier Strategic Partner for Systems Integration
+</li>
+<li>Named to <i>The Silicon Review </i>magazine's
+<br>
+"50 Best Companies to Watch" (2016)
+</li>
+<li>Named to <i>Fortune </i>magazine’s
+<br>
+“50 Best Workplaces for Flexibility” (2016)
+</li>
+<li>CEO and Founder Paul J. Galeski received ISA’s Excellence in Leadership Award and Honorary Membership (2012)
+</li>
+<li>Proud to be in Control Engineering’s System Integrator Hall of Fame
+</li>
+<li>Control Engineering’s System Integrator of the Year (2011, 2015)
+</li>
+<li>Paul Galeski named an ISA Fellow.
+</li>
+<li>2008 Frost &amp; Sullivan North American System Integrator Company of the Year
+</li>
+<li>Microsoft® Gold Certified Partner for Microsoft Business Solutions
+</li>
+<li>Diamond Level Service Partner for Yokogawa Corporation of America
+</li>
+<li>One of the Inc. 500/5000 Fastest Growing Companies — named six times.
+</li>
+<li>Paul Galeski named Ernst &amp; Young Emerging Entrepreneur of the Year (2002)
+</li>
+<li>Wonderware ArchestrA® Certified System Integrator (SI).<br>
+</li>
+</ul>
+<br>
+<p><b>EEO Statement<br>
+</b></p>
+<br>
+<p>MAVERICK Technologies is an Equal Opportunity/Affirmative Action employer.<br>
+</p>
+<p><br>
+If you are an individual with a disability and you need assistance or an accommodation during the application process, email our Talent Acquisition representative at recruiting@mavtechglobal.com .<br>
+</p>
+<p><br>
+Download the EEO is the Law poster and the supplement for more information.</p>
+</div></div>

@@ -1,0 +1,115 @@
+<h2>Controls Engineer (2+ yrs. exp)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>The Control Engineer shall develop Automation solutions and provide support for Enerflex’s engineering groups, from initial design to implementation of our package solutions and plant facilities for oil and gas industry. Work must be performed consistent with company mission and values and adherence to company policies and procedures.</p>
+<p>
+</p>
+<p><b>Principle Duties &amp; Responsibilities</b></p>
+<p>
+</p>
+<ul>
+<li>Review SOW (Statement of Work) created for the project and, as necessary review Turn-in data created by Enerflex Applications group including customer specification.</li>
+<li>
+Assist the Internal Kick Off Meeting and generate the SOW for the project.</li>
+<li>
+Participate in Customer Kick Off Meeting and HAZOP meeting.</li>
+<li>
+Provide Squad Check for project P&amp;IDs considering SOW and Turn-in data.</li>
+<li>
+Support Control Designer in the development of wiring diagrams for Control Panel and/or Junction Boxes as per project proposal, customer specification and industry standards.</li>
+<li>
+Review or Approve project wiring diagrams for Control Panels and/or Junction Boxes working with Control Designer and Project Engineer to meet project documentation delivery commitments.
+</li>
+<li>Release project Bill of Material (BOM) and Control Panel or Junction Box to manufacturer and support fabrication questions/comments.</li>
+<li>
+Support Project Engineer on Change Order costing and scope.</li>
+<li>
+Create internal RATS (Ranges, Alarms and Trip Setpoints) file as a base for the project execution.
+</li>
+<li>Work closely with Project Engineer to create the Sequence of Operation file.
+</li>
+<li>Support Project Engineer in the developing of Cause &amp; Effect and Control Narrative.</li>
+<li>
+Develop PLC (PAC) / HMI programs using Enerflex programming standards, structure and proprietary blocks / faceplates.
+</li>
+<li>Create Network Address log for customer remote communications.</li>
+<li>
+Support our Production electrical team at our shop by reviewing project scope, standards and quality of work.</li>
+<li>
+Responsible of PLC (PAC) / HMI programs test.
+</li>
+<li>Perform internal Control Panel Factory Acceptance Test.</li>
+<li>
+Perform Factory Acceptance Test in our systems with or without customer, generate and maintain FAT documentation including project punch list.
+</li>
+<li>Responsible for generating and accuracy of final project documentation related to Automation.</li>
+<li>
+Technical Support for Applications/Sales, Service and Retrofit groups. Support may include: review customer specifications and generate bid cost, support for Service technicians from the Office or in the field and training.</li>
+<li>
+In some projects provide on-site support for commissioning and start-up.</li>
+<li>
+Contribute in Enerflex proprietary tools and software development for Automation solutions.</li>
+<li>
+Network and develop relationships with customers to further the Enerflex brand reputation and promise.</li>
+<li>
+Model and champion Enerflex core values in ways that center team culture on these values.</li>
+<li>
+Abide by and promote the Enerflex HSE policy.</li>
+</ul>
+<p>
+</p>
+<p><b>Qualifications</b><b>
+</b></p>
+<ul>
+<li>Bachelor of Engineering in Electrical/Instrumentation discipline or equivalent experience.</li>
+<li>
+2+ yrs. experience in design of various control systems with Allen Bradley hardware; other brands are a plus.</li>
+<li>
+2+ yrs. experience in PLC (PAC)/HMI programming on Allen Bradley, RSLogix 5000 version 20.04, 24 or Studio for PAC and FactoryTalk View Studio 8 or higher. Other PLC(PAC)/HMI brands like GE, Schneider Group (Modicon and Telemechanique) and Siemens is a plus. Intellution and Wonderware experience also a plus.</li>
+<li>
+Knowledge of various electrical components including MCCs, VFD’s, electrical switchgear and motors.</li>
+<li>
+Knowledge in NEC code for hazardous location is required</li>
+<li>
+Knowledge in IEC code is a plus.</li>
+<li>
+Knowledge in the use of Computer-Aided Engineering Software.</li>
+<li>
+Good analytical, engineering problem solving skills.</li>
+<li>
+Effective interpersonal and communication skills, both verbally and written.</li>
+<li>
+Proficient with Microsoft Office application software.</li>
+<li>
+Field commissioning and startup experience.</li>
+<li>
+Travel may be required, up to 30%.</li>
+<li>
+Knowledge in AutoCAD Electrical is a plus.</li>
+</ul>
+<p><br>
+</p>
+<p></p>
+<p><b>Working Conditions</b></p>
+<ul>
+<li>
+Fast‐paced general office environment. Many tasks have high degrees of time sensitivity.</li>
+<li>
+Domestic and international travel is possible on occasion.</li>
+<li>
+May be exposed to confidential information.</li>
+<li>
+Occasionally required to work non‐standard hours including evenings and weekends.</li>
+</ul>
+<p><b>
+Disclaimer</b></p>
+<p>
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, duties and skills required.</p>
+<p><b>
+An Equal Opportunity Employer</b></p>
+<p>
+Enerflex grants equal employment opportunity to all qualified persons without regard to race, color, sex, age, national origin, religion, genetic information, mental or physical disability, or any other characteristic protected by applicable federal, state or local law. Equal employment opportunities are provided in recruitment, hiring, promotions, wages, benefits, and other terms, conditions and privileges of employment.</p>
+</div>
+<p></p>
+</div>

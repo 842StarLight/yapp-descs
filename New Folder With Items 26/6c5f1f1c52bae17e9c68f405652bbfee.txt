@@ -1,0 +1,64 @@
+<h2>SQA Manager (Network Security)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Our Mission</b></p>
+<p>
+At Palo Alto Networks® everything starts and ends with our mission:</p>
+<p>
+Being the cybersecurity partner of choice, protecting our digital way of life.</p>
+<p>
+We have the vision of a world where each day is safer and more secure than the one before. These aren’t easy goals to accomplish – but we’re not here for easy. We’re here for better. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.</p>
+<p><b>
+Your Career</b></p>
+<p>
+Using your experience as a Quality Assurance Test leader, help build the best products to combat cyberattacks by developing teams and processes to remove those threats.</p>
+<p>
+We are looking for a technical, hands-on manager, experienced with product lifecycles from inception to end-of-life with expert knowledge of Release Management best practices and processes. You are a focused mindset of continuous product quality improvements around stability, functionality, and customer success is key. You ideally have experienced critical issue management, you can assess any problem, remain calm under pressure while providing thoughtful resolutions. Excellent written, verbal communication and presentation skills are required as you will collaborate with Engineers, Customer Advocates, Program and Product Management.</p>
+<p><b>
+Your Impact</b></p>
+<ul>
+<li>
+Successfully execute our software release process to consistently deliver timely, high-quality releases has a huge effect on customer satisfaction and our bottom line</li>
+<li>
+Maintaining our software releases until their eventual End-of-Support/End-of-Life</li>
+<li>
+Developing and evolving the team and release processes to increase efficiency and quality</li>
+<li>
+Communicating and collaborating with customer facing teams to resolve critical issues</li>
+</ul>
+<p><b>
+Your Experience</b></p>
+<ul>
+<li>
+2+ years’ experience managing a QA team involved in both manual and automated testing</li>
+<li>
+2+ years’ experience delivering software releases</li>
+<li>
+Experience communicating directly with software developers, QA Engineers, customer services representatives, sales engineers, and customers from IT admins to C-class executives</li>
+<li>
+Strong QA Test Methodology fundamentals</li>
+<li>
+Strong bug tracking analysis skills</li>
+<li>
+Jira and Confluence experience desired</li>
+<li>
+Python experience desired</li>
+<li>
+Experience building and managing test labs/infrastructure</li>
+</ul>
+<p><b>
+The Team</b></p>
+<p>
+You will direct a team of QA Engineers with a focused mindset on making each release better than the last. This is a high-paced environment where we deliver new features in each release. We respond with a sense of urgency, are flexible and evolve rapidly to maintain pace with the innovation being developed by this fast-moving company.</p>
+<p>
+Our engineering team is provided with an unrivaled chance to create the products and practices that will support our company growth over the next decade, defining the cybersecurity industry as we know it. If you see the potential of how incredible people products can transform a business, this is the team for you. If you don’t wait for directions, instead, identifying new features and opportunities we have to just get better, this is your new career.</p>
+<p><b>
+Our Commitment</b></p>
+<p>
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together. To learn more about our dedication to inclusion and innovation, visit our Life at Palo Alto Networks page and our diversitywebsite.</p>
+<p>
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.</p>
+<p>
+Additionally, we are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or an accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.<br>
+<br>
+#LI-CH1</p>
+</div></div>

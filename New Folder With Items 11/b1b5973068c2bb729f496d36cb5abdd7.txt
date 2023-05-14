@@ -1,0 +1,57 @@
+<h2>Information Tester, Level III</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<b>Job Description:</b><br>
+<p>Designs, develops and executes all testing-related activities on applications, infrastructure or hardware components of IT solutions. Applications and infrastructure solutions include both 3rd party software and internally developed applications and infrastructure. Responsibilities include, but are not limited to, establishing testing strategy and plan, analysis of business requirements &amp; designs for testability, design and development of test cases, utilization of appropriate tools to develop automated test scripts, and execution of various testing types such as System, system Integration, performance and modeling. Develops the Testing components of application solutions by applying knowledge of service offerings, capabilities, innovation, sales pursuit strategy, Testing &amp; Quality Methodology and best practices to collaborate with the Project team and client to deliver high quality solutions. Works within the Services function, obtaining resources and working in support of objectives and strategies.</p>
+<p></p>
+<p><b><i>
+Responsibilities:
+</i></b></p>
+<ul>
+<li>Applies advanced subject matter knowledge to complex business issues, and is regarded as a subject matter expert.</li>
+<li>Frequently contributes to the development of new ideas and methods.</li>
+<li>May act in lead role for small functional testing team.</li>
+<li>Works on complex problems/projects where analysis of situations or data requires an in-depth evaluation of multiple factors.</li>
+<li>Exercises significant independent judgment within broadly defined policies and practices to determine best method for accomplishing work and achieving objectives.</li>
+<li>Acts as an expert providing direction and guidance to process improvements and establishing policies.</li>
+<li>May represent the organization to external customers.</li>
+<li>Proficient in testing analysis and design, functional and performance models, and test specifications to:</li>
+</ul>
+ o develop functional models for testing<br>
+ o develop performance models for testing<br>
+ o evaluate and validate test cases and scripts<br>
+ o validate functional models for testing<br>
+ o validate performance models for testing<br>
+ o develop test specifications, validate test specifications<br>
+ o validate testing coverage<br>
+ o escalate quality issues for resolution<br>
+ o evaluate test automation tools and validate testing environment in order to develop test specifications<br>
+<ul><li>Proficient in testing processes and tools to:</li></ul>
+ o execute test cases and scripts<br>
+ o analyze test results<br>
+ o report on testing progress and results<br>
+ o facilitate defect resolution and document final test results in order to execute testing engagement<br>
+<ul><li>Knowledgeable of testing processes and testing metrics to:</li></ul>
+ o review test summary report<br>
+ o provide testing project feedback and archive testing assets in order to verify completion of testing<p><br>
+</p>
+<p><b><i>Requirements:</i></b></p>
+<p></p>
+<ul>
+<li>Bachelor’s degree or equivalent experience</li>
+<li>Applies basic foundation of a function’s principles, theories and concepts</li>
+<li>5+ years of related manual and/or automated testing experience</li>
+<li>Healthcare industry knowledge highly preferred</li>
+<li>HP Quality Center/ALM</li>
+<li>Strong proficiency in testing and development methodologies and their interaction.</li>
+<li>General Project Management.</li>
+<li>Customer/ Vendor Management.</li>
+<li>Excellent verbal and written communication skills; ability to work effectively in a global team.</li>
+<li>Strong proficiency in understanding requirements, design specifications, and testing strategy to: perform ambiguity analysis, perform risk analysis, establish testing priorities and scope, develop testing strategy, review testing strategy, validate requirements and specifications, develop test plans, review test plan, develop test scenarios, select test design techniques and develop testing metrics collection plan in order to plan and prepare for testing.</li>
+<li>Strong proficiency in testing analysis and design, functional and performance models, and test specifications to: develop functional models for testing, develop performance models for testing, evaluate and validate test cases and scripts, validate functional models for testing, validate performance models for testing, develop test specifications, validate test specifications, validate testing coverage, escalate quality issues for resolution, evaluate test automation tools and validate testing environment in order to develop test specifications.</li>
+<li>Strong proficiency in testing processes and tools to: execute test cases and scripts, analyze test results, report on testing progress and results, facilitate defect resolution and document final test results in order to execute testing engagement.</li>
+<li>Strong proficiency in testing processes and testing metrics to: review test summary report, provide testing project feedback and archive testing assets in order to verify completion of testing.</li>
+</ul>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,135 @@
+<h2>Associate Actuary</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Position Overview</b><br>
+<p>The Associate Actuary takes ownership of the data used in specific advanced analytic exercises, throughout the full project from understanding business needs through to implementation, to contribute to maximizing the value produced from the exercise. Communicates effectively throughout the project with all stakeholders to ensure data is well understood, used effectively and used in accordance with the appropriate legal and best practice frameworks. Ensures data is cleaned ready for further advanced analysis and serves as a SME on data cleansing and manipulation within the group.</p>
+<br>
+<b>
+Responsibilities</b><br>
+<p>On specific data and analytic projects takes responsibility for, and in many cases executes, the following activities to ensure that:</p>
+<ul>
+<li>
+project is properly initialized by understanding the business objectives, timescales, constraints on the project etc.</li>
+<li>
+data requirements are properly defined and understood, including consideration of third party sources of data to enrich the data where appropriate</li>
+<li>
+data is received through secure processes in compliance with RGA data policies;</li>
+<li>
+sufficient understanding of the data is gained and documented, including how it was collected, how it may have changed over time etc.</li>
+<li>
+possible problems, errors and inconsistencies in the data are identified and actions taken to solve those issues;</li>
+<li>
+data is processed in preparation for more advanced analysis, which may include data cleaning, manipulation, partition, aggregation, mapping, conversion, basic statistics calculation, etc.;</li>
+<li>
+potential synthetic variables are identified and either communicate those possibilities to the modelling team and/or create synthetic variables directly;</li>
+<li>
+data transformation is performed as necessary;</li>
+<li>
+data is provided to data scientists in a way they can easily utilize it and ensure appropriate knowledge transfer takes place on the data and related domain knowledge to ensure they can do their job in the most effective way;</li>
+<li>
+the final modelling solution is reviewed to ensure data has not been utilized in error, outside of legal/regulatory/practice frameworks or that data items have not been fully utilized;</li>
+<li>
+continual liaison takes place with stakeholders to ensure they are well informed;</li>
+<li>
+implementation plans are reviewed and issues highlighted that could potentially arise due to differences in the data between what was used in the modelling and would be collected during live functioning of the system.</li>
+<li>
+All such activities will, to a greater or lesser extent as appropriate, necessitate working extensively with internal and external clients.</li>
+</ul>
+<p>
+Management</p>
+<ul><li>
+Manages a small team of analysts to support successful attainment of the objectives set out in this job description.</li></ul>
+<p>
+Best practices design, development and maintenance</p>
+<ul><li>
+Owns the data process and documentation system with in the data science group to ensure efficiency and effectiveness, and communicate with the rest of modeling team.</li></ul>
+<ul><li>
+Assists in developing, maintaining and following RGA modeling best practice standards.</li></ul>
+<p>
+Explore current and emerging topics of interest to any of RGA’s business units or clients such as new statistical techniques, new mortality/morbidity development, and many others.</p>
+<p>
+Participates in special projects, committees, meetings and client presentations as required.</p>
+<p>
+Fosters positive relationships with key stakeholders.</p>
+<p>
+Provides assistance, as appropriate and directed, with the training of new personnel.</p>
+<p>
+Performs other duties as required</p>
+<p></p>
+<br>
+<b>
+Requirements</b><br>
+<p><b>Education and Experience</b></p>
+<p><b>
+Required:
+</b></p>
+<ul>
+<li>Bachelor’s degree in Math, Finance, Actuarial Sciences, Statistics or related field</li>
+<li>
+FSA and 6+ years experience in experience analysis, research, pricing, valuation, product design, financial reporting</li>
+</ul>
+<p><b>
+Preferred:</b></p>
+<ul>
+<li>
+Master’s degree in Statistics</li>
+<li>
+2+ years’ experience with data-driven solution in insurance</li>
+</ul>
+<p><b>
+Skills and Abilities</b></p>
+<p><b>
+Required:</b></p>
+<ul>
+<li>
+Advanced PC and technical skills</li>
+<li>
+Advanced oral and written communication skills demonstrating ability to share and impart knowledge</li>
+<li>
+Ability to quickly adapt to new methods, work under tight deadlines and stressful conditions</li>
+<li>
+Advanced investigative, analytical and problem solving skills</li>
+<li>
+Ability to work well within a team environment and participate in department/team projects</li>
+<li>
+Expert ability to balance detail with departmental goals/objectives</li>
+<li>
+Advanced ability to translate business needs and problems into viable/accepted solutions</li>
+<li>
+Advanced skills in customer relationship management and change management</li>
+<li>
+Ability to manage multiple projects or teams and set applicable goals</li>
+<li>
+Advanced negotiating and persuasion skills</li>
+<li>
+Advanced ability to liaise with individuals across a wide variety of operational, functional, and technical disciplines</li>
+<li>
+General business knowledge</li>
+<li>
+Advanced interpersonal skills, demonstrating the ability to work effectively with different disciplines, including Pricing, Underwriting, Medical, Operations, Sales, New Initiatives, and IT</li>
+<li>
+Advanced project management skills. Demonstrates an ability to evaluate project objectives and scope for feasibility and understanding</li>
+<li>
+Advanced knowledge of actuarial mathematics and experience analysis concepts and techniques</li>
+<li>
+Ability to compile, analyze, refine, and interpret large amounts of data</li>
+</ul>
+<p><b>
+Preferred:</b></p>
+<ul>
+<li>
+Knowledge of predictive modeling/GLM techniques and/or software (R, Hadoop, Spark, etc.)</li>
+<li>
+Intermediate knowledge of database applications (Access, Oracle, SQL, TOAD, or equivalent)</li>
+<li>
+Computer programming skills (Visual Basic or equivalent)</li>
+<li>
+Reinsurance industry and product knowledge</li>
+</ul>
+<br>
+<b>
+Company Overview</b><br>
+<p>Reinsurance Group of America, Incorporated (NYSE: RGA) is one of the largest global providers of life reinsurance, with offices around the world. RGA delivers expert solutions in individual life reinsurance, individual living benefits reinsurance, group reinsurance, financial solutions, facultative underwriting and product development.</p>
+<p><b>
+#LI-TS1</b></p>
+<br>
+Job Reference: US03759</div></div>

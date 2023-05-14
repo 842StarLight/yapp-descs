@@ -1,0 +1,40 @@
+<h2>.NET Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Role : .NET Developer</b><br><b>Location : Irving, Texas</b><br><b>Duration : Full Time</b></p>
+<p>Client uses anywhere from supporting some legacy applications still on 3.5, and the most critical applications are on the current framework 4.7.8. We are also looking at the DOT NET CORE framework and will begin migrating some of our applications to CORE over the next year. Regarding the question of more of a lead developer, I would say yes, as long as they have very strong development skills. We do need them to be able to review requirements and be able to recommend technical solutions.<br>Tenure is Key to this role. They are not looking for a consultant who is ready to commit to a FTE role.<br>No Bonus<br>Great Team environment (open, transparent and trusting team)<br>Engineer will be working on 90% new development</p>
+<p>This team supports the Sales team globally. They have Salesforce CRM, Oracle ERP, and MS platform. This is a new position on the team of 16.</p>
+<p>Description:</p>
+<p>Software Engineer with 7+ years of experience using C#, ASP.NET MVC, WEBFORMS, .NET Core, SQL. Ability to work well on an Enterprise team. Strong communication skills.</p>
+<p>Responsibilities for this Position Include:</p>
+<ul>
+<li>Design and develop reusable software component on Windows/.NET platforms that will be utilized by multiple web browsers</li>
+<li>Identify deficiencies in existing designs or architectures and suggest remediation possibilities</li>
+<li>Create technical documentation and architectural proposals for peer review</li>
+<li>Ensure code and the design meets the customer’s specifications without compromising quality and security standards</li>
+<li>Work with business stakeholders to analyze and convert business requirements into scalable, robust and flexible designs</li>
+<li>Follow configuration management and version control policies</li>
+<li>Investigate defects, present solutions with accurate estimates of work effort and implement the solution on time and on budget</li>
+<li>Develop, remediate and run unit tests</li>
+</ul>
+<p>Requirements:</p>
+<ul>
+<li>7+ years of using C#, ASP.NET MVC, WEBFORMS, SQL</li>
+<li>.NET Core</li>
+<li>Bachelor’s Degree in either Computer Science or Computer Information Systems</li>
+<li>Web Development tools experience</li>
+<li>Salesfoce.com experience is a plus</li>
+<li>Agile experience</li>
+<li>Strong SQL skills and experience developing responsive web applications using JavaScript, HTML, CSS, and JQuery. Experience with Unit Tests during development and also experience developing Windows Services.</li>
+<li>Excellent Tenure</li>
+<li>Excellent Communication skills</li>
+<li>Team player</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>.NET Core: 7 years (Required)</li>
+<li>c#: 7 years (Required)</li>
+</ul>
+<p>Location:</p>
+<ul><li>Irving, TX (Required)</li></ul>
+</div>

@@ -1,0 +1,36 @@
+<h2>Product Manager II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Ekata (formerly Whitepages Pro) provides global identity verification via enterprise-grade APIs and a SaaS solution. Our product suite is powered by Ekata Identity Engine, the first and only cross-border identity engine of its kind. It uses complex machine learning algorithms across the five consumer attributes of email, phone, name, physical address, and IP to derive unique data links and features from billions of real-time transactions within our customer network and the globally sourced data of our graph. Businesses around the world including Alipay, Stripe, Airbnb, and Microsoft leverage our solutions to approve more good transactions, reduce friction, and find fraud<i>.</i></p>
+<p>
+As part of this team, the <b>Product Manager</b> will be responsible for multiple innovative product offerings built on top of identification data. You will focus on diving deep into understanding our customers, their end to end journey through our products and execute on building a tailored experience that will delight them. You will work closely with every function within the team including Engineering, Data Science, Sales and Marketing to build best in class products, take it to market, measure, iterate and ensure its commercial success.<br>
+<br>
+<b>In this role you can expect to:</b></p>
+<ul>
+<li>
+Understand customer needs, come up with solutions and iterate it constantly to build the best in class experience and then bake it into the product.</li>
+<li>
+Create and maintain your team’s roadmap and milestones. Work with your team to estimate, implement, and build features while ensuring that you’re working on the highest priority things you can be.</li>
+</ul>
+<ul>
+<li>
+Manage the daily workflow with a team of engineers, data scientists and designers. Do whatever your team needs to help them keep moving.</li>
+<li>
+Maintain a deep understanding of overall market dynamics, end user needs and competitive product capabilities.</li>
+</ul>
+<p><b>
+Our ideal candidate will have:</b></p>
+<ul><li>
+At least 2 years of experience as a Product Manager for a technology company</li></ul>
+<ul>
+<li>
+Experience working with SaaS services and integrating 3rd party APIs. Ability to code/build proof of concepts preferred.</li>
+<li>
+Strong oral and written communication skills.</li>
+<li>
+Spent time working on closely-knit teams using Agile methodologies such as Scrum.</li>
+<li>
+Strong interest in B2B SaaS business models. We are a SaaS company!</li>
+<li>
+Bachelor’s degree (Engineering preferred)</li>
+</ul>
+</div></div>

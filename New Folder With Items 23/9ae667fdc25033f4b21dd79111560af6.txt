@@ -1,0 +1,50 @@
+<h2>(Sr.) Software Engineer IT Applications</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Help us make Health Care better for our members!! As a Software Development Engineer III on the IT Applications team, you will be supporting the Product Development Sales and Marketing (PDMS) team. This team is instrumental in ensuring that Premera’s customer gets quality health insurance products at an affordable price.</p>
+<p>You will make a difference while developing and maintaining a variety of applications in an agile environment. The work you perform supports connecting customers with the best possible health care for the best possible price. Premera is undergoing an exciting technology transformation and you will help drive the future of applications. You will be someone who flexible, quick thinking, and motivated.</p>
+<p><b>What you’ll do: </b></p>
+<ul>
+<li>Build software that supports Premera’s Sales &amp; Marketing activities</li>
+<li>Work face-to-face with business partners to ensure the software built meets the business need</li>
+<li>Participate in an environment that is conducive to experimentation and Mob programming</li>
+<li>Be part of a multi-disciplinary, agile team building and distributing distributed systems using a variety of technology stacks with the ability to quickly pick up new technologies/paradigms and to implement solutions across the full stack</li>
+<li>Demo the technology you build, incorporate feedback received from stakeholders</li>
+<li>Analyzing, designing, developing, implementing and maintaining application code for complex software</li>
+<li>Upgrade applications to up-to-date versions of software, identify and reduce technical debt in existing applications</li>
+<li>Provide and implement ideas for improving quality of existing code and streamlining future maintenance</li>
+<li>Design, code, test and improve existing, or deliver new, features and applications</li>
+<li>Quality, performance and estimate planned work such as improvements or defects and write unit tests and participate in functional, integration, and regression testing when needed</li>
+<li>Develop code in accordance with stated standards and quality measures and participate and collaborate in concepting, design and code reviews</li>
+<li>Create test cases and develop automated testing</li>
+<li>Provide sufficient documentation for others to understand the designs implemented</li>
+<li>Share knowledge and mentor less experienced team members</li>
+</ul>
+<p><b>What you’ll bring: </b></p>
+<ul>
+<li>Bachelor's Degree in Computer Science or equivalent, or 5-8 years’ software development experience</li>
+<li>5+ years of professional experience in delivering quality software, ideally across the full stack</li>
+<li>Experience and passion for working in an agile (scrum) environment</li>
+<li>Continuous / relentless improvement mindset</li>
+<li>Proficiency in an Object-Oriented language, such as Java, C++, C#, etc</li>
+<li>Able to demonstrate knowledge of C#, .NET, SQL</li>
+<li>CRM knowledge or experience a plus (Dynamics 365, Seibel, Salesforce,)</li>
+<li>Experience in healthcare industry or a highly regulated environment</li>
+<li>Experience in API and service-based technologies</li>
+<li>Experience using and creating automated test tools</li>
+<li>Ability to collaborate and help others understand your differing points of view</li>
+<li><b>Must be able to work in the U.S. without a visa transfer or sponsorship now or in the future.</b></li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>.NET: 5 years (Required)</li>
+<li>Software Development: 5 years (Required)</li>
+<li>Agile: 5 years (Required)</li>
+<li>C#: 3 years (Required)</li>
+<li>SQL: 5 years (Required)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+</div>

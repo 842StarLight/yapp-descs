@@ -1,0 +1,54 @@
+<h2>Senior Business Data Analyst-Web/Digital Analytics</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview</b></h2>
+<p>
+We have an exciting opportunity on a team that is defining how we use analytics to transform customer experiences, accelerate business growth and optimize ROI. We are looking for a data-driven analyst with excellent analytical and problem-solving skills with great communication skills.</p>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<p>
+As a Senior Analyst, you will dive deep into our data to uncover actionable insights and make recommendations that will influence the company’s strategic decisions. The ideal candidate will have a strong background in quantitative analysis using large data sets, and in data-driven decision making.
+</p>
+<ul>
+<li>Serve as a subject matter expert on digital analytics and data science and stay abreast of best practices and new applications in digital analytics, machine learning, and digital technologies spanning Web, Mobile, Social, Email and Media.</li>
+<li>
+</li>
+<li>
+Support analytic needs of the business unit by <b>analyzing web traffic using clickstream tools such as Adobe Analytics, </b>Google Analytics etc.
+</li>
+<li>Use data and best practices to make recommendations for stakeholders <b>to optimize the customer journey across the site, SaaS products, and digital marketing channels</b>
+</li>
+<li>
+Create comprehensive reporting, insights, and recommendations <b>across websites, digital advertising, social media, email marketing, </b>etc. to <b>inform site and campaign strategies </b>and for presentations to senior management team</li>
+<li>
+<b>
+Assist with implementation &amp; management of site analytics </b>(Adobe Analytics, Google 360, etc.), Audience Management (AAM), and tag management platforms (Ensighten, Tealium, etc.).</li>
+<li>
+Establish and promote best practices for reporting strategies, data visualization, data interpretation and data integrity</li>
+<li>
+Exhibit a high level of expertise in driving the data strategy across multiple “listening posts” (websites, surveys, testing, CRM systems, market research etc). Develop a picture of the customer leveraging data from online and offline data sources</li>
+<li>
+Partner with Ecommerce operations, marketing, and creative <b>to test hypotheses using AB and multivariate testing</b> in order to drive incremental sales and conversion</li>
+<li>
+Ability to work in a fast-paced, team-oriented environment with rapidly changing technology; willingness to adapt to new software, technology, and marketing techniques quickly</li>
+<li>
+Stay abreast of industry trends, best practices, and the evolving analytics landscape</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<ul>
+<li>
+Minimum 3-5 years’ experience working with web analytics tools like Adobe Site Catalyst, Google Analytics and proficiency with methodologies like online traffic, click stream data, site landing optimization, testing approaches, path analysis, tagging strategy, dashboarding etc.
+</li>
+<li>Experience with testing and personalization tools such as Adobe Audience Manager, Optimizely, SiteSpect, or Adobe Test &amp; Target</li>
+<li>
+Advanced SQL skills to perform data segmentation and aggregation from scratch; Knowledge of programming languages and stats packages (e.g. SAS, Python, R); comfortable running multiple regression analyses</li>
+<li>
+Expertise in the application of statistical methods in test design, development and execution across both Frequentist and Bayesian methodologies. Expertise in A/B test design and measurement with strong quantitative skills and understanding of mathematical statistical concepts e.g Bayesian and Frequentist measurement</li>
+<li>
+Outstanding communication skills with the ability to clearly present data, context, and implications to business partners; ability to influence decision makers and build consensus with teams</li>
+<li>
+Project Management skills and ability to manage multiple projects simultaneously to meet objectives and key deadlines</li>
+<li>
+Undergraduate degree a must. Masters in a quantitative field such as Mathematics/Statistics/Computer Science preferred.</li>
+</ul>
+</div></div>

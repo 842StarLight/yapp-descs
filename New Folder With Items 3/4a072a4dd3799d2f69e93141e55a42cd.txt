@@ -1,0 +1,73 @@
+<h2>Senior Product Manager - Security (TLS)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Fastly helps the world's most popular digital businesses keep pace with their customer expectations by delivering fast, secure, and scalable online experiences. Businesses trust Fastly to accelerate the pace of technical innovation, mitigate evolving threats, and scale on demand. Founded in 2011, Fastly powers online destinations including Airbnb, GitHub, Alaska Airlines, Pinterest, Vimeo, The Guardian, and The New York Times.
+<br><br>
+The worldwide cloud services market is projected to grow rapidly to $236 billion in 2020, according to Forrester, Inc. As more and more businesses move operations to the cloud, Fastly is well positioned to continue increasing CDN, cloud networking and cloud security market share with edge cloud services that reach beyond content delivery.
+<br><br>
+We're building a better Internet. Come join us.
+<br><br>
+Senior Product Manager - Security (TLS)
+<br><br>
+Fastly's ' Edge Cloud provides unparalleled flexibility and performance, all within a never-before seen level of safety and code isolation. It allows our customers to build complex logic, on top of a 50+ Tbps network, all in a serverless environment. This role will be responsible for driving the productization efforts that will allow customers to use the language and development environment of their choice (Rust, Go, etc.), as well as to expand the functionality of our overall development environment. This includes keen focus on improving our customers DevOps experience through the delivery of a feature filled environment while building a safe, secure and highly performant runtime environment.
+<br><br>
+<b>Successful candidates will have three main traits:</b> product sense, leadership, and the ability to get things done. They'll also be technical enough to truly understand where the complexity in features lies and to anticipate obstacles in the development process.
+<br><br>
+Candidates in this role will manage the end-to-end product lifecycle of Fastly security products including ideation, definition, development, and operations. You will analyze, identify and quantify opportunities for new markets, new product features and new product ideas and take them to market. This role reports to a dedicated manager who oversees security product management at Fastly.
+<br><br>
+<b>As a product manager at Fastly, you will:</b><br>
+<ul>
+<li>Convey your vision through product roadmaps, working closely with product leaders, engineers and other stakeholders, and participate in all levels of planning</li>
+<li>Successfully lead product initiatives cross-functionally across marketing, design, engineering and other stakeholder teams</li>
+<li>Champion our customers, making and influencing decisions about product features, functionality, design, and architecture with our customers at the center.</li>
+<li>Develop pricing strategies for products, including cost analysis and competitive pricing assessments. Work in concert with sales and marketing to implement them.</li>
+<li>Gather relevant data and metrics for a product, set measurable and progressive goals using data, and drive achievement of goals and metrics in collaboration with business and technical stakeholders</li>
+<li>Bring to market products that users want, that solve a business need, and that generate profit for the company</li>
+<li>Be an ambassador for Fastly as an advocate of the platform, a content author, a speaker and active in the standards community for visibility, credibility and a voice in the industry</li>
+</ul>
+What You'll Do
+<br><br>
+<ul>
+<li>Define and deliver a compelling roadmap that will meet our customer's unmet and underserved needs, focusing primarily on our application security offerings focused on trust, with a focus on TLS.</li>
+<li>Define and drive the vision and strategy for Fastly security products and work broadly across the organization on strategy to meet product needs</li>
+<li>Anticipate long range issues and work with internal teams to maximize the value of our products to the organization</li>
+<li>Gather, articulate, and understand market requirements around application security and edge computing</li>
+<li>Gather, articulate, author and prioritize product and customer requirements in a form accessible to the engineering team</li>
+<li>Contribute to technology strategy and vision, business development, engineering processes and quality and strategic operations to enable engineering deliveries</li>
+</ul>
+What We're Looking For
+<br><br>
+<b>Successful candidates will have three main traits:</b> product sense, leadership, and the ability to get things done. They'll also be technical enough to truly understand where the complexity in features lies and to anticipate obstacles in the development process.
+<br><br>
+<b>More Specifically:</b><br>
+<ul>
+<li>Minimum of five years of Product Management experience working on security products at a software company</li>
+<li>B.S. in Computer Science,Information Technology, Business or related field</li>
+<li>MBA from a top tier school preferred</li>
+<li>Deep understanding and passion for X.509, PKI, TLS, data privacy &amp; data protection, web and network security. Candidates with a threat-defense background should also apply if you are passionate about expanding your knowledge and experience into these other areas.</li>
+<li>Experience with web technologies, content delivery, streaming technologies and Fastly's network/application architecture a plus</li>
+<li>Ability to think strategically and craft a compelling product vision</li>
+<li>Ability to secure buy-in for new initiatives through comprehensive research, building business case and socializing</li>
+<li>Comfortable with developing multiple pricing and business models including usage based, subscription, and transactional models</li>
+<li>You have a get-stuff-done attitude, have great positive energy, and thrive in a fast paced environment.</li>
+<li>You are passionate about technology, can keep up with the latest trends in the field and aware of how they impact your roadmap</li>
+<li>Disciplined organization skills with acute attention to detail and ability to ask the questions nobody else has asked</li>
+<li>Exceptional written and verbal communication skills.</li>
+</ul>
+Why Fastly?
+<br><br>
+<ul>
+<li>We have a huge impact. Fastly is a small company with a big reach. Not only do our customers ( https://www.fastly.com/customers ) have a tremendous user base, but we also support a growing number of open source projects and initiatives ( https://www.fastly.com/open-source/ ). Outside of code, employees are encouraged to share causes close to their heart with others so we can help lend a supportive hand.</li>
+<li>We love distributed teams. Fastly's home-base is in San Francisco, but we have multiple offices and employees sprinkled around the globe. In fact, 50% of our employees work outside of SF! An international remote culture is in our DNA.</li>
+<li>We care about you. Fastly works hard to create a positive environment for our employees, and we think your life outside of work is important too. We support our teams with great benefits like up to 20 weeks of paid parental leave, options for free medical/dental/vision plans, and an open vacation program that enables our folks to take the time they need to recharge (some benefits may vary by location).</li>
+<li>We value diversity. Growing and maintaining our inclusive and diverse team matters to us. We are committed to being a company where our employees feel comfortable bringing their authentic selves to work and have the ability to be successful -- every day.</li>
+<li>We are passionate. Fastly is chock full of passionate people and we're not 'one size fits all'. Fastly employs authors, pilots, skiers, parents (of humans and animals), makeup geeks, coffee connoisseurs, and more. We love employees for who they are and what they are passionate about.</li>
+</ul>
+We're always looking for humble, sharp, and creative folks to join the Fastly team. If you think you might be a fit please apply!
+<br><br>
+Fastly is committed to ensuring equal employment opportunity and to providing employees with a safe and welcoming work environment free of discrimination and harassment.
+<br><br>
+Employment decisions at Fastly are based on business needs, job requirements and individual qualifications, without regard to race, color, religion, gender, gender identity, gender expression, sexual orientation, national origin, family or parental status, disability*, age, veteran status, or any other status protected by the laws or regulations in the locations where we operate. Fastly encourages applicants from all backgrounds.
+<br><br>
+<ul>
+<li>Applicants with disabilities may be entitled to reasonable accommodation under the terms of the Americans with Disabilities Act and certain state or local laws. A reasonable accommodation is a change in the way things are normally done which will ensure an equal employment opportunity without imposing undue hardship on Fastly. Please inform us if you need assistance completing any forms or to otherwise participate in the application process.</li>
+</ul>
+</div>

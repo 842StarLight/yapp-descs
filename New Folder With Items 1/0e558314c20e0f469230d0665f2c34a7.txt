@@ -1,0 +1,32 @@
+<h2>Site Reliability Engineering Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>If you want to work with the top developers and Devops engineers in the tech industry, you should join us!</p>
+<p>
+JFrog is a fast growing startup, building the next generation of software development and distribution tools. We are setting up the future of software development and DevOps tooling chain.</p>
+<p>
+Our technology-driven company is looking for a manager to lead our top-notch Site Reliability Engineers team.</p>
+<p>
+Work with dozens of cutting-edge technologies and leap your career forward! Serve as JFrog’s technical focal point for customers and collaborate with JFrog’s DevOps, R&amp;D, QA and Sales teams.</p>
+<p><b>
+ </b><b>Key Responsibilities</b></p>
+<ul>
+<li>Lead a team of skilled and experienced SREs</li>
+<li>Work with cutting edge technology in the cloud and hardware computing space</li>
+<li>Install, configure, update and troubleshoot services such as Nginx, MySQL, Chef, Tomcat, Docker and much more</li>
+<li>Monitor, troubleshoot and resolve Production grade issues, troubleshoot and configure system and applicative aspects of our SaaS platform and applications</li>
+<li>Collaborate in a “DevOps” environment where you will work closely with our DevOps, global Support, Solution Engineering, R&amp;D, QA and DevOps teams Worldwide</li>
+<li>Manage internal Root Cause Analysis (RCA) process and documentation</li>
+<li>Automate current manual monitoring processes</li>
+<li>Maintaining a knowledge base of known issues and solutions</li>
+</ul>
+<p><b>Desired Skills and Experience</b></p>
+<ul>
+<li>3+ years of experience as a people manager in an SRE, Engineering or Operations capacity</li>
+<li>Excellent problem solving skills with a desire to take on responsibility</li>
+<li>Hands on technical experience with supporting SaaS based applications</li>
+<li>Expertise with AWS platform including RDS, VPCs, ECS/EKS etc.</li>
+<li>Expertise with Docker, Kubernetes (or other orchestration tools), and Jenkins</li>
+<li>Experience with Configuration management tools (Puppet, Chef, Ansible).</li>
+<li>Experience with CI/CD pipeline configuration, deployment, and support</li>
+</ul>
+</div></div>

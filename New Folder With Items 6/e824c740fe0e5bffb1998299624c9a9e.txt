@@ -1,0 +1,55 @@
+<h2>Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Basic Qualifications<br>
+<ul>
+<li>5+ years design &amp; implementation experience with distributed applications</li>
+<li>5+ years of experience in networking; infrastructure or database architecture</li>
+<li>Working knowledge of software development tools and methodologies</li>
+<li>Technical degree required; Computer Science or Math background desired</li>
+<li>Working knowledge of cloud technologies</li>
+<li>Experience presenting to both large and small audiences (Executives, IT Management, and developers)</li>
+<li>Experience communicating across internal and external organizations</li>
+<li>Ability to travel, including out of state, up to 35% of the time</li>
+</ul>
+</div>
+<br>
+<div>Hiring movers and shakers passionate about Cloud transformation!<br>
+<br>
+Cloud is the new normal and our customers are interested in leveraging AWS to increase agility, improve security, reduce costs and gain global footprint. On the forefront of this adoption are AWS Solutions Architects, educating the customers on how to craft highly scalable, flexible, resilient, secure and cost-effective cloud architectures. As a trusted customer advocate, the solutions architect will help organizations understand advanced cloud-based solutions, and how to migrate existing workloads to the cloud. You will have the opportunity to help shape and execute a strategy to build mind share and broad use of AWS within organizations ranging from new start-ups to large enterprise customers. The ability to link technology with measurable business value is critical to a solutions architect. You should also have a demonstrated ability to think strategically about business, products, and technical challenges.<br>
+<br>
+We are looking for a candidate who is comfortable at the intersection of technology and business. They will be broadly competent across many areas of technology and deep in a handful of areas. It's ok for them to be less deep in some places, but we need to feel confident that they have the fundamentals and the ability to learn complex new technologies quickly.<br>
+<br>
+On the business side, we are looking for excellent communication skills. The Solutions Architect will spend most of their day interacting with customers via email, phone, WebEx, and in-person meetings. They will meet with developers, team leads, engineering directors, and CxOs. Given the large portion of customers who are self-served, interest in and ability to create one-to-many content such as reference architectures and blog posts is an important part of the role.<br>
+<br>
+On the soft-skills side, we are looking for ability to moderate tone and technical depth based on audience and solid ability to pick up on non-verbal communication. Also ability to pick up on “un-said” drivers is important.<br>
+<br>
+On the personal attributes side, we are looking for individuals who are passionate about technology and have the drive and capability to absorb and retain vast amounts of deep technical information continuously. People who might get easily bored in slower moving environments might do well here.<br>
+<br>
+This role requires domestic travel up to 35%.<br>
+<br>
+Roles and Responsibilities<br>
+<ul>
+<li>Partner with the sales team, formulate and execute a sales strategy to exceed revenue objectives through the adoption of AWS</li>
+<li>Educate startup and SMB customers on the value proposition of AWS, and participate in deep architectural discussions to ensure solutions are designed for successful deployment in the cloud</li>
+<li>Build deep relationships with senior technical individuals within customers to enable them to be cloud advocates</li>
+<li>Conduct one-to-few and one-to-many training sessions to transfer knowledge to customers considering or already using AWS</li>
+<li>Capture and share best-practice knowledge within the AWS solutions architect community</li>
+<li>As a key member of the business development and sales team, ensure success in building and migrating applications, software and services on the AWS platform</li>
+<li>Author or otherwise contribute to AWS customer-facing publications such as whitepapers</li>
+<li>Act as a technical liaison between customers and product teams and help evolve the AWS platform</li>
+</ul>
+</div>
+<br>
+<div>Preferred Qualifications<br>
+<ul>
+<li>Experience using and adapting to new technologies</li>
+<li>Experience working within software development or Internet-related industries</li>
+<li>Experience migrating or transforming legacy customer solutions to the cloud</li>
+<li>Professional experience architecting/operating solutions built on AWS</li>
+<li>Solution selling experience</li>
+</ul>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br>
+<br>
+Amazon Web Services is hiring. For more information: http://aws.amazon.com/careers/<br>
+aws-solarch-na</div>
+</div>

@@ -1,0 +1,34 @@
+<h2>Salesforce Web Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>We are looking for a web developer who will be responsible for integration projects centralizing around our Salesforce account. This person will be working with all departments to help automate every system in our company to help our company and franchises run more smoothly. This person will be a professional who will add a level of appropriate business acumen to their department.
+</p>
+<b>Compensation:</b><p>
+$50,000</p>
+<b>
+Responsibilities:</b><ul>
+<li>
+Lead the testing and implementation of software development efforts, including coding, configuration, maintenance, installation, testing, and debugging, as well as managing timelines and producing technical documentation.</li>
+<li>
+Work on the integration of systems within company</li>
+<li>
+Work with departments within the company to help automate systems
+</li>
+<li>Will develop and maintain Salesforce account implementing apps and other add ons as needed</li>
+<li>
+Controls the adaptability of all the APIs and their integration for company accounts (Brokermint, Quickbooks, Salesforce, etc.)
+</li>
+</ul>
+<b>Qualifications:</b><ul>
+<li>
+Knowlegde of HTML, CSS and JavaScript
+</li>
+<li>Detail-oriented</li>
+<li>
+Proficient Salesforce, Brokermint and Quickbooks experience
+</li>
+</ul>
+<b>About Company</b><br>
+<p>1st Class Real Estate, founded in 2012 by Rhyan Finch (Chief Executive Officer) and Rhendi Crisanti (Chief Operating Officer) started with only a handful of agents and has rapidly grown to include four corporate locations, and five franchise locations in multiple states, with over 250 agents and staff. 1st Class’s proven model has the software, systems, procedures, and SUPPORT staff in place for every process you can think of including office operation procedures, lead generation, marketing and branding, closing coordination, inside sales, agent training, and more!</p>
+<p>
+1st Class centralized the support staff in their 12,000 sq. ft Resource Center located in Virginia Beach and bundled their services together with an infrastructure designed to support a new real estate entrepreneur at a very low-cost/low-risk approach making it possible for an agent to grow their own real estate business!</p>
+</div></div>

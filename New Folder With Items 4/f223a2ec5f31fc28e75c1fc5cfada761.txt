@@ -1,0 +1,95 @@
+<h2>Cloud Security Systems Engineer- SLED</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Our Mission</b></p>
+<p>
+At Palo Alto Networks® everything starts and ends with our mission: protecting our way of life in the digital age by preventing successful cyberattacks. It’s not a small goal. It isn’t simple either, but we aren’t in this for the easy answer. As a company with a foundation in challenging the way things are done, we’re looking for innovators with a dedication to best. In return, your career will have a tangible impact – one that's working toward technology that affects every level of society.</p>
+<p>
+Our mission doesn’t happen by treading softly – no, it happens by defining an industry. It means building products that haven't been thought of. It means selling products with a solutions mindset. It means supporting the infrastructure of a company that moves at an incredible speed – intentionally – to stay ahead of the world’s next cyberthreat.</p>
+<p><b>
+Your Career</b></p>
+<p>
+As a Palo Alto Networks Systems Engineer – Prisma Cloud Security Specialist, you will be the authority on our cybersecurity offerings for Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) include Containers and Serverless. You are the “go to” resource for customer interactions that exceed the typical Systems Engineering requirements.</p>
+<p>
+This is a technical role that directly supports sales delivery of quota. You are measured by your expertise and by your ability to lead to customer wins. There is also a requirement for close interaction with Product Management, Marketing and Competitor intelligence to ensure that we continue to out-innovate our competition.</p>
+<p><b>
+Your Impact</b></p>
+<p>
+As our authority in Amazon Web Services (AWS), Microsoft Azure, Google Cloud (GCP), Container and Serverless security as part the Palo Alto Networks Prisma Cloud platform:</p>
+<ul>
+<li>
+Articulate to customers at all levels in the hierarchy, from engineer to CIO the value proposition of the platform</li>
+<li>
+Lead conversations about trends and emerging changes to the cloud security landscape that every customer needs to be aware of and planning for when utilizing public cloud IaaS and or PaaS services to for critical data, intellectual property, and applications</li>
+<li>
+Discuss, with credibility, the competitive landscape and position ours as the best alternative</li>
+<li>
+Interact locally and remotely with customers in an equally persuasive manner</li>
+<li>
+Help customers embrace our cloud security offerings</li>
+<li>
+Be the technical voice of Sales for all things related to security and compliance in the cloud (AWS, Azure &amp; Google Cloud) and Containerized infrastructure</li>
+<li>
+Be an evangelist to further bring Security, DevOps, and SecOps together (DevSecOps)</li>
+<li>
+Provide technical demos to and lead deep dive discussions with prospective customers</li>
+<li>
+Act as a conduit for customer feedback to Product Management, Technical Marketing, competitor intelligence and R&amp;D to create requirements and deliver product features for our customers</li>
+<li>
+Provide design consultation and best practices and mentorship for the rollout, and implementation during the 'pre-sales' process for strategic opportunities, including 'proof of concept'</li>
+<li>
+Provide product update and improvement training to other SEs in the region or theater</li>
+<li>
+Assist in the training of new SEs in their designated regions</li>
+</ul>
+<br>
+<b>
+</b><p></p>
+<p><b>Your Experience</b></p>
+<ul>
+<li>
+Degree in CS or equivalent and 5+ years of experience in highly technical customer facing roles.</li>
+<li>
+Security architect, Infrastructure architect, Systems engineer, or Solutions architect</li>
+<li>
+Strong general infrastructure skills and specific knowledge of cloud platforms like AWS, Azure, and Google Compute Platform.</li>
+<li>
+Experience using APIs</li>
+<li>
+Experience with CloudFormation, Terraform, Azure Resource Manager, or GCP Cloud Deployment Manager Templates</li>
+<li>
+Proven experience with AWS, Microsoft Azure and Google Cloud Platform configuration and administration of security features and services (including and not limited to identity and access management, service-related security features, networking, firewalls, encryption, and related best practices)</li>
+<li>
+In depth experience in security, cloud services i.e. Serverless technologies</li>
+<li>
+Expertise in container and DevOps technologies such as Kubernetes, Jenkins, Docker, and OpenShift.</li>
+<li>
+Security skills should include areas such as access control, runtime defense /anti-malware, and vulnerability management.</li>
+<li>
+Deep understanding of Unix/Linux and Windows operating systems as well as Containers</li>
+<li>
+Experience with IaaS and PaaS deployments, connectivity, network security, virtualization and compute</li>
+<li>
+Experience working with customers, positioning, demonstrating, configuring and troubleshooting infrastructure security products</li>
+<li>
+Travel within the designated region</li>
+<li>
+Experience selling to the State, Local and Education Sector</li>
+</ul>
+<p><b>
+The Team</b></p>
+<p>
+Palo Alto Networks has brought technology to market that is reshaping the cybersecurity threat and protection landscape. Our ability to protect digital transactions is limited only by our ability to establish relationships with our potential customers and help them understand how our products can protect their environments. This is where our systems engineer (SE) teams come in. Our SE team members work hand-in-hand with large organizations to keep their digital information safe. Our passionate systems engineering teams educate, inspire, and empower our potential clients.</p>
+<p>
+As part of our SE team, you help support the sales team with technical expertise and guidance when establishing trust with key clients. You won’t find someone at Palo Alto Networks that isn’t committed to your success – with everyone pitching in to assist when it comes to solutions selling, learning, and development. As a member of our systems engineer team, you are driven by a solutions-focused sales environment and find fulfillment in working with clients to resolve incredible complex cyberthreats.</p>
+<p><b>
+Our Commitment</b></p>
+<p>
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together. To learn more about our dedication to inclusion and innovation, visit our <b>Life at Palo Alto Networks</b> page and our <b>diversity</b>website.</p>
+<p>
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.</p>
+<p>
+Additionally, we are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or an accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.</p>
+</div>
+<p></p>
+</div>

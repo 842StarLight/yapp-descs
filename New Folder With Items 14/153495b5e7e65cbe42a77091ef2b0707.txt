@@ -1,0 +1,144 @@
+<h2>Sr DBA</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview<br>
+</b></h2>
+<div></div>
+<div><div><div>
+<div>Welcome to Allscripts! Our Mission is to be the most trusted provider of innovative solutions that empower all stakeholders across the healthcare continuum to deliver world-class outcomes. Our Vision is a Connected Community of Health that spans continents and borders. With the largest community of clients in healthcare, Allscripts is able to deliver an integrated platform of clinical, financial, connectivity and information solutions to facilitate enhanced collaboration and exchange of critical patient information.</div>
+<div></div>
+<br>
+<div><b>
+Team Overview:</b></div>
+<div></div>
+<br>
+<div>
+The Database Services team plays a crucial role in the support of the health system’s infrastructure and data. We have an ever evolving challenge to maintain maximum uptime and performance of the OLTP and Analytics systems required for EMR/EHR operations critical to patient care.</div>
+<div></div>
+<br>
+<div><b>
+Position Summary:</b></div>
+<div></div>
+<br>
+<div>
+The primary purpose of this role is to install, design, implement, upgrade, and optimize the performance of databases required to<br>
+operate Allscripts software solutions.</div>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Daily monitoring, maintenance, and optimization of highly transactional SQL Server databases, especially VLDBs.</li>
+<li>
+Configuration, maintenance, and monitoring of SQL Server AlwaysOn setups.</li>
+<li>
+Configuration, maintenance, and monitoring of traditional SQL Server Clusters.</li>
+<li>
+Diagnose and troubleshoot SQL Server and related technology issues.</li>
+<li>
+Monitor/maintain environments natively and with third party tools.</li>
+<li>
+Routinely perform root cause analysis and identify issues with associated application and technical teams.</li>
+<li>
+Lead/assist in the planning/installation/configuration of SQL Server implementations, including database system software and third-party system tools, applications and products.</li>
+<li>
+Help maintain a vast array of SQL Server agent jobs and associated scripts.</li>
+<li>
+Play a pivotal role in change management for SQL Server backend of related application systems.</li>
+<li>
+Proactive capacity planning of database systems per application and business requirement.</li>
+<li>
+The ability and desire to learn and thrive in a collaborative, 24x7, highly visible environment.</li>
+<li>
+Estimate effort for self and agree on schedules with Database and Project Managers.</li>
+<li>
+Liaise with manager; keep manager informed of progress.</li>
+<li>
+Create and maintain appropriate documentation (Database, Architecture, etc.) to assist with team redundancy and knowledge transfer.</li>
+<li>
+Analyze and diagnose problems reported to the help desk, socializing and escalating support issues where necessary.</li>
+<li>
+Discuss issues/requirements with client(s) and associated teams.</li>
+<li>
+Work collaboratively with development teams on database design and data modelling with a focus on improving SQL efficiency and fast application performance.</li>
+<li>
+Effectively support Sales, BSG and Professional Services.</li>
+<li>
+Performance Optimization – Performance monitoring, measurement and capacity planning of Production Software solutions, recommending changes to Allscripts products and “standardized” System configurations.</li>
+<li>
+Implement, periodically test and review appropriate data access and security measures, including access control, audit, backup/restore and system rebuild &amp; recovery processes.</li>
+<li>
+Implement and continuously improve the database infrastructure environment. Provide fast and value-added services to the organization.</li>
+<li>
+Participate in the process of ensuring that identified Business Continuity measures are implemented, documented, and regularly tested, to enable continue operations of systems identified as requiring such protection in accordance with the corporate Disaster Recovery program.</li>
+<li>
+Stay current with the database and related technologies.</li>
+<li>
+Perform software upgrades and new software installation both pro-actively and in response to requests from users of systems, including any necessary patches to database systems and applications to ensure continuing stable and secure operation.</li>
+<li>
+Provide an ad-hoc support service to users of all computer systems, troubleshooting and resolving database problems.</li>
+<li>
+Carry out prescribed programs of computer system performance management and capacity planning for systems as designated by Management to ensure the necessary system capacity and performance is available as required.</li>
+<li>
+Pro-actively seek and acquire technical training, vocational training and market and product awareness such that skills remain current, relevant and valued within Allscripts.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<div>Academic and Professional Qualifications:</div>
+<ul><li>
+ Successful completion of a Bachelors Degree or relevant database experience.</li></ul>
+<div></div>
+<br>
+<div>
+Experience:</div>
+<ul>
+<li>
+2-5 years industry experience preferred</li>
+<li>
+5-10 years database product knowledge preferred</li>
+<li>
+Successful completion of a Bachelor’s Degree and relevant database experience.</li>
+<li>
+Minimum of 5 years SQL Server experience in an enterprise production environment.</li>
+<li>
+Experience with VLDBs in a highly transactional environment preferred.</li>
+<li>
+Ability to explain technical terms to non-technical individuals</li>
+<li>
+Ability to communicate with all levels of staff and management.</li>
+</ul>
+<div></div>
+<br>
+<div>
+Travel Requirements:</div>
+<ul>
+<li>
+ May require local travel</li>
+<li>
+ May require other travel for business needs</li>
+</ul>
+<div></div>
+<br>
+<div>
+Working Arrangements:</div>
+<ul>
+<li>
+Will require on-call hours (rotating schedule).</li>
+<li>
+Work is performed in a standard office environment with minimal exposure to health or safety hazards</li>
+</ul>
+<div></div>
+<br>
+<div>
+At Allscripts, our greatest strength comes from bringing together talented people with diverse perspectives to support the technology needs of 180,000 physicians, 1,500 hospitals and 10,000 post-acute organizations across the globe. Allscripts offers a competitive total rewards package, including holidays, vacation, and medical, disability and life insurance.</div>
+<div></div>
+<br>
+<div>
+Allscripts’ policy is to provide equal employment opportunity and affirmative action in all of its employment practices without regard to race, color, religion, sex, national origin, ancestry, marital status, protected veteran status, age, individuals with disabilities, sexual orientation or gender identity or expression or any other legally protected category. Applicants for North American based positions with Allscripts must be legally authorized to work in the United States or Canada. Verification of employment eligibility will be required as a condition of hire.</div>
+<div></div>
+<br>
+<div>
+From a "VEVRAA Federal Contractor" We request Priority Referral of Protected Veterans</div>
+</div></div></div>
+</div></div>

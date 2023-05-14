@@ -1,0 +1,41 @@
+<h2>Senior Technical Solutions Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>The Company</b></p>
+<p>Oneview Healthcare is an energetic and entrepreneurial organization with a passion for innovation, simplicity and patient engagement. Our journey has taken us to all corners of the globe where we have collaborated with hospital managers, IT specialists, caregivers and, most importantly, patients. This has led us to develop the most innovative patient engagement solution on the market today, the Oneview Healthcare Solution.</p>
+<p>We proudly operate from offices in Dublin, Dubai, Chicago, Sydney and Melbourne. Our experience delivering culturally diverse solutions to customers on four continents enables us to share insights and ideas across international boundaries. Global diversity is part of what keeps Oneview Healthcare at the cutting-edge of technological advancements in patient engagement.</p>
+<p><b>The Role</b></p>
+<p>Due to our continued success in the US market, Oneview Healthcare is seeking a Technical Solutions Consultant will be supporting clients located in New York City, specifically focused on one of our clients based in Manhattan. This position is considered a remote position from the Oneview Chicago based office.
+</p>
+<p>The successful candidate will be a highly motivated and competent individual who is passionate about healthcare transformation and patient engagement. They must have a strong track record of project delivery, ideally in the healthcare sector, with the ability to scope expansion opportunities as well as provide support for already deployed solutions.</p>
+<p><b>Location and Reporting Line</b></p>
+<p>The role will be based in the New York City area. The role will involve travel to customer sites predominantly in New York City but may include national travel as required. The role will report to the Technical Solutions Manager.</p>
+<p><b>Responsibilities</b></p>
+<ul>
+<li>During the pre-sales process, you will advise customers on strategic direction and appropriate hardware for the use and implementation of the Oneview solution, as well as integration with third party systems to drive increased functionality, utilization and return on investment.</li>
+<li>From post contract signing you will be responsible for the onsite implementation of our software. You will be a stakeholder in driving technical discovery workshops to identify the requirements for the solution design, including environment provisioning, integrations and product workflow configuration, ensuring all requirements are documented and fully traceable right up to delivery.</li>
+<li>You will act as the technical point of contact for the customer throughout the lifecycle of the project, liaising with technical resources on the customer side, defining technical aspects of the implementation plan, liaising with Oneview project managers to carry out your tasks, report progress and escalate where and when necessary.</li>
+<li>You will liaise with Oneview internal teams and client external teams such as Quality, Engineering, Product, Support, Networking and Interface teams to seek support where you required and ensure that all aspects of the technical delivery plan are implemented.</li>
+<li>You will be responsible for deploying and configuring our software on site, testing those configurations and integrations (including documentation of test cases and associated test results) and troubleshooting to resolve issues. Where you need internal Oneview teams to support this resolution, you will be responsible for tracking the progress of resolution and updating the customer.</li>
+<li>Acting as point of contact for the customer’s Technology Executive and/or customer architects assigned to the implementation.</li>
+<li>Managing customer and internal Oneview stakeholders.</li>
+<li>Identifying the necessary resources for implementation and working with the relevant Oneview people to provision resources.</li>
+<li>Reporting on project progress and escalating appropriately.</li>
+<li>Ensuring that the implementation is completed in-line with quality criteria.</li>
+<li>Developing strong, trusted relationships with customers and partners, by being an ambassador for the Oneview brand.</li>
+</ul>
+<p><b>Requirements</b></p>
+<ul>
+<li>Requires a Bachelor's Degree in Business, Computer Science, Health Informatics or a related discipline.</li>
+<li>Experience with Microsoft SQL, HL7, integrations, and/or JSON.</li>
+<li>Mirth or RabbitMQ experience preferred.</li>
+<li>At least 5-8 years related experience as a in a technical customer facing role.</li>
+<li>Ability to manage programs (multiple projects) and complex stakeholder engagements.</li>
+<li>Self-motivated individual with strong communication (written and verbal) and organizational skills.</li>
+<li>Ability to assess and solution challenges/issues that arise.</li>
+<li>Advocate on the clients’ behalf within Oneview’s roadmap and long term goals while also managing expectations.</li>
+<li>Experience delivering complex projects with software, infrastructural and organisational change components.</li>
+<li>Experience in the healthcare sector is required.</li>
+<li>Client-facing experience with a Management, Technology or Healthcare Consulting organisation is preferred.</li>
+<li>Vendor management experience is preferred.</li>
+</ul>
+</div></div>

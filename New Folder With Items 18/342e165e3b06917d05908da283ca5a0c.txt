@@ -1,0 +1,58 @@
+<h2>VMware Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div><div>
+<div><div><div><div><div>
+<p>As an August Schell VMware Consultant, you will provide customers with technical leadership in the installation, upgrade, configuration, and implementation of VMware products. Responsibilities include: Independently conducting enterprise consulting engagements with customers to deliver solutions utilizing one or many VMware software-defined data center products. Maintaining current competency and knowledge of at least one of the following VMware products, including vSphere (ESXi and vCenter) [required], vRealize Suite, Workspace ONE/VDI, AirWatch, NSX or vSAN. You will also be responsible for providing documentation on best practices in using these VMware solutions. You will participate in pre-sales meetings, discussions and conference calls with our customers to understand business and technical objectives and product requirements, in order to help deliver effective solutions for our customers. This job at August Schell is for a traveling professional services consultant.</p>
+<h3 class="jobSectionHeader"><b>
+The candidate must have:</b></h3>
+<ul>
+<li>3+ years of relevant industry experience, including customer-facing IT consulting experience</li>
+<li>Current VMware VCP Certification (e.g. VCP-DCV, VCP-NV, VCP-CMA, VCP-DTM)</li>
+<li>Direct experience installing, configuring and managing vendor software products</li>
+<li>Experience with Linux/Unix system administration</li>
+<li>Scripting experience (e.g. Unix Shell, Python, Perl, Ruby, JavaScript)</li>
+<li>Basic understanding of data center networking (TCP/IP, switching/routing, ports and protocols, firewall concepts, load-balancing)</li>
+<li>Basic understanding of storage architectures, including peripheral interfaces (SCSI, RAID, Ethernet) and multi-processor designs (SMP)</li>
+<li>Demonstrated excellent communications and interpersonal skills, including presentations</li>
+<li>Excellent English language writing and speaking skills</li>
+<li>S./B.A./M.S. degree or equivalent technical training or job experience</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Pluses (not required):</b></h3>
+<ul>
+<li>Active DoD/IC Clearance</li>
+<li>Admin Experience and proficiency with Microsoft Windows operating systems</li>
+<li>Experience with data center automation tools and processes</li>
+<li>Experience with F5 products, data and threat analytics products (Splunk, others)</li>
+</ul>
+<h3 class="jobSectionHeader"><b>Compensation &amp; Benefits</b></h3>
+<ul>
+<li>Competitive salary commensurate with candidate’s experience, abilities and knowledge</li>
+<li>Standard benefits package includes PTO, healthcare coverage, 401(k), tuition reimbursement and more</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Additional Information:</b></h4>
+<ul>
+<li>Must be a US Citizen</li>
+<li>Must speak and write in fluent English</li>
+</ul>
+</div></div></div></div></div>
+<p></p>
+<div><div><div>
+<div><ul>
+</ul></div>
+<p></p>
+<div>
+<h4 class="jobSectionHeader"><b>The Benefits</b></h4>
+</div>
+<p></p>
+<div><ul>
+<li>Comprehensive Medical Insurance</li>
+<li>Comprehensive Dental Insurance</li>
+<li>401K Plan</li>
+<li>Tuition Reimbursement Plan</li>
+<li>Referral Bonus Program</li>
+</ul></div>
+</div></div></div>
+</div></div>
+<p></p>
+</div>

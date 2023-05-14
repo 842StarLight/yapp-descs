@@ -1,0 +1,29 @@
+<h2>Backend Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Hiretual is an AI-powered sourcing platform, and has been recognized as one of the best recruiting tools on the market. During 2018, Hiretual achieves 500% growth with minimal focus on sales to date.<br>
+<br>
+</div>
+<div>As a backend engineer, you will join the core engineering team to scalable and robust backbone towards an AI and data-driven recruiting SaaS. You will be working with top AI researchers and infrastructure gurus to explore unlimited career space.<br>
+<br>
+The core technical skills you should have:<br>
+<ul>
+<li>Strong computer science fundamentals: algorithms, data structures, and object-oriented programming</li>
+<li>Strong coding capability with Nodejs, Python, or Java, and familiar with web MVC framework</li>
+<li>must have 2+ years of experience in backend development, strong in web services/REST API/JSON/Git</li>
+<li>Proficient in working variant databases: MySQL, Redis, Cassandra, Elasticsearch, graph databases</li>
+<li>Nice to have: data processing skills like Spark, Hadoop, Hive, Kafka, EMR</li>
+</ul>
+<br>
+Benefits<br>
+<ul>
+<li>Unlimited growth/promotion space</li>
+<li>Competitive salary and options</li>
+<li>401k matching program</li>
+<li>Free meals, snacks, and drinks</li>
+<li>Comprehensive medical, dental, and life insurance</li>
+<li>PTO policy</li>
+<li>Commuter benefits</li>
+<li>Fun, collaborative, and energetic team environment with nice office environment</li>
+</ul>
+</div>
+</div></div>

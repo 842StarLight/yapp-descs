@@ -1,0 +1,44 @@
+<h2>Inertial Sensors - Navigation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>About SignalQuest: Whit Kelley, CEO</b></p>
+<p><i>At SignalQuest we have a focused, high performing team and a small-company environment well suited for those with personal drive and a desire to contribute to long term innovation. We believe in investing in our team members, empowering them to take personal responsibility for our direction and allowing them the room to create our future. This year we will make about 10 million electronic sensors in Lebanon NH, where our R&amp;D, production, sales and management are located in a historic renovated brick mill building on the Mascoma River.</i></p>
+<p><b>About the Job</b></p>
+<p>As part of a small and passionate team of engineers, you will be responsible for creating and maintaining navigation algorithms, test infrastructure, and software tools used to design, build, and test navigation and attitude determination algorithms for guidance, navigation, and control (GN&amp;C) of mobile robotic platforms. Your contributions will play a key role in commercializing advanced navigation technology and transitioning novel algorithm development from R&amp;D into production.</p>
+<p>Engineering opportunities exist at multiple experience levels. Roles are focused on algorithm design/ software engineering and span a diverse range of technical responsibilities including task and project leadership, autonomous individual contributor for novel algorithm development, design and implementation of test software and tooling for algorithm verification and validation, and continuous improvement initiatives for software engineering processes.</p>
+<p>You should be comfortable working in a fast-paced and often uncertain environment while contributing to innovative solutions, demonstrating personal leadership, technical competence, and attention to detail.</p>
+<p><b>Responsibilities</b></p>
+<ul>
+<li>Create world-leading GN&amp;C technologies for aided inertial microsensor systems used on mobile robotic platforms</li>
+<li>Support design studies and develop prototype navigation system solutions</li>
+<li>Establish and build navigation software architectures and system components in MATLAB and C</li>
+<li>Perform analyses, including covariance and Monte-Carlo simulations, to support engineering activities (model-based design, concept feasibility analysis, error budgeting and requirements flow-down)</li>
+<li>Develop verification and validation procedures to ensure that system software performs as specified to meet system and subsystem requirements</li>
+<li>Lead software lifecycle activities for automated testing (unit, acceptance, regression) to release new algorithm designs with confidence that existing performance baselines are preserved through the innovation process</li>
+</ul>
+<p><b>Qualifications</b></p>
+<ul>
+<li>M.S. or Ph.D. in Electrical/ Mechanical/ Aerospace Engineering, Computer Science, or Physics with 5 years of design experience</li>
+<li>Demonstrated experience and proficiency in algorithm development with MATLAB or C</li>
+<li>Demonstrated experience with systems engineering and software engineering processes</li>
+<li>Proficiency in digital signals and systems (FIR/IIR filters, LTI system models, Fourier transforms)</li>
+<li>Proficiency with state-space modeling for stochastic systems and developing applied Kalman filters</li>
+<li>Experience with inertial sensor error modeling, calibration, and compensation (accelerometer, gyrosope, magnetometer, IMU, AHRS)</li>
+<li>Experience with strapdown inertial navigation system mechanization and error modeling</li>
+<li>Experience with GPS signal processing and techniques for GPS-INS integration, aided-inertial navigation</li>
+<li>Ability to develop system-level requirements, decompose requirements to subsystems, perform trade studies, develop navigation analysis tools and conduct predictive-performance analyses</li>
+<li>Ability to continuously manage risk and be comfortable with lean software development techniques</li>
+</ul>
+<p><b>Desired</b></p>
+<ul>
+<li>Experience writing code for embedded systems</li>
+<li>Experience with the Linux operating system and scripting languages (e.g., bash, python)</li>
+<li>Champion for DevOps best practices supporting configuration management, infrastructure as code, continuous integration and delivery, deployment pipelines, automated testing, and release management</li>
+<li>Experience with DevOps tools including Git, GitLab/GitHub, Vagrant, VirtualBox, JIRA, Jenkins, etc</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $90,000.00 to $185,000.00 /year</p>
+<p>Education:</p>
+<ul><li>Master's (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Preferred)</li></ul>
+</div>

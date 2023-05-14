@@ -1,0 +1,138 @@
+<h2>SD-WAN Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div>vCORE is seeking an SD-WAN Engineer in southern California or Arizona. This exciting role is customer facing and requires strong knowledge of Cisco Viptela including related implementation and migration experience. This individual will provide technical guidance and leadership to our customers, sales, pre-sales and delivery engineering teams. In addition, this individual will be the technical point of contact for Viptela related service delivery and will provide design, implementation, migration and knowledge transfer governance. This position will require travel.</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Principle Duties &amp; Responsibilities</b></h3>
+<div><ul>
+<li>
+Responsible for the delivery of network planning, design, implementation &amp; optimization services as a post sales consultant to vCORE’s clients.</li>
+<li>
+Will create Low-Level and High-Level designs of data center networks utilizing industry best practices and vCORE sold Network solutions.</li>
+<li>
+Oversee/perform new and existing equipment, hardware, and software upgrades.</li>
+<li>
+Perform installation, configuration, maintenance, and troubleshooting of customer managed hardware, software, and peripheral devices.</li>
+<li>
+Monitor network performance and troubleshoot problem areas as needed.</li>
+<li>
+Conduct research on network products, services, protocols, and standards to remain abreast of developments in the networking industry.</li>
+<li>
+Provide advanced network implementation, support and troubleshooting services.</li>
+<li>
+Maintain consistent contact with customer staff to ensure that services conform to customer requirements.</li>
+<li>
+Engage with other engineering resources to provide the appropriate resolution for customers. Services include in-depth knowledge of the customer’s infrastructure and configurations.</li>
+<li>
+Implement tactical plans to meet timelines and ensure minimal disruption to the Customer environment.</li>
+<li>
+Assist with development of documentation for standards requirements within the department.</li>
+<li>
+Maintain complete technical documentation.</li>
+<li>
+Assist with improvements to network performance, capacity and scalability.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Qualifications &amp; Requirements</b></h3>
+<div><ul>
+<li>
+Bachelor’s Degree or higher -OR- 10+ years of professional work experience</li>
+<li>
+At least 5+ years of experience designing, deploying, and implementing core route/switch and/or data center networks in accordance with industry best practices.</li>
+<li>
+SD-WAN (IWAN, Viptela) implementation and migration experience.</li>
+<li>
+Must have strong interpersonal, written, and oral communication skills with the ability to work well in a collaborative and dynamic environment.</li>
+<li>
+Must have strong customer service orientation with proven analytical and problem-solving abilities.</li>
+<li>
+Experience with logical design models (L2/L3, VPC, VDC, Datacenter Zones, Spanning tree, VFR, VTP, VLANs, physical cabling).</li>
+<li>
+Working technical knowledge of network control protocols (QOS, PfR, PoE, NTP, DHCP), network management protocols (CDP, FTP, TFTP, SNMP) and security protocols (SSH, HTTPS, AAA, IPSec, TustSec).</li>
+<li>
+Strong knowledge of IP communication and routing is required (OSPF, EIGRP, BGP). Experience with inter-company routing is preferred.</li>
+<li>
+Understand WAN/LAN and transport technologies (Ethernet, Frame Relay, DMVPN, WAAS and MPLS).</li>
+<li>
+Configuration management of networking devices using automation tools (APIC-EM, Cisco Prime) and API scripting with Python.
+</li>
+<li>Cisco Certifications preferred (CCDP, CCVP, CSSIP); CCNP or CCIE a strong plus.
+</li>
+<li>Cisco partner post sales consulting experience strongly preferred.</li>
+<li>
+Knowledge or experience with Cisco Nexus 9K and Cisco ACI is preferred.</li>
+<li>
+Knowledge or experience F5 load balancing, Palo Alto technologies, Cisco UCS, or Cisco MDS is preferred.</li>
+<li>
+Able to conduct research into networking issues and products as required.</li>
+<li>
+Highly self-motivated and directed, with keen attention to detail.</li>
+<li>
+Valid Driver’s License and reliable transportation</li>
+<li>
+Skilled in using Visio and other network documentation software.</li>
+<li>
+Strong communication skills (oral and written).</li>
+<li>
+Other Cisco Certifications preferred (CCDP, CCVP, CSSIP); CCNP or CCIE a strong plus.</li>
+</ul></div>
+</div></div>
+<div>
+<div>This position should be located near vCORE offices in Scottsdale, AZ or Irvine, CA with travel expected.</div>
+<div>
+<br>
+</div>
+<div>
+What We Provide</div>
+<div>
+<br>
+</div>
+<div>
+An exciting workplace.</div>
+<div>
+Great career opportunity.</div>
+<div>
+Great team players to work with and learn from.</div>
+<div>
+A place to wear multiple hats and be involved.</div>
+<div>
+Great compensation and benefits.</div>
+<div>
+A fun place to work.</div>
+<div>
+To work with a philanthropic organization.</div>
+<div>
+To work with a company where superior customer service is a way of life.</div>
+<div>
+<br>
+</div>
+<div>
+About vCORE Technology Partners</div>
+<div>
+<br>
+</div>
+<div>
+vCORE Technology Partners builds customized IT solutions for more than 150 companies across the U.S. and Canada. Headquartered in Scottsdale, Ariz., vCORE was launched in 2010 and has since enjoyed industry-leading growth.</div>
+<div>
+<br>
+</div>
+<div>
+Our team includes proven experts in IT solutions, including networking, cloud automation, modern infrastructure, data protection, security and proactive managed services. Clients include multibillion-dollar media companies, major health-care providers, technology giants, data centers and others.</div>
+<div>
+<br>
+</div>
+<div><b>
+Simplicity Delivered. Always On.</b></div>
+<div></div>
+<br>
+<div>
+</div>
+<div>
+Diversity Statement</div>
+<div>
+<br>
+</div>
+<div>
+It is the policy of vCORE Technology Partners to encourage diversity and not to discriminate against any applicant for employment, or any employee because of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local. In addition, vCORE Technology Partners will provide reasonable accommodations for qualified individuals with disabilities.</div>
+</div>
+</div></div>

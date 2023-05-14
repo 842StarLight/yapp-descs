@@ -1,0 +1,78 @@
+<h2>Sales Solutions Engineer (IL)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Idaptive Sales Solution Engineers (SE) are essential members of the Idaptive sales organization. SE's serve customers by applying their problem solving and communication skills to explain, demonstrate, and prove how Idaptive effectively solves customers' Access Management needs. Idaptive SE's competently engage with: 1) organizations of all types and sizes such as channel partners, multinational corporations, and small businesses; and 2) customer stakeholders at all levels (CxO, GRC, developers, helpdesk, sys admins, business application owners). As effective problem solvers, Idaptive Sales Solution Engineers, ask thoughtful questions and listen attentively. Through which SE's recommend insightful solutions supported through presentations, writing, and technical hands-on work (demos and PoCs).<br>
+</p>
+<p>Idaptive SE's are customer service focused sales professionals. SE's represent our brand and serve our customers and partners with integrity. SE's understand that personal earnings, career growth, and Idaptive's overall success hinge on successful customer outcomes.</p>
+<p>Idaptive Sales Solution Engineers enjoy technical hands-on work. SE's know how to prepare and maintain their demo environments and deliver technically relevant solution demonstrations. SE's know how to organize and execute proof-of-concepts. SE's continually expand their knowledge of Idaptive offerings, the surrounding integration touch points, and industry trends.</p>
+<p>**This role is a field position and therefore involves travel, occasionally involving overnight stays.</p>
+<p><b>Job Responsibilities:</b></p>
+<ul>
+<li>Support the sales organization to achieve sales quota</li>
+<li>
+Serve as technical subject matter expert for Idaptive's IdaaS offering to customers, partners, and the Idaptive sales organization.</li>
+<li>
+Build and maintain essential sales engineering assets including demo environments, how-to articles and videos, etc.</li>
+<li>
+Requirements gathering: Ask thoughtful questions, listen attentively, and document customer needs</li>
+<li>
+Presentation: Deliver customer relevant Idaptive solution demonstrations to technical and non-technical audiences</li>
+<li>
+Lead Idaptive proof-of-concepts: negotiate PoC success criteria; address environmental dependencies; lead customer through install and configuration; confirm technical win consensus and close out PoC;</li>
+<li>
+Assist Idaptive sales teams with proposals by gathering relevant metrics</li>
+<li>
+Provide timely responses to customers questions</li>
+<li>
+Lead technical response production for qualified RFIs/RFPs</li>
+<li>
+Maintain technical relationships customers to ensure ongoing customer success</li>
+<li>
+Help continually improve Idaptive products. Identify market and product requirements based on field experience</li>
+</ul>
+<p><b>Key Attributes:</b></p>
+<ul>
+<li>Loves to compete</li>
+<li>
+Must be well presented, professional and reliable in approach</li>
+<li>
+Must be customer service focused, sales driven, and have a high desire to succeed</li>
+<li>
+Owns responsibility and is proactive in solving issues</li>
+<li>
+Continuous improvement mindset – coachable, accepts constructive feedback</li>
+<li>
+Ability to travel as required, including regular stays away from home</li>
+<li>
+Self-starter who can work from a remote office in the field</li>
+<li>
+Desire to work in a fast-paced dynamic environment</li>
+<li>
+Ability to understand business value of a solution as it maps to the customer's specific requirements.</li>
+<li>
+Experience competing with point solutions in enterprise sales opportunities</li>
+<li>
+Desired Skills &amp; Experience</li>
+</ul>
+<p><b>Non-technical:</b></p>
+<ul>
+<li>5+ years of Pre-sales or SI consulting experience; or 5+ years corporate enterprise IT experience in application development, DevOps, enterprise architecture, cloud program management, or IAM program management</li>
+<li>
+Must work well within a team selling environment</li>
+<li>
+Outstanding communication skills (presentation, writing, whiteboard, etc)</li>
+</ul>
+<p><b>Technical:</b></p>
+<ul>
+<li>Hands-on proficient in federated authentication technologies such as PKI, SAML, OAuth and OpenID Connect, and LDAP</li>
+<li>
+Proficient in multi-factor authentication technologies</li>
+<li>
+Understands application integration concepts leveraging REST and SCIM</li>
+<li>
+Possesses a firm architectural understanding of enterprise IAM services Identity Governance / Provisioning, Active Directory, LDAP, and PKI</li>
+<li>
+Strong knowledge of enterprise management for endpoints including Mac and Windows laptops and mobile devices</li>
+<li>
+Preferred: experience with Office365 and ADFS; ServiceNow; DevOps tooling; AWS, GCP, or Azure; MDM/EMM</li>
+</ul>
+</div></div>

@@ -1,0 +1,38 @@
+<h2>CRM Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Fender Musical Instrument Corporation ("FMIC") is located in Scottsdale, AZ. Our brand mission is to accompany each player at every stage with products and brand experiences that fuel the pursuit of musical expression. Within Fender Global Information Technology, we work to provide the best customer service to Fender employees and meet or exceed their expectations and to provide them the right tools to get the job done.
+<br><br>
+An American icon, Fender was born in Southern California and has built a worldwide influence extending beyond the studio and the stage. A Fender is more than an instrument; it's a cultural symbol that resonates globally.
+<br><br>
+We are seeking a CRM Administrator that will be responsible for maintaining our hosted Microsoft Dynamics 365 CRM environment. You will serve as the liaison between the sales and technical teams in executing our customer relationship management strategy. You would work with both the end users and the technical team to identify and assist in resolving system issues and provide technical support, troubleshooting software issues, as requested. In this role, you will also work closely with business leaders to analyze business requirements and communicate to developers regarding configuration and customization solutions that meet delivery and project goals and expectations.
+<br><br>
+<b>About the Job:</b><br>
+<ul>
+<li>Oversee Microsoft Dynamics CRM and related software.</li>
+<li>Support multiple user roles, account and territory assignments, security profiles, workflow rules and business processes.</li>
+<li>Care for CRM databases including data cleansing, record maintenance and data integrations to other source systems.</li>
+<li>Instruct new users on the application and train existing users on best practices &amp; new functionality.</li>
+<li>Analyze potential issues and communicate to assess needs and determine solutions for end users.</li>
+<li>Support by troubleshooting and solving user or system issues and respond in a timely fashion.</li>
+<li>Work with end users, vendors and service providers as the liaison with the IT team.</li>
+<li>Assist development and support personnel in resolving system issues, creating business solutions to meet requirements.</li>
+<li>Work with internal and external resources to ensure the CRM environment is configured and adjusted correctly.</li>
+<li>Keep a monthly statistics report and monitor usage to determine business solutions for business recognized needs.</li>
+<li>Develop and maintain training materials and user documentation.</li>
+<li>Identify and help design CRM-related report requirements and list views.</li>
+</ul>
+<b>What you Need:</b><br>
+<ul>
+<li>Bachelor's degree in computer science, computer engineering, or a related field or the equivalent level experience</li>
+<li>3+ years of experience in CRM administration, predominantly with Microsoft Dynamics CRM</li>
+<li>Experience with Model-driven Apps, Microsoft Flow, North52 and Kingswaysoft (or Scribe) desired but not required</li>
+<li>Strong proficiency with MS Office</li>
+<li>Excellent written and verbal communication skills</li>
+<li>Excellent organization skills and ability to meet project deadlines and manage multiple projects at once</li>
+<li>Excellent analytical and problem solving skills</li>
+<li>Strong training and support skills to be able to provide assistance to non-technical users</li>
+<li>Able to prioritize and execute responsibilities with strict deadline and requirements</li>
+<li>SQL experience preferred</li>
+<li>Microsoft Dynamics certification preferred</li>
+</ul>
+<b>About Fender Musical Instruments:</b><br>
+Fender Musical Instruments Corporation (FMIC) is one of the world's leading musical instrument manufacturers, marketers and distributors, whose portfolio of brands includes Fender®, Squier®, Gretsch®, Jackson®, EVH®, Charvel® and Groove Tubes®, among others. For more information, visit www.fender.com ( http://www.fender.com/ ). FMIC offers a competitive benefits package which includes medical, dental, 401(k), paid time off, and an equipment purchase program to help you get the band back together. Fender Musical Instruments Corporation is an equal opportunity employer and considers qualified applicants for employment without regard to race, gender, age, color, religion, disability, veterans' status, sexual orientation, or any other protected factor.</div>

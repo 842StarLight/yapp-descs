@@ -1,0 +1,85 @@
+<h2>Principal Network Engineer - Aruba Software</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>The job family spans across multiple engineering disciplines. Work consists of designing, developing, analyzing, troubleshooting and debugging systems, software and solutions for research and/or research development of product, services, and solutions for company’s portfolio. Requires a broad knowledge and application of engineering disciplines, methodologies and tools.</p>
+<p></p>
+<p><b>
+Responsibilities</b><b>:</b></p>
+<ul>
+<li>
+Providing pre and post sales technical support to the sales teams, customers and partners for various technologies and solutions related to Aruba products.</li>
+<li>
+Work on complex problems requiring in-depth fault analysis and troubleshooting.</li>
+<li>
+Generate documentation in the form of case notes, tech tips, best practices, RCA reports, and case reviews</li>
+<li>
+Formulate technical action plans for analyzing and resolving problems.</li>
+<li>
+Simulate customer issues in lab.</li>
+<li>
+Participate in solutions for knowledge base.</li>
+<li>
+Provide technical cross-training to relevant groups as needed.</li>
+<li>
+Participate in serviceability enhancement requirement reviews.</li>
+<li>
+Work effectively in a team environment including colleagues, QA, development engineers, and the Aruba field organization.</li>
+<li>
+Occasionally required to travel to customer sites for troubleshooting, training purposes, business reviews.</li>
+</ul>
+<p></p>
+<p><b>
+Required Qualifications:</b></p>
+<ul>
+<li>
+Bachelor degree in Computer Engineering/Electrical Engineering or equivalent is required.</li>
+<li>
+Minimum eight (5 + ) years of experience in customer facing remote or onsite Technical Support preferably with 5+ years in L3 escalation role</li>
+<li>
+Extensive experience with or knowledge of Network Management/Monitoring Suites (Zabbix, Nagios, Aruba AirWave) and Network Access Control technologies (Microsoft NPS, Cisco ISE, Aruba ClearPass).</li>
+<li>
+Familiarity with system administration and operation. Basic system performance analysis, Linux shell, and Windows Active Directory skills a plus.</li>
+<li>
+Must be a flexible self-starter who can ramp up with new technologies quickly and can adapt to a growing and evolving team.</li>
+<li>
+Strong work ethic and a “can-do/will do” attitude.</li>
+<li>
+Comprehensive understanding of networking technology and the ability to quickly acquire deep technical knowledge.</li>
+<li>
+Strong understanding of LAN and WAN networking protocols and technologies.</li>
+<li>
+Strong organizational and time management skills.</li>
+<li>
+Must be customer focused and have the ability to manage and resolve complex technical issues.</li>
+<li>
+Excellent verbal and written communication skills, outstanding presentation and interpersonal skills, and ability to confidently engage with the customer at all staff levels.</li>
+<li>
+Ability to multitask and work independently in a fast paced environment towards set business goals and objectives</li>
+<li>
+Well recognized industry certification like CCNA/CCNP is required, CCIE/CWNP preferred</li>
+<li>
+Understanding of 802.11 and other wireless technologies is highly desirable but not mandatory</li>
+<li>
+Experience with design and implementation of Aruba Networks products and solutions. ACMP, ACMX, ACDX, or ACCX certification is an added bonus</li>
+<li>
+Extensive experience in Docker Swarm, Kubernetes container technology</li>
+<li>
+Intermediate exposure to SIEM (Splunk, Qradar, Nitro, or Arcsight)</li>
+<li>
+Working knowledge of JSON, Yaml data formats used for log management</li>
+<li>
+Minimum 2 years of experience in the security industry and security threat landscape</li>
+</ul>
+<p></p>
+<p><b>
+Preferred Qualifications:</b></p>
+<ul>
+<li>
+Experience in BigData (Hortonworks, Cloudera, Hadoop, Kafka) platforms</li>
+<li>
+Working knowledge in debugging issues with any of the following: ElasticSearch, Hbase, Zookeeper, and HDFS</li>
+<li>
+Proactive interaction with other teams to drive resolution of hardware / software deficiencies / bugs</li>
+<li>
+Intermediate to Expert level knowledge with Phyton and bash scripting</li>
+</ul>
+1049625</div></div>

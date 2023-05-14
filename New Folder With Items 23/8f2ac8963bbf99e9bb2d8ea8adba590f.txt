@@ -1,0 +1,43 @@
+<h2>Manager, Software Development</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Make an impact and love what you do!</p>
+<p>
+We are in search of the world’s most creative and experienced engineering leaders. We embrace entrepreneurs as well as those who come from more established organizations. As a key member of the product development leadership team, you will lead the development and technical strategy for our enterprise products. Partnering with product management and sales, you will interact with strategic customers designing innovative solutions that meet their business needs.</p>
+<p>
+You will lead multiple teams of amazing engineers, influence many others and provide leadership on design and architecture, strategy, and technology approaches. We expect you to be an accomplished engineer, have strong hands on technical experience and deep knowledge in one or more areas of distributed systems and enterprise web delivery platforms. Our culture fosters collaboration, innovation, integrity, mentorship, commitment to success and FUN and you will adding your creativity and energy to it. Our managers are dedicated to growing their people and offering an opportunity that allows you to make impact in your career.</p>
+<p>
+If you love technology, leadership, being on the front-line of technical innovation, and are looking for a creative, fun and friendly workplace where you get to develop software that will transform the insurance industry, we would love to get in touch with you.</p>
+<p>We need development managers that:</p>
+<ul>
+<li>Have an intense passion for technology and solutions design</li>
+<li>Have 3-5 years professional experience as a development manager in an agile environment including working with enterprise customers on large scale projects</li>
+<li>Have proven track record in leading architecture, design, development and operations of enterprise scale web delivery platforms, products and services in a high performance and high-availability SaaS environment</li>
+<li>Can interact with customers to gather insights and translate technical concepts</li>
+<li>Have loads of experience with Java/.NET, as well as common frameworks and infrastructure</li>
+<li>Can work advanced database magic both relational and NoSQL</li>
+<li>Are energetic, effectively managing relationships (up, down, across) and able to roll-up their sleeves to get the job done</li>
+<li>Have an ability to influence across boundaries and at all levels of the organization</li>
+<li>Think strategically to help drive features and services for short and long-term growth</li>
+<li>Can create a fun, fast paced, motivating and rewarding environment for their teams and the organization</li>
+<li>Attract, build and retain a highly engaged and capable development teams that can deliver on our technology and business strategies</li>
+<li>Think End-to-End by connecting all the pieces of the business (development, product management, QA, operations, etc.) to deliver the features to delight the customer while leveraging all available assets</li>
+<li>Provide strong people management: attracting, retaining, inspiring and growing individuals; demonstrate a passion for people development and mobility</li>
+<li>Are creative turning problems and solutions on their heads to come up with better designs, better technical solutions, better products
+<p>We love development managers that:</p>
+</li>
+<li>Bring an unwavering passion for managing the dynamics of a fast-paced environment</li>
+<li>Closely follow industry trends and the open source community</li>
+<li>Have experience with the Scaled Agile Framework (SAFe)</li>
+<li>Have experience with Test Driven Development</li>
+<li>Hunger to learn new concepts, new technologies, and be exposed to/adopt new ideas</li>
+<li>Have kept their coding skills sharp and care deeply about writing solid code</li>
+<li>Communicate effectively cross-functionally across various teams, organizations and internal and external stakeholders to drive engineering effort</li>
+<li>Are self-motivated and excellent problems-solvers</li>
+<li>Are driven to improve, personally and professionally</li>
+<li>Mentor and inspire others to raise the bar for everyone around them</li>
+<li>Love to collaborate with their peers, designing pragmatic solutions</li>
+<li>Effectively lead and manage change within their area of responsibility as well as across the business</li>
+<li>Have a cooperative, collaborative, open and flexible mindset</li>
+</ul>
+<p>Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law equal employment.</p>
+</div></div>

@@ -1,0 +1,155 @@
+<h2>Senior Implementation Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">At Samsara, we are a diverse group of passionate and curious people committed to building something ambitious. We are looking for talented and dedicated people who share our vision to join our growing team. Samsara builds an extensive set of hardware devices, including battery-powered wireless environmental sensors, Linux-based IoT gateways, and internet-connected dash cameras. Our work philosophy involves rapid product iteration; because all of our devices are internet-connected, we have access to thorough feedback and telemetry on how well our software performs in the field. We're at the intersection of cloud software, sensor systems, and wireless networks.
+<br>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+------
+<br><br>
+As a Technical Solutions Engineer at Samsara, you will be responsible for helping Samsara's largest &amp; most strategic customers implement B2B integrations with our IoT platform and those of our customers. In a given week, you may work with a large long-haul trucking company, an industrial-scale food producer, and a public utility to map a customer's integration needs to current and future API capabilities, provide guidance and technical training to implementation teams to follow best practices, troubleshoot issues and advocate for fixes on behalf of customers (working with our tech support team), and ensure a successful customer relationship. A successful Technical Solutions Engineer at Samsara will develop a thorough understanding of B2B integrations in order to ensure the proper technical solution is delivered to our customers.
+<br>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+------
+<br><br>
+Your role will be cross-functional in nature, working alongside and connecting product managers, business operations, sales, and systems engineers, enabling you to experience multiple aspects of a hyper-growth company from within. Since Samsara is a fast-growing company with an emerging IoT technology, you can expect this role to evolve over time, with opportunities to take on increasing levels of responsibility and impact our growth.
+<br>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+------
+<br><br>
+This role is primarily based in San Francisco, with occasional travel opportunity.
+<br>----------------------------------------------------------------------------------
+<br><br>
+------
+<br><br>
+<b>What you'll do:</b><br>
+---------------------
+<br><br>
+<ul>
+<li>Become a technical expert of the Samsara platform and develop a deep understanding of the fleet management space</li>
+</ul>
+----------------------------------------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Partner with Customer Engagement Managers to support all technical aspects of customer onboarding</li>
+</ul>
+-------------------------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Manage system integration projects between third party integrators, large customers, and Samsara engineering teams</li>
+</ul>
+------------------------------------------------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Run and develop training sessions with customers and system integrators, educate and provide guidance on the developer ecosystem and tools, and work through challenges with everyone from technicians to COOs</li>
+</ul>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Diagnose system integration issues, and to effectively escalate them when necessary</li>
+</ul>
+-----------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Exchange best practices and share knowledge with the Samsara product team and developer community, and advocate for customer experience</li>
+</ul>
+---------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Successfully match customer pain points and requirements to proposed solutions</li>
+</ul>
+------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Establish customer relationships and trust throughout and beyond customer onboarding</li>
+</ul>
+------------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Champion, role model, and embed Samsara's cultural principles (Obsess Over the Customer, Build for the Long Term, Growth Mindset) as we scale globally and across new offices</li>
+</ul>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+------
+<br><br>
+<b>Minimum Qualifications:</b><br>
+-----------------------
+<br><br>
+<ul>
+<li>2+ years experience working with customers in a pre-sales sales engineering, customer success, post-sale solutions or technical engineering, or customer/product support capacity</li>
+</ul>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Ability to code in a modern language such as Java, Javascript, or Python</li>
+</ul>
+------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Solid understanding of and experience with integration standards and transports (SFTP, Soap/Rest APIs, AS2, XML, XSD, JSON and EDI)</li>
+</ul>
+-----------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>A good understanding of database concepts and fluency in SQL</li>
+</ul>
+------------------------------------------------------------
+<br><br>
+<ul>
+<li>Strong written communication and presentation skills, demonstrated ability to work with a diverse set of teams</li>
+</ul>
+--------------------------------------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Bias-to-action and hands-on experience delivering business results</li>
+</ul>
+------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Hands-on experience with customer evaluations and deployments, with the ability to juggle multiple customer engagements in parallel</li>
+</ul>
+-----------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+------
+<br><br>
+<b>Preferred Qualifications:</b><br>
+-------------------------
+<br><br>
+<ul>
+<li>Minimum 4+ years customer facing experience supporting Enterprise-scale integrations or API scripting</li>
+</ul>
+-----------------------------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>MS in Engineering, Computer Science, or related discipline.</li>
+</ul>
+-----------------------------------------------------------
+<br><br>
+<ul>
+<li>Consistent track record of configuring and deploying complex technical solutions</li>
+</ul>
+--------------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Work experience in software development in a modern programming language</li>
+</ul>
+------------------------------------------------------------------------
+<br><br>
+<ul>
+<li>Familiarity with B2B system integration projects and workflows</li>
+</ul>
+--------------------------------------------------------------
+<br><br>
+<ul>
+<li>Understanding of vehicle diagnostic systems is a plus</li>
+</ul>
+-----------------------------------------------------
+<br><br>
+<ul>
+<li>Tinkering with hardware gadgets, sensors, or vehicles is a plus</li>
+</ul>
+---------------------------------------------------------------
+<br><br>
+------
+<br><br>
+At Samsara, we welcome all. All sizes, colors, cultures, sexes, beliefs, religions, ages, people. We depend on the unique approaches of our team members to help us solve complex problems. We are committed to increasing diversity across our team and ensuring that Samsara is a place where people from all backgrounds can make an impact.
+<br>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br><br>
+------</div>

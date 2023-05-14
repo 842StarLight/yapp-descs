@@ -1,0 +1,143 @@
+<h2>Project Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>Isobar is a global digital agency that delivers experience-led transformations powered by creativity. We have redefined the way consumers experience music through emerging technology with the creation of Aeronaut. We have taken six disparate brands and brought them under one house through the transformation of Zwilling. We have strategized, built and executed the digital reinvention of Enterprise, Alamo + National. And we have connected families to LAIKA’s Missing Link characters through the power of voice. Isobar has a longstanding history of solving complex business problems. We have deep expertise in UX, creative, technology and optimization and are able to take on the toughest problems because of it. Sound like something you want to be a part of?<br>
+<br>
+<b>Position Overview</b><br>
+<br>
+At Isobar, the Project Manager (PM) provides day-to-day strategic and tactical leadership for the delivery team on client engagements. The scope of responsibilities span the entire project lifecycle from strategy and planning to project initiation, execution, tracking, and closure. Managers are responsible for client satisfaction, project delivery, project financials (P&amp;L), and cross-discipline team management and development. Within the project management discipline, Isobar Managers apply industry standards, best practices, and Isobar specific methodologies and tools in the delivery of projects.<br>
+<br>
+Project Managers must be able to generate and validate estimates across the lifecycle of the project (requirements, design, development, etc.), and understand technical details and complexities to accurately report project status and manage dependencies, risk, and day-to-day development activities. PMs must be able to lead all members of the project team by example and occasionally drive technical tasks with the development team.<br>
+<br>
+Project Managers must also manage the day-to-day relationship with the client. This includes responsibilities to establish, maintain, and grow relationships with clients throughout the lifecycle of a project. Isobar PMs work directly with clients daily to strategize, plan, and report on project needs. They are also responsible for tactical project communications with clients and stakeholders.<br>
+<br>
+Isobar Managers are intelligent problem solvers with strong written and verbal communication skills. Candidates must be self-starters, able to quickly learn and apply new knowledge in a fast-paced, client-driven environment. Managers lead by example, emulating Isobar Core Values in the leadership of teams. They work closely with Engagement Directors providing project oversight, client management, and the securing of new opportunities within an existing account relationship. Managers are expected to contribute to the larger Isobar community providing thought leadership and developing / refining processes and tools.<br>
+<br>
+<b>Responsibilities</b><br>
+<br>
+Project Management<br>
+<ul>
+<li>Determine the project approach and methodology that best suits the task requirements and client environment</li>
+<li>
+Demonstrate understanding and experience with a variety of methodologies from Agile to Waterfall to hybrid models</li>
+<li>
+Apply Isobar methodologies and tools to project delivery</li>
+<li>
+Provide estimation and planning across the project lifecycle resulting in project plans and detailed project tracking controls</li>
+<li>
+Have a deep understanding of the core discipline roles involved in delivering digital solutions, including Strategists, User Experience and Creative Designers, and Developers and Architects</li>
+<li>
+Present project status and project updates to key clients and stakeholders</li>
+<li>
+Create Statements of Work and Change Orders for all phases of an engagement</li>
+<li>
+Identify and secure internal and contract resources, as needed, to provide the right mix of expertise and skills for the project</li>
+<li>
+Manage day-to-day project operations serving as both the functional / domain and technical delivery expert on the project team</li>
+<li>
+Provide quality oversight on all project deliverables prepared by the project team before submission to the client</li>
+<li>
+Identify, quantify, mitigate, and manage risk to project delivery</li>
+<li>
+Provide quality assurance on project documents and client deliverables, including knowledge repository management</li>
+<li>
+Build and motivate teams by helping individuals maximize their potential</li>
+<li>
+Conduct team engagement reviews and mentor colleagues</li>
+</ul>
+Functional Experience<br>
+<ul>
+<li>Demonstrate experience developing strategies for achieving client business goals, including the development of maturity models, product roadmaps, and strategic short- and long-term plans</li>
+<li>
+Demonstrate experience in requirements gathering and functional design</li>
+<li>
+Demonstrate experience managing and executing testing, including defining appropriate test approaches; writing test plans, scenarios, and scripts; executing testing; managing functional resources in their execution of test scripts; reporting on and communicating test status; and managing the resolution of defects</li>
+</ul>
+Technical Experience<br>
+<ul>
+<li>Demonstrate experience managing projects that entail complex technology design, development, and integration efforts</li>
+<li>
+Demonstrate experience managing teams of technologists, including interfacing with senior client stakeholders who have a deep appreciation of sophisticated technologies and delivery methodologies</li>
+<li>
+Demonstrate ability to interact with differing levels of technologists to understand solutions, strategies, and development estimations</li>
+</ul>
+Communication<br>
+<ul>
+<li>Serve as the primary day-to-day client and team contact for the project</li>
+<li>
+Facilitate client working sessions and lead recurring project status meetings</li>
+<li>
+Serve as the liaison between internal / external teams, and keep all parties informed of project updates, decisions, actions, issues, and risks</li>
+<li>
+Be organized and structured in written and oral communications with an ability to level communications appropriately for the target audience (from internal team meetings to C-level client presentations)</li>
+<li>
+Demonstrate ability to set and manage client expectations</li>
+<li>
+Develop long-lasting, trusted advisor relationships with clients</li>
+<li>
+Be able to work with practitioners from the user experience, visual design, quality assurance, and business disciplines to coordinate activities and drive toward a high quality deliverable</li>
+</ul>
+Technical Understanding<br>
+<ul>
+<li>Understand leading-edge digital applications, including but not limited to responsive web-based applications, enterprise application, mobile applications, native applications, and n-tier architectures</li>
+<li>
+Understand technologies and tools at all layers of typical web architecture, including front-end technology (HTML, CSS, JavaScript, REACT, Angular), server-side technology (J2EE, Spring, XML), and database and integration technologies</li>
+<li>
+Experience in one of more of the following solution sets: corporate sites, consumer sites, eCommerce sites, B2B and B2C sites, reporting applications, mobile applications, employee portals, or marketing platforms</li>
+<li>
+Understand the elements of user experience and the application and benefits of a user-centered design process in the delivery of solutions</li>
+<li>
+Maintain a leading-edge understanding of new and emerging technologies and their potential application for the client</li>
+</ul>
+Financial and Contract Management<br>
+<ul>
+<li>Experience bidding and executing time-and-materials and fixed-price contracts</li>
+<li>
+Experience initiating and writing Statements of Work</li>
+<li>
+Responsible for time reporting and subsequent client invoicing and collections</li>
+<li>
+Responsible for project management and project accounting using client and Isobar processes and tools as required per the client environment</li>
+<li>
+Accurately forecast revenue, profitability, margins, billing, and resource utilization</li>
+<li>
+Utilize Isobar’s pricing model tool in estimates and proposals</li>
+<li>
+Track project progress versus plan using Isobar’s financial tracker tool</li>
+</ul>
+Business Development<br>
+<ul>
+<li>Identify business development "add-on" sales opportunities with existing clients</li>
+<li>
+Lead proposal efforts, including project approach, solution design, resource planning, and cost estimation</li>
+<li>
+Convey the Isobar brand and capabilities in both written and verbal business development conversations</li>
+<li>
+Join and collaborate with pitch teams and, where applicable, participate in client pitches</li>
+</ul>
+<b>
+Required Experience / Skills</b><br>
+<ul>
+<li>Bachelor’s degree</li>
+<li>
+8+ years professional experience in consulting with at least 2 years’ experience in a project / program management role</li>
+<li>
+Consulting experience delivering web channel solutions at an enterprise scale</li>
+<li>
+Understanding of user experience design and creative</li>
+<li>
+Experience serving as the functional subject matter expert on projects based on previous experience and / or the ability to quickly learn and become the resident expert</li>
+<li>
+Demonstrated experience managing design and technical teams</li>
+<li>
+Deep understanding of project financial, delivery, and resource management</li>
+</ul>
+<b>
+Nice to Have</b><br>
+<ul>
+<li>PM certification (PMP, Scrum, etc.)</li>
+<li>
+MBA or Masters degree in Information Technologies</li>
+</ul>
+<br>
+<b>
+Security Clearance</b>:<br>
+Applicants selected for this position may be subject to a government security investigation and must be able to meet eligibility requirements for access to classified information. Only US citizens are eligible for a security clearance. For this position, Isobar will only consider applicants with security clearances or applicants who are eligible for security clearances.</div></div>

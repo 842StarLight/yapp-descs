@@ -1,0 +1,71 @@
+<h2>QA Engineer- Payments</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>QA Engineer, Payments<br>
+<br>
+We're looking for geniuses. Dreamers. Inventors. Innovators. People with the will to get stuff done. Doers who'll rip an idea out of thin air. Make it a reality. Own it. And amaze their peers. Sound like you? Welcome home.<br>
+<br>
+<b>As the QA Engineer for the Payments team you will be part of Hy-Vee's Payments delivery team that is responsible for completely redefining the way payments are integrated within the Hy-Vee technology environment.</b> <b>Our QA engineers are members of the product delivery teams at Hy-Vee and are responsible for working alongside developers to test all of our code changes to mitigate risk and help ensure a quality product makes it to the hands of our customers. They will work to understand and show how code changes are solving the intended problem. We strive to make smart choices when automating test scenarios, saving time and money, allowing us to release code to Customers on a regular cadence, which confidence. In this role, you will work closely with our Product Owners and Customers to deliver solutions in a timely manner.</b><br>
+<br>
+<b><i>KEY RESPONSIBILITIES</i></b><br>
+<br>
+<ul><li>Work as a member of an agile product delivery team to ensure that quality is a first class focus throughout the delivery cycle.</li></ul>
+<br>
+<ul><li>Design, develop, and support automated testing suites.</li></ul>
+<br>
+<ul><li>Mentor team members on test automation.</li></ul>
+<br>
+<ul><li>Enable continuous delivery of features.</li></ul>
+<br>
+<ul><li>Proactively bring issues and problems to the attention of the team.</li></ul>
+<br>
+<ul><li>Be organized and detail oriented.</li></ul>
+<br>
+<ul><li>Work closely with software engineers and product owners to ensure that all scenarios for a given feature set are properly defined and well understood.</li></ul>
+<br>
+<ul><li>Have the drive to become an expert in emerging test automation technologies.</li></ul>
+<br>
+<ul><li>Be able to clearly and concisely capture defects and communicate the criticality of each identified issue with the team and management.</li></ul>
+<br>
+<ul><li>Encourage a strong desire to automate all repetitive and repeatable testing activities.</li></ul>
+<br>
+<b>
+QUALIFICATIONS</b><br>
+<br>
+<ul><li>Multiple years of experience in QA automation tooling.</li></ul>
+<br>
+<ul><li>Demonstrable knowledge of QA processes and their application in an agile delivery environment.</li></ul>
+<ul>
+<li>Ability to think outside the box and identify unusual or unexpected use cases when developing test scenarios</li>
+</ul>
+<br>
+<ul><li>Experience in implementing, executing, and monitoring automated test suites using various technologies including, but not limited to, Cucumber, Selenium, Cypress, Frisby.</li></ul>
+<ul>
+<li>Experience with Java, Kotlin, C#, or JavaScript</li>
+</ul>
+<br>
+<ul><li>Experience with using CI/CD technologies such as Jenkins, Bamboo, Concourse.</li></ul>
+<br>
+<ul><li>Proficient with issue tracking tools such as Jira, Redmine, and Rally.</li></ul>
+<br>
+<ul><li>Strong working knowledge of relational databases such as PostgreSQL and MS SQL.</li></ul>
+<br>
+<ul><li>Desire to continuously learn new techniques and technologies to evolve your skillset with our technology stack.</li></ul>
+<br>
+<b><i>
+A STRONG CANDIDATE WILL ALSO HAVE:</i></b><br>
+<br>
+<ul><li>Experience building test infrastructures that leverage technologies such as Docker.</li></ul>
+<ul>
+<li>Experience with Spring or .NET</li>
+</ul>
+<br>
+<ul><li>Experience testing applications deployed to hybrid cloud environments such as Google Cloud and OpenShift.</li></ul>
+<br>
+<ul><li>Experience mentoring other QAs on automation and quality initiatives.</li></ul>
+<br>
+<b>
+About Hy-Vee, Inc.</b><br>
+<br>
+Hy-Vee, Inc. is an employee-owned grocery store chain with more than 240 retail stores and over 80,000 employees. With sales of more than $10 billion, Hy-Vee ranks among the top 25 supermarket chains and the top 50 private companies in the United States. Its slogan, "A Helpful Smile in Every Aisle," expresses the foundation of the company's operating philosophy.<br>
+<br>
+<b>Visit </b><b>itcareers@hy-vee.com</b><b> to apply or </b><b>https://innovate.hy-vee.com</b><b> to learn about all the exciting things our IT organization does!</b>
+</div></div>

@@ -1,0 +1,34 @@
+<h2>Senior Full-Stack Engineer, Revenue & Traffic</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">"The front page of the internet", Reddit brings over 330 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities. Come for the cats, stay for the empathy.
+<br><br>
+Advertising is often the most data-heavy, latency sensitive and technically demanding part of any online business. Our Revenue and Traffic team is part of the Ads Engineering org and is responsible for ensuring Reddit gets paid. Revenue and Traffic engineers will work on a wide breadth of projects, from front-end tools for managing advertiser accounts to back-end platforms for payment processing and invoice generation.
+<br><br>
+If you appreciate real technical challenges and you'd like to be part of the team that turns Reddit into a sustainable, long-term business, come join us!
+<br><br>
+<b>We are looking for someone who:</b><br>
+<ul>
+<li>Is an experienced engineer that is excited to gain exposure to a variety of systems and projects to support our advertising business.</li>
+<li>Is skilled at dissecting business requirements and translating them into sturdy programmatic solutions.</li>
+<li>Wants to develop sophisticated systems which mitigate fraud and validate traffic quality.</li>
+<li>Cares about the customer - whether the customer is an internal team or an advertiser.</li>
+<li>Is comfortable owning cross-functional communications and representing the Ads Engineering org to other departments.</li>
+</ul>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Create tools for our sales and ad ops teams to manage high-quality advertisers.</li>
+<li>Build user interfaces for advertisers to support billing and payments.</li>
+<li>Build billing pipelines for calculating, collecting and reporting on revenue.</li>
+<li>Develop anti-fraud tools to support Reddit's financial health.</li>
+<li>Interface with sales and finance to develop engineering solutions for business requirements.</li>
+<li>Work on multiple levels of the stack to build out new features - lots of greenfield work.</li>
+</ul>
+<b>Qualifications:</b><br>
+<ul>
+<li>5+ years of relevant experience.</li>
+<li>Software development experience in one or more general purpose programming languages (e.g. Python, Java, Go).</li>
+<li>Full-stack development experience including Javascript/React.</li>
+<li>Able to take complete ownership of a feature or project, from inception to implementation.</li>
+<li>An interest in the advertising business and understanding customer needs.</li>
+<li>Experience working with billing/payments a plus.</li>
+</ul>
+</div>

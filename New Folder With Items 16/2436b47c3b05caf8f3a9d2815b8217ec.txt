@@ -1,0 +1,91 @@
+<h2>Sr. API Engineer - Cloud</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About CrowdStrike</b></p>
+<p>
+At CrowdStrike we’re on a mission - to stop breaches. Our groundbreaking technology, services delivery, and intelligence gathering together with our innovations in machine learning and behavioral-based detection, allow our customers to not only defend themselves, but do so in a future-proof manner. We’ve earned numerous honors and top rankings for our technology, organization and people – clearly confirming our industry leadership and our special culture driving it. We also offer flexible work arrangements to help our people manage their personal and professional lives in a way that works for them. So if you’re ready to work on unrivaled technology where your desire to be part of a collaborative team is met with a laser-focused mission to stop breaches and protect people globally, let’s talk.</p>
+<p><b>
+About the Role</b></p>
+<p>
+CrowdStrike is seeking a software engineer who wants to work at scale, be challenged, and take on a highly impactful role in the API engineering team. You will work on and develop new customer facing API products as well as internal API Management systems which will be used by teams including Cloud Engineering and Intel. You will work closely to refine and improve internal API standardizations, frameworks and strive to enable other engineers in externalizing their products through the API infrastructure. Your experience of RESTful microservices and Open API standards will be applied to a rich and vast internal microservice architecture. Solid experience with large scale web services, open source tools and libraries to an understanding of under the hood (HTTP/S, TLS, etc) are strongly desired. If you want a job that makes a difference in the world and operates at high scale, you’ve come to the right place.</p>
+<p><b>
+What you will need</b></p>
+<ul>
+<li>
+MS in Computer Science or a related field, or equivalent work experience</li>
+<li>
+A solid understanding of distributed systems and scalability challenges.</li>
+<li>
+Experience building an API Gateway or reverse proxy is a big plus</li>
+<li>
+Experience building RESTful services</li>
+<li>
+Fundamental knowledge of OAuth2 protocol and associated flows</li>
+<li>
+Golang experience is desirable</li>
+<li>
+Mico-service development</li>
+<li>
+Development experience in a cloud environment such as AWS, Azure or GCP</li>
+</ul>
+<p><b>
+You will also bring</b></p>
+<ul>
+<li>
+Team player skills – we embrace collaborating as a team as much as possible</li>
+<li>
+A thorough understanding of engineering best practices from appropriate testing paradigms to effective peer code reviews and resilient architecture.</li>
+<li>
+The ability to thrive in a fast paced, test-driven, collaborative and iterative programming environment.</li>
+<li>
+The skills to meet your commitments on time and produce high quality software that is unit tested, code reviewed, and checked in regularly for continuous integration.</li>
+<li>
+Ability to brainstorm, define, and build collaboratively with members across multiple teams.</li>
+<li>
+Experience with shipping high quality software in a cloud environments</li>
+<li>
+Solid grounding in the technology of at least one cloud environment (AWS, Azure, GCP)</li>
+<li>
+Broad grounding in all aspects of distributed systems development: OS internals and OS system engineering concepts, concurrency models, networking, broad understanding of distributed systems concepts, authN/Z (OAuth2, etc.) and API development</li>
+<li>
+Solid design and problem solving skills with demonstrated passion for engineering excellence, quality, security and performance</li>
+<li>
+Strong cross-group collaboration and interpersonal communication skills working with a variety of roles; including engineering, product management, support and sales engineering</li>
+</ul>
+<p><b>
+Bonus Points</b></p>
+<ul>
+<li>
+Industry experience in implementing an API First strategy and architecture</li>
+<li>
+Authored or led open source libraries and projects</li>
+<li>
+Contributions to the open source community (Blogging, Stack Overflow, Github)</li>
+<li>
+Exposure to any of the following Kafka, Elastic Search, Containers / Kubernetes</li>
+</ul>
+<p><b>
+Benefits of Working at CrowdStrike:</b></p>
+<ul>
+<li>
+Market leader in compensation and equity awards</li>
+<li>
+Competitive vacation policy</li>
+<li>
+Comprehensive health benefits</li>
+<li>
+Paid paternity and maternity leave, including adoption</li>
+<li>
+Flexible work environment</li>
+<li>
+Wellness programs</li>
+<li>
+Stocked fridges, coffee, soda, and lots of treats</li>
+</ul>
+<p><i>
+We are committed to building an inclusive culture of belonging that not only embraces the diversity of our people but also reflects the diversity of the communities in which we work and the customers we serve. We know that the happiest and highest performing teams include people with diverse perspectives and ways of solving problems so we strive to attract and retain talent from all backgrounds and create workplaces where everyone feels empowered to bring their full, authentic selves to work.</i></p>
+<p><i>
+CrowdStrike is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.</i></p>
+<p><br>
+<i>
+#LI-JF1</i></p>
+</div></div>

@@ -1,0 +1,80 @@
+<h2>Support Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>This position (part of our Customer Support Team) is responsible for working directly with SailPoint field personnel and customers to identify, troubleshoot, and resolve technical problems directly or in conjunction with our level 2 team.
+</p>
+<p></p>
+<p><b>Responsibilities:
+</b></p>
+<ul>
+<li>Provide technical support to SailPoint customers and field personnel via multiple channels, including: telephone, email, WebEx and GoToMeeting.
+</li>
+<li>Troubleshoot and resolve technical problems reported by our customers.
+</li>
+<li>Escalate complex issues to Level 2 Support in a timely manner with appropriate details captured
+</li>
+<li>Document problem solutions in company knowledge base.
+</li>
+<li>Interface with Sales, Marketing, and Engineering to improve product service, design, and quality.
+</li>
+<li>Present technical concepts in a clear manner.
+</li>
+<li>Meticulously document case progress and technical details throughout the support case lifecycle.
+</li>
+<li>Provide 24x7 on-call support via rotation schedule.
+</li>
+<li>Participate in recurring support review meetings, presenting challenging cases and new ideas to the support team.
+</li>
+<li>Impress our customers with your empathy, responsiveness, technical ability and attention to detail.
+</li>
+</ul>
+<p></p>
+<p><b>Required (candidates </b><b>must </b><b>have this experience):
+</b></p>
+<ul>
+<li>1+ years professional software support experience; preferably in enterprise security software product companies.
+</li>
+<li>Proven track record of aggressive troubleshooting techniques; effective use of all resources available including documentation, online sources, testing and experimentation, and the knowledge of other technical professionals.
+</li>
+<li>Experience with Database Administration (Oracle, Sybase, MSSQL, DB2, MySQL).
+</li>
+<li>Experience on both Windows and Unix (Linux, Sun, HP, AIX) platforms.
+</li>
+<li>Experience with creating or troubleshooting XML and JavaScript.
+</li>
+<li>Experience with a J2EE / Java EE 5 Application Server such as Tomcat, JBoss, WebSphere, or WebLogic.
+</li>
+<li>Excellent written and verbal communication skills.
+</li>
+<li>Proven ability to listen and empathize with the client's situation. An understanding of when to employ different interpersonal interaction techniques depending on the situation.
+</li>
+<li>Willingness to improve yourself and fellow team members in relevant technologies.
+</li>
+</ul>
+<p></p>
+<p><b>Preferred (candidates </b><b>may </b><b>have this experience) </b>:
+</p>
+<ul>
+<li>Some software development experience with an object-oriented language
+</li>
+<li>Experience troubleshooting Java applications in an enterprise environment.
+</li>
+<li>Ability to think creatively when troubleshooting and not allowing a brick wall to stop you.
+</li>
+<li>Log4j or other logging system configuration experience.
+</li>
+<li>Browser compatibility testing.
+</li>
+<li>Version control systems such as Subversion (SVN).
+</li>
+<li>Java, Ant and software build-related technologies.
+</li>
+<li>Experience with web technologies such as XHTML, JSF, SPML/SOAP.
+</li>
+<li>Familiarity with identity management provisioning systems such as Sun, Oracle, IBM, or Novell.
+</li>
+<li>Networking knowledge and exposure to application server clusters.
+</li>
+</ul>
+<p></p>
+<p>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.</p>
+</div></div>

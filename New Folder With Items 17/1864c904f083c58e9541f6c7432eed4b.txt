@@ -1,0 +1,36 @@
+<h2>Solutions Architect - Azure Databricks</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Mission
+<br><br>
+Solutions Architect at Databricks are in charge of leading the adoption of Apache Spark and Databricks. They engage with the developer community to train them and evangelize Spark, meet with customers to suggest solutions that they can build with the technology, and see customers through implementing and troubleshooting production systems. Every solution architect is expected to become an Apache Spark expert and to be excellent at interacting with Spark and Databricks users.
+<br><br>
+At Databricks we work on some of the most complex distributed processing systems and our customers challenge us with interesting new big-data processing requirements. As the complexity grows for both us and our customers, we are looking to our solution architects to fully understand the architecture that powers our product and how it can be implemented. Our solutions architects not only work with technologies such as Apache Spark, Hadoop and Kafka but they also recommend product features and contribute to open source community. Our solutions architect position is a pre-sales and post-sales position where you will work with customers to identify use cases for Databricks, and see them through using the product. Our customers are highly technical, so you must be too.
+<br><br>
+Outcomes
+<br><br>
+<ul>
+<li>Provide technical leadership in a pre-sales and post-sales capacity for customers to support successful understanding, evaluation and adoption of Databricks</li>
+<li>Consult on architecture and design, bootstrap, and/or implement strategic customer projects</li>
+<li>Build references architectures, how-to's, and demo applications for customers</li>
+<li>Provide escalated level of support for critical customer operational issues</li>
+<li>Architect, implement, and/or validate integrations with 3rd party applications</li>
+<li>Evangelize Spark and Databricks across developer community through meetups and conferences</li>
+<li>Become an Apache Spark expert</li>
+</ul>
+Competencies
+<br><br>
+<ul>
+<li>Bachelor's degree in computer science or related field</li>
+<li>Outstanding verbal and written communication skills</li>
+<li>Excellent presentation and whiteboarding skills</li>
+<li>3-5 years in customer-facing pre-sales, technical architecture or consulting role</li>
+<li>Ability to design and architect distributed data systems</li>
+<li>Have experience writing code in either Python, Scala or Java</li>
+<li>Ability to synthesize guidance via technical content- blogs, whitepapers, patterns etc</li>
+<li>Experience with Big Data Technologies such as Spark, Hadoop, Kafka, and Storm</li>
+<li>[Desired] Experience working with open source and/or AWS/Azure/cloud</li>
+</ul>
+About Databricks
+<br><br>
+Databricks' mission is to accelerate innovation for its customers by unifying Data Science, Engineering and Business. Founded by the original creators of Apache Spark™, Databricks provides a Unified Analytics Platform for data science teams to collaborate with data engineering and lines of business to build data products. Users achieve faster time-to-value with Databricks by creating analytic workflows that go from ETL and interactive exploration to production. The company also makes it easier for its users to focus on their data by providing a fully managed, scalable, and secure cloud infrastructure that reduces operational complexity and total cost of ownership. Databricks, venture-backed by Andreessen Horowitz, NEA and Battery Ventures, among others, has a global customer base that includes Salesforce, Viacom, Shell, and HP. For more information, visit www.databricks.com ( http://www.databricks.com ).
+<br><br>
+Apache, Apache Spark and Spark are trademarks of theApache Software Foundation ( http://www.apache.org/ ).</div>

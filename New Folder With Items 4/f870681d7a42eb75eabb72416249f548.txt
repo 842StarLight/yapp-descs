@@ -1,0 +1,29 @@
+<h2>Sales Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Exxact Corporation is seeking to hire a Sales Engineer to help design and build systems, ranging from stand-alone workstations and servers to multi-rack CPU, GPU and storage clusters.
+<br><br>
+<b>Job Responsibilities:</b><br>
+<b>Hardware:</b><br>
+<ul>
+<li>Design of systems and clusters (including computational and storage clusters) from component level.</li>
+<li>Including network fabric, switching, power infrastructure, cabling, etc.</li>
+<li>Assembly of systems (from Workstation to blade systems) including clusters when necessary</li>
+<li>Inspect and perform quality control on outgoing finished-goods</li>
+<li>Help provide front-line technical support for hardware via phone &amp; email</li>
+</ul>
+<b>Software:</b><br>
+<ul>
+<li>Configuration of system OS software , Linux &amp; Windows clustering of assembled cluster systems</li>
+<li>Maintenance of internal equipment (internal clusters, Workstation OS Updates, Domain Controller, Etc)</li>
+<li>Help provide front-line technical support for software via phone &amp; email</li>
+</ul>
+<b>Job Requirements:</b><br>
+<ul>
+<li>Must have at least 3 years work experience with relevant hardware &amp; software listed in this ad</li>
+<li>5+ years work experience with relevant hardware &amp; software listed is a plus</li>
+<li>Expert knowledge integrating and designing systems utilizing server to enterprise level hardware</li>
+<li>Expert knowledge in Linux, including Linux clustering</li>
+<li>Expert knowledge of current Windows operating systems</li>
+<li>Knowledgable about networking at the physical level and configuration level (gbE, 10GB, InfiniBand, Etc.)</li>
+<li>Knowledge of GPGPU computing is a HUGE plus</li>
+</ul>
+</div>

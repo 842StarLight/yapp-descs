@@ -1,0 +1,94 @@
+<h2>Systems Engineer (Server)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div>
+<div>
+<b>Job Req ID: 2257</b>
+</div>
+<p></p>
+<div>
+<b>Job Summary:</b>
+</div>
+<div></div>
+<div>High-performance product team in Supermicro is seeking talented System Product Engineer who can lead the technical collateral development of in-house server system products. This individual will have the opportunity to define and implement latest data center and server technologies, and to create proof of concepts and technical feature paper presentations to differentiate Supermicro product through online and at various industry events. This individual will also be the go-to person for product managers and system engineers to be the subject of matter expert in application benchmarks specifically in network, database, and virtualization.</div>
+<p></p>
+<div>
+<b>Essential Duties and Responsibilities:</b><br>
+</div>
+<div></div>
+<div>
+<br>
+<b>Includes the following essential duties and responsibilities (other duties may also be assigned):</b><br>
+<br>
+<ul><li>Define and develop application benchmarks based on enterprise computing requirements and generic server architecture, key examples include HammerDB, MySQL, RDMA, flashed based storage (NVDIMM, and NVMe)</li></ul>
+<br>
+<ul><li>Execute benchmark testing and build proof of concepts based on latest data center technologies and Supermicro server products such as the Supermicro SuperServers</li></ul>
+<br>
+<ul><li>Work with product managers and system engineers to draft technical marketing presentations and white papers for online publications and industry event promotional activities</li></ul>
+<br>
+<ul><li>Proactively engage in learning and researching new technologies and products to propose new Proof of Concepts</li></ul>
+<br>
+<ul><li>Work with sales and customers to provide networking solution and technical knowledge</li></ul>
+</div>
+<p></p>
+<div>
+<b>Qualifications:</b><br>
+</div>
+<div></div>
+<div>
+<br>
+<ul><li>Bachelor or Master's degree in EE, CE or ME with minimum of 2 years system engineering experiences in server products</li></ul>
+<br>
+<ul><li>Strong knowledge in server architecture and OS concept required, and knowledge in distributed computing a plus</li></ul>
+<br>
+<ul><li>Knowledge in benchmarks(FIO/IOMeter/HammerDB), PCIe protocol, and database (SQL/MySQL) required</li></ul>
+<br>
+<ul><li>Experiences in configuring Windows Server, Ubuntu, Redhat Enterprise Linux</li></ul>
+<br>
+<ul><li>Experiences in scripting languages (PowerShell, Linux Shell) a plus</li></ul>
+<br>
+<ul><li>Strong knowledge with server hardware and architectures including PCI express, and OOB management</li></ul>
+<br>
+<ul><li>Experiences in technical writing and Good communication skills</li></ul>
+</div>
+<p></p>
+<div>
+<b>Physical Requirements:</b><br>
+</div>
+<div></div>
+<div>
+<br>
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job:<br>
+<br>
+<ul><li>Able to sit for long periods of time.</li></ul>
+<br>
+<ul><li>Able to input data into a computer and work with a computer screen for long periods of time.</li></ul>
+<br>
+<ul><li>Occasional bending and standing.</li></ul>
+<br>
+<ul><li>Standing, walking, sitting, talking/listening, crouching or crawling, reaching with hands and arms.</li></ul>
+<br>
+<ul><li>Lift, carry, push and pull up to 15 pounds.</li></ul>
+</div>
+<p></p>
+<div>
+<b>Work Environment:</b><br>
+</div>
+<div></div>
+<div>
+<br>
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job:<br>
+<br>
+<ul><li>Primarily works indoors in an office setting with controlled climate conditions</li></ul>
+<br>
+<ul><li>May be susceptible to outdoor weather conditions (i.e., cold, heat, rain, and/or wind)</li></ul>
+</div>
+<p></p>
+<div>
+<b>About Supermicro:</b>
+</div>
+<div></div>
+<div>Supermicro® (NASDAQ: SMCI) is a Top Tier provider of advanced server, storage, and networking solutions for Data Center, Cloud Computing, Enterprise IT, Hadoop/ Big Data, Hyperscale, HPC and IoT/Embedded customers worldwide. We are the #5 fastest growing company among the Silicon Valley Top 50 technology firms. Our unprecedented global expansion has provided us with the opportunity to offer a large number of new positions to the technology community. We seek talented, passionate, and committed engineers, technologists, and business leaders to join us.</div>
+</div></div>
+<div></div>
+</div>

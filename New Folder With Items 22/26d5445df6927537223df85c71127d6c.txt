@@ -1,0 +1,44 @@
+<h2>Director of Engineering (Identity)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">"Want to change the future of health and healthcare by putting the control in the hands of individuals and to make a tangible impact on hundreds of millions of lives?" Come work at Rally Health!
+<br><br>
+We are working hard to solve these problems through technology and user experience. At Rally Health, we have the necessary assets and are well positioned to make it happen through unique relationships with major companies in the health industry.
+<br><br>
+We are a startup like organization that is agile, motivated and backed by UnitedHealth Group, a Fortune 10 company with 2018 annual revenue of more than $200 billion. We have engineering offices in San Francisco, Washington DC, Chicago and Minneapolis. We build products that provide end to end support for living healthy -- from proactive stay healthy solutions to get healthy again.
+<br><br>
+The "Universal Health ID Engineering" team at Rally Health is tasked with making a first class identity system that our users keep for life. Imagine a single identity system that works across different portals and apps with different employers, insurance companies and healthcare providers. It deals with the complex engineering challenges like secure identity, threat protection, identity resolution, medical eligibility across the entire healthcare system and authorization to name a few. The code we work on impacts the entire company and a large part of the entire health industry.
+<br><br>
+We are looking for an engineering leader to head the Accounts, Authentication, Access Control and Identity management of users of our end user facing products. This leader will take engineering ownership of "Universal Health Identity", consolidate existing stacks and help us march towards having a single identity platform that is safe, secure, reliable, cost effective and be best in its class.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Drive the engineering execution of "Universal Health ID" and work in conjunction with Product Management to continually define and refine the long-term vision</li>
+<li>With the platform mindset, work with multi billion dollar business partners to provide identity and access management services through "software-as-a-service" model</li>
+<li>Be the engineering face of "Universal Health ID" platform. Represent the organization in executive debriefs, business reviews, escalations and coordination discussions</li>
+<li>Work with partners, support, sales and other organization to understand asks, provide technical assessment of solutions and work with product managers for execution and delivery</li>
+<li>Lead and manage an organization of engineering managers, software engineers, architects, QA and DevOps spanning multiple geographic locations</li>
+<li>Recruit, retain, mentor and grow a talented group of diverse employees</li>
+<li>Foster, enable and promote a culture of innovation, agility and "customer first" mindset</li>
+<li>Participate in architecture, planning and process improvement discussions</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Bachelor's or Master's degree in Computer Science, Software Engineering or a related field. Background in Software Engineering</li>
+<li>8+ years of experience in Software Engineering leadership roles</li>
+<li>Clear understanding, point of view and experience in various software engineering practices, SDLC process, testing methodologies and support models</li>
+<li>Experience in distributed computing, cloud services, API development, fault tolerant system design</li>
+<li>Experience in dealing with multiple partner support, SLA management, escalation management etc</li>
+<li>Experience in architecting large distributed services with upstream and downstream dependencies</li>
+<li>Experience in setting vision, roadmap, prioritization of features, cost assessment and software delivery through multiple release cycles</li>
+</ul>
+<b>Good to have:</b><br>
+<ul>
+<li>Experience in identity and access management services</li>
+<li>Experience in building consumer centric products</li>
+</ul>
+Why join Rally? On top of an innovative work atmosphere and a chance to help people change their lives, we offer competitive pay, free daily catered lunches, and an extensive benefits package for all full-time employees (including medical, dental, vision, ESPP, HSA, commuter benefits and 401(k)). In addition, we offer the ability to learn and grow while truly making an impact in the healthcare system.
+<br><br>
+Rally Health is committed to ensuring that its workforce reflects America's diverse population. Rally Health knows that such diversity will enrich us with the talent, energy, perspective and inspiration it needs to achieve its mission. Rally Health believes in a policy of equal employment and opportunity for all people based on merit and commitment to the principles of diversity. It is our policy to recruit, hire, train, and promote individuals in all job titles, and administer all programs, without regard to race, color, religion, national origin or ancestry, citizenship, sex, age, marital status, pregnancy, childbirth or related medical conditions, personal appearance, sexual orientation, gender identity or expression, family responsibilities, genetic information, disability, matriculation, political affiliation, veteran status, union affiliation, or any other category protected by applicable federal, state or local laws.
+<br><br>
+Individuals with disabilities and veterans are encouraged to apply. Applicants who require an accommodation related to the application and/or review process should notify Talent Acquisition (recruiting@rallyhealth.com).
+<br><br>
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</div>

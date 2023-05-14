@@ -1,0 +1,56 @@
+<h2>Salesforce Developer/Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>About Dorilton Capital:</b><br>
+Patience
+<br><br>
+We represent the investment office of a European family and have no fixed investment period. We prefer to create value over the long term by reinventing cash flow while avoiding excessive leverage.
+<br><br>
+Partnership
+<br><br>
+We work actively with existing management teams recognizing that long-term business success is the result of a team effort. Dorilton views its role as providing additional capital for acquisitions and growth projects and support and expertise to take its companies to the next level.
+<br><br>
+Continuity
+<br><br>
+We partner with companies that are led by strong management teams and have a successful history and culture. We firmly believe in our companies continuing with the elements that made them successful.
+<br><br>
+<b>About the Salesforce Administrator/Developer role:</b><br>
+The Salesforce Administrator/Developer will be responsible for providing professional expertise, support, and extraordinary customer service to Salesforce users at Dorilton Capital and across our portfolio. This role reports directly to our Director of CRM &amp; Business Applications and will focus on the day-to-day requests from our Salesforce environments and end-users. The primary responsibilities of this position include identifying end user-reported issues, developing and testing solutions in a staging environment, providing UAT support, and creating and deploying changes to production systems.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Serve as the primary point of contact for day-to-day Salesforce related inquiries and provide a high-level degree of customer service and attention to end-users at Dorilton Capital and across our portfolio</li>
+<li>Develop, implement, re-factor and test Salesforce CRM, Apex, Visualforce pages, Triggers, Integration, Lighting implementation, Workflow rules, Custom setting, Validations, REST API's, SOAP API's, web service integration, User support, Reports, Dashboards, JavaScript, HTML5, CSS</li>
+<li>Design solutions with maximum usability while minimizing complex code and customization.</li>
+<li>Test system components for compliance with functional requirements</li>
+<li>Participate in user requirement sessions to identify opportunities for process improvement and technical solutions</li>
+<li>Create and manage modern salesforce automation tools - including Process Builder, Flows, including all of the point-and-click type development tools</li>
+<li>Create and manage custom fields, objects, formulas, workflows, approval processes, etc.</li>
+<li>Create and manage roles, profiles, security settings and permissions</li>
+<li>Assist in the development and maintenance of Salesforce reports and ensure proper distribution</li>
+<li>Execute approved configuration changes to fields, workflows, reports, roles, permissions, security settings, layouts, custom objects, reports, dashboards, etc.</li>
+<li>Integrating Salesforce with other applications, such as ERP Systems, and internal databases; along with the ability to address errors between the systems</li>
+<li>Anticipate and assess the impact of new requirements on Salesforce.com and all upstream and downstream applications, systems and processes and communicate your findings accordingly</li>
+<li>Stay up-to-date current on Salesforce releases, features, best practices, applications, technologies and certifications</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>At least 5 years progressive and relevant experience</li>
+<li>3+ years of experience analyzing, debugging, and correcting user-reported problems within software applications in a Help Desk environment</li>
+<li>3+ years of recent experience configuring and managing Salesforce CRM – Lightning Environment</li>
+<li>Experience configuring various Salesforce modules including but not limited to Sales, Support, Communities, visual flow &amp; Process Builder, validation rules, security administration and reports</li>
+<li>Demonstrated experience with Salesforce Administrative tasks, including creating users, profiles, roles, page layouts, workflows, approvals, reports, analytic snapshots and dashboards, and email services</li>
+<li>Must have Lightning administration and development experience</li>
+<li>Strong understanding of Salesforce.com best practices and functionality.</li>
+<li>Good understanding of data structures, data modeling, and database schema is required along with proficiency in SOQL.</li>
+<li>Ability to learn and leverage the features of Salesforce as well as teach others how to effectively utilize the system</li>
+<li>Excellent project management skills and a positive attitude</li>
+<li>Able to meet deadlines, handle and prioritize simultaneous requests, and manage laterally and upwards</li>
+<li>Excellent problem-solving skills</li>
+<li>Exceptional verbal and written communication skills, with a strong ability to translate technical information in order to cater to non-technical audiences</li>
+<li>Salesforce Administrator Certification, Additional app builder/developer certifications a plus</li>
+<li>Experience with integration tools (Jitterbit, Boomi, Informatica, Mulesoft) a plus</li>
+<li>Experience with Marketing Automation tools (especially Pardot) a plus</li>
+<li>Web Development experience a plus</li>
+<li>Bachelor's degree or equivalent education</li>
+</ul>
+</div>

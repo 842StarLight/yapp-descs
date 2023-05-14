@@ -1,0 +1,35 @@
+<h2>Staff Technologist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Cohesity ( https://www.cohesity.com/ ) is redefining data management from the ground up to solve a critical challenge facing businesses today: mass data fragmentation. Most enterprise data — backups, archives, file shares, object stores, and data used for test/dev and analytics — sits in fragmented infrastructure silos that
+<br>make it hard to protect, expensive to manage, and difficult to analyze. Cohesity consolidates silos onto one web-scale platform, spanning on-premises, cloud, and the edge, and uniquely empowers organizations to run apps on that platform — making it easier than ever to back up and extract insights from data. We're a values-led company looking for great people who love challenges, are collaborative and curious, unafraid to try, and passionate about customer success.
+<br><br>
+This role will take direction on architecture from Senior Technical Advocacy Group (TAG) team members and execute on design decisions on projects assigned to the team. Additionally the role will be responsible for day to day maintenance of the Mobile Executive Briefing Center datacenter (3 racks) and the TAG Tradeshow and Innovation Lab (2-3 racks). These activities will include but are not limited to:
+<br><br>
+<ul>
+<li>Executing on a regularly scheduled patch cycle</li>
+<li>Alerting team members and any external users of any scheduled and unscheduled downtime</li>
+<li>Maintaining technical documentation of both datacenters</li>
+<li>Monitoring and initial triage of any issues with Mobile EBC startup and shutdown procedures. This will include tracking the location of the Mobile EBC and being available during startup and shutdown times</li>
+<li>Participating in quarterly Mobile EBC maintenance activities</li>
+<li>Proven track record for learning new technologies in a rapid fashion</li>
+</ul>
+<b>Specific Requirements include:</b><br>
+VMware expertise – VMware administrators should have advanced proficiency with vSphere, vSAN, and other VMware products and platforms. This role must have 2-3 years experience minimum in the following VMware products:
+<br><br>
+<ul>
+<li>vSphere - Deep skills expected with 4-5 yrs experience</li>
+<li>NSX-V (including edge firewalling load balancing and logical switching)</li>
+<li>vRA/vRO</li>
+<li>vCD</li>
+<li>Horizon View</li>
+</ul>
+Automation experience - 2-3 years experience with datacenter automation creation. Ability to automate complex tasks across multiple tiers of the datacenter using multiple scripting languages (ex.Powershell, Python, PowerCLI)
+<br><br>
+Networking expertise - A minimum of 1-2 years of networking experience is needed. In general, they must be adept at network engineering, with working knowledge of firewalls, servers, networks, and operating systems.
+<br><br>
+Troubleshooting – It's important for this role to be an excellent problem-solver who can determine the main source of product issues and provide quick, elegant solutions
+<br><br>
+Attention to detail – When building and maintaining datacenter infrastructure, this role must ensure that all details are correct, from software code to configuration settings, in order to avoid malfunctions, bugs, and security breaches, this applies to any changes to documentation as well
+<br><br>
+Customer service – This role must possess a strong customer orientation, as they provide technical support as requested and explain complex topics in layman's terms to members of the Cohesity field sales team and others.
+<br><br>
+Technical writing – Candidate must be comfortable with technical writing to produce documentation about infrastructure design, quality standards, testing procedures, and other essential project information. Likewise, they must be able to interpret diagrams and system plans. 1-2 years of experience working with a help desk tracking system is preferred.</div>

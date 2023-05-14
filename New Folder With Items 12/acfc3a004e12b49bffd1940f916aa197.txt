@@ -1,0 +1,81 @@
+<h2>Associate Director, Data and Reporting Services - Office of Advancement</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Located in a historic neighborhood in the nation's capital, Georgetown offers rigorous academic programs, a global perspective, exciting ways to take advantage of Washington, D.C., and a commitment to social justice. Our community is a tight knit group of remarkable individuals interested in intellectual inquiry and making a difference in the world.
+<br><br>
+Requirements
+<br><br>
+The Office of Advancement supports the mission of Georgetown University, its faculty, and students by developing relationships with key constituencies, connecting with alumni, and working with donors to help them know and understand opportunities for partnership with the university.
+<br><br>
+The Associate Director , Data and Reporting Services is responsible for leading the reporting function for the Office of Advancement. This team provides the Office of Advancement with data extracts and reports from the University's Salesforce platform (GU360) to make data-driven business decisions and provide accurate forecasting in support of the planning and execution phases of the University's next campaign and ambition to raise $500 million annually by 2025.
+<br><br>
+The Associate Director, Data and Reporting Services will report to the Director, Reporting Services. The Associate Director is the senior-most member focused on executing project management related to data validation/specifications, report type management, data cleanup, and custom functionality testing, while the Director maintains overall oversight for reporting services and strategies related to reporting functionality for end users.
+<br>The Associate Director provides reporting support for the entirety of the Office of Advancement (most frequent interaction occurs with the front line development officers and development associates, prospect management, annual giving, discovery ambassadors, data and analytics and gift administration), as well as key campus partners such as the Dean's offices and Admissions.
+<br><br>
+The Associate Director will have duties that include, but are not limited to the following:
+<br><br>
+Custom Reporting
+<br><br>
+Collaborates with Reporting Services team members and requestors to understand the needs of complex reporting requests, narrow specifications, and include necessary fields.
+<br>Provides excellent customer service and partnership to stakeholders requesting reports.
+<br>Uses Transact SQL, Salesforce Reporting Tools, and other 3rd party applications to fulfill complex user report requests.
+<br>Consults with the Director, Senior Director, and other stakeholders regarding data for custom requests.
+<br>Works independently on assigned requests and adapts, modifies and enhances reports based on the available data and reporting needs of the requester.
+<br>Responds to time-dependent and urgent requests from management and OA users within agreed upon deadlines.
+<br>Requirements Gathering, Testing, and Documentation
+<br><br>
+Works closely with the University's Information Services team and Advancements' Chief Data Officer to gather necessary requirements and track changes to reflect in the system.
+<br>Tests all custom changes, data cleansing efforts, and upgrades from Salesforce and Affinaquest in the database to avoid user issues and problems with data integration.
+<br>Recommends internal Salesforce enhancements and modifications based on user experience and feedback.
+<br>Documents data cleanup projects, custom SF functionality development, software vendor updates. and new report templates to ensure compliance with audit requirements.
+<br>Salesforce Reporting Environment and Management
+<br><br>
+Serves as an in-house expert on data knowledge and reporting tools/processes in Salesforce.
+<br>Has in-depth knowledge and understanding of data in the system to change or update databases when fields are modified.
+<br>Supports the Director in working with internal clients to define project objectives, set up timelines, implement measurable goals, and manage delivery of final project materials to clients.
+<br>Monitors, manages, modifies report types and impacted reports, and customizes Affiniquest field to ensure accurate reporting.
+<br>Collaborates with University Information Systems to ensure proper organization and accuracy of the report types.
+<br>Data Cleansing
+<br><br>
+Serves as a key connection point for the Reporting Services team within the Office of Advancement to validate data and develop data cleanup specifications.
+<br>Assists the Director, Senior Director, Records team, and Office of Gift Administration to document and develop specifications for data cleansing.
+<br>Works proactively to uncover data issues and run reports on a routine basis to limit problems that may arise.
+<br>Provides data validation, development of data cleanup specifications for University Information Systems, and documents and retrieves approval of specifications from Senior Director.
+<br>User Support
+<br><br>
+Consults with users to provide support and guidance on the best way to leverage available data.
+<br>Works to gather business requirements from end users and synthesize those with existing and future data and records storage processes.
+<br>Provides data support for users to understand business needs and present options for reporting and presenting data accurately.
+<br>Qualifications
+<br><br>
+Bachelor's Degree
+<br>At least 3-5 years of experience analyzing data in the setting of complex fundraising and/or sales organizations
+<br>Completion of advanced-level coursework in mathematics, statistics, data science or operations
+<br>Experience with reporting and manipulating data from Salesforce
+<br>High attention to detail, with demonstrated experience managing and understanding large amounts of data
+<br>Highly organized, able to work independently, and under pressure to complete multiple requests and competing deadlines
+<br>Excellent writing and editing skills; excellent verbal communication skills
+<br>Ability to adapt and present information in a variety of formats to meet constituent needs
+<br>Knowledge of and experience working with Advancement database/CRM systems
+<br>Demonstrated knowledge of operations practices of large fundraising organizations
+<br>Expert-level Microsoft Excel and/or Access skills
+<br>Functional knowledge of database programming languages such as SQL/SOQL or APEX
+<br>Understanding of the Salesforce platform; Salesforce Certified Administrator certification preferred
+<br>General knowledge and understanding of data architecture
+<br>Advanced understanding of analytical problem solving methodologies
+<br>Desire to grow knowledge and skills, along with rapidly advancing trends in the field of data science
+<br><br>
+<b>Current Georgetown Employees:</b><br>
+If you currently work at Georgetown University, please exit this website and login to GMS ( gms.georgetown.edu ) using your Net ID and password. Then select the Career worklet on your GMS Home dashboard to view Jobs at Georgetown.
+<br><br>
+<b>Submission Guidelines:</b><br>
+Please note that in order to be considered an applicant for any position at Georgetown University you must submit a cover letter and resume for each position of interest for which you believe you are qualified. These documents are not kept on file for future positions.
+<br><br>
+<b>Need Assistance:</b><br>
+If you are a qualified individual with a disability and need a reasonable accommodation for any part of the application and hiring process, please click here for more information, or contact the Office of Institutional Diversity, Equity, and Affirmative Action (IDEAA) at 202-687-4798 or ideaa@georgetown.edu .
+<br><br>
+Need some assistance with the application process? Please call 202-687-2500. For more information about the suite of benefits, professional development and community involvement opportunities that make up Georgetown's commitment to its employees, please visit the Georgetown Works website .
+<br><br>
+<b>EEO Statement:</b><br>
+Georgetown University is an Equal Opportunity/Affirmative Action Employer fully dedicated to achieving a diverse faculty and staff. All qualified applicants are encouraged to apply and will receive consideration for employment without regard to race, color, religion, national origin, age, sex (including pregnancy, gender identity and expression, and sexual orientation) , disability status, protected veteran status, or any other characteristic protected by law .
+<br><br>
+<b>Benefits:</b><br>
+Georgetown University offers a wide variety of comprehensive and competitive benefits. Benefits packages include comprehensive health, dental and vision plans, disability and life insurance coverage, retirement savings programs, tuition assistance, voluntary insurance options (including group legal, accident, and critical illness), and much more. Whatever your need, the Office of Faculty and Staff Benefits will be standing by to support you. You can learn more about the benefits offered to eligible faculty and staff at https://benefits.georgetown.edu or view the online interactive benefits guide for more information.</div>

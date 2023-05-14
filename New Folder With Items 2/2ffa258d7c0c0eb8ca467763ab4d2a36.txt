@@ -1,0 +1,99 @@
+<h2>BMS/SCADA Information Technology & Controls Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<div>Electric Power Systems is a NETA Certified, Independent Electrical Testing &amp; Engineering Organization. We specialize in commissioning, start up, and maintenance testing for Utility, Industrial, Transit, Data Centers, and Commercial Facilities. At Electric Power Systems, we are committed to promoting a culture of safety within our organization and along side all of our clients. Our dedication to providing safe and reliable services has made us a trusted industry leader since 1977.</div>
+<div></div>
+<br>
+<div>
+Job Purpose:</div>
+<ul>
+<li>
+To provide with full responsibility and accountability, a technical service to all EPS customers, Engineering and planning to meet the requirements of the specifications and the correct functionality of the design. This is a new role with the EPS Mid-Atlantic regional data center team and is involved with the design and implementation of complex IP networks, ensuring the infrastructure is designed and planned to defined architectural standards and meets all requirements.</li>
+<li>
+Liaises with project engineers, other discipline engineers and End-Users, in order to help develop cost effective methods for an efficient design solution. Work with key stakeholders to understand their requirements and ensure the IP infrastructure is designed, planned and capacity managed to meet or exceed design specifications.</li>
+<li>
+Provide a consultancy service when required or requested by the end user or customer as a SME in CORE/BMS application networking and system designs</li>
+<li>
+Contributes towards updating company BMS/EPMS standards, specifications, management philosophies, duties and responsibilities.</li>
+</ul>
+<p></p>
+<br>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Working on construction sites, assisting the site controls engineer with BMS system deployments, validations of design and installation, PLC code development/deployment, ventilation, chiller plant alarming, monitoring of feedback associated with valves, fans and controls associated with the BMS system and integration.</li>
+<li>
+Working knowledge of SCADA, BMS, and PLC systems and Low Voltage controls systems and how the operate within the BMS/EPMS umbrella.</li>
+<li>
+Assist in validating BMS system sequences of operation and alarm points, validate and provide CX support for system testing and point to point verifications during- Level 2, 3, 4 and 5 commissioning.</li>
+<li>
+Develop and implement QA procedures to ensure quality control performed by others is properly implemented throughout the EPS program and assigned projects.</li>
+<li>
+Review all customer provided shop drawings, specifications and construction phase submittals when issued to provide technical assistance to the EPS sales team associated with the quotation process.</li>
+<li>
+Write detailed daily reports pertaining to job site milestones related to mechanical engineering and integration on BMS projects.</li>
+<li>
+Be willing and motivated to run an BMS field team.</li>
+<li>
+Develop ISA data sheets for temperature, level, flow and pressure transmitters/sensors, along with control valves, positioners and other various types of mechanical instrumentation.</li>
+<li>
+Perform inspections, testing and commission facility monitoring systems.</li>
+<li>
+Coordinate project work internally within the department and externally with other departments to ensure all projects are completed on time and within budget.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<div>B.S. in an engineering-based discipline, preferred mechanical engineering.
+</div>
+<div>Minimum 3 years of experience in either design programming, or startup/commissioning.<br>
+</div>
+<div></div>
+<div><b>Minimum of 5 years of field service experience preferably with the following products, or similar:
+</b></div>
+<ul>
+<li>Rockwell Factory Talk
+</li>
+<li>Tridium
+</li>
+<li>Schneider Electric: Powerlogic/Struxureware
+</li>
+<li>Siemens: Apogee
+</li>
+<li>Ignition: Inductive Automation
+</li>
+<li>Eaton</li>
+</ul>
+<div><b>
+Preferred Qualifications:<br>
+</b></div>
+<div></div>
+<ul>
+<li>Experience Power User Level Windows Skill set.
+</li>
+<li>Understanding of electrical, mechanical diagrams and drawings, control diagrams, building operations, control circuits, industrial HVAC systems.
+</li>
+<li>Ability to ascertain customer needs to help develop project scope and specifications.
+</li>
+<li>Solid foundation in communication protocols.
+</li>
+<li>+3 years of project management experience.
+</li>
+<li>Excellent communication skills, teamwork, organizational and problem-solving skills.
+</li>
+<li>Experience with controls and working in mission critical environments.
+</li>
+<li>MQTT-Sequel Server communication protocol
+</li>
+<li>Ability to manage multiple stakeholder deliverables, requirements and navigate difficult situations.<br>
+</li>
+</ul>
+<p></p>
+<p>EPS is an equal opportunity employer</p>
+</div></div></div>
+</div></div>

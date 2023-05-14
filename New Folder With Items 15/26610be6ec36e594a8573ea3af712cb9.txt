@@ -1,0 +1,51 @@
+<h2>Professional Services Directory Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>At Ping Identity, we're changing the way people think about enterprise security technology. With our innovative Identity Defined Security platform, we're helping to build a borderless world where people have total freedom to work wherever and however they want. Without friction. Without fear.</p>
+<p>
+We're headquartered in Denver, Colorado, and we have offices and employees around the globe. And we serve the largest, most demanding enterprises worldwide, including over half of the Fortune 100. Because even in the most complex enterprise environments, security shouldn't be a source of anxiety. It should be one of your greatest competitive advantages.</p>
+<p>
+We call this digital freedom. And it's not just something we provide our customers. It's something that drives our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.</p>
+<p>
+We are looking for an individual with a passion for designing and delivering project-based solutions for customers. The successful candidate will have deep experience in Identity Management concepts around data modeling, data security, data synchronization and have experience with large-scale, global identity solutions. They will have the ability to effectively design services engagements during the sales process as well as support customer-facing engagements.</p>
+<p>
+The Professional Services team is part of our Global Customer Success organization at Ping and delivers professional services for federated identity and access management solutions. This includes federation architecture consulting, installation, configuration assistance, and software connection solutions for Ping Identity products.</p>
+<p>
+<b>Duties and Responsibilities:</b></p>
+<ul>
+<li>Establish a deep understanding across the range of Ping Identity products with particular emphasis on PingDirectory, PingDataGovernance, and PingDataSync (formerly the UnboundID product suite).</li>
+<li>Work closely with the Ping sales team to evaluate client business, process, systems, and technology requirements and develop engagement approaches and estimates to meet the stated requirements.</li>
+<li>Participate in the detailed solution design, implementation and delivery of Ping Identity solutions to the client.</li>
+<li>Deliver technical training designed to enable/educate Ping Identity customers and implementation partners.</li>
+<li>Create physical and logical architecture solution roadmaps for linking Ping services solutions with client business processes and technologies.</li>
+<li>Participate in the creation of future Ping identity packaged service offerings</li>
+<li>Create knowledge articles around the Ping Identity suite of products for use with colleagues, customers and partners.</li>
+</ul>
+<p><b>Required Skills:</b></p>
+<ul>
+<li>5-7+ years experience developing identity management strategies, architecture, and implementations.</li>
+<li>Expert knowledge of Identity Management, Access Management, and Directory Services technologies including LDAPv3, SQL and noSQL technologies.</li>
+<li>Experience building and using web APIs (SOAP, XML, REST, JSON, SCIM).</li>
+<li>Experience with Java, development of servlets, Spring Security, etc.</li>
+<li>Experience with JavaScript, Regular Expressions, HTML, and CSS in support of web application development</li>
+<li>Exceptional written and verbal communication skills, including the ability to produce quality documentation.</li>
+<li>Ability to work both independently and in a team-oriented, collaborative environment.</li>
+<li>Experience working in sales-related activities</li>
+<li>Bachelor of Science in a related field (e.g. Computer Science, Electrical Engineering or Information Systems) or equivalent work related level of experience.</li>
+</ul>
+<p><b>Additional Preferred Skills:</b></p>
+<ul>
+<li>Experience with Databases (Oracle, Sybase, MSSQL, MySQL).</li>
+<li>Experience and understanding of OAuth, OpenID Connect, and SAML.</li>
+<li>Experience with Java template engines like Apache Velocity or Thymeleaf.</li>
+<li>Experience implementing solutions with social APIs including Facebook, Twitter, LinkedIn, etc.</li>
+<li>Security certifications like CISSP/CIPP/CIPM</li>
+<li>Demonstrated ability to work across a broad range of technologies to deliver complex solutions.</li>
+<li>Ability to communicate complex technical terminology, concepts, and issues to technical and non-technical staff.</li>
+<li>Ability to think strategically, evaluate and resolve customer problems.</li>
+<li>Lead projects to deliver technical solutions in complex environments.</li>
+</ul>
+<p><b>Travel:</b></p>
+<ul>
+<li>Some travel (less than 50%) is expected in this role however a considerable amount of work will be performed remotely.</li>
+</ul>
+</div></div>

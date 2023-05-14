@@ -1,0 +1,110 @@
+<h2>Sr. Azure Sphere Technical Solution Specialist / Field Application Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Microsoft’s mission is to empower every person and every organization on the planet to achieve more. The Consumer and Device Sales team plays a critical role in achieving this mission. We’re positioned right at the intersection of customers, hardware partners and channel partners. We work closely with our external ecosystem and internal business groups to deliver amazing customer experiences powered by Microsoft Windows, Surface, Office, and Xbox, along with Azure, Azure Sphere, Azure Stack and Windows Server.<br>
+<br>
+Opportunities in CDS are expansive because we span the entire product lifecycle - from incubation, prototyping and portfolio planning to the design-in, sell-in and sell-through motions that touch consumer and business customers. We’re also driving innovative IoT solutions and helping companies with their digital transformations. All of this wraps up under our special charter of working with partners to build and sell Intelligent Edge devices and solutions that empower everyone to achieve more.<br>
+As a member of our team, you’ll be part of growing a multi-billion-dollar business and charting new areas of innovation. If that appeals to you, it’s an exciting time to be here in CDS.<br>
+<br>
+The CDS Internet of Things (IoT) Sales Team is sitting at the intersect of the Intelligent Edge and Intelligent Cloud, enabling Microsoft Partners to leverage all of Microsoft’s assets and platforms in the transformation of their businesses and industries through Intelligent Edge-to-Cloud solutions. We are the Intelligent Edge specialist team, driving scale impact through partner enablement, across System Integrators, ISVs, OEMs and Solution Aggregators and more. From Windows IoT, Azure Sphere, Mixed Reality to Azure IoT, we drive partner success from inception, through solution creation to solution co-sell.<br>
+<br>
+We are looking for a passionate Azure Sphere Technical Specialist with microcontroller industry experience to join our global team. Our team is proficient in understanding our partners' technical needs and developing a mutually beneficial business value with them. You will engage in a complimentary manner with our customers and work with our technical sales to build deep relationships with our customers, accelerating and enabling their end-to-end IoT solution creation and deployment, powered by both Microsoft and 3rd-party / open-source technologies.</div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<div>
+The role primary responsibilities will be to support our sales organization, specializing on Azure Sphere, a solution for creating highly-secured, connected Microcontroller (MCU) devices for IoT solutions.</div>
+<div>
+<br>
+<b>
+(30%) Build IoT Solutions with Partners:</b> Our success is measured by bringing Microsoft IoT solutions to market with our partners, and their satisfaction with the Microsoft IoT platform, to realize license revenue growth and accelerate Azure services consumption. Develop effective relationships with Microsoft partners, such as Original Equipment Manufacturer (OEM), Original Design Manufacturer (ODM), Systems Integrator (SI) and Independent Hardware Vendor (IHV) partners. Develop expertise in key commercial IoT markets, such as Industrial Automation and Manufacturing, Healthcare, Smart Buildings, Smart Retail, Security and Surveillance, Transportation and Energy to effectively engage the partners and help building the IoT solutions. Develop and lean-in in a strategic engagement with core Microsoft IoT accounts, in close partnership with our Azure IoT technical specialists.</div>
+<div></div>
+<br>
+<div>
+<b>
+(25%) Trusted Technical Advisor for Partners:</b> Act as the technical specialist for Azure Sphere and all products around the Azure connected Intelligent Edge. Build a trusted technical subject matter expert position in depth with the strategic partners through a deep understanding of the partners’ edge strategy and business imperatives. Understand the Microsoft Intelligent Edge strategy and influence and orchestrate relevant and applicable internal resources to drive maximum coverage on key opportunities and strategies timely by engaging as a deep technical level across our partner’s organization, from developer to CxO. Grow Microsoft’s presence in the region through customer references, successful deployments, local events, etc.</div>
+<div></div>
+<br>
+<div>
+<b>
+(25%) Opportunity Management:</b> Drive the regional Intelligent Edge pipeline for Azure Sphere. Drive POCs and pilots for Sphere across the ecosystem. Coordinate with partners and channel executives to report opportunities and maximize results and return on investment to drive the sales. Orchestrate internal alignment and pipeline reviews with channel executives, and respective partners stakeholders to ensure the growth of solution pipeline.</div>
+<div></div>
+<br>
+<div>
+<b>
+(20%) Product Impact:</b> Act as the interface between the partners, Microsoft product groups, and other Microsoft Field and Services groups. Provide field, partner and market insights to the product groups across to generate requirements on IoT intelligent device and Edge, advocate partners and provide consistent feedback to Corp Teams across the products and services. Drive strong collaboration across Microsoft teams to ensure securely connected end to end IoT solutions deployed with broad partner by partnering with internal stakeholders where applicable. Keep up-to-date with IoT and cloud market trends and competitive insights, engage product groups to further enhance our industry-leading Edge solutions and service offerings.</div>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<div>
+<b>
+Requirements:</b><br>
+<br>
+<b>Education, Experience, and Knowledge:</b><br>
+</div>
+<ul>
+<li>
+10+ years of sales technical sales experience with a track record in high tech industry
+</li>
+<li>10+ years of experience in enterprise and solution based consulting or technical sales
+</li>
+<li>Undergraduate degree preferred, in Computer Science, Electric Engineering or a related technical field, or relevant work experience
+</li>
+<li>Self-starter
+</li>
+<li>Strong planning and organization skills, with the ability to manage multiple, complex projects simultaneously
+</li>
+<li>Experience in project management, feature definition and design and feasibility assessment.
+</li>
+<li>Excellent interpersonal, collaboration, planning and drive for results competencies
+</li>
+<li>Passionate about partners and customers to build creative and innovative solutions.
+</li>
+<li>Presentation skills to explain and educate others both internal and external, at all level of an organization.
+</li>
+<li>Industry experience and deep IoT / M2M market knowledge in specific vertical industries such as White Goods, Industrial Automation and Manufacturing, Healthcare, Smart Buildings, Energy, Security and Surveillance, Retail.
+</li>
+<li>Experience in IoT market in a technical or technical sales capacity is a great advantage, including an understanding of partner ecosystems and the ability to leverage partner solutions to solve customer needs.
+</li>
+<li>Strong technical and pre-sales expertise, covering some of these areas:
+<ul>
+<li>Proven track record of real-world embedded product design: from pcb/electronics/firmware to full solution ecosystem
+</li>
+<li>Field experience with ARM Cortex-M, Cortex-A based microcontrollers (appreciated experience with MCUs architectures from other manufacturers)
+</li>
+<li>Embedded electronics and silicon market knowledge and experience
+</li>
+<li>Knowledge of major device-to-device communication protocols (I2C, SPI, OneWire, RS485, MODBUS, CAN, etc.)
+</li>
+<li>Embedded C programming
+</li>
+<li>Windows or Linux system level and application programming
+</li>
+<li>IoT security patterns, authentication and device management.
+</li>
+<li>IoT solution design against Azure IoT reference architecture best practices
+</li>
+<li>Systems architecture and UX design experience.
+</li>
+<li>Wireless area network connectivity and security</li>
+</ul>
+</li>
+<li>
+Proficient oral and written communications skills in English is required.
+</li>
+<li>Ability to travel (25%)</li>
+</ul>
+<div>
+<b>
+Personal Attributes and Competencies:</b><br>
+</div>
+<ul>
+<li>
+Passionate about technology and the IoT market
+</li>
+<li>Capable of effectively navigating complex business challenges in ambiguous settings with solid judgment and risk management
+</li>
+<li>A strong sense of teamwork and high performing team
+</li>
+<li>Lifelong learner with a growth mindset that continually raises the bar on personal impact and performance</li>
+</ul>
+<div>
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.</div>
+</div></div>

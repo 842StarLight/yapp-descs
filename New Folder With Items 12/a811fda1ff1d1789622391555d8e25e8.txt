@@ -1,0 +1,83 @@
+<h2>Application Specialist - SYSTEMS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p><b>Company Description</b></p>
+<p>For over 70 years, Puffer-Sweiven has set the standard in equipment and services for process control, automation, safety, and reliability. We help process-intensive facilities run more efficiently and safely by delivering quality products, technical support and knowledgeable staff to implement the needed process solutions with the goal of exceeding customer expectations. Our dedication brings the most advanced products and services to our customers throughout the Central and Gulf Coast regions of Texas.</p>
+<br>
+<p></p>
+<p><b>Specialties</b></p>
+<p>As an Emerson Impact Partner, we offer a broad base of superior solutions including the top product lines for a given application. Our specialties at Puffer-Sweiven include:</p>
+<ul><li> Process Control &amp; Safety Systems</li></ul>
+<ul><li> Control Valves &amp; Regulators</li></ul>
+<ul><li> Isolation Valves &amp; Actuation</li></ul>
+<ul><li> Oil &amp; Gas Automation</li></ul>
+<ul><li> Reliability Solutions &amp; Services</li></ul>
+<ul><li> Pressure Management</li></ul>
+<ul><li> Specialty Pumps &amp; Rotating Equipment</li></ul>
+<ul><li> Instrumentation</li></ul>
+<ul><li> Maintenance &amp; Repair Services</li></ul>
+<br>
+<p></p>
+<p><b>Overview</b></p>
+<p>As part of the Process Control and Safety Systems group, the Application Specialists will work in a dynamic, collaborative environment with likeminded individuals to innovate and provide specialized solutions designed to help our customers operate reliably, safely and cost effectively.</p>
+<p>We have positions available in several locations throughout the South East Texas and Gulf Coast region, including at our corporate office, working onsite directly with customers, or a combination thereof.</p>
+<br>
+<p></p>
+<p><b>Do you have the skill sets listed below, or a combination thereof?</b> <b>How about the experience, training, or education to take on the following responsibilities?</b></p>
+<ul><li> DCS configuration and PLC programming, such as:</li></ul>
+<p>o Safety Instrumented Systems (SIS)</p>
+<p>o Alarm Management</p>
+<p>o Burner Management</p>
+<p>o HMI graphics (iFIX)</p>
+<p>o Simple or complex loops</p>
+<p>o Batch</p>
+<p>o Ladder logic</p>
+<p>o SCADA</p>
+<ul>
+<li>Participate in designing, configuring, testing, debugging and documenting user applications in various software products</li>
+<li>Apply generally accepted programming standards and techniques to assure efficient program logic</li>
+</ul>
+<ul><li> Act as liaison with manufacturers and vendors of software and application products, especially relating to problem diagnosis and resolution</li></ul>
+<ul><li> Discover inspiring methods that bring great value to the customer by identifying and providing innovative solutions</li></ul>
+<ul><li> Expertise in implementing automation strategies, optimizing process control, and investigate process control related issues by coordinating with plant process and control engineers</li></ul>
+<ul>
+<li>Experience with Cloud Based Virtual environments and knowledge of basic network architectures.</li>
+<li>Plan and execute software version upgrade releases and custom interfaces</li>
+<br>
+</ul>
+<p></p>
+<p><b>Can you answer yes to the following questions? (Perks of Joining our Team)</b></p>
+<ul><li> Does working on a collaborative project team at our corporate office sound like your dream job, or are you more invigorated working on customer sites? (we offer both options or combination thereof)</li></ul>
+<ul><li> Do you thrive on meeting customer deadlines and balancing multiple projects or demands throughout the day?</li></ul>
+<ul><li> Would you like opportunities to develop your technical skills and knowledge – and be financially incentivized to do so?</li></ul>
+<ul><li> Do you enjoy a dynamic and changing environment focused on meeting customer needs?</li></ul>
+<ul><li> Are you adaptable and tempered in crisis management situations in which customers depend on you to ensure they operate reliably, safely and cost effectively?</li></ul>
+<ul><li> Do you prefer working with likeminded individuals who are equally motivated to develop cutting-edge, innovative solutions?</li></ul>
+<ul><li> Do you enjoy a multi-cultural environment with the free flow exchange of creative ideas?</li></ul>
+<ul><li> Do you prefer a small to mid-size company where you can work, eat and engage with company leaders and execs?</li></ul>
+<br>
+<p></p>
+<p><b>Basic Qualifications</b></p>
+<ul><li> Bachelor’s degree in engineering, computer science, or relevant software/computer related fields, or two to four years related experience and/or training.</li></ul>
+<ul><li> Related experience includes spreadsheet manipulation or database manipulation and macro development. Additional experience preferred with any DCS systems such as Operator Display implementation, I/O database implementation and Control Strategy implementation.</li></ul>
+<ul><li> Able to work both independently and collaboratively alongside Puffer-Sweiven’s customers, management, and sales organization</li></ul>
+<ul><li> Ability to apply mathematical concepts such as fractions, percentages, ratios and algorithms to practical and complex situations</li></ul>
+<ul><li> Ability to interpret an extensive variety of technical instructions in mathematical or diagram form that apply to several abstract and concrete variables</li></ul>
+<ul><li> Ability to effectively use the following computer applications: Word processing, spreadsheets, Internet software, E-mail, Database software, Networking, PC and mainframe systems.</li></ul>
+<br>
+<p></p>
+<p><b>Areas of Interest</b></p>
+<ul>
+<li>
+<b>DCS:</b> DeltaV, DeltaV SIS, Honeywell, Yokagowa, PlantPaX, Foxboro, 800Xa, ABB, Rockwell, HC900</li>
+<li>
+<b>PLC:</b> Modicon, Triconex, Siemens, SLC5, PLC5,</li>
+<li>
+<b>Legacy Systems:</b> Fisher Provox, Fisher Rs3,</li>
+<li>
+<b>Job Titles:</b> Applications Engineer, Systems Engineer, Process Controls Engineers, Configuration Engineer, Automation Controls Engineer, DCS Engineer</li>
+</ul>
+<p>#DCS, #DeltaV, #DeltaV SIS, #Honeywell, #Yokagowa, #PlantPaX, #Foxboro, #800Xa, #ABB, #Rockwell, #HC900, #PLC, #Modicon, #Triconex, #Siemens, #SLC5, #PLC5, #Fisher Provox, #Fisher Rs3, #Applications Engineer, #Systems Engineer, #Process Controls Engineers, #Configuration Engineer, #Automation Controls Engineer, #DCS Engineer</p>
+</div>
+</div>

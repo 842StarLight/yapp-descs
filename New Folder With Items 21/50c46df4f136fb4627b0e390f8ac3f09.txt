@@ -1,0 +1,63 @@
+<h2>Analytics Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Company Summary</b></p>
+<p>
+Crown Castle works around the country to build and maintain the infrastructure behind the world’s most revolutionary technologies. Crown Castle owns, operates and leases more than 40,000 cell towers and over 60,000 route miles of fiber supporting small cells and fiber solutions across every major US market. This nationwide portfolio of communications infrastructure connects cities and communities to essential data, technology and wireless service – bringing information, ideas and innovations to the people and businesses that need them. Crown Castle is an S&amp;P 500 company and one of the largest Real Estate Investment Trusts in the United States with an enterprise value of approximately $60 billion.</p>
+<br>
+<p></p>
+<p><b>
+Position Title: </b>Analytics Engineer - 5E</p>
+<br>
+<p></p>
+<p><b>
+Position Summary</b></p>
+<p>
+Crown Castle is growing our data &amp; analytics team! We're hiring an Analytics Engineer to augment our existing complement of data science, data engineering, and business intelligence talent. The Analytics Engineer will be a hybrid of these (DS/DE/BI) disciplines, providing front-end support to business partners consuming products of the Data &amp;Analytics team.</p>
+<br>
+<p></p>
+<p><b>
+Essential Job Functions</b></p>
+<ul>
+<li>Construct data pipelines to support enterprise reporting &amp; analytics</li>
+<li>Data visualization &amp; storytelling to management audience</li>
+<li>Data mining and modeling to produce insights, predictions, and forecasts, in collaboration with domain experts across a variety of disciplines (e.g. Sales, RF engineering, real estate acquisitions, finance, IT)</li>
+<li>Internal consultant for advanced self-service data analytics tools</li>
+<li>Liaise with IT partners to productionize analytical workflows</li>
+<li>Investigate new tools and propose solutions to further the efficient operation of the analytics team</li>
+<li>Develop domain expertise across multiple lines of the business to support enterprise-scale analytics</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Education/Certifications</b></p>
+<ul>
+<li>Bachelor’s Degree in a STEM discipline</li>
+<li>Master’s degree or equivalent experience in data analytics, mathematics, computer science, or related quantitative discipline preferred</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Experience/Minimum Requirements</b></p>
+<ul>
+<li>Three (3) years’ experience in a data analytics role</li>
+<li>Experience with programming and statistics (e.g. R, Python, SQL)</li>
+<li>Experience developing data preparation workflows</li>
+<li>Data visualization (e.g. ggplot2, matplotlib)</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Other Skills/Abilities</b></p>
+<ul>
+<li>Experience with Tableau &amp; Alteryx</li>
+<li>Command-line scripting</li>
+<li>Construct dashboards for management audience</li>
+<li>Passionate learner with the versatility to attack new data sets</li>
+<li>Excellent communication and interpersonal skills</li>
+<li>Ability to present analytical insights to non-technical users</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Working Conditions:</b> Works in a normal office setting with no exposure to adverse environmental conditions.</p>
+</div></div>

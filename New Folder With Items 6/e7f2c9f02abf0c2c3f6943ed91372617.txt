@@ -1,0 +1,41 @@
+<h2>Information Testing</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<b>Job Description:</b><br>
+<p>Designs, develops and executes all testing-related activities on applications, infrastructure or hardware components of IT solutions. Applications and infrastructure solutions include both 3rd party software and internally developed applications and infrastructure. Responsibilities include, but are not limited to, establishing testing strategy and plan, analysis of business requirements &amp; designs for testability, design and development of test cases, utilization of appropriate tools to develop automated test scripts, and execution of various testing types such as System, system Integration, performance and modeling. Develops the Testing components of application solutions by applying knowledge of service offerings, capabilities, innovation, sales pursuit strategy, Testing &amp; Quality Methodology and best practices to collaborate with the Project team and client to deliver high quality solutions. Works within the Services function, obtaining resources and working in support of objectives and strategies.</p>
+<p></p>
+<p><b><i>
+Responsibilities:
+</i></b></p>
+<ul><li>Participates as a member of a Testing Team.; may lead small testing teams. utilizing the EDS testing methodology, applies specialization to develop a Test Plan for a test level to be executed for a project, as specified in the Testing Strategy for the project. Coordinates and collaborates with others in analyzing collected requirements to ensure the Test Plan and identified testing solutions meet customer needs and expectations. Assists in the preparation of estimates for the performance of the various activities defined in the Test Plan. Designs complex testing scenarios and test cases that will demonstrate conformance to all functional and non-functional requirements, relative to the test level, as defined in business or technical specifications. Reviews and analyzes test results to confirm, establish, and communicate the cause of the discrepancy. Identifies inadequacies and improvement opportunities in the methods/standards and recommends changes. Stays current on established tools, techniques, and technologies. Supports/leads knowledge management and collaboration through participation in testing discussions, communities and improving testing collateral through lessons learned.</li></ul>
+<p></p>
+<p><b><i>
+Education and Experience Required:
+</i></b></p>
+<ul><li>Typically a technical Bachelor's degree or equivalent experience and a minimum of 6 years related experience or a Master's degree and a minimum of 4 years of experience.</li></ul>
+<p></p>
+<p><b><i>
+Knowledge and Skills:
+</i></b></p>
+<ul>
+<li>4 or more years of experience in delivering multiple testing services to complex projects.</li>
+<li>
+Proficient in testing and development methodologies and their interaction.</li>
+<li>
+General Project Management (developing).</li>
+<li>
+Customer/ Vendor Management.</li>
+<li>
+Excellent verbal and written communication skills; ability to work effectively in a global team.</li>
+<li>
+Proficient in understanding requirements, design specifications, and testing strategy to: perform ambiguity analysis, perform risk analysis, establish testing priorities and scope, develop testing strategy, review testing strategy, validate requirements and specifications, develop test plans, review test plan, develop test scenarios, select test design techniques and develop testing metrics collection plan in order to plan and prepare for testing.</li>
+<li>
+Proficient in testing analysis and design, functional and performance models, and test specifications to: develop functional models for testing, develop performance models for testing, evaluate and validate test cases and scripts, validate functional models for testing, validate performance models for testing, develop test specifications, validate test specifications, validate testing coverage, escalate quality issues for resolution, evaluate test automation tools and validate testing environment in order to develop test specifications.</li>
+<li>
+Exceptional in testing processes and tools to: execute test cases and scripts, analyze test results, report on testing progress and results, facilitate defect resolution and document final test results in order to execute testing engagement.</li>
+<li>
+Exceptional in testing processes and testing metrics to: review test summary report, provide testing project feedback and archive testing assets in order to verify completion of testing.</li>
+</ul>
+</div>
+<p></p>
+</div>

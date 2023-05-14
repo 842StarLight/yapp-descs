@@ -1,0 +1,117 @@
+<h2>Senior Solution Developer (Solution Innovation)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Sr. Solution Developer, Solution Innovation</b><br>
+<b>Location(s): San Francisco, CA; Santa Clara, CA; Denver, CO</b></p>
+<p>
+ServiceNow is changing the way people work. With a service-orientation toward the activities, tasks and processes that make up day-to-day work life, we help the modern enterprise operate faster and be more scalable than ever before.</p>
+<p>
+We’re disruptive. We work hard but try not to take ourselves too seriously. We are highly adaptable and constantly evolving. We are passionate about our product, and we live for our customers. We have high expectations and a career at ServiceNow means challenging yourself to always be better.</p>
+<p>
+ServiceNow is offering an exciting and unique opportunity for an experienced application developer to be a hands-on pre-sales application developer that creates applications that will result in polished prototypes, demos and proofs of concepts of apps and platform solutions that are presented to customers and prospective customers to demonstrate the capabilities of the Now Platform. The Sr. Solution Developer will be part of a larger practice of architects, designers and developers that coordinate development efforts across the globe for the pre-sales organizations.</p>
+<p>
+This role will work hands on with a team of high-energy world-class developers in building and enhancing pre-sales solutions and applications on the ServiceNow platform. This individual will act as a lead developer as well as mentor other developers. This role will be responsible for implementing a set of best practices for designing, architecting, building, testing and maintaining new solutions and prototypes as well as enhancing existing demos and proofs of concepts on the Now Platform.</p>
+<p><b>
+What you get to do in this role:</b></p>
+<ul>
+<li>
+Develop applications &amp; solutions with highly responsive UI for mobile and web-based environments within the ServiceNow platform</li>
+<li>
+Leverage your UI/UX design sense to the applications developed and enhanced.</li>
+<li>
+Provide ad-hoc on-call development help to a global solution consulting organization</li>
+<li>
+Develop applications or solutions for both mobile, and web-based environments within the ServiceNow platform</li>
+<li>
+Build reusable components that can be leveraged by others in the ServiceNow ecosystem</li>
+<li>
+Contribute and maintain a showcase of applications developed on the ServiceNow platform</li>
+<li>
+Interact with the ServiceNow community as a thought leader in application development techniques</li>
+<li>
+Build a variety of application types on the ServiceNow platform from basic apps based on templates through fully custom applications</li>
+<li>
+Interact with User Experience Designers who may build the interfaces to consume the business logic and processes that you develop</li>
+<li>
+Scope out and deliver Proof of Concept engagements with prospects around application development</li>
+<li>
+Build Mobile access into applications that are just as functional and intuitive as desktop access</li>
+<li>
+Solving complex problems in a highly dynamic and agile environment with moderate guidance</li>
+<li>
+Solving complex problems in a highly dynamic and agile environment with moderate guidance</li>
+<li>
+Interact with other UX/UI designers and UI/Back-End developers to grow application concepts from wireframe images to fully realized applications on the ServiceNow platform.</li>
+<li>
+Work with internal customers to understand needs and scope development engagements</li>
+<li>
+Support multiple projects simultaneously while meeting tight deadlines</li>
+<li>
+Learning ascending technologies, and willingness to learn enough to integrate with them</li>
+<li>
+Build reusable components (widgets, directives, etc) that can be leveraged by others in the ServiceNow ecosystem</li>
+<li>
+Promptly resolve issues related to application environments - Security permissions, monitoring performance parameters and cloning/backup requests</li>
+<li>
+Working closely with a Solution Consulting Center of Excellence, Sales Leadership and partnering with other Solution Innovation Developers</li>
+<li>
+Supporting ServiceNow Integrations with third party applications and data sources</li>
+<li>
+Learning ascending technologies, and willingness to learn enough to integrate with them</li>
+<li>
+Documenting implemented technical solutions and application configuration processes/procedures.</li>
+<li>
+Ensure tool configuration consistency across development/production environments</li>
+<li>
+Follow up with users and technical staff to ensure problem resolution and customer satisfaction</li>
+</ul>
+<p><b>
+What you need to be successful in this role:</b></p>
+<ul>
+<li>
+Web application design experience across multiple popular platforms (iOS, Android, Windows, Mac)</li>
+<li>
+Ability to translate prototypes provided via Sketch, Zeplin, or similar into working HTML/CSS web pages utilizing modern web frameworks such as AngularJS and web services for data transport</li>
+<li>
+Experience in UI development on a Web platform</li>
+<li>
+Deep knowledge of Javascript, JSON, HTML5 &amp; CSS3</li>
+<li>
+Experience with CSS frameworks such as Bootstrap and Sass</li>
+<li>
+Experience developing large-scale single-page apps using Angular or React</li>
+<li>
+Experienced with Agile development (scrum)</li>
+<li>
+Experience with Software as a Service (SaaS) platforms preferred</li>
+<li>
+Experience with source control solutions such as Git</li>
+<li>
+Familiarity with development on the ServiceNow platform is a plus</li>
+<li>
+Familiarity with the capabilities available on the Now Platform is a plus</li>
+<li>
+Strong requirements gathering experience working with both business users and end users</li>
+<li>
+Experience working within a multi-disciplinary development team, including UI/UX designers, front-end developers, and back-end ServiceNow developers</li>
+<li>
+Passion for software development and problem-solving Strong written and verbal English communication skills</li>
+<li>
+Experience working within an agile SDLC environment, utilizing scrum-based projects and user stories to define &amp; work development tasks</li>
+<li>
+Ability to execute against multiple work streams in a fast-paced environment to deliver applications that resonate with users</li>
+<li>
+Experience working with JavaScript libraries such as AngularJS, backbone.js, Node.js, jQuery, ES6, micro-services are a plus</li>
+<li>
+Adept at leveraging interfaces such as REST/SOAP in formats such as JSON and XML</li>
+<li>
+Attitude: Be self-motived. Be polite. Be respectful. Be humble. Get work done!</li>
+</ul>
+<p><b>
+What we would love to see from you before or during an interview:</b></p>
+<p>
+An inspiring portfolio of web-based and mobile digital experiences created by you Demonstration of any accessible projects you have built</p>
+<p><b>
+Travel Requirements</b>: 25%</p>
+<p>
+We provide competitive compensation, generous benefits and a professional atmosphere. This is a collaborative and inclusive work environment where individuals strong on aptitude and attitude will have an opportunity to grow their professional careers through working with some of the most advanced technology and talented developers in the business.</p>
+</div></div>

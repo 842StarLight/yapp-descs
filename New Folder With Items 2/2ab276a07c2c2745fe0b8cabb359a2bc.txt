@@ -1,0 +1,61 @@
+<h2>Workspace One/ InTune Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Sterling Computers is looking for someone willing to travel the East or West Coast region.<br>
+<br>
+ROLE/TITLE</p>
+<p>Windows Deployment Technical Consultant</p>
+<p>OVERVIEW</p>
+<p>We’re looking primarily for End User Computing experience with Windows 10 imaging and automation, SCCM, user data and application migrations, managing Windows-as-a-Service, and InTune or WorkSpace One “Modern” management with knowledge of modern provisioning methodologies.</p>
+<br>
+<p></p>
+<p>JOB DESCRIPTION</p>
+<ul><li>Customer facing delivery Consultant responsible for successfully assessing, designing, validating, documenting, &amp; implementing complex Windows Image solutions while ensuring exceptional Customer Satisfaction
+</li></ul>
+<ul><li>Leverage exceptional professional consultative skills in leading &amp; facilitating customer workshops to define problems, identify risks, &amp; determine appropriate solution/approach
+</li></ul>
+<ul><li>Works closely with Account Teams, PMO, Customer, &amp; Key Stakeholders
+</li></ul>
+<ul><li>Able to execute projects based on a defined Statement of Work (SOW)
+</li></ul>
+<ul><li>Bring clarity to ambiguous engagements where outcomes need to be defined
+</li></ul>
+<ul><li>Work with Customers to troubleshoot and resolve deployment &amp; integration challenges
+</li></ul>
+<ul><li>Provide pre-sales scoping assistance as needed in area of expertise</li></ul>
+<ul><li>Develop &amp; present customer facing documentations associated with design, configurations, run books, and project status</li></ul>
+<br>
+<p></p>
+<p>DESIRED SKILLS</p>
+<ul><li>Subject Matter Expert in designing &amp; implementing large scale Windows Deployments</li></ul>
+<ul><li>Willingness and ability to travel +75% to customer locations in Western/Eastern US and Canada to perform work</li></ul>
+<ul><li>Self-motivated, takes initiative, ability to work independently &amp; remotely, within a team, or as a leader of a small team
+</li></ul>
+<ul><li>Exceptional verbal, written, and consultative skills</li></ul>
+<ul><li>5+ years hands-on experience designing &amp; deploying Microsoft Windows Images through MDT, SCCM OSD, etc</li></ul>
+<ul><li>Knowledge and proficiency in most of the following technologies:</li></ul>
+<ul><li>Expertise with MDT &amp; SCCM OS deployment with Legacy &amp; UEFI BIOS, including BIOS to UEFI conversion during deployment.</li></ul>
+<ul><li>Expertise with Windows 7-10 Image Build &amp; Deployment, with focus on managing Windows 10 specific Enterprise features and customizations during deployments</li></ul>
+<ul><li>Expertise with configuration and usage of USMT.</li></ul>
+<ul><li>Expertise with explaining Windows Servicing processes, including implementation via GPO, WSUS, SCCM, Task Sequence, and optionally MDM
+</li></ul>
+<ul><li>Experience configuring and working with Upgrade Readiness (Upgrade Analytics)</li></ul>
+<ul><li>Expertise designing and deploying BitLocker policies &amp; MBAM</li></ul>
+<ul><li>Expertise in scripting (VBScript, Powershell, AutoIT)</li></ul>
+<ul><li>MDM Knowledge – Azure Active Directory &amp; InTune / AirWatch</li></ul>
+<ul><li>Application Deployment (wrappers, task sequences etc)</li></ul>
+<ul><li>Knowledge and proficiency in configuring the following networking and security technologies:</li></ul>
+<ul><li>LAN/WAN implications to image build</li></ul>
+<ul><li>Active Directory domain join on premise and through VPN</li></ul>
+<ul><li>Firewall &amp; Security technologies</li></ul>
+<ul><li>GPOs</li></ul>
+<br>
+<p></p>
+<p>JOB DURATION AND APPROXIMATE START DATE</p>
+<p>3-6 months; extensions highly likely, start date ASAP</p>
+<br>
+<p></p>
+<p>JOB LOCATION</p>
+<p>Remote; Eastern/Western US and Canada</p>
+<p>TRAVEL</p>
+<p>75-100%%</p>
+</div></div>

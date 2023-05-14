@@ -1,0 +1,116 @@
+<h2>DevOps Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Join Our Team
+</b></h2>
+<p></p>
+<p>Our Company headquarters is located in Duluth, GA.
+</p>
+<p></p>
+<p>The 367,000-square-foot building houses 1,700 employees who provide first-class support to our sales force as they build their business and serve clients.
+</p>
+<p></p>
+<p>For six years in a row, Primerica has been recognized by the Atlanta Journal-Constitution as one of the best workplaces in Georgia! Over the past five years, Primerica has consistently been voted “Best Employer” by Gwinnett Magazine.
+</p>
+<p></p>
+<h2 class="jobSectionHeader"><b>About this Position
+</b></h2>
+<p></p>The DevOps Manager will manage the DevOps team that develops and maintains the build pipelines and continuous integration tools; as well as being responsible for the cloud infrastructure for databases, services and applications.
+<p></p>
+<h2 class="jobSectionHeader"><b>Responsibilities &amp; Qualifications
+</b></h2>
+<p></p>
+<ul>
+<li>Develop, implement, and manage the software development lifecycle build, deployment, and release processes in order to achieve Continuous Integration / Continuous Deployment (CI/CD) objectives
+</li>
+<li>Ensure compliance to Company policies, processes, procedures and security requirements within the development life cycle; as well as enforcement within the pipeline as necessary
+</li>
+<li>Develop, implement, and manage the automation of testing, security scanning, and approval workflow activities
+</li>
+<li>Lead, grow, and maintain a team of DevOps Engineers
+</li>
+<li>Keep a customer focused mindset, prioritizing developer productivity and application uptime
+</li>
+<li>Champion DevOps processes and procedures across the organization.
+</li>
+<li>Prioritize build tools and automation to accelerate software development and increase code quality.
+</li>
+<li>Provide high-level system monitoring with an understanding of reliability, availability, and failure management/mitigation needs.
+</li>
+<li>Ensures required logging and proactive availability and performance monitoring solutions are in place.
+</li>
+<li>Selects, develops, implements, supports, and manages all aspects of the DevOps practice.
+</li>
+<li>Participates in strategic and tactical planning for Business initiatives and projects that have DevOps involvement and create roadmap with milestones. • Demonstrate ownership of problems, issues, or requests from start to finish and track through resolution
+</li>
+<li>Participates in the budgeting process to make recommendations for future acquisitions related to DevOps
+</li>
+<li>Communicate, present, and champion ideas concerning areas such as the build process, tools, and cloud service providers in a productive and diplomatic fashion
+</li>
+<li>Develops and maintains continuation of business (COB), Disaster Recovery and failover plans.
+</li>
+</ul>
+<p></p>
+<p><b>ESSENTIAL SKILLS &amp; EXPERIENCE
+</b></p>
+<ul>
+<li>5+ years DevOps or highly related experience, including 3+ years managing teams and projects
+</li>
+<li>Understanding of source control, branching and merge strategies and experience with source control tools such as SVN, GitHub , Artifactory Pro, Nexus etc
+</li>
+<li>Working knowledge of virtualization technologies, such as VMware and Containers / Kubernetes.
+</li>
+<li>Working knowledge of Configuration Management tools such as Ansible, Terraforms.
+</li>
+<li>Working knowledge of Build and Integration systems, such as Jenkins, VSTS, Maven, Ant.
+</li>
+<li>Familiarity with Deployment and Release management tools
+</li>
+<li>Excellent interpersonal skills, with the ability to work well with subordinates, peers and management.
+</li>
+<li>Ability to work under pressure and adapt quickly to shifting priorities
+</li>
+<li>Possesses excellent verbal and written communication skills
+</li>
+<li>Sets team goals then develops plans, assigns responsibility, and sets timelines to achieve those goals.
+</li>
+<li>Provides regular status reports to management concerning team activities.
+</li>
+<li>Work collaboratively with peers, management, executives and members of other business units
+</li>
+</ul>
+<p></p>
+<p><b>PREFERRED QUALIFICATIONS
+</b></p>
+<ul>
+<li>A Bachelor’s degree or equivalent experience
+</li>
+<li>A degree major in an Information Technology discipline is preferred.
+</li>
+<li>Minimum of 5 years work experience in Information Technology
+</li>
+<li>Azure experience strongly preferred
+</li>
+<li>Participation in major system projects with proficiency in at least one development discipline/platform
+</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>Our Benefits:
+</b></h2>
+<ul>
+<li><p>Day one health, dental, and vision insurance
+</p></li>
+<li><p>401k plan with 4% basic employer contribution and 100% employer match contribution up to 6%
+</p></li>
+<li><p>Vacation, sick, holiday and volunteer time off
+</p></li>
+<li><p>Life and disability insurance
+</p></li>
+<li><p>Flexible Savings Account &amp; Health Savings Account
+</p></li>
+<li><p>Professional development
+</p></li>
+<li><p>Tuition reimbursement
+</p></li>
+<li><p>Company-sponsored social and philanthropy events</p></li>
+</ul>
+</div></div>

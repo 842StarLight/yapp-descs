@@ -1,0 +1,40 @@
+<h2>Implementation Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>WHY YOU SHOULD JOIN US:</b><br>
+Interana is changing the data analytics industry through our platform that allows infinite, sophisticated and layered questions to be asked of all of the customer data. We bring an easy-to-use platform to the entire organization, instead of requiring trained data analysts to produce a limited set of static reports to make data-driven decisions. Our unique approach was originated by Facebook engineers who found that the best commercial tools were not powerful enough to support real-time exploration of billions of daily user actions and interactions. With Interana, the entire organization can stop guessing and start knowing how and why customers are acting, interacting and transacting with their products and services, in real time and throughout all time.
+<br><br>
+As an Implementation Engineer at Interana, you'll be part of the Customer Success team, playing a key role in the deployment of the Interana application with customers and help them get the most business value through project-based work. You will work directly with customers, our support team, and account managers to
+<br><br>
+<b>RESPONSIBILITIES:</b><br>
+<ul>
+<li>Interface with our Sales and Customer Success organizations to plan and implement an Interana installation according to the sales contract and Solution Design documents</li>
+<li>Work with a customer's data engineering team to create data ingestion pipelines into Interana</li>
+<li>Create queries and dashboards with customers who are using Interana features for the first time</li>
+<li>Provide ad-hoc and prepared training and coaching for customers who need hands-on help</li>
+<li>Analyze and troubleshoot problems with customer data or clusters, in conjunction with Support</li>
+<li>Advocate customer needs and feedback internally to inform product vision and roadmap.</li>
+</ul>
+<b>REQUIREMENTS:</b><br>
+<ul>
+<li>5+ years as a Solution Engineer (preferred), Implementation Consultant, or Support Engineer or Software Developer with experience leading projects and/or working with customer</li>
+<li>Hands-on, high-energy, passionate and creative problem solver with know how to get things done and ability to lead others to success.</li>
+<li>Passion for working with customers and delivering solutions</li>
+<li>Technical aptitude to understand, learn, and perform hands-on analytical and technical tasks with all layers of the Interana product</li>
+<li>Excellent communication skills, written and presentation</li>
+<li>Basic experience with databases, SQL, and Linux command-line interface</li>
+<li>Practical Programming experience with Python, JavaScript, or other programming / scripting languages</li>
+<li>Ability to prioritize and problem-solve in a fast-paced environment and collaborate cross-functionally to deliver the maximum value to customers</li>
+<li>Excellent time management and organizational skills</li>
+<li>Bachelor's degree or equivalent experience</li>
+<li>Availability to travel up to 25% within the US</li>
+</ul>
+PREFERRED QUALIFICATIONS
+<br><br>
+<ul>
+<li>Experience with data analytics to provide business insights</li>
+<li>Experience collaborating with project managers internally and externally</li>
+<li>Knowledge of cloud architecture and deployments</li>
+<li>Consulting experience in the software industry</li>
+<li>Experience with Project Management and planning</li>
+</ul>
+</div>

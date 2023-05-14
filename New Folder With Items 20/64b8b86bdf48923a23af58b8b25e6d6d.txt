@@ -1,0 +1,119 @@
+<h2>Software Engineer III</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Neustar, Inc. is a leading global information services provider driving the connected world forward with trusted, holistic identity resolution. More information is available at https://www.home.neustar .
+</p>
+<p></p>
+<p><b>Job Requisition:
+</b></p>R-2358 Software Engineer III (Frozen)
+<p></p>
+<p><b>Primary Location:
+</b></p>STERLING - RT3
+<p></p>
+<p><b>Job Description:
+</b></p>
+<p><b>Who are we:
+</b></p>
+<p>Neustar, Inc. is a leading service provider for real-time cloud based information and analytics for the Internet, telecommunications, entertainment, and marketing industries, and a provider of clearinghouse and directory services to the global communications and Internet industries.
+</p>
+<p>Order Management System (OMS), Our integrated, automated telecom order management solutions streamline the complexity of the on-boarding process, from ordering services to delivering directory options. With a single connection and universal interface to all the gateway services you need — from a single, deeply experienced provider — you gain efficiencies that optimize performance. And cut costs. And improve customer experiences.<br>
+</p>
+<p><br>
+<b>Who are we looking for:
+</b></p>
+<p>A technology enthusiast who would jump at the chance to develop a new generation software with next generation features for our Order Management platform. You excel at working in a fast-paced environment with like-minded software professionals in an agile product organization. You're comfortable being part of a small, highly visible, tight-knit team and can collaborate closely with product managers, architects and offshore resources to accomplish your goals. You own your part of the product line, prioritization and the operational excellence of our Order Management Software platform.
+</p>
+<p>You are a Software engineer who is the key resource to the Neustar OMS Engineering Product development for developing latest, cutting –edge technology software that scales well, extensible, bug free implementations. He should also possess good automation skills that requires right from building code to deploy it to the Cloud. Neustar wants this resource to be independently develop/design new components with minimal assistance from others.<br>
+</p>
+<p><br>
+<b>Core Responsibilities:
+</b></p>
+<ul>
+<li>Actively participate in the Agile software development phases of various initiatives across OMS platform.
+</li>
+<li>Resolve scalability and performance issues in all areas of Software functions.
+</li>
+<li>Ensure proper technical design and quality standards are upheld by onsite and offshore engineering team
+</li>
+<li>Contribute to our technology roadmap.
+</li>
+<li>Optimize potential of agile development processes.
+</li>
+<li>Collaborate efficiently with the onshore and offshore development team &amp; make sure you have the proper communications to get the deliverables done.
+</li>
+<li>Interact with Product Development, Sales and Technology teams to ensure proper requirements are received before proposing a solution to the stake holders.
+</li>
+<li>Working with Product to ensure the best possible Ui/Ux design
+</li>
+<li>Develop and implement the final Ui/Ux designs on our Products, and integrate with our back-end via API’s
+</li>
+<li>Build highly interactive UIs that look and feel great
+</li>
+</ul>
+<p><b>Technology Stack </b><b>:
+</b></p>
+<ul>
+<li>Java/J2EE Technologies with Spring Boot, Spring IOC &amp; MVC, Spring Data JPA, Spring JDBC, Hibernate, AngularJS, Angular, SOAP, REST, XML(Advanced), XSLT(Advanced),JSON, JMS (Advanced).
+</li>
+<li>Web-Services &amp; Web services security using SOAP, WSSI
+</li>
+<li>Good hands on in developing, designing RDBMS solutions.
+</li>
+<li>Mongo NoSQL proficiency—Write the efficient code to insert the Collections to be able to search, insert, update quickly.
+</li>
+<li>Experience in working on creational design patterns like Singleton, Factory and Builder.
+</li>
+<li>Experience in developing front end applications using AngularJS and Angular.
+</li>
+<li>Expert knowledge and experience of Angular 2 through 5
+</li>
+<li>Experience in application configuration and build using Maven.
+</li>
+<li>Experience in test driven development using Junit, Mockito and Cobertura.
+</li>
+<li>Jenkins, Pipeline deployment using Groovy scripts. Deployment automation experience in CI/CD..(Chef, Puppet, Ansible)
+</li>
+<li>Well documented code, Unit test driven framework implementations.
+</li>
+<li>Good understanding of the software development agile practices.
+</li>
+<li>Asynchronous message communication/integration technologies (ActiveMQ), JMS,MQTT, AMQP
+</li>
+<li>Good understanding of EIP design patterns &amp; principles. Apache Camel(Hands on experience)
+</li>
+</ul>
+<p><b>Nice to have </b><b>:
+</b></p>
+<ul>
+<li>Knowledge on the Telecom industry &amp; Number porting.
+</li>
+<li>Telecom Order Management System knowledge experience is a plus
+</li>
+<li>Good GUI design experience. Angular 2.0 and up, JSP,
+</li>
+<li>Good understanding of Jasmine, Protractor QA GUI automation framework.
+</li>
+<li>Any Certifications in the relevant technologies.
+</li>
+<li>Dockerization and Containerization concepts.
+</li>
+<li>Knowledge and implementation skill in developing micro services using spring boot and deployed on OpenShift cloud.
+</li>
+</ul>
+<p></p>
+<p><b>Education Required </b><b>: </b><b>Bachelor of Science
+</b></p>
+<p><b>Experience Required : 7-8 Years
+</b></p>
+<p></p>
+<p><b><i>Neustar does not accept unsolicited resumes from external firms or agencies. Neustar will not be responsible for placement fees associated with unsolicited resumes.
+</i></b></p>
+<p></p>
+<p><b>DIVERSITY
+</b><br>
+Diversity, inclusion and teamwork are second nature to Neustar; and these values permeate our entire business structure. Neustar is committed to creating an environment where a wide spectrum of opinions and beliefs are actively sought, listened to and respected. Further, our talented workforce draws from the many geographic areas and markets in which Neustar operates worldwide, which represents a distinct competitive advantage. The rich and varied personal and professional backgrounds of our employees make Neustar a dynamic and rewarding company at which to build a career. We invite you to join us.
+<br>
+<br>
+<b>EOE of </b><b>Minorities/Females/Vets/Disability
+</b><br>
+Neustar, Inc. considers all applicants for employment without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, or status as a Vietnam-era or special disabled veteran in accordance with federal law and other state and local requirements. Neustar, Inc., complies with applicable state and local laws prohibiting discrimination in employment and provides reasonable accommodation to qualified individuals with disabilities in accordance with the American with Disabilities Act (ADA) and applicable state and local laws.</p>
+</div></div>

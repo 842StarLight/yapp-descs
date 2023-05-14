@@ -1,0 +1,14 @@
+<h2>Sales Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Looking for customer service oriented individual. Responsibilities include coordinating all sales leads, setting schedules for all lead generators, handling any customer complaints relating to sales, supporting sales consultants, collecting all necessary paperwork for sold jobs to be handed off to install coordinator, tracking of all leads and sales. Handling of marketing and advertising, including social media and reviews.</p>
+<p>Job Type: Full-time</p>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Benefits offered:</p>
+<ul>
+<li>Paid time off</li>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Retirement benefits or accounts</li>
+</ul>
+</div>

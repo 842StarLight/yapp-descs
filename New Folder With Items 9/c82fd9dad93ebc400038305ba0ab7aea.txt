@@ -1,0 +1,111 @@
+<h2>Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Company Information
+</div>
+<div><p>PACCAR is a Fortune 200 company established in 1905. PACCAR is a global industry leader in the design and manufacture of premium quality commercial vehicles and engines. PACCAR commercial vehicles are sold worldwide under the Kenworth, Peterbilt, and DAF nameplates. PACCAR distributes aftermarket truck parts to its dealers through a worldwide network of Parts Distribution Centers. Finance and leasing subsidiaries facilitate the sale of PACCAR products in many countries worldwide. PACCAR manufactures and markets industrial winches under the Braden, Carco and Gearmatic nameplates. PACCAR maintains exceptionally high standards of quality for all of its products; they are well engineered, highly customized for specific applications and sell in the premium segments of their markets where they have a reputation for superior performance and pride of ownership.</p></div>
+</div>
+<div>
+<div>
+Division Information
+</div>
+<div><p>Dynacraft, a PACCAR Company, is headquartered in McKinney, TX. a suburb of Dallas. Dynacraft is a diversified global manufacturer of PACCAR medium- and heavy-duty truck parts sold under Kenworth, Peterbilt, and DAF nameplates. For fifty years Dynacraft has provided the company’s truck divisions and PACCAR Parts division with high quality components, subassemblies, and specialized services. Dynacraft has production facilities in Algona, WA, Louisville, KY, and McKinney, TX.</p></div>
+</div>
+<div>
+<div>
+Requisition Summary
+</div>
+<div><p>Dynacraft is seeking a developer that will thrive in a fast paced manufacturing environment. This position is responsible for the maintenance and development of applications using Web and Client/Server technology. It is highly desirable to have SQL Database knowledge. This position reports to the Division IT Manager.</p></div>
+</div>
+<div>
+<div>
+Job Functions / Responsibilities
+</div>
+<div><ul>
+<li>Plan, Design, Develop and support a broad spectrum of client-server and web based applications for business and manufacturing using C#, ASP.Net and SQL Server.
+</li>
+<li>Demonstrate the ability to research, analyze, troubleshoot, and solve software problems.</li>
+<li>
+Willingness to support existing system implementations.</li>
+<li>
+Ability to work on small and strategic projects among other support and development assignments.</li>
+<li>
+Highly self-directed with aggressive learning goals.</li>
+<li>
+Support business partners using 24x7 applications which require on-call responsibilities as needed.</li>
+<li>
+Work with management and users to define, develop, and implement innovative business solutions.
+</li>
+<li>Follow Agile methodologies like SCRUM
+</li>
+<li>Demonstrated Software design and Technical Architecture Experience
+</li>
+<li>Work with distributed users and resources in developing common solutions.
+</li>
+</ul></div>
+</div>
+<div>
+<div>Skills / Competencies
+</div>
+<div><ul>
+<li>Five years of experience developing applications using C#, VisualStudio.net, ASP.Net, SQL Server, XML.</li>
+<li>
+Two years of experience developing application using HTML5, CSS, JavaScript and jQuery
+</li>
+<li>Database Skills: SQL, SSIS, SSRS, SSMS, Data Engineering practices.
+</li>
+<li>Windows Forms, Web Forms, WPF, WCF &amp; ASMX Services, MVC, hosting using IIS Server.</li>
+<li>
+Understanding of Azure DevOps (aka Team Foundation Server).</li>
+<li>
+Ability to work with users to troubleshoot reported issues.</li>
+<li>
+Excellent analytical, interpersonal, and communication skills.</li>
+<li>
+Ability to work effectively in a team environment.
+</li>
+<li>Excellent problem-solving skills and highly self-motivated and flexible.</li>
+<li>
+Excellent written and verbal communication skills.</li>
+<li>
+Ability to work weekends and evenings to support on-call responsibilities as needed.
+</li>
+<li>Experience with Agile software development practices.</li>
+<li>
+Experience working with and creating Automated Unit Testing.
+</li>
+</ul></div>
+</div>
+<div>
+<div>Desired
+</div>
+<div><ul>
+<li>Experience working in a manufacturing environment is desired</li>
+<li>
+Experience or knowledge of any of the following technologies and platforms:<ul>
+<li>
+Cloud Services</li>
+<li>
+SCADA systems</li>
+<li>
+Data visualization tools</li>
+<li>
+Angular or other similar frameworks, JSON</li>
+</ul>
+</li>
+</ul></div>
+</div>
+<div>
+<div>
+Education
+</div>
+<div><p>Bachelor's degree in Information Systems is required, Computer Science or related field strongly desired.</p></div>
+</div>
+<div>
+<div>
+Additional Job Board Information
+</div>
+<div><p><br>
+PACCAR is an Equal Opportunity Employer/Protected Veteran/Disability.</p></div>
+</div>
+</div></div>

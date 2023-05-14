@@ -1,0 +1,59 @@
+<h2>Business Intelligence Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>Logistics done differently.
+</b></div>
+<div>Are you uniquely skilled at creating more efficient systems and work processes? If so, consider joining XPO Logistics as a Business Intelligence Manager. You’ll be responsible for delivering analytics and metrics via business intelligence (BI) tools and making strategic recommendations for how systems and people can work more efficiently. You’ll also drive industry-changing applications for a company dedicated to reinventing the logistics industry. Join XPO and take your career to the next level.</div>
+<br>
+<div></div>
+<div><b>Pay, benefits and more.
+</b></div>
+<div>We are eager to attract the best, so we offer competitive compensation and a generous benefits package, including full health insurance (medical, dental and vision), 401(k), life insurance, disability and the opportunity to participate in a company incentive plan.</div>
+<br>
+<div></div>
+<div><b>What you’ll do on a typical day:
+</b></div>
+<ul>
+<li>Manage and drive a team of data engineers to implement data and analytics solutions to support the sales and solutions team</li>
+<li>Lead data and analytics solutions design to support current and prospective clients by defining business problems, identifying solutions and providing analyses and insights from the client’s data</li>
+<li>Lead onsite team and work with offshore team on project assignments, coordination, tracking and delivery</li>
+<li>Lead projects supporting business stakeholders (team leads, cross-functional teams) where required</li>
+<li>Conduct scheduled progress reviews on all projects</li>
+<li>Implement ETL jobs using Pentaho Data Integration (Pentaho ETL)</li>
+<li>Design and implement data models in Hadoop, and visualizations in Tableau</li>
+<li>Ensure BI solutions are highly automated as required</li>
+<li>Provide end-user training and technical assistance to maximize utilization of BI solutions</li>
+<li>Support and mentor team in functional and technical solutions, including hands-on development</li>
+<li>Oversee standards, change controls and documentation library for training and reuse</li>
+</ul>
+<div><b>What you need to succeed at XPO:
+</b></div>
+<div>At a minimum, you’ll need:</div>
+<ul>
+<li>Bachelor’s degree in Computer Science or Engineering, or a related field</li>
+<li>10 years of experience managing IT resources and building BI tools</li>
+<li>7 years of experience with developing technical BI data solutions, and using BI tools, including SSAS, SSRS, SSIS and Tableau</li>
+<li>Experience implementing enterprise-level data warehouses; experience with data engineering and ETL</li>
+<li>Strong understanding of relational data modeling</li>
+<li>Experience designing and implementing BI solutions</li>
+<li>Solid expertise with SQL, data warehouse design, data modeling and performance optimization</li>
+</ul>
+<div>It’d be great if you also have:</div>
+<ul>
+<li>Availability to travel up to 10% of the time</li>
+<li>Supply chain, logistics and transportation experience</li>
+<li>Proficiency in Hadoop/Hive</li>
+<li>Experience with Pentaho ETL, Pentaho Visualization and Tableau</li>
+<li>Strong project and time management skills with ability to multitask and prioritize workload</li>
+<li>Willingness to work in a startup atmosphere with a wide range of responsibilities, and manage constantly evolving deadlines, requirements and challenges</li>
+</ul>
+<div><b>Be part of something big.</b></div>
+<br>
+<p></p>
+<p>XPO is a leading provider of cutting-edge supply chain solutions to the most successful companies in the world. We help our customers manage their goods most efficiently using our technology and services. Our greatest strength is our global team – energetic, innovative people of all experience levels and talents who make XPO a great place to work.</p>
+<br>
+<p></p>
+<p>We are proud to be an Equal Opportunity/Affirmative Action employer. Qualified applicants will receive consideration for employment without regard to race, sex, disability, veteran or other protected status.</p>
+<br>
+<p></p>
+<p>The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified. All employees may be required to perform duties outside of their normal responsibilities from time to time, as needed.</p>
+</div></div>

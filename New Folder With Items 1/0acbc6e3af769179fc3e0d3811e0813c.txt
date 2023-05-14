@@ -1,0 +1,58 @@
+<h2>Solutions Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Are you ready to join the company that's disrupting the IT Security industry with biometrics?</p>
+<p>
+ImageWare (iwsinc.com) provides a fun, challenging, fast-paced team environment and stands out as a leader in cutting-edge, identity management solutions driven by biometric technology. We provide end-to-end digital identity proofing, authentication and management solutions as a cloud SaaS and on premises. Our Digital Identity Platform provides customers and partners with access to its patented technology for ultra-scalable and anonymous biometrics using nearly any vendors’ biometrics. We solve the problem that is responsible for over 80% of corporate data breaches by replacing or strengthening passwords with your choice of biometrics and other multi-factor authentication methods providing the highest level of user assurance, security and user convenience.</p>
+<p>
+If you answered a resounding YES to the above, then we want you to take the next step and apply for our SOLUTIONS ENGINEER opportunity!</p>
+<p>
+As a Solutions Engineer you are responsible for supporting the technical aspects of the customer sales journey through the entire pre- and post-sales processes. You will provide technical support to the sales lead during sales presentations, product demonstrations, trade show support, and act as the main customer technical point of contact through any demonstrations, proofs of concept, pilots, deployment implementation, and transitions to production with limited supervision. You will be responsible for understanding the technical aspects of our products and interfaces including the software development kits. You will also be responsible for understanding the customer design-in process and anticipated customer issues during transition to deployment and production. As the Solutions Engineer at ImageWare you will answer technical questions concerning the company’s software products and solutions. You will also contribute heavily to customer consultation and training for development, provisioning and application usage, and you will create sample integrations with third party products.</p>
+<p>
+Key Responsibilities Include:</p>
+<ul>
+<li>Provides pre-sales technical support by understanding the technical capabilities and design-in considerations of the Company products.</li>
+<li>Develops and delivers technical and sales-oriented presentations and product demonstrations to customer's technical staff and senior management.</li>
+<li>Interacts with customers (managers and technical staff) to clarify and document custom delivery requirements and project plans to implement or deploy technical solutions, and hand-off results to service delivery personnel.</li>
+<li>Provides feedback to product management and engineering on Company products and competitive information received from our customers.</li>
+<li>Document accurate integration reference design approaches based on any customer’s unique usage of Company APIs and SDK capabilities.</li>
+<li>Compares and contrasts technology choices that customers face, promoting the company products and services, while neutralizing competitor’s positions.</li>
+<li>Attends conferences and trade shows as directed by supervisor.</li>
+<li>Supports sales staff to identify, qualify and support new sales leads as necessary.</li>
+<li>Supports sales people to develop leads into prospects and prospects into customers.</li>
+<li>Contributes to the definition of the PoC success criteria, supports the customer during PoC execution, and ensures criteria is met to achieve customer acceptance.</li>
+<li>Plans the deployment and performs installation and configuration of Company’s products into customer’s on-premise and Cloud environments.</li>
+<li>Performs software installation validation within customer environments.</li>
+<li>Works with customers to define and execute User Acceptance Testing.</li>
+<li>Works with Technical Support to transition customer to production support.</li>
+<li>Conducts post deployment customer interviews for overall customer satisfaction assessment.</li>
+<li>Maintains industry and product knowledge by attending relevant seminars, reading relevant articles, etc.</li>
+<li>Travel expectations are up to 50% of this position; including international travel that requires a valid passport.</li>
+<li>Performs other job-related duties and responsibilities as may be defined or assigned from time to time.</li>
+</ul>
+<p>Minimum Experience and Education:</p>
+<ul>
+<li>A technical degree from a two to four-year college or university program or equivalent experience</li>
+<li>MCSE and CompTIA Security+ certified (preferred); AWS CSA or similar certifications (helpful)</li>
+<li>Minimum five years applicable experience within the technology or software industry</li>
+<li>Minimum three years applicable experience being part of a sales team that is successful in selling into both government and commercial sectors</li>
+<li>At least two years exposure to and involvement with cloud-based Software as a Service offerings</li>
+<li>At least two years exposure to and involvement with cyber security products and services</li>
+</ul>
+<p>Skills, Knowledge and Ability:</p>
+<ul>
+<li>Knowledge of sales principles and practices</li>
+<li>Familiarity and comfort with consultancy sales styles and techniques</li>
+<li>Able to communicate effectively both verbally and in writing with customers, suppliers, and other company personnel. Bilingual ability in English/Spanish a plus</li>
+<li>Capacity to understand, interpret and explain complex technical systems</li>
+<li>Ability to demonstrate products in a knowledgeable professional manner</li>
+<li>Demonstrated experience in the presentation and sale of software including experience with Android and iOS operating systems</li>
+<li>Proven ability to establish a professional and effective rapport with the customer</li>
+<li>Ability to work independently and within a team environment</li>
+<li>Experience with Identity Management, biometrics, and/or mobile a plus</li>
+</ul>
+<p>We offer a comprehensive benefits package that includes medical, dental, vision, flexible spending accounts and 401K in addition to LTD, and LIFE/AD&amp;D insurance. Employees enjoy ten paid holidays per year, in addition to a very generous paid-time-off policy.</p>
+<p>
+ImageWare Systems, Inc. is proud to be an Equal Opportunity Employer</p>
+<p>
+Please no 3rd parties</p>
+</div></div>

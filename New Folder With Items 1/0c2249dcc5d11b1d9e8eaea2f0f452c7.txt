@@ -1,0 +1,32 @@
+<h2>Senior Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Hello! We are the <b>Institute for Integrative Nutrition (IIN) </b>and we pioneered the Health Coaching profession! What started as a small classroom of passionate students in a live setting in 1992, is now world-renowned for its online Health Coach Training Program and other leading-edge programs on the most current and important topics in health and wellness. With over 100,000 students and graduates in over 150 countries worldwide, we are the undisputed leader in the field of Health Coaching education. Health coaches mentor and guide clients towards nutritional and lifestyle changes to help them reach their personal health goals. We are headquartered in New York City and offer students access to a rich diversity of leading instructors committed to improving global wellness through education and prevention. Our mission is to play a crucial role in improving health and happiness, and through that process, create a ripple effect that transforms the world!</p>
+<p><b>
+Why work for us?</b></p>
+<p>
+You are someone who wants to be part of a mission-driven company and you want to make the world a healthier and happier place! You want the culture of a start-up paired with the resources, stability and foundation of an established company with over 25 years at the top of its field. You want to work for a company that walks the walk, with great perks and an amazing team of awesome, collaborative, and passionate colleagues!</p>
+<p><b>
+Position Summary:</b></p>
+<p>
+The <b>Senior Salesforce Developer</b> will join an agile team of software professionals. As a member of our Salesforce development team, the Senior Salesforce Developer will help craft and optimize the enterprise sales operations process.</p>
+<p><b>
+As a Senior Salesforce Developer, you will:</b></p>
+<ul>
+<li>Implement IIN’s Salesforce solution projects that involve the Sales Cloud (CRM), Salesforce Communities, Custom Cloud, Service Cloud (Call Centers), and/or integrations to ensure scope and expectations are met</li>
+<li>Deliver results working with 3rd party delivery partners, IIN developers, and AppExchange vendors</li>
+<li>Advise on a variety of broad questions and concerns from customer management regarding project requirements, documents needs, technical standards, and conditions</li>
+</ul>
+<p><b>Knowledge, Skills and Abilities:</b></p>
+<ul>
+<li>5 to 6+ years of Salesforce development experience with evidence of exceptional ability</li>
+<li>Strong knowledge of Salesforce.com functionalities and modules</li>
+<li>Salesforce.com administration and operational support experience</li>
+<li>Salesforce configuration, Visual Force pages, triggers, workflows, and Apex coding experience</li>
+<li>Experience with the Force.com developer toolkit - Apex, Visualforce, Force.com IDE, Force.com Migration Tool, Web Services/SOA, and Metadata APIs</li>
+<li>Experience with Salesforce Lightning technology, including developing components, composing application, lightning out, and lightning in communities</li>
+<li>Bachelor’s Degree in Computer Science or related field (or equivalent)</li>
+<li>Experience with JavaScript and JQuery technologies preferred</li>
+<li>Knowledge of Mulesoft preferred</li>
+</ul>
+<p><i>Integrative Nutrition is proud to be an Equal Opportunity Employer, providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics or veteran status.</i></p>
+</div></div>

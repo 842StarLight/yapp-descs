@@ -1,0 +1,74 @@
+<h2>SALESFORCE DEVELOPER</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>THE COMPANY</b>
+</p>
+<p>Founded in 2012 and headquartered in Houston, Texas, Sunnova is the leading privately held U.S. residential solar + battery storage service provider. Sunnova’s goal is to provide the choice of low-cost, worry-free solar energy and battery storage technology that generates long-term value and savings for customers and facilitates continued business growth for its network of trusted partners. Our mission is to power energy independence for our nearly 60,000 customers across the US and its territories.<br>
+</p>
+<p></p>
+<p><b>THE POSITION</b>
+</p>
+<p>Sunnova is looking for a Full-time Salesforce Developer to join its dynamic team in Houston, TX. The position requires designing and developing solutions for the enterprise on the Salesforce platform. Candidates must have a proven track record for delivering quality and scalable solutions. This requires the ability to develop and support applications using Sales Cloud, Service Cloud, Apex, Visual Force, Force.com platform, HTML, CSS, Javascript and JQuery. The Salesforce Developer develops, configures, codes, tests, and debugs complex software, enhancements to existing application or purchased Appexchange Applications. The Salesforce Developer will also troubleshoot and support implemented salesforce application.<br>
+</p>
+<p></p>
+<p><b>JOB RESPONSIBILITIES</b>
+</p>
+<ul>
+<li>Maintain all-round view of solution, understanding both business and technical challenges.
+</li>
+<li>Partner with the peer developers, Scrum Masters and Architects to design develop and debug end-to-end solutions.
+</li>
+<li>Participate in daily scrums, work with Scrum Master, QA Team on projects/issues, timelines &amp; priorities.
+</li>
+<li>Develop high quality, reusable and maintainable code using Apex, Visual Force, SOQL, Apex Triggers and integrating force.com systems with third party systems for enterprise using SOAP, RESTFUL Services.
+</li>
+<li>Apply sound Salesforce and automation best practices.
+</li>
+<li>Adhere to Corporate change control management processes.
+</li>
+<li>Facilitate code sharing and control by regularly submitting code to version repository system.
+</li>
+<li>Perform any other development related duties as assigned.
+</li>
+</ul>
+<p></p>
+<p><b>JOB REQUIREMENTS</b>
+</p>
+<ul>
+<li>Bachelor s Degree in Computer Science or Engineering or Equivalent.
+</li>
+<li>Strong experience in delivering application/solution on Force.com Platform, including configuration, process builders, workflows, outbound messaging, custom objects, batch processes, Communities and database design.
+</li>
+<li>Experience with design, develop application in Apex, Visualforce, SOQL, SOSL, HTML, CSS, JavaScript, JQuery, and other web technologies.
+</li>
+<li>Hands-on experience integrating Salesforce with other Applications using SOAP, REST API’s.
+</li>
+<li>Understanding of key Salesforce architectural concepts (e.g. API, Governor Limits, Sharing, security models and techniques) consider them in finalizing the design of the solution.
+</li>
+<li>Experience Working with Appexchange Application like DocuSIgn, Drawloop/Conga, Loop Storage etc..
+</li>
+<li>Experience on Financial Force Application or Finance application is a plus.
+</li>
+<li>Experience developing lightning components is a plus.
+</li>
+<li>4+ years’ experience as a software developer.
+</li>
+<li>2+ years’ experience as a Salesforce developer.
+</li>
+<li>Strong analytical skills, possess strong written, and oral communication skills, and a willingness to “do whatever it takes” with high energy within a collaborative team environment.
+</li>
+<li>Software development life cycle: experience in deploying code from lower sandboxes to production environment and address issues related to functionality, integration, merging, mock validating new and existing code changes, etc.
+</li>
+<li>Experience with Agile/Scrum software development
+</li>
+<li>Salesforce Platform Developer/Force.com Developer certification is strongly preferred.
+</li>
+</ul>
+<p></p>
+<p><b>LOCATION: HOUSTON, TX</b><br>
+</p>
+<p></p>
+<p>We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, protected veteran status or any other characteristic protected by law.<br>
+</p>
+<p></p>
+<p>If you are selected for a position, your employment will be contingent upon submission to and successful completion of a post-offer/pre-placement drug test (and medical examination if required by the role) as well as pre-placement verification of the information and qualifications provided during the selection process.</p>
+</div></div>

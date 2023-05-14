@@ -1,0 +1,117 @@
+<h2>Technical Writer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader">
+<b>.</b><b><br>
+</b>
+</h2>
+<div></div>
+<h2 class="jobSectionHeader"><b>Do you dare to reinvent the future of education?
+</b></h2>
+<div><div><div>
+<div>At Cengage, we are harnessing the power of tech to build a future where all learners have the tools and confidence to achieve their goals. As a Cengage employee, you will blaze a new trail to transform the way people learn. Collaborating with the best of the best, you will feel challenged and inspired to do breakthrough work. With the support of our united team, there is no limit to what you can imagine, create and set in motion.</div>
+<div></div>
+<br>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Are we right for you?
+</b></h2>
+<div><div><div>
+<div>We set the bar higher by bringing our unique talents and point of view to the table every day. We are curious and comfortable with change and are willing to take risks to transform education. Most importantly, with everything we do, we put learning first.</div>
+<div></div>
+<br>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>What You'll Do Here:
+</b></h2>
+<div><div><div>
+<div>We have an immediate need for a Technical Writer at our Boston (Seaport) location! We would also consider candidates in Raleigh, NC.</div>
+<div></div>
+<br>
+<div>
+You will work with partners, development teams, and SMEs across the organization to ensure the success of our instructors, students, internal partners, and others by developing outstanding help, support, and training content that is current, accurate, clear, usable, useful, and easy to find.</div>
+<div></div>
+<br>
+<div>
+"Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity." — Charles Mingus</div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<ul>
+<li>
+Research, write, and maintain user-focused topic-based help, release notes, and other training and support content for multiple online educational platforms and products for higher education, K-12, and technical schools. Audiences include instructors, students, and technical implementers.</li>
+<li>
+Ask questions, engage with partners and SMEs across the organization, and use the tools and platforms you are detailing to understand users' real-world needs and problems. Apply that knowledge to develop content that ensures success.</li>
+<li>
+Demonstrate user focus, attention to detail, and adherence to DITA and style standard methodologies.</li>
+<li>
+Apply "docs as code" practices to support quality and maintainability.</li>
+<li>
+Implement content reuse effectively.</li>
+<li>
+Contribute to information architecture development.</li>
+<li>
+With UX and development teams, provide UI microcopy for new and changing application features.</li>
+<li>
+Following Agile principles, deliver frequent iterative improvements to the documentation. Build agile stories, tasks, bugs, and epics with emphasis on user stories and clear acceptance criteria.</li>
+<li>
+Take ownership of and complete tasks and projects with minimal guidance.</li>
+<li>
+Work effectively as part of an agile technical communications team.</li>
+<li>
+Peer review other writers' work.</li>
+<li>
+Follow and contribute to style guidelines.</li>
+<li>
+Identify and help implement process improvements for the team.</li>
+<li>
+Infrequent (less than 10%) travel.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Skills You Will Need Here:
+</b></h2>
+<div><div><div>
+<ul>
+<li>4+ years' experience writing end-user software documentation.</li>
+<li>
+4+ years' writing topic-based documentation in DITA.</li>
+<li>
+Exceptional written and visual communication skills; knowledge of English grammar and usage; the ability to "make the complex simple."</li>
+<li>
+Expertise with DITA content reuse mechanisms such as conref and filtering.</li>
+<li>
+Experience participating in cross-functional Agile development teams.</li>
+<li>
+Knowledge of HTML and CSS.</li>
+<li>
+Experience building deliverables with the DITA Open Toolkit.</li>
+<li>
+Familiarity with UX principles; user advocacy.</li>
+<li>
+Ability to apply standard accessibility practices to documentation.</li>
+<li>
+Proven understanding of Agile practices including sprint planning, backlog refinement, prioritization, scrum, and retrospectives.</li>
+<li>
+Understanding of personas and their use.</li>
+<li>
+Excellent interpersonal communication skills; experience collaborating with partners across many areas and departments, including product management, UX, sales/marketing, and customer support.</li>
+<li>
+Passionate self-starter who enjoys improving the status quo, whether through changes documentation, to our processes, or to our interactions as a team or across the company.</li>
+<li>
+Ability to multitask and work with frequent context shifts to support multiple concurrent projects and changing business needs; can prioritize work and meet deadlines consistently.</li>
+<li>
+Proficiency with a DITA-aware XML editor (Oxygen, XMetal, ID Workbench, Arbortext).</li>
+<li>
+Proficiency with issue-tracking software (JIRA, FogBugz).</li>
+<li>
+Proficiency with distributed version control (Git, Mercurial).</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Pluses:</b></h2>
+<ul>
+<li>
+Teaching experience; experience developing UI microcopy or video user assistance; familiarity with Developing Quality Technical Information principles.</li>
+<li>
+Additional keywords: DITA-OT, minimalism, SGML, "information developer"</li>
+</ul>
+</div></div></div>
+</div>
+<div></div>
+</div>

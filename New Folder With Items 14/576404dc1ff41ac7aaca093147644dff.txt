@@ -1,0 +1,72 @@
+<h2>Package Development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>It's fun to work in a company where people truly BELIEVE in what they're doing!
+<br>
+<i>We're committed to bringing passion and customer focus to the business.
+</i></p>
+<p></p>
+<p><i>If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+</i></p>
+<p>Lumentum (NASDAQ: LITE) is a market-leading manufacturer of innovative optical and photonic products enabling optical networking and commercial laser customers worldwide. Lumentum’s optical components and subsystems are part of virtually every type of telecom, enterprise, and data center network. Lumentum’s commercial lasers enable advanced manufacturing techniques and diverse applications including next-generation 3D sensing capabilities. Lumentum is headquartered in Milpitas, California with R&amp;D, manufacturing, and sales offices worldwide. For more information, visit www.lumentum.com.
+</p>
+<p></p>
+<p>Lumentum is seeking a bright, motivated individual to contribute to the development of a variety of highly-innovative and market-leading high power single-mode and multi-mode semiconductor lasers for telecom, industrial and consumer applications.
+</p>
+<p></p>
+<p><b>Key Responsibilities
+</b></p>
+<p></p>
+<ul>
+<li>Develop innovative products and reference designs to meet current and next gen market and customer requirements, interact with and support marketing, sales, and customers
+</li>
+<li>Design laser packages and integrated subassemblies, from concept, prototype, qualification to volume manufacturing for consumer and automotive applications
+</li>
+<li>Generate BOMs, process flows and engineering reports for new products and assembly/test processes
+</li>
+<li>Work closely with contract manufacturers and partner manufactures for product design, process and test development, NPI of high-volume manufacturing of low-cost products, and support product qualification and failure analysis
+</li>
+<li>Collaborate with engineering team and contract manufacturers to ensure DOE, SPC, and FMEA tools are used regularly throughout product life cycle
+</li>
+<li>Work closely with other project team members on conceptual design, vendor and equipment interactions, package prototyping, testing, performance characterization, and customer samples
+</li>
+<li>Work closely with PLM and FAE teams for customer technical support
+</li>
+<li>Contribute to product and technology roadmaps.
+</li>
+</ul>
+<p></p>
+<p><b>Qualifications:
+</b></p>
+<ul>
+<li>Expertise in opto-electronics package development for consumer and automotive electronics
+</li>
+<li>Experience in conceptual design, vendor interaction, package prototyping, testing, and performance characterization
+</li>
+<li>Experience in development and manufacturing of high-volume (&gt;10M/units per yr), low-cost (~ $1/unit) laser diode or LED packaging for consumer or automotive applications
+</li>
+<li>Familiarity with semiconductor laser diodes, LEDs, photodetectors, submount and packages, optical components (lens, diffuser, DOE, isolators, etc.), laser driving electronics, ICs
+</li>
+<li>Understand package related mechanical, thermal, optical, electrical, design considerations and tradeoffs.
+</li>
+<li>Familiarity with package and component assembly process such as die bonding (solder, epoxies), flip chip assembly, wire bonding, sealing (hermetic and non-hermetic).
+</li>
+<li>Experience with automated assembly and test equipment for die-bonding and wire-bonding, automated tester for low cost and high volume production
+</li>
+<li>Experience in working with Contract Manufacturers (CM) and knowledge of assembly/test equipment capabilities (particularly in Asia)
+</li>
+<li>Familiar with six-sigma techniques, e.g., design for manufacturability/reliability (DFx), SPC and ISO9001 certification
+</li>
+<li>Knowledge of product qualification for consumer and automotive applications
+</li>
+<li>Excellent written and oral communication skills
+</li>
+<li>Education should be MS or PhD in optical, electrical, physical engineering or equivalent with 10+ years’ experience in optoelectronics, microelectronics or LED industry
+</li>
+<li>US citizenship or permanent residency allows greater program flexibility
+</li>
+<li>Ability to travel internationally</li>
+</ul>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,77 @@
+<h2>Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div>Overview
+<br>
+<br>
+<p>Lennar Corporation is in the process of converting their Oracle based Customer Relationship Management (CRM) to Salesforce (Sales, Service and Marketing Cloud). The Salesforce Developer will be responsible for the overall analysis, architecture, design, implementation and support of solutions in Lennar Corporation’s Salesforce environment. The Salesforce Developer must have exceptional skills in configuration, development, integration and who want to make a difference in the solution. This role will be part of a team working with Lennar Corporations vendors in delivering all three clouds (Sales, Marketing and Service) along with data migration and integrations.</p>
+<br>
+<br>
+<br>
+<b>Responsibilities
+</b><br>
+<br>
+<ul>
+<li>The Salesforce Developer will be part of a team that will design, code, develop, integrate and implement Salesforce</li>
+<li>
+This position is a hands on development role that will be involved in new development along with providing oversight of support for existing developed functionalities by support developers</li>
+<li>
+Heavy configuration within Marketing, Sales and Care Cloud responsibilities</li>
+<li>
+Design and develop integrations between Salesforce.com (SFDC) and other applications/systems such as Datawarehouse, JDE, custom applications</li>
+<li>
+Ability to provide development and delivery time estimates</li>
+<li>
+Ability to exercise independent judgment and deliverable actions based on project requirements</li>
+</ul>
+<p></p>
+<p>
+#CB</p>
+<p>
+RedHen</p>
+<br>
+<br>
+<br>
+<b>Qualifications
+</b><br>
+<br>
+<p><b>Education and Experience Requirements:</b></p>
+<ul>
+<li>
+Bachelor’s degree in Computer Science, Information Technology or related field preferred, not required.
+</li>
+<li>Must have experience in either Sales, Service or Marketing cloud.</li>
+<li>
+Must have at least 4 years of hands-on Salesforce development either in configuration or programming.</li>
+<li>
+5 years’ experience on the SFDC platform.</li>
+<li>
+Technical project lead experience preferred.</li>
+</ul>
+<p></p>
+<p><b>
+Additional Requirements:</b></p>
+<ul>
+<li>
+Must have integration experience between Salesforce to other applications.</li>
+<li>
+Experience with database node, http node, ESQL node, java node, email node, soap node, MQ nodes. Must to have the ability to pick up and use any other nodes in the toolkit as required.</li>
+<li>
+Must have strong analytical skills.</li>
+<li>
+Strong communication skills (verbal and written).</li>
+<li>
+Agile background preferred.</li>
+<li>
+Ability to work as part of a team with on and offshore resources</li>
+<li>
+Professionally perform multiple detailed-oriented tasks with simultaneous deadlines.
+</li>
+<li>Team player with the ability to work in fast paced environment.
+</li>
+<li>Must possess strong work ethic, integrity and initiative, as well as strong organizational skills.</li>
+</ul>
+<p><b>
+Physical Requirements:</b> This is primarily a sedentary office position which requires the incumbent to have the ability to operate computer equipment, speak, hear, bend, stoop, reach, lift, and move and carry up to 25 lbs. Finger dexterity is necessary.</p>
+<p></p>
+<p>
+This description outlines the basic responsibilities and requirements for the position noted. This is not a comprehensive listing of all job duties of the Associates. Duties, responsibilities and activities may change at any time with or without notice. RedHen #CB</p>
+</div></div></div>

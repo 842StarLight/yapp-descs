@@ -1,0 +1,116 @@
+<h2>Network Security Engineer - Scottsdale, AZ or Atlanta, GA</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Position Description
+</b></p>
+<p></p>
+<p>This position is part of McKesson’s Information Security and Risk Management (ISRM) Security Engineering team and is responsible for building and promoting information security solutions for the enterprise network and applications across McKesson Corporation.
+</p>
+<p></p>
+<p>As a McKesson Information Security Engineer, you will be a key member of our ISRM team Security Engineering team. The candidate will have a deep background in keys aspect of security solutioning and design processes needed to enable and securely deliver cybersecurity services. S/he will work collaboratively with the ISRM Security Architecture and Global ISRM Service owners to ensure solutions and services are designed and adopted effectively by SOC and McKesson business units.
+</p>
+<p></p>
+<p>Initial focus for this position is to engineer and establish next generation network access control capability in the enterprise with further expansion into other cybersecurity capabilities around network security working on integrations of tools to provide rapid active defense response. The position works closely with stakeholders in Infrastructure, Network Engineering, Operations, Applications, and Compliance management to ensure alignment to our Global service capabilities.
+</p>
+<p></p>
+<p>Security Engineer will be a self-starter responsible for leading efforts to modernize our network security stack and taking advantage of opportunities to build a true defense-in-depth architecture around cross-platform integration through the use of APIs.
+</p>
+<p></p>
+<p><b>Job Responsibilities
+</b></p>
+<p></p>
+<p>Engineer, orchestrate and administer network access control (NAC) security toolset to gain full visibility of the enterprise network and integration of NAC with capabilities including but not limited to firewalls, TVM tools, endpoint security tools, MDM.
+</p>
+<p></p>
+<p>Implement secure and user-friendly onboarding experience for corporate, third party, IOT and guest devices and users to provide segmented access to corporate network and systems and to prevent unauthorized devices and adversaries from gaining access to critical networks and corporate systems.
+</p>
+<p></p>
+<p>Maintain network security systems including NAC and other security solutions integrations, wired and wireless security, guest wireless security, and integration of these capabilities with other Active Defense toolset.
+</p>
+<ul>
+<li>Understand, research, design and develop secure implementations of technology solutions, and oversee large rollouts of the same.
+</li>
+<li>End-to-end analysis, requirements development, design, and governance of the security processes and tools ecosystem within McKesson Technology infrastructure, partnering with IT and business colleagues as appropriate
+</li>
+<li>Able to communicate processes’ and tool automation needs to Automation Team to drive infrastructure as a code mentality.
+</li>
+<li>Evaluate and POC next-generation network security solutions
+</li>
+<li>Support Security Architecture with the design and implementation of new network security solutions
+</li>
+<li>Operationalize network security solutions to provide optimal value through repeatable metric reporting, standardizing maintenance and continually finding and closing security gaps
+</li>
+<li>Train Operations teams to ensure a high-level understanding of network security solutions and how they relate to quantifiable risk
+</li>
+<li>Participate in Scaled Agile planning and activities deploying enterprise program creating Global Network Security Services within McKesson, identify customer needs, converting those into functional requirements and creating program roadmap, driving objectives and managing program backlog.
+</li>
+</ul>
+<p></p>
+<p><b>Minimum Requirements
+</b></p>
+<ul><li>6+ years’ experience in network systems administration
+</li></ul>
+<p><br>
+<b>Critical Skills:
+</b></p>
+<ul>
+<li>Previous experience implementing and supporting network access control capability is strongly preferred
+</li>
+<li>Strong understanding of enterprise level network and endpoint security operations including but not limited to route, switch, segmentation and filtering technologies, end point security capabilities
+</li>
+<li>Proven track record of successful IT project contribution from concept to completion
+</li>
+<li>6+ years of specialization in Network Security technologies including NAC, firewalls, wired and wireless security
+</li>
+<li>Proven experience working in engineering capacity integrating one or more other network security and capabilities such as Intrusion Detection and Prevention Systems, Proxies, DLP, Network Deception, micro-segmentation, SIEM, Security Orchestration and Automation, Next Gen Breach Detection Systems, Cloud Access Security Brokers is a great asset
+</li>
+<li>Expert-level understanding of network protocols (TCP/UDP, IP, ARP, DNS, HTTP(S), etc)
+</li>
+<li>Able to understand switch and router configurations
+</li>
+</ul>
+<p><br>
+<b>Additional Knowledge &amp; Skills:
+</b></p>
+<ul>
+<li>Knowledge of Palo Alto Network or other firewalls, including administration, operations, design, deployment, troubleshooting is a great plus
+</li>
+<li>Able to work with suppliers and vendors to assess a true value of cybersecurity capabilities vs what they are offering as a sales pitch and how those capabilities would apply to McKesson as a whole, from integrations to existing cybersecurity eco-system to their operationalization.
+</li>
+<li>Previous experience working in the Operating Technology (OT), Industrial Controls Systems (ICS) or SCADA is a plus but not required.
+</li>
+<li>Experience working with OT visibility toolset (eg. Claroty, Security Matters, CyberX, Indegy) is a great plus but not required
+</li>
+<li>Experience with various scripting languages (eg. Perl, Python) is a plus
+</li>
+<li>6+ years of experience with day to day network security tools support, ticketing and change management
+</li>
+<li>Understanding of attack vectors, current threats, and their remediation strategies;
+</li>
+<li>Strong time management skills planning, organizing, and leading architecture development efforts
+</li>
+<li>Strong interpersonal and communications skills to build/ maintain ongoing business relationships
+</li>
+<li>Self-Starter that requires minimal supervision, multi-tasks effectively, and can provide oversight and coaching to others for any assigned projects or tasks.
+</li>
+<li>Experience of working with SAFe (Scaled Agile Framework for the enterprise) is a plus
+</li>
+<li>Able to stay on top of latest cybersecurity developments and next gen platforms
+</li>
+<li>Available for on call after hours support if required
+</li>
+</ul>
+<p><br>
+<b>Education
+</b></p>
+<ul>
+<li>4-year degree in computer science or related field, or equivalent experience
+</li>
+<li>Cyber Security and/or network related certifications (s) such as CISSP, ISSAP, GCED, CCNA Security, Firewall certifications are a great asset, not required with proven experience
+</li>
+</ul>
+<p></p>
+<p><b>Physical Requirements
+</b></p>
+<ul><li>General Office Demands
+</li></ul>
+<p></p>McKesson is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.Qualified applicants will not be disqualified from consideration for employment based upon criminal history.McKesson is committed to being an Equal Employment Opportunity Employer and offers opportunities to all job seekers including job seekers with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to Disability_Accommodation@McKesson.com. Resumes or CVs submitted to this email box will not be accepted.Current employees must apply through internal career site.Join us at McKesson!</div></div>

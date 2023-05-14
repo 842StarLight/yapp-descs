@@ -1,0 +1,33 @@
+<h2>Residential project caption</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>This full-time position provides a competitive salary and a full benefits package. Compensation is commensurate to level of experience.</p>
+<p>
+The applicant must have:</p>
+<ul>
+<li>A minimum of 1 to 3+ year’s work experience in product drafting and development</li>
+<li>Proficiency in AutoCAD Architecture</li>
+<li>Artistic &amp; creative skills</li>
+<li>The desire to learn about residential architectural design and development</li>
+</ul>
+<p>Responsibilities:</p>
+<ul>
+<li>Development of residential construction documents</li>
+<li>Create presentation graphics</li>
+<li>Brochure floor plan and elevation graphics for builder sales brochures</li>
+</ul>
+<p>Skills:</p>
+<ul>
+<li>Rendering capabilities</li>
+<li>Construction document development</li>
+<li>Experience necessary to manage and meet multiple deadlines</li>
+<li>Must be detail oriented and have excellent organizational skills</li>
+<li>Structural materials knowledge of wood frame construction</li>
+<li>3D Graphics (a plus)</li>
+</ul>
+<p>Software</p>
+<ul>
+<li>AutoCAD Architecture</li>
+<li>Microsoft Office</li>
+</ul>
+<p>If you meet or exceed the above requirements, please respond by e-mailing your resume, compensation requirements and an example of your construction documents that you have completed.</p>
+</div></div>

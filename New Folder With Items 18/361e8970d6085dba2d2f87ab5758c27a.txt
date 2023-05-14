@@ -1,0 +1,19 @@
+<h2>Sr. Staff Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>FogHorn Systems, Inc. seeks a Sr. Staff Engineer – Responsible for the development of system-level software modules to implement in Foghorn’s Edge Intelligence Stack products.</p>
+<p>
+Specific duties include:</p>
+<ul>
+<li>Designing, developing, and integrating software modules worked on with the rest of FogHorn’s product offering;</li>
+<li>Modifying existing software to correct errors, adapting it to new container modules, compilers, microprocessor platforms, virtual machines, or to upgrade API interfaces;</li>
+<li>Performing unit, integration and performance testing of the modules worked on, for latency and throughput measurements and improvements;</li>
+<li>Providing input and contributing towards development and review of product documentation;</li>
+<li>Consulting with Product Managers, Pre-Sales Engineers, and prospective customers on project status, technical issues such as software design and/or implementation;</li>
+<li>Co-ordinating the installation of the product for internal engineering purposes or external customer requirements;</li>
+<li>Providing a regular report or correspondence concerning project specifications, design and implementation status; and</li>
+<li>Overseeing and mentoring junior developers on projects and providing training.</li>
+</ul>
+<p>Worksite: Sunnyvale, CA. This position requires a Master’s degree or the equivalent in Computer Science or a related field and three (3) years of experience. Will also accept a Bachelor’s degree or the equivalent in Computer Science or a related field and five (5) years of experience in lieu of a Master’s degree and 3 years of experience.</p>
+<p>
+To apply, submit resume to jobs@foghorn.io.</p>
+</div></div>

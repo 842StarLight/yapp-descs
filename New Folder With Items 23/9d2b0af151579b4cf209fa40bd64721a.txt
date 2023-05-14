@@ -1,0 +1,73 @@
+<h2>Principal Java Developer, AWS</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>At Signify you’ll work with top technology partners, learn new skills and grow your career. Your work will make a huge - and high-tech - impact. If you are looking for a challenge, you will find it at Signify. Do you want to join the undisputed leader in the lighting industry? We have over 16,000 patents and invest around 5% of our sales in R&amp;D. We are looking for technical professionals who take our innovations and help us invent the future of lighting.
+</p>
+<p></p>
+<p>We’re looking for a <b>Principal Java Developer, AWS</b> to develop innovative distributed cloud-based services that developers and customers love to use! You will be a committed member of the team who focuses on what’s important, sees technical ambiguity as an opportunity rather than a challenge and has the communication skills and knowledge that will make you an indispensable member of any software engineering organization.</p>
+<p></p>
+<p>
+This role is part of IoT Infrastructure team, based in Burlington, MA. Its responsibilities are to provide the infrastructure and expertise to collect and process really Big Data, originating from the ubiquitous lighting infrastructure, our customers, and our business processes, in order to support differentiated systems and data-enabled services</p>
+<p></p>
+<p><b>
+Together we can…</b></p>
+<ul>
+<li>
+Create, manage and operate a diverse set of Dev-Ops-related tools, processes, paradigms and technologies that enable the creation and ongoing operation of the Signify IoT Platform.</li>
+<li>
+Follow the DevOps model; therefore, deploying features to AWS cloud.</li>
+<li>
+Focus on the creation of horizontal tools, technologies and best-practices that enable and support all the IoT Platform engineering teams to build, debug, test, release, manage and secure the IoT Platform’s modern, microservices-based cloud infrastructure.</li>
+<li>
+Collaborate in defining the methodologies and ways-of-working that will enable our fast-paced engineering teams to flourish as we collectively build-out the IoT Platform. You will help promote and implement best practices and supporting tools/technologies for source control management, CI and CD architectures, performance, SLAs, security, audit and monitoring that will be used by every engineer within the IoT Platform organization.</li>
+<li>
+Define common frameworks and software libraries, in various programming languages, that support the creation of efficient, scalable and highly available microservice-based architectures.</li>
+<li>
+Support with the management of the running IoT Platform system architecture. You will troubleshoot issues and identify areas for continuous improvement with a particular emphasis on quality, performance and security.</li>
+<li>
+Work closely with architects and technical product managers and other members of your team to translate overall system architecture and product requirements into well-designed, implemented and tested software solutions.</li>
+<li>
+Work in an Agile environment to deliver high-quality software in an incremental manner.</li>
+<li>
+Help promote the adoption of best-in-class software engineering practices, frameworks, and tools. You are providing guidance and feedback to other software developers.</li>
+</ul>
+<p></p>
+<p><b>
+You are…</b></p>
+<ul>
+<li>
+B.Sc. in Computer Science or related Engineering is required, a Master’s degree is desirable</li>
+<li>
+8+ years of proven, hands-on track-record as a software engineer, focused on cloud-based systems</li>
+<li>
+Mastery of a variety of programming languages – at least Java, Python, but knowledge of Golang or JavaScript (NodeJS) are desirable. <i>You must have strong Java Development skills, preferably with Ver. 1.8</i>
+</li>
+<li>
+Proven track record developing cloud-based services (SaaS) and platforms (PaaS)</li>
+<li>
+Proven hands-on in-depth experience of AWS is required, both in terms of traditional technologies (e.g. EC2, S3, DynamoDB, RDS, …) as well as more recent cutting-edge paradigms (e.g. Lambda, API Gateway, Fargate, …).</li>
+<li>
+Proven experience of developing microservices and complex microservice-based platform architectures</li>
+<li>
+Excellent understanding of distributed systems, designing for scalability, performance and availability</li>
+<li>
+Experience of establishing non-functional best-practices and deploying supporting technologies for improving platform security (including audit) and reliability (latency, availability, scalability)</li>
+<li>
+Knowledge of distributed network architectures and network security is required</li>
+<li>
+Good knowledge of data persistence technologies including relational databases and no-SQL solutions</li>
+<li>
+Excellent interpersonal and technical communication with peers, and non-peers alike, with a can-do attitude</li>
+<li>
+3+ years in teams applying modern agile software development practices</li>
+</ul>
+<p></p>
+<p><b>
+We are…</b></p>
+<p>
+Signify, the new company name of Philips Lighting, is the global leader in lighting building on 125+ years of innovations.<br>
+Our purpose is to unlock the extraordinary potential of light for brighter lives and a better world.<br>
+We are proud to be ahead of the game in the Internet of Things and on track to be carbon neutral by 2020. We learn through disruptive challenges and our performance is powered through our diverse teams. Our Philips products interact connected lighting systems, and data-enabled services transform people’s lives in homes, buildings, and public spaces.</p>
+<p></p>
+<p>
+We define the meaning of light…join us to #findyourmeaning @ Signify! #LI-FM1</p>
+</div></div>

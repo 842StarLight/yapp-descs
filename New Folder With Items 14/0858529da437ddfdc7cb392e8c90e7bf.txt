@@ -1,0 +1,116 @@
+<h2>Product Manager - Fraud & Security Intelligence Architecture</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div><div><div><div>
+<p>This position sets product vision and direction for our Fraud and Security Intelligence Division and supports the entire analytics lifecycle for fraud, financial crimes, and security value propositions. Delivers market driven offerings by knowing the market, competition and customer inputs and translating these into software requirements. Collaborates with development and testing team(s) to drive product development including direct product management of SAS Visual Investigator (VI) as well as coordination with the SAS platform products that are leveraged in Fraud solution packaging. Communicates product content and knowledge to internal constituents. Supports the external presence of SAS for the Division and our products and offerings.</p>
+<p></p>
+<br>
+<p><b>
+Primary Responsibilities:</b></p>
+<ul>
+<li>
+Collaborates with and drives product development in R&amp;D based on requirements management and product lifecycle.</li>
+<li>
+Sets, executes, and publishes the product vision and roadmap.</li>
+<li>
+Defines and prioritizes product requirements based on customer, prospect, and evaluator inputs, market direction and field contribution.</li>
+<li>
+Defines user personas and use cases.</li>
+<li>
+Supports product launches as primary content provider and ensures knowledge transfer of product functionality to marketing and sales.</li>
+<li>
+Delivers technical, fact-oriented content for pricing, positioning and collateral.</li>
+<li>
+Delivers product vision, roadmap, and software demonstrations to internal constituents, customers, press, analysts, at events, etc.</li>
+<li>
+Manages the product across its lifecycle, leveraging available tools.</li>
+<li>
+Identifies new market opportunities and evaluates emerging technology and business issues that may present opportunities or threats to the company.</li>
+<li>
+Works with industry analysts to provide content and demonstrations for various reports and acts as a point of contact for inbound inquiries.</li>
+<li>
+Be a product champion by analyzing eternal market trends, competition, opportunities that impact the user and capabilities of the platform.</li>
+<li>
+Participates in and may manage virtual teams comprised of worldwide members.</li>
+<li>
+May manage OEM/Technical Provider relationships.</li>
+<li>
+Identifies opportunities and develops business plans including recommended actions for emerging technology and business issues that present opportunities or threats to SAS.</li>
+<li>
+Identifies and develops business plans for new market opportunities within the company’s distinctive competence.</li>
+<li>
+Demonstrates excellent product knowledge with external audiences, such as press, thought leaders, analysts, speaking engagements at trade shows and user groups, etc.</li>
+</ul>
+<div></div>
+<br>
+<p><b>
+Essential</b></p>
+<ul>
+<li>
+Excellent problem solving, analytical and diagnostic skills</li>
+<li>
+Excellent written and verbal communication skills.
+</li>
+<li>Organizational skills for managing commitments, schedules, and deadlines.</li>
+<li>
+Strong interpersonal and teamwork skills. Ability to work independently and as part of a team</li>
+<li>
+Experience with architecture, deployment, and configuration of enterprise class Java web applications.</li>
+<li>
+Ability to translate business and technical concepts with people of varied backgrounds</li>
+<li>
+Experience collaborating with R&amp;D organizations and an understanding of the software development lifecycle, including agile development</li>
+<li>
+Technical acumen and ability to prioritize requirements to serve a diverse customer base</li>
+<li>
+Experience with cloud platforms and container technologies – Amazon AWS, Microsoft Azure, Docker, Kubernetes, OpenStack</li>
+<li>
+Experience with SAS 9 platform and solution architecture - knowledge of various servers and engines</li>
+<li>
+Experience with Viya architecture
+</li>
+<li>Ability to travel (domestic and international) as business requirements dictate at management discretion.<br>
+</li>
+</ul>
+<p></p>
+<p><b>Preferred Skills</b></p>
+<ul>
+<li>
+Ability to map market and customer requirements into product features, describe associated benefits and value.</li>
+<li>
+Bachelor’s degree in computer science, engineering, mathematics, or related discipline.</li>
+<li>
+Hands-on experience with SAS or competitive applications for Fraud &amp; Security Intelligence software.</li>
+<li>
+Experience with SAS Visual Investigator</li>
+<li>
+Experience working across multiple geographies</li>
+<li>
+Experience with Linux environments, shell scripting, administrative level tasks</li>
+<li>
+Experience with Elasticsearch, Kafka</li>
+<li>
+Experience with CI/CD development process flow</li>
+<li>
+Experience with Artificial Intelligence and Machine Learning</li>
+<li>
+Experience with BASE SAS programming</li>
+<li>
+Experience with Hadoop-based distributed data stores (Hive, HBase, Impala)</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Additional Information:</b></div>
+<div>
+To qualify, applicants must be legally authorized to work in the United States, and should not require, now or in the future, sponsorship for employment visa status. SAS is an equal opportunity employer. All qualified applicants are considered for employment without regard to race, color, religion, gender, sexual orientation, gender identity, age, national origin, disability status, protected veteran status or any other characteristic protected by law. Read more: Equal Employment Opportunity is the Law. Also view the supplement EEO is the Law, and the notice Pay Transparency</div>
+<div></div>
+<br>
+<div>
+Equivalent combination of education, training and experience may be considered in place of the above qualifications. The level of this position will be determined based on the applicant's education, skills and experience. Resumes may be considered in the order they are received. SAS employees performing certain job functions may require access to technology or software subject to export or import regulations. To comply with these regulations, SAS may obtain nationality or citizenship information from applicants for employment. SAS collects this information solely for trade law compliance purposes and does not use it to discriminate unfairly in the hiring process.</div>
+<div></div>
+<br>
+<div><i>
+Want to stay up to date with life at SAS, products and jobs? Follow us on LinkedIn</i></div>
+</div></div></div></div>
+</div>

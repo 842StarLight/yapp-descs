@@ -1,0 +1,43 @@
+<h2>Business Development Representative</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">This is a great opportunity to be one of our first Business Development Representatives who will focus on inside sales.
+<br><br>
+Responsibilities
+<br><br>
+<ul>
+<li>Help build the inbound lead generation and prospecting machine to qualify new customers for Timescale.</li>
+<li>Set-up discovery calls and meetings for the sales team to discuss the benefits of using TimescaleDB.</li>
+<li>Meet or exceed benchmarks for lead qualification, outbound activity, meetings and calls.</li>
+<li>Develop and optimize sales processes using tools like Salesforce, Slack and other sales optimization products.</li>
+<li>Build best practices around customer outreach to drive discovery calls and meetings.</li>
+<li>Represent Timescale professionally at meetups, conferences and other external facing events.</li>
+</ul>
+Requirements
+<br><br>
+<ul>
+<li>Bachelor's degree preferred.</li>
+<li>1-3+ years in an inside sales role at an infrastructure or open-source enterprise software company.</li>
+<li>Experience building out a lead generation strategy and system.</li>
+<li>Demonstrated ability to successfully qualify and generate leads that turn into closed sales.</li>
+<li>Passionate about technology solutions that help businesses succeed.</li>
+<li>Nice to have: understanding of the open source infrastructure software ecosystem.</li>
+</ul>
+Benefits
+<br><br>
+<ul>
+<li>Premium medical, dental, and vision coverage</li>
+<li>Stock options</li>
+<li>401k retirement plan</li>
+<li>Flexible PTO and family leave</li>
+<li>FSA and Dependent FSA plans</li>
+<li>Educational self-improvement benefits</li>
+<li>Commuter benefits</li>
+<li>Flexible schedule</li>
+<li>Awesome coworkers</li>
+</ul>
+About Timescale
+<br><br>
+Time Series is everywhere, and Timescale is helping developers and companies make sense of it.
+<br><br>
+Businesses worldwide trust TimescaleDB for mission-critical applications from industries as varied as manufacturing, finance, utilities, telecom, mining, ad tech, oil &amp; gas, and the smart home. Applications built on TimescaleDB include IOT, complex monitoring systems, industrial machine data analysis, geospatial asset tracking, operational data warehousing, and financial risk management; via the edge, on premise, and cloud deployments.
+<br><br>
+TimescaleThe team is based in New York City (HQ) and Stockholm, and is backed by top tier investors, including Benchmark Capital, New Enterprise Associates, Icon Ventures, and Two Sigma Ventures.</div>

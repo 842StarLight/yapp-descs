@@ -1,0 +1,46 @@
+<h2>Principal Enterprise Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h2 class="jobSectionHeader"><b>Our offer</b></h2>
+<div>
+<p>Altran Innovative Product Development (IPD) consists of around 150 US-based engineers working in small teams to develop a variety of complex systems in partnership with our clients.</p>
+<p>Altran IPD focuses on the critical challenge of bringing products from concept to production-ready release, balancing speed and agility in delivery with an emphasis on creating reliable, supportable and extensible designs. Our engineers are not distracted by the ongoing and unpredictable demands of supporting existing products and instead are able to maintain a focus on driving the new development efforts. Thus, our teams move at a very rapid pace, delivering exciting results for our clients and maximizing the learning opportunities for our employees.</p>
+<p>Altran provides a full complement of technology consulting, software and product development services to clients ranging from established startups to Fortune 500 companies, in industries such as medical devices, healthcare information systems, industrial automation, autonomous vehicles and capital equipment.</p>
+<p>At Altran you will face a steady stream of new client challenges and work with a variety of talented coworkers, as you keep pace with the technological trends driving each generation of new products.
+</p>
+<p>For more information, visit www.altran.com/us/en/</p>
+</div>
+<h2 class="jobSectionHeader"><b>Your role</b></h2>
+<div>
+<p>We are looking for Principal-level Software Engineers who are motivated, innovative and enthusiastic about building and supporting complex software products using the latest technologies.</p>
+<p>As a Principal Software Engineer at Altran you and your software team will work with clients to develop architecture definitions and implementation strategies on all phases of software development including requirements definition, design, development, testing, integration, and deployment. In this role you will build world-class software programs for connected devices that embeds security<b> i</b>nto every aspect of the development process.</p>
+<ul>
+<li>Work with clients to perform architecture assessments and develop architecture for new projects</li>
+<li>Perform hands-on, full product lifecycle development activities as technical leader/individual contributor</li>
+<li>Lead and participate in requirements definition, technical design, coding, code reviews, and unit testing, and deployment</li>
+<li>Develop, coach and follow formal software development processes</li>
+<li>Support Altran's business development lifecycle, technical sales calls and assist with generation of proposals, effort estimates, and reviews</li>
+</ul>
+</div>
+<h2 class="jobSectionHeader"><b>Your profile</b></h2>
+<div>
+<ul>
+<li>Excellent client facing skills and the ability to work effectively with customers to define and document software solutions</li>
+<li>Experience defining architecture strategies, producing architecture documentation, and effectively transferring knowledge to development teams</li>
+<li>10+ years of broad experience developing software products using Java technologies</li>
+<li>High level of experience with C#</li>
+<li>Direct, hands-on experience with cloud development (esp. AWS) and integrating Azure into AWS platforms</li>
+<li>Experience with unit testing and automation, Continuous Integration/Continuous Deployment (in general, XP techniques)</li>
+<li>Exposure to Agile methodologies, comfort with Scrum or Kanban rhythms</li>
+<li>Experience developing requirements specifications and design documents</li>
+<li>Strong written, verbal and interpersonal skills</li>
+<li>Awesome team collaboration skills</li>
+<li>BS in Computer Science or Engineering discipline</li>
+<br>
+</ul>
+<div></div>
+<p>Equal Opportunity/Affirmative Action Employer; M/F/D/V</p>
+</div>
+</div>
+<div></div>
+</div>

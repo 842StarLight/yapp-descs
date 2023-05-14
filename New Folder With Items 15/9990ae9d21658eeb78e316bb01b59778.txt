@@ -1,0 +1,37 @@
+<h2>Software Engineering Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Software Engineering Lead</b><br>
+<b>Direct Hire Role</b><br>
+<b>Locations: Woburn,MA, Newark DE, Kansas City MO
+</b></p>
+<p><b>US citizens and Green Card Holders and those authorized to work in the US are encouraged to apply. We are unable to sponsor H1B candidates at this time</b></p>
+<p>Our direct client is looking for a Software Engineering Team Lead. They have a proven track record of attracting and retaining talented employees is pivotal to our ongoing success. The atmosphere is fast-paced, and we are looking for someone who likes challenges, is a self-starter, and would enjoy working in an entrepreneurial, multi-faceted environment. We work hard, learn a lot, and share great senses of humor. This is a newly created position that reports to the VP of Engineering.</p>
+<p><b><i>Job Description</i></b></p>
+<p>The Software Engineering Lead will work with the VP of Engineering and Product Managers to provide technology leadership and direction within SCRUM teams. In this role, the right candidate will design and write software to enable the business for growth based on internal and external business requirements. Working in an Agile environment, the candidate will deliver quality software through code reviews, participating and leading software design sessions, and working with business leaders to ensure software is built to product specifications.</p>
+<p>The right candidate must display strong leadership skills, work well in a team environment, have experience leading Software Engineers in a fast-paced organization and enjoy building consensus. Candidate must be extremely detailed oriented, technically proficient, and enjoy handling a large workload while maintaining the highest quality standards for the organization.</p>
+<p><b><i>Essential Duties &amp; Responsibilities</i></b></p>
+<div>
+<div>Provide leadership to Jr. and Mid-level software engineers</div>
+<div>Work with Technology leadership team to design software based on business requirements</div>
+<div>Write code in several programming and scripting languages</div>
+<div>Work within Amazon AWS Web Services where applicable</div>
+<div>Troubleshoot and fix software issues as necessary</div>
+<div>Provide technical support to Business leaders and quality assurance team</div>
+<div>Provide documentation for software solutions as necessary</div>
+</div>
+<p><b><i>Experience &amp; Skills</i></b></p>
+<div>
+<div>5+ years working in a Sr. Level Software Engineering role</div>
+<div>10+ years working within a software engineering team in various roles</div>
+<div>5+ PHP development is a must</div>
+<div>React.js, Node.js, strong knowledge of SQL/RDBMS (postgres, mysql, sql server), GIT</div>
+<div>Should be comfortable working in Linux and Windows environments</div>
+<div>Familiarity with AWS Services</div>
+<div>5+ years Agile Scrum Development methodologies</div>
+<div>Strong business acumen and communication skills.</div>
+<div>Experience working with Product Managers/Owners and building consensus within a team environment</div>
+<div>Strong interested in mobile development React native, android/iOS, Java, Objective C</div>
+<div>Familiarity with getting applications into apple and play store</div>
+<div>Undergraduate Degree or equivalent work experience</div>
+</div>
+</div></div>

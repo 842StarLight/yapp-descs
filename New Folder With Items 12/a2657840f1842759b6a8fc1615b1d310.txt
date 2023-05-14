@@ -1,0 +1,92 @@
+<h2>Senior Network Consulting Engineer 19-02-154</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Position Summary: </b></p>
+<p>The Senior Network Engineer role will develop, implement, and support network services and solutions for consulting clients. Build a customer-focused relationship with client to identify business challenges and develop specifications and requirements to arrive at the best solution.</p>
+<p><b>Roles and Responsibilities/ Essential Functions: </b></p>
+<ul><li>Work as a member of the HBS networking team that provides consultative and proactive project support to HBS’s account base.</li></ul>
+<ul><li>Collaborate across multiple internal teams to ensure successful delivery of results based on scopeof work.</li></ul>
+<ul><li>Contribute to product selection and research, configuration standards and best practices and educate our sales teams on these products and services so that they can sell them.</li></ul>
+<ul><li>Provide support, maintenance, and administration for customer networks.</li></ul>
+<ul><li>Ability to work in a team atmosphere between regional and virtual practices. At all times maintaining a professional and respectful demeanor.</li></ul>
+<ul><li>Provide time estimates and project scopes for networking related projects.</li></ul>
+<ul><li>Maintain current vendor/industry specific certifications and stay current on new products and solutions.</li></ul>
+<ul><li>Minimum of 1,450 hours billed per fiscal year prorated based on start date. These charge hour requirements will be balanced against professional development and on the job training.</li></ul>
+<p><b>Competencies </b></p>
+<ul>
+<li>
+<b>Accountability</b>- Ability to accept responsibility and account for his\her actions</li>
+<li>
+<b>Adaptability</b>- Ability to fit into a changing environment</li>
+<li>
+<b>Ambition</b>- Extent that an individual demonstrates driveand initiative in seeking personal advancement or recognition</li>
+<li>
+<b>Decision Making</b>- Selecting an effective course of action while controlling resources and expenditures</li>
+<li>
+<b>Detail Orientated</b>- Ability of an individual to pay meticulous attention to all aspects of a situation or task, no matter how small or seemingly unimportant</li>
+<li>
+<b>Ethical </b>- Ability to be guided by the company’s accepted principles of moral conduct</li>
+<li>
+<b>Organized</b>- Ability of an individual to be structured and methodical in working skills</li>
+<li>
+<b>Persistence</b>- Ability to continue in a course of action in the face of adversity</li>
+<li>
+<b>Technical Aptitude</b>- Ability to relate to topics which require and understanding or specialized knowledge</li>
+</ul>
+<p><b>Required Experience: </b></p>
+<ul><li>2+ years in a technical related field</li></ul>
+<p><b>Preferred Experience: </b></p>
+<ul>
+<li>3-5 years in a technical related field</li>
+<li>3+ years’ experience working as a consultant</li>
+</ul>
+<p><b>Required Skills, Education and/ or Certifications: </b></p>
+<ul>
+<li>Bachelors Degree or equivalent certifications</li>
+<li>CCNA, ACMA, ACCA, CMNA or equivalent level certifications</li>
+<li>Experience designing and architecting network based solutions</li>
+<li>Installing and supporting Cisco or HP/Aruba network switching and routing products</li>
+<li>IOS, IOS-XR, NX-OS Experience/Best Practices</li>
+<li>Routing Protocols—OSPF, EIGRP, BGP, L2 / L3 Architecture and Design Multicast, QoS</li>
+</ul>
+<p><b>Preferred Skills, Education and/ or Certifications: </b></p>
+<ul>
+<li>Bachelors Degree</li>
+<li>At least two or more Associate level certifications</li>
+<li>CCNA, ACMA, ACCA, CMNA or equivalent level certifications</li>
+<li>Installing and supporting Cisco or HP/Aruba network switching and routing products</li>
+<li>IOS, IOS-XR, NX-OS Experience/Best Practices</li>
+<li>Cisco Nexus technologies such as VDC, vPC, VXLAN, etc.</li>
+<li>Routing Protocols—OSPF, EIGRP, BGP, L2 / L3 Architecture and Design Multicast, QoS</li>
+<li>Cisco based ISR-based VPN solutions such as FLEX-VPN, GET-VPN, or DMVPN.</li>
+<li>Data Center / Core design, configuration, and implementation utilizing Cisco Nexus Architecture (9K, 7K, 6K, 5K, 3K, 2K, 1000V).</li>
+<li>Software Defined Networking (SDA, SD-WAN)</li>
+<li>Cisco/Meraki/Aruba Wireless</li>
+<li>Controller or autonomous based</li>
+<li>Design using Ekahau or similar product</li>
+<li>High Density/Manufacturing/Office/Education</li>
+<li>Familiarity or experience with:</li>
+<li>Meraki (Wireless, Security Products, Switches, SDWAN)</li>
+<li>Citrix NetScaler ADC/SDWAN deployment a plus</li>
+<li>Network security appliances Including Cisco ASA/FTD, Palo Alto firewalls and related technology</li>
+<li>Additional core technologies such as: Riverbed, OpenDNS, Infoblox, Cisco Optical, NetBrain, FireEye, SolarWinds, SPLUNK </li>
+</ul>
+<p>Heartland is an EEO Employer- Disabled/Vets</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>designing and architecting network based solutions: 3 years (Preferred)</li>
+<li>Installing and supporting Cisco or HP/Aruba network switch: 3 years (Preferred)</li>
+<li>Consulting Engineering: 3 years (Required)</li>
+</ul>
+<p>License:</p>
+<ul><li>CCNA, ACMA, ACCA, orCMNA (Preferred)</li></ul>
+<p>Work Location:</p>
+<ul><li>Multiple locations</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+</ul>
+</div>

@@ -1,0 +1,85 @@
+<h2>ASP.NET Web Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>US Citizens and those authorized to work in the US are encouraged to apply. We are unable to sponsor at this time.</div>
+<div>
+<br>
+</div>
+<div>
+Direct applicants only, no corp-to-corp candidates, third parties, or agencies, please.</div>
+<div>
+<br>
+</div>
+<div><b><i>
+This is a right-to-hire position with our client.</i></b></div>
+<div>
+<br>
+</div>
+<div><b>
+Required Skills and Experience:</b></div>
+<ul>
+<li>
+Minimum 4 years of software development experience.</li>
+<li>
+Experience with software as a product or software as a service.</li>
+<li>
+Computer Science degree or relevant work experience in Computer Science, MIS, Engineering, or other related fields.</li>
+<li>
+ASP.NET.</li>
+<li>
+4-5 years of experience.</li>
+<li>
+Strong analytical and problem-solving skills.</li>
+<li>
+Experience developing and maintaining Microsoft ASP.Net MVC, ASP.Net Web Forms, SQL Server, jQuery, and web applications.</li>
+<li>
+Strong understanding of team software development.</li>
+<li>
+Strong understanding of source control systems (SVN).</li>
+<li>
+Highly effective when communicating with technical and non-technical team members.</li>
+<li>
+Experience in all aspects of SDLC.</li>
+<li>
+Versatile, dependable, and organized.</li>
+</ul>
+<div>
+<br>
+</div>
+<div><b>
+Job Description:</b></div>
+<div>
+Our client is a dynamic and industry-leading organization in specialized medical software. They develop and support web-based patient management software used by hospitals throughout the United States that provide continuing care to chronically ill patients. They are seeking an ASP.Net Web Developer to join the team.<br>
+<br>
+<b>The ideal candidate will be able to do the following:</b>
+</div>
+<ul>
+<li>
+Follow agile processes.</li>
+<li>
+Complete web application development projects and tasks using MVC, ASP.Net Web Forms, jQuery, SQL.</li>
+<li>
+Work with team members to analyze problems and needs.</li>
+<li>
+Estimate effort and evaluate risks of projects and tasks.</li>
+<li>
+Clearly document and communicate work completed.</li>
+<li>
+Participate in sprint planning, daily team standups, and code reviews.</li>
+<li>
+Follow team source control processes (committing changes, branching, and merging).</li>
+<li>
+Participate in product management activities and provide technical input.</li>
+<li>
+Provide technical and product consultation for sales and implementation projects.</li>
+<li>
+Provide team members with explanation and education of technical matters.</li>
+<li>
+Resolve issues effectively and in a timely fashion.</li>
+</ul>
+<br>
+<br>
+<b>About Dedicated Tech Services</b>
+<br>
+<br>
+<p>Dedicated Tech Services, Inc. (DTS) is a WBENC certified Information Technology consulting firm dedicated to providing our clients with outstanding technical services.</p>
+</div></div>

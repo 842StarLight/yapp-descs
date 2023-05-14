@@ -1,0 +1,75 @@
+<h2>Technology Project Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div><div><div><div>
+<div>
+<b>JPMorgan Chase &amp; Co.</b>(NYSE: JPM) is a leading global financial services firm with assets of $2.6 trillion and operations worldwide. The firm is a leader in investment banking, financial services for consumers and small business, commercial banking, financial transaction processing, and asset management. A component of the Dow Jones Industrial Average, JPMorgan Chase &amp; Co. serves millions of consumers in the United States and many of the world's most prominent corporate, institutional and government clients under its J.P. Morgan and Chase brands. Information about JPMorgan Chase &amp; Co. is available at www.jpmorganchase.com.</div>
+<br>
+<div></div>
+<div><b>About FX Services</b></div>
+<br>
+<div></div>
+<div>JPMorgan’s FX Services business offers automated foreign exchange (FX) services across a number of use cases, such as corporate or retail clients making international payments, custodians funding international securities trades or eCommerce merchants wanting to price their products in multiple currencies.</div>
+<br>
+<div></div>
+<div>The business is supported by global the FX Services technology team with contributors in Houston, New York, Bournemouth, London, Mumbai, Bangalore and Singapore. The team is organized into Agile development teams supported by QA and Product Delivery Teams.</div>
+<br>
+<div></div>
+<div><b>Key Responsibilities</b></div>
+<br>
+<div></div>
+<div>The successful candidate will be involved in the business analysis and management of software development processes for FX Services trading/sales software. Specifically you will:</div>
+<br>
+<div></div>
+<ul>
+<li><div>Business Analysis: Interact with external clients, internal stakeholders and regulators to gather and document requirements.</div></li>
+<li><div>
+Analyze, design and implement new efficient processes for our current businesses.
+</div></li>
+<li><div>Analyze, design and implement solutions for clients.
+</div></li>
+<li><div>Product Delivery and Management: Manage projects against aggressive client commitments and deadlines. Ensure ordered and well documented product backlogs. Remove blockers to development progress. Manage stakeholder expectations.</div></li>
+<li><div>
+Produce high quality documentation for internal users and external clients.</div></li>
+</ul>
+<ul>
+<li>Expectation management for various stake holders with competing interests, for limited resources.</li>
+<li>QA test definition, oversight and review of automated acceptance and integration tests. Challenge development teams to ensure technical solutions are sound.</li>
+<li>Be commercial aware and mindful of costs vs benefits in everything we do.</li>
+<br>
+</ul>
+<div></div>
+<div><b>Desirable Skills and Experience:</b></div>
+<br>
+<div></div>
+<ul>
+<li><div>Experience of technology landscape involved in trading for Foreign Exchange products.</div></li>
+<li><div>
+End to End Foreign Exchange business and product knowledge – including pricing, trading, settlement, accounting, payments</div></li>
+<li><div>
+Significant experience with the agile software development framework, with a substantial experience in high pressure, time critical environments.</div></li>
+<li><div>
+Excellent communication, documentation and organizational skills.</div></li>
+<li><div>
+Excellent presentation skills – to present to a range of stakeholders from senior internal managers, external clients, regulators and development teams.</div></li>
+<li><div>
+Technical Self-Sufficiency – experience with SQL, JSON, XML etc; understanding of APIs, webservices, technical architecture, cyber security.</div></li>
+<li><div>
+Agile Testing: automating testing, non-functional test design</div></li>
+<li><div>
+Structured Business Analysis: UML, Spec By Example, modelling business scenarios.</div></li>
+<li><div>
+Agile Scrum Process: Product backlog management, ensuring continuous improvement, ability to extract meaningful stats and metrics from the development process.
+</div></li>
+<li><div>Bachelor's degree in Computer Science or equivalent stream with mathematical background, or a Management degree, with relevant work experience in software development processes.</div></li>
+<li><div>
+Ability to work independently, own issues to resolution and be self-motivated to achieve the best results for clients.</div></li>
+<li><div>
+Mandarin speaker a plus.</div></li>
+</ul>
+<br>
+<div></div>
+<div>J.P. Morgan is a place for talented people from all backgrounds and perspectives because our clients come from all backgrounds and perspectives. We encourage a culture of inclusion, where everyone's opinion counts and all employees have the freedom to deliver their absolute best. This is why we work hard and invest in attracting and developing a diverse workforce. Learn more about our Business Resource Groups in how they help our employees build successful careers and reach their greatest potential.</div>
+</div></div></div></div>
+<div></div>
+</div>

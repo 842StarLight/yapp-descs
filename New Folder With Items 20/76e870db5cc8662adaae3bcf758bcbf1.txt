@@ -1,0 +1,86 @@
+<h2>Data Implementation Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>How We Think About People:</b><br>
+PrecisionLender is built on a single overarching belief… that helping our clients succeed is the only way to ensure that our company succeeds. Everything we do, every decision we make, reflects that belief.
+<br><br>
+We start by hiring for character traits like empathy, modesty, respect, trust, reliability, and patience. After that, we stay out of the way and let our people do what's best for the client.
+<br><br>
+<b>Company Overview:</b><br>
+PrecisionLender is modernizing commercial banking. Our sales and negotiation solution empowers bankers with actionable, in-the-moment insights and coaching, so they win better deals and build strong, more profitable relationships. Andi®, PrecisionLender's virtual insights analyst, augments banker strengths and intelligence with the latest technology and data, delivering the best recommendations at exactly the right time. More than 12,000+ bankers at 200+ banks – ranging from $1B to $1T in assets – use our solution.
+<br><br>
+<b>What You'll Do Here:</b><br>
+As a Data Implementation Manager on the Client Success team, it's your responsibility to work with our newest clients to get them up to speed using our commercial loan pricing and profitability solution. This position will be extensively involved in implementing PrecisionLender's Relationship Awareness (RA) module for new clients, as well as maintaining RA installations for existing customers. In this role, you'll:
+<br><br>
+<ul>
+<li>Work with our newest clients, on a daily basis, to configure, test and validate the integration of data from the customer's core processing system with PrecisionLender.</li>
+<li>Understand client concerns and address them appropriately, knowing when to seek out help from others.</li>
+<li>Independently manage medium-sized projects to completion under general supervision.</li>
+<li>Communicate client issues and requests to our developers and create appropriate solutions with them.</li>
+<li>Ensure that the RA onboarding process is completed in a timely manner consistent with client expectations.</li>
+<li>Independently manage client queue to perform RA maintenance and be responsible for decisions on queue priority.</li>
+<li>Identify and implement ways to improve the integration processes in order to improve efficiency and effectiveness over time.</li>
+</ul>
+<b>Responsibilities:</b><br>
+<ul>
+<li>High willingness to gain product &amp; financial knowledge to effectively serve our clients.</li>
+<li>Key member of the Client Success Team working closely with our clients as well as our sales, operations, and product development teams.</li>
+<li>Translate client data appropriately into the RA platform to ensure data is being used appropriately in calculations.</li>
+<li>Participates in client Kick-Off meetings to set expectations, answer questions and communicate process and data requirements for new customers.</li>
+<li>Manages subsequent client calls independent of other team members.</li>
+<li>Develop good working relationships with clients including individuals from IT, Lending, Credit and/or Operations.</li>
+<li>Work closely with client counterparts to identify unique business requirements and then map, test, validate and maintain the IRM interface.</li>
+<li>Organize and maintain all client data files used in the integration process.</li>
+<li>Create the mapping configuration file used by PrecisionLender to execute scheduled imports from the client data files provided using Excel and MS Visual Studio.</li>
+<li>Design, implement, support and monitor exception reporting systems for prompt resolution to any problems in processing, including cleanup of daily errors for all RA installations.</li>
+<li>Keep internal project boards and Salesforce client records updated to reflect the current status and key communications with each client.</li>
+<li>Perform business and data analysis against the growing client database to assist management in identifying insightful and actionable data.</li>
+<li>Special projects and analysis.</li>
+</ul>
+<b>What You're Awesome At:</b><br>
+<ul>
+<li>You have hands on experience with Python, XML, SQL or C#.</li>
+<li>You have a good working knowledge of ETL processes.</li>
+<li>You are an energetic self-starter that excels at working both individually and as a team.</li>
+<li>You embrace change &amp; adapt quickly and with a positive attitude.</li>
+<li>You listen way more than you talk and always seek to understand.</li>
+<li>You are familiar with general banking and lending functions, loan structures and terminology.</li>
+<li>You have a proven record of strong data analysis skills.</li>
+<li>You have strong interpersonal, oral, and written communication skills and enjoy working directly with clients.</li>
+<li>You are able to relate complex ideas to our clients in a manner that is easy to understand.</li>
+<li>You have a strong work ethic and calmly manage multiple projects at a time.</li>
+<li>You have excellent organizational skills and the ability to stay productive despite interruptions or uneven workflow.</li>
+<li>You have a passion for accurate and detailed results. Attention to detail is critical (have you read this ENTIRE job posting?).</li>
+</ul>
+<b>What Others Say About You:</b><br>
+<ul>
+<li>You're equally comfortable working with people and data</li>
+<li>You're humble</li>
+<li>You're reliable</li>
+<li>You're organized and detail oriented</li>
+<li>You're a fantastic listener</li>
+<li>You have a bias toward ACTION</li>
+<li>You're resourceful and creative</li>
+<li>You're warm, friendly, approachable, and have an innate desire to help others</li>
+</ul>
+<b>Your Experience &amp; Education:</b><br>
+<ul>
+<li>B.S. / B.A. or equivalent required. Advanced degree preferred.</li>
+<li>At least 2 years' experience in a client facing role speaking to C-suite executives – either internally or externally.</li>
+<li>A minimum of 3 years' experience in multiple coding languages and ETL processes. Python experience preferred.</li>
+<li>Familiarity with core processing systems for banks and credit unions is a big plus.</li>
+<li>Experience working with Enterprise level clients a big plus.</li>
+<li>Ideal candidates will possess intermediate financial, loan and lending knowledge and will likely have experience with a financial institution.</li>
+</ul>
+Would You Thrive Here?
+<br><br>
+We aim to build an entire company of doers, and much will be expected of you. If you have never felt intellectually and professionally challenged before, think long and hard before applying for this position. You will be surrounded by "A players" who expect you to perform at their level every day, and you will have the very best supporting cast to bring your greatest ideas to life. That's right, YOUR ideas. There's no hierarchy of "idea people" around here... we focus on doing whatever is best for the business.
+<br><br>
+<b>What You'll Get:</b><br>
+PrecisionLender strives to provide a generous and comprehensive benefits package to help you stay healthy, feel secure, and maintain a great work/life balance. We offer competitive pay, medical, dental, vision, disability, 401k, real raise and bonus potential, and contribute to your Health Savings Account (HSA). Our open vacation, sick day, have-to-go-wait-for-the-cable-guy policy is similarly generous, feel free to ask. On top of all that, you'll be surrounded by awesome people who care deeply about what they do and will do whatever it takes to help YOU succeed.
+<br><br>
+<b>How You Should Apply:</b><br>
+We're looking for people who pay attention and care about their future. That means SKIPPING the one-click "Apply Now" button on Indeed or LinkedIn. If you want to be considered for this position, you'll need to answer each of the questions in the "Apply for this Job" section on the PrecisionLender Careers Page ( http://precisionlender.com/careers/ ) (http://precisionlender.com/careers/ ( http://precisionlender.com/careers/ )).
+<br><br>
+PrecisionLender is an Equal Opportunity Employer, including disabled and veterans. If you need assistance with the application process due to a disability, please contact us by email at careers@precisionlender.com ( careers@precisionlender.com ) or by phone at 980-297-7100. You will need to provide your contact information and the nature of your accessibility issue. Any offer of employment is expressly contingent upon successful completion of a background check and drug screening.
+<br><br>
+PrecisionLender is committed to protecting the personal information that you provide to us as part of the recruitment process. Please review our Privacy Policy ( https://precisionlender.com/privacy-policy/ ) for additional detail (https://precisionlender.com/privacy-policy/ ( https://precisionlender.com/privacy-policy/ )).</div>

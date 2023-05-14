@@ -1,0 +1,80 @@
+<h2>Network Engineer, Advanced</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Job Description</b>
+</p>
+<p>TechOps Network Services is seeking a qualified Network Engineer to administer and maintain the network in our data center locations. This includes regularly scheduled maintenances, switch port configurations, routing changes and changes to security policies within the switching fabric. This position will support a wide range of switching platforms including Cisco IOS, NXOS, ACI and Arista EOS. The team is also responsible for supporting DMVPN technologies and the candidate should be proficient in EIGRP and BGP routing protocols as well as ipsec. Jack Henry provides strong opportunity for career progression not only within TechOps but across the organization as well. The following are examples of where you could progress to: Network Engineer, Senior / Advisory and or Supervisor / Management opportunities. If you are interested in this position please apply on or before September 25, 2019.</p>
+<p>
+This role can be filled out of the any of the following locations: Monett, MO / Springfield, MO – Primrose / Remote.
+</p>
+<p><b>MINIMUM QUALIFICATIONS</b></p>
+<ul>
+<li>
+Must have a minimum of 5 years of experience in Network Engineering.</li>
+<li>
+Must have experience with Cisco route/switch.
+</li>
+<li>Must be able to travel up to 10% for network onsite maintenance or to attend additional team meetings / training.</li>
+<li>
+Must be able to participate on a on-call rotation that is once every 8 weeks and this can vary based on business needs.
+</li>
+</ul>
+<p><b>PREFERRED QUALIFICATIONS</b></p>
+<ul>
+<li>
+Cisco CCNA route/switch</li>
+<li>
+Arista: ACE – A certification</li>
+</ul>
+<p><b>
+ESSENTIAL FUNCTIONS
+</b></p>
+<ul>
+<li>Performs IP Subnetting, Subnet planning, allocation and distribution and IP address allocations</li>
+<li>
+Performs occasional network maintenance on site in Data Center locations.</li>
+<li>
+Good collaboration skills are a must as the team works very closely on a daily basis.</li>
+<li>
+Maintains configuration templates</li>
+<li>
+Follows change management policies to implement changes.</li>
+<li>
+Project management skills</li>
+<li>
+Installs current network operating system on new or existing network devices and/or installs communication equipment including routers and switches.</li>
+<li>
+Installs software on networking devices.</li>
+<li>
+Provides phone support to employees or customers relative to networking technology.
+</li>
+<li>Analyzes network topologies to determine potential issues and makes suggestions for recommended changes.</li>
+<li>
+Assists with the preparation of network assessments and certifications.
+</li>
+<li>Additional essential functions for network installations at a customer site:
+</li>
+<li>Installs current network operating server software on new or existing server-class hardware and/or installs communication equipment including routers, terminal servers, switches and firewalls.
+</li>
+<li>Installs supporting applications and peripherals on the above mentioned servers including tape backup hardware and software, email software, anti-virus software, etc. and/or implement technologies.</li>
+<li>
+Installs user workstation hardware, operating software and various application software and/or pre-configured equipment.
+</li>
+<li>Configures user IDs and customer-specific settings on servers and transfers data from the old environment to the new environment.
+</li>
+<li>Corresponds with customer and other divisions within the company to insure all customer concerns and issues are resolved in a timely manner.
+</li>
+<li>Assists Sales by analyzing customer requirements and recommending appropriate products and services.
+</li>
+<li>Prepares statements of work relative to upcoming network installations and general preparations for installations.</li>
+</ul>
+<p>
+</p>
+<p></p>
+<p><b>Equal Employment Opportunity</b>
+</p>
+<p><i>Applicants for U.S. based positions with Jack Henry &amp; Associates must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is not available for this position.</i></p>
+<p><i>
+Jack Henry &amp; Associates, Inc. is an Equal Employment Opportunity/Affirmative Action Employer and maintains a Drug-Free Workplace.</i></p>
+<p><i>
+Females, minorities, veterans, and individuals with disabilities are encouraged to apply.</i></p>
+</div></div>

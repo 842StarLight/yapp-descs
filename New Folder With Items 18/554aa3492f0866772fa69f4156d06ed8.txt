@@ -1,0 +1,43 @@
+<h2>Technical Account Manager, Updatability</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Minimum qualifications:</p>
+<ul>
+<li>
+Bachelor's degree or equivalent practical experience.</li>
+<li>Experience managing engineering projects in the mobile/CE/embedded space.</li>
+<li>Experience with one or more programming languages (e.g., C, C++, Java).</li>
+<li>Experience with the Android platform and with community driven software development processes.</li>
+</ul>
+<br>
+<p>Preferred qualifications:</p>
+<ul>
+<li>
+4 years of experience working with multiple stakeholder driven projects.</li>
+<li>Experience with Android, Linux kernel, and Linux device drivers.</li>
+<li>Experience handling multiple customers and streams of work.</li>
+<li>Excellent technical project management skills
+</li>
+<li>Excellent analytical skills and demonstrated sense of ownership, can-do attitude, and creative problem-solving.</li>
+<li>Excellent communication and project management skills.</li>
+</ul>
+<div>
+<h2 class="jobSectionHeader"><b>About the job</b></h2>
+<p>
+As a Technical Account Manager, you are responsible for providing technical solutions and managing relationships with Google's largest and most strategic online publishers. As a liaison between clients and our technical staff, you flawlessly lead deployments, implementations and integrations of a variety of our product lines (such as Search, Mobile, Video and Commerce). From monitoring product performance to debugging and troubleshooting product code, you are the resident expert that addresses partner needs. You are a technical expert with an entrepreneurial drive and passion for client management.</p>
+<p>The Android Partner Engineering team at Google works closely with the Android device ecosystem to extend the boundaries of what can be achieved with the Android platform. The team is deeply engaged with OEMs, carriers, chipset vendors, and ODMs across the globe and works in a fast-paced technology driven environment. Our aim is to make Android the platform of choice across multiple consumer and enterprise domains while ensuring that these devices remain secure and updated.<br>
+<br>
+As a Technical Account Manager, you will work on solving hard problems that the Android device ecosystem faces. You'll define and streamline processes for partner engagements, lead technical projects, and optimize implementations and integrations to increase business and drive new business opportunities. In this role, you'll take a lead on code and architecture reviews for new features from external stakeholders and gather and analyze data to help Google and its partners make informed decisions. Additionally, you will define the technical scope of projects with external partners and oversee the end-to-end execution.</p>
+<p>
+Whether working with next-gen chipset manufacturers or emerging market telcos, Google's Android Partner Engineering team helps solve some of the toughest mobile technology problems. We work with teams throughout Google to develop solutions for strategic partners around the globe. We maintain crucial relationships with and build technical solutions for our long-term partners who are making Android into a world-changing platform. But we're just getting started.</p>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<ul>
+<li>Manage end-to-end engagements on technical projects with chipset vendors in the Android handset and tablet market.</li>
+<li>Lead the OEM Beta/Developer Preview program, working across multiple teams within Google and external partners.</li>
+<li>Lead new features and work with multiple partners on the adoption of new features. Enhance the Android Platform by bringing in feature requests from external partners.</li>
+<li>Improve product feature offerings by providing partner feedback to internal cross-functional teams, including Product Management and Core Engineering.</li>
+<li>Guarantee the technical aspects of a partner’s integration (both new and ongoing) by providing necessary documentation and technical guidance.</li>
+</ul>
+</div>At Google, we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.</div></div>

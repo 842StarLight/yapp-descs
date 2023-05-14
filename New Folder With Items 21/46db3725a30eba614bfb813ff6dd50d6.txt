@@ -1,0 +1,32 @@
+<h2>Senior Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Back End Software Engineer
+<br><br>
+TixTrack is re-inventing the way live entertainment companies and attractions sell tickets to their events. Our software is used by industry leaders such as The Broad Museum, The Los Angeles Clippers, The Walt Disney Company and Cirque du Soleil. Our products have been driving tremendous growth for our customers' sales and, as a result, TixTrack is now experiencing our fastest growth ever. Were looking for a great Back End Software Engineer to help continue our success!
+<br><br>
+This is a ground floor opportunity to join a small team and to have a big impact on the direction of our products. You will get to help change the ticketing industry by designing and developing a new ticket buying experience that people love!
+<br><br>
+Your Skills and Qualifications
+<br><br>
+<ul>
+<li>A burning desire to build fantastic products that raise the bar for success in our industry.</li>
+<li>Deep knowledge of object-oriented design and programming techniques.</li>
+<li>Experienced in creating effective, automated software tests.</li>
+<li>Designing for and deploying to cloud infrastructure such as Amazon AWS or Microsoft Azure.</li>
+<li>Knowledge of design principles for delivering highly available and highly scalable web systems (we may experience 100,000 + concurrent users).</li>
+<li>Proficiency in SQL.</li>
+<li>Proficiency in Git source control.</li>
+<li>Knowledge of client-side JavaScript frameworks such as Angular, React or Vue is a plus.</li>
+<li>A bachelor's or master's degree in computer science, information systems or an equivalent is preferred.</li>
+</ul>
+Benefits and Work Environment
+<br><br>
+Our office is in the heart of Silicon Beach in sunny Santa Monica (though we are likely moving to downtown Los Angeles soon). We are serious about success, but we strive for a fun and friendly work environment that everyone enjoys coming to every day. TixTrack is a young company, but unlike many companies of our size, we are already profitable.
+<br><br>
+<ul>
+<li>Competitive salary and equity opportunities</li>
+<li>Fully paid healthcare benefits</li>
+<li>Paid vacation and holidays</li>
+<li>Free snacks (and beer)</li>
+<li>Fun and relaxed office environment</li>
+</ul>
+</div>

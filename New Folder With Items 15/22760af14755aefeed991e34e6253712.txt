@@ -1,0 +1,135 @@
+<h2>Senior Application Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Description</b>
+</p>SHIFT: No Weekends<br>
+<br>
+SCHEDULE: Full-time<br>
+<br>
+<div>Do you have the career opportunities you want in your current role? We have an exciting opportunity for you to join the nation's largest provider of healthcare services as a Sr. Application Engineer.<br>
+<br>
+At HCA, you have options. You can choose from a variety of benefits to create a customizable plan. You have the ability to enroll in several medical coverage plans including vision and dental. You can even select additional al la carte benefits to meet all your needs. Enroll in our Employee Stock Purchase Plan (ESPP), 401k, flex spending accounts for medial and childcare needs, and participate in our tuition reimbursement and student loan repayment programs.<br>
+<br>
+You contribute to our success. Every role has an impact on our patients’ lives and you have the opportunity to make a difference. We are looking for a dedicated professional like you to be a part of our Information Technology team. Join us in our efforts to better our community!<br>
+</div>
+<div>
+</div>
+<div>Position Title: Sr. Application Engineer<br>
+<br>
+Job Code/Grade/Level<br>
+<br>
+JOB SUMMARY (Primary purpose of the position.)<br>
+We are currently seeking an energetic, versatile solutioning expert to join our Application development team. This individual must be an experienced business solutions architect with a strong track record in successfully transforming business processes using IT proven tools. Someone with extensive Microsoft .NET Framework development and architecture experience and Microsoft stack technology background that includes familiarity and experience with a broad range of software development best practices, architecture patterns, technologies, frameworks and tools such as Visual Studio, SCM, CI, MS SQL Server, MVC, jQuery, CSS, Bootstrap, SaaS, Enterprise, Multi-threaded software, REST, Azure, and more. Application Engineer is responsible for designing, developing and implementing programs and applications. Also perform prototyping, application tests and code reviews to ensure product is satisfactory.<br>
+</div>
+<div>
+<br>
+GENERAL RESPONSIBILITIES (The essential responsibilities and accountabilities of this position including interactions with other departments and outside vendors, if applicable, in PRIORITY order.)<br>
+<br>
+Expertise</div>
+<ul>
+<li>
+<br>
+Design, develop, document, test, and debug new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use</li>
+<li>
+<br>
+Support, maintain, and document software functionality</li>
+<li>
+<br>
+Participate in software design meetings and analyze user needs to determine technical requirements. Consult with end user to prototype, refine, test, and debug programs to meet needs.</li>
+<li>
+<br>
+Proficient in handling the complex of technical development concepts, latest software tools and technologies</li>
+<li>
+<br>
+Assist in identifying and evaluating new technologies for implementation</li>
+<li>
+<br>
+Experience in troubleshooting, full life-cycle software development processes and ability to understand and implement client requirements</li>
+<li>
+<br>
+Exhibits understanding in how to break down business requirements into implementations using best practices, latest libraries and API’s, and preferred design patterns</li>
+<li>
+<br>
+Serve as technical expert on development projects</li>
+</ul>
+<div>
+Technical</div>
+<ul>
+<li>
+<br>
+4+ years of development experience using C# and .NET framework</li>
+<li>
+<br>
+Experience in web development (HTML, CSS, JavaScript)
+</li>
+<li>
+<br>
+Experience with Microsoft IIS/Windows, or equivalent server platforms
+</li>
+<li>
+<br>
+Strong understanding of Object Oriented Programming and Design
+</li>
+<li>
+<br>
+NET MVC/MVVM experience preferred</li>
+<li>
+<br>
+Well versed in client-side scripting (JavaScript, jQuery, AJAX/JSON)</li>
+<li>
+<br>
+Experience with Azure ecosystems</li>
+<li>
+<br>
+Experience implementing automated testing platforms and unit test</li>
+<li>
+<br>
+Being comfortable and proficient in a dynamic, agile team environment</li>
+<li>
+<br>
+Familiarity working with Relational Database Systems preferred</li>
+<li>
+<br>
+Experience with Azure Dev Ops / Team Services</li>
+<li>
+<br>
+Strong written and verbal communication skill</li>
+<li>
+<br>
+Experience with Agile programming preferred<br>
+<br>
+</li>
+</ul>
+<div>RELEVANT WORK (Minimum amount of specifically related experience which is required to perform the role at this level.<br>
+<br>
+Experience Note in Other additional specific exp.)
+<br>
+5+ years<br>
+<br>
+EDUCATION (Minimum formal academic training which typically provides the knowledge and skills necessary for successful job performance.<br>
+<br>
+Note in Other if experience may be substituted.)<br>
+<br>
+Bachelor’s Degree Required<br>
+<br>
+OTHER/SPECIAL QUALIFICATIONS (Required licenses, certificates, specific skills, personal traits, e.g., RN, CPA, able to type 90 wpm, detail orientation.)</div>
+<ul>
+<li>
+<br>
+Experience working with micro-services architecture a big plus
+</li>
+<li>
+<br>
+Experience with UI Path based applications a plus<br>
+</li>
+</ul>
+<div>PHYSICAL DEMANDS/WORKING CONDITIONS (Specific statements of physical effort required and description of work environment; e.g., prolonged sitting at CRT, required travel %)<br>
+<br>
+</div>
+<p><b>Qualifications</b>
+</p>
+<div>Parallon is an <b>industry leader</b> in revenue cycle services. We partner with over 650 hospitals and 2,400 physician practices nation-wide. Our parent company, HCA Healthcare has been consistently named a <b>World’s Most Ethical Company</b> by Ethisphere and is ranked in the Fortune 100. We are dedicated to ensuring our patients have the best experience even after they leave our facilities.</div>
+<p>Be a part of an organization that invests in you. We are actively reviewing applications. Highly qualified candidates will be promptly contacted by our hiring managers for interviews. Submit your application and help us raise the bar in patient care!
+</p>
+<div>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</div>
+<div>#ParallonBCOM</div>
+</div></div>

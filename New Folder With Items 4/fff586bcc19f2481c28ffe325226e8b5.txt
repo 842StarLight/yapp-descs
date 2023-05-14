@@ -1,0 +1,112 @@
+<h2>Senior IT Application Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>We are Relativity. A market-leading, global tech company that equips legal professionals with a powerful platform to organize data, discover the truth, and act on it. The U.S. Department of Justice, 198 of top 200 U.S. law firms, and more than 70 Fortune 100 companies are among our customers who trust Relativity during litigation, internal investigations, and compliance projects.
+</div>
+<div></div>
+<div>Our SaaS product, RelativityOne, has become the fastest-growing product in the company's history and we have consistently been named a great workplace. As we grow, we continue to seek individuals that will bring their whole self to our team atmosphere.</div>
+<div>
+</div>
+<div>
+Join us in the transformation of the legal industry and play a pivotal role in shaping the future of the practice of law and beyond.</div>
+<div></div>
+<br>
+<div>
+</div>
+<div>
+As a <b>Sr. Application Engineer</b>, you will assist in defining business processes and enabling end-to-end capability from design to implementation across various applications (Salesforce, Jira, Confluence, etc…). You will be an active participant through the software development life-cycle, from design, build, deploy and change management. Focus will be delivering a holistic solution not based solely on the merits of any one technology. This individual would work under minimal direction from managers and senior team members and reviews work and provides guidance for less experienced colleagues.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Role Responsibilities</b></h3>
+<div><ul>
+<li>
+Ensure proper security models are in place and maintained for data access</li>
+<li>
+Work with departments on change requests to ensure changes align with business processes and mitigate risk of those changes</li>
+<li>
+Stay current on new features of application to ensure company is utilizing the application as effectively as possible</li>
+<li>
+Ensure new releases are rolled out smoothly to the organization</li>
+<li>
+Gather requirements from users, propose solutions that meet business needs, and deliver agreed upon solutions</li>
+<li>
+Apply business best practices and consider business goals/objectives when developing solutions</li>
+<li>
+Manage monthly feature releases via rotation with other Application Administrators and Engineers</li>
+<li>
+Regular customer engagement and strategic discussion via: running monthly stakeholder meeting(s), and other activities</li>
+<li>
+Develop solutions that are scalable, and flexible</li>
+<li>
+Create comprehensive business workflows utilizing internal tools such as Salesforce, Jira, Workato, etc… to empower internal teams and meet business requirements</li>
+<li>
+Provide technical expertise across small, medium, and large-scale projects as related to supported applications</li>
+<li>
+Coordinate with Business Service Managers to ensure timely delivery, execution and function of service implementations</li>
+<li>
+Understand system architecture of upstream and downstream applications and identify potential impact when implementing solutions</li>
+<li>
+Proactive recommendation of process improvements within role, team and across other Relativity departments Troubleshoot and resolve user issues as they arise</li>
+<li>
+Manage data security within applications</li>
+<li>
+Provide application expertise to team members through education and review</li>
+<li>
+Train, educate and empower business team to use supported applications effectively and efficiently</li>
+<li>
+Ensure all work is thoroughly documented in the appropriate format (requirements, tickets, project plans, workflow diagrams, test cases, user stories, etc.)</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Preferred qualifications</b></h3>
+<div><ul>
+<li>
+Customer Service driven mindset with strong relationship building skills</li>
+<li>
+Strong understanding of business processes</li>
+<li>
+Analytical mindset</li>
+<li>
+Ability to plan ahead and solution for futures</li>
+<li>
+Ability to manage cross functional projects</li>
+<li>
+Experience working and communicating with software engineers</li>
+<li>
+Experience supporting applications in large enterprise environments</li>
+<li>
+Detail-oriented, enthusiastic, self-starter with ability to work both independently and in a team environment</li>
+<li>
+At least five years working with 3 or more key business functions (i.e. sales, marketing, service, finance HR, BI etc.)</li>
+<li>
+Experience with giving strategic input or participating in strategic planning</li>
+<li>
+Familiarity working with ETL, implementation and middleware tools</li>
+<li>
+Experience with SQL, Splunk, AHA, Workato, Pagerduty</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Minimum qualifications</b></h3>
+<div><ul>
+<li>
+5 years of experience working on cross-functional projects</li>
+<li>
+3 years of working with sales, marketing or service automation (experience in multiple preferred)</li>
+<li>
+3 years of supporting an organization larger than 300 employees,or rapidly growing organization</li>
+<li>
+Experience with basic programming and/or scripting</li>
+</ul></div>
+</div></div>
+<div>
+<div>At Relativity, we live our core values and we thrive on solving complex problems. We’re dedicated to continually improving our product and providing relentless customer service. We seek professionals that will bring their authentic and unique experiences to our teams.
+</div>
+<div></div>
+<div>We understand career choices are a big decision, and we thank you for considering Relativity.</div>
+<div>
+</div>
+<div><i>
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.</i></div>
+</div>
+</div></div>

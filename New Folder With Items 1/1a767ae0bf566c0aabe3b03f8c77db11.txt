@@ -1,0 +1,130 @@
+<h2>4G 5G Systems Test Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Position Summary
+</b></p>
+<p></p>For decades, Samsung has been leading the charge on innovation. We see beauty in achieving excellence and our passion for change fuels our discoveries, inventions, and breakthrough technology. We believe that technology can, and should, make the world a better place, so we create new possibilities for people everywhere, push the limits of what’s possible, and constantly innovate.
+<br>
+<br>
+At Samsung Electronics America, we take pride in the creativity and diversity of our talented people – they are at the forefront of everything we do. Their skillset and mindset drive our continued success. Only the resilient and resourceful thrive in the daily dose of unexpected at Samsung. We unapologetically push to achieve unforeseen potential in everything we do, both within the workplace and at home. We fearlessly face challenges head-on, conquer the unconquerable, and are comfortable living in the uncomfortable zone. Together we make the impossible possible. Because at Samsung, we Own the Unknown.
+<br>
+<br>
+Are you ready to #OwnTheUnknown? Join us.
+<br>
+<br>
+If you have ambitions to be a part of a Best in Class organization, Samsung’s Wireless Networks team is the place to be! The role of the Wireless Networks Team is to support our carrier customers through innovative technology road map. The dynamic culture at Samsung offers both great challenge and great reward. If you want to work among the very best talent in the industry, working on the most innovative products in the world, Samsung is the place to be.
+<p></p>
+<p><b>Role and Responsibilities
+</b></p>
+<p></p>
+<p>This position will be responsible for the 4G/5G System Test with emphasis on the RAN CP and OAM features. He or She will perform complex system verification, and customer support of Samsung 4G/5G RAN Equipment including virtual EMS, vRAN. The candidate will provide technical guidance to the junior team members to ensure deliverables are met.
+</p>
+<p></p>
+<p><b>Specific responsibilities include:
+</b></p>
+<ul>
+<li>Perform complex system verification, and customer support of Samsung 4G and 5G RAN Equipment including virtual EMS, vRAN
+</li>
+<li>Perform feature validation, interoperability testing, field evaluation to get product acceptance from customer
+</li>
+<li>Aid in product &amp; feature performance analysis, evaluation of new product &amp; SW releases
+</li>
+<li>Ensures that customer commitments are achieved according to project plan
+</li>
+<li>Work with team members to prepare test plans/cases and execute to validate RAN CP/OAM functionality
+</li>
+<li>Interface proactively with Product/Technology Engineers to ensure comprehensive test coverage
+</li>
+<li>Responsible for analyzing the customer requirements, developing test strategy for features and functionalities, converting customer requirements into test plans and detailed test procedures
+</li>
+<li>Educate our customers on Samsung’s new products and services both individually and in a team environment. Ensures that customer commitments are achieved according to plan.
+</li>
+<li>Works closely with various support organizations, logistics, and cross- functional teams from SEA and Samsung HQ to achieve successful new product roll-outs and developments
+</li>
+<li>Ability to travel sporadically during the project; up to 20%
+</li>
+</ul>
+<p></p>
+<p><b>Success Criteria:
+</b></p>
+<p></p>
+<p><b>Technical Acumen
+</b></p>
+<ul><li>Subject Matter Expert in driving the technical solutions to customer through complex organizational dynamics
+</li></ul>
+<p></p>
+<p><b>Presentations Skills
+</b></p>
+<ul><li>Leveraging your ability to communicate effectively with all levels of organization as well as HQ partners on initiatives
+</li></ul>
+<p></p>
+<p><b>Excellence Dealing with Ambiguity
+</b></p>
+<ul><li>Bringing your experience in problem solving and ability to navigate complex organizations with pivotal shifts
+</li></ul>
+<p></p>
+<p><b>Skills and Qualifications
+</b></p>
+<p></p>
+<p><b>Background &amp; Competencies Required:
+</b></p>
+<ul>
+<li>Must: 10+ years of relevant industry experiences with BSEE or BSCS or 8+ years with MSEE or MSCS
+</li>
+<li>Bachelor’s Degree is EE/CS is required. Masters in EE/CS is beneficial
+</li>
+<li>Must: Excellent verbal and written communication skills
+</li>
+<li>Must: Some travel required for customer presentations, design reviews, and onsite debugging.
+</li>
+<li>Must: Hands on ability to establish and demonstrate new technology.
+</li>
+<li>Must have PC and UNIX Workstation experience in a LAN/WAN systems environment
+</li>
+<li>Strong knowledge in 5G/4G air interface and call processing technologies and network architecture specifically focused on Radio Access Network
+</li>
+<li>Good understanding of overall Wireless systems with emphasis on PHY, MAC, RLC, RRC and PDCP layers
+</li>
+<li>Must have understanding on wireless concepts such as Hybrid Beamforming, Massive MIMO, New Waveforms, LTE-NR interworking &amp; co-existence, 5G Numerologies etc. .
+</li>
+<li>Experience with system engineering activities such as feature requirements identification, feature description documentation, parameter optimization, performance analysis, test strategy creation, problem troubleshooting is desirable
+</li>
+<li>Have in-depth technical engineering experience including wireless telecommunications engineering activities.
+</li>
+<li>Must be able to write, read, analyze, and interpret technical journals and procedures utilizing mathematics language, non-linear communications, vectors, complex numbers and logarithms as reference.
+</li>
+<li>Must: Have a good understanding of the overall 5G/LTE RAN Network Architecture.
+</li>
+<li>Must: Experience with product testing, development of Test Plan and Test Cases
+</li>
+<li>Must: Technical lead working with team members and providing technical guidance
+</li>
+<li>Must: Working knowledge and experience using RF test equipment
+</li>
+<li>Must: Thorough understanding of SW development cycle
+</li>
+<li>Must: Ability to support market issues to meet commercial SLAs.
+</li>
+<li>Must: Hands on experience with mobility management &amp; mobile broadband Radios.
+</li>
+<li>Must: Working knowledge of 5G/LTE protocol stacks
+</li>
+</ul>
+<p></p>
+<p><b>Necessary Skills and attributes:
+</b></p>
+<p>Demonstrated ability to interact at all levels within customer's organizations. The ability to negotiate with and convince others, in a potentially adversarial environment, including customer leadership, directors and managers with opposing views to accept/approve plans, technical and project recommendations. The ability to plan, organize and prioritize multiple strategic programs and simultaneous performance objectives. The ability to write, read, interpret, explain and act based on a thorough understanding of technical documents, engineering materials and contracts or related documents. Ability to make professional sales and business presentations in writing, through email, reports, or orally, including complex business and technical matters to an audience of high technical skills, management and operational experience. Ability to support a cross-functional Samsung team to achieve customer contracted objectives and specific team goals within established time frames and requirements. Assist in and if needed direct the Samsung team in lab and field trials related to introduction of products sold to the customer.
+</p>
+<p></p>
+<p><b>Physical/Mental Demands:
+</b></p>
+<p>Work is generally performed in an office environment. Operate a computer keyboard and view a video display terminal between more than 50% of work time, including prolonged periods of time. Requires considerable work utilizing high visual acuity / detail, numeric / character distinction and moderate hand / finger dexterity. The movement and transportation of equipment, most of the time is under 25 pounds. Performs work under time schedules and stress which are normally periodic or cyclical, including time sensitive deadlines, intellectual challenges and project management deadlines. Machines, tools, equipment, and work aids include PC’s, printers, copiers, faxes and other equipment commonly associated with an office work area. May require working additional hours beyond normal schedule. Travel varies depending on position. Consistently demonstrates a commitment to policies and procedures, including but not limited to, attendance, confidentiality, conflict of interest and ethical responsibilities.
+</p>
+<p></p>
+<div><p><i>Samsung Electronics America, Inc. is committed to employing a diverse workforce, and provides Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law.
+</i></p></div>
+<p></p>
+<p>#LI-LA1
+</p>
+<p></p>
+<p>* Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here .</p>
+</div></div>

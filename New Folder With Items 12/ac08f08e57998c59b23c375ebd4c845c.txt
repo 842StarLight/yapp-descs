@@ -1,0 +1,8 @@
+<h2>Backend Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Union is looking for a back-end web developer. Our newest product, Union, is a point of sale system for bars. Union delights bartenders and generates interesting data for alcohol brands. Union is ready to disrupt the hospitality point of sale market. We need you to come help us.
+<br><br>
+You will work on the Union back end. This exposes an API to the iPad based point of sale application deployed in venues, mobile loyalty app and the React based web app. Bartenders use the iPad app in the venues. GMs use the portal to configure the system and run the reports that help them manage their businesses. Venue customers use the loyalty app to pay their tabs. The backing system must be correct and available.
+<br><br>
+We are seeking a person with several years experience as a backend end developer in Python. You must have all the expected skills for the position. Experience with front end development (react.js) is a plus. Experience with NoSQL databases and AWS hosting is a plus. Experience in hospitality (especially as a bartender or waiter) is a plus. We expect commitment to the entire development lifecycle, including building, testing, deploying, and monitoring the code you write. We require an easy personality and good communication skills.
+<br><br>
+The Union office is fun and casual. We’re located on the relaxed end of Sixth Street.</div>

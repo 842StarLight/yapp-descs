@@ -1,0 +1,44 @@
+<h2>Advanced Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">STERIS is a leading provider of infection prevention and procedural products and services, focused primarily on the critical markets of healthcare, pharmaceutical and research and medical devices. Our mission is to help our Customers create a healthier and safer world by providing innovative healthcare and life science product and service solutions around the globe. We have 12,000 employees worldwide, with over 3,000 in Customer-facing sales and service roles. Founded as Innovative Medical Technologies in Ohio in 1985, the company was renamed STERIS in 1987. Many of the businesses that have been acquired and integrated into STERIS have much longer operating histories, notably the American Sterilizer Company founded in 1894. The STERIS Vision is inspired by our Customers' efforts to create a healthier and safer world, and guided by our legacy of leadership and innovation; we strive to be a Great Company. To STERIS, this means we will make a difference by providing world-class product and service solutions for our Customers, safe and rewarding work for our People, and superior returns for our Shareholders.
+<br><br>
+Position Summary
+<br>This is an excellent opportunity to join a small, entrepreneurial team that is part of a well-established, global, multi-billion-dollar company. The Advanced Systems Engineer has responsibility for the overall technical leadership and technical realization of a new, substantially evolved existing products and features of Operating Room Integration Software and Hardware. This position is the technical stakeholder, leading the system level reviews, working within the project constraints of schedule, cost, performance, quality and reliability objectives. This position is for the experienced Systems Engineer, that has worked independently and cross functionally within a new product development Engineering team.
+<br><br>
+What you will do
+<br><br>
+<ul>
+<li>Drive refinement of stakeholder requirements. Ensure policies of the program and quality of requirements, development of technical approach, top level design, feasibility of potential technical solutions, and allocation of derived requirement onto affected subsystems.</li>
+<li>Plan, oversee and execute the Systems Engineering activities in the project, including initiation, coordination, synchronization, review and integration of the technical work performed within various Engineering disciplines.</li>
+<li>Lead cross-discipline feasibility and tradeoff studies.</li>
+<li>Drive system-level design &amp; technical reviews.</li>
+<li>Lead derivation, budgeting,and allocation of system/subsystems requirements and interfaces.</li>
+<li>Participate in defect management, risk management, usability activities</li>
+<li>Participate in the preparation of documentation, including configuration documentation, DHF etc.</li>
+<li>Lead system integration.</li>
+<li>Participate in defining test requirements and participate in formal verification and validation.</li>
+<li>Coordinate with partners regarding new strategies to ensure consistent communication across functions.</li>
+<li>Use cutting-edge ideas to develop projects.</li>
+<li>Work with co-workers to coordinate a project using a creative process.</li>
+<li>Synthesize complex information gathered from a variety of sources and disseminates to others.</li>
+</ul>
+What you need to be successful
+<br>Bachelor's Degree in Electrical, Software, Mechanical or other related Engineering discipline
+<br>Minimum of 9 years of Engineering experience with a focus on new product development Systems Engineering. Experience in a Linux Environment. Medical Device experience preferred.
+<br><ul>
+<li>Demonstrated ability in technical analysis, including evaluation of multiple solutions and significant evaluation of intangibles. Ability to propose methods, techniques and evaluation criteria to realize product functionality</li>
+<li>Proven technical leadership in matrix environment.</li>
+<li>Excellent communication, influencing and conflict resolution skills</li>
+<li>Excellent technical writing, and presentation skills</li>
+<li>Familiarity using software tools for configuration management (version control), defect management, continuous integration and build tools is required.</li>
+<li>Experience working in a regulated industry which requires formalized software development processes and software risk management is required.</li>
+<li>Experience working in a stage-gate development environment is required.</li>
+<li>Capable of influence across disciplines and associated functions.</li>
+<li>Ability to make well-informed and effective decisions even when data are limited.</li>
+<li>Capable of simplifying designs and procedures through creative approaches</li>
+</ul>
+What STERIS offers
+<br>The opportunity to join a company that will invest in you for the long-term. STERIS couldn’t be where it is today without our incredible people. That’s why we share in our success together by rewarding you for your hard work. Hiring people who are in it for the long run with STERIS is our ultimate goal. We do this by providing competitive salaries, healthcare benefits, tuition assistance, paid-time off, holidays, matching 401(k), annual merit, and incentive plans. This location also offers an onsite fitness center. Join us and help write our next chapter.
+<br><br>
+#LI-KK1
+<br><br>
+This is an excellent opportunity to join a small, entrepreneurial team that is part of a well-established, global, multi-billion-dollar company. The Advanced Systems Engineer has responsibility for the overall technical leadership and technical realization of a new, substantially evolved existing products and features of Operating Room Integration Software and Hardware. This position is the technical stakeholder, leading the system level reviews, working within the project constraints of schedule, cost, performance, quality and reliability objectives. This position is for the experienced Systems Engineer, that has worked independently and cross functionally within a Research and Development Engineering team.</div>

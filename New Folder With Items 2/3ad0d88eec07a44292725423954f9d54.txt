@@ -1,0 +1,80 @@
+<h2>Salesforce QA Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>A Salesforce Quality Assurance engineer is responsible for the testing of software development efforts for Salesforce Sales Cloud, Service Cloud, Field Service Lightning, CPQ, and Marketing Cloud, including both manual testing and test automation design. The QA Engineer will create testing-related documentation, including test plans, test cases/scripts, and bug reports assessing quality and associated risk; participate actively in functional, system, integration and regression testing activities within project timelines, and work with Software Engineers, Product Managers, and other QA Engineers in an Agile team environment. Expected to take the initiative, be creative and innovative, and drive effective QA strategies and share ideas. Works closely with Salesforce architects, developers, other administrators, and product owners, as well as be an active participant in getting projects completed.
+</p>
+<p></p>
+<p><b>Job Responsibilities
+</b></p>
+<ul>
+<li><p>Create test case artifacts and perform test execution following standard QA methodologies to ensure the delivery of quality products
+</p></li>
+<li><p>Possess in-depth knowledge of regression testing, ad hoc testing, functional testing, and integration testing
+</p></li>
+<li><p>Execute functional, application, regression, ad-hoc, and integration tests; including both positive and negative scenarios
+</p></li>
+<li><p>Create a traceability matrix of each test case back to user stories
+</p></li>
+</ul>
+<ul>
+<li><p>Responsible for identifying bugs and communicating their business impact to facilitate decision-making by product management and engineering
+</p></li>
+<li><p>Within a team environment, pro-actively analyze, clarify, plan and test software
+</p></li>
+<li><p>Review requirements, specifications and technical design documents to provide timely and meaningful feedback
+</p></li>
+<li><p>Create detailed, comprehensive and well-structured test plans and test cases for a multi-cloud environment
+</p></li>
+<li><p>Design, develop and execute automation scripts using testing automation tools
+</p></li>
+</ul>
+<ul>
+<li><p>Work closely with Salesforce Architects, Salesforce Developers and Salesforce Business System Analysts to resolve issues
+</p></li>
+<li><p>Responsible for continually evaluating test methodologies and regression scripts
+</p></li>
+<li><p>Participate in an Agile development environment / Scrum team
+</p></li>
+<li><p>Work to meet project schedules, time-lines and deadlines
+</p></li>
+<li><p>Provide accurate estimates to assigned tasks
+</p></li>
+</ul>
+<p></p>
+<p><b>Job Requirements
+</b></p>
+<ul>
+<li><p>Bachelor's Degree in related field or a combination of education and experience
+</p></li>
+<li><p>Strong knowledge of software QA methodologies, tools and processes
+</p></li>
+<li><p>3+ years of QA Analyst experience required
+</p></li>
+</ul>
+<ul>
+<li><p>5+ years of IT experience preferred
+</p></li>
+<li><p>2+ years of Salesforce QA experience preferred (manual and automation)
+</p></li>
+<li><p>2+ years' experience with HTML, JavaScript, SOQL, SOSL, SQL, XML, jQuery, APEX, Visualforce preferred
+</p></li>
+<li><p>Automation experience using Selenium/QTP preferred
+</p></li>
+<li><p>Salesforce Administrator, Platform app builder, and/or Developer I certification(s) preferred
+</p></li>
+</ul>
+<ul>
+<li><p>Proven experience testing web and mobile applications.
+</p></li>
+<li><p>Proven experience testing native mobile applications (iOS and/or Android)
+</p></li>
+<li><p>Strong written and verbal communication skills with both IT and business partners
+</p></li>
+<li><p>Skilled in risk assessment and impact analysis for software applications
+</p></li>
+<li><p>Comfortable working in a fast paced, highly collaborative, dynamic work environment</p></li>
+</ul>
+</div>
+<p></p>
+</div>

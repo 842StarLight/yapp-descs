@@ -1,0 +1,31 @@
+<h2>Cloud Networking Support Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h1 class="jobSectionHeader"><b>Cloud Networking Support Engineer</b></h1>
+<h6 class="jobSectionHeader"><b>Engineering Department, Palo Alto, California</b></h6>
+<h4 class="jobSectionHeader"><b>What Will You Do?</b></h4>
+<ul>
+<li>Work closely with sales and engineering teams to manage, troubleshoot and resolve technical issues and questions from Aviatrix enterprise customers</li>
+<li>Report product issues to development and advocate for the customer to help Aviatrix deliver high quality products</li>
+<li>Create knowledge based contents such as troubleshooting tips and best practices</li>
+<li>Participate in system testing of Aviatrix products
+</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Why Join the Team?</b></h4>
+<ul>
+<li>You have a passion for helping people find solutions</li>
+<li>You enjoy collaborating, learning from and teaching others so we can all become better</li>
+<li>A fast-paced, high-energy, fun, and positive team is something you want to be a part of</li>
+<li>You want to be an important part of a hot startup and share in its success</li>
+</ul>
+<h4 class="jobSectionHeader"><b>What Skills and Experience Are Required?</b></h4>
+<ul>
+<li>3-5 years proven work experience in enterprise technical support, IT support or as a technical engineer</li>
+<li>Experience with Amazon Web Services (AWS), Microsoft Azure and/or Google Cloud Platform</li>
+<li>Solid understanding of networking, IPsec VPN, virtualization, Linux and various open source software</li>
+<li>Experience in configuring, testing and troubleshooting various networking products/solutions (e.g., Cisco ISR routers, ASA firewalls, Meraki, Palo Alto Networks, Checkpoint, Juniper, Fortinet, Riverbed, Barracuda, Sonicwall, Aruba, Sophos)</li>
+<li>Experience with Python, shell scripting, automation</li>
+<li>Strong debugging skills and customer-facing skills</li>
+<li>Excellent written and verbal communication skills</li>
+<li>B.S. or equivalent required</li>
+</ul>
+</div></div>

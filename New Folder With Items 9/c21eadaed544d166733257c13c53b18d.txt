@@ -1,0 +1,46 @@
+<h2>Partner and Customer Engineer, Android Enterprise Business</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Minimum qualifications:</p>
+<ul>
+<li>
+Bachelor's degree in Computer Science, Information Systems or equivalent practical experience.</li>
+<li>4 years of experience in enterprise mobile solutioning, deployments and technical issue resolution.</li>
+<li>Programming experience in Java, Python, C++ or JavaScript.</li>
+<li>Experience with EMM, mobile device management (MDM) and other mobile security products.</li>
+</ul>
+<br>
+<p>Preferred qualifications:</p>
+<ul>
+<li>
+6 years of product management or program management experience with complex global technical programs.</li>
+<li>Knowledge of Android, iOS, Chrome OS and Chrome Browser.
+</li>
+<li>Understanding of network identity management systems.</li>
+<li>Proven ability to adapt your message to the technical level of the audience and present technical materials to large groups.</li>
+<li>Ability to work well in a cross-functional and geographically dispersed team.</li>
+<li>Excellent organization and communication skills.</li>
+</ul>
+<div>
+<h2 class="jobSectionHeader"><b>About the job</b></h2>
+<p>
+As a Partner and Customer Engineer, you are responsible for providing technical solutions and managing relationships with Google's largest and most strategic online publishers. As a liaison between clients and our technical staff, you flawlessly lead deployments, implementations and integrations of a variety of our product lines (such as Search, Mobile, Video and Commerce). From monitoring product performance to debugging and troubleshooting product code, you are the resident expert that addresses partner needs. You are a technical expert with an entrepreneurial drive and passion for client management.</p>
+<p>
+We are a team working to get millions of employees and organizations to go “Mobile First” with Android. As experts in mobile computing, the Android Enterprise Business team helps small and large enterprises, educational institutions and government agencies to discover the wonders of going mobile and work smarter. Our technical teams work with partners to design and implement solutions for our customer organizations with custom features, security and support - all with Google’s philosophy of innovation and ease of use in mind.
+</p>
+<p>Businesses that partner with Android come in all shapes and sizes and no one solution works for all. Your knowledge of the Android, Enterprise Mobility Management (EMM) and enterprise software ecosystems combined with your technical expertise keeps the big picture in focus while being able to dive into the unique challenges associated with technical app partnerships and integration.
+</p>
+<p>The Android Enterprise Business team is focused on enabling enterprises everywhere to adopt Android as their preferred mobile device platform. You will play a critical role in supporting our enterprise customers in piloting and deploying the Android Enterprise platform.
+</p>
+<p>Whether working with next-gen chipset manufacturers or emerging market telcos, Google's Android Partner Engineering team helps solve some of the toughest mobile technology problems. We work with teams throughout Google to develop solutions for strategic partners around the globe. We maintain crucial relationships with and build technical solutions for our long-term partners who are making Android into a world-changing platform. But we're just getting started.</p>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<ul>
+<li>Own the technical relationship with EMM, OEM or Carrier partners.</li>
+<li>Transfer knowledge to partners and customers proactively to ensure a smooth and orderly transition of accounts from deployment to ongoing production.</li>
+<li>Build and deploy product validation programs.</li>
+<li>Enable the Google partner community through the development of technical tools and documentation to expedite solution deployment. Improve product serviceability.</li>
+<li>Work with internal sales and external partner teams to present business solutions/configurations for the most challenging issues to deploying customers.</li>
+</ul>
+</div>At Google, we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.</div></div>

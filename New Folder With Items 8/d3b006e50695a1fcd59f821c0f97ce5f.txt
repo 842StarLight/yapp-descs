@@ -1,0 +1,45 @@
+<h2>Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Our engineers are intricately involved with the entire software stack. In a given week, you might be working on our React Native mobile app, our client and service provider web portals, or our or Java / Spring Rest API and are expected to contribute thoughtful, business-oriented solutions to the challenges that arise with each.
+<br><br>
+Being an engineer at Worksmith means getting your hands dirty to truly understand the business. For example, you might:
+<br><br>
+<ul>
+<li>Shadow the sales team to understand the client onboarding process and devise a solution to increase the signup conversion rate.</li>
+<li>Dive into the data with our operations team to identify spending trends and build predictive reporting models.</li>
+<li>Review client and service provider feedback with the customer success team to identify common pain points in the software and produce more efficient, easier to use systems.</li>
+</ul>
+You'll be owning the design, implementation, testing, launch, and support of the applications you write. Engineers here are expected to be self sufficient and are given the latitude to make autonomous decisions with their code.
+<br><br>
+<b>The right candidate:</b><br>
+<ul>
+<li>Can write reusable, maintainable, bullet-proof code</li>
+<li>Is excited to head to the whiteboard to work out a tough problem with your fellow developers</li>
+<li>Can take feedback as well as you can give it</li>
+<li>Can work with our business owners to gather requirements and produce a well thought out project plan</li>
+<li>Is willing to participate in an on-call rotation and contribute to the automation of our infrastructure, deployment and CI systems</li>
+<li>Displays a self-motivated drive to continuously improve</li>
+<li>Is motivated to not only achieve but exceed expectations</li>
+</ul>
+<b>We also look for these qualities:</b><br>
+<ul>
+<li>A willingness to learn</li>
+<li>A positive and hard-working attitude</li>
+<li>Patience and tenacity</li>
+<li>Organized and detail-oriented</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Based in Austin, Texas</li>
+<li>A four-year college degree</li>
+<li>Proficiency in Java or a similar object-oriented programming language</li>
+</ul>
+<b>What we offer:</b><br>
+<ul>
+<li>A work-hard, play-hard culture with an entrepreneurial approach</li>
+<li>Opportunities that accompany a high-growth organization</li>
+<li>Competitive compensation including stock options</li>
+<li>Health and dental benefits</li>
+<li>Flexible vacation policy</li>
+<li>Casual, fun work environment: we enjoy team lunches, happy hours, and electric bike tours</li>
+</ul>
+</div>

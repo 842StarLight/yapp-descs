@@ -1,0 +1,69 @@
+<h2>Staff Software Engineer, Back-End Growth</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>Coursera was founded by two computer science professors at Stanford with a vision of providing life-transforming learning experiences to anyone, anywhere. It is the world’s largest online learning platform for higher education. 190 of the world’s top universities and industry educators partner with Coursera to offer courses, Specializations, and degrees that empower over 40 million learners around the world to achieve their career goals. Over 1,800 companies use the company’s enterprise platform Coursera for Business to transform their talent. Coursera is backed by leading venture capital firms such as Kleiner Perkins Caufield &amp; Byers, New Enterprise Associates, GSV Capital, International Finance Corporation, Laureate Education Inc., and Learn Capital.</div>
+<div>
+<br>
+</div>
+<div>
+Coursera is scaling a global platform to provide universal access to the world’s best education, and we’re motivated by the passion and mission to transform lives through learning. Our platform has reached over 39 million learners worldwide and we have partnered with 190 elite universities around the globe with over 3,200 courses in our catalog. We offer Courses, Specializations, Certificates, and Degrees to meet the needs and goals of the diverse learners who come to Coursera.</div>
+<div>
+<br>
+</div>
+<div>
+In 2016, Coursera began hosting accredited online Masters degrees provided by University partners, which provide a more convenient, lower-cost, “stackable” means of earning credentials identical to their traditional on-campus counterparts. We also launched Coursera for Business, partnering with enterprise companies around the world to provide access to curated skill development for their employees, now serving 900+ customers.
+</div>
+<div></div>
+<br>
+<div>Growth is focused on driving Coursera's growth. This means converting more learners, increasing activity, and revenue. We try to increase growth across MOOCs, Enterprise learners, and Degree seekers. Engineering functions are divided into Personalization, Content, and Conversion teams. Interesting projects being tackled currently — Chatbot to help learners choose a course, revamping look-and-feel of all our content pages, embedding sales tax into our flow, and many more.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>You personally exhibit a conviction that the world needs Coursera to be wildly successful and alignment to our core values:</b></h3>
+<div><ul>
+<li>
+Betterment: a tireless pursuit to drive results</li>
+<li>
+Boldness: take risks and act decisively</li>
+<li>
+Deep Honesty: invite and offer candid feedback in order to learn, change, and grow</li>
+<li>
+Solidarity: recognize that we are part of something bigger than ourselves and are committed
+</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Your responsibilities:</b></h3>
+<div><ul>
+<li>
+Lead technical architecture discussions and help drive technical decisions</li>
+<li>
+Write understandable, testable, and maintainable code</li>
+<li>
+Build complex software systems by applying data modeling techniques</li>
+<li>
+Generate and test hypotheses about our product through feature ideation and analyzing user behavior.</li>
+<li>
+Mentor software engineers to improve their skills and make them more effective as product software engineers</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Your skills:</b></h3>
+<div><ul>
+<li>
+7+ years of experience working in a relevant software engineering role</li>
+<li>
+Knowledge of Scala, Javascript, SQL, or the ability to learn them quickly.</li>
+<li>
+Strong communication skills (we work in a highly collaborative organization).</li>
+<li>
+Comfortable working in a fast-moving, team environment (we deploy many times a day!)</li>
+<li>
+Data-driven and strongly motivated by success and learnings through experiments and metrics analysis</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>If this opportunity interests you, you might like these courses on Coursera:</b></h3>
+<div><ul><li>
+Functional Programming in Scala Specialization</li></ul></div>
+</div></div>
+</div></div>

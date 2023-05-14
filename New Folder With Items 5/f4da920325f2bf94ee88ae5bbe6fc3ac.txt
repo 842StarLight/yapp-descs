@@ -1,0 +1,135 @@
+<h2>Manager, Strategic Technology Partnerships</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div><div>
+<div>
+<div>From our founding until now, our mission has remained the same: to remove the engineering burden from data teams by standardizing and fully automating data connectors. With Fivetran, your data just arrives in your warehouse, canonical and ready to query, no engineering or maintenance required. As we watch more and more companies leverage our technology to become truly data-driven, we’re proud not only of our growth but also of the fact that we’ve grown without compromising our core values:</div>
+<div>
+<br>
+</div>
+<div>
+<b>
+Preserve your integrity, even when it's hard</b>.</div>
+<div>
+Always do the right thing, even when it's harder in the short run.</div>
+<div>
+<br>
+</div>
+<div><b>
+Take the initiative.</b></div>
+<div>
+Fivetran belongs to all of us. If you see an opportunity to improve something, seize it!</div>
+<div>
+<br>
+</div>
+<div><b>
+Trust each other.</b></div>
+<div>
+We trust our teammates to do their part. Our customers trust our product to do what we say it does.</div>
+<div>
+<br>
+</div>
+<div><b>
+Nurture diversity, equality and inclusiveness.</b></div>
+<div>
+We seek out teammates who share our values and drive, not people who are exactly like us. We're building a company that works for everyone. At Fivetran, you can always be your authentic self.</div>
+<div>
+<br>
+</div>
+<div><b>
+Lead, don't follow.</b></div>
+<div>
+Many of the assumptions in our industry are wrong. We hire smart people and make decisions by reasoning from first principles.</div>
+<div>
+<br>
+</div>
+<div><b>
+One team, one dream.</b></div>
+<div>
+We share the pains and successes of our customers, partners and colleagues. And we go above and beyond for each other.</div>
+<div>
+<br>
+</div>
+<div>
+If these values resonate with you, we’d love to hear from you.</div>
+<div>
+<br>
+</div>
+<div>
+The alliances team is instrumental to the growth at Fivetran. We're looking for a Manager of Technology Partnerships to build new and strengthen existing strategic relationships with technology partners to help open new sales channels for the Fivetran team.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>
+As a Manager of Technology Partnerships at Fivetran you will:</b></h3>
+<div><ul>
+<li>
+You will take over and own the entire relationships with Snowflake, Tableau, and Microsoft and become the main point of contact for these partners within the first 90 days</li>
+<li>
+You will introduce and establish yourself as a trusted resource for all Snowflake field sales and pre-sales reps in the US in the first 90 days</li>
+<li>
+You will connect the dots between Fivetran sales and our partner sales teams to ensure the Fivetran sales team is solution selling with our partners and delivering an awesome customer experience</li>
+<li>
+You will build the Microsoft partnership from infancy to a producing sales channel within the first 180 days</li>
+<li>
+Work with management to complete Microsoft Azure marketplace listings in the first 120 days</li>
+<li>
+You will own 3 partners total and will show positive growth in all 3 partnerships within the first 120 days</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>
+Your Superpowers:</b></h3>
+<div><ul>
+<li>
+3+ years of experience in Alliances / Partnerships at a Technology Company</li>
+<li>
+Prior enterprise sales experience a plus</li>
+<li>
+Successful track record of developing, establishing and closing strategic partnerships/accounts in competitive environments</li>
+<li>
+You are calm under pressure. You love when the bar is set high and look forward to going above and beyond. You are not easily rattled. You are methodical and bring an enterprise sales mentality to a partnership. You can work in an extremely fast-paced environment. You’re able to keep up with a highly motivated team, a market that is growing extremely fast</li>
+<li>
+You are extremely organized. You are able to juggle lots of things at once while not letting anything drop.</li>
+<li>
+You are a strategic thinker. You are able to see and communicate the big picture in an inspiring way.</li>
+<li>
+You are enthusiastic. You exhibit passion and excitement over work and you have a can-do attitude.</li>
+<li>
+You have a sales mentality. You are a hunter who understands sales and working with a sales engine.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>
+Perks of working with us:</b></h3>
+<div><ul>
+<li>
+100% paid Medical, Dental, Vision and Basic Life Insurance</li>
+<li>
+Flexible PTO</li>
+<li>
+401k match program</li>
+<li>
+Pet Insurance - and yes, you can bring your well-behaved fur babies to work</li>
+<li>
+Commuter Benefits to help with transit and parking costs</li>
+<li>
+Professional development and training opportunities</li>
+<li>
+Unlimited coffee, office snacks and frequent catered lunches</li>
+<li>
+Company happy hours and fun team building activities</li>
+</ul></div>
+</div></div>
+<div>
+<div>
+Fivetran is part of an analytics data stack and the growing ecosystem of cloud based infrastructure companies.</div>
+<div>
+<br>
+</div>
+<div>
+After a five-minute setup, the software replicates data from applications, databases, events and files into a cloud data warehouse.</div>
+<div>
+The company began with a realization: for modern companies using cloud-based software and storage, traditional ETL tools badly underperformed, and the complicated configurations they required often led to project failures. To streamline and accelerate business intelligence projects, Fivetran developed automated connectors that come with ready-to-query schemas and effortlessly deliver data into modern, high-performant warehouses.</div>
+</div>
+</div></div>
+</div>

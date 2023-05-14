@@ -1,0 +1,53 @@
+<h2>Dual-Role Developer/Back-end Web & AR</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>S-One Holdings Corporation is a global company headquartered in Sarasota, Florida, with a focus on the digital imaging industry, which the company pioneered in 1994. Designed from its inception, S-One was structured to partner with major brands and manufacturers who needed advanced marketing, an integrated and flexible supply chain, and technical sales capabilities.</p>
+<p>
+S-One consists of several subsidiary companies: ABAQA, Brand Management Group, LexJet, S-One Labels &amp; Packaging and Utopia Digital Technologies. Through its subsidiaries, S-One is the exclusive licensee for Fredrix wide-format canvas, HP Large Format Printing Materials, KODAK Wide-Formal &amp; PROFESSIONAL Inkjet Media.</p>
+<p><i>
+S-One is seeking a multi-faceted developer to enhance existing and build back-end integrations with consumer-facing e-commerce websites and work with our design team to reshape how people visualize the printing and graphics market using AR experiences. You will work collaboratively with our team to develop, plan and execute deliverables on time and on budget. You should be able to maintain various back-end aspects of a website including integrations, updates, moves, etc. You will be required to implement new features and enhance existing systems. You will help develop detailed functional, technical design, and test specifications.</i></p>
+<p><b>
+POSITION REQUIREMENTS:</b></p>
+<div><div>
+<ul>
+<b>
+Back-end Web:</b><br>
+<li>2+years of current experience in Web-Based C# / ASP.NET 3.5 / 4.0 / 4.5 Development</li>
+<li>an understanding of modern e-commerce web applications from the database to browser</li>
+<li>proficiency in SQL, Object Oriented languages and experience with database-driven applications</li>
+<li>excellent communication skills in both technical and non-technical contexts</li>
+<li>a record of meeting deadlines in a rapid development cycle and prioritizing competing demands</li>
+<br>
+<b>AR:</b><br>
+<li>Proven experience programming user-facing features on commercial games or software applications (please provide links in your application with a breakdown of the specific features you worked on)</li>
+<li>Articulate and passionate about delightful user design and universal usability</li>
+<li>Strong programming background (including C#, Unity3D/Unreal, and C/C++)</li>
+<li>Strong computer science fundamentals including data structures, algorithms, system architecture, and OOP design patterns</li>
+<li>Considerate of performance, memory, networking, and infrastructure limitations for various platforms and how to adapt design around these challenges</li>
+</ul>
+<p></p>
+<div><div>
+<br>
+<ul>
+<b>
+Needed Skill Set:</b><br>
+<li>Service-Oriented-Architecture / Web Services / WCF - Windows Communication Foundation / RESTFul Services</li>
+<li>SQL Server 2005 / 2008 - T-SQL / Database Design Frameworks / Stored Procedures / Triggers</li>
+<li>MVC Design Pattern - Development / Implementation</li>
+<li>Comprehend and follow specific project life cycle instructions and procedures</li>
+<li>Implementing / Developing Applications Consuming Web Services</li>
+<li>Expert knowledge of Unity3D, Android Studio, and XCode</li>
+<br>
+<b>Additional Skills and Experience:</b><br>
+<li>Experience working with search servers such as Solr, Elastic Search, or Google Site Search</li>
+<li>Experience working with existing e-commerce and CMS frameworks such as nopCommerce, Kentico, DNN, etc.</li>
+<li>Experience integrating ERP to front-facing web platforms. Prior experience with NetSuite is helpful, but not required.</li>
+<li>Experience designing and building for a 3D game or rendering engines</li>
+<li>Experience rapid prototyping of user interactions and user interfaces</li>
+<li>Experience developing AR applications</li>
+</ul>
+</div></div>
+</div></div>
+</div>
+<p></p>
+</div>

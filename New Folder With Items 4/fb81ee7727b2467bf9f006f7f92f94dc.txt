@@ -1,0 +1,66 @@
+<h2>Sr. Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Have you ever tried to hire a plumber? How about a house cleaner? If you have, chances are it took you way longer than it should. In the era of instant-everything, it's crazy that you still have to waste an entire afternoon researching, calling and vetting local service professionals whenever you need one. The market for hiring them is huge — $1 trillion in the US alone — but the process is inefficient and largely offline.
+<br><br>
+Thumbtack is transforming this experience end-to-end, building a marketplace that matches millions of people with local pros for almost any project. In making these connections, not only do our customers get more done every day, our pros are able to grow their businesses and make a living doing what they're great at.
+<br><br>
+-----------------------------------
+<br>About the Operations Analytics Team
+<br>-----------------------------------
+<br><br>
+Thumbtack's Ops Analytics team is a tight-knit group charged with providing actionable insights for Thumbtack's Go-to-Market and Operations teams. We collaborate with various groups across the company on a wide variety of projects; everything from click-level data from our online HelpCenter, to call-level data from our inbound support and outbound sales/success teams, to search- and conversation-level data between pros and customers from our product database.
+<br><br>
+--------------
+<br>About the Role
+<br>--------------
+<br><br>
+As a Senior Data Analyst, you'll empower the various operations teams in Thumbtack's Salt Lake City office to use data to guide business decisions. Sr. Data Analysts also collaborate with the Analytics, Engineering and Product teams in San Francisco on broader efforts where product and operations overlap, such as launching a new feature, determining customer/pro segments, crafting marketing outreach campaigns, and providing data-driven feedback to streamline existing features. You'll be expected to quickly build technical and content expertise about our platform, as well as the touch-points through which the operations teams interact with our pros and customers.
+<br><br>
+----------------
+<br>Responsibilities
+<br>----------------
+<br><br>
+<ul>
+<li>Partner with leaders of Thumbtack's Go-to-Market and Operations teams (i.e., Sales, Pro Success, Pro Engagement, Inbound Support and Trust &amp; Safety) to conduct in-depth quantitative analyses that guide strategic decisions</li>
+<li>Make recommendations based on detailed analysis and a deep understanding of our business</li>
+<li>Build and maintain reports, models, and visualizations which provide insight into users' experiences and business performance</li>
+<li>Maintain SQL queries and scripts that underpin Thumbtack's ETL data pipeline</li>
+<li>Identify key drivers of core business outcomes through regression analyses and other statistical techniques</li>
+<li>Contribute to our team and company data culture through peer collaboration, training, coaching and more</li>
+</ul>
+------------------------
+<br>Must-Have Qualifications
+<br>------------------------
+<br><br>
+If you don't think you meet all of the criteria below but still are interested in the job, please apply. Nobody checks every box, and we're looking for someone excited to join the team.
+<br><br>
+<ul>
+<li>BA/BS degree, preferably in Economics, Statistics, Math, or Computer Science</li>
+<li>Proficiency using SQL to query large datasets</li>
+<li>Sharp business judgment and the ability to see past the noise</li>
+<li>Strong communicator with the ability to explain technical results to a non-technical (and data savvy) audience</li>
+<li>Experience with building dashboards in Tableau and Tableau Server</li>
+<li>Passion for solving problems and driving business impact</li>
+<li>Ability to detect and debug anomalies in complex data processes</li>
+<li>4+ years experience working in quantitative or analytical role, preferably in technology, consulting, or operations</li>
+<li>Curiosity to learn new skills and apply them in novel ways to solve challenging problems</li>
+</ul>
+---------------------------
+<br>Nice-to-Have Qualifications
+<br>---------------------------
+<br><br>
+<ul>
+<li>Advanced degree (MA, Phd, MBA, etc) with an emphasis in data analytics</li>
+<li>Proficiency with statistics/programming languages (e.g., R, Python)</li>
+<li>Experience building predictive/machine learning models on large datasets -- from ideation to implementation</li>
+<li>Familiarity working with product managers to vet new features and bring them to production</li>
+</ul>
+Thumbtack is a local services marketplace – one of the largest in the U.S. – that helps millions of people hire local professionals. With hundreds of unique service categories, customers can find a Thumbtack pro for almost anything: landscapers, DJs, personal trainers, even piano teachers. And in making these connections, we empower local pros too. Helping them get new customers and make a living doing what they're great at.
+<br><br>
+Founded in 2008 and headquartered in San Francisco, Thumbtack is backed by over $420 million in investment from Sequoia Capital, CapitalG, Tiger Global Management, Javelin Investment Partners and Baillie Gifford.
+<br><br>
+<ul>
+<li>See what it's like to work here ( https://www.thumbtack.com/careers/ )</li>
+<li>Meet the pros who inspire us ( https://www.youtube.com/watch?v=khIN2FCdfnM&amp;list=PLPz1npTzydS577c1B-vduYBWoF0cRPKMv )</li>
+<li>Follow us on LinkedIn ( https://www.linkedin.com/company/thumbtack-inc. )</li>
+</ul>
+Thumbtack embraces diversity. We are proud to be an equal opportunity workplace and do not discriminate on the basis of sex, race, color, age, sexual orientation, gender identity, religion, national origin, citizenship, marital status, veteran status, or disability status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</div>

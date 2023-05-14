@@ -1,0 +1,96 @@
+<h2>Solution Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b><i>Office is located in Edwards, CO. If hired, most work will be required at the office location.</i></b></p>
+<p><b>Required Qualifications: </b></p>
+<ul>
+<li>Results and execution oriented, self-motivated, and requiring minimal supervision.</li>
+<li>Eager to grow!</li>
+<li>Bachelor's degree desired.</li>
+<li>7+ years supporting complex enterprise network, storage, and virtualized, and cloud solutions. Including Cisco ACI, Fabric Interconnect Switches, Nexus Switches, Cisco UCS Chassis and blades, MDS Switches, Hyperflex, ISE, EMC XtremIO, EMC VNX, EMC VXrail, EMC Data Protection Suite with Avamar Networker Data Domain, EMC Isilon, VMware.</li>
+<li>2+ years of experience interfacing with customers and providing technical solutions.</li>
+<li>Cisco, EMC, and VMware Certifications: CCIE/CCNP, CCDP, VMware, EMC, CISSP.</li>
+<li>Valid Driver’s License and reliable transportation required.</li>
+<li>Proficient with creating sales proposals, bill of materials, and statements of work.</li>
+</ul>
+<p><b>Overview: </b><br>Are you an Ace? Are you an IT standout that can sell, and design World Class IT solutions? Do you want to want to work, play, and live in the Vail Valley? Rhize Tech is looking for a hungry individual that wants to join a rapidly growing start up. Rhize Tech is dedicated to fostering an enriching lifestyle that includes balance. Vail Valley activities are an integral part of that lifestyle. If you meet the qualifications and like to ski, board, bike, fish, dirt bike, snow mobile, kayak, float, run, walk, or hike, this is the opportunity for you.</p>
+<p>If you are interested in selling and supporting a full suite of enterprise IT solutions then it is time talk with Rhize Tech. Keep reading if you are honest, driven, hardworking, and customer solution focused.</p>
+<p>Who we are:<br>Rhize Tech specializes in delivering World Class IT solutions. This includes the engineering and management of IT infrastructure, enterprise cloud and hosting solutions, managed services, professional services and the sale of IT hardware and software.</p>
+<p>Who we are looking for:<br>The Solution Architect will provide sales, strategy and best practice IT solutions to our customers. Rhize Tech's comprehensive suite of solutions will require an industry leader that can design, procure, buildout, and manage our solutions. This is a startup so expect long hours, hard work, and pay that is reflective.</p>
+<p>This position will require architect level knowledge and experience with LAN/WAN/Wireless, Storage, Servers, Applications, Security, and Voice solutions. You will be required to foster client relationships and continually add value for Rhize Tech and our customers.</p>
+<p><b>Responsibilities: </b></p>
+<ul>
+<li>Normal business hours are Monday - Friday 8-5PM with infrequent after-hours work including weekend and out of town work.</li>
+<li>Support the sale and architecting of network, storage, and virtualized environments. Including converged and hyper converged solutions.</li>
+<li>Analyzing technical needs, requirements, and state of a customer current infrastructure and operations.</li>
+<li>Identifying opportunities and developing technical solutions to meet customers’ needs and requirements.</li>
+<li>Reviewing and validating solutions to ensure compatibility and consistency with our standard methodologies.</li>
+<li>Assist the Sales and Engineering groups with requests for quotes / information, bids, proposals and statements of work.</li>
+<li>Perform the build, configuration, testing and maintenance of servers, storage, virtualization and networking related hardware and software.</li>
+<li>Develop design/testing/implementation and change control documentation.</li>
+<li>Research and engineer technology based upon capacity or functionality requirements. Implement strategic plans to meet the timelines and to ensure minimal disruption to the Customer environment. Assist with development of documentation for standards requirements within the department.</li>
+<li>Provide accurate, clear, concise documentation.</li>
+<li>Constantly improve upon your skillsets. Training resources are provided.</li>
+</ul>
+<p><b>Qualifications: </b><br><b>Required Qualifications: </b></p>
+<ul>
+<li>Results and execution oriented, self-motivated, and requiring minimal supervision.</li>
+<li>Eager to grow!</li>
+<li>Bachelor's degree desired.</li>
+<li>7+ years supporting complex enterprise network, storage, and virtualized, and cloud solutions. Including Cisco ACI, Fabric Interconnect Switches, Nexus Switches, Cisco UCS Chassis and blades, MDS Switches, Hyperflex, ISE, EMC XtremIO, EMC VNX, EMC VXrail, EMC Data Protection Suite with Avamar Networker Data Domain, EMC Isilon, VMware.</li>
+<li>2+ years of experience interfacing with customers and providing technical solutions.</li>
+<li>Cisco, EMC, and VMware Certifications: CCIE/CCNP, CCDP, VMware, EMC, CISSP.</li>
+<li>Valid Driver’s License and reliable transportation required.</li>
+<li>Proficient with creating sales proposals, bill of materials, and statements of work.</li>
+</ul>
+<p><b>Other Qualifications: </b></p>
+<ul>
+<li>Additional certifications in networking, storage and virtualization technologies are a plus.</li>
+<li>Thorough knowledge of Cisco network and security, EMC storage, and VMware, Citrix or Cisco virtualization products.</li>
+<li>Strong Data Center, Routing and Switching, and Wireless Background.</li>
+<li>End-to-end knowledge across a Cisco and EMC product line.</li>
+<li>Security technologies.</li>
+<li>Skilled in using Visio and other network documentation software.</li>
+<li>Strong communication skills (oral and written).</li>
+<li>Complex network concepts and implementations.</li>
+<li>Ability to work on assignments that are complex in nature and where considerable judgment and initiative are required in implementation and problem resolution.</li>
+<li>Project Coordination experience is a benefit.</li>
+<li>Ability to provide technical direction in a timely fashion, utilizing standard methodologies that satisfy customer requirements.</li>
+<li>ITIL V3 foundation certification preferred.</li>
+<li>Sound judgment and decision-making skills.</li>
+<li>Advanced analytical, statistical, and problem-solving skills.</li>
+<li>Strong commitment to customer satisfaction and quality.</li>
+<li>Advanced communication skills regarding project teams and management.</li>
+<li>Self-directed and self-motivated.</li>
+<li>Energetic, with a competitive spirit and a results-driven, goal-oriented attitude.</li>
+<li>Good time management skills and the ability to work well under pressure.</li>
+<li>Integrity and ethical behavior is a must.</li>
+<li>Adaptable to changing environment.</li>
+<li>Team player.</li>
+<li>Travel as required by business need.</li>
+<li>Must have and maintain a valid driver’s license, insurance, and have access to reliable transportation.</li>
+<li>Curiosity and excellent problem-solving skills.</li>
+<li>Strong verbal and written communication skills.</li>
+<li>Demonstrated excellence in written and verbal communication, presentation skills, and public speaking.</li>
+<li>Respond to sales engineering requests in areas of expertise</li>
+<li>Perform demos and conduct workshops.</li>
+<li>Perform technology consulting, document customer requirements, and develop customer architectures and solutions.</li>
+<li>Build customer relationship in assigned accounts and build relationships with vendor technical and sales counterparts.</li>
+<li>Be awesome! Dedicated to personal growth and excellence!</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $95,000.00 to $130,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>Cisco: 7 years (Required)</li>
+<li>EMC: 3 years (Required)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Work Location:</p>
+<ul>
+<li>One location</li>
+<li>Multiple locations</li>
+<li>Fully Remote</li>
+<li>On the road</li>
+</ul>
+</div>

@@ -1,0 +1,36 @@
+<h2>Solutions Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About Instabase
+<br><br>
+Founded in 2015, Instabase's mission is to advance the state of the art by building tools that help people solve important problems, make discoveries, and create new breakthroughs.
+<br><br>
+Instabase is an operating system designed for operational efficiency. It uses the web browser as the user interface, a pluggable storage system for managing data (files and databases), and an app store for applications. These applications run on the Instabase Platform, which provides the core management capabilities for managing diverse, distributed datasets; support for collaboration and access control; and a runtime for Instabase Applications.
+<br><br>
+The applications include state of the art tools for [1] processing a diverse set of unstructured data (scanned images, PDFs, word/excel documents, emails, websites, etc.), [2] running extensible functions with a server-less framework, [3] machine learning (natural language processing, image processing, classification, clustering, etc.), and [4] data science.
+<br><br>
+Our customers include large enterprises with huge operational costs in a variety of domains, such as financial services (e.g. banks, insurance), healthcare, logistics/supply chain.
+<br><br>
+As a non-profit initiative, Instabase provides a hosted IPython-style notebook for education, which is widely used by universities (Stanford, MIT, Columbia, University of Chicago, etc.), for teaching classes.
+<br><br>
+The Role
+<br><br>
+Solutions Architects at Instabase are at the leading edge of our customer relationships. As a Solution Architect at Instabase, you will be a customer-facing product expert and work with prospective customers to scope out proofs of concept, help develop data pipelines, and identify problems for which we have strong solutions. You'll work alongside sales, solutions engineering, product, and engineering to define the solutions we deliver to our customers as part of our complex sale process. Once the project has been defined, you'll work with the solutions engineering team to help develop the solution, tracking progress, and handling ongoing communication with account management and our customer partners.
+<br><br>
+This is a high visibility role both at Instabase and at our customer, so excellent communication abilities (both spoken and written) are required. This role requires up to 40% travel.
+<br><br>
+<b>Candidates should have:</b><br>
+<ul>
+<li>B.S. in Computer Science (or equivalent experience)</li>
+<li>Professional experience as a Solutions Architect, Solutions Engineer, or Systems Architect</li>
+<li>Experience with systems and solution design, including requirements gathering and writing specifications.</li>
+<li>Customer-facing experience.</li>
+<li>Excellent communication skills, both written and spoken</li>
+<li>High level understanding of the software development process</li>
+</ul>
+<b>Ideal candidates also have (but aren't required to have):</b><br>
+<ul>
+<li>Professional experience as a software engineer, especially data engineering or data science</li>
+<li>High level understanding of machine learning and computer vision</li>
+<li>Understanding of container technologies like Docker and Kubernetes</li>
+<li>Consulting or Project management experience</li>
+</ul>
+Instabase is an equal opportunity employer and values diversity in all forms. Instabase does not discriminate on the basis of race, religion, color, national origin, gender identify, sexual orientation, age, marital status, protected veteran status, disability, or any other unlawful factor. Instabase also complies with local laws, including the San Francisco Fair Chance Ordinance.</div>

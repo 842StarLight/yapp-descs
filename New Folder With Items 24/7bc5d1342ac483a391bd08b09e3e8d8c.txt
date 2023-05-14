@@ -1,0 +1,57 @@
+<h2>Sales Engineer, VM Migration, Google Cloud</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>This role may also be located in our Playa Vista, CA campus.</b></p>
+<p><b>Remote locations may be available in the following states: Missouri, Ohio, Pennsylvania, Tennessee.</b></p>
+<br>
+Note: By applying to this position your application is automatically submitted to the following locations: <b>Sunnyvale, CA, USA; Atlanta, GA, USA; Boulder, CO, USA; Cambridge, MA, USA; Chicago, IL, USA; Detroit, MI, USA; Irvine, CA, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Minneapolis, MN, USA; New York, NY, USA; Seattle, WA, USA; San Francisco, CA, USA; Washington, DC, USA</b><p>
+Minimum qualifications:</p>
+<ul>
+<li>
+Bachelor's degree in Computer Science, related technical field, or equivalent practical experience.</li>
+<li>Experience as a Technical (Pre) Sales Engineer in a Cloud Computing or B2B software company in a customer-facing role.</li>
+<li>Experience in traditional datacenter architectures and components.</li>
+<li>Experience in one of the following: cloud migration, disaster recovery, application/servers assessment and discovery.</li>
+</ul>
+<br>
+<p>Preferred qualifications:</p>
+<ul>
+<li>
+Master's degree in Computer Science or other technical field
+</li>
+<li>Experience with one or more public cloud platforms, including infrastructure, storage, platforms.
+</li>
+<li>Experience in areas of networking, including Linux, software-defined networking, network virtualization, open protocols, application acceleration and load balancing, DNS, virtual private networks and their application to PaaS and IaaS technologies.
+</li>
+<li>Experience in security matter (e.g.,Authentication Protocols, Identity and Access Management Systems, Key Management Systems, encryptions, securing complex cloud architectures, Network and End-Points Security).
+</li>
+<li>Experience with deployment methodologies and technologies (CI/CD, Chef, Puppet, Ansible).
+</li>
+<li>Knowledge and experience with Windows, Linux system administration, and/or Enterprise applications.
+</li>
+</ul>
+<div>
+<h2 class="jobSectionHeader"><b>About the job</b></h2>
+<p>
+The Google Cloud Platform team helps customers transform and evolve their business through the use of Google’s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>
+<p>
+As a Sales Engineer, you will work with the Sales team to introduce Google Cloud to our customers. You will help prospective, existing customers and partners understand the power of Google Cloud, develop creative cloud solutions and architectures to solve their business challenges, and problem-solve any potential technical roadblocks. You will also be part of a diverse team of fellow Googlers working in an environment of respect and inclusion where we promote equal opportunities to succeed.
+</p>
+<p>
+Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what’s next for their business — all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers and developers see the benefits of our technology come to life.</p>
+</div>
+<div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<ul>
+<li>Challenge and inspire customers and peers to solve difficult problems with ambitious and novel solutions leveraging a sophisticated set of technical competences.
+</li>
+<li>Work with the team to identify and qualify business opportunities, identify key customer technical objections and develop a strategy to resolve technical blockers.
+</li>
+<li>Manage the technical relationship with Google’s customers, including managing product and solution briefings, proof-of-concept work, and the coordination of additional technical resources.
+</li>
+<li>Work hands-on with customers to demonstrate and prototype Google Cloud product integrations in customer/partner environments.
+</li>
+<li>Recommend migration strategies, enterprise architectures, migration tools and cloud infrastructure required to successfully implement a complete solution using best practices on Google Cloud and travel to customer sites, conferences, and other related events as required.
+</li>
+</ul>
+</div>At Google, we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.</div></div>

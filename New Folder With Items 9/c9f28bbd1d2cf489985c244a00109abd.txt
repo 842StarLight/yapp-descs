@@ -1,0 +1,54 @@
+<h2>Software Technical Architect - IT</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Software Technical Architect - IT</p>
+<p>
+Round Rock, TX</p>
+<p>
+Dell provides the technology that transforms the way we all work and live. But we are more than a technology company — we are a people company. We inspire, challenge and respect every one of our over 100,000 employees. We also provide them with unparalleled growth and development opportunities. We can’t wait for you to discover this for yourself as a Software Technical Architect - IT on our Dell Commerce Services Group in Round Rock, TX.</p>
+<p>
+Dell is extending the reach of the Dell Commerce Platform, as a software product suite, to command an extensive variety of applications and solutions that are central to the growth of Dell as a technology and solutions company. We are hiring an Software Technical Architect to lead the design, architecture and development of their ecommerce initiatives for the Dell Sales Application. This candidate will be responsible for delivering programs in a dynamic, fast paced, scalable agile ecommerce environment and have oversight of a development team of 50+ team members. Our current team is responsible for future state development, implementing and deploying new enhancements to future state offline and online sales applications, interacting with development across regions, work closely with our business partners to understand requirements, and develop/enhance existing systems in timely manner.</p>
+<p>
+The team needs individuals with deep e-commerce knowledge to guide and deliver a high-volume, highly personalized e-commerce experience. We are looking for the most senior candidates who have a strong background in Enterprise/Systems/Application Architecture, with proven abilities to innovate and be creative. Ideal candidates will have extensive experience in object-oriented programming and experience in large multi-national corporations. Candidates will be familiar with Microsoft technologies, and will have worked on very large web sites dealing with very high volumes. Candidates should be excellent team players, yet capable of working independently, and will be able to manage multiple projects at once. Candidates will work with very little direction, will be comfortable leading conference calls, and can drive the direction of very large projects being developed by multi-shore teams.</p>
+<p>
+Role Responsibilities</p>
+<ul>
+<li>
+Creates design specifications for high availability and highly scalable applications which will be used by both internal and external customers</li>
+<li>
+Works with clients and Business Analysts to determine software requirements and system impacts</li>
+<li>
+Generates technical documentation as well as unit and functional tests</li>
+<li>
+Mentors junior developers in industry best practices, procedures, and concepts</li>
+<li>
+Is responsible for ensuring quality of their work as well as the work of the entire development team</li>
+<li>
+Investigates new technologies and techniques and researches ongoing industry developments</li>
+<li>
+Works closely with the global development team, other senior Solution Architects, and executives within the Online Product Engineering group to plan ongoing feature development, product maintenance, and management of development teams</li>
+</ul>
+<p><br>
+Requirements</p>
+<ul>
+<li>
+Master’s or Bachelor's Engineering Degree in Computer Science/Engineering, or equivalent professional experience.</li>
+<li>
+12+ years of related experience with at least 5+ years building web portals and/or ecommerce applications using Microsoft technologies</li>
+<li>
+Expertise in most of the following –Web API (MS ASP.Net), MVC, WCF, HTML5, CSS, JavaScript, JSON, SOAP, REST, AngularJS, JQuery, Jasmine, Karma, JSON, .Net Framework, C#, Web Services, XML.</li>
+<li>
+Knowledge of SQL Server development and database design</li>
+<li>
+Strong understanding of design patterns like SOLID, IoC.</li>
+<li>
+Knowledge of Agile methodology</li>
+<li>
+Familiar with Unit Test, Mock, Test Driven Development etc.</li>
+</ul>
+<p>
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all ages. Learn more about Diversity and Inclusion at Dell here.</p>
+<p>
+LIPRIORITY</p>
+<div>Job Family: Information-Technology</div>
+<div>Job ID: R84150</div>
+</div></div>

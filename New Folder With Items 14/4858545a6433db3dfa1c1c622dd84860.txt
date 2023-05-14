@@ -1,0 +1,55 @@
+<h2>Quality Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Job Purpose:</b><br>
+The QA Analyst will work with product managers, development team, internal stakeholders to understand business requirements. The QA Analyst will develop test plans, test cases and test scripts for projects, among other assigned duties. Perform testing on various software applications. They are ultimately responsible that the right product is delivered to our customers.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Analyze product issues reported by end users and Support team.</li>
+<li>Serves as a subject matter expert in the relevant product domains.</li>
+<li>Strong SQL queries and data analysis.</li>
+<li>Develop and utilize test cases to perform QA on various applications.</li>
+<li>Review project documentation and translate requirements into test strategies, test plans and test cases.</li>
+<li>Execute test cases through manual and/or automated processes and report results in a concise and timely manner.</li>
+<li>Identify and manage defects through resolution.</li>
+<li>Liasion between project teams and business users to ensure that testing is effective, efficient and comprehensive.</li>
+<li>Provide QA metrics to accurately reflect project status and report this status to stakeholders on a periodic basis.</li>
+<li>Act as a Subject Matter Expert for the application when needed.</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Bachelor’s Degree in related field or a combination of at least high school degree and experience</li>
+<li>1+ years of relevant Quality Analyst experience in a product development environment</li>
+<li>Experience with Agile backlog management tools, such as Target Process (preferred), Confluence, Jira or VersionOne</li>
+<li>Experience in writing complex SQL queries.</li>
+<li>Excellent Organizational, time management and prioritization skills</li>
+<li>Excellent Communication skills</li>
+<li>Attention to detail to achieve thoroughness and accuracy when accomplishing a task</li>
+<li>Experience in Quality assurance testing</li>
+<li>Proficiency in commonly utilized testing technique</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Formulation of test plans.</li>
+<li>Thorough record-keeping abilities</li>
+<li>Strong organizational, interpersonal and time management skills</li>
+<li>Ability to work in a fast-paced environment</li>
+<li>Detail-oriented and able to work at an efficient pace</li>
+<li>Multi-tasking abilities</li>
+<li>Strong analytical skills and problem solving abilities</li>
+<li>It would be helpful to understand client-server architecture, MS Windows services, web server technologies (IIS) and general networking knowledge</li>
+</ul>
+<b>What we offer:</b><br>
+<ul>
+<li>Start-up culture with opportunity to make an impact in your role and our team immediately</li>
+<li>Compensation package corresponding to the value you bring to our team</li>
+<li>Excellent on-the-job learning opportunity to grow your skills</li>
+<li>Support of a diverse and international team to reach your goals</li>
+<li>We are unable to provide relocation assistance for this role - local candidates highly preferred</li>
+<li>We are unable to provide employment sponsorship for this role - unrestricted work authorization required</li>
+</ul>
+<b>Company Description:</b><br>
+Cendyn is a cloud-based software and services provider that develops integrated technology platforms for driving sales and marketing performance in the travel and hospitality industry. The Cendyn Hospitality Cloud offers the most complete set of innovative software and services in the industry, covering hotel marketing, guest engagement, group sales, and event management. With offices in Boca Raton, Atlanta, Boston, London, Germany and Singapore, Cendyn proudly serves more than 30,000 clients in 143 countries with enterprise meeting spend levels in excess of $1 billion.
+<br><br>
+<b>EEO Statement:</b><br>
+Cendyn provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Cendyn complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+<br><br>
+Cendyn expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of Cendyn’s employees to perform their job duties may result in discipline up to and including discharge.</div>

@@ -1,0 +1,88 @@
+<h2>Engineering Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div><div><div>
+<p><b>Clarity™ by FSG</b><br>
+We’re looking for a high impact <b>Engineering Manager</b> to join our team, overseeing our design, delivery, and integration teams at FSG.</p>
+<p></p>
+<p>Our Commercial IoT enterprise system - Clarity™ - brings together energy management systems (EMS) and building automation systems (BAS) for a complete control, monitoring, and advanced analytics solution. Clarity™ controls energy usage, HVAC performance, lighting zones, cooling and comfort, compliance, safety and security all through a common cloud-based console. Clarity™ currently supports more than 6,000 commercial buildings and retail stores and is building its 2nd generation enterprise cloud solution.<br>
+<br>
+<b>About FSG Energy and the Clarity™ team</b><br>
+The Clarity™ team is small and scrappy making big moves in the commercial IoT space. We value openness, transparency, integrity, teamwork, collaboration, responsibility and ownership. We also value quality, creativity, passion, care, positive attitude, persistence, and customer focused value delivery. Our engineering and development teams are cross functional and growing in size and scope. We release on two week sprints within the scrum framework and are looking to add an engineering manager to lead and work with the development and delivery teams. We’re ready to go to the next level and seeking seasoned engineers who can help lead, influence and deliver on our product.<br>
+<br>
+<b>About You</b><br>
+You like a small team where you can make a big impact. You’re an experienced engineer that has created or maintained large or complex systems.<br>
+<br>
+You have spent several years in controls and are experienced with build automation, documentation, installers, automated testing. You can visualize and design complex systems with multiple product lines and integrations with external systems.</p>
+<p></p>
+<p><b>Responsibilities</b><br>
+</p>
+<ul>
+<li>Provide mentorship to team mates</li>
+<li>Function as partner to Product Owner and development teams to influence and guide product roadmap</li>
+<li>Provide leadership in new product development</li>
+<li>Provide architect level insight and guidance for implementations as a master integrator of build Controls and a energy management systems</li>
+<li>Maintain detailed documentation and commentary on all work for engineering support and the preservation of the company’s intellectual property.</li>
+<li>Troubleshoot and improve existing systems and services</li>
+<li>Communicate regularly with other stakeholders and teams within the organization.</li>
+<li>Keep abreast of all developments: internal, technical, competitive, legal compliance and market related, in order to ensure that the company is pursuing the software technologies required to be competitive</li>
+<li>Work with project managers and other project leaders to design, schedule, and implement projects within the company's set parameters.</li>
+<li>Responsible for meeting project deadlines with all the requirements of the job taken into consideration.</li>
+<li>Oversee a team of engineers and create an environment of learning, teamwork</li>
+<li>Plan and organize technical projects from conception to completion.</li>
+<li>Coordinate and communicate between various areas; supervise and train project staff as needed.</li>
+<li>Utilize engineering knowledge for project management; estimate timelines and schedules; anticipate risks and costs related to the technical aspects of the project.</li>
+<li>Develops installation manuals, training documentation, and quality assurance forms for use with subcontractors.</li>
+<li>Develops job specific programs by referencing schematics, sequences of operation, and field technician reports. Researches and gathers information as required.</li>
+<li>Perform remote phone system or on-site checkout of system installations with on-site mechanical and electrical contractors.</li>
+<li>Will serve as in-house reference for issues arising in customer jobs sites or system designs related to HVAC, refrigeration, electrical distribution, and power quality or similar.</li>
+<li>Provides technical support to salesmen, installers, and customers.</li>
+<li>Reports job status and installation discrepancies to Project Managers for final report to customers.</li>
+<li>Other responsibilities would include directing meetings, developing and implementing product testing, and assigning tasks to others within the project. You will also be a vital part of ensuring that all products and procedures conform to the company's quality standards</li>
+<li>Typical work schedule for this position includes working during regular business hours, though overtime may be required for certain project deadlines. It is an indoor job that is mostly mental in nature. You would generally work in the office environment, however as a Sales/Support arm would be required to travel to remote locations, trade shows, etc.</li>
+</ul>
+</div></div></div>
+<div>Qualifications</div>
+<div><div>
+<div>
+<p><b>Knowledge, Skills and Abilities</b><br>
+Be proficient in the following areas: networking strategies, hardware IOT platforms, building automation controls, energy management systems, implementation strategies, Niagra specific platforms</p>
+<p></p>
+<ul>
+<li>10+ Years in Controls or Relevant experience with master integration of building controls and energy management systems</li>
+<li>Demonstrated ability to lead team members with diverse backgrounds</li>
+<li>Demonstrated mastery of design and tools required in the role and associated industry standard and best practices.</li>
+<li>Excellent communications skills</li>
+<li>Strong decision making skills</li>
+<li>Creativity with a focus on the future</li>
+<li>Ability to work in a diverse team of professionals</li>
+<li>Experience with Cloud Architectures</li>
+<li>Current Experience working in SCRUM based teams</li>
+<li>Experience working with IoT in commercial settings</li>
+<li>Experience with enterprise level multi-tenant solutions</li>
+<li>Passion for getting hands dirty and solving problems</li>
+</ul>
+<p></p>
+<p><b>Desired Skills &amp; Certifications</b></p>
+<ul>
+<li>U.S. Department of Energy Certified Energy Manager® (CEM®)</li>
+<li>LEED AP Building Design + Construction (LEED AP BD+C)</li>
+<li>Tridium AX Niagara Framework Certification, Niagara Enterprise Security Certification</li>
+<li>Distech Controls Applications &amp; Controllers Factory Certification</li>
+<li>Automated Logic Corporation Controller Programming, Third Party Integration, Lighting Controls, Energy Reports Dashboard</li>
+</ul>
+<p></p>
+<p><b>Benefits</b></p>
+<ul>
+<li>Pay range: $85,000 - $120,000</li>
+<li>Flexible time</li>
+<li>401K Program with matching contribution</li>
+<li>Medical, Dental and Life benefits</li>
+<li>Advancement opportunities for outstanding performers!</li>
+</ul>
+<p><b>As an EEO/Affirmative Action Employer all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status.</b></p>
+</div>
+</div></div>
+</div>
+</div>

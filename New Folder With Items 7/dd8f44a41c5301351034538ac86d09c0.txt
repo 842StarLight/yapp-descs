@@ -1,0 +1,45 @@
+<h2>Applications Engineer - Performance Signal Sources</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">We believe that cultivating a deeper sense of loyalty and belonging is key to how we attract and retain our best people. By embracing our diverse experiences and views, we are better positioned to deliver results, create innovations that matter, and thrive in today’s changing world. This reality inspires our Inclusion &amp; Diversity vision, We Are More Together, and guides our approach as we all work toward creating great places where our teams work and thrive.
+<br><br>
+Tektronix is currently seeking an Applications Engineer to support solutions within its Performance Signal Sources business. This role will include software and digital signal generation algorithm development across various applications, including radar, communications, and electronic warfare, interfacing with our arbitrary waveform generators, real-time spectrum analyzers, and future ASIC ADCs, DACs, and APIs. The position will support pre- and post-sale activity by providing direct support to sales, field applications engineers, and customers.
+<br><br>
+The candidate will also be responsible for helping generate marketing collateral such as application notes and demo guides, and training field engineers supporting Arbitrary Waveform Generator customers. The position will interface with key stakeholders to include engineering, product managers, and field sales. Candidates must be able to communicate effectively to a variety of audiences, both written and verbally.
+<br><br>
+This position will be based in Beaverton, Oregon and require periodic domestic and international travel.
+<br><br>
+<b>Responsibilities:</b><br>
+<ul>
+<li>Integrate and enhance complex RF systems, and verify their ability to meet emerging customer requirements</li>
+<li>Work with system engineers and field applications engineers to troubleshoot customer issues and manage customer expectations</li>
+<li>Collaborate closely with system design engineers, product marketers, and the sales team to ensure team success in achieving organizational goals</li>
+<li>Code development and validation using various languages: Python, C++, C#, and VHDL</li>
+<li>Enable pre- and post-sales activities by supporting field sales and applications engineers</li>
+<li>Champion and support continuous improvement initiatives across the organization – kaizen is our way of life!</li>
+<li>Create application notes and demo guides</li>
+</ul>
+Requirements
+<br><br>
+<ul>
+<li>Bachelor’s degree or equivalent in Electrical Engineering, Computer Engineering, Computer Science, or a related field</li>
+<li>Good understanding of RF and microwave fundamentals, to include radar and EW applications</li>
+<li>Experience with independent test and measurement equipment setup and operation</li>
+<li>3-5 years of experience supporting technical products</li>
+<li>Able to plan, prioritize, and excel in a fast moving, cross-functional team environment</li>
+<li>U.S. citizen or permanent resident (i.e. “U.S. person”)</li>
+<li>Able to travel domestically and internationally</li>
+</ul>
+When you join Tektronix and Fortive, you will work in an extraordinary team, learning with and from great people, where diversity and inclusion is celebrated. You will have the opportunity to do work that makes a difference in the world. You will be trusted and empowered to contribute in meaningful ways with visibility and accountability. We are obsessed with our customers and have a commitment to transparency, unending learning and growth to accelerate progress and innovation. Join us for the excitement of a startup with a history of success! For You. For Us. For Growth.
+<br><br>
+This position's primary/essential functions are subject to US Government ITAR compliance requirements under current government contracts. Therefore, all applicants must be either a US Citizen or a holder of a current valid Green Card and must provide proof of citizenship or legal residency via a birth certificate, a current valid green card, unexpired passport, or a naturalization certificate. We encourage applicants to bring such proof to their interview. However, in no case will applicants be allowed to begin their scope of work in this specific position without providing such proof.
+<br><br>
+All employment offers are contingent upon successful completion of our pre-employment drug screening, background/criminal check, and if applicable a motor vehicle record search and/or financial record check.
+<br><br>
+Candidates with less education/experience may be considered for other opportunities.
+<br><br>
+Fortive is a diversified industrial growth company comprised of global businesses that are recognized leaders in attractive markets. With more than $6 billion in annual revenues, Fortive’s well-known brands hold leading positions in field instrumentation, transportation, sensing, product realization, automation and specialty, and franchise distribution.
+<br><br>
+Fortive is headquartered in Everett, Washington and employs a team of more than 24,000 research and development, manufacturing, sales, distribution, service and administrative employees in more than 40 countries around the world. Our team grows by tackling challenges that accelerate progress and further their careers. With a culture rooted in continuous improvement, the core of our company’s operating model is the Fortive Business System. For more information please visit: www.fortive.com.
+<br><br>
+Tektronix is a place where people are challenged to explore the boundaries of what’s possible, bringing the digital future one step closer every day. Our work accelerates technological breakthroughs that are revolutionizing culture and industry worldwide. Through precision-engineered measurement solutions, we work with our customers to eliminate the barriers between inspiration and realization of world-changing technologies. Realize your true potential at Tektronix – join us in revolutioneering a better tomorrow.
+<br><br>
+"The company in which you have expressed employment interest is a subsidiary or affiliate of Fortive Corporation. The subsidiary or affiliate is referred to as a Fortive Company. Fortive Corporation and all Fortive Companies are equal opportunity employers that evaluate qualified applicants without regard to race, color, national origin, religion, ancestry, sex (including pregnancy, childbirth and related medical conditions), age, marital status, disability, veteran status, citizenship status, sexual orientation, gender identity or expression, and other characteristics protected by law. The "EEO is the Law" poster is available at: http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf. Individuals who need a reasonable accommodation because of a disability for any part of the employment process should call 1-866-272-5573 or e-mail applyassistance@fortive.com to request accommodation."</div>

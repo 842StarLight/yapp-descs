@@ -1,0 +1,100 @@
+<h2>Sr Enterprise Architect, Data & Analytics</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div></div>
+<div>
+<div>
+<div>
+<div>The <b><i>Senior Architect – Data and Analytics</i></b> role will work closely with business and technology leaders and teams to architect modern data platforms that support advanced analytics capabilities including AI and machine learning. Projects and architecture activities for this role includes creating high level solutions, standards, and roadmaps for a modern data platform that leverages cloud platform capabilities as well as market leading commercial and open source components.</div>
+<div>
+<br>
+</div>
+<div>
+This role will work closely with the data and analytics teams along with the broader architecture team to architect, develop, and deliver data and analytics solutions for internal and external clients. This role may eventually also include interacting with clients to understand and support client needs.</div>
+<div>
+</div>
+<div>
+Sr. Architect associates are expected to cultivate and maintain relationships with Director level leaders in both the business and IT in support of their aligned areas.</div>
+<div>
+</div>
+<div><b>
+Essential Job Functions</b></div>
+<ul>
+<li> Develop and maintain the current state and target state architecture for a modern data platform and data / analytics technology suite, in alignment with the strategy and direction of business.</li>
+<li> Participate in business and IT planning for that data and analytics technology suite. Create architectural documentation to support the target state architecture based on planned initiative(s). Promote alignment across business and technology areas around initiatives and assist with estimation and prioritization.</li>
+<li> Participate and lead architecture delivery in projects that impact the aligned application or technology suite.</li>
+<li> Ensure that the data and analytics technology suite meets both the functional and non-functional requirements. Manage application capacity and performance models. Document and manage technical debt / risk related to the applications or technologies within the suite.</li>
+<li> Contribute to the Architecture Profession capability by helping to improve Alliance Data architecture practice and reference architectures. Participate in internal and external architecture communities and organizations that help improve Alliance Data architecture profession, or specific architecture domains and technology capability.</li>
+<li> Provide thought leadership within the data and analytics technology suite in driving various strategies and in solving complex issues</li>
+<li> Onboard/mentor less experienced architects as needed</li>
+</ul>
+<div></div>
+<br>
+<div>
+</div>
+<div><b>
+Education/Certifications</b></div>
+<ul>
+<li> Bachelor’s Degree in Computer Science, Engineering, Mathematics or a related field or equivalent education and/or experience</li>
+<li> TOGAF Certification or relevant experience is helpful</li>
+</ul>
+<div>
+Work Experience</div>
+<ul>
+<li> 7+ years in Information Technology and 5+ years’ experience with IT Architecture preferred</li>
+<li> Experience working currently in an Architect role for the last 3+ years.</li>
+</ul>
+<div>
+<br>
+</div>
+<div><b>
+Infrastructure/Middleware Specific Additions:</b></div>
+<ul>
+<li> Experience with modern data platforms is required:</li>
+<li>At least one cloud platform (Azure or AWS) with experience in most of the following: the platforms storage, big data, streaming, NoSQL data, graph databases and serverless capabilities.</li>
+<li>Modern data platform components such as the following:</li>
+</ul>
+<div>
+Hadoop, Hive, Pig, Spark, Python, Scala, etc</div>
+<ul>
+<li> Experience working with business and IT teams on initiatives that include data science, predictive analytics, artificial intelligence, and machine learning is required.</li>
+<li> Experience with graph databases such as Neo4j, Memgraph, Neptune is preferred.</li>
+<li> Knowledge and experience in creating highly performing architecture to support data analytics and data science is required.</li>
+<li> Ability to identify and assess solution options along with their benefits, risks, costs, and applicability to the strategic direction.</li>
+<li> Knowledge of architecture patterns, strategies and solutions for interacting with traditional data platforms including the following is preferred:</li>
+<li>Transactional / operational data systems such as DB2 and SQL Server.</li>
+<li>Extract-transform-load and related technologies</li>
+<li>BI and analytics tools such as Microstrategy</li>
+</ul>
+</div>
+<div></div>
+<br>
+</div>
+<div></div>
+<div>
+<div>
+</div>
+<b>Alliance Data card services business</b><div>
+<b>
+About Alliance Data’s card services business</b><br>
+Alliance Data’s card services business develops market-leading private label, co-brand, and business credit card programs for many of the world's most recognizable brands. Through our branded credit programs, we help build more profitable relationships between our partners and their cardmembers, and drive lasting loyalty.<br>
+<br>
+Using the industry’s most comprehensive and predictive data set, advanced analytics, and broad-reaching capabilities, Alliance Data’s card services business has been helping partners increase sales and provide greater value to their cardmembers since 1986. We are proud to be part of the Alliance Data enterprise (NYSE: ADS), an S&amp;P 500, FORTUNE 500 and FORTUNE 100 Best Companies to Work For company headquartered in Columbus, Ohio. To learn more, visit KnowMoreSellMore.com, follow us on Twitter @Know_SellMore, and connect with us on LinkedIn at Alliance Data card services.</div>
+<div>
+<div>Alliance Data offers a competitive salary, a comprehensive selection of benefit options including 401(k).</div>
+<div>All job offers are contingent upon successful completion of credit and background checks.</div>
+<div>Alliance Data is an Equal Opportunity Employer.</div>
+<div>Alliance Data will provide accommodations to applicants needing accommodations to complete the application process.</div>
+<div>Any applicant offered employment will be required to establish that they are legally authorized to work in the United States for Alliance Data.</div>
+<div>Alliance Data participates in E-Verify.</div>
+<div>Alliance Data will consider for employment qualified applicants with criminal and credit histories in a manner consistent with the requirements of all applicable laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance.</div>
+</div>
+<div>
+#cb</div>
+<div>
+#indprof</div>
+<b>
+.</b><b>.</b><b>.</b>
+</div>
+</div>
+<div></div>
+</div>

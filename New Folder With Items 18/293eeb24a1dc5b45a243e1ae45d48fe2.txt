@@ -1,0 +1,75 @@
+<h2>Instructional Designer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>I’m looking for an <b>Instructional Designer </b>to join our team to help expand, evolve, and modernize how intellectual capital is presented to its customers, partners, and internal teams. We are recruiting for a cutting edge instructional designer – someone with experience creating interactive, instructionally sound learning content. We are transforming our traditional, predominantly lecture-based content into blended learning experiences that are as exciting and advanced as our products.</p>
+<br>
+<p></p>
+<p>
+At Puppet, the Global Knowledge Management team is a geographically dispersed team of learning professionals. We are dedicated to providing the right information to the right person in the right way at the right time. We are building curated, continuous learning experiences. As a member of our internal design team, you will collaborate cross functionally and use your solid instructional design knowledge and ability to translate highly technical content into easy-to-understand, engaging learning content. We run two mission-critical programs: highly complex technical training and sales enablement. You will need strong project management skills to balance competing priorities. Your knowledge of, or field experience in, data center management, systems management monitoring, networking, programming, security, and/or sales enablement will help you assimilate quicker.</p>
+<br>
+<p></p>
+<h3 class="jobSectionHeader"><b>
+As an Instructional Designer at Puppet, you will:</b></h3>
+<ul>
+<li>Incorporate creative and cutting-edge strategies to develop and implement scalable solutions that engage the audience, increase retention, transfer skills and knowledge, and drive product adoption.</li>
+<li>Create synchronous and asynchronous content that may include instructor-led training, microlearning, videos, and simulations to break down highly technical concepts to simple learning blocks. Effective learning is engaging and we are exploring ways to increase interaction to include gamification.</li>
+<li>Build assessments to measure knowledge transfer and capstone activities for demonstrating mastery.</li>
+<br>
+</ul>
+<p>
+</p>
+<h3 class="jobSectionHeader"><b>Who you will be collaborating with…</b></h3>
+<ul>
+<li>Subject matter experts on our product marketing, engineering, professional services, and technical support teams to create technical knowledge assets</li>
+<li>Sales leadership and team members to create onboarding and ongoing sales enablement content</li>
+<br>
+</ul>
+<p>
+<br>
+</p>
+<p><b>Who are you?</b></p>
+<ul>
+<li>You are committed to working in and fostering an inclusive, diverse, and respectful culture.</li>
+<li>You are an educator who enjoys coaching and consulting on learning design and development when working with subject-matter-experts and stakeholders.</li>
+<li>You are a dynamic and collaborative player who is adept at building effective cross-functional relationships as well as internal relationships within our geographically distributed team.</li>
+<li>You are an excellent visual narrator. You storyboard, create imagery out of ideas, and present facts in engaging and interesting ways.</li>
+<br>
+</ul>
+<p>
+<br>
+</p>
+<h3 class="jobSectionHeader"><b>What valuable experience and skills will you bring to the table?</b></h3>
+<ul>
+<li>At least 2 years of experience in instructional design, developing highly technical training for a global audience.</li>
+<li>Demonstrated knowledge and understanding of instructional methodologies, learning models, and industry design standards and best practices to develop interactive learning for a variety of delivery methods. Certifications in adult learning or instructional design a plus.</li>
+<li>Project management skills, certification, or demonstrated success managing competing priorities on-time and on-budget. Proficiency using JIRA, Confluence, and Slack a plus.</li>
+<li>Experience with education technology such as learning management systems, sales enablement platforms, videography and video hosting services, content authoring tools, multimedia technology, and virtual delivery platforms.</li>
+<li>Proficiency with content standards such as SCORM and AICC and web development such as HTML5, JavaScript, CSS, and WordPress.</li>
+<br>
+</ul>
+<p>
+</p>
+<h3 class="jobSectionHeader"><b>Bonus, but not required (shout about it in your application if you have experience)</b></h3>
+<ul>
+<li>Experience with Puppet or other configuration management tools</li>
+<li>Familiarity with programming languages and workflows</li>
+<li>Windows systems administration experience, including Microsoft PowerShell</li>
+<li>Knowledge of data center management, systems management, monitoring, networking and security</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>About Puppet</b></p>
+<p>
+Puppet’s core mission is to eliminate soul crushing work. We created the industry standard for managing infrastructure as code. And we didn’t stop there—our product portfolio has grown to help organizations automate across their entire software delivery lifecycle. With more than two-thirds of Fortune 100 companies using Puppet’s open source or commercial products, our code is helping power thousands of organizations across the world.</p>
+<p>
+As the industry leader in DevOps solutions, we realize that our success is a collective effort; all made possible by the incredible people working here, our customers, partners, and Puppet community. Our culture is built on positivity, diversity, inclusivity and support—and we seek people who are resilient, entrepreneurial-minded, team players who continually strive to be incrementally better every single day. In our work together we aim to be curious, accountable, empathetic and, above all, collaborative. If this sounds like the environment you’d thrive in, why not say hello?</p>
+<p>
+Learn more about Puppet by checking out the values we live by and the awesome benefits and perks we offer employees!</p>
+<p>
+Puppet is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, ancestry, age, veteran status, disability, or any other protected class.</p>
+<p>
+If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact +1-877-575-9775 for assistance.</p>
+</div>
+</div>

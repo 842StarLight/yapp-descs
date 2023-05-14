@@ -1,0 +1,40 @@
+<h2>Forms Designer I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>POSITION SUMMARY:</b></p>
+<p>Designs formwork and shoring structures for clients under the supervision of an engineer.</p>
+<p><b>ESSENTIAL DUTIES AND RESPONSIBILITIES:</b></p>
+<ul>
+<li>Preparation of concrete formwork design drawings and bills of material</li>
+<li>Providing technical assistance to sales and manufacturing</li>
+<li>Providing milestone dates on large projects</li>
+</ul>
+<p><b>QUALIFICATIONS:</b></p>
+<ul>
+<li>Two plus years working in construction or a related field</li>
+<li>Two plus years working with AutoCAD or similar software</li>
+<li>Two years supervision of large projects</li>
+</ul>
+<p><b>EDUCATION/EXPERIENCE:</b></p>
+<ul>
+<li>High School Diploma or equivalent</li>
+</ul>
+<p><b>OTHER SKILLS AND ABILITIES:</b></p>
+<ul>
+<li>Experience working in concrete formwork design a plus</li>
+<li>Knowledge of shop drawing preparation a plus</li>
+</ul>
+<p><b>PHYSICAL DEMANDS:</b></p>
+<ul>
+<li>Low physical effort required to sit, stand at files, bend, stoop, lift, and walk.</li>
+<li>Maximum unassisted lift 35 lbs, average lift less than 10 lbs.</li>
+<li>Requires ability to use a keyboard, monitor and calculator.</li>
+<li>Requires the ability to communicate verbally, both in person and on the telephone.</li>
+</ul>
+<p><b>WORK ENVIRONMENT:</b></p>
+<ul>
+<li>Inside average office environment.</li>
+<li>Average office noise levels.</li>
+<li>Ambient temperature between 68 and 76 degrees.</li>
+</ul>
+<p>EEO/M/F/Disabled/Vet</p>
+</div></div>

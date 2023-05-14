@@ -1,0 +1,86 @@
+<h2>Senior Front End Web Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>About Bondlink</p>
+<p>BondLink provides a SaaS platform to bond issuers in the $4 trillion municipal bond industry. We have recently raised a large Series A, we have strong revenue growth, and we are already working with many of the largest issuers in the country.</p>
+<p>While our product is finance focused, make no mistakes; internally we are a genuine tech-first startup culture.</p>
+<p>Our co-founders include a serial tech entrepreneur with multiple successes and a senior ex-government official with deep experience in the wheelhouse of our product offering.</p>
+<p>Culturally we provide all the startup bells and whistles, and we have a beautiful new office in Fort Point that we're looking to fill with talented people.</p>
+<p>Who We Are</p>
+<ul>
+<li>We are a small but growing team of engineers using functional programming concepts to build a high quality and reliable product.</li>
+<li>
+On the client side, our core languages are TypeScript (Typed JavaScript) and SCSS.</li>
+<li>
+We use many TS/JS libraries from the NPM ecosystem but some of the most important to us are functional programming libraries built around the FP-TS ecosystem</li>
+<li>
+On the backend, we use Scala, as well as functional libraries such as ScalaZ and meta-programming libraries such as Shapeless and Magnolia.</li>
+<li>
+Other technologies we work with include MariaDB, Redis, SOLR, SaltStack, Git, and Docker.<br>
+<br>
+</li>
+</ul>
+<p>Who You Are</p>
+<ul>
+<li>Must have an eye for detail and design.</li>
+<li>
+Take pride and satisfaction in seeing static designs come to life in the browser.</li>
+<li>
+3+ years professional JavaScript experience.</li>
+<li>
+Advanced understanding of modern revisions of JavaScript such as ES6/2015 and above.</li>
+<li>
+TypeScript experience highly preferred.</li>
+<li>
+5+ years professional experience with HTML5, CSS 3 and/or SCSS/SASS/LESS.</li>
+<li>
+Understand the differences between SVG, PNG, JPG and custom font collections; and when to use which file format.</li>
+<li>
+Want to work with modern browsers. We only officially support the latest versions of Chrome, Firefox, Safari, Edge and IE 11+.</li>
+<li>
+Interest in working on a small team and being involved in technological decisions that shape the evolution of our product.</li>
+<li>
+Local to Boston or happily willing to relocate. We are in Fort Point, a 5 minute walk from South Station.</li>
+<li>
+No financial industry knowledge required.</li>
+<li>
+Must be authorized to work in the US as we are unable to sponsor visas at this time.<br>
+<br>
+</li>
+</ul>
+<p>Why BondLink?</p>
+<ul>
+<li>Cool mission: We're in the business to help governments save money through technology. If that doesn't excite you, this is not the company for you;</li>
+<li>
+BondLink is off to a fast start, gaining fantastic market traction since going live in 2016, with prominent, existing clients in nearly every state and every sector of the $4 trillion municipal bond market;</li>
+<li>
+Its two founders have significant startup and bond market/industry expertise;</li>
+<li>
+In January 2018, the company announced a $10 million Series A round of financing led by Franklin Templeton Investments, one of the biggest municipal bond fund managers in the country.</li>
+<li>
+The BondLink sales advantage: First-to-market in a deep, target-rich environment.<br>
+<br>
+</li>
+</ul>
+<p>What We Offer</p>
+<ul>
+<li>Competitive compensation plan</li>
+<li>
+Unlimited PTO and flexible working hours</li>
+<li>
+Comprehensive premium insurance plans for medical, vision and dental. All 100% paid for by BondLink with zero cost to employee.</li>
+<li>
+401K retirement savings plan</li>
+<li>
+Stock Options</li>
+<li>
+Flexible Spending Accounts with employer contribution of $100.00 per month.</li>
+<li>
+Weekly catered lunches</li>
+<li>
+A near-unlimited supply of Oreos in our fully-stocked kitchen</li>
+<li>
+Monthly outings and happy hours</li>
+<li>
+A culture that provides an exciting and dynamic work environment in our beautiful newly renovated office in Fort Point/Seapor</li>
+</ul>
+</div></div>

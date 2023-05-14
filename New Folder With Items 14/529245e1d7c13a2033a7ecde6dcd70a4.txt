@@ -1,0 +1,71 @@
+<h2>Principal Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<h2 class="jobSectionHeader"><b>About the team</b></h2>
+StreetEasy is New York City's leading real estate marketplace. We provide buyers, sellers, and renters with access to comprehensive sales and rental listings, and information about all buildings and neighborhoods that can’t be found anywhere else. Our team is constantly innovating to develop unique solutions to help consumers and real estate professionals connect, and navigate the complex NYC real estate market.<br>
+<br>
+All devs take advantage of our 20% policy to further their craft by taking online courses or working on their special tech-debt pet project to improve their (and everyone else's) codebase.<p></p>
+<h2 class="jobSectionHeader"><b>
+About the role</b></h2>
+<p>
+StreetEasy is seeking an exceptional Principal Software Development Engineer who wants to join a talented team that is building fast, beautiful and innovative tools to change how people buy and rent homes. We are a technology driven group who constantly strive to use the best engineering methods available to build cutting edge products.</p>
+<p>
+This includes a chance to:</p>
+<p>
+Impact the local New York City market; work with highly accomplished teammates from multiple areas using the latest industry tools and new technology to advance your own technical vision.</p>
+<p></p>
+<ul>
+<li>
+Work at one of New York's most highly-rated workplaces, enjoying the best of both worlds between a large company (stability) and a small startup (growth potential).</li>
+<li>
+Play a meaningful role on a mission-critical team that builds and maintains data and information seen by millions of people.</li>
+<li>
+Enjoy an outstanding work-life balance.</li>
+<li>
+Opportunities to be a Tech Lead for one of our teams.</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+Who you are</b></h2>
+<p>
+We are looking for a developer that has a love for understanding and writing beautiful code. You will work in concert with Product Managers, Designers, Quality Assurance specialists and Business Strategists to help StreetEasy update and build new products and features. More specifically:</p>
+<ul>
+<li>
+You have an Undergraduate or Master's degree in a quantitative field (e.g. science, engineering, mathematics) or equivalent experience.</li>
+<li>
+Have at least 8 years of experience as a software engineer in a collaborative environment. You are able to coordinate and work well with designers, PM's and other developers.</li>
+<li>
+Excellent understanding of Domain Driven Design, software Design Patterns and principles. Ability to teach others on the team.</li>
+<li>
+Can clearly articulate strategic, customer, competitive and/or controversial trade-offs and how it relates to others in the company.</li>
+<li>
+Viewed as a technical leader, often consulted by peers and asked to evaluate architectural designs.</li>
+<li>
+Ruby and Rails or React experience a huge plus.</li>
+<li>
+You know your way around relational databases and able to create and understand efficient tables and queries.</li>
+<li>
+You understand, practice, advocate and teach good testing principles.</li>
+<li>
+A solid understanding of the developer workflow and how to help your team work smoothly.</li>
+<li>
+Experience with AWS, Elastic Search, GraphQL or Docker a plus.</li>
+<li>
+Experience or an interest in microservices and cloud native architectures.</li>
+<li>
+You know how to help junior developer learn the craft of software development and help grow their careers.</li>
+<li>
+You understand why certain metrics are important and what they indicate. This helps drive your decision-making in Product Design.</li>
+</ul>
+<p></p>
+<h2 class="jobSectionHeader"><b>
+Get to know us</b></h2>
+StreetEasy is New York City’s leading local real estate marketplace providing accurate and comprehensive for-sale and for-rent listings from hundreds of real estate brokerages throughout New York City and the major NYC metropolitan area. StreetEasy is part of Zillow Group, whose mission is to build the largest, most trusted and vibrant home-related marketplace in the world.<p></p>
+<p>
+At Zillow Group, we're powered by our inclusive work culture, where everyone has the support and resources to do the best work of their careers. Our efforts to streamline the real estate transaction is supported by our passion to empower people and enrich lives around everything home, a deep-rooted culture of innovation, a fundamental commitment to Equity and Belonging, and world-class benefits. But, don't just take our word for it. Read our reviews on Glassdoor and recent recognition from multiple organizations, including: Fortune 100 Best Companies to Work For (#69), Fortune Best Workplaces for Diversity (#38), Fortune Best Workplaces for Parents (#31), Fortune Best Workplaces for Women (#20), Fatherly's Best Workplaces for New Dads (#37), JUST Capital 100 Company (#69), Bloomberg Gender Equality Index constituent.</p>
+<p></p>
+<p><i>
+Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. Therefore, we provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know.</i></p>
+</div>
+</div>

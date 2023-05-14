@@ -1,0 +1,118 @@
+<h2>Manager I, DBA</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Overview
+</p>
+<div><div><div>
+<div>Leveraging deep integrations into retailers’ point-of-sale systems, InComm is revolutionizing the commerce experience through innovative payments technology. InComm leverages end to end solutions to bring branded activatable products to retailers both in store and digitally. Our process includes everything from card printing, inventory management and forecast analytics, to the development and integration of activation technology in point of sale machines world-wide. From there we leverage our backend platform as a service technology to drive product activation to the tune of several thousand card activations every second. Whether those consumers are activating prepaid products, paying bills, enjoying real-time discounts through a membership card, purchasing digital goods in-store or adding funds to an online account, InComm is there to provide unique gift-gifting opportunities, cater to on-the-go shoppers, deliver added value through loyalty programs and serve cash-based consumers.</div>
+<div></div>
+<br>
+<div>
+InComm is headquartered in Atlanta, GA with a presence in over 30 countries, an organization of approximately 3,000 employees, several hundred international technical patents, and a network that includes over 600,000 points of retail distribution. With innovation as our number 1 company value, our speed to market for new products and services is accelerating rapidly and quickly positioning InComm as a global leader in fintech innovation. Learn more at www.incomm.com or connect with us on www.twitter.com/incomm, www.facebook.com/incomm, www.linkedin.com/company/incomm or www.incomm.com/blog.</div>
+</div></div></div>
+<p>About This Opportunity<br>
+</p>
+<div></div>
+<p>Responsibilities
+</p>
+<div><div><div>
+<div>InComm is adding a DBA Manager to our team who will be responsible for the management of database administrators and systems. This individual should possess strong competencies in Oracle and SQL database troubleshooting, configuration, support and setup, backup/recovery, and related tasks with multiple instances of Oracle databases. You must have a solid understanding of other inter-related database, storage, operating system, networking, and other technologies commonly found in the architecture of larger enterprise class environments. A "can do" attitude is critical as well as ability to be flexible, level-headed under pressure, strong team work sensibilities, and a general all around hard worker.</div>
+<div></div>
+<br>
+<div>
+As the Mgr. I, DBA, you will lead our organization’s data management, security, and maintenance initiatives while providing day-to-day direction for our team of database administrators. You will work with the many other information technology professionals in our organization to ensure the security, availability, and speed of our databases. This individual should possess excellent Technical skills as well as excellent Soft Skills. The ability to professionally communicate with leadership and peers is just as important as the technical skills required in this role. The ability to multi-task with excellent Time Management is a core requirement. Proactiveness and Accountability are keys to operational excellence in this position. The ideal candidate for this position will have strong PL/SQL development experience in Oracle environment. You will be sharp, motivated, hardworking, and well versed in enterprise reporting tools, frameworks, and best practices. Experience writing testable, scalable solutions is very important to us.</div>
+<ul>
+<li>
+Responsible for evaluating patch releases from Oracle and patching requests from development, and communicating constraints, issues, and timelines for deployment.
+</li>
+<li>Proactive database monitoring in support of metrics, issue avoidance, and issue resolution</li>
+<li>
+Hands-on with all aspects of database administration including installation, configuration, upgrades, patching, migration, capacity planning, performance tuning, backup and recovery</li>
+<li>
+Database and PL/SQL optimization including performance tuning, query optimization and supportability</li>
+<li>
+Actively participate and contribute to projects involving enterprise systems enhancements</li>
+<li>
+Create and maintain appropriate documentation about the database and the data architecture</li>
+<li>
+Experienced with Unix Shell Scripting (ksh/bash)</li>
+<li>
+Proficient with OEM/SQL Advisor/ADDM/AWR
+</li>
+<li>Ability to provide inputs to improve process</li>
+<li>
+Possess Excellent teamwork skills
+</li>
+<li>Willing to provide 24x7 On-Call coverage on a rotating basis and be generally reachable when not on call</li>
+<li>
+Willing to work on late nights and weekends as needed</li>
+<li>
+Thorough and prompt in reporting</li>
+<li>
+Work with cross-functional project teams to resolve technical performance issues/bottlenecks (e.g., network, storage, application)</li>
+</ul>
+</div></div></div>
+<p>Qualifications
+</p>
+<div><div><div>
+<ul>
+<li>5+ years in a development or support organization supporting large applications with Oracle on Linux platforms
+</li>
+<li>Strong technical experience with Oracle RAC/ASM and Oracle DataGuard architecture on Oracle 11g and Oracle 12c.</li>
+<li>
+Strong experience in a Production Operations environment as well as Development Support.</li>
+<li>
+Core competency with Oracle 12c RDBMS
+</li>
+<li>Very strong experience with Oracle Real Application Clusters (RAC) and ASM Experience in a 24x7 high availability environment required.
+</li>
+<li>Experience with design and implementation of DataGuard/Active DataGuard/DataGuard Broker
+</li>
+<li>Experience with design and implementation of Oracle GoldenGate
+</li>
+<li>Experience with Oracle Options including Partitioning, Advanced Compression, Advanced Security, VPD, EBR, etc.</li>
+<li>
+Strong Experience with Disaster Recovery implementation and testing using DataGuard and GoldenGate preferred.
+</li>
+<li>Knowledge and understanding of how to leverage and use Oracle Enterprise Manager.
+</li>
+<li>Expert backup and recovery skills utilizing Oracle's RMAN utility Expert Database performance tuning and trouble shooting skills
+</li>
+<li>Expert SQL performance tuning and trouble shooting skills
+</li>
+<li>Strong LINUX experience (scripting experience/knowledge required)
+</li>
+<li>Strong quantitative, analytical, communication and verbal skills with a strong customer service focus
+</li>
+<li>Ability to work as part of a team as well as independently toward assigned goals
+</li>
+<li>Excellent Time Management skills.
+</li>
+<li>Skilled at working well with different staff levels, within and out of core competency.
+</li>
+<li>MySQL knowledge a plus</li>
+</ul>
+<div>
+Preferred:</div>
+<ul>
+<li>
+BS or MS in Computer Science or related field</li>
+<li>
+Experience with data visualization toolsets like Splunk</li>
+<li>
+C# and the .NET Framework (v4.5)</li>
+<li>
+Experience working in continuous integration and continuous delivery environments</li>
+<li>
+Experience working in a microservices architecture</li>
+<li>
+Familiarity with design patterns and principles</li>
+<li>
+Experience with unit testing and Test-Driven Development</li>
+</ul>
+<div>
+InComm is an equal employment opportunity employer. We adhere to a policy of making employment decisions without regard to race; color; religion; national origin; sex; sexual orientation; pregnancy, childbirth, or related medical conditions; age; disability or handicap; citizenship status; service member status; or any other category protected by federal, state, or local law.</div>
+<div></div>
+<br>
+<ul><li>This position is eligible for the Employee Referral Bonus Program - Tier 4</li></ul>
+</div></div></div>
+</div></div>

@@ -1,0 +1,56 @@
+<h2>Middleware Developer (DIRECT HIRE)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Why T-CETRA?</b></p>
+<p>We're constantly developing new and creative ways to solve the industry’s most complex problems. Our enterprise software solutions run the gamut of Information Technology Services–from payment processing, to prepaid wireless activations, to mobile and web app development. For the past 10+ years our originality attracts the most outstanding and innovative thinkers- allowing us to develop new and creative approaches while growing as the industry leader. Are you a passionate professional, ready to make changes in the tech world? Join our team today!</p>
+<p>Check Us Out: WWW.TCETRA.com</p>
+<p><b>Responsibilities</b>: As a Middleware Engineer you will have the opportunity to work with management and team members to deliver value added solutions. The successful Middleware Engineer will gain valuable experience and participate in QA test case passing processes. This will include;</p>
+<ul>
+<li>Support sales, marketing and report solutions for direct customer facing applications.</li>
+<li>Manage code Review and package code for ship to production.</li>
+<li>Guide and train team members on standards.</li>
+<li>Create mock data responses from web services.</li>
+<li>Conduct peer code review and package code for ship to production.</li>
+<li>Negotiate solutions that fit best business needs.</li>
+<li>Document processes, standards and projects as needed for cross training and reusability.</li>
+<li>Evaluate team members performances and guide them to growth.</li>
+<li>Participate in interview processes as needed for the team.</li>
+<li>Work with System Architect(s) on platform direction.</li>
+<li>Develop and implement enterprise level back end systems using layered architecture, micro services and SOA.</li>
+<li>Guide team members in best practices for secure, robust designs that can be used across multiple projects and web browser tech updates.</li>
+</ul>
+<p><b>Minimum Qualifications: </b></p>
+<ul>
+<li>Expert knowledge in the most current .NET and C# technologies.</li>
+<li>Server-side knowledge of ASP, .NET and WCF, Wed API and IIS</li>
+<li>Test Driven Development (TDD) solutions experience (plus).</li>
+<li>Knowledge in design patterns and solid coding principles.</li>
+<li>Familiarity developing e-commerce solutions.</li>
+<li>Proficiency working within an Agile team and Agile process.</li>
+<li>Experience with testing and automation tools.</li>
+<li>Capability with TFS.</li>
+<li>Four-year degree in Computer Science, IT Engineering or a related field; 4+ years of equivalent experience.</li>
+<li>Experience in the following tools: Chef, Jenkins, Docker, Nagios, and GitHub (plus).</li>
+</ul>
+<p><b>Why Should You Apply: </b></p>
+<ul>
+<li>Paid Time Off</li>
+<li>Comprehensive Medical, Vision and Dental</li>
+<li>Matching 401k up to 4%</li>
+<li>FMLA and Life Insurance</li>
+<li>Tuition Reimbursement</li>
+<li>Wellness Program</li>
+<li>Employee Growth and Development Reimbursement Program</li>
+<li>Discounted Rates for Multiple Handsets and Prepaid Wireless Rates</li>
+<li>Beautiful nearby walking paths and park</li>
+<li>Fun, value centered work atmosphere</li>
+<li>Flexible work environment</li>
+</ul>
+<p><i>T-CETRA provides employment and opportunities for advancement, compensation, training, and growth according to individual merit, without regard to race, color, religion, sex (including pregnancy), national origin, sexual orientation, gender identity, marital status, age, genetic information, disability, veteran-status, or any other characteristic protected under applicable Federal, state, or local law. Our goal is for each staff member to have the opportunity to grow to the limits of their abilities and to achieve personal and organizational objectives. We will support positive programs for equal treatment of all staff and full utilization of all qualified employees at all levels within T-CETRA. To create a safe and positive environment for employees, all applicants must perform a pre-employment drug screen and background check.</i></p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>software development: 2 years (Required)</li></ul>
+<p>Education:</p>
+<ul><li>Associate (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+</div>

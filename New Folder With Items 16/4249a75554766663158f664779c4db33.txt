@@ -1,0 +1,54 @@
+<h2>Application Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>This is not your typical IT job - we are seeking an Application Developer/Analyst that has a passion for technology, data, end users, writing killer code, and solving real business problems!</p>
+<p>At Arden, we are continually looking for new and innovative approaches in business analysis and the integration of cutting edge technology to support our operations in product development, supply chain, manufacturing, and finance.</p>
+<p>We believe speed, accuracy, and efficiency are critical to our success. This position will develop your knowledge in many aspects of Arden’s operations and IT systems. You will have the opportunity to see the direct impact of your work! You will solve real business problems and provide solutions to actual people who work with you every single day.</p>
+<p>You will be part of a team that takes pride in working with our business partners to deliver world class solutions and in providing a competitive edge for every aspect of Arden’s operations. In this role, we are responsible for the full development life cycle and have the great advantage of seeing our ideas and implementations have direct impact on the company and its bottom line.</p>
+<p><b>Primary Responsibilities</b></p>
+<ul>
+<li>Work with cross-functional teams to appropriately model business requirements within the ERP, business analytics, and other supply chain systems.</li>
+<li>Design, code, implement, and support solutions for all aspects of the global ERP, including Sales and Distribution, Manufacturing Planning and Execution, Replenishment, Inventory Control, Finance, Product Costing, and cross functional data analytics.</li>
+<li>Create and maintain process documentation, technical documentation, and user guides.</li>
+<li>Support all aspects of enterprise technology applications, including retailer EDI.</li>
+</ul>
+<p><b>Must Have - Required</b></p>
+<ul>
+<li>Bachelor’s degree in Computer Science, Information Science, Computer Engineering or another related discipline. Some education with strong field experience would be considered.</li>
+<li>Experience working with SQL/RDBMS, data modeling, and data management.</li>
+<li>Understanding of and experience with standard software quality assurance and testing processes and methodologies.</li>
+<li>Strong analytical and problem solving skills.</li>
+<li>Excellent communication and writing skills.</li>
+<li>Ability to work independently and proactively within tight, concurrent deadlines with accuracy.</li>
+</ul>
+<p><b>Highly Beneficial</b></p>
+<ul>
+<li>Practical experience in business application software development.</li>
+<li>Experience as a business analyst in a fashion or soft goods industry.</li>
+<li>Familiarity with business data concepts such as bill of material, routing, etc.</li>
+<li>A desire to learn about and manage the full stack of software and hardware for a system.</li>
+</ul>
+<p>Arden Companies is an equal opportunity employer. Candidates must be eligible to work in the U.S. on a permanent basis. Arden Companies participates in the Department of Homeland Security’s E-Verify Program to verify the employment eligibility of all newly hired employees.</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>EDI: 1 year (Preferred)</li>
+<li>SQL: 1 year (Required)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Benefits offered:</p>
+<ul>
+<li>Paid time off</li>
+<li>Parental leave</li>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Healthcare spending or reimbursement accounts such as HSAs or FSAs</li>
+<li>Other types of insurance</li>
+<li>Retirement benefits or accounts</li>
+<li>Education assistance or tuition reimbursement</li>
+<li>Gym memberships or discounts</li>
+<li>Flexible schedules</li>
+<li>Workplace perks such as food/coffee and flexible work schedules</li>
+<li>Others</li>
+</ul>
+</div>

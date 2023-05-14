@@ -1,0 +1,86 @@
+<h2>Security Client Architect</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Role Summary: </b></p>
+<p>This position is responsible to provide technical guidance, support, quality assurance, and documentation for the technology landscape of one or more our customers. The Client Architect (CA) first engages during the initial, pre-sale architecture design and maintains responsibility for the technical landscape throughout its life with the customer. This role will also interact with customers and our technical managers, engineers, and other technicians. Success in the CA position requires a broad mix of various technical skills, customer focus, and the ability to communicate effectively.</p>
+<p><b>Core Responsibilities: </b></p>
+<ul><li>Serve as Technical Landscape Owners (TLO) for multiple Top 20 clients (assigned per Client Architect)</li></ul>
+<ul><li>Assist internal teams with the Billable Change Orders (BCOs) process</li></ul>
+<ul><li>Qualify sales opportunities in terms of client technical requirements</li></ul>
+<ul><li>Prioritize opportunities and efforts to maximize total impact on customer satisfaction</li></ul>
+<ul><li>Drive engagement conversions to additional services / solutions</li></ul>
+<ul><li>Demonstrate ability to balance long-term and short-term implications of environment changes and decisions</li></ul>
+<ul><li>Provides recommendations on changes and design enhancements to improve reliability, security, processes, and performance.</li></ul>
+<ul><li>Demonstrate ability to analyze complex environments, infrastructure, and networking drawings</li></ul>
+<ul><li>Participate and/or lead client facing conference calls covering implementations, support, architecture, technology, and future state for both technical and non-technical audiences, including Executive level leadership</li></ul>
+<p><b>Enterprise Infrastructure Architecture Responsibilities: </b></p>
+<ul><li>Advise clients on business process and infrastructure improvements to meet client goals</li></ul>
+<ul><li>Provide detailed audits and documentation of processes for client visibility into their hosted infrastructure</li></ul>
+<ul><li>Full responsibility, oversight, and approval for infrastructure changes to assigned client’s environment</li></ul>
+<ul><li>Plan and carry out Disaster Recovery (DR) tests</li></ul>
+<p><b>Solutions Architecture Responsibilities</b>:</p>
+<ul><li>Work with the Sales and Solution Architect teams to provide input and suggestions for new solutions and offerings using knowledge of customer environments</li></ul>
+<ul><li>Own the customer renewal process including contract termination tracking, renewal pipeline and status, profitability analysis, and renewal project planning</li></ul>
+<ul><li>Gather objective data and calculate costs for renewing client contracts, add-ons to existing contracts, as well as plans for scoped project implementation</li></ul>
+<ul><li>Recommend options that solve identified technology issues while taking in account budget considerations for both the client and us.</li></ul>
+<ul><li>Draft Service Order Forms (SOFs) to limit involvement of Sales to only setting/confirming margin</li></ul>
+<p><b>Leadership and Team Focus Responsibilities: </b></p>
+<ul><li>Takes responsibility for meeting commitments; desire to succeed and has a history of meeting solutions by deadline.</li></ul>
+<ul><li>Builds respectful relationships with team members; consistently acknowledges and appreciates each member's contributions.</li></ul>
+<ul><li>Effectively utilizes each team member to his/her fullest potential; motivates team to work together in the most efficient manner.</li></ul>
+<ul><li>Provides quality customer service above else; ensures an understanding between customer and our company and helps provide workable solutions.</li></ul>
+<ul><li>Keeps track of lessons learned and shares those lessons with team members and peers.</li></ul>
+<ul><li>Mitigates team conflict and communication problems; provides information that insures interest and understanding.</li></ul>
+<ul><li>Promotes innovation, creativity, communication, and effectiveness, always striving for continuous improvement.</li></ul>
+<ul><li>Grows professionally and personally; eager to acquire new knowledge while promoting our values and culture.</li></ul>
+<p><b>Qualifications: </b></p>
+<p><b>Industry Experience: </b></p>
+<ul><li>7 years’ experience in enterprise IT (managed service provider experience preferred)</li></ul>
+<ul><li>5 years’ experience in estimating financial impact of enterprise architecture alternatives</li></ul>
+<ul><li>5 years’ experience in IT project management and delivery</li></ul>
+<ul><li>5 years’ experience in translating business needs into enterprise architecture requirements</li></ul>
+<ul><li>Effective stakeholder management</li></ul>
+<p><b>Technology experience: </b></p>
+<ul><li>5 years’ experience with Microsoft and/or Linux server OS support</li></ul>
+<ul><li>5 years’ experience in developing presentations for senior and executive management</li></ul>
+<ul><li>5 years’ experience with virtualization technologies (VMware, Zerto/SRM)</li></ul>
+<ul><li>5 years’ experience with enterprise storage technologies (EMC/NetApp/Pure)</li></ul>
+<p><b>EDUCATION REQUIRED: </b></p>
+<p>Bachelor’s Degree or equivalent in Business Administration, Computer Science, Computer Information Systems, or Finance. Will also accept equivalent of bachelor’s degree through any suitable combination of education, training, or experience.</p>
+<p><b>SPECIAL REQUIREMENTS: </b></p>
+<ul><li>Incident / crisis remediation, ability to pull groups together during major event and coordinate response</li></ul>
+<ul><li>Complaint de-escalation techniques and ability to build trust with client contacts</li></ul>
+<ul><li>Read and recognize trends in regular reporting, make non-emotional recommendations supported by data</li></ul>
+<ul><li>Organization and ability to context switch effectively while keeping a team focused on key priorities</li></ul>
+<ul><li>Demonstrated organization, facilitation, communication, and presentation skills</li></ul>
+<ul><li>Exceptional written and verbal communication skills along with attention to detail</li></ul>
+<p>Job Type: Full-time</p>
+<p>Salary: $90,000.00 to $130,000.00 /year</p>
+<p>Experience:</p>
+<ul>
+<li>IT/Security: 10 years (Required)</li>
+<li>translating business needs into enterprise architecture: 5 years (Preferred)</li>
+<li>estimating financial impact of enterprise architecture: 5 years (Preferred)</li>
+<li>Solutions Architecture: 5 years (Required)</li>
+<li>enterprise IT (multipy service provider: 6 years (Required)</li>
+</ul>
+<p>Required travel:</p>
+<ul><li>25% (Preferred)</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Paid time off</li>
+<li>Retirement plan</li>
+<li>Vision insurance</li>
+<li>Dental insurance</li>
+<li>Health insurance</li>
+</ul>
+<p>This Job Is Ideal for Someone Who Is:</p>
+<ul>
+<li>High stress tolerance -- thrives in a high-pressure environment</li>
+<li>Achievement-oriented -- enjoys taking on challenges, even if they might fail</li>
+<li>Detail-oriented -- would rather focus on the details of work than the bigger picture</li>
+<li>People-oriented -- enjoys interacting with people and working on group projects</li>
+<li>Dependable -- more reliable than spontaneous</li>
+</ul>
+</div>

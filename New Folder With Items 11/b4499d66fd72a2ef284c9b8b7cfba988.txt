@@ -1,0 +1,28 @@
+<h2>Systems Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>Systems Engineer</b> at Fabiano Brothers<br>
+<br>
+<b>Fabiano Brothers</b> has an opening for a full-time Systems Engineer. The Systems Engineer will be responsible for monitoring, maintaining and upgrading the information technology infrastructure and servers. We are seeking a motivated team player with strong interpersonal skills.<br>
+<br>
+<b>Job Responsibilities</b>
+</div>
+<ul>
+<li>Install, configure, manage and troubleshoot all infrastructure devices including routers, switches and wireless.</li>
+<li>Ensure and maintain the infrastructures health, security, and stability at all four locations.</li>
+<li>Upgrade and maintain servers, workstations and mobile devices.</li>
+<li>Manage licensing of devices and software.</li>
+</ul> <div><b>Job Qualifications</b></div>
+<ul>
+<li>Strong knowledge of networking including Cisco, Fortinet and Ruckus devices.</li>
+<li>Experience configuring, troubleshooting and maintaining a corporate network a must.</li>
+<li>Experience with Windows Server environments and Office 365.</li>
+<li>Strong understanding of virtualization and VMWare is required.</li>
+<li>Active Directory / LDAP / Group Policy.</li>
+<li>Industry certifications a plus.</li>
+<li>Bachelor’s degree in Information Technology or equivalent experience required.</li>
+<li>Must be self-motivated, and willing to take on a variety of projects.</li>
+</ul>
+<div>
+<b>Fabiano Brothers</b> is a family-owned beer wholesaler with over 130 years of service to the communities in our distribution area. We take pride in providing our customers with sales, delivery, and customer service teams that are efficient, dependable, and responsive to the needs of our customers. We continually look for individuals who will help us achieve and maintain this goal.</div>
+</div></div>

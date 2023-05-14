@@ -1,0 +1,52 @@
+<h2>AI/Machine Learning Software Engineer Intern</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<b>Job Opening ID:</b> 121201</div>
+<div><div><b>Ann Arbor, MI, United States</b></div></div>
+<div>Full-Time</div>
+<div>Temporary</div>
+</div>
+<br><div>
+<p><b>Company Overview</b>
+</p>
+<p>Calling the adventurers ready to join a company that's pushing the limits of nanotechnology to keep the digital revolution rolling. At KLA, we're making technology advancements that are bigger—and tinier—than the world has ever seen.<br>
+<br>
+Who are we? We research, develop, and manufacture the world's most advanced inspection and measurement equipment for the semiconductor and nanoelectronics industries. We enable the digital age by pushing the boundaries of technology, creating tools capable of finding defects smaller than a wavelength of visible light. We create smarter processes so that technology leaders can manufacture high-performance chips—the kind in that phone in your pocket, the tablet on your desk and nearly every electronic device you own—faster and better. We're passionate about creating solutions that drive progress and help people do what wouldn't be possible without us. The future is calling. Will you answer?</p>
+<p><b>
+Group/Division</b>
+</p>
+<p>The Global Service Support Organization (GSS) team headquartered in Milpitas, CA is our service organization that consists of Service Sales and Marketing, Spares Supply Chain management, Field Operations, Product Training, and Technical Support. The GSS organization partners with our field teams and customers in all business sectors to maintain the high performance and productivity of our products through a flexible portfolio of services. Our comprehensive services include: proactive management of tools to identify and improve performance; expertise in optics, image processing and motion control with worldwide service engineers, 24/7 technical support teams and knowledge management systems; and an extensive parts network to ensure worldwide availability of parts.
+</p>
+<p><b>Responsibilities</b>
+</p>
+<p>Our technical learning organization is looking for highly motivated and talented student to be part of our AI research project, bringing Artificial Intelligence and Machine Learning to technical learning design for our service engineers. The position will entail combining machine learning, NLP, and reasoning methods, tools, and techniques to develop algorithms in order to drive intelligent designs of our product training. This will include analyzing, structuring, and cleaning metadata and and event information from our service case database (CRM).</p>
+<p><b>
+Qualifications</b>
+</p>
+<p>B.S or M.Sc. in Computer Science, Software Programing or any related technical field</p>
+<ul>
+<li>Strong programming skills in one or more of the following languages: Python, Java or C/C++.</li>
+<li>Experience in applying AI, machine learning technique and SQL database techniques</li>
+<li>Understanding of data visualization, patterning, big data, and algorithm development</li>
+</ul>
+<p>
+This Job Is Ideal for Someone Who Is:</p>
+<ul>
+<li>Dependable - more reliable than spontaneous</li>
+<li>People-oriented - enjoys interacting with people and working on group projects</li>
+<li>Detail-oriented - would rather focus on the details of work than the bigger picture</li>
+<li>Achievement-oriented - enjoys taking on challenges, even if they might fail</li>
+<li>Autonomous/Independent - enjoys working with little direction</li>
+<li>Innovative - prefers working in unconventional ways or on tasks that require creativity</li>
+</ul>
+<p><b>
+Minimum Qualifications</b>
+</p>
+<p>Some College</p>
+<p><b>
+Equal Employment Opportunity</b>
+</p>
+<p>KLA is an Equal Opportunity Employer. Applicants will be considered for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other characteristics protected by applicable law.</p>
+</div>
+</div>

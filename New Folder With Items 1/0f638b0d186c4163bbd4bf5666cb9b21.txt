@@ -1,0 +1,107 @@
+<h2>Senior Java Web Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>
+<div>Founded in 1866, The Sherwin-Williams Company is a global leader in the manufacture, development, distribution, and sale of paints, coatings and related products to professional, industrial, commercial, and retail customers. The company manufactures products under well-known brands such as Sherwin-Williams®, Valspar®, HGTV HOME® by Sherwin-Williams, Dutch Boy®, Krylon®, Minwax®, Thompson’s® Water Seal®, Cabot® and many more. Sherwin-Williams® branded products are sold exclusively through a chain of more than 4,100 company-operated stores and facilities, while the company’s other brands are sold through leading mass merchandisers, home centers, independent paint dealers, hardware stores, automotive retailers, and industrial distributors. The company supplies a broad range of highly-engineered industrial and OEM coatings for wood and general industrial, coil, packaging, protective and marine, and transportation applications worldwide. Our 60,000 employees are diverse, innovative and passionate. With a variety of rewarding and challenging opportunities, Sherwin-Williams is a great place to find a career that takes you places<br>
+</div>
+<div></div>
+<div>
+The Senior Java Web Developer position is responsible for the development, integration, and implementation of application software supporting mission critical business applications within the TAG IT merchandise accounting systems group. The position requires participation in the complete system development life cycle including post implementation support. The developer provides technical consulting to management, business users, and works closely with other developers as a mentor.
+<br>
+<br>
+<b>Essential Functions</b><br>
+<br>
+<b>Strategy &amp; Planning</b><br>
+<ul>
+<li>Work with the business units to identify business requirements for requested projects.</li>
+<li>Identify the technical requirements of projects.</li>
+<li>Analyze all aspects of the projects.</li>
+<li>Perform feasibility and cost/benefit analyses for proposed projects.</li>
+<li>Plan and organize tasks, report on project progress, coordinate with additional development teams.</li>
+</ul>
+<br>
+<b>
+Development &amp; Deployment</b><br>
+<ul>
+<li>Perform complex programming assignments requiring an advanced aptitude of established programming standards, methods, and best practices.</li>
+<li>Design application and database components for development projects.</li>
+<li>Perform analysis of business models, logical specifications, and/or customer requirements to design and build Internet solutions utilizing multiple technologies.</li>
+<li>Mitigate significant risks associated with projects, which have a high technical complexity and/or involve significant challenges to the business.</li>
+</ul>
+<br>
+<b>
+Operational Management</b><br>
+<ul>
+<li>Maintain and modify web applications; make approved changes by amending application documentation, developing detailed programming logic, and coding changes.</li>
+<li>Provide support for critical web application problems and issues.</li>
+<li>Act as a Subject Matter Expert in the discovery and investigation of critical production problems as required.</li>
+<li>Willingness and ability to train and teach other developers.</li>
+</ul>
+<br>
+<b>
+Incidental Functions</b><br>
+<ul>
+<li>Conduct research into new technologies, including tools, components, and frameworks.</li>
+<li>Train and knowledge share with development teams.</li>
+<li>Mentor and coach developers and/or Professional Apprentices.</li>
+<li>Project and task management and reporting as necessary.</li>
+<li>Make presentations to management, clients, and peer groups as requested.</li>
+<li>Schedule and lead project and communication meetings with clients.</li>
+<li>Provide tier 2, on-call support for critical web application problems and issues.</li>
+<li>Analyze performance of programs and take action to correct deficiencies based on consultation with clients and approval of supervisor.</li>
+<li>Assist with projects as may be required to contribute to efficiency and effectiveness of the work.</li>
+<li>Attend management meetings on behalf of team.</li>
+<li>Participate in hiring activities and fulfilling affirmative action obligations and ensuring compliance with the equal employment opportunity policy.
+</li>
+<li>Application server maintenance tasks such as: software/hardware upgrades, patching, security configuration, batch process maintenance and migration to new platforms.</li>
+<li>Address internal audit concerns to address Sarbanes-Oxley compliance.</li>
+</ul>
+</div>
+<ul>
+<li>Some travel required.</li>
+<li>Working outside the standard office 7.5 hours workday may be required; on-call availability.</li>
+</ul>
+<br>
+<b>
+Position Requirements</b><br>
+<br>
+<b>Formal Education &amp; Certification</b><br>
+<ul><li>Bachelor degree or foreign equivalent in a related field or equivalent experience.</li></ul>
+<br>
+<b>
+Knowledge &amp; Experience</b><br>
+<ul>
+<li>5+ years of IT experience.</li>
+<li>5+ years experience working on all phases of the Software Development Lifecycle.</li>
+<li>3+ years working with customers to build and formulate business requirements.</li>
+<li>5+ years of Web Application Development Experience in Java/J2EE environment including Enterprise JavaBeans (EJBs), Java Server Pages (JSP), MVC frameworks , AJAX/JavaScript (JQuery), CSS, XML Technologies, Spring, Hibernate and HTML.</li>
+<li>5+ years experience in an Enterprise Database Management System, preferably Oracle.</li>
+<li>2+ years experience with PL/SQL.</li>
+<li>Experience with Source Control environments such as SVN or GIT.</li>
+<li>Experience configuring application servers such as Jboss and Tomcat.</li>
+<li>Experience with Unix/Linux OS and shell scripting.</li>
+<li>Experience creating automated build scripts (Ant/Gradle).</li>
+<li>Experience with React.js and building single page applications considered a plus.</li>
+<li>Experience with JVM languages such as Groovy considered a plus.</li>
+</ul>
+<br>
+<b>
+Personal Attributes</b><br>
+<ul>
+<li>Strong and comprehensive verbal and written communications.</li>
+<li>Responsive and alert to new learning opportunities, growth and development of technical, interpersonal and business skills; able to recognize and address areas needing improvement.</li>
+<li>Motivated and competent to contribute appropriate time and effort to work needing attention.</li>
+<li>Attentive to detail with focus on accurate and timely results.</li>
+<li>Organized and able to prioritize tasks, responding effectively to competing needs.</li>
+<li>Attentive and reactive to customer needs and concerns.</li>
+<li>Strong analytical and problem-solving abilities.</li>
+<li>Strong customer service orientation.</li>
+<li>Able to contribute to team effort and individual achievement.</li>
+</ul>
+</div>
+<div></div>
+<br>
+Equal Opportunity Employer. All qualified applicants will receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information or any other consideration prohibited by law or contract. VEVRAA Federal Contractor requesting appropriate employment service delivery systems, such as state workforce agencies and local employment delivery systems, to provide priority referrals of protected veterans.</div>
+<p></p>
+</div>

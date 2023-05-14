@@ -1,0 +1,40 @@
+<h2>IT QA Analyst I</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>Summary: The Mobile Quality Assurance Analyst is primarily a technical testing role where the candidate will be working with an agile technical product team for mobile applications and websites. They will perform functional, device, regression, and user interface testing for the product for each release on iOS, Android, and web. This individual should be able to develop test plans, test reports, and perform preliminary debugging of issues identified. This individual would also provide leadership and consulting on quality assurance methodology. In addition, they will lead quality improvements to requirement, development and test procedures and be responsible for the development and implementation of quality assurance processes and tools.
+<br>
+<br>
+Essential Duties and Responsibilities include the following.<br>
+<ul>
+<li>Create manual and automated test cases/scripts and record bugs in mobile applications.</li>
+<li>Collaborate with cross-functional teams throughout the SDLC and agile ceremonies and take ownership of the QA process. This includes daily interactions and collaboration with the team.</li>
+<li>Participate in the development process from definition, design, build, test, release, and maintenance.</li>
+<li>Communication skills – A self-starter able to be vocal and proactively raise issues as they arise, both verbally and written, to a technical product team until resolution. Knowing when to escalate issues.</li>
+<li>Support Product Managers in work estimates and planning.</li>
+<li>Front-end testing of mobile applications in both iOS and Android</li>
+<li>Back-end testing (API layer and back-end architecture)</li>
+<li>Responsible for all aspects of application testing including stability performance with other internal and external systems, including point of sale (POS)</li>
+<li>Familiarity/experience with PCI compliance, PII, GDPR, ADA, and/or WCAG</li>
+<li>Perform other duties as assigned</li>
+</ul>
+</div>
+<br><div>Qualifications:<br>
+<ul>
+<li>1 to 2+ years of QA testing experience with consumer-facing mobile apps (Android and/or iOS), websites, and/or backend services with solid understanding and experience of test planning and execution with custom-developed applications.</li>
+<li>1+ years working with Agile/Scrum software delivery teams</li>
+<li>Experience using tools such as Jira, ServiceNow, Zephyr, Katalon, Selenium, Appium, and/or TestRail to write and execute test cases</li>
+<li>Familiarity with macOS, Windows, iOS, and Android</li>
+<li>BS in Computer Science or related discipline</li>
+<li>Must possess strong written and oral communications skills</li>
+<li>Demonstrate advanced skills with Microsoft Office Suite including, but not limited to: Word, PPT, Excel, and Project</li>
+<li>Strong critical analysis and problem-solving skills</li>
+<li>Ability to handle multiple priorities on tight deadlines without compromising quality</li>
+<li>Familiarity/experience with cloud computing services such as Azure or AWS is preferred</li>
+<li>Knowledgeable with HTTP Proxy applications such as Charles or Fiddler is preferred</li>
+<li>Experience using ADB / Logcat/ StackTrace, etc. is preferred</li>
+<li>Familiarity/experience with Android Studio/ Xcode is preferred</li>
+<li>Experience with OO programming languages is preferred</li>
+<li>Experience testing web application/ecommerce applications is preferred</li>
+<li>Experience with UI/UX designers is preferred</li>
+</ul>
+</div>
+</div>

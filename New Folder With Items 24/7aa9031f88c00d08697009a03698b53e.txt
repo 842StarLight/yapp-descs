@@ -1,0 +1,90 @@
+<h2>Senior Data Engineer - Business Systems</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.</div>
+<div></div>
+<br>
+<div>
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let’s move the world forward, together.</div>
+<div><b>About the Role</b></div>
+<div></div>
+<br>
+<div>
+As a Senior Data Engineer in the Business Applications team, you will be responsible for the engineering and implementation of scalable technical solutions around data engineering. This solution will have significant impact to Uber’s results in areas of user growth, safety and global expansion. Senior Data Engineers will solve extremely challenging technical problems for Uber Eats, Uber Freight, Uber for Business, and others.</div>
+<div><b>What You’ll Do</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+Help Sales leaders, Finance, and Sales Operations implement and maintain data architecture, pipelines, and integrations</li>
+<li>
+Develop a deep understanding of the business and their requirements to develop sound technical solutions</li>
+<li>
+Design, build, and maintain data pipelines between our product, CRM, HR, and other relevant systems</li>
+<li>
+Assist in core operational tasks, including high level design, reporting, documentation, and systems updates</li>
+<li>
+Pro-active communication to users and management on issues</li>
+<li>
+Improve and build solutions to address architectural gaps or technical debt</li>
+<li>
+Propose best technologies for data processing and data framework</li>
+<li>
+Play an active role in positively influencing the design direction</li>
+<li>
+Participate in story planning, standups and retrospectives</li>
+<li>
+Check in and deploy code and configurations; participate in release management</li>
+<li>
+Execute with a team of solution architects, program managers and engineers</li>
+<li>
+Produce documentation and tutorials that enable other teams</li>
+<li>
+Mentor engineers; Drive enforcement of standards, tools and methodologies</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+What You’ll Need</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+7+ years of SQL (Hive, Oracle, MySQL, etc.) experience</li>
+<li>
+5+ years of building and launching new data models that provide intuitive analytics for the analysts and customers</li>
+<li>
+Design, build and launch extremely efficient &amp; reliable data pipelines for movement of data to and from</li>
+<li>
+5+ Experience with Hadoop/Hive, Vertica, Presto, Impala and data warehouse technologies</li>
+<li>
+5+ years of custom or structured (Mulesoft, Informatica, etc…) ETL design, implementation, and maintenance</li>
+<li>
+Experienced with Xactly API and administration would be a highly preferred</li>
+<li>
+Experienced with Salesforce CRM, Workday, Fieldglass, and its various APIs is preferred</li>
+<li>
+Experienced with at least 1 of the following languages: Java, Go, Python</li>
+<li>
+Passion for technology, industry research and enjoys solving business problems</li>
+<li>
+Excellent verbal, written, communication, interpersonal and presentation skills</li>
+<li>
+Bachelor’s degree or higher / equivalent work experience</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Bonus Points</b></div>
+<div></div>
+<br>
+<ul><li>
+Familiar with Salesforce, Workday, and Fieldglass administration</li></ul>
+<div></div>
+<br>
+<div><b>
+About the team</b></div>
+<div></div>
+<br>
+<div>
+The Business Applications team’s mission is to empower Uber’s staff to be more productive and successful through our technical solutions, service delivery and innovation. Our team supports Sales and Community Operations teams within Uber Eats, Uber Freight and Uber for Business. We also support Uber’s Law Enforcement Response Team improving safety of riders/drivers across the globe. Our team invests in innovation, new business line expansion and integration with external and internal systems.</div>
+</div></div>

@@ -1,0 +1,96 @@
+<h2>Machine Learning Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>About Engineering at Alloy</div>
+<div>
+<br>
+</div>
+<div>
+At Alloy we empower consumer goods brands to evaluate, predict, and respond to true demand.</div>
+<div>
+<br>
+</div>
+<div>
+To make this possible, we model a vast array of data across the entire supply chain: from retailer point-of-sale and e-commerce sales and inventory, orders and shipments between trading partners, to upstream supplier data. We then make all this data actionable for our customers by delivering predictive insights and intelligent recommendations.</div>
+<div>
+<br>
+</div>
+<div>
+In particular, our machine learning efforts focus on delivering near real-time forecasting, and enabling customers to respond efficiently with proactive out-of-stock notifications, anomaly detection, and automatic alerting, and other smart features.</div>
+<div>
+<br>
+</div>
+<div>
+If this sounds exciting, you may be the Machine Learning Engineer we’re looking for.</div>
+<div>
+<br>
+</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>About You</b></h3>
+<div><ul>
+<li>
+You have experience building scalable prediction pipelines in production environments, preferably using Python</li>
+<li>
+You are familiar with machine learning fundamentals or timeseries forecasting techniques</li>
+<li>
+You enjoy understanding customer business needs and translating them into specifications or code</li>
+<li>
+You prefer to ship fast and iterate, rather than get it perfect the first time</li>
+<li>
+You value open and respectful communication. We have three development offices in different time zones, all working on the same platform.</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Responsibilities</b></h3>
+<div><ul>
+<li>
+Form the core of a new team focused on demand forecasting and other applications of machine learning, along with our team of Data Scientists</li>
+<li>
+Create abstractions and tooling that accelerate the development of new predictive models</li>
+<li>
+Collaborate with Data Scientists to move models from prototype to production</li>
+<li>
+Build data pipelines and systems that can run predictions on tens of millions of item-location combinations at scale</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Our Stack</b></h3>
+<div><ul><li>
+Engineers at Alloy contribute across the stack. On the frontend, you will work with a modern web stack, built with <b>Typescript</b> and <b>React</b>; on the backend, you will work in<b> Java 11</b> and <b>Python 3.
+</b>
+</li></ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Learn more</b></h3>
+<div><ul>
+<li>
+Get to know our employees on our website and on LinkedIn</li>
+<li>
+Read our blog to learn more about what we’re up to, and about machine learning in supply chain space.</li>
+</ul></div>
+</div></div>
+<div>
+<div>At the moment, we do not offer visa sponsorship for this position.</div>
+<div>
+<br>
+</div>
+<div>
+About Alloy</div>
+<div>
+<br>
+</div>
+<div>
+Alloy is the modern analytics and planning software solution for consumer goods brands. We empower these companies, which make the items we use, wear and consume every day, to manage supply and demand with speed and agility.</div>
+<div>
+<br>
+</div>
+<div>
+Alloy is early-stage, well-funded by leading VCs, and growing. Our small team believes deeply in fostering individual ownership, iterative product development, and empathetic communication. There are many challenging problems to solve in this industry, and a huge opportunity for our software to make the global supply chain operate more effectively.</div>
+<div>
+<br>
+</div>
+<div>
+We encourage people of all backgrounds to apply. Alloy is committed to creating an inclusive culture, and we celebrate diversity of all kinds.</div>
+</div>
+</div></div>

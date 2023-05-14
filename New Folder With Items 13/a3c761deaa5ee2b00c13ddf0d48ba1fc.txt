@@ -1,0 +1,40 @@
+<h2>Electrical Engineer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>Job Summary:</b><br>
+Generac Power Systems - Join the leader in Power! The Engineer II will be involved in all aspects of product design. This will include not just an understanding of Electronics, but also mechanical design. The Electronics engineer will be specifically involved in the design and development of new control algorithm’s, and system testing both in lab and on real products. This is an opportunity to use or extend your knowledge of electronics, electrical design and some mechanical design into tangible systems.
+<br><br>
+<b>Essential Duties and Responsibilities:</b><br>
+Applies engineering knowledge and experience to create products based on specific customer requirements.
+<br>Designs new software modules and develops supporting documentation.
+<br>Modifies or develops wiring diagrams based on customer order requirements.
+<br>Modifies product designs including mechanical design based on customer requirements using Creo or Slid works.
+<br>Designs new control algorithms and performs Applications Engineering.
+<br>Designs, develops, executes and evaluates test specifications for new systems.
+<br>Works with the sales team to ensure proper communication and implementation of customer requirements.
+<br>Participates in formal design reviews.
+<br><br>
+Qualifications, Knowledge, Skills, Abilities and Physical demands: Minimum Qualifications:
+<br>Bachelor of Science Degree in Electrical Engineering or related discipline to include software and electronics;
+<br>2 or more years of relevant work experience
+<br><br>
+<b>Preferred Qualifications:</b><br>
+1 year of experience in embedded firmware design using the “C” language
+<br><b>Experience with Object Oriented languages:</b> C, C++, C#, lava
+<br>Experience in new product design and development of electro mechanical products
+<br>Automotive experience
+<br><br>
+<b>Knowledge, Skills and Abilities:</b><br>
+Experience using Creo or Soliworks preferred
+<br>Real time firmware experience using microcontrollers and possibly RTOS;
+<br>Knowledge of microprocessor hardware interfacing techniques, such as IIC, SPIbus, EEprom, Flash, RS232/485, analog interfaces, etc.;
+<br>Knowledge of control systems using PID loops;
+<br>Use and understanding of interrupt structures;
+<br>Experience using debugging tools such as ICE.Ability to perform detail oriented work with a high degree of accuracy;
+<br>Experience with Windchill or SAP a plus
+<br>Demonstrated written communication and presentation skills;
+<br>Ability to translate technical information to all audiences;
+<br>Able to solve moderate to complex engineering problems;
+<br>Strong decision-making skills;
+<br>Able to solve moderately complex engineering problems;
+<br>Experience in using Microsoft Excel and Word;
+<br>“We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.”</div>

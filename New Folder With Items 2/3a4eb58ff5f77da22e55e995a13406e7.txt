@@ -1,0 +1,27 @@
+<h2>DevOps Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Head of DevOps leads the design, build, and operational management of highly scalable SAAS platforms for Gordon Group. The Head of DevOps promotes, documents, and implements systems infrastructure best practices, building tools that allow the departments of our organization to continuously leverage our SAAS Platforms.</p>
+<p>The ideal candidate must be familiar with cloud infrastructure design, planning and implementation. Strong competencies in planning,project management, leadership, and organization and experience with technical deployments as a part of large-scale technology projects needed in this role.Successful candidate must have excellent written and verbal communication skills. Strong organizational, time management, and analytical skills. Very strong attention to detail and project focus are required.</p>
+<p><b>DUTIES AND RESPONSIBILITIES</b></p>
+<p>- Lead key technical initiatives to streamline operational processes across systems, departments &amp; service providers</p>
+<p>- Provide architectural guidance for system and service design to improve security, scalability, reliability and adaptability of our growing SAAS Footprint</p>
+<p>- Work with our external vendors, service-providers, and partners on appropriate technical solutions for achieving operational excellence and business continuity.</p>
+<p>- Work with business operations teams to ensure good coordination of IT changes without impacting business processes.</p>
+<p>- Develop and maintain in-depth understanding of the platform, applications, systems, and database architecture.</p>
+<p>- Implement, manage &amp; upgrade system integrations between ERP, CRM &amp; WMS</p>
+<p>- Understand, document &amp; reduce technical&amp; operational barriers using technology, software functionality and/or-modification to processes &amp; procedures.</p>
+<p><b>QUALIFICATIONS</b></p>
+<p>- The ideal candidate will have a minimum of 5years of hands-on experience automating and managing cloud infrastructure at scale.</p>
+<p>- The ideal candidate must be familiar with cloud infrastructure design, planning and implementation.</p>
+<p>- Strong organizational, time management, and analytical skills. Very strong attention to detail and project focus are required.</p>
+<p>- Strong competencies in planning, project management, leadership, and organization and experience with technical deployments as a part of large-scale technology projects needed in this role.</p>
+<p>- Experience with Salesforce Sales Cloud, Service Cloud, Marketing Cloud</p>
+<p>- Experience with NetSuite ERP is a plus</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>DevOps: 5 years (Preferred)</li></ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Preferred)</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+</div>

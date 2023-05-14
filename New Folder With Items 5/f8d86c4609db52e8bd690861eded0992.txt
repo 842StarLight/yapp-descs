@@ -1,0 +1,63 @@
+<h2>IT Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Job Summary</b></p>
+<p>The Restaurant Applications Engineer is responsible for the formulation, definition and implementation of technology solutions to address business objectives as identified by company management.</p>
+<p><b>Essential Functions (Key Responsibilities) </b></p>
+<ul>
+<li>Perform tasks and small projects with supervision, direction, and guidance to support applications.</li>
+<li>Codes, tests, debugs, documents and maintains specific programs that comply with coding standards and technical design as assigned</li>
+<li>Ensure that development work is scalable across multiple OS environments &amp; platforms</li>
+<li>Responsible for working from a project plan to successfully complete project tasks, but not in charge of the overall project.</li>
+<li>Work with the business to resolve information system problems and to develop/recommended solutions to the business.</li>
+<li>Continually update technical knowledge and skills by attending in-house and external courses, reading manuals and accessing new applications.</li>
+<li>Other duties as assigned.</li>
+</ul>
+<p><b>Education and Experience Requirements </b></p>
+<p><b>Education: </b></p>
+<ul>
+<li>Bachelor’s degree in Computer Science, Information Technology preferred or equivalent experience with a large IT Department.</li>
+<li>Experience:</li>
+<li>4 years of experience as a software engineer with at least 2 years of programming experience. Experience in retail and/or food service industry strongly preferred.</li>
+</ul>
+<p>*</p>
+<p><b>Required Knowledge and Skills </b></p>
+<ul>
+<li>Knowledge of VBScript, PowerShell scripting and have an understanding of procedural programming languages and information systems methodologies</li>
+<li>Should have a broad base of understanding related to information systems methodologies, relational databases, and client-server technology.</li>
+<li>Proficient in programming languages and troubleshooting tools based on a specific position.</li>
+<li>Should be proficient in Microsoft SQL Server development concepts including the following:</li>
+<li>T-SQL: (DDL,DML,DCL,Dynamic SQL,ETL), Basic DBA functions: (Backup and Restore, Index Management, Functions (UDF), Triggers, Stored Procedures, ADO)</li>
+<li>Should be proficient with script development to include the following: Windows shell, VBScript, PowerShell, VBA in contexts working with WMI, ADO, HTML, HTA, XML, JSON and IIS</li>
+<li>Experience in developing reports with Crystal Report, SSRS (RDL) creation and manipulation</li>
+<li>Familiarity with Point of Sale applications. Experience with Xpient IRIS preferred.</li>
+<li>Knowledge of Java Script for UI,UX development is a plus.</li>
+<li>Should have excellent written and verbal skills.</li>
+<li>Good team working abilities</li>
+<li>Should be organized and capable of managing multiple tasks concurrently with limited supervision.</li>
+<li>Knowledge of Windows OS – Win10, Win10-IOT, POSReady7</li>
+</ul>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul><li>Software Engineer: 4 years (Preferred)</li></ul>
+<p>Education:</p>
+<ul><li>Bachelor's (Required)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>One location</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Tuition reimbursement</li>
+</ul>
+<p>This Job Is Ideal for Someone Who Is:</p>
+<ul>
+<li>Dependable -- more reliable than spontaneous</li>
+<li>Detail-oriented -- would rather focus on the details of work than the bigger picture</li>
+<li>Autonomous/Independent -- enjoys working with little direction</li>
+</ul>
+</div>

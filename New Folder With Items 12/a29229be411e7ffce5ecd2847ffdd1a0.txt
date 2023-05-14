@@ -1,0 +1,59 @@
+<h2>Senior Salesforce Software Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">What is Live Oak Labs?
+<br><br>
+Live Oak Labs is a fast-paced development shop that functions as a well-funded start-up. We are the technology arm of Live Oak Bank, who has a history of transforming banking thru technology. Having already spun-off two fintech SaaS companies, Live Oak is a different kind of bank and proven leader in banking innovation. We're on a mission to revolutionize the banking experience, with the use of open banking platforms, native cloud technologies, and modern user experiences, for our modern world.
+<br><br>
+We're seeking a Senior Salesforce Software Engineer to join our Internal Development team in either our Wilmington headquarters or our new office on NC State's Centennial Campus in Raleigh. This is a unique opportunity for an experienced engineer to join our growing organization in order to influence the future of banking.
+<br><br>
+What You'll Do at Live Oak
+<br><br>
+You'll work on a cross-functional scrum team within a scaled agile environment, preforming many of the activities below.
+<br><br>
+<ul>
+<li>Analyze and design new features and functions to streamline the end-user's experience.</li>
+<li>Help establish and document designs and engineer standards, as well as participate in peer reviews.</li>
+<li>Design and build solutions using lightning components, process builder, workflows, lightning flow and other SFDC components.</li>
+<li>Write unit and other test automation to ensure the quality of your team's deliverables.</li>
+<li>Apply knowledge of Force.com APIs to design workflows and solutions using the appropriate API.</li>
+<li>Design and implement integrations between SFDC and other enterprise applications.</li>
+<li>Plan and implement solutions to optimize the delivery pipeline.</li>
+<li>Participate in training and customer support activities as needed.</li>
+<li>Keep up with Salesforce releases and recommend ways to exploit new capabilities to improve internal Salesforce usage. We are looking for folks to lead the charge, not just keep up with it.</li>
+</ul>
+Technology Environment
+<br><br>
+Our software engineers typically use MacBooks, Git, Jira, Confluence, and VS Code. Our internal development team builds and maintains Salesforce applications, workflows, integrations, and reports that support our internal departments workflow and customer relationship management. Live Oak Bank has a successful history of finding innovative ways to exploit the Salesforce platform to realize new capabilities and efficiencies. An engineer on our internal development team will end up working with a variety of technologies, including Salesforce, Apex, JavaScript, Knockout.js, Lightning, React Native, SnapLogic, REST, SOAP, as well as Jenkins, Java, and Selenium for CI/CD. Teams also regularly integrate with numerous cloud-based partners using standard protocols for synchronous and asynchronous communication.
+<br><br>
+Desired Qualifications
+<br><br>
+Software Engineers likely to succeed in this role have most of the qualifications listed below.
+<br><br>
+<ul>
+<li>Ability to work in a team environment and not take yourself too seriously.</li>
+<li>Strong initiative to champion and support improvements to processes, tools, methodologies, and product quality.</li>
+<li>Solid understanding of data model design, persistence, querying, and optimization.</li>
+<li>Strong programming skills and knowledge of patterns and practices for object-oriented design and development.</li>
+<li>Multiple years of experience with Salesforce Visualforce, Apex, Angular, SOQL, SOSL, Lighting Framework, Lightning Components, Lightning App Builder, Lightning Design System.</li>
+<li>Experience with common integration patterns used on the Force.com Platform.</li>
+<li>Experience integrating with different database and third-party systems and services using REST and SOAP.</li>
+<li>Familiarity with Salesforce packaging best practices and tools used for deployment automation.</li>
+<li>Salesforce Certification (Administrator, Developer, Service Cloud, Sales Cloud and/or App Builder).</li>
+<li>Ability to work in the abstract when discussing problems and use attention to detail when implementing solutions.</li>
+<li>Working knowledge of Agile methodologies and other software development best practices and tools.</li>
+<li>Experience writing unit and higher-level test automation for your team's deliverables.</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Bachelor's degree in Information Technology, Computer Science, MIS or related field, or equivalent experience.</li>
+</ul>
+ 
+<br><br>
+Is this the right opportunity for YOU?
+<br><br>
+If you have the desired qualifications, below are reasons you should apply for this position.
+<br><br>
+<ul>
+<li>You'll build software that matters. We make software that helps small businesses and entrepreneurs get the capital and financial services they need to succeed and support their local communities.</li>
+<li>You'll be part of an empowered agile team that operates like a start-up. Your team decides the best technical approach and commitments, not your manager.</li>
+<li>You'll collaborate with super-smart people to build a next generation platform with plenty of challenging engineering problems, as we enable capabilities to transform the outdated financial banking system.</li>
+<li>You'll work on greenfield projects using the latest technology. Our new platform will be based on Open APIs, NOSQL, NodeJS, native cloud and modern frontend technologies. We're still making a lot of decisions around the tech stack, meaning you could be a key influencer in the future of our technology.</li>
+</ul>
+</div>

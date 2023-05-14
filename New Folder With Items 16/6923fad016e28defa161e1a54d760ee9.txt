@@ -1,0 +1,37 @@
+<h2>Sr. Customer Success Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Senior Customer Success Manager
+<br>Trifacta is looking for a Senior Customer Success Manager, you will be responsible to manage a portfolio of existing and new subscription business, on Enterprise and Strategic accounts. A Trifacta CSM demonstrates our core value “Start with the User”, with key responsibilities to engage customers post-sale, build customer satisfaction and retention, and help customers as they maximize value from their Trifacta Wrangler investment. In this role you will have a significant opportunity to craft the customer journey, identify opportunities and be the voice of your customers. You will be responsible to onboard customers and develop and manage account success plans, and focus on ensuring client health.
+<br><br>
+<b>About Trifacta:</b><br>
+Trifacta, the pioneer in data transformation, significantly enhances the value of an enterprise’s Big Data by enabling users to easily transform raw, complex data into clean and structured inputs for analysis. Leveraging decades of innovative work in human-computer interaction, scalable data management, and machine learning, Trifacta’s unique Predictive Interaction technology creates a bidirectional partnership between user and machine, with each component learning from the other and becoming smarter through use. Trifacta is backed by venture capital firms Accel, Greylock and Ignition Partners and is headquartered in San Francisco. Its founders and technical advisors include global leaders in data science, interaction design, and big data.
+<br><br>
+<b>Who you are:</b><br>
+You are a consultant to some of the largest customers in the world at the executive level and advise them on the setup, roll out and value of their strategic data initiatives in BI Modernization. You have demonstrated success managing their different stages of the customer lifecycle, handling customer escalations, and a strategic thinker who is capable of blending technology and business strategy to develop customer success plans. You possess technical breadth and depth in Solutioning, Architecture and Design experience (pre/post-Sales) for large enterprise Data and Analytics platforms and have experience applying them to enterprise account plans. You have technical experience with Big Data, ETL/ELT Architecture with deep understanding of Databases, Data Warehouse and Data Modeling which allows you to communicate fluently about the product and understand customer needs.
+<br><br>
+Responsibilities
+<br><ul>
+<li>Develop and own the Success Plan for deployment at your strategic customers</li>
+<li>Whiteboard Data and Cloud Architectures with customers in an environment including Data Catalogues, Machine Learning, AI tools and data science workbench.</li>
+<li>Be the Voice of the Customer - identifying and quantifying the key factors for Customer success and then communicating them effectively to drive the product roadmap and develop a plan to meet said criteria based on regularly cadenced communications with your Customer (QBRs, Executive Meetings, etc.)</li>
+<li>Work with clients to establish critical goals, or other key performance indicators and aid the customer in achieving their goals.</li>
+<li>Work to identify and/or develop upsell opportunities.</li>
+<li>Own overall relationship with assigned clients, which include: Increasing adoption, ensuring retention, and satisfaction.</li>
+<li>Be a product evangelist and proficient with Trifacta Wrangler! It’s hard to be the trusted advisor if you can’t use the product.</li>
+</ul>
+Desired Skills and Qualifications
+<br><br>
+<ul>
+<li>College degree with 10+ years experience as a CSM, professional services, pre-sales, technical architect or delivery manager or a Masters with 8+ years experiences.</li>
+<li>Understanding of the value of strategic data, current market trends and industry players, and a deep understanding of Data Management Technologies and Architectures in regards to Big Data, Cloud, IoT, Analytics, Data Catalogues, and other emerging.</li>
+<li>Experience in the relevant products in the market such as Cloudera, Hortonworks, AWS, Azure, Google Platform, Tableau, SaS, Data Science Workbench, and Data Catalogues.</li>
+<li>Proven ability to drive continuous value of our product(s).</li>
+<li>Acquired technical breadth and depth in Solutioning, Architecture and Design experience (pre/post-Sales)for large enterprise Data and Analytics platform.</li>
+<li>Ability to identify opportunities for growth (via upsells and cross-sells) of our Customers</li>
+<li>Excellent verbal, written communication and presentation skills</li>
+<li>Significant and recent technical experience with Big Data, ETL/ELT Architecture</li>
+<li>Technology practitioner in Solutioning, Architecture and Design experience (pre/post-Sales) for large enterprise Data and Analytics platform.</li>
+<li>Experience to develop a plan to increase the penetration at your Premier and Strategic Customers that provides for increased executive visibility</li>
+<li>Experience working with a technical Customer base and understand corporate IT projects and processes.</li>
+<li>A highly quantitative approach to understanding, measuring, and forecasting Customer behavior and revenue</li>
+</ul>
+</div>

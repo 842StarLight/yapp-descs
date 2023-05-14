@@ -1,0 +1,81 @@
+<h2>Technical Account Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<ul>
+<li>5+ years design/implementation/operations/consulting experience of distributed applications</li>
+<li>2+ years hands-on systems administration / networking / troubleshooting</li>
+<li>Previous customer facing experience as a technical lead</li>
+<li>Exceptional customer focus and bias for action</li>
+<li>Candidates must have excellent oral and written communication skills</li>
+<li>Presentation skills; high degree of comfort with both large and small audiences</li>
+<li>Computer Science or Math background highly desired; working knowledge of software development practices and technologies highly desired</li>
+<li>Be mobile and travel to client locations as needed</li>
+</ul>
+Deep experience in one or more of the following areas:<br>
+<ul>
+<li>Software design or development</li>
+<li>Content Distribution / CDN</li>
+<li>Scripting / Automation</li>
+<li>Database Architecture</li>
+<li>IP Networking</li>
+<li>IT Security</li>
+<li>BigData / Hadoop</li>
+<li>Systems Administration (Linux and/or Windows)</li>
+<li>Operations Management</li>
+<li>Service Oriented Architecture</li>
+</ul>
+<br>
+This position requires that the candidate selected be a U.S. citizen and must currently possess an active Top Secret security clearance. The position further requires that, after start, the selected candidate obtain and maintain an active TS/SCI security clearance with polygraph and satisfy other security related requirements.</div>
+<br>
+<div>As an increasing number of large enterprises move their critical systems to the cloud, we are in need of high-powered technical talent to help our largest customers navigate the operational challenges of cloud computing. You will work one-on-one with our top-tier customers, supporting both the software development lifecycle for cloud services and management of active services.<br>
+<br>
+In this role, you will have the opportunity to help shape and execute a strategy to build mindshare and broad use of Amazon Web Services (including Amazon EC2, Amazon S3, Amazon DynamoDB &amp; RDS databases, and many more) within organizations ranging from large enterprise and U.S. Government customers. You must possess customer facing skills that enable you to represent AWS well within a customer’s environment and drive discussions with senior personnel regarding incidents, trade-offs, best practices, and risk management. You should also have a demonstrated ability to think strategically about business, product, and technical challenges as you help our customers take advantage of the efficiencies, cost savings and quick innovation available only in the cloud.<br>
+<br>
+As a Technical Account Manager, you will be the primary technical point of contact for one or more customers helping to plan, debug, and oversee ongoing operations of business critical applications. You will get your hands dirty, troubleshooting application, network, database, and architectural challenges using a suite of internal AWS tools as well as your existing knowledge and toolkits. You will work hand-in-hand with senior executives on opportunities to improve your customers’ IT landscape. In this role, you will also act as the voice of the customer within AWS to escalate problems and to drive prioritization of business mission critical needs for our customers.<br>
+<br>
+Responsibilities include: Every day will bring new and exciting challenges on the job while you:<br>
+<br>
+<ul>
+<li>Engage with Director and C-Level executives to understand mission needs</li>
+<li>Assist in Design/Architecture of AWS and hybrid cloud solutions</li>
+<li>Help define IT and business processes that work well with cloud deployments</li>
+<li>Work hands-on with customer engineering teams to develop, migrate, and debug application issues</li>
+<li>Troubleshoot technical issues and drive issue escalation with AWS Service teams</li>
+<li>Leverage knowledge of your customers’ environments to assist support engineers and service teams in better serving your customers</li>
+<li>Complete analysis and present periodic reviews of operational performance to customer leadership</li>
+<li>Provide detailed reviews of service disruptions, metrics, detailed prelaunch planning</li>
+<li>Make recommendations on how new AWS offerings fit in the company architecture</li>
+<li>Champion and advocate for customer requirements within AWS (be their voice)</li>
+<li>Participate in customer requested meetings onsite or via phone</li>
+<li>Know and use all key customer resolution tools across all service groups to facilitate rapid resolution of customer concerns</li>
+<li>Participate in deep architectural discussions to ensure solutions are designed for successful deployment in the cloud</li>
+<li>Work with some of the leading technologists around the world</li>
+<li>Work directly with Amazon Web Service engineers to ensure that customer issues are resolved as expediently as possible</li>
+</ul>
+<br>
+**For more information please email your resume to Chris Widmann (widmannc@amazon.com)**</div>
+<br>
+<div>
+<ul>
+<li>7+ years IT/Technical Industry experience</li>
+<li>Experience with AWS service offerings</li>
+<li>Experience working directly with Enterprise customers</li>
+<li>Bachelors or Advanced degree</li>
+<li>Experience managing multiple tasks and projects in a fast-moving environment</li>
+<li>Demonstrated ability to adapt to new technologies and learn quickly</li>
+<li>Strong written communication skills; this role will require the creation of content such as whitepapers and other written deliverables</li>
+<li>High level of comfort communicating effectively across internal and external organizations</li>
+</ul>
+<br>
+Working knowledge of development methodologies in one or more than of the following languages:<br>
+o Java<br>
+o .NET<br>
+o C++<br>
+o PHP<br>
+o Perl<br>
+o Python<br>
+o Ruby<br>
+<br>
+<ul><li>MVP221982</li></ul>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.</div>
+</div>

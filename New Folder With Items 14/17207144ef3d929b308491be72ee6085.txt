@@ -1,0 +1,47 @@
+<h2>.NET Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><b>NET Developer, Intermediate</b></div>
+<div>
+</div>
+<div></div>
+<div>Rapidly growing SaaS company seeking an on-site, team-oriented .NET Developer withan interest in providing software solutions for worldwide entertainment venues</div>
+<div>
+Our company leads the world in providing software and hardware solutions to the racing and entertainment industry. Using our software, venues have the ability to report "who's in first place," show the results live on mobile phones and LED boards, manage sales, registration, and marketing processes, and much, much more.</div>
+<div>
+</div>
+<div><b>Responsibilities:</b></div>
+<ul>
+<li>Participates in the design, deployment, and management of large scale POS software</li>
+<li>Building and expanding our software in a Visual Basic and .NET environment</li>
+<li>Working with front-end engineers, designers, product managers, and support to</li>
+</ul>
+<div>
+implement new features</div>
+<ul><li>Writing clean code and scalable solutions</li></ul>
+<div>
+Qualifications:</div>
+<ul>
+<li>Minimum of five years of experience in Visual Basic and .NET frameworks</li>
+<li>Minimum of five years of SQL (SQL Server) and database experience</li>
+<li>Minimum of five years of C#</li>
+<li>1-2 Years Experience with PHP &amp; Laravel</li>
+<li>1-2 Years Experience with Node.js</li>
+<li>Experience developing and working with JSON-based REST APIs</li>
+<li>HTML/CSS/JavaScript experience</li>
+<li>Ability to exceptionally handle multiple projects and follow through until completion</li>
+<li>Excellence in verbal and written communication</li>
+<li>Keen attention to detail</li>
+</ul>
+<div>
+</div>
+<div><b>Bonus qualifications:</b></div>
+<ul>
+<li>Experience with Entity Framework, .NET Remoting, Real-Time apps/WebSockets, and DevExpress</li>
+<li>Bachelors of Science degree in Computer Science or equivalent from an accredited four-year university</li>
+<li>Experience with .NET Core</li>
+<li>Experience with Android Apps</li>
+<li>Experience with TypeScript</li>
+<li>Experience with Automated Testing</li>
+<li>Full-stack web development experienc</li>
+</ul>
+</div></div>

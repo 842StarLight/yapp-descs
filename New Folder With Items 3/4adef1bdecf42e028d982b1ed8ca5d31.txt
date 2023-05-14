@@ -1,0 +1,52 @@
+<h2>Software Engineer II</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div><div><div>
+<p><b>About the Company</b><b>:</b></p>
+<p>Pure Hockey is a privately-owned specialty sporting goods company with over 50 hockey retail stores and multiple e-commerce businesses. Positioned as the number one hockey retail company in the country, Pure Hockey offers qualified candidates the opportunity to join a dynamic and fast-growing business.</p>
+<p><b>Job Description:</b></p>
+<p>Pure Hockey is looking for a full-stack software engineer to join our Software Development team. This role will be responsible for designing, building, and maintaining features/systems in our application environment. These applications include, but aren’t limited to, the point-of-sale system, proprietary ERP system, and e-commerce platform. This position will report to the Lead Software Engineer.</p>
+<br>
+<p></p>
+<p><b>Job Responsibilities:</b></p>
+<ul>
+<li>Perform and participate in application development</li>
+<li>Help design and implement all aspects of a system including UI, middle, and back-end layers</li>
+<li>Work on projects from product requirements to launch, including code review, testing and deployment</li>
+<li>Assist business leaders in defining, designing, and developing new systems, features and functionality</li>
+<li>Collaborate with business teams to prioritize projects and balance workload among team members</li>
+<li>Determine the magnitude and time requirements of features and fixes
+</li>
+<li>Staying up to date on modern software development practices and paradigms</li>
+<li>Contribute to discussions on implementation of overall company IT strategy</li>
+</ul>
+</div></div></div>
+<div>Qualifications</div>
+<div><div>
+<div>
+<ul>
+<li>5+ years of hands-on experience performing web and application development including knowledge of C#, SQL, HTML, CSS, and JavaScript</li>
+<li>Strong SQL knowledge, particularly related to Microsoft SQL Server</li>
+<li>Experience working in an agile environment</li>
+<li>Possess full-stack development expertise and understanding of the end-to-end software development life cycle</li>
+<li>Experience with public facing web projects</li>
+<li>Proficient in building and delivering highly scalable, reliable, and complex software systems</li>
+<li>Ability to quickly ramp-up on new languages, technologies, and platforms</li>
+<li>Experience with third-party libraries and APIs</li>
+<li>BS/MS degree in Computer Science, Engineering or equivalent work experience</li>
+</ul>
+<p><b>Benefits:</b></p>
+<ul>
+<li>Medical, Dental, Vision &amp; Disability Insurance</li>
+<li>Flexible Spending Plan</li>
+<li>401(k)</li>
+<li>Paid Vacation</li>
+<li>Paid Holidays</li>
+<li>Employee Discount</li>
+</ul>
+</div>
+</div></div>
+</div>
+<p></p>
+</div>

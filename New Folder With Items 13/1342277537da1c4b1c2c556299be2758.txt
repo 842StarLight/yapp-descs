@@ -1,0 +1,31 @@
+<h2>Software Sales Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>About Us:</b><br>
+LogicMonitor is the leading SaaS based performance monitoring platform for enterprise IT.
+<br><br>
+We are a company of fun-loving, hard-working achievers. We love going to work and think you should too. We hold our company culture near and dear — we are customer-obsessed, work as one team, and strive to be better every day. These are our core values. So it's no surprise that we work hard and genuinely have fun working with each other to achieve great things together.
+<br><br>
+This position can be remote, offering you the flexibility to work out of your home full-time. You'll have easy access to and support from your manager and frequent video meetings to keep you plugged into your team. When you join LogicMonitor, you will be working alongside some of the brightest minds in one of the fastest growing global software firms. We are looking for you to bring your expertise, drive, and passion. This is your chance to join us on our journey as we expand our global presence and achieve record-breaking success.
+<br><br>
+<b>What You'll Do:</b><br>
+The mission of the Sales Engineer (SE) at LogicMonitor is to support the technical evaluation of LogicMonitor by proving our value in the platform to our prospects in the pre-sales process. The SE is looked at as a product expert within the sales organization. Sales Engineers have the critical function to train the entire sales organization both as part of on boarding and also regularly on the LM product to ensure the appropriate level of product and technical knowledge for the sales team to be most successful. Provides the technical knowledge and superior sales skills to help define the goals around the sales engineering team.
+<br><br>
+<b>Here's a closer look at your duties in this key role:</b><br>
+<ul>
+<li>Perform Sales Engineer duties on trial calls as scheduled by Account Executives. Includes technically understanding prospect needs, technology skill level, and supporting Account Executives with requests to perform technical product demos and perform/assist trial set ups or expansion.</li>
+<li>Trial optimization (proactively adding dashboards, creating sample reports, etc. for all trial prospects).</li>
+<li>Lead technical/product training for new sales personnel on an ongoing basis.</li>
+<li>Day-to-day product/technical support for trial prospects.</li>
+<li>Demonstrates the technical aspects of how the product solves specific customer problems, and translates specific customer problems into technical solutions.</li>
+<li>Identifies all technical issues of assigned accounts to ensure complete customer satisfaction through all stages of the sales process.</li>
+</ul>
+<b>What You'll Need:</b><br>
+<ul>
+<li>5 years experience in Systems Administrator role or Sales Engineer role.</li>
+<li>Able to articulate technology and product positioning to both business and technical users.</li>
+<li>Able to establish and maintain strong relationships throughout the sales cycle.</li>
+<li>Educated in technology, computer science. B.S. in technical degree preferred.</li>
+<li>Experience in Linux and or Windows/Network administration and operations including the following technologies desired:</li>
+<li>Virtualization, Storage, LoadBalancers, Webservers, Active Directory, Databases, Scripting</li>
+</ul>
+</div>

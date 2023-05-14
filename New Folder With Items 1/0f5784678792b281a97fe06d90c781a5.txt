@@ -1,0 +1,33 @@
+<h2>Web Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>Web Analyst</b><br>
+<br>
+Wayfair Analytics is the engine that powers an enterprise obsessed with data. We move fast, iterating quickly on big business problems. We work smart, applying technology to unlock insights and provide outsized value to our customers. We swing big, knowing our customers won't benefit from micro optimizations. Leveraging the largest data set for products sold in the Home space, this team treats data as an asset and determines how to maximize its business value and extend our competitive advantage.<br>
+<br>
+At their core, Business Intelligence Analysts at Wayfair are strong in quantitative analysis, enjoy coding but also want to balance that with their interest in business. They think critically to tackle complex challenges, thrive in a fast-paced environment and are seeking a high-growth opportunity where they will have an immediate impact on day one. There are significant opportunities for new team members to emerge as leaders, taking on additional projects and responsibilities with strong performance.<br>
+<br>
+Each analyst is aligned with a line of business either focused on Marketing, Merchandising, Operations, Finance, Sales + Service or our core website. Whether you're analyzing customer behavior and trends, developing new recommendations, or constructing SQL queries, you will be working with cutting edge technology and multi-terabyte datasets.<br>
+<br>
+<b>What You'll Do</b><br>
+<ul>
+<li>Collaborate with leaders of functional areas (e.g., Marketing, Operations, Storefront web, Finance, Sales &amp; Service) to identify the most impactful ways for data and analytics to drive decision making and accelerate profitable growth.</li>
+<li>Comprehend, extract, and massage information from multi-terabyte data sources including sales, clickstream, logistics, product, and customer databases to deliver business insights and recommendations.</li>
+<li>Design and build solutions to empower stakeholders across Wayfair to self-serve analytical needs.</li>
+<li>Act as the subject matter expert for data, analytics, and testing within a business unit to ensure accurate and proper interpretation of core business metrics and consumer behavior.</li>
+<li>Perform deep-dive analysis, including the application of advanced analytical techniques, to solve some of the more critical and complex business problems including website funnel progression, customer segmentation and targeting, and supply chain optimization.</li>
+<li>Develop data visualizations, including reports, dashboards, and analyses in Tableau to distribute data insights in an easily digestible manner to over 7000 global employees<b>.</b>
+</li>
+</ul>
+<br>
+<b>What You'll Need</b><br>
+<ul>
+<li>Hands-on experience conducting quantitative analyses on large data sets</li>
+<li>Coursework or experience with SQL or other structured programming language(s) (e.g. Python, Java, C); Experience with Excel (pivot tables, vlookup, etc. ) and Tableau a plus.</li>
+<li>Analytical, creative, and innovative approach to solving problems.</li>
+<li>Strong written and verbal communication.</li>
+<li>Bachelors or Masters in Computer Science, Computer Engineering, Analytics, Mathematics, Statistics, Information Systems, Economics, or other quantitative discipline field with strong academic record.</li>
+</ul>
+<br>
+<b>About Us</b><br>
+<br>
+Wayfair is one of the world's largest online destinations for the home. Whether you work in our global headquarters in Boston or Berlin, or in our warehouses or offices throughout the world, we're reinventing the way people shop for their homes. Through our commitment to industry-leading technology and creative problem-solving, we are confident that Wayfair will be home to the most rewarding work of your career. If you're looking for rapid growth, constant learning, and dynamic challenges, then you'll find that amazing career opportunities are knocking. No matter who you are, Wayfair is a place you can call home. We're a community of innovators, risk-takers, and trailblazers who celebrate our differences, and know that our unique perspectives make us stronger, smarter, and well-positioned for success. We value and rely on the collective voices of our employees, customers, community, and suppliers to help guide us as we build a better Wayfair - and world - for all. Every voice, every perspective matters. That's why we're proud to be an equal opportunity employer. We do not discriminate on the basis of race, color, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, veteran status, or genetic information.</div></div>

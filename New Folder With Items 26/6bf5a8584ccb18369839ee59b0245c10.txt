@@ -1,0 +1,52 @@
+<h2>Data Scientist/Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Your role:
+</b></p>
+<p>As a Data Engineer (with experience supporting Data Science activities) within the Commercial Analytics team at EMD Serono, you will be tasked to turn data into precise, timely and actionable insights aligned to business needs. You will be embedded within our commercial functions to identify business opportunities and risks, and apply appropriate data manipulation and statistical analysis to transform complex data into actionable insights. As the resident subject matter expert in manipulating large complex datasets, statistical analysis and hypothesis testing you have the opportunity to lead data-driven solutions, mentor technical and non-technical team members. In addition, you’ll have the opportunity to collaborate extensively with our global data science and advanced analytics team on machine learning, operationalizing data-driven solutions and establish best practices and cross-functional learning aimed at driving U.S. business to new heights.
+</p>
+<p><b>Key responsibilities:
+</b></p>
+<ul>
+<li>Translate business questions into clear and solvable data problems
+</li>
+<li>Aggregate and structure data as required for advanced modelling with support from team members
+</li>
+<li>Apply rigorous statistical data analysis techniques to a broad range of syndicated and publicly available data sources to test hypothesis to inform commercial activities
+</li>
+<li>Extract highly relevant summary statistics from complex datasets using data manipulation, fuzzy matching, complex join operations and statistical techniques to describe evolving market dynamics and measure KPIs
+</li>
+<li>Communicate data-driven insights and recommendations to a broad range of business partners
+</li>
+<li>Mentor and develop technical team members to support and leverage advanced analytics techniques
+</li>
+<li>Visualize data for concise, clear delivery of highly relevant insights
+</li>
+<li>Collaborate closely with global, in-house data science and cloud engineering experts to operationalize data-driven solutions
+<p><b>Who you are:
+</b></p>
+</li>
+<li>Masters in Computer Science, Engineering, Statistics, or related field from a top school with outstanding grades
+</li>
+<li>Proven track record of excellence in data science and engineering
+</li>
+<li>You find joining, manipulating and transforming large datasets a simple and enjoyable task
+</li>
+<li>Experience in engineering features/predictors/correlators relevant for pharmaceutical sales and marketing
+</li>
+<li>Experience and ability to build reproducible data manipulation software pipelines in Python, SQL or any other non-proprietary language that can be handed over to other data engineers and data scientists
+</li>
+<li>Strong foundations in applied mathematics, for example, high dimensional statistical modeling, hypothesis testing, time series analysis
+</li>
+<li>Extensive experience in multiple programming languages such as SQL, Python, Javascript, C++, Java
+</li>
+<li>You never report results before thorough validation
+</li>
+<li>Knowledge of AWS and experience in developing cloud solution is a big plus
+</li>
+<li>Ability to interact with senior management and field teams in matrix organization
+</li>
+<li>Excellent communication skills
+</li>
+<li>You imagine yourself having fun doing all the above!</li>
+</ul>
+</div></div>

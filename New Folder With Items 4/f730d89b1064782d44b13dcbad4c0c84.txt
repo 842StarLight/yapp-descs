@@ -1,0 +1,50 @@
+<h2>C@O Tier 2 Support</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<p><b>Our Company</b></p>
+<p>
+With more than 20 years of experience as a trusted partner to financial institutions, CPI Card Group® is a leading provider in payment card production and related services, offering end-to-end credit, debit, and prepaid payment solutions delivered physically, digitally and on-demand.</p>
+</div>
+<div><b>Position Summary</b></div>
+<div>The Tier 2 Specialist role utilizes strong technical knowledge of business systems and software to provide customer service and technical support for internal and external customers of business group technology. The role provides specialized technical expertise on issue resolution, implementation, technical support, and integrations for business group products/services.</div>
+<div></div>
+<div>This role responds to client or internal queries, performing an initial diagnostic analysis of the query and determine next steps necessary to resolve or assign the query to next level of technical support. This role also interacts with product, development and quality assurance teams to give feedback, discuss design issues, investigate problems, and develop solutions to meet the needs of users.</div>
+<div></div>
+<div>The role typically works on moderately complex and non-standard issues, often requiring development of solutions that rely on past experience, thorough understanding of the system environment and ability to effectively utilize a wide range of technology tools/techniques.</div>
+<div></div>
+<div><b>Major Responsibilities</b></div>
+<ul><li>Maintain an in-depth understanding of all aspects of the software and system components supporting the business to provide technical support, troubleshoot technology issues and develop solutions to address system issues raised by customer support, implementation, operations and/or customers</li></ul>
+<ul><li>Report &amp; analyze trends and provide feedback to product and development teams to enable longer-term solutions to resolve recurring system or customer issues</li></ul>
+<ul><li>Work with clients and customer teams to determine requirements and perform complex non-standard implementations of business group products and services</li></ul>
+<ul><li>Assist customers with reports or other available complex system functionality</li></ul>
+<ul><li>Provide technical expertise and demo support to customer-facing support and sales staff and/or prospective clients</li></ul>
+<ul><li>Train clients and internal teams on system functionality. May also create training documentation, client reports and marketing materials.</li></ul>
+<ul><li>Resolve escalated support tickets for highly complex technical issues when first-line product support teams have not succeeded in isolating and resolving an issue</li></ul>
+<ul><li>Ask questions and use diagnostic programs to efficiently and accurately diagnose issues and resolve them. Properly identify when to escalate an issue and follow instructions regarding case escalation while monitoring and adhering to customer SLAs.</li></ul>
+<ul><li>Walk end-user clients through problem diagnosis and resolution process ensuring clear effective communication and client satisfaction.</li></ul>
+<ul><li>Work closely with the Development, QA, DevOps, Customer Support, and Implementations Teams to ensure a high level of customer support.</li></ul>
+<div></div>
+<div><b>Requirements</b></div>
+<ul><li>HS Diploma plus relevant certification/education such as Associate’s Degree in Computer Science or A+ certifications</li></ul>
+<ul><li>B.S. Degree in Computer Science preferred</li></ul>
+<ul><li>At least 2 years demonstrated success in application or systems support role</li></ul>
+<div></div>
+<div><b>Qualifications</b></div>
+<ul><li>Previous experience utilizing an industry standard IT ticketing system and incident management processes</li></ul>
+<ul><li>Solid working knowledge of:</li></ul>
+<div>o Professional collaboration tools</div>
+<div>o MS Office 365</div>
+<div>o Visio</div>
+<div>o SQL</div>
+<ul><li>Strong verbal/written communications skills and strong teamwork skills – ability to communicate well to both customers and non-technical colleagues and to technical resources</li></ul>
+<ul><li>Strong problem-solving skills and ability to dive into details and drive issue resolution, while maintaining strong communication with customer. Responsiveness is key.</li></ul>
+<ul><li>Excellent documentation and organizational skills</li></ul>
+<ul><li>Demonstrated ability to multi-task in a fast-paced environment with stringent deadlines</li></ul>
+<ul><li>Strong customer and relationship management skills</li></ul>
+<ul><li>General Networking: Switches, Routers, Hubs, Servers, Cables, Racks, Firewalls, LAN, WAN, TCP/IP, DNS, UDP, Latency, VoIP, troubleshooting</li></ul>
+<ul><li>General security, telephone systems and circuits, Internet, firewalls/DMZ, IP network and communications rooms (equipment, software/protocols, and cabling), monitoring, test systems/platforms, overall data security and encryption.</li></ul>
+<ul><li>General understanding of IP routing design and general Internet connectivity and related dependency’s (DNS, Security, IP Routing, HTTP, VPN, etc.)</li></ul>
+</div>
+<div></div>
+</div>

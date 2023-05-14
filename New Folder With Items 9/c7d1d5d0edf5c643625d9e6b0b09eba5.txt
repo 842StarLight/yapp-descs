@@ -1,0 +1,87 @@
+<h2>Salesforce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Title</b>: Senior Developer</p>
+<p><b>Company</b>: 1-800-Pack-Rat / Zippy Shell Incorporated</p>
+<p><b>Job Type</b>: Information Technology</p>
+<p><b>Location</b>: Wake Forest, NC or remote</p>
+<p><b>Compensation</b>: DOE</p>
+<p><b>Employee</b> <b>Type</b>: Full Time</p>
+<p><b>Experience</b>: 6-8 Years</p>
+<p><b>Company Description: </b><br>1-800-Pack-Rat / Zippy Shell Incorporated, is the portable storage and moving company that provides the simplest way to store or move your stuff. With numerous storage facilities across the USA, and a growing network of containers and trucks, we can get you anywhere you need to go.</p>
+<p><b>Job Description: </b></p>
+<p>In the role of Senior Developer, you will interface with key stakeholders and apply your technical proficiency across different stages of the software development life cycle including requirements elicitation, application architecture definition and design. You will play an important role in creating the high-level design artifacts. You will also deliver high quality code deliverables and lead code validation. You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued. Lead developer will be responsible for legacy .net applications—light evolution and support, but dominant focus is on transitioning to Salesforce as an enterprise platform.</p>
+<p><b>Primary responsibilities &amp; duties: </b></p>
+<ul>
+<li>Experience with Sales Force development (Apex, Visualforce).</li>
+<li>Design, prototyping, customization, testing, and release of custom solutions using technologies such as <i>ASP.NET</i> C#, model–view–controller (MVC) pattern, Windows Communication Foundation (WCF), JavaScript, jQuery.</li>
+<li>Analyze, design, develop, test and deploy development projects following agile methodologies.</li>
+<li>Design database schemas, conceptual data models, UI workflows and application architectures that fit enterprise architecture.</li>
+<li>Write optimal SQL queries and store-procedures to ensure good performance for database operations</li>
+<li>Apply Object-Oriented Design and Programming to build component-based middle tier RESTful web services with high throughput.</li>
+<li>Understand User-Centered Design concept to build user interfaces that are modern and provide good user experiences</li>
+<li>Gather information and feedback from end users to understand and develop project requirements.</li>
+<li>Ensure project tasks are assigned and completed in a timely manner and project milestone dates are met.</li>
+<li>Ensure all project documentation is created, archived, and updated, including design, development and deployment documentation.</li>
+<li>Coordinate activities of development team.</li>
+<li>Ensure all team members are informed of project activities.</li>
+<li>Creates technical specifications for development\enhancements</li>
+<li>Drafts and maintains technical documentation for operations</li>
+<li>Analyzes, evaluates &amp; resolves operational issues in a timely manner; reviews trends for process improvements</li>
+<li>Reports project progress to management</li>
+<li>Performs reviews and integration testing to assure quality of project development efforts.</li>
+<li>Exhibit excellent verbal and communication skills.</li>
+<li>Learn new technologies if requested.</li>
+</ul>
+<p><b>Qualifications &amp; experience: </b></p>
+<ul>
+<li>Bachelor’s degree in Computer Science or related field</li>
+<li>Minimum of 7+ year of experience in <i>ASP.NET</i> C#, MVC, WCF, WebAPI, Client Side Scripting (JavaScript, jQuery) and HTML/CSS.</li>
+<li>Experience as a scrum master is preferred</li>
+<li>A positive attitude and the ability to perform successfully in a fast-paced environment.</li>
+<li>Able to work both independently and as part of a team.</li>
+<li>Strong analytical and problem-solving skills.</li>
+<li>Demonstrated experience in translating business requirements to technical specifications</li>
+<li>Ability to develop, recommend and execute solutions to complex problems often under time constraints.</li>
+<li>Develop and maintain effective working relationships with business clients at all levels.</li>
+<li>Complete projects successfully and on time in the context of an Agile project</li>
+<li>Excellent time management skills</li>
+<li>Demonstrated ability to manage operational environment in parallel with new development projects</li>
+<li>Strong verbal and written communication skills, attention to detail and superior interpersonal skills</li>
+<li>Strong experience with the entire software development life cycle (requirements through testing and maintenance).</li>
+<li>Experience with data integration techniques between systems, including various formats and transmissions to include XML based Web Services.</li>
+<li>Expert in MS SQL Server, including the creation of tables, queries, views, triggers, stored procedures, cubes, and security components.</li>
+<li>Experience working with RESTful APIs</li>
+<li>Experience managing code reviews</li>
+<li>Experience with cloud-based infrastructure and platform services</li>
+<li>Experience in building highly available, scalable, secure, and resilient systems</li>
+</ul>
+<p><b>Technical Skills: </b></p>
+<ul>
+<li>Familiarity with Salesforce Apex language, DBAmp, ASP.net, ASP.NET MVC, C#.net, VB.net, Visual Studio, HTML, CSS &amp; JavaScript, BootStrap, jQuery, AngularJs 4+, Entity Framework 4,5,6, ADO.NET, WebServices / WebAPI / WCF Services, IIS.</li>
+<li>SQL Server 2012/2014</li>
+<li>TSQL Scripting/SSIS/SSRS</li>
+<li>Data cubes, OLAP, star schema</li>
+<li>Knowledge in GIT, Bit Bucket</li>
+<li>Knowledge in Cloud environments like Azure / AWS</li>
+<li>Knowledge of enterprise applications: ERP, Salesforce CRM/CPQ/FSL, MSDynamics Great Plains (preferred), Business Intelligence tools</li>
+</ul>
+<p><b>Communication Skills &amp; Personal Characteristics: </b></p>
+<ul>
+<li>Demonstrated ability to communicate clearly and effectively to management on project status, solutions, and blockers &amp; alternatives</li>
+<li>Motivated and able to contribute in a team environment in multiple time zones</li>
+<li>Ability to work independently without instructions</li>
+<li>Collaborate with infrastructure staff</li>
+<li>Communicate with developers and quality assurance staff in architecture decision, code reviews, and issue resolution</li>
+<li>Be able to handle multiple projects and activities in a timely, organized manner</li>
+<li>Be a creative problem solver, flexible, proactive and ability to work in a fast paced, ever changing environment</li>
+</ul>
+<p>Role located in Wake Forest, NC. If remote, some travel required.</p>
+<p>Zippy Shell / 1-800-Pack-Rat, LLC offers a robust benefits package including competitive salaries, paid time off, matching 401K, health and dental insurance and much more. When you join the Zippy Shell / 1-800-PACK-RAT family, you will be part of a company that values every individual and their contributions.</p>
+<p><i>Zippy Shell / 1-800-Pack-Rat, LLC is proud to be an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.</i></p>
+<p>Job Type: Full-time</p>
+<p>Salary: $90,000.00 to $105,000.00 /year</p>
+<p>Experience:</p>
+<ul><li>relevant: 5 years (Required)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+</div>

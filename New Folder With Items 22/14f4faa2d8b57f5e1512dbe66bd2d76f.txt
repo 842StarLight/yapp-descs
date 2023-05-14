@@ -1,0 +1,62 @@
+<h2>Solutions Engineer, Applied Machine Learning</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div><div>Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities — we're just getting started.
+</div></div>
+<div>The Applied Research and Development team's mission is to help businesses thrive by bringing emerging technologies to the market. The team collaborates with other engineering and cross-functional teams who work with clients and partners, to research and identify emerging business opportunities that can be addressed by leveraging new technology being pioneered at Facebook. Our team is looking for experienced Machine Learning Engineers to join us in applying ML techniques to business use cases. As a Solutions Engineer, you will be responsible for identifying, prototyping, and delivering scaled ML solutions that solve real-world business problems. This is a hands-on role, requiring you to work on the full product development lifecycle, in collaboration with other software engineering and sales teams across the globe.
+</div>
+<div>
+<div>RESPONSIBILITIES</div>
+<div></div>
+<div><div>
+<ul><li><div><div>
+Develop highly scalable algorithms based on state-of-the-art machine learning and neural network methodologies.</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Build new products and improve existing ones in collaboration with Facebook product engineering teams.</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Understand the needs and challenges of different industries and businesses and build solutions to solve for these at scale.</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Influence the road map and product development of Facebook products to meet your industry's business challenges.</div></div></li></ul>
+</div></div>
+</div>
+<div>
+<div>
+MINIMUM QUALIFICATIONS</div>
+<div></div>
+<div><div>
+<ul><li><div><div>
+B.S. in Computer Science or equivalent degree or experience.</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+7+ years of experience shipping production level code.</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Experience with developing technologies and solutions in the fields of machine learning, deep learning, neural network modeling.</div></div></li></ul>
+</div></div>
+</div>
+<div>
+<div>
+PREFERRED QUALIFICATIONS</div>
+<div></div>
+<div><div>
+<ul><li><div><div>
+PhD/M.S. in Computer Science or equivalent degree.</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Experience in Advertising Technologies.</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Experience communicating technical concepts to non-technical audiences.</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Experience contributing to open source projects, shared code repositories, and/or personal projects.</div></div></li></ul>
+<div></div>
+<ul><li><div><div>
+Proven experience translating insights into business recommendations.</div></div></li></ul>
+</div></div>
+</div>
+<div><div>
+Facebook is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-ext@fb.com.</div></div>
+</div></div>

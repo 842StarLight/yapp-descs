@@ -1,0 +1,50 @@
+<h2>Full Stack Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About You</b></p>
+<p>
+You are an expert full-stack Javascript developer, who will be working on our React/React Native apps and our API, written in Node.js and Typescript, backed by MySQL and Redis, and deployed to AWS. You are hands-on, and desire to be involved in all aspects of the product lifecycle from the initial idea through prototyping and shipping the final product. You want to be part of a team where everyone feels comfortable to voice their thoughts and ideas. You are interested in enterprise cloud, big data, and have an appetite for compliance and data governance. You love to write clean, fast, compatible, easy-to-use, and testable Javascript to realize ideas, and collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling products.</p>
+<p>
+</p>
+<p><b>Skills &amp; Qualifications</b></p>
+<ul>
+<li>3+ years of real product experience - you have shipped products used by thousands of users</li>
+<li>Experience with our tech stack - Typescript, MySQL, Docker, AWS, HTML/CSS/JavaScript, Sass &amp; LESS, React.js, Node.js, SQL, Java, Kotlin, Python, Spring</li>
+<li>High degree of fluency in JavaScript - you are a strong coder and know how to write clean, effective code at scale (React/Redux)</li>
+<li>Testing with Jest and Enzyme (or similar)</li>
+<li>Experience with automatic building/deployment services like Jenkins, Fastlane etc.</li>
+<li>Writing standards-compliant, accessible markup and styling using CSS preprocessors or css-in-js</li>
+<li>Using, designing and building RESTful APIs</li>
+<li>Experience building connectors</li>
+<li>Familiarity with design patterns, data structures, and algorithms</li>
+<li>The desire and ability to learn quickly</li>
+<li>You want to work on software that is changing the world and you're passionate (and obsessed) about creating intuitive, scalable products</li>
+<li>Ability to work effectively in teams of technical and non-technical individuals (sales, subject matter experts in legal and compliance).</li>
+</ul>
+<p><b>Pluses</b></p>
+<ul>
+<li>Experience with GDPR, CCPA, compliance, data governance, connectors, or other high security coding environments</li>
+<li>Experience with at least one programming language other than Javascript</li>
+<li>Designing and implementing APIs for web and mobile apps.</li>
+<li>Implementing dashboards, graphing data and showing stats/analytics in general</li>
+</ul>
+<p><b>Desired Professional Traits</b></p>
+<ul>
+<li>Detail-oriented with strong organizational skills</li>
+<li>Self-starter with a high degree of initiative</li>
+<li>Highly-responsive with demonstrated sense of urgency</li>
+<li>Team-oriented</li>
+<li>Positive attitude</li>
+</ul>
+<p><b>Competitive Compensation &amp; Benefits Include:</b></p>
+<ul>
+<li>Comprehensive medical, vision, and dental plans</li>
+<li>Life insurance and disability plans</li>
+<li>401(k) with company matching option</li>
+<li>Pet insurance</li>
+<li>Open PTO policy</li>
+<li>Commuter benefits</li>
+<li>Employee marketplace discount for movie tickets, brands like Apple and Disney, and more</li>
+</ul>
+<p><br>
+<b>***Please submit cover letter with application. Applications without a cover letter will not be considered.***</b></p>
+</div></div>

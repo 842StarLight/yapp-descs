@@ -1,0 +1,77 @@
+<h2>Software Programmer and Support - NAV</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p><b>Software Programmer and Software Support</b></p>
+<p><b>Position Description</b></p>
+<p>Department: Administration</p>
+<p>Operations Area: Texas / Florida / Colorado / North Carolina / Georgia / D.C. / Arizona / California /</p>
+<p>Nevada / Utah / Tennessee</p>
+<p>Reports to: Director of Information Technology</p>
+<p>Subordinates: None</p>
+<p>Hours: Normal hours vary depending on industry/company functions. May require late night and weekend work.</p>
+<p><b>Position Summary</b></p>
+<p>Maintain business processes and software for Company. Serves as the lead software developer/analyst for Dynamics NAV.</p>
+<p><b>Programming/Scripting Languages </b></p>
+<ul>
+<li>Microsoft NAV 2009 R2 Classic Client (2 or 3 years of experience, application and C/Side)</li>
+<li>Knowing .Net for NAV</li>
+<li>Knowing C# to develop some addons outside of NAV</li>
+<li>Microsoft NAV 2016 and higher</li>
+<li>SQL (Maintaining and Troubleshooting SQL Servers)</li>
+</ul>
+<p><b>Good knowledge of NAV modules and functionality including</b></p>
+<ul>
+<li>Dynamics NAV and Role Tailored Client Solution Development</li>
+<li>Jobs / Resources / Sales</li>
+<li>Financial Management, including Fixed Assets and Jobs</li>
+<li>Increase Advanced Job Management</li>
+<li>Multiple company and/or Intercompany posting experience</li>
+<li>Jet Report design experience</li>
+</ul>
+<p><b>Knowledge/Skills/Abilities</b></p>
+<p>The Software Programmer must possess excellent written and verbal communication skills. Must have excellent listening skills, the ability to multi-task, meet multiple, conflicting deadlines and creatively solve problems. Able to interact with internal business stakeholders and function well in an individual role and with a team. Must have high attention to details and ability to prioritize tasks.</p>
+<p><b>Responsibilities</b></p>
+<ul>
+<li>Ensure NAV Solutions functionality support business requirements while building performance focused code.</li>
+<li>Develop additional new custom functionality using standard NAV constructs of Table Reports, Pages, CodeUnits, XML Reports, and Web Services.</li>
+<li>Provide on-going support of existing Microsoft Dynamics NAV 2017 system including integrations to Third Party Applications.</li>
+<li>Maintain and support custom developed integrations.</li>
+<li>Test solutions to ensure they meet desired business needs.</li>
+<li>Document all work for future improvements and development.</li>
+</ul>
+<p><b>Successful candidates will have the following: </b></p>
+<p>Strong interpersonal skills and customer service. Ability to work independently, problem solve, take initiative, set priorities, handle multiple projects, and exercise good judgment. Attention to accuracy, detail and thoroughness in completing assigned duties is required. Maintain confidentiality and handle confidential and sensitive information in an appropriate manner. Desire to constantly improve systems to maintain reliability and ease of use. Willing to be available outside of normal business hours as needs arise. Strong experience developing complex customizations, database optimization and SQL Reporting Services development is a plus, integration with Third Party Applications. Strong problem solving and technical skills. Experience merging code, such as implementing Dynamics NAV Cumulative Updates.</p>
+<p><b>Traits</b></p>
+<p>Positive “Can Do” Attitude</p>
+<p>Organized</p>
+<p>Resourceful</p>
+<p>Honest</p>
+<p>Reliable</p>
+<p>Courteous</p>
+<p>Responsible</p>
+<p>Pays Attention to Details</p>
+<p>Strong Work Ethic</p>
+<p>Flexible</p>
+<p>Job Type: Full-time</p>
+<p>Experience:</p>
+<ul>
+<li>Software Development: 3 years (Preferred)</li>
+<li>Microsoft Dynamics Navision (NAV): 3 years (Preferred)</li>
+</ul>
+<p>Education:</p>
+<ul><li>Master's (Preferred)</li></ul>
+<p>Location:</p>
+<ul><li>Houston, TX (Preferred)</li></ul>
+<p>Work authorization:</p>
+<ul><li>United States (Required)</li></ul>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+<li>Tuition reimbursement</li>
+</ul>
+</div>

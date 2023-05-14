@@ -1,0 +1,141 @@
+<h2>Snowflake Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Job Title: Snowflake Engineer
+</b></p>
+<p></p>
+<p><b>Terms: Contract</b></p>
+<p>
+Newyork<br>
+<br>
+Birmingham Alabama<br>
+<br>
+Emeryville CA<br>
+<br>
+Assignment will be 3 months with possible extension</p>
+<p></p>
+<p><b>
+About Trianz</b></p>
+<p>
+Trianz is a global professional services firm committed to enabling leaders to develop and execute operational strategies, leverage new business and technology paradigms, and achieve results expected by senior management in their organizations- <i>predictably</i>.</p>
+<p><b>
+What We Stand For</b></p>
+<p>
+Our clients are transforming their businesses, competitive strategies, product and service portfolios, customer-partner-employee interactions and their ecosystem. The cost of misses is not financial alone but a lost window of opportunity. So g<i>etting things right the first time</i> is absolutely critical.</p>
+<p>
+As a result, Trianz is focusing on three important themes in our engagement model with clients.</p>
+<ul>
+<li>
+Crystallize business impact from a top management point of view</li>
+<li>
+Help Clients achieve results from strategy-<i>by making execution predictable </i>through innovative execution techniques</li>
+<li>
+Create a positive, enriching partnership experience in <i>everything </i>we do</li>
+</ul>
+<p><b>
+Industries, Clients &amp; Practices</b></p>
+<p>
+Trianz works with clients across High Technology, Banking, Insurance, Manufacturing, Retail, Telecom, e-businesses and Public Services. Most clients are Fortune 1000 organizations and our relationships are sponsored by senior leaders in Enterprise Analytics Sales, Finance, Marketing, Human Resources, Operations and Information Technology. We partner with our clients to address the following key service areas:</p>
+<ul>
+<li>
+Cloud</li>
+<li>
+Analytics</li>
+<li>
+Digitization</li>
+<li>
+Infrastructure</li>
+<li>
+Security</li>
+</ul>
+<p><b>
+Job Description</b></p>
+<p>
+We are looking for a number of Snowflake Engineers that will work on the collecting, storing, processing, and analyzing of huge sets of data. The primary focus will be on choosing optimal solutions to use for these purposes, then maintaining, implementing, and monitoring them. You will also be responsible for integrating them with the architecture used across our client</p>
+<p><b>
+Responsibilities</b></p>
+<ul>
+<li>
+Build, design and implement high-volume, high-scale data analytics and machine learning solutions in the cloud</li>
+<li>
+Bring new ideas in cloud, big data, and machine learning software development</li>
+<li>
+Design and develop features, understand customer requirements and meet business goals.</li>
+<li>
+Build high quality and highly reliable software to meet the needs to the largest customers.</li>
+<li>
+Analyze and improve the performance, scalability, and high availability of large scale distributed systems and the query processing engine.</li>
+</ul>
+<p><b>
+Skills and Qualifications</b></p>
+<ul>
+<li>
+Proficient understanding of distributed computing principles</li>
+<li>
+Experience with Snowflake</li>
+<li>
+Management of Hadoop cluster, with all included services</li>
+<li>
+Ability to solve any ongoing issues with operating the cluster</li>
+<li>
+Proficiency with Hadoop v2, MapReduce, HDFS</li>
+<li>
+Experience with building stream-processing systems, using solutions such as Storm or Spark-Streaming</li>
+<li>
+Good knowledge of Big Data querying tools, such as Pig, Hive, and Impala</li>
+<li>
+Experience with Spark and Scala</li>
+<li>
+Experience with integration of data from multiple data sources</li>
+<li>
+Experience with NoSQL databases, such as HBase, Cassandra, MongoDB</li>
+<li>
+Knowledge of various ETL techniques and frameworks, such as Flume</li>
+<li>
+Experience with various messaging systems, such as Kafka or RabbitMQ</li>
+<li>
+Experience with Big Data ML toolkits, such as Mahout, SparkML, or H2O</li>
+<li>
+Good understanding of Lambda Architecture, along with its advantages and drawbacks</li>
+<li>
+Experience with Cloudera/MapR/Hortonworks</li>
+</ul>
+<p><b>
+We are Growing Rapidly: 2018 Highlights</b></p>
+<p>
+Trianz is growing above the average of the professional services industry. Here are some highlights.</p>
+<p></p>
+<br>
+<ul><li>
+Voted significantly above other services firms by 90% + of clients for business impact, execution predictability and organizational commitment in the recent Trianz wide client satisfaction survey.</li></ul>
+<p></p>
+<br>
+<ul><li>
+Won the “Customer Obsession Award” from Amazon Web Services for our innovation and execution record in Cloud Infrastructure and Business Applications strategy and services.</li></ul>
+<p></p>
+<br>
+<ul><li>
+Won UNICOM awards for the #1 Digitization and #1 Analytics project over a wide array of competition.</li></ul>
+<p></p>
+<br>
+<ul><li>
+Featured by IDC in their Spotlight series under the theme of “Operationalizing Strategies through Execution Excellence: A New Paradigms in Technology Delivery”.</li></ul>
+<p></p>
+<br>
+<ul><li>
+Achieved 50%+ revenue and employee growth compared to prior year’s exit showing an increasing acceptance of our models and success from our differentiated methodologies in strategic execution.</li></ul>
+<p></p>
+<br>
+<p><b>
+Talk to us, Join us &amp; Develop into Leaders</b></p>
+<p>
+Come join a dynamic global company. We are an open, non-bureaucratic and no-nonsense culture. We believe in a culture of innovation, encouraging our people to create. We believe training and development of all our associates is the most important thing we can provide to our talent. We are investing heavily- in classroom, online and on the job training. Seeing our talent develop into leaders- is what’s fundamental for everyone at Trianz.</p>
+<p>
+ We are hiring at all levels of Trianz. And we are hiring globally. So- if you have a passion for execution and would like to develop into a leader capable of taking on anything, or are already a leader, talk to us!</p>
+<p>
+ Equal Opportunity Employer</p>
+<p>
+Trianz does not discriminate on the basis of race, color, creed, national or ethnic origin, gender, religion, disability, age, political affiliation or belief, disabled veteran, veteran of the Vietnam Era, or citizenship status (except in those special circumstances permitted or mandated by law).</p>
+</div>
+<p></p>
+</div>

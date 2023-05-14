@@ -1,0 +1,115 @@
+<h2>Solution Architect-SAP Sales and Distribution</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h2 class="jobSectionHeader"><b>Overview
+</b></h2>
+<div><div><div>
+<p>Leprino Foods’ history dates back over 65 years, when Jim Leprino first started making small batches of mozzarella for local markets and eateries in the Little Italy neighborhood of Denver. We’ve grown a bit since then. Today, Leprino is the largest manufacturer of mozzarella and lactose in the world, and a leading producer of whey protein. Still owned by Jim and the Leprino family, our sights are set to be the “World’s Best Dairy Food and Ingredient Company.” To help us achieve that daring vision, we’re looking for our secret ingredient: You. A motivated individual who is the best at what you do. Three people in a small corner grocery store in the early 1950s have now grown to over 4,300 employees throughout 16 global locations. Will you join us on our journey?</p>
+<p></p>
+<br>
+<p>
+For our Denver, CO corporate headquarters we are seeking a <b>SAP Solution Architect</b> on our Enterprise Applications team to continue moving our organization to even larger levels of innovation, and technological advancement. We take pride in our vision to be "world's best", it's why we work harder, invest more, and continually innovate.
+</p>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Responsibilities
+</b></h2>
+<div><div><div>
+<ul>
+<li>Work as the IT liaison and perform detailed analysis of business processes and requirements to produce solution specifications for complex and large projects.
+</li>
+<li>Provide functional requirements documentation, system analysis, design, programming duties involving complex computer applications and initiating corrective actions as necessary to ensure continuing code quality and performance improvements.
+</li>
+<li>Ongoing responsibility will include: operating as a development team leader by participating/leading project and small enhancement teams, working closely with both business and technical teams (ABAP and Basis) to advise and develop best business practices throughout all phases of implementations, acting as the primary architect for one or more functional areas, serving as back-up for one or more functional areas, and resolving support issues.
+</li>
+<li>Work with business/configuration leaders to develop and prioritize an annual Project Portfolio including cost estimates and benefits.</li>
+<li>
+Work in conjunction with business to determine project budgeting and approvals.</li>
+<li>
+Create project plan timelines including identifying resource requirements.</li>
+<li>
+Performs and/or validate the fit/gaps to business requirements.</li>
+<li>
+Identifies workarounds and business process changes.</li>
+<li>
+Prepares Functional Specifications and in some cases, Technical Specification.</li>
+<li>
+Development of the system and conduct unit testing of all developments and configuration.</li>
+<li>
+Ensures consistency and integrity of system development across enterprise architecture.</li>
+<li>
+Verifies Development documentation is updated.</li>
+<li>
+Assesses, recommends, and configures delivery mechanisms to satisfy business reporting requirements based upon application of best practices, while also drawing from previous experiences.</li>
+<li>
+Prepares and/or validates the generation/update of Technical Documentation and Unit Testing Scripts.</li>
+<li>
+Supports the execution of unit, string, integration, and regression tests for end-to-end solutions for business events.</li>
+<li>
+Ensures Quality delivery of Development from External Resources.</li>
+<li>
+Works with business testers to execute user acceptance testing.</li>
+<li>
+Leads technical and/or business process issue resolution of post-go-live issues escalated by the external support team; upon escalation from external support resources, provides Level 2 and Level 3 support to business users.</li>
+<li>
+Provides guidance to external support resources to expand and clarify the Known Error Database to improve production support.</li>
+<li>
+Ensures updating of documentation of design solutions and Known Error Database by external support team.</li>
+<li>
+Remote travel to plants may be required.</li>
+<li>
+Accept a challenging environment where solving problems, continuous learning, and a high technical capability is the norm, not the exception. Take ownership of your career – it’s yours to grow if you’re willing to put the work in.</li>
+<li>
+Be humble, inquisitive, patient, collaborative, tenacious, and resilient - the DNA of a Leprino employee.</li>
+</ul>
+<p><b>
+Offering You In Return:</b></p>
+<ul>
+<li>
+The opportunity to join a company that will invest in you for the long-term. Leprino couldn’t be where it is today without our incredible workforce. That’s why we share in our success together by rewarding you for your hard work. Hiring people who are in it for the long run with Leprino is our ultimate goal. Through competitive salaries, paid parental leave, healthcare benefits, tuition assistance, vacation, holiday, and sick time, matching 401(k), annual merit, incentives, and our annual Profit Sharing plan – Leprino hires to retire.</li>
+<li>
+A chance to reside in sunny Denver, Colorado: 300 days of sunshine, the gateway to the Rocky Mountains and all its outdoor wonders!</li>
+<li>
+An environment where we value employee engagement: 50% of our 30-person SAP team attended SAP Sapphire Now in 2019 alone!</li>
+<li>
+People development: We encourage professional growth and new certifications - Our training budget speaks for itself!</li>
+<li>
+Play a leading part in our company-wide implementation of S/4HANA.</li>
+</ul>
+</div></div></div>
+<h2 class="jobSectionHeader"><b>Qualifications
+</b></h2>
+<div><div><div>
+<p><b>You Have (Mandatory Qualifications):</b></p>
+<ul>
+<li>
+Bachelor’s degree in appropriate discipline, or equivalent experience</li>
+<li>
+8+ years of SAP experience in applicable module(s) - including complete project life-cycle experience as well as maintenance and enhancement responsibilities</li>
+<li>
+SAP Certification (or in process of obtaining certification)</li>
+<li>
+Experience with ITIL, Agile, Waterfall or other PMP methodology</li>
+<li>
+Experience in configuration and implementation of other SAP R/3 functional areas.
+</li>
+<li>Experience with SAP S/4HANA
+</li>
+<li>Experience with Process Manufacturing</li>
+</ul>
+<p></p>
+<br>
+<p><b>
+You Also Have (Preferred Qualifications):</b></p>
+<ul>
+<li>
+SAP S/4HANA or Suite on HANA implementation experience.</li>
+<li>
+SAP Fiori experience.</li>
+</ul>
+<p>
+A career with Leprino Foods means you’ll be part of a worldwide group of individuals dedicated to producing high-quality products that help feed and nourish families around the world. Your contributions will be noticed and rewarded as you work to further our company, our customers, and one another. Apply today to learn more about our Corporate Information Systems career path.</p>
+<div></div>
+<br>
+<div>
+Leprino Foods Company utilizes the services of Psychemedics to perform our Hair Follicle Drug Testing. Additional information about this process can be obtained @ www.psychemedics.com.</div>
+</div></div></div>
+</div></div>

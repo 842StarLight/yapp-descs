@@ -1,0 +1,48 @@
+<h2>Manager, Business Intelligence</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<ul>
+<li>Bachelor's degree in a quantitative field or equivalent experience</li>
+<li>7+ years of relevant work experience in business intelligence, analytics, statistics, data engineering, data science or related field</li>
+<li>Advanced proficiency in SQL, ETL management, data modeling, and working with “Big Data”</li>
+<li>Experience with data visualization using Tableau, Power BI, or similar tools</li>
+<li>Experience designing and analyzing A/B tests</li>
+<li>Experience with statistical modeling and analyzing large data sets</li>
+<li>Experience in managing and prioritizing a project backlog</li>
+<li>Experience in hiring, retaining, coaching, and managing a high-functioning team including both technical and business functions</li>
+<li>Strong critical thinking skills and attention to detail</li>
+<li>Both technically deep and business savvy enough to interface with all levels and disciplines within the organization</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age</div>
+<br>
+<div>JOB DESCRIPTION: The NA Engineering Services organization is responsible for delivering best in case fulfillment, transportation, and final mile technologies. The team is currently looking for a Manager of Business Intelligence to lead a team responsible for building and maintaining end to end analytic solutions that drive business decisions. If you enjoy innovating, thinking big and want to contribute directly to the success of an industry changing business, you may be a prime candidate for this position.<br>
+<br>
+An ideal candidate will be someone with broad technical background in data analytics, strong business acumen, high degree of ownership, and is customer obsessed. The successful candidate will also be a great communicator who can crisply communicate his/her analysis in non-technical terms to senior management. They will have a strong bias towards data-driven decision making and will be comfortable with ambiguity while working in a fast-paced dynamic environment. They will have a background in data analysis, including experience extracting and manipulating data using SQL, leveraging advanced Excel features for data analysis, and producing digestible business intelligence and actionable information. The candidate will also need to be a great collaborator who can work with internal and external teams to define and implement solutions that will yield benefits to Amazon customers around the world.<br>
+<br>
+RESPONSIBILITIES:<br>
+<ul>
+<li>Hire, manage, coach and lead a high performing global team of Business Intelligence Engineers and Business Analysts</li>
+<li>Engage with leadership and diversified stakeholder groups to understand their data needs and recommend business intelligence solutions</li>
+<li>Partner with the Data Engineering teams to define the data elements and data structure that the team should leverage to enable analytical capabilities</li>
+<li>Design, implement, and support platforms that provide business teams ad-hoc access to large datasets (e.g. data visualization tools for non-tech business users)</li>
+<li>Own the design, development, and maintenance of ongoing performance metrics, reports, analyses, dashboards, etc. to drive key business decisions</li>
+<li>Standardize data and report consumption across all customer groups</li>
+<li>Recognize and adopt best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation</li>
+<li>Proactively develop new metrics and studies to quantify customer behavior and reduce defects</li>
+<li>Work with data engineering and software development teams to enable the appropriate capture and storage of key data points</li>
+<li>Conduct written and verbal presentation to share insights and recommendations to audiences of varying levels of technical sophistication</li>
+</ul>
+</div>
+<br>
+<div>
+<ul>
+<li>Master's degree in a quantitative field</li>
+<li>5+ years of experience in managing a team of Business Analysts or Business Intelligence Engineers</li>
+<li>Proficiency in Python or another general-purpose scripting language</li>
+<li>Experience with Big Data technologies (e.g. Hadoop, Hive, Oozie, Presto, Hue, Spark, Scala, etc)</li>
+<li>Experience with AWS technologies including Redshift, RDS, S3, EMR, EML</li>
+</ul>
+<br>
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age</div>
+</div>

@@ -1,0 +1,39 @@
+<h2>Data Scientist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>About Live Objects</b></p>
+<p>
+Live Objects delivers continuous business process optimizations to the enterprise through AI-driven automation of discovery, design and process engineering by mining patterns in business objects, cases and transactions across all process variations. The product integrates deeply with business process management platforms (like SAP, Salesforce etc.) and delivers continuous process engineering natively as on-demand compositions through the platform’s interfaces. Live Objects’ path-breaking process-calculus engine models predictive, diagnostic and quality related projections for live cases in business processes. Its AI-driven on-demand process reengineering engine composes process enhancements with rule-based associations with business objects for delivering quantified time, process, margin and cost efficiency gains. The on-demand compositions can be subject to review by functional subject matter experts in CRM, ERP, MRP, order-to-cash etc. before deploying them into live business processes. Ongoing client engagements include self-optimizing a wide spectrum of business processes including master data management, order-to-cash, sales distribution and supplychain management. The company is based in Palo Alto and venture funded by The Hive. The Hive is a fund and co-creation studio for AI powered enterprise applications.</p>
+<p><b>
+About the role</b></p>
+<p>
+The Data Scientist will drive the design and development of key artificial intelligence (AI) components of the platform including named entity recognition in natural language text, classifying business process actions from unstructured data, sequence mining actions into business process models and risk/conformance modeling.</p>
+<p><b>
+Responsibilities</b></p>
+<p>
+As a Data Scientist of a fast-growing startup, the successful candidate will be leading the<br>
+development of key aspects of Live Objects’ product:</p>
+<ul>
+<li>Data mining using state-of-the-art methods</li>
+<li>Selecting features, building and optimizing classifiers using machine learning techniques</li>
+<li>Extending company’s data with third party sources of information when needed</li>
+<li>Enhancing data collection procedures to include information that is relevant for building analytic systems</li>
+<li>Processing, cleansing, and verifying the integrity of data used for analysis</li>
+<li>Creating automated anomaly detection systems and constant tracking of its performance</li>
+</ul>
+<p><b>About you</b></p>
+<p>
+The successful candidate will have experience in working in innovative projects with fast-paced<br>
+delivery schedules in startups &amp; large enterprises:</p>
+<ul>
+<li>Proven track record of analyzing large-scale complex data sets, modeling and machine learning algorithms</li>
+<li>Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.</li>
+<li>Experience with common data science toolkits, such as R, Python (NumPy, SciPy, Pandas ) , Matlab</li>
+<li>Experience in deep learning frameworks (e.g., Tensorflow, MxNet), and Large-scale optimization preferred.</li>
+<li>Experience with NLP toolkits such as NLTK, OpenNLP, Stanford CoreNLP etc.</li>
+<li>Proficiency in using query languages such as SQL</li>
+<li>Experience with NoSQL databases, such as MongoDB, Cassandra</li>
+<li>Good applied statistics skills, such as distributions, statistical testing, regression, etc.<br>
+5 – 10 years of experience in Applied Machine learning</li>
+<li>Educational background in a relevant field (Computer Science, Applied Math, Statistics)</li>
+</ul>
+</div></div>

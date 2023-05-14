@@ -1,0 +1,59 @@
+<h2>Deployment Engineer / Technical Leader</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<b>WHY CLOUDGENIX:</b><br>
+Come and be a part of something great! CloudGenix is a high-growth startup, in an incredibility hot market called, Software-Defined WAN (SD-WAN). We are looking for high-energy, smart and talented people to join our growing team who are fearless when it comes to customer engagement and execution.
+<br><br>
+CloudGenix has a differentiated SD-WAN solution that gives our customers an entirely new way to build their WAN- one that is defined by applications and business priorities instead of packets and protocols or interface boundaries. As a result, our customers achieve more than twice the performance at less than half the cost and time.
+<br><br>
+Bank of Marin chooses CloudGenix SD-Wan
+<br>CloudGenix and RoundTower Technologies Partner
+<br>More from analysts and press at cloudgenix.com
+<br><br>
+<b>Job Title:</b><br>
+Deployment Engineer / Technical Leader
+<br>Customer Success | Office San Jose, Ca, Raleigh, NC or Remote | Full Time
+<br>JOB DESCRIPTION
+<br><b>Location:</b> Various (Continental US)
+<br><br>
+<b>The Opportunity:</b><br>
+The Deployment Engineer / Technical Leader can make the biggest impact with our customers on how they view our product and to gain their confidence in our technical leadership and solutions in general. This is a senior, extremely technical, hands-on, customer, facing role that has an immediate and directly measurable impact on our product with customers and partners. The ideal candidate for this position will thrive at taking extremely complex, brittle customer environments and revolutionizing them using our product – all while navigating the nuances and complexities of customer requirements and needs
+<br><br>
+They are the face of CloudGenix operations, whether on-site or interacting with customers by email/telephone.
+<br><br>
+<b>The primary responsibilities for this position will be:</b><br>
+<ul>
+<li>Conduct deployment readiness assessment and planning</li>
+<li>Perform onsite installation of CloudGenix equipment and software as coordinated thru the Professional Services Group.</li>
+<li>Hosting preinstall meetings/conference calls for design and planning the installation with the customer.</li>
+<li>Installing, configuring, and testing the network to the plan.</li>
+<li>Submitting post-install documentation as required and provide closure concerning any remaining action items.</li>
+<li>Perform onsite troubleshooting as required and dispatched by the Technical Support Organization.</li>
+<li>Able and willing to travel.</li>
+<li>Perform after-hours on-call support (as scheduled).</li>
+<li>While not involved in install activities, work and assist the Technical Support Organization with Tier3 incidents during regular work hours.</li>
+<li>Take every opportunity to maintain proficiency and increase the level of knowledge on CloudGenix products, software, and services.</li>
+<li>Make key product and solution recommendations around ease of use and represent customer needs.</li>
+<li>Ensure customers can grow at the pace of business.</li>
+</ul>
+<b>Required Skills:</b><br>
+<ul>
+<li>Application Delivery expertise – L7 SLB / Global SLB / Traditional Link LB</li>
+<li>Application Performance Monitoring expertise – Response time metrics, Application identification.</li>
+<li>Packet capture analysis / fault isolation and remediation</li>
+<li>Network Security expertise (IPS/IDS, ZBFW, NGFW)</li>
+<li>In-depth IP Routing protocol expertise (BGP, OSPF, EIGRP)</li>
+<li>Implementation of Legacy WAN solutions (MPLS, Leased Line, Frame Relay, Satellite, Internet VPN, ECMP, DMVPN)</li>
+<li>Global-scale network design</li>
+<li>Demonstrable Virtualization experience (VMware/Microsoft/Citrix/Linux KVM)</li>
+<li>Desire to learn on your feet and thrive on the bleeding edge of networking.</li>
+</ul>
+<b>Required Education:</b><br>
+Typically requires BS/MS Engineering or equivalent, plus extensive experience in a network engineering environment.
+<br><br>
+<b>Preferred attributes:</b><br>
+<ul>
+<li>Technical Sales/marketing or other support customer-facing experience highly desirable</li>
+<li>Expert-level Vendor certifications – Application Networking, Virtualization, Legacy Networking.</li>
+<li>Close proximity to a major metropolitan area and airport.</li>
+</ul>
+</div>

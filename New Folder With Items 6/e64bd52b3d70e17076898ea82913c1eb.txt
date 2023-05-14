@@ -1,0 +1,55 @@
+<h2>Technical Solutions Consultant, Lead</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Do you consider yourself a great customer- or user-facing Software Engineer, Sales Engineer, Customer Engineer, Solutions Consultant, or System Architect? If so, the Woolpert Innovation group is interested in you. Woolpert has a successful business moving customers to the Cloud. We are seeking an experienced<b> Lead Technical Solutions Consultant </b>for our<b> Cloud Solutions Team </b>to accelerate that growth.</p>
+<p><b>
+Locations:</b></p>
+<p>
+Flexible for the right candidate; otherwise Dayton, Ohio, or Denver, Colorado.</p>
+<p><b>
+About the Role:</b></p>
+<p>
+Woolpert Technical Solution Consultants (TSCs) play a critical role in delivering Cloud projects to customers: you are a consultant with technical Cloud expertise that clients value. You will interface with Woolpert Cloud Solutions clients from the initial proposal to implementation phases. That can include consulting work across initial assessment, planning, deployment, and optimization. You will successfully deliver best-in-class platforms for our clients, and affect change throughout their enterprises.</p>
+<p>
+Working with the Sales team, Customer Engineers, Site Reliability Engineers, and Woolpert subject matter experts, you will design, build, and deploy SaaS solutions, typically centered on Google products and services, and often incorporating other technologies and products.</p>
+<p>
+Success will be measured by your ability to (a) write concise, clear, and feasible statements of work; (b) individually deliver technical solutions to customers; (c) build and manage deliver teams for individual projects; and (d) hire and build teams for long term business growth. Your customers are happy, and happy customers are repeat customers.</p>
+<p><b>
+Responsibilities:</b></p>
+<ul>
+<li>Technical consulting with new and existing customers, with a focus on Cloud solutions (IaaS, PaaS, SaaS, hybrid Cloud). This includes building and delivering hosted systems, applications, and migrations for customers.</li>
+<li>Write, refactor, and optimize new or existing solutions to create fast, easy-to-use, production applications.</li>
+<li>Deploy software and solutions to cloud infrastructure in a repeatable way.</li>
+<li>Create thoughtful scopes of work with estimates that you and the Woolpert team can use to win and deliver customer projects.</li>
+<li>Build a consulting services team through some combination of partnering inside and outside Woolpert, and potentially by hiring additional Technical Solutions Consultants.</li>
+</ul>
+<p><b>Minimum Requirements:</b></p>
+<ul>
+<li>5+ years of experience in software engineering or similar field. This is a technical discipline, not purely a project management role.</li>
+<li>Experience leading, and building deliverables for, client-facing projects.</li>
+<li>Experience building and deploying production-grade solutions in a virtualized environment such as Google Cloud Platform, Amazon Web Services, Microsoft Azure, or similar platform.</li>
+<li>Proficient in at least one of Java, C#, C++, Python, Go, modern JavaScript.</li>
+<li>Must be able to travel 20-40% to clients and other Woolpert offices.</li>
+</ul>
+<p><b>Additional Skills</b></p>
+<p>
+The following skills would make you an even stronger member of the team:</p>
+<ul>
+<li>Technical sales experience of any kind.</li>
+<li>Relevant Google Certified Professional certification.</li>
+<li>CI/CD deployment to Cloud/containerized environments.</li>
+<li>Knowledge of geospatial platforms, libraries, and tools, such as ArcGIS, GeoServer, QGIS, GDAL, OpenLayers, MapBox, Leaflet, CARTO, Google Maps APIs.</li>
+</ul>
+<p>ABOUT WOOLPERT:</p>
+<p><b>
+Cloud</b></p>
+<p>
+Woolpert, Inc. is a cutting-edge national architecture, engineering and geospatial (AEG) firm that delivers value to clients by blending engineering excellence with innovative technology and geospatial applications. In 2018, Woolpert was named Google’s Global Maps Partner of the Year. Woolpert was recently certified as an Employer of Choice by Great Place To Work®, we believe great companies are built from exceptional people and amazing clients.</p>
+<p>
+Woolpert/Google Partnership: https://woolpert.com/google/</p>
+<p><b>
+Leading Innovation and Integrity...</b></p>
+<p>
+Woolpert is the fastest-growing architecture, engineering and geospatial (AEG) firm in the United States, delivering value to clients in all 50 states and around the world by strategically blending engineering excellence with leading-edge technology and geospatial applications. With a dynamic research and development department, Woolpert works with inventive business partners such as Google and Esri; operates a fleet of planes, sensors, and unmanned aircraft systems (UAS); and continually pushes industry boundaries by working with advanced water technologies, asset management, building information modeling (BIM) and sustainable design. The firm, which is among the ENR’s Top 100 Design Firms, supports a mission to help its clients' progress and become more progressive. For over 100 years and with 25 offices across the U.S., Woolpert serves federal, state and local governments; private and public companies and universities; energy and transportation departments; and the U.S. Armed Forces.</p>
+<p>
+Learn more about our “Great Place To Work” certification: http://reviews.greatplacetowork.com/woolpert-inc</p>
+</div></div>

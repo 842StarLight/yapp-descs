@@ -1,0 +1,98 @@
+<h2>Senior SalesForce Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Alternate Locations: Radnor, PA (Pennsylvania)<br>
+<br>
+Relocation assistance is not available for this opportunity.<br>
+<br>
+Level: P4<br>
+<br>
+Requisition #60279<br>
+<br>
+<b>About The Company</b><br>
+<br>
+Led by over 10,000 employees – including you – Lincoln Financial Group provides advice and solutions that help empower people to take charge of their financial lives with confidence and optimism. Today, more than 17 million customers trust our retirement, insurance and wealth protection expertise to help address their lifestyle, savings and income goals, as well as to guard against long-term care expenses.</div>
+<div><b>
+Role</b></div>
+<br>
+<div></div>
+<div>Lincoln’s IT Shared Services organization is adding a Senior Salesforce Developer to build new solutions and enhance current ones for Lincoln’s Field Distribution and Marketing organizations. This is an exciting opportunity work with Sales Cloud technologies with a strong team doing end to end Salesforce development. The right person will have worked in an enterprise based IT organization before supporting a large Sales and/or marketing organization that retain and create large amounts of customer data.</div>
+<br>
+<div></div>
+<div><b>Responsibilities</b></div>
+<br>
+<div></div>
+<div><div><ul>
+<li>Design, develop, test, and support custom applications using the declarative and programmatic capabilities of the Salesforce Platform.</li>
+<li>Implement and support solutions which include Salesforce in an ecosystem of multiple business-critical systems (cloud and on-prem).</li>
+<li>Maintain strong working knowledge of the latest Salesforce features and releases, and continually improve learning through Trailhead modules or certification.</li>
+<li>Handle changing priorities, manage multiple tasks and work within tight time frames and deadlines.</li>
+<li>Collaborate and communicate effectively with team members to meet delivery objectives.</li>
+<li>Participate and engage in Agile methods, ceremonies, and best practices.</li>
+<li>Analyze and understand abstract use cases or business requirements, with the ability to transform them into technical deliverables.</li>
+<li>Communicate and present technical solutions or ideas to a wide audience of technical and non-technical roles, including leadership.</li>
+<li>Provides subject matter expertise to team members and applicable internal/external stakeholders on complex assignments/projects for his/her assigned area(s) of responsibility.</li>
+<li>Provides direction on complex assignments, projects, and/or initiatives to build and enhance the capability of his/her assigned area(s) of responsibility.</li>
+<li>Provides direction to development teams in areas of project scheduling, technical direction and application development standards.</li>
+<li>Assesses and measures solution design impacts on IT infrastructure capacity, application architecture standards, future maintenance/support needs, and bottom line cost-benefits in consultation with appropriate internal stakeholders.</li>
+<li>Serves as a subject matter expert &amp;/or provides direction on the design &amp; development of applications systems while demonstrating an understanding of the broad implications &amp; financial impacts of proposed solutions on operational &amp; infrastructure support.</li>
+<li>Serves as an escalation point for issue resolution.</li>
+<li>Analyzes, designs, codes, debugs, integrates and tests complex software application solutions for systems.</li>
+<li>Identifies potential application solutions by understanding complex business/technical problems and opportunities.</li>
+<li>Provides input on the development of project plans, test plans and implementation plans including determining estimates on time frames, needed resources and budgets.</li>
+<li>Creates more complex technical specifications from business requirements/business specifications.</li>
+<li>Provides expertise regarding the integration of applications across the business.</li>
+<li>Partners with internal stakeholders to ensure that systems are designed, developed and implemented from a business point of view.</li>
+<li>Investigates and resolves complex problems including providing support for production systems in a timely manner.</li>
+<li>Proactively identifies problems and presents/develops complex solutions</li>
+<li>Communicates effectively with internal stakeholders and management.</li>
+<li>Serves as a technical expert and provides complex technical guidance to junior team members.</li>
+<li>Ensures that system improvements are successfully implemented.</li>
+<li>Serves as lead technical resource to ensure completion of development tasks.</li>
+<br>
+</ul></div></div>
+<div></div>
+<div><b>Education</b></div>
+<br>
+<div></div>
+<div><div><ul>
+<li>4 Year/Bachelor's degree or equivalent work experience (4 years of experience in lieu of Bachelor's) in Computer Science, Computer Information Systems, Information Systems, Information Technology or Computer Engineering or equivalent work experience (Minimum Required)</li>
+<br>
+</ul></div></div>
+<div></div>
+<div><b>Experience</b></div>
+<br>
+<div></div>
+<div><div><ul>
+<li>Highly Desirable Salesforce Certifications (at least one): Platform Developer I, Platform Developer II, Salesforce Certified Administrator</li>
+<li>Strong knowledge of the Salesforce Platform capabilities, including Sales and Service Cloud.</li>
+<li>Strong experience building custom Salesforce UIs, including VisualForce and Lightning Design System.</li>
+<li>Strong experience writing and testing Apex triggers, controllers, classes, and interfaces.</li>
+<li>Strong experience with the Salesforce APIs: SOAP, REST, and Metadata.</li>
+<li>Experience developing custom Lightning Components and working knowledge of one framework.</li>
+<li>Experience with HTML, JavaScript, and CSS.</li>
+<li>Experience with web service architecture, authentication, and security best practice.</li>
+<li>Experience with ETL and batch data integration.</li>
+<li>Financial services experience is a plus.</li>
+<li>5 – 7+ Years’ experience in application development that directly aligns with the specific responsibilities for this position (Required) #LI-POST</li>
+</ul></div></div>
+<div>#LI-AE2</div>
+<br>
+<div></div>
+<div>This position may be subject to Lincoln’s Political Contribution Policy. An offer of employment may be contingent upon disclosing to Lincoln the details of certain political contributions. Lincoln may decline to extend an offer or terminate employment for this role if it determines political contributions made could have an adverse impact on Lincoln’s current or future business interests, misrepresentations were made, or for failure to fully disclose applicable political contributions and or fundraising activities.<br>
+<br>
+Any unsolicited resumes/candidate profiles submitted through our web site or to personal e-mail accounts of employees of Lincoln Financial Group are considered property of Lincoln Financial Group and are not subject to payment of agency fees.<br>
+</div>
+<div></div>
+<div>Lincoln Financial Group ("LFG") is an Equal Opportunity employer and, as such, is committed in policy and practice to recruit, hire, compensate, train and promote, in all job classifications, without regard to race, color, religion, sex (including pregnancy), age, national origin, disability, sexual orientation, gender identity and expression, veterans status, or genetic information. Opportunities throughout LFG are available to employees and applicants and are evaluated on the basis of job qualifications. We have a drug free work environment and we perform pre-employment substance abuse testing.</div>
+<br>
+<div></div>
+<div>This Employer Participates in E-Verify. See the E-Verify notices.</div>
+<br>
+<div></div>
+<div>Este Empleador Participa en E-Verify. Ver el E-Verify avisos.</div>
+<br>
+<p><br>
+<b>Nearest Major Market: </b>Philadelphia
+<br>
+<b>Job Segment: </b>Developer, Information Systems, Computer Science, Application Developer, Testing, Technology</p>
+</div></div>

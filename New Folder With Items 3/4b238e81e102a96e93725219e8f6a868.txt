@@ -1,0 +1,69 @@
+<h2>Solutions Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p>Solutions Engineer</p>
+<p>
+As a Solutions Engineer at PierianDx, you will be part of the industry-leading team designing and implementing software solutions for clinical laboratories. You will work closely with Implementation Managers, Software Developers and Support Specialists in defining and implementing software customizations and system integrations for our clients. Your contributions will enable clinical laboratories and physicians to deliver patient-specific diagnosis and treatments based on an individual’s DNA.</p>
+<h1 class="jobSectionHeader"><b>
+Responsibilities</b></h1>
+<ul>
+<li>
+<p>You will design and implement software customizations for our customers’ clinical laboratory reporting workflows in collaboration with Implementation Managers.</p>
+</li>
+<li>
+<p>You will leverage RESTful APIs and HL7 to implement integrations between client systems and PierianDx’s cloud-based software solutions.</p>
+</li>
+<li>
+<p>You will become a technical expert in our software solutions to troubleshoot and resolve Tier-II technical support issues in collaboration with Support Specialists.</p>
+</li>
+<li>
+<p>As necessary, you will contribute to training programs and documentation for end users.</p>
+</li>
+</ul>
+<h1 class="jobSectionHeader"><b>Required Experience</b></h1>
+<ul>
+<li>
+<p>Knowledge and ability to leverage scripting languages (e.g. javascript, bash) to automate processes</p>
+</li>
+<li>
+<p>Familiarity with of Docker and containerization technologies</p>
+</li>
+<li>
+<p>Experience with scanning through application logs for troubleshooting errors.</p>
+</li>
+<li>
+<p>Familiarity with database technologies and the ability to write efficient queries in SQL and MongoDB</p>
+</li>
+<li>
+<p>You have created and/or leveraged RESTful APIs to write fast, responsive code that would solve an otherwise complex problem</p>
+</li>
+<li>
+<p>You have experience designing solutions that remove overhead and boilerplate processes</p>
+</li>
+<li>
+<p>Good understanding of networking concepts and experience with setting up VPN tunnels and troubleshooting network related issues.</p>
+</li>
+</ul>
+<h1 class="jobSectionHeader"><b>Preferred Experience</b></h1>
+<ul>
+<li>
+<p>Experience with Health Information Technology including Electronic Medical Record Systems (EMR) or Laboratory Information Management Systems (LIS)</p>
+</li>
+<li>
+<p>Experience in a customer-facing role such as technical support or sales engineering</p>
+</li>
+<li>
+<p>Experience with cloud technologies including Amazon Web Services</p>
+</li>
+<li>
+<p>Software development with Java, Spring and Spring Cloud CLI</p>
+</li>
+</ul>
+<h1 class="jobSectionHeader"><b>Education</b></h1>
+<ul>
+<li>
+<p>Bachelors or Masters of Computer Science or related</p>
+</li>
+</ul>
+<h1 class="jobSectionHeader"><b>About PierianDx</b></h1>
+<p>Every year millions of people bet their lives on precision medicine. PierianDx is on a mission to make sure that bet pays off. At PierianDx we empower progressive health institutions and diagnostic laboratories to build world-class precision medicine programs. Our industry-leading molecular genomics technologies and expertise deliver the most integrated, trusted, and collaborative approach across the clinical care spectrum. From genomic sequencing and biomedical informatics in the laboratory to reporting and decision support at the patient’s bedside, we drive the adoption of genomics in clinical care and accelerate the fight against cancer and other diseases. For more information, visit www.pieriandx.com or @PierianDx on Twitter.</p>
+</div></div>

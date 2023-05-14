@@ -1,0 +1,89 @@
+<h2>Solution Architect - Commercial Sales</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<h1 class="jobSectionHeader"><b>Description</b></h1>
+<br>
+<div>
+Are you an innovative, technical leader who is curious and thrives on raising the bar? Do you have an innate ability to influence and lead others? If so, you'll be interested in learning about our Solution Architect position here at Corteva Agriscience.<br>
+</div>
+<div></div>
+<br>
+<div>In this role you will use your deep technical expertise to design and build technology solutions in service to our business needs and strategic insights to drive future direction. You'll work in a collaborative, team-environment with a supportive leader, and you'll interact with a variety of stakeholders from vendors, to business partners, to Technical Product Managers, and more.</div>
+<div></div>
+<br>
+<div>
+Interested in learning more? Listed below are the main responsibilities of this role:</div>
+<ul>
+<li><div>
+Act as technical visionary and strategist for Corteva’s commercial sales product family and interfacing applications by working with other Solution Architects and Primary Developers.</div></li>
+<li><div>
+Ensure defined architecture and technology roadmap aligns with enterprise standards.</div></li>
+<li><div>
+Create and maintain architectural design documentation in line with Enterprise Architecture best practices and Corteva’s business objectives and product vision.</div></li>
+<li><div>
+Promote the company's technology brand through creative thinking and constantly raising the bar of what's possible.</div></li>
+<li><div>
+Act as a trusted advisor to the Technical Product Manager by seeing the big picture and translating business strategies into actionable technical roadmaps and project plans.</div></li>
+<li><div>
+Analyze new requests, define non-functional requirements, and create solution design and architecture.</div></li>
+<li><div>
+Design user-focused and innovative solutions involving a mixture of custom and packaged systems.</div></li>
+<li><div>
+Partner with development teams to deliver project objectives through agile delivery by offering expertise in solution design.</div></li>
+<li><div>
+Ensure recommended architecture and design results in a reliable, high-quality technical solution.</div></li>
+<li><div>
+Partner with Security and Privacy team to ensure solutions are configured with best practices in mind.</div></li>
+<li><div>
+Identify risks or issues with technical solution and design which may impact realization of project benefits and provides guidance and support to stakeholders in making good decisions to resolve or mitigate potential risks or delays to the project.</div></li>
+<li><div>
+Stay informed of releases and acquisitions of packaged commercial software used to help drive the Commercial Sales product roadmap.</div></li>
+<li><div>
+Ensure development of application follows defined architecture.</div></li>
+</ul>
+<h1 class="jobSectionHeader"><b>
+Qualifications</b></h1>
+<br>
+<div>
+Experience and Education Requirements</div>
+<ul>
+<li><div>
+Bachelor’s degree in Computer Science, Software Engineering, Information Technology, Business Administration, Engineering, or related field of study paired with 5+ years of technology experience.</div></li>
+<li><div>
+Equivalent amounts work experience may be considered in lieu of education.</div></li>
+</ul>
+<div></div>
+<br>
+Position Requirements<ul>
+<li><div>
+Experience designing solutions in a cloud-first environment</div></li>
+<li><div>
+Knowledge of micro-services</div></li>
+<li><div>
+Experience with data migrations and integrations with enterprise-level applications</div></li>
+<li><div>
+Experience with mobile application development and web services</div></li>
+<li><div>
+Familiar with web UI frameworks such as Angular JS, React, and Vue.</div></li>
+<li><div>
+Familiar with mobile frameworks such as Xamarin, React Native, and Flutter.</div></li>
+<li><div>
+Familiar with CI/CD and Infrastructure as Code</div></li>
+<li><div>
+Experience working with Agile methodologies</div></li>
+<li><div>
+Partner effectively with internal and external stakeholders</div></li>
+<li><div>
+Excellent teamwork, communication (oral and written) and collaboration skills</div></li>
+<li><div>
+Excellent leadership and influencing skills</div></li>
+</ul>
+<div>
+<br>
+As the world’s first dedicated agriculture start-up, we’re building a culture that stays curious, thinks differently, acts boldly and takes a stand on what’s right for our customers, our co-workers, our partners and our planet. We know we’ve got big challenges to solve - we hope you'll be part of the solution. Whether you are in the lab or on the farm, teaching classes or crafting code - we need bold thinkers and fearless doers to bring their best to the job at hand. Every role at Corteva includes an opportunity to grow what matters.</div>
+<div></div>
+<br>
+<ul><li>LI-MA1</li></ul>
+</div>
+<div></div>
+</div>

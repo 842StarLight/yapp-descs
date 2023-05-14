@@ -1,0 +1,42 @@
+<h2>Junior Information Systems Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<ul>
+<p>The Junior IS Analyst will be a member of the Information Systems team and responsibilities will include building different reporting solutions to improve / modify the company processes and provide support to end users. Your primary responsibilities will be to design and develop reporting solutions, and to coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and quality product is essential. The successful applicant will have strong attention to detail, a drive to learn, and a demonstrated orientation toward continuous improvement. This position is based at USNR’s office in Woodland, WA.</p>
+<div></div>
+<p>
+Qualifications</p>
+<li>
+Able to analyze, define and understand business processes</li>
+<li>
+Reporting tools such as SSRS, Crystal Reports, Excel, Power BI, or similar platforms.</li>
+<li>
+Very good communication skills</li>
+<li>
+Creative and be able to “think outside the box” to find a solution</li>
+<li>
+Able to research by using available resources (Google, blogs, etc.)</li>
+<li>
+Computer science degree or equivalent experience in the domain</li>
+<li>
+0-5 year(s) of experience with computer systems</li>
+<li>
+Ability to travel to USNR global facilities</li>
+<div></div>
+<p>
+Responsibilities</p>
+<li>
+Microsoft Office productivity software including Word, Excel, PowerPoint, SharePoint, Project</li>
+<li>
+Understanding the roles of sales orders, purchase orders, production orders, bills of material, production routes, invoices, inventory, etc. within a business process context</li>
+<li>
+Microsoft SQL Server or other database applications</li>
+<li>
+Other duties as assigned by Supervisor</li>
+<li>
+Helps identify user requirements, find existing solutions, or propose new solutions</li>
+<li>
+Experience writing scripts to automate processes (VB Script, Excel macros, PowerShell, Python, Microsoft Flow, Access, etc.)</li>
+</ul>
+<div></div>
+</div>

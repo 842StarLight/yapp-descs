@@ -1,0 +1,44 @@
+<h2>SaaS Solutions Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>GAN is transforming the way the world’s leading corporations deal with corruption, compliance and regulatory risk. We provide compliance teams around the globe with a powerful, intuitive software platform for managing all their compliance activities in one place.</p>
+<p>
+We’re looking for a Solutions Engineer to be the glue between our Customer Success and Engineering teams. You’ll join our growing, international team in our NYC office.</p>
+<p>
+This is an opportunity to support the development of a complex web application, which will let you apply and develop your technical as well as your communication skills. Your main focus will be supporting our customers on a deeper technical level, and take on projects like internal system implementations, integration projects etc.</p>
+<p>
+Reducing friction and bridging the gap between technical and non-technical stakeholders is extremely important throughout the customer experience. In order to bridge that gap, you’ll partner with members of the customer success team during technical calls with our customers. You’ll be responsible for answering all functional and technical questions pertaining to the GAN platform. You will also advocate for our customers by speaking to them to learn about their pain points. You’ll then strategize with the Product Implementation Managers to figure out potential solution that best alleviates these pain points.</p>
+<br>
+<p></p>
+<p><b>
+What you'll do</b></p>
+<ul>
+<li>Assist our Customer Success team and customers directly with technical projects, such as setting up SSO, using GAN’s customer facing API’s and other integrations</li>
+<li>Partner with Implementation Managers to assist with the customer onboarding process</li>
+<li>Become the trusted advisor of our customers’ technical stakeholders</li>
+<li>Scope, manage, and deliver solution specifications</li>
+<li>Take ownership of post-sales technical issues, working with cross-functional teams to document problem resolution steps and troubleshooting procedures</li>
+<li>Conduct product trainings and demo new features to increase product adoption</li>
+<li>Specify, document and solve issues (bugs) together with the rest of the development team</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>What we're looking for</b></p>
+<ul>
+<li>Passion for startups, software, and SaaS products</li>
+<li>B2B customer facing experience with a SaaS company</li>
+<li>Self-driven, proactive problem solver</li>
+<li>Basic experience with and high interest in software development</li>
+<li>Strong experience working with APIs, JSON, HTML, CSS and databases</li>
+<li>Familiarity with Jira, MongoDB, PostgreSQL/Postgres and AWS</li>
+<li>Experience with SSO integrations and identity providers such as Okta, Azure, etc.</li>
+<li>Experience with software implementation and support is a plus</li>
+<li>Experience providing technical consultations to executive level decision makers</li>
+<li>Strong critical thinking skills with demonstrated ability to solve technical problems</li>
+<li>Outstanding verbal and written communication skills</li>
+<li>Bachelor’s Degree in Business, Statistics, CS/ IS or similar fields</li>
+</ul>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,65 @@
+<h2>Sr. Corporate Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>We are looking for a talented Senior Corporate Data Analyst who will support corporate business intelligence, product performance tracking, and bench-marking as well as functional area strategic inquiries. The role will be proactive in delivering business intelligence to senior management based on both internal and industry data.</p>
+<p>Using high-level analytical skills, this person will support our corporate data inquiry initiatives. This role will respond to data requests as well as create reports and dashboards within our data visualization tool. This individual will play a pivotal role in driving the data needs for multiple areas within the business (Executives, Regional VP’s, Sales Staff and the Management Team).</p>
+<br>
+<p><br>
+<b>What You’ll Be Doing:</b></p>
+<br>
+<p><br>
+<b>Analysis / Business Intelligence</b></p>
+<ul><li> Work closely with senior management to analyze and interpret trends, identifying opportunities to increases sales volume and productivity</li></ul>
+<ul><li> Develop forecasting models to forecast daily, weekly, and monthly operation performance</li></ul>
+<ul><li> Provide marketing team data for leading industry publications to promote the company’s role in the industry</li></ul>
+<ul><li> Create and maintain enterprise Business Intelligence Dashboards using PowerBI.</li></ul>
+<ul><li> Create pricing models to allow for “what-if” analysis</li></ul>
+<ul><li> Monitor dealer market activity through use of AutoCount data</li></ul>
+<ul><li> Monitor credit union activity through use of NCUA 5300 Call Report data</li></ul>
+<br>
+<p></p>
+<p><b>Report Writing / Documentation</b></p>
+<ul><li> Document business logic and definitions to establish data governance</li></ul>
+<ul><li> Work with users to determine report and dashboard requirements</li></ul>
+<ul><li> Maintain report, field, calculation, and term descriptions within company documentation tool.</li></ul>
+<ul><li> Work with development and product teams insuring required report data will be captured.</li></ul>
+<ul><li> Communicate when changes are made to existing reports or new reports are released.</li></ul>
+<ul><li> Assist accounting team with financial reporting through use of Power BI</li></ul>
+<ul><li> Automate manual reporting tasks (i.e. CUSP Billing report, CU Solutions Leadership report, Strategic Alliance Report for dealer groups etc…)</li></ul>
+<br>
+<p></p>
+<p><b>Corporate Data Support</b></p>
+<ul><li> Assist data engineering with transformation portion of ETL</li></ul>
+<ul><li> Train users on reports and reporting tools (Quick Reports, Qlik Applications, etc.)</li></ul>
+<ul><li> Answer questions regarding reports and the data contained in the reports.</li></ul>
+<br>
+<p></p>
+<p><b>Teamwork</b></p>
+<p>Work to foster and enhance teamwork within the organization. Provide the highest quality products and services to each other and our clients. Consistently promotes and models the culture and values of CUDC. Demonstrates the behaviors aligned with each value with clients and employees across the organization.</p>
+<br>
+<p><br>
+<b>The Ideal Candidate:</b></p>
+<p></p>
+<ul><li> Understanding of both Indirect and Direct lending. Previous experience with an LOS. Ability to interpret data to identify trends that will be communicated to upper management.</li></ul>
+<ul><li> Bachelor’s degree in business or related field (MBA a plus)</li></ul>
+<ul><li> Preferably 2+ years of data analysis experience and report writing</li></ul>
+<ul><li> Strong analytical and problem solving skills</li></ul>
+<ul><li> Strong SQL skills</li></ul>
+<ul><li> Ability to identify automation opportunities</li></ul>
+<ul><li> Experience representing data visually</li></ul>
+<ul><li> Strong communication skills, both written and verbal</li></ul>
+<ul><li> Ability to interface with executive team</li></ul>
+<ul><li> Excellent teamwork skills</li></ul>
+<ul><li> Self-motivated and able to work with limited direction</li></ul>
+<br>
+<p></p>
+<p><b>About CU Direct</b></p>
+<p></p>
+<p>CU Direct helps credit unions, dealers and affinity groups succeed.</p>
+<br>
+<p></p>
+<p>Since 1994, CU Direct has been the leading advocate for credit unions. We are credit union owned, credit union focused, and CUSO driven. Through exceptional products and services, we create exponential value for credit unions. Our broad range of innovative, industry leading lending solutions and technology help them achieve their lending goals and to be more successful.<br>
+If you've got the skills, we'd love to talk to you!</p>
+</div>
+<p></p>
+</div>

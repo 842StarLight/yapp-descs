@@ -1,0 +1,84 @@
+<h2>Platform Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<b>OVERVIEW</b><p>
+Sentry Insurance is seeking an IT professional to join our team as a collaboration Platform Engineer. Our Platform Engineers provide the installation, administration, and support of collaboration technologies. They follow standard practices and procedures in analyzing situations and troubleshooting problems, participate in the planning of large-scale system projects through vendor comparison and cost analysis and assist in the development of technical standards and interface applications, evaluation of new products and problem resolutions.
+</p>
+<b>WHAT YOU'LL DO</b><p>
+As a collaboration Platform Engineer, you will assist with configuration of messaging and collaboration platforms particularly Microsoft Unified Communications/O365 platform product families including, Exchange and Exchange Online in a hybrid environment, Skype for Business, Teams as well as mobile device management solutions, and Microsoft SharePoint Online. Additionally, you’ll:</p>
+<ul>
+<li>Design, implement and support enhanced portfolio of collaboration systems platforms and solutions.</li>
+<li>Implement and administer the following real-time collaboration services:
+<ul>
+<li>Instant Messaging and Presence (internal and external)</li>
+<li>Group Chat (persistent channel based communication)</li>
+<li>Web Conferencing (internal and external)</li>
+<li>Mobile Collaboration tools (on iPhone/iPad and Android)</li>
+</ul>
+</li>
+<li>Execute best practices in implementing Skype for Business and Teams including establishing QoS policies.</li>
+<li>Provide detailed input on cost analyses, system design, testing, and maintenance, and documentation of new and existing collaboration platforms and services.</li>
+<li>Additional responsibilities include new system deployments and upgrades of existing environment.
+</li>
+<li>Work closely with other infrastructure areas to enhance the end to end collaboration service offering.</li>
+<li>Respond to platform problems by analyzing the problem, formulating a solution, and changing or repairing the application to avoid costly interruption of service to users.</li>
+<li>Monitor existing hardware, software, services and/or system performance and recommends effective utilization of resources.
+</li>
+<li>Investigate potential system performance problems and implement emergency recovery procedures.</li>
+<li>Research, tests and recommends implementation schedules for products
+</li>
+</ul>
+<b>WHAT IT TAKES</b><ul>
+<li>Bachelor’s Degree in Computer Science, Engineering, or related discipline or equivalent experience</li>
+<li>2+ years of related work experience including supporting Windows Server operating systems and their configurations to support O365 platforms and other 3rd party integrations.</li>
+<li>Strong technical, analytical and communication skills.</li>
+<li>Core competencies (IM&amp;P, Conferencing, Enterprise Voice, Video and Mobility) for the Microsoft Universal Communications suite including the configuration, optimization, migration and integration of 3rd party products in a large multi-site enterprise.</li>
+<li>Prior experience with traditional on-prem solutions, Hybrid Solutions, Cloud solutions and the operational experiences of managing major upgrades and complex migrations.</li>
+<li>Experience with Microsoft Identity Manager, Azure AD Connect and ADFS a plus.</li>
+</ul>
+<br>
+<b>WHAT YOU'LL RECEIVE</b><p>
+There is a reason why Sentry made Forbes’ list of America’s Best Midsize Employers in 2017, 2018, and 2019. At Sentry, we recognize there are many factors that contribute to your overall satisfaction both at work, and in your personal life. So, we provide a perfect mixture of compensation, benefits, company culture, and resources to ensure your everyday happiness. Below are some benefits that you’ll receive.
+</p>
+<ul>
+<li>
+<b>Competitive compensation</b> to reward you for your hard work every day.
+</li>
+<li>Generous <b>Paid-Time Off</b> Plan for you to enjoy time out of the office.
+</li>
+<li>401(K) plan with a dollar for dollar match on your <b>first eight percent</b>, plus immediate vesting to help fund your future.
+</li>
+<li>Group Medical, Dental, Vision and Life <b>insurance</b> to encourage a healthy lifestyle.
+</li>
+<li>Pretax Dependent Care and Health Expense <b>Reimbursement Accounts</b> to ease taxes on health spending.</li>
+<li>Extensive <b>Work-Life Resources</b> to lend a helping hand.
+</li>
+<li>
+<b>Volunteer Time Off</b> so you can dedicate time to the community.
+</li>
+<li>Sentry Foundation <b>gift matching program</b> to encourage charitable giving.</li>
+</ul>
+<b>
+HOW YOU’LL APPLY</b><p>
+If you are interested in joining Sentry’s team, select the one position that you are most interested in being considered for and complete your online application details. If you have applied with us before, you will only need to provide your email address and password. If this is your first time applying, you’ll need to create an account. <b>Please complete your application and upload your resume online.</b></p>
+<b>
+ABOUT SENTRY</b><div>
+All of us at Sentry—more than 4,000 associates—have various talents, skills, and backgrounds. We work together to deliver on our promises to our policyholders every day. We’re proud to offer a full line of property, casualty, and life insurance products to help protect businesses, cars, homes, lives, and retirement income.<br>
+</div>
+<div></div>
+<div>Our headquarters is in Stevens Point, Wisconsin, with claims and service offices located throughout the United States. From sales to claims, and information technology to marketing, we enjoy a rewarding and challenging work environment with opportunities for ongoing professional development and growth.<br>
+</div>
+<div></div>
+<div>Our bright future is built on a long track record of success. We got our start in 1904 and have been helping businesses succeed and protect their futures ever since. Because of the trust placed in us, we’re one of the largest and financially strongest mutual insurance companies in the United States. We’re rated A+ by A.M. Best, the industry's leading rating authority.<br>
+</div>
+<div></div>
+<div>Get ready to own your future at Sentry. Opportunities await.</div>
+<b>
+EQUAL EMPLOYMENT OPPORTUNITY</b><p>
+It is our policy that there be no discrimination in employment based on race, color, national origin, religion, sex, disability, age, marital status, or sexual orientation.</p>
+<b>
+TALENT ACQUISITION SPECIALIST</b><p>
+Thank you for your interest in Sentry!</p>
+<p><b>
+Laura Kaczmarski</b><br>
+LAURA.KACZMARSKI@SENTRY.COM</p>
+</div></div>

@@ -1,0 +1,65 @@
+<h2>Salesforce Administrator, Contract/Freelance</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>OVERVIEW OF THE COMPANY
+</b></p>Fox Corporation
+<p></p>Under the FOX banner, we produce and distribute content through some of the world’s leading and most valued brands, including: FOX News, FOX Sports, the Fox Network, and the FOX Television Stations. We empower a diverse range of creators to imagine and develop culturally significant content, while building an organization that thrives on creative ideas, operational expertise and strategic thinking.
+<p></p>
+<h2 class="jobSectionHeader"><b>JOB DESCRIPTION
+</b></h2>
+<p>We are looking for a Salesforce Adminstrator on a contract/freelance basis to join our team of designers and developers to design, architect, and building cutting edge solutions on the Salesforce platform. You will have the opportunity to provide support with development and integration for a number of Salesforce projects.
+</p>
+<p></p>
+<p><b>A SNAPSHOT OF RESPONSIBILITIES
+</b></p>
+<div>
+<ul>
+<li>Build custom Salesforce apps as well as customize and develop enhancements to Sales Cloud
+</li>
+<li>Provide general support, administration, and maintenance of Salesforce applications.
+</li>
+<li>Balance building custom applications with utilizing standard Salesforce technologies that minimize need for custom development
+</li>
+<li>Deploy scheduled builds to production utilizing ANT or Change Sets
+</li>
+<li>Build and support integrations between Salesforce and several Oracle and SQL based solutions
+</li>
+<li>Maintain configuration for profiles, roles, security, workflow rules, approval processes, etc.
+</li>
+<li>Assist with User Account creation and data migration
+</li>
+<li>Develop technical documentation
+</li>
+<li>Interact with other Technology teams throughout software lifecycle
+</li>
+</ul>
+<p></p>
+<p><b>WHAT YOU WILL NEED
+</b></p>
+</div>
+<ul>
+<li>Proficiency in SFDC development environment including Force.com, Migration Tools, SOSL, SOQL and Web Services
+</li>
+<li>5 years of experience with Salesforce Platform and Sales Cloud
+</li>
+<li>5 years of experience with Apex and Visual Force
+</li>
+<li>2-3 years of experience with Salesforce and Sales Cloud administration and configuration
+</li>
+<li>Strong Expertise in configuring Custom Objects &amp; Fields, Validation Rules, Workflow's, Process Builder, Flows &amp; Approval Processes &amp; Reports and Dashboards
+</li>
+<li>2-3 years of experience in deployment/ packaging using Change Sets, Eclipse, Ant scripts &amp; Metadata API
+</li>
+<li>4-5 years of experience in designing and developing Integration Solutions using Web Service API's, REST and SOAP API 's
+</li>
+<li>Experience with data loads using Bulk API's
+</li>
+<li>Experience with full cycle SFDC implementation, from design through deployments
+</li>
+<li>Knowledge of Agile methodology and sprint based project delivery
+</li>
+<li>Data modeling experience
+</li>
+</ul>
+<p></p>
+<p><i>We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law. We will consider for employment qualified applicants with criminal histories consistent with applicable law.</i></p>
+</div></div>

@@ -1,0 +1,25 @@
+<h2>Data Analyst</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div>JOB SUMMARY<br>
+The Data Analyst position will work under the direction of the Pricing Manager of Structured Settlements. The Data Analyst will be responsible for creating, maintaining, and continuous improvement of key wholesale analysis and reports (using VBA in Excel) and working with internal partners on strategies.<br>
+<br>
+RESPONSIBILITIES AND DUTIES<br>
+<ul>
+<li>Export and Import large amounts of data within the database to create and update reports</li>
+<li>Filter and “clean-up” data by reviewing reports and printouts to locate and correct problems</li>
+<li>Collaborate with sales department to drive alignment around business goals and pricing initiatives</li>
+<li>Improve upon existing reporting by incorporating Excel VBA (and other automation)</li>
+<li>Collect and analyze data requests from management, Understand annuities and time value of money in order to compile/summarize data</li>
+<li>Perform other duties as assigned.</li>
+</ul>
+<br>
+EDUCATION, SKILL &amp; EXPERIENCE REQUIREMENTS<br>
+<ul>
+<li>Bachelor's degree or higher in business analytics, statistics, economics, finance, or related field.</li>
+<li>Minimum of 2 years' experience in analytics preferred.</li>
+<li>Intermediate computer skills including MS Office with advanced skills in Excel with knowledge of spreadsheet functionality including v-lookups, VBA, pivot tables, macros, charts, and creating graphs.</li>
+<li>Strong attention to detail and a passion for problem solving.</li>
+<li>Ability to multi-task and prioritize effectively in a fast paced environment</li>
+<li>High degree of integrity and honesty</li>
+<li>Prior Salesforce (or similar CRM) and Cloudingo experience is a plus</li>
+</ul>
+</div></div></div>

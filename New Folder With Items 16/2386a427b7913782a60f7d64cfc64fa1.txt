@@ -1,0 +1,106 @@
+<h2>Software Engineering Manager / Manager of Software Engineering</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><i>Medidata: a great place to work; a great place to stay</i></p>
+<p></p>
+<br>
+<p>
+Medidata is leading the digital transformation of life sciences with the world's most-used platform for clinical development, commercial and real-world data. Powered by artificial intelligence and delivered by #1 ranked industry experts, the Intelligent Platform for Life Sciences helps pharmaceutical, biotech, medical device companies and academic researchers accelerate value, minimize risk and optimize outcomes. Medidata serves more than 1,000 customers and partners worldwide and empowers more than 100,000 certified users every day to create hope for millions of patients. Discover the future of life sciences: www.mdsol.com<br>
+</p>
+<p></p>
+<p>We know that diverse teams win and are fully committed to selecting leaders and employees that represent the markets in which we operate. We are still led by our Co-founders, Tarek Sherif and Glen de Vries, and have global operations in US, Europe and Asia with over 2000 employees.</p>
+<p></p>
+<p><b>
+Your Mission:</b></p>
+<p>
+Medidata is looking for an experienced, hands-on engineering manager to lead a team of engineers to design, implement, and enhance new features and functionality in Medidata’s Medical Coding Service - Coder. Medical coding is a critical piece of the clinical trial process and part of Medidata’s strategy to grow to over one billion in revenue.</p>
+<p></p>
+<p>
+Coder is a mature, single-instance, multi-tenant web service supporting hundreds of clinical trials. Our application is built with C#, leverages Microsoft’s SQL server database and is hosted in AWS. Our front end uses Asp.NET, HTML/CSS, Bootstrap and AngularJS. As an engineering manager on Coder, you'll be working with the engineering team as well as product management to develop new features in response to market demand and improve the performance and scalability of the application to meet the rapidly growing user base.</p>
+<ul>
+<li><p>
+Provide clear, consistent leadership, management and mentoring for direct reports and the broader technology organization. Inspire, empower and motivate the team, leading by example.</p></li>
+<li><p>
+Help team members increase the breadth and depth of their technical and soft skills</p></li>
+<li><p>
+Perform personnel management tasks for all developers, including performance reviews, promotions, compliance with company policies, mentoring, and helping plan career growth</p></li>
+<li><p>
+Design and enhance features for a large-scale service environment using OO principles with a deep focus on performance, scalability, quality and extensibility</p></li>
+<li><p>
+Embrace test-driven development with complete code coverage and continuous integration</p></li>
+<li><p>
+Provide diagnostic support and fix bugs for service features</p></li>
+<li><p>
+Follow Medidata’s Standard Operating Procedures to ensure all software meets regulatory and company requirements</p></li>
+<li><p>
+Work with Agile team members, particularly Test and Product Management, to write clear, concise and comprehensive feature files</p></li>
+<li><p>
+Participate in Agile working practices such as daily scrum meetings, sprint planning meetings, reviews and retrospectives</p></li>
+<li><p>
+Consistently execute against a product roadmap to deliver multiple features across the Rave RTSM portfolio of service components enabling our clients to more effectively run their clinical trials</p></li>
+<li><p>
+Build relationships with product management, marketing, sales, and users to enable development teams to more effectively refine system requirements and size delivery efforts</p></li>
+<li><p>
+Share your knowledge and experience with a highly motivated and collaborative team regarding code reviews, software designs and all other engineering and business aspects</p></li>
+</ul>
+<p></p>
+<p><b>
+Your Competencies:</b></p>
+<ul>
+<li><p>
+Demonstrated ability as an effective mentor and coach who understands how to successfully integrate into a team of talented developers</p></li>
+<li><p>
+Proven technical leadership regarding feature design, enhancement and implementation within a single-instance multi-tenant service environment</p></li>
+<li><p>
+Ability to solve complex problems and provide solutions that can be applied in a service environment</p></li>
+<li><p>
+Full-Stack software development experience architecting and building robust distributed systems that scale well</p></li>
+<li><p>
+Proven track record of meeting schedules; clearly defining deliverables and timetables, with demonstrated ability to balance multiple priorities in complex environments and manage teams to successful project completion</p></li>
+<li><p>
+Strong analytic, communication and interpersonal skills</p></li>
+<li><p>
+Strong cross team collaboration skills</p></li>
+<li><p>
+Effective communication skills to relay technical information to various cross functional teams and clients</p></li>
+<li><p>
+Proven experience with the .NET framework building full stack, enterprise systems and transforming traditional monolithic frameworks into modern SOA architectures.</p></li>
+<li><p>
+Experience with cloud technologies, such as AWS and Azure</p></li>
+</ul>
+<p></p>
+<p><b>
+Your Education &amp; Experience:</b></p>
+<ul>
+<li><p>
+Bachelor’s degree required; or equivalent years of experience</p></li>
+<li><p>
+Experience in the software engineering discipline is required</p></li>
+<li><p>
+Experience as an engineering technical lead</p></li>
+<li><p>
+Experience with the Google apps suite, GitHub and MySQL are desired</p></li>
+<li><p>
+Excellent written and verbal communication skills</p></li>
+</ul>
+<p></p>
+<p>
+Medidata is making a real difference in the lives of patients everywhere by accelerating critical drug and medical device development, enabling life-saving drugs and medical devices to get to market faster. Our products sit at the convergence of the Technology and Life Sciences industries, one of most exciting areas for global innovation. Nine of the top 10 best-selling drugs in 2017 were developed on the Medidata platform.</p>
+<p></p>
+<p>
+Medidata’s solutions have powered over 14,000 clinical trials giving us the largest collection of clinical trial data in the world. With this asset, we pioneer innovative, advanced applications and intelligent data analytics, bringing an unmatched level of quality and efficiency to clinical trials enabling treatments to reach waiting patients sooner.</p>
+<p></p>
+<p>
+Medidata Solutions, Inc. is an Equal Opportunity Employer. Medidata Solutions provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability status, protected veteran status, or any other characteristic protected by the law. Medidata Solutions complies with applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities.<br>
+</p>
+<p><b>
+EEO Statement</b></p>
+<p></p>
+<p><b><i>
+US:</i></b><br>
+<i>Medidata Solutions, Inc. is an Equal Opportunity Employer. Medidata Solutions provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability status, protected veteran status, or any other characteristic protected by the law. Medidata Solutions complies with applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities.</i><br>
+<br>
+<i>#LI-AS1</i></p>
+</div>
+<p></p>
+</div>

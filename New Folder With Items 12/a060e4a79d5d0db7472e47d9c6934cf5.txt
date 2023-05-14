@@ -1,0 +1,58 @@
+<h2>Website Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<h3 class="jobSectionHeader"><b>Website Developer Job Description</b></h3>
+<br>
+<p>TFC Marketing is seeking a web developer who’s motivated to join our team! An ideal candidate is someone who is passionate about designing, coding and modifying websites and is an extremely effective communicator. The web developer position will play an essential role in designing and maintaining our client’s e-commerce and digital marketing proposals/initiatives.
+</p>
+<h4 class="jobSectionHeader"><b>Your Character:</b></h4>
+<ul>
+<li>Natural &amp; Effective Communicator</li>
+<li>Extremely Organized</li>
+<li>Handles Stress Well</li>
+<li>Respectful</li>
+<li>Good Teammate to other very talented people.</li>
+<li>Problem Solver</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Your Responsibilities:</b></h4>
+<ul>
+<li>Maintain existing E-commerce platforms and administer changes to the user interface and/or back-end data architecture database (Shopify, WordPress/WooCommerce, Magento)</li>
+<li>Design and develop new functionality enhancements for E-Commerce websites</li>
+<li>Assist the Marketing &amp; Sales team, from a technical aspect, in relation to all parts of E-commerce systems</li>
+<li>Identify and resolve systems issues across multiple platforms</li>
+<li>Perform quality assurance tests and find the cause of the problem when performance is not meeting standards. Required to execute and apply solutions for problems encountered.</li>
+<li>Stay current on emerging technologies and platforms with the goal of applying these technologies to current and future projects</li>
+<li>Perform updates and maintenance on high volume e-commerce website and servers</li>
+<li>Assist in troubleshooting E-Commerce EDI issues with partner sites</li>
+<li>Contribute to designing, implementing, and maintaining continuous integration and automated deployment systems and processes</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Qualifications Required:</b></h4>
+<ul>
+<li>Extensive knowledge of WordPress, Shopify, and Magento E-commerce software(s) and platform(s) required</li>
+<li>Strong command of web programming languages including JavaScript, HTML, HTML5, CSS3, JQuery, PHP, Ajax</li>
+<li>Expertise in server side .PHP programming</li>
+<li>Proficiency in database structure, design optimization, and maintenance in MySQL</li>
+<li>Strong UI/UX skills</li>
+<li>Experience setting up and operating PHP/MySQL test server</li>
+<li>Commitment to building and designing for excellent user experience</li>
+<li>Extensive knowledge of website design, hosting and routing on public domain</li>
+<li>Experience in diagnosing and troubleshooting issues, bug fixes and site improvements</li>
+<li>Experience in working in collaborative, cross-functional team environments</li>
+</ul>
+<h4 class="jobSectionHeader"><b>Tools You’ve Used:</b></h4>
+<ul>
+<li>Instapage</li>
+<li>WordPress</li>
+<li>Shopify</li>
+<li>Magento
+</li>
+<li>Instagram, Facebook, Twitter, Snapchat, YouTube, Reddit
+</li>
+<li>Google Drive &amp; Google Calendar</li>
+<li>Trello</li>
+<li>Slack</li>
+<li>DropBox</li>
+<li>Photoshop, Illustrator</li>
+<li>Sketch, inVision</li>
+<li>Premier, Lumen 5</li>
+</ul>
+</div></div>

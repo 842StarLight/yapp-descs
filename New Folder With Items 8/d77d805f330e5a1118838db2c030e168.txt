@@ -1,0 +1,68 @@
+<h2>Software Applications Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<p>Essential Role and Responsibilities</p>
+<ul>
+<li>
+Provide software support to customers and NAI Applications Engineers to support NAI board products for Windows, Linux and VxWorks operating systems.</li>
+<li>
+Create sample programs for customers utilizing NAI product software support kit and libraries.</li>
+<li>
+Assist customers in debugging application programs.</li>
+<li>
+Provide pre- and post-sales product information, advice, and technical assistance to prospects towards the goal of achieving new design wins.</li>
+<li>
+Via telephone and email correspondence with customer, understand project technical system requirements.</li>
+<li>
+Work with customers to identify software issues with NAI products.</li>
+<li>
+Advise and participate with the prospect during customer test and evaluation activities.</li>
+<li>
+Coordinate additional support activities and post-sales technical support with engineering departments.</li>
+<li>
+Communicate, internally, product challenges and customer specific requirements for the purpose of resolution.</li>
+</ul>
+<p>
+Qualifications and Education Requirements</p>
+<ul>
+<li>
+Bachelor of Science Degree in Computer Engineering or related discipline required.</li>
+<li>
+Minimum two-years of engineering and/or software programming experience.</li>
+<li>
+Experience with bus architectures (VME, cPCI, PCIe, VPX), processors and/or related products is a plus.</li>
+<li>
+Concepts of real time operations systems (i.e. VxWorks) is a plus.</li>
+<li>
+Strong C programming skills a must, TCP/UDP Ethernet Programming, Windows, Linux and/or VxWorks.</li>
+<li>
+Experience with C++ and C# is a plus.</li>
+</ul>
+<p>
+Other Skills and Abilities</p>
+<ul>
+<li>
+Must have good oral and written communication skills.</li>
+<li>
+Ability to work with hardware to debug programs.</li>
+<li>
+Strong analytical and problem-solving skills.</li>
+<li>
+Good organizational and time management skills.</li>
+<li>
+Ability to take initiative and multi-task within a fast-paced environment.</li>
+<li>
+Ability to work independently towards focused goals.</li>
+<li>
+Familiarity with Microsoft Office (Outlook, Word, Excel, PowerPoint)</li>
+<li>
+Prior Applications Engineering experience is a plus.</li>
+</ul>
+<p></p>
+<p>
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities</p>
+<p>
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.</p>
+</div>
+</div>

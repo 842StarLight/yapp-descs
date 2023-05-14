@@ -1,0 +1,27 @@
+<h2>Support Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Company Description
+<br>Panopta is a SaaS monitoring platform that helps companies monitor their infrastructure from every angle - external, on-server, and behind the firewall. We've been able to remain small and nimble while scaling our product to meet the needs of any customer and environment. We recently raised a round of funding and are looking to accelerate our growth. We’re also a pretty nerdy group.
+<br><br>
+Our office is located in the Loop, within walking distance of the CTA and both Metra terminations. Candidates must be willing to work onsite.
+<br><br>
+Description
+<br>The Support Engineer fulfills a hybrid operations role that crosses the traditional boundaries between customer support and technical operations. The Panopta platform is a highly technical product with a savvy, intelligent user base of IT professionals. In this role, you will be interacting directly with these customers to both help them make better use of our service as well as gathering feedback and recommendations for our product team to further enhance our offering.
+<br><br>
+<b>In this role, you’ll:</b><br>
+<ul>
+<li>Support our customers Our interaction with customers is primarily through email and chat, with (very occasional) phone calls. You’ll be talking directly with customers, but won’t be handling the usual “password reset” requests - the types of questions we receive generally revolve around deeper usage and best practices issues and often evolve into collaborative projects working with customers to extend our service to fit their needs.</li>
+<li>Champion the needs of our customers Our product and service offering is heavily driven by customer requests and suggestions. In this role, you will be in a position to distill customer feedback and push for additions and improvements that will better serve our entire customer base.</li>
+<li>Be exposed to a wide range of technology Our monitoring system works with mainframes in a corporate datacenter to the latest cloud services at AWS and Azure, and everything in between. You’ll get to learn about and work with each of these as part of your regular responsibilities.</li>
+<li>Work closely with the rest of the team We’re still a small company, so you’ll get a chance to work alongside engineering, marketing, sales and operations, sharing your experiences and learning from theirs. This is a great opportunity for individuals who love technology and are looking to branch out and take on more responsibilities in a growing startup company.</li>
+</ul>
+Qualifications
+<br><br>
+<ul>
+<li>Ability to speak clearly &amp; confidently about technology and internet concepts and interact with technical customers via email, phone and chat</li>
+<li>Familiarity and technical understanding of core Internet technology (DNS, HTTP, TCP/IP, routing, firewalls, etc.)</li>
+<li>Deep experience running Linux or Unix in real-world production environments preferably at scale. At least some level of experience with basic Windows operation and administration.</li>
+<li>Light scripting experience with Python, Perl or Ruby and a tool-building mindset for developing the right scripts for client integration and automation</li>
+<li>A team oriented attitude and interest in working closely with other groups in the company.</li>
+<li>Strong organizational skills and the ability to properly prioritize operations, customer impacting issues and project tasks.</li>
+</ul>
+Bonus points for experience working with other monitoring tools - open source, commercial, or SaaS-based.</div>

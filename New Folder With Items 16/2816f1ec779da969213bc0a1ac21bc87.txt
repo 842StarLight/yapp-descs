@@ -1,0 +1,40 @@
+<h2>Engineering Technician</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div>
+<p>Description: The <b>Engineering Technician</b> is responsible for supporting the design, development, testing, release, installation, maintenance, and tech support for all Sennco products including mechanical and electronic systems and software per required specifications, focusing on value, quality, safety, reliability, manufacturability, and sustainability.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+Supports our sales and marketing teams by providing technical and quotation support, building sales samples and demos, providing pilot/test installation and tradeshow setup assistance.</li>
+<li>
+Supports our customer support team as tech support backup by handling tech support calls and helping determine root cause of product or customer issues and quickly determine corrective actions.</li>
+<li>
+Supports our procurement team by assisting with new parts.</li>
+<li>
+Supports our production and quality teams by providing input for manufacturing, first article inspection, and testing that strive to minimize product defects.</li>
+<li>
+Supports our engineering team through all aspects of product development from concept to production release including basic design, prototype assembly, testing, troubleshooting, compliance, validation, documentation, and manufacturing support.</li>
+</ul>
+<p></p>
+<br>
+<p>
+Qualifications</p>
+<ul>
+<li>
+Minimum 2-Year technical degree.</li>
+<li>
+Prefer; 3+ years of technical experience in a product development and production environment including electromechanical assembly, soldering skills, and testing.</li>
+<li>
+Have experience with, or ability to learn and use quality and documentation control procedures and tools.</li>
+<li>
+Proficient in Altium Designer or other EDA tools. PCB layout and SolidWorks experience a plus.</li>
+</ul>
+</div>
+<div><p><b>
+Submit Resume to Sennco Careers</b><br>
+<b>Email:</b> careers@sennco.com</p></div>
+</div>
+<p></p>
+</div>

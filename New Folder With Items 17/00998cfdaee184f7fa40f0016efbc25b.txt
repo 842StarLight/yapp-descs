@@ -1,0 +1,38 @@
+<h2>Technical Client Success Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p>Piper Companies is currently seeking a (Full Time – Direct Hire) Technical Client Success Engineer to join a fast-growing organization that specializes in Data Management &amp; Protection.</p>
+<p>This organization offers unlimited PTO, Stock Options, Daily Catered Lunches, Work/life balance and an extremely competitive salary for the Raleigh/Durham market. You will be working with Linux, Windows, Cloud, Virtualization, etc.</p>
+<p> <b>Responsibilities for the Technical Client Success Engineer Include:</b></p>
+<ul>
+<li>Provide enterprise level technical support to customers, resolving problems in Linux and Windows Systems, VMware virtual machines.</li>
+<li>Resolve network connectivity &amp; performance issues in the cloud (AWS, Azure), using packet tracking and analysis tools (Wireshark)</li>
+<li>Assist with administering and configuring network, router, switch, firewall, etc.</li>
+<li>Work with QA and Engineering teams to resolve issues</li>
+<li>Work with Sales Engineers during Proof of Concept (POC)</li>
+<li>Follow procedures for proper escalation of unresolved issues to appropriate internal teams</li>
+</ul> <p><b>Qualifications for the Technical Client Success Engineer Include:</b></p>
+<ul>
+<li>5+ years' experience providing Enterprise Technical Support / Systems Engineering and is comfortable communicating with customers</li>
+<li>VMware administration experience &amp; Linux CLI Experience</li>
+<li>Experience with storage or backup verticals (NetApp, EMC, etc.)</li>
+<li>Additional Preferred Experience
+<ul>
+<li>Experience with scripting languages (Python, Perl, etc.)</li>
+<li>Cloud (AWS/Azure/Other)</li>
+<li>Experience with Microsoft Exchange and SQL, Oracle, Cassandra and Mongo DB. (Installation, deployment, troubleshooting, configuration, tuning)</li>
+<li>Network Connectivity: Admin/config network, router, switch (Juniper, Cisco)</li>
+ </ul>
+</li>
+</ul>
+<p><b>Compensation for the Technical Client Success Engineer Includes:</b></p>
+<ul>
+<li>Salary Range: Based on Experience</li>
+<li>Competitive Benefits Package: Unlimited PTO, Stock Options, Medical, Dental, etc.</li>
+<br>
+</ul>
+<p></p>
+<p>Please send resumes to Jared Iak at <b>jiak@pipercompanies.com</b></p>
+</div>
+<p></p>
+</div>

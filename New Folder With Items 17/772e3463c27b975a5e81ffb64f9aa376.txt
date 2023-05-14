@@ -1,0 +1,35 @@
+<h2>Cloud Architect- Application Modernization</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<b>Cloud Architect – Application Modernization</b><br>
+<br>
+<b>Who we are:</b><br>
+10th Magnitude is a technology services firm helping businesses achieve transformation through cloud technologies. We are market leaders in leveraging the power Microsoft Azure to accelerate innovation speed, operational agility and customer responsiveness for clients around the globe. As one of the top Microsoft Azure partners in the US, we specialize in Azure Migration, Data Center Transformation, Analytics and DevOps achieved through Azure-Enabled Infrastructure Automation. A member of the Microsoft Azure Partner Advisory Council and a Gold Cloud Platform Microsoft partner, 10th Magnitude is headquartered in Chicago with locations throughout the U.S.<br>
+<br>
+<b>What you will be doing:</b><br>
+As an Application Modernization Architect, you will provide thought leadership to our client by— driving discovery of business needs and requirements to inform system as well as project design and direct a team to deliver success for the engagement. This role will directly support both Business Development Management and Technical Sales to pursue new customer opportunities. Additionally, you will be driving management to align timeline and budget, and to ensure engineering resources are well-equipped to deliver successfully.<br>
+<br>
+<b>Responsibilities:</b>
+</div>
+<ul>
+<li>Ownership of technical envisioning, scope and execution of effective application modernization solutions on Azure</li>
+<li>Present solutions to clients tailored to their unique business problems and opportunities and then follow through in executing these solutions</li>
+<li>Cross-functional background with infrastructure, applications knowledge</li>
+<li>Extensive experience with diverse application workloads and strong understanding of infrastructure, operations, data residency, and dependency management</li>
+<li>Solid understanding of service delivery models on Azure– IaaS, PaaS, SaaS, serverless, cloud native, etc.</li>
+<li>You will design and develop cloud-native, secure, and distributed applications founded on cloud architecture best practices including but not limited to: microservices, REST, API Gateways, relational and NoSQL backends, messaging design patterns</li>
+<li>Proficiency in SDLC and software delivery best practices namely: artifact and release management, continuous integration, continuous delivery, etc.</li>
+<li>Passion for helping clients succeed along their cloud adoption journey</li>
+</ul>
+<div>
+<br>
+<b>Preferred Experience</b>
+</div>
+<ul>
+<li>5+ years of professional technology architecture experience</li>
+<li>5+ years of developing software and delivering solutions in a consulting environment</li>
+<li>2+ years in a technology management role</li>
+<li>5+ years in DevOps automation capabilities for CI, CD, metrics, monitoring, logging and configuration management</li>
+<li>Experience and capability to conceive and present solutions to clients tailored to their unique business problems and opportunities and then follow through in executing these solutions</li>
+</ul>
+</div></div>

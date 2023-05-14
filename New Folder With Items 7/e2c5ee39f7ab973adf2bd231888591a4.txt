@@ -1,0 +1,84 @@
+<h2>Database Administrator</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<p><b>Overview of the Database Administrator Position</b></p>
+<br>
+<p></p>
+<p><b>
+DevOps Duties and Responsibilities</b></p>
+<ul>
+<li>Work directly with the DevOps team and Senior DevOps manager to test system integrity</li>
+<li>Design and implement build, deployment, and configuration management</li>
+<li>Test implemented designs</li>
+<li>Build and test automation tools for infrastructure provisioning</li>
+<li>Handle code deployments in all environments</li>
+<li>Monitor metrics and develop ways to improve</li>
+<li>Provide technical guidance and educate team members and coworkers on development and operations</li>
+<li>Brainstorm for new ideas and ways to improve development delivery</li>
+<li>Consult with peers for feedback during testing stages</li>
+<li>Build, maintain, and monitor configuration standards</li>
+<li>Maintain day-to-day management and administration of projects</li>
+<li>Document and design various processes; update existing processes</li>
+<li>Improve infrastructure development and application development</li>
+<li>Follow all best practices and procedures as established by the company</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>DevOps Requirements and Qualifications</b></p>
+<ul>
+<li>Bachelor's degree in CS, engineering, software engineering, or related field</li>
+<li>Minimum 1 year previous experience in development and operations, or related IT, computer, or operations field</li>
+<li>Previous experience with software development, infrastructure development, or development and operations</li>
+<li>Experience with Linux infrastructures, database SQL, scripting such as JavaScript, PHP, Python, Perl, etc.</li>
+<li>Up-to-date on the latest industry trends; able to articulate trends and potential clearly and confidently</li>
+<li>Good interpersonal skills and communication with all levels of management</li>
+<li>Able to multitask, prioritize, and manage time efficiently</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Database Administrator Job Responsibilities</b>:</p>
+<ul>
+<li>Install and maintain the performance of database servers.</li>
+<li>Develop processes for optimizing database security.</li>
+<li>Set and maintain database standards.</li>
+<li>Manage database access.</li>
+<li>Performance tuning of database systems.</li>
+<li>Install, upgrade, and manage database applications.</li>
+<li>Diagnose and troubleshoot database errors.</li>
+<li>Recommend and implement emerging database technologies.</li>
+<li>Create and manage database reports, visualizations, and dashboards.</li>
+<li>Create automation for repeating database tasks.</li>
+<li>Be available for on-call support as needed.</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Database Administrator Qualifications/Skills:</b></p>
+<ul>
+<li>Familiar with command of SQL and SQL tools</li>
+<li>Detailed knowledge of database security, backup and recovery, and performance monitoring standards</li>
+<li>Understanding of relational and dimensional data modeling</li>
+<li>Linux shell scripting skills</li>
+<li>Excellent written and verbal communication skills</li>
+<li>Impeccable attention to detail</li>
+</ul>
+<p><b>Education and Experience Requirements</b>:</p>
+<ul>
+<li>Bachelor's degree in computer science or a related field</li>
+<li>One year of experience in database administration, information technology, database architecture, or a related field</li>
+<li>MCSE/MCSA certifications preferred</li>
+<li>Experience with Linux and Windows Server environments</li>
+<li>Extensive experience with database technologies (Oracle, PostgreSQL, Couchbase)</li>
+<li>Experience with cloud services a plus</li>
+<br>
+</ul>
+<p>
+</p>
+<p><b>Who We Are</b></p>
+<p>
+DS Services is a national direct-to-consumer provider of bottled water, office coffee and water filtration services. DS Services offers a comprehensive portfolio of beverage products, equipment and supplies to approximately 1.5 million customers through its network of over 210 sales and distribution facilities and daily operation of over 2,100 routes. With one of the broadest distribution networks in the country, DS Services can provide service to approximately 90 percent of U.S. households and efficiently services homes and national, regional and local offices. DS Services is dedicated to achieving its mission of becoming America's favorite water, coffee and tea service provider where consumers live, work and play. Please visit our website www.water.com for more information about DS Services.</p>
+</div>
+<p></p>
+</div>

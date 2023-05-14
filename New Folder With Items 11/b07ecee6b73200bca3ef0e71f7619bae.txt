@@ -1,0 +1,56 @@
+<h2>Technical Project Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">What You'll Do
+<br><br>
+Crossix is seeking an intellectually curious, resourceful, and collaborative individual to join our Technical Product Management team. This is an excellent opportunity to help us build out the systems and processes that power our business.
+<br><br>
+This position will join our Analytics Products team and will be a key interface with other teams to ensure continuous improvement upon the elimination of manual effort through automation, increasing scalability through the deployment of technology and capturing business &amp; technical requirements thoroughly to act upon.
+<br><br>
+<ul>
+<li>Identify areas in which you can utilize your technical skillset to optimize the speed or quality of analytics which we provide to customers</li>
+<li>Conduct requirements gathering sessions with end-users</li>
+<li>Design and implement solutions using industry standard best practices; combining the use of Amazon Web Services technologies, 3rd party data connections and our own proprietary data mining infrastructure</li>
+<li>Plan and participate in software development lifecycle: requirements gathering, development efforts, testing and troubleshooting; liaising with the Israel based development team for components which they own. Actively participate in product planning and prioritization sessions</li>
+<li>Work with product managers to translate business requirements into detailed functional and non-functional requirements.</li>
+<li>Own data driven processes and solutions resolving business problems. Leveraging technologies such as SQL, modeling, Python, R and other development tools:</li>
+<li>Enhance and evolve existing systems independently and as part of team</li>
+<li>Be accountable for accepted stories and tasks across multiple active work streams</li>
+<li>Train users and ensure adoption of released functionality</li>
+<li>Develop visualizations for data housed in a variety of stores (Oracle, Aurora, RedShift and flat files) to extract KPIs and BI for our team and others across the business</li>
+<li>Identify, document, and report bug cases and features in the issue/change tracking system</li>
+<li>Provide technical guidance for members of the team and others in the company in your areas of expertise</li>
+<li>Provide insight and guidance into solutions that meet the demands of other business areas; ensuring scalability by leveraging the core solutions that Analytics Products provides</li>
+<li>Assist in development and execution of User Acceptance Testing and Quality Control to validate system functionality.</li>
+<li>Actively work to develop technical and soft skills through training, event attendance, accreditation and industry knowledge.</li>
+</ul>
+What You've Done
+<br><br>
+Essential
+<br><br>
+<ul>
+<li>College degree in math, computer science, systems engineering or a similar technical field.</li>
+<li>1-3 years of post-graduate experience.</li>
+<li>Programming ability in an object orientated language such as Python (preferred), C# or Java - ideally in conjunction with data-storage technologies such as an RDBMS or S3.</li>
+<li>Experience in capturing requirements from non-technical users and translating them into an actionable workstream.</li>
+<li>Interest in applying the power of "Big Data" within a business/product context utilizing cutting-edge cloud-based technologies.</li>
+<li>Excellent verbal and written communication skills.</li>
+<li>'Can-do' attitude and approach.</li>
+</ul>
+Preferred
+<br><br>
+<ul>
+<li>Hands-on experience of AWS technologies – primarily Redshift, RDS (Aurora MySQL), S3, Lambda, Glue, CloudWatch &amp; CloudFront. Associate level certification (Architect or Developer) a bonus.</li>
+<li>SQL (Oracle, MySQL or MS-SQL) and at least conceptual knowledge of DBA activities.</li>
+<li>Practical experience owning the automation of complex business processes.</li>
+<li>Knowledge of writing to third party APIs (REST and OAuth experience a plus).</li>
+<li>Experience Capturing data from unclean, unstructured flat-files.</li>
+<li>Experience working within an agile development and planning environment.</li>
+<li>Experience with data visualization tools such as Spotfire (strongly preferred) or Tableau.</li>
+<li>Exposure to marketing, healthcare or other large-scale data.</li>
+</ul>
+About the Team – Crossix is the market leader in delivering hard-to-come-by insights that enable healthcare marketers to plan, measure, and optimize their marketing campaigns with confidence. Using our own proprietary technology and network of health and non-health data, our analyses pinpoint the tactics, programs, and channels that improve performance and boost sales, enabling better healthcare communications. And we do it all while protecting consumer privacy.
+<br><br>
+Leadership – With decades of combined experience and an unrivaled track record of healthcare innovation, our leadership team sets the standard for us. Their knowledge and expertise continually challenge us and the industry – through their work, their speaking engagements at conferences and their thought leadership published in the top industry publications.
+<br><br>
+Culture – We know that our employees set us apart. Along with competitive salaries and benefits, we invest in creating compelling opportunities for professional development and career growth. We also believe that diversity is essential to building an environment where everyone can feel they belong. We're continuously building an inclusive company where everyone feels welcome and heard. Come join our rapidly growing team!
+<br><br>
+We are an equal opportunity employer and welcome all qualified applicants regardless of race, color, religion, sex, gender identity, sexual orientation, marital status, ancestry, national origin, age, disability, genetic information, or veteran status.</div>

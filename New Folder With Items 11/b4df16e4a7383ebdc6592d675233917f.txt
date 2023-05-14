@@ -1,0 +1,71 @@
+<h2>IT Audit Relationship Manager, Vice President</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>Do you want your voice heard and your actions to count?</div>
+<div>
+<br>
+</div>
+<div>
+Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), the 5th largest financial group in the world (as ranked by S&amp;P Global, April 2018). In the Americas, we’re 13,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, developing positive relationships built on integrity and respect. It’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. We’re a team that accepts responsibility for the future by asking the tough questions and owning the solutions. Join MUFG and be empowered to make your voice heard and your actions count.
+</div>
+<h2 class="jobSectionHeader"><b>Job Summary:</b></h2>
+<div>
+The IT Auditor, Vice President will be a key member of the team responsible for Infrastructure and Cybersecurity technology audits.</div>
+<h2 class="jobSectionHeader"><b>
+Major Responsibilities:</b></h2>
+<ul>
+<li>
+You are a lead auditor or team member for each audit engagement; will often work with other team members at various skill levels (Staff, Associate, VP, and Director);good communication, writing, and critical thinking.</li>
+<li>
+You project manage each audit engagement; coordinating resources, managing time and financial budgets, coordinating effectively with team members and clients.
+</li>
+<li>You communicate with all levels of management including executive management during audit engagements or ad-hoc assignments; communicate risks and control issues, lead discussions during walkthrough of process areas or control activities.</li>
+</ul>
+<div>
+<b>
+Technical Requirements: </b>(*minimum of two technical areas below)</div>
+<ul>
+<li>
+Familiarity with FFIEC IT Handbook; NIST SP800-53 Controls; ITIL v3; COBIT 5; CIS benchmarks</li>
+<li>
+Knowledge of OS concept and good understanding of UNIX/Linux, and Windows. Some knowledge of z/OS is a plus</li>
+<li>
+Knowledge of cloud computing technology, hosting types, and service offerings, AWS knowledge a plus</li>
+<li>
+Knowledge of databases, such as Oracle, MS SQL and DB2</li>
+<li>
+Knowledge of server virtualization, such as VMware, Citrix, Redhat</li>
+<li>
+Knowledge of networking, such as routers, switches, and key protocols</li>
+<li>
+Knowledge of Cybersecurity SIEM infrastructure and its related supporting functions, such as rule creation and external threat intelligence gathering</li>
+<li>
+Knowledge of firewall, proxy, VPN, WAF, IDS/IPS, VPN, and DNS</li>
+<li>
+Knowledge of data center engineering concept</li>
+<li>
+Knowledge of Business Continuity Planning</li>
+</ul>
+<br>
+<p></p>
+Qualifications:<br>
+<br>
+<ul>
+<li>Bachelor’s degree is required; preferably in computers science or related studies</li>
+<li>
+7+ years audit experience, previously leading IT Audit engagements or advanced IT risk management related experience (e.g., risk assessment, control design and testing). Or in lieu of Audit or IT Risk Management, an experienced hands-on technology background with project management skills</li>
+<li>
+Overall knowledge of technology operations – capacity management, incident &amp; problem management, asset management, backup operations, change management, and metrics reporting</li>
+<li>
+Advanced risk management or information security understanding - risk identification, risk assessment, risk register, risk mitigation, and risk monitoring, etc.</li>
+<li>
+Advanced project management / organizational skills - run a project end-to-end including planning, execution and delivery.
+</li>
+<li>Relevant certifications – CISA, CIA, CISSP, CISM, etc.</li>
+</ul>
+<div>
+The above statements are intended to describe the general nature and level of work being performed. They are not intended to be construed as an exhaustive list of all responsibilities duties and skills required of personnel so classified.</div>
+</div>
+<p></p>
+</div>

@@ -1,0 +1,23 @@
+<h2>Software Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>PAX Technology Inc’s mission is to provide world-class cost effective, superior quality secure payment services and solutions for our customers. PAX is considered one of the fastest growing payment solutions providers with world-class manufacturing, R&amp;D capabilities and a growing portfolio of products and services across the globe because of our innovative and collaborative employees.</p>
+<p>PAX Technology is looking for junior to mid-level Java, C, C# software engineers to be part of an agile team of developers to develop and ensure support of software components that provide interfacing of MS Windows / Linux based point-of-sale electronic cash register applications with specialized hardware peripherals typically to create point-of-sale system.</p>
+<p>DESIRED SKILLS AND JOB REQUIREMENTS:</p>
+<p>1. 2+ years’ hands-on development experience in Java, C or C#.</p>
+<p>2. Windows/Linux desktop applications development experience is preferred.</p>
+<p>3, Perform appropriate coding, code commenting, debugging, bug fixing, and other supplementary related activities</p>
+<p>4, Participate in creating/updating technical documentation.</p>
+<p>5. Experience writing unit tests with Google Test or similar framework</p>
+<p>6. Diagnose software system, and hardware failures that impact deployment</p>
+<p>7. Test Driven Development</p>
+<p>8. Excellent communication and problem solving skills</p>
+<p>9. Willing to work in a global work environment. Flexible work schedule is required for coordination and reviews with teams in other Geographies. Experience in a global development role is beneficial</p>
+<p>10, Ability to thrive in a team/ collaborative environment.</p>
+<p>EDUCATION REQUIREMENTS:</p>
+<p>1. BS in computer science, or related field, or equivalent experience</p>
+<p>TRAVEL REQUIREMENTS:</p>
+<p>Ability and willingness to travel in and out of country for less than 6% of the time may be required.</p>
+<p>The job requirements listed in this job description are not comprehensive and are subject to change without notice.</p>
+<p>Job Type: Full-time</p>
+<p>Job Type: Full-time</p>
+</div>

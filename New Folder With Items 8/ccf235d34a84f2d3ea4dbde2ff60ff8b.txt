@@ -1,0 +1,39 @@
+<h2>Senior VDI Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><div><div><div>
+<p><b>Senior VDI Engineer III</b><br>
+<b>Cincinnati, OH</b><br>
+<br>
+<b>Job Overview</b><br>
+<br>
+CBTS has an opening for a candidate with deep expertise in Windows Remote Desktop Services (RDS) and Citrix XenApp technologies for Virtual Desktop Infrastructure support. This position resides in a CBTS Managed Services team that provides enterprise technologies and solutions to multiple customers.<br>
+<br>
+The ideal candidate will work with minimal supervision, is adaptable, and have a desire to investigate and implement solutions. This includes writing and maintaining systems documentation and knowledge sharing. Working with teams to develop procedures and guidelines for implementation, management, and upgrades; executing procedures for break/fix, incidents, change requests, and scheduled maintenance are a regular part of the position. Verbal and written communication skills are needed to convey information that may be complex to others. Planning and prioritization must occur to complete tasks effectively. Pre-sales efforts to grow business may be requested.<br>
+<br>
+Minimum of three years’ experience preferred. Position requires on-call support.<br>
+<br>
+<b>Preferred Qualifications</b><br>
+<br>
+Strong experience with Windows 2012 R2/Server 2016 Remote Desktop Services and Citrix XenApp/Virtual Apps/NetScaler/ADC infrastructure and service management.<br>
+Fundamental understanding of IP networking.<br>
+Strong understanding of Microsoft Windows Server 2008 through 2016 in mid-to-large corporate environments with Active Directory experience.<br>
+Must have experience configuring, troubleshooting, and supporting Citrix policies and user management tools.<br>
+Solid grasp of MS Active Directory and Group Policy in a multi-domain, geographically separated environment.<br>
+Active Directory skills for creating, managing, and deploying AD Group Policy Objects.<br>
+Understand Microsoft applications and application delivery/virtualization technologies over LAN/WAN environments.<br>
+Experience supporting or working in VMware ESXi environments.<br>
+Detail-oriented and self-motivated with good time management, communication, and presentation skills across varying organization levels.<br>
+Ability to be productive in a team environment and help contribute to a positive team effort.<br>
+Additional desired skill deploying, maintaining, and upgrading VMware Horizon.<br>
+Any of the following certifications: CCA-V; CCP-V; CCE-V; VMware VCP</p>
+<p></p>
+<br>
+<p><b>
+Disability Accommodations</b><br>
+<br>
+Cincinnati Bell and cbts is an Equal Employment Opportunity / Affirmative Action employer and we provide reasonable accommodations for qualifying individuals with disabilities and disabled veterans in our job application and interview procedures. If you would like to request an ADA accommodation for any part of the application and/or interview process, please contact our HR Compliance Department at (513) 841-6310 or send an email to recruiting@cinbell.com. If you should have any difficulty, you may use our alternative methods to express your interest in employment. A wonderful career awaits you!<br>
+<br>
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
+</div></div></div></div>
+<div></div>
+</div>

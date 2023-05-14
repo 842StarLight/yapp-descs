@@ -1,0 +1,75 @@
+<h2>Senior Engagement Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div><ul>
+<li>5+ years’ experience leading the delivery of enterprise-level IT consulting projects</li>
+<li>2+ years’ experience working as a ScrumMaster across multiple cross-functional teams</li>
+<li>Led teams and engagements utilizing agile approaches, value and principles as well as Scrum framework</li>
+<li>Understands the value proposition of the public cloud and has delivered cloud engagements (IaaS, PaaS, Saas)</li>
+<li>Experience with Agile and Project Management (APM) toolsets (Jira, RallyDev, VersionOne, Taiga, etc).</li>
+<li>Bachelor's Degree or equivalent experience.</li>
+</ul></div>
+<br>
+<div>At Amazon Web Services (AWS), we’re hiring an Engagement Manager to lead AWS consultants, partner, and client teams. Engagement Managers, manage and deliver AWS cloud products and services that enable our customers to realize their business objectives. These professional services engagements focus on the full platform of AWS customer solutions to help our customers and partners remove constraints and accelerate their journey to AWS.<br>
+<br>
+AWS Professional Services engage in a wide variety of projects for customers and partners, providing collective AWS customer experience, best practices, and obsessing about strong success for the Customer. Our team collaborates across the entire AWS organization to bring access to product, service, and training teams, to deliver the right solutions and drive feature innovations for our customers across all industries. Engagement Managers help Customers make decisions to meet their technical and business objectives by providing best practices, proactively identifying and closing project gaps.<br>
+<br>
+Responsibilities and Abilities include:<br>
+<br>
+EXPERTISE<br>
+<ul>
+<li>Collaborate with AWS field sales, pre-sales, training and support teams to seek to understand our customer’s needs, their business, how success is defined, and ensure that we are exceeding expectations in delivery and developing valued solutions.</li>
+<li>Experience leveraging formal project management and development methodologies on enterprise level engagements.</li>
+<li>Possesses a deep knowledge of project management best practices and how to apply them in an effective yet pragmatic way across large, complex projects.</li>
+<li>Understanding of technology principles and services including infrastructure, business applications, data management, security, application platforms and consumer facing technology.</li>
+</ul>
+SOLUTIONS<br>
+<ul>
+<li>Lead individuals, teams or multiple groups and play an active role in analyzing project goals, creating a plan to achieve those goals, and then driving the AWS team members, customer stakeholders/SMEs and potentially other third parties to achieve those goals while understanding the client environment and any limitations to execution.</li>
+<li>Actively looks for ways to improve process efficiencies and effectiveness.</li>
+<li>Ability to apply strategic thinking and demonstrate understanding of requirements to execute.</li>
+<li>Ability to make decisions guided by policies, procedures and business plan with limited guidance.</li>
+<li>Business and financial acumen.</li>
+<li>Business case development.</li>
+</ul>
+DELIVERY<br>
+<ul>
+<li>Plan, organize, and manage all phases of a project lifecycle to ensure successful delivery. This includes developing and managing project governance plans, project schedules, team goals, defining success criteria, project milestones, and budgets.</li>
+<li>Plays an active role in managing project goals and driving teams to achieve customers’ business outcomes by managing issues, risks, decisions, and action items.</li>
+<li>Ability to take ownership, work under pressure and meet deadlines on time.</li>
+<li>Ability to challenge, recommend and redirect teams as well as manage client expectations during the engagement.</li>
+<li>Takes proactive steps to ensure teams meet or exceed customer expectations.</li>
+<li>Works effectively in a dynamic environment with changing priorities.</li>
+<li>Results-oriented, prioritizes work activities, plans and stays organized in order to meet commitments.</li>
+</ul>
+COMMUNICATION<br>
+<ul>
+<li>Outstanding written and verbal communication skills with team members and audiences of all levels.</li>
+<li>Interfaces with various customer and internal AWS stakeholders which consists of senior leadership teams (C-level execs, SVP/VP, Directors) and project level resources such as SMEs.</li>
+<li>Plans and oversees the preparation and dissemination of project communications.</li>
+<li>Demonstrates the ability to understand the operating styles of others as well as team/client relationships, team dynamics, and adjusts behavior accordingly to succeed. Recognizes environmental or cultural nuances and adapts.</li>
+<li>Excellent presentation, communication (oral &amp; written), and relationship building skills, across all levels of management.</li>
+</ul>
+TEAMING<br>
+<ul>
+<li>Proven success in working with teams and executive leadership in a complex, global company environment.</li>
+<li>Team player who effectively integrates, motivates and builds relationships with cross-functional team members (local or remote), sponsors, key stakeholders, executives, and other individuals or organizations involved with or affected by the project.</li>
+<li>Proven experience working in a matrix environment, managing multiple stakeholders.</li>
+<li>Negotiation and conflict resolution capabilities.</li>
+<li>Excellent people management skills, including the ability to influence, negotiate and achieve results through others who are not direct reports.</li>
+</ul>
+<br>
+This is a customer facing role. You be required to travel to client locations to deliver professional services when needed.</div>
+<br>
+<div>
+<ul>
+<li>Has at least one active project management certification (e.g., APM, CSM, PMI-ACP, PRINCE2)</li>
+<li>AWS Experience and Certifications.</li>
+<li>Managed technical projects consisting of 8 or more people totaling over $1,000,000 budget</li>
+<li>Managed and delivered IT engagements for a Fortune 100 company.</li>
+<li>Managed engagements using both Waterfall and Agile/Iterative methodologies.</li>
+<li>Bachelor's Degree in STEM, MBA or Masters in Computer Science.</li>
+<li>Has presented to C-level executives (CIO, CEO, CTO, CISO, etc.) as well as to technical subject matter experts.</li>
+<li>FinancialForce Professional Services Automation (PSA) for Salesforce</li>
+</ul>
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation/ Age</div>
+</div>

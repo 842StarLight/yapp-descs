@@ -1,0 +1,102 @@
+<h2>Support Technician - Help Desk Tier 2</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><i>Salary depends on experience.</i></p>
+<p>
+Snowbird is a fantastic destination any time of year. With consistently record-breaking powder in the winter and a colorful pristine mountain setting in the summer, it’s no wonder thousands of people come from around the world to visit year-round. With an emphasis on exceptional guest service, Snowbird is looking for experienced support technicians to manage a variety of employee PCs, servers and LAN/WAN connectivity. This is a full-time year-round position with great benefits available.</p>
+<p>
+Reporting to the Information Services Manager and operating in a help desk setting, the ST supports the information technology infrastructure and users throughout the 7 x 24 x 365 enterprise. Using a variety of skills and knowledge and delivering remarkable customer service, the ST will directly support variety of desktop PCs, servers, LAN/WAN connectivity, wireless service and related devices.<br>
+<br>
+<b>Position Functions / Areas of Responsibility:</b></p>
+<ul>
+<li>Usually works under supervision, often conferring with manager and other technicians with some latitude for un-reviewed action where there may be more than one possible solution and where guidelines may need interpretation.</li>
+<li>Requires problem solving and initiation of defined job activities.</li>
+<li>Applies a variety of skills, knowledge and experience to expeditiously resolve tier 1 and occasionally tier 2 issues.</li>
+<li>Escalates difficult tier 2 and all tier 3 issues to other appropriate team members.</li>
+</ul>
+<p><b>Chief among the ST’s duties and responsibilities are:</b></p>
+<ul>
+<li>Provide help desk support to 400+ local and remote users. Assist end users via telephone, e-mail and in person with a wide range of questions, requests relating to desktop PC software, hardware and peripherals.</li>
+<li>Document all work performed and solutions provided on a timely basis, clearly and completely in the Track-It! helpdesk work order system.</li>
+<li>Achieve and maintain exceptional customer satisfaction survey ratings as determined through on-going customer satisfaction surveys.</li>
+<li>Configures, installs, maintains, supports and repairs personal computers, peripheral devices, printers and mobile devices (PDAs, smartphones and Blackberries).</li>
+<li>Train end users as needed.</li>
+<li>Creates, maintains and distributes Microsoft Windows images.</li>
+<li>Sets-up and troubleshoots Internet connectivity – wired and wireless.</li>
+<li>Develops program scripts, batch files and other forms of automation to effectively solve problems and create efficiencies.</li>
+<li>Restores files from backups when requested by end users.</li>
+<li>Troubleshoot Citrix sessions and user accounts.</li>
+<li>Creates, manages and administers user Active Directory accounts, Exchange email accounts, group policies and folder/file permissions. Resets passwords as required.</li>
+<li>Assist with network component administration (core switches, edge switches, routers, gateways and firewalls).</li>
+<li>Assist with implementation of security policies and procedures and protects against unauthorized access, modification or destruction.</li>
+<li>Assists with administration and management of anti-virus and malware software systems. Contains, mitigates and eradicates threat outbreaks. Protects, secures and maintains data privacy and security.</li>
+<li>Performs change management duties, including creation, execution and validation of production system and security patches. Test new and changed components being introduced into the Windows environment.</li>
+<li>Creates, manages and administers physical servers and the VMware virtual servers and environment.</li>
+<li>Assist with administration and management of remote access facilities and support of external users.</li>
+<li>Interacts with outside system vendors to facilitate hardware and software upgrades and resolve system and end user issues.</li>
+<li>Participates in new systems roll-outs and projects.</li>
+</ul>
+<p><b>Interactions</b></p>
+<p>
+The Information Services department’s central mission is delivering exceptional customer satisfaction. The department is constantly working to distinguish itself in this regard and to be admired within Snowbird as the undisputed leader in providing unrivaled internal and external customer service. To this end, all interactions must be accomplished with consummate professionalism and adherence to the highest possible customer service standards.</p>
+<ul>
+<li>Direct and continuous contact with co-workers, management and other departments.</li>
+<li>Direct and occasional contact with guests and condo/timeshare owners.</li>
+<li>Direct and frequent contact with outside technology vendors and other support personnel and organizations.</li>
+<li>On a continuous basis work cooperatively, productively and respectfully with other members of the I.S. team for the good of the department and user base. Work collaboratively with I.S. team members to resolve difficult problems, share systems knowledge and communicate work order status.</li>
+</ul>
+<p><b>Education and Experience Requirements</b></p>
+<ul>
+<li>Associate or Bachelor degree in a related technical discipline or the equivalent combination of education, technical certifications or training, or work experience.</li>
+<li>At least 3 years of help desk work experience with demonstrated competence.</li>
+</ul>
+<p><b>Specific Requirements</b></p>
+<ul>
+<li>Ability to ski or snowboard.</li>
+</ul>
+<p><b>Technical Skills and Knowledge</b></p>
+<ul>
+<li>In-depth knowledge of administration, troubleshooting and operation of Microsoft desktop operating systems: Windows 7/10 Professional.</li>
+<li>In-depth knowledge of hardware and troubleshooting of personal computers, printers and other commonly used peripheral devices.</li>
+<li>Knowledge of administration, troubleshooting and operation of Microsoft Exchange 2007 and clients Outlook (all versions), Outlook Web Access.</li>
+<li>Proficient in a range of popular and commonly used desktop software applications including Microsoft Office Suite (all versions).</li>
+<li>Proficient in basic scripting.</li>
+<li>Proficient in password recovery and security auditing in a Windows environment.</li>
+<li>Familiarity with of Microsoft server operating systems and SQL: Windows Server 2008/2012/2016 and SQL 2005/2008/2016.</li>
+<li>Familiarity in using technical web-based troubleshooting resources, such as, Microsoft Knowledge Base, forums, user-groups and similar resources.</li>
+<li>Familiarity with any of the following software applications is a definite plus: Par Springer-Miller sms|Host and/or SpaSoft, Avaya phone systems, Squirrel and/or Siriusware Retail point-of-sale, Siriusware ticketing, Axess Gates, Stratton Warren, Great Plains, Citrix Xenapp, Symantec Endpoint Protection Suite, WinRetail, Delphi Sales and Catering, UltiPro and Doc-Link.</li>
+<li>Familiarity with 802.11b/g/n wireless systems.</li>
+<li>Basic knowledge of Linux.</li>
+</ul>
+<p><b>Working Conditions</b></p>
+<ul>
+<li>Work Schedule: Tues - Sat, 8:30 am - 5:00 pm as well as rotating on-call schedule that requires weekends and holidays.</li>
+<li>Must be able to work any day of the week including weekends and holidays.</li>
+<li>Shifts vary, may be early morning or late evening, over-night, weekends, holidays, as required by workload and special events.</li>
+<li>Flexibility to respond to urgent needs to maintain and repair systems while minimizing inconveniences to end-users.</li>
+<li>Required participation in a shared, regular 24/7/365 on-call schedule. On-call for one-week periods. While on-call must respond quickly to problems, usually within 2-hours anytime day or night, including travel to Snowbird or required jobsite.</li>
+</ul>
+<p><b>Mental</b></p>
+<ul>
+<li>Fast-paced, inbound call center environment. Must be able to triage concurrent demands for support. Extreme pressure potential due to “system-down” conditions, with corporate revenue-streams, customer satisfaction and operational capabilities at risk.</li>
+<li>Works on problems of diverse complexity and scope.</li>
+<li>Exercises some independent judgment to achieve objectives.</li>
+<li>Entrusted with confidential, proprietary and sensitive information.</li>
+</ul>
+<p><b>Physical</b></p>
+<ul>
+<li>General office environment with some lifting and physical activity.</li>
+<li>Occasional need to ski to select mountain locations.</li>
+</ul>
+<p><b>Travel</b></p>
+<ul>
+<li>Occasional travel between primary work location in Little Cottonwood Canyon and Millrock Park.</li>
+<li>Frequent foot and driving travel across the Little Cottonwood Canyon campus.</li>
+<br>
+</ul>
+<p>
+</p>
+<p><i>All job opportunities at Snowbird Resort require the ability to comply with our Professional Appearance, Drug &amp; Alcohol, and Employee Conduct Policies.</i><br>
+<i>
+</i><br>
+<i>This job description is not intended to be an exhaustive list of all duties, responsibilities, or qualifications associated with the job.</i></p>
+</div></div>

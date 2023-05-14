@@ -1,0 +1,42 @@
+<h2>Specialist, Product Support</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<ul>
+<li>Assist customers with assigned technical support issues that are reported via telephone, web and email.</li>
+<li>Provide accurate analysis, troubleshooting and testing of technical issues.</li>
+<li>Ensure the highest level of communication with the customer to meet Verint’s contractual Service level Agreement (SLA) by providing regular updates with respect to progress of each incident, and quickly providing high quality, complete, and timely solutions in a professional manner while demonstrating the highest level of customer service.</li>
+<li>Facilitate resolutions with Verint’s customer contacts and with other members of the Verint organization (sales, services, product house, etc.) as necessary during problem resolution. Technical guidance may be provided by a Senior Product Support Engineer and/or Technical Lead.</li>
+<li>Follow and maintain all standards for tracking and documenting issues throughout the lifecycle of a support case.</li>
+<li>Meet or exceed customer satisfaction objectives.</li>
+<li>Demonstrate a complete understanding of the features and functions of assigned products.</li>
+<li>Develop and maintain product knowledge relevant to product offerings, current support policies and methods of support delivery to quickly provide technically accurate and complete resolutions.</li>
+<li>Deliver internal training on their area of expertise to other members of the team, as necessary.</li>
+</ul>
+<p><b>Minimum Requirements:</b></p>
+<ul>
+<li>Bachelor’s degree in a technology discipline or related field or equivalent work experience</li>
+<li>Minimum of 3-5 years of customer support experience in troubleshooting and resolving issues in an application support role</li>
+<li>Experience using and administrating Windows operating systems (client and server), IIS, Tasks and Services</li>
+<li>Knowledge of a Database Technology (Microsoft SQL Server) and the ability to interpret schemas and/or author queries and stored procedures</li>
+<li>Strong written and verbal communication skills</li>
+<li>Experience in documenting customer issues with ability to tailor the explanation of technical concepts to the audience</li>
+<li>Experience in effectively dealing with customer service issues and handling customer conflict</li>
+<li>Familiarity with debugging tools/techniques</li>
+<li>Ability to work a flexible schedule in the interest of customer satisfaction; may be required to participate in on-call rotations consistent with Support’s on-call practice</li>
+<li>Successful completion of the background check process, including but not limited to employment, education, criminal convictions, OFAC, SS Verification and credit, where available and in accordance with federal and local regulations</li>
+</ul>
+<p><b>Preferred Requirements:</b></p>
+<ul>
+<li>Clear understanding of enterprise applications</li>
+<li>Experience working with .NET/C# Applications</li>
+<li>Experience with virtualization and cloud services such as Azure/AWS</li>
+<li>Experience in programming and debugging</li>
+<li>Familiarity with the user of troubleshooting and diagnostic tools such as Fiddler, DebugDiag2, ProcMon &amp; PerfMon.</li>
+<li>Ability to author technical articles to document found solution</li>
+<li>Experience with Dynamics CRM</li>
+</ul>
+<div>Back Share
+<div></div>Apply Now</div>
+</div>
+</div>

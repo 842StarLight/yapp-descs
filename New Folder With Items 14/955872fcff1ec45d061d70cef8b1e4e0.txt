@@ -1,0 +1,43 @@
+<h2>Software Development Engineer for Test</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Every day, Clover devices handle the core credit card and point-of-sale processing for hundreds of thousands of merchants. Behind the scenes, we operate a cloud platform providing processing, storage and collaboration for merchants, application developers, service providers and our merchants' customers. Our devices and platform form the backbone of millions of payment interactions between merchants and their customers daily.
+<br><br>
+<b>The Role:</b><br>
+Software Development Engineers in Test (SDETs) are a special breed of quality fanatics who use their toolbox of technical talent to automate and scale their testing efforts. When faced with any task, their first reaction is to find an engineering solution. Married to this is a deep knowledge of quality, understanding the test coverage requirements and going beyond them. SDETs are held to the engineering standards of the developers and simultaneously the quality standards of dedicated QA staff.
+<br><br>
+Software Development Engineers in Test (SDETs) at Clover will help us increase test automation coverage and improve our existing test automation frameworks. This includes identifying current gaps, if needed - designing a solution, and executing it. The candidate should be familiar with testing concepts and test automation tools in Java, Javascript, Python and/or Android.
+<br><br>
+This person will support engineers by designing and maintaining cutting-edge automation systems to ensure we deploy code with amazing quality and speed.
+<br><br>
+<b>The Team:</b><br>
+The Merchant Lifecycle team designs, implements, and supports a complex set of server integrations between business partners, internal and merchant facing web presentation layers, and Clovers fleet of innovative Android based payment devices.
+<br><br>
+<b>What You Will Be Doing:</b><br>
+Responsibilities will vary based on your prior work experience, strengths, and priorities of testing needs, but possible responsibilities include the following:
+<br><br>
+<ul>
+<li>Work closely with a high performing Agile Squad to analyze the epics and stories for testability, clarify acceptance criteria, and look for opportunities to prevent problems before code is written.</li>
+<li>Participate in design reviews, advocating for the customer experience, testability, proper monitoring, and defect prevention.</li>
+<li>Create test &amp; quality strategies for the new features. Coach the team with test techniques, including test-driven approaches, and provide assistance where needed.</li>
+<li>Create the test cases, using the proper mix of manual &amp; automated tests.</li>
+<li>Work side-by-side with the development team on testing in parallel and automating tests in the sprints.</li>
+<li>Develop automated tests with the appropriate technologies including Java and UI Automator.</li>
+<li>Analyze &amp; triage automated tests running in the Continuous Integration system, taking appropriate action and monitoring for (and fixing) flaky tests.</li>
+<li>Create test plans for non-functional quality attributes like performance, reliability, and security.</li>
+<li>Perform customer experience testing on products, including on-boarding, usability, and real-world end-to-end experiences.</li>
+<li>Provide the Squad and all stakeholders with clear and real-time updates regarding test status, bug status, and overall quality about the product.</li>
+<li>Monitor customer satisfaction and production data to ensure we lead the effort to learn from any customer bugs to understand the root cause, how the bug escaped, and put preventative measures in place.</li>
+<li>Keep a learning mindset - look for opportunities to continuously improve yourself, our products, and the practices that we use to build our products.</li>
+</ul>
+<b>Requirements:</b><br>
+<ul>
+<li>Software development experience commensurate with your level. We are looking for software engineers that love testing and using technology to test most effectively.</li>
+<li>Proficient in black box, functional, and user flow testing techniques</li>
+<li>Experience with Android, REST Server, and web testing</li>
+<li>At least one year experience with development in the languages of our stack, with demonstrated proficiency in at least one of the following: C++, Java, Python, JavaScript</li>
+<li>Experience with software development tools (IDE, debugger, git, JIRA, etc)</li>
+<li>Professional-level programming skills (regex processing, class design, Map data structure, etc.), particularly in Java or JavaScript</li>
+<li>Shell scripting skills (commands like grep, cut, sed, sort, wget, etc.)</li>
+<li>Familiarity with JSON objects, SQL queries, data structures, Android tools (ADB, DDMS, Monkey, Memory Analyzer, etc.), log file analysis, etc.</li>
+<li>BS in an engineering discipline, preferably computer science or engineering, or equivalent work experience</li>
+</ul>
+</div>

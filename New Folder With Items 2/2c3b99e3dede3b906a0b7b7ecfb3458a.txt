@@ -1,0 +1,107 @@
+<h2>Software Quality Assurance Analyst (Agile)</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div>Founded in 1866, The Sherwin-Williams Company is a global leader in the manufacture, development, distribution, and sale of paints, coatings and related products to professional, industrial, commercial, and retail customers. The company manufactures products under well-known brands such as Sherwin-Williams®, Valspar®, HGTV HOME® by Sherwin-Williams, Dutch Boy®, Krylon®, Minwax®, Thompson’s® Water Seal®, Cabot® and many more. Sherwin-Williams® branded products are sold exclusively through a chain of more than 4,100 company-operated stores and facilities, while the company’s other brands are sold through leading mass merchandisers, home centers, independent paint dealers, hardware stores, automotive retailers, and industrial distributors. The company supplies a broad range of highly-engineered industrial and OEM coatings for wood and general industrial, coil, packaging, protective and marine, and transportation applications worldwide. Our 60,000 employees are diverse, innovative and passionate. With a variety of rewarding and challenging opportunities, Sherwin-Williams is a great place to find a career that takes you places.<br>
+</div>
+<div>
+<br>
+</div>
+<div>The IT Quality Assurance Analyst, in conjunction with team members, will develop and implement quality assurance standards and measures within the organization. This role is responsible for writing test plans, creating and executing both functional and automated tests, for tracking defects and fixes and reporting the progress of each. The Analyst will apply proven analytical and problem-solving skills to help validate IT processes through careful testing in order to maximize the benefit of business investments in IT initiatives. This is a mid-level position.<br>
+<br>
+<b>Essential Functions</b><br>
+<b>Strategy &amp; Planning</b><br>
+<ul>
+<li>Promote, foster and proactively implement the use of quality assurance best practices and standards on a daily basis.</li>
+<li>
+Create and maintain efficient automated scripts that utilize clean code and best practice coding standards.</li>
+<li>
+Proactively mentor and train Developers, QA Associates and Professional Apprentices on best practices and industry standards.</li>
+</ul>
+<b>
+Acquisition &amp; Deployment</b><br>
+<ul>
+<li>Fulfill the QA effort which includes, and is not limited to: creating test plans, writing test cases, performing functional and exploratory testing, effectively communicating statuses, and coordinating meetings.</li>
+<li>
+Work with cross functional team members to define and understand functional &amp; non-functional requirements and capture business requirements through behavior driven test scripts.</li>
+</ul>
+<b>
+Operational Management</b><br>
+<ul>
+<li>Manage and maintain efficiencies in the automated script execution and script development through the implementation of automation best practices.</li>
+<li>
+Oversee and delegate work to QA Associates and Professional Apprentices, as needed.</li>
+</ul>
+<b>
+Incidental Functions</b><br>
+<ul>
+<li>Assist with projects as required to contribute to efficiency and effectiveness of the work.</li>
+<li>
+Conduct research into new technologies, including tools, components, and frameworks.</li>
+<li>
+Attend management meetings on behalf of team.</li>
+<li>
+Some travel as required.</li>
+<li>
+Work outside the standard office 7.5 hour work day as required.</li>
+</ul>
+<b>
+Position Requirements</b><br>
+<b>Formal Education &amp; Certification</b><br>
+<ul><li>Bachelor degree or foreign equivalent in a related field or equivalent experience.</li></ul>
+<b>
+Knowledge &amp; Experience</b><br>
+<ul>
+<li>2+ years of IT experience</li>
+<li>
+1-1/2+ years work experience in the area of software testing/quality assurance</li>
+<li>
+1-1/2+ years experience in manual test execution and automated test creation and execution</li>
+<li>
+1+ years experience working with test management tools</li>
+<li>
+Experience creating test plans, defining test cases, and tracking defects</li>
+<li>
+Experience executing test cases and reporting the results</li>
+<li>
+Experience working in an agile or waterfall development-testing environment</li>
+<li>
+Experience with mobile device and mobile application testing and development</li>
+<li>
+Experience writing and maintaining automated tests</li>
+</ul>
+<b>
+Preferred Knowledge &amp; Experience:</b><br>
+<ul>
+<li>Exposure to Agile software delivery; acceptance test driven development, test driven development and/or behavior driven development.</li>
+<li>
+Exposure to SQL.</li>
+<li>
+Exposure to version control or continuous integration systems.</li>
+<li>
+Experience with Java development</li>
+</ul>
+<b>
+Personal Attributes</b>
+</div>
+<div>
+<ul>
+<li>
+Good analytical, conceptual, and problem-solving abilities.</li>
+<li>
+Good written and oral communication skills.</li>
+<li>
+Proven ability and initiative to learn and research new concepts, ideas, and technologies quickly.</li>
+<li>
+Ability to work in a team-oriented, collaborative environment.</li>
+<li>
+Ability to transform an idea or need into a completed solution or work product.</li>
+</ul>
+<b>
+Must be legally authorized to work in country of employment without sponsorship for employment visa status now or in the future.</b><br>
+</div>
+<div>
+<br>
+</div>Equal Opportunity Employer. All qualified candidates will receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information, creed, citizenship status, marital status, or any other consideration prohibited by law or contract. VEVRAA Federal Contractor requesting priority referral of protected veterans.</div>
+<p></p>
+</div>

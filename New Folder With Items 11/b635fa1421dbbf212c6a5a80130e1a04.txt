@@ -1,0 +1,67 @@
+<h2>Product Manager, Data and Metrics Pipeline</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>StreetLight Data, the pioneer in Big Data for mobility, is revolutionizing transportation and urban planning to help the world better deploy infrastructure and adapt to new forms of mobility. From legacy systems to ride sharing and bike sharing to autonomous vehicles, our platform powers 1,500+ mobility projects every month for government and private clients, and we're just getting started.</div>
+<div>
+<br>
+</div>
+<div>
+StreetLight Data is seeking a Product Manager to work with our data science, data engineering and web applications team to continue expanding our data science pipeline and commercialization of algorithms and data to provide transportation metrics in StreetLight’s best-in-class transportation data platform. As part of our team, you will help shape the future of mobility and smart cities by ensuring successful delivery of the most innovative, accurate and comprehensive big data offerings in transportation.
+</div>
+<div></div>
+<br>
+<div>Reporting initially to our COO and Acting VP of Product, you will collaborate with our other product managers, product development, marketing and sales to research, define, plan, build, release and drive successful sales and adoption of specific features in <i>StreetLight InSight® </i>, our end-user application and data services in <i>StreetLight Route Science®</i>, our big data platform. The successful candidate will be based in San Francisco, CA.</div>
+</div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Key Responsibilities:</b></h3>
+<div><ul>
+<li>
+Develop product requirements, manage backlog and produce release plans, schedules, and near and long-term roadmaps for the development of new metrics and improvement of existing metrics in collaboration with Engineering and the rest of the Product team
+</li>
+<li>Communicate effectively across the organization to provide the appropriate level of transparency on upcoming Product plans, releases, &amp; roadmaps to Executives, Sales, Customer Success, Support and others with a need to know</li>
+<li>
+Develop and maintain an intimate understanding of our data platform and end-user products including underlying data, validation processes, transportation metrics, calibration techniques and visualizations and their applications in customer use cases
+</li>
+<li>Develop a thorough understanding of the data science / data engineering and feature commercialization processes at StreetLight including algorithmic development, system architecture, machine learning techniques, data acquisition and licensing processes from data suppliers
+</li>
+<li>Enable the development and commercialization of new data metrics for the transportation industry and their integration into our platform</li>
+<li>
+Understand the StreetLight organization, business objectives and growth plans, product constituencies, and product management needs</li>
+<li>
+Develop product requirements that meet end customer needs by leveraging a deep understanding of the transportation planning and operations industry and through collaboration with our sales team, prospects, &amp; customers</li>
+<li>
+Proactively gather and synthesize information from internal and external sources about market trends, competitive offerings, prospect and customer unmet needs and requirements as inputs to product planning
+</li>
+<li>Collaborate closely with our teams to ensure any new product education or training, marketing materials or promotions, or prospect and/or customer communications can be completed and distributed to internal and external users in a timely, effective and efficient manner
+</li>
+<li>Travel from time to time to meet with prospects, customers, attend trade shows or visit other StreetLight Data offices as needed</li>
+</ul></div>
+</div></div>
+<div><div>
+<h3 class="jobSectionHeader"><b>Skills &amp; Qualifications:</b></h3>
+<div><ul>
+<li>
+3 or more years of product management experience in commercial software companies focused on big data, mobility, or navigation products and/or services that utilize machine learning in a quantitative field; experience in a SaaS product environment a strong plus
+</li>
+<li>BS or equivalent in Engineering or Computer Science, or in Civil Engineering with a concentration in Transportation Planning or equivalent</li>
+<li>
+Proven track record of effectively gathering and transforming complex market data and customer into insights to produce prioritized product roadmaps
+</li>
+<li>Demonstrated experience collaboratively working in a product development environment with data scientists, data / software engineers, QA and support to define and deliver products, manage release schedules and support Marketing and Sales in go-to-market education, training and launch processes</li>
+<li>
+Experience in Agile Development methodologies a strong plus</li>
+<li>
+Naturally a model-based thinker with good business and technical judgment, numerically facile with ability to create new frameworks for data /information analysis, balance competing priorities and interests, and evaluate and transparently communicate the trade-offs between execution options
+</li>
+<li>Superior verbal, written and visual communication skills that enable you to clearly explain complex concepts to internal or external audiences through formal and informal, verbal and written presentations and reports</li>
+<li>
+Experience using a wide-range of tools and technologies such as JIRA, Confluence, Microsoft Office applications, project management tools; GIS systems a strong plus</li>
+<li>
+Extremely well-organized, logical thinker with a positive outlook that can take large projects and break them down into manageable tasks with achievable goals and schedules for yourself and others
+</li>
+<li>Self-starter that thrives in a fast-paced environment and enjoys problem-solving</li>
+<li>
+Open, honest, direct and respectful communicator, a collaborative team player that knows how to work with others to get things done in a positive manner</li>
+</ul></div>
+</div></div>
+</div></div>

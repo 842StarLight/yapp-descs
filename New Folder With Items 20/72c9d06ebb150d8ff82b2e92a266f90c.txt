@@ -1,0 +1,61 @@
+<h2>Senior Software Development Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>
+<div><b>Why work at PeraHealth?</b></div>
+<div></div>
+<div>Our mission is to save lives. PeraHealth is a software company that uses the Rothman Index to transform the clinical and financial efficiency of healthcare. The Rothman Index is the first algorithm that derives one simple score from the vast amount of data in the electronic medical record to create a picture of any patient’s condition over time – any age, any disease, any unit. Our employees wake up every day knowing what they do matters. Regardless of your craft or level, every person counts, has a voice, and impacts the value of our organization.</div>
+<div></div>
+<div><b>Who are we looking for?</b></div>
+<div></div>
+<div>You are a person that never stops learning and enjoys picking up new technologies and applying them at a high level. You thrive in an environment with autonomy, where collaboration is encouraged. You have a natural inclination to share your knowledge with others and mentor less experienced developers. You prefer to be challenged, and the idea of becoming a high-impact member of a smaller software development team appeals to you. If this sounds like you, then this is your opportunity to build your career with a fast growing software company!</div>
+<div></div>
+<div>As the Senior Software Developer, you are responsible for leading the design, development, implementation and maintenance of PeraHealth’s life saving products. You will be accountable for the completion of projects according to committed timelines, and mentoring other developers within the scope of the project’s delivery. You have a concrete understanding of the methodology, design, specifications, programming, delivery, monitoring and support standards across products and communicate them as appropriate. You will work collaboratively and effectively within and across teams, primarily with Product Management, Development, Analytics, Sales and Account Management. You will have the opportunity to mentor members of the development team in regard to your area of expertise, and to become a subject-matter expert in at least one relevant technology.</div>
+<div></div>
+<div>This position is located in our headquarters in Charlotte, NC. You will have the flexibility to work remote as needed. This is your opportunity to build your career with a fast growing software company!</div>
+<div></div>
+<div><b>What will you do?</b></div>
+<ul>
+<li>Lead the design and implementation of new innovative product development, including velocity estimation, sprint planning, documentation, and support</li>
+<li>Be accountable for the delivery of complex development projects, with appropriate test coverage, in accordance with the committed timelines</li>
+<li>Share your expertise with the development team and provide mentorship to software developers and associate software developers</li>
+<li>Identify, prioritize, and execute tasks in the software development life cycle</li>
+<li>Maintain existing life-saving products</li>
+<li>Write well-designed, testable, efficient code</li>
+<li>Ensure that adequate testing coverage is maintained by following the TDD methodology</li>
+<li>Automate tasks through appropriate tools and screening</li>
+<li>Participate in sprint planning, task estimation, design discussions, and standups</li>
+<li>Support and troubleshoot issues</li>
+<li>Participate in creating and updating technical documentation</li>
+<li>Ensure compliance with industry regulations, quality systems, and security requirements</li>
+<li>Work effectively as part of a development team and with other PeraHealth teams</li>
+</ul>
+<div><b>Your qualifications include:</b></div>
+<ul>
+<li>Bachelor’s degree in Computer Science or Engineering</li>
+<li>7+ years working as a Software Developer (preferably in an Agile environment)</li>
+</ul>
+<div><b>You are:</b></div>
+<ul>
+<li>An excellent written and verbal communicator to both technical and non-technical audiences</li>
+<li>Knowledgeable in Agile best practices, sprint planning, and velocity estimation</li>
+<li>Accountable for commitments</li>
+<li>Resourceful and independent</li>
+<li>Someone who loves to continuously learn</li>
+<li>Stays current on new technologies</li>
+</ul>
+<div><b>Your experience includes:</b></div>
+<ul>
+<li>Expert in Java and the Spring Framework (JPA, JDBC, MVC) or in Angular/UI development</li>
+<li>Version control (Git)</li>
+<li>Database design and SQL</li>
+<li>Object-oriented design and coding</li>
+<li>Programming principles</li>
+<li>Design patterns</li>
+<li>Test driven development and unit testing</li>
+<br>
+</ul>
+<div></div>
+<div>PeraHealth is an equal opportunity employer.</div>
+</div>
+<div></div>
+</div>

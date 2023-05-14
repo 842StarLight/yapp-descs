@@ -1,0 +1,61 @@
+<h2>eCommerce Development Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p></p>
+<div>
+<div><div><div>
+<p><b>About Charlotte's Web</b>™:</p>
+<p>Charlotte's Web™ products are made from our world-renowned hemp genetics grown 100% in the USA. Founded by the Stanley Brothers of Colorado, Charlotte’s Web™ leads the industry in quality, safety, consistency and social responsibility to improve thousands of lives daily through the use of Charlotte's Web™. At Charlotte’s Web™, we are driven by principles that extend far beyond the bottom line. It is our goal to provide products of the highest possible quality, while contributing to the sustainability of the communities we have the privilege of serving.<br>
+</p>
+<p><b>Position Summary:</b></p>
+<p>The Ecommerce Development Manager will be responsible for a four person Ecommerce development/QA team reporting directly to the CIO of the company.</p>
+<br>
+<p></p>
+<p><b>Essential Duties:</b></p>
+<ul>
+<li>Ensure “consumer-first” approach to developing the website, through smooth UX.</li>
+<li>Both manage engineering staff and directly develop in Magento/PHP including requirements analysis, design, coding, testing, and support</li>
+<li>Develop custom interfaces between the Magento ecommerce site and third-party applications as required</li>
+<li>Ensure that all related documentation (business requirements, technical designs, etc.) are created, maintained and available in a central repository.</li>
+<li>Coordinate cross-functionally with other departmental managers and Subject Matter Experts (SMEs) in Accounting / Finance, Marketing, Sales, Supply Chain, and Manufacturing.</li>
+<li>Support corporate objectives and global growth strategies</li>
+<li>Provides recommendations for improvements</li>
+<li>Responsible for escalating support issues to third-parties, as needed</li>
+<li>Provide regular project status reports</li>
+<li>Predict project risk factors and address proactively</li>
+</ul>
+</div></div></div>
+<div></div>
+<div><div><div>
+<p><b>Qualifications:</b></p>
+<ul>
+<li>Must have 5+ years of Ecommerce development experience</li>
+<li>Must be proficient with a Magento 2.0 eCommerce platform</li>
+<li>PHP, HTML, CSS, JavaScript, Linux and SQL skills</li>
+<li>Understanding of React and/or other client-side JavaScript MVC or View-Model frameworks</li>
+<li>Experience in working in an Agile development environment</li>
+<li>Bachelor’s Degree in Information Technology or related field</li>
+<li>Experience in hiring and supervising an ecommerce development staff</li>
+<li>Excellent planning and project management skills</li>
+<li>Self-starter with a high level of initiative and strong sense of ownership</li>
+<li>Strong communication and interpersonal skills</li>
+<li>Experience working in the CPG industry preferred</li>
+<li>Experience with both B2C and B2B business models preferred</li>
+<br>
+</ul>
+<p></p>
+<p><b>Benefits:</b> We offer best-in-class benefits, including:</p>
+<ul>
+<li>Company-Paid Medical, Dental, and Vision</li>
+<li>3 Weeks of Paid Vacation Your First Year</li>
+<li>401K Match with Automatic Vesting</li>
+<li>Up to 9 Weeks Paid Parental Leave</li>
+<li>Self-Tailored Wellness Program</li>
+<li>Generous Employee Discount</li>
+<br>
+</ul>
+<p></p>
+<p>Charlotte’s Web™ provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</p>
+<p>This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. Charlotte’s Web™ is an At-Will Employer.</p>
+</div></div></div>
+</div>
+</div>

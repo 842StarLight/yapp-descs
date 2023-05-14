@@ -1,0 +1,51 @@
+<h2>Software Engineer/Data Integrations</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div><div>
+<b>The Organization</b><br>
+Be part of the data story at Kaufman Hall. Ensure successful integration of business critical data from client’s enterprise systems to enable powerful analytics. Design, develop and deliver solutions.<br>
+<br>
+Kaufman Hall provides management consulting and software to help organizations realize sustained success amid changing market conditions. Since 1985, Kaufman Hall has been a trusted advisor to boards and executive management teams, helping them incorporate proven methods into their strategic planning and financial management processes, and quantify the financial impact of their plans and strategic decisions to consistently achieve their goals.<br>
+<br>
+Kaufman Hall’s Axiom Software provides sophisticated, flexible performance management solutions that empower finance professionals to analyze results, model the future, and optimize organizational decision making. Solutions for long-range planning, budgeting and forecasting, reporting and analytics, consolidations, capital planning, and profitability and cost management are delivered on a single integrated software platform.<br>
+<br>
+<b>The Position</b><br>
+Kaufman, Hall &amp; Associates is seeking a Software Engineer / Data Integrations that will be part of a team of Software Engineers responsible for the core platform and infrastructure known as Axiom Software. The successful candidate will be a strong Software Integration Engineer that wants to play a very strategic role in our future, while staying current in engineering. Reporting into the Engineering Manager:<br>
+<br>
+<ul>
+<li>Software Engineer with strong emphasis on Data Integrations</li>
+<li>Support, inform and execute on technical and strategic vision</li>
+<li>Work with the core engine and infrastructure for all of the Kaufman Hall products, with a specific focus on the Azure based enterprise platform. This will cover a wide range of technologies and capabilities ranging from database design and optimization, to scheduling and scaling services. Reporting, process management, and numerous other core capabilities are all managed within this team.</li>
+<li>Have responsibility for the integrations engine used by all products allowing for direct connections to and from numerous external products. This includes all aspects of ETL.</li>
+<li>Ability to work directly with 3rd party vendors on a technical level. Requires strong verbal, and written communication skills</li>
+<li>Strong data management skills</li>
+<li>Ability to work with existing APIs utilizing multiple technologies including direct to database and REST based systems</li>
+<li>Able to implement integrations</li>
+<li>Experience working with large data sets and managing these at scale</li>
+<li>Work with project managers, sales team members, and other technical staff, to coordinate integrations between the company and its clients, and third-party service providers.</li>
+<li>Talk directly with customers to help them understand integration options, SDK / API's available, data formats, Single Sign On, Import/Export options and negotiate protocols.</li>
+<li>Create technical analysis, estimates, use cases, and technical design of solutions. Create and execute proof of concepts when appropriate.</li>
+<li>Manage and implement customer integration projects as assigned from start to finish.</li>
+<li>Troubleshoot existing integrations with support staff on behalf of clients and third party service providers.</li>
+<li>Provide technical guidance and feedback to team members including management, sales staff, system engineers, service engineers, and project managers.</li>
+</ul>
+<br>
+<b>
+Qualifications</b><br>
+<ul>
+<li>Must have a solid technical background, and experience in designing and developing software for enterprise systems</li>
+<li>High proficiency with Microsoft .Net, SQL Server, SQL Analysis Services and MS Azure, C#, JSON/RSET APIs</li>
+<li>Experience managing partnerships with 3rd parties, for purpose of managing integrations</li>
+<li>Experience implementing and maintaining technical integrations internally and externally</li>
+<li>Strong analytical skills, financial acumen and strategic business capabilities are required.</li>
+<li>Technically competent regarding software development, enterprise architecture, underlying database design and ergonomic user interfaces.</li>
+<li>Strong oral communication skills. Able to effectively present ideas, roadmap elements, status updates and/or proposals to peers and upper levels of management, including non-technical staff.</li>
+<li>Exceptional written communication skills in support of platform visioning, market, business and functional requirements.</li>
+<li>Experience with middleware development and ability to integrate applications.</li>
+<li>Experience working in a collaborative team of application developers and source code repositories. TFS is preferred</li>
+<li>Good team player</li>
+</ul>
+<br>
+<b>
+Education:</b><br>
+<ul><li>Bachelor’s degree required</li></ul>
+<br>
+Kaufman, Hall, &amp; Associates, LLC. is an equal opportunity/affirmative action employer. All qualified applicants will be considered without regard to age, race, color, religion, sex, national origin, marital status, ancestry, citizenship, veteran status, sexual orientation or preference, or physical or mental disability or other legally protected category.</div></div></div>

@@ -1,0 +1,132 @@
+<h2>Field IT Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>Core Services Engineering builds, manages and maintains the critical products &amp; services on which Microsoft runs. We boldly pursue lofty ideas that power transformational advances at Microsoft &amp; for our customers, while helping Microsoft teams work smarter, faster &amp; more securely every day. Core Services Engineering employees have deep technical &amp; business expertise, customer insights, &amp; a clear point of view that comes from first-hand, large-scale experience with Microsoft &amp; industry solutions. We are engineers, technology leaders &amp; experts, digital transformation change agents, &amp; customer advocates.</div>
+<div>
+We have exciting opportunities for you to innovate, influence, transform, inspire &amp; grow within our organization &amp; we encourage you to apply to learn more!</div>
+<div></div>
+<br>
+<div>
+Do you want to be part of the team that provides End User desktop, Audio/Video, product and application support to Microsoft’s TOP Executives worldwide? Do you want to work on bleeding edge technologies including devices, software, services, infrastructure, Audio Video equipment &amp; collaboration products? Do you want to help improve &amp; shape Microsoft products &amp; services? Do you relish opportunities to enable others success &amp; ensure workplace productivity of the Microsoft Executive community? If you answered ‘Yes’ to ALL these questions, then you may be a candidate for Microsoft's Executive Support Service team!</div>
+<div></div>
+<br>
+<div>
+Microsoft’s Global Support group provides an exclusive Executive Support Service designed to quickly resolve technology related issues for Microsoft executives &amp; associated executive assistants through three unique, yet closely coordinated, client support functions: Service Desk, Deskside Support, and Meeting support. Our team of Highly skilled technicians, trusted advisors, &amp; service managers provide the highest level of dedicated, technical troubleshooting, service fulfillment, &amp; customer support 24 hours a day, seven days a week to the top Executives of the World's leading Cloud Service &amp; Technology Service provider. This role has the unique ability to enable the company's top Executives ability to continue leading the industry in the Cloud Services arena while simultaneously leading their respective divisions &amp; driving innovation, sales, &amp; services to customers around the globe. This role will partner closely with Product group development teams, Tier 2 &amp; 3 Engineering team, Program Management, Technical Account Managers, Field IT Managers, Human Resources, &amp; our Venture Integration teams.</div>
+<div></div>
+<br>
+<div>
+The Executive Support Technician role is instrumental in ensuring the company's Executive community technology assets are fully functional ensuring capabilities &amp; productivity of the Executives are guaranteed. This role requires the ability to apply industry knowledge &amp; practical field experience across numerous products, platforms, &amp; services to address &amp; support Executive issues &amp; various scenarios while enjoying a fun, flexible, exciting, &amp; collaborative work environment. This role requires frequent, face-to-face interaction with Senior Executives across all Microsoft campus locations in the Puget Sound with mileage being a reimbursable expense along with reimbursable cell phone costs within company established limits.</div>
+<div></div>
+<br>
+<div>
+We seek an exceptionally talented &amp; experienced Technician who possesses a rare blend of Interpersonal, Service Management, &amp; Technical support skills which will be utilized daily. This role is uniquely positioned &amp; expected to demonstrate unprecedented professionalism, situational awareness, composure, responsiveness, superior technical support &amp; exceptional troubleshooting skills. As an Executive Support Technician supporting the Microsoft Executive clientele, you must consistently demonstrate adaptability, customer focus, outstanding judgement, ability to influence for impact, &amp; deliver outstanding business results. You are a "People Person" with outstanding Technical knowledge &amp; skills. Critical to the success of this role, &amp; the Executive Support Service team, is the ability to manage one's self &amp; critical relationships under dynamic &amp; stressful situations. Your ability to apply a variety of approaches, as appropriate, to effectively manage a myriad of situations &amp; challenges is a critical &amp; a foundational capability of this role. Insightful, agile, flexible, dedicated, &amp; competent are attributes that must describe you. The candidate is expected to not only resolve IT related issues &amp; incidents, but to identify opportunities, methods, &amp; solutions to proactively identify &amp; avoid them all together. As this role interacts &amp; supports Microsoft's top Executives, the Board of Directors, &amp; the Technical Fellow community, critical skills &amp; capabilities including professionalism, executive presence, outstanding communication, coordination, &amp; of course top tier Technical aptitude are a combination of skills that the candidate MUST already possess &amp; will leverage daily</div>
+<h2 class="jobSectionHeader"><b>
+Responsibilities</b></h2>
+<div></div>
+<br>
+<ul>
+<li>
+Providing direct support to a defined set of Microsoft Executives, their Administrative Assistants, Technical Fellows, &amp; the Microsoft Board of Directors.</li>
+<li>
+Liaison between the Executive Community &amp; the Product/Engineering groups, PM, &amp; Engineering teams collecting &amp; presenting customer experiences to Product/Engineering groups, TAMS, &amp; IT Service Manages based on technology &amp; product issues encountered across the Executive community.</li>
+<li>
+Demonstrate End-to-End Innovation, technical depth &amp; breadth across the product portfolio through the performance of typical work activities.</li>
+<li>
+Possess advanced analytical problem-solving skills that effectively leverages &amp; references data to evaluate situations &amp; determine potential solutions &amp; strategies.</li>
+<li>
+Possess &amp; demonstrate technical knowledge &amp; mastery of both Microsoft &amp; competitors' products, technologies, &amp; services.</li>
+<li>
+Perform project management including scheduling, tracking, reporting, resource allocation, &amp; managing all aspects of project delivery.</li>
+<li>
+Leverage Azure DevOps (ADO), PowerBI, ICM, &amp; Service Now to perform project management, incident, &amp; problem management functions.</li>
+<li>
+Establish &amp; ensure weekly project reporting occurs including tracking &amp; communicating schedule changes, delays, &amp; accelerations for initiatives associated with the Executive community.</li>
+<li>
+Deploy, configure, upgrade, troubleshoot &amp; support Enterprise grade Audio Video equipment providing collaboration &amp; meeting service to Microsoft Executives.</li>
+<li>
+Provide technical consultation, recommendations, evaluations of AV solutions for the Executive Community.</li>
+<li>
+Provide Executive meeting planning, preparation, and support focused on the AV products and technologies deployed in the hosting location.</li>
+<li>
+Perform incident management (break/fix), problem management, problem avoidance, analysis, &amp; evaluation of the AV services deployed for Executive clients.</li>
+<li>
+Maintain &amp; manage AV equipment inventory for the Executive Community.</li>
+<li>
+Perform RMA &amp; equipment maintenance &amp; repair through close collaboration &amp; partnership with OEM suppliers.</li>
+<li>
+Advise, collaborate, &amp; recommend technology updates based on Executive community feedback.</li>
+<li>
+Perform post incident reviews &amp; Root cause analysis.</li>
+<li>
+Ensure Executive Client AV solutions are maintained in an organized &amp; optimized state.</li>
+<li>
+Maintain Executive conference rooms database &amp; reporting systems containing specifications, digital images, room directions (print &amp; electronic versions), audio visual capabilities, standard room set up &amp; peripheral inventory.</li>
+<li>
+Inspect &amp; maintain appearance/functionality of Executive conference rooms for quality assurance &amp; also responsible for facilitating work order escalations.</li>
+<li>
+Provide best in class support for Microsoft &amp; deployed meeting &amp; collaboration solutions, applications, equipment, &amp; infrastructure.</li>
+<li>
+Provide the highest quality technical assistance in utilizing collaboration tools, including Skype for Business, Microsoft Teams, video teleconferencing, &amp; video production equipment as well as AV diagnostic tools &amp; equipment as needed.</li>
+<li>
+Prepare, coordinate, &amp; conduct Executive Meeting &amp; Event support at or above Platinum level AV support levels as outlined by Microsoft AV Link standards.</li>
+<li>
+Provide pre-event notifications, &amp; post event summary reports detailing issues, outcomes, &amp; client effectiveness of Meeting experience for Microsoft Executives.</li>
+<li>
+Ensure &amp; maintain personal expertise on current &amp; emerging audio video services, equipment, &amp; meeting solutions, including Event Recording, Streaming, Podcasting, &amp; post-production services.</li>
+<li>
+Occasional (5% of the time or less) domestic, or international travel may be required.</li>
+</ul>
+<h2 class="jobSectionHeader"><b>
+Qualifications</b></h2>
+<div></div>
+<br>
+<ul>
+<li>
+1-2 years of demonstrated experience in Desktop Support, AV Support, or other similar technical support positions.</li>
+<li>
+1-2 years of demonstrated expertise with Microsoft Windows Operating systems, messaging &amp; email products including Microsoft Exchange &amp; Outlook, Skype for Business &amp; Microsoft Teams.</li>
+<li>
+1-2 years Hands on experience with Microsoft's Active Directory, Remote Desktop services, &amp; Remote assistance tools in an Enterprise environment.</li>
+<li>
+1-2 years PC Hardware, peripheral, mobile devices, printer, &amp; networking repair &amp; support experience.</li>
+<li>
+1-2 years of demonstrated experience with various Microsoft Office products (IE: Outlook, Word, Excel, PowerPoint, Visio, Access) as well as various client browsers (IE, Edge, Firefox, Chrome, Safari, Opera).</li>
+<li>
+Candidate must possess a mode of reliable transportation (vehicle)</li>
+<li>
+Candidate must be US Citizen or already possess authorization to work in the US. Visa sponsorship is not provided in this role.</li>
+</ul>
+<div></div>
+<br>
+<div><b>
+Preferred, not required:</b></div>
+<div></div>
+<br>
+<ul>
+<li>
+Microsoft Certified Professional, Microsoft Certified Systems Administrator, or a Microsoft Certified Systems Engineer certification.</li>
+<li>
+Possesses both outstanding written &amp; verbal communication skills.</li>
+<li>
+Practical experience supporting Mobile devices including Windows Phones, Android devices, &amp; iPhones.</li>
+<li>
+Expertise with PowerShell scripting highly valued</li>
+<li>
+Practical experience implementing &amp; using Azure DevOps (ADO) &amp; PowerBI.</li>
+</ul>
+<div></div>
+<br>
+<div>
+The ideal candidate has a demonstrated history (1+ years) of providing technical support, Audio/Video &amp; meeting support, &amp; is passionate about the customer. The candidate is forward looking &amp; passionate about working on bleeding edge technologies including devices, software, services, infrastructure, Audio Video equipment &amp; collaboration products. The ideal candidate has a desire &amp; drive to improve &amp; shape Microsoft products &amp; services. The candidate relishes opportunities to enable others success &amp; ensure workplace productivity of the Microsoft Executive community. The candidate enjoys a fast paced, team-oriented work environment where the customer is always the top priority.</div>
+<div></div>
+<br>
+<div>
+#CSEO#EUSEJOBS</div>
+<div></div>
+<br>
+<div>
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</div>
+<div></div>
+<br>
+<div>
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.</div>
+</div></div>

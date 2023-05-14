@@ -1,0 +1,128 @@
+<h2>Timing Software Applications Engineer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Please Note:
+</b></p>
+<p><b>1. If you are a first time user, please create your candidate login account before you apply for a job. (Click Sign In &gt; Create Account)
+</b></p>
+<p><b>2. If you already have a Candidate Account, please Sign-In before you apply.
+</b></p>
+<p></p>
+<p><b>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, citizenship, disability or protected veteran status.
+</b></p>
+<p></p>
+<h2 class="jobSectionHeader"><b>Job Description:
+</b></h2>
+<p></p>
+<p>Broadcom Inc. is a leading designer, developer and global supplier of a broad range of
+<br>
+digital and analog semiconductor connectivity solutions. Broadcom’s extensive product
+<br>
+portfolio serves four primary end markets: wired infrastructure, wireless
+<br>
+communications, enterprise storage and industrial &amp; other. Applications for our products
+<br>
+in these end markets include: data center networking, home connectivity, set-top box,
+<br>
+broadband access, telecommunications equipment, smartphones and base stations,
+<br>
+data center servers and storage, factory automation, power generation and alternative
+<br>
+energy systems, and electronic displays. For more information, go to
+<br>
+www.broadcom.com.<br>
+</p>
+<p><br>
+The build-out of 5G networks will require an increase in capacity of the mobile network
+<br>
+by a factor of ten or more and a simultaneous tightening of key synchronization
+<br>
+requirements. While Ethernet technology is very high capacity, it has not met the strict
+<br>
+synchronization and jitter requirements of cellular networks in the past. IEEE’s new
+<br>
+802.1CM (Time-Sensitive Networking for Fronthaul) standard provides a
+<br>
+synchronization solution that solves this problem and the cellular network can now be
+<br>
+upgraded to an end-to-end Ethernet-based architecture that meets the cost, capacity,
+<br>
+and performance requirements of 5G.<br>
+</p>
+<p><br>
+As an experienced Timing Software Applications Engineer you’ll act as a technical lead
+<br>
+working with customers to build the next generation Ethernet-based Network
+<br>
+architectures using Broadcom’s cutting edge StrataXGS and StrataDNX Ethernet
+<br>
+switching product lines with emphasis on time synchronization over Ethernet.<br>
+</p>
+<div>
+<br>
+<b>Key Responsibilities
+</b><ul><li>Provide pre-sales and post-sales technical support for Broadcom’s time
+</li></ul>synchronization products and applications when deployed on the StrataXGS and
+<br>
+StrataDNX product lines
+<ul><li>With a focus on embedded software applications, be able to debug software and
+</li></ul>firmware issues, identify software bugs, and propose software fixes
+<ul>
+<li>Guide customers on the appropriate use of time sync APIs
+</li>
+<li>Write software application notes and knowledge base articles that enable
+</li>
+</ul>customers to effectively and efficiently deploy Broadcom’s time synchronization
+<br>
+products
+<ul>
+<li>Prepare and present effective training materials
+</li>
+<li>Work with Sales Account Managers and Technical Marketing Managers to
+</li>
+</ul>increase demand for Broadcom’s time sync products
+<ul><li>Act as technical liaison between the software development team and customer
+</li></ul>software development teams
+<br>
+Essential Skills and Qualifications
+<ul><li>In-depth understanding of IEEE1588, a standard defining a protocol which
+</li></ul>enables precise synchronization of clocks in measurement and control systems
+<ul><li>In-depth understanding of Synchronous Ethernet, an ITU standard for computer
+</li></ul>networking that facilitates the transfer of clock signals over the Ethernet physical
+<br>
+layer
+<ul>
+<li>Expertise with Calnex test equipment for PTP/1588, NTP, and SyncE
+</li>
+<li>Familiarity with associated ITU standards like G.8261, G.8263, G.8264, G.8265,
+</li>
+</ul>G.8271, and G.8275
+<ul><li>Familiarity with the Combined Switching Group (CSG) XGS and or DNX
+</li></ul>switching product lines and associated Software Development Kit (SDK)
+<ul>
+<li>Familiarity with embedded and Real-time operating systems
+</li>
+<li>Strong problem-solving and debugging skills, with the ability to work in a
+</li>
+</ul>multidisciplinary team environment
+</div>
+<p></p>
+<div>
+<b>Job Requirements
+</b><ul><li>8+ years of relevant industry experience with timing architecture definition,
+</li></ul>design, and support including experience with 1588 and Synchronous Ethernet
+<ul>
+<li>BSEE/BSCS required
+</li>
+<li>Strong verbal and written communication skills
+</li>
+<li>Team player, independent, self-starter, adaptable to rapidly changing market
+</li>
+</ul>requirements, with prioritization skills
+<ul><li>Be able to build strong relationships with customers. Demonstrated success
+</li></ul>calling on decision makers in target account base
+<ul><li>Past record of success
+</li></ul>
+</div>
+<p></p>
+<p><b>If you are located outside USA, please be sure to fill out a home address as this will be used for future correspondence.</b></p>
+</div></div>

@@ -1,0 +1,73 @@
+<h2>Technical Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<div>
+<div>As the Information Company, our mission at OpenText is to create software solutions and deliver services that redefine the future of digital. Be part of a winning team that leads the way in Enterprise Information Management.</div>
+</div>
+<div>
+<p><b>The opportunity:</b>
+</p>
+<p>As a Senior/Principal Technical Consultant in the eDOCS Professional Services Practice you will Lead Technical Consultants, Business Consultants, and Project Managers in the delivery of OpenText eDOCS Document Management solutions from a domain business practice and technical perspective. You will be responsible for delivering quality configurable and customized implementations that meet the customer’s needs in accordance with documented business, user and functional requirements.</p>
+<p><b>You are great at:
+</b></p>
+<ul>
+<li>Leading customer facing strategic, functional, and technical discussions from a business domain and technical expertise perspective</li>
+<li>Leading quality outputs for solution implementation planning, design, configuration, development, testing and overall technical delivery within a project’s timeline and in conjunction with the Project Manager</li>
+<li>Designing, Configuring, and implementing on various platforms and solutions</li>
+<li>Delivering configurations and customizations for small, medium and large sized projects</li>
+<li>Perform projects deliverables and activities to completion with fellow technical team members</li>
+<li>Participating in pre-sales when required.</li>
+<li>Provide technical and functional input for RFI’s/RFP’s</li>
+<li>Understanding and practical working experience in the Legal industry and the Legal Matter Lifecycle</li>
+<li>Providing suggested enhancements to the eDOCS Product Management team based on customer feedback and industry trends and implementation experience</li>
+<li>Helping with the growth of existing client relationships by being a trusted advisor as a technical lead resource</li>
+</ul>
+<p><b>What it takes:
+</b></p>
+<ul>
+<li>Minimum of a Bachelor’s Degree in Information Technology or equivalent.</li>
+<li>Minimum of 8 years of experience in more than one of the following Programming Languages, Applications and Tools:</li>
+</ul>
+<br>
+o Java o JDBC<br>
+o J2EE o HTML<br>
+o XML o DQL<br>
+o SQL o Oracle DB<br>
+o JavaScript o Microsoft SQL Server<br>
+o DFS o DFC<br>
+o D2FS o Eclipse<br>
+o SQL Developer o .NET<br>
+o Tortoise SVN o Shell Scripting<br>
+o C++ o Notepad/Notepad++<br>
+o SOAP web services o C#<br>
+o Oracle Weblogic o RESTful web services<br>
+o WebSphere o Apache Tomcat<br>
+<br>
+<ul><li>Minimum of 8 years of experience in more than one of the following Operating Systems and Web Services Tools:</li></ul>
+<br>
+o Windows XP/7/8/10/Server o Azure/AWS/Google Cloud<br>
+o Mac OS o VMware vCenter<br>
+<br>
+<ul><li>Minimum of 8 years of experience in more than one of the following Software Packages</li></ul>
+<br>
+o Office 2010/13/16/19/365 o Matter Management<br>
+o Acrobat o Contract Management<br>
+<br>
+<ul><li>Minimum of 5 years of experience in more than one of the following Enterprise Content Management Products &amp; Utilities:</li></ul>
+<br>
+o OpenText eDOCS<br>
+o OpenText EDM (Extended ECM for Engineering) or competitive solutions. o Documentum and/or OpenText Content Server<br>
+o Documentum D2<br>
+<br>
+<ul><li>Having Certifications in any of the following is a plus:</li></ul>
+<br>
+o OpenText eDOCS o OpenText Content Server<br>
+<br>
+<ul>
+<li>Strong team member that excels at both written and verbal forms of communication to varying degrees of audience.</li>
+<li>Independent, confident self-starter able to work with minimal direct supervision</li>
+<li>Strong understanding of Engineering related Content Management Solutions, associated business processes and Legal Technologies</li>
+</ul>
+<br>
+<ul><li>Able to travel up to 50% in North America</li></ul>
+</div>
+</div></div>

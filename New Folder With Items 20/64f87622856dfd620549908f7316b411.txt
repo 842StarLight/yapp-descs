@@ -1,0 +1,41 @@
+<h2>Product Manager</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">About the Role
+<br><br>
+At Namely, we are building the best all-in-one suite of HR SaaS products for mid-sized companies. Product Management drives the strategy, development and design of differentiated features and core functionality.
+<br><br>
+As Product Manager at Namely, you will be driving product definition, prioritization and execution, and working closely with Namely teams to deliver compelling HR solutions to the market. You will be leading and inspiring Engineering teams, ideating with Design to provide delightful user experiences, working cross functionally with other departments to rollout products, and collaborating with clients to deliver solutions that provide maximum business value.
+<br><br>
+Responsibilities
+<br><br>
+<ul>
+<li>Work with an immediate team of Data engineers in an agile environment to formulate and execute the Data product roadmap, which include features for Reporting, Analytics and Insights</li>
+<li>Effectively prioritize engineering tasks/features by taking into account level-of-effort vs impact and other trade-offs, informed by a solid understanding of engineering/design concepts and product development patterns</li>
+<li>Fully understand the customer user requirements for the software development lifecycle with the ability to identify product gaps and an eye for anticipating customer needs</li>
+<li>Work across Operations, Sales, Marketing and other departments to facilitate the roll out of product releases and beta programs and position Namely as a data-driven platform</li>
+<li>Write product requirements with clear acceptance criteria</li>
+<li>Proactively gather feedback from stakeholders (e.g. clients, sales, support, etc) and perform market research</li>
+<li>Be an advocate for the user when working with engineering throughout the product development cycle from vision to execution</li>
+<li>Use metrics and quantitative analysis to measure product benefits, gain insights, find opportunities, and build consensus on product direction and roadmap</li>
+</ul>
+Requirements
+<br><br>
+<ul>
+<li>3+ years of relevant experience a high tech startup, preferably in the B2B SaaS space</li>
+<li>Experience shipping customer facing features/applications</li>
+<li>Strong Analytical skills, including the ability to derive insights from data sets, analyze product usage, measure adoption, and understand client needs</li>
+<li>Knowledge of Data concepts (e.g. ETL, SQL, Data Pipelines, Event Streaming) and the ability to participate in engineering tradeoff discussions</li>
+<li>Ability to explore and understand data to drive decision making</li>
+<li>Experience crafting product requirements and specifications</li>
+<li>Understanding of UI/UX design concepts and principles</li>
+<li>Self-direction, drive and leadership</li>
+</ul>
+Nice to Have
+<br><br>
+<ul>
+<li>Computer Science degree or equivalent technical experience</li>
+<li>High level of proficiency in Data Warehousing, OLAP, Excel (pivot tables, vlookups, etc), SQL (joins, group bys, etc), and Spark</li>
+<li>Data Visualization &amp; Design experience</li>
+<li>Experience working in a startup environment</li>
+<li>Experience working in the HR industry</li>
+</ul>
+</div>

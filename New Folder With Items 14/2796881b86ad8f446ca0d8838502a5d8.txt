@@ -1,0 +1,52 @@
+<h2>Senior Demo Engineer - Front End Mobile Developer</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">Company Description
+<br>-------------------
+<br><br>
+Vlocity is a leading provider of industry-specific cloud and mobile software, driving digital transformation for the world's largest companies. A Forbes 2018 &amp; 2017 Cloud 100 Winner, Vlocity is an 'industry cloud' pioneer built in partnership with Salesforce, the world's #1 CRM provider, increases agility, operational efficiency and simplicity, at a lower cost of ownership for the enterprise. Vlocity's cloud software suite transforms customer centric processes and fuels innovation in the Communications, Media &amp; Entertainment, Energy &amp; Utilities, Insurance, Health, and Government vertical industries. Vlocity's values of trust, transparency and transformation drive customer, partner and employee success. Click here ( https://vlocity.com/company/careers/learn-more ) to learn more about Vlocity.
+<br><br>
+Job Description
+<br>---------------
+<br><br>
+Vlocity, Inc. is recruiting a Senior Demo Engineer – CPQ &amp; Product Modeling to help build Vlocity product demonstration capabilities for Vlocity Solution Consultants. The key to successfully delivering many of Vlocity's demos is the creation of sales catalogs and technical catalogs. The Senior Demo Engineer - CPQ &amp; Product Modeling will design and implement product modeling, catalog creation, and CPQ capabilities for our demos. The goal is to enable our Solution Consultants to deliver repeatable, reliable and reusable demo experiences that speak to customer workflows, process flows and business requirements.
+<br><br>
+This role will be part of the Demo Engineering Team. We work within the broader Vlocity Solution Consulting organization and our goal is to provide a trusted single source of truth regarding the latest demo environments – so that our Solution Consultants can confidently demo the latest, stable product capabilities to customers. This role will report to the VP Demo Engineering, and will be part of Vlocity's first dedicated Demo Engineering team – helping Soution Consultants deliver faster and more accurate demos – directly contributing to the hyper-growth of our company.
+<br><br>
+We seek a talented Senior Demo Engineer - CPQ &amp; Product Modeling with experience in working with – and serving as a trusted advisor to - internal stakeholders including Solution Consulting and Product Development, to design and shape unique and extensible Enterprise level experiences.
+<br><br>
+.Responsibilities
+<br><br>
+<ul>
+<li>Collaborate with product teams (primarily Communications and Utilities) and Solution Consultants to understand demo requirements</li>
+<li>Define and implement innovative solutions for demo visuals and user experience</li>
+<li>Build and implement Product Models and CPQ designs for the Demo Org; which can then be fed back into Engineering as required</li>
+<li>Conduct testing of completed applications, websites and software to assess user experience</li>
+<li>Bias to making those around you successful and are comfortable working as a team player</li>
+<li>Contribute to building a positive, can-do, high-performance culture</li>
+</ul>
+Experience
+<br><br>
+<ul>
+<li>Ideal candidate has experience working in the Comms and/or Utilities verticals – and understands the business requirements and common processes for these verticals</li>
+<li>Ideal candidate has experience working in agile teams, with developers, UX designers and product management – must enjoy the 'small company' challenge</li>
+<li>Product modeling and ability to construct catalogs that simplify the sales experience while enabling complexity in the back office</li>
+<li>Created CPQ designs to produce optimal order capture flows</li>
+<li>Excellent communication skills, both written and verbal</li>
+<li>Experience and desire to work within a fast-paced, iterative sales and development environment</li>
+</ul>
+Technical Skills
+<br><br>
+<ul>
+<li>Product modeling</li>
+<li>Product catalog and CPQ solutions (e.g., Siebel, Apttus, Steelbrick, NetCracker, Amdocs, ModelN, …)</li>
+<li>Salesforce</li>
+<li>Vlocity</li>
+</ul>
+Desired Certifications / Qualifications
+<br><br>
+<ul>
+<li>Vlocity certifications</li>
+<li>Salesforce.com certifications: Developer, Administrator, CPQ Specialist</li>
+<li>Bachelor's or Master's degree in Computer Science, Software Engineering, STEM Subject, Business or a related field</li>
+<li>TM Forum (SID, eTOM, TAM)</li>
+</ul>
+Vlocity welcomes all. In our journey as a company -- and as individual Vlociters -- we recognize that our diversity is our strength. We are proud to be an Equal Employment Opportunity employer. All aspects of employment including our decisions to recruit, hire, promote, transfer, discipline, or separate are based on merit, competence, performance, and business needs. We do not discriminate on the basis of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. We are committed to creating an inclusive environment for all employees to bring their authentic selves to work every day. We provide accommodation for our Vlociters with disabilities both seen and unseen in the spirit and letter of the Americans with Disabilities Act (ADA).</div>

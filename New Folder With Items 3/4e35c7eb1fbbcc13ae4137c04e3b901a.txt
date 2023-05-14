@@ -1,0 +1,48 @@
+<h2>Senior Analytics Consultant</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<p>Pointillist seeks a Senior Consultant to participate in the implementation of customer software and to provide analytic insights. Pointillist is a rapidly growing provider of an innovative and award-winning SaaS customer journey analytics platform. Pointillist enables customer experience and marketing teams to easily connect the dots between customer interactions and business outcomes across channels, programs, and time. We make it easy for organizations to quickly discover and optimize the experiences that matter most to their customers and to their company.</p>
+<p>This Analytics role is an integral part of the Customer Success &amp; Services organization. We ensure our customers are successful adopters of Pointillist through an onboarding and management process that is personalized, efficient, and agile. For us, customer success goes beyond managing an account. It’s about becoming an extension of our customers – closely understanding their aspirations and businesses challenges and helping them derive the most value from the Pointillist platform. Pointillist encourages collaboration across departments, so the Customer Success team interacts extensively with the Product Management, Engineering, Sales, and Marketing groups.</p>
+<p><b>In this role you will . . .</b></p>
+<ul>
+<li>Work on the initial implementation for new customers including the data mapping, development, documentation, quality assurance, change control, and schedule planning</li>
+<li>Serve brand name customers across a range of industries to drive impactful business value</li>
+<li>Become a SME on the product and lead the ingestion of massive data volumes into the Pointillist platform via batch and real-time methods using cutting edge tools, and integrate with downstream customer and third-party systems</li>
+<li>Partner cross-functionally to translate business needs into new solutions for customers</li>
+<li>Facilitate meetings, trainings, and knowledge transfer sessions tailored to individual customer needs with a goal of long-term self-sufficiency</li>
+<li>Influence the Pointillist product roadmap via your understanding of and advocacy for customers’ needs</li>
+</ul>
+<p><b>You have . . .</b></p>
+<ul>
+<li>Bachelor’s degree: B.S. Computer Science, Software Engineering, MIS, or equivalent work experience</li>
+<li>5+ years of analytics experience in: Business Intelligence (BI) or Data Warehouse (DW) experience within complex company environments, preferably in a customer-facing, consultative role</li>
+<li>Experience writing Python code for data ingestion or data processing at large scale is preferred</li>
+<li>Experience with AWS components and tools is preferred</li>
+<li>Demonstrated ability to work independently with superior organizational skills and attention to detail</li>
+<li>Experience with Agile development approaches</li>
+<li>Up to 50% travel to the customer location is possible</li>
+</ul>
+<p><b>Others describe you as . . .</b></p>
+<ul>
+<li>A strong collaborator</li>
+<li>Curious and someone who loves to crack a tough problem</li>
+<li>Someone who enjoys the fast-paced start-up always changing environment and the flexibility it provides</li>
+<li>Having a high level of integrity, trustworthy, and a good listener</li>
+<li>Skilled at coaching and mentoring other team members, customers, and partners on data integration methods and tools</li>
+</ul>
+<p><b>About Pointillist the Company</b></p>
+<p>Pointillist is located in Boston’s vibrant Seaport district, just steps away from South Station. Founded in 2014, Pointillist is rapidly growing by enabling companies like Comcast, Gamestop and Nissan to quantify and improve customer experience. Pointillist has already been recognized as an industry leader by Forrester, the Edison Awards, the Stevie Awards, Customer Magazine, and Best in Biz. Take your career to the next level by joining our world-class team, which includes leaders in data science, artificial intelligence, machine learning, customer success, sales and marketing.</p>
+<p><i>POINTILLIST is an Equal Employment Opportunity/Affirmative Action employer. We are committed to the policy of providing equal employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, veteran status, disability or national origin. POINTILLIST utilizes the E-Verify Employment Verification system. </i></p>
+<p>Job Type: Full-time</p>
+<p>Additional Compensation:</p>
+<ul><li>Bonuses</li></ul>
+<p>Work Location:</p>
+<ul><li>Multiple locations</li></ul>
+<p>Benefits:</p>
+<ul>
+<li>Health insurance</li>
+<li>Dental insurance</li>
+<li>Vision insurance</li>
+<li>Retirement plan</li>
+<li>Paid time off</li>
+</ul>
+</div>

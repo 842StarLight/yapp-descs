@@ -1,0 +1,75 @@
+<h2>Lead Technical DBA - Oracle</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText"><div>
+<p><b>Description</b><br>
+</p>
+<div>
+<br>
+At Exelon, we've got a place for you!<br>
+<br>
+Join the nation's leading competitive energy provider, with one of the largest electricity generation portfolios and retail customer bases in the country. You will be part of a family of companies that strives for the highest standards of power generation, competitive energy sales, and energy delivery. Our team of outstanding professionals is focused on performance, thought leadership, innovation, and the power of ideas that come from a diverse and inclusive workforce.
+<br>
+<br>
+Exelon will provide you the tools and resources you need to design, build and enhance a successful career. We are also dedicated to motivating the success of our employees through competitive base salary, incentives, and health and retirement benefits.
+<br>
+<br>
+Join Exelon and share your passion at a forward-thinking Fortune 100 company. Establish yourself in a place where you can truly shine and create a brighter, more sustainable tomorrow. Energize your career at Exelon!<br>
+<br>
+PRIMARY PURPOSE OF POSITION
+<br>
+Provide deep technical expertise to support delivery and maintenance of IT solutions. Provide IT teams and business personnel with technology solutions by weighing advantages of technology standards, market availability of products, and risks and benefits of technology to meet business/IT needs. Maintain significant customer engagement, work planning, project management services provided to IT customers.<br>
+<br>
+PRIMARY DUTIES AND ACCOUNTABILITIES<br>
+<ul>
+<li>Undertakes complex database projects requiring specialized technical knowledge. Makes well-thought-out decisions on complex or ambiguous database issues. Comprehends the big picture.</li>
+<li>Provide technical database expertise and/or solution delivery support for maintaining performance and reliability of database solutions.</li>
+<li>Maintain and enhance engagement with business and IT partners to determine requirements in support of service levels and project commitments. Establishes partner relationships with clients, internal and external. Visible and accessible to clients.</li>
+<li>Build and maintains knowledge of new technologies or technology opportunities and assists in development of analysis for business and/or IT clients.</li>
+<li>Participate in relevant IT Architecture Domain Groups to appropriately review and plan the introduction of new database technologies. Ensures appropriate implementation of technology both within the production and the development environments. Establishes and communicates common technical goals/direction for team.</li>
+<li>Provide performance evaluations, career development feedback, and recognition. Acts as a source of direction, training and guidance for less experienced staff. Approachable and leads by example.</li>
+<li>Finds ways over, around and through barriers to success. Self-starter. A results-oriented doer.</li>
+</ul>
+<br>
+POSITION SPECIFICATIONS<br>
+Minimum:
+<br>
+</div>
+<ul>
+<li>Bachelor’s degree in Computer Science or related discipline and typically 5 to 8 years hands-on experience with Oracle RDBMS or equivalent combination of education and work experience.</li>
+<li>Broad technical expertise with deep technical knowledge in Oracle RDBMS 11.2 and 12c.</li>
+<li>Expert level knowledge: General RDBMS, Database tuning, SQL tuning, Database Statistics, Database upgrades,</li>
+<li>Solid working level knowledge: RAC, RMAN, working in a Unix shell, Oracle Enterprise Manager, Oracle database compliance framework, vi editor</li>
+<li>Comfortable working with Oracle Databases on Unix (Solaris) and RedHat Linux</li>
+</ul>
+- Excellent communications skills - Able to effectively communicate highly technical information in non-technical terminology (written and verbal).<br>
+<ul>
+<li>Understanding of change management principles associated with new technology implementations.</li>
+<li>Demonstrated leadership ability</li>
+<li>Understands and applies project management principles when leading and directing work</li>
+<li>Maintains deep knowledge of database technology and its application across Exelon</li>
+<li>Promotes knowledge via seminars, presentations and publications within IT and Exelon</li>
+<li>Participates in technological innovation to drive new business opportunities and solve complex business problems</li>
+<li>Independence level: works under minimal supervision.</li>
+</ul>
+<div>
+<br>
+<br>
+Preferred:<br>
+<ul>
+<li>Recent Oracle Certified Professional certification</li>
+<li>Exadata experience</li>
+<li>Experience with Oracle database in Oracle Cloud or Azure</li>
+<li>kornshell scripting</li>
+<li>Multi-tenancy database architecture (CDB &amp; PDB)</li>
+</ul>
+</div>
+<p><b>
+Qualifications</b><br>
+</p>
+<br>
+<br>
+<br>
+Exelon is proud to be an equal opportunity employer and employees or applicants will receive consideration for employment without regard to: age, color, disability, gender, national origin, race, religion, sexual orientation, gender identity, protected veteran status, or any other classification protected by federal, state, or local law.<br>
+<br>
+VEVRAA Federal Contractor<br>
+<br>
+EEO is the Law Poster</div></div>

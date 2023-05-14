@@ -1,0 +1,38 @@
+<h2>OLAP Specialist</h2> 
+ <div id="jobDescriptionText" class="jobsearch-jobDescriptionText">
+<div>An OLAP Specialist is an expert in multi-dimensional modeling and analytical application design. The specialist is responsible for leading the development of enterprise-wide systems, which may include the development of dimensional models, logistics planning, and end-user analysis design.
+<p><b>Responsibilities</b></p>
+<ul>
+<li>Gather functional requirements for analytical applications and translate to technical specifications.
+</li>
+<li>Act as a liaison between the business community and the Data Warehouse team.
+</li>
+<li>Design OLAP cubes with tools such as Hyperion Essbase, DB2 OLAP, Microsoft SQL Server Analysis Services, or Cognos Powerplay.
+</li>
+<li>Incorporate sophisticated calculations using MDX, MDL, or Calc Scripts
+</li>
+<li>Recommend and implement appropriate partitioning, processing, storage, and security methods.
+</li>
+</ul>
+<p><b>Required Experience</b>
+</p>
+<ul>
+<li>A Bachelors Degree is the minimum education needed, preferably in Computer Science or Management Information Systems. MBA or CPA preferred.
+</li>
+<li>Candidates should be proficient in OLAP development with at least 2 years of consistent experience using Hyperion Essbase, DB2 OLAP, Microsoft SQL Server Analysis Services, or Cognos Powerplay.
+</li>
+<li>Solid business skills in areas such as financial, demand, and capacity planning, or sales and marketing analysis, are important.
+</li>
+<li>A minimum of 2 years experience in data processing or business programming as a professional in one of the following areas is preferred: Banking, Energy, Insurance, Finance, Human Resources, or Manufacturing.
+</li>
+<li>Familiarity with AlphaBlox, Arcplan, Brio, Business Objects, Hyperion Analyzer, or ProClarity is a plus.
+</li>
+<li>A candidate must have good communication skills, both oral and written.
+</li>
+<li>A good understanding of basic Data Warehouse methodology is essential.
+</li>
+<li>An ability to travel weekly to client sites is expected.</li>
+</ul>
+</div>
+<p></p>
+</div>
